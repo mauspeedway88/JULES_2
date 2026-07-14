@@ -1,0 +1,3411 @@
+[
+  {
+    "intent_id": "concepto_paises_unidos",
+    "keywords": [
+      "pais",
+      "frontera",
+      "unidos",
+      "geografia",
+      "cultura"
+    ],
+    "base_response": "Los Estados Unidos es un país diverso donde los estados tienen fronteras definidas. Cada estado presenta características culturales y geográficas únicas, que enriquecen la identidad nacional y permiten un estudio amplio de la geografía política del país."
+  },
+  {
+    "intent_id": "concepto_fronteras_naturales",
+    "keywords": [
+      "frontera",
+      "natural",
+      "montana",
+      "rio",
+      "pais"
+    ],
+    "base_response": "Las fronteras naturales, como montañas y ríos, a menudo delimitan países. Estas formaciones geográficas pueden influir en la historia, la cultura y la economía de las naciones, creando barreras físicas que afectan el desarrollo humano y social."
+  },
+  {
+    "intent_id": "concepto_fronteras_artificiales",
+    "keywords": [
+      "frontera",
+      "artificial",
+      "pais",
+      "politica",
+      "historia"
+    ],
+    "base_response": "Las fronteras artificiales son aquellas establecidas por acuerdos políticos y no por características naturales. Estas pueden causar tensiones y conflictos entre países, ya que a menudo no consideran la diversidad étnica y cultural de las poblaciones."
+  },
+  {
+    "intent_id": "concepto_division_politica",
+    "keywords": [
+      "division",
+      "politica",
+      "pais",
+      "regiones",
+      "gobierno"
+    ],
+    "base_response": "La división política de un país se refiere a la organización de su territorio en regiones, estados o provincias. Cada una puede tener su propio gobierno y leyes, pero todas deben respetar la constitución nacional y trabajar en conjunto por el bienestar común."
+  },
+  {
+    "intent_id": "concepto_pais_insular",
+    "keywords": [
+      "pais",
+      "insular",
+      "mar",
+      "geografia",
+      "ecosistema"
+    ],
+    "base_response": "Los países insulares son aquellos rodeados por agua, como Japón o Nueva Zelanda. Su geografía particular crea ecosistemas únicos y una cultura distintiva, influenciada por el mar y la necesidad de explorar y comerciar con otras naciones."
+  },
+  {
+    "intent_id": "concepto_fronteras_y_identidad",
+    "keywords": [
+      "frontera",
+      "identidad",
+      "cultura",
+      "nacionalidad",
+      "pueblo"
+    ],
+    "base_response": "Las fronteras no solo definen territorios, también influyen en la identidad cultural de un pueblo. La nacionalidad y el sentido de pertenencia se construyen a través de la historia compartida y los valores que cada país promueve entre sus ciudadanos."
+  },
+  {
+    "intent_id": "concepto_fronteras_y_conflictos",
+    "keywords": [
+      "frontera",
+      "conflicto",
+      "pais",
+      "historia",
+      "tension"
+    ],
+    "base_response": "Las fronteras pueden ser fuentes de conflicto entre países, especialmente cuando hay disputas sobre su delimitación. La historia de muchas naciones está marcada por guerras y negociaciones para resolver tensiones relacionadas con estas líneas divisorias."
+  },
+  {
+    "intent_id": "concepto_paises_multiculturales",
+    "keywords": [
+      "pais",
+      "multicultural",
+      "diversidad",
+      "sociedad",
+      "cultura"
+    ],
+    "base_response": "Los países multiculturales albergan diversas etnias y culturas dentro de sus fronteras. Esta diversidad enriquece la sociedad y fomenta un intercambio cultural dinámico, pero también puede presentar desafíos en términos de integración y cohesión social."
+  },
+  {
+    "intent_id": "concepto_fronteras_y_comercio",
+    "keywords": [
+      "frontera",
+      "comercio",
+      "pais",
+      "economia",
+      "intercambio"
+    ],
+    "base_response": "Las fronteras son cruciales para el comercio internacional, ya que regulan el intercambio de bienes y servicios entre países. Acuerdos comerciales y tratados buscan facilitar este comercio, promoviendo la economía y fortaleciendo relaciones diplomáticas entre naciones."
+  },
+  {
+    "intent_id": "capitales_de_america",
+    "keywords": [
+      "capital",
+      "pais",
+      "geografia",
+      "cultura",
+      "historia"
+    ],
+    "base_response": "Las capitales de América son ciudades que representan a sus países. Cada capital tiene una historia y cultura únicas. Por ejemplo, Buenos Aires es conocida por su tango y Washington D.C. por ser el centro del poder político estadounidense."
+  },
+  {
+    "intent_id": "capitales_de_europa",
+    "keywords": [
+      "europa",
+      "capital",
+      "naciones",
+      "arquitectura",
+      "arte"
+    ],
+    "base_response": "En Europa, las capitales son famosas por su arquitectura y arte. París, por ejemplo, es famosa por la Torre Eiffel, mientras que Roma destaca por sus ruinas antiguas. Cada capital refleja la identidad de su nación a través de sus monumentos."
+  },
+  {
+    "intent_id": "capitales_y_paises",
+    "keywords": [
+      "capital",
+      "nombre",
+      "poblacion",
+      "paises",
+      "datos"
+    ],
+    "base_response": "Cada capital de América y Europa tiene datos interesantes. Por ejemplo, Caracas es la capital de Venezuela y tiene una población de más de dos millones de habitantes. Conocer estos datos ayuda a entender la diversidad de las naciones."
+  },
+  {
+    "intent_id": "capitales_y_geografia",
+    "keywords": [
+      "geografia",
+      "capital",
+      "mapa",
+      "ubicacion",
+      "region"
+    ],
+    "base_response": "La ubicación de las capitales en un mapa es crucial para entender la geografía de un país. Por ejemplo, La Paz, la sede del gobierno de Bolivia, está situada en una región montañosa, mientras que Buenos Aires está en la costa del Río de la Plata."
+  },
+  {
+    "intent_id": "capitales_historia",
+    "keywords": [
+      "historia",
+      "capital",
+      "cambio",
+      "conflicto",
+      "gobierno"
+    ],
+    "base_response": "Las capitales han cambiado a lo largo de la historia debido a conflictos y decisiones políticas. Por ejemplo, Berlín fue dividida durante la Guerra Fría, lo que afectó su papel como capital de Alemania y su desarrollo cultural y económico."
+  },
+  {
+    "intent_id": "capitales_y_cultura",
+    "keywords": [
+      "cultura",
+      "tradicion",
+      "fiestas",
+      "capital",
+      "gastronomia"
+    ],
+    "base_response": "Las capitales son centros culturales donde se celebran tradiciones y festividades. En México City, por ejemplo, se celebra el Día de Muertos con coloridas ofrendas y desfiles. Estas expresiones culturales enriquecen la identidad de cada nación."
+  },
+  {
+    "intent_id": "capitales_y_economia",
+    "keywords": [
+      "economia",
+      "capital",
+      "comercio",
+      "industria",
+      "empleo"
+    ],
+    "base_response": "Las capitales también son importantes centros económicos. Por ejemplo, Londres es un hub financiero global, mientras que Buenos Aires es un centro comercial en América del Sur. La economía de una capital influye en el bienestar de sus habitantes."
+  },
+  {
+    "intent_id": "capitales_de_paises_especiales",
+    "keywords": [
+      "capital",
+      "paises",
+      "especiales",
+      "caracteristicas",
+      "diferencias"
+    ],
+    "base_response": "Algunas capitales tienen características especiales. Por ejemplo, Nicosia es la única capital dividida de Europa, mientras que Asunción es una de las capitales más antiguas de Sudamérica. Estas diferencias hacen que cada capital sea única."
+  },
+  {
+    "intent_id": "capitales_y_politica",
+    "keywords": [
+      "politica",
+      "capital",
+      "gobierno",
+      "leyes",
+      "sistema"
+    ],
+    "base_response": "Las capitales son el corazón político de un país, donde se toman decisiones importantes. En Washington D.C., se encuentran el Capitolio y la Casa Blanca, lugares clave en la política estadounidense. La política de cada nación se refleja en su capital."
+  },
+  {
+    "intent_id": "capitales_y_clima",
+    "keywords": [
+      "clima",
+      "capital",
+      "temperatura",
+      "estaciones",
+      "medioambiente"
+    ],
+    "base_response": "El clima de una capital influye en la vida diaria de sus habitantes. Por ejemplo, Oslo tiene inviernos fríos y veranos suaves, mientras que Ciudad de México disfruta de un clima templado. El clima afecta actividades y tradiciones locales en cada capital."
+  },
+  {
+    "intent_id": "capitales_de_asia",
+    "keywords": [
+      "asia",
+      "capital",
+      "ciudad",
+      "gobierno",
+      "poblacion"
+    ],
+    "base_response": "Las capitales de Asia son fundamentales para entender la política y cultura de cada país. Por ejemplo, Tokio es la capital de Japón, un centro tecnológico y cultural, mientras que Nueva Delhi es la capital de India, un país con rica diversidad."
+  },
+  {
+    "intent_id": "capitales_de_africa",
+    "keywords": [
+      "africa",
+      "capital",
+      "pais",
+      "cultura",
+      "historia"
+    ],
+    "base_response": "África alberga muchas capitales importantes. Por ejemplo, Nairobi es la capital de Kenia y un importante centro de negocios. También, El Cairo, la capital de Egipto, es rica en historia y cultura, hogar de antiguas civilizaciones."
+  },
+  {
+    "intent_id": "capitales_de_oceania",
+    "keywords": [
+      "oceania",
+      "capital",
+      "isla",
+      "gobierno",
+      "cultura"
+    ],
+    "base_response": "En Oceanía, las capitales son diversas y únicas. Canberra es la capital de Australia, diseñada para ser un centro administrativo. Su cultura aborigen es rica y se refleja en las tradiciones de las islas del Pacífico."
+  },
+  {
+    "intent_id": "ciudades_importantes_asia",
+    "keywords": [
+      "asia",
+      "ciudad",
+      "economia",
+      "cultura",
+      "historia"
+    ],
+    "base_response": "Las principales ciudades de Asia, como Beijing y Seúl, son cruciales para la economía global. Estas ciudades no solo son capitales, sino también centros culturales que ofrecen una visión de la historia y tradiciones de sus países."
+  },
+  {
+    "intent_id": "ciudades_importantes_oceania",
+    "keywords": [
+      "oceania",
+      "ciudad",
+      "economia",
+      "cultura",
+      "isla"
+    ],
+    "base_response": "En Oceanía, ciudades como Wellington y Suva son claves para la economía y cultura regional. Wellington, como capital de Nueva Zelanda, es conocida por su vibrante escena artística y Suva por su diversidad cultural en las islas del Pacífico."
+  },
+  {
+    "intent_id": "geografia_asia",
+    "keywords": [
+      "asia",
+      "geografia",
+      "capital",
+      "poblacion",
+      "cultura"
+    ],
+    "base_response": "La geografía de Asia es variada, con vastas montañas y ríos. Las capitales, como Bangkok y Manila, son núcleos urbanos que reflejan la rica diversidad cultural y la gran población que caracteriza a este continente."
+  },
+  {
+    "intent_id": "definicion_geografia_politica",
+    "keywords": [
+      "geografia",
+      "politica",
+      "estudio",
+      "poder",
+      "territorio"
+    ],
+    "base_response": "La geografía política es el estudio de cómo se organiza el poder en el espacio. Analiza la distribución de los estados, sus fronteras y cómo influyen en la vida de las personas y en las relaciones internacionales."
+  },
+  {
+    "intent_id": "soberania_y_autodeterminacion",
+    "keywords": [
+      "soberania",
+      "autodeterminacion",
+      "nacionalidad",
+      "derechos",
+      "pueblo"
+    ],
+    "base_response": "La soberanía es el derecho de un estado a gobernarse a sí mismo. La autodeterminación permite a los pueblos elegir su propio destino y forma de gobierno, lo cual es fundamental para el respeto de los derechos humanos."
+  },
+  {
+    "intent_id": "geografia_economica",
+    "keywords": [
+      "geografia",
+      "economica",
+      "recursos",
+      "comercio",
+      "influencia"
+    ],
+    "base_response": "La geografía económica estudia cómo los recursos naturales y la ubicación afectan el comercio y la economía de un país. Esto influye en las decisiones políticas y en la distribución del poder en el ámbito internacional."
+  },
+  {
+    "intent_id": "geografia_urbana",
+    "keywords": [
+      "geografia",
+      "urbana",
+      "ciudades",
+      "desarrollo",
+      "politica"
+    ],
+    "base_response": "La geografía urbana se enfoca en el estudio de las ciudades y su desarrollo. Examina cómo la política influye en la planificación urbana, el crecimiento de las ciudades y la calidad de vida de sus habitantes."
+  },
+  {
+    "intent_id": "cambio_climatico_y_politica",
+    "keywords": [
+      "cambio",
+      "climatico",
+      "politica",
+      "medioambiente",
+      "retos"
+    ],
+    "base_response": "El cambio climático plantea importantes retos a la geografía política. Los gobiernos deben tomar decisiones políticas para mitigar sus efectos, lo que afecta la cooperación internacional y la gestión de recursos naturales en diversas regiones."
+  },
+  {
+    "intent_id": "geopolitica",
+    "keywords": [
+      "geopolitica",
+      "poder",
+      "estrategia",
+      "relaciones",
+      "naciones"
+    ],
+    "base_response": "La geopolitica estudia cómo la ubicación geográfica de un país afecta su poder y estrategia en el mundo. Analiza las relaciones entre naciones y cómo estas influyen en la política global, la economía y la seguridad internacional."
+  },
+  {
+    "intent_id": "concepto_estados_soberanos_1",
+    "keywords": [
+      "estado",
+      "soberano",
+      "poder",
+      "gobierno",
+      "territorio"
+    ],
+    "base_response": "Un estado soberano es una entidad política con un gobierno que ejerce control sobre un territorio definido y su población. Tiene la capacidad de tomar decisiones sin estar sujeto a la autoridad de otro estado. Esto lo distingue de otras organizaciones."
+  },
+  {
+    "intent_id": "concepto_naciones_2",
+    "keywords": [
+      "nacion",
+      "cultura",
+      "identidad",
+      "pueblo",
+      "tradiciones"
+    ],
+    "base_response": "Una nación se define por la identidad cultural y las tradiciones de un grupo de personas. Aunque no siempre coincide con un estado soberano, las naciones pueden reclamar un territorio y buscar reconocimiento político y autonomía."
+  },
+  {
+    "intent_id": "concepto_diferencias_3",
+    "keywords": [
+      "estado",
+      "nacion",
+      "diferencias",
+      "definiciones",
+      "ejemplos"
+    ],
+    "base_response": "Las diferencias entre un estado y una nación son importantes. Un estado tiene soberanía y gobierno, mientras que una nación se centra en la identidad cultural. Por ejemplo, Escocia es una nación dentro del estado del Reino Unido."
+  },
+  {
+    "intent_id": "concepto_autodeterminacion_4",
+    "keywords": [
+      "autodeterminacion",
+      "naciones",
+      "derecho",
+      "pueblo",
+      "decisiones"
+    ],
+    "base_response": "El derecho a la autodeterminación permite a las naciones decidir su futuro político y económico. Este principio sostiene que los pueblos deben tener la capacidad de elegir su propio gobierno y desarrollo, respetando su cultura y tradiciones."
+  },
+  {
+    "intent_id": "concepto_nacionalismo_5",
+    "keywords": [
+      "nacionalismo",
+      "movimiento",
+      "identidad",
+      "cultura",
+      "pueblo"
+    ],
+    "base_response": "El nacionalismo es un movimiento político que promueve la identidad y los intereses de una nación. Fomenta la unidad entre las personas de una misma cultura y puede llevar a la búsqueda de independencia o a la defensa de la soberanía."
+  },
+  {
+    "intent_id": "concepto_soberania_6",
+    "keywords": [
+      "soberania",
+      "control",
+      "poder",
+      "gobierno",
+      "decisiones"
+    ],
+    "base_response": "La soberanía es el poder supremo que tiene un estado para gobernarse a sí mismo. Implica la autoridad para tomar decisiones internas y externas sin interferencias externas, siendo un principio fundamental en las relaciones internacionales."
+  },
+  {
+    "intent_id": "concepto_internacional_10",
+    "keywords": [
+      "relaciones",
+      "internacionales",
+      "cooperacion",
+      "naciones",
+      "soberania"
+    ],
+    "base_response": "Las relaciones internacionales son interacciones entre estados soberanos que buscan cooperar en diversos aspectos, como comercio, medio ambiente y seguridad. Estas relaciones son clave para mantener la paz y el desarrollo global, respetando la soberanía de cada nación."
+  },
+  {
+    "intent_id": "tipos_de_fronteras_naturales",
+    "keywords": [
+      "frontera",
+      "naturaleza",
+      "rio",
+      "montana",
+      "mar"
+    ],
+    "base_response": "Las fronteras naturales son límites geográficos que se forman por elementos como ríos, montañas o mares. Estas fronteras son difíciles de modificar y a menudo determinan la cultura y la vida de las personas que habitan en sus cercanías."
+  },
+  {
+    "intent_id": "fronteras_dinamicas_y_estaticas",
+    "keywords": [
+      "frontera",
+      "dinamica",
+      "cambio",
+      "historia",
+      "nacion"
+    ],
+    "base_response": "Las fronteras pueden ser dinámicas, cambiando con el tiempo debido a guerras o tratados, o estáticas, permaneciendo inalteradas por largos periodos. Comprender estas diferencias es esencial para estudiar la Geografía Política y la historia de los países."
+  },
+  {
+    "intent_id": "fronteras_culturales_y_políticas",
+    "keywords": [
+      "frontera",
+      "cultura",
+      "politica",
+      "nacion",
+      "identidad"
+    ],
+    "base_response": "Las fronteras culturales a menudo no coinciden con las políticas. Esto significa que un grupo cultural puede estar dividido entre diferentes países, afectando su identidad. Estudiar estas fronteras ayuda a entender la diversidad cultural en el mundo."
+  },
+  {
+    "intent_id": "fronteras_de_seguridad_y_control",
+    "keywords": [
+      "frontera",
+      "seguridad",
+      "control",
+      "migracion",
+      "politica"
+    ],
+    "base_response": "Algunas fronteras son diseñadas para controlar la seguridad y la migración. Estos límites pueden incluir muros y patrullas. El estudio de estas fronteras revela cómo los países gestionan sus relaciones exteriores y la seguridad nacional."
+  },
+  {
+    "intent_id": "fronteras_y_recursos_naturales",
+    "keywords": [
+      "frontera",
+      "recurso",
+      "natural",
+      "disputa",
+      "pais"
+    ],
+    "base_response": "Las fronteras a menudo delimitan el acceso a recursos naturales, como agua o minerales. Esto puede generar disputas entre países. Analizar cómo se gestionan estos recursos ayuda a comprender las tensiones políticas en ciertas regiones del mundo."
+  },
+  {
+    "intent_id": "fronteras_en_el_mundo_actual",
+    "keywords": [
+      "frontera",
+      "globalizacion",
+      "cambio",
+      "comunicacion",
+      "tecnologia"
+    ],
+    "base_response": "En el mundo actual, la globalización y la tecnología han desdibujado algunas fronteras. Las personas se comunican y comercian fácilmente, lo que plantea preguntas sobre la relevancia de las fronteras tradicionales en un mundo interconectado."
+  },
+  {
+    "intent_id": "fronteras_y_conflictos_historicos",
+    "keywords": [
+      "frontera",
+      "conflicto",
+      "historia",
+      "guerra",
+      "nacion"
+    ],
+    "base_response": "A lo largo de la historia, muchas fronteras han sido motivo de conflictos y guerras. Estudiar estos eventos ayuda a entender cómo las fronteras influyen en las relaciones internacionales y la estabilidad política entre naciones."
+  },
+  {
+    "intent_id": "fronteras_y_cambio_climatico",
+    "keywords": [
+      "frontera",
+      "cambio",
+      "climatico",
+      "impacto",
+      "naturaleza"
+    ],
+    "base_response": "El cambio climático puede afectar las fronteras naturales, como el derretimiento de glaciares o la subida del nivel del mar. Esto puede provocar reubicaciones de poblaciones y conflictos por recursos, haciendo que el estudio de las fronteras sea cada vez más relevante."
+  },
+  {
+    "intent_id": "fronteras_y_derechos_humanos",
+    "keywords": [
+      "frontera",
+      "derechos",
+      "humano",
+      "inmigrante",
+      "nacion"
+    ],
+    "base_response": "Las fronteras también están relacionadas con los derechos humanos, especialmente en el contexto de la inmigración. Las personas que cruzan fronteras en busca de una vida mejor a menudo enfrentan desafíos legales y sociales que deben ser comprendidos y respetados."
+  },
+  {
+    "intent_id": "poblacion_mundial",
+    "keywords": [
+      "poblacion",
+      "mundo",
+      "crecimiento",
+      "factor",
+      "desarrollo"
+    ],
+    "base_response": "La población mundial se refiere al número total de personas que habitan en el planeta. Su crecimiento es influenciado por factores como la tasa de natalidad, la mortalidad y la migración, afectando el desarrollo social y económico de los países."
+  },
+  {
+    "intent_id": "densidad_demografica",
+    "keywords": [
+      "densidad",
+      "poblacion",
+      "espacio",
+      "region",
+      "medida"
+    ],
+    "base_response": "La densidad demográfica es una medida que relaciona la población de una región con su superficie. Se calcula dividiendo el número de habitantes por el área. Este concepto ayuda a entender la distribución de personas en diferentes lugares."
+  },
+  {
+    "intent_id": "distribucion_poblacional",
+    "keywords": [
+      "distribucion",
+      "poblacion",
+      "region",
+      "factores",
+      "geografia"
+    ],
+    "base_response": "La distribución poblacional describe cómo se dispersa la población en diferentes regiones del mundo. Factores como la geografía, el clima y la economía influyen en dónde viven las personas, afectando la cultura y la política de cada lugar."
+  },
+  {
+    "intent_id": "poblacion_urbana",
+    "keywords": [
+      "poblacion",
+      "urbana",
+      "crecimiento",
+      "ciudad",
+      "factores"
+    ],
+    "base_response": "La población urbana se refiere a la cantidad de personas que viven en ciudades. Su crecimiento está impulsado por la migración rural-urbana, donde las personas se trasladan a las ciudades en busca de mejores oportunidades económicas y de vida."
+  },
+  {
+    "intent_id": "poblacion_rural",
+    "keywords": [
+      "poblacion",
+      "rural",
+      "campo",
+      "actividad",
+      "economia"
+    ],
+    "base_response": "La población rural consiste en personas que viven en áreas no urbanas, como aldeas y campos. Generalmente, su economía se basa en la agricultura y actividades relacionadas. La vida rural ofrece un estilo de vida diferente al de las ciudades."
+  },
+  {
+    "intent_id": "crecimiento_exponencial",
+    "keywords": [
+      "crecimiento",
+      "exponencial",
+      "poblacion",
+      "recursos",
+      "impacto"
+    ],
+    "base_response": "El crecimiento exponencial de la población ocurre cuando la tasa de aumento se acelera con el tiempo. Este fenómeno puede generar presión sobre los recursos naturales, infraestructura y servicios sociales, planteando desafíos para la sostenibilidad del desarrollo."
+  },
+  {
+    "intent_id": "indice_fertilidad",
+    "keywords": [
+      "indice",
+      "fertilidad",
+      "natalidad",
+      "poblacion",
+      "tasa"
+    ],
+    "base_response": "El índice de fertilidad mide la cantidad de hijos que una mujer tiene en promedio durante su vida. Una alta tasa de natalidad puede contribuir al crecimiento poblacional, mientras que una baja puede indicar desafíos demográficos, como el envejecimiento."
+  },
+  {
+    "intent_id": "migracion_internacional",
+    "keywords": [
+      "migracion",
+      "internacional",
+      "poblacion",
+      "movimiento",
+      "razones"
+    ],
+    "base_response": "La migración internacional es el movimiento de personas de un país a otro. Este fenómeno puede ser motivado por razones económicas, políticas o sociales. La migración afecta la densidad poblacional y la diversidad cultural de las naciones."
+  },
+  {
+    "intent_id": "urbanizacion",
+    "keywords": [
+      "urbanizacion",
+      "poblacion",
+      "ciudades",
+      "proceso",
+      "desarrollo"
+    ],
+    "base_response": "La urbanización es el proceso mediante el cual más personas se trasladan a vivir en ciudades. Este fenómeno transforma la estructura social y económica de un país, presentando tanto oportunidades como desafíos en la planificación urbana y la calidad de vida."
+  },
+  {
+    "intent_id": "poblacion_mundial_2023",
+    "keywords": [
+      "poblacion",
+      "mundial",
+      "2023",
+      "estadisticas",
+      "tendencias"
+    ],
+    "base_response": "En 2023, la población mundial supera los 8 mil millones de personas. Las estadísticas demográficas revelan tendencias significativas, como el aumento en la esperanza de vida y el envejecimiento de la población, que impactarán el futuro de la sociedad global."
+  },
+  {
+    "intent_id": "sistemas_de_gobierno",
+    "keywords": [
+      "gobierno",
+      "sistema",
+      "poder",
+      "ciudadano",
+      "ley"
+    ],
+    "base_response": "Un sistema de gobierno es la forma en que se organiza el poder en un país. Los ciudadanos participan en la toma de decisiones a través de elecciones, y las leyes regulan el comportamiento y derechos de la sociedad."
+  },
+  {
+    "intent_id": "democracia_directa",
+    "keywords": [
+      "democracia",
+      "ciudadano",
+      "decisiones",
+      "voto",
+      "participacion"
+    ],
+    "base_response": "La democracia directa permite a los ciudadanos tomar decisiones políticas directamente, sin intermediarios. Esto se logra a través de referendos y votaciones, donde cada persona tiene voz y voto en asuntos que afectan a su comunidad."
+  },
+  {
+    "intent_id": "monarquia_constitucional",
+    "keywords": [
+      "monarquia",
+      "rey",
+      "constitucion",
+      "poder",
+      "gobierno"
+    ],
+    "base_response": "En una monarquía constitucional, un rey o reina actúa como jefe de estado, pero sus poderes son limitados por una constitución. Esto significa que las decisiones importantes son tomadas por un parlamento electo, combinando tradición y democracia."
+  },
+  {
+    "intent_id": "dictadura",
+    "keywords": [
+      "dictadura",
+      "poder",
+      "control",
+      "libertades",
+      "gobierno"
+    ],
+    "base_response": "Una dictadura es un sistema de gobierno donde una sola persona o grupo controla todo el poder. En este tipo de régimen, las libertades civiles son restringidas y la oposición política puede ser reprimida severamente."
+  },
+  {
+    "intent_id": "gobierno_representativo",
+    "keywords": [
+      "gobierno",
+      "representante",
+      "ciudadano",
+      "eleccion",
+      "parlamento"
+    ],
+    "base_response": "El gobierno representativo se basa en la elección de representantes por parte de los ciudadanos. Estos representantes toman decisiones en nombre de la población, asegurando que las voces de diferentes grupos sean escuchadas en el parlamento."
+  },
+  {
+    "intent_id": "federalismo",
+    "keywords": [
+      "federalismo",
+      "estado",
+      "gobierno",
+      "poder",
+      "regiones"
+    ],
+    "base_response": "El federalismo es un sistema que divide el poder entre un gobierno central y gobiernos regionales. Cada nivel tiene autoridad sobre ciertos asuntos, permitiendo a las regiones gestionar sus propias leyes y políticas, adaptándose a sus necesidades locales."
+  },
+  {
+    "intent_id": "socialismo",
+    "keywords": [
+      "socialismo",
+      "economia",
+      "sociedad",
+      "recursos",
+      "gobierno"
+    ],
+    "base_response": "El socialismo es un sistema en el que el gobierno controla y distribuye los recursos económicos para asegurar la igualdad social. Busca eliminar la pobreza y ofrecer a todos los ciudadanos acceso a servicios básicos como salud y educación."
+  },
+  {
+    "intent_id": "oligarquia",
+    "keywords": [
+      "oligarquia",
+      "grupo",
+      "poder",
+      "gobierno",
+      "decisiones"
+    ],
+    "base_response": "La oligarquía es un sistema de gobierno donde el poder está en manos de un pequeño grupo de personas. Estas pueden ser elites económicas, políticas o militares, y toman decisiones que benefician a su propio interés y no necesariamente al público."
+  },
+  {
+    "intent_id": "teocracia",
+    "keywords": [
+      "teocracia",
+      "religion",
+      "poder",
+      "gobierno",
+      "leyes"
+    ],
+    "base_response": "En una teocracia, la religión y el gobierno están entrelazados. Los líderes religiosos también son líderes políticos, y las leyes del país se basan en principios religiosos, lo que influye fuertemente en la vida diaria de los ciudadanos."
+  },
+  {
+    "intent_id": "anarquismo",
+    "keywords": [
+      "anarquismo",
+      "gobierno",
+      "sociedad",
+      "libertad",
+      "control"
+    ],
+    "base_response": "El anarquismo es un concepto político que aboga por la abolición del gobierno. Se basa en la creencia de que las personas pueden organizarse y vivir en comunidad sin un control autoritario, promoviendo la libertad y la cooperación voluntaria."
+  },
+  {
+    "intent_id": "onu_importancia_internacional",
+    "keywords": [
+      "onu",
+      "promover",
+      "paz",
+      "derechos",
+      "naciones"
+    ],
+    "base_response": "La ONU, Organización de las Naciones Unidas, es crucial para promover la paz y los derechos humanos. Facilita el diálogo entre países, ayuda en crisis humanitarias y establece normas internacionales que fomentan la cooperación global y la solución pacífica de conflictos."
+  },
+  {
+    "intent_id": "ue_integracion_economica",
+    "keywords": [
+      "facilitar",
+      "comercio",
+      "economia",
+      "miembros"
+    ],
+    "base_response": "La Unión Europea (UE) facilita el comercio entre sus miembros al eliminar barreras arancelarias. Esto permite que los países colaboren económicamente, generando crecimiento y estabilidad. Además, promueve la movilidad de personas y la cooperación en diversos ámbitos."
+  },
+  {
+    "intent_id": "nato_seguridad_colectiva",
+    "keywords": [
+      "nato",
+      "defender",
+      "paises",
+      "alianza",
+      "seguridad"
+    ],
+    "base_response": "La OTAN, o NATO en inglés, es una alianza militar que se basa en la seguridad colectiva. Si un miembro es atacado, los otros se comprometen a defenderlo. Esto ayuda a disuadir conflictos y mantener la paz entre sus países miembros."
+  },
+  {
+    "intent_id": "oms_salud_global",
+    "keywords": [
+      "oms",
+      "mejorar",
+      "salud",
+      "poblaciones",
+      "enfermedades"
+    ],
+    "base_response": "La OMS, Organización Mundial de la Salud, trabaja para mejorar la salud de poblaciones en todo el mundo. Combate enfermedades, promueve la vacunación y establece estándares de salud pública, influenciando políticas que protegen el bienestar de las personas."
+  },
+  {
+    "intent_id": "unesco_cultura_educacion",
+    "keywords": [
+      "unesco",
+      "promover",
+      "cultura",
+      "educacion",
+      "patrimonio"
+    ],
+    "base_response": "La UNESCO se dedica a promover la cultura y la educación a nivel global. Protege el patrimonio cultural y fomenta el acceso a la educación de calidad, contribuyendo al desarrollo sostenible y a la paz a través del entendimiento mutuo entre las naciones."
+  },
+  {
+    "intent_id": "fmi_estabilidad_economica",
+    "keywords": [
+      "fmi",
+      "proveer",
+      "ayuda",
+      "economia",
+      "paises"
+    ],
+    "base_response": "El FMI, Fondo Monetario Internacional, provee asistencia económica a países en crisis. Ofrece préstamos y asesoramiento para estabilizar economías, ayudando a los países a manejar problemas financieros y fomentar un crecimiento sostenible a largo plazo."
+  },
+  {
+    "intent_id": "banco_mundial_desarrollo",
+    "keywords": [
+      "bancomundial",
+      "financiar",
+      "proyectos",
+      "desarrollo",
+      "pobres"
+    ],
+    "base_response": "El Banco Mundial financia proyectos de desarrollo en países en desarrollo. Su objetivo es reducir la pobreza mediante inversiones en infraestructura, educación y salud, contribuyendo al progreso económico y mejorando la calidad de vida de las comunidades vulnerables."
+  },
+  {
+    "intent_id": "omc_comercio_global",
+    "keywords": [
+      "omc",
+      "regular",
+      "comercio",
+      "internacional",
+      "normas"
+    ],
+    "base_response": "La OMC, Organización Mundial del Comercio, regula el comercio internacional estableciendo normas y resolviendo disputas entre países. Su función es facilitar un comercio libre y justo, promoviendo el crecimiento económico y la cooperación entre naciones."
+  },
+  {
+    "intent_id": "cicr_asistencia_humanitaria",
+    "keywords": [
+      "cicr",
+      "brindar",
+      "asistencia",
+      "humanitaria",
+      "conflictos"
+    ],
+    "base_response": "El CICR, Comité Internacional de la Cruz Roja, brinda asistencia humanitaria en zonas de conflicto. Su misión es proteger y ayudar a las personas afectadas por guerras, garantizando que se respeten los derechos humanos y se proporcione ayuda a quienes más lo necesitan."
+  },
+  {
+    "intent_id": "pnud_desarrollo_sostenible",
+    "keywords": [
+      "pnud",
+      "promover",
+      "desarrollo",
+      "sostenible",
+      "pobreza"
+    ],
+    "base_response": "El PNUD, Programa de las Naciones Unidas para el Desarrollo, promueve el desarrollo sostenible. Trabaja para erradicar la pobreza y reducir desigualdades, apoyando a países en la implementación de políticas que favorezcan un crecimiento económico inclusivo y respetuoso con el medio ambiente."
+  },
+  {
+    "intent_id": "significado_banderas",
+    "keywords": [
+      "significado",
+      "banderas",
+      "simbolos",
+      "paises",
+      "identidad"
+    ],
+    "base_response": "Las banderas son símbolos que representan a un país. Cada color y figura tiene un significado especial, que refleja la historia, cultura y valores del pueblo. Comprender su significado ayuda a fortalecer la identidad nacional y el respeto hacia otros países."
+  },
+  {
+    "intent_id": "elementos_bandera",
+    "keywords": [
+      "elementos",
+      "bandera",
+      "colores",
+      "simbolos",
+      "diseno"
+    ],
+    "base_response": "Las banderas están compuestas por colores, formas y símbolos. Estos elementos se combinan para transmitir un mensaje. Por ejemplo, el azul puede representar el cielo, mientras que el rojo puede simbolizar la valentía. Cada diseño es único y significativo para su nación."
+  },
+  {
+    "intent_id": "banderas_historia",
+    "keywords": [
+      "banderas",
+      "historia",
+      "cambio",
+      "evolucion",
+      "naciones"
+    ],
+    "base_response": "A lo largo de la historia, las banderas han cambiado su diseño. Esto puede reflejar cambios en el gobierno, guerras o nuevos movimientos sociales. Estudiar estas transformaciones nos ayuda a entender el contexto histórico de cada país y su evolución."
+  },
+  {
+    "intent_id": "simbolos_patrios",
+    "keywords": [
+      "simbolos",
+      "patrios",
+      "bandera",
+      "himno",
+      "escudo"
+    ],
+    "base_response": "Los símbolos patrios incluyen la bandera, el himno nacional y el escudo de armas. Cada uno tiene un papel importante en la representación de un país. Juntos, fomentan el sentido de pertenencia y orgullo entre sus ciudadanos, promoviendo la unidad nacional."
+  },
+  {
+    "intent_id": "bandera_y_cultura",
+    "keywords": [
+      "bandera",
+      "cultura",
+      "tradiciones",
+      "identidad",
+      "nacionalidad"
+    ],
+    "base_response": "La bandera de un país es un reflejo de su cultura y tradiciones. Cada elemento puede estar vinculado a historias, leyendas o eventos significativos. Al conocer su bandera, también aprendemos sobre la identidad y los valores que conforman a su pueblo."
+  },
+  {
+    "intent_id": "banderas_en_el_mundo",
+    "keywords": [
+      "banderas",
+      "mundo",
+      "diversidad",
+      "cultura",
+      "identidad"
+    ],
+    "base_response": "Cada país en el mundo tiene su propia bandera, lo que refleja la diversidad cultural. Al estudiar banderas de diferentes naciones, aprendemos sobre sus historias y tradiciones. Esto nos ayuda a apreciar la riqueza cultural que existe en el planeta."
+  },
+  {
+    "intent_id": "protocolos_bandera",
+    "keywords": [
+      "protocolos",
+      "bandera",
+      "uso",
+      "respeto",
+      "ceremonia"
+    ],
+    "base_response": "Existen protocolos específicos para el uso de la bandera, como su izado y plegado. Estos protocolos son importantes en ceremonias oficiales y eventos patrios. Respetar estos procedimientos muestra honor y reconocimiento hacia los símbolos que representan a la nación."
+  },
+  {
+    "intent_id": "colores_bandera",
+    "keywords": [
+      "colores",
+      "bandera",
+      "significado",
+      "simbolismo",
+      "diferentes"
+    ],
+    "base_response": "Los colores de una bandera suelen tener significados específicos. Por ejemplo, el verde puede simbolizar esperanza, mientras que el amarillo representa riqueza. Cada país elige colores que reflejan su historia y valores, creando una conexión especial con su población."
+  },
+  {
+    "intent_id": "banderas_y_deportes",
+    "keywords": [
+      "banderas",
+      "deportes",
+      "competencia",
+      "orgullo",
+      "nacional"
+    ],
+    "base_response": "En competencias deportivas internacionales, las banderas son un símbolo de orgullo nacional. Los atletas representan a sus países, y ver ondear la bandera en el podio genera un sentido de unidad y celebración entre los ciudadanos de esa nación."
+  },
+  {
+    "intent_id": "banderas_y_nacionalismo",
+    "keywords": [
+      "banderas",
+      "nacionalismo",
+      "identidad",
+      "pueblo",
+      "simbolismo"
+    ],
+    "base_response": "Las banderas también están ligadas al nacionalismo. Representan la lucha y los logros de un pueblo. Al exhibir su bandera, las personas expresan su identidad y unidad, recordando la historia y los valores que los unen como nación."
+  },
+  {
+    "intent_id": "geopolitica_recursos_naturales_1",
+    "keywords": [
+      "geopolitica",
+      "recursos",
+      "naturales",
+      "poder",
+      "naciones"
+    ],
+    "base_response": "La geopolítica estudia cómo el control de los recursos naturales influye en el poder de las naciones. Los países ricos en recursos pueden tener ventajas estratégicas, lo que afecta sus relaciones internacionales y su posición en el mundo."
+  },
+  {
+    "intent_id": "geopolitica_recursos_naturales_2",
+    "keywords": [
+      "conflictos",
+      "territorios",
+      "recursos",
+      "agua",
+      "petroleo"
+    ],
+    "base_response": "Los conflictos por territorios ricos en agua y petróleo son comunes en la geopolítica. La escasez de recursos puede generar tensiones entre países, llevando a disputas sobre quién tiene derechos de acceso y control sobre estos valiosos bienes."
+  },
+  {
+    "intent_id": "geopolitica_recursos_naturales_3",
+    "keywords": [
+      "economia",
+      "recursos",
+      "naturales",
+      "desarrollo",
+      "sostenible"
+    ],
+    "base_response": "La economía de un país suele depender de sus recursos naturales. Un desarrollo sostenible busca equilibrar el uso de estos recursos con la protección del medio ambiente, asegurando que las futuras generaciones también puedan beneficiarse de ellos."
+  },
+  {
+    "intent_id": "geopolitica_recursos_naturales_6",
+    "keywords": [
+      "biodiversidad",
+      "recursos",
+      "naturales",
+      "conservacion",
+      "geopolitica"
+    ],
+    "base_response": "La biodiversidad es un recurso natural crucial. La geopolítica también involucra la conservación de ecosistemas, ya que la pérdida de biodiversidad puede afectar la seguridad alimentaria y la salud de las poblaciones en todo el mundo."
+  },
+  {
+    "intent_id": "geopolitica_recursos_naturales_7",
+    "keywords": [
+      "tecnologia",
+      "recursos",
+      "naturales",
+      "explotacion",
+      "eficiencia"
+    ],
+    "base_response": "La tecnología juega un papel vital en la explotación de recursos naturales. Mejores métodos permiten una extracción más eficiente y responsable, minimizando el impacto ambiental y asegurando que los recursos sean utilizados de manera sostenible."
+  },
+  {
+    "intent_id": "geopolitica_recursos_naturales_8",
+    "keywords": [
+      "soberania",
+      "recursos",
+      "naturales",
+      "control",
+      "naciones"
+    ],
+    "base_response": "La soberanía sobre los recursos naturales es un tema central en la geopolítica. Los países buscan controlar sus recursos para garantizar su independencia económica, pero esto a veces genera tensiones con otras naciones que tienen intereses similares."
+  },
+  {
+    "intent_id": "geopolitica_recursos_naturales_9",
+    "keywords": [
+      "energias",
+      "renovables",
+      "geopolitica",
+      "transicion",
+      "sostenible"
+    ],
+    "base_response": "La transición hacia energías renovables está transformando la geopolítica. Los países que invierten en tecnologías limpias buscan diversificar sus fuentes de energía, lo que puede alterar el equilibrio de poder en la política internacional y aumentar la cooperación."
+  },
+  {
+    "intent_id": "geopolitica_recursos_naturales_10",
+    "keywords": [
+      "cambio",
+      "climatico",
+      "recursos",
+      "naturales",
+      "desafios"
+    ],
+    "base_response": "El cambio climático presenta desafíos significativos para la geopolítica relacionada con los recursos naturales. La competencia por recursos escasos, como el agua, puede intensificarse, llevando a conflictos y requiriendo cooperación internacional para abordar la crisis."
+  },
+  {
+    "intent_id": "conflictos_territoriales_1",
+    "keywords": [
+      "territorio",
+      "pueblo",
+      "guerra",
+      "historia",
+      "frontera"
+    ],
+    "base_response": "Los conflictos territoriales a menudo surgen cuando dos o más pueblos reclaman el mismo territorio. Estos enfrentamientos pueden llevar a guerras prolongadas, cambios en las fronteras y alteraciones en la historia de las naciones involucradas."
+  },
+  {
+    "intent_id": "conflictos_territoriales_2",
+    "keywords": [
+      "nacion",
+      "poder",
+      "recursos",
+      "conflicto",
+      "historia"
+    ],
+    "base_response": "Las naciones a veces entran en conflicto por el control de recursos naturales, como agua o minerales. Estos recursos son vitales para el desarrollo, y su escasez puede intensificar rivalidades históricas y llevar a un conflicto armado."
+  },
+  {
+    "intent_id": "conflictos_territoriales_3",
+    "keywords": [
+      "paz",
+      "negociacion",
+      "territorio",
+      "solucion",
+      "historia"
+    ],
+    "base_response": "A pesar de los conflictos territoriales, la paz se puede lograr mediante la negociación. Las partes involucradas pueden llegar a acuerdos que permitan compartir el territorio o establecer límites claros, evitando la violencia y promoviendo la cooperación."
+  },
+  {
+    "intent_id": "conflictos_territoriales_4",
+    "keywords": [
+      "cultura",
+      "identidad",
+      "territorio",
+      "pueblo",
+      "historia"
+    ],
+    "base_response": "Los conflictos territoriales a menudo están ligados a la identidad cultural de los pueblos. Cuando un grupo siente que su territorio es amenazado, puede luchar para proteger sus tradiciones y su forma de vida, lo que intensifica la disputa."
+  },
+  {
+    "intent_id": "conflictos_territoriales_6",
+    "keywords": [
+      "paz",
+      "tratado",
+      "territorio",
+      "historia",
+      "conflicto"
+    ],
+    "base_response": "Los tratados de paz son cruciales para resolver conflictos territoriales. Estos documentos formales establecen las condiciones para el fin de las hostilidades y pueden incluir la definición de nuevas fronteras y el respeto mutuo entre las naciones."
+  },
+  {
+    "intent_id": "conflictos_territoriales_9",
+    "keywords": [
+      "recursos",
+      "territorio",
+      "conflicto",
+      "nacion",
+      "historia"
+    ],
+    "base_response": "La lucha por el acceso a recursos, como el petróleo o el agua, ha sido una fuente constante de conflictos territoriales. Estas disputas no solo afectan a las naciones en conflicto, sino que también pueden tener repercusiones globales."
+  },
+  {
+    "intent_id": "conflictos_territoriales_10",
+    "keywords": [
+      "territorio",
+      "pueblo",
+      "historia",
+      "identidad",
+      "conflicto"
+    ],
+    "base_response": "La identidad de un pueblo está fuertemente ligada a su territorio. Cuando se produce un conflicto territorial, la lucha no solo es por la tierra, sino también por la preservación de la cultura y la historia de ese pueblo."
+  },
+  {
+    "intent_id": "nuevos_paises_1",
+    "keywords": [
+      "independencia",
+      "proceso",
+      "nacion",
+      "gobierno",
+      "ciudadanos"
+    ],
+    "base_response": "La independencia de una nación se refiere al proceso mediante el cual un territorio se convierte en un país soberano. Este proceso involucra la creación de un nuevo gobierno que represente a sus ciudadanos y establezca leyes y derechos."
+  },
+  {
+    "intent_id": "nuevos_paises_2",
+    "keywords": [
+      "territorio",
+      "poblacion",
+      "cultura",
+      "politica",
+      "autonomia"
+    ],
+    "base_response": "La formación de un nuevo país a menudo requiere un territorio definido y una población que comparta una cultura. Las decisiones políticas son cruciales para lograr la autonomía y establecer un sistema que respete los derechos de todos los habitantes."
+  },
+  {
+    "intent_id": "nuevos_paises_3",
+    "keywords": [
+      "colonizacion",
+      "revolucion",
+      "libertad",
+      "derechos",
+      "nacionalismo"
+    ],
+    "base_response": "A lo largo de la historia, la colonización ha llevado a revoluciones en busca de libertad. El nacionalismo emergente ha sido un motor importante en la lucha por los derechos de las comunidades que desean formar nuevos países."
+  },
+  {
+    "intent_id": "nuevos_paises_4",
+    "keywords": [
+      "conflicto",
+      "negociacion",
+      "acuerdo",
+      "paz",
+      "desarrollo"
+    ],
+    "base_response": "La formación de nuevos países a menudo ocurre tras un conflicto. Las negociaciones son fundamentales para alcanzar un acuerdo que permita la paz. Este proceso es esencial para el desarrollo sostenible y la integración de la nueva nación en el mundo."
+  },
+  {
+    "intent_id": "nuevos_paises_5",
+    "keywords": [
+      "reconocimiento",
+      "comunidad",
+      "internacional",
+      "relaciones",
+      "diplomacia"
+    ],
+    "base_response": "Una vez que se forma un nuevo país, el reconocimiento por parte de la comunidad internacional es crucial. Las relaciones diplomáticas ayudan a establecer la legitimidad del país y a fomentar la cooperación en asuntos económicos y culturales."
+  },
+  {
+    "intent_id": "nuevos_paises_6",
+    "keywords": [
+      "historia",
+      "cambio",
+      "identidad",
+      "liderazgo",
+      "sociedad"
+    ],
+    "base_response": "La historia de un nuevo país está marcada por cambios significativos y la construcción de una identidad nacional. El liderazgo es fundamental para guiar a la sociedad en la creación de un futuro estable y próspero."
+  },
+  {
+    "intent_id": "nuevos_paises_7",
+    "keywords": [
+      "constitucion",
+      "leyes",
+      "gobernanza",
+      "derechos",
+      "ciudadanos"
+    ],
+    "base_response": "La redacción de una constitución es un paso clave en la formación de un nuevo país. Esta establece las leyes y principios de gobernanza, garantizando los derechos de los ciudadanos y promoviendo la justicia y la igualdad."
+  },
+  {
+    "intent_id": "nuevos_paises_8",
+    "keywords": [
+      "economia",
+      "recursos",
+      "sostenibilidad",
+      "desarrollo",
+      "comercio"
+    ],
+    "base_response": "La economía de un nuevo país depende de la gestión de sus recursos. La sostenibilidad es vital para asegurar el desarrollo a largo plazo y fomentar el comercio con otras naciones, lo que contribuye a su estabilidad económica."
+  },
+  {
+    "intent_id": "nuevos_paises_9",
+    "keywords": [
+      "educacion",
+      "cultura",
+      "valores",
+      "narrativa",
+      "sociedad"
+    ],
+    "base_response": "La educación juega un papel fundamental en la formación de un nuevo país. Promover una cultura y valores compartidos ayuda a construir una narrativa nacional que fortalezca la cohesión social y el sentido de pertenencia entre los ciudadanos."
+  },
+  {
+    "intent_id": "nuevos_paises_10",
+    "keywords": [
+      "fronteras",
+      "geografia",
+      "politica",
+      "seguridad",
+      "identidad"
+    ],
+    "base_response": "La delimitación de fronteras es un aspecto esencial en la formación de un nuevo país. La geografía influye en la política y la seguridad, mientras que estas fronteras contribuyen a definir la identidad nacional y la cohesión del territorio."
+  },
+  {
+    "intent_id": "territorios_dependientes_1",
+    "keywords": [
+      "territorio",
+      "dependencia",
+      "gobierno",
+      "recursos",
+      "ciudadanos"
+    ],
+    "base_response": "Los territorios dependientes son áreas que, aunque tienen un cierto grado de autogobierno, están bajo la jurisdicción de otro país. Estos territorios a menudo dependen de su metrópoli para la gestión de recursos y asuntos internacionales."
+  },
+  {
+    "intent_id": "autogobierno_3",
+    "keywords": [
+      "autogobierno",
+      "poder",
+      "ciudadanos",
+      "decisiones",
+      "gobernantes"
+    ],
+    "base_response": "El autogobierno se refiere a la capacidad de un territorio para gobernarse a sí mismo. Los ciudadanos pueden elegir a sus gobernantes y tomar decisiones sobre su propio futuro, aunque aún estén bajo la influencia de otro país."
+  },
+  {
+    "intent_id": "influencia_extranjera_4",
+    "keywords": [
+      "influencia",
+      "extranjera",
+      "gobierno",
+      "dependencia",
+      "politica"
+    ],
+    "base_response": "La influencia extranjera en territorios dependientes puede afectar sus políticas y decisiones. Los gobiernos locales a menudo deben equilibrar las necesidades de su población con las demandas de la nación que ejerce control sobre ellos."
+  },
+  {
+    "intent_id": "derechos_ciudadanos_5",
+    "keywords": [
+      "derechos",
+      "ciudadanos",
+      "dependientes",
+      "justicia",
+      "igualdad"
+    ],
+    "base_response": "Los derechos de los ciudadanos en territorios dependientes pueden ser diferentes a los de los ciudadanos de la nación controladora. Esto puede crear tensiones y debates sobre la igualdad y la justicia en la gobernanza y representación."
+  },
+  {
+    "intent_id": "cambio_politico_10",
+    "keywords": [
+      "cambio",
+      "politico",
+      "territorios",
+      "dependientes",
+      "gobierno"
+    ],
+    "base_response": "El cambio político en territorios dependientes puede ser impulsado por movimientos sociales o demandas de mayor autonomía. Estos cambios pueden transformar la relación con la nación controladora y dar paso a nuevas oportunidades para el autogobierno."
+  },
+  {
+    "intent_id": "continentes_y_distribucion",
+    "keywords": [
+      "continentes",
+      "distribucion",
+      "terreno",
+      "poblacion",
+      "recursos"
+    ],
+    "base_response": "La distribución de los continentes afecta la población y el acceso a recursos. Cada continente tiene características geográficas únicas que influyen en cómo viven las personas, cómo se desarrollan las economías y cómo se utilizan los recursos naturales disponibles."
+  },
+  {
+    "intent_id": "latitud_y_clima",
+    "keywords": [
+      "latitud",
+      "clima",
+      "continentes",
+      "temperatura",
+      "ecosistemas"
+    ],
+    "base_response": "La latitud de un continente determina su clima y temperatura. Por ejemplo, los continentes cercanos al ecuador tienden a ser más cálidos y húmedos, lo que influye en la biodiversidad y los ecosistemas presentes en esas áreas específicas."
+  },
+  {
+    "intent_id": "diversidad_cultural",
+    "keywords": [
+      "cultura",
+      "continentes",
+      "diversidad",
+      "tradiciones",
+      "sociedades"
+    ],
+    "base_response": "Cada continente alberga diversas culturas y tradiciones. Esta diversidad cultural se manifiesta en las lenguas, costumbres y estilos de vida, lo que enriquece la experiencia humana y promueve el entendimiento entre diferentes sociedades alrededor del mundo."
+  },
+  {
+    "intent_id": "montanas_y_valles",
+    "keywords": [
+      "montanas",
+      "valles",
+      "geografia",
+      "continentes",
+      "formaciones"
+    ],
+    "base_response": "Las montañas y valles son características geográficas clave de los continentes. Estas formaciones afectan el clima, la agricultura y la vida silvestre, creando hábitats únicos y condiciones que influyen en la actividad humana y el desarrollo económico."
+  },
+  {
+    "intent_id": "ocenos_y_flujos",
+    "keywords": [
+      "ocenos",
+      "flujos",
+      "corrientes",
+      "continentes",
+      "clima"
+    ],
+    "base_response": "Los océanos y sus corrientes influyen en el clima de los continentes. Las corrientes oceánicas pueden calentar o enfriar áreas costeras, afectando la agricultura y el estilo de vida de las poblaciones que viven cerca de estas zonas."
+  },
+  {
+    "intent_id": "puntos_cardinales",
+    "keywords": [
+      "puntos",
+      "cardinales",
+      "orientacion",
+      "mapas",
+      "continentes"
+    ],
+    "base_response": "Los puntos cardinales son esenciales para la orientación en mapas. Comprender cómo se distribuyen los continentes en relación con el norte, sur, este y oeste ayuda a los estudiantes a navegar y localizar diferentes regiones del mundo con facilidad."
+  },
+  {
+    "intent_id": "recursos_naturales",
+    "keywords": [
+      "recursos",
+      "naturales",
+      "continentes",
+      "explotacion",
+      "economia"
+    ],
+    "base_response": "La distribución de recursos naturales varía entre continentes. Algunos tienen abundantes minerales, mientras que otros son ricos en biodiversidad. Esta diferencia influye en la economía y en cómo los países utilizan estos recursos para su desarrollo."
+  },
+  {
+    "intent_id": "poblacion_y_urbanizacion",
+    "keywords": [
+      "poblacion",
+      "urbanizacion",
+      "continentes",
+      "desarrollo",
+      "ciudades"
+    ],
+    "base_response": "La población y la urbanización están interconectadas en los continentes. A medida que las ciudades crecen, cambian las dinámicas sociales y económicas, lo que genera retos y oportunidades para el desarrollo sostenible y la calidad de vida de sus habitantes."
+  },
+  {
+    "intent_id": "ecosistemas_y_biodiversidad",
+    "keywords": [
+      "ecosistemas",
+      "biodiversidad",
+      "continentes",
+      "conservacion",
+      "especies"
+    ],
+    "base_response": "Los ecosistemas en los continentes albergan una rica biodiversidad. Cada área geográfica presenta especies únicas que deben ser conservadas. La protección de estos ecosistemas es crucial para mantener el equilibrio ambiental y la salud del planeta."
+  },
+  {
+    "intent_id": "migraciones_y_cambio_climatico",
+    "keywords": [
+      "migraciones",
+      "cambio",
+      "climatico",
+      "impacto",
+      "geografico"
+    ],
+    "base_response": "Las migraciones pueden ser impulsadas por cambios climáticos severos, como sequías o inundaciones. Estas situaciones obligan a las personas a abandonar sus hogares en busca de condiciones más favorables, alterando así el equilibrio geográfico y demográfico de las regiones afectadas."
+  },
+  {
+    "intent_id": "migraciones_y_cultura",
+    "keywords": [
+      "migraciones",
+      "cultura",
+      "diversidad",
+      "intercambio",
+      "identidad"
+    ],
+    "base_response": "Las migraciones enriquecen a las sociedades mediante el intercambio cultural. Las personas que se desplazan traen sus tradiciones, costumbres y lenguas, fomentando la diversidad y la tolerancia, lo que a su vez puede transformar la identidad regional y nacional."
+  },
+  {
+    "intent_id": "factores_economicos_migracion",
+    "keywords": [
+      "factores",
+      "economicos",
+      "migracion",
+      "empleo",
+      "oportunidades"
+    ],
+    "base_response": "Los factores económicos son una de las principales razones por las cuales las personas migran. La búsqueda de empleo y mejores oportunidades de vida impulsa a muchos a trasladarse a otras regiones, afectando la economía local y la oferta laboral."
+  },
+  {
+    "intent_id": "migracion_y_asentamientos",
+    "keywords": [
+      "migracion",
+      "asentamientos",
+      "urbanos",
+      "rurales",
+      "cambio"
+    ],
+    "base_response": "La migración provoca la creación y expansión de asentamientos urbanos, donde las personas se agrupan en busca de trabajo. Esto puede llevar a un crecimiento descontrolado de las ciudades, generando desafíos como la falta de infraestructura y servicios básicos."
+  },
+  {
+    "intent_id": "migraciones_y_conflictos",
+    "keywords": [
+      "migraciones",
+      "conflictos",
+      "paz",
+      "estabilidad",
+      "refugiados"
+    ],
+    "base_response": "Los conflictos armados generan flujos masivos de migrantes y refugiados que buscan seguridad y paz. Esto impacta no solo a los países de origen, sino también a las naciones que reciben a estas personas, creando tensiones y desafíos de integración."
+  },
+  {
+    "intent_id": "migraciones_y_politica",
+    "keywords": [
+      "migraciones",
+      "politica",
+      "leyes",
+      "derechos",
+      "ciudadania"
+    ],
+    "base_response": "Las políticas migratorias influyen en cómo se gestionan los flujos de personas. Las leyes que regulan la entrada y salida de migrantes afectan sus derechos y oportunidades, y pueden generar debates sobre ciudadanía y pertenencia en las sociedades receptoras."
+  },
+  {
+    "intent_id": "migracion_y_economia_local",
+    "keywords": [
+      "migracion",
+      "economia",
+      "local",
+      "desarrollo",
+      "recursos"
+    ],
+    "base_response": "La migración puede tener un impacto positivo en la economía local al aportar mano de obra y habilidades. Sin embargo, también puede provocar competencia por recursos limitados, lo que requiere un manejo adecuado para equilibrar beneficios y desafíos."
+  },
+  {
+    "intent_id": "migracion_y_medio_ambiente",
+    "keywords": [
+      "migracion",
+      "medio",
+      "ambiente",
+      "recursos",
+      "sostenibilidad"
+    ],
+    "base_response": "La migración puede afectar el medio ambiente, ya que el aumento de población en ciertas áreas puede llevar a un uso intensivo de recursos naturales. Es crucial considerar prácticas sostenibles para garantizar que las necesidades de los migrantes y locales se satisfagan sin deteriorar el entorno."
+  },
+  {
+    "intent_id": "migraciones_y_salud",
+    "keywords": [
+      "migraciones",
+      "salud",
+      "acceso",
+      "servicios",
+      "poblacion"
+    ],
+    "base_response": "Los migrantes a menudo enfrentan barreras para acceder a servicios de salud. Esto puede aumentar los riesgos de enfermedades y afectar la salud pública en las comunidades receptoras, lo que hace necesario implementar políticas que garanticen atención adecuada a todas las poblaciones."
+  },
+  {
+    "intent_id": "migraciones_y_educacion",
+    "keywords": [
+      "migraciones",
+      "educacion",
+      "acceso",
+      "oportunidades",
+      "integracion"
+    ],
+    "base_response": "La migración influye en el acceso a la educación, ya que los migrantes pueden enfrentar dificultades para integrarse en el sistema educativo. Es fundamental desarrollar programas que apoyen su inclusión, garantizando que todos los niños tengan acceso a oportunidades de aprendizaje."
+  },
+  {
+    "intent_id": "ciudades_globales",
+    "keywords": [
+      "ciudad",
+      "economia",
+      "cultura",
+      "tecnologia",
+      "comunicacion"
+    ],
+    "base_response": "Las ciudades globales son centros neurálgicos donde la economía, la cultura y la tecnología se entrelazan. Su influencia se extiende más allá de las fronteras, convirtiéndolas en nodos clave para la comunicación y el intercambio a nivel mundial."
+  },
+  {
+    "intent_id": "megaciudades",
+    "keywords": [
+      "poblacion",
+      "expansion",
+      "infraestructura",
+      "desafios",
+      "recursos"
+    ],
+    "base_response": "Las megaciudades son urbes con más de diez millones de habitantes. Su rápida expansión presenta desafíos como la gestión de la infraestructura y la distribución de recursos, lo que requiere estrategias innovadoras para asegurar un desarrollo sostenible."
+  },
+  {
+    "intent_id": "crecimiento_urbano",
+    "keywords": [
+      "crecimiento",
+      "urbano",
+      "demografia",
+      "planeacion",
+      "sostenibilidad"
+    ],
+    "base_response": "El crecimiento urbano se relaciona con el aumento de la población en las ciudades. La demografía influye en la planeación, que debe enfocarse en la sostenibilidad para garantizar una buena calidad de vida y el uso responsable de los recursos."
+  },
+  {
+    "intent_id": "impacto_ambiental",
+    "keywords": [
+      "impacto",
+      "ambiental",
+      "contaminacion",
+      "transporte",
+      "soluciones"
+    ],
+    "base_response": "Las megaciudades enfrentan un gran impacto ambiental debido a la contaminación y el transporte masivo. Implementar soluciones sostenibles, como el uso de transporte público eficiente, es vital para mitigar estos efectos y proteger el medio ambiente."
+  },
+  {
+    "intent_id": "economia_local",
+    "keywords": [
+      "economia",
+      "local",
+      "empleo",
+      "comercio",
+      "desarrollo"
+    ],
+    "base_response": "La economía local en ciudades globales se apoya en la creación de empleo y el comercio. Fomentar negocios locales ayuda a fortalecer la economía y a generar un entorno más dinámico y atractivo para sus habitantes."
+  },
+  {
+    "intent_id": "movilidad_urbana",
+    "keywords": [
+      "movilidad",
+      "urbana",
+      "transporte",
+      "accesibilidad",
+      "planificacion"
+    ],
+    "base_response": "La movilidad urbana se refiere a cómo las personas se desplazan dentro de una ciudad. Una buena planificación del transporte y la accesibilidad son esenciales para facilitar el desplazamiento y mejorar la calidad de vida de los ciudadanos."
+  },
+  {
+    "intent_id": "gentrificacion",
+    "keywords": [
+      "gentrificacion",
+      "urbanismo",
+      "cambio",
+      "comunidad",
+      "desplazamiento"
+    ],
+    "base_response": "La gentrificación es un proceso de cambio urbano donde los barrios se transforman y los precios aumentan. Esto puede llevar al desplazamiento de comunidades originales, generando tensiones sociales y la necesidad de políticas que protejan a los residentes."
+  },
+  {
+    "intent_id": "ciudades_inteligentes",
+    "keywords": [
+      "ciudades",
+      "inteligentes",
+      "tecnologia",
+      "innovacion",
+      "calidad"
+    ],
+    "base_response": "Las ciudades inteligentes utilizan tecnología e innovación para mejorar la calidad de vida de sus habitantes. Esto incluye sistemas de gestión de recursos, transporte eficiente y servicios públicos que responden a las necesidades de la población."
+  },
+  {
+    "intent_id": "desigualdad_urbana",
+    "keywords": [
+      "desigualdad",
+      "urbana",
+      "recursos",
+      "acceso",
+      "oportunidades"
+    ],
+    "base_response": "La desigualdad urbana se refiere a la distribución desigual de recursos y oportunidades en las ciudades. Es fundamental abordar esta problemática para garantizar que todos los ciudadanos tengan acceso a servicios básicos y oportunidades de desarrollo."
+  },
+  {
+    "intent_id": "definicion_tratados_internacionales",
+    "keywords": [
+      "tratado",
+      "nacion",
+      "acuerdo",
+      "derecho",
+      "paz"
+    ],
+    "base_response": "Los tratados internacionales son acuerdos formales entre naciones que regulan relaciones y derechos. Estos documentos son fundamentales para mantener la paz y la cooperación, estableciendo normas que las naciones deben seguir en sus interacciones y compromisos mutuos."
+  },
+  {
+    "intent_id": "importancia_limites",
+    "keywords": [
+      "limites",
+      "territorio",
+      "soberania",
+      "conflicto",
+      "paz"
+    ],
+    "base_response": "Los límites territoriales son esenciales para definir la soberanía de un estado. Un límite claro ayuda a evitar conflictos entre naciones, ya que establece dónde termina un país y comienza otro, garantizando el respeto mutuo por el territorio."
+  },
+  {
+    "intent_id": "negociacion_tratados",
+    "keywords": [
+      "negociacion",
+      "proceso",
+      "tratado",
+      "diplomacia",
+      "acuerdo"
+    ],
+    "base_response": "La negociación de tratados internacionales es un proceso complejo que implica a diplomáticos y representantes de naciones. Este proceso busca alcanzar un acuerdo que beneficie a ambas partes, considerando intereses y preocupaciones de cada nación involucrada."
+  },
+  {
+    "intent_id": "ejemplos_tratados_historicos",
+    "keywords": [
+      "ejemplo",
+      "tratado",
+      "historico",
+      "paz",
+      "naciones"
+    ],
+    "base_response": "Ejemplos históricos de tratados internacionales incluyen el Tratado de Versalles y el Tratado de Tordesillas. Estos acuerdos han tenido un impacto duradero en las relaciones internacionales y han ayudado a definir fronteras y resolver conflictos."
+  },
+  {
+    "intent_id": "efectos_litigos_limites",
+    "keywords": [
+      "litigo",
+      "limite",
+      "territorio",
+      "conflicto",
+      "resolucion"
+    ],
+    "base_response": "Los litigios sobre límites territoriales pueden llevar a conflictos entre naciones. Cuando no se resuelven, pueden escalar a disputas más grandes. La resolución pacífica es crucial para evitar guerras y mantener la estabilidad regional e internacional."
+  },
+  {
+    "intent_id": "ratificacion_tratados",
+    "keywords": [
+      "ratificacion",
+      "tratado",
+      "nacion",
+      "proceso",
+      "legalidad"
+    ],
+    "base_response": "La ratificación de un tratado internacional es el proceso mediante el cual un país acepta formalmente el acuerdo. Este proceso suele requerir aprobación del poder legislativo, asegurando que el tratado cumpla con las leyes y políticas del país."
+  },
+  {
+    "intent_id": "organismos_internacionales",
+    "keywords": [
+      "organismo",
+      "internacional",
+      "tratado",
+      "cooperacion",
+      "paz"
+    ],
+    "base_response": "Los organismos internacionales, como las Naciones Unidas, juegan un papel clave en la creación y supervisión de tratados internacionales. Estos organismos facilitan la cooperación entre naciones y ayudan a resolver disputas en el ámbito global."
+  },
+  {
+    "intent_id": "fronteras_y_cultura",
+    "keywords": [
+      "frontera",
+      "cultura",
+      "identidad",
+      "nacion",
+      "diversidad"
+    ],
+    "base_response": "Las fronteras no solo definen límites territoriales, sino que también influyen en la cultura e identidad de las naciones. La diversidad cultural a menudo se ve afectada por estas divisiones, creando un rico mosaico de tradiciones y costumbres en el mundo."
+  },
+  {
+    "intent_id": "derechos_humanos_y_tratados",
+    "keywords": [
+      "derechos",
+      "humanos",
+      "tratado",
+      "internacional",
+      "proteccion"
+    ],
+    "base_response": "Algunos tratados internacionales se centran en la protección de los derechos humanos. Estos acuerdos buscan garantizar que todas las personas sean tratadas con dignidad y respeto, estableciendo normas que los países deben seguir para proteger a sus ciudadanos."
+  },
+  {
+    "intent_id": "divisiones_administrativas",
+    "keywords": [
+      "divisiones",
+      "administrativas",
+      "estados",
+      "provincias",
+      "territorios"
+    ],
+    "base_response": "Las divisiones administrativas son áreas dentro de un país que ayudan a organizar su gobierno. Los estados y provincias son ejemplos que permiten a los ciudadanos tener representación y servicios más cercanos a sus comunidades."
+  },
+  {
+    "intent_id": "funcion_gobierno_local",
+    "keywords": [
+      "funcion",
+      "gobierno",
+      "local",
+      "representantes",
+      "comunidad"
+    ],
+    "base_response": "El gobierno local, que opera en estados y provincias, es responsable de proporcionar servicios esenciales. Los representantes elegidos ayudan a tomar decisiones que afectan directamente a la comunidad y promueven el bienestar social y económico."
+  },
+  {
+    "intent_id": "importancia_divisiones",
+    "keywords": [
+      "importancia",
+      "divisiones",
+      "administrativas",
+      "gestion",
+      "servicios"
+    ],
+    "base_response": "Las divisiones administrativas son importantes porque permiten una gestión más eficiente de los servicios públicos. Facilitan la distribución de recursos y garantizan que las necesidades de la población sean atendidas de manera adecuada y oportuna."
+  },
+  {
+    "intent_id": "poderes_estados_provincias",
+    "keywords": [
+      "poderes",
+      "estados",
+      "provincias",
+      "autonomia",
+      "gobierno"
+    ],
+    "base_response": "Los estados y provincias suelen tener autonomía para legislar en ciertas áreas. Esto significa que pueden crear leyes y políticas que se adapten a sus necesidades, trabajando en conjunto con el gobierno nacional para el desarrollo del país."
+  },
+  {
+    "intent_id": "geografia_divisiones_administrativas",
+    "keywords": [
+      "geografia",
+      "divisiones",
+      "administrativas",
+      "mapas",
+      "territorios"
+    ],
+    "base_response": "La geografía juega un papel crucial en las divisiones administrativas. Los mapas muestran cómo están organizados los estados y provincias, lo que ayuda a entender mejor la distribución de la población y los recursos en un país."
+  },
+  {
+    "intent_id": "cambio_divisiones_administrativas",
+    "keywords": [
+      "cambio",
+      "divisiones",
+      "administrativas",
+      "reformas",
+      "gobierno"
+    ],
+    "base_response": "Las divisiones administrativas pueden cambiar a través de reformas políticas. Estas modificaciones pueden ser necesarias para mejorar la eficiencia del gobierno o para adaptar las estructuras a los cambios demográficos y sociales de la población."
+  },
+  {
+    "intent_id": "participacion_ciudadana",
+    "keywords": [
+      "participacion",
+      "ciudadana",
+      "divisiones",
+      "administrativas",
+      "gobierno"
+    ],
+    "base_response": "La participación ciudadana es fundamental en las divisiones administrativas. A través de elecciones locales, los ciudadanos pueden influir en la toma de decisiones, asegurando que sus voces sean escuchadas en el gobierno de su estado o provincia."
+  },
+  {
+    "intent_id": "geografia_electoral",
+    "keywords": [
+      "geografia",
+      "voto",
+      "ciudadano",
+      "proceso",
+      "democracia"
+    ],
+    "base_response": "La geografía electoral estudia cómo se distribuyen los votos en diferentes áreas. Comprender este proceso es esencial para que los ciudadanos participen activamente en la democracia, ya que cada voto cuenta y puede influir en el resultado de las elecciones."
+  },
+  {
+    "intent_id": "distritos_electorales",
+    "keywords": [
+      "distrito",
+      "elecciones",
+      "representacion",
+      "votacion",
+      "poblacion"
+    ],
+    "base_response": "Los distritos electorales son divisiones geográficas donde los ciudadanos votan. Cada distrito elige a un representante. La correcta delimitación de estos distritos asegura una representación adecuada de la población en el gobierno y en las decisiones políticas."
+  },
+  {
+    "intent_id": "mapas_electorales",
+    "keywords": [
+      "mapa",
+      "electoral",
+      "visualizacion",
+      "informacion",
+      "resultados"
+    ],
+    "base_response": "Los mapas electorales son herramientas visuales que muestran los resultados de las elecciones. Permiten analizar la distribución del voto y entender el comportamiento electoral en distintas regiones, facilitando el estudio de tendencias políticas y sociales."
+  },
+  {
+    "intent_id": "sistemas_electorales",
+    "keywords": [
+      "sistema",
+      "eleccion",
+      "votacion",
+      "proporcional",
+      "mayoria"
+    ],
+    "base_response": "Existen diferentes sistemas electorales, como el de mayoría y el proporcional. Cada sistema influye en cómo se cuentan los votos y se asignan los escaños. Es crucial entender estos sistemas para valorar el impacto en la representación política."
+  },
+  {
+    "intent_id": "redistritacion",
+    "keywords": [
+      "redistritacion",
+      "cambios",
+      "politica",
+      "poblacion",
+      "demografia"
+    ],
+    "base_response": "La redistritación es el proceso de modificar los límites de los distritos electorales. Este cambio puede afectar la representación política, ya que se basa en la demografía y el crecimiento de la población, asegurando que cada voto tenga el mismo peso."
+  },
+  {
+    "intent_id": "voto_en_blanco",
+    "keywords": [
+      "voto",
+      "blanco",
+      "opcion",
+      "elecciones",
+      "protesta"
+    ],
+    "base_response": "El voto en blanco es una opción que los ciudadanos pueden elegir en las elecciones. Representa una forma de protesta o descontento con las opciones disponibles. Comprender esta práctica permite analizar la satisfacción del electorado con el sistema político."
+  },
+  {
+    "intent_id": "turno_electoral",
+    "keywords": [
+      "turno",
+      "electoral",
+      "periodo",
+      "elecciones",
+      "ciudadania"
+    ],
+    "base_response": "El turno electoral se refiere al periodo en el que se llevan a cabo las elecciones. Es un momento clave para la ciudadanía, ya que brinda la oportunidad de elegir a sus representantes y participar en la toma de decisiones que afectan su vida diaria."
+  },
+  {
+    "intent_id": "censo_electoral",
+    "keywords": [
+      "censo",
+      "electoral",
+      "registro",
+      "votantes",
+      "poblacion"
+    ],
+    "base_response": "El censo electoral es un registro de los ciudadanos habilitados para votar. Es vital para asegurar que todos los votantes estén correctamente identificados y puedan ejercer su derecho al voto en las elecciones, garantizando la integridad del proceso."
+  },
+  {
+    "intent_id": "análisis_de_resultados",
+    "keywords": [
+      "analisis",
+      "resultados",
+      "elecciones",
+      "tendencias",
+      "estudio"
+    ],
+    "base_response": "El análisis de resultados electorales permite entender cómo votó la población. Este estudio revela tendencias políticas y preferencias de los ciudadanos, y es esencial para que los partidos y candidatos ajusten sus estrategias para futuras elecciones."
+  },
+  {
+    "intent_id": "ciudadania_y_derechos",
+    "keywords": [
+      "ciudadania",
+      "derechos",
+      "responsabilidades",
+      "comunidad",
+      "participacion"
+    ],
+    "base_response": "La ciudadanía se refiere a la pertenencia a una comunidad. Implica derechos, como votar y recibir educación, y responsabilidades, como respetar leyes y participar en actividades cívicas. Ser ciudadano es esencial para construir sociedades justas y solidarias."
+  },
+  {
+    "intent_id": "ciudadania_y_deberes",
+    "keywords": [
+      "ciudadania",
+      "deberes",
+      "leyes",
+      "respeto",
+      "sociedad"
+    ],
+    "base_response": "Los deberes de un ciudadano incluyen seguir las leyes, respetar a los demás y contribuir al bienestar de la sociedad. Cumplir con estos deberes ayuda a mantener un orden social y fomenta un ambiente de convivencia pacífica y armoniosa."
+  },
+  {
+    "intent_id": "ciudadania_y_identidad",
+    "keywords": [
+      "ciudadania",
+      "identidad",
+      "cultura",
+      "nacionalidad",
+      "valores"
+    ],
+    "base_response": "La ciudadanía está vinculada a la identidad cultural y nacionalidad de una persona. Los valores compartidos, tradiciones y costumbres ayudan a definir la ciudadanía, creando un sentido de pertenencia y unidad dentro de una comunidad diversa."
+  },
+  {
+    "intent_id": "derechos_humanos",
+    "keywords": [
+      "derechos",
+      "humanos",
+      "ciudadania",
+      "igualdad",
+      "libertad"
+    ],
+    "base_response": "Los derechos humanos son fundamentales para la ciudadanía. Estos derechos garantizan la igualdad y libertad de todas las personas, independientemente de su origen. Promover y proteger estos derechos es esencial para una sociedad justa y equitativa."
+  },
+  {
+    "intent_id": "ciudadania_y_educacion",
+    "keywords": [
+      "ciudadania",
+      "educacion",
+      "conciencia",
+      "valores",
+      "participacion"
+    ],
+    "base_response": "La educación juega un papel crucial en la formación de ciudadanos responsables. Fomenta la conciencia sobre derechos y deberes, así como valores como el respeto y la solidaridad, preparando a los jóvenes para participar activamente en su comunidad."
+  },
+  {
+    "intent_id": "ciudadania_global",
+    "keywords": [
+      "ciudadania",
+      "global",
+      "mundo",
+      "responsabilidad",
+      "solidaridad"
+    ],
+    "base_response": "La ciudadanía global se refiere a la responsabilidad de los individuos hacia el mundo. Implica reconocer que nuestras acciones afectan a otros, promoviendo la paz, el respeto y la solidaridad entre diferentes culturas y naciones para un futuro sostenible."
+  },
+  {
+    "intent_id": "ciudadania_y_democracia",
+    "keywords": [
+      "ciudadania",
+      "democracia",
+      "participacion",
+      "voto",
+      "representacion"
+    ],
+    "base_response": "La ciudadanía es un pilar fundamental de la democracia. Los ciudadanos participan en el proceso democrático mediante el voto y otras formas de involucramiento, asegurando que sus voces sean escuchadas y que sus intereses estén representados adecuadamente."
+  },
+  {
+    "intent_id": "ciudadania_y_comunidad",
+    "keywords": [
+      "ciudadania",
+      "comunidad",
+      "contribucion",
+      "relaciones",
+      "apoyo"
+    ],
+    "base_response": "Ser ciudadano implica formar parte de una comunidad y contribuir a su bienestar. Fomentar relaciones positivas y apoyar a los demás fortalece el tejido social y mejora la calidad de vida de todos sus miembros, creando un entorno más solidario."
+  },
+  {
+    "intent_id": "ciudadania_y_justicia",
+    "keywords": [
+      "ciudadania",
+      "justicia",
+      "equidad",
+      "ley",
+      "derechos"
+    ],
+    "base_response": "La justicia es un principio clave de la ciudadanía. Implica garantizar que todos tengan acceso equitativo a los derechos y oportunidades. Promover la justicia es esencial para construir sociedades donde la igualdad y el respeto sean valores fundamentales."
+  },
+  {
+    "intent_id": "soberania_y_derechos_internacionales_1",
+    "keywords": [
+      "soberania",
+      "estado",
+      "poder",
+      "territorio",
+      "poblacion"
+    ],
+    "base_response": "La soberanía es el poder supremo que tiene un estado sobre su territorio y su población. Este concepto implica la autonomía para tomar decisiones sin interferencias externas, lo que es fundamental en las relaciones internacionales y el respeto entre naciones."
+  },
+  {
+    "intent_id": "soberania_y_derechos_internacionales_2",
+    "keywords": [
+      "derecho",
+      "internacional",
+      "nacion",
+      "normas",
+      "relaciones"
+    ],
+    "base_response": "El derecho internacional se compone de normas que regulan las relaciones entre naciones. Estas leyes buscan garantizar la paz y la seguridad, promoviendo el respeto a la soberanía de cada estado y protegiendo los derechos humanos a nivel global."
+  },
+  {
+    "intent_id": "soberania_y_derechos_internacionales_3",
+    "keywords": [
+      "derechos",
+      "humanos",
+      "soberania",
+      "proteccion",
+      "naciones"
+    ],
+    "base_response": "Los derechos humanos son principios que deben ser respetados por todos los estados. Aunque cada nación tiene soberanía, la comunidad internacional exige que se protejan estos derechos, promoviendo la justicia y la dignidad humana en todo el mundo."
+  },
+  {
+    "intent_id": "soberania_y_derechos_internacionales_4",
+    "keywords": [
+      "conflicto",
+      "territorial",
+      "soberania",
+      "solucion",
+      "paz"
+    ],
+    "base_response": "Los conflictos territoriales surgen cuando diferentes naciones reclaman la misma área geográfica. La resolución pacífica de estos conflictos es crucial para mantener la soberanía de los estados y fomentar la cooperación internacional para el desarrollo y la paz."
+  },
+  {
+    "intent_id": "soberania_y_derechos_internacionales_5",
+    "keywords": [
+      "organizacion",
+      "naciones",
+      "unidas",
+      "cooperacion",
+      "paz"
+    ],
+    "base_response": "La Organización de Naciones Unidas (ONU) promueve la cooperación entre países para asegurar la paz y la seguridad. A través de sus programas, fomenta el respeto a la soberanía de cada estado mientras busca soluciones a problemas globales como la pobreza y el cambio climático."
+  },
+  {
+    "intent_id": "soberania_y_derechos_internacionales_6",
+    "keywords": [
+      "tratado",
+      "internacional",
+      "compromiso",
+      "naciones",
+      "soberania"
+    ],
+    "base_response": "Los tratados internacionales son acuerdos entre naciones que regulan aspectos diversos como el comercio, la seguridad y los derechos humanos. Estos compromisos reflejan la soberanía de los estados, ya que son decisiones voluntarias que buscan el bienestar común."
+  },
+  {
+    "intent_id": "soberania_y_derechos_internacionales_7",
+    "keywords": [
+      "territorio",
+      "soberania",
+      "frontera",
+      "nacion",
+      "control"
+    ],
+    "base_response": "El territorio es el espacio físico que un estado controla y donde ejerce su soberanía. Las fronteras definen estos límites y son esenciales para la identidad nacional, ya que representan la autoridad de un país sobre su propio espacio geográfico."
+  },
+  {
+    "intent_id": "soberania_y_derechos_internacionales_8",
+    "keywords": [
+      "derechos",
+      "nacionales",
+      "soberania",
+      "ciudadano",
+      "gobierno"
+    ],
+    "base_response": "Los derechos nacionales son aquellos que un estado otorga a sus ciudadanos, reflejando su soberanía. Estos derechos incluyen la libertad de expresión, la educación y la participación política, y son fundamentales para el desarrollo de una sociedad justa y democrática."
+  },
+  {
+    "intent_id": "soberania_y_derechos_internacionales_9",
+    "keywords": [
+      "intervencion",
+      "extranjera",
+      "soberania",
+      "estado",
+      "autonomia"
+    ],
+    "base_response": "La intervención extranjera puede afectar la soberanía de un estado, ya que implica la influencia de otros países en asuntos internos. La autonomía es clave para que un país mantenga su independencia y capacidad de decidir su propio destino sin presiones externas."
+  },
+  {
+    "intent_id": "soberania_y_derechos_internacionales_10",
+    "keywords": [
+      "globalizacion",
+      "soberania",
+      "cultura",
+      "politica",
+      "economia"
+    ],
+    "base_response": "La globalización ha cambiado las dinámicas de soberanía al interconectar economías y culturas. Aunque esto puede fortalecer la cooperación internacional, también plantea desafíos para la autonomía de los estados, ya que deben equilibrar sus intereses locales con las demandas globales."
+  },
+  {
+    "intent_id": "diplomacia_importancia",
+    "keywords": [
+      "diplomacia",
+      "relaciones",
+      "naciones",
+      "paz",
+      "comunicacion"
+    ],
+    "base_response": "La diplomacia es crucial para establecer relaciones entre naciones. Permite la comunicación efectiva y la resolución pacífica de conflictos, promoviendo la paz y la cooperación. Sin ella, los desacuerdos pueden escalar y provocar tensiones internacionales que afecten a todos."
+  },
+  {
+    "intent_id": "embajadas_funcion",
+    "keywords": [
+      "embajadas",
+      "representacion",
+      "naciones",
+      "intercambio",
+      "dialogo"
+    ],
+    "base_response": "Las embajadas son oficinas que representan a un país en otro. Facilitan el intercambio cultural y económico, y sirven como canales de diálogo. Su función principal es proteger los intereses de sus ciudadanos en el extranjero y fomentar buenas relaciones."
+  },
+  {
+    "intent_id": "tratados_internacionales",
+    "keywords": [
+      "tratados",
+      "acuerdos",
+      "naciones",
+      "cooperacion",
+      "desarrollo"
+    ],
+    "base_response": "Los tratados internacionales son acuerdos formales entre naciones. Promueven la cooperación en áreas como comercio, medio ambiente y derechos humanos. Estos acuerdos ayudan a crear un marco legal que regula las interacciones entre países y fomenta el desarrollo global."
+  },
+  {
+    "intent_id": "conflictos_resolucion",
+    "keywords": [
+      "conflictos",
+      "resolucion",
+      "medios",
+      "diplomaticos",
+      "paz"
+    ],
+    "base_response": "La resolución de conflictos se logra mediante medios diplomáticos. Esto implica negociaciones y mediaciones para encontrar soluciones pacíficas. La diplomacia evita que los conflictos escalen y asegura que se respeten los derechos de todas las partes involucradas."
+  },
+  {
+    "intent_id": "cultura_diplomatica",
+    "keywords": [
+      "cultura",
+      "diplomatica",
+      "respeto",
+      "diversidad",
+      "interaccion"
+    ],
+    "base_response": "La cultura diplomática implica el respeto por la diversidad y las costumbres de otros países. Promueve la interacción positiva y el entendimiento mutuo. A través de la cultura, los diplomáticos pueden construir puentes que faciliten la cooperación internacional."
+  },
+  {
+    "intent_id": "negociacion_diplomatica",
+    "keywords": [
+      "negociacion",
+      "diplomatica",
+      "acuerdos",
+      "intereses",
+      "soluciones"
+    ],
+    "base_response": "La negociación diplomática es un proceso mediante el cual los países discuten y acuerdan cuestiones de interés mutuo. Involucra el intercambio de ideas y la búsqueda de soluciones que beneficien a todas las partes, evitando conflictos y promoviendo la armonía."
+  },
+  {
+    "intent_id": "alianzas_estrategicas",
+    "keywords": [
+      "alianzas",
+      "estrategicas",
+      "naciones",
+      "cooperacion",
+      "defensa"
+    ],
+    "base_response": "Las alianzas estratégicas son acuerdos entre naciones para cooperar en áreas clave, como defensa y comercio. Estas relaciones fortalecen la seguridad y permiten a los países enfrentar desafíos globales de manera conjunta, maximizando sus recursos y capacidades."
+  },
+  {
+    "intent_id": "diplomacia_publica",
+    "keywords": [
+      "diplomacia",
+      "publica",
+      "imagen",
+      "nacion",
+      "comunicacion"
+    ],
+    "base_response": "La diplomacia pública se enfoca en mejorar la imagen de un país en el extranjero. Utiliza medios de comunicación y relaciones públicas para influir en la percepción global. Su objetivo es fomentar la comprensión y simpatía hacia la cultura y valores del país."
+  },
+  {
+    "intent_id": "liderazgo_mundial",
+    "keywords": [
+      "liderazgo",
+      "mundial",
+      "influencia",
+      "naciones",
+      "desarrollo"
+    ],
+    "base_response": "El liderazgo mundial se refiere a la capacidad de un país para influir en asuntos globales. Un país líder puede guiar a otros en la resolución de problemas internacionales, promoviendo el desarrollo sostenible y la paz, y estableciendo normas que beneficien a todos."
+  },
+  {
+    "intent_id": "papel_embajadas_7",
+    "keywords": [
+      "derechos",
+      "proteccion",
+      "ciudadanos",
+      "leyes",
+      "asuntos"
+    ],
+    "base_response": "Las embajadas juegan un papel crucial en la protección de los derechos de sus ciudadanos en el extranjero. Se aseguran de que se respeten las leyes locales y ofrecen apoyo en casos de violaciones o problemas legales."
+  },
+  {
+    "intent_id": "papel_embajadas_10",
+    "keywords": [
+      "historia",
+      "diplomacia",
+      "embajadas",
+      "evolucion",
+      "funciones"
+    ],
+    "base_response": "La historia de las embajadas refleja la evolución de la diplomacia a lo largo del tiempo. Sus funciones han cambiado, adaptándose a las necesidades globales, pero siempre han sido fundamentales para la comunicación entre estados."
+  },
+  {
+    "intent_id": "concepto_aduanas",
+    "keywords": [
+      "aduanas",
+      "control",
+      "frontera",
+      "productos",
+      "impuestos"
+    ],
+    "base_response": "Las aduanas son oficinas gubernamentales ubicadas en las fronteras. Su función principal es controlar la entrada y salida de productos, asegurando que se paguen los impuestos necesarios y que se cumplan las regulaciones de seguridad y sanidad."
+  },
+  {
+    "intent_id": "proceso_de_control",
+    "keywords": [
+      "control",
+      "frontera",
+      "documentos",
+      "inspeccion",
+      "viajeros"
+    ],
+    "base_response": "El proceso de control en las fronteras implica la revisión de documentos de los viajeros. Los funcionarios aduaneros inspeccionan pasaportes y permisos, asegurándose de que todas las personas cumplan con las normativas del país al que ingresan."
+  },
+  {
+    "intent_id": "impuestos_de_importacion",
+    "keywords": [
+      "impuestos",
+      "importacion",
+      "aduanas",
+      "economia",
+      "productos"
+    ],
+    "base_response": "Los impuestos de importación son tarifas que se aplican a los productos que entran a un país. Estos impuestos son recaudados por las aduanas y contribuyen a la economía local, financiando servicios públicos y la infraestructura del país."
+  },
+  {
+    "intent_id": "contrabando",
+    "keywords": [
+      "contrabando",
+      "productos",
+      "frontera",
+      "ilegal",
+      "aduanas"
+    ],
+    "base_response": "El contrabando se refiere a la importación o exportación de productos de manera ilegal. Las aduanas juegan un papel crucial en la detección del contrabando, protegiendo la economía y la seguridad del país al evitar la entrada de mercancías prohibidas."
+  },
+  {
+    "intent_id": "zonas_fronterizas",
+    "keywords": [
+      "zonas",
+      "fronterizas",
+      "aduanas",
+      "control",
+      "movimiento"
+    ],
+    "base_response": "Las zonas fronterizas son áreas donde se realizan los controles aduaneros. Estas regiones son clave para el movimiento de personas y mercancías, ya que permiten una regulación adecuada del comercio y aseguran el cumplimiento de las leyes."
+  },
+  {
+    "intent_id": "importancia_de_aduanas",
+    "keywords": [
+      "importancia",
+      "aduanas",
+      "economia",
+      "regulaciones",
+      "seguridad"
+    ],
+    "base_response": "Las aduanas son fundamentales para la economía de un país. Aseguran que se cumplan las regulaciones comerciales, protegen a los consumidores y recaudan impuestos. Esto contribuye al desarrollo económico y a la seguridad en el comercio internacional."
+  },
+  {
+    "intent_id": "documentacion_aduanera",
+    "keywords": [
+      "documentacion",
+      "aduanera",
+      "declaracion",
+      "productos",
+      "importacion"
+    ],
+    "base_response": "La documentación aduanera es esencial para el comercio internacional. Incluye declaraciones de importación que detallan los productos que se están ingresando al país, permitiendo a las aduanas evaluar impuestos y garantizar el cumplimiento de regulaciones."
+  },
+  {
+    "intent_id": "tráfico_de_personas",
+    "keywords": [
+      "trafico",
+      "personas",
+      "frontera",
+      "ilegal",
+      "aduanas"
+    ],
+    "base_response": "El tráfico de personas es un delito grave que involucra el movimiento ilegal de individuos a través de fronteras. Las aduanas y las fuerzas de seguridad trabajan juntas para prevenir este crimen, protegiendo a las víctimas y garantizando la seguridad nacional."
+  },
+  {
+    "intent_id": "regulaciones_de_seguridad",
+    "keywords": [
+      "regulaciones",
+      "seguridad",
+      "aduanas",
+      "productos",
+      "salud"
+    ],
+    "base_response": "Las regulaciones de seguridad en aduanas son normas que protegen la salud pública. Estas regulaciones aseguran que los productos importados no representen un riesgo, controlando alimentos, medicamentos y otros artículos que puedan afectar a la población."
+  },
+  {
+    "intent_id": "paises_y_fronteras_1",
+    "keywords": [
+      "pais",
+      "frontera",
+      "limite",
+      "geografia",
+      "cultura"
+    ],
+    "base_response": "Los países del mundo tienen fronteras que marcan sus límites. Estas fronteras pueden ser naturales, como ríos y montañas, o artificiales, establecidas por acuerdos. Además, la cultura de un país puede influir en la percepción de sus fronteras."
+  },
+  {
+    "intent_id": "paises_y_fronteras_2",
+    "keywords": [
+      "mapa",
+      "politica",
+      "territorio",
+      "nacion",
+      "historia"
+    ],
+    "base_response": "Un mapa político muestra los países y sus fronteras. Cada territorio tiene una historia que explica cómo se formaron estas divisiones. Aprender sobre la política ayuda a entender las relaciones entre naciones y sus conflictos históricos."
+  },
+  {
+    "intent_id": "paises_y_fronteras_3",
+    "keywords": [
+      "frontera",
+      "conflicto",
+      "paz",
+      "negociacion",
+      "comunidad"
+    ],
+    "base_response": "Las fronteras pueden ser motivo de conflictos entre países. Sin embargo, también se pueden resolver a través de la paz y la negociación. Fomentar la comunicación y el entendimiento entre comunidades es esencial para mantener la armonía."
+  },
+  {
+    "intent_id": "paises_y_fronteras_4",
+    "keywords": [
+      "nacion",
+      "cultura",
+      "identidad",
+      "diversidad",
+      "frontera"
+    ],
+    "base_response": "Cada nación tiene su propia cultura e identidad, influenciada por su ubicación y fronteras. La diversidad cultural se celebra en las fronteras, donde diferentes tradiciones y lenguas interactúan, enriqueciendo la experiencia de vivir en un mundo globalizado."
+  },
+  {
+    "intent_id": "paises_y_fronteras_5",
+    "keywords": [
+      "globalizacion",
+      "economia",
+      "intercambio",
+      "frontera",
+      "comercio"
+    ],
+    "base_response": "La globalización ha cambiado la forma en que los países interactúan. Las fronteras ahora son menos restrictivas para el comercio y el intercambio cultural. Las economías de diferentes naciones se benefician del comercio transfronterizo, creando un mundo más interconectado."
+  },
+  {
+    "intent_id": "paises_y_fronteras_6",
+    "keywords": [
+      "poblacion",
+      "migracion",
+      "frontera",
+      "desarrollo",
+      "oportunidad"
+    ],
+    "base_response": "La migración a través de fronteras puede ofrecer oportunidades de desarrollo a las poblaciones. Las personas buscan mejores condiciones de vida y trabajo en otros países, lo que puede enriquecer tanto a los migrantes como a las comunidades que los reciben."
+  },
+  {
+    "intent_id": "paises_y_fronteras_9",
+    "keywords": [
+      "geografia",
+      "educacion",
+      "mapa",
+      "fronteras",
+      "aprendizaje"
+    ],
+    "base_response": "El estudio de la geografía es fundamental para entender las fronteras. Aprender a leer mapas y conocer la ubicación de países permite a los estudiantes comprender mejor las relaciones políticas y culturales que existen en el mundo."
+  },
+  {
+    "intent_id": "paises_y_fronteras_10",
+    "keywords": [
+      "frontera",
+      "recursos",
+      "conflicto",
+      "poder",
+      "nacion"
+    ],
+    "base_response": "Las fronteras a menudo son fuentes de recursos naturales, lo que puede generar conflictos por su control. La lucha por el poder y los recursos entre naciones resalta la importancia de una gestión adecuada de las fronteras y sus riquezas."
+  },
+  {
+    "intent_id": "capitales_y_poblacion",
+    "keywords": [
+      "poblacion",
+      "capital",
+      "demografia",
+      "estudio",
+      "datos"
+    ],
+    "base_response": "Las capitales no solo son centros administrativos, sino también ciudades densamente pobladas. Por ejemplo, Ciudad de México es una de las ciudades más pobladas del mundo y su capital, mientras que Londres, la capital del Reino Unido, también tiene una gran población diversa."
+  },
+  {
+    "intent_id": "capitales_y_transporte",
+    "keywords": [
+      "transporte",
+      "capital",
+      "infraestructura",
+      "movilidad",
+      "redes"
+    ],
+    "base_response": "Las capitales cuentan con sistemas de transporte que facilitan la movilidad. Por ejemplo, Tokio, la capital de Japón, tiene una de las redes de metro más eficientes del mundo, mientras que París ofrece una extensa red de autobuses y trenes que conecta la ciudad."
+  },
+  {
+    "intent_id": "capitales_y_turismo",
+    "keywords": [
+      "turismo",
+      "capital",
+      "atracciones",
+      "viajeros",
+      "cultura"
+    ],
+    "base_response": "Las capitales son destinos turísticos populares. Por ejemplo, Roma, la capital de Italia, atrae a millones de viajeros por su historia y atracciones como el Coliseo, mientras que Madrid, la capital de España, ofrece una rica vida cultural y gastronómica."
+  },
+  {
+    "intent_id": "capitales_y_diversidad",
+    "keywords": [
+      "diversidad",
+      "capital",
+      "culturas",
+      "pueblos",
+      "comunidades"
+    ],
+    "base_response": "Las capitales suelen ser un crisol de culturas y comunidades. Por ejemplo, Toronto, la capital de Ontario en Canadá, se caracteriza por su diversidad étnica, mientras que Bruselas, capital de Bélgica, es un punto de encuentro para múltiples nacionalidades."
+  },
+  {
+    "intent_id": "capitales_y_educacion",
+    "keywords": [
+      "educacion",
+      "capital",
+      "universidades",
+      "conocimiento",
+      "ciencia"
+    ],
+    "base_response": "Las capitales son centros educativos importantes. Por ejemplo, Washington D.C. alberga prestigiosas universidades como Georgetown y George Washington, mientras que Londres es hogar de instituciones de renombre como el Imperial College y la Universidad de Londres."
+  },
+  {
+    "intent_id": "capitales_y_eventos",
+    "keywords": [
+      "eventos",
+      "capital",
+      "cultura",
+      "celebraciones",
+      "deportes"
+    ],
+    "base_response": "Las capitales son sede de importantes eventos culturales y deportivos. Tokio, por ejemplo, fue anfitriona de los Juegos Olímpicos, mientras que París es famosa por sus festivales de arte y moda, atrayendo atención mundial y visitantes de todas partes."
+  },
+  {
+    "intent_id": "importancia_de_capitales",
+    "keywords": [
+      "capital",
+      "importancia",
+      "sociologia",
+      "geografia",
+      "economia"
+    ],
+    "base_response": "Las capitales son más que solo ciudades; son el corazón político y económico de un país. Su estudio revela cómo funcionan los gobiernos y cómo se relacionan con la población, siendo esenciales para entender la estructura social de cada nación."
+  },
+  {
+    "intent_id": "capitales_y_geografía",
+    "keywords": [
+      "geografia",
+      "capitales",
+      "paises",
+      "mapas",
+      "educacion"
+    ],
+    "base_response": "Las capitales se encuentran ubicadas en diferentes regiones geográficas. Estudiarlas mediante mapas ayuda a los estudiantes a visualizar la relación entre la geografía y los países, promoviendo un aprendizaje más interactivo y dinámico sobre el mundo."
+  },
+  {
+    "intent_id": "capitales_y_historia",
+    "keywords": [
+      "historia",
+      "capital",
+      "eventos",
+      "patrimonio",
+      "cultura"
+    ],
+    "base_response": "Las capitales han sido testigos de eventos históricos importantes. Conocer su historia permite a los estudiantes entender cómo han evolucionado y cómo influyen en la identidad nacional, promoviendo un sentido de pertenencia y orgullo cultural."
+  },
+  {
+    "intent_id": "importancia_geografia_politica",
+    "keywords": [
+      "importancia",
+      "geografia",
+      "politica",
+      "comprension",
+      "mundo"
+    ],
+    "base_response": "La geografía política es crucial para comprender el mundo actual. Permite a los estudiantes analizar conflictos, alianzas y decisiones políticas, facilitando una mejor comprensión de cómo los factores geográficos afectan la vida social y económica."
+  },
+  {
+    "intent_id": "elementos_geografia_politica",
+    "keywords": [
+      "elementos",
+      "geografia",
+      "politica",
+      "territorio",
+      "poder"
+    ],
+    "base_response": "Los elementos clave de la geografía política incluyen el territorio, la soberanía, las fronteras y los recursos naturales. Estos aspectos determinan cómo los países interactúan entre sí y cómo se distribuye el poder en el ámbito internacional."
+  },
+  {
+    "intent_id": "fronteras_geograficas",
+    "keywords": [
+      "fronteras",
+      "geograficas",
+      "politica",
+      "dibujo",
+      "naciones"
+    ],
+    "base_response": "Las fronteras geográficas son líneas que delimitan territorios de diferentes naciones. Su trazado puede ser natural, como ríos y montañas, o artificial, definido por acuerdos políticos, y pueden ser fuente de conflictos o cooperación entre países."
+  },
+  {
+    "intent_id": "soberania_nacional",
+    "keywords": [
+      "soberania",
+      "nacional",
+      "autoridad",
+      "gobierno",
+      "poblacion"
+    ],
+    "base_response": "La soberanía nacional es la autoridad de un Estado para gobernarse a sí mismo sin intervención externa. Este concepto es fundamental en la geografía política, ya que define los límites del poder y la autonomía de un país frente a otros."
+  },
+  {
+    "intent_id": "territorio_y_poder",
+    "keywords": [
+      "territorio",
+      "poder",
+      "control",
+      "recursos",
+      "politica"
+    ],
+    "base_response": "El territorio y el poder están intrínsecamente relacionados en la geografía política. El control sobre un territorio proporciona acceso a recursos, influye en la seguridad nacional y determina las dinámicas de poder entre diferentes naciones."
+  },
+  {
+    "intent_id": "recursos_naturales_geografia",
+    "keywords": [
+      "recursos",
+      "naturales",
+      "geografia",
+      "politica",
+      "economia"
+    ],
+    "base_response": "Los recursos naturales juegan un papel esencial en la geografía política. Su distribución desigual puede provocar tensiones y conflictos entre países, al tiempo que influyen en las decisiones políticas y económicas a nivel local e internacional."
+  },
+  {
+    "intent_id": "organizaciones_internacionales",
+    "keywords": [
+      "organizaciones",
+      "internacionales",
+      "cooperacion",
+      "geopolitica",
+      "paz"
+    ],
+    "base_response": "Las organizaciones internacionales, como la ONU, son fundamentales en la geografía política. Fomentan la cooperación entre naciones para resolver conflictos, promover la paz y abordar problemas globales, utilizando el diálogo y la mediación como herramientas clave."
+  },
+  {
+    "intent_id": "geografia_e_identidad",
+    "keywords": [
+      "geografia",
+      "identidad",
+      "cultura",
+      "naciones",
+      "politica"
+    ],
+    "base_response": "La geografía política también está relacionada con la identidad nacional y cultural. Las características geográficas influyen en cómo las personas se identifican con su país, lo que puede afectar la cohesión social y la estabilidad política en una nación."
+  },
+  {
+    "intent_id": "concepto_estados_soberanos",
+    "keywords": [
+      "estado",
+      "soberano",
+      "gobierno",
+      "territorio",
+      "poblacion"
+    ],
+    "base_response": "Un estado soberano es una entidad política que tiene control total sobre su territorio y población. Esto significa que puede establecer sus propias leyes, tomar decisiones sobre su gobierno y mantener relaciones con otros estados sin interferencia externa."
+  },
+  {
+    "intent_id": "concepto_nacion",
+    "keywords": [
+      "nacion",
+      "cultura",
+      "identidad",
+      "historia",
+      "lengua"
+    ],
+    "base_response": "Una nación es un grupo de personas que comparten similitudes culturales, históricas y lingüísticas. La identidad nacional se forma a través de la historia compartida y las tradiciones, creando un sentido de pertenencia entre sus miembros."
+  },
+  {
+    "intent_id": "concepto_diferencia_estado_nacion",
+    "keywords": [
+      "diferencia",
+      "estado",
+      "nacion",
+      "politica",
+      "sociologia"
+    ],
+    "base_response": "La diferencia entre estado y nación radica en que un estado es una entidad política con soberanía, mientras que una nación se refiere a un grupo cultural. No siempre coinciden, ya que un estado puede albergar varias naciones."
+  },
+  {
+    "intent_id": "concepto_fronteras",
+    "keywords": [
+      "fronteras",
+      "limites",
+      "territorio",
+      "estado",
+      "geografia"
+    ],
+    "base_response": "Las fronteras son líneas que delimitan el territorio de un estado. Estas pueden ser naturales, como ríos y montañas, o artificiales, establecidas por acuerdos políticos. Las fronteras son importantes para la soberanía y la seguridad nacional."
+  },
+  {
+    "intent_id": "concepto_nacionalismo",
+    "keywords": [
+      "nacionalismo",
+      "movimiento",
+      "identidad",
+      "politica",
+      "cultura"
+    ],
+    "base_response": "El nacionalismo es un movimiento político que busca promover la identidad y los intereses de una nación. Fomenta el orgullo cultural y la unidad, pero también puede llevar a tensiones entre diferentes naciones dentro de un estado."
+  },
+  {
+    "intent_id": "concepto_multiculturalismo",
+    "keywords": [
+      "multiculturalismo",
+      "diversidad",
+      "sociedad",
+      "cultura",
+      "respeto"
+    ],
+    "base_response": "El multiculturalismo es un enfoque que reconoce y valora la diversidad cultural dentro de un estado. Promueve el respeto y la convivencia pacífica entre diferentes grupos, fortaleciendo la cohesión social y fomentando el diálogo intercultural."
+  },
+  {
+    "intent_id": "concepto_soberania",
+    "keywords": [
+      "soberania",
+      "poder",
+      "estado",
+      "autonomia",
+      "control"
+    ],
+    "base_response": "La soberanía es el poder supremo que tiene un estado para gobernarse a sí mismo. Implica autonomía en la toma de decisiones y la capacidad de ejercer control sobre su territorio, sin interferencias externas en sus asuntos internos."
+  },
+  {
+    "intent_id": "concepto_derechos_politicos",
+    "keywords": [
+      "derechos",
+      "politicos",
+      "ciudadanos",
+      "participacion",
+      "democracia"
+    ],
+    "base_response": "Los derechos políticos son aquellos que permiten a los ciudadanos participar en la vida política de su estado. Incluyen el derecho al voto, a elegir representantes y a expresar opiniones, fundamentales para el funcionamiento de una democracia."
+  },
+  {
+    "intent_id": "distribucion_continentes_aspectos_geograficos",
+    "keywords": [
+      "continentes",
+      "distribucion",
+      "aspectos",
+      "geografia",
+      "espacio"
+    ],
+    "base_response": "La distribución territorial de los continentes se basa en aspectos geográficos como la tectónica de placas, la altitud y la proximidad al agua. Estos factores determinan el clima y el tipo de vida que puede existir en cada región."
+  },
+  {
+    "intent_id": "continentes_y_climas_diversidad",
+    "keywords": [
+      "climas",
+      "continentes",
+      "diversidad",
+      "ecosistemas",
+      "vida"
+    ],
+    "base_response": "Cada continente presenta una diversidad de climas que afectan los ecosistemas. Desde los fríos glaciares en la Antártida hasta los calurosos desiertos en África, estas variaciones influyen en la vida animal y vegetal que se desarrolla en cada área."
+  },
+  {
+    "intent_id": "geografia_politica_y_fronteras",
+    "keywords": [
+      "geografia",
+      "politica",
+      "fronteras",
+      "naciones",
+      "territorios"
+    ],
+    "base_response": "La geografía política se centra en cómo se distribuyen las fronteras entre naciones. Estas líneas no solo marcan territorios, sino que también influyen en la cultura, economía y relaciones entre los países de cada continente."
+  },
+  {
+    "intent_id": "poblacion_y_distribucion_continental",
+    "keywords": [
+      "poblacion",
+      "distribucion",
+      "continentes",
+      "densidad",
+      "ciudades"
+    ],
+    "base_response": "La población se distribuye de manera desigual en los continentes. Las áreas urbanas presentan alta densidad, mientras que las zonas rurales son menos pobladas. Esta distribución afecta el desarrollo económico y social de cada región."
+  },
+  {
+    "intent_id": "recursos_naturales_y_continentes",
+    "keywords": [
+      "recursos",
+      "naturales",
+      "distribucion",
+      "continentes",
+      "economia"
+    ],
+    "base_response": "La distribución de recursos naturales varía entre continentes. Por ejemplo, África tiene abundantes minerales, mientras que América del Norte cuenta con grandes reservas de petróleo. Estos recursos son fundamentales para el crecimiento económico de las naciones."
+  },
+  {
+    "intent_id": "migraciones_y_continentes",
+    "keywords": [
+      "migraciones",
+      "continentes",
+      "movimiento",
+      "poblacion",
+      "historico"
+    ],
+    "base_response": "Las migraciones han moldeado la distribución de la población en los continentes a lo largo de la historia. Factores como guerras, economía y cambio climático han llevado a las personas a desplazarse, alterando así la composición demográfica de diversas regiones."
+  },
+  {
+    "intent_id": "impacto_del_cambio_climatico",
+    "keywords": [
+      "cambio",
+      "climatico",
+      "impacto",
+      "continentes",
+      "ambiente"
+    ],
+    "base_response": "El cambio climático afecta a todos los continentes de maneras diferentes. Aumento del nivel del mar, desastres naturales y alteraciones en patrones climáticos son consecuencias que impactan el medio ambiente y las poblaciones, requiriendo respuestas globales."
+  },
+  {
+    "intent_id": "conflictos_y_recursos_continentales",
+    "keywords": [
+      "conflictos",
+      "recursos",
+      "naturales",
+      "continentes",
+      "geopolitica"
+    ],
+    "base_response": "Los recursos naturales a menudo son fuente de conflictos entre países en un mismo continente. La competencia por agua, petróleo y minerales puede llevar a tensiones geopolíticas, así como a guerras, destacando la importancia de la cooperación internacional."
+  },
+  {
+    "intent_id": "cultura_mundial",
+    "keywords": [
+      "cultura",
+      "diversidad",
+      "influencia",
+      "artes",
+      "tradiciones"
+    ],
+    "base_response": "Las megaciudades son focos de cultura y diversidad. En ellas, se pueden encontrar diversas tradiciones, artes y costumbres que enriquecen la vida urbana, haciendo que la interacción cultural sea una experiencia cotidiana para sus habitantes."
+  },
+  {
+    "intent_id": "planificacion_urbana",
+    "keywords": [
+      "planificacion",
+      "espacio",
+      "desarrollo",
+      "ciudades",
+      "sostenibilidad"
+    ],
+    "base_response": "La planificación urbana es fundamental para el desarrollo de ciudades globales y megaciudades. Involucra el diseño de espacios públicos, infraestructura y servicios, asegurando que las ciudades sean sostenibles y adaptadas a las necesidades de sus habitantes."
+  },
+  {
+    "intent_id": "movimiento_poblacional",
+    "keywords": [
+      "movimiento",
+      "poblacion",
+      "migracion",
+      "ciudades",
+      "oportunidades"
+    ],
+    "base_response": "El movimiento poblacional hacia megaciudades es impulsado por la búsqueda de oportunidades laborales y educativas. Este fenómeno de migración crea una mezcla de culturas que enriquece la vida urbana y presenta nuevos retos para la convivencia."
+  },
+  {
+    "intent_id": "tecnologia_ciudadana",
+    "keywords": [
+      "tecnologia",
+      "ciudad",
+      "innovacion",
+      "servicios",
+      "habitantes"
+    ],
+    "base_response": "La tecnología juega un papel crucial en las ciudades globales, mejorando la calidad de vida de los ciudadanos. Innovaciones en servicios públicos, transporte y comunicación hacen que la vida urbana sea más eficiente y accesible para todos."
+  },
+  {
+    "intent_id": "sostenibilidad_urbana",
+    "keywords": [
+      "sostenibilidad",
+      "medioambiente",
+      "recursos",
+      "ciudades",
+      "futuro"
+    ],
+    "base_response": "La sostenibilidad urbana es esencial en las ciudades globales y megaciudades. Implica el uso responsable de recursos, la reducción de residuos y la promoción de prácticas ecológicas, asegurando un futuro viable para las próximas generaciones."
+  },
+  {
+    "intent_id": "concepto_geografia_electoral_1",
+    "keywords": [
+      "eleccion",
+      "distrito",
+      "voto",
+      "ciudadano",
+      "representante"
+    ],
+    "base_response": "La geografía electoral estudia cómo se organizan los distritos para las elecciones. Cada distrito elige a un representante. El voto de cada ciudadano es clave para decidir quién ocupará ese cargo y cómo se tomarán decisiones en la comunidad."
+  },
+  {
+    "intent_id": "concepto_geografia_electoral_2",
+    "keywords": [
+      "mapa",
+      "distritos",
+      "geografia",
+      "elecciones",
+      "demografia"
+    ],
+    "base_response": "Los mapas electorales muestran la división de los distritos. Cada uno tiene características demográficas diferentes. Esto influye en las elecciones, ya que los candidatos ajustan sus mensajes según las necesidades y preocupaciones de los habitantes de cada distrito."
+  },
+  {
+    "intent_id": "concepto_geografia_electoral_3",
+    "keywords": [
+      "censo",
+      "poblacion",
+      "representacion",
+      "voto",
+      "distrito"
+    ],
+    "base_response": "El censo es fundamental para la geografía electoral, ya que determina la población de cada distrito. Una buena representación depende de tener en cuenta el número de votantes, para asegurar que todos tengan voz y voto en el proceso electoral."
+  },
+  {
+    "intent_id": "concepto_geografia_electoral_4",
+    "keywords": [
+      "partido",
+      "eleccion",
+      "estrategia",
+      "voto",
+      "distritos"
+    ],
+    "base_response": "Los partidos políticos diseñan estrategias específicas para cada distrito electoral. Analizan las preferencias de los votantes para presentar candidatos que resuenen con sus necesidades. Esta adaptación es clave para ganar elecciones y obtener apoyo de la comunidad."
+  },
+  {
+    "intent_id": "concepto_geografia_electoral_5",
+    "keywords": [
+      "tendencia",
+      "voto",
+      "cambio",
+      "distrito",
+      "analisis"
+    ],
+    "base_response": "El análisis de tendencias de votación en distritos permite predecir resultados electorales. Los sociólogos y politólogos estudian cómo cambian las preferencias a lo largo del tiempo, influenciadas por factores sociales, económicos y culturales en cada comunidad."
+  },
+  {
+    "intent_id": "concepto_geografia_electoral_6",
+    "keywords": [
+      "redes",
+      "comunicacion",
+      "distritos",
+      "candidatos",
+      "electores"
+    ],
+    "base_response": "Las redes de comunicación son esenciales en las campañas electorales. Los candidatos utilizan diversas plataformas para conectar con electores en sus distritos. Esta interacción ayuda a transmitir mensajes y conocer mejor las preocupaciones de la población."
+  },
+  {
+    "intent_id": "concepto_geografia_electoral_7",
+    "keywords": [
+      "distrito",
+      "urbano",
+      "rural",
+      "voto",
+      "diferencias"
+    ],
+    "base_response": "Existen diferencias significativas entre distritos urbanos y rurales en las elecciones. Los votantes urbanos suelen priorizar temas como el transporte y la vivienda, mientras que los rurales se enfocan más en la agricultura y el acceso a servicios básicos."
+  },
+  {
+    "intent_id": "concepto_geografia_electoral_8",
+    "keywords": [
+      "voto",
+      "participacion",
+      "jovenes",
+      "distritos",
+      "educacion"
+    ],
+    "base_response": "La participación juvenil en el voto es crucial para el futuro de la democracia. Los distritos deben fomentar la educación cívica entre los jóvenes, asegurando que comprendan la importancia de su voz y voto en la toma de decisiones políticas."
+  },
+  {
+    "intent_id": "concepto_geografia_electoral_9",
+    "keywords": [
+      "reglas",
+      "electorales",
+      "distritos",
+      "democracia",
+      "justicia"
+    ],
+    "base_response": "Las reglas electorales varían según cada distrito, lo que afecta la equidad y justicia del proceso. Es fundamental que estas normas sean claras y justas, para garantizar que todos los ciudadanos tengan igualdad de oportunidades en las elecciones."
+  },
+  {
+    "intent_id": "concepto_geografia_electoral_10",
+    "keywords": [
+      "tecnologia",
+      "voto",
+      "electoral",
+      "distritos",
+      "innovacion"
+    ],
+    "base_response": "La tecnología ha transformado la geografía electoral. Sistemas de votación electrónica y aplicaciones informativas permiten a los ciudadanos involucrarse más fácilmente en el proceso electoral. La innovación tecnológica puede mejorar la transparencia y la accesibilidad en las elecciones."
+  },
+  {
+    "intent_id": "conflictos_territoriales_5",
+    "keywords": [
+      "historia",
+      "mapas",
+      "cambios",
+      "gobierno",
+      "paz"
+    ],
+    "base_response": "El estudio de mapas históricos revela cómo las fronteras y los territorios han cambiado con el tiempo. Estos cambios a menudo son el resultado de conflictos, acuerdos de paz y decisiones de gobiernos que buscan estabilizar regiones."
+  },
+  {
+    "intent_id": "conflictos_territoriales_7",
+    "keywords": [
+      "tecnologia",
+      "comunicacion",
+      "informacion",
+      "conflictos",
+      "resolucion"
+    ],
+    "base_response": "La tecnología y la comunicación han cambiado la forma en que se gestionan los conflictos territoriales. La información instantánea permite a las naciones negociar y resolver disputas más rápidamente, fomentando el diálogo y la cooperación."
+  },
+  {
+    "intent_id": "conflictos_territoriales_8",
+    "keywords": [
+      "organismos",
+      "internacionales",
+      "mediacion",
+      "paz",
+      "solucion"
+    ],
+    "base_response": "Los organismos internacionales, como las Naciones Unidas, juegan un papel crucial en la mediación de conflictos territoriales. Su intervención puede ayudar a las naciones a encontrar soluciones pacíficas y a evitar que las disputas se conviertan en guerras."
+  },
+  {
+    "intent_id": "aduanas_y_control_fronterizo_1",
+    "keywords": [
+      "aduana",
+      "control",
+      "frontera",
+      "productos",
+      "regulaciones"
+    ],
+    "base_response": "La aduana es una entidad que regula la entrada y salida de productos en un país. Su función principal es asegurarse de que se cumplan las regulaciones y leyes, evitando el contrabando y garantizando la seguridad nacional."
+  },
+  {
+    "intent_id": "aduanas_y_control_fronterizo_2",
+    "keywords": [
+      "frontera",
+      "documentos",
+      "identificacion",
+      "viajeros",
+      "verificacion"
+    ],
+    "base_response": "Al cruzar una frontera, los viajeros deben presentar documentos de identificación. La verificación de estos documentos es esencial para prevenir actividades ilegales y garantizar que las personas que ingresan cumplan con las leyes del país."
+  },
+  {
+    "intent_id": "aduanas_y_control_fronterizo_3",
+    "keywords": [
+      "productos",
+      "contrabando",
+      "sanciones",
+      "leyes",
+      "seguridad"
+    ],
+    "base_response": "El contrabando se refiere al tráfico ilegal de productos a través de las fronteras. Las sanciones por contrabando son severas, ya que afectan la economía y la seguridad de un país, poniendo en riesgo la salud pública y el orden social."
+  },
+  {
+    "intent_id": "aduanas_y_control_fronterizo_5",
+    "keywords": [
+      "inspeccion",
+      "carga",
+      "seguridad",
+      "procedimientos",
+      "aduanas"
+    ],
+    "base_response": "La inspección de carga es un procedimiento clave en las aduanas. Se revisan los contenedores para asegurar que no contengan productos prohibidos o peligrosos, protegiendo así a la población y al medio ambiente de posibles riesgos."
+  },
+  {
+    "intent_id": "aduanas_y_control_fronterizo_6",
+    "keywords": [
+      "normativas",
+      "entrada",
+      "salida",
+      "mercancias",
+      "paises"
+    ],
+    "base_response": "Las normativas aduaneras determinan qué mercancías pueden entrar o salir de un país. Cada nación tiene sus propias reglas, que pueden variar según la situación económica, social o política, adaptándose a las necesidades del momento."
+  },
+  {
+    "intent_id": "aduanas_y_control_fronterizo_7",
+    "keywords": [
+      "trafico",
+      "fronteras",
+      "control",
+      "personas",
+      "medidas"
+    ],
+    "base_response": "El tráfico de personas es un delito grave que se combate en las fronteras. Las medidas de control aduanero buscan detectar y prevenir esta actividad ilegal, protegiendo a las víctimas y asegurando el cumplimiento de las leyes."
+  },
+  {
+    "intent_id": "aduanas_y_control_fronterizo_10",
+    "keywords": [
+      "educacion",
+      "ciudadania",
+      "regulaciones",
+      "responsabilidad",
+      "fronteras"
+    ],
+    "base_response": "La educación sobre aduanas y control fronterizo es fundamental para la ciudadanía. Comprender las regulaciones y la responsabilidad individual ayuda a fomentar una cultura de respeto a las leyes y a contribuir al desarrollo sostenible del país."
+  },
+  {
+    "intent_id": "derechos_internacionales_y_paz",
+    "keywords": [
+      "derechos",
+      "internacionales",
+      "paz",
+      "naciones",
+      "conflictos"
+    ],
+    "base_response": "Los derechos internacionales son normas que regulan las relaciones entre naciones. Promueven la paz y la cooperación, ayudando a resolver conflictos mediante diálogos y acuerdos, garantizando así un orden mundial más justo y equitativo para todos los países."
+  },
+  {
+    "intent_id": "territorio_y_soberania",
+    "keywords": [
+      "territorio",
+      "soberania",
+      "naciones",
+      "recursos",
+      "fronteras"
+    ],
+    "base_response": "El territorio es fundamental para la soberanía de un país. Las fronteras delimitan su espacio geográfico y sus recursos. La gestión adecuada del territorio asegura que las naciones puedan ejercer sus derechos y cumplir con sus deberes internacionales."
+  },
+  {
+    "intent_id": "justicia_y_derechos_humanos",
+    "keywords": [
+      "justicia",
+      "derechos",
+      "humanos",
+      "soberania",
+      "naciones"
+    ],
+    "base_response": "La justicia es esencial para garantizar los derechos humanos en el ámbito internacional. Las naciones deben respetar estos derechos, incluso dentro de sus fronteras, promoviendo la dignidad y el bienestar de todos los individuos sin importar su origen."
+  },
+  {
+    "intent_id": "organizaciones_internacionales_y_colaboracion",
+    "keywords": [
+      "organizaciones",
+      "internacionales",
+      "colaboracion",
+      "soberania",
+      "paz"
+    ],
+    "base_response": "Las organizaciones internacionales, como la ONU, fomentan la colaboración entre naciones. A través de tratados y acuerdos, buscan mantener la paz, promover el desarrollo y proteger la soberanía de los estados, respetando sus derechos y necesidades."
+  },
+  {
+    "intent_id": "soberania_y_globalizacion",
+    "keywords": [
+      "soberania",
+      "globalizacion",
+      "economia",
+      "cultura",
+      "naciones"
+    ],
+    "base_response": "La globalización impacta la soberanía de los países al interconectar economías y culturas. Aunque promueve el intercambio, también plantea desafíos sobre la autonomía nacional, obligando a las naciones a equilibrar sus intereses locales con las demandas globales."
+  },
+  {
+    "intent_id": "derechos_de_los_pueblos_y_soberania",
+    "keywords": [
+      "derechos",
+      "pueblos",
+      "soberania",
+      "autodeterminacion",
+      "cultura"
+    ],
+    "base_response": "Los derechos de los pueblos son esenciales para la soberanía. Aseguran que cada grupo tenga voz en decisiones que afectan su vida y cultura. Este principio fomenta la diversidad y el respeto entre naciones y comunidades, fortaleciendo la convivencia pacífica."
+  },
+  {
+    "intent_id": "sanciones_y_derechos_internacionales",
+    "keywords": [
+      "sanciones",
+      "derechos",
+      "internacionales",
+      "naciones",
+      "conflictos"
+    ],
+    "base_response": "Las sanciones se aplican a naciones que violan derechos internacionales. Estas medidas buscan restaurar el orden y la justicia, aunque pueden afectar a la población civil. Es importante equilibrar la justicia con la protección de los derechos humanos en tales situaciones."
+  },
+  {
+    "intent_id": "soberania_y_responsabilidad",
+    "keywords": [
+      "soberania",
+      "responsabilidad",
+      "naciones",
+      "derechos",
+      "comunidad"
+    ],
+    "base_response": "Cada nación tiene la responsabilidad de respetar la soberanía de otras. Al mismo tiempo, deben proteger los derechos de sus ciudadanos. Esta dualidad asegura un equilibrio en las relaciones internacionales y fomenta un ambiente donde las comunidades pueden prosperar."
+  },
+  {
+    "intent_id": "conflitos_y_resolucion_internacional",
+    "keywords": [
+      "conflictos",
+      "resolucion",
+      "internacional",
+      "diplomacia",
+      "soberania"
+    ],
+    "base_response": "La resolución de conflictos internacionales a menudo requiere diplomacia. Las naciones deben dialogar y negociar para alcanzar acuerdos pacíficos. Este proceso es clave para mantener la soberanía de cada país y promover relaciones armoniosas a nivel global."
+  },
+  {
+    "intent_id": "concepto_banderas_1",
+    "keywords": [
+      "bandera",
+      "simbolo",
+      "nacion",
+      "cultura",
+      "identidad"
+    ],
+    "base_response": "La bandera es un símbolo que representa a una nación. Cada color y diseño tiene un significado especial, reflejando la cultura e identidad del país. Conocerla es fundamental para entender la historia y valores de la sociedad que la adopta."
+  },
+  {
+    "intent_id": "concepto_banderas_2",
+    "keywords": [
+      "colores",
+      "significado",
+      "bandera",
+      "historico",
+      "elementos"
+    ],
+    "base_response": "Los colores de una bandera suelen tener significados históricos. Por ejemplo, el rojo puede representar valentía, mientras que el azul simboliza paz. Identificar estos elementos ayuda a los estudiantes a comprender la historia detrás de cada símbolo patrio."
+  },
+  {
+    "intent_id": "concepto_banderas_3",
+    "keywords": [
+      "himno",
+      "bandera",
+      "ceremonia",
+      "patriotismo",
+      "tradicion"
+    ],
+    "base_response": "El himno nacional y la bandera son componentes esenciales de las ceremonias patrias. Juntos, fomentan el patriotismo y el sentido de pertenencia. Participar en estas ceremonias refuerza la conexión emocional de los ciudadanos con su nación."
+  },
+  {
+    "intent_id": "concepto_banderas_5",
+    "keywords": [
+      "banderas",
+      "mundial",
+      "diferencias",
+      "cultura",
+      "identidad"
+    ],
+    "base_response": "Las banderas del mundo muestran las diferencias culturales y la identidad de cada país. Estudiarlas permite a los estudiantes apreciar la diversidad global, aprender sobre tradiciones y reconocer la importancia de cada nación en el contexto internacional."
+  },
+  {
+    "intent_id": "concepto_banderas_6",
+    "keywords": [
+      "bandera",
+      "historia",
+      "conflicto",
+      "representacion",
+      "nacionalismo"
+    ],
+    "base_response": "Muchas banderas han sido creadas o modificadas debido a conflictos históricos. Estas modificaciones representan cambios en la identidad nacional y el nacionalismo, lo que brinda a los estudiantes un contexto sobre cómo la historia afecta a sus símbolos patrios."
+  },
+  {
+    "intent_id": "concepto_banderas_7",
+    "keywords": [
+      "banderas",
+      "simbolos",
+      "identidad",
+      "proceso",
+      "creacion"
+    ],
+    "base_response": "El proceso de creación de una bandera involucra decisiones sobre colores, símbolos y formas. Este proceso refleja la identidad y los valores de un país. Comprenderlo les ayuda a los estudiantes a apreciar más profundamente sus símbolos patrios."
+  },
+  {
+    "intent_id": "concepto_banderas_8",
+    "keywords": [
+      "bandera",
+      "protocolos",
+      "uso",
+      "respeto",
+      "normas"
+    ],
+    "base_response": "Existen protocolos sobre el uso y exhibición de las banderas. Respetarlas y seguir estas normas es fundamental en actos cívicos. Enseñar a los estudiantes sobre estos protocolos fomenta la responsabilidad y el respeto hacia los símbolos patrios."
+  },
+  {
+    "intent_id": "concepto_banderas_9",
+    "keywords": [
+      "bandera",
+      "artes",
+      "representacion",
+      "cultura",
+      "sociedad"
+    ],
+    "base_response": "La bandera también se representa en las artes, como en la música, pintura y literatura. Estas representaciones culturales ayudan a los estudiantes a entender cómo los símbolos patrios influyen en la identidad de una sociedad a través del tiempo."
+  },
+  {
+    "intent_id": "concepto_banderas_10",
+    "keywords": [
+      "banderas",
+      "identidad",
+      "juegos",
+      "civismo",
+      "educacion"
+    ],
+    "base_response": "Los juegos educativos sobre banderas ayudan a los estudiantes a aprender sobre identidad y civismo. A través de actividades lúdicas, se puede fomentar el interés por la historia y la importancia de los símbolos patrios en la formación de ciudadanos responsables."
+  },
+  {
+    "intent_id": "territorios_dependientes",
+    "keywords": [
+      "territorio",
+      "dependencia",
+      "gobierno",
+      "recursos",
+      "poblacion"
+    ],
+    "base_response": "Los territorios dependientes son áreas que no tienen autonomía total. Suelen estar bajo la administración de otro país, lo que significa que su gobierno, economía y recursos pueden ser controlados por una nación extranjera, afectando a su población y desarrollo."
+  },
+  {
+    "intent_id": "colonias_y_territorios",
+    "keywords": [
+      "colonia",
+      "territorio",
+      "poder",
+      "expansion",
+      "nacion"
+    ],
+    "base_response": "Las colonias son territorios que han sido ocupados y administrados por potencias extranjeras. A menudo, esto ocurre durante períodos de expansión territorial, donde la nación dominante busca aumentar su influencia y recursos en otras regiones del mundo."
+  },
+  {
+    "intent_id": "efectos_de_la_colonizacion",
+    "keywords": [
+      "colonizacion",
+      "impacto",
+      "cultura",
+      "economia",
+      "sociedad"
+    ],
+    "base_response": "La colonización puede tener efectos profundos en las culturas y economías locales. A menudo, introduce nuevos sistemas de gobierno y comercio, pero también puede llevar a la explotación de recursos y a conflictos sociales entre poblaciones autóctonas y colonizadores."
+  },
+  {
+    "intent_id": "autonomia_y_dependencia",
+    "keywords": [
+      "autonomia",
+      "dependencia",
+      "gobierno",
+      "territorio",
+      "poblacion"
+    ],
+    "base_response": "La autonomía se refiere a la capacidad de un territorio para gobernarse a sí mismo. Por el contrario, la dependencia implica que otro país toma decisiones clave. Este balance afecta cómo viven las poblaciones y cómo gestionan sus recursos."
+  },
+  {
+    "intent_id": "territorios_no_autonomos",
+    "keywords": [
+      "territorio",
+      "noautonomo",
+      "gobierno",
+      "poblacion",
+      "derechos"
+    ],
+    "base_response": "Los territorios no autónomos son aquellos que no tienen el derecho completo a autogobernarse. Su administración puede estar en manos de otros países, lo que limita los derechos políticos y económicos de sus poblaciones, generando tensiones y desafíos."
+  },
+  {
+    "intent_id": "recursos_y_colonias",
+    "keywords": [
+      "recursos",
+      "colonias",
+      "explotacion",
+      "economia",
+      "poblacion"
+    ],
+    "base_response": "Las colonias a menudo son establecidas por su riqueza en recursos naturales. La explotación de estos recursos puede beneficiar a la potencia colonizadora, pero puede dejar a la población local en desventaja y provocar conflictos por el control de estos bienes."
+  },
+  {
+    "intent_id": "territorios_y_cultura",
+    "keywords": [
+      "territorio",
+      "cultura",
+      "influencia",
+      "colonizacion",
+      "poblacion"
+    ],
+    "base_response": "La colonización puede alterar significativamente la cultura de un territorio. La influencia de la potencia colonizadora puede introducir nuevos idiomas, costumbres y formas de vida, lo que a menudo provoca la pérdida de tradiciones locales y conflictos culturales."
+  },
+  {
+    "intent_id": "descolonizacion",
+    "keywords": [
+      "descolonizacion",
+      "independencia",
+      "territorio",
+      "movimiento",
+      "nacion"
+    ],
+    "base_response": "La descolonización es el proceso mediante el cual las colonias obtienen su independencia. Este movimiento puede ser pacífico o violento, y a menudo implica luchas por el reconocimiento de derechos y la creación de un nuevo gobierno autónomo para el territorio."
+  },
+  {
+    "intent_id": "ejemplos_de_colonias",
+    "keywords": [
+      "ejemplo",
+      "colonia",
+      "historia",
+      "nacion",
+      "poblacion"
+    ],
+    "base_response": "Algunos ejemplos históricos de colonias incluyen Puerto Rico, Guam y las Islas Malvinas. Cada una de estas regiones ha experimentado diferentes grados de control y dependencia, lo que ha influido en su desarrollo político, social y económico a lo largo del tiempo."
+  },
+  {
+    "intent_id": "territorios_autonomos",
+    "keywords": [
+      "territorio",
+      "autonomo",
+      "gobierno",
+      "poblacion",
+      "derechos"
+    ],
+    "base_response": "Los territorios autónomos poseen un grado significativo de autogobierno. Esto permite a sus poblaciones tomar decisiones sobre sus asuntos locales, aunque pueden seguir existiendo relaciones políticas o económicas con un país más grande, preservando ciertos derechos y libertades."
+  },
+  {
+    "intent_id": "tipos_de_fronteras_artificiales",
+    "keywords": [
+      "frontera",
+      "linea",
+      "pais",
+      "division",
+      "dibujo"
+    ],
+    "base_response": "Las fronteras artificiales son creadas por los seres humanos mediante acuerdos políticos o tratados. Estas líneas no siempre respetan características geográficas y pueden generar conflictos, ya que a menudo dividen comunidades y culturas que están interrelacionadas históricamente."
+  },
+  {
+    "intent_id": "fronteras_politicas_y_culturales",
+    "keywords": [
+      "frontera",
+      "cultura",
+      "politica",
+      "comunidad",
+      "identidad"
+    ],
+    "base_response": "Las fronteras políticas suelen coincidir con las culturales, pero no siempre. A veces, una comunidad cultural se extiende más allá de una frontera política, lo que puede causar tensiones. La identidad de las personas puede verse afectada por estas divisiones."
+  },
+  {
+    "intent_id": "fronteras_de_agua_y_tierra",
+    "keywords": [
+      "frontera",
+      "agua",
+      "tierra",
+      "recursos",
+      "conflicto"
+    ],
+    "base_response": "Las fronteras pueden ser de agua, como ríos y lagos, o de tierra, como montañas y valles. Las fronteras de agua a menudo son más disputadas debido a recursos hídricos, mientras que las de tierra pueden influir en la defensa y el comercio entre países."
+  },
+  {
+    "intent_id": "fronteras_y_organizaciones_internacionales",
+    "keywords": [
+      "frontera",
+      "organizacion",
+      "paz",
+      "cooperacion",
+      "desarrollo"
+    ],
+    "base_response": "Las organizaciones internacionales, como la ONU, trabajan para promover la paz y la cooperación entre países con fronteras. Estas entidades ayudan a resolver disputas territoriales y fomentan el desarrollo sostenible, buscando reducir conflictos y mejorar las relaciones entre naciones."
+  },
+  {
+    "intent_id": "fronteras_y_migracion",
+    "keywords": [
+      "frontera",
+      "migracion",
+      "movimiento",
+      "gente",
+      "pais"
+    ],
+    "base_response": "Las fronteras influyen en los patrones de migración. Las personas cruzan fronteras en busca de mejores oportunidades, pero a menudo enfrentan desafíos legales y sociales. La migración puede enriquecer culturas, pero también puede generar tensiones entre comunidades locales y migrantes."
+  },
+  {
+    "intent_id": "fronteras_y_securidad",
+    "keywords": [
+      "frontera",
+      "seguridad",
+      "control",
+      "pais",
+      "proteccion"
+    ],
+    "base_response": "La seguridad en las fronteras es esencial para la protección de un país. Los gobiernos establecen controles para regular la entrada y salida de personas y bienes. Esto ayuda a prevenir el tráfico ilegal y a proteger la soberanía nacional, aunque puede limitar la movilidad."
+  },
+  {
+    "intent_id": "fronteras_y_desarrollo_economico",
+    "keywords": [
+      "frontera",
+      "desarrollo",
+      "economico",
+      "comercio",
+      "intercambio"
+    ],
+    "base_response": "Las fronteras afectan el desarrollo económico al influir en el comercio y el intercambio. Las regiones fronterizas pueden beneficiarse de la proximidad a otros mercados, pero también pueden experimentar desventajas si están aisladas o enfrentan barreras comerciales estrictas."
+  }
+]
