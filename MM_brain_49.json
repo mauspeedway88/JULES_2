@@ -1,0 +1,722 @@
+[
+  {
+    "intent_id": "bateria_plomo",
+    "keywords": [
+      "bateria",
+      "plomo",
+      "almacen",
+      "energia",
+      "reaccion",
+      "motor"
+    ],
+    "base_response": "La batería de plomo ácido funciona como el gran almacén de energía del vehículo. En su interior, una reacción química constante produce la electricidad necesaria para arrancar el motor principal y encender las luces cuando el coche está apagado."
+  },
+  {
+    "intent_id": "alternador_energia",
+    "keywords": [
+      "alternador",
+      "generador",
+      "giro",
+      "recargar",
+      "sistemas",
+      "carga"
+    ],
+    "base_response": "El alternador es un generador eléctrico impulsado directamente por el movimiento del cigüeñal. Se encarga de transformar la energía mecánica en electricidad pura para recargar la batería constantemente, alimentando múltiples sensores y manteniendo el vehículo siempre en marcha."
+  },
+  {
+    "intent_id": "motor_arranque",
+    "keywords": [
+      "motor",
+      "arranque",
+      "propulsor",
+      "pistones",
+      "impulso",
+      "gasolina"
+    ],
+    "base_response": "El motor de arranque es un dispositivo muy robusto diseñado para funcionar breves instantes. Su único propósito consiste en vencer la resistencia física inicial de los cilindros, proporcionando el primer giro vigoroso que despierta la máquina de combustión."
+  },
+  {
+    "intent_id": "caja_fusibles",
+    "keywords": [
+      "caja",
+      "fusibles",
+      "escudo",
+      "protector",
+      "cortocircuito",
+      "computadora"
+    ],
+    "base_response": "La caja principal de fusibles actúa como un escudo protector indispensable. Contiene pequeños filamentos metálicos calibrados que se derriten intencionalmente frente a sobrecargas severas, interrumpiendo el flujo eléctrico antes de que ocurra un peligroso incendio en el cableado."
+  },
+  {
+    "intent_id": "cableado_cobre",
+    "keywords": [
+      "cableado",
+      "hilos",
+      "cobre",
+      "aislantes",
+      "impulsos",
+      "chasis"
+    ],
+    "base_response": "El cableado estructurado forma el sistema nervioso completo del automóvil moderno. Consiste en miles de finos hilos de cobre envueltos en aislantes plásticos, los cuales transmiten datos precisos e impulsos eléctricos desde la computadora hacia cada rincón del chasis."
+  },
+  {
+    "intent_id": "rele_ignicion",
+    "keywords": [
+      "rele",
+      "interruptor",
+      "conductor",
+      "activar",
+      "campo",
+      "faros"
+    ],
+    "base_response": "El relé electromagnético funciona como un interruptor operado a distancia por el conductor. Utilizando corrientes ínfimas, logra activar un potente campo magnético interno que permite el paso seguro de cantidades masivas de energía destinadas a los faros principales."
+  },
+  {
+    "intent_id": "bujias_encendido",
+    "keywords": [
+      "bujias",
+      "chispas",
+      "encender",
+      "mezcla",
+      "explosiones",
+      "ruedas"
+    ],
+    "base_response": "Las bujías de encendido generan chispas diminutas pero extremadamente calientes dentro del cilindro presurizado. Este evento eléctrico enciende violentamente la mezcla vaporizada de gasolina y oxígeno, creando explosiones controladas que empujan los pistones y mueven las ruedas motrices."
+  },
+  {
+    "intent_id": "bobina_ignicion",
+    "keywords": [
+      "bobina",
+      "voltios",
+      "tension",
+      "saltar",
+      "espacio",
+      "electrodos"
+    ],
+    "base_response": "La bobina transforma los doce voltios originarios en decenas de miles de voltios instantáneamente. Esta asombrosa elevación de tensión resulta absolutamente necesaria para lograr que la corriente logre saltar el espacio abierto entre los pequeños electrodos de la bujía."
+  },
+  {
+    "intent_id": "faros_halogenos",
+    "keywords": [
+      "faros",
+      "halogenos",
+      "haces",
+      "filamentos",
+      "iluminacion",
+      "accidentes"
+    ],
+    "base_response": "Los faros halógenos emiten haces de luz potentes calentando filamentos de tungsteno encerrados en cápsulas de gas inerte. Este principio lumínico básico brinda excelente visibilidad durante las travesías nocturnas, previniendo accidentes fatales gracias a una iluminación ancha y profunda."
+  },
+  {
+    "intent_id": "sensor_oxigeno",
+    "keywords": [
+      "sensor",
+      "oxigeno",
+      "gases",
+      "escape",
+      "emisiones",
+      "computadora"
+    ],
+    "base_response": "El sensor de oxígeno revisa cuidadosamente todos los gases expulsados por el escape trasero. Al medir la cantidad de combustible sin quemar, envía señales urgentes a la computadora para ajustar la inyección líquida, reduciendo drásticamente las emisiones químicas contaminantes."
+  },
+  {
+    "intent_id": "computadora_motor",
+    "keywords": [
+      "computadora",
+      "cerebro",
+      "motor",
+      "calculos",
+      "regulacion",
+      "inyeccion"
+    ],
+    "base_response": "La computadora central del motor procesa millones de cálculos matemáticos precisos por segundo. Actúa como el cerebro operativo, leyendo variables ambientales externas para regular los tiempos de inyección y optimizar el rendimiento térmico en todo momento del viaje."
+  },
+  {
+    "intent_id": "panel_instrumentos",
+    "keywords": [
+      "panel",
+      "instrumentos",
+      "pantallas",
+      "temperatura",
+      "revoluciones",
+      "fallas"
+    ],
+    "base_response": "El panel de instrumentos ilumina diversas pantallas y agujas analógicas frente al piloto. Funciona como una interfaz visual que revela la temperatura del refrigerante, las revoluciones por minuto y las advertencias críticas sobre posibles fallas en el sistema."
+  },
+  {
+    "intent_id": "inmovilizador_sistema",
+    "keywords": [
+      "inmovilizador",
+      "bloqueo",
+      "suministro",
+      "llave",
+      "codigo",
+      "robo"
+    ],
+    "base_response": "El sistema inmovilizador bloquea por completo el suministro eléctrico hacia la bomba de gasolina. Solo permite iniciar la marcha cuando reconoce un código digital único oculto en el interior de la llave original, evitando numerosos intentos de robo vehicular."
+  },
+  {
+    "intent_id": "toma_tierra",
+    "keywords": [
+      "toma",
+      "tierra",
+      "carroceria",
+      "ruta",
+      "circuitos",
+      "focos"
+    ],
+    "base_response": "La toma a tierra utiliza la misma carrocería metálica como ruta de retorno eléctrico general. En lugar de instalar enormes cantidades de cables duplicados, los ingenieros aprovechan el chasis conductor para cerrar los circuitos desde los focos hasta la batería."
+  },
+  {
+    "intent_id": "sensor_detonacion",
+    "keywords": [
+      "detonacion",
+      "microfono",
+      "bloque",
+      "vibraciones",
+      "encendido",
+      "bielas"
+    ],
+    "base_response": "El sensor de detonación funciona como un micrófono supersensible pegado al bloque del motor. Detecta vibraciones destructivas producidas por combustiones anticipadas, avisando de inmediato a la centralita para modificar el momento exacto del encendido y proteger las bielas mecánicas."
+  },
+  {
+    "intent_id": "regulador_voltaje",
+    "keywords": [
+      "regulador",
+      "voltaje",
+      "limite",
+      "alternador",
+      "sobrecarga",
+      "microchips"
+    ],
+    "base_response": "El regulador de voltaje mantiene la tensión eléctrica del coche dentro de límites totalmente seguros. Si el alternador gira demasiado rápido, este dispositivo inteligente corta el exceso de producción, impidiendo que una sobrecarga repentina queme los delicados microchips integrados."
+  },
+  {
+    "intent_id": "diodos_rectificadores",
+    "keywords": [
+      "diodos",
+      "puertas",
+      "electrones",
+      "rotor",
+      "corriente",
+      "celdas"
+    ],
+    "base_response": "Los diodos rectificadores actúan como puertas de una sola dirección para los electrones en movimiento. Transforman la caótica corriente alterna generada por el rotor magnético en una corriente continua perfecta, la cual resulta asimilable para recargar las celdas químicas."
+  },
+  {
+    "intent_id": "interruptor_encendido",
+    "keywords": [
+      "interruptor",
+      "encendido",
+      "llave",
+      "tambor",
+      "inyeccion",
+      "arrancador"
+    ],
+    "base_response": "El interruptor de encendido es el núcleo mecánico que habilita todos los sistemas. Al girar el tambor con la llave dentada, se conectan múltiples contactos cobrizos que despiertan la computadora, habilitan la inyección y lanzan energía al arrancador simultáneamente."
+  },
+  {
+    "intent_id": "bomba_combustible",
+    "keywords": [
+      "bomba",
+      "combustible",
+      "presurizacion",
+      "gasolina",
+      "inyectores",
+      "aceleracion"
+    ],
+    "base_response": "La bomba de combustible sumergida presuriza constantemente la gasolina fresca desde el tanque trasero. Utilizando un pequeño motor eléctrico rotativo, asegura que los inyectores delanteros siempre dispongan del líquido necesario para mantener la aceleración fluida en las carreteras largas."
+  },
+  {
+    "intent_id": "sensor_ciguenal",
+    "keywords": [
+      "posicion",
+      "ciguenal",
+      "rueda",
+      "lectura",
+      "piston",
+      "sincronizacion"
+    ],
+    "base_response": "El sensor de posición del cigüeñal lee magnéticamente las muescas de una rueda dentada giratoria. Esta lectura milimétrica informa a la unidad de control en qué parte del recorrido se encuentra cada pistón, sincronizando perfectamente la inyección y el encendido."
+  },
+  {
+    "intent_id": "motor_limpiaparabrisas",
+    "keywords": [
+      "limpiaparabrisas",
+      "motor",
+      "varillas",
+      "escobillas",
+      "lluvia",
+      "conduccion"
+    ],
+    "base_response": "El motor del limpiaparabrisas transforma energía eléctrica continua en movimientos oscilatorios rítmicos muy fuertes. Mediante un sistema de varillas metálicas articuladas, garantiza que las escobillas de goma barran la lluvia rápidamente, manteniendo el parabrisas despejado para una conducción segura."
+  },
+  {
+    "intent_id": "ventilador_radiador",
+    "keywords": [
+      "ventilador",
+      "radiador",
+      "aspas",
+      "succion",
+      "calor",
+      "aire"
+    ],
+    "base_response": "El ventilador eléctrico del radiador arranca automáticamente cuando el líquido refrigerante alcanza temperaturas críticas. Sus aspas plásticas succionan grandes volúmenes de aire frío ambiental a través de los pequeños canales de aluminio, disipando el calor excesivo durante atascos de tráfico."
+  },
+  {
+    "intent_id": "luces_direccionales",
+    "keywords": [
+      "luces",
+      "direccionales",
+      "destellos",
+      "circuito",
+      "giros",
+      "colisiones"
+    ],
+    "base_response": "Las luces direccionales emiten destellos intermitentes anaranjados para comunicar las intenciones del piloto. Un circuito electrónico temporizador controla este parpadeo constante, alertando eficazmente a los demás conductores sobre los giros inminentes y ayudando a evitar peligrosas colisiones laterales sorpresivas."
+  },
+  {
+    "intent_id": "cierre_centralizado",
+    "keywords": [
+      "cierre",
+      "centralizado",
+      "motores",
+      "boton",
+      "actuadores",
+      "pestillos"
+    ],
+    "base_response": "El sistema de cierre centralizado utiliza motores miniatura instalados dentro del marco de cada puerta. Al oprimir un solo botón en el mando a distancia, estos actuadores mecánicos aseguran o liberan simultáneamente todos los pestillos del coche con gran rapidez."
+  },
+  {
+    "intent_id": "luz_antiniebla",
+    "keywords": [
+      "luz",
+      "antiniebla",
+      "asfalto",
+      "resplandor",
+      "gotas",
+      "vision"
+    ],
+    "base_response": "La luz antiniebla proyecta un haz lumínico extremadamente ancho y rasante sobre el asfalto. Su diseño óptico específico evita reflejar el resplandor contra las diminutas gotas de agua suspendidas, mejorando notablemente la visión humana durante tormentas cerradas o neblinas densas."
+  },
+  {
+    "intent_id": "escaner_diagnostico",
+    "keywords": [
+      "escaner",
+      "diagnostico",
+      "tablero",
+      "tecnico",
+      "averia",
+      "reparacion"
+    ],
+    "base_response": "El escáner de diagnóstico se enchufa directamente bajo el tablero para conversar con la computadora. Permite al técnico especializado leer códigos de avería almacenados en la memoria digital, facilitando la reparación rápida de sensores dañados y problemas de rendimiento ocultos."
+  },
+  {
+    "intent_id": "resistencias_calefaccion",
+    "keywords": [
+      "resistencias",
+      "calefaccion",
+      "invierno",
+      "disipacion",
+      "ventilacion",
+      "pasajeros"
+    ],
+    "base_response": "Las resistencias de calefacción calientan el aire soplado hacia el interior del habitáculo en invierno. Empleando principios físicos de disipación de potencia, logran regular distintas velocidades de ventilación, brindando máximo confort térmico a los pasajeros que enfrentan el frío extremo."
+  },
+  {
+    "intent_id": "frenos_antibloqueo",
+    "keywords": [
+      "frenos",
+      "antibloqueo",
+      "sensores",
+      "ruedas",
+      "modulo",
+      "curvas"
+    ],
+    "base_response": "El sistema antibloqueo de frenos utiliza sensores magnéticos en cada rueda para medir deslizamientos. Si detecta un bloqueo inminente, un módulo electrónico pulsa rápidamente la presión hidráulica, permitiendo que el coche frene fuertemente sin perder la capacidad de maniobrar curvas."
+  },
+  {
+    "intent_id": "faros_xenon",
+    "keywords": [
+      "xenon",
+      "destellos",
+      "arcos",
+      "electrodos",
+      "ionizacion",
+      "iluminacion"
+    ],
+    "base_response": "Los faros de xenón producen destellos azulados creando un arco eléctrico espectacular entre dos electrodos. Al ionizar un gas noble a altísima presión, generan cantidades masivas de luz brillante consumiendo mucha menos energía eléctrica que las bombillas incandescentes antiguas convencionales."
+  },
+  {
+    "intent_id": "terminal_positivo",
+    "keywords": [
+      "terminal",
+      "positivo",
+      "amperaje",
+      "plomo",
+      "chispazos",
+      "fusibles"
+    ],
+    "base_response": "El terminal positivo de la batería es el principal punto de partida del amperaje. Cuenta con abrazaderas de plomo gruesas que garantizan un contacto mecánico sumamente firme, evitando chispazos peligrosos y asegurando que la energía fluya libremente hacia los fusibles."
+  },
+  {
+    "intent_id": "fusibles_cuchilla",
+    "keywords": [
+      "cuchilla",
+      "fusibles",
+      "carcasas",
+      "plastico",
+      "inspeccion",
+      "diagnosticos"
+    ],
+    "base_response": "Los fusibles tipo cuchilla utilizan carcasas de plástico transparente coloreadas según su capacidad. Este brillante diseño permite inspeccionar visualmente el pequeño filamento interior quemado sin usar herramientas especiales, agilizando enormemente los diagnósticos rápidos en las carreteras solitarias y oscuras."
+  },
+  {
+    "intent_id": "pedal_freno",
+    "keywords": [
+      "pedal",
+      "freno",
+      "luces",
+      "mecanismo",
+      "desaceleracion",
+      "vehiculos"
+    ],
+    "base_response": "El interruptor del pedal de freno enciende luces rojas muy intensas en la zona posterior. Con apenas rozar el pedal central, este mecanismo advierte instantáneamente a los vehículos cercanos sobre tu desaceleración brusca, salvando vidas durante embotellamientos viales muy repentinos."
+  },
+  {
+    "intent_id": "bus_datos",
+    "keywords": [
+      "datos",
+      "cables",
+      "cobre",
+      "dialogos",
+      "pulsos",
+      "fallas"
+    ],
+    "base_response": "El sistema bus de datos elimina enormes kilos de pesados cables de cobre analógicos convencionales. Permite que múltiples módulos electrónicos dialoguen a altísima velocidad mediante pulsos digitales, compartiendo información vital como la rapidez actual o posibles fallas del motor."
+  },
+  {
+    "intent_id": "bujia_precalentamiento",
+    "keywords": [
+      "precalentamiento",
+      "bujia",
+      "temperatura",
+      "cilindros",
+      "aire",
+      "combustible"
+    ],
+    "base_response": "La bujía de precalentamiento eleva la temperatura interna en los cilindros de motores diésel fríos. Como estos vehículos carecen de chispas, necesitan calentar fuertemente el aire comprimido inicial para lograr que el combustible inyectado se inflame de manera totalmente espontánea."
+  },
+  {
+    "intent_id": "claxon_sonoro",
+    "keywords": [
+      "claxon",
+      "advertencias",
+      "diafragma",
+      "accidentes",
+      "peatones",
+      "avenidas"
+    ],
+    "base_response": "El claxon automotriz produce advertencias acústicas estridentes accionando un diafragma metálico mediante inducción magnética rápida. Resulta una herramienta sonora verdaderamente fundamental para evitar accidentes inminentes y alertar rápidamente a peatones distraídos que cruzan sorpresivamente las concurridas avenidas de la ciudad."
+  },
+  {
+    "intent_id": "luz_cabina",
+    "keywords": [
+      "cabina",
+      "circuito",
+      "apagado",
+      "puerta",
+      "ocupantes",
+      "chofer"
+    ],
+    "base_response": "La luz interior de la cabina cuenta con un circuito de apagado gradual temporizado suavemente. Se enciende de manera automática al abrir cualquier puerta principal, ofreciendo comodidad visual inmejorable a los ocupantes sin deslumbrar en ningún momento al chofer designado."
+  },
+  {
+    "intent_id": "sensor_refrigerante",
+    "keywords": [
+      "refrigerante",
+      "resistencia",
+      "calor",
+      "bloque",
+      "pistones",
+      "computadora"
+    ],
+    "base_response": "El sensor de temperatura del refrigerante es una resistencia térmica que disminuye su valor al calentarse. La computadora lee este cambio eléctrico instantáneo para conocer si el bloque motriz está demasiado caliente, inyectando más combustible para refrescar internamente los pistones."
+  },
+  {
+    "intent_id": "pretensor_cinturon",
+    "keywords": [
+      "pretensor",
+      "cinturon",
+      "impacto",
+      "detonadores",
+      "pasajero",
+      "asiento"
+    ],
+    "base_response": "El pretensor del cinturón emplea pequeños sensores de impacto conectados a detonadores pirotécnicos minúsculos eléctricos. Al ocurrir un choque severo, elimina la holgura de la cinta en milisegundos, amarrando firmemente al pasajero contra el asiento para maximizar su propia supervivencia."
+  },
+  {
+    "intent_id": "camaras_traseras",
+    "keywords": [
+      "camaras",
+      "aparcamiento",
+      "video",
+      "pantalla",
+      "obstaculos",
+      "maniobras"
+    ],
+    "base_response": "Las cámaras traseras de aparcamiento envían señales de video nítidas hacia la pantalla del tablero. Combinadas con medidores ultrasónicos, advierten al piloto sobre obstáculos bajos invisibles desde los espejos, facilitando enormes maniobras complejas en espacios urbanos muy cerrados y angostos."
+  },
+  {
+    "intent_id": "ventanas_electricas",
+    "keywords": [
+      "ventanas",
+      "electricas",
+      "mecanismos",
+      "motores",
+      "botones",
+      "cristales"
+    ],
+    "base_response": "Los módulos de ventanas eléctricas emplean mecanismos de tijera acoplados a motores de imán permanente. Al accionar un diminuto botón, el sistema sube o baja los pesados cristales laterales sin esfuerzo humano, aportando seguridad y confort en peajes de autopista."
+  },
+  {
+    "intent_id": "sensor_flujo",
+    "keywords": [
+      "flujo",
+      "aire",
+      "viento",
+      "masa",
+      "oxigeno",
+      "calor"
+    ],
+    "base_response": "El sensor de flujo de aire masivo utiliza un hilo caliente expuesto al viento aspirado. Al enfriarse por el aire entrante, la centralita mide cuánta electricidad necesita para recalentarlo, determinando con increíble precisión la masa exacta de oxígeno disponible."
+  },
+  {
+    "intent_id": "presion_neumaticos",
+    "keywords": [
+      "presion",
+      "neumaticos",
+      "radiofrecuencia",
+      "llanta",
+      "alarma",
+      "reventones"
+    ],
+    "base_response": "La red de sensores de presión de neumáticos transmite datos por radiofrecuencia hacia la cabina. Si detecta que alguna llanta pierde aire silenciosamente, enciende una alarma visual inmediata, previniendo accidentes catastróficos causados por reventones incontrolables a gran velocidad de crucero."
+  },
+  {
+    "intent_id": "empalmes_cables",
+    "keywords": [
+      "empalmes",
+      "uniones",
+      "cableado",
+      "calor",
+      "sello",
+      "lluvia"
+    ],
+    "base_response": "Los empalmes termorretráctiles protegen fuertemente las delicadas uniones metálicas de todo el cableado expuesto exterior. Al aplicarles calor directo, su material plástico especial se contrae drásticamente, creando un sello hermético impenetrable que evita la corrosión sulfatante causada por la lluvia."
+  },
+  {
+    "intent_id": "control_crucero",
+    "keywords": [
+      "crucero",
+      "velocidad",
+      "acelerador",
+      "piernas",
+      "comodidad",
+      "gasolina"
+    ],
+    "base_response": "El control de crucero electrónico mantiene una rapidez constante ajustando sutilmente la apertura del acelerador. Permite al chofer descansar sus piernas durante prolongadas travesías por la carretera, mejorando enormemente la comodidad y optimizando el consumo total de gasolina sin variaciones."
+  },
+  {
+    "intent_id": "acelerador_electronico",
+    "keywords": [
+      "acelerador",
+      "potenciometros",
+      "exactitud",
+      "pedal",
+      "aire",
+      "respuesta"
+    ],
+    "base_response": "El acelerador electrónico reemplaza los antiguos cables tensores de acero por potenciómetros de altísima exactitud. Registra milimétricamente la posición real del pedal pisado y envía pulsos digitales precisos hacia una mariposa motorizada que dosifica el aire con respuesta totalmente inmediata."
+  },
+  {
+    "intent_id": "baterias_litio",
+    "keywords": [
+      "litio",
+      "iones",
+      "hibridos",
+      "kilovatios",
+      "celdas",
+      "motores"
+    ],
+    "base_response": "Las baterías de iones de litio impulsan con extrema fuerza a los coches híbridos y ecológicos. Almacenan inmensas cantidades de kilovatios en celdas sumamente livianas, revolucionando por completo la industria automotriz al brindar mayores rangos sin emitir gases nocivos perjudiciales."
+  },
+  {
+    "intent_id": "sensor_direccion",
+    "keywords": [
+      "angulo",
+      "direccion",
+      "volante",
+      "giros",
+      "derrapes",
+      "trayectoria"
+    ],
+    "base_response": "El sensor de ángulo de dirección vigila los giros del volante constantemente durante todo el trayecto. Sus mediciones ópticas informan al control de estabilidad si el coche está derrapando lateralmente, frenando independientemente cada rueda para corregir la trayectoria perdida."
+  },
+  {
+    "intent_id": "asistencia_direccion",
+    "keywords": [
+      "asistencia",
+      "direccion",
+      "bombas",
+      "motor",
+      "fuerza",
+      "estacionamientos"
+    ],
+    "base_response": "El sistema electrónico de asistencia de dirección reemplaza las ruidosas bombas hidráulicas convencionales antiguas. Usa un motor eléctrico acoplado a la columna del volante que aporta fuerza extra al girar, reduciendo el consumo energético notablemente mientras se maniobra en estacionamientos."
+  },
+  {
+    "intent_id": "pantallas_tactiles",
+    "keywords": [
+      "pantallas",
+      "navegacion",
+      "climatizacion",
+      "botones",
+      "cerebro",
+      "usuario"
+    ],
+    "base_response": "Las pantallas táctiles multimedia agrupan controles de navegación satelital, climatización ambiental y entretenimiento musical moderno. Funcionan como verdaderos cerebros interactivos de cristal, reemplazando innumerables botones plásticos para ofrecer una estética limpia, vanguardista y muy intuitiva al usuario del vehículo actual."
+  },
+  {
+    "intent_id": "inversor_voltaje",
+    "keywords": [
+      "inversor",
+      "voltaje",
+      "corriente",
+      "motores",
+      "traccion",
+      "aceleraciones"
+    ],
+    "base_response": "El inversor de voltaje convierte corrientes continuas de grandes baterías hacia corriente alterna muy potente. Es la pieza indispensable de todo coche eléctrico, ya que alimenta directamente a los motores de tracción permitiendo aceleraciones asombrosas y completamente silenciosas al andar."
+  },
+  {
+    "intent_id": "espejos_retrovisores",
+    "keywords": [
+      "espejos",
+      "retrovisores",
+      "engranajes",
+      "vidrio",
+      "conductor",
+      "teclas"
+    ],
+    "base_response": "Los espejos retrovisores eléctricos utilizan engranajes miniaturizados ocultos detrás de los delgados paneles de vidrio reflexivo. El conductor ajusta los ángulos visuales cómodamente pulsando teclas diminutas, logrando anular puntos ciegos peligrosos sin tener que estirarse físicamente a través del habitáculo."
+  },
+  {
+    "intent_id": "radar_anticolision",
+    "keywords": [
+      "radar",
+      "anticolision",
+      "ondas",
+      "distancia",
+      "obstaculos",
+      "frenos"
+    ],
+    "base_response": "El radar anticolisión emite veloces ondas electromagnéticas milimétricas midiendo exactamente la distancia hacia obstáculos frontales rodantes. Si detecta un frenazo repentino del camión precedente, aplica los frenos hidráulicos con total autonomía, mitigando daños materiales y salvando vidas de choques catastróficos."
+  },
+  {
+    "intent_id": "inmovilizador_pasivo",
+    "keywords": [
+      "chips",
+      "inmovilizador",
+      "llaves",
+      "transpondedores",
+      "contrasenas",
+      "propulsor"
+    ],
+    "base_response": "El sistema inmovilizador pasivo funciona leyendo chips encapsulados incrustados profundamente dentro de las llaves plásticas. Sin ninguna batería interna, estos minúsculos transpondedores responden al campo magnético del tambor de encendido devolviendo contraseñas encriptadas irrompibles que autorizan la marcha del propulsor."
+  },
+  {
+    "intent_id": "valvula_gases",
+    "keywords": [
+      "valvula",
+      "recirculacion",
+      "gases",
+      "admision",
+      "combustion",
+      "temperaturas"
+    ],
+    "base_response": "La válvula electrónica de gases quemados recircula porciones del humo sofocante hacia la admisión limpia delantera. Este sofisticado proceso controlado por computadora reduce drásticamente las altísimas temperaturas pico de combustión, eliminando la formación de letales óxidos de nitrógeno atmosféricos contaminantes."
+  },
+  {
+    "intent_id": "luces_advertencia",
+    "keywords": [
+      "advertencia",
+      "luces",
+      "tablero",
+      "desgaste",
+      "averias",
+      "cilindros"
+    ],
+    "base_response": "Las luces de advertencia amarillas parpadean incesantemente avisando a los talleres sobre desgastes anormales ocultos. Ignorar estos pequeños iconos luminosos del tablero principal ocasiona invariablemente averías motrices gigantescas que requerirán desmontar enormes porciones del tren motriz para reparar los cilindros."
+  },
+  {
+    "intent_id": "carga_inteligente",
+    "keywords": [
+      "carga",
+      "alternador",
+      "caballos",
+      "empujes",
+      "combustible",
+      "voltajes"
+    ],
+    "base_response": "Los sistemas de carga inteligente desconectan temporalmente el alternador rotativo durante aceleraciones profundas máximas. Esto libera varios caballos de fuerza adicionales, proporcionando empujes inmediatos al adelantar camiones lentos y mejorando la eficiencia general del combustible sin comprometer voltajes operativos críticos."
+  },
+  {
+    "intent_id": "botoneras_alzavidrios",
+    "keywords": [
+      "alzavidrios",
+      "plaquetas",
+      "circuitos",
+      "barrera",
+      "cortocircuitos",
+      "cristales"
+    ],
+    "base_response": "Las botoneras de alzavidrios contienen plaquetas de circuitos impresos recubiertas con selladores de silicona. Esta ingeniosa barrera química impide que diminutas gotas de lluvia ingresen durante tormentas, evitando terribles cortocircuitos que dejarían los cristales completamente trabados a mitad de recorrido."
+  },
+  {
+    "intent_id": "sensor_acustico",
+    "keywords": [
+      "ecos",
+      "ultrasonido",
+      "estacionamiento",
+      "parachoques",
+      "pitidos",
+      "camaras"
+    ],
+    "base_response": "El sensor acústico de estacionamiento emite ecos ultrasónicos que rebotan contra los parachoques de automóviles cercanos. Un procesador traduce los tiempos de retorno en sonoros pitidos intermitentes acelerados, guiando eficazmente las reversas milimétricas sin requerir complejos sistemas de cámaras visuales."
+  },
+  {
+    "intent_id": "luneta_termica",
+    "keywords": [
+      "luneta",
+      "termica",
+      "lineas",
+      "mando",
+      "hielo",
+      "vision"
+    ],
+    "base_response": "La luneta térmica trasera contiene delgadas líneas horizontales rojizas hechas con pastas conductoras adheridas. Al presionar el mando climatizador, una intensa corriente cálida disuelve instantáneamente placas de hielo espeso y densas escarchas, devolviendo perfecta nitidez visual hacia el horizonte posterior."
+  },
+  {
+    "intent_id": "conectores_estancos",
+    "keywords": [
+      "conectores",
+      "cableado",
+      "juntas",
+      "goma",
+      "contactos",
+      "comunicaciones"
+    ],
+    "base_response": "Los conectores estancos del cableado automotriz emplean juntas de goma anaranjadas selladas herméticamente. Evitan que el barro corrosivo de las carreteras inunde los contactos metálicos delicados de sensores bajos, asegurando que las comunicaciones electrónicas viajen inalteradas hacia la caja centralita."
+  }
+]
