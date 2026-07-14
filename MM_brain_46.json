@@ -1,0 +1,1761 @@
+[
+  {
+    "intent_id": "robotica_electricidad_001",
+    "keywords": [
+      "corriente",
+      "electricidad",
+      "carga",
+      "induccion",
+      "flujo"
+    ],
+    "base_response": "La electricidad (del griego ήλεκτρον élektron, cuyo significado es ‘ámbar’)​ es el conjunto de fenómenos físicos relacionados con la presencia y flujo de carga eléctricas. Se manifiesta en una gran variedad de fenómenos como los rayos, la electricidad estática, la inducción electromagnética o el flujo de corriente eléctrica."
+  },
+  {
+    "intent_id": "robotica_electricidad_002",
+    "keywords": [
+      "distancia",
+      "campo",
+      "carga",
+      "fuerza"
+    ],
+    "base_response": "Campo eléctrico: un tipo de campo electromagnético producido por una carga eléctrica, incluso cuando no se está moviendo. El campo eléctrico produce una fuerza en toda otra carga, menor cuanto mayor sea la distancia que separa las dos cargas."
+  },
+  {
+    "intent_id": "robotica_electricidad_003",
+    "keywords": [
+      "campo",
+      "fuerza",
+      "espacio",
+      "concepto"
+    ],
+    "base_response": "El concepto de campo eléctrico fue introducido por Michael Faraday. Un campo eléctrico se crea por un cuerpo cargado en el espacio que lo rodea, y produce una fuerza que ejerce sobre otras cargas ubicadas en el campo."
+  },
+  {
+    "intent_id": "robotica_electricidad_004",
+    "keywords": [
+      "fuerza",
+      "campo",
+      "distancia",
+      "carga"
+    ],
+    "base_response": "Si un cuerpo grande como un planeta no tiene carga neta, el campo eléctrico a una distancia determinada es cero. Por ello, la gravedad es la fuerza dominante en el universo, a pesar de ser mucho más débil.​."
+  },
+  {
+    "intent_id": "robotica_electricidad_005",
+    "keywords": [
+      "carga",
+      "campo",
+      "concepto",
+      "fuerza"
+    ],
+    "base_response": "El concepto de potencial eléctrico tiene mucha relación con el de campo eléctrico. Una carga pequeña ubicada en un campo eléctrico experimenta una fuerza, y para llevar esa carga a ese punto en contra de la fuerza necesita hacer un trabajo."
+  },
+  {
+    "intent_id": "robotica_electricidad_006",
+    "keywords": [
+      "electron",
+      "cobre",
+      "corriente",
+      "flujo"
+    ],
+    "base_response": "Los materiales conductores por excelencia son metales que normalmente tienen un único electrón en la última capa electrónica, como el cobre. Estos electrones pueden pasar con facilidad a átomos contiguos, constituyendo los electrones libres responsables del flujo de corriente eléctrica.​."
+  },
+  {
+    "intent_id": "robotica_electricidad_007",
+    "keywords": [
+      "temperatura",
+      "potencia",
+      "frecuencia",
+      "aislante"
+    ],
+    "base_response": "Algunos materiales, como el aire o el agua, son aislantes bajo ciertas condiciones pero no para otras. El aire, por ejemplo, es aislante a temperatura ambiente y seco pero, bajo condiciones de frecuencia de la señal y potencia relativamente bajas, puede convertirse en conductor.​."
+  },
+  {
+    "intent_id": "robotica_electricidad_008",
+    "keywords": [
+      "sistema",
+      "movimiento",
+      "fuerza",
+      "ley",
+      "campo"
+    ],
+    "base_response": "Esta transformación se consigue por la acción de un campo magnético sobre los conductores eléctricos. Si se produce mecánicamente un movimiento relativo entre los conductores y el campo, se generará una fuerza electromotriz (FEM). Este sistema está basado en la ley de Faraday."
+  },
+  {
+    "intent_id": "robotica_electricidad_009",
+    "keywords": [
+      "hidraulica",
+      "energia",
+      "eolica",
+      "movimiento"
+    ],
+    "base_response": "Para lograr el movimiento se utiliza el del aire (eólica), agua (hidráulica), vapor u otros gases (térmica). La moderna turbina de vapor inventada por Charles Algernon Parsons en 1884 genera cerca del 80 % de la energía eléctrica en el mundo usando una gran variedad de fuentes de energía."
+  },
+  {
+    "intent_id": "robotica_electricidad_010",
+    "keywords": [
+      "transformador",
+      "transmitir",
+      "generar",
+      "electricidad",
+      "energia"
+    ],
+    "base_response": "La invención a finales del siglo XIX del transformador permitió transmitir la energía eléctrica de una forma más eficiente. La transmisión eléctrica eficiente hizo posible generar electricidad en plantas generadoras, para después trasportarla a largas distancias, donde fuera necesaria.​."
+  },
+  {
+    "intent_id": "robotica_electricidad_011",
+    "keywords": [
+      "corriente",
+      "dispositivo",
+      "generador",
+      "alternador"
+    ],
+    "base_response": "El primer alternador para producir corriente alterna fue un generador dinamoeléctrico basado en los principios de Michael Faraday, construido por el fabricante francés de instrumentos Hippolyte Pixii en 1832.​ Pixii más tarde agregó un conmutador a su dispositivo para producir la corriente continua (más utilizada)."
+  },
+  {
+    "intent_id": "robotica_electricidad_012",
+    "keywords": [
+      "potencia",
+      "fuente",
+      "serie",
+      "carga",
+      "induccion"
+    ],
+    "base_response": "Sin embargo, estas primeras bobinas de inducción con circuitos magnéticos abiertos son ineficientes en la transferencia de potencia a las cargas. Hasta aproximadamente 1880, el paradigma de la transmisión de CA desde una fuente de alta tensión a una carga de baja tensión era un circuito en serie."
+  },
+  {
+    "intent_id": "robotica_electricidad_013",
+    "keywords": [
+      "corriente",
+      "induccion",
+      "motor",
+      "energia"
+    ],
+    "base_response": "En 1888 el inventor e ingeniero serbio Nikola Tesla, diseñó y construyó el primer motor de inducción de corriente alterna, un aparato capaz de convertir una forma determinada de energía en energía mecánica de rotación, eso permite alimentar un motor con corriente alterna, antes de transformarse en corriente continua.​."
+  },
+  {
+    "intent_id": "robotica_electricidad_014",
+    "keywords": [
+      "bobina",
+      "induccion",
+      "corriente",
+      "principio"
+    ],
+    "base_response": "Posteriormente el físico William Stanley, reutilizó, en 1885, el principio de inducción para transferir la corriente alterna entre dos circuitos eléctricamente aislados. La idea central fue la de enrollar un par de bobinas en una base de hierro común, denominada bobina de inducción."
+  },
+  {
+    "intent_id": "robotica_electricidad_015",
+    "keywords": [
+      "joule",
+      "efecto",
+      "energia",
+      "corriente"
+    ],
+    "base_response": "Con esto la misma energía puede ser distribuida a largas distancias con bajas intensidades de corriente y, por tanto, con bajas pérdidas por causa del efecto Joule y otros efectos asociados al paso de corriente, tales como la histéresis o las corrientes de Foucault."
+  },
+  {
+    "intent_id": "robotica_electricidad_016",
+    "keywords": [
+      "medida",
+      "valor",
+      "positivo",
+      "amplitud"
+    ],
+    "base_response": "Pico o cresta: valor máximo, de signo positivo (+), que toma la oscilación sinusoidal del espectro electromagnético, cada medio ciclo, a partir del punto “0”. Ese valor aumenta o disminuye a medida que la amplitud “A” de la propia oscilación crece o decrece positivamente por encima del valor '0'."
+  },
+  {
+    "intent_id": "robotica_electricidad_017",
+    "keywords": [
+      "voltaje",
+      "desarrollo",
+      "corriente",
+      "distancia"
+    ],
+    "base_response": "A mediados de la década de 1950, se desarrolló la transmisión de corriente continua de alta tensión, y ahora es una opción en lugar de los sistemas de corriente alterna de alto voltaje de larga distancia."
+  },
+  {
+    "intent_id": "robotica_electricidad_018",
+    "keywords": [
+      "conexion",
+      "polaridad",
+      "aparato",
+      "transformador",
+      "negativo"
+    ],
+    "base_response": "En los aparatos con baterías recargables, el transformador - rectificador tiene una salida tal que la conexión con el aparato sólo puede hacerse de una manera, impidiendo así la inversión de la polaridad. En la norma sistemática europea el color negro corresponde al negativo y el rojo al positivo.​."
+  },
+  {
+    "intent_id": "robotica_electricidad_019",
+    "keywords": [
+      "corriente",
+      "evitar",
+      "conexion",
+      "telecomunicacion",
+      "polaridad"
+    ],
+    "base_response": "En los casos de instalaciones de gran envergadura, por ejemplo, centrales telefónicas y otros equipos de telecomunicación, donde existe una distribución centralizada de corriente continua para toda la sala de equipos se emplean elementos de conexión y protección adecuados para evitar la conexión errónea de polaridad."
+  },
+  {
+    "intent_id": "robotica_electricidad_020",
+    "keywords": [
+      "corriente",
+      "sistema",
+      "tiempo",
+      "valor",
+      "circuito"
+    ],
+    "base_response": "Una tensión o corriente de circuito particular no depende del valor pasado de ninguna tensión o corriente de circuito. Esto implica que el sistema de ecuaciones que representan un circuito de corriente continua no incluye integrales ni derivadas respecto al tiempo."
+  },
+  {
+    "intent_id": "robotica_electricidad_021",
+    "keywords": [
+      "condensador",
+      "circuito",
+      "terminal",
+      "negativo"
+    ],
+    "base_response": "En un circuito de corriente continua, una fuente de alimentación (por ejemplo, una batería, un condensador, etc.) tiene un terminal positivo y negativo, y de igual modo, la carga también tiene un terminal positivo y negativo."
+  },
+  {
+    "intent_id": "robotica_electricidad_022",
+    "keywords": [
+      "carga",
+      "fuente",
+      "bateria",
+      "terminal",
+      "circuito",
+      "negativo"
+    ],
+    "base_response": "Para completar el circuito, las cargas positivas deben fluir de la fuente de alimentación a la carga. Entonces, las cargas volverán al terminal negativo de la carga, que después volverá al terminal negativo de la batería, completando el circuito."
+  },
+  {
+    "intent_id": "robotica_electricidad_023",
+    "keywords": [
+      "corriente",
+      "conectar",
+      "carga",
+      "circuito",
+      "polaridad"
+    ],
+    "base_response": "En algunas aplicaciones de circuitos de corriente continua, la polaridad no importa, lo que significa que se puede conectar positivos y negativos hacia atrás y el circuito todavía estará completo y la carga seguirá funcionando normalmente."
+  },
+  {
+    "intent_id": "robotica_electricidad_024",
+    "keywords": [
+      "motor",
+      "sistema",
+      "bateria",
+      "energia"
+    ],
+    "base_response": "La mayoría de aplicaciones de automoción utilizan CC. Una batería de automóvil proporciona energía para el arranque del motor, la iluminación, el sistema de encendido, los controles de climatización y el sistema de infoentretenimiento, entre otros."
+  },
+  {
+    "intent_id": "robotica_electricidad_025",
+    "keywords": [
+      "corriente",
+      "motor",
+      "sistema",
+      "bateria"
+    ],
+    "base_response": "En un vehículo eléctrico de batería, normalmente existen dos sistemas de corriente continua separados. El sistema de corriente continua de 'baja tensión' funciona normalmente a 12 V y tiene el mismo propósito que en un vehículo con motor de combustión interna."
+  },
+  {
+    "intent_id": "robotica_electricidad_026",
+    "keywords": [
+      "sistema",
+      "fuente",
+      "terminal",
+      "comunicacion",
+      "polaridad",
+      "electricidad"
+    ],
+    "base_response": "Los equipos de comunicación de la central telefónica utilizan una fuente de alimentación estándar de −48 V CC. La polaridad negativa se consigue mediante la puesta a tierra del terminal positivo del sistema de alimentación y el banco de la batería (electricidad)."
+  },
+  {
+    "intent_id": "robotica_electricidad_027",
+    "keywords": [
+      "resistencia",
+      "pila",
+      "medir",
+      "corriente",
+      "instrumento"
+    ],
+    "base_response": "El óhmetro permite medir el valor en ohmios de las resistencias. Una pila interna hace circular una corriente a través de la resistencia a medir, el instrumento de medida y un potenciómetro (resistencia adicional de ajuste)."
+  },
+  {
+    "intent_id": "robotica_electricidad_028",
+    "keywords": [
+      "circuito",
+      "aparato",
+      "frecuencia",
+      "detectar",
+      "ayudar",
+      "generar"
+    ],
+    "base_response": "Generar y detectar la frecuencia intermedia de un aparato, así como un circuito amplificador con altavoz para ayudar en la sintonía de circuitos de estos aparatos. Permiten el seguimiento de la señal a través de todas las etapas del receptor bajo prueba."
+  },
+  {
+    "intent_id": "robotica_electricidad_029",
+    "keywords": [
+      "medir",
+      "capacidad",
+      "tester",
+      "circuito"
+    ],
+    "base_response": "Para medir una intensidad, abriremos el circuito en cualquiera de sus puntos, y configuraremos el tester adecuadamente (borna roja en clavija de amperios de más capacidad, 10 A en el caso del tester del ejemplo, borna negra en clavija común COM)."
+  },
+  {
+    "intent_id": "robotica_electricidad_030",
+    "keywords": [
+      "fuente",
+      "resistencia",
+      "medir",
+      "seguridad"
+    ],
+    "base_response": "Para mayor seguridad, también existen sondas con fusibles integrados. Un error común al manejar un multímetro es configurarlo para medir resistencia o intensidad, y luego conectarlo directamente a una fuente de tensión (de baja impedancia)."
+  },
+  {
+    "intent_id": "robotica_electricidad_031",
+    "keywords": [
+      "circuito",
+      "principio",
+      "corriente",
+      "elemento",
+      "fusible"
+    ],
+    "base_response": "El principio de funcionamiento del fusible es muy simple: se basa en intercalar un elemento más débil en el circuito, de manera tal que cuando la corriente alcance niveles que podrían dañar a los componentes del mismo, el fusible se funda e interrumpa la circulación de la corriente."
+  },
+  {
+    "intent_id": "robotica_electricidad_032",
+    "keywords": [
+      "fusible",
+      "entender",
+      "elemento",
+      "circuito",
+      "tecnologia",
+      "corriente"
+    ],
+    "base_response": "Que el elemento fusible o eslabón débil del circuito alcance la fusión no implica necesariamente que se interrumpa la corriente, siendo esta diferencia la clave para entender la tecnología involucrada en el aparentemente simple fusible."
+  },
+  {
+    "intent_id": "robotica_electricidad_033",
+    "keywords": [
+      "electricidad",
+      "efecto",
+      "conductor",
+      "estudio"
+    ],
+    "base_response": "Estos experimentos consistían en el estudio del efecto de la electricidad sobre las plantas, animales y voluntarios humanos, para lo cual se producían corrientes elevadas mediante descargas de condensadores (botellas de vidrio recubiertas internamente y externamente con placas metálicas), protegiendo a los elementos con un conductor de baja sección."
+  },
+  {
+    "intent_id": "robotica_electricidad_034",
+    "keywords": [
+      "energia",
+      "cantidad",
+      "valor",
+      "corriente"
+    ],
+    "base_response": "En forma analítica, la constante de Meyer es el valor de la integral de la densidad de corriente elevada al cuadrado, la cual almacena en el elemento una cantidad de calor suficiente para provocar la fusión, integral que recibió el nombre de energía específica."
+  },
+  {
+    "intent_id": "robotica_electricidad_035",
+    "keywords": [
+      "fusible",
+      "desarrollo",
+      "corriente",
+      "capacidad"
+    ],
+    "base_response": "En esa altura de desarrollo se disponía fusibles abiertos, capaces de funcionar desde unos pocos voltios hasta los 70 kV, recibiendo el nombre de fusible de expulsión, poseyendo muy poca capacidad de interrupción de corriente."
+  },
+  {
+    "intent_id": "robotica_electricidad_036",
+    "keywords": [
+      "fusible",
+      "electricidad",
+      "desarrollo",
+      "campo"
+    ],
+    "base_response": "Otro campo de muy alto desarrollo actual fusible para automotores, debido al agregado cada vez mayor de electrónica y electricidad en el automóvil. Éste, totalmente eléctrico o simplemente híbrido, contiene muchísimos circuitos eléctricos y con ellos un gran número de fusibles."
+  },
+  {
+    "intent_id": "robotica_electricidad_037",
+    "keywords": [
+      "magnitud",
+      "corriente",
+      "toma",
+      "capacidad",
+      "desarrollo"
+    ],
+    "base_response": "El próximo desarrollo que se espera de fusibles, que daría lugar a la próxima etapa, es el agregado de capacidad o habilidad de toma de decisiones o de adaptación, que haría que su operación sea modificada por condiciones de trabajo independientemente de la magnitud de la corriente."
+  },
+  {
+    "intent_id": "robotica_electricidad_038",
+    "keywords": [
+      "corriente",
+      "fusible",
+      "valor",
+      "evitar"
+    ],
+    "base_response": "Corriente de ruptura límite El valor máximo instantáneo alcanzado por la corriente durante la operación de ruptura del fusible, cuando opera en forma de evitar que la corriente alcance el valor máximo al que llegaría en ausencia del cortacircuito."
+  },
+  {
+    "intent_id": "robotica_electricidad_039",
+    "keywords": [
+      "mantener",
+      "robot",
+      "tiempo",
+      "proceso",
+      "controlar"
+    ],
+    "base_response": "Uno de los aspectos más complejos de estos robots, y sobre el que se centra la mayoría de los trabajos, es el de la locomoción bípeda. En este caso, el principal problema es controlar dinámica y coordinadamente en el tiempo real el proceso y mantener simultáneamente el equilibrio del robot."
+  },
+  {
+    "intent_id": "robotica_electricidad_040",
+    "keywords": [
+      "magnitud",
+      "propiedad",
+      "variar",
+      "sensor",
+      "medida"
+    ],
+    "base_response": "Un sensor es todo aquello que tiene una propiedad sensible a una magnitud del medio, y al variar esta magnitud también varía con cierta intensidad la propiedad, es decir, manifiesta la presencia de dicha magnitud, y también su medida."
+  },
+  {
+    "intent_id": "robotica_electricidad_041",
+    "keywords": [
+      "sensor",
+      "temperatura",
+      "magnitud",
+      "medida"
+    ],
+    "base_response": "Derivas: son otras magnitudes, aparte de la medida como magnitud de entrada, que influyen en la variable de salida. Por ejemplo, pueden ser condiciones ambientales, como la humedad, la temperatura u otras como el envejecimiento (oxidación, desgaste, etc.) del sensor."
+  },
+  {
+    "intent_id": "robotica_electricidad_042",
+    "keywords": [
+      "sensor",
+      "detectar",
+      "medida",
+      "digital",
+      "cantidad"
+    ],
+    "base_response": "La resolución del sensor o resolución de medida es el cambio más pequeño que se puede detectar en la cantidad que se está midiendo. La resolución de un sensor con salida digital suele ser la resolución numérica de la salida digital."
+  },
+  {
+    "intent_id": "robotica_electricidad_043",
+    "keywords": [
+      "propiedad",
+      "sensor",
+      "temperatura",
+      "medida"
+    ],
+    "base_response": "La mayoría de los sensores tienen una función de transferencia lineal. La sensibilidad se define entonces como la relación entre la señal de salida y la propiedad medida. Por ejemplo, si un sensor mide la temperatura y tiene una salida de tensión, la sensibilidad es constante con las unidades [V/K]."
+  },
+  {
+    "intent_id": "robotica_electricidad_044",
+    "keywords": [
+      "capacidad",
+      "modelo",
+      "medida",
+      "campo",
+      "carga"
+    ],
+    "base_response": "La denominada interacción electromagnética entre carga y campo eléctrico es una de las cuatro interacciones fundamentales de la física. Desde el punto de vista del modelo estándar la carga eléctrica es una medida de la capacidad que posee una partícula para intercambiar fotones."
+  },
+  {
+    "intent_id": "robotica_electricidad_045",
+    "keywords": [
+      "cantidad",
+      "sistema",
+      "coulomb",
+      "carga"
+    ],
+    "base_response": "En el Sistema Internacional de Unidades la unidad de carga eléctrica se denomina culombio o coulomb (símbolo C). Se define como la cantidad de carga que pasa por la sección transversal de un conductor eléctrico en un segundo, cuando la corriente eléctrica es de un amperio."
+  },
+  {
+    "intent_id": "robotica_electricidad_046",
+    "keywords": [
+      "carga",
+      "propiedad",
+      "electron",
+      "valor"
+    ],
+    "base_response": "Esta propiedad se conoce como cuantización de la carga y el valor fundamental corresponde al valor de carga eléctrica que posee el electrón y al cual se lo representa como e. Cualquier carga q que exista físicamente, puede escribirse como."
+  },
+  {
+    "intent_id": "robotica_electricidad_047",
+    "keywords": [
+      "electron",
+      "proton",
+      "neutron",
+      "carga"
+    ],
+    "base_response": "Por convención se representa a la carga del electrón como –e, para el protón +e y para el neutrón, 0. La física de partículas postula que la carga de los quarks, partículas que componen a protones y neutrones toman valores fraccionarios de esta carga elemental."
+  },
+  {
+    "intent_id": "robotica_electricidad_048",
+    "keywords": [
+      "principio",
+      "carga",
+      "proceso",
+      "sistema"
+    ],
+    "base_response": "En concordancia con los resultados experimentales, el principio de conservación de la carga establece que no hay destrucción ni creación neta de carga eléctrica, y afirma que en todo proceso electromagnético la carga total de un sistema aislado se conserva."
+  },
+  {
+    "intent_id": "robotica_electricidad_049",
+    "keywords": [
+      "efecto",
+      "carga",
+      "tierra",
+      "campo"
+    ],
+    "base_response": "Las fuerzas magnéticas dan información sobre los portadores de carga en un material a través del efecto Hall. La Tierra produce su propio campo magnético, que protege la capa de ozono de la Tierra del viento solar y es importante en la navegación mediante una brújula."
+  },
+  {
+    "intent_id": "robotica_electricidad_050",
+    "keywords": [
+      "efecto",
+      "velocidad",
+      "carga",
+      "campo",
+      "espacio",
+      "corriente"
+    ],
+    "base_response": "Entre las definiciones de campo magnético se encuentra la dada por la fuerza de Lorentz. Esto sería el efecto generado por una corriente eléctrica o un imán, sobre una región del espacio en la que una carga eléctrica puntual de valor (q), que se desplaza a una velocidad."
+  },
+  {
+    "intent_id": "robotica_electricidad_051",
+    "keywords": [
+      "carga",
+      "movimiento",
+      "direccion",
+      "componente"
+    ],
+    "base_response": "La fuerza sobre una carga eléctrica depende de su ubicación, velocidad y dirección; se utilizan dos campos vectoriales para describir esta fuerza.​ El primero es el campo eléctrico, que describe la fuerza que actúa sobre una carga estacionaria y da la componente de la fuerza que es independiente del movimiento."
+  },
+  {
+    "intent_id": "robotica_electricidad_052",
+    "keywords": [
+      "ley",
+      "coulomb",
+      "campo",
+      "electricidad"
+    ],
+    "base_response": "El campo H se ha considerado tradicionalmente el campo principal o intensidad de campo magnético, ya que se puede relacionar con unas cargas, masas o polos magnéticos por medio de una ley similar a la de Coulomb para la electricidad."
+  },
+  {
+    "intent_id": "robotica_electricidad_053",
+    "keywords": [
+      "unidad",
+      "flujo",
+      "campo",
+      "cantidad"
+    ],
+    "base_response": "Para caracterizar H y B se ha recurrido a varias distinciones. Así, H describe cuan intenso es el campo magnético en la región que afecta, mientras que B es la cantidad de flujo magnético por unidad de área que aparece en esa misma región."
+  },
+  {
+    "intent_id": "robotica_electricidad_054",
+    "keywords": [
+      "carga",
+      "movimiento",
+      "direccion",
+      "campo"
+    ],
+    "base_response": "Como se puede ver en el dibujo, independientemente de que la carga en movimiento sea positiva o negativa, en el punto A nunca aparece campo magnético; sin embargo, en los puntos B y C el campo magnético invierte su dirección dependiendo de si la carga es positiva o negativa."
+  },
+  {
+    "intent_id": "robotica_electricidad_055",
+    "keywords": [
+      "trayectoria",
+      "espacio",
+      "campo",
+      "velocidad"
+    ],
+    "base_response": "en un punto P de una región del espacio moviéndose a una cierta velocidad arbitraria v respecto a un cierto observador que no detecte campo eléctrico. Si el observador detecta una deflexión de la trayectoria de la partícula entonces en esa región existe un campo magnético."
+  },
+  {
+    "intent_id": "robotica_electricidad_056",
+    "keywords": [
+      "velocidad",
+      "induccion",
+      "fuerza",
+      "carga"
+    ],
+    "base_response": "se dispara con una velocidad v por un punto P y si obra una fuerza lateral F sobre la carga que se mueve, hay una inducción magnética B en el punto P siendo B el vector que satisface la relación:."
+  },
+  {
+    "intent_id": "robotica_electricidad_057",
+    "keywords": [
+      "fuerza",
+      "direccion",
+      "efecto",
+      "elemento"
+    ],
+    "base_response": "El hecho de que la fuerza magnética sea siempre perpendicular a la dirección del movimiento implica que el trabajo realizado por la misma sobre la carga, es cero. En efecto, para un elemento de longitud."
+  },
+  {
+    "intent_id": "robotica_electricidad_058",
+    "keywords": [
+      "tiempo",
+      "teoria",
+      "campo",
+      "espacio"
+    ],
+    "base_response": "La teoría de la relatividad especial probó que de la misma manera que espacio y tiempo no son conceptos absolutos, la parte eléctrica y magnética de un campo electromagnético dependen del observador. Eso significa que dados dos observadores."
+  },
+  {
+    "intent_id": "robotica_electricidad_059",
+    "keywords": [
+      "magnitud",
+      "direccion",
+      "conexion",
+      "campo"
+    ],
+    "base_response": "A continuación, se marca cada lugar con una flecha, llamada vector, que apunta en la dirección del campo magnético local con su magnitud proporcional a la intensidad del campo magnético. La conexión de estas flechas forma un conjunto de líneas de campo magnético."
+  },
+  {
+    "intent_id": "robotica_electricidad_060",
+    "keywords": [
+      "sentido",
+      "corriente",
+      "magnitud",
+      "valor"
+    ],
+    "base_response": "A un angstrom, que es un valor corriente para un radio atómico y por tanto el valor mínimo para el que puede tener sentido referirse al momento magnético de un ion, los valores son mil veces más elevados, esto es, del orden de magnitud del Tesla."
+  },
+  {
+    "intent_id": "robotica_electricidad_061",
+    "keywords": [
+      "fenomeno",
+      "girar",
+      "fuerza",
+      "magnetismo",
+      "campo",
+      "corriente"
+    ],
+    "base_response": "El fenómeno del magnetismo es ejercido por un campo magnético, por ejemplo, una corriente eléctrica o un dipolo magnético crea un campo magnético, este al girar imparte una fuerza magnética a otras partículas que están en el campo."
+  },
+  {
+    "intent_id": "robotica_electricidad_062",
+    "keywords": [
+      "fuerza",
+      "campo",
+      "movimiento",
+      "atomo",
+      "carga",
+      "corriente"
+    ],
+    "base_response": "La misma situación que crea campos magnéticos (carga en movimiento en una corriente o en un átomo y dipolos magnéticos intrínsecos) son también situaciones en que el campo magnético causa sus efectos creando una fuerza."
+  },
+  {
+    "intent_id": "robotica_electricidad_063",
+    "keywords": [
+      "campo",
+      "movimiento",
+      "fuerza",
+      "velocidad"
+    ],
+    "base_response": "Si el campo magnético es uniforme y perpendicular a la velocidad, la partícula describirá un movimiento circular uniforme cuyo radio de curvatura (radio de ciclotrón) está determinado por el balance de la fuerza magnética y la fuerza centrípeta:."
+  },
+  {
+    "intent_id": "robotica_electricidad_064",
+    "keywords": [
+      "direccion",
+      "velocidad",
+      "movimiento",
+      "magnitud",
+      "fuerza"
+    ],
+    "base_response": "La fuerza magnética no realiza trabajo mecánico en la partícula, cambia la dirección del movimiento de esta, pero esto no causa su aumento o disminución de la velocidad. La magnitud de la fuerza es :."
+  },
+  {
+    "intent_id": "robotica_electricidad_065",
+    "keywords": [
+      "espacio",
+      "frecuencia",
+      "mantener",
+      "campo"
+    ],
+    "base_response": "Ciclotrón: Acelerador de partículas resonante que emplea un campo magnético uniforme para mantener a los iones en órbitas circulares y un campo eléctrico alterno de alta frecuencia para acelerarlos cada vez que cruzan el espacio entre dos electrodos semicirculares (denominados 'As'ó 'dees')."
+  },
+  {
+    "intent_id": "robotica_electricidad_066",
+    "keywords": [
+      "carga",
+      "magnetismo",
+      "electricidad",
+      "conexion"
+    ],
+    "base_response": "Antes de que se descubriera la conexión entre el magnetismo y la electricidad, ya se habían inventado los generadores electrostáticos. Funcionaban según principios electrostáticos, mediante el uso de cintas, placas y discos cargados eléctricamente que llevaban la carga hasta un electrodo de alto potencial."
+  },
+  {
+    "intent_id": "robotica_electricidad_067",
+    "keywords": [
+      "flujo",
+      "ley",
+      "principio",
+      "conductor"
+    ],
+    "base_response": "El principio de funcionamiento de los generadores electromagnéticos fue descubierto en los años 1831-1832 por Michael Faraday. El principio, más tarde llamado ley de Faraday, es que se genera una fuerza electromotriz en un conductor eléctrico que rodea un flujo magnético variable."
+  },
+  {
+    "intent_id": "robotica_electricidad_068",
+    "keywords": [
+      "cable",
+      "corriente",
+      "trayectoria",
+      "voltaje"
+    ],
+    "base_response": "Otra desventaja era que el voltaje de salida era muy bajo, debido a disponer de una única trayectoria de la corriente a través del flujo magnético. Los experimentadores descubrieron que el uso de múltiples vueltas de cable en una bobina podía producir voltajes más altos y más útiles."
+  },
+  {
+    "intent_id": "robotica_electricidad_069",
+    "keywords": [
+      "direccion",
+      "cable",
+      "corriente",
+      "campo",
+      "electricidad"
+    ],
+    "base_response": "Una bobina de cable que gira en un campo magnético produce una corriente que cambia de dirección con cada rotación de 180°, una corriente alterna (CA). Sin embargo, muchos usos tempranos de la electricidad requerían corriente continua (CD)."
+  },
+  {
+    "intent_id": "robotica_electricidad_070",
+    "keywords": [
+      "generador",
+      "energia",
+      "proceso",
+      "dinamo"
+    ],
+    "base_response": "La dinamo fue el primer generador eléctrico capaz de entregar energía para la industria. El generador eléctrico Woolrich de 1844, ahora en Thinktank, Birmingham Science Museum, fue el primer generador eléctrico utilizado en un proceso industrial.​ Fue utilizado por la firma de Elkingtons para la galvanoplastia comercial.​​​."
+  },
+  {
+    "intent_id": "robotica_electricidad_071",
+    "keywords": [
+      "generador",
+      "girar",
+      "campo",
+      "paralelo"
+    ],
+    "base_response": "Las bobinas de campo eran conectadas en serie o en paralelo con el devanado de la armadura. Cuando el generador comenzaba a girar, la pequeña cantidad de magnetismo remanente presente en el núcleo de hierro proporcionaba un campo magnético para iniciarlo, generando una pequeña corriente en la armadura."
+  },
+  {
+    "intent_id": "robotica_electricidad_072",
+    "keywords": [
+      "pila",
+      "proceso",
+      "corriente",
+      "energia"
+    ],
+    "base_response": "Se indican de modo esquemático la energía de partida y el proceso físico de conversión. Se han considerado en todos los casos conversiones directas de energía. Por ejemplo, el hidrógeno posee energía química y puede ser convertida directamente en una corriente eléctrica en una pila de combustible."
+  },
+  {
+    "intent_id": "robotica_electricidad_073",
+    "keywords": [
+      "serie",
+      "circuito",
+      "generador",
+      "resistencia"
+    ],
+    "base_response": "En la (figura 2) se puede ver el mismo circuito anterior, pero donde la resistencia interna del generador viene representada por una resistencia Ri, en serie con el generador, con lo que la ecuación anterior se transforma en:."
+  },
+  {
+    "intent_id": "robotica_electricidad_074",
+    "keywords": [
+      "generador",
+      "sistema",
+      "velocidad",
+      "refrigeracion"
+    ],
+    "base_response": "Además del motor y el generador, los generadores eléctricos incluyen generalmente un suministro de combustible, un regulador de velocidad del motor constante (gobernador) y un regulador de tensión del generador, sistemas de refrigeración y de escape y el sistema de lubricación."
+  },
+  {
+    "intent_id": "robotica_electricidad_075",
+    "keywords": [
+      "fuente",
+      "generador",
+      "red",
+      "interruptor"
+    ],
+    "base_response": "Las unidades generadoras de energía de reserva incluyen a menudo un sistema automático de arranque y un interruptor de transferencia para desconectar la carga de la fuente de energía de la red cuando hay un fallo de alimentación y conectarlo al generador."
+  },
+  {
+    "intent_id": "robotica_electricidad_076",
+    "keywords": [
+      "generador",
+      "fuerza",
+      "positivo",
+      "unidad",
+      "caracteristica"
+    ],
+    "base_response": "Una característica de cada generador es su fuerza electromotriz (F.E.M.), simbolizada por la letra griega epsilon (ε) y definida como el trabajo que el generador realiza para pasar la unidad de carga positiva del polo negativo al positivo por el interior del generador."
+  },
+  {
+    "intent_id": "robotica_electricidad_077",
+    "keywords": [
+      "tiempo",
+      "campo",
+      "polaridad",
+      "fuerza",
+      "valor"
+    ],
+    "base_response": "Los alternadores están creados, siguiendo el principio de que en un conductor sometido a un campo magnético variable, durante un determinado tiempo se va a inducir una tensión eléctrica o fuerza electromotriz, cuya polaridad depende del sentido del campo y el valor del flujo que lo atraviesa (ley de Faraday)."
+  },
+  {
+    "intent_id": "robotica_electricidad_078",
+    "keywords": [
+      "alternador",
+      "polaridad",
+      "corriente",
+      "movimiento"
+    ],
+    "base_response": "Un alternador de corriente alterna funciona cambiando constantemente la polaridad para que haya movimiento y genere energía. En el mundo se utilizan alternadores con una frecuencia de 50 Hz (Europa) o 60 Hz (Brasil, Uganda, Estados Unidos), es decir, que cambia su polaridad 100 o 120 veces por segundo."
+  },
+  {
+    "intent_id": "robotica_electricidad_079",
+    "keywords": [
+      "fuerza",
+      "bobina",
+      "campo",
+      "alternador",
+      "conductor"
+    ],
+    "base_response": "Un alternador consta de dos partes fundamentales, el inductor (no confundir con inductor o bobina, pues en la figura las bobinas actúan como inducido), que es el que crea el campo magnético y el inducido que es el conductor atravesado por las líneas de fuerza de dicho campo magnético."
+  },
+  {
+    "intent_id": "robotica_electricidad_080",
+    "keywords": [
+      "corriente",
+      "maquina",
+      "tiempo",
+      "campo"
+    ],
+    "base_response": "La rotación del inductor hace que su campo magnético, formado por imanes fijos, resulte variable en el tiempo, y el paso de este campo variable por los polos del inducido genera en él una corriente alterna que se recoge en los terminales de la máquina."
+  },
+  {
+    "intent_id": "robotica_electricidad_081",
+    "keywords": [
+      "espira",
+      "fuerza",
+      "velocidad",
+      "valor",
+      "flujo"
+    ],
+    "base_response": "Como por otra parte tenemos que siempre que se produce una variación del flujo magnético que atraviesa a una espira se produce en ella una fuerza electromotriz (ε) inducida cuyo valor es igual a la velocidad de variación del flujo, por tanto tendremos que,."
+  },
+  {
+    "intent_id": "robotica_electricidad_082",
+    "keywords": [
+      "velocidad",
+      "corriente",
+      "frecuencia",
+      "maquina"
+    ],
+    "base_response": "La frecuencia de la corriente alterna que aparece entre los terminales de la máquina se obtiene multiplicando la velocidad de rotación (número de vueltas por segundo) del inductor por el número de pares de polos del inducido (en el caso ilustrado, 2)."
+  },
+  {
+    "intent_id": "robotica_electricidad_083",
+    "keywords": [
+      "pila",
+      "metal",
+      "polo",
+      "positivo",
+      "negativo"
+    ],
+    "base_response": "Una pila de botón es una pila eléctrica en un recipiente de metal en forma de disco con una caja de metal en general conectada al polo positivo y la tapa conectada al polo negativo."
+  },
+  {
+    "intent_id": "robotica_electricidad_084",
+    "keywords": [
+      "catodo",
+      "aumentar",
+      "negativo",
+      "pila",
+      "flujo",
+      "anodo"
+    ],
+    "base_response": "En una pila alcalina, el ánodo (polo negativo) está hecho de polvo de zinc (que permite una mayor superficie para aumentar la velocidad de la reacción y por lo tanto aumentar el flujo de electrones) y el cátodo (polo positivo) se compone de dióxido de manganeso."
+  },
+  {
+    "intent_id": "robotica_electricidad_085",
+    "keywords": [
+      "anodo",
+      "pila",
+      "corriente",
+      "mantener",
+      "proceso"
+    ],
+    "base_response": "El proceso redox que produce la corriente de electrones del ánodo al cátodo es la oxidación del zinc y la reducción del dióxido de manganeso, con la migración de iones hidróxido del electrolito (desde el cátodo al ánodo) para mantener la pila sin que sufra polarización."
+  },
+  {
+    "intent_id": "robotica_electricidad_086",
+    "keywords": [
+      "carga",
+      "descarga",
+      "pila",
+      "capacidad"
+    ],
+    "base_response": "A diferencia de las pilas Leclanché, la pila alcalina proporciona casi igual capacidad para uso intermitente o continuo con cargas ligeras. Con una carga pesada, se reduce la capacidad de descarga continua, en comparación con una descarga intermitente, pero la reducción es menor que para las pilas Leclanché."
+  },
+  {
+    "intent_id": "robotica_electricidad_087",
+    "keywords": [
+      "corriente",
+      "pila",
+      "cantidad",
+      "resistencia",
+      "bateria"
+    ],
+    "base_response": "La cantidad de corriente que una pila o batería alcalina puede producir es aproximadamente proporcional a su tamaño físico. Esto es un resultado de la disminución de la resistencia interna porque aumenta la superficie interna de la célula."
+  },
+  {
+    "intent_id": "robotica_electricidad_088",
+    "keywords": [
+      "catodo",
+      "cortocircuito",
+      "anodo",
+      "pila"
+    ],
+    "base_response": "La pasta puede ser presionada en el contenedor o depositada en anillos pre-moldeados. El centro del cátodo hueco está revestido con un separador, que impide la mezcla de los materiales del ánodo y cátodo y evita el cortocircuito de la pila."
+  },
+  {
+    "intent_id": "robotica_electricidad_089",
+    "keywords": [
+      "negativo",
+      "positivo",
+      "anodo",
+      "catodo"
+    ],
+    "base_response": "Al describir las pilas estándar de tamaño AAA, AA, C, sub-C y D, el ánodo negativo (-) está conectado a la parte plana (inferior), mientras que el cátodo positivo (+) está conectado al botón metálico elevado (superior)."
+  },
+  {
+    "intent_id": "robotica_electricidad_090",
+    "keywords": [
+      "carga",
+      "catodo",
+      "anodo",
+      "bateria",
+      "litio"
+    ],
+    "base_response": "La batería de ion de litio se conforma de 4 fragmentos: ánodo, cátodo, separador y electrolito.​ El ánodo, al descargarse la batería, pierde electrones y se oxida, y cuando la batería se carga, se reduce ya que gana electrones."
+  },
+  {
+    "intent_id": "robotica_electricidad_091",
+    "keywords": [
+      "anodo",
+      "catodo",
+      "bateria",
+      "litio"
+    ],
+    "base_response": "En 1985, Akira Yoshino ensambló un prototipo de batería usando material carbonoso en el que se podían insertar los iones de litio como un electrodo (ánodo) y óxido de litio y cobalto (LiCoO2), que es estable en el aire, como el otro (cátodo)."
+  },
+  {
+    "intent_id": "robotica_electricidad_092",
+    "keywords": [
+      "controlar",
+      "descarga",
+      "operar",
+      "medir",
+      "bateria"
+    ],
+    "base_response": "Este último es el encargado de controlar la correcta carga y descarga de las celdas que componen la batería, de mantenerlas equilibradas, de hacer operar al banco en su área de operación segura, así como también medir la capacidad de carga y la temperatura entre otros datos."
+  },
+  {
+    "intent_id": "robotica_electricidad_093",
+    "keywords": [
+      "litio",
+      "energia",
+      "capacidad",
+      "voltaje",
+      "negativo"
+    ],
+    "base_response": "El Litio es el más liviano de todos los metales, posee el mayor potencial electro químico y representa el mayor contenedor de energía. Usando litio metálico como electrodo negativo las baterías recargables son capaces de proveer alto voltaje y excelente capacidad."
+  },
+  {
+    "intent_id": "robotica_electricidad_094",
+    "keywords": [
+      "catodo",
+      "descarga",
+      "litio",
+      "carga"
+    ],
+    "base_response": "En los primeros años de producción, se descubrieron varios problemas cuando estas celdas se sobrecalentaban e incluso explotaban. Descubrieron que después de cada ciclo de carga y descarga, se formaban dendritas de litio que cruzaban la barrera electrolítica hasta llegar al cátodo, creando un cortocircuito.​."
+  },
+  {
+    "intent_id": "robotica_electricidad_095",
+    "keywords": [
+      "carga",
+      "cantidad",
+      "tecnologia",
+      "bateria"
+    ],
+    "base_response": "Duración media: depende de la cantidad de carga que almacenen, independientemente de su uso. Tienen una vida útil de unos 3 años o más si se almacenan con un 40% de su carga máxima (en realidad, cualquier batería, independientemente de su tecnología, se deteriora si se almacena sin carga."
+  },
+  {
+    "intent_id": "robotica_electricidad_096",
+    "keywords": [
+      "medida",
+      "mantener",
+      "capacidad",
+      "energia"
+    ],
+    "base_response": "Para maximizar la vida útil de estas baterías, los especialistas en almacenamiento de energía recomiendan realizar cargas parciales y mantener, en la medida de lo posible, el nivel de capacidad entre el 20 % y el 80 %."
+  },
+  {
+    "intent_id": "robotica_electricidad_097",
+    "keywords": [
+      "litio",
+      "carga",
+      "bateria",
+      "funcionamiento"
+    ],
+    "base_response": "La primera carga no es decisiva en cuanto a su duración ni es preciso hacerla; el funcionamiento de una batería de ion de litio en la primera carga es igual al de las siguientes. Es un mito probablemente heredado de las baterías de níquel."
+  },
+  {
+    "intent_id": "robotica_electricidad_098",
+    "keywords": [
+      "carga",
+      "litio",
+      "campo",
+      "tiempo"
+    ],
+    "base_response": "En el mundo de los carros de golf, la evolución hacia baterías de ion de litio también ha marcado una diferencia clave. MG Power www.mgpower.com.mx ha desarrollado soluciones avanzadas que brindan mayor autonomía, menor tiempo de carga y un rendimiento más eficiente en el campo."
+  },
+  {
+    "intent_id": "robotica_electricidad_099",
+    "keywords": [
+      "eolica",
+      "energia",
+      "proceso",
+      "red"
+    ],
+    "base_response": "En situaciones donde hay un sobrante de energía en la red eléctrica, como durante momentos de alta producción solar o eólica, el BMS inicia el proceso de carga de las baterías, guardando la energía sobrante para su futuro uso."
+  },
+  {
+    "intent_id": "robotica_electricidad_100",
+    "keywords": [
+      "red",
+      "mantener",
+      "litio",
+      "energia"
+    ],
+    "base_response": "Regulación de la red eléctrica: Los bancos de baterías de ion de litio contribuyen a mantener el equilibrio de la red eléctrica, absorbiendo energía sobrante en momentos de baja demanda y liberándola cuando la demanda es alta."
+  },
+  {
+    "intent_id": "robotica_electricidad_101",
+    "keywords": [
+      "potencia",
+      "fuente",
+      "corriente",
+      "aparato",
+      "dispositivo"
+    ],
+    "base_response": "En electrónica, la fuente de alimentación o fuente de potencia es el dispositivo que convierte la corriente alterna (CA), en una o varias corrientes continuas (CC), que alimentan los distintos circuitos del aparato electrónico al que se conecta (computadora, televisor, impresora, router, etc).​."
+  },
+  {
+    "intent_id": "robotica_electricidad_102",
+    "keywords": [
+      "transformador",
+      "circuito",
+      "corriente",
+      "condensador"
+    ],
+    "base_response": "En primer lugar el transformador adapta los niveles de tensión​ y proporciona aislamiento galvánico. El circuito que convierte la corriente alterna en corriente continua pulsante se llama rectificador,​ después suelen llevar un circuito que disminuye el rizado como un filtro de condensador."
+  },
+  {
+    "intent_id": "robotica_electricidad_103",
+    "keywords": [
+      "simular",
+      "transistor",
+      "fuente",
+      "voltaje",
+      "resistencia"
+    ],
+    "base_response": "Este transistor que dependiendo de la tipología de la fuente está siempre polarizado, actúa como resistencia regulable mientras el circuito de control juega con la región activa del transistor para simular mayor o menor resistencia y por consecuencia regulando el voltaje de salida."
+  },
+  {
+    "intent_id": "robotica_electricidad_104",
+    "keywords": [
+      "resistencia",
+      "elemento",
+      "transistor",
+      "potencia",
+      "joule",
+      "calor"
+    ],
+    "base_response": "Este tipo de fuente es menos eficiente en la utilización de la potencia suministrada dado que parte de la energía se transforma en calor por efecto Joule en el elemento regulador (transistor), ya que se comporta como una resistencia variable."
+  },
+  {
+    "intent_id": "robotica_electricidad_105",
+    "keywords": [
+      "aumentar",
+      "transformador",
+      "toma",
+      "fuente",
+      "voltaje"
+    ],
+    "base_response": "Una fuente de alimentación de CA generalmente toma el voltaje de una toma de corriente de pared (fuente de alimentación) y usa un transformador para aumentar o reducir el voltaje al voltaje deseado. También puede tener lugar algún filtrado."
+  },
+  {
+    "intent_id": "robotica_electricidad_106",
+    "keywords": [
+      "fuente",
+      "red",
+      "voltaje",
+      "aislamiento",
+      "transformador"
+    ],
+    "base_response": "En algunos casos, el voltaje de la fuente es el mismo que el voltaje de salida; esto se llama un transformador de aislamiento. Otros transformadores de fuente de alimentación de CA no proporcionan aislamiento de red; estos se llaman autotransformadores; un autotransformador de salida variable se conoce como variac."
+  },
+  {
+    "intent_id": "robotica_electricidad_107",
+    "keywords": [
+      "energia",
+      "dispositivo",
+      "transformador",
+      "voltaje",
+      "filtrar"
+    ],
+    "base_response": "Algunos tipos de conversión de alimentación de CA no utilizan un transformador. Si el voltaje de salida y el voltaje de entrada son los mismos, y el propósito principal del dispositivo es filtrar la energía de CA, puede llamarse acondicionador de línea."
+  },
+  {
+    "intent_id": "robotica_electricidad_108",
+    "keywords": [
+      "aplicacion",
+      "voltaje",
+      "energia",
+      "circuito"
+    ],
+    "base_response": "Si el dispositivo está diseñado para proporcionar energía de respaldo, puede llamarse fuente de alimentación ininterrumpida. Se puede diseñar un circuito con una topología de multiplicador de voltaje para aumentar directamente la alimentación de CA; anteriormente, tal aplicación era un tubo de vacío receptor de CA/CC."
+  },
+  {
+    "intent_id": "robotica_electricidad_109",
+    "keywords": [
+      "ordenador",
+      "usar",
+      "interfaz",
+      "funcionamiento",
+      "comunicacion",
+      "controlar"
+    ],
+    "base_response": "Las fuentes de alimentación programables suelen emplear un microordenador integral para controlar y monitorear el funcionamiento de la fuente de alimentación. Las fuentes de alimentación equipadas con una interfaz de ordenador pueden usar protocolos de comunicación patentados o protocolos estándar y lenguajes de control de dispositivos como SCPI."
+  },
+  {
+    "intent_id": "robotica_electricidad_110",
+    "keywords": [
+      "fuente",
+      "efecto",
+      "amplitud",
+      "frecuencia"
+    ],
+    "base_response": "Otro tipo de alimentación de fuentes alternas, catalogadas como especiales son aquellas en donde la frecuencia es variada, manteniendo la amplitud de la tensión logrando un efecto de fuente variable en casos como motores y transformadores de tensión."
+  },
+  {
+    "intent_id": "robotica_electricidad_111",
+    "keywords": [
+      "unidad",
+      "sistema",
+      "fuente",
+      "calor",
+      "generar"
+    ],
+    "base_response": "La fuente de alimentación de un sistema eléctrico tiende a generar calor. Cuanto mayor sea la eficiencia, más calor se extrae de la unidad. Hay muchas formas de gestionar el calor de una fuente de alimentación."
+  },
+  {
+    "intent_id": "robotica_electricidad_112",
+    "keywords": [
+      "fuente",
+      "corriente",
+      "carga",
+      "equipo",
+      "fusible"
+    ],
+    "base_response": "Un fusible contiene un trozo corto de alambre que se derrite si fluye demasiada corriente. Esto desconecta efectivamente la fuente de alimentación de su carga y el equipo deja de funcionar hasta que se identifica el problema que causó la sobrecarga y se reemplaza el fusible."
+  },
+  {
+    "intent_id": "robotica_electricidad_113",
+    "keywords": [
+      "fuente",
+      "enlace",
+      "fusible",
+      "cable",
+      "usuario"
+    ],
+    "base_response": "Algunas fuentes de alimentación usan un enlace de cable muy delgado soldado en su lugar como fusible. Los fusibles en las unidades de fuente de alimentación pueden ser reemplazables por el usuario final, pero los fusibles en los equipos de consumo pueden requerir herramientas para acceder y cambiar."
+  },
+  {
+    "intent_id": "robotica_electricidad_114",
+    "keywords": [
+      "disyuntor",
+      "interruptor",
+      "energia",
+      "elemento"
+    ],
+    "base_response": "Un disyuntor contiene un elemento que calienta, dobla y activa un resorte que cierra el circuito. Una vez que el elemento se enfría y se identifica el problema, se puede restablecer el interruptor y restaurar la energía."
+  },
+  {
+    "intent_id": "robotica_electricidad_115",
+    "keywords": [
+      "tiempo",
+      "corriente",
+      "unidad",
+      "transformador",
+      "fusible"
+    ],
+    "base_response": "Algunas fuentes de alimentación utilizan un corte térmico enterrado en el transformador en lugar de un fusible. La ventaja es que permite extraer más corriente durante un tiempo limitado de lo que la unidad puede suministrar continuamente."
+  },
+  {
+    "intent_id": "robotica_electricidad_116",
+    "keywords": [
+      "electricidad",
+      "voltaje",
+      "energia",
+      "bateria",
+      "unidad"
+    ],
+    "base_response": "Los vehículos eléctricos son aquellos que dependen de la energía creada a través de la generación de electricidad. Una unidad de fuente de alimentación es parte del diseño necesario para convertir la energía de la batería del vehículo de alto voltaje."
+  },
+  {
+    "intent_id": "robotica_electricidad_117",
+    "keywords": [
+      "energia",
+      "peso",
+      "fuente",
+      "voltaje"
+    ],
+    "base_response": "Tanto los sistemas de aviónica comerciales como militares requieren una fuente de alimentación de CC-CC o CA/CC para convertir la energía en voltaje utilizable. A menudo, estos pueden operar a 400 Hz para ahorrar peso."
+  },
+  {
+    "intent_id": "robotica_electricidad_118",
+    "keywords": [
+      "brazo",
+      "robot",
+      "aplicacion",
+      "soldadura"
+    ],
+    "base_response": "Robot cartesiano: Usado para trabajos de “pick and place” (tomar y colocar), aplicación de impermeabilizantes, operaciones de ensamblado, manipulación de máquinas herramientas y soldadura por arco. Es un robot cuyo brazo tiene tres articulaciones prismáticas, cuyos ejes son coincidentes con los ejes cartesianos."
+  },
+  {
+    "intent_id": "robotica_electricidad_119",
+    "keywords": [
+      "direccion",
+      "toma",
+      "conductor",
+      "aceleracion",
+      "sistema"
+    ],
+    "base_response": "Nivel 2: El sistema automatizado toma el control total del vehículo: aceleración, frenado y dirección. El conductor debe supervisar la conducción y estar preparado para intervenir inmediatamente en cualquier momento si el sistema automatizado no responde correctamente."
+  },
+  {
+    "intent_id": "robotica_electricidad_120",
+    "keywords": [
+      "ordenador",
+      "vision",
+      "tiempo",
+      "equipo"
+    ],
+    "base_response": "En 1995, el equipo de Dickmanns modificó un Mercedes-Benz Clase S para que hiciera un viaje entre Múnich y Copenhague y vuelta, usando una visión computarizada con movimientos sacádicos y un ordenador para reaccionar en tiempo real."
+  },
+  {
+    "intent_id": "robotica_electricidad_121",
+    "keywords": [
+      "funcionamiento",
+      "toma",
+      "velocidad",
+      "maquina"
+    ],
+    "base_response": "De este modo, en una carretera con límite de velocidad a 80 km/h, el coche autónomo jamás excederá ese límite a no ser que se alteren sus parámetros de funcionamiento predefinidos. La ambigüedad no existe en la toma de decisiones de una máquina."
+  },
+  {
+    "intent_id": "robotica_electricidad_122",
+    "keywords": [
+      "evitar",
+      "proceso",
+      "aumentar",
+      "datos"
+    ],
+    "base_response": "Los datos de cada sensor se filtran para eliminar ruido y se combinan para aumentar el conocimiento del entorno y actualizar el mapa de su entorno para evitar obstáculos. Se recogen datos de forma periódica porque el proceso de localización, mapeo del entorno y detección de obstáculos se produce continuamente."
+  },
+  {
+    "intent_id": "robotica_electricidad_123",
+    "keywords": [
+      "movimiento",
+      "velocidad",
+      "calcular",
+      "sistema"
+    ],
+    "base_response": "El sistema de navegación inercial (INS de inertial navigation system), es un sistema de ayuda a la navegación que usa acelerómetros y sensores de rotación para calcular continuamente una estimación de la posición, orientación y velocidad del movimiento del coche."
+  },
+  {
+    "intent_id": "robotica_electricidad_124",
+    "keywords": [
+      "memoria",
+      "maquina",
+      "usuario",
+      "sistema"
+    ],
+    "base_response": "Es el encargado de ejecutar todos los programas, desde el sistema operativo hasta las aplicaciones de usuario; solo ejecuta instrucciones en lenguaje máquina, realizando operaciones aritméticas y lógicas simples, tales como sumar, restar, multiplicar, dividir y las operaciones bitwise, también las lógicas binarias y accesos a memoria."
+  },
+  {
+    "intent_id": "robotica_electricidad_125",
+    "keywords": [
+      "circuito",
+      "memoria",
+      "digital",
+      "computadora"
+    ],
+    "base_response": "Para la construcción de un circuito sumador simple se requiere de algunas compuertas lógicas. La construcción de una computadora digital precisa numerosos circuitos o dispositivos electrónicos. Un paso trascendental en el diseño de la computadora fue hacer que el dato fuera almacenado en memoria."
+  },
+  {
+    "intent_id": "robotica_electricidad_126",
+    "keywords": [
+      "investigacion",
+      "desarrollo",
+      "capacidad",
+      "liberar",
+      "tiempo"
+    ],
+    "base_response": "Una característica, avanzada para su tiempo, es la capacidad de liberar los buses a fin de que puedan ser compartidos por varios procesadores. Este microprocesador fue muy utilizado, por su bajo costo, y provisto en kits, para propósitos educativos, de investigación y para el desarrollo de controladores industriales diversos."
+  },
+  {
+    "intent_id": "robotica_electricidad_127",
+    "keywords": [
+      "unidad",
+      "computadora",
+      "memoria",
+      "interfaz"
+    ],
+    "base_response": "La generación 486 realmente significó contar con una computadora personal de prestaciones avanzadas, entre ellas, un conjunto de instrucciones optimizado, una unidad de coma flotante o FPU, una unidad de interfaz de bus mejorada y una memoria caché unificada, todo ello integrado en el propio chip del microprocesador."
+  },
+  {
+    "intent_id": "robotica_electricidad_128",
+    "keywords": [
+      "unidad",
+      "aplicacion",
+      "procesador",
+      "principio"
+    ],
+    "base_response": "El K5 es internamente un procesador RISC con una Unidad x86- decodificadora, transforma todos los comandos x86 (de la aplicación en curso) en comandos RISC. Este principio se usa hasta hoy en todas las CPU x86."
+  },
+  {
+    "intent_id": "robotica_electricidad_129",
+    "keywords": [
+      "sistema",
+      "informacion",
+      "tecnologia",
+      "procesador"
+    ],
+    "base_response": "Los procesadores incorporan mejoras que refuerzan el procesamiento multimedia, particularmente las aplicaciones de vídeo. La tecnología del procesador III Xeon acelera la transmisión de información a través del bus del sistema al procesador, mejorando el rendimiento significativamente."
+  },
+  {
+    "intent_id": "robotica_electricidad_130",
+    "keywords": [
+      "usuario",
+      "procesador",
+      "velocidad",
+      "tecnologia"
+    ],
+    "base_response": "El Athlon 64 también presenta una tecnología de reducción de la velocidad del procesador llamada Cool'n'Quiet,: cuando el usuario está ejecutando aplicaciones que requieren poco uso del procesador, baja la velocidad del mismo y su tensión se reduce."
+  },
+  {
+    "intent_id": "robotica_electricidad_131",
+    "keywords": [
+      "vatio",
+      "facilitar",
+      "sistema",
+      "energia",
+      "tecnologia",
+      "proceso"
+    ],
+    "base_response": "No obstante, Intel, ya se encontraba fabricando mediante la más avanzada tecnología de proceso de 45 nm en 2008. Los procesadores Phenom están diseñados para facilitar el uso inteligente de energía y recursos del sistema, listos para la virtualización, generando un óptimo rendimiento por vatio."
+  },
+  {
+    "intent_id": "robotica_electricidad_132",
+    "keywords": [
+      "seguridad",
+      "tecnologia",
+      "memoria",
+      "procesador",
+      "energia"
+    ],
+    "base_response": "Tras abandonar a Intel, Apple presenta su primer procesador propio para equipos. Ha sido diseñado con tecnología arm de 5 nanómetros para ofrecer un alto rendimiento con un bajo consumo de energía. Diversas funcionalidades como puertos E/S, memoria y seguridad han sido integradas en el procesador."
+  },
+  {
+    "intent_id": "robotica_electricidad_133",
+    "keywords": [
+      "procesador",
+      "hardware",
+      "seguridad",
+      "interfaz"
+    ],
+    "base_response": "Estos procesadores cuentan con los nuevos transistores SuperFin, combinan nuevas tecnologías como WiFi 6, Thunderbolt 4, decodificación de medios AV1, interfaz PCI Express Gen 4 anexada al procesador y características de seguridad reforzadas por hardware."
+  },
+  {
+    "intent_id": "robotica_electricidad_134",
+    "keywords": [
+      "funcionamiento",
+      "medir",
+      "cantidad",
+      "frecuencia"
+    ],
+    "base_response": "Medir el rendimiento con la frecuencia y la cantidad de núcleos es válido únicamente entre procesadores con arquitecturas muy similares o iguales, de manera que su funcionamiento interno sea el mismo: en ese caso la frecuencia y la cantidad de núcleos es un índice de comparación válido."
+  },
+  {
+    "intent_id": "robotica_electricidad_135",
+    "keywords": [
+      "procesador",
+      "datos",
+      "tiempo",
+      "memoria"
+    ],
+    "base_response": "Memoria caché: es una memoria ultrarrápida que emplea el procesador para tener alcance directo a ciertos datos que «predeciblemente» serán utilizados en las siguientes operaciones, sin tener que acudir a la memoria RAM, reduciendo así el tiempo de espera para adquisición de datos."
+  },
+  {
+    "intent_id": "robotica_electricidad_136",
+    "keywords": [
+      "memoria",
+      "procesador",
+      "unidad",
+      "datos"
+    ],
+    "base_response": "Coprocesador matemático: unidad de coma flotante. Es la parte del micro especializada en esa clase de cálculos matemáticos, antiguamente estaba en el exterior del procesador en otro chip. Esta parte está considerada como una parte «lógica» junto con los registros, la unidad de control, memoria y bus de datos."
+  },
+  {
+    "intent_id": "robotica_electricidad_137",
+    "keywords": [
+      "disipador",
+      "refrigeracion",
+      "mejorar",
+      "proteger",
+      "procesador",
+      "termica"
+    ],
+    "base_response": "En los procesadores más modernos se aplica en la parte superior del procesador, una lámina metálica denominada IHS que va a ser la superficie de contacto del disipador para mejorar la refrigeración uniforme del die y proteger las resistencias internas de posibles tomas de contacto al aplicar pasta térmica."
+  },
+  {
+    "intent_id": "robotica_electricidad_138",
+    "keywords": [
+      "sistema",
+      "procesador",
+      "paralelo",
+      "datos"
+    ],
+    "base_response": "En la arquitectura tradicional de Intel (usada hasta modelos recientes), ese bus se llama front-side bus y es de tipo paralelo con 64 líneas de datos, 32 de direcciones además de múltiples líneas de control que permiten la transmisión de datos entre el procesador y el resto del sistema."
+  },
+  {
+    "intent_id": "robotica_electricidad_139",
+    "keywords": [
+      "cantidad",
+      "datos",
+      "memoria",
+      "paralelo"
+    ],
+    "base_response": "Ese bus esta de acuerdo a los estándares DDR de JEDEC y consisten en líneas de bus paralelo, para datos, direcciones y control. Dependiendo de la cantidad de canales pueden existir de 1 a 4 buses de memoria."
+  },
+  {
+    "intent_id": "robotica_electricidad_140",
+    "keywords": [
+      "desarrollo",
+      "arduino",
+      "controlar",
+      "detectar",
+      "software",
+      "hardware"
+    ],
+    "base_response": "Arduino es una compañía de desarrollo de software y hardware libres, así como una comunidad internacional que diseña y manufactura placas de desarrollo de hardware para construir dispositivos digitales y dispositivos interactivos que puedan detectar y controlar objetos del mundo real."
+  },
+  {
+    "intent_id": "robotica_electricidad_141",
+    "keywords": [
+      "modelo",
+      "comunicacion",
+      "placa",
+      "arduino"
+    ],
+    "base_response": "Las shields complementan la funcionalidad del modelo de placa empleada, agregando circuitería, sensores y módulos de comunicación externos a la placa original. La mayoría de las placas Arduino pueden ser alimentadas por un puerto USB o un puerto barrel Jack de 2.5 mm."
+  },
+  {
+    "intent_id": "robotica_electricidad_142",
+    "keywords": [
+      "arduino",
+      "codigo",
+      "placa",
+      "programar"
+    ],
+    "base_response": "A pesar de lo anterior, todas los modelos de placa Arduino se pueden programar y compilar bajo el IDE predeterminado de Arduino sin ningún cambio, esto gracias a que el IDE compila el código original a la versión de la placa seleccionada."
+  },
+  {
+    "intent_id": "robotica_electricidad_143",
+    "keywords": [
+      "arduino",
+      "microcontrolador",
+      "conexion",
+      "placa"
+    ],
+    "base_response": "La placa con el microcontrolador más potente de la familia Arduino. Con 54 pines digitales que funcionan como entrada y salida; 16 entradas analógicas, 7 pines de alimentación, un cristal oscilador de 16 MHz, una conexión USB, un botón de reinicio y una entrada para la alimentación de la placa."
+  },
+  {
+    "intent_id": "robotica_electricidad_144",
+    "keywords": [
+      "placa",
+      "serie",
+      "circuito",
+      "arduino",
+      "hardware",
+      "microcontrolador"
+    ],
+    "base_response": "Arduino es una placa electrónica de hardware libre que utiliza un microcontrolador reprogramable con una serie de pines que permiten establecer conexiones entre el controlador y los diferentes sensores, es decir el «cerebro» de algún circuito o maquinaria."
+  },
+  {
+    "intent_id": "robotica_electricidad_145",
+    "keywords": [
+      "arduino",
+      "datos",
+      "serie",
+      "comunicar",
+      "aplicacion"
+    ],
+    "base_response": "Es posible comunicar una aplicación que corra sobre Arduino con otros dispositivos que corran otros lenguajes de programación y aplicaciones populares,​ debido a que Arduino usa la transmisión de datos en serie, la cual es soportada por la mayoría de los lenguajes que se mencionan a continuación."
+  },
+  {
+    "intent_id": "robotica_electricidad_146",
+    "keywords": [
+      "ordenador",
+      "usuario",
+      "tiempo",
+      "red",
+      "usar"
+    ],
+    "base_response": "Ninguna Raspberry Pi tiene reloj en tiempo real,​ por lo que el sistema operativo debe usar un servidor de hora en red, o pedir al usuario la hora en el momento de arrancar el ordenador."
+  },
+  {
+    "intent_id": "robotica_electricidad_147",
+    "keywords": [
+      "sistema",
+      "placa",
+      "carga",
+      "equipo"
+    ],
+    "base_response": "La placa base, además incluye un firmware llamado BIOS, que le permite realizar las funcionalidades básicas, como pruebas de los dispositivos, vídeo y manejo del teclado, configuración del equipo, reconocimiento de dispositivos y carga del sistema operativo."
+  },
+  {
+    "intent_id": "robotica_electricidad_148",
+    "keywords": [
+      "serie",
+      "pila",
+      "circuito",
+      "operar"
+    ],
+    "base_response": "La pila de la CMOS: pila de botón que proporciona la electricidad necesaria para operar el circuito constantemente y que este último no se apague perdiendo la serie de configuraciones guardadas, como la fecha, hora, secuencia de arranque..."
+  },
+  {
+    "intent_id": "robotica_electricidad_149",
+    "keywords": [
+      "programa",
+      "interfaz",
+      "placa",
+      "memoria"
+    ],
+    "base_response": "La BIOS: un programa registrado en una memoria no volátil (antiguamente en memorias ROM, pero desde hace tiempo se emplean memorias flash). Este programa es específico de la placa base y se encarga de la interfaz de bajo nivel entre el microprocesador y algunos periféricos."
+  },
+  {
+    "intent_id": "robotica_electricidad_150",
+    "keywords": [
+      "interfaz",
+      "placa",
+      "datos",
+      "direccion",
+      "comunicacion"
+    ],
+    "base_response": "Los buses de expansión son el conjunto de líneas de comunicación encargado de llevar el bus de datos, el bus de dirección y el de control a la tarjeta de interfaz (entrada, salida) que se agrega a la placa principal."
+  },
+  {
+    "intent_id": "robotica_electricidad_151",
+    "keywords": [
+      "sistema",
+      "memoria",
+      "placa",
+      "datos"
+    ],
+    "base_response": "Todos los componentes de la placa base se vinculan a través del bus del sistema, mediante distintos tipos de datos del microprocesador y de la memoria principal, que también involucra a la memoria caché de nivel 2."
+  },
+  {
+    "intent_id": "robotica_electricidad_152",
+    "keywords": [
+      "computadora",
+      "modelo",
+      "teclado",
+      "placa"
+    ],
+    "base_response": "1983: XT (eXtended Technology, 'tecnología extendida') es el formato de la placa base de la computadora IBM PC XT (modelo 5160), lanzado en 1983. En este factor de forma se definió un tamaño exactamente igual al de una hoja A4 y un único conector externo para el teclado."
+  },
+  {
+    "intent_id": "robotica_electricidad_153",
+    "keywords": [
+      "tiempo",
+      "refrigeracion",
+      "tecnologia",
+      "fuente"
+    ],
+    "base_response": "2004: BTX (Balanced Technology eXtended, 'tecnología equilibrada extendida') fue retirada en muy poco tiempo por la falta de aceptación, resultó prácticamente incompatible con ATX, salvo en la fuente de alimentación. Fue creada para intentar solventar los problemas de ruido y refrigeración, como evolución de la ATX."
+  },
+  {
+    "intent_id": "robotica_electricidad_154",
+    "keywords": [
+      "datos",
+      "dispositivo",
+      "software",
+      "hardware"
+    ],
+    "base_response": "Otros ejemplos donde se aplica el término hardware son, en relación con los robots,​​ así como en relación con los teléfonos móviles, las cámaras fotográficas, los reproductores digitales, o cualquier otro dispositivo electrónico. Cuando dichos dispositivos también procesan datos, poseen firmware y software además de hardware."
+  },
+  {
+    "intent_id": "robotica_electricidad_155",
+    "keywords": [
+      "procesar",
+      "componente",
+      "computadora",
+      "unidad"
+    ],
+    "base_response": "La Unidad Central de Procesamiento, conocida por las siglas en inglés CPU, es el componente fundamental de la computadora, encargado de interpretar y ejecutar instrucciones y de procesar datos.​ En computadores modernos, la función de la CPU la realiza uno o más microprocesadores."
+  },
+  {
+    "intent_id": "robotica_electricidad_156",
+    "keywords": [
+      "ventilador",
+      "unidad",
+      "temperatura",
+      "tiempo",
+      "evitar",
+      "cantidad"
+    ],
+    "base_response": "Complementariamente, para evitar daños por efectos térmicos, también se suelen instalar sensores de temperatura del microprocesador y sensores de revoluciones del ventilador, así como sistemas automáticos que controlan la cantidad de revoluciones por unidad de tiempo de estos últimos."
+  },
+  {
+    "intent_id": "robotica_electricidad_157",
+    "keywords": [
+      "computadora",
+      "memoria",
+      "unidad",
+      "datos",
+      "informacion"
+    ],
+    "base_response": "La RAM es la memoria utilizada en una computadora para el almacenamiento transitorio y de trabajo (no masivo). En la RAM se almacena temporalmente la información, datos y programas que la Unidad de Procesamiento (CPU) lee, procesa y ejecuta."
+  },
+  {
+    "intent_id": "robotica_electricidad_158",
+    "keywords": [
+      "memoria",
+      "transistor",
+      "capacidad",
+      "condensador"
+    ],
+    "base_response": "Los integrados son de tipo DRAM, memoria denominada «dinámica», en la cual las celdas de memoria son muy sencillas (un transistor y un condensador), permitiendo la fabricación de memorias con gran capacidad (típicamente de 2, 4, 8 o 16 Gigabytes por módulo) a un costo relativamente bajo."
+  },
+  {
+    "intent_id": "robotica_electricidad_159",
+    "keywords": [
+      "computadora",
+      "funcionamiento",
+      "teclado",
+      "raton"
+    ],
+    "base_response": "Aunque son estrictamente considerados «accesorios», muchos de ellos son fundamentales para el funcionamiento y operación adecuados de la computadora moderna; por ejemplo, el teclado, el ratón, el disco duro y el monitor son elementos actualmente imprescindibles; pero no lo son, por ejemplo, un escáner o un plóter."
+  },
+  {
+    "intent_id": "robotica_electricidad_160",
+    "keywords": [
+      "usuario",
+      "computadora",
+      "procesador",
+      "fuente",
+      "informacion"
+    ],
+    "base_response": "De esta categoría son aquellos que permiten el ingreso de información, en general desde alguna fuente externa o por parte del usuario. Los dispositivos de entrada proveen el medio fundamental para transferir hacia la computadora (más propiamente al procesador) información desde alguna fuente, sea local o remota."
+  },
+  {
+    "intent_id": "robotica_electricidad_161",
+    "keywords": [
+      "computadora",
+      "leer",
+      "memoria",
+      "sistema"
+    ],
+    "base_response": "También permiten cumplir la esencial tarea de leer y cargar en memoria el sistema operativo y las aplicaciones o programas informáticos, los que a su vez ponen operativa la computadora y hacen posible realizar las más diversas tareas.​."
+  },
+  {
+    "intent_id": "robotica_electricidad_162",
+    "keywords": [
+      "raton",
+      "teclado",
+      "codigo",
+      "camara"
+    ],
+    "base_response": "Entre los periféricos de entrada se puede mencionar:​ teclado, mouse o ratón, escáner, micrófono, cámara web, lectores ópticos de código de barras, Joystick, lectora de CD, DVD o BluRay (solo lectoras), placas de adquisición/conversión de datos, etc."
+  },
+  {
+    "intent_id": "robotica_electricidad_163",
+    "keywords": [
+      "funcionamiento",
+      "equipo",
+      "teclado",
+      "raton",
+      "dispositivo",
+      "usuario"
+    ],
+    "base_response": "Pueden considerarse como «imprescindibles» para el funcionamiento, (de manera como hoy se concibe la informática) al teclado, al ratón y algún dispositivo lector de discos; ya que tan solo con ellos el equipo (informático) puede ponerse operativo para un usuario."
+  },
+  {
+    "intent_id": "robotica_electricidad_164",
+    "keywords": [
+      "datos",
+      "pantalla",
+      "teclado",
+      "dispositivo",
+      "raton",
+      "informacion"
+    ],
+    "base_response": "La pantalla táctil (no el monitor clásico) es un dispositivo que se considera mixto, ya que además de mostrar información y datos (salida) puede actuar como un dispositivo de entrada, reemplazando, por ejemplo, a algunas funciones del ratón o del teclado."
+  },
+  {
+    "intent_id": "robotica_electricidad_165",
+    "keywords": [
+      "estructura",
+      "conectar",
+      "movimiento",
+      "cobre"
+    ],
+    "base_response": "También se fabrican de celuloide con pistas de pintura conductora cuando se requiere que sean flexibles para conectar partes con movimiento entre sí, evitando los problemas del cambio de estructura cristalina del cobre, que hace quebradizos los conductores de cables y placas."
+  },
+  {
+    "intent_id": "robotica_electricidad_166",
+    "keywords": [
+      "cobre",
+      "calor",
+      "aluminio",
+      "disipar"
+    ],
+    "base_response": "Los circuitos impresos utilizados en el vacío o en gravedad cero, como en una nave espacial, al ser incapaces de contar con el enfriamiento por convección, a menudo tienen un núcleo grueso de cobre o aluminio para disipar el calor de los componentes electrónicos."
+  },
+  {
+    "intent_id": "robotica_electricidad_167",
+    "keywords": [
+      "programa",
+      "tierra",
+      "nodo",
+      "conexion"
+    ],
+    "base_response": "Luego el programa trata de rutear cada nodo en la lista de señales-pines, encontrando secuencias de conexión en las capas disponibles. A menudo algunas capas son asignadas a la alimentación y a la tierra, y se conocen como plano de alimentación y tierra respectivamente."
+  },
+  {
+    "intent_id": "robotica_electricidad_168",
+    "keywords": [
+      "mantener",
+      "espacio",
+      "mover",
+      "ajustar"
+    ],
+    "base_response": "Otras podrían redondear los bordes de las pistas, y ensanchar o mover las pistas para mantener el espacio entre estas dentro de un margen seguro. Otra estrategia podría ser ajustar grandes áreas de cobre de tal forma que ellas formen nodos, o juntar áreas vacías en áreas de cobre."
+  }
+]
