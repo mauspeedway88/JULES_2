@@ -1,0 +1,4379 @@
+[
+  {
+    "intent_id": "robotica_001",
+    "keywords": [
+      "mando",
+      "teoria",
+      "termino",
+      "ajedrecista",
+      "ingeniero"
+    ],
+    "base_response": "El ingeniero español Leonardo Torres Quevedo (que construyó el primer mando a distancia para su automóvil mediante telegrafía, el ajedrecista automático, el primer transbordador aéreo y otros muchos ingenios), acuñó el término «automática» en relación con la teoría de la automatización de tareas tradicionalmente asociadas."
+  },
+  {
+    "intent_id": "robotica_002",
+    "keywords": [
+      "acunado",
+      "visitando",
+      "ciencia",
+      "labores",
+      "aliviando"
+    ],
+    "base_response": "El término robótica es acuñado por Isaac Asimov, definiendo a la ciencia que estudia a los robots. Asimov creó también las tres leyes de la robótica. En la ciencia ficción, se ha imaginado a los robots visitando nuevos mundos, haciéndose con el poder o, simplemente, aliviando de las labores caseras."
+  },
+  {
+    "intent_id": "robotica_003",
+    "keywords": [
+      "movimientos",
+      "sistemas",
+      "control",
+      "aprendizaje",
+      "generacion"
+    ],
+    "base_response": "Son sistemas mecánicos multifuncionales con un sencillo sistema de control, bien manual, de secuencia fija o de secuencia variable. Segunda generación: Robots de aprendizaje. Repiten una secuencia de movimientos que ha sido ejecutada previamente por un operador humano."
+  },
+  {
+    "intent_id": "robotica_004",
+    "keywords": [
+      "clasificacion",
+      "resista",
+      "robot",
+      "indicado",
+      "agruparse",
+      "mecanismos"
+    ],
+    "base_response": "Los dispositivos y mecanismos que pueden agruparse bajo la denominación genérica del robot, tal como se ha indicado, son muy diversos y es por tanto difícil establecer una clasificación coherente de los mismos que resista un análisis crítico y riguroso."
+  },
+  {
+    "intent_id": "robotica_005",
+    "keywords": [
+      "encuentran",
+      "manipuladores",
+      "suelo",
+      "reducir",
+      "abarcar",
+      "espacio"
+    ],
+    "base_response": "En este grupo se encuentran los robots manipuladores, los robots industriales y los robots cartesianos, que se emplean cuando es preciso abarcar una zona de trabajo relativamente amplia o alargada, actuar sobre objetos con un plano de simetría vertical o reducir el espacio ocupado en el suelo."
+  },
+  {
+    "intent_id": "robotica_006",
+    "keywords": [
+      "siguen",
+      "carros",
+      "camino",
+      "sistema",
+      "informacion"
+    ],
+    "base_response": "Móviles: Son robots con gran capacidad de desplazamiento, basados en carros o plataformas y dotados de un sistema locomotor de tipo rodante. Siguen su camino por telemando o guiándose por la información recibida de su entorno a través de sus sensores."
+  },
+  {
+    "intent_id": "robotica_007",
+    "keywords": [
+      "obstaculos",
+      "bandas",
+      "nivel",
+      "guiados",
+      "llegar"
+    ],
+    "base_response": "Guiados mediante pistas materializadas a través de la radiación electromagnética de circuitos empotrados en el suelo, o a través de bandas detectadas fotoeléctricamente, pueden incluso llegar a sortear obstáculos y están dotados de un nivel relativamente elevado de inteligencia."
+  },
+  {
+    "intent_id": "robotica_008",
+    "keywords": [
+      "utilidad",
+      "experimentacion",
+      "reproducir",
+      "intentan",
+      "robots"
+    ],
+    "base_response": "Androides: Son los tipos de robots que intentan reproducir total o parcialmente la forma y el comportamiento cinemático del ser humano. Actualmente, los androides son todavía dispositivos muy poco evolucionados y sin utilidad práctica, y destinados, fundamentalmente, al estudio y experimentación."
+  },
+  {
+    "intent_id": "robotica_009",
+    "keywords": [
+      "complejos",
+      "mantener",
+      "controlar",
+      "mayoria",
+      "centra",
+      "caso"
+    ],
+    "base_response": "Uno de los aspectos más complejos de estos robots, y sobre el que se centra la mayoría de los trabajos, es el de la locomoción bípeda. En este caso, el principal problema es controlar dinámica y coordinadamente en el tiempo real el proceso y mantener simultáneamente el equilibrio del robot."
+  },
+  {
+    "intent_id": "robotica_010",
+    "keywords": [
+      "grupo",
+      "robots",
+      "locomocion",
+      "agrupar"
+    ],
+    "base_response": "A pesar de la disparidad morfológica de sus posibles sistemas de locomoción es conveniente agrupar a los robots zoomórficos en dos categorías principales: caminadores y no caminadores. El grupo de los robots zoomórficos no caminadores está muy poco evolucionado."
+  },
+  {
+    "intent_id": "robotica_011",
+    "keywords": [
+      "evolucionar",
+      "objeto",
+      "desarrollo",
+      "autonomos",
+      "vistas"
+    ],
+    "base_response": "Los robots zoomórficos caminadores multípedos son muy numerosos y están siendo objeto de experimentos en diversos laboratorios con vistas al desarrollo posterior de verdaderos vehículos terrenos, pilotados o autónomos, capaces de evolucionar en superficies muy accidentadas."
+  },
+  {
+    "intent_id": "robotica_012",
+    "keywords": [
+      "aplicaciones",
+      "clasificacion",
+      "estudio",
+      "hibridos",
+      "conjuncion"
+    ],
+    "base_response": "Las aplicaciones de estos robots serán interesantes en el campo de la exploración espacial y en el estudio de los volcanes. Híbridos: Estos robots corresponden a aquellos de difícil clasificación, cuya estructura se sitúa en combinación con alguna de las anteriores ya expuestas, bien sea por conjunción o por yuxtaposición."
+  },
+  {
+    "intent_id": "robotica_013",
+    "keywords": [
+      "integracion",
+      "consideraciones",
+      "ruedas",
+      "tiempo",
+      "plantea",
+      "ejemplo"
+    ],
+    "base_response": "Por ejemplo, un dispositivo segmentado articulado y con ruedas es, al mismo tiempo, uno de los atributos de los robots móviles y de los robots zoomórficos. Esta integración plantea importantes consideraciones legales y éticas que deben ser abordadas para garantizar un desarrollo y uso responsable y seguro de la robótica."
+  },
+  {
+    "intent_id": "robotica_014",
+    "keywords": [
+      "ejemplo",
+      "atajar",
+      "derecho",
+      "estudiando",
+      "regulaciones",
+      "agencias"
+    ],
+    "base_response": "Hay diversos intentos de atajar el problema, por ejemplo, en Europa se están estudiando normas de derecho civil en robótica,​ y en Estados Unidos existen diversas regulaciones hechas por la FAA​ o la NHTSA,​ entre otras agencias."
+  },
+  {
+    "intent_id": "automatizacion_industrial_015",
+    "keywords": [
+      "fabricacion",
+      "producto",
+      "mezclas",
+      "cambio"
+    ],
+    "base_response": "Con estos sistemas es muy difícil facilitar las modificaciones en el diseño del producto. Mayoritariamente usado en la fabricación de lotes con diferentes especificaciones y características. El cambio de patrones se produce de una manera sencilla y rápida y se pueden fabricar mezclas de diferentes productos sin perder mucho tiempo."
+  },
+  {
+    "intent_id": "automatizacion_industrial_016",
+    "keywords": [
+      "formas",
+      "flujo",
+      "controlados",
+      "producir",
+      "dispositivos",
+      "relojeria"
+    ],
+    "base_response": "Todavía después, algunas formas de automatización fueron controlados por mecanismos de relojería o dispositivos similares utilizando algunas formas de fuentes de poder artificiales —algún resorte, un flujo canalizado de agua o vapor para producir acciones simples y repetitivas, tal como figuras en movimiento, creación de música, o juegos—."
+  },
+  {
+    "intent_id": "automatizacion_industrial_017",
+    "keywords": [
+      "sistemas",
+      "integracion",
+      "repetitividad",
+      "robotica",
+      "incremento",
+      "automatizacion"
+    ],
+    "base_response": "La parte más visible de la automatización actual puede ser la robótica industrial. Algunas ventajas son repetitividad, control de calidad más estrecho, mayor eficiencia, integración con sistemas empresariales, incremento de productividad, y reducción de trabajo humano."
+  },
+  {
+    "intent_id": "automatizacion_industrial_018",
+    "keywords": [
+      "desventajas",
+      "manejar",
+      "computadoras",
+      "incremento",
+      "mantenimiento",
+      "capital"
+    ],
+    "base_response": "Algunas desventajas son requerimientos de un gran capital, decremento severo en la flexibilidad, y un incremento en la dependencia del mantenimiento y reparación. El concepto solamente llegó a ser realmente práctico con la adición (y evolución) de las computadoras digitales, cuya flexibilidad permitió manejar cualquier clase de tarea."
+  },
+  {
+    "intent_id": "automatizacion_industrial_019",
+    "keywords": [
+      "velocidad",
+      "aplicadas",
+      "empezaron",
+      "tamano",
+      "computo"
+    ],
+    "base_response": "Las computadoras digitales con la combinación requerida de velocidad, poder de cómputo, precio y tamaño, como para ser aplicadas en la industria, empezaron a aparecer en la década de los años 1960. Antes de ese tiempo, las computadoras industriales eran exclusivamente computadoras analógicas y computadoras híbridas."
+  },
+  {
+    "intent_id": "automatizacion_industrial_020",
+    "keywords": [
+      "tareas",
+      "entrenamiento",
+      "personal",
+      "entrenar",
+      "seres"
+    ],
+    "base_response": "Como un famoso dicho anónimo dice, 'para muchas y muy cambiantes tareas, es difícil reemplazar a los seres humanos, quienes son fácilmente vueltos a entrenar dentro de un amplio rango de tareas, más aún, son producidos a bajo costo por personal sin entrenamiento'."
+  },
+  {
+    "intent_id": "automatizacion_industrial_021",
+    "keywords": [
+      "esencias",
+      "precision",
+      "distinguir",
+      "persona",
+      "dispositivo"
+    ],
+    "base_response": "Ningún dispositivo que haya sido inventado puede competir, en la precisión y certeza en muchas tareas, contra el ojo humano; tampoco contra el oído humano. Cualquier persona puede identificar y distinguir mayor cantidad de esencias que cualquier dispositivo automático."
+  },
+  {
+    "intent_id": "automatizacion_industrial_022",
+    "keywords": [
+      "iluminacion",
+      "energia",
+      "sistemas",
+      "alimentar",
+      "serie"
+    ],
+    "base_response": "Involucra una serie de procesos, equipos y sistemas diseñados para satisfacer las necesidades de energía eléctrica en instalaciones industriales, plantas manufactureras, fábricas, almacenes y otros entornos similares. Esta energía se utiliza para alimentar maquinaria, equipos de iluminación, sistemas de climatización, sistemas de control y automatización, entre otros."
+  },
+  {
+    "intent_id": "automatizacion_industrial_023",
+    "keywords": [
+      "operaciones",
+      "sistemas",
+      "productividad",
+      "eficiencia",
+      "interrupciones",
+      "suministro"
+    ],
+    "base_response": "Los sistemas eléctricos industriales suelen estar diseñados para ser robustos y confiables, ya que las interrupciones en el suministro eléctrico pueden tener un impacto significativo en la productividad y la eficiencia de las operaciones industriales."
+  },
+  {
+    "intent_id": "automatizacion_industrial_024",
+    "keywords": [
+      "fuerza",
+      "controlar",
+      "requiere",
+      "neumatica"
+    ],
+    "base_response": "Utiliza la presión del aire para crear movimiento y controlar diversos mecanismos y sistemas en entornos industriales. La neumática industrial es especialmente útil en situaciones en las que se requiere fuerza y movimiento lineal o rotativo."
+  },
+  {
+    "intent_id": "automatizacion_industrial_025",
+    "keywords": [
+      "lograr",
+      "involucra",
+      "automatizacion",
+      "aceite",
+      "liquidos",
+      "neumatica"
+    ],
+    "base_response": "Es importante tener en cuenta que la neumática está relacionada con el uso del aire comprimido, mientras que la hidráulica involucra el uso de líquidos, generalmente aceite, para lograr el control y la automatización en sistemas industriales."
+  },
+  {
+    "intent_id": "automatizacion_industrial_026",
+    "keywords": [
+      "utiliza",
+      "resaltar",
+      "aceite",
+      "energia"
+    ],
+    "base_response": "Al igual que en la neumática, es importante resaltar que la oleohidráulica se basa en la transmisión de energía a través de fluidos, pero en este caso se utiliza aceite u otros líquidos hidráulicos en lugar de aire comprimido."
+  },
+  {
+    "intent_id": "automatizacion_industrial_027",
+    "keywords": [
+      "software",
+      "cabo",
+      "automata",
+      "instrucciones",
+      "funciones",
+      "definen"
+    ],
+    "base_response": "La programación del autómata se realiza mediante un software de programación, donde se definen las instrucciones y la lógica que el controlador debe seguir para llevar a cabo diversas tareas. Las principales funciones de los autómatas programables incluyen: 1."
+  },
+  {
+    "intent_id": "automatizacion_industrial_028",
+    "keywords": [
+      "equipos",
+      "logica",
+      "movimiento",
+      "permitiendo"
+    ],
+    "base_response": "Lógica y secuenciación: Los autómatas programables pueden implementar lógica booleana para tomar decisiones basadas en entradas y condiciones específicas, permitiendo la ejecución secuencial de acciones. Control de movimiento: Pueden controlar sistemas de movimiento, como motores y actuadores, para lograr movimientos precisos en máquinas y equipos."
+  },
+  {
+    "intent_id": "automatizacion_industrial_029",
+    "keywords": [
+      "contactos",
+      "programacion",
+      "realiza",
+      "lenguajes"
+    ],
+    "base_response": "La programación de un autómata se realiza utilizando lenguajes de programación específicos, como lenguajes de relés, lenguajes de esquemas de contactos o lenguajes de programación más avanzados como el Ladder Logic, el Instruction List y otros."
+  },
+  {
+    "intent_id": "automatizacion_industrial_030",
+    "keywords": [
+      "eficiencia",
+      "variedad",
+      "permitiendo",
+      "mejoran"
+    ],
+    "base_response": "En resumen, los autómatas programables son elementos esenciales en la automatización industrial, permitiendo la creación de sistemas de control flexibles y adaptables que mejoran la eficiencia, la precisión y la seguridad en una variedad de procesos y aplicaciones industriales."
+  },
+  {
+    "intent_id": "automatizacion_industrial_031",
+    "keywords": [
+      "control",
+      "sistemas",
+      "robots",
+      "actuadores",
+      "contexto"
+    ],
+    "base_response": "En el contexto de las comunicaciones industriales, los dispositivos pueden incluir sensores, actuadores, controladores, PLC (Controladores Lógicos Programables), sistemas SCADA (Supervisory Control and Data Acquisition), HMI (Interfaces de Operador Human-Máquina), robots industriales, sistemas de control de procesos, entre otros."
+  },
+  {
+    "intent_id": "automatizacion_industrial_032",
+    "keywords": [
+      "conceptos",
+      "eficiencia",
+      "operaciones",
+      "comunicarse",
+      "comunicaciones"
+    ],
+    "base_response": "La capacidad de estos dispositivos para comunicarse entre sí y con sistemas de supervisión y control centralizados es esencial para optimizar la producción, mejorar la eficiencia y garantizar la seguridad en las operaciones industriales. Algunos conceptos clave en las comunicaciones industriales incluyen: 1."
+  },
+  {
+    "intent_id": "automatizacion_industrial_033",
+    "keywords": [
+      "transmiten",
+      "conjuntos",
+      "definen",
+      "datos",
+      "comunicacion",
+      "dispositivos"
+    ],
+    "base_response": "Protocolos de comunicación: Son conjuntos de reglas y normas que definen cómo los dispositivos se comunican y transmiten datos entre sí. Ejemplos de protocolos industriales son Modbus, Profibus, Ethernet/IP, CAN (Control Area Network), entre otros."
+  },
+  {
+    "intent_id": "automatizacion_industrial_034",
+    "keywords": [
+      "capacidades",
+      "sistemas",
+      "cableadas",
+      "necesidades"
+    ],
+    "base_response": "Redes industriales: Son infraestructuras de comunicación que conectan dispositivos y sistemas dentro de una instalación industrial. Estas redes pueden ser cableadas o inalámbricas y están diseñadas para ofrecer velocidades y capacidades de transmisión de datos adecuadas para las necesidades industriales."
+  },
+  {
+    "intent_id": "automatizacion_industrial_035",
+    "keywords": [
+      "bus",
+      "procesos",
+      "estrella",
+      "dispositivos",
+      "conectan",
+      "determina"
+    ],
+    "base_response": "Topologías de red: Refiere a la estructura física y lógica de la red, como bus, estrella, anillo, malla, etc., que determina cómo los dispositivos se conectan y se comunican entre sí. Sistemas SCADA y HMI: Estos sistemas permiten la supervisión y el control de procesos industriales."
+  },
+  {
+    "intent_id": "automatizacion_industrial_036",
+    "keywords": [
+      "mejorar",
+      "interconexion",
+      "procesos",
+      "rendimiento",
+      "recopilacion"
+    ],
+    "base_response": "Internet de las cosas industrial (IIoT): La interconexión de dispositivos y sistemas en la industria a través de Internet permite la recopilación, el análisis y el intercambio de datos para mejorar la eficiencia y el rendimiento de los procesos."
+  },
+  {
+    "intent_id": "automatizacion_industrial_037",
+    "keywords": [
+      "comunicaciones",
+      "ayuda",
+      "decisiones",
+      "permiten",
+      "lograr"
+    ],
+    "base_response": "En resumen, las comunicaciones industriales son esenciales para lograr la automatización, la eficiencia y el control en entornos industriales. Permiten la transferencia de datos críticos que ayuda en la toma de decisiones, la optimización de procesos y la mejora general de la productividad en diversas industrias."
+  },
+  {
+    "intent_id": "automatizacion_industrial_038",
+    "keywords": [
+      "control",
+      "robots",
+      "sistemas",
+      "incluyen",
+      "programacion"
+    ],
+    "base_response": "Estos robots están equipados con sensores, actuadores y sistemas de control que les permiten interactuar con su entorno y ejecutar tareas específicas de acuerdo con las instrucciones de programación. Características y componentes clave de la robótica industrial incluyen: 1."
+  },
+  {
+    "intent_id": "automatizacion_industrial_039",
+    "keywords": [
+      "fuerza",
+      "articulaciones",
+      "mueva",
+      "robots"
+    ],
+    "base_response": "**Manipuladores y brazos robóticos**: Estas son las partes mecánicas que permiten que el robot se mueva y realice tareas. Pueden tener múltiples articulaciones y grados de libertad para lograr movimientos complejos. **Sensores**: Los robots industriales pueden estar equipados con sensores como cámaras, sensores de proximidad, sensores de fuerza y más."
+  },
+  {
+    "intent_id": "automatizacion_industrial_040",
+    "keywords": [
+      "actuacion",
+      "entorno",
+      "servomotores",
+      "robot",
+      "mecanismos"
+    ],
+    "base_response": "Estos sensores permiten al robot detectar y adaptarse a su entorno y a los objetos con los que interactúa. **Actuadores**: Son los componentes que permiten que el robot ejecute movimientos y acciones. Estos pueden incluir motores eléctricos, servomotores y otros mecanismos de actuación."
+  },
+  {
+    "intent_id": "automatizacion_industrial_041",
+    "keywords": [
+      "programacion",
+      "robots",
+      "robot",
+      "secuencias"
+    ],
+    "base_response": "**Programación**: La programación de robots industriales implica definir las secuencias de movimientos y acciones que el robot debe realizar para llevar a cabo una tarea específica. Esto se puede hacer a través de lenguajes de programación específicos o mediante interfaces gráficas."
+  },
+  {
+    "intent_id": "automatizacion_industrial_042",
+    "keywords": [
+      "sensores",
+      "garantizar",
+      "colision",
+      "trabajo",
+      "operadores"
+    ],
+    "base_response": "**Seguridad**: La seguridad es una consideración clave en la robótica industrial. Los robots suelen estar equipados con sistemas de seguridad como paradas de emergencia, sensores de colisión y zonas de trabajo restringidas para garantizar la seguridad de los operadores y otros trabajadores."
+  },
+  {
+    "intent_id": "automatizacion_industrial_043",
+    "keywords": [
+      "permiten",
+      "mejorar",
+      "eficiencia",
+      "revolucionado",
+      "tareas",
+      "manufacturera"
+    ],
+    "base_response": "La robótica industrial ha revolucionado la industria manufacturera al mejorar la eficiencia, la calidad y la consistencia en la producción. Los robots permiten realizar tareas repetitivas de manera más rápida y precisa, lo que a su vez libera a los trabajadores humanos para tareas más creativas y estratégicas."
+  },
+  {
+    "intent_id": "automatizacion_industrial_044",
+    "keywords": [
+      "tarjetas",
+      "campo",
+      "utilizan",
+      "sensores"
+    ],
+    "base_response": "Se utilizan computadoras especializadas y tarjetas de entradas y salidas tanto analógicas como digitales para leer entradas de campo a través de sensores y para generar, a través de su programa, salidas hacia el campo a través de actuadores."
+  },
+  {
+    "intent_id": "automatizacion_industrial_045",
+    "keywords": [
+      "industria",
+      "consecuencias",
+      "error",
+      "control",
+      "acciones"
+    ],
+    "base_response": "Esto conduce para controlar acciones precisas que permitan un control estrecho de cualquier proceso industrial. (Se temía que estos dispositivos fueran vulnerables al error del año 2000, con consecuencias catastróficas, ya que son tan comunes dentro del mundo de la industria)."
+  },
+  {
+    "intent_id": "automatizacion_industrial_046",
+    "keywords": [
+      "monitorea",
+      "operacion",
+      "servicio",
+      "estacion",
+      "opera"
+    ],
+    "base_response": "El personal de servicio que monitorea y controla estas interfaces son conocidos como ingenieros de estación y el personal que opera directamente en la HMI o SCADA (Sistema de Control y Adquisición de Datos) es conocido como personal de operación."
+  },
+  {
+    "intent_id": "automatizacion_industrial_047",
+    "keywords": [
+      "tecnologia",
+      "refiere",
+      "idea",
+      "automatizacion",
+      "industria",
+      "fundador"
+    ],
+    "base_response": "Bill Gates, el fundador de Microsoft, ha defendido la idea de que los robots deben pagar impuestos para compensar por el desempleo tecnológico. La industria minera está en la transición hacia la automatización. La minería automatizada es un término general que se refiere a dos tipos de tecnología."
+  },
+  {
+    "intent_id": "automatizacion_industrial_048",
+    "keywords": [
+      "negocio",
+      "software",
+      "aplicacion",
+      "fuerza",
+      "integracion"
+    ],
+    "base_response": "Automatización de los procesos de negocio puede conseguir la integración de aplicaciones, la reestructuración de la fuerza laboral y usar software de aplicación a través de toda la organización. El platooning reduce la distancia entre vehículos empleando para ello enganches electrónicos, y también, posiblemente dispositivos mecánicos."
+  },
+  {
+    "intent_id": "automatizacion_industrial_049",
+    "keywords": [
+      "permite",
+      "mecanismo",
+      "acelerar",
+      "distancia",
+      "insertar"
+    ],
+    "base_response": "Este mecanismo permite que los vehículos engarzados puedan acelerar o frenar síncronamente, de tal forma que se elimina la distancia de reacción necesaria para los humanos, permitiendo insertar una mayor cantidad de vehículos en las carreteras."
+  },
+  {
+    "intent_id": "automatizacion_industrial_050",
+    "keywords": [
+      "abandonar",
+      "bordo",
+      "sistema",
+      "transporte",
+      "inteligencia"
+    ],
+    "base_response": "La puesta en circulación de este sistema de transporte necesita de la adquisición de nuevos vehículos o de la modificación de los actuales para que pueda implementarse en ellos el platooning. Los vehículos inteligentes permitirán, debido a sus sistemas de inteligencia artificial a bordo, incluirse o abandonar los platoons."
+  },
+  {
+    "intent_id": "automatizacion_industrial_051",
+    "keywords": [
+      "norte",
+      "plantas",
+      "participado",
+      "naves"
+    ],
+    "base_response": "Durante los proyectos de expansión y relocalización de plantas especializadas en sensores electrónicos automotrices en el norte de México, la firma de gestión de proyectos The Everest Group ha participado en la auditoría técnica y adecuación de naves industriales."
+  },
+  {
+    "intent_id": "automatizacion_industrial_052",
+    "keywords": [
+      "anclaje",
+      "clave",
+      "factor",
+      "automatizacion",
+      "acompanamiento"
+    ],
+    "base_response": "Este acompañamiento técnico es un factor clave para optimizar la automatización industrial y garantizar el anclaje exitoso de inversiones tecnológicas de alto valor en la región «Tesis de Caso: Automatización y Control Ambiental en la Manufactura de Sensores»."
+  },
+  {
+    "intent_id": "automatizacion_industrial_053",
+    "keywords": [
+      "modelos",
+      "utilizan",
+      "metodos",
+      "mayoria",
+      "procesos",
+      "mayo"
+    ],
+    "base_response": "Consultado el 19 de mayo de 2026. . Los métodos de la técnica de automatización están, en parte, adaptados a ciertos procesos específicos. La mayoría de los métodos generales modernos de automatización de procesos utilizan modelos teóricos o experimentales de procesos en forma analítica."
+  },
+  {
+    "intent_id": "automatizacion_industrial_054",
+    "keywords": [
+      "control",
+      "incluyen",
+      "modelado",
+      "ordenador",
+      "accionamientos"
+    ],
+    "base_response": "Estos incluyen, por ejemplo, el modelado asistido por ordenador, la simulación y el control digital de robots, máquinas herramienta, Motores de combustión interna, vehículos de motor, accionamientos hidráulicos, neumáticos y eléctricos, donde se desarrollan métodos de diagnóstico probados en la práctica."
+  },
+  {
+    "intent_id": "automatizacion_industrial_055",
+    "keywords": [
+      "inteligencia",
+      "optimizacion",
+      "desarrollo",
+      "redes",
+      "automatizacion"
+    ],
+    "base_response": "La solución de automatización debe utilizar la infraestructura existente y adaptarse a los procesos existentes.​ De particular importancia son el desarrollo y la prueba de métodos de 'inteligencia computacional', es decir, una combinación de lógica difusa, redes neuronales y algoritmos de optimización evolutiva."
+  },
+  {
+    "intent_id": "automatizacion_industrial_056",
+    "keywords": [
+      "disminucion",
+      "costes",
+      "disminuye",
+      "disminuyen",
+      "consecuencia"
+    ],
+    "base_response": "En la producción disminuye el trabajo manual, aumenta la productividad y disminuyen los costes laborales. La automatización para cualquier rama económica es una causa importante de la disminución del volumen de trabajo como consecuencia del aumento de la productividad."
+  },
+  {
+    "intent_id": "automatizacion_industrial_057",
+    "keywords": [
+      "productos",
+      "adaptarse",
+      "plantas",
+      "sistemas"
+    ],
+    "base_response": "La automatización también crea nuevos puestos de trabajo. Hay nuevas máquinas y sistemas con un mayor grado de automatización y suelen tener un mercado más grande. Las plantas y máquinas automatizadas tienen un ciclo de producción corto y pueden actualizarse y adaptarse fácilmente a nuevos productos."
+  },
+  {
+    "intent_id": "sensor_de_presion_058",
+    "keywords": [
+      "generan",
+      "someten",
+      "funcionan",
+      "senal"
+    ],
+    "base_response": "En general, los sensores de presión funcionan como un transductor; es decir, generan una señal en función de la presión a la que se someten. Para los propósitos de este artículo, esa señal es eléctrica."
+  },
+  {
+    "intent_id": "sensor_de_presion_059",
+    "keywords": [
+      "velocidad",
+      "medir",
+      "sensores",
+      "gases",
+      "presion"
+    ],
+    "base_response": "Los sensores de presión se utilizan en miles de aplicaciones cotidianas de control y monitorización. También se pueden utilizar para medir de forma indirecta otras variables, como flujo de fluidos/gases, velocidad, nivel de agua o altitud."
+  },
+  {
+    "intent_id": "sensor_de_presion_060",
+    "keywords": [
+      "sensores",
+      "diseno",
+      "idoneidad",
+      "tecnologia",
+      "transmisores"
+    ],
+    "base_response": "Los sensores de presión también pueden denominarse transductores de presión, transmisores de presión, registradores de presión, indicadores de presión, piezómetros y manómetros, entre otros nombres. Existen muchísimas variantes de sensores de presión en cuanto a tecnología, diseño, prestaciones, idoneidad de aplicación y coste."
+  },
+  {
+    "intent_id": "sensor_de_presion_061",
+    "keywords": [
+      "empresas",
+      "categoria",
+      "medir",
+      "estimacion",
+      "detectar"
+    ],
+    "base_response": "Según una estimación conservadora, existen más de cincuenta tecnologías y al menos trescientas empresas que fabrican sensores de presión en todo el mundo. También existe una categoría de sensores de presión diseñados para medir de modo dinámico y detectar cambios muy rápidos de presión."
+  },
+  {
+    "intent_id": "sensor_de_presion_062",
+    "keywords": [
+      "combustion",
+      "medir",
+      "emplean",
+      "fabrican"
+    ],
+    "base_response": "Esta clase de sensores se emplean, por ejemplo, para medir la presión de combustión en el cilindro de un motor o en una turbina de gas. Este tipo de sensores se fabrican típicamente en materiales piezoeléctricos como el cuarzo."
+  },
+  {
+    "intent_id": "sensor_de_presion_063",
+    "keywords": [
+      "controlarse",
+      "presion",
+      "agua",
+      "reduccion",
+      "liberar",
+      "bomba"
+    ],
+    "base_response": "Por ejemplo, una bomba de agua puede controlarse mediante un presostato, de modo que la bomba se ponga en marcha en el momento en que un sistema empieza a liberar agua y se registra una reducción de la presión en un depósito."
+  },
+  {
+    "intent_id": "sensor_de_presion_064",
+    "keywords": [
+      "presion",
+      "reciben",
+      "utilizarse",
+      "vacio"
+    ],
+    "base_response": "Reciben distintos nombres dependiendo de su finalidad. Una misma tecnología puede utilizarse bajo distintos nombres. Sensores de presión absoluta Miden la presión con respecto al vacío perfecto. Sensores de presión manométrica Miden la presión con respecto a la presión atmosférica."
+  },
+  {
+    "intent_id": "sensor_de_presion_065",
+    "keywords": [
+      "midiendo",
+      "neumatico",
+      "medida",
+      "ambiente",
+      "indica"
+    ],
+    "base_response": "La lectura de la presión de un neumático es un ejemplo de medida de presión manométrica: cuando el manómetro indica cero, lo que quiere decir es que la presión que está midiendo es igual a la presión ambiente."
+  },
+  {
+    "intent_id": "sensor_de_presion_066",
+    "keywords": [
+      "presiones",
+      "mide",
+      "describir",
+      "sensor",
+      "diferencia"
+    ],
+    "base_response": "Puede referirse a un sensor que mide presiones por debajo de la presión atmosférica y que muestra la diferencia entre una baja presión y la presión atmosférica, pero también puede describir un sensor que mide presión absoluta con respecto al vacío."
+  },
+  {
+    "intent_id": "sensor_de_presion_067",
+    "keywords": [
+      "condiciones",
+      "mide",
+      "presion",
+      "ubicacion",
+      "varia",
+      "manometros"
+    ],
+    "base_response": "Manómetros sellados Este sensor es similar a un sensor de presión manométrica, excepto que mide la presión con respecto a una presión fija distinta de la presión atmosférica ambiente (la presión atmosférica varía según la ubicación y las condiciones meteorológicas)."
+  },
+  {
+    "intent_id": "sensor_de_presion_068",
+    "keywords": [
+      "monocristalino",
+      "lamina",
+      "pelicula",
+      "variacion"
+    ],
+    "base_response": "Mide la variación en la resistencia a medida que la presión deforma el material. Las tecnologías más comunes son las de silicio (monocristalino), película delgada de silicio policristalino, lámina metálica de soporte adherida, película gruesa, silicio sobre zafiro y capa fina obtenida por pulverización catódica."
+  },
+  {
+    "intent_id": "sensor_de_presion_069",
+    "keywords": [
+      "conectan",
+      "circuito",
+      "medida",
+      "salida",
+      "maximiza",
+      "aplicaciones"
+    ],
+    "base_response": "En general, las galgas extensométricas se conectan para formar un circuito tipo puente de Wheatstone con el que se maximiza la salida del sensor y se reduce la sensibilidad a los errores. Esta es la tecnología de detección más comúnmente empleada para aplicaciones generales de medida de presión."
+  },
+  {
+    "intent_id": "sensor_de_presion_070",
+    "keywords": [
+      "rigidez",
+      "rejilla",
+      "capacidad",
+      "ventaja"
+    ],
+    "base_response": "Este diseño de tipo tubular monolítico tiene la ventaja de que una alta rigidez y la capacidad de medir presiones muy elevadas (hasta 15 000 bar). Un ejemplo extendido de este tipo de sensores son las fibras con rejilla de Bragg."
+  },
+  {
+    "intent_id": "sensor_de_presion_071",
+    "keywords": [
+      "tecnologia",
+      "forma",
+      "interferencias",
+      "emplear",
+      "punto",
+      "aplicaciones"
+    ],
+    "base_response": "Esta tecnología se utiliza en aplicaciones exigentes, en donde el punto de medición está muy alejado, la temperatura es extremadamente alta o resulta interesante emplear un tecnología inmune de forma inherente a las interferencias electromagnéticas."
+  },
+  {
+    "intent_id": "sensor_de_presion_072",
+    "keywords": [
+      "captador",
+      "resonancia",
+      "fuerza",
+      "caso"
+    ],
+    "base_response": "Esta tecnología se puede usar conjuntamente con un captador de fuerza, como los de la categoría anterior. Como alternativa, la tecnología de resonancia también se puede utilizar exponiendo el elemento resonante al medio; en este caso, la frecuencia de resonancia varía con la densidad del medio."
+  },
+  {
+    "intent_id": "sensor_de_presion_073",
+    "keywords": [
+      "sensores",
+      "hilos",
+      "lecturas",
+      "ejemplo"
+    ],
+    "base_response": "Se han construido sensores de hilos vibratorios, cilindros vibratorios, cuarzo y sistemas microelectromecánicos (MEMS) de silicio. En general, se considera que esta tecnología proporciona lecturas muy estables a largo plazo. Un ejemplo típico de este tipo de sensores es el vacuómetro Pirani."
+  },
+  {
+    "intent_id": "sensor_de_presion_074",
+    "keywords": [
+      "catodo",
+      "funcionalidad",
+      "transductores",
+      "utilidad",
+      "dependa",
+      "sensores"
+    ],
+    "base_response": "Un ejemplo común de este tipo de sensores son los transductores de cátodo caliente y de cátodo frío. Tiene utilidad en instrumentos meteorológicos, aeronaves, automóviles o cualquier otra máquina cuya funcionalidad dependa de la presión."
+  },
+  {
+    "intent_id": "sensor_de_presion_075",
+    "keywords": [
+      "altura",
+      "pies",
+      "ref",
+      "altimetro"
+    ],
+    "base_response": "Esta relación viene dada por la ecuación siguiente:​ h = ( 1 − ( P / P r e f ) 0.190284 ) × 145366.45 f t {\\displaystyle h=(1-(P/P_{\\mathrm {ref} })^{0.190284})\\times 145366.45\\mathrm {ft} } Esta ecuación está calibrada para un altímetro hasta una altura de 11 000 m (36 090 pies)."
+  },
+  {
+    "intent_id": "sensor_de_presion_076",
+    "keywords": [
+      "temperatura",
+      "calculo",
+      "presion",
+      "sensor",
+      "error"
+    ],
+    "base_response": "Fuera de ese rango se introduce un error, que se puede calcular de manera individual para cada sensor de presión concreto. Este cálculo de error tiene en cuenta la influencia del descenso de temperatura a medida que se asciende."
+  },
+  {
+    "intent_id": "sensor_de_presion_077",
+    "keywords": [
+      "presion",
+      "altitud",
+      "resolucion",
+      "sistemas",
+      "medir",
+      "sensores"
+    ],
+    "base_response": "Los sensores de presión barométrica que se emplean para medir la altitud tienen una resolución mejor que 1 m, lo cual es sensiblemente mejor que la de los sistemas GPS (resolución de altitud en torno a 20 m)."
+  },
+  {
+    "intent_id": "sensor_de_presion_078",
+    "keywords": [
+      "vehiculos",
+      "presion",
+      "altimetros",
+      "mide",
+      "seccion"
+    ],
+    "base_response": "En los navegadores, se utilizan altímetros para distinguir entre carreteras a varios niveles (navegación de vehículos) y plantas de edificios a distintos niveles (navegación peatonal).. Se mide la presión diferencial entre dos segmentos de un tubo Venturi con distinta sección."
+  },
+  {
+    "intent_id": "sensor_de_presion_079",
+    "keywords": [
+      "caudal",
+      "sensor",
+      "presion",
+      "requiere"
+    ],
+    "base_response": "La diferencia de presión entre los dos segmentos es directamente proporcional a la velocidad de caudal a través del tubo Venturi. Esta diferencia de presión es relativamente pequeña y casi siempre requiere el uso de un sensor de baja presión."
+  },
+  {
+    "intent_id": "sensor_de_presion_080",
+    "keywords": [
+      "torre",
+      "enfriamiento",
+      "medir",
+      "submarinista"
+    ],
+    "base_response": "Esta técnica se utiliza habitualmente para medir la profundidad a la que se encuentra un cuerpo sumergido (como un submarinista o un submarino) o el nivel de llenado de un depósito (por ejemplo, una torre de enfriamiento)."
+  },
+  {
+    "intent_id": "sensor_de_presion_081",
+    "keywords": [
+      "mmca",
+      "presion",
+      "columna",
+      "mayoria",
+      "situaciones"
+    ],
+    "base_response": "En la mayoría de situaciones prácticas, el nivel de un fluido es directamente proporcional a la presión. En el caso del agua dulce a presión atmosférica, 1 Pa = 9,81 mmca (1 psi = 27,7 pulgadas de columna de agua)."
+  },
+  {
+    "intent_id": "sensor_de_presion_082",
+    "keywords": [
+      "suministro",
+      "unidades",
+      "presion",
+      "factor",
+      "transductor"
+    ],
+    "base_response": "P {\\displaystyle P} es la presión medida. K {\\displaystyle K} es el factor de escala nominal del transductor (para un suministro de tensión ideal), en unidades de tensión partido por presión. V s a c t u a l {\\displaystyle Vs_{\\mathrm {actual} }} es la tensión de suministro real del transductor."
+  },
+  {
+    "intent_id": "sensor_capacitivo_083",
+    "keywords": [
+      "sensor",
+      "sensores",
+      "tipo",
+      "material",
+      "metales"
+    ],
+    "base_response": "Los sensores capacitivos son un tipo de sensor eléctrico. Los sensores capacitivos (KAS) reaccionan ante metales y no metales que al aproximarse a la superficie activa sobrepasan una determinada capacidad. La distancia de conexión respecto a un determinado material es tanto mayor cuanto más elevada sea su constante dieléctrica."
+  },
+  {
+    "intent_id": "sensor_capacitivo_084",
+    "keywords": [
+      "electrodo",
+      "sensor",
+      "aplicaciones",
+      "objeto",
+      "masa"
+    ],
+    "base_response": "El electrodo externo puede estar realizado de dos modos diferentes; en algunas aplicaciones dicho electrodo es el propio objeto a sensar, previamente conectado a masa; entonces la capacidad en cuestión variará en función de la distancia que hay entre el sensor y el objeto."
+  },
+  {
+    "intent_id": "sensor_capacitivo_085",
+    "keywords": [
+      "coloca",
+      "caracteristicas",
+      "dielectrico",
+      "placa",
+      "utiliza"
+    ],
+    "base_response": "En cambio, en otras aplicaciones se coloca una masa fija y, entonces, el cuerpo a detectar se utiliza como dieléctrico se introduce entre la masa y la placa activa, modificando así las características del condensador equivalente."
+  },
+  {
+    "intent_id": "sensor_capacitivo_086",
+    "keywords": [
+      "potencial",
+      "dedos",
+      "pantalla",
+      "computadoras"
+    ],
+    "base_response": "También son utilizados para muchos dispositivos con pantalla táctil, como teléfonos móviles o computadoras ya que el sensor percibe la pequeña diferencia de potencial entre membranas de los dedos eléctricamente polarizados de una persona adulta."
+  },
+  {
+    "intent_id": "sensor_capacitivo_087",
+    "keywords": [
+      "detectan",
+      "materiales",
+      "contacto",
+      "ocasion"
+    ],
+    "base_response": "En esta ocasión el dieléctrico, por ejemplo el aire, cambia su permitividad con respecto a la humedad del ambiente. La primera ventaja es común para ambos, detectan sin necesidad de contacto físico, pero con la posibilidad de detectar materiales distintos del metal."
+  },
+  {
+    "intent_id": "sensor_capacitivo_088",
+    "keywords": [
+      "entornos",
+      "duracion",
+      "funcionamiento",
+      "adaptacion"
+    ],
+    "base_response": "Además, debido a su funcionamiento tiene muy buena adaptación a los entornos industriales, adecuado para la detección de materiales polvorientos o granulados. La duración de este sensor es independiente del número de maniobras que realice y soporta bien las carencias de funcionamiento elevadas."
+  },
+  {
+    "intent_id": "sensor_inductivo_089",
+    "keywords": [
+      "campo",
+      "sensores",
+      "sensor",
+      "generado"
+    ],
+    "base_response": "Los sensores de proximidad inductivos contienen un devanado interno. Cuando una corriente circula por el mismo, un campo magnético es generado, que tiene la dirección de las flechas anaranjadas. Cuando un metal es acercado al campo magnético generado por el sensor de proximidad, este es detectado."
+  },
+  {
+    "intent_id": "sensor_inductivo_090",
+    "keywords": [
+      "material",
+      "bobina",
+      "reduccion",
+      "induce"
+    ],
+    "base_response": "La bobina, o devanado, del sensor inductivo induce corrientes de Foucault en el material por detectar. Estas, a su vez, generan un campo magnético que se opone al de la bobina del sensor, causando una reducción en la inductancia de la misma."
+  },
+  {
+    "intent_id": "sensor_inductivo_091",
+    "keywords": [
+      "disminucion",
+      "diametro",
+      "impedancia",
+      "inductores",
+      "inductancia"
+    ],
+    "base_response": "Esta reducción en la inductancia de la bobina interna del sensor trae aparejado una disminución en la impedancia de esta. La inductancia es un valor intrínseco de las bobinas o inductores, que depende del diámetro de las espiras y el número de ellas."
+  },
+  {
+    "intent_id": "sensor_inductivo_092",
+    "keywords": [
+      "senal",
+      "momento",
+      "detecta",
+      "amplificador"
+    ],
+    "base_response": "Es en este momento en que el circuito detector nuevamente detecta este cambio de impedancia y envía una señal al amplificador de salida para que sea este quien, nuevamente, restituya el estado de la salida del sensor."
+  },
+  {
+    "intent_id": "sensor_inductivo_093",
+    "keywords": [
+      "metal",
+      "cambios",
+      "evaluados",
+      "detectar",
+      "deteccion",
+      "configuracion"
+    ],
+    "base_response": "Si el sensor tiene una configuración “Normal Abierta”, este activará la salida cuando el metal a detectar ingrese en la zona de detección. Lo opuesto ocurre cuando el sensor tiene una configuración 'Normal Cerrada'. Estos cambios de estado son evaluados por unidades externas tales como: PLCs, relés, PCs, etc."
+  },
+  {
+    "intent_id": "sensor_inductivo_094",
+    "keywords": [
+      "transferencia",
+      "detecta",
+      "deteccion",
+      "nivel",
+      "cae"
+    ],
+    "base_response": "2.- Objeto a detectar acercándose a la zona de detección: se producen corrientes de Foucault, por tanto hay una “transferencia de energía”; el circuito de detección detecta una disminución de la amplitud, la cual cae por debajo del nivel de operación; la salida es activada (ON)."
+  },
+  {
+    "intent_id": "sensor_inductivo_095",
+    "keywords": [
+      "corrientes",
+      "operacion",
+      "circuito",
+      "eliminacion",
+      "salida",
+      "deteccion"
+    ],
+    "base_response": "3.- Objeto a detectar se retira de la zona de detección: eliminación de corrientes de Foucault; el circuito de detección detecta el incremento de la amplitud de oscilación; como la salida alcanza el nivel de operación, la misma se desactiva (OFF)."
+  },
+  {
+    "intent_id": "sensor_inductivo_096",
+    "keywords": [
+      "reset",
+      "restablecimiento",
+      "distancia",
+      "detectar",
+      "objeto",
+      "deja"
+    ],
+    "base_response": "Cuando el mismo objeto es alejado, el sensor no lo deja de detectar inmediatamente, sino cuando alcanza la 'distancia de reset' o 'distancia de restablecimiento', que es igual a la 'distancia de detección' más la histéresis propia del sensor."
+  },
+  {
+    "intent_id": "sensor_inductivo_097",
+    "keywords": [
+      "tipos",
+      "acero",
+      "aluminio",
+      "metales",
+      "detectados"
+    ],
+    "base_response": "Este valor variará sensiblemente si se quiere detectar otros tipos de metales, incluso con materiales ferrosos como el acero inoxidable (SS). Para otros no ferroros, como el aluminio, pueden ser detectados, pero a menores distancias."
+  },
+  {
+    "intent_id": "sensor_inductivo_098",
+    "keywords": [
+      "grafico",
+      "tamano",
+      "diametro",
+      "disminuye",
+      "varia",
+      "material"
+    ],
+    "base_response": "En el siguiente gráfico se puede ver como varía la distancia de detección en función del material a detectar y el tamaño del mismo. Si fuera menor que el 50 % del diámetro del sensor, la distancia de detección disminuye sustancialmente."
+  },
+  {
+    "intent_id": "sensor_inductivo_099",
+    "keywords": [
+      "promedio",
+      "milimetros",
+      "campos",
+      "deteccion"
+    ],
+    "base_response": "Debido a las limitaciones de los campos magnéticos, los sensores inductivos tienen una distancia de detección pequeña comparados con otros tipos de sensores. Esta distancia puede variar, en función del tipo de sensor inductivo, desde fracciones de milímetros hasta 40 mm en promedio."
+  },
+  {
+    "intent_id": "sensor_inductivo_100",
+    "keywords": [
+      "chatos",
+      "deteccion",
+      "industria",
+      "aplicaciones"
+    ],
+    "base_response": "Para compensar el limitado rango de detección, existe una extensa variedad de formatos de sensores inductivos: cilíndricos, chatos, rectangulares, etc. Los sensores inductivos cilíndricos son los más usuales en las aplicaciones presentes en la industria."
+  },
+  {
+    "intent_id": "sensor_inductivo_101",
+    "keywords": [
+      "consideraciones",
+      "temperatura",
+      "trabajar",
+      "aceites",
+      "ambientes"
+    ],
+    "base_response": "Gracias a las especiales consideraciones en el diseño, y al grado de protección IP67, muchos sensores inductivos pueden trabajar en ambientes adversos, con fluidos corrosivos, aceites, etc., sin perder operatividad. No tiene en cuenta las dispersiones (fabricación, temperatura, tensión)."
+  },
+  {
+    "intent_id": "sensor_inductivo_102",
+    "keywords": [
+      "mide",
+      "temperatura",
+      "alcance",
+      "tension",
+      "alimentacion"
+    ],
+    "base_response": "Alcance real (Sr): El alcance real se mide con la tensión de alimentación asignada (Un) y a la temperatura ambiente asignada (Tn). Debe estar comprendida entre el 90 % y el 110 % del alcance nominal (Sn): 0,9"
+  },
+  {
+    "intent_id": "sensor_inductivo_103",
+    "keywords": [
+      "funcionamiento",
+      "normativa",
+      "aparato",
+      "grados",
+      "alcance",
+      "campo"
+    ],
+    "base_response": "Debe estar comprendida entre el 90 % y el 110 % del alcance real: 0,9 Sr < Su < 1,1 Sr Alcance de trabajo (Sa): Es el campo de funcionamiento del aparato. Normativa Las normas referentes a los tipos o grados de protección son: NEMA TIPO 1: Propósito general."
+  },
+  {
+    "intent_id": "sensor_inductivo_104",
+    "keywords": [
+      "condensacion",
+      "previene",
+      "aparatos",
+      "gotas",
+      "instalacion",
+      "exterior"
+    ],
+    "base_response": "Envolvente destinada a prevenir de contactos accidentales con los aparatos. TIPO 2: Hermético a gotas. Previene contra contactos accidentales que pueden producirse por condensación de gotas o salpicaduras. TIPO 3: Resistencia a la intemperie. Para instalación en el exterior."
+  },
+  {
+    "intent_id": "sensor_inductivo_105",
+    "keywords": [
+      "chorro",
+      "tiempo",
+      "lluvia",
+      "polvo"
+    ],
+    "base_response": "TIPO 3R: Hermético a la lluvia. TIPO 4: Hermético al agua. Protege contra chorro de agua. TIPO 5: Hermético al polvo. TIPO 6: Sumergible en condiciones especificadas de presión y tiempo. TIPO 7: Para emplazamientos peligrosos Clase I. El circuito de ruptura de corriente actúa al aire."
+  },
+  {
+    "intent_id": "sensor_inductivo_106",
+    "keywords": [
+      "acidos",
+      "aparatos",
+      "aceite",
+      "explosion",
+      "gases"
+    ],
+    "base_response": "TIPO 8: Para emplazamientos peligrosos Clase I. Los aparatos están sumergidos en aceite. TIPO 9: Para emplazamientos peligroso Clase II y funcionamiento intermitente. TIPO 10: A prueba de explosión. TIPO 11: Resistente a ácidos o gases."
+  },
+  {
+    "intent_id": "sensor_inductivo_107",
+    "keywords": [
+      "solidos",
+      "establece",
+      "interfiera",
+      "digitos"
+    ],
+    "base_response": "Protege de contactos accidentales y de que su operación normal no se interfiera por la entrada de polvo DIN La norma DIN 40 050 establece el grado de protección IP; este se compone de dos dígitos: El primero indica la protección contra sólidos."
+  },
+  {
+    "intent_id": "sensor_inductivo_108",
+    "keywords": [
+      "aire",
+      "calidad",
+      "sensores",
+      "trabajar",
+      "factor",
+      "sensor"
+    ],
+    "base_response": "Estos sensores están principalmente fabricados sin núcleo de material ferromagnético, es decir el núcleo es de aire, a su vez, normalmente, están compuesto por dos bobinas en tándem o perpendiculares para trabajar con un diferencial eléctrico y no con el factor de calidad Q propio del sensor."
+  },
+  {
+    "intent_id": "motor_de_corriente_continua_109",
+    "keywords": [
+      "convierte",
+      "motor",
+      "energia",
+      "gracias",
+      "accion"
+    ],
+    "base_response": "El motor de corriente continua, denominado también motor de corriente directa, motor CC o motor DC (por las iniciales en inglés: direct current), es una máquina que convierte energía eléctrica en energía mecánica, provocando un movimiento rotatorio, gracias a la acción de un campo magnético."
+  },
+  {
+    "intent_id": "motor_de_corriente_continua_110",
+    "keywords": [
+      "partes",
+      "soporte",
+      "nucleo",
+      "hierro",
+      "estator"
+    ],
+    "base_response": "Los componentes de un motor de corriente continua se dividen en dos partes: - Estátor: parte que da soporte mecánico al aparato y contiene los polos de la máquina, que pueden ser devanados de hilo de cobre sobre un núcleo de hierro o imanes permanentes."
+  },
+  {
+    "intent_id": "motor_de_corriente_continua_111",
+    "keywords": [
+      "componente",
+      "fabrican",
+      "contacto",
+      "nucleo"
+    ],
+    "base_response": "- Rotor: es un componente generalmente de forma cilíndrica, también devanado y con núcleo, alimentado con corriente continua a través del colector formado por delgas. Las delgas se fabrican generalmente de cobre y están en contacto alternante con las escobillas fijas."
+  },
+  {
+    "intent_id": "motor_de_corriente_continua_112",
+    "keywords": [
+      "desgaste",
+      "potencia",
+      "grafito",
+      "contacto",
+      "sufren",
+      "delgas"
+    ],
+    "base_response": "El principal inconveniente que tienen estos motores es el mantenimiento costoso y laborioso, debido principalmente al desgaste que sufren las escobillas al entrar en contacto con las delgas. Las escobillas de los motores de baja potencia se fabrican de grafito."
+  },
+  {
+    "intent_id": "motor_de_corriente_continua_113",
+    "keywords": [
+      "fabrican",
+      "servomotores",
+      "riel",
+      "traccion"
+    ],
+    "base_response": "Por otro lado, los que requieren corrientes elevadas como los motores de arranque de los vehículos, se fabrican con una aleación de grafito y metal. Algunas aplicaciones especiales de estos motores son: los motores lineales, servomotores, motores paso a paso o cuando ejercen tracción sobre un riel."
+  },
+  {
+    "intent_id": "motor_de_corriente_continua_114",
+    "keywords": [
+      "corriente",
+      "motores",
+      "motor",
+      "tecnicas"
+    ],
+    "base_response": "Además, existen motores de CC sin escobillas (brushless en inglés) utilizados en el aeromodelismo por su bajo par motor y su gran velocidad. Es posible controlar la velocidad y el par de estos motores utilizando técnicas de control de motores de corriente continua."
+  },
+  {
+    "intent_id": "motor_de_corriente_continua_115",
+    "keywords": [
+      "cancelan",
+      "direccion",
+      "observarse",
+      "interactuan"
+    ],
+    "base_response": "Sin embargo, en el resto de los segmentos que interactúan con el campo magnético, las fuerzas experimentadas se cancelan entre sí. Como puede observarse, las fuerzas en los segmentos laterales tienen una dirección y sentido tales que producen el giro del rotor."
+  },
+  {
+    "intent_id": "motor_de_corriente_continua_116",
+    "keywords": [
+      "producen",
+      "bobinado",
+      "arranque",
+      "resistencia",
+      "maquina"
+    ],
+    "base_response": "Durante el arranque de un motor de corriente continua se producen fuertes picos de corriente, ya que, al estar la máquina parada, no hay fuerza contra electromotriz y el bobinado se comporta como un simple conductor de baja resistencia."
+  },
+  {
+    "intent_id": "motor_de_corriente_continua_117",
+    "keywords": [
+      "fuerza",
+      "transformar",
+      "generador",
+      "tension"
+    ],
+    "base_response": "En cambio, si se aplica una tensión continua al devanado inducido del generador a través del colector delga, el comportamiento de la máquina ahora es de motor, capaz de transformar la fuerza contra electromotriz en energía mecánica."
+  },
+  {
+    "intent_id": "motor_de_corriente_continua_118",
+    "keywords": [
+      "potencias",
+      "denominar",
+      "energia",
+      "condiciones",
+      "maquinas",
+      "ingles"
+    ],
+    "base_response": "Es común denominar estas máquinas de conversión de energía como PM, siendo esta la abreviatura del inglés de Permanent-magnet Motors. Aunque existen PMs de hasta 75 , la mayor aplicación de estos equipos se encuentra en bajas potencias por condiciones económicas."
+  },
+  {
+    "intent_id": "motor_de_corriente_continua_119",
+    "keywords": [
+      "flujo",
+      "motor",
+      "punto",
+      "dependiendo",
+      "magnitud",
+      "depende"
+    ],
+    "base_response": "En un PM, el flujo magnético no depende de la circulación de esta corriente por la presencia del imán y esta magnitud es esencialmente constante, dependiendo el flujo del entrehierro únicamente del punto de operación del motor."
+  },
+  {
+    "intent_id": "motor_de_corriente_continua_120",
+    "keywords": [
+      "desmagnetizacion",
+      "reaccion",
+      "eficiencia",
+      "material",
+      "requiere",
+      "presenta"
+    ],
+    "base_response": "Para una misma potencia de salida, un PM presenta mayor eficiencia y requiere menos material que su homólogo devanado DC. Sin embargo, el diseño debe tener en consideración el efecto de desmagnetización debido a la reacción de la armadura."
+  },
+  {
+    "intent_id": "motor_de_corriente_continua_121",
+    "keywords": [
+      "modificando",
+      "controlado",
+      "velocidad",
+      "relaciones"
+    ],
+    "base_response": "Como el flujo magnético en un PM es constante, las relaciones velocidad - torque y corriente torque son básicamente lineales, la primera decreciente y la segunda creciente. La característica velocidad - torque de un PM puede ser controlado, modificando la tensión eléctrica de entrada o la resistencia del circuito de armadura."
+  },
+  {
+    "intent_id": "robotica_autonoma_122",
+    "keywords": [
+      "tarea",
+      "actuar",
+      "entorno",
+      "desarrolla"
+    ],
+    "base_response": "La robótica autónoma es el área de la robótica que desarrolla robots capaces de desplazarse y actuar sin intervención humana. Para ello, el robot debe percibir su entorno y actuar de forma adecuada, además de llevar a cabo su tarea."
+  },
+  {
+    "intent_id": "robotica_autonoma_123",
+    "keywords": [
+      "robotica",
+      "conforme",
+      "grado",
+      "decrece",
+      "tornan"
+    ],
+    "base_response": "La robótica ha tenido grandes avances en entornos estructurados, en los que el controlador del robot puede tener un mapa detallado de su entorno. Conforme decrece el grado de estructuración del entorno las tareas se tornan más complejas."
+  },
+  {
+    "intent_id": "brazo_robotico_124",
+    "keywords": [
+      "suma",
+      "funciones",
+      "robot",
+      "mecanismo",
+      "tipo",
+      "brazo"
+    ],
+    "base_response": "Un brazo robótico es un tipo de brazo mecánico, normalmente programable, con funciones parecidas a las de un brazo humano; este puede ser la suma total del mecanismo o puede ser parte de un robot más complejo."
+  },
+  {
+    "intent_id": "brazo_robotico_125",
+    "keywords": [
+      "partes",
+      "ejemplo",
+      "robot",
+      "variedad",
+      "ensamblaje",
+      "ejes"
+    ],
+    "base_response": "Por ejemplo, los brazos robóticos en las líneas de ensamblado de la industria automovilística realizan una variedad de tareas tales como soldar y colocar las distintas partes durante el ensamblaje. Es un robot cuyo brazo tiene tres articulaciones prismáticas, cuyos ejes son coincidentes con los ejes cartesianos."
+  },
+  {
+    "intent_id": "brazo_robotico_126",
+    "keywords": [
+      "gas",
+      "ejes",
+      "maquinas",
+      "punto",
+      "robot"
+    ],
+    "base_response": "Robot esférico / Robot polar: tal como el Unimate: Utilizado en la manipulación en máquinas herramientas, soldadura por punto, fundición a presión, máquinas de desbarbado, soldadura por gas y por arco. Es un robot cuyos ejes forman un sistema polar de coordenadas."
+  },
+  {
+    "intent_id": "brazo_robotico_127",
+    "keywords": [
+      "plano",
+      "proporcionar",
+      "manipulacion",
+      "robot"
+    ],
+    "base_response": "Robot SCARA: Usado para trabajos de “pick and place” (tomar y colocar), aplicación de impermeabilizantes, operaciones de ensamblado y manipulación de máquinas y herramientas. Es un robot que tiene dos articulaciones rotatorias paralelas para proporcionar elasticidad en un plano."
+  },
+  {
+    "intent_id": "codificador_rotatorio_128",
+    "keywords": [
+      "convierte",
+      "suele",
+      "pulsos",
+      "clase",
+      "dispositivo",
+      "convertir"
+    ],
+    "base_response": "Un codificador rotatorio, también llamado codificador del eje o generador de pulsos, suele ser un dispositivo electromecánico usado para convertir la posición angular de un eje a un código digital, lo que lo convierte en una clase de transductor."
+  },
+  {
+    "intent_id": "codificador_rotatorio_129",
+    "keywords": [
+      "utilizan",
+      "ordenador",
+      "entrada",
+      "tipos",
+      "dispositivos",
+      "generacion"
+    ],
+    "base_response": "Estos dispositivos se utilizan en robótica, en lentes fotográficos de última generación, en dispositivos de entrada de ordenador (tales como el ratón y el trackball), y en plataformas de radar rotatorias. Hay dos tipos principales: absoluto e incremental (relativo)."
+  },
+  {
+    "intent_id": "codificador_rotatorio_130",
+    "keywords": [
+      "corta",
+      "patron",
+      "disco",
+      "pone"
+    ],
+    "base_response": "Se corta un patrón complejo en una hoja de metal y se pone en un disco aislador, que está fijado al eje. También se coloca una fila de contactos deslizantes a lo largo del radio del disco."
+  },
+  {
+    "intent_id": "codificador_rotatorio_131",
+    "keywords": [
+      "fuente",
+      "huecos",
+      "corriente",
+      "contactos",
+      "cortado",
+      "caen"
+    ],
+    "base_response": "Mientras que el disco rota con el eje, algunos de los contactos tocan el metal, mientras que otros caen en los huecos donde se ha cortado el metal. La hoja de metal está conectada con una fuente de corriente eléctrica, y cada contacto está conectado con un sensor eléctrico separado."
+  },
+  {
+    "intent_id": "codificador_rotatorio_132",
+    "keywords": [
+      "forma",
+      "cree",
+      "patron",
+      "apagados"
+    ],
+    "base_response": "Se diseña el patrón de metal de tal forma que cada posición posible del eje cree un código binario único en el cual algunos de los contactos esté conectado con la fuente de corriente (es decir encendido) y otros no (apagados)."
+  },
+  {
+    "intent_id": "codificador_rotatorio_133",
+    "keywords": [
+      "leer",
+      "contactos",
+      "ejemplo",
+      "microprocesador"
+    ],
+    "base_response": "Este código se puede leer por un dispositivo controlador, tal como un microprocesador, para determinar el ángulo del eje. Generalmente, si hay n contactos, el número de posiciones distintas del eje es 2n. En este ejemplo, n es 3, así que hay 23, es decir, 8 posiciones."
+  },
+  {
+    "intent_id": "codificador_rotatorio_134",
+    "keywords": [
+      "contactos",
+      "gira",
+      "angulo",
+      "disco",
+      "desventaja"
+    ],
+    "base_response": "En el ejemplo anterior, los contactos producen una cuenta binaria a medida que el disco gira. Sin embargo, esto tiene la desventaja de que si el disco para entre dos sectores adyacentes, o los contactos no se alinean perfectamente, es imposible determinar el ángulo del eje."
+  },
+  {
+    "intent_id": "codificador_rotatorio_135",
+    "keywords": [
+      "sector",
+      "ilustrar",
+      "eje",
+      "cambia"
+    ],
+    "base_response": "Para ilustrar este problema, se considera que el ángulo del eje cambia de 179.9º a 180.1º (sector 4 a sector 5). En cierto instante, según la tabla anterior, el patrón del contacto cambiará de 'OFF-ON-ON' a 'ON-OFF-OFF'."
+  },
+  {
+    "intent_id": "codificador_rotatorio_136",
+    "keywords": [
+      "eje",
+      "esperaba",
+      "codigos",
+      "secuencia",
+      "volvio"
+    ],
+    "base_response": "Así, de la secuencia de los códigos producidos, parece que el eje saltó del sector 4 al sector 8, entonces volvió al sector 7, y luego al sector 5, que es donde se esperaba encontrarlo."
+  },
+  {
+    "intent_id": "codificador_rotatorio_137",
+    "keywords": [
+      "codificador",
+      "fallar",
+      "brazo",
+      "ejemplo",
+      "pensaria"
+    ],
+    "base_response": "En muchos casos, este comportamiento es indeseable y podría fallar. Por ejemplo, si el codificador fuera utilizado en un brazo robótico el controlador pensaría que el brazo estaba en la posición incorrecta. Para corregir el error, intentaría girarlo 180º, pudiendo dañarlo."
+  },
+  {
+    "intent_id": "codificador_rotatorio_138",
+    "keywords": [
+      "implica",
+      "contactos",
+      "apagado",
+      "transicion"
+    ],
+    "base_response": "Para entrar en contacto con el ejemplo dado arriba, la versión Grey-Cifrada será la siguiente: En este ejemplo, la transición del sector 4 al sector 5, como el resto de las transiciones, implica solamente uno de los contactos que cambian su estado de encendido a apagado o viceversa."
+  },
+  {
+    "intent_id": "codificador_rotatorio_139",
+    "keywords": [
+      "genera",
+      "pase",
+      "vuelta",
+      "circuito"
+    ],
+    "base_response": "El interruptor óptico, parecido a un fotodiodo, genera un pulso eléctrico cada vez que una de las líneas pase a través de su campo visual. Un circuito de control electrónico cuenta los pulsos para determinar el ángulo con el cual el eje da vuelta."
+  },
+  {
+    "intent_id": "codificador_rotatorio_140",
+    "keywords": [
+      "sistema",
+      "encendida",
+      "medir",
+      "angulo"
+    ],
+    "base_response": "Este sistema, en su forma más simple, no puede medir el ángulo absoluto del eje. Puede medir solamente el cambio en ángulo concerniente a cierto dato arbitrario, tal como posición del eje cuando la energía fue encendida."
+  },
+  {
+    "intent_id": "codificador_rotatorio_141",
+    "keywords": [
+      "agregado",
+      "dispositivos",
+      "sabida",
+      "problema"
+    ],
+    "base_response": "Esta incertidumbre no es un problema para los dispositivos de entrada de la computadora tales como ratones y trackball. Cuando la posición absoluta debe ser sabida, un segundo sensor puede ser agregado que detecta que el eje pasa por su posición cero."
+  },
+  {
+    "intent_id": "codificador_rotatorio_142",
+    "keywords": [
+      "eje",
+      "superar",
+      "problema",
+      "rotando",
+      "sensores"
+    ],
+    "base_response": "El segundo problema de este sistema es que no puede decir qué dirección está rotando el eje. Para superar este problema, el sensor óptico se debe aumentar a dos sensores colocados en ángulos diversos alrededor del eje."
+  },
+  {
+    "intent_id": "codificador_rotatorio_143",
+    "keywords": [
+      "limitado",
+      "creyeron",
+      "anos",
+      "matematicos",
+      "codificar",
+      "excepcion"
+    ],
+    "base_response": "Por muchos años, Torsten Sillke y otros matemáticos creyeron que era imposible codificar la posición respecto a un limitado de modo que las posiciones consecutivas diferencian en solamente un sensor, a excepción del sensor 2, codificador de la cuadratura de la uno-pista."
+  },
+  {
+    "intent_id": "codificador_rotatorio_144",
+    "keywords": [
+      "publicaron",
+      "papel",
+      "alcanzan",
+      "mayoria",
+      "blanco",
+      "demostraba"
+    ],
+    "base_response": "Sin embargo, en 1996, Paterson y Brandestini publicaron un papel que demostraba que era posible, con varios ejemplos. La mayoría de los usos están satisfechos con una función autoguiada hacia el blanco inicial en energía hasta que alcanzan la colocación absoluta deseada."
+  },
+  {
+    "intent_id": "codificador_rotatorio_145",
+    "keywords": [
+      "notado",
+      "discernidor",
+      "llegado",
+      "resto",
+      "competidor",
+      "codificadores"
+    ],
+    "base_response": "El cableado simple está asociado a los codificadores de la cuadratura. Y como tal, ha llegado a ser notablemente más barato que el resto de las operaciones de precisión. El único competidor serio que ha notado es el discernidor de imágenes."
+  },
+  {
+    "intent_id": "codificador_rotatorio_146",
+    "keywords": [
+      "trabajo",
+      "vio",
+      "aparato",
+      "declinacion",
+      "considerado",
+      "computadora"
+    ],
+    "base_response": "Este aparato iba a ser utilizado como estación de trabajo pero fue considerado una aceptación mucho más grande para la computadora. El codificador rotatorio vio que una declinación rápida en este papel como el ratón óptico llegó más lejos en la escena en el año 2000."
+  },
+  {
+    "intent_id": "codificador_rotatorio_147",
+    "keywords": [
+      "sistemas",
+      "mundo",
+      "ejemplo",
+      "codificadores",
+      "tipo"
+    ],
+    "base_response": "Un ejemplo de codificadores tanto rotativos como lineales es la marca TR Electronic, marca alemana pionera en el mundo de los sistemas de posicionamiento, especializada en todo tipo de codificadores sobre todo para uso industrial."
+  },
+  {
+    "intent_id": "placa_de_circuito_impreso_148",
+    "keywords": [
+      "quebradizos",
+      "estructura",
+      "cambio",
+      "cables",
+      "evitando"
+    ],
+    "base_response": "También se fabrican de celuloide con pistas de pintura conductora cuando se requiere que sean flexibles para conectar partes con movimiento entre sí, evitando los problemas del cambio de estructura cristalina del cobre, que hace quebradizos los conductores de cables y placas."
+  },
+  {
+    "intent_id": "placa_de_circuito_impreso_149",
+    "keywords": [
+      "permite",
+      "produccion",
+      "masa",
+      "desuso"
+    ],
+    "base_response": "La producción de las PCB y el montaje de los componentes puede ser automatizada.​ Esto permite que en ambientes de producción en masa, sean más económicos y fiables que otras alternativas de montaje (p. e.: wire-wrap o entorchado, ya en desuso)."
+  },
+  {
+    "intent_id": "placa_de_circuito_impreso_150",
+    "keywords": [
+      "construccion",
+      "ensamblaje",
+      "soldadura",
+      "modificacion"
+    ],
+    "base_response": "En otros contextos, como la construcción de prototipos basada en ensamblaje manual, la escasa capacidad de modificación una vez construidos y el esfuerzo que implica la soldadura de los componentes​ hace que las PCB no sean una alternativa óptima."
+  },
+  {
+    "intent_id": "placa_de_circuito_impreso_151",
+    "keywords": [
+      "organizaciones",
+      "estandares",
+      "contribuyen",
+      "ejemplo"
+    ],
+    "base_response": "Otras organizaciones, también contribuyen con estándares relacionados, como por ejemplo: Instituto Nacional Estadounidense de Estándares (ANSI), American National Standards Institute), Comisión Electrotécnica Internacional (IEC, International Engineering Consortium), Alianza de Industrias Electrónicas (EIA, Electronic Industries Alliance), y Joint Electron Device Engineering Council (JEDEC)."
+  },
+  {
+    "intent_id": "placa_de_circuito_impreso_152",
+    "keywords": [
+      "soldadas",
+      "pines",
+      "cobre",
+      "lamina",
+      "patron"
+    ],
+    "base_response": "En 1949, Moe Abramson y Stanilus F. Danko, de la United States Army Signal Corps, desarrollaron el proceso de autoensamblaje, en donde los pines de los componentes eran insertadas en una lámina de cobre con el patrón de interconexión, y luego eran soldadas."
+  },
+  {
+    "intent_id": "placa_de_circuito_impreso_153",
+    "keywords": [
+      "perforacion",
+      "tecnologia",
+      "elimina",
+      "orificios",
+      "soldadura"
+    ],
+    "base_response": "La soldadura se puede hacer automáticamente pasando la tarjeta sobre un flujo de soldadura derretida, en una máquina de soldadura por ola.​ El costo asociado con la perforación de los orificios y el largo adicional de los pines, se elimina al utilizar dispositivos de montaje superficial (tecnología de montaje superficial)."
+  },
+  {
+    "intent_id": "placa_de_circuito_impreso_154",
+    "keywords": [
+      "designaciones",
+      "vias",
+      "exterior",
+      "tarjeta"
+    ],
+    "base_response": "Los circuitos impresos de alta densidad pueden tener “vías ciegas”, que son visibles en solo un lado de la tarjeta, o “vías enterradas”, que no son visibles en el exterior de la tarjeta. Usan designaciones como XXXP, XXXPC y FR-2."
+  },
+  {
+    "intent_id": "placa_de_circuito_impreso_155",
+    "keywords": [
+      "herramientas",
+      "sustratos",
+      "causa",
+      "retardante",
+      "vidrio",
+      "material"
+    ],
+    "base_response": "El material es de bajo costo, fácil de mecanizar y causa menos desgaste de las herramientas que los sustratos de fibra de vidrio reforzados (la más conocida es la FR-4). Las letras 'FR' en la designación del material indican 'retardante de llama' (Flame Retardant, en inglés)."
+  },
+  {
+    "intent_id": "placa_de_circuito_impreso_156",
+    "keywords": [
+      "costo",
+      "circuitos",
+      "consisten",
+      "epoxica"
+    ],
+    "base_response": "Los sustratos para los circuitos impresos utilizados en la electrónica industrial y de consumo de alto costo, están hechos típicamente de un material designado FR-4. Estos consisten en un material de fibra de vidrio, impregnados con una resina epóxica resistente a las llamas."
+  },
+  {
+    "intent_id": "placa_de_circuito_impreso_157",
+    "keywords": [
+      "permitividad",
+      "circuitos",
+      "radio",
+      "potencia"
+    ],
+    "base_response": "Los sustratos para los circuitos impresos de circuitos de radio en frecuencia de alta potencia usan plásticos con una constante dieléctrica (permitividad) baja, tales como Rogers® 4000, Rogers® Duroid, DuPont Teflón (tipos GT y GX), poliamida, poliestireno y poliestireno entrecruzado."
+  },
+  {
+    "intent_id": "placa_de_circuito_impreso_158",
+    "keywords": [
+      "circuitos",
+      "enfriamiento",
+      "calor",
+      "disipar",
+      "gravedad"
+    ],
+    "base_response": "Los circuitos impresos utilizados en el vacío o en gravedad cero, como en una nave espacial, al ser incapaces de contar con el enfriamiento por convección, a menudo tienen un núcleo grueso de cobre o aluminio para disipar el calor de los componentes electrónicos."
+  },
+  {
+    "intent_id": "placa_de_circuito_impreso_159",
+    "keywords": [
+      "clase",
+      "circuitos",
+      "materiales",
+      "disenadas",
+      "tarjetas"
+    ],
+    "base_response": "No todas las tarjetas usan materiales rígidos. Algunas son diseñadas para ser muy o ligeramente flexibles, usando DuPont's Kapton film de poliamida y otros. Esta clase de tarjetas, a veces llamadas “circuitos flexibles”, o “circuitos rígido-flexibles”, respectivamente, son difíciles de crear, pero tienen muchas aplicaciones."
+  },
+  {
+    "intent_id": "placa_de_circuito_impreso_160",
+    "keywords": [
+      "cabezal",
+      "dispositivo",
+      "ejemplo",
+      "utiliza",
+      "circuito",
+      "ocasiones"
+    ],
+    "base_response": "En ocasiones, la parte flexible del circuito impreso se utiliza como cable o conexión móvil hacia otra tarjeta o dispositivo. Un ejemplo de esta última aplicación es el cable que conecta el cabezal en una impresora de inyección de tinta."
+  },
+  {
+    "intent_id": "placa_de_circuito_impreso_161",
+    "keywords": [
+      "obedecer",
+      "tareas",
+      "facilita",
+      "disenador",
+      "circuito"
+    ],
+    "base_response": "El diseñador debe obedecer numerosas normas para diseñar un circuito impreso que funcione correctamente y que al mismo tiempo sea barato de fabricar. Estos programas almacenan información relacionada con el diseño, facilita la edición, y puede también automatizar tareas repetitivas."
+  },
+  {
+    "intent_id": "placa_de_circuito_impreso_162",
+    "keywords": [
+      "ingles",
+      "patillas",
+      "etapa",
+      "pines",
+      "conectan",
+      "circuito"
+    ],
+    "base_response": "La primera etapa es convertir el esquema en una lista de nodos (net list en inglés). La lista de nodos es una lista de los pines (o patillas) y nodos del circuito, a los que se conectan los pines de los componentes."
+  },
+  {
+    "intent_id": "placa_de_circuito_impreso_163",
+    "keywords": [
+      "nodos",
+      "posicion",
+      "captura",
+      "componente"
+    ],
+    "base_response": "Usualmente el programa de “captura de esquemáticos”, utilizado por el diseñador del circuito, es responsable de la generación de la lista de nodos, y esta lista es posteriormente importada en el programa de ruteo. El siguiente paso es determinar la posición de cada componente."
+  },
+  {
+    "intent_id": "placa_de_circuito_impreso_164",
+    "keywords": [
+      "posicion",
+      "rejilla",
+      "columnas",
+      "forma",
+      "asigna"
+    ],
+    "base_response": "La forma sencilla de hacer esto es especificar una rejilla de filas y columnas, donde los dispositivos deberían ir. Luego, el programa asigna el pin 1 de cada dispositivo en la lista de componentes, a una posición en la rejilla."
+  },
+  {
+    "intent_id": "placa_de_circuito_impreso_165",
+    "keywords": [
+      "sistema",
+      "circuito",
+      "diseno",
+      "interruptores",
+      "conectores",
+      "casos"
+    ],
+    "base_response": "En otros casos, los componentes pueden ser posicionados manualmente, ya sea para optimizar el desempeño del circuito, o para poner componentes tales como perillas, interruptores y conectores, según lo requiere el diseño mecánico del sistema."
+  },
+  {
+    "intent_id": "placa_de_circuito_impreso_166",
+    "keywords": [
+      "pines",
+      "footprint",
+      "distribucion",
+      "mapa",
+      "dispositivo"
+    ],
+    "base_response": "Cada footprint es un mapa de los pines de un dispositivo, usualmente con la distribución de los pad y perforaciones recomendadas. La biblioteca permite que los footprint sean dibujados solo una vez, y luego compartidos por todos los dispositivos de ese tipo."
+  },
+  {
+    "intent_id": "placa_de_circuito_impreso_167",
+    "keywords": [
+      "pistas",
+      "llamar",
+      "circuito",
+      "corrientes",
+      "determina"
+    ],
+    "base_response": "En algunos sistemas, los pads de alta corriente son identificados en la biblioteca de dispositivos, y los nodos asociados son etiquetados para llamar la atención del diseñador del circuito impreso. Las corrientes elevadas requieren de pistas más anchas, y el diseñador usualmente determina este ancho."
+  },
+  {
+    "intent_id": "placa_de_circuito_impreso_168",
+    "keywords": [
+      "programa",
+      "combina",
+      "lista",
+      "pines",
+      "nombre",
+      "nodos"
+    ],
+    "base_response": "Luego el programa combina la lista de nodos (ordenada por el nombre de los pines) con la lista de pines (ordenada por el nombre de cada uno de los pines), transfiriendo las coordenadas físicas de la lista de pines a la lista de nodos."
+  },
+  {
+    "intent_id": "placa_de_circuito_impreso_169",
+    "keywords": [
+      "pistas",
+      "nodo",
+      "diseno",
+      "optimizar"
+    ],
+    "base_response": "La lista de nodos es luego reordenada, por el nombre del nodo. Algunos sistemas pueden optimizar el diseño al intercambiar la posición de las partes y puertas lógicas para reducir el largo de las pistas de cobre."
+  },
+  {
+    "intent_id": "placa_de_circuito_impreso_170",
+    "keywords": [
+      "pines",
+      "sistemas",
+      "conductor",
+      "pistas"
+    ],
+    "base_response": "Algunos sistemas también detectan automáticamente los pines de alimentación de los dispositivos, y generan pistas o vías al plano de alimentación o conductor más cercano. Luego el programa trata de rutear cada nodo en la lista de señales-pines, encontrando secuencias de conexión en las capas disponibles."
+  },
+  {
+    "intent_id": "placa_de_circuito_impreso_171",
+    "keywords": [
+      "pin",
+      "nombre",
+      "elegir",
+      "algoritmo",
+      "tarjeta",
+      "seleccionar"
+    ],
+    "base_response": "Un algoritmo práctico de ruteo es elegir el pin más lejano del centro de la tarjeta, y luego usar un “algoritmo codicioso” para seleccionar el siguiente pin más cercano con la señal del mismo nombre."
+  },
+  {
+    "intent_id": "placa_de_circuito_impreso_172",
+    "keywords": [
+      "sistema",
+      "estrategias",
+      "costo",
+      "circuito"
+    ],
+    "base_response": "Después del ruteo automático, usualmente hay una lista de nodos que deben ser ruteados manualmente. Una vez ruteado, el sistema puede tener un conjunto de estrategias para reducir el costo de producción del circuito impreso."
+  },
+  {
+    "intent_id": "placa_de_circuito_impreso_173",
+    "keywords": [
+      "espacio",
+      "ensanchar",
+      "vias",
+      "pistas",
+      "dinero",
+      "ejemplo"
+    ],
+    "base_response": "Por ejemplo, una rutina podría suprimir las vías innecesarias (cada vía es una perforación, que cuesta dinero). Otras podrían redondear los bordes de las pistas, y ensanchar o mover las pistas para mantener el espacio entre estas dentro de un margen seguro."
+  },
+  {
+    "intent_id": "placa_de_circuito_impreso_174",
+    "keywords": [
+      "ajustar",
+      "estrategia",
+      "forma",
+      "formen",
+      "cobre",
+      "produccion"
+    ],
+    "base_response": "Otra estrategia podría ser ajustar grandes áreas de cobre de tal forma que ellas formen nodos, o juntar áreas vacías en áreas de cobre. Esto permite reducir la contaminación de los productos químicos utilizados durante el grabado y acelerar la velocidad de producción."
+  },
+  {
+    "intent_id": "placa_de_circuito_impreso_175",
+    "keywords": [
+      "comprobacion",
+      "conectividad",
+      "manufactura",
+      "tipo"
+    ],
+    "base_response": "Algunos sistemas tienen “comprobación de reglas de diseño” para validar la conectividad eléctrica y separación entre las distintas partes, compatibilidad electromagnética, reglas para la manufactura, ensamblaje y prueba de las tarjetas, flujo de calor y otro tipo de errores."
+  },
+  {
+    "intent_id": "placa_de_circuito_impreso_176",
+    "keywords": [
+      "pistas",
+      "capas",
+      "proceso",
+      "agregar"
+    ],
+    "base_response": "La serigrafía, máscara antisoldante y plantilla para la pasta de soldar, a menudo se diseñan como capas auxiliares. Algunos pocos circuitos impresos son fabricados al ‘agregar’ las pistas al sustrato, a través de un proceso complejo de electro-recubrimiento múltiple."
+  },
+  {
+    "intent_id": "placa_de_circuito_impreso_177",
+    "keywords": [
+      "procesadas",
+      "componentes",
+      "circuitos",
+      "sueldan",
+      "capas",
+      "multicapas"
+    ],
+    "base_response": "Algunos circuitos impresos tienen capas con pistas en el interior de este, y son llamados circuitos impresos multicapas. Estos son formados al aglomerar tarjetas delgadas que son procesadas en forma separada. Después de que la tarjeta ha sido fabricada, los componentes electrónicos se sueldan a la tarjeta."
+  },
+  {
+    "intent_id": "placa_de_circuito_impreso_178",
+    "keywords": [
+      "utiliza",
+      "circuitos",
+      "tarjeta",
+      "grabados",
+      "imprime"
+    ],
+    "base_response": "Los grabados posteriores retiran el cobre no deseado. Alternativamente, la tinta puede ser conductiva, y se imprime en una tarjeta virgen no conductiva. Esta última técnica también se utiliza en la fabricación de circuitos híbridos."
+  },
+  {
+    "intent_id": "placa_de_circuito_impreso_179",
+    "keywords": [
+      "fotomecanica",
+      "fotograbado",
+      "capa",
+      "sustrato"
+    ],
+    "base_response": "El fotograbado utiliza una fotomecánica y grabado químico para eliminar la capa de cobre del sustrato. La fotomecánica usualmente se prepara con un fotoplóter, a partir de los datos producidos por un programa para el diseño de circuitos impresos."
+  },
+  {
+    "intent_id": "placa_de_circuito_impreso_180",
+    "keywords": [
+      "cobre",
+      "transparencias",
+      "ejes",
+      "sustrato",
+      "circuitos",
+      "impresora"
+    ],
+    "base_response": "Algunas veces se utilizan transparencias impresas en una impresora láser como fotoherramientas de baja resolución. El fresado de circuitos impresos utiliza una fresa mecánica de 2 o 3 ejes para quitar el cobre del sustrato."
+  },
+  {
+    "intent_id": "placa_de_circuito_impreso_181",
+    "keywords": [
+      "cera",
+      "sitios",
+      "papel",
+      "vienen",
+      "impresion"
+    ],
+    "base_response": "La impresión en material termosensible para transferir a través de calor a la placa de cobre. En algunos sitios comentan de uso de papel glossy (fotográfico), y en otros de uso de papel con cera, como los papeles en los que vienen los autoadhesivos."
+  },
+  {
+    "intent_id": "placa_de_circuito_impreso_182",
+    "keywords": [
+      "atacar",
+      "corrosivos",
+      "galvanoplastia",
+      "placa",
+      "galvanizado",
+      "elimina"
+    ],
+    "base_response": "La mayoría de los procesos utilizan ácidos o corrosivos para eliminar el cobre excedente.​ Existen métodos de galvanoplastia que funcionan de manera rápida, pero con el inconveniente de que es necesario atacar al ácido la placa después del galvanizado, ya que no se elimina todo el cobre."
+  },
+  {
+    "intent_id": "placa_de_circuito_impreso_183",
+    "keywords": [
+      "cloruro",
+      "amonio",
+      "tipo",
+      "hidrogeno",
+      "agua"
+    ],
+    "base_response": "Los químicos más utilizados son el cloruro férrico, el sulfuro de amonio, el ácido clorhídrico mezclado con agua y peróxido de hidrógeno. Existen formulaciones de ataque de tipo alcalino y de tipo ácido. Según el tipo de circuito a fabricar, se considera más conveniente un tipo de formulación u otro."
+  },
+  {
+    "intent_id": "placa_de_circuito_impreso_184",
+    "keywords": [
+      "cuentan",
+      "fabricacion",
+      "transporte",
+      "temperatura",
+      "liquidos"
+    ],
+    "base_response": "Para la fabricación industrial de circuitos impresos es conveniente utilizar máquinas con transporte de rodillos y cámaras de aspersión de los líquidos de ataque, que cuentan con control de temperatura, de control de presión y de velocidad de transporte."
+  },
+  {
+    "intent_id": "placa_de_circuito_impreso_185",
+    "keywords": [
+      "ingles",
+      "taladros",
+      "computador",
+      "gases",
+      "archivos"
+    ],
+    "base_response": "También es necesario que cuenten con extracción y lavado de gases. Estos archivos generados por computador son también llamados “taladros controlados por computadora” (NCD, por sus siglas en inglés) o “archivos Excellon”. El archivo de perforaciones describe la posición y tamaño de cada perforación taladrada."
+  },
+  {
+    "intent_id": "placa_de_circuito_impreso_186",
+    "keywords": [
+      "requieren",
+      "orificio",
+      "forma",
+      "tasa",
+      "evaporadas"
+    ],
+    "base_response": "Cuando se requieren vías muy pequeñas, taladrar con brocas es costoso, debido a la alta tasa de uso y fragilidad de estas. En estos casos, las vías pueden ser evaporadas por un láser. Las vías perforadas de esta forma usualmente tienen una terminación de menor calidad al interior del orificio."
+  },
+  {
+    "intent_id": "placa_de_circuito_impreso_187",
+    "keywords": [
+      "cobre",
+      "laminacion",
+      "producir",
+      "llaman",
+      "atravesar",
+      "tarjeta"
+    ],
+    "base_response": "Estas perforaciones se llaman “micro vías”. También es posible, a través de taladrado con control de profundidad, perforado láser, o pre-taladrando las láminas individuales antes de la laminación, producir perforaciones que conectan solo algunas de las capas de cobre, en vez de atravesar la tarjeta completa."
+  },
+  {
+    "intent_id": "placa_de_circuito_impreso_188",
+    "keywords": [
+      "capas",
+      "circuito",
+      "orificios",
+      "metalizadas"
+    ],
+    "base_response": "Las paredes de los orificios, para tarjetas con dos o más capas, son metalizadas con cobre para formar “orificios metalizados”, que conectan eléctricamente las capas conductoras del circuito impreso. Tradicionalmente, todo el cobre expuesto era metalizado con soldadura."
+  },
+  {
+    "intent_id": "placa_de_circuito_impreso_189",
+    "keywords": [
+      "caracteristicas",
+      "permite",
+      "indicar",
+      "nombres",
+      "configuracion"
+    ],
+    "base_response": "Cuando el espacio lo permite, el texto de la serigrafía puede indicar los nombres de los componentes, la configuración de los interruptores, puntos de prueba, y otras características útiles en el ensamblaje, prueba y servicio de la tarjeta."
+  },
+  {
+    "intent_id": "placa_de_circuito_impreso_190",
+    "keywords": [
+      "impresion",
+      "volcar",
+      "informacion",
+      "componentes",
+      "circuito",
+      "sueldan"
+    ],
+    "base_response": "También puede imprimirse a través de tecnología de impresión digital por chorro de tinta (inkjet/Printar) y volcar información variable sobre el circuito (serialización, códigos de barra, información de trazabilidad). Con la tecnología de montaje superficial, los componentes se sueldan a los pads en las capas exteriores de la tarjetas."
+  },
+  {
+    "intent_id": "placa_de_circuito_impreso_191",
+    "keywords": [
+      "contacto",
+      "unidad",
+      "envie",
+      "pinchos",
+      "pruebas"
+    ],
+    "base_response": "Una computadora le indica a la unidad de pruebas eléctricas, que envíe una pequeña corriente eléctrica a través de cada contacto de la cama de pinchos, y que verifique que esta corriente se reciba en el otro extremo del contacto."
+  },
+  {
+    "intent_id": "placa_de_circuito_impreso_192",
+    "keywords": [
+      "volumenes",
+      "corrientes",
+      "fuga",
+      "placa",
+      "previene",
+      "contacto"
+    ],
+    "base_response": "Para volúmenes medianos o pequeños, se utilizan unidades de prueba con un cabezal volante que hace contacto con las pistas de cobre y los orificios para verificar la conectividad de la placa verificada. El recubrimiento previene la corrosión y las corrientes de fuga o cortocircuitos producto de la condensación."
+  },
+  {
+    "intent_id": "placa_de_circuito_impreso_193",
+    "keywords": [
+      "reducir",
+      "costo",
+      "through",
+      "perforadora",
+      "control",
+      "dispositivos"
+    ],
+    "base_response": "Estos dispositivos pueden reducir su tamaño entre una cuarta a una décima parte, y su costo entre la mitad y la cuarta parte, comparado con componentes through hole. Perforadora de control numérico 6 de 4 cabezales."
+  },
+  {
+    "intent_id": "placa_de_circuito_impreso_194",
+    "keywords": [
+      "faz",
+      "iluminadora",
+      "desplacadora",
+      "camaras"
+    ],
+    "base_response": "Iluminadora de 2 x 1000 W de una bandeja doble faz. Iluminadora 60/75 de 2 x 5000 W de doble bandeja doble faz. Reveladora de fotopolímeros de 4 cámaras. Desplacadora de fotopolímeros de 4 cámaras."
+  },
+  {
+    "intent_id": "placa_de_circuito_impreso_195",
+    "keywords": [
+      "capacidad",
+      "camaras",
+      "control",
+      "cabezal",
+      "enjuague",
+      "amoniacal"
+    ],
+    "base_response": "Grabadora amoniacal de 2 cámaras + doble enjuague. Fotoplóter de película continua de triple rayo láser. Reveladora continua de películas fotográficas. Router de control numérico de 1 cabezal de capacidad de 600 x 600 mm."
+  },
+  {
+    "intent_id": "placa_de_circuito_impreso_196",
+    "keywords": [
+      "afiladora",
+      "registro",
+      "induccion",
+      "multicapas",
+      "mechas",
+      "piston"
+    ],
+    "base_response": "Compresores de pistón seco de 10 HP. Compresor de tornillo de 30 HP. Afiladora de mechas de vidia de 6 piedras. Reveladora con 2 cámaras de enjuague. Máquina Bonding por inducción para el registro de multicapas."
+  },
+  {
+    "intent_id": "corte_por_laser_197",
+    "keywords": [
+      "argon",
+      "contornos",
+      "piezas",
+      "gas",
+      "ejemplo"
+    ],
+    "base_response": "Para poder evacuar el material cortado es necesario el aporte de un gas a presión como por ejemplo oxígeno, nitrógeno o argón. Es especialmente adecuado para el corte previo y para el recorte de material sobrante pudiendo desarrollar contornos complicados en las piezas."
+  },
+  {
+    "intent_id": "corte_por_laser_198",
+    "keywords": [
+      "prefieren",
+      "metal",
+      "laser",
+      "rebaba",
+      "reflejan"
+    ],
+    "base_response": "El láser afecta térmicamente al metal pero si la graduación es la correcta no deja rebaba. Las piezas a trabajar se prefieren opacas y no pulidas porque reflejan menos. Los espesores más habituales varían entre los 0,5 y 6 mm para acero y aluminio."
+  },
+  {
+    "intent_id": "corte_por_laser_199",
+    "keywords": [
+      "fibra",
+      "material",
+      "laser",
+      "accion",
+      "granate",
+      "neodimio"
+    ],
+    "base_response": "Los dos tipos más comunes de láser industrial son dióxido de carbono (CO2) y granate de aluminio de itrio dopado con neodimio (Nd:YAG) (Láser de fibra). Un láser CO₂ utiliza un medio gaseoso para producir la acción láser mientras que el Nd:YAG utiliza un material cristalino."
+  },
+  {
+    "intent_id": "corte_por_laser_200",
+    "keywords": [
+      "ofrece",
+      "perfiles",
+      "automatizar",
+      "operar",
+      "corte"
+    ],
+    "base_response": "El proceso es flexible, fácil de automatizar y ofrece altas velocidades de corte con excelente calidad, pues el láser tiene la capacidad de operar perfiles de corte muy complejos y con radios de curvatura muy pequeños."
+  },
+  {
+    "intent_id": "corte_por_laser_201",
+    "keywords": [
+      "britanicos",
+      "puesta",
+      "cortar",
+      "decada",
+      "laser",
+      "tecnologia"
+    ],
+    "base_response": "Esta máquina fue realizada por el Western Electric Engineering Research Center.​ En 1967, los británicos fueron pioneros en el corte de metales por chorro de oxígeno asistido por láser. En la década de 1970, esta tecnología fue puesta en producción para cortar titanio en aplicaciones aeroespaciales."
+  },
+  {
+    "intent_id": "corte_por_laser_202",
+    "keywords": [
+      "neodimio",
+      "requiere",
+      "laseres",
+      "difieren",
+      "utiliza",
+      "aplicacion"
+    ],
+    "base_response": "Los láseres de neodimio (Nd) y de neodimio itrio-aluminio-granate (Nd:YAG) son idénticos en estilo y sólo difieren en su aplicación. El Nd se utiliza para taladrado y donde se requiere alta energía pero baja repetición."
+  },
+  {
+    "intent_id": "corte_por_laser_203",
+    "keywords": [
+      "utilizando",
+      "suelen",
+      "gases",
+      "utilizarse",
+      "pasar"
+    ],
+    "base_response": "Tanto el láser CO2 como el Nd/Nd:YAG pueden utilizarse para soldadura.​ Los láseres de CO2 suelen 'bombearse' haciendo pasar una corriente a través de la mezcla de gases (excitados por CC) o utilizando energía de radiofrecuencia (excitados por RF)."
+  },
+  {
+    "intent_id": "corte_por_laser_204",
+    "keywords": [
+      "cavidad",
+      "elementos",
+      "sufrir",
+      "recubrimiento",
+      "metodo",
+      "erosion"
+    ],
+    "base_response": "El método de RF es más reciente y se ha hecho más popular. Dado que los diseños de CC requieren electrodos dentro de la cavidad, pueden sufrir erosión de electrodos y recubrimiento de material de electrodos en elementos de vidrio y óptica."
+  },
+  {
+    "intent_id": "corte_por_laser_205",
+    "keywords": [
+      "resonadores",
+      "laseres",
+      "acero",
+      "problemas"
+    ],
+    "base_response": "Dado que los resonadores de RF tienen electrodos externos, no son propensos a estos problemas. Los láseres CO2 se utilizan para el corte industrial de muchos materiales, como titanio, acero inoxidable, acero dulce, aluminio, plástico, madera, madera de ingeniería, cera, tejidos y papel."
+  },
+  {
+    "intent_id": "corte_por_laser_206",
+    "keywords": [
+      "cortar",
+      "variantes",
+      "flujo",
+      "transversal",
+      "utilizan"
+    ],
+    "base_response": "Los láseres YAG se utilizan principalmente para cortar y trazar metales y cerámica.​ Además de la fuente de energía, el tipo de flujo de gas también puede afectar al rendimiento. Las variantes comunes de los láseres de CO2 incluyen flujo axial rápido, flujo axial lento, flujo transversal y losa."
+  },
+  {
+    "intent_id": "corte_por_laser_207",
+    "keywords": [
+      "laseres",
+      "velocidad",
+      "helio",
+      "gases",
+      "requieren"
+    ],
+    "base_response": "En un resonador de flujo axial rápido, la mezcla de dióxido de carbono, helio y nitrógeno circula a gran velocidad por una turbina o soplante. Los láseres de flujo transversal hacen circular la mezcla de gases a menor velocidad, por lo que requieren un soplante más sencillo."
+  },
+  {
+    "intent_id": "corte_por_laser_208",
+    "keywords": [
+      "recambio",
+      "requieren",
+      "mantener",
+      "temperatura"
+    ],
+    "base_response": "Los resonadores refrigerados por losa o difusión tienen un campo de gas estático que no requiere presurización ni cristalería, lo que permite ahorrar en turbinas de recambio y cristalería. El generador láser y la óptica externa, incluida la lente de enfoque, requieren refrigeración para mantener una temperatura adecuada de funcionamiento."
+  },
+  {
+    "intent_id": "corte_por_laser_209",
+    "keywords": [
+      "refrigerantes",
+      "transferirse",
+      "transferencia",
+      "configuracion",
+      "aire"
+    ],
+    "base_response": "Según el tamaño y la configuración del sistema, el calor residual puede disiparse mediante un refrigerante o transferirse directamente al aire. El agua es uno de los refrigerantes más utilizados y, por lo general, circula a través de un enfriador o de un sistema de transferencia de calor."
+  },
+  {
+    "intent_id": "corte_por_laser_210",
+    "keywords": [
+      "material",
+      "enfria",
+      "laser",
+      "fibra"
+    ],
+    "base_response": "Esto se usa para realizar funciones de corte por láser mientras se usa el chorro de agua para guiar el rayo láser, como una fibra óptica, mediante reflexión total interna. Las ventajas de esto son que el agua también elimina los desechos y enfría el material."
+  },
+  {
+    "intent_id": "corte_por_laser_211",
+    "keywords": [
+      "corte",
+      "metales",
+      "laser",
+      "industria"
+    ],
+    "base_response": "Las ventajas adicionales sobre el corte por láser 'en seco' tradicional son las altas velocidades de corte en cubitos, kerf paralelo y el corte omnidireccional.​ Los láser de fibra son un tipo de láser de estado sólido que está creciendo rápidamente en la industria del corte de metales."
+  },
+  {
+    "intent_id": "corte_por_laser_212",
+    "keywords": [
+      "liquido",
+      "utiliza",
+      "gas",
+      "fibra",
+      "produce",
+      "laser"
+    ],
+    "base_response": "A diferencia del CO2, la tecnología fibra utiliza un medio de ganancia sólido, a diferencia de un gas o un líquido. La 'semilla láser' produce el rayo láser y luego se amplifica dentro de una fibra de vidrio."
+  },
+  {
+    "intent_id": "corte_por_laser_213",
+    "keywords": [
+      "producen",
+      "tecnologia",
+      "onda",
+      "laseres"
+    ],
+    "base_response": "Con una longitud de onda de solo 1064 nanómetros, los láseres de fibra producen un punto extremadamente pequeño (unas cien veces más pequeño comparado con el del láser de CO2) lo cual lo convierte en una tecnología ideal para cortar metales reflectivos."
+  },
+  {
+    "intent_id": "corte_por_laser_214",
+    "keywords": [
+      "fibra",
+      "corte",
+      "laser",
+      "consumo"
+    ],
+    "base_response": "Esta es una de las ventajas principales del láser de fibra comparado con el de CO2.​ Las ventajas del corte mediante láser de fibra incluyen:-. Reducción del consumo de energía y de las facturas gracias a una mayor eficiencia."
+  },
+  {
+    "intent_id": "corte_por_laser_215",
+    "keywords": [
+      "laser",
+      "material",
+      "protege",
+      "gas",
+      "corte",
+      "soplado"
+    ],
+    "base_response": "Por otro lado, la tobera de corte dispuesta concéntricamente al láser proporciona el gas de proceso o gas de soplado, que protege la óptica de enfoque de vapores y salpicaduras y, además, impulsa el material eliminado fuera del corte."
+  },
+  {
+    "intent_id": "corte_por_laser_216",
+    "keywords": [
+      "variantes",
+      "sublimacion",
+      "vapor",
+      "ranura",
+      "oxidacion"
+    ],
+    "base_response": "Dependiendo de si el material se retira de la ranura como líquido, producto de oxidación o vapor, se distingue entre las tres variantes Corte por fusión de haz láser, Corte por llama de haz láser y Corte por sublimación de haz láser."
+  },
+  {
+    "intent_id": "corte_por_laser_217",
+    "keywords": [
+      "acero",
+      "perforar",
+      "cortar",
+      "comparacion"
+    ],
+    "base_response": "En comparación con el acero, es técnicamente más complejo cortar aluminio o cobre, por ejemplo, porque la mayor parte de la radiación introducida se refleja inicialmente y, por tanto, se requiere una potencia o densidad de flujo de potencia mucho mayor para perforar."
+  },
+  {
+    "intent_id": "corte_por_laser_218",
+    "keywords": [
+      "cobre",
+      "corte",
+      "potencia",
+      "aluminio"
+    ],
+    "base_response": "Aunque durante el corte se absorba una mayor proporción de potencia en la ranura de corte, el rendimiento de corte es muy inferior al de los materiales férricos, ya que la conductividad térmica del aluminio y el cobre es mucho mayor y no es decisiva la oxidación de apoyo."
+  },
+  {
+    "intent_id": "corte_por_laser_219",
+    "keywords": [
+      "conductividad",
+      "radiacion",
+      "material",
+      "calienta",
+      "refleja",
+      "depende"
+    ],
+    "base_response": "Sin embargo, esto no depende sólo de la conductividad térmica, sino más bien del hecho de que una proporción muy grande de la radiación introducida se refleja y, por tanto, el material apenas se calienta."
+  },
+  {
+    "intent_id": "corte_por_laser_220",
+    "keywords": [
+      "corte",
+      "utilizar",
+      "llama",
+      "fusion",
+      "chapas"
+    ],
+    "base_response": "Sin embargo, para chapas metálicas delgadas se pueden utilizar láseres Nd:YAG pulsados, con los que se pueden cortar todos los materiales. El proceso más crítico en el corte por llama láser y fusión es la perforación."
+  },
+  {
+    "intent_id": "corte_por_laser_221",
+    "keywords": [
+      "enfoque",
+      "reflexion",
+      "laser",
+      "peligro",
+      "metal",
+      "trabajar"
+    ],
+    "base_response": "Lleva mucho tiempo, ya que a menudo hay que trabajar en modo pulsado con una potencia láser media reducida para evitar la reflexión trasera y las salpicaduras de metal que podrían poner en peligro la óptica de enfoque."
+  },
+  {
+    "intent_id": "corte_por_laser_222",
+    "keywords": [
+      "perforado",
+      "ahorra",
+      "maquinas",
+      "completo",
+      "sensores"
+    ],
+    "base_response": "Las máquinas láser modernas disponen de sensores que pueden detectar cuándo se ha realizado un corte, con lo que se ahorra tiempo y se garantiza que el corte no comience antes de que el material se haya perforado por completo."
+  },
+  {
+    "intent_id": "corte_por_laser_223",
+    "keywords": [
+      "corte",
+      "soporte",
+      "dientes",
+      "piezas",
+      "contacto"
+    ],
+    "base_response": "El material plano descansa sobre un soporte (dientes, puntas, filos) durante el corte, que debe cumplir varias condiciones: área de contacto lo más pequeña posible: los residuos o las piezas pequeñas deben caer a través de ella."
+  },
+  {
+    "intent_id": "corte_por_laser_224",
+    "keywords": [
+      "argon",
+      "oxide",
+      "presion",
+      "razones",
+      "chorro",
+      "evita"
+    ],
+    "base_response": "El chorro de gas también evita que la superficie se oxide. Por razones de costo, se utiliza principalmente nitrógeno, con menos frecuencia argón o helio. Las presiones de gas alcanzan hasta 22 bar (corte a alta presión gas inerte)."
+  },
+  {
+    "intent_id": "corte_por_laser_225",
+    "keywords": [
+      "acero",
+      "min",
+      "velocidad",
+      "corte",
+      "cortes",
+      "sistema"
+    ],
+    "base_response": "Con un CO2 de 5 kW -El sistema de corte por láser alcanza una velocidad de corte típica de 1,1 m/min con acero inoxidable 1.4301 de 10 mm de espesor.​ El proceso se usa principalmente cuando se requieren cortes sin óxido para acero inoxidable."
+  },
+  {
+    "intent_id": "corte_por_laser_226",
+    "keywords": [
+      "calidad",
+      "bordes",
+      "corte",
+      "rayo"
+    ],
+    "base_response": "La alta calidad de corte se caracteriza por un escaso estriado en los bordes de corte y la ausencia de rebabas en la parte inferior del corte. Aquí, el rayo láser licua el material no sólo en el frente de corte, sino de forma semicircular hasta los bordes de corte."
+  },
+  {
+    "intent_id": "corte_por_laser_227",
+    "keywords": [
+      "produce",
+      "fusion",
+      "solidificacion",
+      "corte"
+    ],
+    "base_response": "Debido al avance continuo y a la fusión resultante del material, éste puede solidificarse en los bordes de corte. La solidificación se produce en ondas, lo que define la estructura característica del surco o la rugosidad del corte."
+  },
+  {
+    "intent_id": "corte_por_laser_228",
+    "keywords": [
+      "corte",
+      "gas",
+      "expulsarse",
+      "flujo",
+      "rebaba"
+    ],
+    "base_response": "La formación de escoria o rebabas se debe a que las fuerzas motrices del flujo de gas son insuficientes, por lo que la masa fundida no puede expulsarse completamente. Las gotas de masa fundida en el borde inferior del corte pueden solidificarse y formar una rebaba más o menos adherente."
+  },
+  {
+    "intent_id": "corte_por_laser_229",
+    "keywords": [
+      "materiales",
+      "produce",
+      "corte",
+      "campo",
+      "organicos"
+    ],
+    "base_response": "Los materiales sin un estado fundido definido son el principal campo de acción del corte por sublimación; puede tratarse tanto de materiales inorgánicos como orgánicos. Aquí se produce directamente la transición de la materia del estado sólido al gaseoso (Sublimación), es decir, sin que haya líquido de por medio."
+  },
+  {
+    "intent_id": "corte_por_laser_230",
+    "keywords": [
+      "condense",
+      "ranura",
+      "expulsa",
+      "impide"
+    ],
+    "base_response": "El gas de proceso no sólo expulsa el vapor fuera de la ranura, sino que también impide que se condense en ella. Los materiales típicos son, por ejemplo, la madera, el cuero, los textiles y los plásticos homogéneos y reforzados con fibras."
+  },
+  {
+    "intent_id": "corte_por_laser_231",
+    "keywords": [
+      "pulsando",
+      "contenga",
+      "soplado",
+      "aire",
+      "bordes"
+    ],
+    "base_response": "El oscurecimiento de los bordes de corte en la madera puede reducirse pulsando, utilizando gas de soplado que contenga oxígeno (aire), un buen enfoque o un corte rápido con suficiente potencia. El PMMA puede mecanizarse sin rebabas con bordes de corte transparentes y lisos."
+  },
+  {
+    "intent_id": "corte_por_laser_232",
+    "keywords": [
+      "materiales",
+      "potencia",
+      "zona",
+      "ablacionar",
+      "flujo",
+      "subliman"
+    ],
+    "base_response": "Con láseres pulsados de alta potencia de pico y a alta densidad de flujo de potencia, también se pueden ablacionar materiales casi libres de una zona de fusión o afectada por el calor que normalmente no se subliman."
+  },
+  {
+    "intent_id": "control_numerico_por_computadora_233",
+    "keywords": [
+      "automatizacion",
+      "sistema",
+      "almacenamiento",
+      "comparacion"
+    ],
+    "base_response": "El control numérico (CN) o control decimal numérico es un sistema de automatización de máquinas herramienta operadas mediante comandos programados en un medio de almacenamiento, en comparación con el mando manual mediante volantes o palancas."
+  },
+  {
+    "intent_id": "control_numerico_por_computadora_234",
+    "keywords": [
+      "control",
+      "anos",
+      "siguiendo",
+      "relacionan",
+      "tarjeta"
+    ],
+    "base_response": "Las primeras máquinas de control remoto numérico se construyeron en los años 40 y 50 por el ingeniero John T. Parsons, basadas en las máquinas existentes con motores desmodificados cuyos números se relacionan manualmente siguiendo las instrucciones dadas en un microscopio de tarjeta perforada."
+  },
+  {
+    "intent_id": "control_numerico_por_computadora_235",
+    "keywords": [
+      "tipos",
+      "computador",
+      "miniaturizacion",
+      "tenian"
+    ],
+    "base_response": "El abaratamiento y miniaturización de los procesadores ha generalizado la electrónica digital en todos los tipos herramienta, lo que dio lugar a la denominación control decimal numérico, control numérico por computadora, control numérico por computador o control numérico computarizado (CNC), para diferenciarlas de las máquinas que no tenían computadora."
+  },
+  {
+    "intent_id": "control_numerico_por_computadora_236",
+    "keywords": [
+      "abaratamiento",
+      "sistemas",
+      "sistema",
+      "actualidad",
+      "computadora",
+      "maquinas"
+    ],
+    "base_response": "En la actualidad se usa el término control numérico para referirse a este tipo de sistemas, con o sin computadora.​ Este sistema ha revolucionado la industria debido al abaratamiento de microprocesadores y a la simplificación de la programación de las máquinas de CNC (control numérico por computadora)."
+  },
+  {
+    "intent_id": "control_numerico_por_computadora_237",
+    "keywords": [
+      "torreta",
+      "caso",
+      "ejes",
+      "herramienta",
+      "torno"
+    ],
+    "base_response": "En el caso de un torno, es necesario controlar los movimientos de la herramienta en dos ejes de coordenadas: el eje Z, para los desplazamientos longitudinales del carro, y el eje X, para los desplazamientos transversales de la torreta."
+  },
+  {
+    "intent_id": "control_numerico_por_computadora_238",
+    "keywords": [
+      "desplazamientos",
+      "fresadoras",
+      "fresadora",
+      "tornos",
+      "mesa",
+      "controlan"
+    ],
+    "base_response": "En el caso de las fresadoras también se controlan los desplazamientos del eje Y. Para ello, se incorporan servomotores en los mecanismos de desplazamiento del carro y la torreta, en el caso de los tornos, y en la mesa, en el caso de la fresadora."
+  },
+  {
+    "intent_id": "control_numerico_por_computadora_239",
+    "keywords": [
+      "unidad",
+      "eje",
+      "guias",
+      "lazos",
+      "componen",
+      "lazo"
+    ],
+    "base_response": "El control del movimiento de los ejes de una máquina de control numérico se lleva a cabo mediante unos lazos de control que se componen de encoders o guías lineales y la unidad central. Cada eje está controlado por un lazo de control."
+  },
+  {
+    "intent_id": "control_numerico_por_computadora_240",
+    "keywords": [
+      "sistemas",
+      "tiempo",
+      "operaciones",
+      "grado",
+      "aumentar",
+      "efectuar"
+    ],
+    "base_response": "La aplicación de sistemas de CNC en las máquinas-herramienta han hecho aumentar enormemente la producción, al tiempo que ha hecho posible efectuar operaciones de conformado que era difícil de hacer con máquinas convencionales, por ejemplo la realización de superficies esféricas manteniendo un elevado grado de precisión dimensional."
+  },
+  {
+    "intent_id": "control_numerico_por_computadora_241",
+    "keywords": [
+      "corresponde",
+      "facilitar",
+      "busqueda",
+      "denomina"
+    ],
+    "base_response": "El programa de mecanizado comprende todo el conjunto de datos que la máquina necesita para la mecanización de la pieza. A la información en conjunto que corresponde a una misma fase del mecanizado se le denomina bloque o secuencia y se numera para facilitar su búsqueda."
+  },
+  {
+    "intent_id": "control_numerico_por_computadora_242",
+    "keywords": [
+      "interpretado",
+      "maquina",
+      "informacion",
+      "funciones",
+      "mecanizado",
+      "instrucciones"
+    ],
+    "base_response": "Este conjunto de información es interpretado por el intérprete de órdenes. Una secuencia o bloque de programa debe contener todas las funciones geométricas, funciones máquina y funciones tecnológicas del mecanizado. De tal modo, un bloque de programa consta de varias instrucciones."
+  },
+  {
+    "intent_id": "control_numerico_por_computadora_243",
+    "keywords": [
+      "norma",
+      "secuencia",
+      "caracteres",
+      "cifras",
+      "numero",
+      "bloque"
+    ],
+    "base_response": "Los caracteres más usados comúnmente, regidos bajo la norma DIN 66024 y 66025 son, entre otros, los siguientes: N: es la dirección correspondiente al número de bloque o secuencia. Esta dirección va seguida normalmente de un número de tres o cuatro cifras."
+  },
+  {
+    "intent_id": "control_numerico_por_computadora_244",
+    "keywords": [
+      "ejes",
+      "caso",
+      "direcciones",
+      "numero",
+      "cotas"
+    ],
+    "base_response": "En el caso del formato N03, el número máximo de bloques que pueden programarse es 1000 (N000 hasta N999). X, Y, Z: son las direcciones correspondientes a las cotas según los ejes X, Y, Z de la máquina herramienta (Y planos cartesianos)."
+  },
+  {
+    "intent_id": "control_numerico_por_computadora_245",
+    "keywords": [
+      "tipo",
+      "correccion",
+      "programacion",
+      "parada"
+    ],
+    "base_response": "Se utilizan para informar al control de las características de las funciones de mecanizado, como por ejemplo, forma de la trayectoria, tipo de corrección de herramienta, parada temporizada, ciclos automáticos, programación absoluta y relativa, etc."
+  },
+  {
+    "intent_id": "control_numerico_por_computadora_246",
+    "keywords": [
+      "cifras",
+      "ejemplos",
+      "desplazamiento",
+      "trayecto",
+      "numero",
+      "velocidad"
+    ],
+    "base_response": "La función G va seguida de un número de dos cifras que permite programar hasta 100 funciones preparatorias diferentes. Ejemplos: G00: El trayecto programado se realiza a la máxima velocidad posible, es decir, a la velocidad de desplazamiento en rápido."
+  },
+  {
+    "intent_id": "control_numerico_por_computadora_247",
+    "keywords": [
+      "horario",
+      "gobiernan",
+      "herramienta",
+      "ejes"
+    ],
+    "base_response": "G01: Los ejes se gobiernan de tal forma que la herramienta se mueve a lo largo de una línea recta. G02: Interpolación circular en sentido horario. G03: Interpolación circular en sentido antihorario. G05: Trabajo en arista matada."
+  },
+  {
+    "intent_id": "control_numerico_por_computadora_248",
+    "keywords": [
+      "trabajo",
+      "puntos",
+      "arista",
+      "plano",
+      "imagen"
+    ],
+    "base_response": "G07: Trabajo en arista viva. G09: Trayectoria circular definida por 3 puntos. G10: Anulación de la imagen espejo. G11: Imagen espejo en X. G12: Imagen espejo en Y. G17: Selección del plano XY. G18: Selección del plano XZ."
+  },
+  {
+    "intent_id": "control_numerico_por_computadora_249",
+    "keywords": [
+      "derecha",
+      "indica",
+      "izquierda",
+      "herramientas",
+      "plano",
+      "compensacion"
+    ],
+    "base_response": "G19: Selección del plano YZ. G33: Indica ciclo automático de roscado. G41: Compensación de corte hacia la izquierda. G42: Compensación de corte a la derecha. G43: Compensación del largo de las herramientas. G44: Anulación de la compensación del largo de las herramientas."
+  },
+  {
+    "intent_id": "control_numerico_por_computadora_250",
+    "keywords": [
+      "bloque",
+      "coordenadas",
+      "permite",
+      "cilindro",
+      "circular",
+      "cotas"
+    ],
+    "base_response": "G73: Giro del sistema de coordenadas G77: Es un ciclo automático que permite programar con un único bloque el torneado de un cilindro, etc. G87: Cajera rectangular G88: Cajera circular. G90: Programación de cotas absolutas."
+  },
+  {
+    "intent_id": "control_numerico_por_computadora_251",
+    "keywords": [
+      "husillo",
+      "rotacion",
+      "derechas",
+      "operaciones",
+      "programar"
+    ],
+    "base_response": "Se usan para indicar a la máquina herramienta que se deben realizar operaciones tales como parada programada, rotación del husillo a derechas o a izquierdas, cambio de útil, etc. La dirección m va seguida de un número de dos cifras que permite programar hasta 100 funciones auxiliares diferentes."
+  },
+  {
+    "intent_id": "control_numerico_por_computadora_252",
+    "keywords": [
+      "parada",
+      "control",
+      "resto",
+      "refrigeracion"
+    ],
+    "base_response": "Ejemplos: M00: Provoca una parada incondicional del programa, detiene el husillo y la refrigeración. M02: Indica el fin del programa. Se debe escribir en el último bloque del programa y posibilita la parada del control una vez ejecutadas el resto de las operaciones contenidas en el mismo bloque."
+  },
+  {
+    "intent_id": "control_numerico_por_computadora_253",
+    "keywords": [
+      "herramienta",
+      "sentido",
+      "maquina",
+      "cambio"
+    ],
+    "base_response": "(El sentido de giro del usillo es visto por detrás de la máquina, no de nuestro punto de vista como en los tornos convencionales). M06: cambio de herramienta (con parada del programa o sin ) en las máquinas de cambio automático no conlleva la parada del programa."
+  },
+  {
+    "intent_id": "control_numerico_por_computadora_254",
+    "keywords": [
+      "velocidad",
+      "numero",
+      "min",
+      "rotacion",
+      "direccion",
+      "seguida"
+    ],
+    "base_response": "F: es la dirección correspondiente a la velocidad de avance. Va seguida de un número de cuatro cifras que indica la velocidad de avance en mm/min. S: es la dirección correspondiente a la velocidad de rotación del husillo principal."
+  },
+  {
+    "intent_id": "control_numerico_por_computadora_255",
+    "keywords": [
+      "realiza",
+      "numero",
+      "herramienta",
+      "plano"
+    ],
+    "base_response": "Cuando la interpolación se realiza en el plano X-Y, se utilizan las direcciones I y J. Análogamente, en el plano X-Z, se utilizan las direcciones I y K, y en el plano Y-Z, las direcciones J y K. T: es la dirección correspondiente al número de herramienta."
+  },
+  {
+    "intent_id": "control_numerico_por_computadora_256",
+    "keywords": [
+      "numero",
+      "correccion",
+      "procesamiento",
+      "memoria",
+      "rapidez"
+    ],
+    "base_response": "Va seguido de un número de cuatro cifras en el cual los dos primeros indican el número de herramienta y los dos últimos el número de corrección de las mismas. Combinadores modernos tienen mayor precisión y reproductibilidad, memoria extendida, rapidez de procesamiento elevada y diagnósticos mejorados."
+  },
+  {
+    "intent_id": "control_numerico_por_computadora_257",
+    "keywords": [
+      "combinador",
+      "accionadores",
+      "cantidad",
+      "canales"
+    ],
+    "base_response": "Una característica importante de un combinador CNC es la cantidad de ejes (canales) que el mismo es capaz de sincronizar (controlar). Para esto se requiere un alto rendimiento y un software relacionado. De accionadores sirven servomandos y motores paso a paso."
+  },
+  {
+    "intent_id": "control_numerico_por_computadora_258",
+    "keywords": [
+      "herramientas",
+      "mesa",
+      "mecanizando",
+      "posicion"
+    ],
+    "base_response": "Es posible que un choque leve no dañe la máquina o las herramientas, pero puede dañar la pieza que se está mecanizando, por lo que debe desecharse. Muchas herramientas CNC no tienen un sentido inherente de la posición absoluta de la mesa o las herramientas cuando se encienden."
+  },
+  {
+    "intent_id": "control_numerico_por_computadora_259",
+    "keywords": [
+      "ubicacion",
+      "limite",
+      "referencia",
+      "ponerse",
+      "limites"
+    ],
+    "base_response": "Deben 'reiniciar' o 'ponerse a cero' manualmente para tener alguna referencia desde la que trabajar, y estos límites son solo para determinar la ubicación de la pieza para trabajar con ella y no son un límite de movimiento estricto en el mecanismo."
+  },
+  {
+    "intent_id": "control_numerico_por_computadora_260",
+    "keywords": [
+      "operador",
+      "limites",
+      "eje",
+      "interruptores",
+      "control",
+      "parametros"
+    ],
+    "base_response": "Muchas máquinas implementan parámetros de control que limitan el movimiento del eje más allá de cierto límite además de interruptores de límites físicos. Sin embargo, estos parámetros a menudo pueden ser cambiados por el operador."
+  },
+  {
+    "intent_id": "control_numerico_por_computadora_261",
+    "keywords": [
+      "limitar",
+      "husillo",
+      "maquinas",
+      "respuesta",
+      "dano"
+    ],
+    "base_response": "Las máquinas equipadas con sensores de carga pueden detener el movimiento del eje o del husillo en respuesta a una condición de sobrecarga, pero esto no evita que ocurra un choque. Solo puede limitar el daño resultante del choque."
+  },
+  {
+    "intent_id": "control_numerico_por_computadora_262",
+    "keywords": [
+      "obstruccion",
+      "eje",
+      "integridad",
+      "maquina",
+      "bloqueos"
+    ],
+    "base_response": "Es posible que algunos bloqueos nunca sobrecarguen ningún eje o accionamiento de husillo. Si el sistema de accionamiento es más débil que la integridad estructural de la máquina, entonces el sistema de accionamiento simplemente empuja contra la obstrucción y los motores de accionamiento 'se deslizan en su lugar'."
+  },
+  {
+    "intent_id": "control_numerico_por_computadora_263",
+    "keywords": [
+      "eje",
+      "herramienta",
+      "golpeo",
+      "ejemplo"
+    ],
+    "base_response": "Es posible que la máquina herramienta no detecte la colisión o el deslizamiento, por lo que, por ejemplo, la herramienta ahora debería estar a 210 mm en el eje X, pero está, de hecho, a 32 mm donde golpeó la obstrucción y siguió resbalando."
+  },
+  {
+    "intent_id": "control_numerico_por_computadora_264",
+    "keywords": [
+      "movimientos",
+      "eje",
+      "error",
+      "prensas"
+    ],
+    "base_response": "Todos los próximos movimientos de la herramienta tendrán un error de -178 mm en el eje X, y todos los movimientos futuros ahora no son válidos, lo que puede provocar más colisiones con abrazaderas, prensas o la propia máquina."
+  },
+  {
+    "intent_id": "control_numerico_por_computadora_265",
+    "keywords": [
+      "motor",
+      "mecanismo",
+      "producido",
+      "deslizamiento"
+    ],
+    "base_response": "Esto es común en los sistemas paso a paso de bucle abierto, pero no es posible en los sistemas de bucle cerrado a menos que se haya producido un deslizamiento mecánico entre el motor y el mecanismo de accionamiento."
+  },
+  {
+    "intent_id": "control_numerico_por_computadora_266",
+    "keywords": [
+      "servomotor",
+      "accionamiento",
+      "llegar",
+      "sistema"
+    ],
+    "base_response": "En cambio, en un sistema de circuito cerrado, la máquina continuará intentando moverse contra la carga hasta que el motor de accionamiento entre en una condición de sobrecarga o un servomotor no logre llegar a la posición deseada."
+  },
+  {
+    "intent_id": "control_numerico_por_computadora_267",
+    "keywords": [
+      "paso",
+      "campo",
+      "herramientas",
+      "precision",
+      "pasatiempos"
+    ],
+    "base_response": "En cambio, la mayoría de las herramientas CNC para pasatiempos simplemente se basan en la supuesta precisión de los motores paso a paso que giran un número específico de grados en respuesta a los cambios del campo magnético."
+  },
+  {
+    "intent_id": "control_numerico_por_computadora_268",
+    "keywords": [
+      "contar",
+      "falso",
+      "paso",
+      "posicion",
+      "pasos",
+      "cantidad"
+    ],
+    "base_response": "A menudo se supone que el motor paso a paso es perfectamente preciso y nunca da pasos en falso, por lo que el monitoreo de la posición de la herramienta simplemente implica contar la cantidad de pulsos enviados al motor paso a paso a lo largo del tiempo."
+  },
+  {
+    "intent_id": "control_numerico_por_computadora_269",
+    "keywords": [
+      "utilizan",
+      "circuito",
+      "maquinas",
+      "posicion",
+      "deteccion"
+    ],
+    "base_response": "Por lo general, no se dispone de un medio alternativo de monitoreo de la posición del paso a paso, por lo que no es posible la detección de choques o resbalones. Las máquinas metalúrgicas CNC comerciales utilizan controles de retroalimentación de circuito cerrado para el movimiento del eje."
+  },
+  {
+    "intent_id": "control_numerico_por_computadora_270",
+    "keywords": [
+      "depende",
+      "codificador",
+      "asegurarse",
+      "programacion",
+      "posicion"
+    ],
+    "base_response": "En un sistema de circuito cerrado, el controlador monitorea la posición real de cada eje con un codificador absoluto o incremental. La programación adecuada del control reducirá la posibilidad de un choque, pero aún depende del operador y del programador asegurarse de que la máquina se opere de manera segura."
+  },
+  {
+    "intent_id": "microprocesador_271",
+    "keywords": [
+      "coma",
+      "calculo",
+      "unidades",
+      "coprocesador"
+    ],
+    "base_response": "Puede contener una o más unidades centrales de procesamiento (CPU) constituidas, esencialmente, por registros, una unidad de control, una unidad aritmético lógica (ALU) y una unidad de cálculo en coma flotante (FPU) (conocida antiguamente como «coprocesador matemático»)."
+  },
+  {
+    "intent_id": "microprocesador_272",
+    "keywords": [
+      "overclocking",
+      "utilizan",
+      "metodos",
+      "tecnicas"
+    ],
+    "base_response": "Existen otros métodos más eficaces, como la refrigeración líquida o el uso de células peltier para refrigeración extrema, pero estas técnicas se utilizan casi exclusivamente para aplicaciones especiales, tales como en las prácticas de overclocking."
+  },
+  {
+    "intent_id": "microprocesador_273",
+    "keywords": [
+      "comercializan",
+      "nucleos",
+      "variedad",
+      "rendimiento"
+    ],
+    "base_response": "Una métrica del rendimiento es la frecuencia de reloj que permite comparar procesadores con núcleos de la misma familia, siendo este un indicador muy limitado dada la gran variedad de diseños con los cuales se comercializan los procesadores de una misma marca y referencia."
+  },
+  {
+    "intent_id": "microprocesador_274",
+    "keywords": [
+      "microprocesador",
+      "realiza",
+      "porcion",
+      "actividades"
+    ],
+    "base_response": "Un núcleo físico se refiere a una porción interna del microprocesador casi-independiente que realiza todas las actividades de una CPU solitaria, un núcleo lógico es la simulación de un núcleo físico a fin de repartir de manera más eficiente el procesamiento."
+  },
+  {
+    "intent_id": "microprocesador_275",
+    "keywords": [
+      "procesador",
+      "numero",
+      "controladores",
+      "tendencia"
+    ],
+    "base_response": "Existe una tendencia de integrar el mayor número de elementos dentro del propio procesador, aumentando así la eficiencia energética y la miniaturización. Entre los elementos integrados están las unidades de punto flotante, controladores de la memoria RAM, controladores de buses y procesadores dedicados de vídeo."
+  },
+  {
+    "intent_id": "microprocesador_276",
+    "keywords": [
+      "mitad",
+      "tecnologias",
+      "inicio",
+      "desarrollaron",
+      "data"
+    ],
+    "base_response": "El inicio de esta última data de mitad de la década de 1950; estas tecnologías se fusionaron a principios de los años 1970, produciendo el primer microprocesador. Dichas tecnologías iniciaron su desarrollo a partir de la Segunda Guerra Mundial; en este tiempo los científicos desarrollaron computadoras específicas para aplicaciones militares."
+  },
+  {
+    "intent_id": "microprocesador_277",
+    "keywords": [
+      "decada",
+      "semiconductores",
+      "posguerra",
+      "cientificos",
+      "computacion",
+      "componentes"
+    ],
+    "base_response": "En la posguerra, a mediados de la década de 1940, la computación digital emprendió un fuerte crecimiento también para propósitos científicos y civiles. La tecnología electrónica avanzó y los científicos hicieron grandes progresos en el diseño de componentes de estado sólido (semiconductores)."
+  },
+  {
+    "intent_id": "microprocesador_278",
+    "keywords": [
+      "computadoras",
+      "bulbos",
+      "compuertas",
+      "utilizando",
+      "componentes"
+    ],
+    "base_response": "En 1948 en los laboratorios Bell crearon el transistor. En los años 1950, aparecieron las primeras computadoras digitales de propósito general. Se fabricaron utilizando tubos al vacío o bulbos como componentes electrónicos activos. Módulos de tubos al vacío componían circuitos lógicos básicos, tales como compuertas y flip-flops."
+  },
+  {
+    "intent_id": "microprocesador_279",
+    "keywords": [
+      "circuitos",
+      "computadora",
+      "tubos",
+      "maquinas",
+      "construccion",
+      "circuito"
+    ],
+    "base_response": "Ensamblándolos en módulos se construyó la computadora electrónica (la lógica de control, circuitos de memoria, etc.). Los tubos de vacío también formaron parte de la construcción de máquinas para la comunicación con las computadoras. Para la construcción de un circuito sumador simple se requiere de algunas compuertas lógicas."
+  },
+  {
+    "intent_id": "microprocesador_280",
+    "keywords": [
+      "programas",
+      "dato",
+      "almacenar",
+      "almacenado",
+      "paso",
+      "dispositivos"
+    ],
+    "base_response": "La construcción de una computadora digital precisa numerosos circuitos o dispositivos electrónicos. Un paso trascendental en el diseño de la computadora fue hacer que el dato fuera almacenado en memoria. Y la idea de almacenar programas en memoria para luego ejecutarlo fue también de fundamental importancia (Arquitectura de von Neumann)."
+  },
+  {
+    "intent_id": "microprocesador_281",
+    "keywords": [
+      "empleo",
+      "metodos",
+      "tecnologia",
+      "evoluciono",
+      "produccion",
+      "diseno"
+    ],
+    "base_response": "La tecnología de los circuitos de estado sólido evolucionó en la década de 1950. El empleo del silicio (Si), de bajo costo y con métodos de producción masiva, hicieron del transistor el componente más usado para el diseño de circuitos electrónicos."
+  },
+  {
+    "intent_id": "microprocesador_282",
+    "keywords": [
+      "tecnologias",
+      "avance",
+      "surgieron",
+      "decada",
+      "computadoras"
+    ],
+    "base_response": "A principios de la década de 1960, el estado de arte en la construcción de computadoras de estado sólido sufrió un notable avance; surgieron las tecnologías en circuitos digitales como RTL (Lógica Transistor Resistor), DTL (Lógica Transistor Diodo), TTL (Lógica Transistor Transistor), ECL (Lógica Complementada Emisor)."
+  },
+  {
+    "intent_id": "microprocesador_283",
+    "keywords": [
+      "incrementar",
+      "escala",
+      "sistemas",
+      "integracion",
+      "finales"
+    ],
+    "base_response": "A finales de los años 1960 y principios de los 70 surgieron los sistemas a alta escala de integración o LSI. La tecnología LSI fue haciendo posible incrementar la cantidad de componentes en los circuitos integrados."
+  },
+  {
+    "intent_id": "microprocesador_284",
+    "keywords": [
+      "llamado",
+      "computadora",
+      "griego",
+      "procesador"
+    ],
+    "base_response": "Después se dio un paso importante en la reducción de la arquitectura de la computadora a un circuito integrado simple, resultando uno que fue llamado microprocesador, unión de las palabras «Micro» del griego μικρο-, «pequeño», y procesador."
+  },
+  {
+    "intent_id": "microprocesador_285",
+    "keywords": [
+      "duda",
+      "anos",
+      "integracion",
+      "termino",
+      "procesador",
+      "paso"
+    ],
+    "base_response": "Sin embargo, es totalmente válido usar el término genérico procesador, dado que con el paso de los años, la escala de integración se ha visto reducida de micrométrica a nanométrica; y además, es, sin duda, un procesador."
+  },
+  {
+    "intent_id": "microprocesador_286",
+    "keywords": [
+      "transistores",
+      "procesar",
+      "frecuencias",
+      "microprocesador"
+    ],
+    "base_response": "El primer microprocesador de 8 bits fue el Intel 8008, desarrollado a mediados de 1972 para su uso en terminales informáticos. El Intel 8008 integraba 3300 transistores y podía procesar a frecuencias máximas de 800 kHz."
+  },
+  {
+    "intent_id": "microprocesador_287",
+    "keywords": [
+      "transistores",
+      "trabajando",
+      "bits",
+      "microprocesador"
+    ],
+    "base_response": "El primer microprocesador realmente diseñado para uso general, desarrollado en 1974, fue el Intel 8080 de 8 bits, que contenía 4500 transistores y podía ejecutar 200 000 instrucciones por segundo trabajando a alrededor de 2 MHz."
+  },
+  {
+    "intent_id": "microprocesador_288",
+    "keywords": [
+      "introducido",
+      "lanzado",
+      "verano",
+      "aplicaciones",
+      "mercado"
+    ],
+    "base_response": "El chip 8086 fue introducido al mercado en el verano de 1978, pero debido a que no había aplicaciones en el mercado que funcionaran con 16 bits, Intel sacó al mercado el 8088, que fue lanzado en 1979."
+  },
+  {
+    "intent_id": "microprocesador_289",
+    "keywords": [
+      "versiones",
+      "orden",
+      "trabajar",
+      "fines",
+      "decada"
+    ],
+    "base_response": "Uno de los primeros procesadores de arquitectura de 32 bits fue el 80386 de Intel, fabricado a mediados y fines de la década de 1980; en sus diferentes versiones llegó a trabajar a frecuencias del orden de los 40 MHz."
+  },
+  {
+    "intent_id": "microprocesador_290",
+    "keywords": [
+      "corriendo",
+      "microprocesador",
+      "trabajo",
+      "lanzo",
+      "mercado",
+      "version"
+    ],
+    "base_response": "El microprocesador DEC Alpha se lanzó al mercado en 1992, corriendo a 200 MHz en su primera versión, en tanto que el Intel Pentium surgió en 1993 con una frecuencia de trabajo de 66 MHz."
+  },
+  {
+    "intent_id": "microprocesador_291",
+    "keywords": [
+      "cronologicamente",
+      "lista",
+      "constituian",
+      "nacia"
+    ],
+    "base_response": "En 1971 la compañía Intel consiguió por primera vez poner todos los transistores que constituían un procesador sobre un único circuito integrado, el 4004, nacía el microprocesador. Seguidamente se expone una lista ordenada cronológicamente de los microprocesadores más populares que fueron surgiendo."
+  },
+  {
+    "intent_id": "microprocesador_292",
+    "keywords": [
+      "microprocesador",
+      "sistemas",
+      "mundo",
+      "serie",
+      "chip",
+      "lugar"
+    ],
+    "base_response": "En la URSS se realizaron otros sistemas que dieron lugar a la serie microprocesador Elbrus. 1971: El Intel 4004 El 4004 fue el primer microprocesador del mundo, creado en un simple chip y desarrollado por Intel."
+  },
+  {
+    "intent_id": "microprocesador_293",
+    "keywords": [
+      "computadora",
+      "bits",
+      "camino",
+      "inicio",
+      "desarrollo"
+    ],
+    "base_response": "Era un CPU de 4 bits y también fue el primero disponible comercialmente. Este desarrollo impulsó la calculadora de Busicom e inició el camino para dotar de «inteligencia» a objetos inanimados y asimismo, a la computadora personal."
+  },
+  {
+    "intent_id": "microprocesador_294",
+    "keywords": [
+      "vendido",
+      "clientes",
+      "microprocesadores",
+      "acordaron"
+    ],
+    "base_response": "Posteriormente Computer Terminal Corporation e Intel acordaron que el i8008 pudiera ser vendido a otros clientes. 1974: El SC/MP El SC/MP desarrollado por National Semiconductor, fue uno de los primeros microprocesadores, y estuvo disponible desde principio de 1974."
+  },
+  {
+    "intent_id": "microprocesador_295",
+    "keywords": [
+      "nombre",
+      "presenta",
+      "datos",
+      "direcciones"
+    ],
+    "base_response": "El nombre SC/MP (popularmente conocido como «Scamp») es el acrónimo de Simple Cost-effective Micro Processor (Microprocesador simple y rentable). Presenta un bus de direcciones de 16 bits y un bus de datos de 8 bits."
+  },
+  {
+    "intent_id": "microprocesador_296",
+    "keywords": [
+      "investigacion",
+      "liberar",
+      "desarrollo",
+      "procesadores",
+      "kits"
+    ],
+    "base_response": "Una característica, avanzada para su tiempo, es la capacidad de liberar los buses a fin de que puedan ser compartidos por varios procesadores. Este microprocesador fue muy utilizado, por su bajo costo, y provisto en kits, para propósitos educativos, de investigación y para el desarrollo de controladores industriales diversos."
+  },
+  {
+    "intent_id": "microprocesador_297",
+    "keywords": [
+      "periodo",
+      "vendieron",
+      "precio",
+      "momento"
+    ],
+    "base_response": "Los fanáticos de las computadoras podían comprar un equipo Altair por un precio (en aquel momento) de 395 USD. En un periodo de pocos meses, se vendieron decenas de miles de estos PC. 1975: Motorola 6800 Se fabrica, por parte de Motorola, el Motorola MC6800, más conocido como 6800."
+  },
+  {
+    "intent_id": "microprocesador_298",
+    "keywords": [
+      "utilizo",
+      "desarrollo",
+      "usarlo",
+      "sistemas"
+    ],
+    "base_response": "Entre ellas se encuentran la SWTPC 6800, que fue la primera en usarlo, y la muy conocida Altair 680. Este microprocesador se utilizó profusamente como parte de un kit para el desarrollo de sistemas controladores en la industria."
+  },
+  {
+    "intent_id": "microprocesador_299",
+    "keywords": [
+      "ampliacion",
+      "microprocesador",
+      "instrucciones",
+      "bits"
+    ],
+    "base_response": "Es un microprocesador de 8 bits construido en tecnología NMOS, y fue basado en el Intel 8080.​ Básicamente es una ampliación de este, con lo que admite todas sus instrucciones. El primer computador que usó el Z80 era el Cromemco Z-1 lanzado en 1976."
+  },
+  {
+    "intent_id": "microprocesador_300",
+    "keywords": [
+      "golpe",
+      "producto",
+      "division",
+      "computadoras"
+    ],
+    "base_response": "1978: Los Intel 8086 y 8088 Una venta realizada por Intel a la nueva división de computadoras personales de IBM, hizo que las PC de IBM dieran un gran golpe comercial con el nuevo producto con el 8088, el llamado IBM PC."
+  },
+  {
+    "intent_id": "microprocesador_301",
+    "keywords": [
+      "nombro",
+      "triunfos",
+      "sesenta",
+      "companias"
+    ],
+    "base_response": "El éxito del 8088 propulsó a Intel a la lista de las 500 mejores compañías, en la prestigiosa revista Fortune, y la misma nombró la empresa como uno de Los triunfos comerciales de los sesenta."
+  },
+  {
+    "intent_id": "microprocesador_302",
+    "keywords": [
+      "predecesor",
+      "microprocesadores",
+      "compatibilidad",
+      "ejecutar",
+      "familia"
+    ],
+    "base_response": "1982: El Intel 80286 El 80286, popularmente conocido como 286, fue el primer procesador de Intel que podría ejecutar todo el software escrito para su predecesor. Esta compatibilidad del software sigue siendo un sello de la familia de microprocesadores de Intel."
+  },
+  {
+    "intent_id": "microprocesador_303",
+    "keywords": [
+      "integro",
+      "transistores",
+      "original",
+      "introduccion",
+      "estimado",
+      "procesador"
+    ],
+    "base_response": "Luego de seis años de su introducción, había un estimado de 15 millones de PC basadas en el 286, instaladas alrededor del mundo. 1985: El Intel 80386 Este procesador Intel, popularmente llamado 386, se integró con 275 000 transistores, más de 100 veces tantos como en el original 4004."
+  },
+  {
+    "intent_id": "microprocesador_304",
+    "keywords": [
+      "comunidad",
+      "decada",
+      "procesador",
+      "ingenieria"
+    ],
+    "base_response": "Este microprocesador contenía 125 000 transistores, fue fabricado con la tecnología ZMOS de DEC. Los sistemas VAX y los basados en este procesador fueron los preferidos por la comunidad científica y de ingeniería durante la década de 1980."
+  },
+  {
+    "intent_id": "microprocesador_305",
+    "keywords": [
+      "mejoras",
+      "operando",
+      "reloj",
+      "rapidos",
+      "operaciones"
+    ],
+    "base_response": "Estas mejoras hicieron que los i486 fueran el doble de rápidos que el par i386-i387 operando a la misma frecuencia de reloj. El procesador Intel 486 fue el primero en ofrecer un coprocesador matemático o FPU integrado; con él que se aceleraron notablemente las operaciones de cálculo."
+  },
+  {
+    "intent_id": "microprocesador_306",
+    "keywords": [
+      "operaciones",
+      "unidad",
+      "codigos",
+      "momento"
+    ],
+    "base_response": "Usando una unidad FPU las operaciones matemáticas más complejas son realizadas por el coprocesador de manera prácticamente independiente a la función del procesador principal. 1991: El AMD AMx86 Procesadores fabricados por AMD 100 % compatible con los códigos de Intel de ese momento."
+  },
+  {
+    "intent_id": "microprocesador_307",
+    "keywords": [
+      "precios",
+      "procesadores",
+      "incluyen",
+      "frecuencia",
+      "llegaron"
+    ],
+    "base_response": "Llamados «clones» de Intel, llegaron incluso a superar la frecuencia de reloj de los procesadores de Intel y a precios significativamente menores. Aquí se incluyen las series Am286, Am386, Am486 y Am586. 1993: PowerPC 601 Es un procesador de tecnología RISC de 32 bits, en 50 y 66 MHz."
+  },
+  {
+    "intent_id": "microprocesador_308",
+    "keywords": [
+      "creacion",
+      "busca",
+      "dominio",
+      "microprocesador"
+    ],
+    "base_response": "En 1991, IBM busca una alianza con Apple y Motorola para impulsar la creación de este microprocesador, surge la alianza AIM (Apple, IBM y Motorola) cuyo objetivo fue quitar el dominio que Microsoft e Intel tenían en sistemas basados en los 80386 y 80486."
+  },
+  {
+    "intent_id": "microprocesador_309",
+    "keywords": [
+      "operaciones",
+      "ejecutar",
+      "gracias",
+      "equivalente",
+      "arquitectura",
+      "bits"
+    ],
+    "base_response": "1993: El Intel Pentium El microprocesador de Pentium poseía una arquitectura capaz de ejecutar dos operaciones a la vez, gracias a sus dos tuberías de datos de 32 bits cada uno, uno equivalente al 486DX(u) y el otro equivalente a 486SX(u)."
+  },
+  {
+    "intent_id": "microprocesador_310",
+    "keywords": [
+      "bus",
+      "acceso",
+      "compatibilidad",
+      "permitia"
+    ],
+    "base_response": "Además, estaba dotado de un bus de datos de 64 bits, y permitía un acceso a memoria de 64 bits (aunque el procesador seguía manteniendo compatibilidad de 32 bits para las operaciones internas, y los registros también eran de 32 bits)."
+  },
+  {
+    "intent_id": "microprocesador_311",
+    "keywords": [
+      "velocidades",
+      "trabajaba",
+      "usuario",
+      "frecuencia",
+      "incluyo"
+    ],
+    "base_response": "Las versiones que incluían instrucciones MMX no solo brindaban al usuario un más eficiente manejo de aplicaciones multimedia, sino que también se ofrecían en velocidades de hasta 233 MHz. Se incluyó una versión de 200 MHz y la más básica trabajaba a alrededor de 166 MHz de frecuencia de reloj."
+  },
+  {
+    "intent_id": "microprocesador_312",
+    "keywords": [
+      "aplicaciones",
+      "disenado",
+      "corre",
+      "usarlo",
+      "base"
+    ],
+    "base_response": "El 620 fue diseñado para su utilización en servidores, y especialmente optimizado para usarlo en configuraciones de cuatro y hasta ocho procesadores en servidores de aplicaciones de base de datos y vídeo. Este procesador incorpora siete millones de transistores y corre a 133 MHz."
+  },
+  {
+    "intent_id": "microprocesador_313",
+    "keywords": [
+      "aplicaciones",
+      "profesional",
+      "programas",
+      "procesador",
+      "arquitectura",
+      "trabajo"
+    ],
+    "base_response": "1995: EL Intel Pentium Pro Lanzado al mercado en otoño de 1995, el procesador Pentium Pro (profesional) se diseñó con una arquitectura de 32 bits. Se usó en servidores y los programas y aplicaciones para estaciones de trabajo (de redes) impulsaron rápidamente su integración en las computadoras."
+  },
+  {
+    "intent_id": "microprocesador_314",
+    "keywords": [
+      "bits",
+      "transistores",
+      "rendimiento",
+      "millones"
+    ],
+    "base_response": "El rendimiento del código de 32 bits era excelente, pero el Pentium Pro a menudo era más lento que un Pentium cuando ejecutaba código o sistemas operativos de 16 bits. El procesador Pentium Pro estaba compuesto por alrededor de 5,5 millones de transistores."
+  },
+  {
+    "intent_id": "microprocesador_315",
+    "keywords": [
+      "saco",
+      "tecnologias",
+      "clones",
+      "procesador"
+    ],
+    "base_response": "1996: El AMD K5 Habiendo abandonado los clones, AMD fabricada con tecnologías análogas a Intel. AMD sacó al mercado su primer procesador propio, el K5, rival del Pentium. La arquitectura RISC86 del AMD K5 era más semejante a la arquitectura del Intel Pentium Pro que a la del Pentium."
+  },
+  {
+    "intent_id": "microprocesador_316",
+    "keywords": [
+      "procesador",
+      "transforma",
+      "comandos",
+      "aplicacion",
+      "principio"
+    ],
+    "base_response": "El K5 es internamente un procesador RISC con una Unidad x86- decodificadora, transforma todos los comandos x86 (de la aplicación en curso) en comandos RISC. Este principio se usa hasta hoy en todas las CPU x86."
+  },
+  {
+    "intent_id": "microprocesador_317",
+    "keywords": [
+      "compitiendo",
+      "lanzo",
+      "nanometros",
+      "mejora",
+      "tareas",
+      "coma"
+    ],
+    "base_response": "Más adelante se lanzó una mejora de los K6, los K6-2 de 250 nanómetros, para seguir compitiendo con los Pentium II, siendo este último superior en tareas de coma flotante, pero inferior en tareas de uso general."
+  },
+  {
+    "intent_id": "microprocesador_318",
+    "keywords": [
+      "procesador",
+      "actuacion",
+      "usos",
+      "arquitectura"
+    ],
+    "base_response": "Proporcionó a los consumidores una gran actuación a un bajo coste, y entregó un rendimiento destacado para usos como juegos y el software educativo. 1999: El AMD Athlon K7 (Classic y Thunderbird) Procesador totalmente compatible con la arquitectura x86."
+  },
+  {
+    "intent_id": "microprocesador_319",
+    "keywords": [
+      "nivel",
+      "predecesor",
+      "evolucion",
+      "incluye",
+      "nucleo",
+      "momento"
+    ],
+    "base_response": "Además incluye 512 Kb de caché de segundo nivel (L2). El resultado fue el procesador x86 más potente del momento. El procesador Athlon con núcleo Thunderbird apareció como la evolución del Athlon Classic. Al igual que su predecesor, también se basa en la arquitectura x86 y usa el bus EV6."
+  },
+  {
+    "intent_id": "microprocesador_320",
+    "keywords": [
+      "instrucciones",
+      "rendimiento",
+      "procesador",
+      "anadiendo"
+    ],
+    "base_response": "1999: El Intel Pentium III El procesador Pentium III ofrece 70 nuevas instrucciones Internet Streaming, las extensiones de SIMD que refuerzan dramáticamente el rendimiento con imágenes avanzadas, 3D, añadiendo una mejor calidad de audio, video y rendimiento en aplicaciones de reconocimiento de voz."
+  },
+  {
+    "intent_id": "microprocesador_321",
+    "keywords": [
+      "archivos",
+      "navegar",
+      "reforzar",
+      "graficos"
+    ],
+    "base_response": "Fue diseñado para reforzar el área del rendimiento en el Internet, le permite a los usuarios hacer cosas, tales como, navegar a través de páginas pesadas (con muchos gráficos), tiendas virtuales y transmitir archivos video de alta calidad."
+  },
+  {
+    "intent_id": "microprocesador_322",
+    "keywords": [
+      "informatica",
+      "servidores",
+      "aplicaciones",
+      "actuacion"
+    ],
+    "base_response": "1999: El Intel Pentium III Xeon El procesador Pentium III Xeon amplía las fortalezas de Intel en cuanto a las estaciones de trabajo (workstation) y segmentos de mercado de servidores, y añade una actuación mejorada en las aplicaciones del comercio electrónico e informática comercial avanzada."
+  },
+  {
+    "intent_id": "microprocesador_323",
+    "keywords": [
+      "tecnologia",
+      "procesador",
+      "procesadores",
+      "rendimiento",
+      "informacion",
+      "mejorando"
+    ],
+    "base_response": "Los procesadores incorporan mejoras que refuerzan el procesamiento multimedia, particularmente las aplicaciones de vídeo. La tecnología del procesador III Xeon acelera la transmisión de información a través del bus del sistema al procesador, mejorando el rendimiento significativamente."
+  },
+  {
+    "intent_id": "microprocesador_324",
+    "keywords": [
+      "microprocesador",
+      "sistemas",
+      "configuraciones",
+      "multiprocesador",
+      "diseno",
+      "disena"
+    ],
+    "base_response": "Se diseña pensando principalmente en los sistemas con configuraciones de multiprocesador. 2000: EL Intel Pentium 4 Este es un microprocesador de séptima generación basado en la arquitectura x86 y fabricado por Intel. Es el primero con un diseño completamente nuevo desde el Pentium Pro."
+  },
+  {
+    "intent_id": "microprocesador_325",
+    "keywords": [
+      "instrucciones",
+      "sacrifico",
+      "ciclo",
+      "ciclos"
+    ],
+    "base_response": "Se estrenó la arquitectura NetBurst, la cual no daba mejoras considerables respecto a la anterior P6. Intel sacrificó el rendimiento de cada ciclo para obtener a cambio mayor cantidad de ciclos por segundo y una mejora en las instrucciones SSE."
+  },
+  {
+    "intent_id": "microprocesador_326",
+    "keywords": [
+      "actividades",
+      "consecuencia",
+      "video",
+      "desempeno"
+    ],
+    "base_response": "Como consecuencia, incluyó un motor de ejecución rápida y un bus de sistema de 400 MHz para entregar un mayor nivel de desempeño en actividades más demandantes, como juegos en 3D, audio y video digitales."
+  },
+  {
+    "intent_id": "microprocesador_327",
+    "keywords": [
+      "musica",
+      "editar",
+      "pistas",
+      "procesamiento",
+      "rapidez"
+    ],
+    "base_response": "Incluyó un mayor poder de procesamiento para codificar pistas de discos compactos a MP3 a mayor velocidad, procesamiento más rápido y poderoso para una reproducción de audio más fluida y mayor rendimiento para crear y editar música con mayor rapidez."
+  },
+  {
+    "intent_id": "microprocesador_328",
+    "keywords": [
+      "seguir",
+      "rendimiento",
+      "overclocking",
+      "cabeza"
+    ],
+    "base_response": "Además no era práctico para el overclocking, entonces para seguir estando a la cabeza en cuanto a rendimiento de los procesadores x86, AMD tuvo que diseñar un nuevo núcleo, el QuantiSpeed, y sacó el Athlon XP."
+  },
+  {
+    "intent_id": "microprocesador_329",
+    "keywords": [
+      "datos",
+      "mencionar",
+      "instrucciones",
+      "compatibilizaba",
+      "ingles",
+      "aumento"
+    ],
+    "base_response": "Este compatibilizaba las instrucciones SSE y las 3DNow! Entre las mejoras respecto al Thunderbird se puede mencionar la prerrecuperación de datos por hardware, conocida en inglés como prefetch, y el aumento de las entradas TLB, de 24 a 32."
+  },
+  {
+    "intent_id": "microprocesador_330",
+    "keywords": [
+      "procesamiento",
+      "tiempo",
+      "introdujo",
+      "entretenimiento",
+      "usos"
+    ],
+    "base_response": "Como resultado ofreció un rendimiento casi cercano al tiempo real en usos como procesamiento de voz, video y CAD/CAM con el motor de punto flotante más poderoso del momento. Introdujo el entretenimiento digital como juegos y DVDs con gráficos ricos y fluidos y sonido realista."
+  },
+  {
+    "intent_id": "microprocesador_331",
+    "keywords": [
+      "version",
+      "prestaciones",
+      "combinacion",
+      "audio",
+      "experiencia"
+    ],
+    "base_response": "La combinación de las prestaciones de Windows XP y el procesador ofrecieron una experiencia de Internet mejorada con un uso más fluido del streaming del audio y video. 2004: El Intel Pentium 4 (Prescott) A principios de febrero de 2004, Intel introdujo una nueva versión de Pentium 4 denominada 'Prescott'."
+  },
+  {
+    "intent_id": "microprocesador_332",
+    "keywords": [
+      "ejecutando",
+      "circuito",
+      "bits",
+      "heredado",
+      "rendimiento",
+      "funcionando"
+    ],
+    "base_response": "El Athlon 64 presenta un controlador de memoria en el propio circuito integrado del microprocesador y otras mejoras de arquitectura que le dan un mejor rendimiento que los anteriores Athlon y que el Athlon XP funcionando a la misma velocidad, incluso ejecutando código heredado de 32 bits."
+  },
+  {
+    "intent_id": "microprocesador_333",
+    "keywords": [
+      "velocidad",
+      "ejecutando",
+      "baja",
+      "presenta",
+      "reduce"
+    ],
+    "base_response": "El Athlon 64 también presenta una tecnología de reducción de la velocidad del procesador llamada Cool'n'Quiet,: cuando el usuario está ejecutando aplicaciones que requieren poco uso del procesador, baja la velocidad del mismo y su tensión se reduce."
+  },
+  {
+    "intent_id": "microprocesador_334",
+    "keywords": [
+      "arquitectura",
+      "conjunto",
+      "nucleo",
+      "instrucciones",
+      "modulo",
+      "lanzo"
+    ],
+    "base_response": "2006: El Intel Core Duo Intel lanzó esta gama de procesadores de doble núcleo y CPUs 2x2 MCM (módulo Multi-Chip) de cuatro núcleos con el conjunto de instrucciones x86-64, basado en la nueva arquitectura Core de Intel."
+  },
+  {
+    "intent_id": "microprocesador_335",
+    "keywords": [
+      "velocidad",
+      "gama",
+      "procesadores",
+      "nanometros",
+      "tablas"
+    ],
+    "base_response": "Los CPU de Intel han variado muy bruscamente en consumo de energía de acuerdo a velocidad de procesador, arquitectura y procesos de semiconductor, mostrado en las tablas de disipación de energía del CPU. Esta gama de procesadores fueron fabricados de 65 a 45 nanómetros."
+  },
+  {
+    "intent_id": "microprocesador_336",
+    "keywords": [
+      "insulator",
+      "fabricacion",
+      "tecnologia",
+      "encontraba",
+      "fabricando"
+    ],
+    "base_response": "Como característica común todos los Phenom tienen tecnología de 65 nm lograda a través de tecnología de fabricación Silicon on insulator (SOI). No obstante, Intel, ya se encontraba fabricando mediante la más avanzada tecnología de proceso de 45 nm en 2008."
+  },
+  {
+    "intent_id": "microprocesador_337",
+    "keywords": [
+      "poseen",
+      "calculos",
+      "velocidad",
+      "caracteristicas",
+      "bits"
+    ],
+    "base_response": "Todas las CPU Phenom poseen características tales como controlador de memoria DDR2 integrado, tecnología HyperTransport y unidades de coma flotante de 128 bits, para incrementar la velocidad y el rendimiento de los cálculos de coma flotante."
+  },
+  {
+    "intent_id": "microprocesador_338",
+    "keywords": [
+      "datos",
+      "infraestructura",
+      "acceso",
+      "camino"
+    ],
+    "base_response": "Tiene caché L3 compartida para un acceso más rápido a los datos (y así no depende tanto del tiempo de latencia de la RAM), además de compatibilidad de infraestructura de los zócalos AM2, AM2+ y AM3 para permitir un camino de actualización sin sobresaltos."
+  },
+  {
+    "intent_id": "microprocesador_339",
+    "keywords": [
+      "igualar",
+      "arquitectura",
+      "serie",
+      "procesadores"
+    ],
+    "base_response": "A pesar de todo, no llegaron a igualar el rendimiento de la serie Core 2 Duo. 2008: El Intel Core i7 Nehalem Intel Core i7 es una familia de procesadores de cuatro núcleos de la arquitectura Intel x86-64."
+  },
+  {
+    "intent_id": "microprocesador_340",
+    "keywords": [
+      "sustituido",
+      "puertos",
+      "reemplazado",
+      "interfaz"
+    ],
+    "base_response": "FSB es reemplazado por la interfaz QuickPath en i7 e i5 (zócalo 1366), y sustituido a su vez en i7, i5 e i3 (zócalo 1156) por el DMI eliminado el northBrige e implementando puertos PCI Express directamente."
+  },
+  {
+    "intent_id": "microprocesador_341",
+    "keywords": [
+      "dimm",
+      "lugar",
+      "placa",
+      "reimplementado",
+      "grupos",
+      "ranuras"
+    ],
+    "base_response": "Las placa base compatibles con Core i7 tienen cuatro (3+1) o seis ranuras DIMM en lugar de dos o cuatro, y las DIMM deben ser instaladas en grupos de tres, no dos. El Hyperthreading fue reimplementado creando núcleos lógicos."
+  },
+  {
+    "intent_id": "microprocesador_342",
+    "keywords": [
+      "sucede",
+      "soporte",
+      "microprocesadores",
+      "familia",
+      "nombre"
+    ],
+    "base_response": "2008: Los AMD Phenom II y Athlon II Phenom II es el nombre dado por AMD a una familia de microprocesadores o CPUs multinúcleo (multicore) fabricados en 45 nm, la cual sucede al Phenom original y dieron soporte a DDR3."
+  },
+  {
+    "intent_id": "microprocesador_343",
+    "keywords": [
+      "mercado",
+      "surge",
+      "pasando",
+      "incremento",
+      "nucleo"
+    ],
+    "base_response": "De hecho, esta se incrementó de una manera generosa, pasando de los 2 MiB del Phenom original a 6 MiB. Entre ellos, el Amd Phenom II X2 BE 555 de doble núcleo surge como el procesador binúcleo del mercado."
+  },
+  {
+    "intent_id": "microprocesador_344",
+    "keywords": [
+      "precio",
+      "corre",
+      "linea",
+      "rendimiento",
+      "lanzan"
+    ],
+    "base_response": "También se lanzan tres Athlon II con solo Caché L2, pero con buena relación precio/rendimiento. El Amd Athlon II X4 630 corre a 2,8 GHz. El Amd Athlon II X4 635 continua la misma línea."
+  },
+  {
+    "intent_id": "microprocesador_345",
+    "keywords": [
+      "corre",
+      "nucleos",
+      "lanza",
+      "sale"
+    ],
+    "base_response": "AMD también lanza un triple núcleo, llamado Athlon II X3 440, así como un doble núcleo Athlon II X2 255. También sale el Phenom X4 995, de cuatro núcleos, que corre a más de 3,2 GHz."
+  },
+  {
+    "intent_id": "microprocesador_346",
+    "keywords": [
+      "bits",
+      "multimedia",
+      "relacione",
+      "generacion"
+    ],
+    "base_response": "Es la segunda generación de los Intel Core con nuevas instrucciones de 256 bits, duplicando el rendimiento, mejorando el rendimiento en 3D y todo lo que se relacione con operación en multimedia. Llegaron la primera semana de enero del 2011."
+  },
+  {
+    "intent_id": "microprocesador_347",
+    "keywords": [
+      "media",
+      "consumo",
+      "gamas",
+      "salieron",
+      "finales"
+    ],
+    "base_response": "La GPU está integrada en el propio microprocesador. Los primeros modelos salieron entre los últimos meses de 2010 y primeros de 2011 denominados Ontaro y Zacate (bajo consumo), Llano, Brazos y Bulldozer (gamas media y alta) salieron entre mediados y finales del 2011."
+  },
+  {
+    "intent_id": "microprocesador_348",
+    "keywords": [
+      "aparecieron",
+      "generacion",
+      "nombre",
+      "principios",
+      "procesadores"
+    ],
+    "base_response": "2012: El Intel Core Ivy Bridge Ivy Bridge es el nombre en clave de los procesadores conocidos como Intel Core de tercera generación. Son por tanto sucesores de los micros que aparecieron a principios de 2011, cuyo nombre en clave es Sandy Bridge."
+  },
+  {
+    "intent_id": "microprocesador_349",
+    "keywords": [
+      "ancho",
+      "transistores",
+      "meter",
+      "permite",
+      "nanometros",
+      "chip"
+    ],
+    "base_response": "Pasamos de los 32 nanómetros de ancho de transistor en Sandy Bridge a los 22 de Ivy Bridge. Esto le permite meter el doble de ellos en la misma área. Un mayor número de transistores significa que puedes poner más bloques funcionales dentro del chip."
+  },
+  {
+    "intent_id": "microprocesador_350",
+    "keywords": [
+      "gamming",
+      "implementan",
+      "tecnologias",
+      "correccion",
+      "teniendo"
+    ],
+    "base_response": "Son la corrección de errores de la tercera generación e implementan nuevas tecnologías gráficas para el gamming y el diseño gráfico, funcionando con un menor consumo y teniendo un mejor rendimiento a un buen precio."
+  },
+  {
+    "intent_id": "microprocesador_351",
+    "keywords": [
+      "entretenimiento",
+      "dejar",
+      "pretenden",
+      "mercado",
+      "productividad",
+      "pensar"
+    ],
+    "base_response": "Especialmente fabricado para usuarios exigentes que quieren aumentar su productividad, sin dejar de lado a aquellos que pretenden pensar también en el entretenimiento y juegos sensacionales, con alta transferencia de datos y mucho más, ya está disponible en el mercado."
+  },
+  {
+    "intent_id": "microprocesador_352",
+    "keywords": [
+      "solucion",
+      "overclocking",
+      "zocalo",
+      "procesadores",
+      "madre",
+      "incorporan"
+    ],
+    "base_response": "Estos requieren del zócalo AM4 y todas las tarjetas madre para este tipo de procesadores incorporan multiplicadores desbloqueados para overclocking, además que todos los productos soportan overclocking automático, aunque esto procesadores no cuentan con GPU integrada, por lo que dependen de una solución dedicada."
+  },
+  {
+    "intent_id": "microprocesador_353",
+    "keywords": [
+      "gama",
+      "aumentado",
+      "rendimiento",
+      "mercado"
+    ],
+    "base_response": "Los procesadores Ryzen devolvieron a AMD a la gama alta de CPUs de escritorio, capaces de competir en rendimiento contra los procesadores Core i7 de Intel con precios menores y competitivos; desde su lanzamiento la cuota de mercado de AMD ha aumentado."
+  },
+  {
+    "intent_id": "microprocesador_354",
+    "keywords": [
+      "interior",
+      "venta",
+      "generacion",
+      "nucleos",
+      "procesador"
+    ],
+    "base_response": "El procesador más potente de esta generación es el AMD Ryzen 9 3950X un procesador que lleva 16 núcleos y 32 hilos en su interior y será puesto a la venta en el 4Q del 2019."
+  },
+  {
+    "intent_id": "microprocesador_355",
+    "keywords": [
+      "procesos",
+      "aumentar",
+      "tecnologias",
+      "dominan",
+      "renderizado"
+    ],
+    "base_response": "Dominan tareas de varios procesos como el renderizado 3D o video y la compilación de software. Cuentan con un conjunto de tecnologías para aumentar su poder como Precision Boost 2, Precision Boost Overdrive y PCIe 4.0."
+  },
+  {
+    "intent_id": "microprocesador_356",
+    "keywords": [
+      "equipos",
+      "disenado",
+      "presenta",
+      "ofrecer"
+    ],
+    "base_response": "2020: Apple M1 Tras abandonar a Intel, Apple presenta su primer procesador propio para equipos. Ha sido diseñado con tecnología arm de 5 nanómetros para ofrecer un alto rendimiento con un bajo consumo de energía."
+  },
+  {
+    "intent_id": "microprocesador_357",
+    "keywords": [
+      "recursos",
+      "banda",
+      "procesador",
+      "latencia",
+      "puertos"
+    ],
+    "base_response": "Diversas funcionalidades como puertos E/S, memoria y seguridad han sido integradas en el procesador. Utiliza una arquitectura de memoria unificada (UMA) que incorpora memoria de baja latencia y alto ancho de banda en un mismo conjunto de recursos para aumentar el rendimiento y la eficiencia."
+  },
+  {
+    "intent_id": "microprocesador_358",
+    "keywords": [
+      "consumo",
+      "motor",
+      "incluye",
+      "aprendizaje",
+      "nucleos",
+      "desempeno"
+    ],
+    "base_response": "Cuenta con cuatro núcleos de alto desempeño con otros cuatro de bajo consumo para tareas menos demandantes. Además incluye gráficos integrados de alto desempeño y Neural Engine que es un motor diseñado para acelerar el aprendizaje automático y la Inteligencia artificial."
+  },
+  {
+    "intent_id": "microprocesador_359",
+    "keywords": [
+      "cuentan",
+      "interfaz",
+      "caracteristicas",
+      "procesador",
+      "seguridad"
+    ],
+    "base_response": "2021: Intel Core de 11ª Generación Estos procesadores cuentan con los nuevos transistores SuperFin, combinan nuevas tecnologías como WiFi 6, Thunderbolt 4, decodificación de medios AV1, interfaz PCI Express Gen 4 anexada al procesador y características de seguridad reforzadas por hardware."
+  },
+  {
+    "intent_id": "microprocesador_360",
+    "keywords": [
+      "calidad",
+      "inteligencia",
+      "aceleracion",
+      "ofrecen",
+      "sonido",
+      "colores"
+    ],
+    "base_response": "Además ofrecen aceleración de inteligencia artificial con su motor Intel Deep Learning Boost y gráficos Intel Iris X de calidad de tarjeta dedicada con miles de millones de colores, HDR 10, sonido Dolby Atmos y Dolby Vision con aceleración por hardware."
+  },
+  {
+    "intent_id": "microprocesador_361",
+    "keywords": [
+      "lanza",
+      "banda",
+      "generacion",
+      "plataforma",
+      "ancho"
+    ],
+    "base_response": "2021: Apple M1 Pro y M1 Max Siguiendo con el desarrollo de su propia plataforma, Apple lanza su segunda generación de procesadores propios para equipos. El procesador M1 Pro cuenta con el triple del ancho de banda y es un 70 % más rápido que el procesador M1 original."
+  },
+  {
+    "intent_id": "microprocesador_362",
+    "keywords": [
+      "ofrece",
+      "tecnologia",
+      "nanometros",
+      "ancho"
+    ],
+    "base_response": "Mientras que el M1 Max cuenta con el doble del ancho de banda del procesador M1 Pro y un poder aún mayor. Gracias a la tecnología de 5 nanómetros, el procesador M1 Pro ofrece 33 700 millones de transistores, más del doble del M1 original."
+  },
+  {
+    "intent_id": "microprocesador_363",
+    "keywords": [
+      "permite",
+      "banda",
+      "admite",
+      "nucleos"
+    ],
+    "base_response": "Cuenta con un GPU de 16 núcleos que es dos veces más rápido que el del M1 original, además admite hasta 32 GB de memoria unificada con hasta 200 GB/s de ancho de banda, lo que permite a profesionales creativos hacer mucho más."
+  },
+  {
+    "intent_id": "microprocesador_364",
+    "keywords": [
+      "admitir",
+      "banda",
+      "ofrece",
+      "memoria"
+    ],
+    "base_response": "Es el procesador más grande de Apple creado hasta el momento con 57 000 millones de transistores, ofrece un ancho de banda de memoria de hasta 400 GB/s para admitir hasta 64 GB de memoria rápida unificada."
+  },
+  {
+    "intent_id": "microprocesador_365",
+    "keywords": [
+      "poseen",
+      "dirige",
+      "herramientas",
+      "cargas",
+      "tecnologia",
+      "personalizacion"
+    ],
+    "base_response": "Incluye hasta 8 núcleos de desempeño (P) y 8 de eficiencia (E) y dirige las cargas de trabajo con la tecnología Intel Thread Director que las divide para obtener el mejor desempeño posible. Poseen una arquitectura flexible y herramientas para realizar overclocking y conseguir la máxima personalización."
+  },
+  {
+    "intent_id": "microprocesador_366",
+    "keywords": [
+      "admiten",
+      "procesadores",
+      "actualizaciones",
+      "tecnologias",
+      "velocidad",
+      "comunicaciones"
+    ],
+    "base_response": "Admiten las tecnologías PCI Express 5.0 y DDR 5 para actualizaciones futuras y también admiten Wi-Fi 6E y Thunderbolt 4 para comunicaciones de alta velocidad. 2022: AMD Ryzen 6000 Una nueva generación de procesadores AMD Ryzen."
+  },
+  {
+    "intent_id": "microprocesador_367",
+    "keywords": [
+      "rendimiento",
+      "graficos",
+      "horas",
+      "bateria"
+    ],
+    "base_response": "Ofrecen un rendimiento en equipos ultradelgados hasta un 30 % superior a la generación anterior, una duración de batería proyectada hasta de 24 horas de uso y gráficos hasta 2 veces más rápidos que la generación anterior con la tecnología RDNA 2."
+  },
+  {
+    "intent_id": "microprocesador_368",
+    "keywords": [
+      "lider",
+      "capacidad",
+      "chips",
+      "potencia",
+      "industria"
+    ],
+    "base_response": "Gracias a la nueva arquitectura de empaquetado Ultra Fusion que interconecta a dos chips para crear un SoC con niveles de rendimiento y capacidad jamás vistos, el chip M1 Ultra ofrece una sorprendente potencia con el mismo rendimiento por Watt líder en la industria."
+  },
+  {
+    "intent_id": "microprocesador_369",
+    "keywords": [
+      "video",
+      "artistas",
+      "rendimiento",
+      "numeros",
+      "compilan"
+    ],
+    "base_response": "Este rendimiento resulta de gran utilidad para los desarrolladores que compilan código, artistas que trabajan en entornos 3D de gran tamaño y profesionales de video que ahora podrán transcodificar mucho más rápido. El microprocesador ejecuta instrucciones almacenadas como números binarios organizados secuencialmente en la memoria principal."
+  },
+  {
+    "intent_id": "microprocesador_370",
+    "keywords": [
+      "envio",
+      "determinar",
+      "instruccion",
+      "instrucciones",
+      "fases"
+    ],
+    "base_response": "La ejecución de las instrucciones se puede realizar en varias fases: Prefetch, prelectura de la instrucción desde la memoria principal. Fetch, envío de la instrucción al decodificador Decodificación de la instrucción, es decir, determinar qué instrucción es y por tanto qué se debe hacer."
+  },
+  {
+    "intent_id": "microprocesador_371",
+    "keywords": [
+      "realiza",
+      "procesador",
+      "dependiendo",
+      "estructura",
+      "ciclos",
+      "segmentacion"
+    ],
+    "base_response": "Lectura de operandos (si los hay). Escritura de los resultados en la memoria principal o en los registros. Cada una de estas fases se realiza en uno o varios ciclos de CPU, dependiendo de la estructura del procesador, y concretamente de su grado de segmentación."
+  },
+  {
+    "intent_id": "microprocesador_372",
+    "keywords": [
+      "cuarzo",
+      "generar",
+      "actualidad",
+      "genera",
+      "cristal"
+    ],
+    "base_response": "El microprocesador se conecta a un circuito PLL, normalmente basado en un cristal de cuarzo capaz de generar pulsos a un ritmo constante, de modo que genera varios ciclos (o pulsos) en un segundo. Este reloj, en la actualidad, genera miles de megahercios."
+  },
+  {
+    "intent_id": "microprocesador_373",
+    "keywords": [
+      "dando",
+      "alcanzaron",
+      "resultado",
+      "momento"
+    ],
+    "base_response": "Durante los últimos años la frecuencia se ha mantenido en el rango de los 1,5 GHz a 6 GHz y la cantidad de núcleos ha llegado a 32 por el momento (2024), dando como resultado procesadores con capacidades de proceso mayores comparados con los primeros que alcanzaron esos valores."
+  },
+  {
+    "intent_id": "microprocesador_374",
+    "keywords": [
+      "frecuencia",
+      "comparacion",
+      "funcionamiento",
+      "nucleos"
+    ],
+    "base_response": "Medir el rendimiento con la frecuencia y la cantidad de núcleos es válido únicamente entre procesadores con arquitecturas muy similares o iguales, de manera que su funcionamiento interno sea el mismo: en ese caso la frecuencia y la cantidad de núcleos es un índice de comparación válido."
+  },
+  {
+    "intent_id": "microprocesador_375",
+    "keywords": [
+      "rendimiento",
+      "tiempo",
+      "indicadores",
+      "caracteristicas",
+      "instrucciones"
+    ],
+    "base_response": "Pero obviando esas características puede tenerse una medida aproximada del rendimiento de un procesador por medio de indicadores como la cantidad de operaciones de coma flotante por unidad de tiempo FLOPS, o la cantidad de instrucciones por unidad de tiempo MIPS."
+  },
+  {
+    "intent_id": "microprocesador_376",
+    "keywords": [
+      "factores",
+      "sistema",
+      "sistemas",
+      "computacion"
+    ],
+    "base_response": "Una medida exacta del rendimiento de un procesador o de un sistema, es muy complicada debido a los múltiples factores involucrados en la computación de un problema, por lo general las pruebas no son concluyentes entre sistemas de la misma generación."
+  },
+  {
+    "intent_id": "microprocesador_377",
+    "keywords": [
+      "entender",
+      "control",
+      "historia",
+      "productos",
+      "fabricacion"
+    ],
+    "base_response": "En otras palabras, el microprocesador es como la computadora digital porque ambos realizan cálculos bajo un programa de control. Consiguientemente, la historia de la computadora digital ayuda a entender el microprocesador. Hizo posible la fabricación de potentes calculadoras y de muchos otros productos."
+  },
+  {
+    "intent_id": "microprocesador_378",
+    "keywords": [
+      "palabras",
+      "utiliza",
+      "microprocesador",
+      "unidad",
+      "datos"
+    ],
+    "base_response": "El microprocesador utiliza el mismo tipo de lógica que es usado en la unidad procesadora central (CPU) de una computadora digital. El microprocesador es algunas veces llamado unidad microprocesadora (MPU). En otras palabras, el microprocesador es una unidad procesadora de datos."
+  },
+  {
+    "intent_id": "microprocesador_379",
+    "keywords": [
+      "memoria",
+      "acudir",
+      "utilizados",
+      "alcance",
+      "operaciones"
+    ],
+    "base_response": "Memoria caché: es una memoria ultrarrápida que emplea el procesador para tener alcance directo a ciertos datos que «predeciblemente» serán utilizados en las siguientes operaciones, sin tener que acudir a la memoria RAM, reduciendo así el tiempo de espera para adquisición de datos."
+  },
+  {
+    "intent_id": "microprocesador_380",
+    "keywords": [
+      "interior",
+      "memoria",
+      "micros",
+      "incluyen",
+      "nivel"
+    ],
+    "base_response": "Los micros más modernos (Core i3, Core i5, Core i7, etc.) incluyen también en su interior otro nivel de caché, más grande, aunque algo menos rápida, es la caché de segundo nivel o L2 e incluso los hay con memoria caché de nivel 3, o L3."
+  },
+  {
+    "intent_id": "microprocesador_381",
+    "keywords": [
+      "memoria",
+      "calculos",
+      "procesador",
+      "chip"
+    ],
+    "base_response": "Coprocesador matemático: unidad de coma flotante. Es la parte del micro especializada en esa clase de cálculos matemáticos, antiguamente estaba en el exterior del procesador en otro chip. Esta parte está considerada como una parte «lógica» junto con los registros, la unidad de control, memoria y bus de datos."
+  },
+  {
+    "intent_id": "microprocesador_382",
+    "keywords": [
+      "control",
+      "disenados",
+      "programador",
+      "controlados",
+      "grupo",
+      "registros"
+    ],
+    "base_response": "Un grupo de registros está diseñado para control del programador y hay otros que no son diseñados para ser controlados por el procesador, pero que la CPU los utiliza en algunas operaciones, en total son treinta y dos registros."
+  },
+  {
+    "intent_id": "microprocesador_383",
+    "keywords": [
+      "almacenamiento",
+      "espacio",
+      "procesador",
+      "trabajo",
+      "mundo",
+      "funcion"
+    ],
+    "base_response": "La memoria es una parte interna de la computadora y su función esencial es proporcionar un espacio de almacenamiento para el trabajo en curso. Puertos: es la manera en que el procesador se comunica con el mundo externo."
+  },
+  {
+    "intent_id": "microprocesador_384",
+    "keywords": [
+      "circuiteria",
+      "llamar",
+      "computadora",
+      "puerto",
+      "partes",
+      "necesita"
+    ],
+    "base_response": "Un puerto es análogo a una línea de teléfono. Cualquier parte de la circuitería de la computadora con la cual el procesador necesita comunicarse, tiene asignado un «número de puerto» que el procesador utiliza como si fuera un número de teléfono para llamar circuitos o a partes especiales."
+  },
+  {
+    "intent_id": "microprocesador_385",
+    "keywords": [
+      "cortan",
+      "superficie",
+      "material",
+      "cilindro"
+    ],
+    "base_response": "Para ello, se funde el material en cuestión a alta temperatura (1370 °C) y muy lentamente (10 a 40 mm por hora) y así se va formando el cristal. De este cristal, de cientos de kilos, se cortan los extremos y la superficie exterior, para obtener un cilindro perfecto."
+  },
+  {
+    "intent_id": "microprocesador_386",
+    "keywords": [
+      "cabello",
+      "obleas",
+      "sierra",
+      "oblea",
+      "fabricaran"
+    ],
+    "base_response": "Luego, el cilindro se corta en obleas de 10 micras de espesor (la décima parte del espesor de un cabello humano) utilizando una sierra de diamante. De cada cilindro se obtienen miles de obleas, y de cada oblea se fabricarán varios cientos de microprocesadores."
+  },
+  {
+    "intent_id": "microprocesador_387",
+    "keywords": [
+      "consiste",
+      "proceso",
+      "pasan",
+      "superficie",
+      "defecto",
+      "impureza"
+    ],
+    "base_response": "Estas obleas son pulidas hasta obtener una superficie perfectamente plana, pasan por un proceso llamado “annealing”, que consiste en someterlas a un calentamiento extremo para eliminar cualquier defecto o impureza que pueda haber llegado a esta instancia."
+  },
+  {
+    "intent_id": "microprocesador_388",
+    "keywords": [
+      "microprocesador",
+      "vapor",
+      "capa",
+      "supervision",
+      "oxido"
+    ],
+    "base_response": "Después de una supervisión mediante láseres capaz de detectar imperfecciones menores a una milésima de micra, se recubren con una capa aislante formada por óxido de silicio transferido mediante deposición de vapor. De aquí en adelante, comienza el proceso del «dibujado» de los transistores que conformarán a cada microprocesador."
+  },
+  {
+    "intent_id": "microprocesador_389",
+    "keywords": [
+      "capas",
+      "microprocesador",
+      "oxidacion",
+      "llega"
+    ],
+    "base_response": "Después de cientos de pasos, entre los que se hallan la creación de sustrato, la oxidación, la litografía, el grabado, la implantación iónica y la deposición de capas; se llega a un complejo «bocadillo» que contiene todos los circuitos interconectados del microprocesador."
+  },
+  {
+    "intent_id": "microprocesador_390",
+    "keywords": [
+      "electrones",
+      "aplicar",
+      "precision",
+      "fabricacion"
+    ],
+    "base_response": "Un transistor construido en tecnología de 7 nanómetros tiene un ancho equivalente a unos 34 electrones. Eso da una idea de la precisión absoluta que se necesita al momento de aplicar cada una de las máscaras utilizadas durante la fabricación."
+  },
+  {
+    "intent_id": "microprocesador_391",
+    "keywords": [
+      "fabricacion",
+      "polvo",
+      "aire",
+      "puras",
+      "microprocesadores"
+    ],
+    "base_response": "Las salas empleadas para la fabricación de microprocesadores se denominan salas limpias, porque el aire de las mismas se somete a un filtrado exhaustivo y está prácticamente libre de polvo. Las salas limpias más puras de la actualidad se denominan de clase 1."
+  },
+  {
+    "intent_id": "microprocesador_392",
+    "keywords": [
+      "piel",
+      "superficie",
+      "polvo",
+      "evitar",
+      "cortarlos",
+      "oblea"
+    ],
+    "base_response": "Los trabajadores de estas plantas emplean trajes estériles para evitar que restos de piel, polvo o pelo se desprendan de sus cuerpos. Una vez que la oblea ha pasado por todo el proceso litográfico, tiene “grabados” en su superficie varios cientos de microprocesadores, cuya integridad es comprobada antes de cortarlos."
+  },
+  {
+    "intent_id": "microprocesador_393",
+    "keywords": [
+      "velocidades",
+      "oblea",
+      "nucleos",
+      "caracteristicas"
+    ],
+    "base_response": "La mayoría de los errores se dan en los bordes de la oblea, dando como resultados chips capaces de funcionar a velocidades menores que los del centro de la oblea o simplemente con características desactivadas, tales como núcleos."
+  },
+  {
+    "intent_id": "microprocesador_394",
+    "keywords": [
+      "delgadisimos",
+      "conexiones",
+      "utilizando",
+      "mundo",
+      "permitiran"
+    ],
+    "base_response": "Cada una de estas plaquitas será dotada de una cápsula protectora plástica (en algunos casos pueden ser cerámicas) y conectada a los cientos de pines metálicos que le permitirán interactuar con el mundo exterior. Estas conexiones se realizan utilizando delgadísimos alambres, generalmente de oro."
+  },
+  {
+    "intent_id": "microprocesador_395",
+    "keywords": [
+      "disipador",
+      "transferencia",
+      "chip",
+      "interior",
+      "equipan"
+    ],
+    "base_response": "De ser necesario, la cápsula es provista de un pequeño disipador térmico de metal, que servirá para mejorar la transferencia de calor desde el interior del chip hacia el disipador principal. El resultado final es un microprocesador como los que equipan a los computadores."
+  },
+  {
+    "intent_id": "microprocesador_396",
+    "keywords": [
+      "conectaba",
+      "base",
+      "material",
+      "empaque",
+      "alambres",
+      "pegaba"
+    ],
+    "base_response": "En los primeros procesadores el empaque se fabricaba con plásticos epoxicos o con cerámicas en formatos como el DIP entre otros. El chip se pegaba con un material térmicamente conductor a una base y se conectaba por medio de pequeños alambres a unas pistas terminadas en pines."
+  },
+  {
+    "intent_id": "microprocesador_397",
+    "keywords": [
+      "sellaba",
+      "microprocesadores",
+      "quedaran",
+      "actualidad",
+      "base"
+    ],
+    "base_response": "Posteriormente se sellaba todo con una placa metálica u otra pieza del mismo material de la base de manera que los alambres y el silicio quedaran encapsulados. En la actualidad los microprocesadores de diversos tipos (incluyendo procesadores gráficos) se ensamblan por medio de la tecnología flip chip."
+  },
+  {
+    "intent_id": "microprocesador_398",
+    "keywords": [
+      "soldado",
+      "coleccion",
+      "fabricacion",
+      "pistas"
+    ],
+    "base_response": "El chip semiconductor es soldado directamente a una colección de pistas conductoras (en el sustrato laminado) con la ayuda de unas microesferas que se depositan sobre las obleas de semiconductor en las etapas finales de su fabricación."
+  },
+  {
+    "intent_id": "microprocesador_399",
+    "keywords": [
+      "chip",
+      "conexion",
+      "pistas",
+      "posee",
+      "sustrato"
+    ],
+    "base_response": "El sustrato laminado es una especie de circuito impreso que posee pistas conductoras hacia pines o contactos, que a su vez servirán de conexión entre el chip semiconductor y un zócalo de CPU o una placa base."
+  },
+  {
+    "intent_id": "microprocesador_400",
+    "keywords": [
+      "enfriado",
+      "elementos",
+      "calor",
+      "simplicidad",
+      "silicio",
+      "base"
+    ],
+    "base_response": "Entre las ventajas de este método está la simplicidad del ensamble y en una mejor disipación de calor. Cuando la pastilla queda bocabajo presenta el sustrato base de silicio de manera que puede ser enfriado directamente por medio de elementos conductores de calor."
+  }
+]
