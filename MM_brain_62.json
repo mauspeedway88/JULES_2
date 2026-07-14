@@ -1,0 +1,1708 @@
+[
+  {
+    "intent_id": "coherencia_parrafos_",
+    "keywords": [
+      "leer",
+      "ideas",
+      "tema",
+      "parrafo",
+      "conectar"
+    ],
+    "base_response": "La coherencia en un párrafo se logra cuando todas las frases hablan de la misma idea central, sin cambiar de tema de repente. Cada oración se conecta con la anterior para que el texto sea fácil de entender para quien lo lee."
+  },
+  {
+    "intent_id": "cohesion_conectores_referencia",
+    "keywords": [
+      "texto",
+      "repetir",
+      "conectores",
+      "evitar",
+      "referencia"
+    ],
+    "base_response": "Los conectores de referencia son palabras o frases que enlazan ideas evitando repetir información ya mencionada en el texto. Funcionan como puentes que ayudan al lector a seguir la secuencia de los mensajes sin confusiones."
+  },
+  {
+    "intent_id": "cohesion_elipsis_omision",
+    "keywords": [
+      "texto",
+      "elementos",
+      "inferir",
+      "omision",
+      "elipsis"
+    ],
+    "base_response": "La elipsis de cohesión es la omisión de elementos del texto que ya fueron mencionados antes, siempre que el lector pueda inferir su significado sin necesidad de repetirlos de forma explícita. Ayuda a hacer los textos más fluidos y naturales."
+  },
+  {
+    "intent_id": "cohesion_sustitucion_lexica",
+    "keywords": [
+      "repeticion",
+      "sinonimos",
+      "evitar",
+      "sustitucion",
+      "lexica"
+    ],
+    "base_response": "La sustitución léxica consiste en cambiar una palabra por un sinónimo o una expresión equivalente para evitar repeticiones innecesarias en el texto. Mantiene la coherencia de la idea y hace la lectura más amena y variada."
+  },
+  {
+    "intent_id": "cohesion_ordenadores_enumeracion",
+    "keywords": [
+      "ideas",
+      "secuencia",
+      "ordenadores",
+      "enumeracion",
+      "organizar"
+    ],
+    "base_response": "Los ordenadores de enumeración son conectores que organizan las ideas de un texto en una secuencia clara, como primero, después o finalmente. Permiten que el lector entienda el orden de los pasos o argumentos que se presentan."
+  },
+  {
+    "intent_id": "cohesion_conectores_causa_efecto",
+    "keywords": [
+      "efecto",
+      "causa",
+      "conectores",
+      "hechos",
+      "relacionar"
+    ],
+    "base_response": "Los conectores de causa y efecto son palabras que relacionan un hecho con su consecuencia, como porque, por lo tanto o así que. Ayudan a explicar por qué ocurre una situación y qué resultado genera en el texto."
+  },
+  {
+    "intent_id": "coherencia_idea_principal",
+    "keywords": [
+      "parrafo",
+      "coherencia",
+      "mantener",
+      "idea",
+      "central"
+    ],
+    "base_response": "La coherencia de un párrafo empieza por tener una idea central clara que se mantiene en todas las oraciones, sin agregar información que no tenga relación directa con el tema principal que quieres explicar a tus compañeros."
+  },
+  {
+    "intent_id": "coherencia_conectores",
+    "keywords": [
+      "parrafo",
+      "coherencia",
+      "unir",
+      "ideas",
+      "conectores"
+    ],
+    "base_response": "Los conectores son palabras que unen las ideas de un párrafo para que el texto no parezca un conjunto de frases sin relación clara, ayudando a que el lector entienda el orden de lo que explicas fácilmente."
+  },
+  {
+    "intent_id": "coherencia_orden_ideas",
+    "keywords": [
+      "parrafo",
+      "coherencia",
+      "ideas",
+      "organizar",
+      "orden"
+    ],
+    "base_response": "El orden lógico de las ideas es clave para la coherencia: puedes empezar por lo más general, luego pasar a los detalles importantes, o seguir el orden de un suceso si explicas una historia que pasó hace tiempo."
+  },
+  {
+    "intent_id": "coherencia_tono",
+    "keywords": [
+      "parrafo",
+      "coherencia",
+      "mantener",
+      "estilo",
+      "tono"
+    ],
+    "base_response": "Mantener el mismo tono y estilo durante todo el párrafo ayuda a que sea coherente: no puedes empezar hablando de forma muy informal y luego cambiar a un lenguaje muy formal sin tener un motivo justificado para ello."
+  },
+  {
+    "intent_id": "coherencia_evitar_desvios",
+    "keywords": [
+      "parrafo",
+      "coherencia",
+      "evitar",
+      "desvios",
+      "temas"
+    ],
+    "base_response": "Evitar desvíos de temas es fundamental para la coherencia: si tu párrafo habla de la importancia del reciclaje en las ciudades, no incluyas datos sobre el deporte que no tengan ninguna relación con ese tema central."
+  },
+  {
+    "intent_id": "cohesion_textual_puentes_ideas__",
+    "keywords": [
+      "cohesion",
+      "oraciones",
+      "conectores",
+      "enlace",
+      "ideas"
+    ],
+    "base_response": "La cohesion textual es como un puente entre ideas. Ayuda a que un texto se entienda mejor cuando las oraciones se conectan con palabras como porque, tambien o luego, y cuando cada parte sigue un orden claro."
+  },
+  {
+    "intent_id": "cohesion_textual_repeticion_controlada__",
+    "keywords": [
+      "repeticion",
+      "referencias",
+      "pronombres",
+      "texto",
+      "claridad"
+    ],
+    "base_response": "Un texto tiene cohesion cuando evita repetir de forma pesada y usa pronombres o referencias para nombrar lo mismo sin confundir. Asi, el lector sigue la informacion con facilidad y entiende a quien o a que se refiere cada frase."
+  },
+  {
+    "intent_id": "cohesion_textual_secuencia_logica__",
+    "keywords": [
+      "pasos",
+      "proceso",
+      "orden",
+      "secuencia",
+      "relacion"
+    ],
+    "base_response": "La cohesion textual tambien aparece cuando las ideas se presentan en un orden logico. Primero, despues y finalmente ayudan a organizar pasos, explicar procesos o contar hechos, de modo que el mensaje avance sin saltos ni confusiones."
+  },
+  {
+    "intent_id": "cohesion_textual_palabras_clave__",
+    "keywords": [
+      "palabras",
+      "tema",
+      "reiteracion",
+      "sentido",
+      "unidad"
+    ],
+    "base_response": "Para lograr cohesion, un texto puede repetir palabras clave del tema con medida. Esa reiteracion mantiene la unidad del mensaje y recuerda al lector de que trata todo el texto, sin perder el sentido ni cambiar de asunto."
+  },
+  {
+    "intent_id": "cohesion_textual_relaciones_causales__",
+    "keywords": [
+      "razon",
+      "conectores",
+      "explicacion",
+      "consecuencia",
+      "causa"
+    ],
+    "base_response": "La cohesion mejora cuando el texto muestra relaciones de causa y consecuencia. Conectores como porque, por eso o entonces explican por que ocurre algo y que resultado produce, haciendo que las ideas queden bien unidas."
+  },
+  {
+    "intent_id": "cohesion_textual_unidad_parrafos__",
+    "keywords": [
+      "coherencia",
+      "union",
+      "tema",
+      "parrafo",
+      "unidad"
+    ],
+    "base_response": "Cada parrafo debe aportar una idea relacionada con el tema principal. Si todas las partes mantienen esa unidad, el texto gana cohesion y coherencia, porque el lector reconoce facilmente como se conectan las ideas entre si."
+  },
+  {
+    "intent_id": "detectar_ideas_desconectadas_parrafo",
+    "keywords": [
+      "desconectadas",
+      "ideas",
+      "parrafo",
+      "relacionar",
+      "detectar"
+    ],
+    "base_response": "Aprende a identificar cuándo las ideas de un párrafo no están conectadas entre sí, detectando frases que no aportan información relacionada con la idea principal del texto para eliminarlas o modificarlas fácilmente y así mejorar la claridad de tus escritos."
+  },
+  {
+    "intent_id": "ordenar_ideas_coherente_parrafo",
+    "keywords": [
+      "ideas",
+      "parrafo",
+      "secuencia",
+      "ordenar",
+      "logica"
+    ],
+    "base_response": "Ordena las ideas de tu párrafo siguiendo una secuencia lógica que tenga sentido para el lector, evitando saltos temporales o temáticos sin explicación para que el texto sea fácil de entender y no genere confusión en quien lo lee."
+  },
+  {
+    "intent_id": "usar_conectores_mejorar_coherencia",
+    "keywords": [
+      "ideas",
+      "parrafo",
+      "relacionar",
+      "coherencia",
+      "conectores"
+    ],
+    "base_response": "Utiliza conectores textuales como además, por lo tanto o sin embargo para unir las ideas de tu párrafo, evitando que las frases aparezcan aisladas y sin relación entre sí. Esto hará que tu texto sea mucho más fluido y comprensible."
+  },
+  {
+    "intent_id": "identificar_idea_principal_parrafo",
+    "keywords": [
+      "parrafo",
+      "principal",
+      "coherencia",
+      "idea",
+      "detectar"
+    ],
+    "base_response": "Detecta primero la idea principal de tu párrafo antes de escribirlo, para asegurarte de que todas las frases que incluyas estén relacionadas con ella y no se desvíen del tema. Así mantendrás la coherencia en todo tu texto."
+  },
+  {
+    "intent_id": "cohesion_conectores_causa_efecto_secundaria",
+    "keywords": [
+      "efecto",
+      "relacionar",
+      "conectores",
+      "narrativa",
+      "causa"
+    ],
+    "base_response": "Los conectores de causa y efecto unen oraciones de tus narraciones cortas explicando por qué ocurren los hechos, evitan que tus textos se sientan fragmentados y hacen que el lector entienda la lógica de la historia sin esfuerzo."
+  },
+  {
+    "intent_id": "cohesion_referencias_pronominales_escritura",
+    "keywords": [
+      "referencias",
+      "repeticion",
+      "nombres",
+      "sustitucion",
+      "pronominales"
+    ],
+    "base_response": "Las referencias pronominales usan pronombres como él, ella o esto para sustituir nombres o conceptos que ya mencionaste antes, evitan repeticiones innecesarias en tus textos y hacen que la lectura sea más fluida y natural."
+  },
+  {
+    "intent_id": "cohesion_marcadores_orden_expositivos",
+    "keywords": [
+      "organizacion",
+      "marcadores",
+      "orden",
+      "expositivos",
+      "estructura"
+    ],
+    "base_response": "Los marcadores de orden como primero, luego o finalmente organizan la estructura de tus textos expositivos, ayudan al lector a seguir la secuencia de tus ideas y evitan que se pierda al leer tu trabajo."
+  },
+  {
+    "intent_id": "cohesion_elipsis_controlada_creativa",
+    "keywords": [
+      "creativos",
+      "elipsis",
+      "sobreentendido",
+      "controlada",
+      "textos"
+    ],
+    "base_response": "La elipsis controlada omite palabras que ya están sobreentendidas por el contexto en tus textos creativos, evita que tus relatos se hagan pesados y repetitivos, y aporta dinamismo a la narración sin perder claridad para el lector."
+  },
+  {
+    "intent_id": "hilo_conductor_tematico_parrafo",
+    "keywords": [
+      "conductor",
+      "hilo",
+      "coherencia",
+      "tema",
+      "parrafo"
+    ],
+    "base_response": "El hilo conductor temático es el eje central que une todas las oraciones de un párrafo, evitando ideas sueltas sin ninguna relación. Para comprobarlo, debes preguntarte si todas las frases responden al mismo tema general del texto."
+  },
+  {
+    "intent_id": "orden_logico_ideas_parrafo",
+    "keywords": [
+      "ideas",
+      "parrafo",
+      "orden",
+      "logico",
+      "secuencia"
+    ],
+    "base_response": "El orden lógico de las ideas es la secuencia coherente que siguen las oraciones dentro de un párrafo, para que el lector entienda el mensaje sin confusiones. Puede ser cronológico, de causa-efecto o por orden de importancia."
+  },
+  {
+    "intent_id": "palabras_transicion_union_parrafo",
+    "keywords": [
+      "palabras",
+      "coherencia",
+      "union",
+      "transicion",
+      "frases"
+    ],
+    "base_response": "Las palabras de transición son términos específicos que unen las oraciones de un párrafo, marcando claramente la relación entre sus ideas para darle fluidez y coherencia al texto completo sin cortes bruscos entre frases en la lectura."
+  },
+  {
+    "intent_id": "tema_central_unico_parrafo",
+    "keywords": [
+      "ideas",
+      "tema",
+      "parrafo",
+      "unico",
+      "central"
+    ],
+    "base_response": "Cada párrafo debe tener un único tema central al que se ajusten todas sus ideas, para no desviar la atención del lector ni generar confusión sobre el mensaje que se quiere transmitir en el texto."
+  },
+  {
+    "intent_id": "cohesion_conectores_causa_efecto_relatos",
+    "keywords": [
+      "efecto",
+      "redaccion",
+      "relatos",
+      "conectores",
+      "cohesion",
+      "causa"
+    ],
+    "base_response": "Los conectores de causa y efecto unen ideas de tus relatos cortos para que el lector entienda por qué ocurren los hechos. Usa términos como porque, por eso o como consecuencia para dar sentido lógico a cada parte del texto."
+  },
+  {
+    "intent_id": "cohesion_referencias_anaforicas_evitar_repeticiones",
+    "keywords": [
+      "textos",
+      "escritura",
+      "repeticion",
+      "referencias",
+      "cohesion",
+      "anaforicas"
+    ],
+    "base_response": "Las referencias anafóricas son palabras que sustituyen a otras ya mencionadas en el texto para no repetir sustantivos constantemente. Usa pronombres como él, ella o esto para que la lectura sea más fluida y natural."
+  },
+  {
+    "intent_id": "cohesion_orden_logico_ideas_parrafos",
+    "keywords": [
+      "escritura",
+      "estructura",
+      "orden",
+      "parrafos",
+      "logico",
+      "cohesion"
+    ],
+    "base_response": "Organiza las ideas de cada párrafo en orden lógico para que el texto tenga coherencia global. Coloca primero la idea principal, luego los detalles de apoyo y usa conectores de orden para marcar la secuencia de la información."
+  },
+  {
+    "intent_id": "cohesion_repeticion_estrategica_palabras_clave",
+    "keywords": [
+      "palabras",
+      "textos",
+      "repeticion",
+      "clave",
+      "estrategica",
+      "cohesion"
+    ],
+    "base_response": "La repetición estratégica de palabras clave une las diferentes partes de un texto sin que se note de forma artificial. Repite términos relacionados con el tema central para que el lector identifique fácilmente el hilo conductor de la información."
+  },
+  {
+    "intent_id": "conectores_creacion_comics_cortos",
+    "keywords": [
+      "redaccion",
+      "comics",
+      "enlace",
+      "conectores",
+      "vinetas"
+    ],
+    "base_response": "Los estudiantes crean comics de 3 vignetas y deben usar conectores como 'despues' o 'por el contrario' para enlazar las escenas. Esta actividad hace que identifiquen la funcion de cada conector de forma ludica y significativa."
+  },
+  {
+    "intent_id": "conectores_recetas_cocina_escolares",
+    "keywords": [
+      "instrucciones",
+      "conectores",
+      "recetas",
+      "cocina",
+      "pasos"
+    ],
+    "base_response": "Al escribir recetas de galletas o batidos sencillos, los alumnos usan conectores temporales como 'primero', 'luego' y 'finalmente' para ordenar los pasos de forma clara. Asi comprenden su utilidad para dar instrucciones secuenciadas y faciles de seguir."
+  },
+  {
+    "intent_id": "conectores_debates_escolares_argumentacion",
+    "keywords": [
+      "debates",
+      "argumentacion",
+      "conectores",
+      "contraargumentos",
+      "opiniones"
+    ],
+    "base_response": "En debates sobre temas cercanos como el uso de moviles en clase, los estudiantes usan conectores de oposicion como 'sin embargo' o 'por otro lado' para presentar contraargumentos. Asi aprenden a estructurar sus ideas de forma coherente."
+  },
+  {
+    "intent_id": "conectores_bitacoras_excursiones_escolares",
+    "keywords": [
+      "experiencias",
+      "bitacoras",
+      "conectores",
+      "excursiones",
+      "relato"
+    ],
+    "base_response": "Al escribir la bitacora de una excursion al museo o al parque, los alumnos usan conectores de causa como 'porque' o 'gracias a' para explicar por que vivieron esas experiencias. Relatan sus vivencias de forma mas ordenada y comprensible."
+  },
+  {
+    "intent_id": "ensayo_estructura_tres_partes_infantes",
+    "keywords": [
+      "ensayo",
+      "estructura",
+      "conclusion",
+      "escribir",
+      "desarrollo",
+      "introduccion"
+    ],
+    "base_response": "Todo ensayo básico se organiza en tres secciones fijas: la introducción presenta el tema central, el desarrollo expone argumentos ordenados y la conclusión resume las ideas clave, facilitando la redacción clara para estudiantes de nivel inicial."
+  },
+  {
+    "intent_id": "organizadores_graficos_estructura_ensayo_ninos",
+    "keywords": [
+      "ensayo",
+      "redactar",
+      "organizador",
+      "estructura",
+      "esquema",
+      "grafico"
+    ],
+    "base_response": "Los organizadores gráficos son plantillas visuales que ayudan a ordenar las partes del ensayo antes de escribir, permitiendo ubicar la introducción, desarrollo y conclusión en espacios definidos para evitar olvidos durante la redacción final de tareas escolares."
+  },
+  {
+    "intent_id": "oracion_tematica_parrafo_ensayo_primaria",
+    "keywords": [
+      "ensayo",
+      "estructura",
+      "argumento",
+      "tematica",
+      "parrafo",
+      "oracion"
+    ],
+    "base_response": "Cada párrafo del desarrollo del ensayo inicia con una oración temática que define la idea central del fragmento, facilitando que el lector entienda cada argumento sin confusiones y manteniendo la coherencia de todo el texto."
+  },
+  {
+    "intent_id": "ensayo_opinion_estructura_adaptada_preadolescentes",
+    "keywords": [
+      "ensayo",
+      "estructura",
+      "argumento",
+      "opinion",
+      "experiencia",
+      "adaptada"
+    ],
+    "base_response": "El ensayo de opinión adaptado para preadolescentes mantiene la estructura de introducción, desarrollo y conclusión, pero integra ejemplos de experiencias personales como argumentos válidos para expresar puntos de vista de forma organizada y clara en tareas académicas."
+  },
+  {
+    "intent_id": "concepto_gancho_atencion_lector_introduccion__",
+    "keywords": [
+      "lector",
+      "texto",
+      "gancho",
+      "inicio",
+      "atencion"
+    ],
+    "base_response": "El gancho es la frase inicial de la introducción que atrapa la atención del lector desde el primer momento. Puede ser una pregunta intrigante, un dato sorprendente o una anécdota corta relacionada con el tema del texto, para que quiera seguir leyendo."
+  },
+  {
+    "intent_id": "concepto_contextualizacion_tema_introduccion__",
+    "keywords": [
+      "general",
+      "especifico",
+      "tema",
+      "informacion",
+      "contextualizacion"
+    ],
+    "base_response": "La contextualización conecta información general que el lector conoce con el tema específico que vas a desarrollar. Ayuda a que el público entienda de qué vas a hablar sin aburrirlo con datos innecesarios o muy complejos al principio."
+  },
+  {
+    "intent_id": "concepto_tesis_idea_central_introduccion__",
+    "keywords": [
+      "texto",
+      "afirmacion",
+      "central",
+      "tesis",
+      "idea"
+    ],
+    "base_response": "La tesis es la afirmación principal que quieres demostrar en todo tu texto, y debe aparecer de forma clara al final de la introducción. Así el lector sabe desde el inicio qué postura vas a defender o qué punto vas a explicar."
+  },
+  {
+    "intent_id": "concepto_longitud_adecuada_introduccion__",
+    "keywords": [
+      "edad",
+      "parrafos",
+      "extension",
+      "introduccion",
+      "longitud"
+    ],
+    "base_response": "Para estudiantes de 9 a 14 años, la introducción no debe ser muy larga: entre uno y dos párrafos cortos son suficientes. Recuerda que su función es presentar el tema, no dar todos los detalles que explicarás después."
+  },
+  {
+    "intent_id": "variant_conclusion_palabrasclave",
+    "keywords": [
+      "palabra",
+      "resumir",
+      "clave",
+      "texto",
+      "idea"
+    ],
+    "base_response": "Identifica la idea central del texto y elige dos o tres palabras clave que la representen; luego forma una oración breve que las integre sin añadir información nueva, manteniendo el tono objetivo y claro eficaz."
+  },
+  {
+    "intent_id": "variant_conclusion_estructura",
+    "keywords": [
+      "argumentos",
+      "cierre",
+      "reafirmar",
+      "resumir",
+      "tesis"
+    ],
+    "base_response": "En la conclusión, vuelve a plantear la tesis principal con otras palabras; después resume los argumentos más importantes sin introducir ejemplos nuevos; finalmente, añade una frase de cierre que deje una impresión clara y memorable."
+  },
+  {
+    "intent_id": "variant_conclusion_sininfo",
+    "keywords": [
+      "datos",
+      "conclusion",
+      "informacion",
+      "evitar",
+      "nueva"
+    ],
+    "base_response": "Al redactar la conclusión, revisa que cada idea ya haya aparecido en el desarrollo; elimina cualquier dato, ejemplo o argumento que no se haya mencionado antes; así mantienes la coherencia y evitas confundir al lector con información inesperada."
+  },
+  {
+    "intent_id": "variant_conclusion_reflexion",
+    "keywords": [
+      "sentir",
+      "reflexion",
+      "conexion",
+      "tema",
+      "personal"
+    ],
+    "base_response": "En tu conclusión, conecta el tema con tu propia experiencia o opinión breve; expresa qué aprendiste o cómo cambió tu perspectiva, usando un tono sincero pero respetuoso; esto le da sentido personal y cierra el trabajo de forma auténtica."
+  },
+  {
+    "intent_id": "parrafo_narrativo__",
+    "keywords": [
+      "historia",
+      "personajes",
+      "orden",
+      "eventos",
+      "narrar"
+    ],
+    "base_response": "El párrafo narrativo se dedica a contar hechos, sucesos o historias de forma ordenada, incluyendo personajes y escenarios, ideal para relatar anécdotas o fragmentos de cuentos cortos de manera clara y entretenida para los lectores jóvenes."
+  },
+  {
+    "intent_id": "parrafo_descriptivo__",
+    "keywords": [
+      "describir",
+      "detalles",
+      "caracteristicas",
+      "objetos",
+      "sensaciones"
+    ],
+    "base_response": "El párrafo descriptivo se encarga de detallar todas las cualidades, rasgos distintivos y sensaciones asociadas a personas, lugares, animales u objetos, usando adjetivos específicos para que el receptor visualice la información sin confusiones de forma clara."
+  },
+  {
+    "intent_id": "parrafo_expositivo__",
+    "keywords": [
+      "datos",
+      "tema",
+      "informacion",
+      "explicar",
+      "claridad"
+    ],
+    "base_response": "El párrafo expositivo tiene como objetivo transmitir información, datos o explicaciones claras sobre un tema determinado, de forma objetiva y sin incluir opiniones personales, para que el lector entienda el contenido de manera sencilla y ordenada."
+  },
+  {
+    "intent_id": "parrafo_argumentativo__",
+    "keywords": [
+      "argumentos",
+      "razones",
+      "opinar",
+      "defender",
+      "idea"
+    ],
+    "base_response": "El párrafo argumentativo se usa para expresar una opinión personal sobre un tema, acompañada de razones y argumentos válidos que la justifiquen, buscando convencer al lector de la postura que se defiende de forma clara y fundamentada."
+  },
+  {
+    "intent_id": "parrafo_desarrollo_estructura_base_x",
+    "keywords": [
+      "ideacentral",
+      "estructura",
+      "organizar",
+      "detalle",
+      "ejemplo"
+    ],
+    "base_response": "El párrafo de desarrollo se construye con una idea central clara, al menos dos detalles que la explican y un ejemplo práctico que la hace más comprensible para el lector en textos narrativos y expositivos."
+  },
+  {
+    "intent_id": "parrafo_desarrollo_funcion_conectores_x",
+    "keywords": [
+      "logica",
+      "relacion",
+      "cohesion",
+      "conector",
+      "idea"
+    ],
+    "base_response": "Los conectores lógicos unen las oraciones del párrafo de desarrollo, evitan repeticiones y marcan relaciones de causa, consecuencia o contraste entre las ideas que presentas para que el lector entienda el hilo argumental de forma clara y coherente."
+  },
+  {
+    "intent_id": "parrafo_desarrollo_longitud_adecuada_x",
+    "keywords": [
+      "desviacion",
+      "redaccion",
+      "tema",
+      "longitud",
+      "atencion"
+    ],
+    "base_response": "Para estudiantes de 9 a 14 años, el párrafo de desarrollo no debe superar las 8 oraciones, para mantener la atención del lector y evitar desviaciones del tema principal en tus ejercicios de composición escrita de forma gradual."
+  },
+  {
+    "intent_id": "parrafo_desarrollo_revision_coherencia_x",
+    "keywords": [
+      "ideacentral",
+      "coherencia",
+      "revision",
+      "ejemplo",
+      "correccion"
+    ],
+    "base_response": "Para revisar tu párrafo de desarrollo, verifica que cada oración responda a la idea central, no tengas datos repetidos y el último ejemplo refuerce el punto que querías transmitir antes de entregar tu trabajo final de manera sencilla."
+  },
+  {
+    "intent_id": "usar_marcadores_para_ordenar_relatos__x",
+    "keywords": [
+      "textos",
+      "organizar",
+      "marcadores",
+      "relatos",
+      "discurso",
+      "ordenar"
+    ],
+    "base_response": "Los marcadores del discurso son palabras o frases que te ayudan a organizar la estructura de tus relatos, conectando las ideas para que la historia sea más clara y fácil de seguir para quien la lee."
+  },
+  {
+    "intent_id": "diferenciar_tipos_marcadores_debates_escolares__x",
+    "keywords": [
+      "debates",
+      "marcadores",
+      "escolares",
+      "discurso",
+      "consecuencia",
+      "causa"
+    ],
+    "base_response": "Conocer los tipos de marcadores del discurso (de causa, consecuencia, contraste o adición) te permite argumentar mejor en debates escolares en el aula, dando coherencia a tus ideas y convenciendo a tus compañeros de forma clara."
+  },
+  {
+    "intent_id": "evitar_repeticiones_trabajos_escritos_marcadores__x",
+    "keywords": [
+      "repeticiones",
+      "escritos",
+      "redaccion",
+      "marcadores",
+      "trabajos",
+      "discurso"
+    ],
+    "base_response": "Usar marcadores del discurso en tus trabajos escritos te ayuda a evitar repetir las mismas palabras una y otra vez, haciendo que tu redacción sea más variada, fluida y agradable de leer para tus profesores."
+  },
+  {
+    "intent_id": "mejorar_presentaciones_orales_marcadores__x",
+    "keywords": [
+      "marcadores",
+      "publico",
+      "claridad",
+      "presentaciones",
+      "discurso",
+      "orales"
+    ],
+    "base_response": "Incluir marcadores del discurso en tus presentaciones orales ayuda a tu público a seguir el hilo de tu exposición, señalando cuándo empiezas un punto nuevo, cambias de tema o llegas a una conclusión clara y ordenada."
+  },
+  {
+    "intent_id": "repeticion_terminos_relevantes_cohesion__",
+    "keywords": [
+      "textos",
+      "repeticion",
+      "conexion",
+      "terminos",
+      "cohesion"
+    ],
+    "base_response": "La repetición de términos relevantes evita que el texto se sienta fragmentado, ayuda a los estudiantes de primaria a conectar oraciones sobre un mismo tema sin necesidad de cambiar constantemente las palabras que usan en sus escritos."
+  },
+  {
+    "intent_id": "uso_sinonimos_variacion_lexica__",
+    "keywords": [
+      "palabras",
+      "textos",
+      "fluidez",
+      "variacion",
+      "cohesion",
+      "sinonimos"
+    ],
+    "base_response": "Usar sinónimos permite reemplazar términos repetitivos sin perder la conexión entre ideas, hace que los textos sean más fluidos y evita que los estudiantes se queden sin opciones al escribir sobre un tema específico en clase de lengua."
+  },
+  {
+    "intent_id": "conectores_lexicos_union_oraciones__",
+    "keywords": [
+      "logica",
+      "conectores",
+      "cohesion",
+      "union",
+      "nexos",
+      "oraciones"
+    ],
+    "base_response": "Los conectores léxicos como 'además', 'por lo tanto' o 'en cambio' unen oraciones de forma lógica, ayudan a los estudiantes a organizar sus ideas para que el texto tenga sentido y no sea una lista de frases sin relación en sus tareas escolares."
+  },
+  {
+    "intent_id": "sustitucion_lexica_evitar_repeticion__",
+    "keywords": [
+      "pronombres",
+      "lexica",
+      "cohesion",
+      "sustitucion",
+      "naturalidad",
+      "sustantivos"
+    ],
+    "base_response": "La sustitución léxica consiste en cambiar un sustantivo por un pronombre o término similar ya mencionado, evita repeticiones innecesarias y ayuda a que los textos de los estudiantes sean más naturales y fáciles de leer en sus cuentos cortos."
+  },
+  {
+    "intent_id": "definicion_conectores_contraste__",
+    "keywords": [
+      "contraste",
+      "ideas",
+      "relacionar",
+      "oponer",
+      "conector"
+    ],
+    "base_response": "Los conectores de contraste son unidades del lenguaje que enlazan dos ideas opuestas o diferentes en un mensaje, ayudando a organizar la información para que el receptor capte con claridad la diferencia entre ambos conceptos."
+  },
+  {
+    "intent_id": "ejemplos_conectores_contraste__",
+    "keywords": [
+      "usar",
+      "ejemplos",
+      "contraste",
+      "pero",
+      "conectores"
+    ],
+    "base_response": "Los conectores de contraste cuentan con múltiples ejemplos de uso habitual, como pero, aunque, sin embargo, no obstante o por el contrario, que permiten marcar la oposición entre dos ideas en cualquier texto educativo para estudiantes."
+  },
+  {
+    "intent_id": "uso_conectores_contraste_oraciones__",
+    "keywords": [
+      "usar",
+      "unir",
+      "contraste",
+      "conectores",
+      "oraciones"
+    ],
+    "base_response": "Para usar conectores de contraste en oraciones, debes identificar primero las dos ideas que se oponen, luego colocar el conector adecuado entre ellas para marcar claramente su relación de diferencia sin generar confusión en el mensaje."
+  },
+  {
+    "intent_id": "juego_aprender_conectores_contraste__",
+    "keywords": [
+      "contraste",
+      "aprender",
+      "practicar",
+      "conectores",
+      "juego"
+    ],
+    "base_response": "Un juego práctico para aprender conectores de contraste consiste en emparejar frases que expresen ideas opuestas, eligiendo el conector adecuado para unirlas, lo que ayuda a fijar su uso de forma divertida y significativa para el aprendizaje."
+  },
+  {
+    "intent_id": "ensenar_estructura_ensayo_argumentativo__",
+    "keywords": [
+      "ensayo",
+      "estructura",
+      "estudiante",
+      "escribir",
+      "argumentativo"
+    ],
+    "base_response": "Se explica a los estudiantes de 9 a 14 años la estructura básica del ensayo argumentativo: introducción con tesis clara, desarrollo de argumentos con ejemplos cercanos a su vida y conclusión que refuerce la postura defendida de forma sencilla."
+  },
+  {
+    "intent_id": "practicar_argumentos_cotidianos_ensayo__",
+    "keywords": [
+      "argumentos",
+      "ensayo",
+      "practicar",
+      "cotidianos",
+      "argumentativo"
+    ],
+    "base_response": "Los estudiantes crean argumentos para defender posturas sobre temas de su vida diaria, como el uso de redes sociales o el tiempo de pantallas, para luego integrarlos en párrafos de ensayos argumentativos adaptados a su nivel."
+  },
+  {
+    "intent_id": "evaluar_tesis_ensayo_argumentativo__",
+    "keywords": [
+      "ensayo",
+      "estudiante",
+      "evaluar",
+      "tesis",
+      "argumentativo"
+    ],
+    "base_response": "Se enseña a los estudiantes de 9 a 14 años a evaluar si la tesis de un ensayo argumentativo es clara, debatible y responde a un tema concreto, usando ejemplos de textos cortos adaptados a su nivel."
+  },
+  {
+    "intent_id": "incorporar_ejemplos_personales_ensayo__",
+    "keywords": [
+      "ensayo",
+      "ejemplos",
+      "escribir",
+      "personales",
+      "argumentativo"
+    ],
+    "base_response": "Los estudiantes aprenden a incorporar ejemplos de sus propias experiencias cotidianas en los ensayos argumentativos para hacer sus argumentos más creíbles y cercanos al lector, sin perder la formalidad adecuada para el texto académico básico."
+  },
+  {
+    "intent_id": "ensenar_seleccion_datos_ensayo_expositivo_",
+    "keywords": [
+      "ensayo",
+      "datos",
+      "verificables",
+      "expositivo",
+      "seleccion",
+      "ninos"
+    ],
+    "base_response": "Para elaborar ensayos expositivos válidos, los estudiantes de 9 a 14 años deben aprender a diferenciar datos confirmados por fuentes confiables de opiniones sin sustento, evitando incluir información errónea que se aleje del tema central de su escrito."
+  },
+  {
+    "intent_id": "estructurar_parrafos_claros_ensayo_expositivo_",
+    "keywords": [
+      "ensayo",
+      "estructura",
+      "claros",
+      "expositivo",
+      "estudiantes",
+      "parrafos"
+    ],
+    "base_response": "Los estudiantes de 9 a 14 años pueden organizar sus ensayos expositivos en párrafos cortos, cada uno con una idea principal clara y ejemplos sencillos, evitando mezclar temas distintos para que el lector entienda la información sin confusiones."
+  },
+  {
+    "intent_id": "usar_ejemplos_cotidianos_ensayo_expositivo_",
+    "keywords": [
+      "ensayo",
+      "escritura",
+      "ejemplos",
+      "expositivo",
+      "ninos",
+      "cotidianos"
+    ],
+    "base_response": "Incluir ejemplos de la vida diaria de los estudiantes de 9 a 14 años hace que los ensayos expositivos sean más entretenidos y fáciles de entender, conectando la teoría con experiencias que conocen de forma natural."
+  },
+  {
+    "intent_id": "revisar_coherencia_ensayo_expositivo_escolar_",
+    "keywords": [
+      "ensayo",
+      "errores",
+      "expositivo",
+      "coherencia",
+      "revision",
+      "escolares"
+    ],
+    "base_response": "Revisar que todas las ideas de un ensayo expositivo estén relacionadas con el tema central ayuda a los estudiantes de 9 a 14 años a eliminar errores de coherencia y presentar textos más ordenados y comprensibles."
+  },
+  {
+    "intent_id": "transiciones_puente_ideas_parrafos__",
+    "keywords": [
+      "ideas",
+      "parrafo",
+      "transicion",
+      "puente",
+      "conectar"
+    ],
+    "base_response": "Las transiciones entre párrafos funcionan como puentes que conectan una idea con la siguiente, evitando que el texto se sienta fragmentado y ayudando al lector a seguir el hilo de la exposición de forma natural y ordenada."
+  },
+  {
+    "intent_id": "transiciones_adicion_sumar_info__",
+    "keywords": [
+      "adicion",
+      "informacion",
+      "detalle",
+      "transicion",
+      "sumar"
+    ],
+    "base_response": "Las transiciones de adición son recursos que permiten sumar información, detalles o ejemplos nuevos a la idea principal del párrafo anterior, enriqueciendo el texto sin romper su coherencia ni su sentido global, para que el lector entienda la relación entre ambos bloques de contenido."
+  },
+  {
+    "intent_id": "transiciones_contraste_oponer_ideas__",
+    "keywords": [
+      "contraste",
+      "ideas",
+      "oponer",
+      "transicion",
+      "cambio"
+    ],
+    "base_response": "Las transiciones de contraste se usan para oponer una idea a otra presentada en el párrafo anterior, marcando un cambio de perspectiva que ayuda al lector a identificar diferencias entre los conceptos expuestos, sin generar confusión en el desarrollo del tema."
+  },
+  {
+    "intent_id": "juego_identificacion_transiciones__",
+    "keywords": [
+      "juego",
+      "practica",
+      "transicion",
+      "texto",
+      "identificacion"
+    ],
+    "base_response": "El juego de identificación de transiciones consiste en buscar y clasificar estas palabras o expresiones en textos cortos adaptados a la edad, para que los estudiantes reconozcan su función y aprendan a usarlas en sus propios escritos."
+  },
+  {
+    "intent_id": "proceso_escritura_mapas_emocionales__",
+    "keywords": [
+      "escritura",
+      "mapas",
+      "crear",
+      "emociones",
+      "narrativa"
+    ],
+    "base_response": "Consiste en que los estudiantes identifiquen primero sus emociones ante un tema, organicen esas sensaciones en un mapa visual y luego construyan su texto a partir de esos puntos registrados, lo que hace la escritura más personal y motivadora."
+  },
+  {
+    "intent_id": "proceso_escritura_fragmentos_cotidianos__",
+    "keywords": [
+      "escritura",
+      "fragmentos",
+      "realidad",
+      "registrar",
+      "cotidiano"
+    ],
+    "base_response": "Los alumnos recortan o apuntan pequeños fragmentos de su vida cotidiana como una conversación en el recreo o un detalle de su casa, y los usan como base para armar textos libres sin obligación de seguir una estructura rígida preestablecida."
+  },
+  {
+    "intent_id": "proceso_escritura_reescritura_generos__",
+    "keywords": [
+      "adaptacion",
+      "generos",
+      "textuales",
+      "practica",
+      "reescritura"
+    ],
+    "base_response": "Se propone que los estudiantes tomen un texto breve de un género determinado por ejemplo una noticia y lo reescriban para convertirlo en otro género distinto por ejemplo un cuento, analizando cómo cambia el mensaje según el formato elegido."
+  },
+  {
+    "intent_id": "proceso_escritura_colaborativa_turnos__",
+    "keywords": [
+      "escritura",
+      "turnos",
+      "colaborativa",
+      "grupo",
+      "creatividad"
+    ],
+    "base_response": "Los estudiantes escriben un texto en grupo por turnos: cada integrante agrega una oración o un párrafo sin poder modificar lo que escribió el compañero anterior, lo que fomenta la creatividad conjunta y la aceptación de ideas ajenas."
+  },
+  {
+    "intent_id": "concepto_punto_seguido_parrafo__",
+    "keywords": [
+      "conexion",
+      "oracion",
+      "punto",
+      "pausa",
+      "seguido"
+    ],
+    "base_response": "El punto y seguido marca una pausa breve dentro del mismo parrafo, separando oraciones que comparten una idea principal. Se escribe un punto seguido de un espacio y continua la frase en la misma linea, indicando continuidad del pensamiento."
+  },
+  {
+    "intent_id": "concepto_muletillas_redaccion_escolar__",
+    "keywords": [
+      "escritura",
+      "estudiantes",
+      "textos",
+      "muletillas",
+      "redaccion"
+    ],
+    "base_response": "Las muletillas son términos repetidos sin valor que arruinan tus escritos. Primero detecta todas las que usas de forma automática, luego sustitúyelas por sinónimos adecuados o quítalas del todo para que tu texto sea más fluido y profesional."
+  },
+  {
+    "intent_id": "estrategia_sustitucion_muletillas_escritura__",
+    "keywords": [
+      "escritura",
+      "sinonimos",
+      "sustitucion",
+      "muletillas",
+      "lista"
+    ],
+    "base_response": "Crea una lista personal de tus muletillas más frecuentes, como bueno o osea, junto a 3 sinónimos válidos para cada una. Consulta esta lista cada vez que escribas para reemplazarlas rápido sin perder el hilo de tu idea."
+  },
+  {
+    "intent_id": "deteccion_muletillas_textos_estudiantes__",
+    "keywords": [
+      "alternativas",
+      "deteccion",
+      "voz",
+      "textos",
+      "muletillas"
+    ],
+    "base_response": "Lee tus textos en voz alta después de escribirlos: las muletillas suelen aparecer cuando te trabas al expresar ideas. Cada vez que notes una repetición innecesaria, subráyala y anota una alternativa válida para usar la próxima vez."
+  },
+  {
+    "intent_id": "practica_redaccion_sin_muletillas__",
+    "keywords": [
+      "ejercicios",
+      "muletillas",
+      "redaccion",
+      "trabajos",
+      "practica"
+    ],
+    "base_response": "Haz ejercicios cortos de redacción de 5 líneas sobre temas que te gusten, con la regla de no usar ninguna muletilla. Al principio te costará, pero con la práctica reducirás su uso de forma automática en todos tus trabajos."
+  },
+  {
+    "intent_id": "impacto_muletillas_calidad_texto_escolar__",
+    "keywords": [
+      "texto",
+      "claridad",
+      "impacto",
+      "muletillas",
+      "calidad"
+    ],
+    "base_response": "Los textos llenos de muletillas transmiten poca seguridad y hacen que tu mensaje sea difícil de entender. Eliminarlas mejora la claridad de tu idea y hace que tus profesores y compañeros valoren más tu trabajo."
+  },
+  {
+    "intent_id": "identificador_unico_orden_eventos__",
+    "keywords": [
+      "orden",
+      "narracion",
+      "ubicar",
+      "cronologico",
+      "eventos"
+    ],
+    "base_response": "El orden cronológico organiza los sucesos de una historia del primero al último ocurrido. Para usarlo bien, primero identifica todos los eventos relevantes, luego ubica cada uno en su momento exacto antes de redactar la narración."
+  },
+  {
+    "intent_id": "identificador_unico_conectores_temporales__",
+    "keywords": [
+      "temporales",
+      "orden",
+      "narracion",
+      "conectores",
+      "sucesos"
+    ],
+    "base_response": "Los conectores temporales son términos que marcan el paso del tiempo en una narración. Úsalos cada vez que cambie un suceso para que el orden de los hechos quede claro sin dudas para todo lector."
+  },
+  {
+    "intent_id": "identificador_unico_saltos_temporales__",
+    "keywords": [
+      "temporales",
+      "orden",
+      "narracion",
+      "flashback",
+      "saltos",
+      "flashforward"
+    ],
+    "base_response": "Los saltos temporales como flashbacks o flashforwards añaden información sin romper el orden cronológico general de la historia. Siempre indica claramente el cambio de momento para que el lector entienda el contexto de cada suceso."
+  },
+  {
+    "intent_id": "identificador_unico_linea_tiempo__",
+    "keywords": [
+      "cronologia",
+      "tiempo",
+      "narracion",
+      "sucesos",
+      "linea"
+    ],
+    "base_response": "La línea de tiempo es una herramienta gráfica que te ayuda a ordenar los sucesos de una narración de forma visual. Dibuja los eventos en orden de aparición para detectar errores de cronología antes de escribir el texto final."
+  },
+  {
+    "intent_id": "identificador_unico_generos_narrativos__",
+    "keywords": [
+      "orden",
+      "cuentos",
+      "narracion",
+      "misterio",
+      "cronologico"
+    ],
+    "base_response": "No todas las narraciones usan el orden cronológico estricto. Las historias de misterio suelen empezar por el final, mientras que los cuentos tradicionales mantienen siempre el orden completo de los hechos del inicio al cierre."
+  },
+  {
+    "intent_id": "citar_libros_biblioteca_escolar__",
+    "keywords": [
+      "cita",
+      "biblioteca",
+      "fuente",
+      "prestamo",
+      "autor",
+      "libro"
+    ],
+    "base_response": "Cuando cites un libro físico que tomaste de la biblioteca de tu colegio, coloca al final del párrafo entre paréntesis el apellido del autor, el año de publicación y el número de página que consultaste, sin olvidar agregarlo a la lista final de fuentes."
+  },
+  {
+    "intent_id": "citar_paginas_web_confiables__",
+    "keywords": [
+      "cita",
+      "fuente",
+      "enlace",
+      "entidad",
+      "web",
+      "pagina"
+    ],
+    "base_response": "Para citar una página web que usaste para tu trabajo, escribe entre paréntesis el nombre del autor o la entidad que la publicó, el año de publicación y la dirección exacta del enlace, verificando que la información sea confiable antes de usarla."
+  },
+  {
+    "intent_id": "citar_videos_educativos__",
+    "keywords": [
+      "creador",
+      "cita",
+      "fuente",
+      "video",
+      "plataforma",
+      "educativo"
+    ],
+    "base_response": "Si usas información de un video educativo para tu tarea, coloca al final del texto entre paréntesis el nombre del creador del contenido, el año de publicación del video y el enlace directo para que cualquiera pueda consultar la fuente original."
+  },
+  {
+    "intent_id": "citar_articulos_enciclopedias_digitales__",
+    "keywords": [
+      "cita",
+      "fuente",
+      "digital",
+      "enciclopedia",
+      "autor",
+      "articulo"
+    ],
+    "base_response": "Cuando cites un artículo de una enciclopedia digital para tu trabajo, anota el título del artículo, el nombre de la enciclopedia, el año de última actualización y la dirección del enlace, recordando siempre contrastar la información con otras fuentes confiables."
+  },
+  {
+    "intent_id": "citar_entrevistas_testimonios__",
+    "keywords": [
+      "cita",
+      "testimonio",
+      "fuente",
+      "entrevista",
+      "trabajo",
+      "persona"
+    ],
+    "base_response": "Si incluyes información de una entrevista o testimonio que hiciste a una persona para tu trabajo, cita su nombre completo, la fecha en que realizaste la entrevista y el medio por el que la obtuviste, ya sea presencial o digital."
+  },
+  {
+    "intent_id": "ensenanza_registro_formal_ensayos__",
+    "keywords": [
+      "escribir",
+      "ensayo",
+      "registro",
+      "formal",
+      "estudiante"
+    ],
+    "base_response": "El registro formal en ensayos es el uso de lenguaje preciso, sin modismos coloquiales ni abreviaturas informales, adaptado a la audiencia objetivo. Los estudiantes deben evitar expresiones como chévere u ok y usar términos adecuados al tema tratado."
+  },
+  {
+    "intent_id": "diferencias_registro_formal_informal_ensayos__",
+    "keywords": [
+      "ensayo",
+      "informal",
+      "registro",
+      "formal",
+      "diferencias"
+    ],
+    "base_response": "Es clave diferenciar el registro formal del informal al escribir ensayos: el primero se usa para trabajos académicos, con estructura clara y respeto por las normas gramaticales, mientras que el informal se reserva para chats o mensajes a amigos cercanos."
+  },
+  {
+    "intent_id": "errores_comunes_registro_formal_ensayos__",
+    "keywords": [
+      "ensayo",
+      "registro",
+      "formal",
+      "evitar",
+      "errores"
+    ],
+    "base_response": "Los errores más frecuentes al usar registro formal en ensayos son incluir jerga innecesaria, frases hechas coloquiales o faltas de ortografía. Evitarlos mejora la claridad del texto y demuestra dominio del tema ante profesores y revisores."
+  },
+  {
+    "intent_id": "practicas_dominio_registro_formal_ensayos__",
+    "keywords": [
+      "ensayo",
+      "registro",
+      "formal",
+      "estudiante",
+      "practicas"
+    ],
+    "base_response": "Para dominar el registro formal en ensayos, los estudiantes pueden reescribir fragmentos de textos informales usando lenguaje adecuado, consultar diccionarios de términos académicos, revisar ejemplos de ensayos publicados por autores reconocidos y pedir retroalimentación a sus profesores."
+  },
+  {
+    "intent_id": "importancia_registro_formal_ensayos_academicos__",
+    "keywords": [
+      "ensayo",
+      "registro",
+      "formal",
+      "importancia",
+      "academico"
+    ],
+    "base_response": "Usar registro formal en ensayos académicos es fundamental para transmitir credibilidad, respetar las convenciones de la escritura científica, facilitar la comprensión del mensaje por parte de lectores especializados y cumplir con los requisitos de evaluación docente."
+  },
+  {
+    "intent_id": "pregunta_sorpresa_introduccion_enganche__",
+    "keywords": [
+      "texto",
+      "despertar",
+      "curiosidad",
+      "lector",
+      "pregunta",
+      "sorpresa"
+    ],
+    "base_response": "Consiste en abrir cualquier texto con una pregunta inesperada relacionada con el tema, que despierte la curiosidad natural de los estudiantes de 9 a 14 años y les impulse a seguir leyendo para encontrar la respuesta que buscan."
+  },
+  {
+    "intent_id": "anecdota_corta_introduccion_enganche__",
+    "keywords": [
+      "texto",
+      "enganche",
+      "vida",
+      "anecdota",
+      "estudiante",
+      "corta"
+    ],
+    "base_response": "Se basa en iniciar el texto con una anécdota breve y muy cercana a las experiencias cotidianas de los estudiantes de 9 a 14 años, para que se identifiquen con el contenido desde el primer párrafo y quieran seguir conociendo más."
+  },
+  {
+    "intent_id": "dato_curioso_introduccion_enganche__",
+    "keywords": [
+      "texto",
+      "adaptado",
+      "edad",
+      "lector",
+      "dato",
+      "curioso"
+    ],
+    "base_response": "Consiste en comenzar el escrito con un dato llamativo y adaptado a los intereses de los estudiantes de 9 a 14 años, que rompa sus expectativas sobre el tema y les genere la necesidad de seguir leyendo para ampliar la información."
+  },
+  {
+    "intent_id": "escenario_imaginario_introduccion_enganche__",
+    "keywords": [
+      "texto",
+      "enganche",
+      "imaginario",
+      "escenario",
+      "estudiante",
+      "historia"
+    ],
+    "base_response": "Propone abrir el texto con un escenario imaginario adaptado a la edad de los estudiantes de 9 a 14 años, que les invite a meterse de lleno en la historia o el tema tratado desde las primeras líneas del escrito."
+  },
+  {
+    "intent_id": "reto_pequeno_introduccion_enganche__",
+    "keywords": [
+      "texto",
+      "motivacion",
+      "tema",
+      "estudiante",
+      "reto",
+      "pequeno"
+    ],
+    "base_response": "Se trata de iniciar el texto con un reto pequeño y divertido relacionado con el tema a tratar, adaptado a los conocimientos de los estudiantes de 9 a 14 años, para que se motiven por descubrir cómo se resuelve a lo largo del escrito."
+  },
+  {
+    "intent_id": "cierre_emocional_ensayo_infantil__a",
+    "keywords": [
+      "ejemplo",
+      "emocion",
+      "ensayo",
+      "recordar",
+      "cierre"
+    ],
+    "base_response": "Un cierre emocional conecta la idea principal del ensayo con un recuerdo personal o una experiencia cercana al lector, generando identificación y haciendo que el mensaje se quede grabado en su memoria de forma sencilla y divertida."
+  },
+  {
+    "intent_id": "cierre_pregunta_reflexiva_ensayo__b",
+    "keywords": [
+      "ensayo",
+      "pensar",
+      "lector",
+      "pregunta",
+      "reflexion"
+    ],
+    "base_response": "Incluir una pregunta reflexiva al final del ensayo invita al lector a seguir pensando sobre el tema tratado, sin dar respuestas cerradas, y hace que el texto tenga un final memorable y cercano a sus intereses."
+  },
+  {
+    "intent_id": "cierre_ejemplo_concreto_ensayo__c",
+    "keywords": [
+      "ejemplo",
+      "ensayo",
+      "ilustrar",
+      "concreto",
+      "cierre"
+    ],
+    "base_response": "Terminar el ensayo con un ejemplo concreto y cercano a la vida diaria de niños y adolescentes ilustra la idea principal del texto, facilitando su comprensión y haciendo que el mensaje sea más fácil de recordar."
+  },
+  {
+    "intent_id": "cierre_llamado_accion_simple_ensayo__d",
+    "keywords": [
+      "ensayo",
+      "llamado",
+      "aplicar",
+      "accion",
+      "cierre"
+    ],
+    "base_response": "Un cierre con un llamado a la acción simple y adaptado a la edad de los lectores invita a poner en práctica lo aprendido en el ensayo, generando un impacto duradero y útil en su día a día."
+  },
+  {
+    "intent_id": "cierre_dato_curioso_ensayo__e",
+    "keywords": [
+      "cierre",
+      "ensayo",
+      "curioso",
+      "dato",
+      "sorprender"
+    ],
+    "base_response": "Cerrar el ensayo con un dato curioso y poco conocido relacionado con el tema tratado sorprende al lector y refuerza la información principal del texto, haciendo que el final sea ameno y fácil de recordar."
+  },
+  {
+    "intent_id": "revision_ortografica_deteccion_errores_frecuentes__",
+    "keywords": [
+      "corregir",
+      "entregas",
+      "frecuencia",
+      "errores",
+      "ortografia"
+    ],
+    "base_response": "Antes de entregar cualquier trabajo, identifica los errores ortográficos que cometes con más frecuencia, como confusiones entre b y v, o palabras con h, para corregirlos de forma consciente y reducir fallos en tus próximas entregas."
+  },
+  {
+    "intent_id": "revision_ortografica_lectura_voz_alta__",
+    "keywords": [
+      "corregir",
+      "lectura",
+      "voz",
+      "alta",
+      "errores"
+    ],
+    "base_response": "Lee tu texto en voz alta antes de entregarlo, ya que el oído detecta errores que el ojo suele pasar por alto, como repeticiones de palabras, faltas de acentuación o conjugaciones verbales equivocadas, y así evitas calificaciones negativas por fallos evitables."
+  },
+  {
+    "intent_id": "revision_ortografica_registro_errores_recurrentes__",
+    "keywords": [
+      "revision",
+      "recurrentes",
+      "lista",
+      "errores",
+      "ortografia"
+    ],
+    "base_response": "Crea una lista personalizada con los errores ortográficos que cometes de forma recurrente en tus trabajos, revísala antes de cada entrega y úsala como guía para no volver a repetir esos fallos y mejorar tu dominio de la ortografía de forma progresiva."
+  },
+  {
+    "intent_id": "revision_ortografica_uso_herramientas_digitales__",
+    "keywords": [
+      "digitales",
+      "herramientas",
+      "aprendizaje",
+      "correcciones",
+      "reglas"
+    ],
+    "base_response": "Utiliza correctores ortográficos digitales como apoyo antes de entregar tus trabajos, pero no copies las correcciones sin entenderlas: anota las reglas que desconocías para aprender de tus errores y así evitas volver a cometer el mismo fallo en futuras actividades."
+  },
+  {
+    "intent_id": "revision_ortografica_revision_por_bloques__",
+    "keywords": [
+      "revision",
+      "bloques",
+      "errores",
+      "parrafos",
+      "ortografia"
+    ],
+    "base_response": "Revisa tu texto por bloques o párrafos separados antes de entregarlo, en lugar de leerlo completo de una sola vez, para concentrarte mejor en detectar faltas de ortografía y gramática y evitar que se te pasen errores por cansancio visual."
+  },
+  {
+    "intent_id": "explicacion_conectores_finalidad__",
+    "keywords": [
+      "proposito",
+      "finalidad",
+      "redaccion",
+      "accion",
+      "conectores"
+    ],
+    "base_response": "Los conectores de finalidad son palabras o frases que expresan el propósito que persigue una acción o idea dentro de un texto, permitiendo al lector entender la intención detrás de lo que se escribe de forma clara."
+  },
+  {
+    "intent_id": "diferenciacion_conectores_finalidad_otros__",
+    "keywords": [
+      "causa",
+      "finalidad",
+      "consecuencia",
+      "diferenciacion",
+      "conectores"
+    ],
+    "base_response": "A diferencia de los conectores de causa o consecuencia, los de finalidad no explican por qué ocurre algo ni su resultado, sino que indican el objetivo que se busca realizar al llevar a cabo una acción o mencionar una idea."
+  },
+  {
+    "intent_id": "ejemplos_cotidianos_conectores_finalidad__",
+    "keywords": [
+      "ejemplos",
+      "finalidad",
+      "uso",
+      "conectores",
+      "cotidiano"
+    ],
+    "base_response": "Puedes usar conectores de finalidad como para que, a fin de que o con el objetivo de en mensajes a tus amigos, redacciones escolares o publicaciones en redes, para explicar lo que quieres conseguir con tus acciones."
+  },
+  {
+    "intent_id": "errores_comunes_conectores_finalidad__",
+    "keywords": [
+      "concordancia",
+      "finalidad",
+      "conectores",
+      "errores",
+      "gramatica"
+    ],
+    "base_response": "Un error muy común al usar conectores de finalidad es olvidar la concordancia de modo y tiempo entre la frase principal y la subordinada que introduce el conector, lo que hace que el texto suene incoherente."
+  },
+  {
+    "intent_id": "actividad_practica_reconocimiento_finalidad__",
+    "keywords": [
+      "actividad",
+      "finalidad",
+      "reconocimiento",
+      "practica",
+      "conectores"
+    ],
+    "base_response": "Para practicar el uso de conectores de finalidad, busca en tus libros de lectura favoritos oraciones que expliquen el propósito de un personaje, subráyalas, anota el conector que se usó y clasifícalo en cada caso."
+  },
+  {
+    "intent_id": "adjetivos_descripcion_personajes_cuentos__",
+    "keywords": [
+      "adjetivos",
+      "cuentos",
+      "narracion",
+      "personajes",
+      "descripcion"
+    ],
+    "base_response": "Los adjetivos permiten dar características concretas a los personajes de los cuentos, evitando descripciones genéricas. Ayudan al lector a imaginar su aspecto, personalidad y acciones, sin necesidad de explicar cada detalle de forma explícita. Esto mejora la comprensión lectora y la creatividad al escribir textos narrativos."
+  },
+  {
+    "intent_id": "adjetivos_ambientacion_escenarios_lugares__",
+    "keywords": [
+      "ambientacion",
+      "adjetivos",
+      "escenarios",
+      "lugares",
+      "descripcion"
+    ],
+    "base_response": "Los adjetivos son claves para ambientar escenarios en textos, ya que aportan detalles sobre el color, el tamaño, la textura o el estado de los lugares. Esto permite que el lector visualice el espacio de forma clara y viva la historia con mayor intensidad, sin necesidad de explicaciones extensas."
+  },
+  {
+    "intent_id": "diferencias_adjetivos_calificativos_posesivos__",
+    "keywords": [
+      "sustantivos",
+      "adjetivos",
+      "posesivos",
+      "calificativos",
+      "descripcion"
+    ],
+    "base_response": "Es fundamental diferenciar los adjetivos calificativos, que expresan cualidades de los sustantivos, de los posesivos, que indican pertenencia. Ambos cumplen roles distintos en las descripciones, aportando información precisa sobre lo que se narra. Su uso adecuado evita confusiones y enriquece el mensaje."
+  },
+  {
+    "intent_id": "adjetivos_ordenar_clasificar_objetos__",
+    "keywords": [
+      "adjetivos",
+      "ordenar",
+      "descripcion",
+      "objetos",
+      "clasificar"
+    ],
+    "base_response": "Los adjetivos también sirven para ordenar y clasificar objetos en las descripciones, indicando su posición, tamaño o categoría. Esto ayuda a organizar la información de forma clara, facilitando que el receptor entienda lo que se explica sin esfuerzo, especialmente en textos instructivos o de divulgación."
+  },
+  {
+    "intent_id": "adjetivos_describir_emociones_estados_animo__",
+    "keywords": [
+      "estados",
+      "adjetivos",
+      "emociones",
+      "descripcion",
+      "animo"
+    ],
+    "base_response": "Los adjetivos permiten describir emociones y estados de ánimo de forma precisa, evitando frases vagas como 'estaba contento'. Usar términos específicos como 'eufórico' o 'melancólico' hace que las descripciones de sentimientos sean más realistas y cercanas. Esto favorece el desarrollo de la inteligencia emocional."
+  },
+  {
+    "intent_id": "esquema_previo_texto_expositivo___",
+    "keywords": [
+      "ordenar",
+      "preescritura",
+      "ideas",
+      "esquema",
+      "contenido"
+    ],
+    "base_response": "Antes de redactar el texto expositivo, elabora un esquema sencillo donde anotes las ideas principales en orden lógico. Esta herramienta evita olvidos y ayuda a que la información sea clara, organizada y fácil de entender para el lector."
+  },
+  {
+    "intent_id": "secuencia_partes_texto_expositivo___",
+    "keywords": [
+      "introduccion",
+      "desarrollo",
+      "estructura",
+      "cierre",
+      "organizacion"
+    ],
+    "base_response": "Todo texto expositivo sigue una secuencia fija de tres partes: la introducción presenta el tema, el desarrollo explica la información con detalles y ejemplos, y el cierre resume lo más importante del contenido para el lector."
+  },
+  {
+    "intent_id": "conectores_union_texto_expositivo___",
+    "keywords": [
+      "texto",
+      "cohesion",
+      "conectores",
+      "union",
+      "parrafos"
+    ],
+    "base_response": "Usa conectores lógicos entre párrafos y oraciones para unir las ideas del texto expositivo. Palabras como primero, además o por último dan cohesión y hacen que la lectura sea fluida y comprensible para todos los lectores."
+  },
+  {
+    "intent_id": "idea_principal_parrafo_expositivo___",
+    "keywords": [
+      "idea",
+      "estructura",
+      "principal",
+      "parrafo",
+      "informacion"
+    ],
+    "base_response": "Cada párrafo del texto expositivo debe incluir solo una idea principal, acompañada de detalles que la expliquen. Esta regla evita confusión y hace que la información sea más fácil de seguir y entender por el lector."
+  },
+  {
+    "intent_id": "lenguaje_publico_objetivo_expositivo___",
+    "keywords": [
+      "claridad",
+      "objetivo",
+      "vocabulario",
+      "publico",
+      "lenguaje"
+    ],
+    "base_response": "Al estructurar el texto expositivo, adapta el vocabulario y la complejidad de las oraciones al público al que te diriges. Usa términos sencillos si escribes para niños, y más técnicos si el lector es especialista en el tema."
+  },
+  {
+    "intent_id": "dif_tema_idea_principal_ejemplo_corto_",
+    "keywords": [
+      "texto",
+      "ejemplo",
+      "identificar",
+      "tema",
+      "ideaprincipal"
+    ],
+    "base_response": "El tema es el asunto general del que habla un texto, por ejemplo los animales de la selva. La idea principal es el mensaje específico que el autor quiere transmitir sobre ese tema, como que los animales deben proteger su hábitat."
+  },
+  {
+    "intent_id": "dif_tema_idea_principal_pregunta_clave_",
+    "keywords": [
+      "texto",
+      "preguntaclave",
+      "responder",
+      "tema",
+      "ideaprincipal"
+    ],
+    "base_response": "Para diferenciarlos, pregúntate qué habla el texto en general: esa respuesta es el tema. Si preguntas qué quiere decir el autor exactamente sobre ese asunto, la respuesta es siempre la idea principal completa del texto."
+  },
+  {
+    "intent_id": "dif_tema_idea_principal_resumen_parrafo_",
+    "keywords": [
+      "tema",
+      "ideaprincipal",
+      "parrafo",
+      "resumen",
+      "extraer"
+    ],
+    "base_response": "Al hacer un resumen de un párrafo, primero identifica el tema: el asunto general que trata. Luego extrae la idea principal: la información más importante que el autor expresa sobre ese tema en el fragmento."
+  },
+  {
+    "intent_id": "dif_tema_idea_principal_palabras_clave_",
+    "keywords": [
+      "texto",
+      "detectar",
+      "palabrasclave",
+      "tema",
+      "ideaprincipal"
+    ],
+    "base_response": "Las palabras clave del texto te ayudan a diferenciar ambos conceptos: el tema se forma con las palabras generales del asunto, mientras que la idea principal se apoya en las palabras que expresan el mensaje específico del autor."
+  },
+  {
+    "intent_id": "dif_tema_idea_principal_preguntas_comprension_",
+    "keywords": [
+      "preguntascomprension",
+      "lectura",
+      "tema",
+      "ideaprincipal",
+      "diferenciar"
+    ],
+    "base_response": "En las preguntas de comprensión lectora, si te piden el tema debes responder con el asunto general del texto. Si te piden la idea principal, debes exponer el mensaje específico que el autor desarrolla sobre ese asunto."
+  },
+  {
+    "intent_id": "seleccionar_ideas_secundarias_alineadas_tesis__",
+    "keywords": [
+      "secundarias",
+      "evitar",
+      "ideas",
+      "seleccionar",
+      "tesis"
+    ],
+    "base_response": "Aprende a seleccionar ideas secundarias que se alineen directamente con la tesis central de tu texto expositivo o argumentativo, evitando agregar información irrelevante que desvíe el foco del argumento principal que quieres demostrar a tu lector."
+  },
+  {
+    "intent_id": "categorizar_ideas_secundarias_por_relevancia__",
+    "keywords": [
+      "categorizar",
+      "refuerzo",
+      "relevancia",
+      "secundarias",
+      "ideas",
+      "tesis"
+    ],
+    "base_response": "Clasifica las ideas secundarias que recopiles según su nivel de relevancia para apoyar la tesis de tu trabajo, priorizando aquellas que aportan datos concretos, ejemplos o testimonios que refuercen tu postura sin repetir información innecesaria para el lector."
+  },
+  {
+    "intent_id": "conectar_ideas_secundarias_nexos_logicos__",
+    "keywords": [
+      "razonamiento",
+      "secundarias",
+      "ideas",
+      "conectar",
+      "logicos",
+      "nexos"
+    ],
+    "base_response": "Conecta las ideas secundarias entre sí usando nexos lógicos adecuados, para que formen una cadena de argumentos sólidos y válidos que respalden de forma clara la tesis sin dejar huecos en la línea de razonamiento que presentas a tu público objetivo."
+  },
+  {
+    "intent_id": "descartar_ideas_secundarias_irrelevantes__",
+    "keywords": [
+      "identificar",
+      "descartar",
+      "secundarias",
+      "coherencia",
+      "ideas",
+      "tesis"
+    ],
+    "base_response": "Identifica y descarta las ideas secundarias que no guardan relación directa con la tesis de tu escrito argumentativo, para evitar que tu texto pierda coherencia y el lector no entienda el argumento central que estás defendiendo."
+  },
+  {
+    "intent_id": "usar_ideas_secundarias_como_evidencia__",
+    "keywords": [
+      "persuasion",
+      "secundarias",
+      "utilizar",
+      "evidencia",
+      "ideas",
+      "tesis"
+    ],
+    "base_response": "Utiliza ideas secundarias que aporten evidencia concreta y verificable (como datos, ejemplos de la vida real o testimonios de expertos) a la tesis, para hacer tu argumento más creíble y persuasivo para cualquier lector de tu trabajo académico."
+  },
+  {
+    "intent_id": "aprender_citar_fuentes_evitar_plagio__a",
+    "keywords": [
+      "originalidad",
+      "redaccion",
+      "citar",
+      "parafrasear",
+      "fuentes"
+    ],
+    "base_response": "Para evitar el plagio, siempre anota el autor y la página de cada información que copies. Cambia las palabras de los textos ajenos con tus propias frases y menciona de dónde sacaste los datos en tu trabajo."
+  },
+  {
+    "intent_id": "diferenciar_ideas_propias_ajenas_evitar_plagio__b",
+    "keywords": [
+      "investigacion",
+      "ajenas",
+      "propias",
+      "ideas",
+      "notas"
+    ],
+    "base_response": "Cuando busques información para tus trabajos, escribe primero tus propias ideas sobre el tema antes de leer textos de otras personas. Así evitas copiar frases sin darte cuenta, tu trabajo es más original y demuestras lo que aprendiste."
+  },
+  {
+    "intent_id": "usar_comillas_citas_textuales_evitar_plagio__c",
+    "keywords": [
+      "citas",
+      "textuales",
+      "comillas",
+      "referencia",
+      "autor"
+    ],
+    "base_response": "Si quieres poner una frase igualita a la de un autor en tu trabajo, usa comillas al principio y al final de ella. No olvides escribir el nombre del autor y la fuente de donde sacaste la cita."
+  },
+  {
+    "intent_id": "evitar_copiar_trabajos_companeros_evitar_plagio__d",
+    "keywords": [
+      "originalidad",
+      "fraude",
+      "redaccion",
+      "trabajos",
+      "companeros"
+    ],
+    "base_response": "Copiar el trabajo de un compañero también es plagio, incluso si te deja ver sus apuntes. Haz tu propia redacción con la información que investigues, así aprendes más y no cometes fraude en tus tareas escolares."
+  },
+  {
+    "intent_id": "revisar_trabajo_detectar_copias_accidentales_evitar_plagio__e",
+    "keywords": [
+      "originalidad",
+      "copias",
+      "accidentales",
+      "fuentes",
+      "revisar"
+    ],
+    "base_response": "Antes de entregar tu trabajo escolar, revísalo bien para confirmar que todas las frases que escribiste son tuyas o están citadas de forma correcta. Así evitas plagios accidentales sin querer y obtienes buena nota por tu esfuerzo."
+  },
+  {
+    "intent_id": "concepto_sinonimos_evitar_repeticion__",
+    "keywords": [
+      "claridad",
+      "palabras",
+      "detectar",
+      "sinonimos",
+      "mejorar"
+    ],
+    "base_response": "Aprender a detectar palabras que se repiten en un párrafo y sustituirlas por sinónimos mejora la claridad y evita la monotonía, permitiendo que el lector se mantenga interesado y el mensaje sea más preciso y variado."
+  }
+]
