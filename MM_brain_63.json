@@ -1,0 +1,3302 @@
+[
+  {
+    "intent_id": "idea_principal_texto",
+    "keywords": [
+      "idea",
+      "principal",
+      "mensaje",
+      "esencia",
+      "texto"
+    ],
+    "base_response": "La idea principal es el mensaje más importante que el autor quiere transmitir en un texto. Es el núcleo de la información, alrededor del cual se desarrollan los demás detalles. Identificarla ayuda a comprender el propósito general de la lectura de forma clara y precisa."
+  },
+  {
+    "intent_id": "ideas_secundarias_apoyo",
+    "keywords": [
+      "ideas",
+      "secundarias",
+      "detalles",
+      "apoyo",
+      "ejemplos"
+    ],
+    "base_response": "Las ideas secundarias son aquellas que complementan, explican o ejemplifican a la idea principal. Aportan detalles específicos que enriquecen el texto, permitiendo al lector obtener una visión más profunda y detallada del tema central expuesto por el autor original."
+  },
+  {
+    "intent_id": "inferencia_lectura",
+    "keywords": [
+      "inferencia",
+      "deduccion",
+      "pistas",
+      "conclusion",
+      "leer"
+    ],
+    "base_response": "Hacer una inferencia consiste en deducir información que no está escrita explícitamente en el texto. Se logra conectando las pistas que da el autor con los conocimientos previos del lector, permitiendo descubrir mensajes ocultos o conclusiones lógicas muy valiosas."
+  },
+  {
+    "intent_id": "resumen_estructurado",
+    "keywords": [
+      "resumen",
+      "sintesis",
+      "breve",
+      "esencial",
+      "redaccion"
+    ],
+    "base_response": "Un resumen es un texto breve que expone las ideas más importantes de un documento original. Debe ser objetivo, claro y conservar la esencia del mensaje sin incluir opiniones personales, facilitando el repaso y la comprensión global del tema abordado."
+  },
+  {
+    "intent_id": "analisis_de_personajes",
+    "keywords": [
+      "analisis",
+      "personajes",
+      "motivacion",
+      "actitudes",
+      "historia"
+    ],
+    "base_response": "El análisis de personajes implica estudiar sus acciones, pensamientos y motivaciones dentro de una narración. Comprender por qué actúan de cierta manera ayuda a profundizar en la trama y a interpretar mejor los conflictos y resoluciones de la historia principal."
+  },
+  {
+    "intent_id": "lectura_critica_proposito",
+    "keywords": [
+      "critica",
+      "proposito",
+      "autor",
+      "cuestionar",
+      "analisis"
+    ],
+    "base_response": "La lectura crítica requiere analizar y cuestionar el texto, buscando identificar el verdadero propósito del autor. No solo se trata de entender lo que dice, sino de evaluar su intención, los argumentos presentados y la validez general de sus afirmaciones."
+  },
+  {
+    "intent_id": "contexto_historico_lectura",
+    "keywords": [
+      "contexto",
+      "historia",
+      "epoca",
+      "ambiente",
+      "comprension"
+    ],
+    "base_response": "El contexto histórico se refiere a la época y circunstancias en las que se desarrolla o se escribió un texto. Conocer estos detalles permite al lector entender mejor las costumbres, valores y decisiones de los personajes o del propio autor."
+  },
+  {
+    "intent_id": "pistas_contextuales_vocabulario",
+    "keywords": [
+      "pistas",
+      "contexto",
+      "vocabulario",
+      "significado",
+      "palabras"
+    ],
+    "base_response": "Las pistas contextuales son palabras o frases cercanas a un término desconocido que ayudan a deducir su significado. Utilizar estas pistas es una estrategia excelente para enriquecer el vocabulario sin tener que interrumpir la lectura constantemente para buscar en diccionarios."
+  },
+  {
+    "intent_id": "hechos_vs_opiniones",
+    "keywords": [
+      "hechos",
+      "opiniones",
+      "diferencia",
+      "objetividad",
+      "subjetividad"
+    ],
+    "base_response": "Diferenciar hechos de opiniones es fundamental en la comprensión lectora. Un hecho es una afirmación comprobable y objetiva, mientras que una opinión refleja creencias, sentimientos o juicios subjetivos del autor, los cuales pueden variar completamente de una persona a otra."
+  },
+  {
+    "intent_id": "estructura_narrativa_basica",
+    "keywords": [
+      "inicio",
+      "nudo",
+      "desenlace",
+      "estructura",
+      "historia"
+    ],
+    "base_response": "La estructura narrativa clásica se compone de inicio, nudo y desenlace. El inicio presenta a los personajes y el entorno, el nudo introduce el conflicto principal que deben enfrentar, y el desenlace resuelve el problema cerrando la historia de manera coherente."
+  },
+  {
+    "intent_id": "tono_del_autor",
+    "keywords": [
+      "tono",
+      "actitud",
+      "emocion",
+      "autor",
+      "escrito"
+    ],
+    "base_response": "El tono del autor es la actitud o emoción que transmite a través de sus palabras. Puede ser humorístico, serio, irónico o triste. Identificar el tono ayuda al lector a conectar emocionalmente y a comprender la verdadera intención comunicativa del texto."
+  },
+  {
+    "intent_id": "tecnica_de_subrayado",
+    "keywords": [
+      "subrayado",
+      "destacar",
+      "ideas",
+      "tecnica",
+      "estudio"
+    ],
+    "base_response": "El subrayado es una técnica de estudio que consiste en resaltar las palabras o frases más importantes de un texto. Permite localizar rápidamente la información clave, facilitando posteriores repasos y la elaboración de esquemas o resúmenes mucho más estructurados."
+  },
+  {
+    "intent_id": "parafraseo_efectivo",
+    "keywords": [
+      "parafraseo",
+      "explicar",
+      "palabras",
+      "comprension",
+      "texto"
+    ],
+    "base_response": "Parafrasear es explicar el mensaje de un texto utilizando las propias palabras, sin alterar su significado original. Es una excelente manera de demostrar que se ha comprendido realmente la información, facilitando su memorización y explicación a otras personas de forma natural."
+  },
+  {
+    "intent_id": "lenguaje_figurado_metafora",
+    "keywords": [
+      "metafora",
+      "figura",
+      "lenguaje",
+      "comparacion",
+      "poesia"
+    ],
+    "base_response": "La metáfora es una figura literaria que compara dos elementos diferentes pero que comparten alguna similitud, sin usar nexos comparativos. Su uso enriquece la lectura al despertar la imaginación, exigiendo al lector interpretar el significado más allá de las palabras literales."
+  },
+  {
+    "intent_id": "confiabilidad_de_fuentes",
+    "keywords": [
+      "fuentes",
+      "confianza",
+      "veracidad",
+      "investigacion",
+      "autor"
+    ],
+    "base_response": "Evaluar la confiabilidad de las fuentes implica verificar quién es el autor, la actualidad de la información y si está respaldada por evidencia. Esta habilidad crítica evita caer en la desinformación y garantiza que el conocimiento adquirido sea verdaderamente certero."
+  },
+  {
+    "intent_id": "conexion_texto_mundo",
+    "keywords": [
+      "conexion",
+      "texto",
+      "mundo",
+      "realidad",
+      "conocimiento"
+    ],
+    "base_response": "Establecer conexiones entre el texto y el mundo significa relacionar lo leído con eventos actuales, históricos o fenómenos globales. Esto amplía la perspectiva del estudiante, dándole mayor relevancia a la lectura al ver su aplicación directa en la vida real."
+  },
+  {
+    "intent_id": "causa_y_efecto",
+    "keywords": [
+      "causa",
+      "efecto",
+      "consecuencia",
+      "relacion",
+      "sucesos"
+    ],
+    "base_response": "La relación de causa y efecto explica por qué ocurre un suceso y cuáles son sus consecuencias. Identificar estas relaciones en una lectura permite entender la lógica detrás de las acciones de los personajes o el desarrollo de los eventos narrados."
+  },
+  {
+    "intent_id": "lectura_de_graficos",
+    "keywords": [
+      "graficos",
+      "visual",
+      "informacion",
+      "esquemas",
+      "datos"
+    ],
+    "base_response": "La lectura de gráficos e ilustraciones es vital para complementar el texto escrito. Estas representaciones visuales sintetizan información compleja, facilitando la comprensión rápida de datos numéricos, procesos o jerarquías que serían difíciles de asimilar únicamente leyendo densos párrafos expositivos."
+  },
+  {
+    "intent_id": "intencion_comunicativa_afiches",
+    "keywords": [
+      "afiches",
+      "intencion",
+      "comunicacion",
+      "publicidad",
+      "persuasion"
+    ],
+    "base_response": "Los afiches y anuncios publicitarios tienen una intención comunicativa muy clara, generalmente enfocada en persuadir o informar al receptor. Analizar sus imágenes, colores y eslóganes permite desarrollar una lectura crítica frente a los mensajes cotidianos que intentan influir en nosotros."
+  },
+  {
+    "intent_id": "comprension_textos_instructivos",
+    "keywords": [
+      "instructivos",
+      "pasos",
+      "manual",
+      "proceso",
+      "orden"
+    ],
+    "base_response": "Los textos instructivos presentan una serie de pasos ordenados lógicamente para lograr un objetivo específico. Su lectura requiere seguir instrucciones con precisión y atención al detalle, desarrollando la capacidad del estudiante para ejecutar procesos de forma autónoma y completamente metódica."
+  },
+  {
+    "intent_id": "estrategia_pre_lectura",
+    "keywords": [
+      "prelectura",
+      "estrategia",
+      "anticipacion",
+      "titulo",
+      "exploracion"
+    ],
+    "base_response": "La pre-lectura es una exploración inicial del texto antes de leerlo detalladamente. Al revisar títulos, subtítulos, imágenes y palabras destacadas, el lector activa sus conocimientos previos y establece expectativas, lo que facilita enormemente la comprensión durante la lectura principal."
+  },
+  {
+    "intent_id": "identificacion_narrador",
+    "keywords": [
+      "narrador",
+      "perspectiva",
+      "protagonista",
+      "testigo",
+      "historia"
+    ],
+    "base_response": "Identificar al narrador es fundamental para comprender desde qué perspectiva se cuenta la historia. Puede ser un personaje dentro de la trama narrando en primera persona, o una voz externa y omnisciente, lo cual influye directamente en la subjetividad del relato."
+  },
+  {
+    "intent_id": "deduccion_moraleja_fabula",
+    "keywords": [
+      "moraleja",
+      "fabula",
+      "ensenanza",
+      "valores",
+      "mensaje"
+    ],
+    "base_response": "La moraleja es la enseñanza ética o moral que se extrae de una fábula. Deducirla exige que el estudiante analice las acciones de los personajes, generalmente animales, y reflexione sobre las consecuencias de sus actos aplicadas a los valores humanos cotidianos."
+  },
+  {
+    "intent_id": "lectura_skimming_scanning",
+    "keywords": [
+      "skimming",
+      "scanning",
+      "rapida",
+      "busqueda",
+      "vistazo"
+    ],
+    "base_response": "Las técnicas de skimming y scanning consisten en realizar una lectura rápida para captar la idea general o buscar un dato específico, respectivamente. Son herramientas indispensables para manejar grandes volúmenes de información eficientemente sin tener que leer cada palabra."
+  },
+  {
+    "intent_id": "comprension_biografias",
+    "keywords": [
+      "biografia",
+      "vida",
+      "personaje",
+      "historia",
+      "cronologia"
+    ],
+    "base_response": "Las biografías relatan los sucesos más importantes en la vida de una persona real. Leerlas desarrolla la comprensión cronológica y permite apreciar los contextos históricos y sociales que influyeron en las decisiones y logros de grandes figuras de la historia humana."
+  },
+  {
+    "intent_id": "uso_conectores_logicos",
+    "keywords": [
+      "conectores",
+      "enlaces",
+      "coherencia",
+      "logica",
+      "oraciones"
+    ],
+    "base_response": "Los conectores lógicos son palabras que unen ideas dentro de un texto, indicando relaciones de causa, contraste, adición o tiempo. Prestar atención a estas palabras es esencial para seguir el hilo argumentativo del autor y comprender la estructura lógica completa."
+  },
+  {
+    "intent_id": "espacio_tiempo_narrativa",
+    "keywords": [
+      "espacio",
+      "tiempo",
+      "ambiente",
+      "narrativa",
+      "entorno"
+    ],
+    "base_response": "El espacio y el tiempo conforman el marco donde suceden los eventos de una narración. Analizar estos elementos ayuda a sumergirse en la historia, comprendiendo mejor el ambiente, el ritmo temporal y cómo el entorno afecta el comportamiento de los personajes."
+  },
+  {
+    "intent_id": "textos_argumentativos_basicos",
+    "keywords": [
+      "argumentos",
+      "tesis",
+      "persuadir",
+      "razonamiento",
+      "debate"
+    ],
+    "base_response": "Los textos argumentativos buscan convencer al lector sobre una postura específica u opinión. Requieren identificar la tesis principal y evaluar las razones o evidencias que presenta el autor para respaldarla, fomentando así el desarrollo de un pensamiento profundamente crítico y analítico."
+  },
+  {
+    "intent_id": "lectura_noticia_periodistica",
+    "keywords": [
+      "noticia",
+      "periodismo",
+      "hechos",
+      "informacion",
+      "actualidad"
+    ],
+    "base_response": "La lectura de noticias requiere identificar los datos esenciales: qué pasó, quiénes participaron, cuándo, dónde y por qué. Esto desarrolla la habilidad de extraer información fáctica rápidamente y mantenerse informado de forma objetiva sobre los acontecimientos de la actualidad."
+  },
+  {
+    "intent_id": "elementos_texto_poetico",
+    "keywords": [
+      "poesia",
+      "versos",
+      "rimas",
+      "ritmo",
+      "emociones"
+    ],
+    "base_response": "La comprensión de textos poéticos implica prestar atención al ritmo, la rima y la métrica de los versos. La poesía utiliza un lenguaje muy expresivo y figurado, por lo que demanda una lectura pausada para interpretar correctamente los sentimientos del poeta."
+  },
+  {
+    "intent_id": "estrategia_post_lectura",
+    "keywords": [
+      "postlectura",
+      "reflexion",
+      "evaluacion",
+      "conclusion",
+      "aprendizaje"
+    ],
+    "base_response": "La post-lectura consiste en reflexionar sobre lo leído una vez finalizado el texto. Involucra actividades como responder preguntas, hacer esquemas o debatir, consolidando el aprendizaje y verificando qué tanta información se ha comprendido realmente y retenido en la memoria."
+  },
+  {
+    "intent_id": "identificacion_conflictos",
+    "keywords": [
+      "conflicto",
+      "problema",
+      "trama",
+      "obstaculo",
+      "desarrollo"
+    ],
+    "base_response": "Identificar el conflicto principal es vital en cualquier obra narrativa, ya que es el motor de la historia. Entender los obstáculos a los que se enfrentan los personajes ayuda a mantener el interés y comprender la resolución final del relato."
+  },
+  {
+    "intent_id": "lectura_de_ensayos",
+    "keywords": [
+      "ensayo",
+      "reflexion",
+      "argumento",
+      "postura",
+      "analisis"
+    ],
+    "base_response": "La lectura de ensayos requiere analizar la postura del autor frente a un tema específico. Combina la exposición de hechos con la argumentación subjetiva, por lo que el lector debe evaluar críticamente la solidez de las ideas planteadas a lo largo del texto."
+  },
+  {
+    "intent_id": "comprension_textos_cientificos",
+    "keywords": [
+      "ciencia",
+      "divulgacion",
+      "datos",
+      "hipotesis",
+      "conocimiento"
+    ],
+    "base_response": "Los textos de divulgación científica presentan conceptos complejos de manera accesible. Su lectura exige atención a los detalles técnicos, comprensión de vocabulario especializado y reconocimiento de la estructura lógica que va desde la hipótesis inicial hasta la conclusión sustentada con pruebas."
+  },
+  {
+    "intent_id": "analisis_de_titulares",
+    "keywords": [
+      "titulares",
+      "noticia",
+      "atencion",
+      "resumen",
+      "enganche"
+    ],
+    "base_response": "Analizar titulares es una práctica excelente para anticipar el contenido. Un buen titular resume la idea principal y busca captar la atención. Al leerlos críticamente, se puede evaluar si son informativos, sensacionalistas o engañosos respecto al contenido real del artículo."
+  },
+  {
+    "intent_id": "diferencia_tema_idea",
+    "keywords": [
+      "tema",
+      "idea",
+      "diferencia",
+      "asunto",
+      "mensaje"
+    ],
+    "base_response": "Es crucial diferenciar entre el tema y la idea principal. El tema es el asunto general del que trata el texto y se responde con una o dos palabras, mientras que la idea principal es la afirmación más importante que el autor hace sobre dicho tema."
+  },
+  {
+    "intent_id": "uso_diccionario_lectura",
+    "keywords": [
+      "diccionario",
+      "significado",
+      "vocabulario",
+      "ayuda",
+      "dudas"
+    ],
+    "base_response": "Aunque usar el contexto es ideal, el diccionario sigue siendo una herramienta fundamental para resolver dudas de vocabulario. Enseñar a buscar palabras desconocidas garantiza que no se pierda el hilo conductor y amplía progresivamente el léxico del estudiante de manera estructurada."
+  },
+  {
+    "intent_id": "textos_descriptivos",
+    "keywords": [
+      "descripcion",
+      "detalles",
+      "caracteristicas",
+      "adjetivos",
+      "imagen"
+    ],
+    "base_response": "Los textos descriptivos buscan pintar una imagen con palabras detallando características de personas, lugares u objetos. Su lectura requiere visualizar mentalmente los detalles aportados por el autor a través del abundante uso de adjetivos, creando una representación clara y sumamente vívida."
+  },
+  {
+    "intent_id": "elaboracion_mapas_conceptuales",
+    "keywords": [
+      "mapas",
+      "conceptos",
+      "organizador",
+      "jerarquia",
+      "esquema"
+    ],
+    "base_response": "Los mapas conceptuales son organizadores gráficos que ayudan a visualizar la relación jerárquica entre diferentes ideas de un texto. Elaborarlos después de la lectura facilita enormemente la asimilación estructural del conocimiento, mostrando visualmente cómo se conectan los conceptos clave."
+  },
+  {
+    "intent_id": "lectura_de_mitos",
+    "keywords": [
+      "mitos",
+      "origen",
+      "creencias",
+      "cultura",
+      "fantasia"
+    ],
+    "base_response": "La lectura de mitos y leyendas permite comprender cómo diferentes culturas explicaban el origen del mundo o fenómenos naturales antes de la ciencia. Exige una mente abierta para analizar el simbolismo y las creencias arraigadas en civilizaciones antiguas."
+  },
+  {
+    "intent_id": "comprension_obras_teatrales",
+    "keywords": [
+      "teatro",
+      "dialogo",
+      "acotaciones",
+      "escena",
+      "actuacion"
+    ],
+    "base_response": "Leer obras de teatro requiere atención especial a los diálogos y las acotaciones del autor. Al no tener un narrador constante, el lector debe inferir las emociones y el ambiente basándose únicamente en lo que dicen y cómo se mueven los personajes."
+  },
+  {
+    "intent_id": "identificacion_estereotipos",
+    "keywords": [
+      "estereotipos",
+      "prejuicios",
+      "critica",
+      "personajes",
+      "analisis"
+    ],
+    "base_response": "Identificar estereotipos en la lectura es clave para el pensamiento crítico. Consiste en reconocer representaciones simplificadas o prejuiciosas sobre grupos sociales, permitiendo al estudiante cuestionar estas construcciones culturales en lugar de aceptarlas pasivamente como verdades absolutas."
+  },
+  {
+    "intent_id": "textos_normativos_leyes",
+    "keywords": [
+      "normas",
+      "reglas",
+      "leyes",
+      "deberes",
+      "sociedad"
+    ],
+    "base_response": "Los textos normativos establecen reglas o leyes que regulan el comportamiento. Su lectura debe ser literal y muy cuidadosa, prestando atención a verbos imperativos, para comprender exactamente los derechos, obligaciones y prohibiciones que determinan la convivencia pacífica en sociedad."
+  },
+  {
+    "intent_id": "lectura_en_voz_alta",
+    "keywords": [
+      "voz",
+      "alta",
+      "fluidez",
+      "entonacion",
+      "ritmo"
+    ],
+    "base_response": "La lectura en voz alta mejora la fluidez, el ritmo y la entonación. Permite practicar la pronunciación correcta y respetar los signos de puntuación, lo cual se traduce directamente en una mejor comprensión oral y escrita del texto presentado."
+  },
+  {
+    "intent_id": "uso_signos_puntuacion",
+    "keywords": [
+      "puntuacion",
+      "pausas",
+      "comas",
+      "sentido",
+      "lectura"
+    ],
+    "base_response": "Los signos de puntuación son guías indispensables para el lector, indicando pausas y entonaciones. Ignorarlos o utilizarlos incorrectamente puede alterar por completo el significado de una oración, por lo que prestarles atención es básico para una comprensión lectora verdaderamente efectiva."
+  },
+  {
+    "intent_id": "comprension_ironia_sarcasmo",
+    "keywords": [
+      "ironia",
+      "sarcasmo",
+      "humor",
+      "opuesto",
+      "intencion"
+    ],
+    "base_response": "Comprender la ironía implica darse cuenta de que el autor está expresando lo contrario de lo que dice literalmente, a menudo con fines humorísticos o críticos. Captar estos matices requiere un alto nivel de atención al contexto y al tono general."
+  },
+  {
+    "intent_id": "textos_hibridos",
+    "keywords": [
+      "hibridos",
+      "mezcla",
+      "generos",
+      "informativo",
+      "narrativo"
+    ],
+    "base_response": "Los textos híbridos combinan características de diferentes géneros, como artículos periodísticos que incluyen narraciones literarias. Leerlos es un desafío interesante, ya que el estudiante debe adaptar sus estrategias de lectura a medida que el autor alterna entre informar objetivamente y narrar creativamente."
+  },
+  {
+    "intent_id": "reconocimiento_hiperboles",
+    "keywords": [
+      "hiperbole",
+      "exageracion",
+      "literatura",
+      "enfasis",
+      "recurso"
+    ],
+    "base_response": "La hipérbole es una exageración literaria utilizada para dar mayor énfasis a una idea o sentimiento. Reconocerla evita confusiones literales, permitiendo apreciar el efecto dramático, humorístico o impactante que el autor intenta generar en la mente del lector."
+  },
+  {
+    "intent_id": "lectura_cartas_formales",
+    "keywords": [
+      "cartas",
+      "formalidad",
+      "estructura",
+      "saludo",
+      "despedida"
+    ],
+    "base_response": "La lectura de cartas formales o correos electrónicos oficiales ayuda a reconocer estructuras predefinidas, como saludos institucionales y despedidas protocolarias. Permite comprender el propósito comunicativo en contextos académicos o profesionales, prestando atención al tono de respeto empleado por el remitente."
+  },
+  {
+    "intent_id": "analisis_de_imagenes",
+    "keywords": [
+      "imagenes",
+      "ilustracion",
+      "visual",
+      "apoyo",
+      "texto"
+    ],
+    "base_response": "El análisis detallado de las imágenes que acompañan al texto revela información adicional valiosa. Las ilustraciones no solo decoran, sino que a menudo aclaran conceptos complejos, muestran el entorno físico de la historia o reflejan emociones difíciles de expresar únicamente con palabras."
+  },
+  {
+    "intent_id": "comprension_de_epigrafes",
+    "keywords": [
+      "epigrafes",
+      "citas",
+      "introductory",
+      "pistas",
+      "capitulo"
+    ],
+    "base_response": "Los epígrafes son breves citas o frases colocadas al inicio de un texto o capítulo. Generalmente resumen la esencia de lo que sigue, ofreciendo al lector astuto una primera pista conceptual sobre el tema principal o la atmósfera de la obra."
+  },
+  {
+    "intent_id": "lectura_historietas_comics",
+    "keywords": [
+      "comics",
+      "historietas",
+      "vinetas",
+      "globos",
+      "texto"
+    ],
+    "base_response": "Leer historietas o cómics desarrolla la alfabetización visual. Requiere la habilidad de integrar el texto de los diálogos con la secuencia de imágenes narrativas presentadas en viñetas, decodificando simultáneamente gestos, expresiones faciales y elementos gráficos para entender la historia completa."
+  },
+  {
+    "intent_id": "identificacion_antagonista",
+    "keywords": [
+      "antagonista",
+      "villano",
+      "oponente",
+      "conflicto",
+      "personaje"
+    ],
+    "base_response": "El antagonista es el personaje o fuerza que se opone al protagonista. Identificar sus motivaciones es tan importante como entender al héroe, ya que sus acciones generan el conflicto central y dan profundidad psicológica y tensión a todo el desarrollo narrativo."
+  },
+  {
+    "intent_id": "textos_dialogados_entrevistas",
+    "keywords": [
+      "entrevista",
+      "dialogo",
+      "preguntas",
+      "respuestas",
+      "informacion"
+    ],
+    "base_response": "La lectura de entrevistas consiste en seguir el intercambio estructurado de preguntas y respuestas. Permite conocer de primera mano las opiniones, experiencias y conocimientos del entrevistado, exigiendo atención para diferenciar cuándo habla el periodista y cuándo responde el invitado principal."
+  },
+  {
+    "intent_id": "reconocimiento_de_analogias",
+    "keywords": [
+      "analogia",
+      "relacion",
+      "similitud",
+      "comparar",
+      "conceptos"
+    ],
+    "base_response": "Una analogía establece una relación de semejanza entre dos cosas distintas para explicar un concepto complejo de manera sencilla. Reconocerlas facilita el aprendizaje al permitir que el estudiante conecte una idea abstracta o nueva con algo que ya comprende perfectamente."
+  },
+  {
+    "intent_id": "lectura_de_resenas",
+    "keywords": [
+      "resena",
+      "critica",
+      "opinion",
+      "valoracion",
+      "obra"
+    ],
+    "base_response": "Las reseñas son textos cortos que resumen y valoran una obra literaria, película o producto. Su lectura ayuda a identificar la síntesis del argumento y la opinión personal del crítico, siendo una excelente guía para decidir si nos interesa la obra original."
+  },
+  {
+    "intent_id": "comprension_verbos_accion",
+    "keywords": [
+      "verbos",
+      "accion",
+      "movimiento",
+      "dinamismo",
+      "narrativa"
+    ],
+    "base_response": "Prestar atención a los verbos de acción ayuda a visualizar el movimiento y dinamismo dentro de una historia. Indican exactamente qué están haciendo los personajes, aportando ritmo a la narración e impulsando la trama hacia adelante de manera mucho más constante."
+  },
+  {
+    "intent_id": "lectura_folletos_informativos",
+    "keywords": [
+      "folletos",
+      "tripticos",
+      "informacion",
+      "diseno",
+      "rapida"
+    ],
+    "base_response": "Los folletos o trípticos presentan información de manera condensada y muy visual. Leerlos implica escanear rápidamente los bloques de texto separados por subtítulos, interpretando viñetas y gráficos para obtener datos útiles sobre salud, turismo o prevención de manera inmediata y sumamente práctica."
+  },
+  {
+    "intent_id": "interpretacion_refranes",
+    "keywords": [
+      "refranes",
+      "dichos",
+      "sabiduria",
+      "popular",
+      "metaforas"
+    ],
+    "base_response": "Los refranes son frases cortas que expresan sabiduría popular mediante metáforas. Interpretarlos exige comprender que su mensaje no es literal, sino una enseñanza general que se aplica a diversas situaciones de la vida cotidiana, enriqueciendo enormemente la comprensión lectora cultural e histórica."
+  },
+  {
+    "intent_id": "textos_expositivos_divulgacion",
+    "keywords": [
+      "expositivo",
+      "informar",
+      "objetividad",
+      "datos",
+      "explicacion"
+    ],
+    "base_response": "El texto expositivo tiene el propósito de informar y explicar un tema de forma clara y objetiva, sin incluir opiniones personales del autor. Su lectura es fundamental para adquirir nuevos conocimientos científicos, históricos o técnicos en el ámbito puramente escolar y académico."
+  },
+  {
+    "intent_id": "lectura_de_infografias",
+    "keywords": [
+      "infografia",
+      "datos",
+      "visualizacion",
+      "graficos",
+      "informacion"
+    ],
+    "base_response": "La lectura de infografías combina la decodificación de textos breves con la interpretación de imágenes y gráficos. Desarrolla la capacidad de sintetizar información compleja de manera visual, facilitando el aprendizaje rápido de datos estadísticos o procesos secuenciales en el aula."
+  },
+  {
+    "intent_id": "comprension_de_personificacion",
+    "keywords": [
+      "personificacion",
+      "objetos",
+      "humanos",
+      "literatura",
+      "recurso"
+    ],
+    "base_response": "La personificación es un recurso literario que atribuye características humanas a animales, objetos o fenómenos naturales. Su reconocimiento estimula la imaginación del lector infantil y adolescente, ayudándoles a comprender conceptos abstractos a través de imágenes familiares y comportamientos conocidos."
+  },
+  {
+    "intent_id": "analisis_de_moralejas_implicitas",
+    "keywords": [
+      "moraleja",
+      "implicita",
+      "oculta",
+      "deduccion",
+      "fabulas"
+    ],
+    "base_response": "A diferencia de las enseñanzas explícitas, las moralejas implícitas requieren un mayor esfuerzo analítico. El estudiante debe reflexionar sobre el final de la historia y el destino de los personajes para deducir por sí mismo el valor moral que el autor intenta transmitir sutilmente."
+  },
+  {
+    "intent_id": "identificacion_de_prejuicios",
+    "keywords": [
+      "prejuicios",
+      "sesgos",
+      "opinion",
+      "autor",
+      "critica"
+    ],
+    "base_response": "Identificar prejuicios en un texto es esencial para una lectura crítica avanzada. Implica detectar afirmaciones generalizadas o injustas que revelan el sesgo personal del autor, permitiendo al estudiante mantener una distancia objetiva y evaluar la validez real de los argumentos presentados."
+  },
+  {
+    "intent_id": "comprension_de_cronologias",
+    "keywords": [
+      "cronologia",
+      "tiempo",
+      "fechas",
+      "orden",
+      "historia"
+    ],
+    "base_response": "La comprensión cronológica implica ordenar mentalmente los eventos históricos o biográficos en el tiempo. Utilizar líneas de tiempo o fijarse cuidadosamente en las fechas y marcadores temporales del texto es fundamental para no perderse en narraciones retrospectivas o saltos temporales complejos."
+  },
+  {
+    "intent_id": "lectura_de_reglamentos_escolares",
+    "keywords": [
+      "reglamentos",
+      "normas",
+      "escuela",
+      "deberes",
+      "disciplina"
+    ],
+    "base_response": "La lectura de reglamentos escolares familiariza al alumno con textos normativos de su entorno inmediato. Requiere atención literal a los derechos y deberes, fomentando el sentido de responsabilidad y la comprensión de las normas que rigen la convivencia diaria en la comunidad educativa."
+  },
+  {
+    "intent_id": "analisis_de_flashbacks",
+    "keywords": [
+      "flashback",
+      "pasado",
+      "recuerdos",
+      "salto",
+      "narracion"
+    ],
+    "base_response": "El flashback es una técnica narrativa que interrumpe la acción presente para contar un evento del pasado. Entender su función ayuda a descubrir los antecedentes de un personaje o el origen de un conflicto, enriqueciendo enormemente la comprensión psicológica de la obra."
+  },
+  {
+    "intent_id": "comprension_de_textos_publicitarios",
+    "keywords": [
+      "publicidad",
+      "anuncios",
+      "persuasion",
+      "consumo",
+      "mensajes"
+    ],
+    "base_response": "La lectura de textos publicitarios desarrolla el pensamiento crítico ante el consumismo. Exige analizar cómo el lenguaje persuasivo, los eslóganes y las imágenes promueven productos o servicios, enseñando al estudiante a distinguir entre necesidades reales y deseos creados artificialmente por el mercado."
+  },
+  {
+    "intent_id": "identificacion_de_climax_narrativo",
+    "keywords": [
+      "climax",
+      "tension",
+      "emocion",
+      "culminacion",
+      "nudo"
+    ],
+    "base_response": "El clímax es el punto de máxima tensión o emoción en una historia, donde el conflicto principal alcanza su momento culminante. Identificarlo permite al lector comprender cómo se resuelven las fuerzas opuestas de la trama, preparándolo para el desenlace final inminente."
+  },
+  {
+    "intent_id": "lectura_de_poesia_libre",
+    "keywords": [
+      "poesia",
+      "libre",
+      "metrica",
+      "expresion",
+      "ritmo"
+    ],
+    "base_response": "A diferencia de la poesía clásica, el verso libre no sigue reglas estrictas de rima o métrica. Su comprensión requiere centrarse puramente en las emociones, las metáforas y la cadencia interna del lenguaje, permitiendo una interpretación mucho más personal e intuitiva del poema."
+  },
+  {
+    "intent_id": "analisis_de_textos_periodisticos_opinion",
+    "keywords": [
+      "opinion",
+      "columna",
+      "editorial",
+      "argumentos",
+      "subjetividad"
+    ],
+    "base_response": "Las columnas de opinión y editoriales reflejan la postura subjetiva de un medio o periodista sobre un tema de actualidad. Su lectura crítica requiere separar los hechos objetivos de las valoraciones personales, evaluando la solidez y coherencia de los argumentos planteados."
+  },
+  {
+    "intent_id": "comprension_de_onomatopeyas",
+    "keywords": [
+      "onomatopeya",
+      "sonidos",
+      "palabras",
+      "comics",
+      "ruido"
+    ],
+    "base_response": "Las onomatopeyas son palabras que imitan sonidos reales. Su uso es común en historietas y literatura juvenil para añadir dinamismo y realismo. Reconocerlas enriquece la experiencia auditiva mental de la lectura, aportando viveza a descripciones de tormentas, golpes o ruidos repentinos."
+  },
+  {
+    "intent_id": "lectura_de_textos_descriptivos_espaciales",
+    "keywords": [
+      "descripcion",
+      "espacio",
+      "lugar",
+      "ambiente",
+      "entorno"
+    ],
+    "base_response": "Las descripciones espaciales sitúan al lector en el entorno físico de la narración. Requieren visualizar mentalmente paisajes, habitaciones o ciudades a partir de los detalles aportados, fundamentales para crear la atmósfera necesaria que rodea el desarrollo de las acciones principales."
+  },
+  {
+    "intent_id": "identificacion_de_protagonistas_colectivos",
+    "keywords": [
+      "protagonista",
+      "colectivo",
+      "grupo",
+      "pueblo",
+      "historia"
+    ],
+    "base_response": "A veces, el personaje principal no es un individuo, sino un grupo de personas, como un pueblo o una familia. Identificar al protagonista colectivo ayuda a comprender que el conflicto y la resolución afectan a toda una comunidad que actúa con un objetivo común."
+  },
+  {
+    "intent_id": "comprension_de_parodias",
+    "keywords": [
+      "parodia",
+      "burla",
+      "humor",
+      "imitacion",
+      "critica"
+    ],
+    "base_response": "La parodia es una obra satírica que imita el estilo de otra de forma humorística o crítica. Para comprenderla plenamente, el lector debe conocer la obra original, lo que convierte esta lectura en un excelente ejercicio de intertextualidad y de agudeza mental."
+  },
+  {
+    "intent_id": "lectura_de_guiones_cinematograficos",
+    "keywords": [
+      "guion",
+      "cine",
+      "escenas",
+      "camara",
+      "dialogos"
+    ],
+    "base_response": "Leer guiones requiere adaptar la mente a un formato muy visual. El lector debe imaginar el encuadre de la cámara y las acciones físicas entre diálogos, desarrollando una comprensión espacial y visual única que complementa la interpretación puramente textual de las palabras."
+  },
+  {
+    "intent_id": "analisis_de_simbolismos",
+    "keywords": [
+      "simbolo",
+      "significado",
+      "oculto",
+      "representacion",
+      "literatura"
+    ],
+    "base_response": "El simbolismo utiliza objetos, colores o animales para representar ideas abstractas. Por ejemplo, una paloma como símbolo de paz. Analizarlos requiere ir más allá del significado literal de las palabras, profundizando en la riqueza conceptual y cultural que el autor pretende transmitir discretamente."
+  },
+  {
+    "intent_id": "comprension_de_textos_autobiograficos",
+    "keywords": [
+      "autobiografia",
+      "memoria",
+      "vida",
+      "primera",
+      "persona"
+    ],
+    "base_response": "En la autobiografía, el autor relata su propia vida utilizando la primera persona. Esto genera una conexión íntima con el lector, pero también exige recordar que la narración es subjetiva y está filtrada por los recuerdos, emociones y percepciones particulares del propio escritor."
+  },
+  {
+    "intent_id": "lectura_de_criticas_teatrales",
+    "keywords": [
+      "critica",
+      "teatro",
+      "obra",
+      "actuacion",
+      "espectaculo"
+    ],
+    "base_response": "Las críticas teatrales evalúan todos los elementos de un montaje, desde la actuación hasta la escenografía. Su lectura enseña a apreciar las diferentes facetas artísticas que componen un espectáculo, fomentando un análisis multidisciplinar que trasciende la simple lectura del libreto original impreso."
+  },
+  {
+    "intent_id": "identificacion_de_neologismos",
+    "keywords": [
+      "neologismo",
+      "palabras",
+      "nuevas",
+      "invencion",
+      "idioma"
+    ],
+    "base_response": "Los neologismos son palabras inventadas o de reciente creación. En la literatura de ciencia ficción o fantasía son comunes. Identificarlos y deducir su significado a partir del contexto estimula la flexibilidad mental y demuestra la constante y rápida evolución de nuestro idioma cotidiano."
+  },
+  {
+    "intent_id": "lectura_de_leyendas_urbanas",
+    "keywords": [
+      "leyenda",
+      "urbana",
+      "mito",
+      "ciudad",
+      "misterio"
+    ],
+    "base_response": "Las leyendas urbanas son relatos contemporáneos que se transmiten oralmente como hechos reales. Analizarlas desarrolla el escepticismo saludable y permite entender cómo los miedos colectivos y las preocupaciones sociales modernas se cristalizan en historias populares que capturan rápidamente la atención del público general."
+  },
+  {
+    "intent_id": "comprension_de_textos_explicativos",
+    "keywords": [
+      "explicativo",
+      "causa",
+      "consecuencia",
+      "fenomenos",
+      "didactico"
+    ],
+    "base_response": "Los textos explicativos buscan hacer comprensible un fenómeno, desglosando sus causas y consecuencias paso a paso. Su lectura requiere un seguimiento lógico y secuencial, ideal para asimilar conceptos complejos de ciencias naturales o procesos sociales mediante un lenguaje puramente objetivo y didáctico."
+  },
+  {
+    "intent_id": "analisis_de_ambiguedades",
+    "keywords": [
+      "ambiguedad",
+      "doble",
+      "sentido",
+      "interpretacion",
+      "confuso"
+    ],
+    "base_response": "La ambigüedad ocurre cuando una frase puede interpretarse de múltiples maneras válidas. Detectarla en textos literarios o periodísticos obliga al lector a detenerse, evaluar diferentes contextos posibles y decidir conscientemente cuál es el significado más probable que el autor quiso transmitir originalmente."
+  },
+  {
+    "intent_id": "lectura_de_memorias_historicas",
+    "keywords": [
+      "memoria",
+      "historia",
+      "testimonio",
+      "pasado",
+      "experiencia"
+    ],
+    "base_response": "Las memorias históricas recogen vivencias personales de testigos directos de eventos cruciales. Leerlas exige empatía y madurez para comprender el impacto humano de la historia, conectando las grandes fechas de los libros con el sufrimiento y la resiliencia de individuos reales y concretos."
+  },
+  {
+    "intent_id": "identificacion_de_falacias_argumentativas",
+    "keywords": [
+      "falacia",
+      "engano",
+      "argumento",
+      "logica",
+      "debate"
+    ],
+    "base_response": "Las falacias son argumentos que parecen válidos pero contienen errores lógicos. Identificarlas en discursos o textos persuasivos es el pináculo de la lectura crítica, protegiendo al estudiante de manipulaciones y mejorando enormemente su propia capacidad para debatir con fundamentos sólidos y genuinos."
+  },
+  {
+    "intent_id": "comprension_de_paratextos",
+    "keywords": [
+      "paratexto",
+      "portada",
+      "indice",
+      "prologo",
+      "ayuda"
+    ],
+    "base_response": "Los paratextos incluyen títulos, índices, prólogos y notas al pie que acompañan al texto principal. Acostumbrarse a leerlos facilita la anticipación del contenido y ayuda a ubicar información rápidamente, funcionando como un mapa de navegación indispensable antes de iniciar la lectura profunda."
+  },
+  {
+    "intent_id": "lectura_de_textos_humoristicos",
+    "keywords": [
+      "humor",
+      "chistes",
+      "comedia",
+      "risa",
+      "ingenio"
+    ],
+    "base_response": "La lectura comprensiva de textos humorísticos requiere captar los juegos de palabras, exageraciones o situaciones absurdas. Exige una conexión cultural e intelectual rápida, demostrando que el aprendizaje y el disfrute lúdico del lenguaje pueden ir perfectamente de la mano en el entorno escolar."
+  },
+  {
+    "intent_id": "analisis_de_epopeyas",
+    "keywords": [
+      "epopeya",
+      "heroe",
+      "batallas",
+      "antiguedad",
+      "valentia"
+    ],
+    "base_response": "Las epopeyas son poemas narrativos extensos sobre héroes y dioses antiguos. Su lectura introduce al estudiante a la mitología y a los valores fundacionales de diferentes civilizaciones, requiriendo un esfuerzo por comprender estilos literarios arcaicos y arquetipos heroicos universales de superación constante."
+  },
+  {
+    "intent_id": "comprension_de_monologos_interiores",
+    "keywords": [
+      "monologo",
+      "interior",
+      "pensamientos",
+      "conciencia",
+      "flujo"
+    ],
+    "base_response": "El monólogo interior refleja el flujo ininterrumpido de pensamientos de un personaje. Leerlo requiere sumergirse en su psicología, aceptando la aparente desorganización de las ideas para capturar la verdadera esencia emocional y las dudas más íntimas ocultas tras sus simples acciones externas."
+  },
+  {
+    "intent_id": "lectura_de_articulos_de_enciclopedia",
+    "keywords": [
+      "enciclopedia",
+      "informacion",
+      "objetiva",
+      "consulta",
+      "referencia"
+    ],
+    "base_response": "Los artículos enciclopédicos proporcionan información condensada, objetiva y rigurosa sobre temas específicos. Su lectura es un ejercicio clásico de consulta y referencia rápida, enseñando a los estudiantes a buscar datos precisos de manera eficiente sin dejarse distraer por detalles literarios o excesivamente narrativos."
+  },
+  {
+    "intent_id": "identificacion_de_eufemismos",
+    "keywords": [
+      "eufemismo",
+      "suavizar",
+      "palabras",
+      "delicadeza",
+      "tabu"
+    ],
+    "base_response": "Los eufemismos sustituyen palabras duras o desagradables por términos más suaves o aceptables socialmente. Reconocerlos en la lectura ayuda a entender los tabúes culturales de una época y la intención de cortesía o manipulación diplomática que a menudo esconde el autor original."
+  },
+  {
+    "intent_id": "lectura_de_guiones_radiales",
+    "keywords": [
+      "radio",
+      "guion",
+      "sonido",
+      "voces",
+      "imaginacion"
+    ],
+    "base_response": "La lectura de guiones de radio enfatiza los efectos de sonido, las pausas y las modulaciones de voz. Estimula enormemente la imaginación auditiva, obligando al estudiante a construir escenarios enteros mentalmente basándose única y exclusivamente en las descripciones acústicas y los dinámicos diálogos."
+  },
+  {
+    "intent_id": "analisis_de_propositos_multiples",
+    "keywords": [
+      "propositos",
+      "multiples",
+      "intencion",
+      "informar",
+      "entretener"
+    ],
+    "base_response": "A menudo, los textos combinan intenciones: por ejemplo, una novela histórica busca informar sobre el pasado mientras entretiene con la trama. Detectar estos propósitos múltiples enriquece la lectura, permitiendo valorar el texto tanto por su valor documental como por su innegable calidad artística."
+  },
+  {
+    "intent_id": "comprension_de_recursos_tipograficos",
+    "keywords": [
+      "tipografia",
+      "negrita",
+      "cursiva",
+      "enfasis",
+      "diseno"
+    ],
+    "base_response": "El uso de negritas, cursivas o mayúsculas no es accidental; guía la lectura destacando palabras clave o indicando cambios de tono. Comprender estos recursos tipográficos visuales ayuda a captar los matices de importancia y énfasis que el autor imprimió intencionadamente en su obra."
+  },
+  {
+    "intent_id": "lectura_de_diarios_personales",
+    "keywords": [
+      "diario",
+      "personal",
+      "intimidad",
+      "fechas",
+      "confidencias"
+    ],
+    "base_response": "Los diarios personales, reales o ficticios, ofrecen una perspectiva narrativa muy íntima y cronológica. Su lectura desarrolla la empatía, permitiendo al estudiante observar cómo los pensamientos y emociones del protagonista evolucionan progresivamente a lo largo de días, meses o incluso años enteros."
+  },
+  {
+    "intent_id": "identificacion_de_paradojas",
+    "keywords": [
+      "paradoja",
+      "contradiccion",
+      "verdad",
+      "logica",
+      "filosofia"
+    ],
+    "base_response": "Una paradoja presenta ideas aparentemente contradictorias que esconden una verdad profunda. Identificarlas es un excelente ejercicio de gimnasia mental, desafiando al lector a buscar significados más allá de la lógica convencional y estimulando un pensamiento filosófico mucho más abstracto y maduro."
+  },
+  {
+    "intent_id": "comprension_de_fabulas_modernas",
+    "keywords": [
+      "fabula",
+      "moderna",
+      "sociedad",
+      "critica",
+      "ensenanza"
+    ],
+    "base_response": "Las fábulas modernas adaptan el género clásico para criticar problemas contemporáneos como la tecnología o el consumismo. Su lectura requiere actualizar la interpretación de las moralejas tradicionales, conectando las enseñanzas éticas ancestrales con los desafíos sociales y medioambientales de nuestra época actual."
+  },
+  {
+    "intent_id": "lectura_de_textos_juridicos_basicos",
+    "keywords": [
+      "juridico",
+      "ley",
+      "derechos",
+      "formalidad",
+      "ciudadania"
+    ],
+    "base_response": "Aproximarse a textos jurídicos sencillos, como declaraciones de derechos, forma ciudadanos conscientes. Exige lidiar con un vocabulario formal y estructuras rígidas, promoviendo el respeto por la legalidad y la comprensión exacta de las garantías fundamentales que nos protegen a todos por igual."
+  },
+  {
+    "intent_id": "analisis_de_elipsis_narrativas",
+    "keywords": [
+      "elipsis",
+      "omision",
+      "tiempo",
+      "salto",
+      "deduccion"
+    ],
+    "base_response": "La elipsis es la omisión intencionada de un período de tiempo en la narración. El lector debe deducir qué sucedió durante ese lapso. Comprenderlas evita confusiones temporales y exige una participación activa para rellenar los huecos narrativos que el autor dejó deliberadamente vacíos."
+  },
+  {
+    "intent_id": "lectura_de_poesia_epica",
+    "keywords": [
+      "poesia",
+      "epica",
+      "gestas",
+      "nacion",
+      "cantares"
+    ],
+    "base_response": "La poesía épica narra las hazañas gloriosas que fundan la identidad de una nación, como los cantares de gesta medievales. Leerlos requiere adaptarse a un ritmo marcial, comprendiendo el exaltado sentido del honor y el destino grandioso que mueve irremediablemente a sus protagonistas."
+  },
+  {
+    "intent_id": "identificacion_de_sinestesia",
+    "keywords": [
+      "sinestesia",
+      "sentidos",
+      "mezcla",
+      "percepcion",
+      "poesia"
+    ],
+    "base_response": "La sinestesia literaria consiste en atribuir sensaciones de un sentido a otro, como 'color dulce' o 'silencio amargo'. Identificar esta figura retórica enriquece profundamente la experiencia sensorial de la lectura, obligando al estudiante a imaginar percepciones novedosas que escapan a la lógica cotidiana tradicional."
+  },
+  {
+    "intent_id": "lectura_de_instrucciones_de_juegos",
+    "keywords": [
+      "instrucciones",
+      "juegos",
+      "reglas",
+      "logica",
+      "pasos"
+    ],
+    "base_response": "Leer reglamentos de juegos de mesa o deportes es un excelente ejercicio de comprensión procedimental. Requiere captar la secuencia lógica, las condiciones de victoria y las restricciones impuestas, vinculando inmediatamente la lectura con la acción práctica y el disfrute lúdico en equipo."
+  },
+  {
+    "intent_id": "analisis_de_titulos",
+    "keywords": [
+      "titulos",
+      "anticipacion",
+      "pistas",
+      "tema",
+      "sintesis"
+    ],
+    "base_response": "El título es la primera clave de lectura. Analizarlo antes de leer permite formular hipótesis sobre el contenido. Un buen título condensa el tema o sugiere un misterio, funcionando como un ancla cognitiva que orienta toda la posterior comprensión del texto presentado."
+  },
+  {
+    "intent_id": "comprension_de_proverbios",
+    "keywords": [
+      "proverbios",
+      "cultura",
+      "tradicion",
+      "mensaje",
+      "metaforico"
+    ],
+    "base_response": "A diferencia de los refranes, los proverbios suelen tener un origen culto o bíblico, aunque también expresan verdades generales. Su lectura exige descifrar su envoltura metafórica para extraer enseñanzas éticas universales que trascienden épocas, conectando al estudiante con la sabiduría milenaria mundial."
+  },
+  {
+    "intent_id": "lectura_de_cartas_al_director",
+    "keywords": [
+      "cartas",
+      "director",
+      "opinion",
+      "ciudadanos",
+      "prensa"
+    ],
+    "base_response": "Las cartas al director muestran la opinión pública sobre temas actuales. Su lectura permite analizar cómo los ciudadanos comunes argumentan, expresan quejas o agradecimientos en un espacio formal, siendo una herramienta vital para entender el impacto real de las noticias en la sociedad diaria."
+  },
+  {
+    "intent_id": "identificacion_de_cliches_literarios",
+    "keywords": [
+      "cliche",
+      "topico",
+      "repetido",
+      "predecible",
+      "literatura"
+    ],
+    "base_response": "Un cliché es una expresión o situación narrativa demasiado predecible por abuso de uso. Identificarlos ayuda a los estudiantes a desarrollar un gusto crítico más exigente, valorando la originalidad y la frescura creativa por encima de las fórmulas comerciales repetitivas y gastadas."
+  },
+  {
+    "intent_id": "comprension_de_epistolas",
+    "keywords": [
+      "epistola",
+      "carta",
+      "antiguedad",
+      "filosofia",
+      "historia"
+    ],
+    "base_response": "La lectura de epístolas clásicas (cartas históricas o filosóficas) requiere un gran esfuerzo de contextualización. Permite acercarse al pensamiento original de figuras históricas relevantes, exigiendo comprender un registro de lenguaje muy formal y unas preocupaciones sociales a menudo lejanas a nuestra época actual."
+  },
+  {
+    "intent_id": "analisis_de_dedicatorias",
+    "keywords": [
+      "dedicatoria",
+      "homenaje",
+      "agradecimiento",
+      "autor",
+      "inicio"
+    ],
+    "base_response": "Las dedicatorias revelan las conexiones personales e inspiraciones del autor antes de iniciar la obra. Aunque breves, leerlas aporta una valiosa capa de humanidad al libro, mostrando la gratitud y los lazos afectivos que impulsaron la ardua tarea de escribir el texto definitivo."
+  },
+  {
+    "intent_id": "lectura_de_anuncios_clasificados",
+    "keywords": [
+      "clasificados",
+      "anuncios",
+      "economia",
+      "espacio",
+      "abreviaturas"
+    ],
+    "base_response": "Los anuncios clasificados utilizan un lenguaje extremadamente económico y lleno de abreviaturas por cuestiones de espacio. Leerlos es un ejercicio intensivo de decodificación rápida, donde el estudiante debe inferir mucha información práctica a partir de poquísimas y muy bien seleccionadas palabras."
+  },
+  {
+    "intent_id": "identificacion_de_polifonia_textual",
+    "keywords": [
+      "polifonia",
+      "voces",
+      "multiples",
+      "perspectivas",
+      "narracion"
+    ],
+    "base_response": "La polifonía ocurre cuando múltiples voces o perspectivas se entrelazan en un solo texto. Reconocer quién está hablando en cada momento (personajes, autor, citas externas) es un desafío avanzado que enriquece la comprensión global de novelas modernas y reportajes periodísticos complejos."
+  },
+  {
+    "intent_id": "comprension_de_textos_predictivos",
+    "keywords": [
+      "predicciones",
+      "futuro",
+      "hipotesis",
+      "ciencia",
+      "tecnologia"
+    ],
+    "base_response": "Los textos predictivos, comunes en artículos científicos sobre el futuro, plantean escenarios posibles basados en datos actuales. Su lectura exige distinguir entre hechos probados hoy y proyecciones probables mañana, fomentando un pensamiento hipotético y verdaderamente visionario en los jóvenes estudiantes de ciencias."
+  },
+  {
+    "intent_id": "lectura_de_criticas_literarias",
+    "keywords": [
+      "critica",
+      "literaria",
+      "analisis",
+      "profundo",
+      "especialista"
+    ],
+    "base_response": "Las críticas literarias especializadas analizan en profundidad la estructura, estilo y temas de un libro. Leerlas ayuda a descubrir matices que pudieron pasar desapercibidos, enseñando al alumno a argumentar sobre literatura utilizando un vocabulario técnico y conceptos académicos apropiados para su edad."
+  },
+  {
+    "intent_id": "analisis_de_epilogos",
+    "keywords": [
+      "epilogo",
+      "final",
+      "cierre",
+      "consecuencias",
+      "historia"
+    ],
+    "base_response": "El epílogo es un texto añadido al final de una obra para explicar el destino final de los personajes tiempo después de concluida la trama principal. Leerlo satisface la curiosidad del lector y consolida la sensación de cierre y resolución total y definitiva."
+  },
+  {
+    "intent_id": "comprension_de_sainetes",
+    "keywords": [
+      "sainete",
+      "teatro",
+      "costumbres",
+      "humor",
+      "popular"
+    ],
+    "base_response": "Los sainetes son piezas teatrales breves y cómicas que reflejan costumbres populares. Su lectura requiere comprender modismos locales, acentos exagerados y situaciones picarescas, siendo una puerta de entrada sumamente divertida para conocer el patrimonio cultural inmaterial de épocas pasadas con mucho humor."
+  },
+  {
+    "intent_id": "lectura_de_manuales_tecnicos",
+    "keywords": [
+      "manuales",
+      "tecnica",
+      "aparatos",
+      "precision",
+      "funcionamiento"
+    ],
+    "base_response": "Los manuales técnicos de aparatos o software exigen una lectura minuciosa y muy literal. El vocabulario es preciso y no da lugar a interpretaciones creativas. Desarrolla la paciencia y la capacidad de seguir procesos tecnológicos exactos sin saltarse ningún paso de seguridad vital."
+  },
+  {
+    "intent_id": "identificacion_de_retrospecciones",
+    "keywords": [
+      "retrospeccion",
+      "mirada",
+      "atras",
+      "reflexion",
+      "pasado"
+    ],
+    "base_response": "Diferente al flashback inmediato, la retrospección es una mirada reflexiva amplia hacia el pasado del propio narrador. Identificarla permite comprender cómo la experiencia y el paso del tiempo han modificado las opiniones y sentimientos del protagonista respecto a los eventos trágicos o felices vividos."
+  },
+  {
+    "intent_id": "comprension_de_textos_propagandisticos",
+    "keywords": [
+      "propaganda",
+      "politica",
+      "ideologia",
+      "manipulacion",
+      "masas"
+    ],
+    "base_response": "A diferencia de la publicidad comercial, la propaganda busca difundir ideas políticas o religiosas para manipular a las masas. Su lectura crítica es crucial para desentrañar las estrategias emocionales y el lenguaje grandilocuente utilizado para anular la voluntad individual y promover dogmas cerrados."
+  },
+  {
+    "intent_id": "lectura_de_diarios_de_viaje",
+    "keywords": [
+      "diario",
+      "viaje",
+      "descubrimiento",
+      "culturas",
+      "aventura"
+    ],
+    "base_response": "Los diarios de viaje combinan la descripción geográfica con la crónica personal. Leerlos fomenta la curiosidad cosmopolita, requiriendo que el estudiante visualice parajes exóticos y comprenda el choque cultural pacífico que experimenta el autor al encontrarse con costumbres completamente ajenas y distintas."
+  },
+  {
+    "intent_id": "analisis_de_metonimias",
+    "keywords": [
+      "metonimia",
+      "designar",
+      "parte",
+      "todo",
+      "figura"
+    ],
+    "base_response": "La metonimia consiste en designar una cosa con el nombre de otra con la que guarda relación (ej. 'leer a Cervantes'). Analizarlas agiliza la lectura inferencial, demostrando que el lenguaje cotidiano y literario está lleno de atajos conceptuales muy creativos y eficaces."
+  },
+  {
+    "intent_id": "comprension_de_novelas_policiales",
+    "keywords": [
+      "novela",
+      "policial",
+      "misterio",
+      "pistas",
+      "resolucion"
+    ],
+    "base_response": "La lectura de novelas policiales exige un nivel altísimo de atención al detalle. El lector debe comportarse como un detective, recordando pequeñas pistas, evaluando coartadas y sospechando de todos, lo que potencia enormemente la memoria a corto plazo y el razonamiento lógico deductivo."
+  },
+  {
+    "intent_id": "lectura_de_haikus",
+    "keywords": [
+      "haiku",
+      "poema",
+      "japones",
+      "naturaleza",
+      "brevedad"
+    ],
+    "base_response": "El haiku es un poema breve de origen japonés centrado en la naturaleza y el instante presente. Su lectura requiere mucha sensibilidad, ya que transmite una emoción o imagen profunda utilizando mínimas palabras, invitando al estudiante a detenerse y contemplar la belleza de lo sencillo."
+  },
+  {
+    "intent_id": "identificacion_de_falacias_de_autoridad",
+    "keywords": [
+      "falacia",
+      "autoridad",
+      "argumento",
+      "falso",
+      "credibilidad"
+    ],
+    "base_response": "Identificar la falacia de autoridad consiste en darse cuenta de que un autor justifica un argumento solo porque lo dijo alguien famoso, sin aportar verdaderas pruebas lógicas. Reconocer este engaño fortalece el pensamiento crítico, evitando que los estudiantes acepten ideas equivocadas ciegamente."
+  },
+  {
+    "intent_id": "comprension_de_textos_teatrales_absurdos",
+    "keywords": [
+      "teatro",
+      "absurdo",
+      "ilogico",
+      "dialogos",
+      "existencialismo"
+    ],
+    "base_response": "El teatro del absurdo presenta situaciones ilógicas y diálogos aparentemente sin sentido. Su lectura rompe con la narrativa tradicional, exigiendo al lector buscar metáforas existenciales sobre la condición humana en medio del caos, la repetición y la incomunicación deliberada de sus desconcertados personajes."
+  },
+  {
+    "intent_id": "analisis_de_notas_al_pie",
+    "keywords": [
+      "notas",
+      "pie",
+      "pagina",
+      "aclaracion",
+      "referencia"
+    ],
+    "base_response": "Las notas al pie de página ofrecen aclaraciones, traducciones o referencias bibliográficas adicionales. Analizarlas enseña al estudiante que el conocimiento se construye conectando múltiples fuentes, y demuestra cómo profundizar voluntariamente en detalles específicos sin interrumpir el flujo principal de la lectura en curso."
+  },
+  {
+    "intent_id": "lectura_de_manifiestos_artisticos",
+    "keywords": [
+      "manifiesto",
+      "arte",
+      "revolucion",
+      "vanguardia",
+      "ideales"
+    ],
+    "base_response": "Los manifiestos exponen apasionadamente los ideales y reglas de nuevos movimientos artísticos o políticos. Leerlos requiere captar el tono revolucionario y combativo, comprendiendo el contexto histórico de ruptura contra las tradiciones conservadoras y la urgente necesidad de innovación radical que los autores exigían."
+  },
+  {
+    "intent_id": "identificacion_de_prosopopeyas",
+    "keywords": [
+      "prosopopeya",
+      "figura",
+      "animales",
+      "hablar",
+      "fabula"
+    ],
+    "base_response": "La prosopopeya, similar a la personificación, suele aplicarse cuando se hace hablar a seres inanimados o animales. Identificarla es clave en fábulas y cuentos infantiles, ya que facilita la transmisión de enseñanzas morales complejas a través de diálogos imaginativos y sumamente memorables."
+  },
+  {
+    "intent_id": "comprension_de_recursos_anaforicos",
+    "keywords": [
+      "anafora",
+      "referencia",
+      "pronombres",
+      "cohesion",
+      "texto"
+    ],
+    "base_response": "Los recursos anafóricos utilizan pronombres (él, eso, aquello) para referirse a palabras mencionadas anteriormente, evitando repeticiones. Comprenderlos es vital para mantener la cohesión textual en la mente del lector; si se pierde la referencia anafórica, se rompe toda la comprensión de la oración siguiente."
+  },
+  {
+    "intent_id": "lectura_de_citas_textuales_largas",
+    "keywords": [
+      "citas",
+      "textuales",
+      "comillas",
+      "autores",
+      "respaldo"
+    ],
+    "base_response": "Las citas textuales largas (o en bloque) intercalan la voz de otros expertos para respaldar una idea. Su lectura requiere atención para diferenciar claramente la opinión del autor principal de las afirmaciones ajenas utilizadas como evidencia sólida en ensayos y trabajos de investigación escolares."
+  },
+  {
+    "intent_id": "analisis_de_ritmo_narrativo",
+    "keywords": [
+      "ritmo",
+      "narrativa",
+      "velocidad",
+      "pausas",
+      "accion"
+    ],
+    "base_response": "El ritmo narrativo es la velocidad a la que transcurre la historia. Analizarlo implica notar cómo oraciones cortas y verbos de acción aceleran el paso durante una persecución, mientras que descripciones detalladas con adjetivos ralentizan la lectura para crear momentos de reflexión pausada."
+  },
+  {
+    "intent_id": "comprension_de_cronicas_deportivas",
+    "keywords": [
+      "cronica",
+      "deportes",
+      "pasion",
+      "eventos",
+      "resultado"
+    ],
+    "base_response": "La crónica deportiva combina la información precisa de un resultado con una narración apasionada de los eventos del partido. Su lectura exige manejar jerga deportiva específica y captar el tono épico o trágico que el periodista imprime para emocionar a los aficionados lectores."
+  },
+  {
+    "intent_id": "identificacion_de_leitmotivs",
+    "keywords": [
+      "leitmotiv",
+      "motivo",
+      "recurrente",
+      "tema",
+      "obsesion"
+    ],
+    "base_response": "Un leitmotiv es un tema, frase u objeto recurrente asociado a un personaje o situación. Identificarlo ayuda a comprender obsesiones psicológicas y refuerza la estructura temática de la novela, funcionando como un hilo conductor musical pero dentro del vasto universo estrictamente literario."
+  },
+  {
+    "intent_id": "lectura_de_cartogramas",
+    "keywords": [
+      "cartogramas",
+      "mapas",
+      "datos",
+      "geografia",
+      "proporcion"
+    ],
+    "base_response": "Los cartogramas son mapas donde el tamaño de los países se distorsiona según datos estadísticos (ej. población). Leerlos requiere cruzar habilidades de comprensión visual con conocimientos geográficos y matemáticos, interpretando proporciones inusuales para extraer rápidamente información sociodemográfica o económica verdaderamente impactante."
+  },
+  {
+    "intent_id": "analisis_de_silepsis",
+    "keywords": [
+      "silepsis",
+      "concordancia",
+      "sentido",
+      "gramatica",
+      "figura"
+    ],
+    "base_response": "La silepsis es una figura donde la concordancia gramatical se rompe en favor del sentido (ej. 'La mayoría decidieron'). Analizar estas aparentes faltas ayuda a comprender que el lenguaje es flexible y prioriza la lógica semántica colectiva sobre las reglas ortográficas más estrictas."
+  },
+  {
+    "intent_id": "comprension_de_leyes_cientificas",
+    "keywords": [
+      "leyes",
+      "ciencia",
+      "fisica",
+      "formulas",
+      "universal"
+    ],
+    "base_response": "La lectura de leyes científicas fundamentales (como las de Newton) requiere abstracción. El lenguaje es extremadamente conciso y universal, por lo que el estudiante debe interiorizar cada palabra cuidadosamente para aplicarla después en la resolución de problemas prácticos y experimentos reales."
+  },
+  {
+    "intent_id": "lectura_de_mitos_fundacionales",
+    "keywords": [
+      "mito",
+      "fundacional",
+      "origen",
+      "nacion",
+      "identidad"
+    ],
+    "base_response": "Los mitos fundacionales narran los orígenes mágicos o heroicos de una ciudad o pueblo. Leerlos permite entender cómo las sociedades antiguas construían su identidad patriótica y orgullo nacional a partir de historias legendarias que mezclaban hechos reales con poderosas intervenciones sobrenaturales y divinas."
+  },
+  {
+    "intent_id": "identificacion_de_anticipaciones",
+    "keywords": [
+      "anticipacion",
+      "futuro",
+      "pistas",
+      "presagio",
+      "trama"
+    ],
+    "base_response": "La anticipación (o prolepsis) es cuando el narrador adelanta sutilmente eventos que ocurrirán en el futuro. Identificarlas genera expectativas y suspenso. Premia al lector atento que logra conectar esas pequeñas pistas tempranas con el sorprendente desenlace final de la obra dramática completa."
+  },
+  {
+    "intent_id": "comprension_de_silogismos",
+    "keywords": [
+      "silogismo",
+      "logica",
+      "premisas",
+      "conclusion",
+      "razonamiento"
+    ],
+    "base_response": "Un silogismo es un argumento lógico compuesto por dos premisas y una conclusión (ej. 'Todos los hombres son mortales, Sócrates es hombre...'). Comprenderlos leyendo textos filosóficos básicos entrena la mente en la deducción impecable y en la detección de razonamientos completamente inválidos."
+  },
+  {
+    "intent_id": "lectura_de_textos_prescriptivos",
+    "keywords": [
+      "prescriptivo",
+      "ordenes",
+      "consejos",
+      "guia",
+      "comportamiento"
+    ],
+    "base_response": "Los textos prescriptivos guían el comportamiento del receptor, como las recetas médicas o manuales de convivencia. Su lectura demanda obediencia a la estructura lógica e imperativa, enseñando la importancia de seguir indicaciones precisas para garantizar la salud o el buen funcionamiento social esperado."
+  },
+  {
+    "intent_id": "analisis_de_oximorones",
+    "keywords": [
+      "oximoron",
+      "contrarios",
+      "unidos",
+      "figura",
+      "poesia"
+    ],
+    "base_response": "El oxímoron une dos palabras de significado opuesto que generan un nuevo concepto poético (ej. 'fuego helado' o 'silencio ensordecedor'). Analizarlos requiere un pensamiento abstracto capaz de abrazar la contradicción aparente para descubrir la belleza expresiva y el dramatismo oculto en la paradoja."
+  },
+  {
+    "intent_id": "comprension_de_arboles_genealogicos",
+    "keywords": [
+      "arboles",
+      "genealogia",
+      "familia",
+      "graficos",
+      "relaciones"
+    ],
+    "base_response": "La lectura de árboles genealógicos en novelas históricas o de fantasía (como 'Cien años de soledad') es vital. Ayuda a visualizar y retener complejas relaciones de parentesco a través de varias generaciones, evitando la confusión de nombres y estructurando sólidamente el universo narrativo."
+  },
+  {
+    "intent_id": "lectura_de_textos_de_opinion_ciudadana",
+    "keywords": [
+      "opinion",
+      "ciudadania",
+      "foro",
+      "comentarios",
+      "debate"
+    ],
+    "base_response": "La lectura en foros y secciones de comentarios requiere discriminar entre opiniones fundamentadas y simples ataques emocionales. Desarrolla la tolerancia y el pensamiento crítico rápido ante múltiples voces discordantes que debaten sobre un mismo tema de interés comunitario."
+  },
+  {
+    "intent_id": "identificacion_de_eufonia",
+    "keywords": [
+      "eufonia",
+      "sonoridad",
+      "agradable",
+      "palabras",
+      "armonia"
+    ],
+    "base_response": "La eufonía es el uso de combinaciones de palabras que suenan agradables y armoniosas al oído. Identificarla, especialmente en poesía, enseña al lector a apreciar el aspecto musical de la literatura y cómo los sonidos refuerzan sentimientos positivos y de tranquilidad total."
+  },
+  {
+    "intent_id": "comprension_de_diarios_historicos",
+    "keywords": [
+      "diarios",
+      "historia",
+      "cronica",
+      "documento",
+      "epoca"
+    ],
+    "base_response": "Los diarios históricos, como los de navegantes o soldados, son fuentes primarias invaluables. Su lectura exige comprender vocabulario antiguo y adaptarse a un estilo descriptivo detallado, permitiendo vivir en primera persona los grandes descubrimientos y penurias de épocas pasadas reales."
+  },
+  {
+    "intent_id": "analisis_de_titulos_metaforicos",
+    "keywords": [
+      "titulo",
+      "metafora",
+      "simbolismo",
+      "oculto",
+      "sentido"
+    ],
+    "base_response": "Los títulos metafóricos no describen el contenido literalmente (ej. 'Rebelión en la granja'). Analizarlos requiere esperar hasta finalizar la lectura para comprender su verdadero y profundo significado simbólico, conectando el nombre de la obra con el mensaje oculto final del autor."
+  },
+  {
+    "intent_id": "lectura_de_cifras_estadisticas",
+    "keywords": [
+      "cifras",
+      "estadistica",
+      "porcentajes",
+      "datos",
+      "analisis"
+    ],
+    "base_response": "Integrar cifras y porcentajes dentro de un texto informativo requiere habilidades matemáticas básicas aplicadas a la lectura. Permite dimensionar la gravedad o importancia de una noticia, enseñando a no pasar por alto los números, ya que sostienen la veracidad del argumento expuesto."
+  },
+  {
+    "intent_id": "identificacion_de_apocopes",
+    "keywords": [
+      "apocope",
+      "acortar",
+      "palabras",
+      "lenguaje",
+      "coloquial"
+    ],
+    "base_response": "La apócope es la pérdida de letras al final de una palabra (como 'bici' por bicicleta). Identificarlas en diálogos escritos ayuda a comprender el registro coloquial o informal de los personajes, aportando mucho más realismo e inmediatez a las conversaciones literarias modernas."
+  },
+  {
+    "intent_id": "comprension_de_textos_hagiograficos",
+    "keywords": [
+      "hagiografia",
+      "santos",
+      "biografia",
+      "virtudes",
+      "religioso"
+    ],
+    "base_response": "Las hagiografías relatan vidas de santos y mártires. Su lectura requiere entender su propósito didáctico y moralizante, identificando la exageración de las virtudes y los elementos milagrosos como herramientas de inspiración religiosa más que como estrictos documentos biográficos o históricos comprobables."
+  },
+  {
+    "intent_id": "lectura_de_indices_analiticos",
+    "keywords": [
+      "indice",
+      "analitico",
+      "busqueda",
+      "conceptos",
+      "libro"
+    ],
+    "base_response": "El índice analítico, ubicado al final de los libros técnicos, organiza alfabéticamente temas y conceptos clave. Aprender a leerlo es una habilidad de estudio avanzada, vital para la investigación rápida y la localización precisa de información específica en extensas bibliografías académicas especializadas."
+  },
+  {
+    "intent_id": "analisis_de_pausas_dramaticas",
+    "keywords": [
+      "pausas",
+      "drama",
+      "puntos",
+      "suspensivos",
+      "silencio"
+    ],
+    "base_response": "Las pausas dramáticas en un texto, señaladas por puntos suspensivos o cambios de párrafo abruptos, crean suspenso o indican una duda profunda del personaje. Analizarlas enseña que el silencio y lo no dicho son recursos expresivos tan potentes como las palabras mismas."
+  },
+  {
+    "intent_id": "comprension_de_criticas_de_arte",
+    "keywords": [
+      "critica",
+      "arte",
+      "pintura",
+      "estetica",
+      "valoracion"
+    ],
+    "base_response": "La lectura de críticas de exposiciones de arte introduce al estudiante al vocabulario estético y curatorial. Exige relacionar descripciones verbales de colores y formas con la intencionalidad del artista, fomentando una sensibilidad multidisciplinar entre el lenguaje escrito y las artes plásticas visuales."
+  },
+  {
+    "intent_id": "identificacion_de_cacofonias",
+    "keywords": [
+      "cacofonia",
+      "sonido",
+      "desagradable",
+      "repeticion",
+      "error"
+    ],
+    "base_response": "La cacofonía es la repetición de sonidos desagradables o inarmónicos. A diferencia de la rima intencional, suele ser un defecto de redacción. Identificarlas mejora la propia expresión escrita del alumno, enseñándole a revisar sus textos en voz alta para corregir y lograr mayor fluidez musical."
+  },
+  {
+    "intent_id": "lectura_de_diagramas_de_flujo",
+    "keywords": [
+      "diagramas",
+      "flujo",
+      "procesos",
+      "decisiones",
+      "visual"
+    ],
+    "base_response": "Los diagramas de flujo representan algoritmos o procesos mediante formas geométricas y flechas. Su 'lectura' entrena el pensamiento lógico-computacional, obligando al estudiante a seguir caminos condicionales ('si ocurre X, entonces Y') que son fundamentales para la programación y la toma de decisiones organizacionales."
+  },
+  {
+    "intent_id": "analisis_de_sarcasmo_visual",
+    "keywords": [
+      "sarcasmo",
+      "visual",
+      "caricatura",
+      "politica",
+      "humor"
+    ],
+    "base_response": "En caricaturas políticas y viñetas editoriales, el sarcasmo se expresa tanto en el texto breve como en el dibujo exagerado. Su análisis integral requiere conocimientos de actualidad para decodificar la burla hacia figuras de poder y comprender la contundente crítica social subyacente."
+  },
+  {
+    "intent_id": "comprension_de_informes_de_laboratorio",
+    "keywords": [
+      "informe",
+      "laboratorio",
+      "metodo",
+      "experimento",
+      "resultados"
+    ],
+    "base_response": "La lectura de informes de laboratorio sigue la rígida estructura del método científico: introducción, materiales, procedimiento, resultados y conclusiones. Fomenta el rigor metódico, enseñando a extraer conclusiones comprobables a partir de observaciones objetivas y datos empíricos minuciosamente registrados en el aula."
+  },
+  {
+    "intent_id": "lectura_de_manifiestos_ecologicos",
+    "keywords": [
+      "manifiesto",
+      "ecologia",
+      "ambiente",
+      "conciencia",
+      "planeta"
+    ],
+    "base_response": "Los manifiestos ecológicos combinan urgencia científica con apelaciones emocionales. Leerlos promueve la conciencia ambiental, exigiendo analizar tanto los datos sobre el cambio climático como los llamados a la acción ciudadana para proteger responsablemente el futuro sostenible de todo nuestro planeta Tierra."
+  },
+  {
+    "intent_id": "identificacion_de_epitetos",
+    "keywords": [
+      "epiteto",
+      "adjetivo",
+      "inherente",
+      "cualidad",
+      "poesia"
+    ],
+    "base_response": "El epíteto es un adjetivo que resalta una cualidad inherente del sustantivo, como 'nieve blanca' o 'fuego ardiente'. Aunque parezca redundante, su identificación en la literatura clásica y poética demuestra cómo los autores buscan intensificar estéticamente las imágenes mentales y emocionales del lector."
+  },
+  {
+    "intent_id": "comprension_de_textos_filosoficos_basicos",
+    "keywords": [
+      "filosofia",
+      "reflexion",
+      "etica",
+      "preguntas",
+      "existencia"
+    ],
+    "base_response": "Introducir textos filosóficos adaptados exige un nivel de abstracción muy alto. La lectura no busca acumular datos, sino generar preguntas sobre la existencia, la ética o la libertad, invitando al estudiante a detenerse constantemente para reflexionar sobre sus propios valores y creencias personales."
+  },
+  {
+    "intent_id": "lectura_de_cartas_de_navegacion_historicas",
+    "keywords": [
+      "cartas",
+      "navegacion",
+      "mapas",
+      "historia",
+      "rutas"
+    ],
+    "base_response": "Las cartas de navegación y mapas antiguos narran visualmente los descubrimientos y la visión geopolítica del pasado. Su 'lectura' cruzada con crónicas de época permite entender las concepciones erróneas y los miedos a lo desconocido que motivaron o frenaron grandes expediciones marítimas mundiales."
+  },
+  {
+    "intent_id": "analisis_de_finales_abiertos",
+    "keywords": [
+      "final",
+      "abierto",
+      "conclusion",
+      "imaginacion",
+      "incertidumbre"
+    ],
+    "base_response": "Un final abierto no resuelve el conflicto principal, dejando el destino de los personajes en suspenso. Analizar estas obras frustra agradablemente al lector pasivo y estimula al activo, obligándole a usar toda su imaginación para construir posibles conclusiones basadas en los indicios previos."
+  },
+  {
+    "intent_id": "comprension_de_acotaciones_cinematograficas",
+    "keywords": [
+      "acotaciones",
+      "cine",
+      "luces",
+      "camara",
+      "escenario"
+    ],
+    "base_response": "En guiones técnicos, las acotaciones dirigen la iluminación, el encuadre y el sonido. Su lectura comprensiva enseña que la atmósfera narrativa no solo se construye con palabras y diálogos, sino también con el control riguroso del espacio visual, la luz y los estímulos auditivos ambientales."
+  },
+  {
+    "intent_id": "lectura_de_textos_de_autoayuda",
+    "keywords": [
+      "autoayuda",
+      "superacion",
+      "psicologia",
+      "motivacion",
+      "consejos"
+    ],
+    "base_response": "La lectura de textos de autoayuda requiere un enfoque reflexivo para aplicar los consejos a la vida real. Analizarlos críticamente permite distinguir entre herramientas psicológicas útiles basadas en evidencia y promesas mágicas vacías, fomentando un autoconocimiento equilibrado y realista."
+  },
+  {
+    "intent_id": "identificacion_de_zeugmas",
+    "keywords": [
+      "zeugma",
+      "omision",
+      "verbo",
+      "figura",
+      "ahorro"
+    ],
+    "base_response": "El zeugma es una figura retórica donde una palabra (usualmente un verbo) se usa una vez, pero se sobreentiende en las frases siguientes para evitar repeticiones. Identificarlo agiliza la lectura y demuestra la capacidad del cerebro para rellenar vacíos sintácticos lógicos de manera casi automática."
+  },
+  {
+    "intent_id": "comprension_de_ensayos_literarios",
+    "keywords": [
+      "ensayo",
+      "literatura",
+      "analisis",
+      "reflexion",
+      "estetica"
+    ],
+    "base_response": "Los ensayos literarios combinan el análisis de obras con una prosa muy cuidada estéticamente. Su lectura exige apreciar tanto la validez de los argumentos críticos del autor como la belleza estilística de su escritura, sirviendo de puente entre el rigor académico y la creatividad artística pura."
+  },
+  {
+    "intent_id": "analisis_de_discursos_historicos",
+    "keywords": [
+      "discurso",
+      "oratoria",
+      "historia",
+      "persuasion",
+      "multitudes"
+    ],
+    "base_response": "Analizar grandes discursos históricos (como los de Martin Luther King) requiere identificar recursos de oratoria como repeticiones y metáforas potentes. Permite comprender cómo el lenguaje oral estructurado puede movilizar a multitudes, cambiar leyes y dejar una huella imborrable en la memoria colectiva mundial."
+  },
+  {
+    "intent_id": "lectura_de_graficas_de_barras_y_pasteles",
+    "keywords": [
+      "graficas",
+      "barras",
+      "pasteles",
+      "comparacion",
+      "datos"
+    ],
+    "base_response": "Interpretar gráficas circulares y de barras junto con el texto expositivo es vital para la alfabetización estadística. Enseña a comparar proporciones visualmente y validar si las afirmaciones textuales sobre mayorías o tendencias están verdaderamente respaldadas por los datos numéricos presentados."
+  },
+  {
+    "intent_id": "identificacion_de_poliptoton",
+    "keywords": [
+      "poliptoton",
+      "repeticion",
+      "palabra",
+      "derivados",
+      "figura"
+    ],
+    "base_response": "El políptoton consiste en repetir una palabra con diferentes flexiones ('amigo de sus amigos'). Reconocer esta figura en la poesía o prosa rítmica ayuda a captar el énfasis intensivo sobre un concepto central, añadiendo una cadencia casi hipnótica y persuasiva al mensaje principal."
+  },
+  {
+    "intent_id": "comprension_de_textos_distopicos",
+    "keywords": [
+      "distopia",
+      "futuro",
+      "pesimismo",
+      "sociedad",
+      "control"
+    ],
+    "base_response": "La lectura de novelas distópicas advierte sobre futuros indeseables marcados por regímenes totalitarios o desastres tecnológicos. Su análisis promueve una reflexión ciudadana profunda sobre el valor incalculable de la libertad, los peligros del control masivo y las consecuencias éticas de nuestras decisiones sociopolíticas actuales."
+  },
+  {
+    "intent_id": "lectura_de_bitacoras_de_investigacion",
+    "keywords": [
+      "bitacora",
+      "investigacion",
+      "registro",
+      "diario",
+      "ciencia"
+    ],
+    "base_response": "Las bitácoras o cuadernos de campo registran el día a día de una investigación científica prolongada. Leerlas revela el proceso detrás de los grandes descubrimientos, lleno de errores, dudas e iteraciones, desmitificando la ciencia y acercándola como un trabajo arduo, humano y muy sistemático."
+  },
+  {
+    "intent_id": "analisis_de_finales_circulares",
+    "keywords": [
+      "final",
+      "circular",
+      "estructura",
+      "repeticion",
+      "narrativa"
+    ],
+    "base_response": "Una narrativa circular termina exactamente donde comenzó, a menudo sugiriendo que la historia está destinada a repetirse eternamente. Analizar esta estructura exige que el lector conecte la primera y última página, descubriendo que la evolución de los personajes los devolvió, irremediablemente, a su inevitable punto de partida original."
+  },
+  {
+    "intent_id": "comprension_de_criticas_gastronomicas",
+    "keywords": [
+      "critica",
+      "gastronomia",
+      "sabores",
+      "experiencia",
+      "sentidos"
+    ],
+    "base_response": "La lectura de reseñas de restaurantes es un ejercicio avanzado de vocabulario sensorial. Exige decodificar descripciones muy refinadas sobre sabores, texturas y olores, uniendo el análisis técnico culinario con la experiencia estética y subjetiva del paladar del crítico profesional."
+  },
+  {
+    "intent_id": "identificacion_de_pleonasmos",
+    "keywords": [
+      "pleonasmo",
+      "redundancia",
+      "repeticion",
+      "enfasis",
+      "lenguaje"
+    ],
+    "base_response": "El pleonasmo usa palabras innecesarias para el sentido literal ('subir arriba'), generalmente considerado un error común. Sin embargo, en la literatura, identificarlo permite apreciar cómo algunos autores lo utilizan intencionadamente para dar gran fuerza expresiva y énfasis dramático a una acción fundamental."
+  },
+  {
+    "intent_id": "lectura_de_infografias_animadas_multimedia",
+    "keywords": [
+      "infografia",
+      "animacion",
+      "multimedia",
+      "digital",
+      "interaccion"
+    ],
+    "base_response": "En entornos digitales, leer infografías animadas implica interactuar con el texto haciendo clics o desplazamientos. Requiere habilidades de lectura no lineal, donde el estudiante decide el ritmo y el orden de exploración para construir activamente su propia comprensión del tema expuesto."
+  },
+  {
+    "intent_id": "analisis_de_sarcasmo_literario",
+    "keywords": [
+      "sarcasmo",
+      "burla",
+      "ironia",
+      "cruel",
+      "literatura"
+    ],
+    "base_response": "A diferencia de la ironía suave, el sarcasmo literario es una burla mordaz y directa. Analizarlo exige madurez para detectar la crítica dolorosa oculta tras palabras aparentemente formales, comprendiendo la frustración, superioridad o enojo profundo que el autor o personaje intenta descargar."
+  },
+  {
+    "intent_id": "comprension_de_textos_de_divulgacion_tecnologica",
+    "keywords": [
+      "tecnologia",
+      "divulgacion",
+      "innovacion",
+      "futuro",
+      "aplicaciones"
+    ],
+    "base_response": "Leer sobre innovaciones tecnológicas requiere traducir rápidamente vocabulario técnico nuevo (como 'blockchain' o 'IA') a conceptos comprensibles. Fomenta la adaptabilidad mental necesaria para entender cómo estas herramientas disruptivas modificarán inevitablemente nuestro mercado laboral, privacidad y convivencia social diaria en el futuro próximo."
+  },
+  {
+    "intent_id": "lectura_de_manifiestos_feministas_historicos",
+    "keywords": [
+      "manifiesto",
+      "feminismo",
+      "historia",
+      "derechos",
+      "igualdad"
+    ],
+    "base_response": "La lectura de manifiestos y textos fundacionales por los derechos de la mujer aporta una perspectiva histórica indispensable. Requiere analizar la valentía retórica empleada para desafiar el status quo de la época, sentando las bases argumentativas para las luchas modernas por la equidad de género global."
+  },
+  {
+    "intent_id": "identificacion_de_prosopografias",
+    "keywords": [
+      "prosopografia",
+      "descripcion",
+      "fisico",
+      "apariencia",
+      "personajes"
+    ],
+    "base_response": "La prosopografía es la descripción detallada de los rasgos físicos y la apariencia externa de un personaje. Identificarla y separarla de sus rasgos psicológicos ayuda al lector a visualizar con claridad el casting literario, imaginando vestimentas y rostros como si estuviera presenciando una película nítida."
+  },
+  {
+    "intent_id": "comprension_de_textos_metafisicos_breves",
+    "keywords": [
+      "metafisica",
+      "realidad",
+      "ser",
+      "filosofia",
+      "existencia"
+    ],
+    "base_response": "Aproximarse a cuentos o textos con tintes metafísicos (como los de Borges) desafía la percepción de la realidad. Su lectura no busca respuestas definitivas, sino provocar asombro y dudas sobre conceptos como el infinito, el tiempo y la verdadera naturaleza ilusoria del universo que habitamos."
+  },
+  {
+    "intent_id": "lectura_de_planos_arquitectonicos_y_croquis",
+    "keywords": [
+      "planos",
+      "croquis",
+      "arquitectura",
+      "espacio",
+      "simbolos"
+    ],
+    "base_response": "Interpretar croquis y mapas de edificios requiere decodificar leyendas espaciales y escalas proporcionales. Esta lectura viso-espacial es fundamental para la vida diaria y profesiones técnicas, enseñando a traducir representaciones bidimensionales esquemáticas en entornos tridimensionales completamente funcionales y transitables."
+  },
+  {
+    "intent_id": "analisis_de_finales_sorpresa",
+    "keywords": [
+      "final",
+      "sorpresa",
+      "giro",
+      "inesperado",
+      "relectura"
+    ],
+    "base_response": "Los finales sorpresa (plot twists) cambian drásticamente el significado de todo lo leído anteriormente. Analizarlos obliga a una relectura mental retrospectiva. El estudiante debe buscar las sutiles pistas previas que el autor esparció, reconociendo el brillante engaño narrativo que mantuvo su atención cautiva."
+  },
+  {
+    "intent_id": "comprension_de_guiones_de_podcasts",
+    "keywords": [
+      "podcast",
+      "guion",
+      "audio",
+      "conversacion",
+      "estructura"
+    ],
+    "base_response": "Leer transcripciones o guiones de podcasts actuales muestra cómo se estructura el lenguaje conversacional moderno para atrapar al oyente. Identifica las marcas de oralidad simulada, las transiciones ágiles de temas y el uso de la empatía directa para conectar emocionalmente con audiencias globales masivas."
+  },
+  {
+    "intent_id": "lectura_de_textos_periodisticos_de_investigacion",
+    "keywords": [
+      "periodismo",
+      "investigacion",
+      "denuncia",
+      "fuentes",
+      "corrupcion"
+    ],
+    "base_response": "El periodismo de investigación expone verdades ocultas mediante análisis exhaustivos. Su lectura exige paciencia para seguir complejas tramas de datos y testimonios, desarrollando un espíritu crítico hacia el poder y valorando el papel fundamental de la prensa libre en las sociedades plenamente democráticas."
+  },
+  {
+    "intent_id": "identificacion_de_etopeyas",
+    "keywords": [
+      "etopeya",
+      "descripcion",
+      "caracter",
+      "psicologia",
+      "virtudes"
+    ],
+    "base_response": "La etopeya es la descripción exclusiva de los rasgos psicológicos, morales y costumbres de un personaje. Identificarla es crucial para comprender profundamente las motivaciones internas que impulsan sus acciones a lo largo de toda la historia, más allá de su simple apariencia externa física."
+  },
+  {
+    "intent_id": "comprension_de_ensayos_cientificos",
+    "keywords": [
+      "ensayo",
+      "ciencia",
+      "teoria",
+      "argumentos",
+      "evidencia"
+    ],
+    "base_response": "Los ensayos científicos argumentan a favor de una nueva teoría o interpretación de datos. Su lectura demanda pensamiento analítico para evaluar si la hipótesis inicial está sólida y lógicamente respaldada por la evidencia empírica presentada a lo largo del riguroso desarrollo textual propuesto."
+  },
+  {
+    "intent_id": "analisis_de_debates_politicos_transcritos",
+    "keywords": [
+      "debate",
+      "politica",
+      "transcripcion",
+      "argumentos",
+      "replica"
+    ],
+    "base_response": "Leer transcripciones de debates políticos permite analizar fríamente las estrategias de persuasión. Sin la influencia del carisma visual, el estudiante puede identificar falacias argumentativas, evasivas y la verdadera solidez de las propuestas presentadas por los diferentes candidatos o líderes de opinión pública y social."
+  },
+  {
+    "intent_id": "lectura_de_infografias_historicas",
+    "keywords": [
+      "infografia",
+      "historia",
+      "cronologia",
+      "eventos",
+      "visual"
+    ],
+    "base_response": "Las infografías históricas resumen largos periodos o batallas complejas visualmente. Su lectura integra la comprensión de textos cortos con el análisis de mapas y líneas de tiempo, facilitando enormemente la memorización de causas, desarrollos y consecuencias de eventos que marcaron profundamente a la humanidad."
+  },
+  {
+    "intent_id": "identificacion_de_quiamos",
+    "keywords": [
+      "quiasmo",
+      "cruce",
+      "palabras",
+      "figura",
+      "espejo"
+    ],
+    "base_response": "El quiasmo es una figura retórica que cruza elementos de dos frases creando un efecto de espejo ('Se debe comer para vivir, no vivir para comer'). Reconocerlo estimula la agilidad mental y permite apreciar juegos de palabras ingeniosos que encierran grandes reflexiones éticas y existenciales."
+  },
+  {
+    "intent_id": "comprension_de_textos_utopicos",
+    "keywords": [
+      "utopia",
+      "sociedad",
+      "ideal",
+      "perfeccion",
+      "fantasia"
+    ],
+    "base_response": "A diferencia de las distopías, los textos utópicos imaginan sociedades perfectas y armónicas. Su lectura invita a la reflexión propositiva, motivando a los estudiantes a debatir sobre los valores, leyes y sistemas económicos necesarios para construir un futuro ideal, pacífico y completamente justo."
+  },
+  {
+    "intent_id": "lectura_de_registros_anecdoticos",
+    "keywords": [
+      "registro",
+      "anecdotario",
+      "observacion",
+      "conducta",
+      "docente"
+    ],
+    "base_response": "Los registros anecdóticos son notas breves sobre comportamientos inusuales o significativos, comúnmente usados en educación. Analizarlos enseña la importancia de la observación objetiva y el registro documental para comprender la evolución psicológica y académica continua de cualquier persona o grupo de estudio determinado."
+  },
+  {
+    "intent_id": "analisis_de_finales_tragicos",
+    "keywords": [
+      "final",
+      "tragedia",
+      "fatalidad",
+      "consecuencias",
+      "dolor"
+    ],
+    "base_response": "Las narrativas con finales trágicos confrontan al lector con la inevitabilidad del destino o las graves consecuencias de errores fatales. Analizarlos desarrolla la empatía profunda, enseñando importantes lecciones morales sobre la soberbia, las malas decisiones y la fragilidad inherente a la condición humana."
+  },
+  {
+    "intent_id": "comprension_de_manifiestos_tecnologicos",
+    "keywords": [
+      "manifiesto",
+      "tecnologia",
+      "etica",
+      "futuro",
+      "innovacion"
+    ],
+    "base_response": "Los manifiestos sobre el uso de la tecnología exigen comprender debates éticos contemporáneos (ej. inteligencia artificial). Su lectura promueve una ciudadanía digital responsable, obligando a cuestionar si todo avance técnico debe implementarse ciegamente o si requiere de límites morales y legislativos urgentes."
+  },
+  {
+    "intent_id": "identificacion_de_paronomasias",
+    "keywords": [
+      "paronomasia",
+      "juego",
+      "palabras",
+      "sonido",
+      "similar"
+    ],
+    "base_response": "La paronomasia utiliza palabras con sonidos similares pero significados distintos (ej. 'casado' y 'cansado'). Reconocer estos juegos lingüísticos en poemas o refranes agudiza la percepción auditiva del lenguaje escrito, demostrando cómo pequeñas variaciones fonéticas pueden alterar o enriquecer totalmente el mensaje original."
+  },
+  {
+    "intent_id": "lectura_de_dashboard_de_datos",
+    "keywords": [
+      "dashboard",
+      "tablero",
+      "datos",
+      "metricas",
+      "interactivo"
+    ],
+    "base_response": "Leer tableros de control (dashboards) en entornos digitales requiere habilidades analíticas rápidas. El estudiante debe interpretar gráficos, medidores y cifras actualizadas en tiempo real, sintetizando múltiples fuentes de información visual para obtener conclusiones certeras sobre el rendimiento de un sistema u organización general."
+  },
+  {
+    "intent_id": "analisis_de_humor_negro_literario",
+    "keywords": [
+      "humor",
+      "negro",
+      "tabu",
+      "satira",
+      "incomodo"
+    ],
+    "base_response": "El humor negro aborda temas tabú o dolorosos (muerte, enfermedad) con un enfoque cómico e incómodo. Su análisis requiere un alto grado de madurez emocional para comprender que, a menudo, la risa es una válvula de escape literaria para procesar realidades extremadamente crudas."
+  },
+  {
+    "intent_id": "comprension_de_textos_de_divulgacion_economica",
+    "keywords": [
+      "economia",
+      "divulgacion",
+      "finanzas",
+      "conceptos",
+      "dinero"
+    ],
+    "base_response": "Aproximarse a la divulgación económica implica desmitificar conceptos complejos como inflación o tasas de interés. Su lectura es vital para la supervivencia adulta, permitiendo comprender cómo las decisiones macroeconómicas globales afectan directamente al bolsillo, ahorros y planes futuros del ciudadano promedio diario."
+  },
+  {
+    "intent_id": "lectura_de_declaraciones_de_derechos_historicas",
+    "keywords": [
+      "declaracion",
+      "derechos",
+      "historia",
+      "ciudadania",
+      "libertad"
+    ],
+    "base_response": "Leer documentos como la Declaración de los Derechos del Hombre requiere situarse en su contexto revolucionario. Fomenta el respeto cívico, enseñando que las libertades actuales que damos por sentadas fueron conquistas difíciles logradas mediante poderosos argumentos escritos y prolongadas luchas sociales valientes."
+  },
+  {
+    "intent_id": "identificacion_de_cronografias",
+    "keywords": [
+      "cronografia",
+      "descripcion",
+      "tiempo",
+      "epoca",
+      "ambiente"
+    ],
+    "base_response": "La cronografía es la descripción detallada de una época o momento histórico específico. Identificarla permite al lector sumergirse completamente en la atmósfera del pasado, comprendiendo que el entorno temporal es un personaje silencioso que condiciona fuertemente las actitudes y decisiones de todos."
+  },
+  {
+    "intent_id": "comprension_de_textos_epistolares_ficticios",
+    "keywords": [
+      "novela",
+      "epistolar",
+      "cartas",
+      "ficcion",
+      "fragmentos"
+    ],
+    "base_response": "Las novelas epistolares están formadas enteramente por cartas o diarios intercambiados entre personajes. Su lectura exige armar el rompecabezas narrativo, deduciendo la trama general a través de los fragmentos subjetivos y sesgados aportados individualmente por cada uno de los remitentes involucrados."
+  },
+  {
+    "intent_id": "lectura_de_manuales_de_estilo_de_redaccion",
+    "keywords": [
+      "manual",
+      "estilo",
+      "redaccion",
+      "normas",
+      "escritura"
+    ],
+    "base_response": "Los manuales de estilo (como los periodísticos) establecen las reglas de redacción de una organización. Leerlos mejora la propia escritura del estudiante, enseñando la importancia de la coherencia, el tono adecuado y la precisión lingüística para mantener la credibilidad ante un público exigente."
+  },
+  {
+    "intent_id": "analisis_de_finales_moraleja",
+    "keywords": [
+      "final",
+      "moraleja",
+      "ensenanza",
+      "explicito",
+      "valores"
+    ],
+    "base_response": "En contraste con los finales abiertos, el final con moraleja explícita cierra la historia entregando una lección directa de comportamiento. Analizarlos es fundamental en etapas tempranas de lectura, ayudando a consolidar valores éticos claros de manera estructurada, directa y muy comprensible."
+  },
+  {
+    "intent_id": "comprension_de_guiones_de_documentales",
+    "keywords": [
+      "documental",
+      "guion",
+      "voz",
+      "off",
+      "realidad"
+    ],
+    "base_response": "Leer guiones documentales revela cómo se construye una narrativa atrapante basada estrictamente en hechos reales. Implica analizar cómo la 'voz en off' entrelaza entrevistas y datos duros, guiando la interpretación emocional e intelectual del espectador frente a la compleja realidad expuesta audiovisual y textualmente."
+  },
+  {
+    "intent_id": "lectura_de_ensayos_filosoficos",
+    "keywords": [
+      "ensayo",
+      "filosofico",
+      "argumento",
+      "razonamiento",
+      "abstraccion"
+    ],
+    "base_response": "La lectura de ensayos filosóficos demanda un alto nivel de abstracción. Requiere seguir pacientemente la evolución de un pensamiento complejo, evaluando la coherencia lógica de las premisas planteadas sobre la moralidad, la existencia humana y la percepción última de la verdad universal."
+  },
+  {
+    "intent_id": "identificacion_de_sinonimia_y_antonimia_en_contexto",
+    "keywords": [
+      "sinonimia",
+      "antonimia",
+      "contexto",
+      "vocabulario",
+      "matices"
+    ],
+    "base_response": "Identificar sinónimos y antónimos según el contexto enriquece el vocabulario preciso. Permite descubrir que las palabras rara vez tienen significados idénticos; su uso depende sutilmente del tono, la intención del autor y la situación emocional exacta descrita en cada párrafo literario particular."
+  },
+  {
+    "intent_id": "comprension_de_textos_de_auto_ficcion",
+    "keywords": [
+      "autoficcion",
+      "realidad",
+      "invencion",
+      "autor",
+      "limites"
+    ],
+    "base_response": "La autoficción mezcla eventos reales de la vida del autor con elementos totalmente inventados. Leerla es un desafío fascinante que borra los límites entre biografía y novela, obligando al lector a cuestionar permanentemente la veracidad de la narración y los recuerdos del protagonista."
+  },
+  {
+    "intent_id": "analisis_de_monologos_teatrales",
+    "keywords": [
+      "monologo",
+      "teatro",
+      "introspeccion",
+      "voz",
+      "personaje"
+    ],
+    "base_response": "Analizar un monólogo teatral requiere entender por qué un personaje habla solo o se dirige directamente al público. Revela sus conflictos internos más ocultos sin filtros, exigiendo al lector interpretar las emociones subyacentes que el actor deberá proyectar magistralmente sobre el escenario real."
+  },
+  {
+    "intent_id": "lectura_de_esquemas_arboreos",
+    "keywords": [
+      "esquema",
+      "arbol",
+      "jerarquia",
+      "clasificacion",
+      "visual"
+    ],
+    "base_response": "Interpretar esquemas arbóreos (como clasificaciones biológicas o gramaticales) entrena el pensamiento taxonómico. Ayuda a visualizar jerarquías desde conceptos muy generales hacia detalles específicos, facilitando la comprensión rápida de sistemas organizados de manera visual, lógica y altamente estructurada en el ámbito científico y educativo."
+  },
+  {
+    "intent_id": "identificacion_de_epifonemas",
+    "keywords": [
+      "epifonema",
+      "exclamacion",
+      "resumen",
+      "cierre",
+      "sentencia"
+    ],
+    "base_response": "El epifonema es una exclamación reflexiva o sentencia que se coloca al final de un texto o párrafo para resumir lo expuesto con gran fuerza emocional. Identificarlo permite captar el mensaje central o moraleja definitiva que el autor desea dejar resonando en la mente del lector."
+  },
+  {
+    "intent_id": "comprension_de_textos_de_divulgacion_psicologica",
+    "keywords": [
+      "psicologia",
+      "divulgacion",
+      "mente",
+      "comportamiento",
+      "emociones"
+    ],
+    "base_response": "Leer divulgación psicológica ayuda a comprender el comportamiento humano y las emociones propias o ajenas. Requiere asimilar conceptos clínicos traducidos a lenguaje accesible, fomentando la empatía, la inteligencia emocional y la capacidad para analizar interacciones sociales complejas desde una perspectiva mucho más analítica e informada."
+  },
+  {
+    "intent_id": "lectura_de_contratos_basicos",
+    "keywords": [
+      "contrato",
+      "legalidad",
+      "clausulas",
+      "obligaciones",
+      "acuerdo"
+    ],
+    "base_response": "Familiarizarse con la estructura de contratos básicos (como alquiler o servicios) es una habilidad vital. Su lectura debe ser extremadamente cautelosa y desconfiada, prestando atención a la 'letra pequeña', plazos y obligaciones, para evitar futuros problemas legales por firmar documentos sin comprensión total."
+  },
+  {
+    "intent_id": "analisis_de_finales_in medias res",
+    "keywords": [
+      "final",
+      "abrupto",
+      "medias",
+      "res",
+      "accion"
+    ],
+    "base_response": "Un final 'in medias res' corta la narración repentinamente en medio de una acción importante. Analizar este recurso genera una sensación de continuidad urgente, dejando al lector con la inquietud provocada intencionalmente de que la verdadera historia continuará ocurriendo más allá de las últimas páginas del libro."
+  },
+  {
+    "intent_id": "comprension_de_ensayos_de_sociologia_basica",
+    "keywords": [
+      "sociologia",
+      "sociedad",
+      "masas",
+      "cultura",
+      "analisis"
+    ],
+    "base_response": "Leer textos sociológicos básicos introduce conceptos como 'cultura de masas', 'estratificación' o 'globalización'. Obliga al estudiante a mirar su entorno con nuevos ojos, comprendiendo que sus gustos y decisiones individuales están fuertemente influenciados por estructuras sociales históricas e invisibles dinámicas colectivas de poder."
+  },
+  {
+    "intent_id": "identificacion_de_anadiplosis",
+    "keywords": [
+      "anadiplosis",
+      "repeticion",
+      "final",
+      "principio",
+      "enlace"
+    ],
+    "base_response": "La anadiplosis es la repetición de la última palabra de un verso o frase al comienzo del siguiente (ej. 'ideas que generan acciones, acciones que cambian vidas'). Su identificación resalta la fuerte conexión lógica y rítmica, encadenando conceptos de manera persuasiva e inolvidable para el oyente."
+  },
+  {
+    "intent_id": "lectura_de_storyboards",
+    "keywords": [
+      "storyboard",
+      "guion",
+      "grafico",
+      "secuencia",
+      "cine"
+    ],
+    "base_response": "Leer un storyboard es decodificar un guion ilustrado. Combina viñetas dibujadas con indicaciones de cámara y diálogo breve. Desarrolla la alfabetización visual avanzada, enseñando cómo se planifica secuencialmente la narrativa audiovisual antes de encender las cámaras para grabar una película, animación o anuncio."
+  },
+  {
+    "intent_id": "analisis_de_humor_absurdo",
+    "keywords": [
+      "humor",
+      "absurdo",
+      "ilogico",
+      "sorpresa",
+      "comedia"
+    ],
+    "base_response": "El humor absurdo rompe completamente con las expectativas lógicas y las convenciones del sentido común. Analizarlo exige una mente muy abierta para disfrutar de situaciones irracionales o diálogos incoherentes que, bajo su aparente locura, esconden a menudo profundas críticas filosóficas sobre la rutina moderna."
+  },
+  {
+    "intent_id": "comprension_de_textos_de_geopolitica",
+    "keywords": [
+      "geopolitica",
+      "poder",
+      "naciones",
+      "estrategia",
+      "geografia"
+    ],
+    "base_response": "Leer sobre geopolítica requiere relacionar la geografía física con los intereses estratégicos, económicos y militares de las naciones. Promueve una visión global, permitiendo comprender que los conflictos actuales internacionales no son casuales, sino el resultado de disputas históricas por recursos y control territorial estratégico."
+  },
+  {
+    "intent_id": "lectura_de_declaraciones_de_principios",
+    "keywords": [
+      "declaracion",
+      "principios",
+      "valores",
+      "vision",
+      "mision"
+    ],
+    "base_response": "Las declaraciones de principios y visiones corporativas exponen los valores fundamentales de una organización. Su lectura crítica permite evaluar la coherencia entre las nobles intenciones escritas y las acciones reales de la empresa o partido político, entrenando al estudiante para detectar discursos vacíos corporativos."
+  },
+  {
+    "intent_id": "identificacion_de_topografias",
+    "keywords": [
+      "topografia",
+      "descripcion",
+      "paisaje",
+      "terreno",
+      "literatura"
+    ],
+    "base_response": "La topografía es la descripción minuciosa de paisajes y terrenos naturales o urbanos en la literatura. Identificar estas descripciones detalladas ayuda al lector a orientarse espacialmente, construyendo el escenario geográfico sobre el cual se moverán las tropas, exploradores o personajes de la trama principal."
+  },
+  {
+    "intent_id": "comprension_de_mitologia_comparada",
+    "keywords": [
+      "mitologia",
+      "comparada",
+      "arquetipos",
+      "culturas",
+      "similitudes"
+    ],
+    "base_response": "Leer textos de mitología comparada exige encontrar similitudes entre creencias de culturas separadas (ej. dioses del trueno en diferentes continentes). Desarrolla el pensamiento analógico, revelando arquetipos humanos universales y miedos compartidos que trascienden todas las fronteras geográficas y barreras temporales históricas."
+  },
+  {
+    "intent_id": "lectura_de_manuales_de_crisis_y_emergencias",
+    "keywords": [
+      "manual",
+      "crisis",
+      "emergencias",
+      "protocolo",
+      "seguridad"
+    ],
+    "base_response": "Los manuales de respuesta ante emergencias (sismos, incendios) utilizan un lenguaje directo y altamente prescriptivo. Su lectura salva vidas; demanda memorización de protocolos secuenciales rápidos, fomentando la serenidad intelectual frente al pánico y el respeto absoluto por las normas de seguridad preventivas colectivas."
+  },
+  {
+    "intent_id": "analisis_de_finales_con_cliffhanger",
+    "keywords": [
+      "cliffhanger",
+      "suspenso",
+      "final",
+      "tension",
+      "continuacion"
+    ],
+    "base_response": "El cliffhanger deja al protagonista en una situación extrema al final del capítulo o libro, sin revelar cómo escapará. Analizar esta técnica comercial explica cómo los autores garantizan la atención sostenida del público, generando una ansiedad narrativa que obliga irremediablemente a buscar la continuación inmediata."
+  },
+  {
+    "intent_id": "comprension_de_textos_cientificos_historicos",
+    "keywords": [
+      "ciencia",
+      "historica",
+      "descubrimientos",
+      "evolucion",
+      "pensamiento"
+    ],
+    "base_response": "Leer textos científicos clásicos (ej. fragmentos de Darwin o Galileo) permite apreciar la evolución del pensamiento humano. Requiere contextualización para entender los enormes obstáculos religiosos y tecnológicos que estos visionarios enfrentaron al exponer valientemente verdades que hoy nos parecen totalmente obvias y comprobadas."
+  },
+  {
+    "intent_id": "lectura_de_ensayos_antropologicos",
+    "keywords": [
+      "antropologia",
+      "cultura",
+      "humanidad",
+      "rituales",
+      "sociedades"
+    ],
+    "base_response": "La lectura de ensayos antropológicos expande la tolerancia cultural. Exige analizar rituales, tabúes y estructuras de parentesco de sociedades lejanas o pasadas, obligando al estudiante a abandonar el etnocentrismo y a comprender que existen múltiples formas válidas de organizar y entender la experiencia vital humana."
+  },
+  {
+    "intent_id": "identificacion_de_policripticos",
+    "keywords": [
+      "criptico",
+      "oscuro",
+      "dificil",
+      "interpretacion",
+      "poesia"
+    ],
+    "base_response": "Un texto críptico es aquel de difícil interpretación por su oscuridad deliberada, común en la poesía hermética. Identificar que el autor oculta intencionadamente el sentido exige del lector una profunda labor investigativa, descifrando símbolos arcanos sin esperar encontrar una única y definitiva verdad absoluta."
+  },
+  {
+    "intent_id": "comprension_de_novelas_de_aprendizaje",
+    "keywords": [
+      "novela",
+      "aprendizaje",
+      "madurez",
+      "evolucion",
+      "juventud"
+    ],
+    "base_response": "La novela de aprendizaje (Bildungsroman) narra el paso de la niñez a la adultez del protagonista. Su lectura permite al estudiante adolescente identificarse fuertemente con las crisis, descubrimientos y pérdida de inocencia del personaje, facilitando una profunda introspección sobre su propio crecimiento personal acelerado."
+  },
+  {
+    "intent_id": "analisis_de_monologos_interiores_fragmentados",
+    "keywords": [
+      "monologo",
+      "fragmentado",
+      "trauma",
+      "confusion",
+      "conciencia"
+    ],
+    "base_response": "A diferencia del flujo de conciencia continuo, el monólogo fragmentado refleja confusión, pánico o trauma profundo. Analizar oraciones rotas y pensamientos inacabados enseña a decodificar el caos mental del personaje, transmitiendo emocionalmente una intensa angustia psicológica que la narración lineal tradicional no podría lograr."
+  },
+  {
+    "intent_id": "lectura_de_esquemas_cronologicos_comparados",
+    "keywords": [
+      "esquema",
+      "comparado",
+      "cronologia",
+      "sincronia",
+      "historia"
+    ],
+    "base_response": "Interpretar esquemas cronológicos comparados permite observar qué sucedía simultáneamente en diferentes partes del mundo (sincronía). Esta lectura visual compleja rompe la visión aislada de la historia nacional, enseñando al alumno a pensar globalmente y a descubrir cómo eventos lejanos están interconectados temporal y causalmente."
+  },
+  {
+    "intent_id": "identificacion_de_epanalepsis",
+    "keywords": [
+      "epanalepsis",
+      "repeticion",
+      "extremos",
+      "verso",
+      "enfasis"
+    ],
+    "base_response": "La epanalepsis es la repetición de la misma palabra al principio y al final de una frase o verso (ej. 'Verde que te quiero verde'). Su identificación revela el marco estilístico cerrado que el autor impone para enfatizar una idea obsesiva, creando una resonancia poética memorable."
+  },
+  {
+    "intent_id": "comprension_de_textos_de_divulgacion_astronomica",
+    "keywords": [
+      "astronomia",
+      "cosmos",
+      "espacio",
+      "divulgacion",
+      "escala"
+    ],
+    "base_response": "Leer divulgación astronómica reta enormemente la imaginación del estudiante. Exige comprender escalas de tiempo y distancia incomprensibles (años luz, miles de millones de años), fomentando una perspectiva de profunda humildad cósmica frente a la inmensidad insondable del universo y la fragilidad del planeta Tierra."
+  },
+  {
+    "intent_id": "lectura_de_contratos_sociales_y_constituciones",
+    "keywords": [
+      "constitucion",
+      "contrato",
+      "social",
+      "leyes",
+      "fundamento"
+    ],
+    "base_response": "La lectura de textos constitucionales es el pilar de la educación cívica. Requiere entender que estas leyes supremas representan el gran acuerdo fundacional que garantiza la convivencia pacífica. Enseña a interpretar derechos complejos y el frágil equilibrio de poderes que sostiene a las repúblicas modernas."
+  },
+  {
+    "intent_id": "analisis_de_finales_de_justicia_poetica",
+    "keywords": [
+      "justicia",
+      "poetica",
+      "castigo",
+      "recompensa",
+      "moralidad"
+    ],
+    "base_response": "La justicia poética es un final donde la virtud es recompensada y el vicio es castigado de manera irónicamente adecuada a las faltas cometidas. Analizarlo ofrece una inmensa satisfacción moral al lector, consolidando la creencia arquetípica en el equilibrio del universo y la retribución divina o kármica."
+  },
+  {
+    "intent_id": "comprension_de_ensayos_de_economia_conductual",
+    "keywords": [
+      "economia",
+      "conductual",
+      "decisiones",
+      "irracional",
+      "psicologia"
+    ],
+    "base_response": "Leer sobre economía conductual fusiona psicología y finanzas. Exige cuestionar la premisa de que los humanos siempre toman decisiones lógicas con el dinero. Permite al estudiante reconocer sus propios sesgos cognitivos frente al consumo irracional, las ofertas engañosas y las trampas publicitarias del mercado actual."
+  },
+  {
+    "intent_id": "identificacion_de_epanadiplosis",
+    "keywords": [
+      "epanadiplosis",
+      "repeticion",
+      "frase",
+      "circulo",
+      "retorica"
+    ],
+    "base_response": "Similar a la epanalepsis, la epanadiplosis empieza y termina una frase con la misma palabra, encerrando el pensamiento en un círculo perfecto. Identificar esta figura retórica demuestra cómo la estructura gramatical puede crear una sensación de finalidad absoluta y de pensamiento lógicamente incuestionable."
+  },
+  {
+    "intent_id": "lectura_de_storyboards_publicitarios",
+    "keywords": [
+      "storyboard",
+      "publicidad",
+      "impacto",
+      "rapidez",
+      "persuasion"
+    ],
+    "base_response": "Los storyboards publicitarios son extremadamente dinámicos y compactos. Leerlos enseña a decodificar cómo se cuenta una historia persuasiva y emocional en apenas treinta segundos. Obliga a analizar la precisión casi quirúrgica requerida para captar la atención fugaz del consumidor en un mundo saturado de imágenes veloces."
+  },
+  {
+    "intent_id": "analisis_de_humor_satirico_social",
+    "keywords": [
+      "satira",
+      "sociedad",
+      "critica",
+      "costumbres",
+      "ridiculo"
+    ],
+    "base_response": "La sátira social expone los vicios y la hipocresía de una sociedad exponiéndolos al ridículo. Su análisis requiere agudeza intelectual para no tomar las exageraciones literalmente. Enseña al alumno a utilizar la ironía refinada como un arma civilizada y poderosa contra la injusticia, el esnobismo y la ignorancia generalizada."
+  },
+  {
+    "intent_id": "comprension_de_textos_de_ecologia_profunda",
+    "keywords": [
+      "ecologia",
+      "profunda",
+      "naturaleza",
+      "filosofia",
+      "valor"
+    ],
+    "base_response": "La ecología profunda plantea que la naturaleza tiene valor intrínseco, independientemente de su utilidad para los humanos. Leer estos textos filosóficos ecocentristas exige al estudiante abandonar la visión explotadora tradicional, fomentando un profundo respeto moral y casi espiritual hacia todos los seres vivos del delicado ecosistema terrestre."
+  },
+  {
+    "intent_id": "lectura_de_declaraciones_de_guerra_y_paz",
+    "keywords": [
+      "declaracion",
+      "guerra",
+      "paz",
+      "diplomacia",
+      "historia"
+    ],
+    "base_response": "Analizar declaraciones formales de guerra o tratados de paz requiere leer 'entre líneas'. Estos documentos diplomáticos históricos están llenos de justificaciones morales cuidadosamente redactadas. El lector crítico debe buscar los verdaderos intereses económicos y territoriales ocultos tras el lenguaje solemne, grandilocuente y patriótico."
+  },
+  {
+    "intent_id": "identificacion_de_cronotopos",
+    "keywords": [
+      "cronotopo",
+      "espacio",
+      "tiempo",
+      "conexion",
+      "narrativa"
+    ],
+    "base_response": "El cronotopo es la interconexión indivisible entre el espacio y el tiempo en la novela (ej. el castillo gótico medieval). Identificarlo permite comprender cómo un lugar específico en una época exacta genera la atmósfera necesaria que determina fatalmente el comportamiento y las posibilidades vitales de sus habitantes."
+  },
+  {
+    "intent_id": "comprension_de_mitos_escatologicos",
+    "keywords": [
+      "mitos",
+      "escatologicos",
+      "fin",
+      "mundo",
+      "apocalipsis"
+    ],
+    "base_response": "Los mitos escatológicos narran el fin del mundo (como el Apocalipsis o el Ragnarök). Su lectura revela los temores más profundos de las civilizaciones ante el caos, la destrucción divina y el juicio final. Exige analizar el simbolismo del renacimiento purificador tras la inevitable catástrofe global."
+  },
+  {
+    "intent_id": "lectura_de_manuales_de_primeros_auxilios",
+    "keywords": [
+      "manual",
+      "auxilios",
+      "urgencia",
+      "acciones",
+      "salvar"
+    ],
+    "base_response": "Los manuales de primeros auxilios son la cúspide de los textos instructivos utilitarios. Su lectura debe ser pragmática, rápida y memorística. Obliga al estudiante a internalizar procesos secuenciales salvavidas, priorizando la claridad absoluta, la calma emocional y la acción inmediata sobre cualquier tipo de análisis literario abstracto."
+  },
+  {
+    "intent_id": "analisis_de_finales_de_resolucion_ambigua",
+    "keywords": [
+      "final",
+      "ambiguo",
+      "interpretacion",
+      "dudas",
+      "resolucion"
+    ],
+    "base_response": "A diferencia del final abierto total, la resolución ambigua ofrece respuestas que se contradicen entre sí. El lector no sabe si el protagonista está loco o cuerdo, vivo o muerto. Analizarlo genera intensos debates interpretativos, demostrando que la gran literatura frecuentemente se niega a ofrecer certezas consoladoras fáciles."
+  },
+  {
+    "intent_id": "comprension_de_textos_cientificos_sobre_evolucion",
+    "keywords": [
+      "evolucion",
+      "ciencia",
+      "adaptacion",
+      "seleccion",
+      "biologia"
+    ],
+    "base_response": "Leer sobre evolución biológica y selección natural exige desterrar el pensamiento finalista (la idea de que las especies cambian 'para' algo intencionalmente). Requiere comprender la aleatoriedad de las mutaciones genéticas y la cruda adaptación al medio ambiente, fomentando una comprensión rigurosa, no mágica, del desarrollo de la intrincada vida terrestre."
+  },
+  {
+    "intent_id": "lectura_de_ensayos_sobre_etica",
+    "keywords": [
+      "ensayo",
+      "etica",
+      "moral",
+      "dilemas",
+      "valores"
+    ],
+    "base_response": "La lectura de ensayos éticos expone al estudiante a dilemas morales complejos donde no hay respuestas fáciles correctas o incorrectas. Requiere analizar argumentos contrapuestos, obligando al lector a examinar y justificar racionalmente sus propios valores personales frente a situaciones sociales extremas y sumamente ambiguas."
+  },
+  {
+    "intent_id": "identificacion_de_retruecanos",
+    "keywords": [
+      "retruecano",
+      "juego",
+      "palabras",
+      "orden",
+      "sentido"
+    ],
+    "base_response": "El retruécano invierte el orden de las palabras de una frase en la frase siguiente para crear un fuerte contraste de significado (ej. 'No hay camino para la paz, la paz es el camino'). Reconocerlo estimula la agilidad mental y permite apreciar el ingenio reflexivo del autor original."
+  },
+  {
+    "intent_id": "comprension_de_novelas_historicas_documentadas",
+    "keywords": [
+      "novela",
+      "historica",
+      "ficcion",
+      "documentacion",
+      "epoca"
+    ],
+    "base_response": "La novela histórica mezcla personajes ficticios con eventos reales minuciosamente investigados. Su lectura exige al estudiante distinguir entre la licencia poética del novelista y los hechos rigurosos, convirtiéndose en una herramienta inmersiva maravillosa para aprender historia de manera empática, viva y mucho menos aburrida."
+  },
+  {
+    "intent_id": "analisis_de_monologos_comicos_stand_up",
+    "keywords": [
+      "monologo",
+      "comedia",
+      "observacion",
+      "critica",
+      "rutina"
+    ],
+    "base_response": "Analizar la transcripción de un monólogo de comedia tipo stand-up revela cómo la observación aguda de la rutina diaria se transforma en crítica social. Requiere captar el ritmo, los remates inesperados (punchlines) y la exageración deliberada que el comediante usa para arrancar carcajadas catárticas al público masivo."
+  },
+  {
+    "intent_id": "lectura_de_esquemas_de_redes_neuronales",
+    "keywords": [
+      "esquemas",
+      "redes",
+      "tecnologia",
+      "IA",
+      "nodos"
+    ],
+    "base_response": "Interpretar esquemas visuales básicos sobre redes neuronales e inteligencia artificial acerca al estudiante a la tecnología moderna. Exige comprender conceptos de nodos, capas y flujos de información bidireccional, sentando las bases lógicas necesarias para entender el complejo funcionamiento del mundo algorítmico que nos rodea diariamente."
+  },
+  {
+    "intent_id": "identificacion_de_asindeton",
+    "keywords": [
+      "asindeton",
+      "omision",
+      "conjunciones",
+      "rapidez",
+      "intensidad"
+    ],
+    "base_response": "El asíndeton consiste en eliminar intencionalmente las conjunciones (como 'y', 'o') en una enumeración ('Vine, vi, vencí'). Identificar esta figura retórica explica cómo los autores logran imprimir una sensación de velocidad vertiginosa, urgencia apasionada e inmediatez absoluta a sus descripciones narrativas o poéticas más dramáticas."
+  },
+  {
+    "intent_id": "comprension_de_textos_de_divulgacion_cuantica",
+    "keywords": [
+      "fisica",
+      "cuantica",
+      "divulgacion",
+      "paradojas",
+      "probabilidad"
+    ],
+    "base_response": "Leer sobre física cuántica a nivel de divulgación desafía totalmente el sentido común newtoniano clásico. Requiere aceptar paradojas, como partículas que están en dos lugares a la vez, fomentando una tremenda flexibilidad cognitiva y la aceptación de que la realidad microscópica es probabilística e increíblemente extraña."
+  },
+  {
+    "intent_id": "lectura_de_tratados_internacionales",
+    "keywords": [
+      "tratados",
+      "internacionales",
+      "acuerdos",
+      "naciones",
+      "derecho"
+    ],
+    "base_response": "La lectura de tratados internacionales, como los de la ONU, introduce al derecho global. Su vocabulario es extremadamente técnico, solemne y preciso. Enseña cómo las naciones soberanas intentan limitar sus propios poderes bélicos y comerciales mediante compromisos escritos para preservar la precaria estabilidad de la paz mundial."
+  },
+  {
+    "intent_id": "analisis_de_finales_de_deus_ex_machina",
+    "keywords": [
+      "deus",
+      "machina",
+      "final",
+      "artificial",
+      "solucion"
+    ],
+    "base_response": "El 'Deus ex machina' es un recurso donde el conflicto se resuelve repentinamente por la intervención milagrosa e injustificada de un factor externo (un dios, un rescate improbable). Analizarlo desarrolla el espíritu crítico literario, enseñando al alumno a rechazar resoluciones artificiales que traicionan la lógica interna del relato."
+  },
+  {
+    "intent_id": "comprension_de_ensayos_de_economia_circular",
+    "keywords": [
+      "economia",
+      "circular",
+      "sostenibilidad",
+      "reciclaje",
+      "recursos"
+    ],
+    "base_response": "Los textos sobre economía circular proponen abandonar el modelo de 'usar y tirar' por uno de reutilización total continua. Su lectura combina preocupación ecológica con viabilidad financiera. Impulsa a los jóvenes a pensar en sistemas productivos innovadores y sostenibles, vitales para garantizar la supervivencia del medio ambiente moderno."
+  },
+  {
+    "intent_id": "identificacion_de_polisindeton",
+    "keywords": [
+      "polisindeton",
+      "repeticion",
+      "conjunciones",
+      "lentitud",
+      "solemnidad"
+    ],
+    "base_response": "El polisíndeton es lo opuesto al asíndeton; multiplica excesivamente el uso de conjunciones ('y corre, y salta, y llora'). Reconocer esta figura ayuda al lector a notar cómo el autor frena deliberadamente el ritmo de la lectura, añadiendo gran solemnidad, pesadez o angustia prolongada a la escena descrita."
+  },
+  {
+    "intent_id": "lectura_de_storyboards_de_animacion",
+    "keywords": [
+      "storyboard",
+      "animacion",
+      "movimiento",
+      "expresion",
+      "visual"
+    ],
+    "base_response": "Los storyboards para animación (dibujos animados) son mucho más expresivos y exagerados que los de acción real. Leerlos exige concentrarse en la deformación intencional de los personajes para transmitir emociones puras, enseñando cómo el dinamismo gráfico puede comunicar más intensamente que las palabras habladas y los diálogos extensos."
+  },
+  {
+    "intent_id": "analisis_de_humor_parodico_de_generos",
+    "keywords": [
+      "parodia",
+      "generos",
+      "burla",
+      "cliches",
+      "literatura"
+    ],
+    "base_response": "La parodia de géneros literarios (como Don Quijote burlando las novelas de caballería) requiere que el lector conozca primero los clichés del género original. Su análisis es un ejercicio brillante de intertextualidad, donde se disfruta viendo cómo el autor destruye inteligentemente las reglas previsibles de la literatura comercial clásica."
+  },
+  {
+    "intent_id": "comprension_de_textos_sobre_derechos_de_los_animales",
+    "keywords": [
+      "derechos",
+      "animales",
+      "etica",
+      "sensiencia",
+      "leyes"
+    ],
+    "base_response": "La lectura de argumentaciones sobre los derechos animales cuestiona el antropocentrismo tradicional profundo. Exige analizar conceptos científicos y éticos modernos sobre la 'sintiencia' animal, obligando al estudiante a repensar moralmente las prácticas industriales, alimenticias y de entretenimiento humano desde una perspectiva verdaderamente más compasiva, empática y menos egoísta."
+  },
+  {
+    "intent_id": "lectura_de_declaraciones_de_independencia",
+    "keywords": [
+      "declaracion",
+      "independencia",
+      "libertad",
+      "soberania",
+      "nacion"
+    ],
+    "base_response": "Leer declaraciones de independencia históricas es adentrarse en la retórica de la libertad pura. Su análisis requiere desgranar las justificaciones filosóficas utilizadas para romper los lazos coloniales. Fomenta el entendimiento de conceptos como 'soberanía popular', 'tiranía' y el derecho inalienable de los pueblos a buscar su propia felicidad."
+  },
+  {
+    "intent_id": "identificacion_de_visiones_cosmogonicas",
+    "keywords": [
+      "cosmogonia",
+      "origen",
+      "universo",
+      "mito",
+      "creacion"
+    ],
+    "base_response": "Las visiones cosmogónicas son narraciones míticas sobre el origen primigenio del universo material. Identificarlas en los textos antiguos permite comparar cómo distintas civilizaciones explicaban el paso del caos abstracto al cosmos ordenado, utilizando metáforas poderosas sobre creadores divinos, huevos cósmicos o gigantes primordiales que formaron la Tierra."
+  },
+  {
+    "intent_id": "comprension_de_mitos_heroicos_y_el_viaje_del_heroe",
+    "keywords": [
+      "heroe",
+      "viaje",
+      "mito",
+      "arquetipo",
+      "transformacion"
+    ],
+    "base_response": "Comprender la estructura del 'Viaje del Héroe' en los mitos clásicos y películas modernas requiere identificar etapas universales: el llamado, los mentores, las pruebas y el regreso transformado. Analizar este monomito revela por qué ciertas historias resuenan tan profundamente y eternamente en la psique humana colectiva."
+  },
+  {
+    "intent_id": "lectura_de_manuales_de_programacion_basica",
+    "keywords": [
+      "manual",
+      "programacion",
+      "codigo",
+      "logica",
+      "sintaxis"
+    ],
+    "base_response": "La lectura de manuales introductorios de programación es extremadamente literal, precisa y metódica. No hay margen para interpretaciones creativas. El estudiante aprende a leer código y sintaxis estricta, desarrollando una lógica algorítmica impecable que enseña cómo dar instrucciones exactas e inequívocas a una máquina para que resuelva problemas."
+  },
+  {
+    "intent_id": "analisis_de_finales_abiertos_esperanzadores",
+    "keywords": [
+      "final",
+      "abierto",
+      "esperanza",
+      "futuro",
+      "resolucion"
+    ],
+    "base_response": "A diferencia del final ambiguo angustiante, el final abierto esperanzador deja el conflicto principal sin cerrar del todo, pero con indicios fuertemente positivos. Analizarlo deja al lector con un sentimiento de optimismo renovado, imaginando que los personajes tienen ahora las herramientas necesarias para forjar su propio destino brillante."
+  },
+  {
+    "intent_id": "comprension_de_textos_cientificos_sobre_cambio_climatico",
+    "keywords": [
+      "cambio",
+      "climatico",
+      "ciencia",
+      "datos",
+      "consecuencias"
+    ],
+    "base_response": "Leer informes científicos rigurosos sobre el cambio climático requiere analizar gráficas de temperatura, emisiones de gases y predicciones modeladas. Fomenta una lectura de máxima urgencia y responsabilidad, enseñando a los jóvenes a diferenciar claramente entre el alarmismo sin fundamento y las advertencias cruciales respaldadas por un consenso global indiscutible."
+  },
+  {
+    "intent_id": "lectura_de_ensayos_sobre_derechos_humanos",
+    "keywords": [
+      "ensayo",
+      "derechos",
+      "humanidad",
+      "dignidad",
+      "justicia"
+    ],
+    "base_response": "La lectura de ensayos sobre Derechos Humanos exige una profunda empatía y madurez intelectual. Obliga al estudiante a analizar casos reales de injusticia global, comprendiendo que los principios de dignidad, igualdad y libertad no son conceptos abstractos, sino urgencias vitales que deben ser defendidas universal y constantemente en la sociedad."
+  },
+  {
+    "intent_id": "identificacion_de_aliteraciones_intensivas",
+    "keywords": [
+      "aliteracion",
+      "sonido",
+      "repeticion",
+      "efecto",
+      "poesia"
+    ],
+    "base_response": "La aliteración es la repetición notoria del mismo sonido consonántico en una frase ('El ruido con que rueda la ronca tempestad'). Identificarla enseña cómo el autor busca imitar acústicamente la acción descrita, logrando que el texto no solo se lea, sino que se 'escuche' mentalmente con gran intensidad."
+  },
+  {
+    "intent_id": "comprension_de_novelas_de_ciencia_ficcion_dura",
+    "keywords": [
+      "ciencia",
+      "ficcion",
+      "dura",
+      "tecnologia",
+      "futuro"
+    ],
+    "base_response": "La 'ciencia ficción dura' basa sus tramas en la extrapolación rigurosa de principios científicos reales actuales. Su lectura requiere que el alumno asimile rápidamente conceptos complejos de física o ingeniería espacial, integrando el aprendizaje de las ciencias exactas con la emoción vibrante y especulativa del más puro género literario narrativo."
+  },
+  {
+    "intent_id": "analisis_de_monologos_de_villanos_justificados",
+    "keywords": [
+      "monologo",
+      "villano",
+      "justificacion",
+      "motivos",
+      "etica"
+    ],
+    "base_response": "Analizar los extensos monólogos donde el antagonista justifica lógicamente sus acciones terribles es un reto supremo. Exige al lector suspender temporalmente el juicio moral para comprender sus verdaderas motivaciones oscuras, demostrando que los personajes mejor construidos no son puramente malvados, sino que actúan movidos por convicciones profundamente equivocadas pero reales."
+  },
+  {
+    "intent_id": "lectura_de_esquemas_de_circuitos_electronicos",
+    "keywords": [
+      "esquema",
+      "circuito",
+      "electronica",
+      "simbolos",
+      "conexion"
+    ],
+    "base_response": "La lectura de diagramas de circuitos electrónicos requiere decodificar un lenguaje visual de símbolos estandarizados (resistencias, baterías, interruptores). Este ejercicio práctico desarrolla un pensamiento abstracto-espacial formidable, enseñando a los jóvenes a seguir el flujo invisible de la corriente eléctrica para comprender el funcionamiento real de los dispositivos tecnológicos diarios."
+  },
+  {
+    "intent_id": "identificacion_de_hiperbaton_poetico",
+    "keywords": [
+      "hiperbaton",
+      "orden",
+      "sintaxis",
+      "poesia",
+      "alteracion"
+    ],
+    "base_response": "El hipérbaton altera el orden lógico habitual de las palabras en la oración ('Volverán las oscuras golondrinas'). Identificarlo es vital en la lectura de poesía clásica y barroca. Desafía al estudiante a reordenar mentalmente la frase para extraer el sentido, apreciando simultáneamente la musicalidad y rima que motivaron tal desorden."
+  },
+  {
+    "intent_id": "comprension_de_textos_sobre_neurociencia_del_aprendizaje",
+    "keywords": [
+      "neurociencia",
+      "aprendizaje",
+      "cerebro",
+      "memoria",
+      "estudio"
+    ],
+    "base_response": "Leer artículos de divulgación sobre cómo el cerebro aprende, olvida y memoriza es un acto de metacognición maravilloso. Al comprender conceptos como la 'plasticidad cerebral' o la 'curva del olvido', el estudiante adquiere herramientas científicamente probadas para mejorar y optimizar sustancialmente sus propias estrategias de estudio y hábitos diarios."
+  },
+  {
+    "intent_id": "lectura_de_acuerdos_de_licencia_de_software",
+    "keywords": [
+      "licencia",
+      "software",
+      "acuerdo",
+      "privacidad",
+      "digital"
+    ],
+    "base_response": "Analizar los densos acuerdos de licencia y políticas de privacidad digitales (Términos y Condiciones) es una lectura crítica moderna urgente. Enseña a detectar qué datos personales se ceden voluntariamente a las grandes corporaciones, fomentando una verdadera conciencia sobre la privacidad digital y los peligros ocultos de aceptar ciegamente cualquier cláusula."
+  },
+  {
+    "intent_id": "analisis_de_finales_abiertos_pesimistas",
+    "keywords": [
+      "final",
+      "abierto",
+      "pesimismo",
+      "incertidumbre",
+      "tristeza"
+    ],
+    "base_response": "El final abierto pesimista deja la trama principal sin concluir, pero con fuertes indicios de que lo peor está por venir irremediablemente. Su análisis exige madurez emocional para aceptar la derrota inminente de los protagonistas, comprendiendo que la buena literatura también sirve para explorar la frustración, el dolor y la inevitabilidad trágica."
+  },
+  {
+    "intent_id": "comprension_de_ensayos_sobre_inteligencia_artificial_etica",
+    "keywords": [
+      "ensayo",
+      "IA",
+      "etica",
+      "futuro",
+      "riesgos"
+    ],
+    "base_response": "Leer ensayos sobre los dilemas éticos de la Inteligencia Artificial (ej. decisiones morales de autos autónomos o sesgos algorítmicos) prepara al alumno para el futuro inmediato. Exige cruzar conocimientos técnicos informáticos con profundas reflexiones filosóficas sobre el control humano, la responsabilidad civil y el valor irremplazable del trabajo artesanal."
+  },
+  {
+    "intent_id": "identificacion_de_antonomasia",
+    "keywords": [
+      "antonomasia",
+      "sustitucion",
+      "nombre",
+      "cualidad",
+      "figura"
+    ],
+    "base_response": "La antonomasia sustituye un nombre propio por una expresión que lo caracteriza universalmente (ej. referirse a Aristóteles como 'El Filósofo'). Identificarla requiere conocimientos culturales previos amplios. Demuestra cómo ciertas figuras históricas o literarias han trascendido su simple identidad individual para convertirse en arquetipos absolutos de una cualidad humana específica."
+  },
+  {
+    "intent_id": "lectura_de_storyboards_de_videojuegos",
+    "keywords": [
+      "storyboard",
+      "videojuegos",
+      "interactividad",
+      "opciones",
+      "ramificacion"
+    ],
+    "base_response": "A diferencia del cine lineal, los storyboards de diseño de videojuegos son estructuras narrativas altamente ramificadas (árboles de decisión). Leerlos exige visualizar cómo la historia cambiará según las elecciones del jugador, fomentando un pensamiento hipertextual donde existen múltiples desarrollos y finales posibles ocurriendo simultáneamente en el diseño conceptual."
+  },
+  {
+    "intent_id": "analisis_de_humor_ironico_historico",
+    "keywords": [
+      "ironia",
+      "historia",
+      "humor",
+      "distancia",
+      "perspectiva"
+    ],
+    "base_response": "El humor irónico histórico surge de analizar eventos pasados con la ventaja de conocer las desastrosas consecuencias posteriores que los protagonistas ignoraban. Analizarlo fomenta una mirada crítica y a veces cínica sobre la arrogancia humana, los grandes imperios caídos y los discursos políticos grandilocuentes que el tiempo terminó desmintiendo cruelmente."
+  },
+  {
+    "intent_id": "comprension_de_textos_sobre_derechos_digitales",
+    "keywords": [
+      "derechos",
+      "digitales",
+      "internet",
+      "libertad",
+      "informacion"
+    ],
+    "base_response": "La lectura de manifiestos sobre el 'Derecho al Olvido', la neutralidad de la red o la soberanía de los datos es vital hoy. Requiere entender internet no solo como herramienta de ocio, sino como un nuevo territorio político donde los derechos civiles clásicos deben ser reinterpretados y defendidos valientemente mediante nuevas leyes."
+  },
+  {
+    "intent_id": "lectura_de_declaraciones_de_derechos_de_la_infancia",
+    "keywords": [
+      "derechos",
+      "infancia",
+      "proteccion",
+      "ninos",
+      "garantias"
+    ],
+    "base_response": "Leer convenciones internacionales sobre los derechos del niño genera un impacto inmediato en el estudiante. Su análisis empodera a los jóvenes al conocer sus protecciones legales contra el trabajo forzado y el abuso, fomentando simultáneamente una solidaridad activa hacia los menores que aún sufren extremas vulneraciones en otras partes del mundo."
+  },
+  {
+    "intent_id": "identificacion_de_digresiones_narrativas",
+    "keywords": [
+      "digresion",
+      "pausa",
+      "desvio",
+      "reflexion",
+      "narrativa"
+    ],
+    "base_response": "La digresión es una ruptura temporal del hilo narrativo principal donde el autor se detiene largamente a reflexionar sobre un tema paralelo, filosofía o paisaje. Identificarla y no perder el interés requiere paciencia lectora madura, comprendiendo que estos aparentes desvíos enriquecen profundamente el contexto temático general de la voluminosa obra."
+  },
+  {
+    "intent_id": "comprension_de_mitos_de_transformacion_y_metamorfosis",
+    "keywords": [
+      "mito",
+      "metamorfosis",
+      "transformacion",
+      "castigo",
+      "naturaleza"
+    ],
+    "base_response": "Los mitos clásicos de metamorfosis (humanos convertidos en árboles, ríos o animales) suelen explicar el origen de la naturaleza o ser castigos divinos. Su lectura requiere entender la visión animista antigua donde todo lo vivo está interconectado, extrayendo moralejas sobre la soberbia, el amor trágico o el poder absoluto e incontrolable de los inmortales."
+  },
+  {
+    "intent_id": "lectura_de_manuales_de_supervivencia_extrema",
+    "keywords": [
+      "manual",
+      "supervivencia",
+      "naturaleza",
+      "peligro",
+      "instrucciones"
+    ],
+    "base_response": "Los manuales de supervivencia en la naturaleza extrema son textos prescriptivos fascinantes. Su lectura combina el rigor de los procesos paso a paso (cómo hacer fuego, purificar agua) con la capacidad de mantener la calma bajo inmensa presión psicológica. Exigen una comprensión inmediata, visual y completamente práctica orientada a salvar la vida."
+  },
+  {
+    "intent_id": "analisis_de_finales_metaficcionales",
+    "keywords": [
+      "final",
+      "metaficcion",
+      "cuarta",
+      "pared",
+      "ilusion"
+    ],
+    "base_response": "Un final metaficcional rompe la 'cuarta pared', revelando explícitamente que los personajes son conscientes de ser simples creaciones literarias dentro de un libro escrito por un autor. Analizar este recurso vanguardista genera una deliciosa confusión filosófica, desafiando las nociones tradicionales de realidad, ficción y el poder omnímodo del verdadero creador original."
+  },
+  {
+    "intent_id": "comprension_de_textos_sobre_epigenetica_basica",
+    "keywords": [
+      "epigenetica",
+      "genes",
+      "ambiente",
+      "herencia",
+      "biologia"
+    ],
+    "base_response": "Leer divulgación sobre epigenética transforma la idea del destino biológico. Requiere comprender que el ambiente, la alimentación y el estrés pueden 'encender' o 'apagar' genes sin alterar el ADN base. Esta lectura empodera al estudiante, enseñándole que sus hábitos diarios tienen un impacto heredable real y profundo sobre las futuras y próximas generaciones."
+  },
+  {
+    "intent_id": "lectura_de_ensayos_sobre_globalizacion",
+    "keywords": [
+      "ensayo",
+      "globalizacion",
+      "economia",
+      "fronteras",
+      "cultura"
+    ],
+    "base_response": "La lectura de ensayos sobre globalización requiere analizar cómo las economías, culturas y políticas mundiales están profundamente interconectadas. Exige al estudiante evaluar los beneficios del libre comercio y el intercambio cultural masivo, frente a las críticas por la pérdida acelerada de identidades locales únicas y el aumento innegable de la enorme desigualdad económica internacional."
+  },
+  {
+    "intent_id": "identificacion_de_reticencia_literaria",
+    "keywords": [
+      "reticencia",
+      "silencio",
+      "puntos",
+      "suspensivos",
+      "sugerencia"
+    ],
+    "base_response": "La reticencia consiste en dejar una frase deliberadamente incompleta, usando puntos suspensivos, para que el lector intuya lo que falta ('Si yo te contara...'). Identificarla activa enormemente la imaginación, haciendo al lector partícipe activo en la construcción del significado, el misterio o la velada amenaza que el texto sugiere sutilmente sin llegar a expresar."
+  },
+  {
+    "intent_id": "comprension_de_novelas_de_realismo_magico",
+    "keywords": [
+      "realismo",
+      "magico",
+      "fantasia",
+      "cotidiano",
+      "latinoamerica"
+    ],
+    "base_response": "Leer realismo mágico implica aceptar que elementos sobrenaturales, milagrosos o absurdos ocurran en escenarios cotidianos sin que los personajes muestren sorpresa alguna. Su comprensión exige suspender la incredulidad racional occidental, sumergiéndose en una atmósfera poética y mítica que refleja la compleja e inabarcable identidad cultural del maravilloso continente latinoamericano profundo."
+  },
+  {
+    "intent_id": "analisis_de_monologos_de_antiheroes",
+    "keywords": [
+      "antiheroe",
+      "monologo",
+      "cinismo",
+      "moral",
+      "ambiguedad"
+    ],
+    "base_response": "El monólogo del antihéroe revela pensamientos cínicos, egoístas o cobardes, alejados del ideal caballeresco tradicional. Analizarlos fascina porque muestra la vulnerabilidad humana real y las constantes contradicciones éticas. El lector aprende a empatizar con protagonistas imperfectos y oscuros que, a pesar de sus inmensas fallas morales, intentan sobrevivir en un mundo injusto."
+  },
+  {
+    "intent_id": "lectura_de_esquemas_de_sistemas_ecologicos",
+    "keywords": [
+      "esquema",
+      "ecologia",
+      "sistema",
+      "red",
+      "energia"
+    ],
+    "base_response": "Interpretar esquemas visuales de redes tróficas o ciclos biogeoquímicos (como el ciclo del agua o del carbono) requiere pensamiento sistémico. El estudiante debe seguir el flujo circular de energía y materia, comprendiendo holísticamente que la alteración mínima de un solo nodo biológico puede causar el colapso catastrófico de todo el frágil ecosistema natural interconectado."
+  },
+  {
+    "intent_id": "identificacion_de_apofasis",
+    "keywords": [
+      "apofasis",
+      "negacion",
+      "afirmacion",
+      "mencion",
+      "figura"
+    ],
+    "base_response": "La apófasis es una figura irónica que consiste en mencionar algo fingiendo que no se quiere hablar de ello ('No mencionaré su enorme pereza, pero...'). Identificar este truco retórico agudiza enormemente la lectura crítica, enseñando cómo los políticos o polemistas logran atacar a sus rivales cobardemente mientras aparentan mantener una falsa cortesía."
+  },
+  {
+    "intent_id": "comprension_de_textos_sobre_astrobiologia",
+    "keywords": [
+      "astrobiologia",
+      "vida",
+      "extraterrestre",
+      "ciencia",
+      "condiciones"
+    ],
+    "base_response": "La lectura de textos sobre astrobiología explora las condiciones científicas necesarias para la vida fuera de la Tierra. Requiere manejar conceptos de química orgánica extrema y geología planetaria. Fomenta un pensamiento altamente especulativo pero riguroso, cuestionando qué significa realmente estar 'vivo' y si estamos irremediablemente solos en la inmensidad oscura y fría del universo conocido."
+  },
+  {
+    "intent_id": "lectura_de_tratados_de_libre_comercio",
+    "keywords": [
+      "tratados",
+      "comercio",
+      "aranceles",
+      "economia",
+      "paises"
+    ],
+    "base_response": "Analizar resúmenes de tratados de libre comercio exige decodificar lenguaje económico y aduanero técnico (aranceles, cuotas, dumping). Su lectura permite comprender cómo estas complejas reglas macroeconómicas internacionales afectan directamente el precio final de los alimentos diarios, la disponibilidad tecnológica y la estabilidad laboral de las pequeñas industrias locales en el mundo globalizado actual."
+  },
+  {
+    "intent_id": "analisis_de_finales_anticlimaticos",
+    "keywords": [
+      "anticlimax",
+      "final",
+      "decepcion",
+      "resolucion",
+      "aburrida"
+    ],
+    "base_response": "Un final anticlimático resuelve un gran conflicto de manera abruptamente sencilla, banal o decepcionante (el monstruo simplemente muere de un resfriado). Analizar esta técnica frustrante pero realista enseña que la literatura, como la vida misma, no siempre ofrece resoluciones épicas o justas, rompiendo magistralmente las altas expectativas dramáticas previas del lector."
+  },
+  {
+    "intent_id": "comprension_de_ensayos_sobre_transhumanismo",
+    "keywords": [
+      "transhumanismo",
+      "tecnologia",
+      "evolucion",
+      "ciborg",
+      "etica"
+    ],
+    "base_response": "Leer ensayos sobre transhumanismo plantea el uso de tecnología (implantes, genética) para mejorar radicalmente las capacidades físicas y mentales humanas. Exige un intenso debate bioético, obligando al estudiante a reflexionar sobre los límites naturales, la inmortalidad teórica y si la mejora tecnológica extrema acabará destruyendo nuestra frágil e imperfecta esencia humana original y compasiva."
+  },
+  {
+    "intent_id": "identificacion_de_catacresis",
+    "keywords": [
+      "catacresis",
+      "metafora",
+      "uso",
+      "falta",
+      "vocabulario"
+    ],
+    "base_response": "La catacresis es usar una metáfora por falta de una palabra específica en el idioma (ej. 'las patas de la mesa', 'el cuello de la botella'). Identificarlas demuestra cómo el lenguaje humano es inherentemente imaginativo y poético, viéndose obligado a crear analogías corporales o físicas constantes para poder nombrar objetos cotidianos nuevos o partes de la realidad abstracta."
+  },
+  {
+    "intent_id": "lectura_de_storyboards_de_realidad_virtual",
+    "keywords": [
+      "storyboard",
+      "realidad",
+      "virtual",
+      "espacio",
+      "inmersion"
+    ],
+    "base_response": "Los guiones y storyboards para experiencias de Realidad Virtual (VR) son esféricos (360 grados). Leerlos requiere una imaginación espacial portentosa, ya que el creador no puede forzar al usuario a mirar a un punto fijo. El estudiante aprende cómo se diseña una narrativa inmersiva mediante sutiles pistas sonoras y visuales periféricas para guiar la atención libre."
+  },
+  {
+    "intent_id": "analisis_de_humor_grafico_mudo",
+    "keywords": [
+      "humor",
+      "grafico",
+      "mudo",
+      "tiras",
+      "visual"
+    ],
+    "base_response": "Las tiras cómicas mudas o el humor gráfico sin palabras (como los trabajos de Quino o Mordillo) exigen un alto nivel de inferencia puramente visual. Analizarlas desarrolla la capacidad de 'leer' secuencias de acciones, expresiones faciales exageradas y símbolos gráficos convencionales para extraer la narrativa completa, la ironía y el chiste final sin depender jamás del texto escrito."
+  },
+  {
+    "intent_id": "comprension_de_textos_sobre_criptomonedas_y_blockchain",
+    "keywords": [
+      "criptomonedas",
+      "blockchain",
+      "dinero",
+      "descentralizacion",
+      "tecnologia"
+    ],
+    "base_response": "La lectura sobre blockchain y criptomonedas requiere asimilar conceptos de criptografía, descentralización financiera y consenso algorítmico. Es una alfabetización económica moderna indispensable. Fomenta el análisis crítico sobre la naturaleza fiduciaria del dinero tradicional, la seguridad informática avanzada y la enorme volatilidad especulativa inherente a estos novedosos y complejos activos financieros digitales y descentralizados."
+  },
+  {
+    "intent_id": "lectura_de_declaraciones_de_derechos_de_los_pueblos_indigenas",
+    "keywords": [
+      "derechos",
+      "indigenas",
+      "cultura",
+      "tierra",
+      "identidad"
+    ],
+    "base_response": "Leer convenciones sobre derechos indígenas exige comprender reclamos históricos sobre la autodeterminación, la propiedad ancestral de la tierra y la preservación lingüística frente a la asimilación forzada. Fomenta una profunda conciencia poscolonial, enseñando a valorar y defender la rica diversidad cultural, los conocimientos ecológicos tradicionales y las diferentes formas de organización política comunitaria originaria."
+  },
+  {
+    "intent_id": "identificacion_de_descripciones_expresionistas",
+    "keywords": [
+      "descripcion",
+      "expresionismo",
+      "deformacion",
+      "emocion",
+      "subjetivo"
+    ],
+    "base_response": "Las descripciones expresionistas deforman deliberadamente la realidad exterior para reflejar el estado emocional interno y angustioso del personaje (sombras que parecen garras, edificios inclinados amenazantes). Identificarlas enseña a leer más allá del realismo objetivo, comprendiendo cómo los grandes autores proyectan la psicología atormentada humana directamente sobre el paisaje físico y los fríos escenarios arquitectónicos urbanos."
+  },
+  {
+    "intent_id": "comprension_de_mitos_de_fertilidad_y_estaciones",
+    "keywords": [
+      "mitos",
+      "fertilidad",
+      "estaciones",
+      "agricultura",
+      "ciclos"
+    ],
+    "base_response": "Los mitos de fertilidad (como Perséfone o Tammuz) explican el ciclo agrícola de siembra, muerte invernal y resurrección primaveral. Su lectura revela la dependencia absoluta de las sociedades antiguas hacia los caprichos del clima. Exige comprender cómo la angustia por la supervivencia alimentaria se sublimaba bellamente mediante grandiosos relatos religiosos sobre dioses que mueren y renacen eternamente."
+  },
+  {
+    "intent_id": "lectura_de_manuales_de_etiqueta_y_protocolo",
+    "keywords": [
+      "manual",
+      "etiqueta",
+      "protocolo",
+      "diplomacia",
+      "normas"
+    ],
+    "base_response": "Los manuales de protocolo diplomático o etiqueta social dictan reglas extremadamente rígidas sobre saludos, vestimenta y precedencias en eventos formales. Su lectura, vista desde la sociología, resulta fascinante; enseña a decodificar el lenguaje no verbal del poder, comprendiendo que estas normas aparentemente superficiales son herramientas cruciales para evitar gravísimos conflictos internacionales o mantener claras jerarquías de clase cerradas."
+  },
+  {
+    "intent_id": "analisis_de_finales_de_bucle_temporal",
+    "keywords": [
+      "final",
+      "bucle",
+      "temporal",
+      "paradoja",
+      "ciencia"
+    ],
+    "base_response": "Un final de bucle temporal revela que las acciones finales del protagonista son, paradójicamente, la causa misma del inicio de la historia que acaba de leerse. Analizar esta compleja estructura de ciencia ficción causa un placentero vértigo intelectual ('mind-bending'). Obliga al estudiante a cartografiar lógicamente la línea de tiempo circular, resolviendo la paradoja causal aparente con un gran esfuerzo analítico lógico."
+  },
+  {
+    "intent_id": "comprension_de_textos_sobre_geologia_y_placas_tectonicas",
+    "keywords": [
+      "geologia",
+      "tectonica",
+      "terremotos",
+      "tierra",
+      "ciencia"
+    ],
+    "base_response": "Leer divulgación geológica sobre la deriva continental y las placas tectónicas requiere pensar en tiempos extremadamente lentos (millones de años) y fuerzas destructivas inimaginables. Enseña a comprender científicamente la formación de montañas y la causa real de los terremotos y tsunamis mortales, alejando al estudiante de antiguas supersticiones y fomentando una respetuosa conciencia sobre la constante actividad termodinámica interna del dinámico planeta azul."
+  }
+]
