@@ -1,0 +1,1261 @@
+# Script de generación de conceptos automotrices
+import json
+
+# Definición de conceptos educativos para estudiantes de 9 a 14 años (Tercer Ciclo)
+# Cada concepto tiene:
+# - intent_id: minúsculas con guiones bajos
+# - keywords: 4 a 6 términos, solo sustantivos o verbos, minúsculas, sin tildes, sin artículos, preposiciones o conjunciones
+# - base_response: entre 35 y 50 palabras, ortografía perfecta, tono pedagógico, sin saludos ni caracteres raros
+
+conceptos = []
+
+# GRUPO 1: Cambio de aceite y lubricación (30 conceptos)
+conceptos_aceite = [
+    {
+        "intent_id": "aceite_lubricacion_motor",
+        "keywords": ["aceite", "motor", "lubricar", "evitar", "friccion"],
+        "base_response": "El aceite de motor es un líquido vital que lubrica las piezas metálicas en constante movimiento para evitar la fricción destructiva. Reemplazarlo regularmente previene el desgaste severo de la máquina y asegura un funcionamiento óptimo y una larga vida útil del vehículo familiar."
+    },
+    {
+        "intent_id": "aceite_viscosidad_flujo",
+        "keywords": ["viscosidad", "aceite", "medir", "proteger", "motor"],
+        "base_response": "La viscosidad es la propiedad que mide la resistencia de un lubricante a fluir por los conductos internos del motor. Los aceites modernos ajustan su viscosidad según la temperatura para proteger el motor tanto en arranques fríos como en climas extremadamente calurosos."
+    },
+    {
+        "intent_id": "aceite_sintetico_quimica",
+        "keywords": ["aceite", "disenar", "reducir", "desgaste", "motor"],
+        "base_response": "El aceite sintético es un lubricante diseñado químicamente en laboratorios para ofrecer un rendimiento superior bajo condiciones extremas. Su estructura molecular uniforme reduce notablemente el desgaste del motor y mantiene sus propiedades protectoras por mucho más tiempo que los lubricantes minerales comunes."
+    },
+    {
+        "intent_id": "aceite_mineral_petroleo",
+        "keywords": ["aceite", "obtener", "refinar", "petroleo", "lubricar"],
+        "base_response": "El aceite mineral se obtiene directamente del refinamiento del petróleo crudo y es adecuado para motores más antiguos o de diseño simple. Aunque lubrica de manera efectiva, requiere cambios más frecuentes porque se degrada más rápido ante las altas temperaturas de trabajo diario."
+    },
+    {
+        "intent_id": "aceite_filtro_purificar",
+        "keywords": ["filtro", "aceite", "retener", "impureza", "proteger"],
+        "base_response": "El filtro de aceite es un componente esencial que retiene las impurezas, partículas de metal y hollín suspendidos en el lubricante. Cambiar este filtro junto con el aceite garantiza que el fluido limpio circule sin obstrucciones, protegiendo las partes internas del motor."
+    },
+    {
+        "intent_id": "aceite_aditivo_quimico",
+        "keywords": ["aditivo", "aceite", "mejorar", "rendimiento", "motor"],
+        "base_response": "Los aditivos son sustancias químicas que se mezclan con el aceite de motor para mejorar sus propiedades protectoras. Estos componentes ayudan a prevenir la oxidación, reducir la formación de espuma, limpiar depósitos internos y combatir la corrosión dentro de las galerías del bloque."
+    },
+    {
+        "intent_id": "aceite_varilla_medicion",
+        "keywords": ["varilla", "medir", "nivel", "aceite", "motor"],
+        "base_response": "La varilla de medición es una herramienta metálica sencilla que permite comprobar el nivel y estado del aceite en el motor. Al sacarla y limpiarla, podemos observar si el lubricante se encuentra entre las marcas de mínimo y máximo recomendadas por el fabricante."
+    },
+    {
+        "intent_id": "aceite_presion_bomba",
+        "keywords": ["bomba", "aceite", "presion", "impulsar", "fluido"],
+        "base_response": "La bomba de aceite es el corazón del sistema de lubricación, encargada de impulsar el fluido a presión constante hacia todas las esquinas del motor. Sin una presión adecuada, las piezas superiores del motor sufrirían daños irreparables en pocos minutos de funcionamiento continuo."
+    },
+    {
+        "intent_id": "aceite_cambio_frecuencia",
+        "keywords": ["cambio", "aceite", "mantenimiento", "recomendar", "fabricante"],
+        "base_response": "El cambio de aceite debe realizarse siguiendo la frecuencia recomendada por el fabricante del auto, generalmente medida en kilómetros o meses de uso. Realizar este mantenimiento preventivo a tiempo evita que el aceite viejo pierda sus capacidades lubricantes y cause daños costosos."
+    },
+    {
+        "intent_id": "aceite_color_inspeccion",
+        "keywords": ["color", "aceite", "indicar", "estado", "desgaste"],
+        "base_response": "El color del aceite puede indicar su estado de desgaste y contamination interna. Un aceite nuevo suele ser de color ámbar translúcido, mientras que un aceite viejo se vuelve negro y espeso debido a la acumulación de carbón, hollín e impurezas del motor."
+    },
+    {
+        "intent_id": "aceite_desgaste_friccion",
+        "keywords": ["friccion", "desgaste", "metal", "reducir", "lubricante"],
+        "base_response": "La fricción es el roce entre dos superficies metálicas que genera calor extremo y desgaste material. El aceite de motor se interpone entre estas piezas creando una película protectora ultrafina que reduce la fricción, permitiendo que los componentes se muevan con suavidad y eficiencia."
+    },
+    {
+        "intent_id": "aceite_enfriar_calor",
+        "keywords": ["enfriar", "aceite", "absorber", "calor", "temperatura"],
+        "base_response": "Además de lubricar, el aceite de motor ayuda a enfriar las zonas internas de difícil acceso para el refrigerante líquido. El aceite absorbe el exceso de calor generado por la combustión y la fricción, transportándolo hacia el cárter donde se disipa al ambiente exterior."
+    },
+    {
+        "intent_id": "aceite_carter_deposito",
+        "keywords": ["carter", "aceite", "deposito", "almacenar", "bloque"],
+        "base_response": "El cárter es una bandeja metálica ubicada en la parte inferior del bloque del motor que sirve como depósito para almacenar el aceite. Cuando el motor se apaga, todo el aceite drena hacia el cárter, quedando listo para ser succionado nuevamente por la bomba."
+    },
+    {
+        "intent_id": "aceite_tapon_drenaje",
+        "keywords": ["tapon", "drenaje", "carter", "vaciar", "aceite"],
+        "base_response": "El tapón de drenaje es un tornillo roscado situado en el punto más bajo del cárter que se retira para vaciar el aceite usado. Durante el servicio de mantenimiento, se remueve este tapón para permitir la salida completa del lubricante viejo y contaminado."
+    },
+    {
+        "intent_id": "aceite_empaque_fuga",
+        "keywords": ["empaque", "fuga", "sellar", "aceite", "prevenir"],
+        "base_response": "Los empaques y retenes son sellos de caucho o silicona diseñados para prevenir fugas de aceite en las uniones del motor. Con el tiempo y el calor extremo, estos sellos pueden endurecerse y agrietarse, permitiendo que el lubricante se escape y ensucie el motor."
+    },
+    {
+        "intent_id": "aceite_multigrado_clima",
+        "keywords": ["aceite", "multigrado", "fluir", "temperatura", "proteger"],
+        "base_response": "Un aceite multigrado está formulado para fluir eficientemente en un amplio rango de temperaturas ambientales. Su diseño especial le permite ser lo suficientemente delgado en invierno para facilitar el arranque y lo bastante grueso en verano para proteger el motor con efectividad."
+    },
+    {
+        "intent_id": "aceite_monogrado_uso",
+        "keywords": ["aceite", "monogrado", "viscosidad", "limitar", "clima"],
+        "base_response": "El aceite monogrado tiene una sola clasificación de viscosidad y su uso está limitado a motores que operan bajo rangos de temperatura muy estables. Aunque eran comunes en el pasado, hoy en día han sido reemplazados casi por completo por los aceites multigrados modernos."
+    },
+    {
+        "intent_id": "aceite_contaminacion_agua",
+        "keywords": ["agua", "aceite", "mezclar", "dano", "motor"],
+        "base_response": "La presencia de agua o refrigerante en el aceite es un problema grave que suele tornarlo de un color lechoso similar al café con leche. Esta mezcla destruye las propiedades de lubricación del aceite, pudiendo causar fallas destructivas en los metales internos del motor."
+    },
+    {
+        "intent_id": "aceite_combustion_residuo",
+        "keywords": ["combustion", "residuo", "hollin", "acumular", "aceite"],
+        "base_response": "Durante el proceso de combustión dentro de los cilindros, se generan pequeños residuos de carbón y hollín que pasan al aceite. Los detergentes agregados al lubricante ayudan a mantener estos residuos en suspensión, evitando que se adhieran y obstruyan los conductos internos."
+    },
+    {
+        "intent_id": "aceite_biodegradable_ecologia",
+        "keywords": ["aceite", "biodegradable", "proteger", "naturaleza", "reducir"],
+        "base_response": "El aceite biodegradable es una opción ecológica formulada a partir de bases vegetales o sintéticas especiales que se descomponen rápidamente en la naturaleza. Su uso es común en vehículos industriales y forestales para reducir el impacto ambiental en caso de fugas accidentales."
+    },
+    {
+        "intent_id": "aceite_reciclaje_taller",
+        "keywords": ["reciclar", "aceite", "usar", "evitar", "contaminar"],
+        "base_response": "El aceite usado retirado del motor es un residuo altamente contaminante que nunca debe desecharse en el suelo o desagües. Debe recolectarse en recipientes sellados y entregarse a centros de reciclaje autorizados para ser procesado y transformado en nuevos lubricantes útiles."
+    },
+    {
+        "intent_id": "aceite_consumo_normal",
+        "keywords": ["aceite", "consumo", "cilindro", "quemar", "motor"],
+        "base_response": "Es normal que los motores consuman una cantidad mínima de aceite durante su operación diaria debido a la película lubricante que queda en las paredes del cilindro. Sin embargo, un consumo excesivo acompañado de humo azul por el escape indica un desgaste severo."
+    },
+    {
+        "intent_id": "aceite_cavitacion_bomba",
+        "keywords": ["cavitacion", "bomba", "burbuja", "danar", "aceite"],
+        "base_response": "La cavitación ocurre cuando se forman burbujas de aire o vapor en el aceite debido a una succión defectuosa de la bomba. Al colapsar estas burbujas a alta presión, generan micro-impactos destructivos que desgastan y erosionan las superficies metálicas internas."
+    },
+    {
+        "intent_id": "aceite_hidraulico_direccion",
+        "keywords": ["aceite", "hidraulico", "direccion", "asistir", "suavizar"],
+        "base_response": "El aceite hidráulico de dirección asistida es un fluido diseñado para transmitir fuerza y presión en el sistema de dirección del auto. Permite que el conductor pueda girar el volante con un esfuerzo mínimo, logrando un control suave y seguro del vehículo."
+    },
+    {
+        "intent_id": "aceite_transmision_engranaje",
+        "keywords": ["aceite", "transmision", "engranaje", "proteger", "caja"],
+        "base_response": "El aceite de transmisión, también llamado valvulina, está formulado especialmente para lubricar y enfriar los complejos engranajes de la caja de cambios. Protege los dientes metálicos contra el desgaste por fricción extrema y facilita el cambio de marchas suavemente."
+    },
+    {
+        "intent_id": "aceite_diferencial_eje",
+        "keywords": ["diferencial", "aceite", "eje", "engranaje", "lubricar"],
+        "base_response": "El aceite de diferencial lubrica los engranajes hipoides del eje trasero o delantero, los cuales transmiten la fuerza del motor hacia las ruedas. Este lubricante soporta cargas de presión muy elevadas para garantizar que las ruedas giren a diferentes velocidades en las curvas."
+    },
+    {
+        "intent_id": "aceite_sintomas_falta",
+        "keywords": ["ruido", "calor", "freno", "motor", "friccion"],
+        "base_response": "La falta de suficiente aceite de motor provoca ruidos metálicos fuertes, un aumento rápido de la temperatura y un desgaste acelerado de los pistones. Si la luz de advertencia de aceite se enciende en el tablero, se debe apagar el vehículo de inmediato."
+    },
+    {
+        "intent_id": "aceite_humo_escape",
+        "keywords": ["humo", "azul", "escape", "quemar", "aceite"],
+        "base_response": "La presencia de humo azul saliendo por el tubo de escape es un síntoma claro de que el motor está quemando aceite dentro de la cámara de combustión. Esto suele debido a anillos de pistón desgastados o sellos de válvula defectuosos."
+    },
+    {
+        "intent_id": "aceite_anillos_piston",
+        "keywords": ["anillo", "piston", "sellar", "aceite", "cilindro"],
+        "base_response": "Los anillos del pistón son sellos circulares de metal que evitan que el aceite de lubricación suba a la cámara de combustión y que los gases quemados bajen al cárter. Si se desgastan, el coche comenzará a consumir aceite y perderá compresión."
+    },
+    {
+        "intent_id": "aceite_limpieza_galeria",
+        "keywords": ["galeria", "aceite", "conducir", "fluido", "limpiar"],
+        "base_response": "Las galerías de aceite son pequeños túneles y conductos perforados dentro del bloque del motor que conducen el lubricante a presión hacia los cojinetes y componentes superiores. Mantener estas vías limpias y libres de lodo es fundamental para la vida del motor."
+    }
+]
+
+# GRUPO 2: Filtros de aire, combustible, cabina y aceite (30 conceptos)
+conceptos_filtros = [
+    {
+        "intent_id": "filtro_aire_motor",
+        "keywords": ["filtro", "aire", "motor", "retener", "polvo"],
+        "base_response": "El filtro de aire del motor retiene el polvo, arena e impurezas del ambiente antes de que entren a los cilindros. Un filtro limpio asegura que el motor respire aire puro para realizar una combustión eficiente y entregar la potencia correcta del automóvil."
+    },
+    {
+        "intent_id": "filtro_combustible_limpiar",
+        "keywords": ["filtro", "combustible", "limpiar", "gasolina", "inyector"],
+        "base_response": "El filtro de combustible purifica la gasolina o diésel antes de llegar a los delicados inyectores del motor. Retiene partículas de suciedad, herrumbre e impurezas del tanque, asegurando que el combustible llegue limpio para una inyección suave y una combustión perfecta."
+    },
+    {
+        "intent_id": "filtro_cabina_aire",
+        "keywords": ["filtro", "cabina", "aire", "polen", "pasajero"],
+        "base_response": "El filtro de cabina purifica el aire exterior que entra al habitáculo del auto a través del aire acondicionado. Retiene polen, alérgenos, polvo y hollín, protegiendo la salud respiratoria de los pasajeros y manteniendo un ambiente limpio y agradable en el viaje."
+    },
+    {
+        "intent_id": "filtro_carbon_activo",
+        "keywords": ["filtro", "cabina", "carbon", "retener", "olor"],
+        "base_response": "Los filtros de cabina avanzados utilizan carbono activo para retener gases nocivos y olores desagradables del exterior. Esta capa especial atrapa moléculas de contaminación y humos de escape de otros vehículos, logrando que el aire interno sea excepcionalmente saludable para la familia."
+    },
+    {
+        "intent_id": "filtro_obstruido_potencia",
+        "keywords": ["filtro", "aire", "obstruir", "perder", "potencia"],
+        "base_response": "Un filtro de aire obstruido reduce drásticamente el flujo de aire hacia la cámara de combustión del coche. Esto provoca que el motor pierda potencia, aumente el consumo de combustible innecesariamente y emita gases de escape más oscuros y contaminantes para el medio ambiente."
+    },
+    {
+        "intent_id": "filtro_combustible_sintomas",
+        "keywords": ["filtro", "combustible", "fallar", "arranque", "tiron"],
+        "base_response": "Cuando el filtro de combustible está sugerido de suciedad, se restringe el paso del carburante hacia los cilindros. Esto produce tirones al acelerar, dificultad notable al encender el coche y pérdidas intermitentes de potencia debido a la falta de alimentación adecuada."
+    },
+    {
+        "intent_id": "filtro_aceite_derivacion",
+        "keywords": ["filtro", "valvula", "aceite", "obstruir", "fluir"],
+        "base_response": "El filtro de aceite moderno posee una válvula de derivación de seguridad para casos de obstrucción extrema. Si el papel filtrante se bloquea por suciedad acumulada, esta válvula se abre para permitir que el aceite fluya sin filtrar, evitando que el motor se funda por falta de lubricación."
+    },
+    {
+        "intent_id": "filtro_material_celulosa",
+        "keywords": ["filtro", "celulosa", "fibra", "retener", "particula"],
+        "base_response": "La mayoría de los filtros de aire convencionales están fabricados con fibras de celulosa densamente entrelazadas que forman un papel microporoso. Este diseño optimizado atrapa las partículas dañinas pero permite el paso del caudal de aire necesario para el correcto funcionamiento del motor."
+    },
+    {
+        "intent_id": "filtro_alto_flujo",
+        "keywords": ["filtro", "aire", "flujo", "algodon", "potencia"],
+        "base_response": "Los filtros de alto flujo utilizan capas de algodón quirúrgico lavable humedecidas con un aceite especial para atrapar la suciedad. Ofrecen una menor resistencia al paso del aire que los de papel, mejorando ligeramente la respuesta y potencia del motor deportivo de carreras."
+    },
+    {
+        "intent_id": "filtro_inspeccion_visual",
+        "keywords": ["inspeccionar", "filtro", "aire", "suciedad", "cambiar"],
+        "base_response": "La inspección visual del filtro de aire es un procedimiento sencillo de mantenimiento que cualquiera puede realizar en casa. Al retirar el cartucho y colocarlo a contraluz, si no pasa luz a través de las rejillas significa que está saturado y requiere cambio inmediato."
+    },
+    {
+        "intent_id": "filtro_aire_humedad",
+        "keywords": ["filtro", "aire", "humedad", "papel", "deteriorar"],
+        "base_response": "El papel de los filtros de aire convencionales es vulnerable a la humedad extrema y al agua directa del camino. Un filtro mojado puede ablandarse, perder su forma y obstruirse por completo, bloqueando el aire y afectando gravemente el funcionamiento del motor familiar."
+    },
+    {
+        "intent_id": "filtro_combustible_diesel",
+        "keywords": ["filtro", "diesel", "agua", "separar", "inyector"],
+        "base_response": "Los vehículos diésel utilizan un filtro especial que, además de retener partículas, separa el agua condensada que pueda contener el combustible. Evitar que el agua llegue a los inyectores es crucial, ya que causaría oxidación severa y daños catastróficos muy costosos."
+    },
+    {
+        "intent_id": "filtro_mantenimiento_intervalo",
+        "keywords": ["filtro", "mantenimiento", "intervalo", "reemplazar", "fabricante"],
+        "base_response": "Cada tipo de filtro tiene un intervalo específico de reemplazo recomendado en el manual del propietario de cada modelo de carro. Respetar estos intervalos previene averías mecánicas, mantiene el consumo bajo de gasolina y garantiza la pureza del aire interior y del motor."
+    },
+    {
+        "intent_id": "filtro_aire_polvo",
+        "keywords": ["polvo", "filtro", "aire", "camino", "saturar"],
+        "base_response": "Conducir habitualmente por caminos de tierra o carreteras polvorientas acelera de forma drástica la saturación de los filtros de aire de motor y cabina. En estas condiciones, los filtros deben revisarse con mayor frecuencia para evitar daños prematuros en las piezas internas."
+    },
+    {
+        "intent_id": "filtro_particulas_diesel",
+        "keywords": ["filtro", "particula", "escape", "hollin", "contaminacion"],
+        "base_response": "El filtro de partículas diésel es un dispositivo complejo ubicado en el sistema de escape que atrapa el hollín y las micropartículas nocivas de la combustión. Ayuda a reducir drásticamente la contaminación ambiental, cumpliendo con las normas ecológicas modernas más estrictas."
+    },
+    {
+        "intent_id": "filtro_transmision_automatica",
+        "keywords": ["filtro", "transmision", "aceite", "desgaste", "caja"],
+        "base_response": "Las cajas de cambio automáticas cuentan con su propio filtro interno de aceite para retener los residuos metálicos del desgaste de los discos de embrague. Mantener este filtro limpio asegura que el fluido hidráulico circule con la presión adecuada para cambios de marcha perfectos."
+    },
+    {
+        "intent_id": "filtro_aire_motos",
+        "keywords": ["filtro", "aire", "moto", "esponja", "aceite"],
+        "base_response": "Muchas motocicletas y vehículos pequeños utilizan filtros de aire de esponja de poliuretano bañados en un aceite viscoso especial. Este aceite actúa como un imán que atrapa el polvo fino, siendo un sistema lavable y muy duradero para condiciones de campo."
+    },
+    {
+        "intent_id": "filtro_secador_aire",
+        "keywords": ["filtro", "secador", "acondicionado", "humedad", "proteger"],
+        "base_response": "El filtro secador es un componente metálico sellado del sistema de aire acondicionado que contiene esferas deshidratantes. Atrapa la humedad y las impurezas del gas refrigerante, previniendo la corrosión interna de la válvula de expansión y protegiendo el compresor contra averías."
+    },
+    {
+        "intent_id": "filtro_cabina_bacterias",
+        "keywords": ["filtro", "cabina", "bacteria", "alergia", "salud"],
+        "base_response": "Los filtros de cabina con tratamiento antibacteriano contienen capas tratadas con compuestos que impiden el crecimiento de moho, bacterias y hongos en los conductos de ventilación. Esto previene olores desagradables y protege a las personas alérgicas que viajan en el coche familiar."
+    },
+    {
+        "intent_id": "filtro_carcasa_sellar",
+        "keywords": ["carcasa", "filtro", "sellar", "aire", "empaque"],
+        "base_response": "La carcasa del filtro es el contenedor plástico o metálico que alberga el cartucho filtrante y asegura un sellado perfecto. Un mal ajuste o un empaque dañado permitiría que el aire o los fluidos eviten el filtro, permitiendo el paso libre de suciedad destructiva."
+    },
+    {
+        "intent_id": "filtro_combustible_ubicacion",
+        "keywords": ["filtro", "combustible", "tanque", "motor", "ubicar"],
+        "base_response": "El filtro de combustible puede ubicarse debajo del chasis del auto, cerca del motor, o integrado dentro del propio tanque junto a la bomba de gasolina. Su ubicación varía según el modelo de coche para facilitar su acceso o protegerlo de golpes."
+    },
+    {
+        "intent_id": "filtro_aire_combustion",
+        "keywords": ["oxigeno", "combustion", "filtro", "motor", "proporcion"],
+        "base_response": "El motor necesita una proporción exacta de catorce gramos de aire por cada gramo de gasolina para funcionar correctamente. Un filtro de aire limpio garantiza que entre la cantidad de oxígeno suficiente para lograr esta mezcla óptima de combustión limpia y eficiente."
+    },
+    {
+        "intent_id": "filtro_aceite_metalico",
+        "keywords": ["filtro", "aceite", "malla", "metal", "grueso"],
+        "base_response": "Algunos motores cuentan con un pre-filtro de malla metálica gruesa ubicado en la succión de la bomba de aceite dentro del cárter. Este colador atrapa fragmentos grandes accidentales antes de que pasen por la bomba, proporcionando una primera línea física de defensa."
+    },
+    {
+        "intent_id": "filtro_canister_vapores",
+        "keywords": ["canister", "filtro", "carbon", "vapor", "gasolina"],
+        "base_response": "El filtro de cánister es un recipiente con carbón activado que almacena los vapores de gasolina que se evaporan del tanque de combustible. En lugar de liberarlos a la atmósfera, los redirige al motor para ser quemados, disminuyendo la contaminación ambiental."
+    },
+    {
+        "intent_id": "filtro_vida_util",
+        "keywords": ["filtro", "vida", "saturar", "cambiar", "kilometraje"],
+        "base_response": "La vida útil de un filtro depende del kilometraje recorrido y de las condiciones del entorno donde ruede el coche. Un filtro saturado obstruye el paso libre de fluidos o aire, por lo que su cambio periódico es indispensable en todo mantenimiento preventivo."
+    },
+    {
+        "intent_id": "filtro_aire_limpieza_prohibida",
+        "keywords": ["filtro", "aire", "sopletear", "danar", "cambiar"],
+        "base_response": "Limpiar un filtro de aire de celulosa sopleteándolo con aire comprimido a alta presión está totalmente desaconsejado. La presión rompe los microporos invisibles de las fibras, permitiendo que el polvo fino pase libremente al motor y raye los cilindros de forma destructiva."
+    },
+    {
+        "intent_id": "filtro_combustible_presion",
+        "keywords": ["presion", "combustible", "filtro", "inyector", "bomba"],
+        "base_response": "Un filtro de combustible dirty genera una restricción que obliga a la bomba de gasolina a trabajar con mayor esfuerzo térmico. Esto reduce la presión en la rampa de inyectores, provocando un ralentí inestable y fallas de encendido en el coche."
+    },
+    {
+        "intent_id": "filtro_aceite_roscado",
+        "keywords": ["filtro", "aceite", "rosca", "metal", "cartucho"],
+        "base_response": "Los filtros de aceite tipo 'spin-on' vienen en una carcasa metálica cilíndrica con rosca integrada que se enrosca directamente al bloque del motor. Son muy fáciles de cambiar y de desechar de forma segura en las rutinas periódicas de mantenimiento automotriz."
+    },
+    {
+        "intent_id": "filtro_aceite_cartucho",
+        "keywords": ["filtro", "cartucho", "papel", "ecologico", "carcasa"],
+        "base_response": "Muchos motores modernos utilizan filtros de aceite tipo cartucho, donde solo se reemplaza el elemento filtrante de papel plisado dentro de una carcasa plástica permanente. Este diseño ecológico reduce los desechos metálicos y el impacto ambiental de los servicios del carro."
+    },
+    {
+        "intent_id": "filtro_cabina_carbono_beneficio",
+        "keywords": ["filtro", "cabina", "carbono", "alergia", "salud"],
+        "base_response": "Utilizar un filtro de cabina de carbón activado en el auto familiar reduce notablemente los síntomas de allergy de los niños durante los viajes largos. Al filtrar gases contaminantes del tráfico como el ozono y dióxido de nitrógeno, garantiza un viaje saludable."
+    }
+]
+
+# GRUPO 3: Revisión de frenos (30 conceptos)
+conceptos_frenos = [
+    {
+        "intent_id": "frenos_disco_friccion",
+        "keywords": ["freno", "disco", "balata", "friccion", "detener"],
+        "base_response": "El sistema de frenos de disco utiliza la fricción para detener el coche. Cuando pisas el pedal, unas pinzas hidráulicas empujan las balatas contra un disco metálico que gira con la rueda, convirtiendo la energía del movimiento en calor y deteniendo el vehículo familiar."
+    },
+    {
+        "intent_id": "frenos_tambor_zapata",
+        "keywords": ["freno", "tambor", "zapata", "friccion", "rueda"],
+        "base_response": "Los frenos de tambor constan de un cilindro metálico que gira con la rueda. Al frenar, unos pistones empujan las zapatas de fricción hacia afuera contra las paredes internas del tambor, generando la fricción necesaria para detener de forma segura el eje trasero."
+    },
+    {
+        "intent_id": "frenos_balatas_desgaste",
+        "keywords": ["balata", "friccion", "desgaste", "pastilla", "seguridad"],
+        "base_response": "Las balatas o pastillas de freno están hechas de materiales compuestos diseñados para desgastarse lentamente con el roce. Revisar su grosor periódicamente es crucial para la seguridad, ya que unas balatas gastadas pierden agarre y pueden dañar gravemente los discos de freno."
+    },
+    {
+        "intent_id": "frenos_liquido_hidraulico",
+        "keywords": ["liquido", "freno", "hidraulico", "transmitir", "fuerza"],
+        "base_response": "El líquido de frenos es un fluido hidráulico incompresible que transmite la fuerza ejercida en el pedal directamente hacia las pinzas de las ruedas. Debe cambiarse periódicamente porque absorbe humedad del ambiente, lo que reduce su efectividad y puede provocar corrosión interna."
+    },
+    {
+        "intent_id": "frenos_abs_antibloqueo",
+        "keywords": ["freno", "abs", "antibloqueo", "evitar", "deslizar"],
+        "base_response": "El sistema ABS evita que las ruedas se bloqueen por completo durante un frenado de emergencia. Al liberar y aplicar presión de forma ultrarrápida, permite al conductor mantener el control de la dirección del auto y evitar el peligroso deslizamiento sobre pistas mojadas."
+    },
+    {
+        "intent_id": "frenos_caliper_pinza",
+        "keywords": ["caliper", "pinza", "piston", "balata", "presionar"],
+        "base_response": "El cáliper o pinza de freno es el soporte metálico que alberga los pistones y las balatas de freno. Al recibir el líquido a presión, los pistones del cáliper se extienden para presionar firmemente las balatas contra las caras del disco en rotación."
+    },
+    {
+        "intent_id": "frenos_disco_ventilado",
+        "keywords": ["disco", "ventilado", "enfriar", "calor", "freno"],
+        "base_response": "Los discos de freno ventilados tienen canales internos que permiten el paso del aire para disipar rápidamente el calor extremo generado al frenar. Este diseño avanzado evita que los frenos se sobrecalienten, manteniendo una excelente capacidad de frenado en descenses de montaña."
+    },
+    {
+        "intent_id": "frenos_pedal_firmeza",
+        "keywords": ["pedal", "freno", "esponjoso", "aire", "liquido"],
+        "base_response": "Un pedal de freno que se siente blando o esponjoso suele indicar la presencia de burbujas de aire en las tuberías del líquido hidráulico. Dado que el aire se compresion fácilmente, se reduce la presión del sistema, requiriendo un purgado inmediato para recuperar la firmeza."
+    },
+    {
+        "intent_id": "frenos_fading_fatiga",
+        "keywords": ["fading", "fatiga", "calor", "perder", "efectividad"],
+        "base_response": "La fatiga o 'fading' ocurre cuando los frenos se sobrecalientan por un uso excesivo, provocando una pérdida temporal de su efectividad. El material de fricción de las balatas pierde adherencia debido a la alta temperatura, aumentando peligrosamente la distancia necesaria para detener el coche."
+    },
+    {
+        "intent_id": "frenos_manguera_presion",
+        "keywords": ["manguera", "freno", "presion", "goma", "fuga"],
+        "base_response": "Las mangueras de freno son conductos de goma de alta resistencia que llevan el líquido hidráulico a alta presión hacia los cálipers móviles. Deben inspeccionarse periódicamente para detectar grietas o deformaciones que puedan causar fugas fatales de líquido y pérdida de frenado."
+    },
+    {
+        "intent_id": "frenos_cilindro_maestro",
+        "keywords": ["cilindro", "maestro", "pedal", "presion", "liquido"],
+        "base_response": "El cilindro maestro o bomba de freno convierte el movimiento mecánico del pedal en presión hidráulica para todo el sistema. Al pisar el pedal, un pistón interno empuja el líquido a través de los tubos metálicos hacia los frenos de cada rueda."
+    },
+    {
+        "intent_id": "frenos_servofreno_booster",
+        "keywords": ["booster", "servofreno", "vacio", "multiplicar", "fuerza"],
+        "base_response": "El servofreno o 'booster' utiliza el vacío generado por el motor para multiplicar la fuerza física que el conductor aplica sobre el pedal de freno. Gracias a este componente, detener un automóvil pesado se logra con una presión suave y cómoda del pie."
+    },
+    {
+        "intent_id": "frenos_mano_estacionamiento",
+        "keywords": ["freno", "mano", "cable", "estacionamiento", "bloquear"],
+        "base_response": "El freno de mano o de estacionamiento funciona de forma totalmente mecánica mediante cables de acero que bloquean las ruedas traseras. Su propósito es mantener el automóvil inmóvil cuando está estacionado, actuando también como sistema de emergencia en caso de falla hidráulica."
+    },
+    {
+        "intent_id": "frenos_chirrido_aviso",
+        "keywords": ["chirrido", "sensor", "desgaste", "balata", "cambiar"],
+        "base_response": "Un chirrido metálico agudo al frenar suele ser producido por un pequeño indicador de metal integrado in las balatas. Este sensor roza intencionalmente contra el disco cuando el material de fricción está llegando a su fin, indicando que es momento de cambiarlas."
+    },
+    {
+        "intent_id": "frenos_rectificacion_disco",
+        "keywords": ["rectificar", "disco", "freno", "vibracion", "superficie"],
+        "base_response": "La rectificación de discos consiste en pulir mecánicamente su superficie para eliminar imperfecciones, surcos o deformaciones causadas por el calor. Este proceso elimina las vibraciones en el pedal al frenar y asegura que las balatas nuevas asienten de manera perfecta."
+    },
+    {
+        "intent_id": "frenos_pastillas_ceramicas",
+        "keywords": ["balata", "ceramica", "polvo", "calor", "freno"],
+        "base_response": "Las pastillas de freno cerámicas ofrecen un rendimiento de frenado superior, disipan mejor el calor y generan muy poco polvo en las llantas. Son ideales para coches deportivos y de lujo debido a su larga duración, funcionamiento silencioso y alta resistencia."
+    },
+    {
+        "intent_id": "frenos_pastillas_semimetalicas",
+        "keywords": ["balata", "metal", "friccion", "desgaste", "freno"],
+        "base_response": "Las pastillas de freno semimetálicas contienen finas fibras de hierro, cobre o acero que mejoran la transferencia de calor y la fricción. Son muy resistentes y ofrecen un excelente agarre en condiciones de alta carga o manejo exigente de furgonetas."
+    },
+    {
+        "intent_id": "frenos_pastillas_organicas",
+        "keywords": ["balata", "organica", "fibra", "suave", "silencioso"],
+        "base_response": "Las pastillas de freno orgánicas están fabricadas con fibras no metálicas como vidrio, caucho o resinas sintéticas. Son muy suaves, silenciosas y no desgastan el disco de freno, aunque tienden a durar menos tiempo bajo uso continuo o exigente."
+    },
+    {
+        "intent_id": "frenos_purgado_aire",
+        "keywords": ["purgar", "aire", "freno", "tuberia", "seguridad"],
+        "base_response": "El purgado de frenos consiste en extraer todo el aire acumulado en las tuberías hidráulicas abriendo unas válvulas especiales en cada rueda. Este proceso asegura que solo haya líquido limpio e incompresible en el circuito, recuperando la respuesta inmediata del freno."
+    },
+    {
+        "intent_id": "frenos_sensor_abs_velocidad",
+        "keywords": ["sensor", "abs", "velocidad", "rueda", "deslizamiento"],
+        "base_response": "El sensor del sistema ABS mide constantemente la velocidad de rotación de cada rueda y envía los datos a la computadora del carro. Si detecta que una rueda se detiene por completo mientras las otras giran, el ABS interviene para evitar el deslizamiento."
+    },
+    {
+        "intent_id": "frenos_pastillas_espesor_minimo",
+        "keywords": ["balata", "espesor", "medir", "mantenimiento", "seguridad"],
+        "base_response": "El espesor mínimo seguro de las pastillas de freno suele ser de unos tres milímetros de material de fricción. Conducir con balatas por debajo de esta medida compromete gravemente la seguridad de frenado y puede destruir los costosos discos metálicos."
+    },
+    {
+        "intent_id": "frenos_temperatura_friccion",
+        "keywords": ["temperatura", "friccion", "calor", "freno", "frenado"],
+        "base_response": "El rozamiento constante entre las balatas y el disco puede elevar la temperatura de los frenos a más de trescientos grados centígrados. Utilizar materiales de alta calidad y un diseño bien ventilado evita la pérdida de efectividad por calor excesivo."
+    },
+    {
+        "intent_id": "frenos_lineas_metalicas",
+        "keywords": ["tubo", "metal", "liquido", "freno", "fuga"],
+        "base_response": "Las líneas de freno son conductos de acero rígido que transportan el líquido hidráulico a lo largo del chasis del auto. Al ser metálicas, resisten la alta presión del sistema y están protegidas contra golpes y la corrosión ambiental exterior."
+    },
+    {
+        "intent_id": "frenos_caliper_flotante",
+        "keywords": ["caliper", "flotante", "piston", "balata", "presionar"],
+        "base_response": "El cáliper flotante utiliza un diseño inteligente con pistones en un solo lado que deslizan toda la pinza para presionar ambas balatas contra el disco. Es el sistema más común en coches de uso familiar debido a su sencillez y bajo costo."
+    },
+    {
+        "intent_id": "frenos_caliper_fijo",
+        "keywords": ["caliper", "fijo", "piston", "balata", "rendimiento"],
+        "base_response": "El cáliper de freno fijo cuenta con pistones opuestos en ambos lados del disco que ejercen presión de forma simultánea. Este diseño rígido ofrece un frenado excepcionalmente potente, preciso y es la opción preferida para coches deportivos de alto rendimiento."
+    },
+    {
+        "intent_id": "frenos_liquido_dot",
+        "keywords": ["liquido", "dot", "ebullicion", "temperatura", "freno"],
+        "base_response": "La clasificación DOT mide el punto de ebullición y las propiedades de seguridad del líquido de frenos. Un fluido DOT superior resiste temperaturas extremas de frenado sin hervir, evitando la formación de burbujas de vapor que anulan la presión hidráulica."
+    },
+    {
+        "intent_id": "frenos_tambor_ajuste",
+        "keywords": ["ajustador", "freno", "tambor", "zapata", "friccion"],
+        "base_response": "Los frenos de tambor modernos cuentan con un mecanismo ajustador automático que mantiene las zapatas a la distancia correcta del tambor a medida que se desgastan. Esto garantiza que el pedal se sienta firme y con la misma respuesta en todo momento."
+    },
+    {
+        "intent_id": "frenos_asistencia_emergencia",
+        "keywords": ["asistencia", "emergencia", "frenado", "sensor", "computadora"],
+        "base_response": "El sistema de asistencia al frenado de emergencia detecta cuando el conductor pisa el pedal de forma brusca ante un peligro. La computadora interpreta esto como una emergencia y aplica de inmediato la máxima presión hidráulica disponible para reducir la distancia de frenado."
+    },
+    {
+        "intent_id": "frenos_pastillas_asbesto_prohibidas",
+        "keywords": ["asbesto", "balata", "prohibir", "salud", "ecologia"],
+        "base_response": "Antiguamente las balatas se fabricaban con asbesto por su gran resistencia al calor, pero su uso fue prohibido a nivel mundial debido a que su polvo fino es cancerígeno. Hoy se utilizan fibras cerámicas u orgánicas totalmente seguras y ecológicas."
+    },
+    {
+        "intent_id": "frenos_inspeccionar_nivel",
+        "keywords": ["nivel", "liquido", "deposito", "freno", "inspeccionar"],
+        "base_response": "Inspeccionar el nivel de fluido hidráulico en el depósito de frenos es vital. Un nivel bajo de líquido suele advertir sobre fugas en las mangueras o un desgaste natural de las balatas que requiere revisión profesional en el taller automotriz."
+    }
+]
+
+# GRUPO 4: Llantas, rines y suspensión (30 conceptos)
+conceptos_llantas = [
+    {
+        "intent_id": "llanta_presion_inflado",
+        "keywords": ["presion", "llanta", "inflar", "medir", "combustible"],
+        "base_response": "La presión de inflado es la cantidad de aire recomendada dentro de la llanta para garantizar un soporte seguro. Una presión correcta previene el desgaste irregular de la banda de rodamiento, reduce el consumo de combustible y mejora la estabilidad del vehículo."
+    },
+    {
+        "intent_id": "llanta_alineacion_direccion",
+        "keywords": ["alineacion", "direccion", "angulo", "suspension", "rueda"],
+        "base_response": "La alineación es el ajuste de los ángulos de las ruedas de suspensión para que queden paralelas entre sí y perpendiculares al camino. Previene que el vehículo se desvíe hacia un lado, asegurando un control suave de la dirección y una larga vida útil."
+    },
+    {
+        "intent_id": "llanta_balanceo_vibracion",
+        "keywords": ["balanceo", "vibracion", "peso", "rin", "rueda"],
+        "base_response": "El balanceo es el proceso de distribuir el peso de forma uniforme en la llanta y el rin mediante pequeños contrapesos de plomo. Evita vibraciones molestas en el volante a altas velocidades, protegiendo las piezas de la suspensión contra desgastes prematuros."
+    },
+    {
+        "intent_id": "llanta_banda_rodamiento",
+        "keywords": ["banda", "rodamiento", "llanta", "adherencia", "dibujo"],
+        "base_response": "La banda de rodamiento es la superficie de caucho que tiene contacto directo con el suelo. Su dibujo o grabado especial permite desalojar el agua del camino para evitar derrapes y garantizar una adherencia y tracción óptimas del vehículo familiar."
+    },
+    {
+        "intent_id": "llanta_aquaplaning_derrape",
+        "keywords": ["aquaplaning", "derrape", "agua", "llanta", "perder"],
+        "base_response": "El aquaplaning ocurre cuando una capa de agua se interpone entre la llanta gastada y la carretera, provocando que el auto flote sin control. Mantener un grabado profundo de las llantas permite evacuar el agua de inmediato, evitando este peligroso derrape."
+    },
+    {
+        "intent_id": "llanta_rotacion_mantenimiento",
+        "keywords": ["rotacion", "llanta", "mantenimiento", "eje", "desgaste"],
+        "base_response": "La rotación de llantas consiste en cambiar periódicamente su posición entre los ejes delantero y trasero. Dado que las ruedas delanteras se desgastan más rápido debido a la dirección y tracción, este mantenimiento preventivo unifica el desgaste de todos los neumáticos."
+    },
+    {
+        "intent_id": "llanta_nomenclatura_codigo",
+        "keywords": ["nomenclatura", "medida", "llanta", "ancho", "perfil"],
+        "base_response": "La nomenclatura grabada en el costado de la llanta indica sus dimensiones, como el ancho en milímetros, la relación de aspecto del perfil y el diámetro del rin. También muestra códigos que definen el índice de carga y velocidad máximos permitidos."
+    },
+    {
+        "intent_id": "llanta_rin_aleacion",
+        "keywords": ["rin", "aleacion", "aluminio", "peso", "rueda"],
+        "base_response": "Los rines de aleación de aluminio son ligeros y mejoran la apariencia estética del vehículo familiar. Al reducir el peso no suspendido de la rueda, facilitan el trabajo de la suspensión y ayudan a disipar eficientemente el calor generado por los frenos."
+    },
+    {
+        "intent_id": "llanta_rin_acero",
+        "keywords": ["rin", "acero", "resistencia", "rueda", "golpe"],
+        "base_response": "Los rines de acero estampado son sumamente fuertes y resisten golpes severos de baches sin agrietarse fácilmente. Son ideales para caminos difíciles, camiones de carga y vehículos de trabajo debido a su bajo costo de reparación y alta durabilidad."
+    },
+    {
+        "intent_id": "llanta_valvula_aire",
+        "keywords": ["valvula", "aire", "inflar", "llanta", "sellar"],
+        "base_response": "La válvula de aire es el conducto de goma con un núcleo metálico que permite inflar la llanta y sellarla herméticamente. Cuenta con un tapón protector que evita la entrada de polvo y suciedad que podría dañar el sello interno."
+    },
+    {
+        "intent_id": "llanta_amortiguador_suspension",
+        "keywords": ["amortiguador", "suspension", "rebotar", "estabilidad", "resorte"],
+        "base_response": "El amortiguador es el componente de la suspensión que controla las oscilaciones y evita que el coche rebote sin control al pasar por baches. Mantiene las llantas pegadas firmemente al suelo, garantizando una excelente estabilidad y confort para los pasajeros."
+    },
+    {
+        "intent_id": "llanta_resorte_espiral",
+        "keywords": ["resorte", "espiral", "peso", "chasis", "altura"],
+        "base_response": "El resorte espiral o muelle helicoidal soporta el peso total del chasis del vehículo y absorbe los impactos fuertes del terreno. Trabaja de la mano con el amortiguador para mantener la altura correcta del auto y aislar el habitáculo de las imperfecciones del suelo."
+    },
+    {
+        "intent_id": "llanta_barra_estabilizadora",
+        "keywords": ["barra", "estabilizadora", "curva", "inclinar", "chasis"],
+        "base_response": "La barra de acero estabilizadora conecta las ruedas para reducir la inclinación de la carrocería en curvas cerradas. Distribuye la fuerza de apoyo, manteniendo el chasis nivelado y mejorando notablemente el control dinámico del auto familiar."
+    },
+    {
+        "intent_id": "llanta_bujes_suspension",
+        "keywords": ["buje", "goma", "vibracion", "metal", "ruido"],
+        "base_response": "Los bujes son anillos de goma o poliuretano instalados en los puntos de unión de la suspensión para evitar el roce directo entre piezas metálicas. Absorben vibraciones de la carretera, permitiendo que los brazos de suspensión se muevan en silencio."
+    },
+    {
+        "intent_id": "llanta_rotula_direccion",
+        "keywords": ["rotula", "direccion", "articulacion", "rueda", "girar"],
+        "base_response": "La rótula de dirección es una articulación esférica de metal que permite transmitir el movimiento del volante a las ruedas delanteras, facilitando su giro lateral. Soporta el movimiento vertical de la suspensión sin perder el control de la dirección del auto."
+    },
+    {
+        "intent_id": "llanta_desgaste_irregular",
+        "keywords": ["desgaste", "llanta", "alineacion", "mantenimiento", "presion"],
+        "base_response": "Un desgaste irregular en los bordes de la llanta revela fallas graves de alineación o problemas en la suspensión. Si el desgaste ocurre solo en el centro, indica que la llanta se ha inflado con una presión excesiva de aire."
+    },
+    {
+        "intent_id": "llanta_presion_baja_dano",
+        "keywords": ["presion", "baja", "llanta", "calor", "danar"],
+        "base_response": "Rodar una llanta con una presión demasiado baja genera un exceso de flexión en sus costados, aumentando drásticamente la temperatura interna. Este calor extremo debilita el caucho y la estructura de acero, pudiendo causar una ponchadura repentina."
+    },
+    {
+        "intent_id": "llanta_desgaste_indicador",
+        "keywords": ["indicador", "desgaste", "llanta", "dibujo", "cambiar"],
+        "base_response": "Los indicadores de desgaste o barras TWI son pequeños puentes de goma ubicados dentro de los canales del dibujo de la llanta. Cuando el grabado se desgasta hasta el nivel de estas barras, significa que la llanta es insegura y requiere reemplazo."
+    },
+    {
+        "intent_id": "llanta_vida_util_fecha",
+        "keywords": ["fecha", "fabricacion", "llanta", "caducar", "goma"],
+        "base_response": "Las llantas tienen una fecha de caducidad impresa en un código DOT de cuatro dígitos que indican la semana y el año de fabricación. Con los años, la goma se reseca y pierde flexibilidad, volviéndose insegura para viajar con la familia."
+    },
+    {
+        "intent_id": "llanta_reparacion_parche",
+        "keywords": ["parche", "reparar", "llanta", "ponchadura", "clavo"],
+        "base_response": "La reparación de una ponchadura por clavo debe realizarse aplicando un parche vulcanizado por el interior de la llanta en un taller calificado. El uso provisional de tapones externos no garantiza un sellado seguro de la estructura a alta velocidad."
+    },
+    {
+        "intent_id": "llanta_nitrogeno_inflado",
+        "keywords": ["nitrogeno", "inflar", "llanta", "presion", "estable"],
+        "base_response": "Inflar las llantas con nitrógeno en lugar de aire común mantiene la presión de inflado estable por más tiempo. Al ser un gas seco y de moléculas grandes, no escapa fácilmente a través de los poros del caucho ni oxida los rines."
+    },
+    {
+        "intent_id": "llanta_dibujo_invierno",
+        "keywords": ["llanta", "invierno", "nieve", "adherencia", "frio"],
+        "base_response": "Las llantas de invierno tienen compuestos de caucho que se mantienen suaves a bajas temperaturas y grabados profundos con laminillas especiales. Estas ranuras muerden el hielo y la nieve para garantizar una tracción segura en zonas de frío extremo."
+    },
+    {
+        "intent_id": "llanta_dibujo_verano",
+        "keywords": ["llanta", "verano", "clima", "seco", "calor"],
+        "base_response": "Las llantas de verano están diseñadas con canales optimizados para rodar sobre carreteras secas y mojadas en climas templados o cálidos. Ofrecen una excelente tracción y una menor resistencia de rodadura, reduciendo el consumo de combustible del auto familiar."
+    },
+    {
+        "intent_id": "llanta_rin_medida",
+        "keywords": ["rin", "diametro", "ancho", "rueda", "medida"],
+        "base_response": "La medida del rin se define principalmente por su diámetro y su ancho expresados en pulgadas. Al instalar rines más grandes, se debe compensar utilizando llantas de perfil más bajo para mantener el diámetro exterior original de la rueda del auto."
+    },
+    {
+        "intent_id": "llanta_rin_descentrado",
+        "keywords": ["rin", "golpe", "bache", "vibracion", "reparar"],
+        "base_response": "Un rin descentrado o doblado debido al impacto contra un bache profundo genera vibraciones severas y fugas lentas de aire en la llanta. Requiere reparación profesional o reemplazo inmediato para no arruinar el comportamiento seguro de la dirección del auto."
+    },
+    {
+        "intent_id": "llanta_suspension_macpherson",
+        "keywords": ["macpherson", "suspension", "amortiguador", "brazo", "compacto"],
+        "base_response": "La suspensión MacPherson es un diseño compacto que combina el amortiguador y el resorte espiral en una sola unidad rígida que sirve de soporte a la rueda. Es el sistema más popular en coches modernos por su excelente ligereza y bajo costo."
+    },
+    {
+        "intent_id": "llanta_suspension_multilink",
+        "keywords": ["multilink", "suspension", "brazo", "rueda", "estabilidad"],
+        "base_response": "La suspensión multibrazo o 'multilink' utiliza varios brazos de control metálicos independientes para guiar la rueda de forma precisa en curvas y baches. Ofrece un agarre excepcional y un confort de marcha inigualable para los vehículos de pasajeros modernos."
+    },
+    {
+        "intent_id": "llanta_suspension_eje_rigido",
+        "keywords": ["eje", "rigido", "rueda", "resistencia", "carga"],
+        "base_response": "La suspensión de eje rígido conecta ambas ruedas opuestas mediante una barra sólida de acero. Es un diseño sumamente robusto utilizado en camionetas de carga pesada y vehículos todoterreno debido a su alta resistencia mecánica en caminos difíciles."
+    },
+    {
+        "intent_id": "llanta_rodamiento_buje",
+        "keywords": ["rodamiento", "balero", "rueda", "girar", "friccion"],
+        "base_response": "El rodamiento de rueda o balero contiene esferas de acero templado que permiten que la rueda gire libremente con una fricción mínima sobre el eje. Si se daña, produce un zumbido fuerte y progresivo que aumenta notablemente al acelerar."
+    },
+    {
+        "intent_id": "llanta_sensor_tpms",
+        "keywords": ["tpms", "sensor", "presion", "llanta", "computadora"],
+        "base_response": "El sistema TPMS utiliza sensores electrónicos montados en la válvula de cada llanta para monitorear constantemente la presión del aire. Si la presión cae por debajo del nivel seguro, el sistema enciende de inmediato una luz de alerta en el tablero."
+    }
+]
+
+# GRUPO 5: Diagnóstico, escáner y sistemas eléctricos (30 conceptos)
+conceptos_diagnostico = [
+    {
+        "intent_id": "diagnostico_obd_puerto",
+        "keywords": ["obd", "puerto", "escaner", "computadora", "conectar"],
+        "base_response": "El puerto OBD es un enchufe de diagnóstico estándar que permite conectar un escáner a la computadora del coche. A través de este conector, los mecánicos leen los códigos de error que indican con precisión qué componente o sensor está fallando."
+    },
+    {
+        "intent_id": "diagnostico_codigo_falla",
+        "keywords": ["codigo", "falla", "dtc", "sensor", "error"],
+        "base_response": "Los códigos de falla o DTC son claves alfanuméricas generadas por la computadora del auto cuando detecta una anomalía en un sensor. Estos códigos sirven como guía para que el especialista localice la avería y realice la reparación del auto familiar."
+    },
+    {
+        "intent_id": "diagnostico_check_engine",
+        "keywords": ["check", "engine", "tablero", "computadora", "motor"],
+        "base_response": "La luz de 'Check Engine' en el tablero de instrumentos es un indicador visual controlado por la computadora del motor. Su encendido parpadeante o fijo avisa al conductor que se ha detectado una falla en el motor que requiere atención técnica."
+    },
+    {
+        "intent_id": "diagnostico_multimetro_voltaje",
+        "keywords": ["multimetro", "medir", "voltaje", "corriente", "cable"],
+        "base_response": "El multímetro es una herramienta electrónica indispensable para medir el voltaje de la batería, la resistencia de los cables y la continuidad de los circuitos. Permite rastrear cables rotos e identificar fallas de corriente y cortocircuitos eléctricos en el auto."
+    },
+    {
+        "intent_id": "diagnostico_bateria_acumulador",
+        "keywords": ["bateria", "acumulador", "energia", "arranque", "quimica"],
+        "base_response": "La batería o acumulador almacena energía química que se convierte en electricidad para encender el motor de arranque. También alimenta los componentes eléctricos del coche como luces, radio y computadoras cuando el motor principal se encuentra apagado."
+    },
+    {
+        "intent_id": "diagnostico_alternador_carga",
+        "keywords": ["alternador", "bateria", "cargar", "energia", "motor"],
+        "base_response": "El alternador es un generador eléctrico impulsado por el motor mediante una correa. Su función principal es recargar la batería y proveer de energía eléctrica constante a todos los sistemas del vehículo mientras este se encuentra en marcha."
+    },
+    {
+        "intent_id": "diagnostico_fusible_proteger",
+        "keywords": ["fusible", "proteger", "circuito", "quemar", "corriente"],
+        "base_response": "Un fusible es un dispositivo de seguridad con un filamento metálico diseñado para romperse o quemarse intencionalmente ante una sobrecarga de corriente. Esta acción interrumpe el circuito de inmediato, protegiendo los componentes eléctricos de daños mayores e incendios."
+    },
+    {
+        "intent_id": "diagnostico_relevador_rele",
+        "keywords": ["relevador", "rele", "interruptor", "circuito", "corriente"],
+        "base_response": "El relevador o relé funciona como un interruptor electromagnético que permite controlar un circuito de alta corriente mediante una señal eléctrica de baja potencia. Es esencial para activar componentes de gran consumo como ventiladores y faros principales de luz."
+    },
+    {
+        "intent_id": "diagnostico_sensor_oxigeno",
+        "keywords": ["sensor", "oxigeno", "escape", "combustion", "mezcla"],
+        "base_response": "El sensor de oxígeno mide la cantidad de aire restante en los gases de escape para evaluar la calidad de la combustión. La computadora del coche utiliza estos datos para ajustar de inmediato la cantidad exacta de gasolina inyectada al motor."
+    },
+    {
+        "intent_id": "diagnostico_sensor_maf_flujo",
+        "keywords": ["sensor", "maf", "flujo", "aire", "computadora"],
+        "base_response": "El sensor MAF mide la cantidad exacta de flujo de aire que entra al colector de admisión del motor. Al enviar esta información precisa a la computadora, el sistema calcula la cantidad perfecta de combustible requerida para una marcha suave."
+    },
+    {
+        "intent_id": "diagnostico_bujia_chispa",
+        "keywords": ["bujia", "chispa", "combustion", "encender", "gasolina"],
+        "base_response": "La bujía es el componente encargado de generar una chispa eléctrica de alto voltaje dentro del cilindro para encender la mezcla de aire y gasolina. Su correcto estado de limpieza es crucial para evitar fallas de encendido y tirones."
+    },
+    {
+        "intent_id": "diagnostico_bobina_voltaje",
+        "keywords": ["bobina", "voltaje", "transformar", "chispa", "bujia"],
+        "base_response": "La bobina de encendido transforma los doce voltios de la batería de baja tensión en miles de voltios de alta tensión eléctrica. Esta potente energía es enviada a la bujía de cada cilindro para generar la chispa de combustión."
+    },
+    {
+        "intent_id": "diagnostico_motor_arranque",
+        "keywords": ["motor", "arranque", "encender", "bateria", "volante"],
+        "base_response": "El motor de arranque es un potente motor eléctrico que utiliza la energía de la batería para hacer girar el volante de inercia y arrancar el motor de combustión. Funciona brevemente al girar la llave o presionar el botón del coche."
+    },
+    {
+        "intent_id": "diagnostico_marcha_minima_iac",
+        "keywords": ["iac", "valvula", "marcha", "aire", "motor"],
+        "base_response": "La válvula IAC controla la cantidad de aire que ingresa al motor cuando no estamos pisando el acelerador, regulando las revoluciones de marcha mínima. Esto mantiene el motor encendido y estable cuando el coche está detenido en el tráfico."
+    },
+    {
+        "intent_id": "diagnostico_sensor_temperatura",
+        "keywords": ["sensor", "temperatura", "refrigerante", "calor", "ventilador"],
+        "base_response": "El sensor de temperatura del refrigerante mide el calor interno del motor e informa a la computadora del coche. Sirve para activar los ventiladores del radiador a tiempo, evitando que la máquina sufra calentamientos y daños severos."
+    },
+    {
+        "intent_id": "diagnostico_computadora_ecu",
+        "keywords": ["ecu", "computadora", "controlar", "sensor", "motor"],
+        "base_response": "La ECU o computadora de motor es el cerebro electrónico que monitorea decenas de sensores y controla actuadores como los inyectores y bobinas en tiempo real. Garantiza que el coche rinda de forma óptima bajo cualquier condición de manejo."
+    },
+    {
+        "intent_id": "diagnostico_sensor_posicion_ckp",
+        "keywords": ["sensor", "ckp", "posicion", "ciguenal", "computadora"],
+        "base_response": "El sensor CKP monitorea la posición y velocidad de giro del cigüeñal del motor para sincronizar el encendido de las bujías y la inyección. Si este sensor vital falla, el motor se apagará repentinamente y no volverá a arrancar."
+    },
+    {
+        "intent_id": "diagnostico_alternador_falla",
+        "keywords": ["alternador", "falla", "bateria", "descargar", "tablero"],
+        "base_response": "Una falla en el alternador provoca que el coche consuma la energía de la batería sin recargarla, lo que eventualmente apagará el auto por completo. Se advierte mediante un icono de batería encendido de color rojo en el tablero."
+    },
+    {
+        "intent_id": "diagnostico_bateria_sulfatacion",
+        "keywords": ["bateria", "sulfatacion", "sarro", "limpiar", "terminal"],
+        "base_response": "La sulfatación es la acumulación de sarro blanco o verdoso en las terminales metálicas de la batería del auto. Este residuo ácido obstruye el paso libre de la corriente eléctrica, dificultando el encendido del motor y requiriendo limpieza periódica."
+    },
+    {
+        "intent_id": "diagnostico_sensor_map_presion",
+        "keywords": ["sensor", "map", "presion", "admision", "computadora"],
+        "base_response": "El sensor MAP mide la presión de vacío dentro del colector de admisión de aire del motor. Informa a la computadora sobre la carga de trabajo del motor, ayudando a dosificar con gran exactitud la cantidad de combustible inyectado."
+    },
+    {
+        "intent_id": "diagnostico_cable_bujia",
+        "keywords": ["cable", "bujia", "voltaje", "silicona", "chispa"],
+        "base_response": "Los cables de bujía conducen la corriente de alto voltaje desde la bobina de encendido hasta cada bujía individual. Están revestidos de silicona gruesa para evitar fugas de corriente que podrían provocar fallas de combustión y jaloneos del coche."
+    },
+    {
+        "intent_id": "diagnostico_sensor_detonacion",
+        "keywords": ["sensor", "detonacion", "vibracion", "motor", "computadora"],
+        "base_response": "El sensor de detonación detecta las vibraciones irregulares causadas por explosiones anticipadas o pistoneo dentro de la cámara de combustión. Al captar este ruido, la computadora retrasa el tiempo de chispa para proteger los pistones de daños severos."
+    },
+    {
+        "intent_id": "diagnostico_caja_fusibles",
+        "keywords": ["caja", "fusible", "rele", "circuito", "ubicar"],
+        "base_response": "La caja de fusibles es el centro de distribución eléctrica que alberga todos los fusibles de protección y relevadores del auto familiar. Se ubica comúnmente debajo del tablero de instrumentos o a un costado del motor para facilitar su inspección."
+    },
+    {
+        "intent_id": "diagnostico_escaner_graficar",
+        "keywords": ["escaner", "graficar", "datos", "sensor", "monitorear"],
+        "base_response": "Un escáner profesional permite graficar lecturas en tiempo real de los sensores del coche mientras está encendido. Esta valiosa función ayuda a los mecánicos a detectar fallas intermitentes que no siempre registran un código de error inmediato en la ECU."
+    },
+    {
+        "intent_id": "diagnostico_corto_circuito",
+        "keywords": ["corto", "circuito", "cable", "chasis", "fusible"],
+        "base_response": "Un corto circuito ocurre cuando un cable eléctrico pelado toca directamente el chasis metálico del auto sin resistencia. Esto provoca una sobrecorriente extrema que funde el fusible de seguridad de inmediato, evitando que se queme el cableado del auto."
+    },
+    {
+        "intent_id": "diagnostico_sulfatacion_bornes",
+        "keywords": ["borne", "bateria", "sarro", "limpiar", "conexion"],
+        "base_response": "Limpiar la sulfatación de los bornes de la batería con agua y bicarbonato de sodio restaura una conexión eléctrica impecable. Asegura que el motor de arranque reciba la corriente necesaria de la batería para encender el auto sin problemas."
+    },
+    {
+        "intent_id": "diagnostico_cable_tierra",
+        "keywords": ["cable", "tierra", "chasis", "circuito", "retorno"],
+        "base_response": "El cable de tierra conecta la terminal negativa de la batería directamente al chasis metálico del automóvil. Esta conexión permite que la estructura metálica sirva como canal de retorno eléctrico para cerrar de forma segura todos los circuitos del carro."
+    },
+    {
+        "intent_id": "diagnostico_arnes_electrico",
+        "keywords": ["arnes", "cable", "sensor", "conector", "proteger"],
+        "base_response": "El arnés eléctrico es el conjunto ordenado de cables y conectores aislados que vincula la computadora con todos los sensores. Está protegido por fundas plásticas corrugadas para resistir el calor y la humedad del compartimiento del motor del coche."
+    },
+    {
+        "intent_id": "diagnostico_bateria_voltaje_normal",
+        "keywords": ["bateria", "voltaje", "medir", "multimetro", "normal"],
+        "base_response": "Una batería en perfecto estado debe marcar entre doce punto seis voltios apagada y catorce punto cinco voltios con el motor encendido. Valores inferiores medidos con el multímetro advierten que la batería o el alternador requieren revisión del taller."
+    },
+    {
+        "intent_id": "diagnostico_sensor_tps",
+        "keywords": ["sensor", "tps", "acelerador", "mariposa", "computadora"],
+        "base_response": "El sensor TPS monitorea la posición exacta del pedal del acelerador y la apertura de la mariposa de admisión de aire. Informa a la computadora para que esta inyecte la gasolina necesaria de forma inmediata y logre una aceleración rápida."
+    }
+]
+
+# GRUPO 6: Pintura, estética y rines (30 conceptos)
+conceptos_estetica = [
+    {
+        "intent_id": "estetica_pintura_capas",
+        "keywords": ["pintura", "capa", "carroceria", "proteger", "color"],
+        "base_response": "La pintura automotriz consta de varias capas aplicadas sobre la carrocería metálica para protegerla de la oxidación. Incluye la capa de imprimación anticorrosiva, la capa de color base y un barniz transparente final que aporta brillo y resistencia."
+    },
+    {
+        "intent_id": "estetica_barniz_transparente",
+        "keywords": ["barniz", "pintura", "proteger", "sol", "brillo"],
+        "base_response": "El barniz transparente es la capa final que protege la pintura del coche contra los dañinos rayos solares ultravioleta y la lluvia ácida. Su dureza previene rayones leves de ramas y mantiene el brillo profundo y reluciente de la carrocería familiar."
+    },
+    {
+        "intent_id": "estetica_pulido_encerado",
+        "keywords": ["pulir", "encerar", "carroceria", "brillo", "limpiar"],
+        "base_response": "El pulido consiste en rebajar micras del barniz desgastado usando pastas abrasivas suaves para eliminar micro-rayones y opacidad en la carrocería. El encerado posterior aplica una capa protectora de cera que resalta el brillo y repele el agua."
+    },
+    {
+        "intent_id": "estetica_corrosion_oxido",
+        "keywords": ["oxido", "corrosion", "metal", "humedad", "pintura"],
+        "base_response": "La corrosión u óxido es el deterioro destructivo que sufre el acero de la carrocería al reaccionar con el oxígeno y la humedad. Mantener la pintura impecable y lavar el auto con frecuencia evita que el óxido perfore el chasis metálico."
+    },
+    {
+        "intent_id": "estetica_arcilla_descontaminado",
+        "keywords": ["arcilla", "descontaminar", "barniz", "impureza", "limpiar"],
+        "base_response": "La barra de arcilla o clay bar sirve para eliminar la contaminación incrustada en el barniz transparente del auto que el lavado común no retira. Atrapa partículas industriales, savia de árboles y restos de asfalto, dejando la superficie sumamente lisa."
+    },
+    {
+        "intent_id": "estetica_pintura_metalizada",
+        "keywords": ["pintura", "metalizado", "aluminio", "brillo", "color"],
+        "base_response": "La pintura metalizada contiene diminutas partículas de aluminio que reflejan la luz solar, aportando un brillo brillante y un aspecto lujoso. Su aplicación requiere técnicas precisas de aspersión en el taller para lograr una distribución uniforme del color."
+    },
+    {
+        "intent_id": "estetica_pintura_perlada",
+        "keywords": ["pintura", "perlada", "micas", "reflejar", "color"],
+        "base_response": "La pintura perlada utiliza finas partículas de mica sintética que refractan la luz de forma similar a un prisma. Esto permite que la carrocería muestre diferentes tonalidades y matices de color según el ángulo de observación de las personas."
+    },
+    {
+        "intent_id": "estetica_imprimacion_primer",
+        "keywords": ["imprimacion", "primer", "adherencia", "metal", "pintar"],
+        "base_response": "La imprimación o primer es la primera capa líquida aplicada directamente sobre el metal desnudo de la carrocería. Garantiza una perfecta adherencia de las siguientes capas de color y sirve como barrera impermeable contra la humedad y el óxido."
+    },
+    {
+        "intent_id": "estetica_cabina_pintura",
+        "keywords": ["cabina", "pintar", "filtrar", "polvo", "calentar"],
+        "base_response": "La cabina de pintura es un cuarto cerrado y ventilado diseñado para pintar autos bajo condiciones controladas de limpieza. Cuenta con potentes filtros de aire que eliminan partículas de polvo y un sistema de calefacción para acelerar el secado del barniz."
+    },
+    {
+        "intent_id": "estetica_lijado_preparacion",
+        "keywords": ["lijar", "preparar", "superficie", "imperfeccion", "pintar"],
+        "base_response": "El lijado es el proceso de preparar la superficie de la carrocería eliminando imperfecciones y restos de óxido antes de pintar. Se realiza utilizando lijas de diferentes granos de finura con agua para asegurar una base completamente lisa y uniforme."
+    },
+    {
+        "intent_id": "estetica_masilla_resina",
+        "keywords": ["masilla", "reparar", "abolladura", "nivelar", "carroceria"],
+        "base_response": "La masilla de poliéster es una resina pastosa de secado rápido que se aplica para rellenar y nivelar abolladuras en la carrocería. Una vez seca, se lija con precisión para recuperar la forma original del guardabarros o puerta dañada."
+    },
+    {
+        "intent_id": "estetica_pintura_mate",
+        "keywords": ["pintura", "mate", "barniz", "reflejo", "cuidado"],
+        "base_response": "La pintura mate utiliza un barniz transparente especial que no refleja la luz, aportando un aspecto opaco y sobrio al vehículo familiar. Requiere cuidados especiales y no debe pulirse, ya que el pulido eliminaría el efecto mate de inmediato."
+    },
+    {
+        "intent_id": "estetica_tratamiento_ceramico",
+        "keywords": ["tratamiento", "ceramico", "cuarzo", "proteger", "barniz"],
+        "base_response": "El tratamiento cerámico o coating de nanotecnología aplica una capa ultrafina de cuarzo sobre el barniz transparente del coche. Ofrece una protección duradera contra rayones, repele el polvo y el agua, y facilita notablemente el lavado diario."
+    },
+    {
+        "intent_id": "estetica_rin_limpieza",
+        "keywords": ["rin", "limpiar", "polvo", "freno", "aluminio"],
+        "base_response": "Limpiar los rines regularmente elimina el polvo corrosivo de las pastillas de freno y la suciedad del camino. Utilizar productos de limpieza no ácidos específicos para rines de aluminio evita manchas oscuras y mantiene el brillo del metal intacto."
+    },
+    {
+        "intent_id": "estetica_rin_pintura",
+        "keywords": ["rin", "pintar", "estetica", "metal", "horno"],
+        "base_response": "Pintar los rines de aleación permite personalizar la estética del vehículo deportivo de carreras. Se utiliza comúnmente pintura en polvo horneada electrostáticamente, la cual ofrece una dureza excepcional frente a golpes de piedras y el calor del freno."
+    },
+    {
+        "intent_id": "estetica_detallado_interior",
+        "keywords": ["detallado", "interior", "limpiar", "asiento", "tablero"],
+        "base_response": "El detallado interior consiste en limpiar y acondicionar minuciosamente todos los rincones del habitáculo del automóvil familiar. Incluye el lavado de asientos, la desinfección de alfombras con vapor y la hidratación protectora de las molduras plásticas del tablero."
+    },
+    {
+        "intent_id": "estetica_lavado_dos_cubetas",
+        "keywords": ["lavar", "cubeta", "evitar", "rayar", "barniz"],
+        "base_response": "El método de lavado de las dos cubetas utiliza una tina con champú y otra con agua limpia para enjuagar la esponja. Evita que la arena recogida raye el barniz del coche, previniendo marcas circulares visibles en la pintura."
+    },
+    {
+        "intent_id": "estetica_hidratacion_gomas",
+        "keywords": ["hidratar", "goma", "empaque", "proteger", "sol"],
+        "base_response": "La hidratación de las gomas y empaques de las puertas con silicón especial evita que se resequen por el calor del sol. Mantiene su flexibilidad y capacidad de sellado acústico, evitando filtraciones de agua de lluvia y ruidos de viento."
+    },
+    {
+        "intent_id": "estetica_restauracion_faros",
+        "keywords": ["restaurar", "faro", "pulir", "opacidad", "luz"],
+        "base_response": "La restauración de faros elimina la opacidad amarillenta del policarbonato causada por la radiación solar. Al lijar suavemente y pulir el faro plástico, se recupera la transparencia cristalina original, mejorando drásticamente el alcance y seguridad de la luz nocturna."
+    },
+    {
+        "intent_id": "estetica_pulido_cristales",
+        "keywords": ["pulir", "cristal", "parabrisas", "limpiar", "visibilidad"],
+        "base_response": "El pulido de cristales remueve manchas difíciles de lluvia ácida y marcas persistentes de los limpiaparabrisas que restringen la visibilidad. Utilizar óxido de cerio devuelve la transparencia total al vidrio, mejorando la seguridad al conducir bajo lluvia intensa."
+    },
+    {
+        "intent_id": "estetica_llanta_abrillantador",
+        "keywords": ["abrillantador", "llanta", "caucho", "proteger", "aspecto"],
+        "base_response": "El abrillantador de llantas o gel para neumáticos aporta un brillo intenso y protege el caucho de la resequedad provocada por los rayos solares. Su aplicación regular previene cuarteaduras finas en los costados de las llantas, mejorando su aspecto visual."
+    },
+    {
+        "intent_id": "estetica_pistola_gravedad",
+        "keywords": ["pistola", "gravedad", "pintar", "aire", "compresor"],
+        "base_response": "La pistola de gravedad utiliza aire comprimido para atomizar y esparcir la pintura líquida de forma uniforme sobre la carrocería. Su diseño permite que la pintura baje por gravedad hacia la boquilla, optimizando el uso de material sin desperdicios."
+    },
+    {
+        "intent_id": "estetica_encerado_mano",
+        "keywords": ["encerar", "mano", "proteger", "barniz", "brillo"],
+        "base_response": "El encerado a mano es una actividad de mantenimiento estético sencilla que protege el barniz transparente del auto. Al aplicar cera de carnauba en movimientos circulares, se crea una barrera protectora de larga duración que resalta el color del coche."
+    },
+    {
+        "intent_id": "estetica_pdr_abolladuras",
+        "keywords": ["pdr", "abolladura", "reparar", "herramienta", "pintura"],
+        "base_response": "La técnica PDR o desabollado sin pintar permite reparar pequeños golpes de granizo o portazos utilizando varillas especiales de acero por el interior del panel. Elimina la abolladura con gran precisión sin alterar la valiosa pintura original del automóvil."
+    },
+    {
+        "intent_id": "estetica_vinilo_wrap",
+        "keywords": ["vinilo", "wrap", "adhesivo", "personalizar", "color"],
+        "base_response": "El vinilo wrap es una película adhesiva plástica de alta resistencia que se aplica sobre la pintura original para cambiar el color del auto o personalizar su estética. Protege la pintura subyacente y puede removerse fácilmente sin dejar residuos."
+    },
+    {
+        "intent_id": "estetica_chasis_limpieza",
+        "keywords": ["lavado", "chasis", "agua", "suciedad", "oxido"],
+        "base_response": "El lavado de chasis remueve la acumulación nociva de barro, arena y sal de carretera de la parte inferior del auto. Previene la formación de óxido y corrosión en los metales estructurales de la carrocería y suspensión del coche."
+    },
+    {
+        "intent_id": "estetica_lluvia_acida",
+        "keywords": ["lluvia", "acida", "manchar", "barniz", "limpiar"],
+        "base_response": "La lluvia ácida contiene ácidos contaminantes que se evaporan sobre la carrocería caliente del auto, dejando marcas blancas difíciles de lavar. Si no se remueven a tiempo mediante un pulido suave, pueden picar y dañar permanentemente el barniz."
+    },
+    {
+        "intent_id": "estetica_microfibra_lavado",
+        "keywords": ["microfibra", "lavar", "toalla", "absorber", "rayar"],
+        "base_response": "Las toallas de microfibra son ideales para lavar y secar la pintura del coche debido a sus fibras ultrafinas que atrapan el polvo sin rayar. Absorben gran cantidad de agua de forma suave, previniendo daños y marcas en el barniz."
+    },
+    {
+        "intent_id": "estetica_pintura_espesor",
+        "keywords": ["espesor", "medidor", "pintura", "capa", "carroceria"],
+        "base_response": "El medidor de espesor de pintura mide las micras de las capas aplicadas sobre la carrocería de metal. Permite a los especialistas saber si un auto ha sido repintado o reparado con masilla plástica tras un golpe vial."
+    },
+    {
+        "intent_id": "estetica_desengrasante_motor",
+        "keywords": ["desengrasante", "motor", "limpiar", "aceite", "suciedad"],
+        "base_response": "El lavado estético del motor utiliza desengrasantes biodegradables para disolver el aceite derramado y la suciedad del camino. Se debe realizar con precaución, protegiendo las computadoras y conectores eléctricos de la humedad con bolsas plásticas seguras."
+    }
+]
+
+# GRUPO 7: Modelos y estilos de carros (deportivos, familiares, todoterreno, etc.) (30 conceptos)
+conceptos_modelos = [
+    {
+        "intent_id": "modelo_carro_sedan",
+        "keywords": ["sedan", "carroceria", "puerta", "pasajero", "coche"],
+        "base_response": "El sedán es un estilo de carrocería clásico de tres volúmenes bien definidos: el cofre para el motor, el habitáculo espacioso de pasajeros con cuatro puertas y la cajuela trasera independiente para guardar el equipaje familiar de viaje."
+    },
+    {
+        "intent_id": "modelo_carro_hatchback",
+        "keywords": ["hatchback", "carroceria", "puerta", "cajuela", "compacto"],
+        "base_response": "El hatchback es un diseño compacto de dos volúmenes donde la cajuela está integrada directamente en el habitáculo. Se accede a ella mediante una puerta trasera vidriada que se abre hacia arriba, ofreciendo una gran versatilidad de carga."
+    },
+    {
+        "intent_id": "modelo_carro_deportivo",
+        "keywords": ["deportivo", "aerodinamico", "velocidad", "motor", "carro"],
+        "base_response": "Un coche deportivo destaca por su diseño aerodinámico de perfil bajo, potente motor de altas revoluciones y una excelente estabilidad en las curvas. Está diseñado para entregar una respuesta rápida, gran velocidad y una conducción sumamente emocionante."
+    },
+    {
+        "intent_id": "modelo_carro_familiar_suv",
+        "keywords": ["suv", "familiar", "espacio", "camino", "carroceria"],
+        "base_response": "Una SUV es un vehículo familiar robusto y espacioso que combina el confort de marcha de un automóvil con la altura y capacidad para andar por caminos difíciles. Ofrece una posición de manejo elevada y un gran espacio interior."
+    },
+    {
+        "intent_id": "modelo_carro_minivan",
+        "keywords": ["minivan", "familiar", "espacio", "pasajero", "puerta"],
+        "base_response": "La minivan es el vehículo familiar por excelencia, diseñado para transportar cómodamente de siete a nueve pasajeros en tres filas de asientos. Cuenta con puertas laterales corredizas que facilitan el acceso de los niños de forma segura."
+    },
+    {
+        "intent_id": "modelo_carro_pickup",
+        "keywords": ["pickup", "camioneta", "carga", "caja", "trabajo"],
+        "base_response": "La camioneta pickup destaca por su robusta caja de carga trasera abierta, diseñada para transportar materiales pesados, herramientas y equipo de trabajo. Cuenta con un chasis fuerte y potentes motores de tracción para tareas exigentes del campo."
+    },
+    {
+        "intent_id": "modelo_carro_coupe",
+        "keywords": ["coupe", "deportivo", "puerta", "diseno", "carroceria"],
+        "base_response": "El coupé es una carrocería deportiva elegante de dos puertas laterales y un techo que cae suavemente hacia la cajuela trasera. Ofrece una estética muy atractiva y dinámica, orientada a conductores que aprecian el estilo deportivo de conducción."
+    },
+    {
+        "intent_id": "modelo_carro_convertible",
+        "keywords": ["convertible", "techo", "lona", "conducir", "deportivo"],
+        "base_response": "Un convertible o descapotable cuenta con un techo plegable de lona o metal rígido que puede guardarse de forma totalmente automática. Permite disfrutar del aire libre al conducir, ofreciendo una experiencia de viaje inigualable para paseos de fin de semana."
+    },
+    {
+        "intent_id": "modelo_carro_todoterreno",
+        "keywords": ["todoterreno", "traccion", "camino", "roca", "obstaculo"],
+        "base_response": "El vehículo todoterreno está diseñado con sistemas de tracción en las cuatro ruedas, caja reductora y gran altura libre sobre el suelo. Permite superar obstáculos difíciles como barro, rocas y cruzar ríos en aventuras fuera del camino."
+    },
+    {
+        "intent_id": "modelo_carro_electrico",
+        "keywords": ["electrico", "bateria", "motor", "ecologico", "silencioso"],
+        "base_response": "Un automóvil eléctrico funciona mediante uno o varios motores eléctricos alimentados por un gran paquete de baterías recargables de litio. No emite gases contaminantes de escape y su marcha es totalmente silenciosa y eficiente para la ciudad moderna."
+    },
+    {
+        "intent_id": "modelo_carro_hibrido",
+        "keywords": ["hibrido", "gasolina", "bateria", "motor", "eficiencia"],
+        "base_response": "El auto híbrido combina un motor de gasolina tradicional con uno o más motores eléctricos con baterías recargables. La computadora decide cuál utilizar o si los une para optimizar la eficiencia de combustible y disminuir notablemente las emisiones nocivas."
+    },
+    {
+        "intent_id": "modelo_carro_superdeportivo",
+        "keywords": ["superdeportivo", "fibra", "carbono", "aerodinamica", "velocidad"],
+        "base_response": "Un auto superdeportivo utiliza tecnología de punta como chasis de fibra de carbono, aerodinámica activa y motores de cientos de caballos de fuerza. Son vehículos de edición limitada que alcanzan velocidades extremas en circuitos de carreras profesionales."
+    },
+    {
+        "intent_id": "modelo_carro_crossover",
+        "keywords": ["crossover", "plataforma", "suv", "manejo", "diseno"],
+        "base_response": "El crossover es un automóvil que mezcla el diseño alto de una SUV con la plataforma y facilidad de manejo de un hatchback compacto. Ofrece comodidad para la ciudad y una excelente versatilidad de espacio para las familias jóvenes."
+    },
+    {
+        "intent_id": "modelo_carro_furgoneta",
+        "keywords": ["furgoneta", "carga", "reparto", "espacio", "comercio"],
+        "base_response": "La furgoneta es un vehículo comercial cerrado diseñado para el reparto urbano de mercancías de forma segura y protegida del clima. Cuenta con un gran volumen interno de carga y puertas de amplio acceso para facilitar el trabajo diario."
+    },
+    {
+        "intent_id": "modelo_carro_microauto",
+        "keywords": ["microauto", "ciudad", "estacionar", "pequeno", "bateria"],
+        "base_response": "El microauto es un coche extremadamente pequeño diseñado exclusivamente para el tránsito ágil de las grandes ciudades congestionadas. Facilita estacionar en espacios reducidos y su pequeño motor consume cantidades mínimas de combustible o electricidad diaria."
+    },
+    {
+        "intent_id": "modelo_carro_muscle",
+        "keywords": ["muscle", "motor", "fuerza", "clasico", "acelerar"],
+        "base_response": "Un 'muscle car' o auto musculoso es un modelo clásico americano que destaca por su gran motor V8 y una gran potencia de aceleración en línea recta. Su rugido característico y diseño rudo son icónicos en la cultura automotriz mundial."
+    },
+    {
+        "intent_id": "modelo_carro_limusina",
+        "keywords": ["limusina", "lujo", "chasis", "chofer", "pasajero"],
+        "base_response": "La limusina es un automóvil de gran lujo con un chasis extendido que ofrece un habitáculo de pasajeros sumamente espacioso y privado. Cuenta con chofer profesional y acabados exclusivos para eventos especiales o el traslado de personalidades distinguidas."
+    },
+    {
+        "intent_id": "modelo_carro_camper",
+        "keywords": ["camper", "casa", "viajar", "cocina", "cama"],
+        "base_response": "El camper o autocaravana es un vehículo recreativo familiar adaptado para funcionar como una pequeña casa sobre ruedas. Incluye camas para dormir, cocina funcional y baño completo, permitiendo realizar viajes largos con absoluta libertad y comodidad familiar."
+    },
+    {
+        "intent_id": "modelo_carro_monoplaza",
+        "keywords": ["monoplaza", "carreras", "piloto", "circuito", "aerodinamica"],
+        "base_response": "Un monoplaza es un coche de carreras ultraligero diseñado para albergar a un solo piloto en una cabina abierta. Posee alerones gigantes para aprovechar la aerodinámica y correr a velocidades extremas en circuitos de la Fórmula Uno."
+    },
+    {
+        "intent_id": "modelo_carro_station_wagon",
+        "keywords": ["station", "wagon", "familiar", "techo", "espacio"],
+        "base_response": "La station wagon es un auto familiar que extiende el techo de un sedán clásico hasta la parte trasera para crear una gran zona de carga integrada. Ofrece la comodidad de manejo de un automóvil y una capacidad de carga excepcional."
+    },
+    {
+        "intent_id": "modelo_carro_roadster",
+        "keywords": ["roadster", "deportivo", "biplaza", "techo", "conducir"],
+        "base_response": "El roadster es un vehículo deportivo biplaza de peso ligero con un enfoque purista de conducción emocionante al aire libre. Carece de techo permanente y su diseño ágil garantiza ráfagas de aceleración divertidas en carreteras con curvas."
+    },
+    {
+        "intent_id": "modelo_carro_concept",
+        "keywords": ["concept", "prototipo", "diseno", "futuro", "tecnologia"],
+        "base_response": "Un 'concept car' o coche concepto es un prototipo futurista diseñado por las marcas para mostrar nuevas tecnologías, mecánicas ecológicas y tendencias estéticas audaces. No se fabrican en serie y sirven como modelos de exhibición en ferias mundiales."
+    },
+    {
+        "intent_id": "modelo_carro_hot_rod",
+        "keywords": ["hot", "rod", "modificar", "clasico", "motor"],
+        "base_response": "El 'hot rod' es un estilo clásico americano que consiste en modificar autos antiguos de los años treinta instalando potentes motores modernos y rines llamativos. Es una corriente de personalización artesanal muy admirada por coleccionistas y apasionados del motor."
+    },
+    {
+        "intent_id": "modelo_carro_autonomo",
+        "keywords": ["autonomo", "sensor", "conducir", "camara", "computadora"],
+        "base_response": "Un vehículo autónomo utiliza cámaras avanzadas, radares y potentes computadoras con inteligencia artificial para conducirse por las calles sin necesidad de intervención humana. Sigue las señales de tránsito de forma automática para transportar pasajeros de forma segura."
+    },
+    {
+        "intent_id": "modelo_carro_anfibio",
+        "keywords": ["anfibio", "agua", "tierra", "rueda", "helice"],
+        "base_response": "El automóvil anfibio es un vehículo de diseño especial capaz de rodar por tierra firme mediante ruedas convencionales y navegar por el agua utilizando hélices. Su carrocería sellada actúa como el casco de un barco familiar."
+    },
+    {
+        "intent_id": "modelo_carro_kart",
+        "keywords": ["kart", "chasis", "motor", "pista", "piloto"],
+        "base_response": "El kart es un vehículo monoplaza pequeño y simple, sin carrocería ni suspensión, que consta de un chasis rígido de tubo y un motor de baja cilindrada. Sirve para entrenar pilotos infantiles de carreras en pistas cerradas seguras."
+    },
+    {
+        "intent_id": "modelo_carro_dragster",
+        "keywords": ["dragster", "aceleracion", "motor", "pista", "llanta"],
+        "base_response": "Un dragster es un coche de carreras extremadamente largo de diseño aerodinámico para competir en arrancones de velocidad en recta. Utiliza llantas traseras gigantes y motores de miles de caballos de fuerza para cubrir distancias en pocos segundos."
+    },
+    {
+        "intent_id": "modelo_carro_buggy",
+        "keywords": ["buggy", "arena", "llanta", "chasis", "todoterreno"],
+        "base_response": "El buggy es un automóvil todoterreno ligero con un chasis tubular abierto y llantas anchas de baja presión diseñadas para rodar sobre dunas de arena y playas. Es ideal para la recreación al aire libre debido a su sencillez mecánica."
+    },
+    {
+        "intent_id": "modelo_carro_targa",
+        "keywords": ["targa", "techo", "barra", "seguridad", "convertible"],
+        "base_response": "El estilo targa es un tipo de carrocería convertible que cuenta con un panel de techo desmontable sobre los pasajeros, pero mantiene una barra de seguridad fija de acero y un vidrio trasero fijo para proteger a las personas en volcaduras."
+    },
+    {
+        "intent_id": "modelo_carro_fastback",
+        "keywords": ["fastback", "techo", "caer", "cajuela", "aerodinamica"],
+        "base_response": "El diseño fastback se caracteriza por una línea de techo que cae de forma continua y suave desde el parabrisas hasta el borde trasero de la cajuela. Aporta una estética muy fluida, elegante y mejora la aerodinámica del coche familiar."
+    }
+]
+
+# GRUPO 8: Robótica, automatización y física automotriz (30 conceptos)
+conceptos_robotica = [
+    {
+        "intent_id": "robotica_sensor_ultrasonido",
+        "keywords": ["sensor", "ultrasonido", "distancia", "rebotar", "onda"],
+        "base_response": "Un sensor de ultrasonido mide la distancia hacia un obstáculo enviando ondas de sonido inaudibles que rebotan en la superficie. Es muy común en los parachoques de autos modernos familiares para asistir en las maniobras de estacionamiento seguro."
+    },
+    {
+        "intent_id": "robotica_sensor_radar",
+        "keywords": ["sensor", "radar", "distancia", "frecuencia", "computadora"],
+        "base_response": "El sensor de radar utiliza ondas de radio de alta frecuencia para medir la distancia y velocidad de los autos que circulan adelante. Es fundamental para que la computadora controle la velocidad de crucero adaptativa del coche familiar."
+    },
+    {
+        "intent_id": "robotica_sensor_camara",
+        "keywords": ["sensor", "camara", "linea", "carril", "computadora"],
+        "base_response": "Las cámaras inteligentes montadas en el parabrisas leen constantemente las líneas de los carriles y las señales de tránsito de la carretera. Informan a la computadora para que esta asista en mantener el coche en su carril seguro."
+    },
+    {
+        "intent_id": "robotica_sensor_lidar",
+        "keywords": ["lidar", "sensor", "laser", "mapear", "computadora"],
+        "base_response": "El sensor LiDAR utiliza miles de ráfagas de luz láser invisibles por segundo para mapear en tres dimensiones el entorno del auto. Es el componente estrella que permite a los coches autónomos circular de forma segura sin conductor."
+    },
+    {
+        "intent_id": "robotica_actuador_motor",
+        "keywords": ["actuador", "motor", "fuerza", "computadora", "movimiento"],
+        "base_response": "Un actuador es un componente mecánico o eléctrico que recibe órdenes de la computadora del auto para realizar un movimiento o aplicar fuerza. Ejemplos comunes incluyen los motores eléctricos que mueven los espejos laterales de forma suave."
+    },
+    {
+        "intent_id": "robotica_freno_regenerativo",
+        "keywords": ["freno", "regenerativo", "motor", "energia", "bateria"],
+        "base_response": "El freno regenerativo de los autos eléctricos y motores híbridos convierte la energía cinética de la desaceleración en electricidad útil. Al soltar el acelerador, el motor eléctrico frena el coche y recarga la batería de forma automática."
+    },
+    {
+        "intent_id": "robotica_aerodinamica_arrastre",
+        "keywords": ["aerodinamica", "arrastre", "aire", "resistencia", "viento"],
+        "base_response": "La aerodinámica estudia cómo interactúa el aire con la carrocería del auto en movimiento. Diseñar formas redondeadas y fluidas reduce notablemente el arrastre o resistencia del viento, disminuyendo de forma directa el consumo de combustible del coche."
+    },
+    {
+        "intent_id": "robotica_centro_gravedad",
+        "keywords": ["centro", "gravedad", "estabilidad", "chasis", "volcar"],
+        "base_response": "El centro de gravedad es el punto imaginario donde se equilibra todo el peso del automóvil. Colocar las piezas pesadas como el motor o baterías muy abajo en el chasis disminuye la posibilidad de volcar y mejora la estabilidad."
+    },
+    {
+        "intent_id": "robotica_fuerza_centrifuga",
+        "keywords": ["fuerza", "centrifuga", "curva", "empujar", "camino"],
+        "base_response": "La fuerza centrífuga es la inercia física que empuja al auto hacia afuera del camino al tomar una curva a gran velocidad. El diseño de la suspensión y las llantas de agarre contrarrestan esta fuerza para mantener el auto seguro."
+    },
+    {
+        "intent_id": "robotica_fuerza_g",
+        "keywords": ["fuerza", "gravedad", "aceleracion", "frenado", "sentir"],
+        "base_response": "La fuerza G es la medida de la aceleración o frenado que sienten los pasajeros dentro del vehículo. Un auto deportivo al arrancar rápido genera fuerzas G que empujan suavemente los cuerpos de las personas contra el respaldo del asiento."
+    },
+    {
+        "intent_id": "robotica_par_motor_torque",
+        "keywords": ["par", "torque", "fuerza", "motor", "empuje"],
+        "base_response": "El par motor o torque es la fuerza de giro que el motor del auto es capaz de entregar en cada explosión. Se siente como el empuje inicial que permite que el coche familiar suba cuestas empinadas con facilidad y carga."
+    },
+    {
+        "intent_id": "robotica_caballos_fuerza",
+        "keywords": ["caballo", "fuerza", "potencia", "velocidad", "motor"],
+        "base_response": "La potencia de un motor se mide comúnmente en caballos de fuerza, indicando la rapidez con la que el motor puede realizar un trabajo. Una mayor cantidad de caballos de fuerza permite alcanzar altas velocidades estables en autopistas seguras."
+    },
+    {
+        "intent_id": "robotica_inercia_movimiento",
+        "keywords": ["inercia", "movimiento", "frenado", "cinturon", "detener"],
+        "base_response": "La inercia es la ley física que hace que un cuerpo en movimiento tienda a seguir moviéndose en la misma dirección. Al frenar brusco, la inercia empuja a los pasajeros hacia adelante, siendo vital el uso correcto del cinturón de seguridad."
+    },
+    {
+        "intent_id": "robotica_suspension_activa",
+        "keywords": ["suspension", "activa", "sensor", "computadora", "terreno"],
+        "base_response": "La suspensión activa utiliza sensores avanzados y computadoras para leer las imperfecciones del terreno y adaptar la firmeza de los amortiguadores en milisegundos. Ofrece un confort de marcha y una suavidad inigualable para la familia viajera."
+    },
+    {
+        "intent_id": "robotica_linea_ensamblaje",
+        "keywords": ["linea", "ensamblaje", "robot", "fabricar", "auto"],
+        "base_response": "La línea de ensamblaje moderna utiliza brazos robóticos industriales programados de gran precisión para fabricar autos en serie. Estos robots sueldan, pintan e instalan componentes pesados de forma rápida, segura y con una calidad constante impecable."
+    },
+    {
+        "intent_id": "robotica_direccion_asistida",
+        "keywords": ["direccion", "asistir", "motor", "volante", "suave"],
+        "base_response": "La dirección asistida electrónicamente utiliza un motor eléctrico inteligente conectado a la columna de dirección. Aplica fuerza adicional según la velocidad, permitiendo que el volante sea sumamente suave para estacionar y firme para viajar en autopista."
+    },
+    {
+        "intent_id": "robotica_seguridad_activa",
+        "keywords": ["seguridad", "activa", "prevenir", "freno", "choque"],
+        "base_response": "La seguridad activa del auto incluye todos los sistemas mecánicos y electrónicos que trabajan de forma constante para prevenir accidentes de tránsito. Ejemplos de esto son los frenos ABS, el control de estabilidad y los sensores de carril."
+    },
+    {
+        "intent_id": "robotica_seguridad_pasiva",
+        "keywords": ["seguridad", "pasiva", "proteger", "choque", "airbag"],
+        "base_response": "La seguridad pasiva comprende los elementos diseñados para proteger y salvar la vida de los ocupantes una vez que el choque es inevitable. Incluye las bolsas de aire o airbags, cinturones de seguridad y zonas de carrocería deformable."
+    },
+    {
+        "intent_id": "robotica_bolsa_aire",
+        "keywords": ["airbag", "bolsa", "aire", "choque", "inflar"],
+        "base_response": "La bolsa de aire o airbag es un cojín de nailon que se infla con gas nitrógeno en milisegundos tras detectar un choque violento. Evita que la cabeza de los pasajeros golpee el volante o tablero rígido del coche familiar."
+    },
+    {
+        "intent_id": "robotica_control_estabilidad",
+        "keywords": ["control", "estabilidad", "esp", "derrape", "freno"],
+        "base_response": "El control de estabilidad o ESP es un sistema electrónico inteligente que evita que el auto derrape en curvas cerradas. Aplica frenado selectivo en ruedas individuales para corregir la trayectoria y mantener el coche sobre el camino pavimentado."
+    },
+    {
+        "intent_id": "robotica_sensor_presion",
+        "keywords": ["sensor", "presion", "motor", "aceite", "tablero"],
+        "base_response": "El sensor de presión de aceite mide la fuerza de empuje del lubricante en las galerías del motor. Si la presión cae a niveles de peligro, envía una señal de alerta inmediata al tablero para que el conductor apague el motor."
+    },
+    {
+        "intent_id": "robotica_mariposa_motor",
+        "keywords": ["mariposa", "acelerador", "motor", "aire", "computadora"],
+        "base_response": "El cuerpo de aceleración electrónico utiliza un pequeño motor eléctrico para abrir la válvula de mariposa de admisión de aire. La computadora controla este motor con gran precisión para responder al pedal y lograr una aceleración suave del coche."
+    },
+    {
+        "intent_id": "robotica_transmision_automatica",
+        "keywords": ["transmision", "automatica", "cambio", "marcha", "computadora"],
+        "base_response": "La transmisión automática utiliza una compleja computadora de caja y válvulas hidráulicas para cambiar de marcha de forma autónoma. El conductor no requiere usar pedal de embrague, facilitando un manejo cómodo, seguro y relajado en ciudad."
+    },
+    {
+        "intent_id": "robotica_telemetria_auto",
+        "keywords": ["telemetria", "datos", "sensor", "monitorear", "velocidad"],
+        "base_response": "La telemetría es el sistema inalámbrico que transmite datos en tiempo real sobre el estado del auto a una computadora central. Es muy útil en carreras de coches deportivos para monitorear el desgaste de frenos, temperatura y velocidad."
+    },
+    {
+        "intent_id": "robotica_friccion_neumatico",
+        "keywords": ["friccion", "caucho", "agarre", "camino", "llanta"],
+        "base_response": "La fricción estática entre el caucho de la llanta y el asfalto es la fuerza que permite que el auto avance, gire y frene. Mantener llantas con excelente dibujo garantiza este agarre indispensable bajo lluvia o curvas rápidas."
+    },
+    {
+        "intent_id": "robotica_computadora_abordo",
+        "keywords": ["computadora", "abordo", "pantalla", "consumo", "informar"],
+        "base_response": "La computadora de abordo calcula y muestra en la pantalla del coche información valiosa de viaje como el consumo promedio de gasolina, la autonomía restante en kilómetros y alertas de mantenimiento preventivo de forma clara y amigable."
+    },
+    {
+        "intent_id": "robotica_sistema_hvac",
+        "keywords": ["hvac", "aire", "acondicionado", "temperatura", "cabina"],
+        "base_response": "El sistema HVAC controla de forma automática el aire acondicionado y la calefacción dentro del habitáculo del coche. Utiliza sensores de temperatura para mantener un ambiente fresco y confortable para toda la familia durante los viajes de verano."
+    },
+    {
+        "intent_id": "robotica_asistencia_estacionamiento",
+        "keywords": ["asistencia", "estacionamiento", "sensor", "camara", "girar"],
+        "base_response": "El sistema de asistencia de estacionamiento utiliza cámaras traseras de ángulo amplio y sensores de ultrasonido para guiar al conductor. En coches avanzados, la computadora puede tomar el control del volante para estacionar el auto de forma autónoma."
+    },
+    {
+        "intent_id": "robotica_freno_mano_electrico",
+        "keywords": ["freno", "mano", "motor", "bloquear", "boton"],
+        "base_response": "El freno de mano eléctrico sustituye la palanca mecánica por un simple botón en la consola central. Al presionarlo, pequeños motores eléctricos integrados en las pinzas traseras bloquean las ruedas de forma automática, segura y firme."
+    },
+    {
+        "intent_id": "robotica_tecnologia_canbus",
+        "keywords": ["canbus", "red", "cable", "comunicar", "computadora"],
+        "base_response": "La red CAN bus es el sistema de comunicación por cableado multiplexado que conecta todas las computadoras del auto entre sí. Permite que la computadora de motor, frenos ABS y bolsas de aire compartan datos clave en milisegundos."
+    }
+]
+
+# Unificar todos los conceptos de todos los grupos
+conceptos.extend(conceptos_aceite)
+conceptos.extend(conceptos_filtros)
+conceptos.extend(conceptos_frenos)
+conceptos.extend(conceptos_llantas)
+conceptos.extend(conceptos_diagnostico)
+conceptos.extend(conceptos_estetica)
+conceptos.extend(conceptos_modelos)
+conceptos.extend(conceptos_robotica)
+
+# Guardar los conceptos en el archivo JSON definitivo de salida
+filename = "MM_brain_51.json"
+try:
+    with open(filename, "w", encoding="utf-8") as f:
+        json.dump(conceptos, f, ensure_ascii=False, indent=2)
+    print(f"Éxito: Se ha generado el archivo '{filename}' con {len(conceptos)} conceptos automotrices.")
+except Exception as e:
+    print(f"Error al escribir el archivo: {e}")
