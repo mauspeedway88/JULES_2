@@ -1,0 +1,595 @@
+[
+  {
+    "intent_id": "geopolitica_intro",
+    "keywords": [
+      "geografia",
+      "investiga",
+      "sociedades",
+      "fronteras",
+      "decisiones"
+    ],
+    "base_response": "La geografía política investiga cómo las sociedades humanas estructuran y gobiernan sus territorios. Analiza meticulosamente el impacto de las fronteras físicas y decisiones gubernamentales en el desarrollo nacional, así como en la vida cotidiana de todas las comunidades."
+  },
+  {
+    "intent_id": "fronteras_naturales",
+    "keywords": [
+      "barreras",
+      "rios",
+      "jurisdicciones",
+      "naciones",
+      "estado"
+    ],
+    "base_response": "Las barreras naturales, como ríos caudalosos y altas cordilleras montañosas, sirven históricamente para separar distintas jurisdicciones. Estos accidentes geográficos influyen decisivamente en la configuración de las naciones, delimitando los espacios donde cada estado ejerce su soberanía y leyes."
+  },
+  {
+    "intent_id": "estado_definicion",
+    "keywords": [
+      "estado",
+      "comunidad",
+      "gobierno",
+      "territorio",
+      "instituciones"
+    ],
+    "base_response": "Un estado moderno consiste en una comunidad social estructurada bajo un gobierno soberano dentro de un territorio específico. Su existencia requiere instituciones sólidas, leyes claras y el reconocimiento internacional formal para interactuar libremente con otras naciones del mundo."
+  },
+  {
+    "intent_id": "soberania_concepto",
+    "keywords": [
+      "derecho",
+      "nacion",
+      "decidir",
+      "destino",
+      "recursos",
+      "leyes"
+    ],
+    "base_response": "La soberanía es el derecho inalienable que posee una nación para decidir su propio destino sin injerencias externas. Este principio jurídico fundamental asegura que cada país administre libremente sus abundantes recursos naturales y establezca las leyes de convivencia interna."
+  },
+  {
+    "intent_id": "demografia_basica",
+    "keywords": [
+      "estudio",
+      "analizar",
+      "poblaciones",
+      "region",
+      "gobernantes"
+    ],
+    "base_response": "El estudio demográfico permite analizar el tamaño, la estructura y la distribución geográfica de las poblaciones. Entender cuántas personas habitan una región ayuda a los gobernantes a planificar estratégicamente la construcción de infraestructuras públicas vitales, como escuelas y hospitales."
+  },
+  {
+    "intent_id": "division_territorial",
+    "keywords": [
+      "administracion",
+      "territorio",
+      "provincias",
+      "servicios",
+      "ciudadanos"
+    ],
+    "base_response": "Para facilitar una administración pública eficiente, los países dividen su territorio nacional en áreas más pequeñas, como provincias o municipios. Estas subdivisiones locales permiten acercar los servicios gubernamentales básicos directamente a todos los ciudadanos que residen en distintas comunidades."
+  },
+  {
+    "intent_id": "capital_politica",
+    "keywords": [
+      "ciudad",
+      "capital",
+      "instituciones",
+      "presidencia",
+      "desarrollo",
+      "pais"
+    ],
+    "base_response": "La ciudad capital concentra las principales instituciones gubernamentales de una nación, incluyendo el parlamento y la presidencia. Funciona como el centro neurálgico donde los líderes debaten intensamente y aprueban políticas públicas fundamentales que transforman el desarrollo del país entero."
+  },
+  {
+    "intent_id": "censo_explicacion",
+    "keywords": [
+      "censo",
+      "recuento",
+      "habitantes",
+      "territorio",
+      "gobiernos",
+      "presupuesto"
+    ],
+    "base_response": "Un censo poblacional es un recuento estadístico oficial y meticuloso que recopila información detallada sobre los habitantes de un territorio. Los gobiernos utilizan estos datos precisos para asignar justamente el presupuesto nacional y satisfacer las necesidades básicas de la comunidad."
+  },
+  {
+    "intent_id": "migracion_motivos",
+    "keywords": [
+      "movimientos",
+      "trasladarse",
+      "territorios",
+      "migraciones",
+      "oportunidades"
+    ],
+    "base_response": "Los movimientos migratorios ocurren cuando grandes grupos humanos deciden trasladarse geográficamente para establecerse en nuevos territorios. Estas migraciones masivas suelen estar motivadas por la legítima búsqueda de mejores oportunidades laborales, mayor seguridad personal o para escapar de graves desastres naturales."
+  },
+  {
+    "intent_id": "recursos_distribucion",
+    "keywords": [
+      "distribucion",
+      "recursos",
+      "potencial",
+      "region",
+      "paises",
+      "comercio"
+    ],
+    "base_response": "La distribución geográfica de valiosos recursos naturales determina el enorme potencial económico de cada región. Los países ricos en minerales o tierras fértiles estructuran su comercio internacional para exportarlos exitosamente, influyendo profundamente en las relaciones diplomáticas y alianzas globales."
+  },
+  {
+    "intent_id": "tratado_internacional",
+    "keywords": [
+      "tratado",
+      "acuerdo",
+      "paises",
+      "negociaciones",
+      "disputas",
+      "intercambio"
+    ],
+    "base_response": "Un tratado internacional funciona como un acuerdo vinculante firmado voluntariamente entre dos o más países independientes. Estas negociaciones diplomáticas permiten resolver disputas territoriales pacíficamente, fomentar el intercambio comercial fluido y colaborar estrechamente frente a problemas globales como la contaminación ambiental."
+  },
+  {
+    "intent_id": "aguas_territoriales",
+    "keywords": [
+      "aguas",
+      "franja",
+      "costas",
+      "pais",
+      "control",
+      "navegacion"
+    ],
+    "base_response": "Las aguas territoriales comprenden la franja marina adyacente a las costas de un país soberano. Sobre este espacio marítimo, el estado ejerce control absoluto, regulando estrictamente la navegación de embarcaciones extranjeras, la pesca comercial intensiva y la protección ecológica costera."
+  },
+  {
+    "intent_id": "nacionalismo_explicado",
+    "keywords": [
+      "sentimiento",
+      "pertenencia",
+      "cultura",
+      "poblacion",
+      "independencia",
+      "territorio"
+    ],
+    "base_response": "El nacionalismo representa un sentimiento profundo de pertenencia y orgullo hacia la cultura, historia e idioma compartidos por una población. Este movimiento ideológico busca siempre proteger la independencia del territorio frente a posibles intervenciones extranjeras, fortaleciendo así la identidad colectiva."
+  },
+  {
+    "intent_id": "mapa_politico",
+    "keywords": [
+      "mapa",
+      "representacion",
+      "divisiones",
+      "lineas",
+      "capitales",
+      "estados"
+    ],
+    "base_response": "Un mapa político es una representación gráfica diseñada específicamente para mostrar las divisiones administrativas del mundo. Ilustra con claridad las líneas fronterizas, la ubicación exacta de las capitales y la distribución territorial de los estados, omitiendo los detalles del relieve natural."
+  },
+  {
+    "intent_id": "dictadura_concepto",
+    "keywords": [
+      "dictadura",
+      "sistema",
+      "poder",
+      "persona",
+      "regimenes",
+      "participacion"
+    ],
+    "base_response": "La dictadura es un sistema político autoritario donde el poder se concentra exclusivamente en manos de una sola persona o un grupo reducido. En estos regímenes, se restringen severamente las libertades civiles básicas y se elimina la participación ciudadana mediante elecciones libres."
+  },
+  {
+    "intent_id": "republica_democratica",
+    "keywords": [
+      "organizacion",
+      "autoridad",
+      "ciudadanos",
+      "lideres",
+      "tiempo",
+      "leyes"
+    ],
+    "base_response": "Una república es una forma de organización estatal donde la máxima autoridad es elegida democráticamente por los ciudadanos. Sus líderes gobiernan durante un período determinado de tiempo, estando siempre obligados a respetar las leyes escritas establecidas previamente en una constitución nacional."
+  },
+  {
+    "intent_id": "enclave_geografico",
+    "keywords": [
+      "porcion",
+      "territorio",
+      "pais",
+      "geografia",
+      "nacion",
+      "residentes"
+    ],
+    "base_response": "Un enclave es una pequeña porción de territorio que pertenece políticamente a un país, pero se encuentra completamente rodeado por la geografía de otra nación extranjera. Esta curiosa situación genera retos administrativos complejos para garantizar el tránsito y suministro de sus residentes."
+  },
+  {
+    "intent_id": "globalizacion_impacto",
+    "keywords": [
+      "interconexion",
+      "paises",
+      "mundo",
+      "proceso",
+      "intercambio",
+      "sociedades"
+    ],
+    "base_response": "La globalización consiste en la creciente interconexión económica, tecnológica y cultural entre todos los países del mundo. Este dinámico proceso mundial facilita el rápido intercambio de información valiosa y productos básicos, transformando radicalmente la forma en que las diferentes sociedades modernas interactúan cotidianamente."
+  },
+  {
+    "intent_id": "refugiado_estatus",
+    "keywords": [
+      "persona",
+      "abandonar",
+      "pais",
+      "vida",
+      "guerras",
+      "derechos"
+    ],
+    "base_response": "Un refugiado es aquella persona que se ve obligada a abandonar forzosamente su país de origen para salvar su vida. Huyen buscando protección internacional debido a guerras destructivas, persecuciones políticas violentas o violaciones sistemáticas contra los derechos humanos fundamentales en sus comunidades."
+  },
+  {
+    "intent_id": "embajada_funcion",
+    "keywords": [
+      "representacion",
+      "estado",
+      "capital",
+      "nacion",
+      "objetivo",
+      "ciudadanos"
+    ],
+    "base_response": "Una embajada es la máxima representación diplomática permanente que un estado establece en la capital de una nación extranjera amiga. Su objetivo principal radica en mantener canales de diálogo abiertos, proteger a sus ciudadanos residentes y promover los intereses nacionales políticos y comerciales."
+  },
+  {
+    "intent_id": "colonialismo_historia",
+    "keywords": [
+      "practica",
+      "potencias",
+      "territorios",
+      "sistema",
+      "fronteras",
+      "relaciones"
+    ],
+    "base_response": "El colonialismo histórico fue una práctica política mediante la cual las potencias europeas dominaron militarmente vastos territorios lejanos. Este sistema de ocupación transformó las culturas locales originales y diseñó fronteras artificiales, dejando profundas huellas que todavía influyen en las relaciones internacionales actuales."
+  },
+  {
+    "intent_id": "desarrollo_sostenible",
+    "keywords": [
+      "desarrollo",
+      "crecimiento",
+      "recursos",
+      "planeta",
+      "energias",
+      "entorno"
+    ],
+    "base_response": "El desarrollo sostenible promueve el crecimiento económico progresivo sin agotar prematuramente los valiosos recursos naturales del planeta. Propone utilizar energías limpias y reducir la contaminación ambiental para garantizar que las futuras generaciones humanas puedan disfrutar plenamente de un entorno ecológico sano y próspero."
+  },
+  {
+    "intent_id": "monarquia_constitucional",
+    "keywords": [
+      "monarquia",
+      "rey",
+      "estado",
+      "ley",
+      "decisiones",
+      "parlamento"
+    ],
+    "base_response": "En una monarquía constitucional, el rey o la reina actúa como jefe del estado, pero sus poderes reales están estrictamente limitados por la ley. Las decisiones políticas verdaderamente importantes son debatidas y tomadas siempre por un parlamento legislativo elegido democráticamente por el pueblo libre."
+  },
+  {
+    "intent_id": "zona_economica_exclusiva",
+    "keywords": [
+      "zona",
+      "area",
+      "estado",
+      "derechos",
+      "region",
+      "pais"
+    ],
+    "base_response": "La zona económica exclusiva es el área oceánica donde un estado ribereño mantiene derechos soberanos únicos para explorar sus riquezas. En esta región marítima delimitada legalmente, el país administra la pesca comercial responsable y regula la extracción mineral para proteger su propia economía nacional."
+  },
+  {
+    "intent_id": "densidad_poblacion",
+    "keywords": [
+      "cantidad",
+      "personas",
+      "superficie",
+      "metropolis",
+      "zonas",
+      "grupos"
+    ],
+    "base_response": "La densidad de población mide estadísticamente la cantidad de personas que residen en un kilómetro cuadrado de superficie. Las grandes metrópolis presentan densidades altísimas, mientras que las vastas zonas rurales y montañosas muestran concentraciones bajas, revelando cómo los grupos humanos ocupan el espacio."
+  },
+  {
+    "intent_id": "asilo_politico",
+    "keywords": [
+      "mecanismo",
+      "proteccion",
+      "ciudadanos",
+      "gobiernos",
+      "refugio",
+      "amenazas"
+    ],
+    "base_response": "El asilo político es un mecanismo legal internacional que ofrece protección segura a los ciudadanos extranjeros perseguidos injustamente. Los gobiernos democráticos conceden este valioso refugio humanitario a quienes enfrentan graves amenazas de cárcel o tortura por defender pacíficamente sus ideales dentro de su país."
+  },
+  {
+    "intent_id": "descentralizacion_poder",
+    "keywords": [
+      "transferir",
+      "responsabilidades",
+      "poder",
+      "entidades",
+      "modelo",
+      "problemas"
+    ],
+    "base_response": "La descentralización gubernamental consiste en transferir responsabilidades administrativas desde el poder central superior hacia las entidades regionales autónomas. Este modelo político avanzado mejora notablemente la atención directa de los problemas vecinales y fomenta activamente una mayor participación ciudadana en las decisiones públicas locales."
+  },
+  {
+    "intent_id": "corredor_geografico",
+    "keywords": [
+      "franja",
+      "territorio",
+      "acceso",
+      "mar",
+      "configuracion",
+      "naciones"
+    ],
+    "base_response": "Un corredor geográfico es una estrecha franja de territorio soberano diseñada estratégicamente para brindar acceso terrestre directo al mar abierto. Esta peculiar configuración espacial resulta vital para las naciones sin litoral marítimo, permitiéndoles exportar sus valiosos productos comerciales hacia los mercados globales internacionales."
+  },
+  {
+    "intent_id": "identidad_cultural",
+    "keywords": [
+      "identidad",
+      "tradiciones",
+      "creencias",
+      "idioma",
+      "grupo",
+      "sentido"
+    ],
+    "base_response": "La identidad cultural engloba las tradiciones ancestrales, las creencias religiosas y el idioma materno que distinguen a un grupo social específico. Esta herencia colectiva profunda proporciona un fuerte sentido de pertenencia a sus miembros, fortaleciendo el respeto mutuo entre diferentes comunidades humanas integradas."
+  },
+  {
+    "intent_id": "geografia_economica",
+    "keywords": [
+      "geografia",
+      "investiga",
+      "actividades",
+      "recursos",
+      "regiones",
+      "desigualdades"
+    ],
+    "base_response": "La geografía económica investiga detalladamente cómo se distribuyen espacialmente las actividades industriales productivas y los abundantes recursos financieros. Analiza por qué ciertas regiones geográficas prosperan comercialmente de manera acelerada mientras que otras zonas permanecen estancadas, revelando las enormes desigualdades del comercio global contemporáneo."
+  },
+  {
+    "intent_id": "tratado_libre_comercio",
+    "keywords": [
+      "tratado",
+      "pacto",
+      "aranceles",
+      "productos",
+      "acuerdos",
+      "crecimiento"
+    ],
+    "base_response": "Un tratado de libre comercio es un pacto regional diseñado para eliminar los aranceles aduaneros sobre los productos de exportación. Estos valiosos acuerdos internacionales buscan estimular el crecimiento industrial mutuo, facilitando el intercambio masivo de bienes de consumo diario entre los países miembros."
+  },
+  {
+    "intent_id": "sufragio_universal",
+    "keywords": [
+      "derecho",
+      "votar",
+      "restricciones",
+      "ciudadanos",
+      "seleccion",
+      "gobernantes"
+    ],
+    "base_response": "El sufragio universal garantiza el derecho democrático fundamental de votar sin restricciones basadas en raza, religión o nivel de ingresos. Permite a todos los ciudadanos adultos participar activamente en la selección de sus gobernantes nacionales, consolidando así un sistema verdaderamente equitativo y representativo."
+  },
+  {
+    "intent_id": "estado_laico",
+    "keywords": [
+      "estado",
+      "separacion",
+      "poder",
+      "organizaciones",
+      "libertad",
+      "creencia"
+    ],
+    "base_response": "Un estado laico mantiene una estricta separación institucional entre el poder político gubernamental y las organizaciones religiosas tradicionales. Este marco jurídico neutral protege legalmente la plena libertad de culto individual, asegurando que ninguna creencia espiritual se imponga obligatoriamente a los ciudadanos desde el gobierno central."
+  },
+  {
+    "intent_id": "federalismo",
+    "keywords": [
+      "sistema",
+      "estados",
+      "gobierno",
+      "provincia",
+      "autonomia",
+      "leyes"
+    ],
+    "base_response": "El federalismo es un sistema político nacional que une distintos estados regionales bajo un gobierno central fuerte y coordinado. Cada provincia federada conserva amplia autonomía administrativa para dictar sus propias leyes civiles locales, mientras comparte la defensa militar nacional y la política exterior general."
+  },
+  {
+    "intent_id": "urbanizacion",
+    "keywords": [
+      "proceso",
+      "poblacion",
+      "zonas",
+      "ciudades",
+      "fenomeno",
+      "desafios"
+    ],
+    "base_response": "La urbanización describe el acelerado proceso demográfico mundial donde la población abandona gradualmente las zonas rurales buscando residir en ciudades. Este fenómeno transformador genera importantes desafíos logísticos significativos para proporcionar suficientes viviendas dignas, transporte público eficiente y agua potable a tantos millones de habitantes."
+  },
+  {
+    "intent_id": "cartografia_basica",
+    "keywords": [
+      "ciencia",
+      "mapas",
+      "superficie",
+      "coordenadas",
+      "limites",
+      "continentes"
+    ],
+    "base_response": "La cartografía es la ciencia especializada en elaborar mapas precisos para representar gráficamente la superficie terrestre. Los cartógrafos expertos utilizan avanzadas coordenadas geográficas satelitales para trazar los límites internacionales, mostrando claramente las proporciones reales y la compleja distribución de los diversos continentes."
+  },
+  {
+    "intent_id": "patriotismo",
+    "keywords": [
+      "respeto",
+      "amor",
+      "persona",
+      "historia",
+      "pais",
+      "desarrollo"
+    ],
+    "base_response": "El patriotismo refleja el profundo respeto y amor que siente una persona hacia la historia e instituciones de su país nativo. Fomenta el compromiso ciudadano activo para contribuir positivamente al desarrollo social comunitario, siempre manteniendo relaciones pacíficas y armoniosas con las demás naciones vecinas."
+  },
+  {
+    "intent_id": "cambio_climatico",
+    "keywords": [
+      "cambio",
+      "patrones",
+      "temperaturas",
+      "planeta",
+      "geografia",
+      "zonas"
+    ],
+    "base_response": "El cambio climático global altera severamente los patrones meteorológicos tradicionales y eleva progresivamente las temperaturas promedio del planeta. Modifica radicalmente la geografía natural mundial derritiendo los casquetes polares, lo que amenaza directamente con inundar permanentemente las zonas costeras densamente habitadas durante las próximas décadas."
+  },
+  {
+    "intent_id": "derechos_humanos",
+    "keywords": [
+      "derechos",
+      "garantias",
+      "personas",
+      "nacimiento",
+      "respeto",
+      "ciudadanos"
+    ],
+    "base_response": "Los derechos humanos constituyen garantías legales universales e inalienables inherentes a todas las personas desde su nacimiento. Aseguran el respeto irrestricto a la dignidad humana fundamental, protegiendo a los ciudadanos civiles contra cualquier tipo de discriminación arbitraria, abuso de autoridad gubernamental o esclavitud laboral moderna."
+  },
+  {
+    "intent_id": "sistema_bipartidista",
+    "keywords": [
+      "sistema",
+      "dominio",
+      "agrupaciones",
+      "poder",
+      "gobierno",
+      "participacion"
+    ],
+    "base_response": "El sistema político bipartidista se caracteriza por el dominio absoluto de dos grandes agrupaciones electorales que compiten por el poder. Facilita la formación de mayorías parlamentarias estables en el gobierno central, aunque dificulta significativamente la participación democrática activa de movimientos minoritarios en la vida pública nacional."
+  },
+  {
+    "intent_id": "concepto_rio_nilo",
+    "keywords": [
+      "rio",
+      "naciones",
+      "agricultura",
+      "agua",
+      "transporte"
+    ],
+    "base_response": "El río Nilo fluye a través de múltiples naciones en África y es vital para la agricultura local. Su cuenca hídrica provee agua potable y facilita el transporte comercial, modelando históricamente la organización política territorial y el desarrollo demográfico de varios países."
+  },
+  {
+    "intent_id": "concepto_rio_amazonas",
+    "keywords": [
+      "selva",
+      "reserva",
+      "agua",
+      "recurso",
+      "proteccion",
+      "colaboracion"
+    ],
+    "base_response": "El inmenso río Amazonas atraviesa la densa selva tropical sudamericana y contiene la mayor reserva de agua dulce. Esta maravilla natural representa un recurso estratégico crucial, cuya protección ambiental exige la colaboración diplomática internacional constante entre los estados vecinos de toda la región."
+  },
+  {
+    "intent_id": "concepto_rio_yangtse",
+    "keywords": [
+      "empleos",
+      "represas",
+      "recorrido",
+      "energia",
+      "ingenieria",
+      "crecimiento"
+    ],
+    "base_response": "El caudaloso río Yangtsé sostiene millones de empleos agrícolas e industriales en Asia. Las represas construidas en su recorrido generan enorme cantidad de energía hidroeléctrica renovable, demostrando cómo la ingeniería gubernamental modifica la geografía física para impulsar rápidamente el crecimiento económico de una nación."
+  },
+  {
+    "intent_id": "concepto_civico_constitucion",
+    "keywords": [
+      "constitucion",
+      "documento",
+      "estado",
+      "limites",
+      "poder",
+      "derechos"
+    ],
+    "base_response": "Una constitución es el documento legal fundamental que estructura el funcionamiento íntegro de un estado democrático contemporáneo. Establece claramente los límites del poder gubernamental vigente y garantiza los derechos civiles básicos de los ciudadanos frente a posibles abusos autoritarios de los líderes políticos."
+  },
+  {
+    "intent_id": "concepto_civico_poder_ejecutivo",
+    "keywords": [
+      "poder",
+      "responsabilidad",
+      "leyes",
+      "politicas",
+      "presidente",
+      "presupuesto"
+    ],
+    "base_response": "El poder ejecutivo tiene la enorme responsabilidad administrativa de implementar las leyes y dirigir las políticas nacionales diarias. Encabezado habitualmente por el presidente o primer ministro, este órgano gubernamental gestiona el presupuesto público federal y lidera las relaciones diplomáticas internacionales de manera oficial."
+  },
+  {
+    "intent_id": "concepto_civico_poder_legislativo",
+    "keywords": [
+      "parlamento",
+      "poder",
+      "asamblea",
+      "normas",
+      "diputados",
+      "problemas"
+    ],
+    "base_response": "El parlamento o poder legislativo constituye la asamblea representativa donde se debaten y aprueban las normas jurídicas nacionales. Los diputados elegidos por los votantes analizan detalladamente los problemas sociales urgentes y diseñan soluciones legales para organizar correctamente la convivencia pacífica de la población."
+  },
+  {
+    "intent_id": "concepto_civico_poder_judicial",
+    "keywords": [
+      "sistema",
+      "leyes",
+      "justicia",
+      "jueces",
+      "tribunales",
+      "disputas"
+    ],
+    "base_response": "El sistema judicial independiente interpreta estrictamente las leyes escritas y administra justicia de forma completamente imparcial. Los jueces tribunales resuelven las disputas civiles complejas y castigan severamente los delitos comprobados, asegurando firmemente que ningún habitante actúe por encima del marco constitucional establecido."
+  },
+  {
+    "intent_id": "concepto_economia_aranceles",
+    "keywords": [
+      "impuestos",
+      "mercancias",
+      "fronteras",
+      "gobiernos",
+      "herramientas",
+      "productos"
+    ],
+    "base_response": "Los aranceles son impuestos obligatorios aplicados directamente a las mercancías extranjeras cuando cruzan las fronteras comerciales de un país. Los gobiernos utilizan estas herramientas impositivas estratégicamente para encarecer los productos importados y así proteger fuertemente la industria productiva nacional frente a la dura competencia externa."
+  },
+  {
+    "intent_id": "concepto_economia_inflacion",
+    "keywords": [
+      "aumento",
+      "precios",
+      "mercados",
+      "bienes",
+      "fenomeno",
+      "ciudadanos"
+    ],
+    "base_response": "La inflación económica describe el aumento generalizado y sostenido de los precios en los mercados comerciales de bienes diarios. Este fenómeno financiero reduce gradualmente el poder adquisitivo real de los ciudadanos asalariados, obligando al banco central a implementar medidas restrictivas urgentes para recuperar la estabilidad."
+  },
+  {
+    "intent_id": "concepto_economia_recesion",
+    "keywords": [
+      "disminucion",
+      "actividad",
+      "meses",
+      "empresas",
+      "operaciones",
+      "desempleo"
+    ],
+    "base_response": "Una recesión indica una disminución significativa de la actividad industrial comercial que dura varios meses continuos. Durante este complejo período, las empresas cierran operaciones y el desempleo laboral aumenta rápidamente, exigiendo enormes esfuerzos financieros públicos para reactivar nuevamente el crecimiento sostenible del país afectado."
+  }
+]
