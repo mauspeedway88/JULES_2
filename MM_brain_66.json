@@ -1,0 +1,554 @@
+[
+  {
+    "intent_id": "pronoun_i",
+    "keywords": [
+      "pronombre",
+      "sujeto",
+      "mayuscula",
+      "hablante"
+    ],
+    "base_response": "El pronombre personal de sujeto 'I' se utiliza invariablemente con letra mayúscula, sin importar su posición dentro de la oración. Sirve para que el hablante se identifique a sí mismo al ejecutar la acción principal del verbo en cualquier contexto comunicativo cotidiano."
+  },
+  {
+    "intent_id": "pronoun_you",
+    "keywords": [
+      "pronombre",
+      "singular",
+      "plural",
+      "oyente",
+      "sujeto"
+    ],
+    "base_response": "El pronombre 'you' funciona tanto para dirigirse a una sola persona como a un grupo completo de oyentes. Su estructura permanece exactamente igual en singular y plural, obligando a los interlocutores a depender totalmente del contexto conversacional para comprender la cantidad correcta."
+  },
+  {
+    "intent_id": "pronoun_he",
+    "keywords": [
+      "masculino",
+      "tercera",
+      "persona",
+      "sujeto"
+    ],
+    "base_response": "Utilizamos el pronombre 'he' exclusivamente para referirnos a una tercera persona del género masculino en singular. Esta palabra reemplaza al nombre propio de un hombre o niño, asumiendo el rol de sujeto activo que realiza directamente la acción expresada por el verbo principal."
+  },
+  {
+    "intent_id": "pronoun_she",
+    "keywords": [
+      "femenino",
+      "tercera",
+      "persona",
+      "sustitucion"
+    ],
+    "base_response": "El pronombre 'she' se emplea de forma exclusiva para identificar a una tercera persona de género femenino. Al utilizar este término, evitamos la repetición constante del nombre de la mujer o niña que está ejecutando la actividad central dentro de nuestra oración principal."
+  },
+  {
+    "intent_id": "pronoun_it",
+    "keywords": [
+      "objetos",
+      "animales",
+      "neutro",
+      "singular"
+    ],
+    "base_response": "Para mencionar objetos inanimados, conceptos abstractos, lugares geográficos o animales singulares, el idioma inglés utiliza el pronombre neutro 'it'. Esta palabra asume la función de sujeto u objeto, facilitando enormemente la descripción precisa de nuestro entorno físico sin tener que especificar géneros gramaticales."
+  },
+  {
+    "intent_id": "pronoun_we",
+    "keywords": [
+      "nosotros",
+      "plural",
+      "inclusion",
+      "grupo"
+    ],
+    "base_response": "El término 'we' representa a la primera persona del plural, incluyendo siempre al propio hablante junto con otros individuos adicionales. Este pronombre establece un sentido de acción colectiva o pertenencia compartida, demostrando que varias personas ejecutan simultáneamente la misma acción descrita verbalmente."
+  },
+  {
+    "intent_id": "pronoun_they",
+    "keywords": [
+      "tercera",
+      "plural",
+      "personas",
+      "objetos",
+      "grupos"
+    ],
+    "base_response": "El pronombre 'they' sirve para designar a terceras personas en formato plural, abarcando hombres, mujeres, animales y objetos inanimados por igual. Es una herramienta gramatical extraordinariamente versátil que simplifica la comunicación al referirse a cualquier grupo numeroso sin preocuparse jamás por el género."
+  },
+  {
+    "intent_id": "pronoun_me",
+    "keywords": [
+      "objeto",
+      "receptor",
+      "primera",
+      "persona"
+    ],
+    "base_response": "Cuando el hablante recibe directamente las consecuencias de una acción, deja de utilizar el pronombre de sujeto para emplear el pronombre de objeto 'me'. Esta palabra se ubica típicamente después del verbo principal o detrás de una preposición, señalando quién es el receptor."
+  },
+  {
+    "intent_id": "pronoun_him",
+    "keywords": [
+      "receptor",
+      "masculino",
+      "verbo",
+      "objeto"
+    ],
+    "base_response": "El pronombre de objeto 'him' sustituye a un sustantivo masculino singular cuando este individuo recibe la acción del verbo. Al colocarlo en la sección del predicado, logramos mantener la fluidez de la narrativa sin tener que repetir el nombre propio del hombre afectado."
+  },
+  {
+    "intent_id": "pronoun_her",
+    "keywords": [
+      "receptor",
+      "femenino",
+      "accion",
+      "objeto"
+    ],
+    "base_response": "Utilizamos la palabra 'her' cuando una mujer o niña funciona como el objeto directo o indirecto dentro del predicado. Este pronombre receptor captura la acción verbal, asegurando que el mensaje transmitido mantenga una estructura lógica, clara y libre de redundancias verbales innecesarias."
+  },
+  {
+    "intent_id": "possessive_mine",
+    "keywords": [
+      "posesion",
+      "propiedad",
+      "pronombre",
+      "pertenencia"
+    ],
+    "base_response": "El pronombre posesivo 'mine' indica que un objeto determinado pertenece de manera exclusiva al propio hablante. A diferencia de los adjetivos, esta palabra reemplaza por completo al sustantivo original, permitiendo afirmar la propiedad de algo sin tener que volver a nombrar el artículo."
+  },
+  {
+    "intent_id": "possessive_yours",
+    "keywords": [
+      "propiedad",
+      "oyente",
+      "pertenencia",
+      "pronombre"
+    ],
+    "base_response": "Para confirmar que un artículo específico le pertenece a la persona con la que estamos conversando, aplicamos el pronombre 'yours'. Esta estructura gramatical independiente evita mencionar nuevamente el objeto en cuestión, aportando una inmensa naturalidad y dinamismo a cualquier diálogo interactivo que sostengamos."
+  },
+  {
+    "intent_id": "reflexive_myself",
+    "keywords": [
+      "reflexivo",
+      "accion",
+      "sujeto",
+      "mismo"
+    ],
+    "base_response": "Los pronombres reflexivos como 'myself' se aplican cuando el sujeto que realiza una determinada actividad es exactamente el mismo individuo que la recibe. Dominar esta construcción permite expresar autonomía personal, acciones independientes y situaciones donde el esfuerzo recae completamente sobre nosotros mismos."
+  },
+  {
+    "intent_id": "demonstrative_this",
+    "keywords": [
+      "demostrativo",
+      "cercania",
+      "singular",
+      "distancia"
+    ],
+    "base_response": "El pronombre demostrativo 'this' tiene la función de identificar un objeto singular que se encuentra físicamente muy cerca del hablante. Además de señalar distancia espacial inmediata, también puede referirse a eventos temporales presentes, ayudando a centrar rápidamente la atención durante cualquier explicación presencial."
+  },
+  {
+    "intent_id": "demonstrative_that",
+    "keywords": [
+      "demostrativo",
+      "lejania",
+      "singular",
+      "distancia"
+    ],
+    "base_response": "Cuando deseamos señalar un elemento individual ubicado a cierta distancia física o temporal, recurrimos al pronombre demostrativo 'that'. Esta herramienta lingüística resulta fundamental para establecer contrastes visuales, indicar direcciones geográficas o diferenciar claramente entre objetos próximos y aquellos que están visualmente más alejados."
+  },
+  {
+    "intent_id": "plural_regular_s",
+    "keywords": [
+      "plural",
+      "regla",
+      "sustantivos",
+      "cantidad"
+    ],
+    "base_response": "La regla más universal para transformar la mayoría de los sustantivos singulares al formato plural consiste simplemente en agregar una letra 's' al final. Esta norma ortográfica directa y confiable abarca una cantidad inmensa de vocabulario básico, facilitando enormemente la enumeración de objetos cotidianos."
+  },
+  {
+    "intent_id": "plural_regular_es",
+    "keywords": [
+      "plural",
+      "sonidos",
+      "ortografia",
+      "terminacion"
+    ],
+    "base_response": "Aquellos sustantivos que finalizan en sonidos sibilantes como 's', 'sh', 'ch' o 'x' requieren la adición obligatoria de la sílaba 'es'. Esta modificación ortográfica responde estrictamente a una necesidad fonética, garantizando que los hablantes puedan pronunciar la palabra pluralizada de forma natural y sin interrupciones."
+  },
+  {
+    "intent_id": "plural_consonant_y",
+    "keywords": [
+      "plural",
+      "consonante",
+      "cambio",
+      "ortografia"
+    ],
+    "base_response": "Cuando una palabra singular termina en consonante seguida inmediatamente por la letra 'y', debemos aplicar una alteración ortográfica particular. La regla exige eliminar esa 'y' final y sustituirla por 'ies' para formar el plural correcto, previniendo errores comunes durante la redacción de textos académicos."
+  },
+  {
+    "intent_id": "plural_vowel_y",
+    "keywords": [
+      "plural",
+      "vocal",
+      "terminacion",
+      "regla"
+    ],
+    "base_response": "A diferencia de la regla anterior, si el sustantivo culmina en una vocal seguida por la letra 'y', la estructura permanece inalterada. Simplemente añadimos una 's' al final de la palabra original, conservando el sonido base intacto y agilizando la formación rápida de múltiples artículos."
+  },
+  {
+    "intent_id": "plural_f_to_ves",
+    "keywords": [
+      "plural",
+      "cambio",
+      "ortografia",
+      "vocabulario"
+    ],
+    "base_response": "Varios sustantivos terminados en la letra 'f' o en la combinación 'fe' experimentan una transformación radical al pluralizarse. Modificamos dicha terminación cambiándola por 'ves', alterando significativamente la pronunciación original y creando una sonoridad vibrante característica que todo estudiante de idiomas debe memorizar cuidadosamente."
+  },
+  {
+    "intent_id": "plural_irregular_vowels",
+    "keywords": [
+      "plural",
+      "irregular",
+      "vocales",
+      "cambio"
+    ],
+    "base_response": "Algunos sustantivos desafían todas las reglas ortográficas tradicionales cambiando por completo sus vocales internas para indicar una cantidad múltiple. Palabras como 'man' transformándose en 'men' demuestran que ciertas formas gramaticales dependen exclusivamente de la memorización, enriqueciendo profundamente el vocabulario histórico del idioma inglés."
+  },
+  {
+    "intent_id": "plural_irregular_child",
+    "keywords": [
+      "plural",
+      "irregular",
+      "ninos",
+      "vocabulario"
+    ],
+    "base_response": "El sustantivo 'child' representa uno de los plurales irregulares más excepcionales y reconocidos del idioma, transformándose radicalmente en 'children'. Esta evolución histórica de la palabra no sigue ningún patrón lógico moderno, convirtiéndose en un desafío fascinante y obligatorio para los aprendices de nivel básico."
+  },
+  {
+    "intent_id": "plural_irregular_tooth",
+    "keywords": [
+      "plural",
+      "irregular",
+      "dientes",
+      "cambio"
+    ],
+    "base_response": "Al igual que otras irregularidades fonéticas, la palabra 'tooth' modifica su doble vocal central para convertirse en el plural 'teeth'. Dominar estos cambios específicos previene equivocaciones notorias en consultas médicas simuladas y asegura que el estudiante adquiera una competencia comunicativa verdaderamente sólida y confiable."
+  },
+  {
+    "intent_id": "plural_no_change",
+    "keywords": [
+      "plural",
+      "invariable",
+      "animales",
+      "cantidad"
+    ],
+    "base_response": "Una categoría peculiar de sustantivos, mayormente vinculados a especies animales como 'sheep' o 'deer', mantiene exactamente la misma escritura en singular y plural. Esta invariabilidad ortográfica exige prestar extrema atención al contexto de la oración y a los verbos acompañantes para deducir la cantidad precisa."
+  },
+  {
+    "intent_id": "plural_always_plural",
+    "keywords": [
+      "plural",
+      "permanente",
+      "objetos",
+      "prendas"
+    ],
+    "base_response": "Ciertas herramientas y prendas de vestir compuestas por dos partes idénticas, como 'scissors' o 'trousers', existen gramaticalmente solo en formato plural. Al referirnos a un único artículo de este tipo, estamos obligados a utilizar siempre verbos en plural, respetando su naturaleza dual indivisible."
+  },
+  {
+    "intent_id": "adjective_descriptive",
+    "keywords": [
+      "adjetivo",
+      "descripcion",
+      "cualidad",
+      "sustantivo"
+    ],
+    "base_response": "Los adjetivos descriptivos tienen el propósito fundamental de asignar características cualitativas, visuales o emocionales a cualquier sustantivo mencionado en la oración. Estas palabras enriquecedoras transforman mensajes planos y aburridos en descripciones sumamente vívidas, permitiendo al oyente imaginar los detalles físicos con total claridad."
+  },
+  {
+    "intent_id": "adjective_position",
+    "keywords": [
+      "adjetivo",
+      "posicion",
+      "orden",
+      "oracion"
+    ],
+    "base_response": "En la sintaxis tradicional del inglés, el adjetivo calificativo se ubica estrictamente antes del sustantivo que está modificando, contrariando la costumbre hispana. Comprender y automatizar esta posición invertida resulta verdaderamente crucial para redactar oraciones coherentes y lograr una fluidez conversacional semejante a la de hablantes nativos."
+  },
+  {
+    "intent_id": "adjective_order_opinion",
+    "keywords": [
+      "adjetivo",
+      "orden",
+      "opinion",
+      "descripcion"
+    ],
+    "base_response": "Cuando decidimos aplicar múltiples descripciones a un mismo objeto, los adjetivos que expresan una opinión subjetiva deben ubicarse en primer lugar. Valoraciones personales como 'beautiful' o 'terrible' preceden invariablemente a las descripciones objetivas relacionadas con el tamaño, la edad o el color del artículo descrito."
+  },
+  {
+    "intent_id": "adjective_order_size",
+    "keywords": [
+      "adjetivo",
+      "tamano",
+      "orden",
+      "fisico"
+    ],
+    "base_response": "Siguiendo la jerarquía estricta de múltiples descripciones, los adjetivos referidos al tamaño físico se colocan inmediatamente después de las opiniones personales. Palabras que definen dimensiones espaciales como 'huge' o 'tiny' otorgan contexto volumétrico temprano, estructurando mentalmente la imagen antes de mencionar el material o color."
+  },
+  {
+    "intent_id": "adjective_comparative_er",
+    "keywords": [
+      "comparativo",
+      "adjetivo",
+      "sufijo",
+      "diferencia"
+    ],
+    "base_response": "Para contrastar directamente dos elementos distintos utilizando adjetivos cortos de una sola sílaba, añadimos el sufijo 'er' al final de la palabra. Esta modificación morfológica sencilla establece una comparación clara y precisa, indicando que un sujeto posee mayor grado de cierta cualidad que el otro."
+  },
+  {
+    "intent_id": "adjective_comparative_y",
+    "keywords": [
+      "comparativo",
+      "ortografia",
+      "cambio",
+      "adjetivos"
+    ],
+    "base_response": "Cuando un adjetivo de dos sílabas termina en la consonante 'y', formamos su grado comparativo cambiando dicha letra por una 'i' latina antes de agregar 'er'. Conocer esta adaptación ortográfica resulta indispensable para escribir correctamente opiniones comparativas sobre el clima, la dificultad o la felicidad."
+  },
+  {
+    "intent_id": "adjective_comparative_more",
+    "keywords": [
+      "comparativo",
+      "largo",
+      "palabra",
+      "adjetivo"
+    ],
+    "base_response": "Al intentar comparar dos sustantivos empleando adjetivos extensos de tres o más sílabas, mantenemos la palabra original completamente intacta. En su lugar, colocamos el término 'more' justo antes del adjetivo, respetando la sonoridad de palabras complejas como 'intelligent' o 'expensive' sin añadir sufijos impronunciables."
+  },
+  {
+    "intent_id": "adjective_superlative_est",
+    "keywords": [
+      "superlativo",
+      "maximo",
+      "grupo",
+      "adjetivo"
+    ],
+    "base_response": "El grado superlativo resalta que un elemento específico posee la máxima intensidad de una característica dentro de un grupo completo. Para adjetivos cortos, logramos esta exaltación añadiendo invariablemente el sufijo 'est' al final, demostrando supremacía absoluta frente a todos los demás integrantes evaluados."
+  },
+  {
+    "intent_id": "adjective_superlative_most",
+    "keywords": [
+      "superlativo",
+      "largo",
+      "palabras",
+      "maximo"
+    ],
+    "base_response": "En el caso de utilizar adjetivos largos para expresar superioridad máxima dentro de una multitud, utilizamos la palabra auxiliar 'most'. Esta estructura gramatical antecede al adjetivo descriptivo inalterado, permitiendo formular opiniones contundentes sobre los conceptos más complejos, fascinantes o peligrosos de nuestro entorno global."
+  },
+  {
+    "intent_id": "adjective_irregular_good",
+    "keywords": [
+      "adjetivo",
+      "irregular",
+      "comparacion",
+      "cambio"
+    ],
+    "base_response": "El adjetivo calificativo 'good' posee formas comparativas y superlativas completamente irregulares que no siguen ningún patrón fonético habitual. Se transforma sorprendentemente en 'better' para comparaciones directas y en 'best' para expresar excelencia suprema, requiriendo memorización absoluta por parte de los estudiantes comprometidos."
+  },
+  {
+    "intent_id": "adjective_irregular_bad",
+    "keywords": [
+      "adjetivo",
+      "irregular",
+      "peor",
+      "cambio"
+    ],
+    "base_response": "Al igual que los casos de excelencia, el adjetivo 'bad' cambia radicalmente toda su estructura alfabética al establecer comparaciones negativas. Las palabras 'worse' y 'worst' representan niveles crecientes de deficiencia o maldad, constituyendo vocabulario esencial para criticar constructivamente o describir situaciones verdaderamente desfavorables."
+  },
+  {
+    "intent_id": "adjective_demonstrative_pl",
+    "keywords": [
+      "demostrativo",
+      "plural",
+      "distancia",
+      "adjetivos"
+    ],
+    "base_response": "Las palabras 'these' y 'those' funcionan como adjetivos demostrativos plurales cuando acompañan inmediatamente a un sustantivo múltiple. Su correcta implementación indica simultáneamente la cantidad superior a uno y la distancia física o temporal exacta a la que se encuentran dichos elementos respecto al hablante."
+  },
+  {
+    "intent_id": "article_definite_the",
+    "keywords": [
+      "articulo",
+      "definido",
+      "especifico",
+      "conocido"
+    ],
+    "base_response": "El artículo definido 'the' se utiliza cuando tanto el emisor como el receptor saben exactamente de qué elemento singular o plural se está hablando. Este poderoso marcador gramatical aporta especificidad innegable, asegurando que la atención de la audiencia recaiga sobre un objeto único y previamente identificado."
+  },
+  {
+    "intent_id": "article_indefinite_a",
+    "keywords": [
+      "articulo",
+      "indefinido",
+      "consonante",
+      "singular"
+    ],
+    "base_response": "Aplicamos el artículo indefinido 'a' para introducir un sustantivo singular, genérico o previamente desconocido cuyo sonido inicial es una consonante fonética. Esta pequeña palabra resulta imprescindible para presentar nuevos personajes, objetos comunes o profesiones dentro de narrativas creativas sin otorgarles todavía una identidad específica."
+  },
+  {
+    "intent_id": "article_indefinite_an",
+    "keywords": [
+      "articulo",
+      "vocal",
+      "sonido",
+      "indefinido"
+    ],
+    "base_response": "Para mantener la fluidez musical del idioma y evitar choques sonoros abruptos, utilizamos el artículo 'an' antes de palabras que inician con sonidos vocálicos. Esta sutil modificación ortográfica demuestra un dominio avanzado de la pronunciación inglesa, conectando las palabras suavemente durante lecturas veloces y diálogos fluidos."
+  },
+  {
+    "intent_id": "article_zero_plural",
+    "keywords": [
+      "articulo",
+      "omision",
+      "plural",
+      "generalidad"
+    ],
+    "base_response": "Cuando conversamos acerca de sustantivos plurales en un sentido completamente general o universal, el idioma inglés omite por completo el uso de artículos. Esta regla de omisión deliberada nos permite formular afirmaciones amplias sobre categorías enteras de animales, personas u objetos sin restricciones gramaticales innecesarias."
+  },
+  {
+    "intent_id": "article_zero_uncountable",
+    "keywords": [
+      "articulo",
+      "incontable",
+      "omision",
+      "conceptos"
+    ],
+    "base_response": "Los sustantivos incontables que representan sustancias, líquidos o conceptos filosóficos abstractos también prescinden del artículo definido al hablar en términos generales. Omitir marcadores ante palabras como agua, información o felicidad refleja una comprensión sumamente profunda sobre la naturaleza ilimitada de ciertos elementos dentro de la gramática."
+  },
+  {
+    "intent_id": "article_the_geography",
+    "keywords": [
+      "articulo",
+      "geografia",
+      "definido",
+      "nombres"
+    ],
+    "base_response": "Existen reglas muy precisas para el uso del artículo definido junto a nombres geográficos alrededor del mundo entero. Generalmente colocamos 'the' antes de cadenas montañosas, océanos vastos y países con nombres compuestos, estableciendo normas cartográficas estrictas que todo estudiante de geografía en inglés debe conocer."
+  },
+  {
+    "intent_id": "article_the_instruments",
+    "keywords": [
+      "articulo",
+      "instrumentos",
+      "musica",
+      "definido"
+    ],
+    "base_response": "Una curiosa excepción gramatical ocurre al referirnos a la habilidad para tocar instrumentos musicales específicos en contextos educativos o artísticos. El inglés exige incluir obligatoriamente el artículo 'the' antes del nombre del instrumento, demostrando un profundo respeto tradicional por las artes y la ejecución musical clásica."
+  },
+  {
+    "intent_id": "article_a_professions",
+    "keywords": [
+      "articulo",
+      "profesiones",
+      "indefinido",
+      "trabajos"
+    ],
+    "base_response": "Al indicar la ocupación laboral o profesión académica de una única persona, es estrictamente obligatorio anteponer el artículo indefinido adecuado. Decir que alguien es un ingeniero o un doctor utilizando 'a' o 'an' clasifica correctamente al individuo dentro de un grupo profesional extenso y reconocido mundialmente."
+  },
+  {
+    "intent_id": "preposition_in_spaces",
+    "keywords": [
+      "preposicion",
+      "interior",
+      "espacios",
+      "limites"
+    ],
+    "base_response": "La preposición de lugar 'in' proyecta un claro sentido de contención física dentro de límites tridimensionales perfectamente definidos. La utilizamos para localizar objetos, animales o personas situadas internamente en habitaciones cerradas, edificios estructurales, cajas selladas o áreas geográficas con fronteras políticas inmensamente amplias."
+  },
+  {
+    "intent_id": "preposition_on_surfaces",
+    "keywords": [
+      "preposicion",
+      "superficie",
+      "contacto",
+      "lugar"
+    ],
+    "base_response": "Empleamos la preposición 'on' para especificar que un elemento determinado se encuentra descansando y haciendo contacto directo sobre una superficie horizontal o vertical. Esta palabra localizadora resulta vital para describir objetos apoyados en mesas, cuadros colgados en paredes o personas transitando sobre calles pavimentadas largas."
+  },
+  {
+    "intent_id": "preposition_at_points",
+    "keywords": [
+      "preposicion",
+      "punto",
+      "exactitud",
+      "lugar"
+    ],
+    "base_response": "Cuando necesitamos referirnos a una ubicación como un punto exacto en el espacio o un lugar de reunión específico, utilizamos la preposición 'at'. Este término ignora deliberadamente las dimensiones o límites del espacio, enfocándose únicamente en la precisión del encuentro o la llegada a destinos concretos."
+  },
+  {
+    "intent_id": "preposition_under_below",
+    "keywords": [
+      "preposicion",
+      "debajo",
+      "inferior",
+      "espacio"
+    ],
+    "base_response": "La palabra 'under' indica que un elemento se encuentra posicionado en un nivel espacial inferior, generalmente cubierto, protegido o ensombrecido por un objeto superior de mayor volumen. Dominar esta preposición enriquece las descripciones físicas profundas y ayuda a ubicar pertenencias ocultas debajo del mobiliario doméstico tradicional."
+  },
+  {
+    "intent_id": "preposition_over_above",
+    "keywords": [
+      "preposicion",
+      "encima",
+      "superior",
+      "movimiento"
+    ],
+    "base_response": "Utilizamos la preposición 'over' para describir objetos situados en una posición espacial superior que no mantienen contacto físico directo con la superficie inferior. También puede sugerir un movimiento dinámico de cruce por encima de un obstáculo, otorgando inmensa vitalidad narrativa a relatos deportivos o descriptivos de aventuras."
+  },
+  {
+    "intent_id": "preposition_next_to",
+    "keywords": [
+      "preposicion",
+      "lateral",
+      "cercania",
+      "adyacente"
+    ],
+    "base_response": "Para indicar que dos entidades físicas se encuentran espacialmente ubicadas una exactamente al lado de la otra, aplicamos la frase preposicional 'next to'. Esta valiosa herramienta de orientación horizontal resulta imprescindible para organizar eficientemente la disposición de los asientos escolares o detallar mapas urbanos extremadamente complejos."
+  },
+  {
+    "intent_id": "preposition_between_two",
+    "keywords": [
+      "preposicion",
+      "medio",
+      "separacion",
+      "elementos"
+    ],
+    "base_response": "La preposición 'between' describe con gran exactitud la posición intermedia de un sujeto u objeto rodeado por otros dos elementos claramente distinguibles. Conocer esta palabra delimitadora mejora significativamente nuestra capacidad para dar direcciones exactas, ubicando puntos de interés atrapados en medio de grandes edificios comerciales."
+  },
+  {
+    "intent_id": "preposition_among_group",
+    "keywords": [
+      "preposicion",
+      "grupo",
+      "multitud",
+      "rodeado"
+    ],
+    "base_response": "A diferencia de una separación dual, empleamos la preposición 'among' cuando un sujeto se encuentra completamente inmerso y rodeado por un grupo numeroso o una multitud dispersa. Su uso evoca inmediatamente imágenes de integración comunitaria, pertenencia colectiva u objetos perdidos dentro de densos bosques naturales inexplorados."
+  },
+  {
+    "intent_id": "preposition_in_front_of",
+    "keywords": [
+      "preposicion",
+      "frente",
+      "delante",
+      "posicion"
+    ],
+    "base_response": "La construcción 'in front of' señala una posición espacial estratégicamente adelantada respecto a otro objeto que queda relegado hacia la parte posterior. Esta frase resulta sumamente útil para organizar filas ordenadas de estudiantes, describir la fachada principal arquitectónica de edificios o advertir sobre obstáculos visuales inminentes."
+  },
+  {
+    "intent_id": "preposition_behind_back",
+    "keywords": [
+      "preposicion",
+      "detras",
+      "posterior",
+      "oculto"
+    ],
+    "base_response": "Finalmente, la preposición 'behind' establece que un elemento físico está posicionado espacialmente en la zona posterior, pudiendo estar visualmente oculto o bloqueado por otro objeto delantero. Es el término perfecto para describir escondites secretos infantiles, misterios literarios intrigantes o el orden secuencial lógico de columnas vertebrales."
+  }
+]
