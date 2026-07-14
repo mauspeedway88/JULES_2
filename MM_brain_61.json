@@ -1,0 +1,600 @@
+[
+  {
+    "intent_id": "reglas_basicas_ortografia_1",
+    "keywords": [
+      "palabras",
+      "tilde",
+      "ene",
+      "fuerza",
+      "llevan",
+      "silaba"
+    ],
+    "base_response": "Las palabras agudas llevan tilde en la última sílaba cuando terminan en vocal, en ene o en ese. Esto ayuda a marcar la fuerza al pronunciarlas. Por ejemplo, términos como canción o compás siguen estrictamente esta norma ortográfica del español."
+  },
+  {
+    "intent_id": "reglas_basicas_ortografia_2",
+    "keywords": [
+      "palabras",
+      "acento",
+      "tilde",
+      "consonante",
+      "llevan",
+      "silaba"
+    ],
+    "base_response": "Las palabras graves o llanas llevan el acento en la penúltima sílaba. Solo deben llevar tilde si terminan en una consonante que no sea ene ni ese. Ejemplos clásicos incluyen árbol o lápiz, que requieren esa importante marca gráfica siempre."
+  },
+  {
+    "intent_id": "reglas_basicas_ortografia_3",
+    "keywords": [
+      "palabras",
+      "fuerza",
+      "voz",
+      "antepenultima",
+      "recae",
+      "silaba"
+    ],
+    "base_response": "Las palabras esdrújulas son aquellas donde la mayor fuerza de voz recae en la antepenúltima sílaba. La regla ortográfica indica que todas las palabras esdrújulas deben llevar tilde sin excepción alguna. Ejemplos muy comunes son pájaro, médico, o cámara fotográfica."
+  },
+  {
+    "intent_id": "reglas_basicas_ortografia_4",
+    "keywords": [
+      "tilde",
+      "palabras",
+      "ejemplo",
+      "pronombre",
+      "utiliza",
+      "diferenciar"
+    ],
+    "base_response": "La tilde diacrítica se utiliza en palabras pequeñas para diferenciar aquellas que se escriben igual pero tienen distintos significados gramaticales. Por ejemplo, el pronombre él lleva tilde para distinguirse del artículo el, que siempre acompaña a los diferentes sustantivos comunes."
+  },
+  {
+    "intent_id": "reglas_basicas_ortografia_5",
+    "keywords": [
+      "hiato",
+      "vocales",
+      "silabas",
+      "atona",
+      "produce",
+      "pertenecen"
+    ],
+    "base_response": "El hiato se produce cuando dos vocales seguidas pertenecen a sílabas diferentes. Si el hiato está formado por una vocal débil tónica y una vocal fuerte átona, la vocal débil siempre debe llevar tilde obligatoriamente para marcar la correcta separación."
+  },
+  {
+    "intent_id": "reglas_basicas_ortografia_6",
+    "keywords": [
+      "palabra",
+      "texto",
+      "punto",
+      "letra",
+      "escribirse",
+      "delimita"
+    ],
+    "base_response": "La primera palabra de un texto y la que va después de un punto deben escribirse siempre con letra inicial mayúscula. Esta regla básica delimita claramente las oraciones gramaticales y facilita enormemente la lectura comprensiva del mensaje completo en español."
+  },
+  {
+    "intent_id": "reglas_basicas_ortografia_7",
+    "keywords": [
+      "nombres",
+      "personas",
+      "apellidos",
+      "lugares",
+      "escriben",
+      "incluye"
+    ],
+    "base_response": "Los nombres propios de personas, apellidos y lugares geográficos se escriben siempre con letra inicial mayúscula. Esto incluye nombres de ciudades, montañas y ríos, permitiendo distinguir visualmente las entidades específicas dentro de cualquier redacción formal que realices durante tus estudios."
+  },
+  {
+    "intent_id": "reglas_basicas_ortografia_8",
+    "keywords": [
+      "nombres",
+      "instituciones",
+      "uso",
+      "mayuscula",
+      "requieren",
+      "sigue"
+    ],
+    "base_response": "Los nombres de instituciones públicas o privadas requieren el uso de mayúscula inicial en todos sus sustantivos importantes. Por ejemplo, el Ministerio de Educación sigue esta norma ortográfica, dándole el nivel de formalidad que necesita ese título dentro del texto."
+  },
+  {
+    "intent_id": "reglas_basicas_ortografia_9",
+    "keywords": [
+      "letra",
+      "verbos",
+      "excepcion",
+      "regla",
+      "escriben",
+      "bir"
+    ],
+    "base_response": "Se escriben con la letra be todos los verbos terminados en bir, con la gran excepción de hervir, servir y vivir. Esta regla abarca palabras muy comunes como escribir o recibir, facilitando la escritura correcta de sus conjugaciones verbales diarias."
+  },
+  {
+    "intent_id": "reglas_basicas_ortografia_10",
+    "keywords": [
+      "palabras",
+      "prefijos",
+      "letra",
+      "inicios",
+      "comienzan",
+      "escriben"
+    ],
+    "base_response": "Las palabras que comienzan con los prefijos bi y bis se escriben siempre con la letra be. Estos inicios significan dos o dos veces, y los encontramos frecuentemente en palabras de uso cotidiano como bicicleta o también el término bisabuelo."
+  },
+  {
+    "intent_id": "reglas_basicas_ortografia_11",
+    "keywords": [
+      "regla",
+      "letra",
+      "eme",
+      "combinacion",
+      "establece",
+      "escribe"
+    ],
+    "base_response": "La regla ortográfica establece que siempre se escribe la letra be después de la letra eme. Esta combinación de consonantes es muy frecuente en nuestro idioma y la encontramos en múltiples palabras importantes como tambor, cambiar o simplemente el ambiente."
+  },
+  {
+    "intent_id": "reglas_basicas_ortografia_12",
+    "keywords": [
+      "consonantes",
+      "letra",
+      "norma",
+      "confusiones",
+      "ene",
+      "escribir"
+    ],
+    "base_response": "Después de las consonantes be, de y ene siempre se debe escribir la letra uve. Esta norma es fundamental para evitar confusiones ortográficas al redactar. Podemos observarla claramente en términos muy comunes como obvio o advertencia dentro del vocabulario habitual."
+  },
+  {
+    "intent_id": "reglas_basicas_ortografia_13",
+    "keywords": [
+      "verbos",
+      "infinitivos",
+      "letra",
+      "crujir",
+      "terminan",
+      "gir"
+    ],
+    "base_response": "Los verbos cuyos infinitivos terminan en ger y gir se escriben con la letra ge, exceptuando tejer y crujir. Sin embargo, al conjugarlos, la letra ge cambia por jota cuando va justo antes de la vocal a o de la vocal o."
+  },
+  {
+    "intent_id": "reglas_basicas_ortografia_14",
+    "keywords": [
+      "dieresis",
+      "signo",
+      "letra",
+      "palabras",
+      "coloca",
+      "sirve"
+    ],
+    "base_response": "La diéresis es un pequeño signo ortográfico que se coloca sobre la vocal u en las sílabas gue y gui. Esto sirve para indicar que dicha letra u debe ser pronunciada completamente en palabras como por ejemplo el tierno pingüino."
+  },
+  {
+    "intent_id": "reglas_basicas_ortografia_15",
+    "keywords": [
+      "palabras",
+      "eje",
+      "letra",
+      "norma",
+      "terminan",
+      "escriben"
+    ],
+    "base_response": "Las palabras que terminan en aje y eje siempre se escriben con la letra jota. Esta norma aplica a un amplio grupo de sustantivos muy comunes en nuestro vocabulario diario, tales como paisaje, mensaje, largo viaje o incluso un fuerte coraje."
+  },
+  {
+    "intent_id": "reglas_basicas_ortografia_16",
+    "keywords": [
+      "punto",
+      "oraciones",
+      "parrafo",
+      "aspecto",
+      "separa",
+      "tratan"
+    ],
+    "base_response": "El punto y seguido separa oraciones independientes dentro de un mismo párrafo que tratan un aspecto específico. Tras colocarlo, se debe continuar escribiendo en el mismo renglón de texto, siempre comenzando la siguiente palabra con la letra inicial en mayúscula."
+  },
+  {
+    "intent_id": "reglas_basicas_ortografia_17",
+    "keywords": [
+      "coma",
+      "elementos",
+      "enumeracion",
+      "conjuncion",
+      "utiliza",
+      "separar"
+    ],
+    "base_response": "La coma se utiliza para separar elementos diferentes dentro de una enumeración, excepto cuando los últimos están unidos por una conjunción y. Esta pausa breve aporta muchísimo orden, claridad visual y organiza toda la información que pones dentro de la frase."
+  },
+  {
+    "intent_id": "reglas_basicas_ortografia_18",
+    "keywords": [
+      "signos",
+      "interrogacion",
+      "oraciones",
+      "pregunta",
+      "utilizan",
+      "enmarcar"
+    ],
+    "base_response": "Los signos de interrogación se utilizan para enmarcar oraciones donde se formula una pregunta directa al lector. En el idioma español es absolutamente obligatorio usar el signo de apertura al inicio y el de cierre al final de cada pregunta."
+  },
+  {
+    "intent_id": "reglas_basicas_ortografia_19",
+    "keywords": [
+      "signos",
+      "exclamacion",
+      "frases",
+      "sorpresa",
+      "encierran",
+      "expresan"
+    ],
+    "base_response": "Los signos de exclamación encierran frases que expresan gran sorpresa, alegría inmensa o un mandato intenso. Como ocurre con las preguntas, es un requisito ortográfico utilizar tanto el signo inicial como el final para demarcar correctamente toda la oración afectiva."
+  },
+  {
+    "intent_id": "reglas_basicas_ortografia_20",
+    "keywords": [
+      "palabras",
+      "completas",
+      "final",
+      "renglon",
+      "utiliza",
+      "dividir"
+    ],
+    "base_response": "El guion corto se utiliza fundamentalmente para dividir aquellas palabras que no caben completas al llegar al final del renglón. La separación debe realizarse siempre respetando cuidadosamente la división en sílabas naturales que forma cada palabra individual de nuestra lengua."
+  },
+  {
+    "intent_id": "reglas_basicas_ortografia_21",
+    "keywords": [
+      "palabras",
+      "silaba",
+      "esdrujulas",
+      "regla",
+      "tienen",
+      "establece"
+    ],
+    "base_response": "Las palabras sobresdrújulas tienen la sílaba tónica antes de la antepenúltima sílaba. Al igual que las esdrújulas, la regla establece que siempre deben llevar tilde gráfica. Se forman comúnmente con verbos y pronombres enlazados, como por ejemplo entrégaselo o cómetelo."
+  },
+  {
+    "intent_id": "reglas_basicas_ortografia_22",
+    "keywords": [
+      "diptongo",
+      "union",
+      "vocales",
+      "silaba",
+      "acentuar",
+      "siguen"
+    ],
+    "base_response": "El diptongo es la unión de dos vocales diferentes pronunciadas en una misma sílaba. Para acentuar palabras con diptongos se siguen las reglas generales de acentuación, colocando siempre la tilde sobre la vocal fuerte o abierta, como en la palabra acción."
+  },
+  {
+    "intent_id": "reglas_basicas_ortografia_23",
+    "keywords": [
+      "triptongo",
+      "secuencia",
+      "vocales",
+      "silaba",
+      "requiere",
+      "coloca"
+    ],
+    "base_response": "El triptongo es la secuencia de tres vocales diferentes pronunciadas en una sola sílaba ininterrumpida. Debe estar compuesto por una vocal fuerte central entre dos vocales débiles. Si requiere tilde por regla general, se coloca obligatoriamente sobre la vocal más fuerte."
+  },
+  {
+    "intent_id": "reglas_basicas_ortografia_24",
+    "keywords": [
+      "letra",
+      "titulos",
+      "obras",
+      "arte",
+      "escribirse",
+      "incluye"
+    ],
+    "base_response": "La letra inicial de los títulos de obras literarias y obras de arte debe escribirse siempre con mayúscula. Si el título incluye nombres propios en su interior, estos también mantendrán su mayúscula inicial respetando las normas generales del idioma español contemporáneo."
+  },
+  {
+    "intent_id": "reglas_basicas_ortografia_25",
+    "keywords": [
+      "siglas",
+      "letras",
+      "puntos",
+      "letra",
+      "escriben",
+      "utilizar"
+    ],
+    "base_response": "Las siglas se escriben íntegramente en letras mayúsculas y normalmente sin utilizar puntos entre ellas. Estas representan habitualmente la primera letra de las palabras que forman el nombre oficial y completo de una institución importante o de un organismo gubernamental."
+  },
+  {
+    "intent_id": "reglas_basicas_ortografia_26",
+    "keywords": [
+      "adjetivos",
+      "ave",
+      "eve",
+      "ivo",
+      "escriben"
+    ],
+    "base_response": "Los adjetivos llanos terminados en avo, ave, evo, eve, ivo e iva se escriben siempre con la letra uve. Ejemplos claros de esta importante regla ortográfica son palabras descriptivas muy usuales como suave, nuevo, breve o el adjetivo activo y dinámico."
+  },
+  {
+    "intent_id": "reglas_basicas_ortografia_27",
+    "keywords": [
+      "formas",
+      "letra",
+      "forma",
+      "infinitivo",
+      "contienen",
+      "escriben"
+    ],
+    "base_response": "Las formas verbales que no contienen la letra be ni la letra uve en su forma de infinitivo, se escriben con uve al ser conjugadas. Por ejemplo, los verbos andar y estar forman palabras como anduve y estuve en tiempo pasado."
+  },
+  {
+    "intent_id": "reglas_basicas_ortografia_28",
+    "keywords": [
+      "palabras",
+      "sufijos",
+      "gogia",
+      "letra",
+      "terminan",
+      "escriben"
+    ],
+    "base_response": "Las palabras que terminan en los sufijos logía y gogía siempre se escriben con la letra ge. Estos sufijos, de origen académico, indican ciencia o estudio superior, presentes en términos educativos esenciales como la biología marina, la psicología o la pedagogía."
+  },
+  {
+    "intent_id": "reglas_basicas_ortografia_29",
+    "keywords": [
+      "letra",
+      "palabras",
+      "posicion",
+      "regla",
+      "escriben",
+      "contienen"
+    ],
+    "base_response": "Se escriben con la letra ge las palabras que contienen la sílaba gen en cualquier posición. Esta regla general abarca vocablos muy utilizados diariamente por los estudiantes, como buena gente, lugar de origen, margen de página, gran inteligencia y aviso urgente."
+  },
+  {
+    "intent_id": "reglas_basicas_ortografia_30",
+    "keywords": [
+      "verbos",
+      "infinitivos",
+      "letra",
+      "formas",
+      "terminan",
+      "jear"
+    ],
+    "base_response": "Los verbos cuyos infinitivos terminan en jear se escriben invariablemente con la letra jota en todas y cada una de sus formas conjugadas. Esta regla ortográfica afecta a acciones muy frecuentes como hojear cuadernos, canjear premios, forcejear o incluso intentar chantajear."
+  },
+  {
+    "intent_id": "reglas_basicas_ortografia_31",
+    "keywords": [
+      "formas",
+      "sonidos",
+      "jota",
+      "infinitivos",
+      "contienen",
+      "escriben"
+    ],
+    "base_response": "Las formas verbales que contienen los sonidos je o ji se escriben con jota si sus infinitivos originales no llevan ni ge ni jota. Un ejemplo clásico es el verbo decir, cuya correcta conjugación en el pasado perfecto simple resulta dije."
+  },
+  {
+    "intent_id": "reglas_basicas_ortografia_32",
+    "keywords": [
+      "punto",
+      "coma",
+      "pausa",
+      "oraciones",
+      "indica",
+      "emplea"
+    ],
+    "base_response": "El punto y coma indica una pausa mayor que la coma simple pero menor que el punto. Se emplea frecuentemente para separar oraciones sintácticamente independientes entre las que existe una estrecha relación de significado, mejorando el flujo en párrafos muy extensos."
+  },
+  {
+    "intent_id": "reglas_basicas_ortografia_33",
+    "keywords": [
+      "puntos",
+      "discurso",
+      "atencion",
+      "informacion",
+      "detienen",
+      "llamar"
+    ],
+    "base_response": "Los dos puntos detienen el discurso para llamar la máxima atención sobre la información que sigue. Se utilizan obligatoriamente antes de iniciar una cita textual formal o después de anunciar una enumeración, preparando al lector para la información precisa detallada."
+  },
+  {
+    "intent_id": "reglas_basicas_ortografia_34",
+    "keywords": [
+      "comillas",
+      "citas",
+      "palabras",
+      "rigor",
+      "emplean",
+      "enmarcar"
+    ],
+    "base_response": "Las comillas dobles se emplean para enmarcar citas textuales exactas o también palabras extranjeras no adaptadas. Son verdaderamente esenciales para mantener el rigor académico al transcribir fielmente las palabras de otros autores dentro de tus propios ensayos escolares y tareas escritas."
+  },
+  {
+    "intent_id": "reglas_basicas_ortografia_35",
+    "keywords": [
+      "textos",
+      "intervenciones",
+      "personajes",
+      "dialogo",
+      "emplea",
+      "introducir"
+    ],
+    "base_response": "La raya o guion largo se emplea habitualmente en los textos narrativos para introducir las diferentes intervenciones de los personajes en un diálogo. También sirve perfectamente para encerrar pequeñas aclaraciones del narrador que interrumpen temporalmente las frases que pronuncian los personajes."
+  },
+  {
+    "intent_id": "reglas_basicas_ortografia_36",
+    "keywords": [
+      "palabras",
+      "sufijos",
+      "ancia",
+      "encia",
+      "escriben"
+    ],
+    "base_response": "Las palabras terminadas en los sufijos ancia y encia se escriben siempre con la letra ce, con la única excepción de ansia. Esta regla ortográfica engloba conceptos abstractos muy comunes para nosotros como la importancia vital, la gran paciencia o la tolerancia."
+  },
+  {
+    "intent_id": "reglas_basicas_ortografia_37",
+    "keywords": [
+      "letra",
+      "verbos",
+      "infinitivos",
+      "cer",
+      "escriben",
+      "terminan"
+    ],
+    "base_response": "Se escriben con la letra ce los verbos cuyos infinitivos terminan en cer y cir, excepto las acciones de toser y coser prendas. Esta norma gramatical agrupa acciones completamente habituales del español como agradecer favores, nacer sanos, decir verdades, conducir o traducir."
+  },
+  {
+    "intent_id": "reglas_basicas_ortografia_38",
+    "keywords": [
+      "adjetivos",
+      "sufijos",
+      "letra",
+      "regla",
+      "terminan",
+      "escriben"
+    ],
+    "base_response": "Los adjetivos calificativos que terminan en los sufijos oso u osa siempre se escriben con la letra ese. Esta regla forma palabras que indican gran abundancia o una cualidad específica, creando términos útiles para describir como perezoso, persona bondadosa, ruidoso o cariñosa."
+  },
+  {
+    "intent_id": "reglas_basicas_ortografia_39",
+    "keywords": [
+      "palabras",
+      "sufijo",
+      "nivel",
+      "adjetivos",
+      "terminan",
+      "forman"
+    ],
+    "base_response": "Las palabras que terminan en el sufijo ísimo o ísima, los cuales forman el nivel superlativo de los adjetivos, se escriben siempre con ese y llevan tilde. Algunos ejemplos de esto son expresiones que indican máxima intensidad como altísimo, buenísima o rapidísimo."
+  },
+  {
+    "intent_id": "reglas_basicas_ortografia_40",
+    "keywords": [
+      "plurales",
+      "palabras",
+      "singular",
+      "letra",
+      "terminan",
+      "forman"
+    ],
+    "base_response": "Los plurales de las palabras que en singular terminan con la letra zeta se forman siempre cambiando esa zeta por una ce y añadiendo es. Esta es una regla morfológica sumamente estricta e invariable; por ejemplo, pez cambia a peces rápidamente."
+  },
+  {
+    "intent_id": "reglas_basicas_ortografia_41",
+    "keywords": [
+      "letra",
+      "hache",
+      "palabras",
+      "diptongos",
+      "escriben",
+      "empiezan"
+    ],
+    "base_response": "Se escriben siempre con la letra hache inicial todas aquellas palabras que empiezan por los diptongos hia, hie, hue y hui. Esta regla ortográfica abarca términos muy frecuentes y cotidianos de nuestro idioma como hiato, barra de hierro, un buen huevo o huida."
+  },
+  {
+    "intent_id": "reglas_basicas_ortografia_42",
+    "keywords": [
+      "formas",
+      "verbos",
+      "haber",
+      "hache",
+      "hacer",
+      "hallar"
+    ],
+    "base_response": "Las formas verbales derivadas de los importantes verbos haber, hacer, hallar, hablar y habitar se escriben siempre con hache inicial. Esta norma afecta profundamente a la redacción correcta, dado que haber funciona como auxiliar indispensable para construir los útiles tiempos compuestos."
+  },
+  {
+    "intent_id": "reglas_basicas_ortografia_43",
+    "keywords": [
+      "letra",
+      "conjugacion",
+      "verbos",
+      "infinitivos",
+      "utiliza",
+      "contienen"
+    ],
+    "base_response": "Se utiliza la letra ye en la conjugación de aquellos verbos cuyos infinitivos no contienen ni ye ni elle, pero que presentan un sonido palatal. Por ejemplo, el verbo caer forma la variante cayó y el verbo leer forma la palabra leyó."
+  },
+  {
+    "intent_id": "reglas_basicas_ortografia_44",
+    "keywords": [
+      "palabras",
+      "sonidos",
+      "letra",
+      "final",
+      "escriben",
+      "incluyen"
+    ],
+    "base_response": "Las palabras terminadas en los sonidos ay, ey, oy, uy se escriben con la letra ye al final del vocablo. Ejemplos muy comunes de esta regla ortográfica incluyen términos verdaderamente cotidianos e inmensamente utilizados por todos nosotros como rey, hoy, muy o jersey."
+  },
+  {
+    "intent_id": "reglas_basicas_ortografia_45",
+    "keywords": [
+      "abstractos",
+      "sufijos",
+      "eza",
+      "letra",
+      "escriben",
+      "derivan"
+    ],
+    "base_response": "Los sustantivos abstractos terminados en los sufijos ez y eza se escriben siempre con la letra zeta final. Estos términos derivan habitualmente de adjetivos para designar cualidades o características especiales, como ocurre exactamente en las palabras timidez, belleza, enorme nobleza o rigidez."
+  },
+  {
+    "intent_id": "reglas_basicas_ortografia_46",
+    "keywords": [
+      "uso",
+      "parentesis",
+      "datos",
+      "fechas",
+      "sirve",
+      "intercalar"
+    ],
+    "base_response": "El uso de los paréntesis sirve principalmente para intercalar datos aclaratorios precisos, como fechas, lugares o el significado de siglas complejas. Esta valiosa herramienta de puntuación te ayuda a proporcionar contexto adicional al lector sin romper el sentido principal de tu oración."
+  },
+  {
+    "intent_id": "reglas_basicas_ortografia_47",
+    "keywords": [
+      "puntos",
+      "final",
+      "enumeraciones",
+      "elementos",
+      "utilizan",
+      "indicando"
+    ],
+    "base_response": "Los puntos suspensivos se utilizan al final de las enumeraciones abiertas o incompletas, indicando que existen más elementos posibles no mencionados. Son tres puntos continuos que también pueden reflejar duda, vacilación o crear un momento de gran suspenso en textos literarios narrativos."
+  },
+  {
+    "intent_id": "reglas_basicas_ortografia_48",
+    "keywords": [
+      "acento",
+      "fuerza",
+      "voz",
+      "silaba",
+      "pronuncia",
+      "escribe"
+    ],
+    "base_response": "El acento prosódico es la mayor fuerza de voz con la que se pronuncia una sílaba específica dentro de una palabra. A diferencia de la tilde gráfica, el acento prosódico no siempre se escribe, pero es absolutamente fundamental para hablar correctamente el idioma."
+  },
+  {
+    "intent_id": "reglas_basicas_ortografia_49",
+    "keywords": [
+      "coma",
+      "oracion",
+      "nombre",
+      "persona",
+      "emplea",
+      "separar"
+    ],
+    "base_response": "La coma vocativa se emplea para separar de la oración el nombre de la persona o entidad a la que nos dirigimos directamente. Por ejemplo, en la frase Hola, María, la pequeña coma es necesaria para que la oración tenga un sentido correcto."
+  },
+  {
+    "intent_id": "reglas_basicas_ortografia_50",
+    "keywords": [
+      "mayusculas",
+      "letra",
+      "festividades",
+      "civicas",
+      "utilizan",
+      "resaltar"
+    ],
+    "base_response": "Las mayúsculas se utilizan en la primera letra de las festividades religiosas, cívicas o nacionales para resaltar su inmensa importancia cultural y social. Escribimos con letra inicial mayúscula celebraciones oficiales como Navidad, el Día de la Independencia o también la solemne Semana Santa."
+  }
+]
