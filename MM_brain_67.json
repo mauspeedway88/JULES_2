@@ -1,0 +1,2031 @@
+[
+  {
+    "intent_id": "hello_vs_hi",
+    "keywords": [
+      "saludo",
+      "amigo",
+      "diferencia",
+      "contexto"
+    ],
+    "base_response": "La palabra 'hello' es un saludo estándar, mientras 'hi' es su versión más informal. Usar 'hi' es adecuado entre amigos, ya que muestra cercanía y confianza. Ambos significan 'hola', pero 'hi' es más común en situaciones casuales."
+  },
+  {
+    "intent_id": "hey_usage_friends",
+    "keywords": [
+      "saludo",
+      "informalidad",
+      "amigo",
+      "tono"
+    ],
+    "base_response": "El saludo 'hey' es muy informal y se usa entre amigos para mostrar cercanía y familiaridad. A menudo, refleja un tono relajado y amistoso, similar a decir '¡eh!' en español. Es ideal para mensajes de texto o conversaciones informales."
+  },
+  {
+    "intent_id": "whats_up_meaning",
+    "keywords": [
+      "saludo",
+      "pregunta",
+      "estado",
+      "amigo"
+    ],
+    "base_response": "La expresión 'what's up?' es un saludo informal que significa '¿qué pasa?' o '¿cómo va todo?'. No se espera una respuesta detallada, es más una forma de iniciar una conversación amistosa entre amigos. Es ideal para romper el hielo."
+  },
+  {
+    "intent_id": "yo_greeting_explanation",
+    "keywords": [
+      "saludo",
+      "cultura",
+      "juventud",
+      "amigo"
+    ],
+    "base_response": "El saludo 'yo' es extremadamente informal y se popularizó en la cultura juvenil. Es una forma relajada de llamar la atención de un amigo o iniciar una conversación. Aunque no tiene una traducción directa, se asemeja a un '¡hey!' o '¡oye!' en español."
+  },
+  {
+    "intent_id": "dude_in_greetings",
+    "keywords": [
+      "amigo",
+      "saludo",
+      "informalidad",
+      "contexto"
+    ],
+    "base_response": "Usar 'dude' al saludar, como en 'hey dude!', es común entre amigos cercanos. Implica un tono casual y relajado. Aunque 'dude' significa 'tipo' o 'tío', en este contexto denota camaradería y es ideal para conversaciones informales."
+  },
+  {
+    "intent_id": "sup_abbreviation_usage",
+    "keywords": [
+      "abreviacion",
+      "saludo",
+      "informalidad",
+      "amigo"
+    ],
+    "base_response": "La abreviación 'sup' es una forma aún más corta de 'what's up?'. Se utiliza principalmente en mensajes de texto o chats en línea entre amigos. Este saludo informal es rápido y amigable, perfecto para iniciar una conversación breve y casual."
+  },
+  {
+    "intent_id": "greetings_with_bro",
+    "keywords": [
+      "hermano",
+      "amigo",
+      "saludo",
+      "informalidad"
+    ],
+    "base_response": "Incorporar 'bro' en los saludos, como 'hey bro!', es común entre amigos. 'Bro' es una abreviatura de 'brother', usada para mostrar amistad y cercanía. Es adecuada para contextos informales, reflejando una relación cercana similar a 'hermano' en español."
+  },
+  {
+    "intent_id": "morning_vs_mornin",
+    "keywords": [
+      "saludo",
+      "abreviacion",
+      "mañana",
+      "amigo"
+    ],
+    "base_response": "Decir 'morning' en lugar de 'good morning' es una forma más corta e informal de saludar al iniciar el día. A menudo, se usa entre amigos y conocidos cercanos. Es equivalente a un 'buenas' en español, eliminando formalidades innecesarias."
+  },
+  {
+    "intent_id": "long_time_no_see_usage",
+    "keywords": [
+      "reencuentro",
+      "saludo",
+      "amigo",
+      "expresion"
+    ],
+    "base_response": "La expresión 'long time no see' se utiliza para saludar a alguien que no se ha visto en mucho tiempo. Es un saludo informal que muestra sorpresa y alegría al reencontrarse. Similar a '¡cuánto tiempo sin verte!' en español, es amigable y acogedor."
+  },
+  {
+    "intent_id": "catchy_phrase_howdy",
+    "keywords": [
+      "saludo",
+      "expresion",
+      "amigo",
+      "informalidad"
+    ],
+    "base_response": "'Howdy' es un saludo informal originario del sur de Estados Unidos. Similar a 'how do you do?', se usa amigablemente entre amigos y conocidos. Aunque suena más rural o cowboy, es una forma divertida de saludar, como decir '¿qué tal va?' en español."
+  },
+  {
+    "intent_id": "formal_greeting_good_morning_teacher",
+    "keywords": [
+      "saludo",
+      "respeto",
+      "profesor",
+      "hablar",
+      "presentacion"
+    ],
+    "base_response": "Esta frase en inglés permite saludar formalmente al profesor al iniciar el día. Los estudiantes muestran cortesía y establecen un ambiente positivo. Es útil para comenzar clases con orden y demostrar consideración hacia la autoridad escolar."
+  },
+  {
+    "intent_id": "polite_introduction_excuse_me_teacher",
+    "keywords": [
+      "cortesia",
+      "comunicacion",
+      "profesor",
+      "interaccion",
+      "expresion"
+    ],
+    "base_response": "Esta expresión en inglés ayuda a llamar la atención del profesor de manera respetuosa. Los estudiantes la usan para iniciar conversaciones formales sin interrumpir bruscamente. Facilita un ambiente ordenado y demuestra consideración hacia la persona que enseña."
+  },
+  {
+    "intent_id": "respectful_request_may_i_speak",
+    "keywords": [
+      "permiso",
+      "hablar",
+      "profesor",
+      "respeto",
+      "comunicacion"
+    ],
+    "base_response": "Esta frase en inglés permite pedir autorización antes de hablar en clase. Los estudiantes muestran disciplina y respeto hacia el profesor. Es útil para mantener el orden y asegurar que cada intervención sea apropiada dentro del entorno escolar."
+  },
+  {
+    "intent_id": "proper_farewell_have_a_nice_day",
+    "keywords": [
+      "despedida",
+      "profesor",
+      "saludo",
+      "respeto",
+      "comunicacion"
+    ],
+    "base_response": "Esta frase en inglés permite despedirse del profesor de manera amable y formal. Los estudiantes la usan al finalizar clases o encuentros. Ayuda a mantener relaciones positivas y demuestra consideración hacia la persona que guía su aprendizaje."
+  },
+  {
+    "intent_id": "polite_entry_may_i_come_in",
+    "keywords": [
+      "permiso",
+      "entrada",
+      "profesor",
+      "respeto",
+      "comunicacion"
+    ],
+    "base_response": "Esta frase en inglés se utiliza para pedir permiso antes de entrar al aula. Los estudiantes demuestran disciplina y consideración hacia el profesor. Es esencial para mantener normas claras y fomentar un ambiente escolar ordenado y respetuoso."
+  },
+  {
+    "intent_id": "respectful_acknowledgment_yes_teacher",
+    "keywords": [
+      "respuesta",
+      "profesor",
+      "respeto",
+      "comunicacion",
+      "disciplina"
+    ],
+    "base_response": "Esta frase en inglés se usa para responder formalmente al profesor. Los estudiantes muestran atención y disposición para seguir instrucciones. Es útil para mantener claridad en la comunicación y reforzar el respeto hacia la autoridad educativa."
+  },
+  {
+    "intent_id": "quick_goodbye_handshake",
+    "keywords": [
+      "despedida",
+      "recreo",
+      "apreton",
+      "mano",
+      "rapido"
+    ],
+    "base_response": "Aprender a decir adiós rápido con un apretón de manos es útil. Enseña a los niños a ser corteses y a mantener el contacto visual mientras dicen 'See you later' en inglés. Es una forma breve y educada de despedirse durante el recreo."
+  },
+  {
+    "intent_id": "wave_and_go",
+    "keywords": [
+      "despedida",
+      "ola",
+      "ir",
+      "recreo",
+      "rapido"
+    ],
+    "base_response": "La técnica de despedirse agitando la mano es eficaz y rápida. Enseña a los estudiantes a decir 'Bye!' mientras se alejan. Este gesto simple y educado es ideal para momentos en que el tiempo es limitado durante el recreo."
+  },
+  {
+    "intent_id": "see_you_soon_phrase",
+    "keywords": [
+      "frase",
+      "ver",
+      "pronto",
+      "recreo",
+      "despedida"
+    ],
+    "base_response": "Usar 'See you soon!' es una forma amigable de despedirse. Esta frase en inglés transmite la expectativa de volver a ver a alguien pronto. Ideal para estudiantes que desean mostrar aprecio y mantener la conexión durante el recreo."
+  },
+  {
+    "intent_id": "peace_sign_goodbye",
+    "keywords": [
+      "despedida",
+      "signo",
+      "paz",
+      "recreo",
+      "rapido"
+    ],
+    "base_response": "El signo de paz es un gesto de despedida visual y rápido. Al decir 'Later!' mientras lo hacen, los estudiantes combinan comunicación verbal y no verbal. Es una forma relajada de decir adiós durante el recreo, fomentando la paz y la amistad."
+  },
+  {
+    "intent_id": "thumbs_up_farewell",
+    "keywords": [
+      "despedida",
+      "pulgar",
+      "arriba",
+      "recreo",
+      "rapido"
+    ],
+    "base_response": "El gesto de pulgar arriba es una despedida positiva. Al decir 'Catch you later' en inglés, expresa aprobación y promueve un ambiente optimista. Ideal para estudiantes que desean una despedida rápida y amigable durante el recreo."
+  },
+  {
+    "intent_id": "high_five_bye",
+    "keywords": [
+      "despedida",
+      "choque",
+      "cinco",
+      "mano",
+      "recreo"
+    ],
+    "base_response": "Chocar los cinco es una forma enérgica de despedirse. Al decir 'See you!' en inglés, los estudiantes expresan entusiasmo y amistad. Este gesto fomenta la interacción positiva y es perfecto para una despedida rápida y divertida durante el recreo."
+  },
+  {
+    "intent_id": "backwards_walk_wave",
+    "keywords": [
+      "despedida",
+      "caminar",
+      "espalda",
+      "ola",
+      "recreo"
+    ],
+    "base_response": "Caminar hacia atrás mientras se despide con la mano es creativo. Los estudiantes pueden decir 'Catch you!' en inglés, combinando movimiento y comunicación. Es una forma divertida y única de despedirse durante el recreo, fomentando la expresión personal."
+  },
+  {
+    "intent_id": "smile_and_go",
+    "keywords": [
+      "despedida",
+      "sonrisa",
+      "ir",
+      "recreo",
+      "rapido"
+    ],
+    "base_response": "Sonreír mientras se dice 'Bye now!' es una despedida cálida y rápida. Fomenta el positivismo y deja una buena impresión. Es ideal para estudiantes que desean despedirse rápidamente sin perder la amabilidad durante el recreo."
+  },
+  {
+    "intent_id": "finger_guns_farewell",
+    "keywords": [
+      "despedida",
+      "dedo",
+      "pistola",
+      "recreo",
+      "rapido"
+    ],
+    "base_response": "Usar pistolas de dedo y decir 'Later!' es una despedida desenfadada. Promueve la creatividad y la diversión. Es una forma rápida y visual para que los estudiantes muestren camaradería y estilo mientras se despiden durante el recreo."
+  },
+  {
+    "intent_id": "formal_goodbye_closure",
+    "keywords": [
+      "despedida",
+      "clase",
+      "saludo",
+      "practica",
+      "uso"
+    ],
+    "base_response": "En ingles, la frase formal “Goodbye, everyone” se emplea para cerrar la clase con respeto. Los estudiantes deben usarla cuando termina la actividad y desean mostrar cortesía. Practicarla ayuda a fortalecer habilidades comunicativas y hábitos adecuados en contextos escolares."
+  },
+  {
+    "intent_id": "polite_end_of_lesson",
+    "keywords": [
+      "frase",
+      "cierre",
+      "clase",
+      "respeto",
+      "comunicacion"
+    ],
+    "base_response": "La expresion “Have a great day” se utiliza al finalizar la clase para transmitir buenos deseos. Enseñar esta frase permite a los estudiantes comunicarse con amabilidad y reforzar la importancia de despedirse correctamente en situaciones formales dentro del entorno escolar."
+  },
+  {
+    "intent_id": "teacher_farewell_phrase",
+    "keywords": [
+      "salida",
+      "clase",
+      "frase",
+      "practica",
+      "comportamiento"
+    ],
+    "base_response": "La frase “See you next time” se usa para indicar que la clase ha terminado y que habra otro encuentro. Los estudiantes aprenden a emplearla para mostrar orden y respeto, fortaleciendo su capacidad de comunicarse adecuadamente en contextos formales educativos."
+  },
+  {
+    "intent_id": "closing_with_gratitude",
+    "keywords": [
+      "agradecimiento",
+      "clase",
+      "expresion",
+      "respeto",
+      "participacion"
+    ],
+    "base_response": "La frase “Thank you for your attention” se emplea al cerrar la clase para reconocer la participacion. Los estudiantes aprenden a usarla cuando desean mostrar gratitud y cortesía, reforzando habilidades comunicativas formales que favorecen ambientes escolares respetuosos y organizados."
+  },
+  {
+    "intent_id": "formal_class_dismissal",
+    "keywords": [
+      "despedida",
+      "orden",
+      "clase",
+      "frase",
+      "comunicacion"
+    ],
+    "base_response": "La expresion “Class is dismissed” se utiliza para indicar formalmente el final de la clase. Los estudiantes deben comprender su uso para reconocer instrucciones claras y responder con respeto, fortaleciendo la comunicacion adecuada en situaciones escolares estructuradas y formales."
+  },
+  {
+    "intent_id": "respectful_end_statement",
+    "keywords": [
+      "frase",
+      "respeto",
+      "clase",
+      "cierre",
+      "comunicacion"
+    ],
+    "base_response": "La frase “It was nice working with you” se emplea para cerrar la clase con cortesía. Los estudiantes aprenden a usarla cuando desean expresar respeto y reconocimiento hacia sus compañeros, reforzando habilidades comunicativas formales en contextos educativos colaborativos."
+  },
+  {
+    "intent_id": "farewell_with_encouragement",
+    "keywords": [
+      "motivacion",
+      "clase",
+      "frase",
+      "practica",
+      "comunicacion"
+    ],
+    "base_response": "La expresion “Keep up the good work” se usa al finalizar la clase para motivar a los estudiantes. Enseñar su uso ayuda a reforzar la importancia de despedirse con mensajes positivos, fortaleciendo la comunicacion formal y el ambiente escolar constructivo."
+  },
+  {
+    "intent_id": "formal_end_transition",
+    "keywords": [
+      "transicion",
+      "clase",
+      "frase",
+      "uso",
+      "comunicacion"
+    ],
+    "base_response": "La frase “Let’s wrap up for today” se utiliza para indicar que la clase esta llegando a su fin. Los estudiantes aprenden a reconocerla como señal de cierre y a emplearla en contextos formales, mejorando su capacidad de comunicacion organizada y respetuosa."
+  },
+  {
+    "intent_id": "closing_with_future_note",
+    "keywords": [
+      "clase",
+      "frase",
+      "continuidad",
+      "comunicacion",
+      "practica"
+    ],
+    "base_response": "La expresion “I look forward to our next lesson” se usa para cerrar la clase mostrando interes en continuar aprendiendo. Los estudiantes comprenden su uso para expresar motivacion y respeto, fortaleciendo habilidades comunicativas formales dentro del entorno escolar."
+  },
+  {
+    "intent_id": "end_of_class_politeness",
+    "keywords": [
+      "cortesia",
+      "clase",
+      "frase",
+      "salida",
+      "comunicacion"
+    ],
+    "base_response": "La frase “Please gather your things” se emplea al finalizar la clase para indicar una despedida organizada. Los estudiantes aprenden a reconocerla como instruccion formal y a usarla para mantener orden, reforzando habilidades comunicativas adecuadas en ambientes educativos."
+  },
+  {
+    "intent_id": "fin_semana_divertido",
+    "keywords": [
+      "fin",
+      "semana",
+      "diversion",
+      "deseo"
+    ],
+    "base_response": "Para desear un buen fin de semana en inglés, usa 'Have a fun weekend!'. Esto anima a tus compañeros a disfrutar de actividades recreativas. La palabra 'fun' se refiere a la diversión y es ideal para cerrar la semana con un tono positivo."
+  },
+  {
+    "intent_id": "fin_semana_relajado",
+    "keywords": [
+      "fin",
+      "semana",
+      "relajacion",
+      "deseo"
+    ],
+    "base_response": "Puedes decir 'Have a relaxing weekend!' para desear a tus compañeros un fin de semana tranquilo. 'Relaxing' implica descanso y paz, perfecto para después de una semana ocupada. Esta frase sugiere tomarse un tiempo para relajarse."
+  },
+  {
+    "intent_id": "fin_semana_seguro",
+    "keywords": [
+      "fin",
+      "semana",
+      "seguridad",
+      "deseo"
+    ],
+    "base_response": "Para desear seguridad, di 'Have a safe weekend!'. La palabra 'safe' enfatiza la importancia de cuidarse y evitar peligros. Es un deseo considerado que muestra preocupación por el bienestar de tus compañeros durante el fin de semana."
+  },
+  {
+    "intent_id": "presentacion_nombre_edad_basica",
+    "keywords": [
+      "presentacion",
+      "nombre",
+      "edad",
+      "aprender"
+    ],
+    "base_response": "Este concepto explica como usar frases simples en ingles para decir tu nombre y edad. Los estudiantes practican expresiones como “My name is…” y “I am … years old” para presentarse claramente y ganar confianza al iniciar conversaciones cotidianas."
+  },
+  {
+    "intent_id": "uso_de_my_name_is",
+    "keywords": [
+      "frase",
+      "presentar",
+      "hablar",
+      "identificar"
+    ],
+    "base_response": "Este concepto enseña la frase “My name is…” para que los estudiantes puedan presentarse de manera clara. Se practica su pronunciacion y se explica como usarla en situaciones comunes, ayudando a desarrollar seguridad al compartir informacion personal basica."
+  },
+  {
+    "intent_id": "expresion_i_am_years_old",
+    "keywords": [
+      "expresar",
+      "edad",
+      "comunicar",
+      "practicar"
+    ],
+    "base_response": "Este concepto muestra como decir la edad usando “I am … years old”. Los estudiantes comprenden la estructura y practican ejemplos variados, fortaleciendo su habilidad para compartir datos personales esenciales en conversaciones sencillas en ingles."
+  },
+  {
+    "intent_id": "introducir_nacionalidad_basica",
+    "keywords": [
+      "origen",
+      "pais",
+      "procedencia",
+      "nacionalidad"
+    ],
+    "base_response": "Para decir de dónde eres en inglés, usa \"I am from\" seguido del país. Por ejemplo, \"I am from Spain\". Es una forma sencilla de compartir tu nacionalidad con otras personas. Esto ayuda a iniciar conversaciones."
+  },
+  {
+    "intent_id": "usar_pregunta_origen",
+    "keywords": [
+      "preguntar",
+      "origen",
+      "nacionalidad",
+      "procedencia"
+    ],
+    "base_response": "Para preguntar el origen de alguien en inglés, usa \"Where are you from?\". Esta pregunta es común cuando conoces a alguien nuevo. Permite descubrir más sobre su historia y cultura, fomentando la curiosidad y el respeto."
+  },
+  {
+    "intent_id": "presentar_nombre_amigo",
+    "keywords": [
+      "presentacion",
+      "amigo",
+      "grupo",
+      "hablar",
+      "decir"
+    ],
+    "base_response": "Este concepto explica como usar frases en ingles para decir el nombre de un amigo ante un grupo. Los estudiantes aprenden a iniciar la presentacion con expresiones simples que ayudan a comunicar seguridad y claridad al compartir informacion personal basica."
+  },
+  {
+    "intent_id": "describir_gustos_amigo",
+    "keywords": [
+      "describir",
+      "gustos",
+      "amigo",
+      "expresar",
+      "compartir"
+    ],
+    "base_response": "Este concepto enseña a usar frases en ingles para mencionar los gustos de un amigo al presentarlo. Los estudiantes practican expresiones que permiten compartir intereses de manera clara, mostrando respeto y ayudando al grupo a conocer mejor a la persona presentada."
+  },
+  {
+    "intent_id": "explicar_relacion_amigo",
+    "keywords": [
+      "explicar",
+      "relacion",
+      "amigo",
+      "conocer",
+      "hablar"
+    ],
+    "base_response": "Este concepto muestra como usar frases en ingles para explicar la relacion con un amigo durante una presentacion. Los estudiantes aprenden a expresar cuanto tiempo llevan conociendolo y a comunicar detalles que fortalecen la confianza del grupo al escucharlos."
+  },
+  {
+    "intent_id": "destacar_habilidades_amigo",
+    "keywords": [
+      "destacar",
+      "habilidades",
+      "amigo",
+      "mencionar",
+      "presentar"
+    ],
+    "base_response": "Este concepto enseña a usar frases en ingles para destacar habilidades de un amigo al presentarlo. Los estudiantes practican mencionar talentos de manera positiva, ayudando al grupo a comprender mejor sus capacidades y fomentando un ambiente de respeto y valoracion."
+  },
+  {
+    "intent_id": "invitar_amigo_hablar",
+    "keywords": [
+      "invitar",
+      "hablar",
+      "amigo",
+      "participar",
+      "comunicar"
+    ],
+    "base_response": "Este concepto explica como usar frases en ingles para invitar a un amigo a hablar ante un grupo. Los estudiantes aprenden expresiones que permiten dar paso a la voz del compañero, promoviendo la participacion y mostrando cortesía durante la presentacion."
+  },
+  {
+    "intent_id": "usar_frases_cortesia",
+    "keywords": [
+      "usar",
+      "frases",
+      "cortesia",
+      "presentar",
+      "amigo"
+    ],
+    "base_response": "Este concepto enseña a emplear frases de cortesia en ingles al presentar a un amigo. Los estudiantes practican expresiones que transmiten respeto y amabilidad, creando un ambiente positivo mientras comparten informacion sobre la persona presentada."
+  },
+  {
+    "intent_id": "organizar_informacion_presentacion",
+    "keywords": [
+      "organizar",
+      "informacion",
+      "presentacion",
+      "amigo",
+      "hablar"
+    ],
+    "base_response": "Este concepto explica como organizar la informacion en ingles al presentar a un amigo. Los estudiantes aprenden a estructurar datos como nombre, gustos y habilidades, logrando una presentacion clara que facilita la comprension del grupo."
+  },
+  {
+    "intent_id": "usar_tono_positivo_presentacion",
+    "keywords": [
+      "usar",
+      "tono",
+      "positivo",
+      "presentacion",
+      "amigo"
+    ],
+    "base_response": "Este concepto enseña a emplear un tono positivo en ingles al presentar a un amigo. Los estudiantes practican expresiones que transmiten entusiasmo y respeto, ayudando al grupo a recibir la informacion con interes y buena disposicion."
+  },
+  {
+    "intent_id": "cerrar_presentacion_amigo",
+    "keywords": [
+      "cerrar",
+      "presentacion",
+      "amigo",
+      "agradecer",
+      "hablar"
+    ],
+    "base_response": "Este concepto explica como cerrar una presentacion en ingles sobre un amigo. Los estudiantes aprenden frases para agradecer la atencion del grupo y finalizar de manera clara, reforzando la confianza al comunicarse en situaciones sociales."
+  },
+  {
+    "intent_id": "conectar_amigo_grupo",
+    "keywords": [
+      "conectar",
+      "amigo",
+      "grupo",
+      "presentar",
+      "comunicar"
+    ],
+    "base_response": "Este concepto enseña a usar frases en ingles que ayudan a conectar a un amigo con el grupo. Los estudiantes practican expresiones que facilitan la integracion, permitiendo que todos se sientan incluidos y preparados para interactuar positivamente."
+  },
+  {
+    "intent_id": "ask_for_bathroom_location",
+    "keywords": [
+      "pregunta",
+      "direccion",
+      "baño",
+      "buscar"
+    ],
+    "base_response": "En inglés, puedes usar la frase “Where is the bathroom?” para solicitar indicaciones. Es útil en escuelas o lugares públicos. Practicarla ayuda a estudiantes a comunicarse con seguridad cuando necesitan encontrar el baño rápidamente en situaciones cotidianas."
+  },
+  {
+    "intent_id": "request_bathroom_help",
+    "keywords": [
+      "ayuda",
+      "necesitar",
+      "baño",
+      "preguntar"
+    ],
+    "base_response": "La expresión “Can you help me find the bathroom?” permite pedir apoyo de manera amable. Enseñar esta frase ayuda a estudiantes a comunicarse con respeto y claridad cuando requieren orientación para ubicar el baño en espacios desconocidos."
+  },
+  {
+    "intent_id": "bathroom_direction_phrase",
+    "keywords": [
+      "buscar",
+      "baño",
+      "caminar",
+      "preguntar"
+    ],
+    "base_response": "La frase “How do I get to the bathroom?” sirve para pedir instrucciones más detalladas. Explicar su uso permite que los estudiantes comprendan cómo solicitar direcciones claras cuando necesitan llegar al baño en lugares nuevos."
+  },
+  {
+    "intent_id": "find_restroom_quickly",
+    "keywords": [
+      "buscar",
+      "baño",
+      "mover",
+      "preguntar"
+    ],
+    "base_response": "La frase “I need to find the bathroom, please” comunica urgencia con respeto. Enseñar su uso ayuda a estudiantes a expresar necesidad inmediata mientras mantienen un tono amable al pedir indicaciones para llegar al baño."
+  },
+  {
+    "intent_id": "preguntar_ubicacion_clase",
+    "keywords": [
+      "pregunta",
+      "direccion",
+      "buscar",
+      "caminar",
+      "salon"
+    ],
+    "base_response": "Este concepto enseña a usar frases en inglés como “Where is the classroom?” para solicitar ubicaciones dentro de la escuela. Los estudiantes practican expresiones simples que les permiten orientarse y llegar con seguridad al salón correcto."
+  },
+  {
+    "intent_id": "confirmar_ruta_correcta",
+    "keywords": [
+      "confirmacion",
+      "ruta",
+      "caminar",
+      "giro",
+      "salon"
+    ],
+    "base_response": "Este concepto explica cómo usar frases en inglés como “Is this the right way?” para verificar la ruta hacia un salón. Los estudiantes aprenden a confirmar direcciones y evitar confusiones mientras se desplazan por la escuela."
+  },
+  {
+    "intent_id": "agradecimiento_por_direccion_clara",
+    "keywords": [
+      "agradecer",
+      "recibir",
+      "direccion",
+      "caminar",
+      "buscar"
+    ],
+    "base_response": "Esta expresion en ingles se usa para agradecer cuando alguien ofrece indicaciones claras. Los estudiantes pueden emplearla despues de recibir ayuda para encontrar un lugar. Practicarla mejora la cortesia y refuerza la importancia de reconocer la colaboracion recibida."
+  },
+  {
+    "intent_id": "gratitud_por_indicaciones_amables",
+    "keywords": [
+      "agradecer",
+      "indicar",
+      "ayudar",
+      "caminar",
+      "seguir"
+    ],
+    "base_response": "Esta frase en ingles se usa para mostrar gratitud por indicaciones amables que facilitan una tarea. Los estudiantes pueden aplicarla cuando reciben instrucciones utiles. Practicarla fortalece la cortesia y demuestra aprecio por la ayuda brindada."
+  },
+  {
+    "intent_id": "expresar_prefencia_comida",
+    "keywords": [
+      "comida",
+      "gustar",
+      "expresar",
+      "preferencia"
+    ],
+    "base_response": "Para expresar que algo te gusta puedes decir 'I like this food'. Es importante usar el verbo 'like' para indicar que un alimento es de tu agrado. Practica diciendo qué comidas escolares te gustan más."
+  },
+  {
+    "intent_id": "preferencia_futbol",
+    "keywords": [
+      "futbol",
+      "jugar",
+      "gusto",
+      "recreo",
+      "deporte"
+    ],
+    "base_response": "Para expresar en inglés que te gusta jugar fútbol en el recreo, puedes decir 'I like playing soccer during recess'. Esta frase indica tu preferencia por este deporte y cuándo te gusta practicarlo, usando 'like' para expresar el gusto."
+  },
+  {
+    "intent_id": "favorito_basketball",
+    "keywords": [
+      "baloncesto",
+      "favorito",
+      "practicar",
+      "actividad",
+      "recreo"
+    ],
+    "base_response": "Si el baloncesto es tu actividad favorita en el recreo, puedes decir 'Basketball is my favorite activity at recess'. Usar 'favorite' muestra tu preferencia por este deporte en particular sobre otras opciones disponibles durante el recreo escolar."
+  },
+  {
+    "intent_id": "disfrutar_baseball",
+    "keywords": [
+      "beisbol",
+      "disfrutar",
+      "jugar",
+      "recreo",
+      "deporte"
+    ],
+    "base_response": "Para expresar que disfrutas jugando béisbol, di 'I enjoy playing baseball during recess'. 'Enjoy' es un verbo que se usa para expresar placer o diversión en una actividad, y aquí se aplica al béisbol en el recreo."
+  },
+  {
+    "intent_id": "amor_volleyball",
+    "keywords": [
+      "voleibol",
+      "amor",
+      "deporte",
+      "jugar",
+      "recreo"
+    ],
+    "base_response": "Si amas el voleibol, puedes decir 'I love playing volleyball at recess'. Aquí, 'love' expresa un sentimiento fuerte de agrado o pasión por este deporte específico, mostrando cuánto te gusta practicarlo en tu tiempo libre escolar."
+  },
+  {
+    "intent_id": "interesado_hockey",
+    "keywords": [
+      "hockey",
+      "interes",
+      "jugar",
+      "recreo",
+      "deporte"
+    ],
+    "base_response": "Para expresar interés en hockey durante el recreo, di 'I'm interested in playing hockey at recess'. El verbo 'interested' indica que tienes curiosidad o deseo de participar en esta actividad específica durante tu tiempo libre en la escuela."
+  },
+  {
+    "intent_id": "apasionado_tenis",
+    "keywords": [
+      "tenis",
+      "apasionado",
+      "jugar",
+      "recreo",
+      "deporte"
+    ],
+    "base_response": "Expresar que eres apasionado por el tenis se dice con 'I'm passionate about playing tennis at recess'. 'Passionate' muestra un nivel intenso de interés y emoción por jugar tenis, destacando tu fuerte conexión con el deporte."
+  },
+  {
+    "intent_id": "interes_frisbee",
+    "keywords": [
+      "frisbee",
+      "interes",
+      "jugar",
+      "recreo",
+      "deporte"
+    ],
+    "base_response": "Puedes indicar interés en jugar frisbee diciendo 'I'm interested in playing frisbee at recess'. Esta frase usa 'interested' para mostrar que tienes curiosidad o deseo de jugar frisbee, destacando tu afinidad por esta actividad lúdica."
+  },
+  {
+    "intent_id": "gusto_corrida",
+    "keywords": [
+      "correr",
+      "gusto",
+      "actividad",
+      "recreo",
+      "deporte"
+    ],
+    "base_response": "Para expresar que te gusta correr, di 'I like running during recess'. 'Like' es un verbo que indica tu agrado por una actividad. Aquí, muestra que disfrutas correr como una opción saludable y divertida en el recreo escolar."
+  },
+  {
+    "intent_id": "aficion_gimnasia",
+    "keywords": [
+      "gimnasia",
+      "aficion",
+      "practicar",
+      "recreo",
+      "deporte"
+    ],
+    "base_response": "Para expresar afición por la gimnasia, usa 'I'm fond of practicing gymnastics at recess'. 'Fond of' es una expresión que muestra agrado o interés. Indica que la gimnasia es una actividad que disfrutas durante el recreo escolar."
+  },
+  {
+    "intent_id": "quejarse_del_frio",
+    "keywords": [
+      "frio",
+      "queja",
+      "clima",
+      "expresion",
+      "disgusto"
+    ],
+    "base_response": "Este concepto enseña a usar frases en inglés para mostrar molestia por el clima frío. Los estudiantes aprenden expresiones simples como “I hate the cold” y comprenden cuándo emplearlas en conversaciones cotidianas para comunicar incomodidad de manera clara y respetuosa."
+  },
+  {
+    "intent_id": "rechazar_lluvia_constante",
+    "keywords": [
+      "lluvia",
+      "rechazo",
+      "clima",
+      "molestia",
+      "expresion"
+    ],
+    "base_response": "Este concepto explica cómo expresar disgusto por la lluvia usando frases en inglés como “I can’t stand the rain.” Los estudiantes practican situaciones reales y aprenden a comunicar incomodidad sin sonar groseros, fortaleciendo su habilidad conversacional con ejemplos claros y útiles."
+  },
+  {
+    "intent_id": "expresar_frustracion_climatica",
+    "keywords": [
+      "frustracion",
+      "clima",
+      "frio",
+      "lluvia",
+      "expresion"
+    ],
+    "base_response": "Este concepto enseña a manifestar frustración por el clima frío o lluvioso usando frases como “This weather is awful.” Los estudiantes comprenden el tono adecuado y practican cómo integrarlo en conversaciones naturales para expresar emociones de manera respetuosa y efectiva."
+  },
+  {
+    "intent_id": "mostrar_incomodidad_por_frio",
+    "keywords": [
+      "incomodidad",
+      "frio",
+      "clima",
+      "expresion",
+      "queja"
+    ],
+    "base_response": "Este concepto ayuda a los estudiantes a expresar incomodidad por el frío usando frases como “I feel miserable in this cold.” Se explica el contexto apropiado y se practican ejemplos para mejorar la comunicación emocional en inglés de forma clara y segura."
+  },
+  {
+    "intent_id": "comentar_lluvia_molesta",
+    "keywords": [
+      "lluvia",
+      "comentario",
+      "molestia",
+      "clima",
+      "expresion"
+    ],
+    "base_response": "Este concepto enseña a comentar la molestia causada por la lluvia con frases como “This rain is so annoying.” Los estudiantes aprenden cuándo usar estas expresiones y cómo integrarlas en conversaciones reales para comunicar sentimientos de manera adecuada."
+  },
+  {
+    "intent_id": "expresar_cansancio_del_clima",
+    "keywords": [
+      "cansancio",
+      "clima",
+      "frio",
+      "lluvia",
+      "expresion"
+    ],
+    "base_response": "Este concepto muestra cómo expresar cansancio por el clima frío o lluvioso usando frases como “I’m tired of this weather.” Los estudiantes practican situaciones reales y aprenden a comunicar emociones de forma clara y respetuosa en inglés conversacional."
+  },
+  {
+    "intent_id": "rechazar_temperaturas_bajas",
+    "keywords": [
+      "temperatura",
+      "rechazo",
+      "frio",
+      "clima",
+      "expresion"
+    ],
+    "base_response": "Este concepto enseña a rechazar temperaturas bajas con frases como “I really dislike the cold.” Los estudiantes comprenden el tono adecuado y practican cómo expresar incomodidad en inglés sin sonar agresivos, fortaleciendo su comunicación cotidiana."
+  },
+  {
+    "intent_id": "quejarse_de_dias_lluviosos",
+    "keywords": [
+      "queja",
+      "lluvia",
+      "clima",
+      "molestia",
+      "expresion"
+    ],
+    "base_response": "Este concepto explica cómo quejarse de días lluviosos usando frases como “Rainy days bother me.” Los estudiantes practican ejemplos y aprenden a expresar emociones en inglés de manera clara, respetuosa y útil para conversaciones reales."
+  },
+  {
+    "intent_id": "mostrar_desagrado_por_clima_humedo",
+    "keywords": [
+      "desagrado",
+      "clima",
+      "humedad",
+      "lluvia",
+      "expresion"
+    ],
+    "base_response": "Este concepto enseña a mostrar desagrado por el clima húmedo o lluvioso usando frases como “I hate this damp weather.” Los estudiantes aprenden el contexto adecuado y practican cómo expresar incomodidad en inglés de forma natural."
+  },
+  {
+    "intent_id": "boring_class",
+    "keywords": [
+      "clase",
+      "aburrimiento",
+      "escuela",
+      "profesor",
+      "estudiante"
+    ],
+    "base_response": "La frase 'This class is so boring' es utilizada para expresar desinterés o aburrimiento durante una clase. Los estudiantes pueden sentir que el contenido no es lo suficientemente interesante o atractivo para captar su atención."
+  },
+  {
+    "intent_id": "dull_subject",
+    "keywords": [
+      "materia",
+      "escuela",
+      "aburrimiento",
+      "profesor",
+      "clase"
+    ],
+    "base_response": "La frase 'This subject is dull' se utiliza para expresar falta de interés en una materia escolar específica. Los estudiantes pueden sentir que el contenido no es relevante o que el profesor no lo presenta de manera atractiva."
+  },
+  {
+    "intent_id": "frustrating_exercise",
+    "keywords": [
+      "ejercicio",
+      "escuela",
+      "frustracion",
+      "aburrimiento",
+      "tarea"
+    ],
+    "base_response": "Al decir 'This exercise is frustrating', los estudiantes manifiestan su descontento con una tarea que consideran compleja o confusa. Puede surgir cuando las instrucciones no son claras o el tema es difícil de entender inicialmente."
+  },
+  {
+    "intent_id": "tedious_reading",
+    "keywords": [
+      "lectura",
+      "libro",
+      "aburrimiento",
+      "escuela",
+      "tarea"
+    ],
+    "base_response": "La expresión 'Reading this book is tedious' indica que el estudiante encuentra la lectura poco interesante y larga. Esto puede deberse a que el tema no es de su agrado o que el libro no logra captar su atención adecuadamente."
+  },
+  {
+    "intent_id": "uninteresting_project",
+    "keywords": [
+      "proyecto",
+      "escuela",
+      "aburrimiento",
+      "trabajo",
+      "tarea"
+    ],
+    "base_response": "Decir 'This project is uninteresting' refleja la falta de motivación hacia un proyecto escolar. Los estudiantes pueden pensar que el tema no es estimulante o que no tienen la libertad creativa que desearían para trabajar en él."
+  },
+  {
+    "intent_id": "unexciting_presentation",
+    "keywords": [
+      "presentacion",
+      "clase",
+      "aburrimiento",
+      "trabajo",
+      "tarea"
+    ],
+    "base_response": "La frase 'Giving presentations is unexciting' expresa el desagrado de los estudiantes hacia presentar en público. Puede ser por nervios o porque no sienten que el contenido sea lo suficientemente atractivo para compartirlo con sus compañeros."
+  },
+  {
+    "intent_id": "discover_similar_interests",
+    "keywords": [
+      "descubrir",
+      "intereses",
+      "similares",
+      "compartir"
+    ],
+    "base_response": "Para preguntar si alguien comparte tus gustos, usa 'Do you like...?' Es importante descubrir intereses similares para crear amistades. Esta frase ayuda a encontrar puntos en común y así fortalecer la comunicación entre compañeros."
+  },
+  {
+    "intent_id": "share_common_hobbies",
+    "keywords": [
+      "compartir",
+      "hobbies",
+      "comunes",
+      "intereses"
+    ],
+    "base_response": "La frase 'We both like...' ayuda a expresar intereses comunes. Compartir hobbies con compañeros puede fortalecer relaciones. Esta afirmación muestra que tienen gustos similares, lo cual es excelente para crear lazos más fuertes."
+  },
+  {
+    "intent_id": "invite_to_join",
+    "keywords": [
+      "invitar",
+      "unirse",
+      "actividad",
+      "grupo"
+    ],
+    "base_response": "Invita a otros a unirse a una actividad diciendo 'Would you like to join us?' Es una manera amable de incluir a alguien y compartir intereses comunes, fortaleciendo así el sentido de pertenencia en el grupo."
+  },
+  {
+    "intent_id": "express_dislike_politely",
+    "keywords": [
+      "expresar",
+      "desagrado",
+      "educadamente",
+      "opinion"
+    ],
+    "base_response": "Para expresar desagrado de manera educada, usa 'I'm not a big fan of...' Esto muestra respeto por los gustos de otros mientras compartes tu propia opinión. Es una forma de mantener un diálogo amigable y respetuoso."
+  },
+  {
+    "intent_id": "recommend_favorite_books",
+    "keywords": [
+      "recomendar",
+      "libros",
+      "favoritos",
+      "lectura"
+    ],
+    "base_response": "Usa 'I recommend this book...' para compartir tus lecturas favoritas. Recomendar libros es una excelente forma de conectar con otros que comparten tus intereses en literatura, abriendo la puerta a conversaciones más profundas."
+  },
+  {
+    "intent_id": "alistar_mis_utiles",
+    "keywords": [
+      "alistar",
+      "utiles",
+      "mochila",
+      "colegio",
+      "preparar"
+    ],
+    "base_response": "En inglés, puedes decir 'I pack my backpack'. Esta frase describe la acción de preparar y organizar tus útiles escolares en la mochila. Es una parte importante de la rutina matutina antes de ir al colegio."
+  },
+  {
+    "intent_id": "desayunar_rapido",
+    "keywords": [
+      "desayunar",
+      "rapido",
+      "comida",
+      "mañana",
+      "energia"
+    ],
+    "base_response": "La expresión 'I have a quick breakfast' en inglés indica que desayunas rápidamente antes de ir al colegio. Es fundamental para tener energía y concentración durante el día escolar. La palabra 'quick' enfatiza que es un desayuno veloz."
+  },
+  {
+    "intent_id": "lavar_mis_dientes",
+    "keywords": [
+      "lavar",
+      "dientes",
+      "higiene",
+      "cepillo",
+      "pasta"
+    ],
+    "base_response": "La frase 'I brush my teeth' se usa en inglés para describir la acción de lavarse los dientes. Es una parte esencial de la higiene personal diaria, especialmente importante antes de salir al colegio por la mañana."
+  },
+  {
+    "intent_id": "vestirme_para_colegio",
+    "keywords": [
+      "vestir",
+      "ropa",
+      "uniforme",
+      "colegio",
+      "mañana"
+    ],
+    "base_response": "En inglés, 'I get dressed for school' significa que te pones la ropa adecuada o el uniforme para asistir al colegio. Es una rutina matutina esencial que te prepara para el día escolar."
+  },
+  {
+    "intent_id": "revisar_mi_horario",
+    "keywords": [
+      "revisar",
+      "horario",
+      "clases",
+      "materiales",
+      "dia"
+    ],
+    "base_response": "La frase 'I check my schedule' en inglés se refiere a la acción de revisar el horario de clases para asegurarse de llevar los materiales necesarios. Es una buena práctica matutina antes de salir al colegio."
+  },
+  {
+    "intent_id": "despertar_temprano",
+    "keywords": [
+      "despertar",
+      "alarma",
+      "temprano",
+      "rutina",
+      "mañana"
+    ],
+    "base_response": "La expresión 'I wake up early' se usa en inglés para indicar que te levantas temprano por la mañana, permitiendo tiempo suficiente para completar tu rutina antes del colegio. Es crucial para una mañana sin prisas."
+  },
+  {
+    "intent_id": "salir_a_tiempo",
+    "keywords": [
+      "salir",
+      "tiempo",
+      "puntualidad",
+      "camino",
+      "colegio"
+    ],
+    "base_response": "La frase 'I leave on time' significa en inglés que sales de casa a la hora adecuada para llegar puntualmente al colegio. Es una parte crucial de la rutina matutina para evitar el estrés."
+  },
+  {
+    "intent_id": "hacer_mi_cama",
+    "keywords": [
+      "hacer",
+      "cama",
+      "orden",
+      "habitacion",
+      "mañana"
+    ],
+    "base_response": "La expresión 'I make my bed' en inglés describe la acción de ordenar y arreglar tu cama después de despertarte. Es un buen hábito matutino que fomenta el orden y la disciplina diaria."
+  },
+  {
+    "intent_id": "talk_about_sports_after_school",
+    "keywords": [
+      "practica",
+      "deporte",
+      "correr",
+      "jugar",
+      "entrenar"
+    ],
+    "base_response": "Este concepto enseña a decir frases en inglés para hablar de deportes después de clases, como “I play soccer after school”. Los estudiantes comprenden cómo describir sus rutinas y expresar actividades físicas usando estructuras simples y vocabulario cotidiano."
+  },
+  {
+    "intent_id": "describe_music_practice_routine",
+    "keywords": [
+      "tocar",
+      "instrumento",
+      "practicar",
+      "cantar",
+      "escuchar"
+    ],
+    "base_response": "Este concepto explica cómo usar frases en inglés para hablar de practicar música después de clases, como “I practice guitar”. Los estudiantes aprenden a describir hábitos artísticos y expresar acciones musicales con claridad y vocabulario apropiado."
+  },
+  {
+    "intent_id": "share_homework_time_habits",
+    "keywords": [
+      "hacer",
+      "tarea",
+      "estudiar",
+      "resolver",
+      "leer"
+    ],
+    "base_response": "Este concepto enseña a usar frases en inglés para hablar del tiempo dedicado a la tarea, como “I do my homework after school”. Los estudiantes comprenden cómo describir responsabilidades académicas y expresar acciones de estudio con precisión."
+  },
+  {
+    "intent_id": "talk_about_club_participation",
+    "keywords": [
+      "participar",
+      "club",
+      "reunir",
+      "crear",
+      "explorar"
+    ],
+    "base_response": "Este concepto muestra cómo usar frases en inglés para hablar de clubes escolares, como “I join the art club”. Los estudiantes aprenden a describir actividades grupales y expresar intereses personales usando vocabulario sencillo y útil."
+  },
+  {
+    "intent_id": "explain_playtime_with_friends",
+    "keywords": [
+      "jugar",
+      "amigo",
+      "reir",
+      "correr",
+      "compartir"
+    ],
+    "base_response": "Este concepto enseña a usar frases en inglés para hablar de jugar con amigos después de clases, como “I hang out with friends”. Los estudiantes comprenden cómo describir momentos sociales y expresar acciones recreativas con naturalidad."
+  },
+  {
+    "intent_id": "describe_reading_after_school",
+    "keywords": [
+      "leer",
+      "libro",
+      "imaginar",
+      "descubrir",
+      "explorar"
+    ],
+    "base_response": "Este concepto explica cómo usar frases en inglés para hablar de la lectura después de clases, como “I read books”. Los estudiantes aprenden a describir hábitos de lectura y expresar acciones relacionadas con historias y conocimiento."
+  },
+  {
+    "intent_id": "talk_about_screen_time_activities",
+    "keywords": [
+      "ver",
+      "jugar",
+      "navegar",
+      "explorar",
+      "crear"
+    ],
+    "base_response": "Este concepto enseña a usar frases en inglés para hablar del tiempo frente a pantallas, como “I watch videos after school”. Los estudiantes comprenden cómo describir actividades digitales y expresar acciones tecnológicas con vocabulario adecuado."
+  },
+  {
+    "intent_id": "ask_permission_politely",
+    "keywords": [
+      "permiso",
+      "ingreso",
+      "espera",
+      "pregunta",
+      "respuesta"
+    ],
+    "base_response": "Este concepto explica como usar la frase en ingles “May I come in?” para pedir permiso antes de entrar al aula. Los estudiantes comprenden su tono respetuoso y practican decirla claramente, mostrando cortesia y siguiendo normas escolares importantes para la convivencia diaria."
+  },
+  {
+    "intent_id": "request_entry_formal",
+    "keywords": [
+      "solicitud",
+      "ingreso",
+      "respeto",
+      "hablar",
+      "esperar"
+    ],
+    "base_response": "Este concepto enseña a emplear la frase en ingles “Could I enter the classroom?” para solicitar entrada de manera formal. Los estudiantes aprenden a usarla cuando necesitan mostrar respeto, practicar paciencia y seguir reglas que fortalecen la comunicacion adecuada en la escuela."
+  },
+  {
+    "intent_id": "entry_after_knocking",
+    "keywords": [
+      "llamar",
+      "ingreso",
+      "permiso",
+      "preguntar",
+      "espera"
+    ],
+    "base_response": "Este concepto explica como combinar un suave golpe en la puerta con la frase en ingles “May I come in now?” para pedir permiso. Los estudiantes practican esta accion para mostrar respeto, evitar interrupciones y comunicarse de forma clara antes de entrar al aula."
+  },
+  {
+    "intent_id": "late_arrival_request",
+    "keywords": [
+      "llegada",
+      "ingreso",
+      "permiso",
+      "explicar",
+      "esperar"
+    ],
+    "base_response": "Este concepto enseña a usar la frase en ingles “Sorry, may I come in?” cuando el estudiante llega tarde. Se practica disculparse primero y luego pedir permiso, mostrando responsabilidad, respeto y buena comunicacion al ingresar sin interrumpir la clase en curso."
+  },
+  {
+    "intent_id": "group_entry_permission",
+    "keywords": [
+      "grupo",
+      "ingreso",
+      "permiso",
+      "coordinar",
+      "hablar"
+    ],
+    "base_response": "Este concepto explica como pedir permiso en ingles usando “May we come in?” cuando varios estudiantes necesitan entrar juntos. Se practica coordinar la solicitud, hablar con claridad y mostrar respeto colectivo, reforzando normas de convivencia y comunicacion adecuada en el aula."
+  },
+  {
+    "intent_id": "entry_with_object",
+    "keywords": [
+      "objeto",
+      "ingreso",
+      "permiso",
+      "mostrar",
+      "preguntar"
+    ],
+    "base_response": "Este concepto enseña a usar la frase en ingles “May I come in with this?” cuando el estudiante lleva un objeto. Se practica preguntar con claridad, mostrar el objeto y esperar la aprobacion del docente, reforzando responsabilidad y comunicacion respetuosa antes de entrar."
+  },
+  {
+    "intent_id": "entry_during_activity",
+    "keywords": [
+      "actividad",
+      "ingreso",
+      "permiso",
+      "interrumpir",
+      "hablar"
+    ],
+    "base_response": "Este concepto explica como usar la frase en ingles “Is it okay if I come in?” cuando la clase esta en una actividad importante. Se practica hablar suavemente, evitar interrupciones y pedir permiso con respeto, fortaleciendo habilidades de comunicacion en situaciones delicadas."
+  },
+  {
+    "intent_id": "entry_for_question",
+    "keywords": [
+      "pregunta",
+      "ingreso",
+      "permiso",
+      "necesitar",
+      "hablar"
+    ],
+    "base_response": "Este concepto enseña a usar la frase en ingles “May I come in to ask something?” cuando el estudiante necesita entrar para aclarar una duda. Se practica pedir permiso con claridad, explicar la razon y mantener respeto, reforzando comunicacion efectiva en el entorno escolar."
+  },
+  {
+    "intent_id": "entry_after_break",
+    "keywords": [
+      "receso",
+      "ingreso",
+      "permiso",
+      "volver",
+      "hablar"
+    ],
+    "base_response": "Este concepto explica como usar la frase en ingles “May I come back in?” al regresar del receso. Los estudiantes practican pedir permiso antes de entrar, mostrando respeto, orden y buena comunicacion, asegurando que la clase continúe sin interrupciones innecesarias."
+  },
+  {
+    "intent_id": "entry_when_door_closed",
+    "keywords": [
+      "puerta",
+      "ingreso",
+      "permiso",
+      "llamar",
+      "hablar"
+    ],
+    "base_response": "Este concepto enseña a usar la frase en ingles “Could I come in, please?” cuando la puerta esta cerrada. Se practica llamar suavemente, esperar respuesta y pedir permiso con cortesia, reforzando respeto y comunicacion adecuada antes de ingresar al aula."
+  },
+  {
+    "intent_id": "apology_for_delay_basics",
+    "keywords": [
+      "disculpa",
+      "llegada",
+      "retraso",
+      "expresion",
+      "practica"
+    ],
+    "base_response": "Esta frase en inglés ayuda a explicar que llegaste tarde y deseas mostrar respeto. Los estudiantes pueden usarla para reconocer el retraso y mantener una comunicación amable. Es útil en clases, actividades y situaciones cotidianas donde la puntualidad es importante."
+  },
+  {
+    "intent_id": "explaining_reason_for_tardiness",
+    "keywords": [
+      "motivo",
+      "retraso",
+      "explicacion",
+      "comunicacion",
+      "situacion"
+    ],
+    "base_response": "Esta expresión en inglés permite explicar brevemente por qué llegaste tarde. Enseña a los estudiantes a comunicar razones de manera clara y respetuosa. Es útil para mantener confianza y mostrar responsabilidad en entornos escolares o actividades grupales."
+  },
+  {
+    "intent_id": "polite_entry_after_arriving_late",
+    "keywords": [
+      "ingreso",
+      "respeto",
+      "saludo",
+      "retraso",
+      "comportamiento"
+    ],
+    "base_response": "Esta frase en inglés enseña cómo entrar a un lugar después de llegar tarde sin interrumpir. Los estudiantes aprenden a saludar, disculparse y continuar con la actividad. Promueve respeto y buena convivencia en espacios compartidos como aulas o reuniones."
+  },
+  {
+    "intent_id": "short_apology_for_minor_delay",
+    "keywords": [
+      "disculpa",
+      "retraso",
+      "frase",
+      "comunicacion",
+      "situacion"
+    ],
+    "base_response": "Esta expresión en inglés sirve para disculparse por un retraso pequeño. Los estudiantes aprenden a reconocer su tardanza sin dar explicaciones largas. Es útil en momentos cotidianos donde solo se necesita una frase breve y educada para continuar."
+  },
+  {
+    "intent_id": "apology_with_gratitude_for_patience",
+    "keywords": [
+      "agradecimiento",
+      "paciencia",
+      "disculpa",
+      "retraso",
+      "comunicacion"
+    ],
+    "base_response": "Esta frase en inglés combina una disculpa con agradecimiento por la paciencia de otros. Los estudiantes aprenden a mostrar consideración y respeto. Es útil cuando el retraso afecta a un grupo y se desea mantener una relación positiva."
+  },
+  {
+    "intent_id": "requesting_permission_after_tardiness",
+    "keywords": [
+      "permiso",
+      "ingreso",
+      "retraso",
+      "disculpa",
+      "comunicacion"
+    ],
+    "base_response": "Esta expresión en inglés enseña a pedir permiso para unirse a una actividad después de llegar tarde. Los estudiantes practican respeto y cortesía. Es útil en situaciones donde se necesita autorización para integrarse sin interrumpir."
+  },
+  {
+    "intent_id": "apology_for_transportation_delay",
+    "keywords": [
+      "transporte",
+      "retraso",
+      "disculpa",
+      "motivo",
+      "comunicacion"
+    ],
+    "base_response": "Esta frase en inglés ayuda a explicar que el retraso ocurrió por problemas de transporte. Los estudiantes aprenden a comunicar razones reales con claridad. Es útil para mostrar responsabilidad y evitar malentendidos en entornos escolares."
+  },
+  {
+    "intent_id": "offer_simple_help",
+    "keywords": [
+      "ayuda",
+      "compañero",
+      "practica",
+      "idioma",
+      "frase"
+    ],
+    "base_response": "Este concepto enseña a decir en inglés frases sencillas para ofrecer ayuda a un compañero. Explica cómo usar expresiones amables que muestran disposición para apoyar y practicar juntos, fortaleciendo la confianza y creando un ambiente colaborativo en el aprendizaje diario."
+  },
+  {
+    "intent_id": "check_understanding",
+    "keywords": [
+      "pregunta",
+      "revision",
+      "comprension",
+      "apoyo",
+      "dialogo"
+    ],
+    "base_response": "Este concepto explica cómo preguntar en inglés si un compañero entiende una palabra o frase. Enseña expresiones útiles para verificar comprensión con respeto, fomentando comunicación clara y creando oportunidades para aclarar dudas sin generar presión ni incomodidad."
+  },
+  {
+    "intent_id": "suggest_practice_time",
+    "keywords": [
+      "practica",
+      "tiempo",
+      "propuesta",
+      "compartir",
+      "idioma"
+    ],
+    "base_response": "Este concepto muestra cómo sugerir en inglés un momento para practicar juntos. Enseña frases que permiten coordinar horarios y actividades, promoviendo responsabilidad compartida y creando un espacio seguro donde ambos estudiantes puedan mejorar sus habilidades lingüísticas."
+  },
+  {
+    "intent_id": "offer_word_examples",
+    "keywords": [
+      "ejemplo",
+      "palabra",
+      "explicacion",
+      "ayuda",
+      "uso"
+    ],
+    "base_response": "Este concepto enseña cómo ofrecer ejemplos en inglés para ayudar a un compañero a entender una palabra. Explica frases que permiten mostrar usos reales, facilitando la comprensión y fortaleciendo la capacidad de relacionar vocabulario con situaciones cotidianas."
+  },
+  {
+    "intent_id": "encourage_speaking",
+    "keywords": [
+      "animo",
+      "hablar",
+      "practica",
+      "confianza",
+      "idioma"
+    ],
+    "base_response": "Este concepto explica cómo animar en inglés a un compañero a hablar sin miedo. Enseña frases que transmiten apoyo y seguridad, ayudando a reducir la ansiedad y creando un ambiente donde equivocarse es parte natural del proceso de aprendizaje lingüístico."
+  },
+  {
+    "intent_id": "offer_translation_help",
+    "keywords": [
+      "traduccion",
+      "ayuda",
+      "palabra",
+      "significado",
+      "compañero"
+    ],
+    "base_response": "Este concepto enseña cómo ofrecer ayuda en inglés para traducir palabras o frases. Explica expresiones que permiten aclarar significados de manera amable, facilitando la comunicación y fortaleciendo la colaboración entre estudiantes que comparten metas lingüísticas similares."
+  },
+  {
+    "intent_id": "share_memory_tricks",
+    "keywords": [
+      "truco",
+      "memoria",
+      "recordar",
+      "palabra",
+      "aprender"
+    ],
+    "base_response": "Este concepto muestra cómo compartir en inglés trucos para recordar palabras nuevas. Enseña frases que permiten explicar métodos sencillos, ayudando a un compañero a mejorar su retención y haciendo el aprendizaje más dinámico, divertido y accesible para ambos."
+  },
+  {
+    "intent_id": "offer_sentence_building",
+    "keywords": [
+      "oracion",
+      "construccion",
+      "ayuda",
+      "practica",
+      "idioma"
+    ],
+    "base_response": "Este concepto enseña cómo ofrecer ayuda en inglés para construir oraciones. Explica frases que permiten guiar a un compañero paso a paso, facilitando la organización de ideas y fortaleciendo la habilidad de combinar vocabulario correctamente en situaciones reales."
+  },
+  {
+    "intent_id": "correct_gently",
+    "keywords": [
+      "correccion",
+      "error",
+      "apoyo",
+      "explicacion",
+      "aprendizaje"
+    ],
+    "base_response": "Este concepto explica cómo corregir en inglés a un compañero con suavidad. Enseña frases que permiten señalar errores sin causar vergüenza, promoviendo un ambiente respetuoso donde la retroalimentación se convierte en una herramienta positiva para mejorar habilidades lingüísticas."
+  },
+  {
+    "intent_id": "invite_language_games",
+    "keywords": [
+      "juego",
+      "idioma",
+      "invitar",
+      "practica",
+      "compañero"
+    ],
+    "base_response": "Este concepto enseña cómo invitar en inglés a un compañero a jugar actividades lingüísticas. Explica frases que fomentan participación y diversión, haciendo que el aprendizaje sea más dinámico y permitiendo practicar vocabulario y estructuras de manera entretenida y colaborativa."
+  },
+  {
+    "intent_id": "ask_repeat_instruction_politely",
+    "keywords": [
+      "pregunta",
+      "repeticion",
+      "instruccion",
+      "escucha",
+      "comprension"
+    ],
+    "base_response": "Este concepto enseña a decir en inglés frases como “Could you repeat the instruction, please?”. Ayuda a los estudiantes a pedir aclaraciones con respeto, mostrando que repetir indicaciones es normal y útil para asegurar una comprensión correcta durante actividades escolares."
+  },
+  {
+    "intent_id": "clarify_steps_request",
+    "keywords": [
+      "clarificacion",
+      "paso",
+      "repeticion",
+      "entender",
+      "pregunta"
+    ],
+    "base_response": "Este concepto explica cómo pedir que repitan pasos usando expresiones como “Can you say the steps again?”. Permite a los estudiantes solicitar claridad cuando una instrucción resulta confusa, fomentando confianza y comunicación efectiva en situaciones de aprendizaje colaborativo."
+  },
+  {
+    "intent_id": "confirm_task_details",
+    "keywords": [
+      "confirmacion",
+      "tarea",
+      "detalle",
+      "repeticion",
+      "solicitud"
+    ],
+    "base_response": "Este concepto enseña a pedir repetición para confirmar detalles de una tarea con frases como “Could you go over that again?”. Ayuda a los estudiantes a evitar errores, mostrando que verificar información es parte importante del proceso de aprendizaje responsable."
+  },
+  {
+    "intent_id": "request_slow_repetition",
+    "keywords": [
+      "repeticion",
+      "lentitud",
+      "escucha",
+      "comprension",
+      "solicitud"
+    ],
+    "base_response": "Este concepto muestra cómo pedir que repitan lentamente usando expresiones como “Can you repeat that more slowly?”. Permite a los estudiantes mejorar su comprensión auditiva y sentirse cómodos solicitando apoyo cuando una instrucción se presenta demasiado rápido."
+  },
+  {
+    "intent_id": "ask_for_example_repetition",
+    "keywords": [
+      "ejemplo",
+      "repeticion",
+      "explicacion",
+      "comprension",
+      "solicitud"
+    ],
+    "base_response": "Este concepto enseña a pedir repetición de un ejemplo con frases como “Could you repeat the example?”. Ayuda a los estudiantes a relacionar instrucciones con situaciones concretas, reforzando la comprensión y facilitando la aplicación correcta de lo que deben realizar."
+  },
+  {
+    "intent_id": "verify_instruction_words",
+    "keywords": [
+      "verificacion",
+      "palabra",
+      "instruccion",
+      "repeticion",
+      "escucha"
+    ],
+    "base_response": "Este concepto explica cómo pedir que repitan palabras específicas usando expresiones como “Can you repeat that word?”. Permite a los estudiantes aclarar vocabulario clave dentro de una instrucción, fortaleciendo su confianza al seguir indicaciones en inglés."
+  },
+  {
+    "intent_id": "repeat_direction_request",
+    "keywords": [
+      "direccion",
+      "repeticion",
+      "pregunta",
+      "comprension",
+      "escucha"
+    ],
+    "base_response": "Este concepto enseña a pedir repetición de una dirección con frases como “Could you repeat the direction?”. Ayuda a los estudiantes a entender mejor indicaciones espaciales o de movimiento, asegurando que puedan realizar actividades correctamente sin confundirse."
+  },
+  {
+    "intent_id": "ask_for_full_instruction_again",
+    "keywords": [
+      "instruccion",
+      "repeticion",
+      "solicitud",
+      "escucha",
+      "entender"
+    ],
+    "base_response": "Este concepto muestra cómo pedir que repitan toda la instrucción usando expresiones como “Can you repeat the whole instruction?”. Permite a los estudiantes revisar información completa cuando sienten que perdieron partes importantes durante la explicación inicial."
+  },
+  {
+    "intent_id": "seek_instruction_confirmation",
+    "keywords": [
+      "confirmacion",
+      "instruccion",
+      "repeticion",
+      "comprension",
+      "pregunta"
+    ],
+    "base_response": "Este concepto enseña a pedir repetición para confirmar que entendieron bien usando frases como “Could you repeat that to make sure I got it right?”. Fomenta responsabilidad y demuestra que verificar comprensión es una habilidad comunicativa esencial."
+  },
+  {
+    "intent_id": "request_clearer_instruction_repetition",
+    "keywords": [
+      "claridad",
+      "repeticion",
+      "instruccion",
+      "escucha",
+      "comprension"
+    ],
+    "base_response": "Este concepto explica cómo pedir una repetición más clara usando expresiones como “Can you repeat that more clearly?”. Ayuda a los estudiantes a expresar sus necesidades comunicativas, promoviendo un ambiente donde pedir apoyo es totalmente aceptado."
+  },
+  {
+    "intent_id": "emocion_por_una_fiesta_escolar",
+    "keywords": [
+      "fiesta",
+      "emocion",
+      "escolar",
+      "evento",
+      "celebracion"
+    ],
+    "base_response": "Para expresar emoción por una fiesta escolar en inglés, puedes usar 'I'm so excited for the school party!' Esta frase comunica entusiasmo y anticipación por el evento, mostrando que estás emocionado de participar en la celebración escolar."
+  },
+  {
+    "intent_id": "alegria_por_una_competencia_deportiva",
+    "keywords": [
+      "competencia",
+      "deportiva",
+      "alegria",
+      "evento",
+      "emocion"
+    ],
+    "base_response": "La frase 'I can't wait for the sports competition!' se utiliza para expresar gran emoción por un evento deportivo escolar. Indica que estás ansioso y expectante por participar o apoyar en la competencia. Es una forma positiva de mostrar interés."
+  },
+  {
+    "intent_id": "entusiasmo_por_una_exposicion_artistica",
+    "keywords": [
+      "exposicion",
+      "artistica",
+      "entusiasmo",
+      "evento",
+      "escuela"
+    ],
+    "base_response": "Usar 'I'm thrilled about the art exhibition!' es adecuado para expresar entusiasmo por una exposición artística en la escuela. Esta frase transmite que estás muy emocionado por ver las obras de arte y participar en el evento creativo."
+  },
+  {
+    "intent_id": "expectativa_por_una_obra_de_teatro",
+    "keywords": [
+      "obra",
+      "teatro",
+      "expectativa",
+      "evento",
+      "escolar"
+    ],
+    "base_response": "La frase 'I'm looking forward to the school play!' se utiliza para expresar expectativa por una obra de teatro escolar. Indica que estás anticipando ver la actuación y disfrutar del talento de tus compañeros en el escenario."
+  },
+  {
+    "intent_id": "emocion_por_un_concierto_escolar",
+    "keywords": [
+      "concierto",
+      "emocion",
+      "musica",
+      "evento",
+      "escolar"
+    ],
+    "base_response": "Al decir 'I'm pumped for the school concert!' se expresa una gran emoción por un concierto escolar. Esta frase muestra que estás realmente motivado para asistir y disfrutar de la música presentada en el evento escolar."
+  },
+  {
+    "intent_id": "anticipacion_por_una_feria_de_ciencias",
+    "keywords": [
+      "feria",
+      "ciencias",
+      "anticipacion",
+      "evento",
+      "escolar"
+    ],
+    "base_response": "La expresión 'I'm eager to see the science fair!' refleja anticipación por una feria de ciencias escolar. Indica que tienes curiosidad y entusiasmo por explorar los proyectos científicos que tus compañeros presentarán durante el evento."
+  },
+  {
+    "intent_id": "emoción_por_un_paseo_escolar",
+    "keywords": [
+      "paseo",
+      "emocion",
+      "escolar",
+      "excursion",
+      "evento"
+    ],
+    "base_response": "Decir 'I'm super excited for the school trip!' refleja emoción por un paseo escolar. Esta frase muestra que estás ansioso por la oportunidad de explorar nuevos lugares y disfrutar de una experiencia fuera del aula."
+  },
+  {
+    "intent_id": "ilusion_por_una_ceremonia_de_graduacion",
+    "keywords": [
+      "ceremonia",
+      "graduacion",
+      "ilusion",
+      "evento",
+      "escolar"
+    ],
+    "base_response": "Con 'I'm excited for the graduation ceremony!' se expresa ilusión por una ceremonia de graduación escolar. Indica que estás emocionado por celebrar los logros académicos y compartir el momento especial con amigos y familia."
+  },
+  {
+    "intent_id": "emocion_por_un_torneo_de_juegos",
+    "keywords": [
+      "torneo",
+      "juegos",
+      "emocion",
+      "evento",
+      "escolar"
+    ],
+    "base_response": "La frase 'I'm so hyped for the gaming tournament!' se utiliza para expresar emoción por un torneo de juegos escolar. Muestra que estás ansioso por participar y competir en el evento de videojuegos en la escuela."
+  },
+  {
+    "intent_id": "entusiasmo_por_un_dia_de_campo",
+    "keywords": [
+      "dia",
+      "campo",
+      "entusiasmo",
+      "evento",
+      "escolar"
+    ],
+    "base_response": "Al decir 'I'm stoked for the field day!' se expresa entusiasmo por un día de campo escolar. Esta frase indica que estás emocionado por participar en actividades al aire libre y disfrutar de un día divertido con amigos."
+  },
+  {
+    "intent_id": "describe_favorite_subject",
+    "keywords": [
+      "materia",
+      "favorita",
+      "estudiante",
+      "describir",
+      "gustar"
+    ],
+    "base_response": "Para decir cuál es tu materia favorita en inglés, usa 'My favorite subject is...'. Luego, menciona la materia, por ejemplo, 'math'. Esto ayuda a expresar gustos personales y compartir intereses con amigos. Es una frase sencilla para aprender a hablar sobre preferencias académicas."
+  },
+  {
+    "intent_id": "explain_why_like_subject",
+    "keywords": [
+      "explicar",
+      "razon",
+      "gustar",
+      "materia",
+      "escuela"
+    ],
+    "base_response": "Para explicar por qué te gusta una materia, di 'I like... because...'. Completa con la materia y la razón, por ejemplo, 'science because it's interesting'. Esto enseña a desarrollar argumentos simples en inglés sobre preferencias personales y fomenta la expresión de opiniones."
+  },
+  {
+    "intent_id": "compare_subjects_interest",
+    "keywords": [
+      "comparar",
+      "interes",
+      "materias",
+      "diferente",
+      "preferencia"
+    ],
+    "base_response": "Usa 'I like... more than...' para comparar materias, por ejemplo, 'I like history more than math'. Esto ayuda a expresar preferencias comparativas en inglés y fomenta el desarrollo de habilidades de comunicación al hablar sobre temas escolares y personales."
+  },
+  {
+    "intent_id": "ask_favorite_subject",
+    "keywords": [
+      "preguntar",
+      "favorito",
+      "materia",
+      "amigo",
+      "escuela"
+    ],
+    "base_response": "Para preguntar a alguien por su materia favorita, usa 'What's your favorite subject?'. Esta pregunta fomenta la interacción en inglés y permite conocer mejor los intereses de los compañeros. Es una manera sencilla de iniciar conversaciones sobre temas escolares."
+  },
+  {
+    "intent_id": "talk_about_hobbies_and_subjects",
+    "keywords": [
+      "hablar",
+      "hobbies",
+      "materias",
+      "intereses",
+      "conectar"
+    ],
+    "base_response": "Conecta hobbies con materias usando 'I like... so I enjoy...'. Por ejemplo, 'I like drawing so I enjoy art'. Esta estructura enseña a relacionar intereses personales con materias escolares, enriqueciendo la expresión personal en inglés y motivando el aprendizaje."
+  },
+  {
+    "intent_id": "express_difficulty_in_subjects",
+    "keywords": [
+      "expresar",
+      "dificultad",
+      "materia",
+      "aprendizaje",
+      "entender"
+    ],
+    "base_response": "Para hablar de dificultades, usa 'I find... difficult'. Completa con la materia, por ejemplo, 'I find math difficult'. Esto enseña a expresar desafíos en inglés, permitiendo pedir ayuda y discutir problemas de aprendizaje con compañeros y profesores."
+  },
+  {
+    "intent_id": "share_subject_improvements",
+    "keywords": [
+      "compartir",
+      "mejorar",
+      "materia",
+      "aprendizaje",
+      "progreso"
+    ],
+    "base_response": "Para compartir mejoras, usa 'I am getting better at...'. Completa con la materia, por ejemplo, 'I am getting better at English'. Esta estructura ayuda a hablar sobre el progreso académico en inglés, fomentando la confianza y la motivación en los estudios."
+  },
+  {
+    "intent_id": "discuss_favorite_teacher_and_subject",
+    "keywords": [
+      "discutir",
+      "favorito",
+      "profesor",
+      "materia",
+      "clase"
+    ],
+    "base_response": "Habla de tu profesor favorito con 'My favorite teacher is... because they teach...'. Completa con el nombre y la materia, por ejemplo, 'Mr. Smith because they teach history'. Esto enseña a expresar gratitud y admiración, facilitando conversaciones sobre experiencias escolares."
+  },
+  {
+    "intent_id": "describe_subject_activities",
+    "keywords": [
+      "describir",
+      "actividades",
+      "materia",
+      "clase",
+      "hacer"
+    ],
+    "base_response": "Para describir actividades en clase, usa 'In... we...'. Completa con la materia y la actividad, por ejemplo, 'In science we do experiments'. Esto enseña a hablar sobre actividades escolares en inglés, permitiendo compartir experiencias de aprendizaje con otros estudiantes."
+  },
+  {
+    "intent_id": "talk_about_future_subjects",
+    "keywords": [
+      "hablar",
+      "futuro",
+      "materia",
+      "eleccion",
+      "interes"
+    ],
+    "base_response": "Para hablar de materias futuras, usa 'I want to study... because...'. Completa con la materia y la razón, por ejemplo, 'I want to study physics because it's fascinating'. Esto enseña a expresar intereses futuros en inglés, fomentando planificación académica y profesional."
+  },
+  {
+    "intent_id": "lights_out_custom",
+    "keywords": [
+      "luces",
+      "apagar",
+      "noche",
+      "costumbre",
+      "familia"
+    ],
+    "base_response": "La frase 'Lights out' se utiliza para indicar que es hora de apagar las luces y dormir. En un contexto familiar, puede ser una señal para comenzar la rutina nocturna, ayudando a los niños a establecer hábitos saludables."
+  },
+  {
+    "intent_id": "see_you_morning_promise",
+    "keywords": [
+      "ver",
+      "manana",
+      "promesa",
+      "familia",
+      "despedida"
+    ],
+    "base_response": "Decir 'See you in the morning' es una manera de asegurar a alguien que te verán al día siguiente. Utilizado en familia, brinda tranquilidad a los niños, ayudándoles a sentir seguridad al irse a dormir."
+  },
+  {
+    "intent_id": "bedtime_story_ritual",
+    "keywords": [
+      "cuento",
+      "dormir",
+      "ritual",
+      "familia",
+      "noche"
+    ],
+    "base_response": "El concepto de 'bedtime story' se refiere a leer un cuento antes de dormir. Es una tradición familiar que ayuda a los niños a relajarse y fomentar el hábito de la lectura, haciendo la transición al sueño más placentera."
+  },
+  {
+    "intent_id": "sleepy_time_routine",
+    "keywords": [
+      "hora",
+      "dormir",
+      "rutina",
+      "familia",
+      "noche"
+    ],
+    "base_response": "'Sleepy time' es una manera cariñosa de referirse al momento de dormir. En familia, establecer una rutina de 'sleepy time' ayuda a los niños a entender la importancia de descansar bien para estar listos para el día siguiente."
+  },
+  {
+    "intent_id": "tuck_in_tradition",
+    "keywords": [
+      "arropado",
+      "tradicion",
+      "noche",
+      "familia",
+      "dormir"
+    ],
+    "base_response": "La frase 'tucking in' se refiere al acto de arropar a alguien antes de dormir. Es una tradición familiar que brinda sentimientos de seguridad y amor, haciendo que los niños se sientan cómodos al momento de descansar."
+  },
+  {
+    "intent_id": "inicio_juego_buenas_vibras",
+    "keywords": [
+      "inicio",
+      "juego",
+      "buenas",
+      "vibras",
+      "equipo"
+    ],
+    "base_response": "Al iniciar un juego, decir 'Let's have a great game!' promueve un ambiente positivo y de apoyo entre los jugadores. Esta frase se usa para motivar a todos a dar lo mejor de sí y disfrutar del deporte juntos."
+  },
+  {
+    "intent_id": "saludo_amistoso_partido",
+    "keywords": [
+      "saludo",
+      "amistoso",
+      "partido",
+      "deporte",
+      "companerismo"
+    ],
+    "base_response": "La frase 'Good luck, everyone!' es un saludo amistoso que se utiliza para desear buena suerte a todos los jugadores. Refuerza el compañerismo y el espíritu deportivo justo antes de comenzar un partido de equipo."
+  },
+  {
+    "intent_id": "motivacion_inicio_deporte",
+    "keywords": [
+      "motivacion",
+      "inicio",
+      "deporte",
+      "animo",
+      "equipo"
+    ],
+    "base_response": "Decir 'Let's give it our best!' al inicio de un deporte de equipo motiva a los jugadores a esforzarse al máximo. Esta expresión resalta la importancia de la dedicación y el compromiso en el juego colectivo."
+  },
+  {
+    "intent_id": "union_equipo_inicio",
+    "keywords": [
+      "union",
+      "equipo",
+      "inicio",
+      "juego",
+      "armonia"
+    ],
+    "base_response": "Usar 'Together we can win!' al inicio resalta la importancia del trabajo en equipo. Esta expresión anima a los jugadores a colaborar y apoyarse mutuamente, lo cual es crucial para el éxito en deportes colectivos."
+  },
+  {
+    "intent_id": "confianza_colectiva_inicio",
+    "keywords": [
+      "confianza",
+      "colectiva",
+      "inicio",
+      "equipo",
+      "deporte"
+    ],
+    "base_response": "La expresión 'We've got this!' promueve la confianza colectiva al comenzar un juego. Refuerza la idea de que el equipo tiene las habilidades necesarias para enfrentar el desafío, fomentando un espíritu de unidad y confianza."
+  },
+  {
+    "intent_id": "preparacion_fisica_mental",
+    "keywords": [
+      "preparacion",
+      "fisica",
+      "mental",
+      "inicio",
+      "deporte"
+    ],
+    "base_response": "Antes de comenzar, decir 'Ready, set, go!' ayuda a preparar física y mentalmente a los jugadores. Esta frase indica que es momento de concentrarse y estar listos para el inicio del juego, ajustando la mente y cuerpo al desafío."
+  },
+  {
+    "intent_id": "motivacion_colectiva_juego",
+    "keywords": [
+      "motivacion",
+      "colectiva",
+      "juego",
+      "animo",
+      "equipo"
+    ],
+    "base_response": "Usar 'Let's show them what we've got!' alienta al equipo a demostrar sus habilidades. Esta expresión motiva a los jugadores a dar lo mejor de sí, mostrando confianza en sus capacidades y el potencial colectivo del equipo."
+  },
+  {
+    "intent_id": "animo_equipo_antes_juego",
+    "keywords": [
+      "animo",
+      "equipo",
+      "antes",
+      "juego",
+      "motivacion"
+    ],
+    "base_response": "Decir 'Let's make it memorable!' antes de un juego inspira a los jugadores a crear momentos destacados. Esta expresión promueve un enfoque en disfrutar y destacarse, incentivando a los participantes a dar lo mejor de sí mismos."
+  },
+  {
+    "intent_id": "unidad_fuerza_equipo",
+    "keywords": [
+      "unidad",
+      "fuerza",
+      "equipo",
+      "inicio",
+      "juego"
+    ],
+    "base_response": "La frase 'One team, one dream!' refuerza la unidad y el propósito común. Usada antes de comenzar, destaca la importancia de trabajar juntos hacia un objetivo compartido, fomentando la cooperación y el esfuerzo conjunto en el deporte."
+  },
+  {
+    "intent_id": "preguntar_donde_esta_parada",
+    "keywords": [
+      "pregunta",
+      "direccion",
+      "bus",
+      "ubicacion",
+      "caminar"
+    ],
+    "base_response": "En inglés, la frase “Where is the bus stop?” ayuda a pedir indicaciones claras. Los estudiantes pueden usarla cuando no saben la ubicación exacta. Practicarla permite comunicarse con seguridad y recibir orientación útil mientras se desplazan por la ciudad."
+  },
+  {
+    "intent_id": "consultar_horarios_bus",
+    "keywords": [
+      "consulta",
+      "horario",
+      "bus",
+      "espera",
+      "salida"
+    ],
+    "base_response": "La expresión “What time does the bus arrive?” permite preguntar horarios de llegada. Es útil para organizar el viaje y evitar retrasos. Los estudiantes pueden emplearla al interactuar con conductores o pasajeros para obtener información precisa sobre el transporte."
+  },
+  {
+    "intent_id": "preguntar_ruta_correcta",
+    "keywords": [
+      "ruta",
+      "bus",
+      "pregunta",
+      "direccion",
+      "viaje"
+    ],
+    "base_response": "La frase “Is this the right bus?” sirve para confirmar si el vehículo sigue la ruta deseada. Los estudiantes pueden usarla antes de subir para evitar equivocaciones. Practicarla mejora la confianza al desplazarse y facilita una comunicación clara con otros usuarios."
+  },
+  {
+    "intent_id": "solicitar_indicaciones_cercanas",
+    "keywords": [
+      "indicacion",
+      "bus",
+      "caminar",
+      "pregunta",
+      "ubicacion"
+    ],
+    "base_response": "La expresión “How do I get to the bus stop?” permite pedir instrucciones detalladas. Los estudiantes pueden usarla cuando necesitan orientación para llegar a una parada cercana. Practicarla fomenta seguridad al moverse y facilita conversaciones con personas locales."
+  },
+  {
+    "intent_id": "confirmar_destino_bus",
+    "keywords": [
+      "destino",
+      "bus",
+      "pregunta",
+      "viaje",
+      "confirmacion"
+    ],
+    "base_response": "La frase “Does this bus go to…?” ayuda a verificar si el transporte llega al destino deseado. Los estudiantes pueden emplearla para evitar confusiones. Practicarla mejora la comunicación y permite planificar recorridos con mayor precisión y confianza."
+  },
+  {
+    "intent_id": "pedir_ayuda_en_parada",
+    "keywords": [
+      "ayuda",
+      "bus",
+      "espera",
+      "pregunta",
+      "direccion"
+    ],
+    "base_response": "La expresión “Can you help me find my bus?” permite solicitar apoyo a otros pasajeros. Es útil cuando hay varias rutas disponibles. Los estudiantes pueden practicarla para comunicarse con amabilidad y obtener orientación clara en situaciones de transporte público."
+  },
+  {
+    "intent_id": "preguntar_tiempo_espera",
+    "keywords": [
+      "tiempo",
+      "espera",
+      "bus",
+      "pregunta",
+      "llegada"
+    ],
+    "base_response": "La frase “How long until the bus comes?” sirve para conocer el tiempo de espera. Los estudiantes pueden usarla para organizar mejor sus actividades. Practicarla facilita conversaciones cotidianas y ayuda a manejar situaciones comunes en el transporte urbano."
+  },
+  {
+    "intent_id": "verificar_cambio_ruta",
+    "keywords": [
+      "cambio",
+      "ruta",
+      "bus",
+      "pregunta",
+      "informacion"
+    ],
+    "base_response": "La expresión “Has the bus route changed?” permite confirmar modificaciones en el recorrido. Los estudiantes pueden emplearla cuando notan señales nuevas. Practicarla ayuda a mantenerse informados y a comunicarse eficazmente con otros usuarios del transporte."
+  },
+  {
+    "intent_id": "preguntar_costo_pasaje",
+    "keywords": [
+      "costo",
+      "pasaje",
+      "bus",
+      "pago",
+      "pregunta"
+    ],
+    "base_response": "La frase “How much is the bus fare?” permite preguntar el precio del viaje. Los estudiantes pueden usarla antes de abordar para prepararse. Practicarla mejora la interacción con conductores y ayuda a comprender situaciones reales del transporte público."
+  },
+  {
+    "intent_id": "solicitar_confirmacion_parada",
+    "keywords": [
+      "confirmacion",
+      "parada",
+      "bus",
+      "pregunta",
+      "viaje"
+    ],
+    "base_response": "La expresión “Is this the bus stop?” sirve para asegurarse de estar en el lugar correcto. Los estudiantes pueden emplearla cuando tienen dudas. Practicarla fomenta seguridad al desplazarse y facilita conversaciones claras con personas que conocen la zona."
+  }
+]
