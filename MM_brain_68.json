@@ -1,0 +1,302 @@
+[
+  {
+    "intent_id": "presente_simple_rutina_escolar",
+    "keywords": [
+      "presente",
+      "rutina",
+      "colegio",
+      "horario"
+    ],
+    "base_response": "Para describir el horario escolar utilizamos el presente simple porque son eventos que se repiten cada semana. Por ejemplo, decir que la clase de matemáticas empieza a las ocho todos los lunes muestra una rutina constante que pertenece a este tiempo verbal."
+  },
+  {
+    "intent_id": "origen_verbo_to_be",
+    "keywords": [
+      "origen",
+      "verbo",
+      "ser",
+      "nacionalidad"
+    ],
+    "base_response": "Cuando conoces a un estudiante extranjero, el verbo to be resulta imprescindible para preguntar y decir de dónde proviene. Utilizar 'where are you from?' te permite descubrir su país de origen, conectando culturas diferentes de manera sencilla y directa durante la conversación."
+  },
+  {
+    "intent_id": "pasado_simple_experiencia",
+    "keywords": [
+      "pasado",
+      "simple",
+      "recuerdo",
+      "historia"
+    ],
+    "base_response": "Contar anécdotas de las vacaciones pasadas requiere dominar los verbos regulares e irregulares. Relatar qué lugares visitaste, qué comida extraña probaste o las actividades divertidas que hiciste permite que los demás entiendan tus experiencias terminadas de forma clara y entretenida."
+  },
+  {
+    "intent_id": "pronunciacion_ed_t",
+    "keywords": [
+      "pronunciacion",
+      "terminacion",
+      "sonido",
+      "pasado"
+    ],
+    "base_response": "Un secreto fascinante de los verbos regulares en pasado es que su terminación escrita 'ed' puede sonar como una letra 't'. Esto ocurre cuando la última consonante del verbo base es sorda, como en la palabra worked, haciendo más natural el habla."
+  },
+  {
+    "intent_id": "futuro_continuo_prediccion",
+    "keywords": [
+      "futuro",
+      "continuo",
+      "imaginacion",
+      "tecnologia"
+    ],
+    "base_response": "Imagina cómo será la tecnología en diez años; para expresar que estaremos usando dispositivos increíbles empleamos el futuro continuo. Esta estructura gramatical nos traslada mentalmente al momento exacto en que esa acción tecnológica se estará desarrollando frente a nuestros propios ojos."
+  },
+  {
+    "intent_id": "to_be_descripciones_fisicas",
+    "keywords": [
+      "apariencia",
+      "fisico",
+      "verbo",
+      "describir"
+    ],
+    "base_response": "Si quieres explicar cómo luce tu mejor amigo, el verbo to be es tu herramienta principal. Permite expresar la altura y constitución física de las personas, siendo la base fundamental para construir oraciones descriptivas ricas que ayudan a imaginar a otros."
+  },
+  {
+    "intent_id": "to_be_estados_emocionales",
+    "keywords": [
+      "emocion",
+      "sentimiento",
+      "estado",
+      "animo"
+    ],
+    "base_response": "Los sentimientos temporales como la alegría, el enojo o la sorpresa se comunican perfectamente mediante el verbo to be. Comunicar tu estado de ánimo actual facilita la empatía con tus compañeros y profesores, creando un ambiente escolar mucho más comprensivo y amigable."
+  },
+  {
+    "intent_id": "presente_simple_hechos_cientificos",
+    "keywords": [
+      "ciencia",
+      "hecho",
+      "realidad",
+      "naturaleza"
+    ],
+    "base_response": "Las clases de ciencias naturales están llenas de oraciones en presente simple. Este tiempo verbal es el elegido para expresar verdades universales inmutables, como afirmar que la Tierra orbita alrededor del Sol, estableciendo hechos que no dependen del momento en que se digan."
+  },
+  {
+    "intent_id": "presente_simple_adverbios_frecuencia",
+    "keywords": [
+      "frecuencia",
+      "adverbio",
+      "siempre",
+      "nunca"
+    ],
+    "base_response": "Palabras clave como always, usually o never acompañan habitualmente al presente simple. Estos adverbios de frecuencia nos proporcionan información detallada sobre qué tan seguido realizamos nuestras actividades cotidianas, enriqueciendo enormemente la precisión de nuestra comunicación al hablar de hábitos personales."
+  },
+  {
+    "intent_id": "pasado_simple_terminacion_d",
+    "keywords": [
+      "ortografia",
+      "pasado",
+      "verbo",
+      "regular"
+    ],
+    "base_response": "La regla ortográfica para los verbos regulares que ya terminan en la vocal 'e' es muy amigable para el estudiante. Solo necesitas agregar la consonante 'd' al final para transformarlos al pasado simple, ahorrando esfuerzo al escribir textos sobre eventos ya ocurridos."
+  },
+  {
+    "intent_id": "did_auxiliar_preguntas_pasado",
+    "keywords": [
+      "pregunta",
+      "auxiliar",
+      "pasado",
+      "investigar"
+    ],
+    "base_response": "El auxiliar 'did' funciona como una máquina del tiempo mágica para hacer preguntas. Al colocarlo al principio de la oración interrogativa, inmediatamente convierte toda la frase al pasado, dejando al verbo principal intacto y listo para descubrir qué sucedió ayer."
+  },
+  {
+    "intent_id": "didnt_negaciones_pasadas",
+    "keywords": [
+      "negacion",
+      "pasado",
+      "auxiliar",
+      "error"
+    ],
+    "base_response": "Admitir que no hiciste la tarea es más fácil usando 'didn't'. Esta contracción del auxiliar negativo en pasado simple te permite expresar acciones que no ocurrieron. Es vital recordar que, tras utilizarlo, el verbo principal debe permanecer obligatoriamente en su forma base."
+  },
+  {
+    "intent_id": "futuro_continuo_promesas_progreso",
+    "keywords": [
+      "promesa",
+      "futuro",
+      "desarrollo",
+      "compromiso"
+    ],
+    "base_response": "Si quieres asegurar a tus padres que estarás estudiando toda la tarde, el futuro continuo es la mejor opción gramatical. Expresa un compromiso a largo plazo proyectado hacia el futuro, demostrando dedicación sostenida en una actividad específica que ocurrirá más adelante."
+  },
+  {
+    "intent_id": "irregular_go_went",
+    "keywords": [
+      "viaje",
+      "movimiento",
+      "verbo",
+      "irregular"
+    ],
+    "base_response": "El verbo 'go' se transforma completamente en 'went' cuando hablamos en pasado. Esta irregularidad total es muy común en los verbos más antiguos y utilizados del idioma, por lo que dominar su conjugación es indispensable para contar historias sobre viajes y desplazamientos."
+  },
+  {
+    "intent_id": "irregular_see_saw",
+    "keywords": [
+      "vista",
+      "observacion",
+      "percepcion",
+      "pasado"
+    ],
+    "base_response": "Expresar lo que viste en el cine anoche requiere el uso del pasado irregular 'saw'. Es uno de los verbos perceptivos más frecuentes, y su dominio permite compartir experiencias visuales recientes con amigos de manera natural y sin errores gramaticales comunes."
+  },
+  {
+    "intent_id": "irregular_take_took",
+    "keywords": [
+      "accion",
+      "tomar",
+      "llevar",
+      "pasado"
+    ],
+    "base_response": "Agarrar objetos o tomar el autobús son acciones que expresamos con 'take', pero en pasado cambia a 'took'. Aprender este cambio fortalece tu vocabulario básico, permitiéndote describir las decisiones de movilidad o posesión que tomaste durante un día muy agitado."
+  },
+  {
+    "intent_id": "presente_simple_vs_continuo",
+    "keywords": [
+      "contraste",
+      "tiempo",
+      "rutina",
+      "momento"
+    ],
+    "base_response": "Es vital distinguir si estás estudiando inglés todos los días o si lo estás estudiando en este preciso instante. El presente simple abarca la rutina diaria, mientras que el presente continuo enfoca tu atención únicamente en la acción que transcurre justo ahora mismo."
+  },
+  {
+    "intent_id": "pasado_was_were_diferencia",
+    "keywords": [
+      "singular",
+      "plural",
+      "pasado",
+      "ser"
+    ],
+    "base_response": "El pasado del verbo to be se divide en dos bandos: 'was' para sujetos individuales y 'were' para grupos. Conocer cuándo usar cada forma previene errores básicos al describir el número de personas que estuvieron presentes en la fiesta escolar de anoche."
+  },
+  {
+    "intent_id": "expresiones_tiempo_pasado",
+    "keywords": [
+      "ayer",
+      "semana",
+      "marcador",
+      "temporal"
+    ],
+    "base_response": "Palabras como 'yesterday' o frases como 'last week' son marcadores temporales esenciales. Actúan como señales de tránsito en la oración, indicándole al lector u oyente que la acción ha concluido definitivamente, reforzando la elección del pasado simple en tu discurso escrito."
+  },
+  {
+    "intent_id": "preguntas_informacion_wh",
+    "keywords": [
+      "informacion",
+      "pregunta",
+      "quien",
+      "donde"
+    ],
+    "base_response": "Las palabras con Wh, como what, where o who, nos permiten obtener detalles específicos. Al combinarlas con el presente simple, podemos interrogar a nuestros compañeros sobre sus gustos, ubicación o identidad, fomentando conversaciones profundas y significativas dentro del salón de clases."
+  },
+  {
+    "intent_id": "futuro_will_vs_be_going_to",
+    "keywords": [
+      "plan",
+      "decision",
+      "futuro",
+      "intencion"
+    ],
+    "base_response": "Mientras que 'will' se utiliza frecuentemente para decisiones espontáneas tomadas al momento de hablar, otras estructuras expresan planes premeditados. Comprender esta sutil diferencia te ayudará a sonar como un hablante nativo al revelar tus verdaderas intenciones sobre los proyectos del fin de semana."
+  },
+  {
+    "intent_id": "verbos_estado_presente_simple",
+    "keywords": [
+      "estado",
+      "opinion",
+      "posesion",
+      "verbo"
+    ],
+    "base_response": "Algunos verbos, como know, like o want, expresan estados mentales o posesiones en lugar de acciones físicas. Estos verbos de estado se conjugan casi exclusivamente en presente simple, ya que describen condiciones duraderas que rara vez se expresan en formas verbales continuas o progresivas."
+  },
+  {
+    "intent_id": "pasado_simple_narrativa",
+    "keywords": [
+      "cuento",
+      "historia",
+      "secuencia",
+      "evento"
+    ],
+    "base_response": "Cuando lees un cuento clásico o una novela en inglés, la trama principal se desarrolla mayoritariamente en pasado simple. Este tiempo proporciona la estructura narrativa necesaria para secuenciar eventos cronológicamente, permitiendo al lector seguir la historia paso a paso hasta su conclusión."
+  },
+  {
+    "intent_id": "futuro_continuo_polite_requests",
+    "keywords": [
+      "cortesia",
+      "peticion",
+      "futuro",
+      "continuo"
+    ],
+    "base_response": "Curiosamente, el futuro continuo también puede emplearse para hacer preguntas de manera extremadamente educada. En lugar de exigir información directamente, preguntar si alguien estará usando un objeto suaviza la solicitud, demostrando gran tacto y modales refinados en entornos formales o académicos."
+  },
+  {
+    "intent_id": "irregular_buy_bought",
+    "keywords": [
+      "compra",
+      "dinero",
+      "tienda",
+      "pasado"
+    ],
+    "base_response": "Si fuiste al centro comercial, necesitarás el verbo irregular 'bought' para presumir lo que adquiriste. Este es el pasado de 'buy', y su pronunciación puede resultar un verdadero desafío inicial, pero es imprescindible para conversaciones sobre compras, regalos o gastos personales."
+  },
+  {
+    "intent_id": "irregular_think_thought",
+    "keywords": [
+      "pensamiento",
+      "opinion",
+      "idea",
+      "pasado"
+    ],
+    "base_response": "Expresar opiniones pasadas requiere el verbo 'thought', el pasado irregular de 'think'. Compartir lo que pensabas sobre una película antes de verla o cómo cambiaste de parecer sobre una materia escolar fomenta el debate constructivo y el intercambio de ideas intelectuales."
+  },
+  {
+    "intent_id": "irregular_catch_caught",
+    "keywords": [
+      "atrapar",
+      "deporte",
+      "movimiento",
+      "pasado"
+    ],
+    "base_response": "En el contexto deportivo, el verbo 'caught' es fundamental para narrar jugadas. Siendo el pasado de 'catch', describe la acción precisa de atrapar una pelota en el aire, añadiendo dinamismo y emoción al relatar el partido del fin de semana con amigos."
+  },
+  {
+    "intent_id": "to_be_ubicacion_geografica",
+    "keywords": [
+      "lugar",
+      "geografia",
+      "mapa",
+      "ubicacion"
+    ],
+    "base_response": "El verbo to be es esencial para las clases de geografía en inglés. Sirve para situar ciudades, países y monumentos en un mapa. Afirmar que Londres está en Inglaterra requiere esta estructura básica para comunicar conocimientos espaciales con total claridad y exactitud."
+  },
+  {
+    "intent_id": "presente_simple_horarios_transporte",
+    "keywords": [
+      "tren",
+      "autobus",
+      "horario",
+      "viaje"
+    ],
+    "base_response": "Consultar a qué hora sale el tren hacia la capital exige el uso del presente simple. Aunque el viaje ocurra en el futuro, los horarios fijos de transporte público se expresan en presente, demostrando la programación oficial y sistemática de estos servicios."
+  },
+  {
+    "intent_id": "pasado_simple_biografias",
+    "keywords": [
+      "vida",
+      "biografia",
+      "personaje",
+      "historia"
+    ],
+    "base_response": "Al escribir sobre personajes ilustres que ya fallecieron, el pasado simple es el único tiempo gramatical apropiado. Redactar una biografía detallada sobre científicos o artistas famosos implica relatar sus logros y descubrimientos utilizando acciones que terminaron definitivamente en épocas anteriores."
+  }
+]
