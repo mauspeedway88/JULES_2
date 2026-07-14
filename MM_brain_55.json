@@ -1,0 +1,607 @@
+[
+    {
+        "intent_id": "roma_fundacion",
+        "keywords": [
+            "mito",
+            "romulo",
+            "fundacion",
+            "loba",
+            "asentamiento"
+        ],
+        "base_response": "La fundación de Roma se narra mediante el famoso mito de Rómulo y Remo, gemelos amamantados por una loba. Históricamente, comenzó como un pequeño asentamiento agrícola junto al río Tíber, marcando el origen de una civilización sumamente influyente y poderosa."
+    },
+    {
+        "intent_id": "roma_republica",
+        "keywords": [
+            "republica",
+            "senado",
+            "magistrados",
+            "gobierno",
+            "patricios"
+        ],
+        "base_response": "La República romana estableció un innovador sistema de gobierno basado en magistrados electos anualmente y un Senado poderoso. Este modelo político buscaba equilibrar intereses sociales, previniendo la tiranía absoluta y sentando bases fundamentales para las democracias representativas modernas occidentales."
+    },
+    {
+        "intent_id": "roma_ejercito",
+        "keywords": [
+            "ejercito",
+            "legiones",
+            "formaciones",
+            "disciplina",
+            "victoria"
+        ],
+        "base_response": "El ejército romano se organizaba en formidables legiones, caracterizadas por su extrema disciplina militar y equipamiento estandarizado. Sus avanzadas tácticas de combate cuerpo a cuerpo garantizaron numerosas victorias decisivas, permitiendo la vasta expansión territorial por toda la cuenca del Mediterráneo."
+    },
+    {
+        "intent_id": "roma_arquitectura",
+        "keywords": [
+            "ingenieria",
+            "acueductos",
+            "anfiteatros",
+            "hormigon",
+            "construccion"
+        ],
+        "base_response": "Los romanos revolucionaron la ingeniería civil mediante la invención de un hormigón extremadamente resistente. Esto les permitió construir enormes infraestructuras públicas, como extensos acueductos para transportar agua y grandes anfiteatros destinados a espectáculos, cuyas sólidas ruinas perduran hasta la actualidad."
+    },
+    {
+        "intent_id": "roma_derecho",
+        "keywords": [
+            "derecho",
+            "leyes",
+            "sistemas",
+            "juridico",
+            "justicia"
+        ],
+        "base_response": "El derecho romano constituye el pilar esencial de innumerables sistemas jurídicos modernos alrededor del mundo. Establecieron principios legales universales de gran importancia, tales como la presunción de inocencia y el derecho a un juicio justo, ordenando la compleja vida ciudadana."
+    },
+    {
+        "intent_id": "roma_caida",
+        "keywords": [
+            "caida",
+            "colapso",
+            "invasiones",
+            "corrupcion",
+            "imperio"
+        ],
+        "base_response": "La caída del Imperio romano de Occidente fue consecuencia de profundas crisis económicas continuas, grave inestabilidad política interna y persistentes invasiones de pueblos germánicos. Este colapso histórico fragmentó políticamente a Europa, dando inicio definitivo a la denominada Edad Media."
+    },
+    {
+        "intent_id": "roma_panteon",
+        "keywords": [
+            "panteon",
+            "templo",
+            "cupula",
+            "dioses",
+            "arquitectura"
+        ],
+        "base_response": "El imponente Panteón de Agripa es un templo romano dedicado originalmente a todas sus divinidades mitológicas. Su diseño destaca mundialmente por poseer una inmensa cúpula de concreto no reforzado y una apertura circular que permite la entrada espectacular de luz natural."
+    },
+    {
+        "intent_id": "roma_gladiadores",
+        "keywords": [
+            "gladiadores",
+            "combates",
+            "anfiteatros",
+            "esclavos",
+            "entretenimiento"
+        ],
+        "base_response": "Los gladiadores romanos eran luchadores profesionalmente entrenados, generalmente esclavos capturados o prisioneros de guerra condenados. Combatían a muerte en majestuosos anfiteatros públicos para proporcionar entretenimiento violento a las multitudes y demostrar el enorme poderío organizativo de los emperadores reinantes."
+    },
+    {
+        "intent_id": "grecia_polis",
+        "keywords": [
+            "polis",
+            "ciudades",
+            "estado",
+            "independencia",
+            "gobierno"
+        ],
+        "base_response": "Las polis griegas eran ciudades estado completamente independientes, cada una con su propio sistema de gobierno, leyes y ejército. Aunque mantenían fuertes rivalidades políticas, compartían una misma lengua, veneraban a los mismos dioses y participaban pacíficamente en los Juegos Olímpicos."
+    },
+    {
+        "intent_id": "grecia_democracia",
+        "keywords": [
+            "democracia",
+            "asambleas",
+            "ciudadanos",
+            "votos",
+            "atenas"
+        ],
+        "base_response": "Atenas desarrolló la primera democracia directa del mundo, donde todos los ciudadanos varones libres participaban activamente en asambleas públicas. Allí debatían políticas estatales y votaban leyes, creando un sistema participativo inédito que inspiró profundamente a las sociedades modernas actuales."
+    },
+    {
+        "intent_id": "grecia_filosofia",
+        "keywords": [
+            "filosofia",
+            "pensadores",
+            "razon",
+            "universo",
+            "etica"
+        ],
+        "base_response": "La filosofía griega antigua buscaba comprender la naturaleza del universo y la condición humana utilizando estrictamente la razón. Pensadores brillantes como Sócrates, Platón y Aristóteles establecieron principios lógicos y éticos que siguen siendo fundamentales en el pensamiento intelectual occidental contemporáneo."
+    },
+    {
+        "intent_id": "grecia_mitologia",
+        "keywords": [
+            "mitologia",
+            "dioses",
+            "heroes",
+            "relatos",
+            "fenomenos"
+        ],
+        "base_response": "La rica mitología griega estaba compuesta por fascinantes relatos sobre poderosos dioses inmortales y valientes héroes humanos. Estas historias tradicionales explicaban los misteriosos fenómenos naturales y transmitían importantes lecciones morales, moldeando profundamente la literatura y el arte de la antigüedad."
+    },
+    {
+        "intent_id": "grecia_juegos",
+        "keywords": [
+            "juegos",
+            "olimpicos",
+            "atletas",
+            "competiciones",
+            "treguas"
+        ],
+        "base_response": "Los Juegos Olímpicos antiguos eran prestigiosas competiciones atléticas celebradas en honor al dios Zeus. Durante estos eventos deportivos, las diferentes polis griegas acordaban treguas militares sagradas, permitiendo a los atletas viajar seguros y promoviendo la unidad cultural entre los pueblos."
+    },
+    {
+        "intent_id": "grecia_teatro",
+        "keywords": [
+            "teatro",
+            "tragedia",
+            "comedia",
+            "actores",
+            "festivales"
+        ],
+        "base_response": "El teatro griego nació durante festivales religiosos dedicados a Dionisio, evolucionando hacia géneros dramáticos complejos como la tragedia y la comedia. Las obras exploraban profundos conflictos humanos y dilemas éticos, utilizando coros expresivos y actores que usaban máscaras sumamente características."
+    },
+    {
+        "intent_id": "grecia_esparta",
+        "keywords": [
+            "esparta",
+            "militares",
+            "entrenamiento",
+            "ciudadanos",
+            "disciplina"
+        ],
+        "base_response": "Esparta fue una poderosa polis griega reconocida por su sociedad estrictamente militarizada y su férrea disciplina ciudadana. Desde temprana edad, los hombres recibían un riguroso entrenamiento físico y táctico, formando el ejército terrestre más temido y letal de toda Grecia."
+    },
+    {
+        "intent_id": "egipto_faraones",
+        "keywords": [
+            "faraones",
+            "monarcas",
+            "poder",
+            "dioses",
+            "orden"
+        ],
+        "base_response": "Los faraones eran los gobernantes supremos del antiguo Egipto, considerados reencarnaciones terrenales de divinidades como Horus. Ejercían un poder absoluto sobre el pueblo, dirigían los ejércitos nacionales y debían garantizar el orden cósmico mediante la celebración constante de rituales sagrados."
+    },
+    {
+        "intent_id": "egipto_piramides",
+        "keywords": [
+            "piramides",
+            "tumbas",
+            "construccion",
+            "eternidad",
+            "monumentos"
+        ],
+        "base_response": "Las pirámides egipcias son monumentales tumbas de piedra construidas con extraordinaria precisión matemática. Fueron diseñadas específicamente para proteger los cuerpos momificados de los faraones y asegurar su exitoso viaje hacia la vida eterna, requiriendo el trabajo organizado de miles de obreros."
+    },
+    {
+        "intent_id": "egipto_nilo",
+        "keywords": [
+            "inundaciones",
+            "agricultura",
+            "cosechas",
+            "limo",
+            "civilizacion"
+        ],
+        "base_response": "El río Nilo fue el recurso natural fundamental que permitió el desarrollo de la antigua civilización egipcia. Sus predecibles inundaciones anuales depositaban tierras sumamente fértiles en las riberas, asegurando abundantes cosechas agrícolas necesarias para alimentar a una población en constante crecimiento."
+    },
+    {
+        "intent_id": "egipto_momificacion",
+        "keywords": [
+            "momificacion",
+            "ritual",
+            "preservacion",
+            "cuerpo",
+            "alma"
+        ],
+        "base_response": "La momificación era un complejo proceso ritual utilizado para preservar artificialmente el cuerpo de los difuntos. Los egipcios creían firmemente que la supervivencia del alma en la vida ultraterrena dependía por completo de mantener su envoltorio físico en perfectas condiciones."
+    },
+    {
+        "intent_id": "egipto_jeroglificos",
+        "keywords": [
+            "jeroglificos",
+            "escritura",
+            "simbolos",
+            "textos",
+            "papiros"
+        ],
+        "base_response": "Los jeroglíficos conformaban un hermoso sistema de escritura compuesto por cientos de símbolos pictóricos detallados. Se tallaban principalmente en los muros de los templos religiosos y se escribían sobre rollos de papiro para registrar decretos reales y conjuros funerarios importantes."
+    },
+    {
+        "intent_id": "ww1_trincheras",
+        "keywords": [
+            "trincheras",
+            "frente",
+            "soldados",
+            "condiciones",
+            "enfermedades"
+        ],
+        "base_response": "La Primera Guerra Mundial se caracterizó por el estancamiento de las tropas en extensas redes de trincheras excavadas. Los soldados soportaban condiciones de vida deplorables, conviviendo con el barro persistente, enfermedades contagiosas mortales y el constante peligro de bombardeos de artillería."
+    },
+    {
+        "intent_id": "ww1_armas",
+        "keywords": [
+            "armas",
+            "gases",
+            "ataques",
+            "sufrimiento",
+            "innovacion"
+        ],
+        "base_response": "Durante la Primera Guerra Mundial se introdujeron mortíferas armas químicas como el gas mostaza y el cloro. Estos innovadores métodos de ataque provocaban asfixia severa y ceguera permanente, generando un profundo terror psicológico entre las tropas y cambiando las tácticas bélicas."
+    },
+    {
+        "intent_id": "ww1_alianzas",
+        "keywords": [
+            "alianzas",
+            "imperios",
+            "potencias",
+            "conflicto",
+            "pactos"
+        ],
+        "base_response": "El inicio de la Primera Guerra Mundial fue precipitado por un complejo sistema de alianzas militares defensivas europeas. Cuando estalló la crisis diplomática en los Balcanes, estos pactos previos obligaron a las grandes potencias imperialistas a movilizar rápidamente sus vastos ejércitos."
+    },
+    {
+        "intent_id": "ww1_versalles",
+        "keywords": [
+            "tratado",
+            "reparaciones",
+            "alemania",
+            "condiciones",
+            "resentimiento"
+        ],
+        "base_response": "El Tratado de Versalles impuso condiciones de paz extremadamente severas y humillantes a la derrotada nación alemana. Las exorbitantes reparaciones económicas y las fuertes restricciones militares provocaron una grave crisis interna, sembrando un resentimiento nacionalista que facilitaría posteriores conflictos europeos masivos."
+    },
+    {
+        "intent_id": "ww2_blitzkrieg",
+        "keywords": [
+            "tactica",
+            "ataques",
+            "blindados",
+            "aviones",
+            "ofensiva"
+        ],
+        "base_response": "La guerra relámpago fue una revolucionaria táctica militar alemana basada en la rapidez, sorpresa y fuerza concentrada. Utilizaba formaciones compactas de tanques fuertemente apoyadas por aviones bombarderos para romper las líneas defensivas enemigas, evitando el desgaste de largas batallas estáticas."
+    },
+    {
+        "intent_id": "ww2_holocausto",
+        "keywords": [
+            "genocidio",
+            "campos",
+            "victimas",
+            "exterminio",
+            "persecucion"
+        ],
+        "base_response": "El Holocausto fue el genocidio sistemático organizado estatalmente por el régimen nazi durante la Segunda Guerra Mundial. Millones de judíos y miembros de otras minorías perseguidas fueron asesinados cruelmente en campos de exterminio, constituyendo una de las mayores tragedias humanas documentadas."
+    },
+    {
+        "intent_id": "ww2_pearl_harbor",
+        "keywords": [
+            "ataque",
+            "flota",
+            "bombardeo",
+            "sorpresa",
+            "pacifico"
+        ],
+        "base_response": "El sorpresivo ataque aéreo japonés contra la base naval de Pearl Harbor diezmó gran parte de la flota estadounidense del Pacífico. Este audaz bombardeo provocó que Estados Unidos declarara la guerra inmediatamente, alterando definitivamente el equilibrio militar del prolongado conflicto mundial."
+    },
+    {
+        "intent_id": "ww2_desembarco",
+        "keywords": [
+            "invasion",
+            "playas",
+            "aliados",
+            "frente",
+            "liberacion"
+        ],
+        "base_response": "El Día D marcó el inicio de la gigantesca operación militar anfibia de los aliados occidentales en las playas de Normandía. Esta arriesgada invasión permitió abrir un nuevo frente de combate terrestre decisivo, iniciando la paulatina liberación de los territorios ocupados."
+    },
+    {
+        "intent_id": "fria_muro",
+        "keywords": [
+            "muro",
+            "barrera",
+            "division",
+            "fugas",
+            "comunismo"
+        ],
+        "base_response": "El Muro de Berlín fue una barrera fortificada que dividió físicamente la antigua capital alemana durante casi tres décadas. Construido para detener las masivas fugas ciudadanas hacia occidente, se convirtió en el principal símbolo material de la opresiva represión del bloque comunista."
+    },
+    {
+        "intent_id": "fria_espacial",
+        "keywords": [
+            "carrera",
+            "espacio",
+            "satelites",
+            "competencia",
+            "astronautas"
+        ],
+        "base_response": "La carrera espacial fue una intensa competencia tecnológica y política entre las superpotencias para lograr hitos históricos pioneros en la exploración del cosmos. Impulsó el rápido desarrollo de cohetes potentes, el lanzamiento de satélites artificiales y finalmente el histórico viaje lunar."
+    },
+    {
+        "intent_id": "fria_misiles",
+        "keywords": [
+            "crisis",
+            "misiles",
+            "bloqueo",
+            "tension",
+            "guerra"
+        ],
+        "base_response": "La Crisis de los misiles en Cuba representó el momento de mayor peligro inminente de confrontación nuclear directa durante la Guerra Fría. El descubrimiento de bases de lanzamiento soviéticas cercanas desencadenó un tenso bloqueo naval estadounidense que alarmó al mundo entero."
+    },
+    {
+        "intent_id": "fria_otan",
+        "keywords": [
+            "alianza",
+            "defensa",
+            "pacto",
+            "seguridad",
+            "potencias"
+        ],
+        "base_response": "La Organización del Tratado del Atlántico Norte se fundó como una sólida alianza militar intergubernamental de defensa colectiva. Su principal objetivo estratégico era disuadir la expansión de la influencia soviética en Europa Occidental, comprometiendo a sus miembros a protegerse mutuamente siempre."
+    },
+    {
+        "intent_id": "fria_vietnam",
+        "keywords": [
+            "guerra",
+            "intervencion",
+            "selva",
+            "protestas",
+            "guerrillas"
+        ],
+        "base_response": "La Guerra de Vietnam fue un prolongado conflicto donde Estados Unidos intervino para evitar que todo el país adoptara el sistema comunista. El duro enfrentamiento contra guerrillas locales en densas selvas causó enormes bajas militares y provocó masivas protestas pacifistas internacionales."
+    },
+    {
+        "intent_id": "roma_latin",
+        "keywords": [
+            "latin",
+            "idioma",
+            "lengua",
+            "expansion",
+            "influencia"
+        ],
+        "base_response": "El latín fue el idioma oficial que unificó lingüísticamente al extenso Imperio romano y facilitó la administración estatal. Su persistente influencia cultural originó posteriormente las modernas lenguas romances habladas en el mundo y consolidó el vocabulario científico, legal y eclesiástico contemporáneo."
+    },
+    {
+        "intent_id": "roma_pompeya",
+        "keywords": [
+            "cenizas",
+            "volcan",
+            "ciudad",
+            "erupcion",
+            "ruinas"
+        ],
+        "base_response": "La ciudad romana de Pompeya quedó repentinamente sepultada bajo metros de cenizas volcánicas candentes tras la catastrófica erupción del monte Vesubio. Este trágico desastre natural preservó asombrosamente viviendas cotidianas y frescos vívidos, proporcionando conocimientos arqueológicos invaluables sobre la vida antigua."
+    },
+    {
+        "intent_id": "roma_catacumbas",
+        "keywords": [
+            "catacumbas",
+            "galerias",
+            "cristianos",
+            "culto",
+            "tumbas"
+        ],
+        "base_response": "Las catacumbas romanas eran extensas redes de galerías subterráneas utilizadas principalmente como cementerios colectivos por las primeras comunidades cristianas. Durante épocas de severa prohibición y persecución imperial, estos lugares ocultos servían como refugios seguros para celebrar discretos cultos religiosos prohibidos."
+    },
+    {
+        "intent_id": "roma_vias",
+        "keywords": [
+            "vias",
+            "calzadas",
+            "caminos",
+            "tropas",
+            "comercio"
+        ],
+        "base_response": "Las vías romanas conformaban una sofisticada red de calzadas empedradas sumamente duraderas que conectaban eficientemente todas las provincias imperiales. Facilitaban el rápido movimiento de legiones militares, impulsaban el comercio mercantil y aseguraban una rápida comunicación terrestre a lo largo del imperio."
+    },
+    {
+        "intent_id": "roma_foro",
+        "keywords": [
+            "foro",
+            "plaza",
+            "politica",
+            "mercados",
+            "centro"
+        ],
+        "base_response": "El Foro Romano era el corazón político, económico y religioso palpitante de la gran ciudad imperial de la antigüedad. Concentraba impresionantes edificios gubernamentales, majestuosos monumentos conmemorativos y concurridos mercados bulliciosos, siendo el centro neurálgico indiscutible de la intensa vida pública ciudadana."
+    },
+    {
+        "intent_id": "grecia_homer",
+        "keywords": [
+            "homero",
+            "poeta",
+            "epica",
+            "iliada",
+            "odisea"
+        ],
+        "base_response": "Homero es el legendario poeta épico tradicionalmente considerado como el autor principal de las obras clásicas Ilíada y Odisea. Sus fundamentales poemas narrativos transmitían valores heroicos profundos, conformando la base esencial de la educación y la identidad cultural de toda Grecia."
+    },
+    {
+        "intent_id": "grecia_socrates",
+        "keywords": [
+            "socrates",
+            "filosofo",
+            "dialogos",
+            "verdad",
+            "juicio"
+        ],
+        "base_response": "Sócrates fue un filósofo ateniense inmensamente influyente que cuestionaba profundamente las creencias arraigadas mediante el uso constante del diálogo lógico. Su método de interrogación incisiva incomodó seriamente a las autoridades civiles, llevándolo a ser juzgado públicamente y finalmente ejecutado tomando veneno."
+    },
+    {
+        "intent_id": "grecia_medicina",
+        "keywords": [
+            "medicina",
+            "hipocrates",
+            "observacion",
+            "enfermedades",
+            "etica"
+        ],
+        "base_response": "La medicina griega temprana, liderada por figuras destacadas como Hipócrates, rechazó las explicaciones sobrenaturales para las enfermedades humanas. Adoptaron enfoques basados estrictamente en la observación clínica detallada y el cuidado paciente, estableciendo sólidos cimientos éticos para la práctica médica profesional occidental."
+    },
+    {
+        "intent_id": "grecia_alejandria",
+        "keywords": [
+            "ciudad",
+            "faro",
+            "biblioteca",
+            "conocimiento",
+            "cultura"
+        ],
+        "base_response": "Alejandría fue la brillante metrópoli egipcia fundada exitosamente por el conquistador Alejandro Magno. Albergó la monumental biblioteca más grande de la antigüedad y un gigantesco faro luminoso, convirtiéndose rápidamente en el centro intelectual y comercial más importante del mundo mediterráneo helenístico."
+    },
+    {
+        "intent_id": "grecia_espartaco",
+        "keywords": [
+            "espartaco",
+            "esclavo",
+            "gladiador",
+            "rebelion",
+            "ejercito"
+        ],
+        "base_response": "Espartaco fue un valiente gladiador que lideró heroicamente una inmensa y desesperada rebelión de esclavos contra la poderosa República romana. Aunque finalmente fueron derrotados militarmente, su gran revuelta masiva simbolizó la férrea resistencia humana frente a la cruel e injusta opresión esclavista."
+    },
+    {
+        "intent_id": "egipto_rosetta",
+        "keywords": [
+            "piedra",
+            "desciframiento",
+            "jeroglificos",
+            "lenguas",
+            "traduccion"
+        ],
+        "base_response": "La famosa Piedra de Rosetta permitió el exitoso desciframiento definitivo de los antiguos jeroglíficos egipcios largo tiempo olvidados. Al contener el mismo texto administrativo grabado en tres escrituras diferentes, proporcionó la clave lingüística esencial para comprender su vasta literatura milenaria."
+    },
+    {
+        "intent_id": "egipto_cleopatra",
+        "keywords": [
+            "cleopatra",
+            "reina",
+            "politica",
+            "alianzas",
+            "roma"
+        ],
+        "base_response": "Cleopatra fue la última gobernante independiente del reino egipcio, famosa mundialmente por su inmensa astucia política y habilidades diplomáticas. Estableció alianzas estratégicas audaces con líderes romanos intentando desesperadamente proteger la soberanía de su rica nación frente a la creciente expansión imperial."
+    },
+    {
+        "intent_id": "egipto_papiro",
+        "keywords": [
+            "papiro",
+            "planta",
+            "rollos",
+            "escritura",
+            "documentos"
+        ],
+        "base_response": "El papiro era un soporte de escritura sumamente resistente elaborado mediante el prensado cuidadoso de tallos vegetales acuáticos abundantes en el Nilo. Revolucionó enormemente la administración burocrática estatal y permitió documentar extensos conocimientos médicos y textos literarios invaluables."
+    },
+    {
+        "intent_id": "ww1_submarinos",
+        "keywords": [
+            "submarinos",
+            "barcos",
+            "ataques",
+            "hundimiento",
+            "bloqueo"
+        ],
+        "base_response": "La guerra submarina indiscriminada fue una agresiva táctica naval alemana diseñada para hundir implacablemente barcos mercantes y civiles enemigos. El trágico hundimiento del gran barco pasajero Lusitania provocó una intensa indignación internacional generalizada, acelerando decisivamente la entrada estadounidense al prolongado conflicto."
+    },
+    {
+        "intent_id": "ww1_propaganda",
+        "keywords": [
+            "propaganda",
+            "carteles",
+            "apoyo",
+            "nacionalismo",
+            "moral"
+        ],
+        "base_response": "La propaganda estatal organizada fue utilizada intensivamente para movilizar eficazmente poblaciones enteras mediante poderosos carteles nacionalistas visuales sumamente emotivos. Demonizaban ferozmente al bando enemigo cruelmente y fomentaban fuertemente el reclutamiento voluntario, justificando los enormes y dolorosos sacrificios materiales exigidos diariamente."
+    },
+    {
+        "intent_id": "ww2_stalingrado",
+        "keywords": [
+            "batalla",
+            "ciudad",
+            "enfrentamiento",
+            "invierno",
+            "victoria"
+        ],
+        "base_response": "La Batalla de Stalingrado fue un enfrentamiento urbano extremadamente sangriento entre las aguerridas fuerzas soviéticas y las tropas alemanas invasoras. La decisiva victoria militar rusa logró detener el veloz avance nazi, convirtiéndose en el punto de inflexión definitivo del inmenso conflicto."
+    },
+    {
+        "intent_id": "ww2_kamikazes",
+        "keywords": [
+            "pilotos",
+            "aviones",
+            "suicidios",
+            "ataques",
+            "honor"
+        ],
+        "base_response": "Los kamikazes eran pilotos suicidas japoneses altamente adoctrinados que estrellaban deliberadamente sus veloces aviones cargados de explosivos contra barcos aliados. Esta táctica extrema reflejaba desesperación estratégica y un profundo código de honor militar que exigía el sacrificio incondicional por el emperador."
+    },
+    {
+        "intent_id": "fria_chernobyl",
+        "keywords": [
+            "accidente",
+            "planta",
+            "nuclear",
+            "radiacion",
+            "desastre"
+        ],
+        "base_response": "El desastre nuclear de Chernóbil fue una inmensa y catastrófica explosión letal ocurrida en una planta soviética ucraniana deficientemente mantenida. Liberó masivas nubes radiactivas tóxicas sobre Europa, evidenciando las graves fallas tecnológicas y el hermetismo informativo del bloque comunista europeo."
+    },
+    {
+        "intent_id": "ww2_enigma",
+        "keywords": [
+            "maquina",
+            "codigos",
+            "comunicaciones",
+            "desciframiento",
+            "guerra"
+        ],
+        "base_response": "La máquina Enigma era un complejo dispositivo electromecánico utilizado por el ejército alemán para codificar secretamente sus cruciales comunicaciones tácticas. El exitoso y brillante desciframiento británico de estos difíciles códigos permitió a los aliados anticipar ataques enemigos, acortando significativamente la guerra."
+    },
+    {
+        "intent_id": "ww2_normandia",
+        "keywords": [
+            "desembarco",
+            "playas",
+            "invasion",
+            "operacion",
+            "tropas"
+        ],
+        "base_response": "El histórico desembarco de Normandía fue la operación anfibia más grande ejecutada por los ejércitos aliados occidentales durante la guerra. Esta compleja maniobra permitió establecer rápidamente una sólida cabeza de playa en Francia, iniciando la decisiva liberación de la Europa ocupada."
+    },
+    {
+        "intent_id": "fria_berlin_muro",
+        "keywords": [
+            "muro",
+            "berlin",
+            "ciudad",
+            "separacion",
+            "simbolo"
+        ],
+        "base_response": "El infame Muro de Berlín separó brutalmente a familias y dividió físicamente la capital alemana mediante vigilancia armada letal. Representó el aislamiento opresivo del régimen soviético oriental, impidiendo la migración masiva de ciudadanos hacia el sistema capitalista y democrático de occidente."
+    },
+    {
+        "intent_id": "fria_espionaje",
+        "keywords": [
+            "espionaje",
+            "agencias",
+            "secretos",
+            "operaciones",
+            "inteligencia"
+        ],
+        "base_response": "El espionaje internacional secreto liderado activamente por agencias de inteligencia como la CIA y la KGB caracterizó fuertemente la Guerra Fría. Ambas superpotencias mundiales operaban extensas redes clandestinas globales para robar secretos nucleares y desestabilizar gobiernos opositores mediante misiones encubiertas estratégicas."
+    }
+]
