@@ -1,0 +1,167 @@
+[
+  {
+    "intent_id": "funcion_seno_relacion",
+    "keywords": [
+      "seno",
+      "trigonometria",
+      "triangulo",
+      "cateto",
+      "hipotenusa"
+    ],
+    "base_response": "La función seno en un triángulo rectángulo se define como la razón entre el cateto opuesto al ángulo y la hipotenusa. Es fundamental para resolver problemas de distancias inaccesibles y modelar fenómenos periódicos como las ondas sonoras o electromagnéticas."
+  },
+  {
+    "intent_id": "funcion_coseno_angulo",
+    "keywords": [
+      "coseno",
+      "razon",
+      "adyacente",
+      "proyeccion",
+      "angulo"
+    ],
+    "base_response": "El coseno relaciona el cateto adyacente con la hipotenusa en un triángulo rectángulo. En el círculo unitario, representa la coordenada horizontal de un punto, permitiendo calcular proyecciones y resolver sistemas de fuerzas en física mecánica mediante análisis vectorial."
+  },
+  {
+    "intent_id": "tangente_pendiente_recta",
+    "keywords": [
+      "tangente",
+      "opuesto",
+      "inclinacion",
+      "pendiente",
+      "recta"
+    ],
+    "base_response": "La tangente trigonométrica vincula el cateto opuesto con el adyacente, omitiendo la hipotenusa. Geométrica y analíticamente, este valor coincide con la pendiente de una recta, indicando su grado de inclinación respecto al eje horizontal del plano cartesiano."
+  },
+  {
+    "intent_id": "teorema_pitagoras_base",
+    "keywords": [
+      "teorema",
+      "pitagoras",
+      "suma",
+      "cuadrados",
+      "lados"
+    ],
+    "base_response": "El teorema de Pitágoras establece que el cuadrado de la hipotenusa equivale a la suma de los cuadrados de los catetos. Esta premisa geométrica sustenta toda la trigonometría plana y permite hallar dimensiones desconocidas en estructuras rectangulares."
+  },
+  {
+    "intent_id": "medicion_radianes_arco",
+    "keywords": [
+      "radianes",
+      "medida",
+      "arco",
+      "radio",
+      "circunferencia"
+    ],
+    "base_response": "Los radianes son una unidad de medida angular basada en la longitud del arco. Un radián es el ángulo central subtendido por un arco cuya longitud iguala al radio, facilitando cálculos precisos en cálculo diferencial y movimiento circular."
+  },
+  {
+    "intent_id": "cosecante_razon_inversa",
+    "keywords": [
+      "cosecante",
+      "inversa",
+      "multiplicativa",
+      "fraccion",
+      "hipotenusa"
+    ],
+    "base_response": "La cosecante es la razón trigonométrica recíproca del seno. Se calcula dividiendo la medida de la hipotenusa entre el cateto opuesto. Resulta indispensable al simplificar identidades trigonométricas complejas y resolver ecuaciones donde el seno aparece en el denominador."
+  },
+  {
+    "intent_id": "secante_complemento_calculo",
+    "keywords": [
+      "secante",
+      "inverso",
+      "coseno",
+      "relacion",
+      "cociente"
+    ],
+    "base_response": "Definida como la inversa multiplicativa del coseno, la secante relaciona la hipotenusa dividida por el cateto adyacente. Su uso principal radica en el cálculo de distancias proyectadas y en la resolución de integrales trigonométricas en matemáticas avanzadas."
+  },
+  {
+    "intent_id": "cotangente_trigonometria_plana",
+    "keywords": [
+      "cotangente",
+      "complementaria",
+      "razon",
+      "triangulo",
+      "adyacente"
+    ],
+    "base_response": "La cotangente, siendo la razón inversa de la tangente, vincula el cateto adyacente sobre el cateto opuesto. Es muy utilizada en problemas de topografía cuando se conocen las distancias horizontales pero se desconoce la elevación del terreno analizado."
+  },
+  {
+    "intent_id": "circulo_unitario_cuadrantes",
+    "keywords": [
+      "circulo",
+      "unitario",
+      "radio",
+      "plano",
+      "coordenadas"
+    ],
+    "base_response": "El círculo trigonométrico tiene radio igual a uno y su centro coincide con el origen del plano cartesiano. Permite generalizar las funciones trigonométricas para ángulos mayores a noventa grados, analizando los signos según el cuadrante correspondiente."
+  },
+  {
+    "intent_id": "ley_senos_proporcionalidad",
+    "keywords": [
+      "ley",
+      "proporcion",
+      "senos",
+      "lados",
+      "vertices"
+    ],
+    "base_response": "La ley de senos dicta que los lados de cualquier triángulo son proporcionales a los senos de sus ángulos opuestos. Esta regla resulta crucial para resolver triángulos oblicuángulos donde conocemos un lado y dos de sus ángulos respectivos."
+  },
+  {
+    "intent_id": "ley_cosenos_generalizacion",
+    "keywords": [
+      "ley",
+      "cosenos",
+      "generalizacion",
+      "pitagoras",
+      "triangulos"
+    ],
+    "base_response": "Conocida como la generalización del teorema pitagórico, la ley de cosenos permite determinar la longitud de un tercer lado en un triángulo cualquiera, conociendo dos de sus lados y el ángulo que estos forman entre sí."
+  },
+  {
+    "intent_id": "identidad_pitagorica_principal",
+    "keywords": [
+      "identidad",
+      "pitagorica",
+      "suma",
+      "cuadrados",
+      "unidad"
+    ],
+    "base_response": "La identidad pitagórica principal indica que la suma de los cuadrados del seno y del coseno de un mismo ángulo siempre resulta en uno. Es la herramienta algebraica más poderosa para simplificar y demostrar equivalencias trigonométricas complejas."
+  },
+  {
+    "intent_id": "angulos_notables_exactos",
+    "keywords": [
+      "angulos",
+      "notables",
+      "valores",
+      "exactos",
+      "radicais"
+    ],
+    "base_response": "Los ángulos notables, como treinta, cuarenta y cinco o sesenta grados, poseen valores trigonométricos exactos expresables mediante fracciones y raíces cuadradas simples. Memorizar estos valores agiliza enormemente la resolución de problemas en geometría, física y matemáticas aplicadas."
+  },
+  {
+    "intent_id": "angulos_elevacion_visual",
+    "keywords": [
+      "angulos",
+      "elevacion",
+      "visual",
+      "horizontal",
+      "objeto"
+    ],
+    "base_response": "El ángulo de elevación se forma entre la línea visual horizontal del observador y la línea trazada hacia un objeto situado por encima. Se emplea frecuentemente en astronomía y arquitectura para calcular alturas de edificios o montañas lejanas."
+  },
+  {
+    "intent_id": "angulos_depresion_observacion",
+    "keywords": [
+      "angulos",
+      "depresion",
+      "horizonte",
+      "descenso",
+      "medicion"
+    ],
+    "base_response": "Contrario a la elevación, el ángulo de depresión se mide desde una visual horizontal hacia un punto localizado en un nivel inferior. Resulta fundamental en navegación marítima y aérea para calcular distancias de descenso hacia objetivos específicos."
+  }
+]
