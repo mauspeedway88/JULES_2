@@ -1,0 +1,255 @@
+[
+    {
+        "intent_id": "porcentaje_basico_definicion",
+        "keywords": [
+            "porcentaje",
+            "cantidad",
+            "calculo",
+            "valor",
+            "resultado"
+        ],
+        "base_response": "El porcentaje expresa una parte de una cantidad usando base cien. Permite comparar proporciones y analizar cambios en diferentes contextos. Comprenderlo ayuda a interpretar descuentos, incrementos y variaciones en situaciones escolares, comerciales y cotidianas con claridad numérica."
+    },
+    {
+        "intent_id": "proporcion_directa_concepto",
+        "keywords": [
+            "proporcion",
+            "magnitud",
+            "relacion",
+            "aumento",
+            "calculo"
+        ],
+        "base_response": "La proporción directa ocurre cuando dos magnitudes crecen o disminuyen juntas manteniendo una relación constante. Comprenderla permite resolver problemas donde un cambio afecta proporcionalmente al otro, facilitando análisis en compras, escalas y situaciones matemáticas frecuentes."
+    },
+    {
+        "intent_id": "regla_de_tres_simple",
+        "keywords": [
+            "regla",
+            "calculo",
+            "proporcion",
+            "magnitud",
+            "resultado"
+        ],
+        "base_response": "La regla de tres simple permite encontrar un valor desconocido usando una relación proporcional entre tres datos. Es una herramienta útil para resolver problemas de porcentajes, escalas, precios y conversiones que requieren mantener coherencia numérica."
+    },
+    {
+        "intent_id": "calculo_descuentos_comerciales",
+        "keywords": [
+            "descuento",
+            "precio",
+            "porcentaje",
+            "rebaja",
+            "calculo"
+        ],
+        "base_response": "El cálculo de descuentos consiste en reducir un precio aplicando un porcentaje determinado. Comprender este proceso ayuda a evaluar ofertas, comparar costos y tomar decisiones informadas al comprar productos o servicios en diferentes situaciones comerciales."
+    },
+    {
+        "intent_id": "incremento_porcentual_valor",
+        "keywords": [
+            "incremento",
+            "porcentaje",
+            "aumento",
+            "cantidad",
+            "calculo"
+        ],
+        "base_response": "El incremento porcentual mide cuánto aumenta una cantidad respecto a su valor inicial. Se calcula aplicando un porcentaje sobre la cifra original. Este concepto permite analizar subidas de precios, crecimiento poblacional y variaciones numéricas importantes."
+    },
+    {
+        "intent_id": "razon_matematica_comparativa",
+        "keywords": [
+            "razon",
+            "comparacion",
+            "magnitud",
+            "relacion",
+            "calculo"
+        ],
+        "base_response": "La razón es una comparación entre dos magnitudes que muestra cuántas veces una contiene a la otra. Es fundamental para comprender proporciones, escalas y relaciones numéricas que permiten interpretar situaciones matemáticas y cotidianas con precisión."
+    },
+    {
+        "intent_id": "indice_inflacion",
+        "keywords": [
+            "inflacion",
+            "precio",
+            "variacion",
+            "porcentaje",
+            "economia"
+        ],
+        "base_response": "El índice de inflación mide el aumento general de precios en un periodo. Comprenderlo ayuda a interpretar cambios económicos, analizar el valor del dinero y relacionar porcentajes con situaciones reales que afectan la vida cotidiana."
+    },
+    {
+        "intent_id": "calculo_porcentajes_basicos",
+        "keywords": [
+            "porcentaje",
+            "cantidad",
+            "calculo",
+            "resultado",
+            "variacion"
+        ],
+        "base_response": "El cálculo de porcentajes permite determinar qué parte representa una cantidad respecto a un total. Se usa para analizar descuentos, incrementos y comparaciones numéricas. Comprenderlo ayuda a interpretar datos cotidianos y resolver problemas prácticos con mayor precisión."
+    },
+    {
+        "intent_id": "constante_proporcionalidad",
+        "keywords": [
+            "constante",
+            "proporcionalidad",
+            "relacion",
+            "magnitudes",
+            "calculo"
+        ],
+        "base_response": "La constante de proporcionalidad indica cuánto cambia una magnitud respecto a otra en relaciones directas. Identificarla permite predecir valores, verificar coherencia y construir tablas proporcionales. Es esencial para comprender funciones lineales y situaciones matemáticas reales."
+    },
+    {
+        "intent_id": "tasa_interes_simple",
+        "keywords": [
+            "interes",
+            "tasa",
+            "capital",
+            "tiempo",
+            "calculo"
+        ],
+        "base_response": "El interés simple calcula la ganancia generada por un capital durante cierto tiempo usando una tasa fija. Permite comprender préstamos, ahorros y operaciones financieras básicas. Su estudio ayuda a interpretar situaciones reales donde el dinero crece de manera proporcional."
+    },
+    {
+        "intent_id": "cuarta_proporcional_calculo",
+        "keywords": [
+            "proporcional",
+            "cuarta",
+            "relacion",
+            "magnitudes",
+            "calculo"
+        ],
+        "base_response": "La cuarta proporcional es un valor que completa una proporción manteniendo la igualdad entre razones. Se usa para resolver problemas de escalas, repartos y conversiones. Comprenderla fortalece el razonamiento proporcional y la interpretación de relaciones numéricas coherentes."
+    },
+    {
+        "intent_id": "reparto_directamente_proporcional",
+        "keywords": [
+            "reparto",
+            "proporcional",
+            "magnitudes",
+            "division",
+            "calculo"
+        ],
+        "base_response": "El reparto directamente proporcional distribuye una cantidad según el peso relativo de cada participante. Quien tiene mayor valor recibe más. Este método permite asignar recursos, costos o beneficios de manera justa siguiendo relaciones matemáticas claras y verificables."
+    },
+    {
+        "intent_id": "ganancia_comercial_neta",
+        "keywords": [
+            "ganancia",
+            "comercial",
+            "venta",
+            "costo",
+            "calculo"
+        ],
+        "base_response": "La ganancia comercial neta representa el beneficio obtenido después de restar costos al precio de venta. Permite evaluar resultados económicos y comprender operaciones básicas de comercio. Su estudio ayuda a interpretar situaciones reales de negocio y administración sencilla."
+    },
+    {
+        "intent_id": "factor_conversion_proporcional",
+        "keywords": [
+            "factor",
+            "conversion",
+            "magnitudes",
+            "equivalencia",
+            "calculo"
+        ],
+        "base_response": "El factor de conversión permite transformar una unidad en otra manteniendo la equivalencia proporcional. Se usa en medidas de longitud, masa, tiempo y escalas diversas. Comprenderlo facilita resolver problemas prácticos y aplicar relaciones numéricas coherentes."
+    },
+    {
+        "intent_id": "escalas_en_mapas",
+        "keywords": [
+            "escala",
+            "mapa",
+            "distancia",
+            "proporcion",
+            "representacion"
+        ],
+        "base_response": "Las escalas en mapas indican la relación entre una distancia real y su representación gráfica. Permiten calcular recorridos y comprender tamaños geográficos. Facilitan interpretar planos y ubicar lugares con precisión usando proporciones que reducen o amplían magnitudes."
+    },
+    {
+        "intent_id": "calculo_porcentual_basico",
+        "keywords": [
+            "porcentaje",
+            "cantidad",
+            "calculo",
+            "resultado",
+            "variacion"
+        ],
+        "base_response": "El cálculo porcentual permite determinar qué parte representa una cantidad respecto a otra. Se usa para analizar cambios, comparar valores y comprender incrementos o descuentos. Facilita interpretar situaciones cotidianas donde intervienen proporciones numéricas claras y relaciones cuantitativas directas."
+    },
+    {
+        "intent_id": "relacion_parte_todo",
+        "keywords": [
+            "relacion",
+            "parte",
+            "todo",
+            "proporcion",
+            "calculo"
+        ],
+        "base_response": "La relación parte‑todo muestra cómo una porción se vincula con el conjunto completo. Permite calcular porcentajes, fracciones y proporciones útiles para interpretar datos, analizar distribuciones y comprender cómo se divide una cantidad total en segmentos significativos y comparables."
+    },
+    {
+        "intent_id": "porcentajes_basicos_cantidad",
+        "keywords": [
+            "porcentaje",
+            "cantidad",
+            "calculo",
+            "resultado",
+            "valor"
+        ],
+        "base_response": "El porcentaje permite expresar una parte de una cantidad total usando la base cien. Comprenderlo ayuda a calcular fracciones de números y comparar magnitudes de manera clara. Es fundamental para resolver problemas cotidianos relacionados con compras, medidas y análisis numéricos."
+    },
+    {
+        "intent_id": "relacion_parte_todo_proporcion",
+        "keywords": [
+            "relacion",
+            "parte",
+            "todo",
+            "proporcion",
+            "calculo"
+        ],
+        "base_response": "La relación parte‑todo expresa cómo una sección de un conjunto se compara con el total. Es fundamental para comprender porcentajes, fracciones y proporciones. Permite analizar datos, interpretar gráficos y resolver problemas que involucran divisiones cuantitativas."
+    },
+    {
+        "intent_id": "interes_simple_finanzas_basicas",
+        "keywords": [
+            "interes",
+            "capital",
+            "tiempo",
+            "tasa",
+            "calculo"
+        ],
+        "base_response": "El interés simple se obtiene aplicando una tasa fija sobre un capital durante cierto tiempo. Su cálculo permite comprender préstamos, ahorros y ganancias básicas. Los estudiantes aprenden a interpretar montos finales y analizar decisiones financieras sencillas con mayor seguridad."
+    },
+    {
+        "intent_id": "proporcionalidad_compuesta_mixta",
+        "keywords": [
+            "proporcionalidad",
+            "compuesta",
+            "magnitud",
+            "relacion",
+            "calculo"
+        ],
+        "base_response": "La proporcionalidad compuesta combina varias relaciones directas o inversas entre distintas magnitudes. Comprenderla permite resolver problemas complejos donde intervienen múltiples factores. Los estudiantes aplican razonamiento matemático para identificar dependencias y calcular valores coherentes en diversas situaciones."
+    },
+    {
+        "intent_id": "proporciones_directas_regla_tres",
+        "keywords": [
+            "proporcion",
+            "magnitud",
+            "relacion",
+            "calculo",
+            "aumento"
+        ],
+        "base_response": "La proporción directa relaciona dos magnitudes que crecen juntas. Usar la regla de tres facilita encontrar valores faltantes manteniendo la misma razón. Es útil para resolver problemas de escalas, repartos y situaciones donde ambas cantidades varían proporcionalmente."
+    },
+    {
+        "intent_id": "monto_final_acumulado",
+        "keywords": [
+            "monto",
+            "capital",
+            "interes",
+            "acumulacion",
+            "calculo"
+        ],
+        "base_response": "El monto final acumulado es la suma del capital inicial y el interés generado. Permite conocer cuánto dinero se obtiene al finalizar una inversión o préstamo. Su cálculo ayuda a planificar metas financieras y evaluar beneficios económicos."
+    }
+]
