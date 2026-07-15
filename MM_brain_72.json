@@ -1,0 +1,1157 @@
+[
+    {
+        "intent_id": "alcaldia_recoleccion_impuestos",
+        "keywords": [
+            "alcaldia",
+            "impuestos",
+            "recaudacion",
+            "finanzas",
+            "tasas"
+        ],
+        "base_response": "Las alcaldías son entidades gubernamentales encargadas de recaudar impuestos locales y tasas municipales. Estos fondos públicos resultan fundamentales para financiar importantes obras de infraestructura, mantener espacios recreativos y garantizar la eficiente prestación de todos los servicios básicos para la ciudadanía."
+    },
+    {
+        "intent_id": "alcaldia_tramites_permisos",
+        "keywords": [
+            "alcaldia",
+            "tramites",
+            "permisos",
+            "construccion",
+            "negocios"
+        ],
+        "base_response": "Las oficinas municipales gestionan importantes trámites administrativos y otorgan permisos indispensables. Autorizan la construcción de nuevas viviendas, regulan el funcionamiento de negocios comerciales y aseguran que todas las actividades cumplan rigurosamente con las normativas locales establecidas para el ordenamiento territorial."
+    },
+    {
+        "intent_id": "alcaldia_seguridad_municipal",
+        "keywords": [
+            "alcaldia",
+            "seguridad",
+            "agentes",
+            "vigilancia",
+            "municipio"
+        ],
+        "base_response": "El cuerpo de agentes metropolitanos o policía municipal mantiene la seguridad y el orden en la ciudad. Realizan patrullajes constantes en parques y mercados, previenen alteraciones del orden público y colaboran estrechamente con la policía nacional para proteger a los habitantes."
+    },
+    {
+        "intent_id": "alcaldia_cultura_deportes",
+        "keywords": [
+            "alcaldia",
+            "cultura",
+            "deportes",
+            "torneos",
+            "actividades"
+        ],
+        "base_response": "Las autoridades locales fomentan activamente la sana convivencia organizando diversas actividades culturales y torneos deportivos. Patrocinan importantes escuelas municipales de fútbol y música, alejando a los jóvenes de la violencia y creando espacios propicios para el adecuado desarrollo físico e intelectual."
+    },
+    {
+        "intent_id": "alcaldia_mantenimiento_vial",
+        "keywords": [
+            "alcaldia",
+            "mantenimiento",
+            "calles",
+            "bacheo",
+            "vias"
+        ],
+        "base_response": "El departamento de mantenimiento vial de la alcaldía repara constantemente las calles y avenidas principales. A través de programas de bacheo y pavimentación, aseguran que los vehículos transiten fluidamente y reducen el riesgo de accidentes causados por el mal estado del asfalto."
+    },
+    {
+        "intent_id": "alcaldia_proteccion_civil_local",
+        "keywords": [
+            "alcaldia",
+            "emergencias",
+            "riesgos",
+            "prevencion",
+            "desastres"
+        ],
+        "base_response": "Las comisiones municipales de protección civil identifican las zonas de alto riesgo dentro de su territorio. Desarrollan importantes planes de prevención, construyen muros de contención y organizan albergues temporales para proteger a las familias vulnerables ante posibles desastres naturales inminentes."
+    },
+    {
+        "intent_id": "alcaldia_clinicas_municipales",
+        "keywords": [
+            "alcaldia",
+            "clinicas",
+            "salud",
+            "consultas",
+            "medicina"
+        ],
+        "base_response": "Muchas alcaldías administran pequeñas clínicas comunitarias que ofrecen atención médica básica gratuita. Estos dispensarios brindan importantes consultas generales, entregan médicamentos esenciales y realizan jornadas preventivas, descongestionando significativamente a los grandes hospitales y acercando la salud a los barrios más alejados."
+    },
+    {
+        "intent_id": "alcaldia_registro_electoral",
+        "keywords": [
+            "alcaldia",
+            "registro",
+            "electoral",
+            "votaciones",
+            "ciudadanos"
+        ],
+        "base_response": "En algunos países, los registros municipales apoyan la actualización del padrón electoral nacional. Inscriben a los nuevos ciudadanos mayores de edad y emiten los documentos de identidad oficiales, garantizando así que todos puedan ejercer su derecho constitucional al voto libremente."
+    },
+    {
+        "intent_id": "alcaldia_agua_potable",
+        "keywords": [
+            "alcaldia",
+            "agua",
+            "potable",
+            "distribucion",
+            "tuberias"
+        ],
+        "base_response": "La gestión eficiente del agua potable es responsabilidad de las empresas administradas por la alcaldía. Instalan nuevas tuberías, reparan fugas importantes y aseguran que este recurso vital llegue diariamente a todos los hogares, promoviendo la higiene y la salud de sus pobladores."
+    },
+    {
+        "intent_id": "alcaldia_gestion_residuos",
+        "keywords": [
+            "alcaldia",
+            "residuos",
+            "reciclaje",
+            "vertederos",
+            "ambiente"
+        ],
+        "base_response": "La disposición final de los desechos sólidos es gestionada íntegramente por los municipios. Operan vertederos sanitarios autorizados y promueven modernas campañas de reciclaje, logrando reducir considerablemente la contaminación del suelo y protegiendo de esta forma nuestro frágil medio ambiente natural."
+    },
+    {
+        "intent_id": "ministerio_educacion_infraestructura",
+        "keywords": [
+            "ministerio",
+            "escuelas",
+            "construccion",
+            "aulas",
+            "pupitres"
+        ],
+        "base_response": "El ministerio de educación invierte fuertemente en mejorar la infraestructura escolar pública. Construye nuevas aulas, repara techos dañados y proporciona pupitres modernos, garantizando que todos los estudiantes reciban sus clases diarias en ambientes verdaderamente seguros, cómodos y propicios para el aprendizaje."
+    },
+    {
+        "intent_id": "ministerio_salud_epidemias",
+        "keywords": [
+            "ministerio",
+            "salud",
+            "epidemias",
+            "control",
+            "virus"
+        ],
+        "base_response": "La entidad de salud nacional monitorea y controla activamente los brotes de epidemias mortales. Implementa estrictos cercos sanitarios, distribuye medicinas vitales y coordina masivas campañas informativas, logrando detener eficazmente la rápida propagación de peligrosas enfermedades infecciosas en todas las comunidades afectadas."
+    },
+    {
+        "intent_id": "ministerio_defensa_nacional",
+        "keywords": [
+            "ministerio",
+            "defensa",
+            "ejercito",
+            "soberania",
+            "fronteras"
+        ],
+        "base_response": "El ministerio de defensa dirige a las fuerzas armadas para proteger la soberanía nacional. Los soldados vigilan constantemente las fronteras terrestres y marítimas, combaten las grandes redes de contrabando internacional y apoyan a los ciudadanos durante enormes desastres naturales catastróficos."
+    },
+    {
+        "intent_id": "ministerio_relaciones_exteriores",
+        "keywords": [
+            "ministerio",
+            "relaciones",
+            "embajadas",
+            "consulados",
+            "paises"
+        ],
+        "base_response": "La cancillería representa oficialmente a nuestro país ante toda la comunidad internacional. Administra las embajadas y consulados, protege activamente los derechos de nuestros ciudadanos residentes en el extranjero y negocia importantes tratados comerciales que benefician enormemente nuestra economía nacional."
+    },
+    {
+        "intent_id": "ministerio_vivienda_social",
+        "keywords": [
+            "ministerio",
+            "vivienda",
+            "casas",
+            "familias",
+            "construccion"
+        ],
+        "base_response": "El ministerio de vivienda diseña y ejecuta grandes proyectos habitacionales para familias de escasos recursos económicos. Ofrece importantes subsidios estatales, facilita créditos hipotecarios accesibles y construye comunidades integrales, reduciendo significativamente el déficit habitacional y mejorando las condiciones de vida."
+    },
+    {
+        "intent_id": "ministerio_tecnologia_innovacion",
+        "keywords": [
+            "ministerio",
+            "tecnologia",
+            "internet",
+            "computadoras",
+            "desarrollo"
+        ],
+        "base_response": "El departamento de innovación tecnológica promueve intensamente la modernización digital del país. Instala conexiones gratuitas de internet en plazas públicas, entrega computadoras a las escuelas y fomenta el constante desarrollo de importantes habilidades informáticas fundamentales para la nueva economía mundial globalizada."
+    },
+    {
+        "intent_id": "ministerio_justicia_derechos",
+        "keywords": [
+            "ministerio",
+            "justicia",
+            "derechos",
+            "leyes",
+            "ciudadanos"
+        ],
+        "base_response": "La institución estatal de justicia promueve el respeto absoluto por los derechos humanos universales. Coordina la defensa pública gratuita para personas necesitadas, moderniza los sistemas penitenciarios y garantiza que todos los ciudadanos tengan un acceso verdaderamente equitativo a los tribunales."
+    },
+    {
+        "intent_id": "ministerio_transporte_terrestre",
+        "keywords": [
+            "ministerio",
+            "transporte",
+            "buses",
+            "pasajeros",
+            "rutas"
+        ],
+        "base_response": "La autoridad nacional de transporte regula estrictamente todo el servicio de autobuses y taxis. Establece las tarifas justas, verifica el buen estado mecánico de los vehículos y organiza eficientemente las rutas urbanas, asegurando traslados completamente seguros para todos los miles de pasajeros diarios."
+    },
+    {
+        "intent_id": "ministerio_energia_minas",
+        "keywords": [
+            "ministerio",
+            "energia",
+            "electricidad",
+            "recursos",
+            "generacion"
+        ],
+        "base_response": "La entidad reguladora de energía supervisa la vital generación y distribución de electricidad. Promueve grandes proyectos de energías renovables como la solar, regula los precios de los combustibles y garantiza un suministro energético sumamente estable para mantener en funcionamiento fábricas y hospitales."
+    },
+    {
+        "intent_id": "ministerio_deportes_recreacion",
+        "keywords": [
+            "ministerio",
+            "deportes",
+            "atletas",
+            "estadios",
+            "competencias"
+        ],
+        "base_response": "El instituto nacional de los deportes fomenta el alto rendimiento atlético. Mantiene modernos estadios públicos, financia las becas de nuestros atletas olímpicos y organiza competencias juveniles nacionales, descubriendo nuevos talentos deportivos y promoviendo una vida completamente sana y libre de vicios peligrosos."
+    },
+    {
+        "intent_id": "policia_cibernetica_delitos",
+        "keywords": [
+            "policia",
+            "cibernetica",
+            "internet",
+            "fraudes",
+            "hackers"
+        ],
+        "base_response": "La división de policía cibernética investiga los sofisticados delitos cometidos a través de internet. Sus agentes expertos rastrean estafas financieras online, combaten el robo de identidad y desarticulan redes de hackers informáticos, protegiendo eficientemente a todos los usuarios en el vasto mundo digital."
+    },
+    {
+        "intent_id": "policia_turistica_seguridad",
+        "keywords": [
+            "policia",
+            "turistica",
+            "visitantes",
+            "proteccion",
+            "guia"
+        ],
+        "base_response": "La policía de turismo está especialmente entrenada para proteger y asistir a los visitantes extranjeros. Patrullan constantemente los sitios arqueológicos y playas, brindan útil información bilingüe y garantizan un ambiente sumamente seguro, lo cual fortalece la indispensable imagen internacional de nuestro querido país."
+    },
+    {
+        "intent_id": "policia_fronteras_migracion",
+        "keywords": [
+            "policia",
+            "fronteras",
+            "migracion",
+            "pasaportes",
+            "aduanas"
+        ],
+        "base_response": "Las fuerzas policiales fronterizas controlan el ingreso y salida legal de todas las personas. Revisan los pasaportes en las aduanas, detienen el preocupante tráfico ilegal de mercancías y combaten a las bandas de contrabandistas, manteniendo nuestras fronteras nacionales completamente seguras y protegidas siempre."
+    },
+    {
+        "intent_id": "policia_cientifica_forense",
+        "keywords": [
+            "policia",
+            "cientifica",
+            "forense",
+            "pruebas",
+            "laboratorios"
+        ],
+        "base_response": "El laboratorio científico de la policía analiza rigurosamente todas las pruebas materiales recolectadas. Los peritos forenses estudian las huellas dactilares, realizan importantes pruebas de adn y examinan evidencias balísticas cruciales, aportando pruebas irrefutables para que los jueces logren condenar a los verdaderos criminales."
+    },
+    {
+        "intent_id": "policia_transito_multas",
+        "keywords": [
+            "policia",
+            "transito",
+            "multas",
+            "infracciones",
+            "velocidad"
+        ],
+        "base_response": "Los agentes de tránsito aplican la ley imponiendo multas a los malos conductores. Sancionan a quienes exceden los límites de velocidad permitidos o conducen bajo los terribles efectos del alcohol, medidas correctivas que resultan indispensables para lograr reducir significativamente los accidentes mortales diariamente."
+    },
+    {
+        "intent_id": "policia_rescate_aereo",
+        "keywords": [
+            "policia",
+            "rescate",
+            "helicopteros",
+            "emergencias",
+            "pilotos"
+        ],
+        "base_response": "La unidad aérea de la policía utiliza modernos helicópteros para realizar rescates de altísima complejidad. Estos valientes pilotos evacuan heridos graves en accidentes ocurridos en zonas remotas de muy difícil acceso, demostrando que su vital labor salva innumerables vidas humanas durante graves emergencias nacionales."
+    },
+    {
+        "intent_id": "policia_antiexplosivos_bombas",
+        "keywords": [
+            "policia",
+            "explosivos",
+            "desactivacion",
+            "bombas",
+            "seguridad"
+        ],
+        "base_response": "El escuadrón técnico antiexplosivos es una unidad de élite altamente capacitada. Utilizan modernos trajes blindados y robots tecnológicos para neutralizar artefactos sumamente peligrosos, respondiendo a amenazas de bomba y arriesgando valientemente sus propias vidas para lograr salvar a muchos ciudadanos inocentes."
+    },
+    {
+        "intent_id": "policia_reaccion_inmediata",
+        "keywords": [
+            "policia",
+            "reaccion",
+            "patrullas",
+            "llamadas",
+            "auxilio"
+        ],
+        "base_response": "Los grupos de reacción inmediata atienden las urgentes llamadas al sistema nacional de emergencias. Sus modernas patrullas se desplazan a gran velocidad por las calles de la ciudad, logrando llegar rápidamente al lugar de los hechos para frustrar asaltos y capturar delincuentes infraganti."
+    },
+    {
+        "intent_id": "policia_proteccion_infantil",
+        "keywords": [
+            "policia",
+            "proteccion",
+            "infantil",
+            "ninos",
+            "abuso"
+        ],
+        "base_response": "Las divisiones policiales para la niñez y adolescencia atienden casos muy sensibles de abuso o maltrato. Rescatan a los menores que sufren violencia intrafamiliar y los trasladan hacia hogares seguros temporales, trabajando incansablemente para garantizar que todos los niños crezcan completamente protegidos y felices."
+    },
+    {
+        "intent_id": "policia_escolar_prevencion",
+        "keywords": [
+            "policia",
+            "escolar",
+            "estudiantes",
+            "prevencion",
+            "escuelas"
+        ],
+        "base_response": "El programa de seguridad escolar asigna agentes para proteger los alrededores de los principales centros educativos. Ayudan a los estudiantes a cruzar las calles transitadas, previenen la venta ilegal de drogas y dictan importantes charlas preventivas sobre valores y respeto dentro de las aulas."
+    },
+    {
+        "intent_id": "hospital_oncologia_cancer",
+        "keywords": [
+            "hospital",
+            "oncologia",
+            "cancer",
+            "tumores",
+            "tratamiento"
+        ],
+        "base_response": "Los centros oncológicos públicos brindan tratamientos altamente especializados para combatir el cáncer. Médicos expertos aplican quimioterapias y radioterapias de última tecnología para destruir tumores malignos, ofreciendo gran esperanza de vida y cuidados paliativos sumamente necesarios para miles de pacientes afectados por esta terrible enfermedad."
+    },
+    {
+        "intent_id": "hospital_pediatria_ninos",
+        "keywords": [
+            "hospital",
+            "pediatria",
+            "ninos",
+            "enfermedades",
+            "infancia"
+        ],
+        "base_response": "El área de pediatría hospitalaria está dedicada exclusivamente al complejo cuidado de los niños. Los pediatras diagnostican rápidamente fiebres altas, tratan peligrosas infecciones respiratorias agudas y vigilan el crecimiento adecuado de los menores, logrando asegurar una infancia completamente sana y fuerte para todos ellos."
+    },
+    {
+        "intent_id": "hospital_cardiologia_corazon",
+        "keywords": [
+            "hospital",
+            "cardiologia",
+            "corazon",
+            "infartos",
+            "medicos"
+        ],
+        "base_response": "El departamento de cardiología atiende todas las enfermedades relacionadas con el corazón. Los especialistas realizan electrocardiogramas precisos, tratan rápidamente los peligrosos infartos y realizan cirugías de bypass muy complejas, mejorando significativamente la calidad y esperanza de vida de muchos adultos mayores enfermos diariamente."
+    },
+    {
+        "intent_id": "hospital_ortopedia_huesos",
+        "keywords": [
+            "hospital",
+            "ortopedia",
+            "huesos",
+            "fracturas",
+            "yesos"
+        ],
+        "base_response": "La sección de ortopedia trata eficientemente las diversas lesiones del sistema esquelético humano. Reparan huesos fracturados tras graves accidentes automovilísticos, colocan yesos inmovilizadores y realizan rehabilitaciones físicas, ayudando a que los pacientes recuperen completamente la movilidad de sus extremidades dañadas en poco tiempo."
+    },
+    {
+        "intent_id": "hospital_laboratorio_clinico",
+        "keywords": [
+            "hospital",
+            "laboratorio",
+            "examenes",
+            "sangre",
+            "diagnostico"
+        ],
+        "base_response": "El laboratorio clínico del hospital realiza importantes exámenes médicos a miles de personas. Analizan detalladamente muestras de sangre para detectar anemia o diabetes tempranamente, proporcionando resultados científicos sumamente exactos que permiten a los médicos recetar los médicamentos verdaderamente correctos y más efectivos posibles."
+    },
+    {
+        "intent_id": "hospital_farmacia_medicinas",
+        "keywords": [
+            "hospital",
+            "farmacia",
+            "medicinas",
+            "recetas",
+            "pacientes"
+        ],
+        "base_response": "La farmacia hospitalaria estatal distribuye médicamentos totalmente gratuitos o subsidiados a la población general. Los farmacéuticos revisan cuidadosamente las recetas médicas y entregan los antibióticos necesarios, asegurando que ninguna persona interrumpa su tratamiento curativo vital debido a la preocupante falta de recursos económicos familiares."
+    },
+    {
+        "intent_id": "hospital_terapia_intensiva",
+        "keywords": [
+            "hospital",
+            "terapia",
+            "intensiva",
+            "graves",
+            "respiradores"
+        ],
+        "base_response": "Las modernas unidades de cuidados intensivos atienden a los pacientes en estado sumamente crítico. Cuentan con sofisticados monitores cardíacos y respiradores artificiales avanzados que mantienen vivos a quienes han sufrido terribles traumas severos, requiriendo estricta vigilancia médica durante las veinticuatro horas del día continuamente."
+    },
+    {
+        "intent_id": "hospital_odontologia_dental",
+        "keywords": [
+            "hospital",
+            "odontologia",
+            "dientes",
+            "caries",
+            "extracciones"
+        ],
+        "base_response": "El servicio de odontología pública promueve la importante salud bucal de todos los ciudadanos. Los dentistas tratan dolorosas caries, realizan extracciones necesarias y enseñan adecuadas técnicas de cepillado diario, logrando prevenir graves infecciones dentales y mejorando la calidad de vida de niños y adultos siempre."
+    },
+    {
+        "intent_id": "hospital_nutricion_dietas",
+        "keywords": [
+            "hospital",
+            "nutricion",
+            "dietas",
+            "alimentos",
+            "saludables"
+        ],
+        "base_response": "Los nutricionistas clínicos en los hospitales diseñan importantes planes alimenticios específicos para pacientes ingresados. Enseñan a las personas diabéticas cómo mantener dietas sumamente saludables y equilibradas, demostrando que una correcta y adecuada alimentación es verdaderamente fundamental para acelerar rápidamente los procesos de recuperación médica exitosa."
+    },
+    {
+        "intent_id": "hospital_rehabilitacion_terapia",
+        "keywords": [
+            "hospital",
+            "rehabilitacion",
+            "fisioterapia",
+            "movilidad",
+            "ejercicios"
+        ],
+        "base_response": "Los centros de rehabilitación estatales ofrecen importantes sesiones de fisioterapia. Ayudan a pacientes que sufrieron graves derrames cerebrales a recuperar el habla y el movimiento coordinado, realizando ejercicios físicos muy específicos que logran devolverles gradualmente su total independencia para realizar las actividades diarias normalmente."
+    },
+    {
+        "intent_id": "escuela_educacion_secundaria",
+        "keywords": [
+            "escuela",
+            "secundaria",
+            "jovenes",
+            "ciencias",
+            "preparacion"
+        ],
+        "base_response": "La educación secundaria prepara a los jóvenes adolescentes para su futuro ingreso universitario. Estudian materias complejas como la biología avanzada y la historia universal, desarrollando un pensamiento sumamente crítico que les permitirá enfrentar con gran éxito todos los retos profesionales del mundo moderno actual."
+    },
+    {
+        "intent_id": "escuela_talleres_vocacionales",
+        "keywords": [
+            "escuela",
+            "talleres",
+            "vocacionales",
+            "oficios",
+            "habilidades"
+        ],
+        "base_response": "Los institutos técnicos ofrecen importantes talleres vocacionales altamente prácticos. Los estudiantes aprenden oficios muy demandados como la electricidad residencial, la carpintería fina o la mecánica automotriz básica, adquiriendo valiosas habilidades técnicas indispensables que les facilitarán conseguir un excelente empleo formal y sumamente bien remunerado rápidamente."
+    },
+    {
+        "intent_id": "escuela_arte_musica",
+        "keywords": [
+            "escuela",
+            "arte",
+            "musica",
+            "instrumentos",
+            "creatividad"
+        ],
+        "base_response": "Las clases de arte y música escolar estimulan la inmensa creatividad infantil y juvenil. Aprender a tocar instrumentos musicales clásicos o pintar bellos cuadros mejora significativamente la disciplina personal, aumentando la sensibilidad estética de los alumnos y fortaleciendo enormemente su necesario desarrollo emocional integral siempre."
+    },
+    {
+        "intent_id": "escuela_tecnologia_informatica",
+        "keywords": [
+            "escuela",
+            "tecnologia",
+            "informatica",
+            "computadoras",
+            "programacion"
+        ],
+        "base_response": "Los modernos centros de cómputo escolares enseñan informática vital. Los alumnos aprenden el manejo correcto de diferentes programas de oficina esenciales y las bases fundamentales de la programación estructurada, competencias tecnológicas que resultan totalmente imprescindibles para sobresalir notablemente en la altamente competitiva era digital moderna."
+    },
+    {
+        "intent_id": "escuela_orientacion_psicologica",
+        "keywords": [
+            "escuela",
+            "orientacion",
+            "psicologia",
+            "alumnos",
+            "apoyo"
+        ],
+        "base_response": "El departamento de orientación psicológica escolar brinda gran apoyo emocional a los estudiantes vulnerables. Los consejeros escuchan sus problemas personales complejos, combaten activamente el terrible acoso escolar diario y ayudan a resolver conflictos interpersonales mediante el diálogo pacífico, garantizando un ambiente educativo sumamente armonioso y totalmente seguro."
+    },
+    {
+        "intent_id": "escuela_laboratorios_ciencias",
+        "keywords": [
+            "escuela",
+            "laboratorios",
+            "ciencias",
+            "experimentos",
+            "quimica"
+        ],
+        "base_response": "Los bien equipados laboratorios de ciencias permiten realizar experimentos sumamente prácticos. Observar células a través de modernos microscopios o mezclar reacciones químicas controladas fomenta el riguroso método científico, haciendo que el aprendizaje teórico sea verdaderamente dinámico y despertando la curiosidad investigativa de los jóvenes estudiantes brillantemente."
+    },
+    {
+        "intent_id": "escuela_sociedad_padres",
+        "keywords": [
+            "escuela",
+            "padres",
+            "reuniones",
+            "colaboracion",
+            "mejoras"
+        ],
+        "base_response": "La activa asociación de padres de familia colabora estrechamente con la dirección de la escuela. Organizan importantes actividades para recaudar fondos necesarios, pintan las aulas deterioradas y participan en todas las decisiones educativas fundamentales, demostrando que el trabajo comunitario mejora enormemente las valiosas instituciones públicas locales."
+    },
+    {
+        "intent_id": "escuela_educacion_civica",
+        "keywords": [
+            "escuela",
+            "civica",
+            "valores",
+            "respeto",
+            "ciudadania"
+        ],
+        "base_response": "Las importantes clases de educación cívica forman ciudadanos sumamente responsables y éticos. Se enseñan los derechos humanos fundamentales, el profundo respeto absoluto hacia todas las leyes vigentes y la gran importancia de participar democráticamente en la sociedad, asegurando una convivencia pacífica nacional en el futuro cercano."
+    },
+    {
+        "intent_id": "escuela_banda_estudiantil",
+        "keywords": [
+            "escuela",
+            "banda",
+            "desfiles",
+            "musica",
+            "disciplina"
+        ],
+        "base_response": "Pertenecer a la gran banda estudiantil fomenta el trabajo en equipo organizado. Los jóvenes ensayan rigurosamente marchas tradicionales para representar orgullosamente a su amada institución durante los importantes desfiles patrios nacionales, desarrollando un inmenso sentido de pertenencia y forjando una férrea e inquebrantable disciplina personal admirable."
+    },
+    {
+        "intent_id": "escuela_huertos_escolares",
+        "keywords": [
+            "escuela",
+            "huertos",
+            "cultivos",
+            "agricultura",
+            "naturaleza"
+        ],
+        "base_response": "Los huertos escolares enseñan importantes prácticas de agricultura sostenible a los niños pequeños. Sembrar hortalizas frescas y cuidar delicadamente de todas las plantas fomenta un inmenso amor por la naturaleza viva, además de proveer alimentos sumamente saludables que complementan perfectamente los nutritivos almuerzos escolares servidos diariamente ahí."
+    },
+    {
+        "intent_id": "proteccion_civil_rescate_montana",
+        "keywords": [
+            "proteccion",
+            "civil",
+            "rescate",
+            "montanas",
+            "extraviados"
+        ],
+        "base_response": "Los equipos especializados en alta montaña buscan a excursionistas extraviados. Utilizan sofisticados equipos de escalada profesional y rastreadores tecnológicos para lograr localizar a las personas perdidas en los bosques espesos, rescatándolas exitosamente antes de que sufran severa hipotermia o fatiga extrema durante las frías noches oscuras."
+    },
+    {
+        "intent_id": "proteccion_civil_alertas_tempranas",
+        "keywords": [
+            "proteccion",
+            "civil",
+            "alertas",
+            "sirenas",
+            "peligro"
+        ],
+        "base_response": "El eficiente sistema de alertas tempranas advierte a la población sobre los graves peligros inminentes. Al detectar tsunamis devastadores o huracanes extremadamente destructivos, se activan de inmediato potentes sirenas que indican claramente a todos los ciudadanos costeros que deben evacuar rápidamente hacia zonas altas verdaderamente seguras para sobrevivir."
+    },
+    {
+        "intent_id": "proteccion_civil_incendios_forestales",
+        "keywords": [
+            "proteccion",
+            "forestales",
+            "incendios",
+            "bosques",
+            "fuego"
+        ],
+        "base_response": "Las brigadas forestales especializadas combaten inmensos incendios en reservas naturales protegidas. Cavan extensas trincheras cortafuegos y rocían agua continuamente utilizando potentes helicópteros cisterna, logrando evitar así que las descontroladas llamas destruyan la valiosa fauna silvestre y arrasen con las cercanas y muy habitadas comunidades agrícolas humildes."
+    },
+    {
+        "intent_id": "proteccion_civil_capacitacion_comunitaria",
+        "keywords": [
+            "proteccion",
+            "civil",
+            "capacitacion",
+            "vecinos",
+            "emergencias"
+        ],
+        "base_response": "Los instructores de protección civil capacitan intensivamente a líderes comunitarios locales. Enseñan técnicas fundamentales de primeros auxilios y cómo conformar comités de emergencia vecinales, empoderando enormemente a los ciudadanos para que logren responder correcta y velozmente ante los graves desastres mientras esperan la ayuda profesional oficial."
+    },
+    {
+        "intent_id": "proteccion_civil_evaluacion_danos",
+        "keywords": [
+            "proteccion",
+            "civil",
+            "evaluacion",
+            "danos",
+            "estructuras"
+        ],
+        "base_response": "Tras ocurrir un fuerte terremoto, ingenieros expertos de protección civil evalúan los severos daños estructurales. Inspeccionan minuciosamente los edificios agrietados y puentes dañados para determinar si aún son verdaderamente seguros, previniendo terribles colapsos posteriores que podrían causar lamentables e innecesarias pérdidas humanas adicionales y muy dolorosas en la ciudad."
+    },
+    {
+        "intent_id": "proteccion_civil_albergues_temporales",
+        "keywords": [
+            "proteccion",
+            "civil",
+            "albergues",
+            "refugiados",
+            "donaciones"
+        ],
+        "base_response": "La red estatal de albergues temporales ofrece un muy importante refugio seguro. Acogen solidariamente a cientos de familias que perdieron sus casas enteras durante las grandes inundaciones, suministrándoles rápidamente ropa abrigada, alimentos calientes nutritivos y atención médica indispensable para superar la terrible tragedia inesperada rápidamente y con total seguridad."
+    },
+    {
+        "intent_id": "proteccion_civil_rescate_canino",
+        "keywords": [
+            "proteccion",
+            "rescate",
+            "perros",
+            "escombros",
+            "busqueda"
+        ],
+        "base_response": "Las heroicas unidades caninas de búsqueda y rescate son verdaderamente fundamentales. Los perros altamente entrenados utilizan su poderoso olfato para lograr localizar a víctimas gravemente atrapadas bajo pesados escombros de edificios totalmente colapsados, guiando velozmente a los rescatistas humanos para lograr salvar esas invaluables vidas milagrosamente a tiempo."
+    },
+    {
+        "intent_id": "proteccion_civil_suministros_emergencia",
+        "keywords": [
+            "proteccion",
+            "civil",
+            "suministros",
+            "agua",
+            "viveres"
+        ],
+        "base_response": "La logística estatal de emergencia distribuye toneladas de suministros vitales a zonas altamente afectadas. Utilizan grandes camiones del ejército nacional para llevar rápidamente el agua potable purificada y los víveres no perecederos a aquellas poblaciones remotas y muy aisladas debido a los masivos deslizamientos de tierra y las carreteras destruidas."
+    },
+    {
+        "intent_id": "proteccion_civil_monitoreo_clima",
+        "keywords": [
+            "proteccion",
+            "civil",
+            "clima",
+            "tormentas",
+            "pronosticos"
+        ],
+        "base_response": "El centro nacional de monitoreo climático analiza los complejos patrones meteorológicos diariamente. Los expertos emiten alertas rojas preventivas cuando se acercan inmensas tormentas tropicales sumamente peligrosas, permitiendo a todos los agricultores asegurar valiosas cosechas y a los pescadores retornar con gran seguridad al resguardo del puerto local."
+    },
+    {
+        "intent_id": "proteccion_civil_prevencion_deslizamientos",
+        "keywords": [
+            "proteccion",
+            "civil",
+            "deslizamientos",
+            "tierra",
+            "riesgo"
+        ],
+        "base_response": "En las muy peligrosas zonas montañosas inestables, protección civil identifica las laderas de alto riesgo mortal. Promueven urgentemente la masiva reforestación intensiva y la inmediata reubicación voluntaria de todas las viviendas precarias, logrando evitar las terribles tragedias que ocurren cuando la tierra se desliza durante las fuertes lluvias invernales."
+    },
+    {
+        "intent_id": "alcaldia_funciones_basicas",
+        "keywords": [
+            "alcaldia",
+            "municipio",
+            "servicios",
+            "comunidad",
+            "administrar"
+        ],
+        "base_response": "La alcaldía es la institución encargada de administrar un municipio. Su función principal es garantizar el bienestar de la comunidad prestando servicios básicos, manteniendo espacios públicos en buenas condiciones y organizando el desarrollo social y económico del entorno local."
+    },
+    {
+        "intent_id": "alcaldia_recoleccion_basura",
+        "keywords": [
+            "basura",
+            "recoleccion",
+            "limpieza",
+            "calles",
+            "higiene"
+        ],
+        "base_response": "El servicio de recolección de desechos es fundamental para mantener la higiene comunitaria. Las alcaldías organizan rutas regulares para recoger la basura, evitando la propagación de enfermedades y manteniendo las calles limpias para el beneficio de todos los habitantes."
+    },
+    {
+        "intent_id": "alcaldia_parques_recreacion",
+        "keywords": [
+            "parques",
+            "recreacion",
+            "zonas",
+            "verdes",
+            "esparcimiento"
+        ],
+        "base_response": "Las autoridades locales se encargan de construir y mantener los parques y las zonas verdes. Estos espacios públicos resultan vitales para la recreación, la práctica de deportes y el encuentro familiar, contribuyendo a una mejor calidad de vida ciudadana."
+    },
+    {
+        "intent_id": "alcaldia_registro_civil",
+        "keywords": [
+            "registro",
+            "civil",
+            "nacimientos",
+            "identidad",
+            "documentos"
+        ],
+        "base_response": "El registro civil es la dependencia municipal que documenta hechos importantes como los nacimientos. Gracias a esta institución, cada persona obtiene una identidad legal reconocida, lo que permite acceder a derechos fundamentales como la educación gratuita y la atención médica."
+    },
+    {
+        "intent_id": "ministerio_educacion_rol",
+        "keywords": [
+            "ministerio",
+            "educacion",
+            "escuelas",
+            "aprendizaje",
+            "estudiantes"
+        ],
+        "base_response": "El ministerio encargado de la educación dirige todo el sistema escolar del país. Su responsabilidad principal consiste en asegurar que las escuelas funcionen adecuadamente, diseñando programas de estudio para que los estudiantes logren desarrollar sus capacidades cognitivas al máximo."
+    },
+    {
+        "intent_id": "ministerio_salud_publica",
+        "keywords": [
+            "ministerio",
+            "salud",
+            "hospitales",
+            "enfermedades",
+            "prevencion"
+        ],
+        "base_response": "La institución responsable de la salud pública coordina los hospitales y las clínicas estatales. Además, implementa campañas de vacunación y programas preventivos para evitar la propagación de enfermedades graves, garantizando que toda la población reciba atención médica oportuna."
+    },
+    {
+        "intent_id": "policia_seguridad_ciudadana",
+        "keywords": [
+            "policia",
+            "seguridad",
+            "ciudadanos",
+            "proteccion",
+            "delitos"
+        ],
+        "base_response": "Las fuerzas policiales tienen la misión fundamental de proteger la vida y los bienes de los ciudadanos. Mediante patrullajes constantes y la investigación de delitos, estos agentes del orden aseguran la paz social y mantienen el cumplimiento de las leyes."
+    },
+    {
+        "intent_id": "policia_transito_vial",
+        "keywords": [
+            "policia",
+            "transito",
+            "vehiculos",
+            "accidentes",
+            "carreteras"
+        ],
+        "base_response": "La división de tránsito policial se dedica a regular el paso de vehículos y peatones en las calles. Su trabajo previene graves accidentes de tráfico, controla los límites de velocidad y garantiza una movilidad segura por todas las carreteras nacionales."
+    },
+    {
+        "intent_id": "hospital_emergencias_medicas",
+        "keywords": [
+            "hospital",
+            "emergencias",
+            "medicos",
+            "pacientes",
+            "salvar"
+        ],
+        "base_response": "Las salas de emergencia en los hospitales funcionan ininterrumpidamente para atender situaciones médicas críticas. Los médicos y enfermeras capacitados actúan rápidamente para estabilizar pacientes heridos en accidentes o que sufren crisis de salud severas, logrando salvar innumerables vidas humanas."
+    },
+    {
+        "intent_id": "hospital_vacunacion_infantil",
+        "keywords": [
+            "hospitales",
+            "vacunacion",
+            "infantil",
+            "inmunidad",
+            "virus"
+        ],
+        "base_response": "Los centros de salud públicos ofrecen servicios gratuitos de vacunación infantil. Estas inmunizaciones son cruciales para proteger a los niños contra virus y bacterias altamente peligrosos, erradicando enfermedades contagiosas y asegurando un crecimiento completamente sano durante toda la infancia."
+    },
+    {
+        "intent_id": "escuela_educacion_primaria",
+        "keywords": [
+            "escuela",
+            "primaria",
+            "maestros",
+            "lectura",
+            "matematicas"
+        ],
+        "base_response": "Las escuelas primarias representan la base del sistema educativo formal. En ellas, los maestros enseñan habilidades esenciales como la lectura comprensiva, la escritura correcta y las matemáticas básicas, proporcionando herramientas intelectuales necesarias para el futuro desarrollo académico de los estudiantes."
+    },
+    {
+        "intent_id": "escuela_biblioteca_escolar",
+        "keywords": [
+            "escuela",
+            "biblioteca",
+            "libros",
+            "investigacion",
+            "lectura"
+        ],
+        "base_response": "La biblioteca escolar es un espacio dedicado al aprendizaje autónomo y la investigación. Proporciona acceso a libros, enciclopedias y recursos digitales que complementan las clases regulares, fomentando el hábito de la lectura y estimulando la curiosidad intelectual de los jóvenes."
+    },
+    {
+        "intent_id": "proteccion_civil_simulacros",
+        "keywords": [
+            "proteccion",
+            "civil",
+            "simulacros",
+            "terremotos",
+            "evacuacion"
+        ],
+        "base_response": "Los equipos de protección civil organizan simulacros periódicos en escuelas y edificios públicos. Estas prácticas de evacuación enseñan a los ciudadanos cómo reaccionar ordenadamente ante terremotos o incendios, reduciendo el pánico y previniendo tragedias durante las emergencias reales."
+    },
+    {
+        "intent_id": "proteccion_civil_bomberos",
+        "keywords": [
+            "bomberos",
+            "incendios",
+            "rescate",
+            "emergencias",
+            "fuego"
+        ],
+        "base_response": "El cuerpo de bomberos es una institución vital de rescate y protección. Además de apagar incendios destructivos, estos valientes profesionales atienden accidentes de tránsito severos y rescatan personas atrapadas en estructuras colapsadas, arriesgando sus vidas por la seguridad comunitaria."
+    },
+    {
+        "intent_id": "ministerio_obras_publicas",
+        "keywords": [
+            "ministerio",
+            "obras",
+            "carreteras",
+            "puentes",
+            "infraestructura"
+        ],
+        "base_response": "El departamento estatal de obras públicas planifica y construye grandes infraestructuras nacionales. Su labor incluye la pavimentación de carreteras, la construcción de puentes seguros y el mantenimiento de la red vial, facilitando el transporte comercial y la conectividad territorial."
+    },
+    {
+        "intent_id": "ministerio_medio_ambiente",
+        "keywords": [
+            "ministerio",
+            "ambiente",
+            "naturaleza",
+            "contaminacion",
+            "conservacion"
+        ],
+        "base_response": "La entidad rectora del medio ambiente trabaja incansablemente para proteger los ecosistemas naturales del país. Sus programas combaten la contaminación ambiental, regulan el uso sostenible de los recursos forestales y promueven prácticas ecológicas para combatir los efectos del cambio climático."
+    },
+    {
+        "intent_id": "alcaldia_alumbrado_publico",
+        "keywords": [
+            "alcaldia",
+            "alumbrado",
+            "calles",
+            "luces",
+            "seguridad"
+        ],
+        "base_response": "El mantenimiento del alumbrado público es responsabilidad directa de las autoridades municipales. Reparar las luces de las calles oscuras mejora la visibilidad nocturna, reduce significativamente los accidentes de tráfico y aumenta la sensación de seguridad frente a posibles actos delictivos."
+    },
+    {
+        "intent_id": "alcaldia_mercados_municipales",
+        "keywords": [
+            "mercados",
+            "alcaldia",
+            "comercio",
+            "alimentos",
+            "vendedores"
+        ],
+        "base_response": "Los mercados municipales son espacios administrados por la alcaldía donde ocurre gran parte del comercio local. Estas instalaciones permiten a los agricultores y vendedores ofrecer alimentos frescos y económicos a la población, impulsando significativamente la economía de las comunidades."
+    },
+    {
+        "intent_id": "ministerio_hacienda_impuestos",
+        "keywords": [
+            "ministerio",
+            "hacienda",
+            "impuestos",
+            "recaudacion",
+            "finanzas"
+        ],
+        "base_response": "La secretaría de finanzas estatales se encarga de administrar los recursos económicos del país. A través de la recaudación justa de impuestos, obtiene el dinero necesario para financiar hospitales públicos, construir escuelas y garantizar el pago de empleados gubernamentales esenciales."
+    },
+    {
+        "intent_id": "policia_investigacion_criminal",
+        "keywords": [
+            "policia",
+            "investigacion",
+            "delitos",
+            "evidencia",
+            "detectives"
+        ],
+        "base_response": "Las unidades de investigación criminal se dedican a resolver delitos complejos mediante técnicas científicas especializadas. Los detectives recolectan evidencias físicas, interrogan testigos clave y analizan escenas del crimen para identificar a los culpables y presentarlos ante los tribunales de justicia."
+    },
+    {
+        "intent_id": "hospital_cirugia_general",
+        "keywords": [
+            "hospital",
+            "cirugia",
+            "operacion",
+            "quirofano",
+            "cirujanos"
+        ],
+        "base_response": "Los departamentos de cirugía en los hospitales públicos realizan intervenciones médicas complejas. Utilizando quirófanos completamente equipados con tecnología avanzada, los cirujanos operan a los pacientes para extirpar tumores, reparar órganos dañados y restaurar completamente la salud de las personas afectadas."
+    },
+    {
+        "intent_id": "escuela_educacion_inclusiva",
+        "keywords": [
+            "escuela",
+            "inclusion",
+            "estudiantes",
+            "discapacidad",
+            "apoyo"
+        ],
+        "base_response": "Las instituciones educativas modernas promueven firmemente la inclusión social. Garantizan que los estudiantes con alguna discapacidad física o cognitiva reciban el apoyo necesario, adaptando los materiales didácticos y las instalaciones para que todos puedan aprender exitosamente en igualdad de condiciones."
+    },
+    {
+        "intent_id": "proteccion_civil_inundaciones",
+        "keywords": [
+            "proteccion",
+            "civil",
+            "inundaciones",
+            "lluvias",
+            "rescate"
+        ],
+        "base_response": "Durante la temporada de fuertes lluvias, los sistemas de protección civil monitorean constantemente los ríos peligrosos. Si ocurre una gran inundación, coordinan rápidamente la evacuación de las familias vulnerables hacia albergues temporales seguros, suministrando alimentos básicos y atención médica urgente."
+    },
+    {
+        "intent_id": "ministerio_cultura_arte",
+        "keywords": [
+            "ministerio",
+            "cultura",
+            "museos",
+            "patrimonio",
+            "artes"
+        ],
+        "base_response": "El ministerio encargado de la gestión cultural protege el patrimonio histórico de la nación. Administra importantes museos, preserva antiguas ruinas arqueológicas y fomenta las diferentes expresiones artísticas locales, fortaleciendo así nuestra valiosa identidad nacional frente al avance del mundo globalizado."
+    },
+    {
+        "intent_id": "alcaldia_cementerios_municipales",
+        "keywords": [
+            "alcaldia",
+            "cementerios",
+            "difuntos",
+            "mantenimiento",
+            "limpieza"
+        ],
+        "base_response": "La administración y el constante mantenimiento de los cementerios públicos corresponde exclusivamente a las municipalidades. Las alcaldías garantizan la limpieza de estos espacios solemnes, organizan los registros de sepulturas y aseguran un lugar digno para el descanso final de nuestros difuntos."
+    },
+    {
+        "intent_id": "policia_policia_comunitaria",
+        "keywords": [
+            "policia",
+            "comunidad",
+            "prevencion",
+            "vecinos",
+            "confianza"
+        ],
+        "base_response": "El modelo de policía comunitaria busca generar confianza directa entre los agentes y los ciudadanos comunes. Mediante el diálogo constante con los líderes vecinales, se identifican los problemas locales rápidamente y se previenen actos delictivos antes de que estos logren consumarse."
+    },
+    {
+        "intent_id": "hospital_salud_mental",
+        "keywords": [
+            "hospital",
+            "salud",
+            "mental",
+            "psicologos",
+            "terapia"
+        ],
+        "base_response": "Los centros hospitalarios modernos incluyen importantes departamentos especializados en atención psiquiátrica. Los psicólogos y psiquiatras ofrecen terapias profesionales a pacientes que sufren de depresión, ansiedad grave u otros trastornos, demostrando que cuidar la mente es vital para nuestro bienestar integral."
+    },
+    {
+        "intent_id": "escuela_educacion_fisica",
+        "keywords": [
+            "escuela",
+            "educacion",
+            "fisica",
+            "deportes",
+            "ejercicio"
+        ],
+        "base_response": "Las clases de educación física son un componente fundamental del currículo escolar oficial. Los estudiantes practican diferentes deportes, desarrollan habilidades motrices importantes y aprenden la importancia vital del ejercicio regular para mantener su cuerpo fuerte, ágil y libre de diversas enfermedades."
+    },
+    {
+        "intent_id": "proteccion_civil_cruz_roja",
+        "keywords": [
+            "cruz",
+            "roja",
+            "primeros",
+            "auxilios",
+            "voluntarios"
+        ],
+        "base_response": "La Cruz Roja es una organización humanitaria que apoya activamente los sistemas de protección civil nacionales. Sus voluntarios capacitados brindan primeros auxilios inmediatos durante accidentes graves, realizan rescates complejos y recolectan donaciones de sangre vitales para abastecer todos los hospitales públicos."
+    },
+    {
+        "intent_id": "ministerio_agricultura_ganaderia",
+        "keywords": [
+            "ministerio",
+            "agricultura",
+            "cultivos",
+            "campesinos",
+            "alimentos"
+        ],
+        "base_response": "La secretaría de desarrollo agrícola apoya directamente a los campesinos y ganaderos del país. Facilita importantes recursos técnicos, semillas mejoradas y capacitaciones modernas, asegurando así la producción masiva de alimentos saludables para abastecer constantemente a toda la población nacional."
+    },
+    {
+        "intent_id": "asamblea_legislativa_leyes",
+        "keywords": [
+            "asamblea",
+            "diputados",
+            "leyes",
+            "votacion",
+            "derechos"
+        ],
+        "base_response": "La asamblea legislativa es el órgano estatal encargado de crear y modificar las leyes nacionales. Los diputados debaten propuestas importantes y votan reglamentos que garantizan nuestros derechos, protegen el medio ambiente y regulan las actividades económicas dentro de nuestra sociedad."
+    },
+    {
+        "intent_id": "defensoria_consumidor_derechos",
+        "keywords": [
+            "defensoria",
+            "consumidor",
+            "compras",
+            "reclamos",
+            "precios"
+        ],
+        "base_response": "La defensoría del consumidor protege a los ciudadanos frente a los posibles abusos comerciales. Esta institución recibe reclamos formales, verifica que los precios sean justos y asegura que los productos vendidos cumplan estrictamente con todos los estándares de calidad requeridos."
+    },
+    {
+        "intent_id": "correos_nacionales_envios",
+        "keywords": [
+            "correos",
+            "paquetes",
+            "cartas",
+            "entregas",
+            "comunicacion"
+        ],
+        "base_response": "El servicio de correos nacionales facilita el envío seguro de cartas y paquetes importantes. Aunque utilizamos masivamente internet actualmente, esta antigua institución pública sigue siendo esencial para distribuir documentos oficiales y llevar mercancías a lugares remotos de nuestro país."
+    },
+    {
+        "intent_id": "juzgados_tribunales_justicia",
+        "keywords": [
+            "juzgados",
+            "jueces",
+            "justicia",
+            "juicios",
+            "sentencias"
+        ],
+        "base_response": "Los juzgados y tribunales forman el indispensable sistema judicial de nuestra nación. En estos recintos, los jueces escuchan atentamente las evidencias presentadas, resuelven los conflictos entre ciudadanos y dictan sentencias justas para castigar a quienes han violado las leyes establecidas."
+    },
+    {
+        "intent_id": "alcaldia_proteccion_animal",
+        "keywords": [
+            "alcaldia",
+            "animales",
+            "mascotas",
+            "refugios",
+            "adopcion"
+        ],
+        "base_response": "Muchas alcaldías modernas han creado unidades especializadas para proteger el bienestar animal. Rescatan perros y gatos abandonados en las calles, los albergan temporalmente en refugios seguros, promueven campañas masivas de esterilización gratuita y fomentan la adopción responsable entre las familias locales."
+    },
+    {
+        "intent_id": "ministerio_trabajo_empleo",
+        "keywords": [
+            "ministerio",
+            "trabajo",
+            "empleo",
+            "salarios",
+            "derechos"
+        ],
+        "base_response": "La entidad gubernamental encargada del trabajo vigila que las empresas respeten estrictamente los derechos laborales. Verifica el pago correcto de los salarios, inspecciona la seguridad en las fábricas y resuelve conflictos entre trabajadores y empleadores mediante procesos de conciliación pacífica."
+    },
+    {
+        "intent_id": "hospital_banco_sangre",
+        "keywords": [
+            "hospital",
+            "sangre",
+            "donantes",
+            "transfusiones",
+            "salvar"
+        ],
+        "base_response": "Los bancos de sangre dentro de los hospitales recolectan y almacenan donaciones vitales. Gracias a la solidaridad de ciudadanos saludables, los médicos pueden realizar transfusiones urgentes a víctimas de graves accidentes o a pacientes que enfrentan operaciones quirúrgicas altamente complejas."
+    },
+    {
+        "intent_id": "escuela_comedores_escolares",
+        "keywords": [
+            "escuela",
+            "comedores",
+            "alimentos",
+            "nutricion",
+            "estudiantes"
+        ],
+        "base_response": "Los comedores escolares proveen alimentos nutritivos y gratuitos a estudiantes provenientes de familias con escasos recursos. Una alimentación adecuada durante las horas de clase resulta indispensable para mantener una excelente concentración mental y garantizar un desarrollo físico verdaderamente óptimo e integral."
+    },
+    {
+        "intent_id": "proteccion_civil_vulcanologia",
+        "keywords": [
+            "proteccion",
+            "civil",
+            "volcanes",
+            "erupciones",
+            "monitoreo"
+        ],
+        "base_response": "Las agencias de protección civil mantienen un estricto monitoreo sobre los volcanes activos del territorio. Utilizando instrumentos científicos avanzados, los expertos detectan aumentos peligrosos en la actividad sísmica y advierten rápidamente a las poblaciones cercanas para lograr evacuaciones preventivas sumamente exitosas."
+    },
+    {
+        "intent_id": "ministerio_turismo_promocion",
+        "keywords": [
+            "ministerio",
+            "turismo",
+            "viajes",
+            "cultura",
+            "economia"
+        ],
+        "base_response": "La institución rectora del turismo se encarga de promover los atractivos naturales y culturales de nuestro país. Fomenta el desarrollo de hoteles, restaurantes y rutas turísticas seguras, generando importantes ingresos económicos y creando miles de empleos para nuestras comunidades locales."
+    },
+    {
+        "intent_id": "policia_antidrogas_narcotrafico",
+        "keywords": [
+            "policia",
+            "drogas",
+            "operativos",
+            "decomisos",
+            "salud"
+        ],
+        "base_response": "Las unidades especializadas antidrogas de la policía combaten fuertemente el narcotráfico y la distribución de estupefacientes. Sus constantes operativos desmantelan bandas criminales peligrosas y retiran sustancias nocivas de las calles, protegiendo a los jóvenes de las terribles adicciones destructivas actuales."
+    },
+    {
+        "intent_id": "hospital_maternidad_partos",
+        "keywords": [
+            "hospital",
+            "maternidad",
+            "bebes",
+            "madres",
+            "nacimientos"
+        ],
+        "base_response": "Las áreas de maternidad hospitalaria brindan atención especializada a las mujeres durante todo el periodo de embarazo y el momento crucial del parto. Los médicos obstetras aseguran que los bebés nazcan en condiciones completamente estériles, garantizando la perfecta salud de madre e hijo."
+    },
+    {
+        "intent_id": "alcaldia_desarrollo_comunal",
+        "keywords": [
+            "alcaldia",
+            "comunidades",
+            "proyectos",
+            "vecinos",
+            "desarrollo"
+        ],
+        "base_response": "Las oficinas de desarrollo comunal municipales trabajan directamente con las asociaciones vecinales activas. Juntos planifican proyectos importantes como la reparación de aceras dañadas, la introducción de agua potable y la construcción de modernos centros comunitarios que benefician enormemente al entorno local."
+    },
+    {
+        "intent_id": "ministerio_economia_comercio",
+        "keywords": [
+            "ministerio",
+            "economia",
+            "empresas",
+            "exportaciones",
+            "crecimiento"
+        ],
+        "base_response": "La entidad responsable del desarrollo económico fomenta la creación de nuevas empresas y apoya las exportaciones internacionales. Su objetivo principal es asegurar un crecimiento financiero constante para la nación, promoviendo grandes inversiones que logren generar suficientes oportunidades laborales para todos."
+    },
+    {
+        "intent_id": "proteccion_civil_guardavidas",
+        "keywords": [
+            "guardavidas",
+            "playas",
+            "rescate",
+            "ahogamiento",
+            "seguridad"
+        ],
+        "base_response": "Los cuerpos de guardavidas vigilan celosamente las playas y balnearios públicos durante las grandes temporadas vacacionales. Estos nadadores expertos advierten sobre las peligrosas corrientes marinas y ejecutan rápidos rescates acuáticos, logrando evitar dolorosas tragedias por ahogamiento entre los numerosos turistas presentes."
+    }
+]
