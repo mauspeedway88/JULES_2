@@ -1,0 +1,596 @@
+[
+  {
+    "intent_id": "ahorro_infantil",
+    "keywords": [
+      "ahorro",
+      "dinero",
+      "futuro",
+      "meta",
+      "hucha"
+    ],
+    "base_response": "El ahorro consiste en guardar parte de tu dinero en lugar de gastarlo. Al utilizar una cuenta bancaria, logras acumular recursos progresivamente. Esta práctica permite alcanzar metas importantes y asegura tu bienestar futuro al tener reservas para situaciones completamente inesperadas y urgentes."
+  },
+  {
+    "intent_id": "presupuesto_basico",
+    "keywords": [
+      "presupuesto",
+      "plan",
+      "gasto",
+      "ingreso",
+      "control"
+    ],
+    "base_response": "Un presupuesto es un plan detallado que ayuda a organizar tu dinero adecuadamente. Al registrar todos tus ingresos, logras tomar decisiones inteligentes sobre tus finanzas diarias. Esta herramienta es fundamental para evitar deudas innecesarias y construir una gran estabilidad económica personal."
+  },
+  {
+    "intent_id": "inversion_inicial",
+    "keywords": [
+      "inversion",
+      "ganancia",
+      "riesgo",
+      "negocio",
+      "crecimiento"
+    ],
+    "base_response": "La inversión significa destinar dinero a un proyecto esperando obtener ganancias adicionales. Aunque siempre existe algún nivel de riesgo, invertir bien permite multiplicar tus fondos con el tiempo. Resulta ser una estrategia clave para construir riqueza y lograr prosperidad económica duradera."
+  },
+  {
+    "intent_id": "inflacion_basica",
+    "keywords": [
+      "inflacion",
+      "precio",
+      "dinero",
+      "valor",
+      "economia"
+    ],
+    "base_response": "La inflación es el aumento generalizado y continuo de los precios en el mercado. Cuando ocurre, el dinero pierde su poder adquisitivo a lo largo del tiempo. Significa que hoy necesitas gastar más monedas para comprar exactamente los mismos productos que antes."
+  },
+  {
+    "intent_id": "banco_funcion",
+    "keywords": [
+      "banco",
+      "ahorro",
+      "prestamo",
+      "interes",
+      "seguridad"
+    ],
+    "base_response": "Un banco es una institución que guarda tu dinero de forma segura y confiable. Además de proteger ahorros, prestan dinero a familias cobrando un interés adicional. Estas entidades resultan vitales para mantener el capital circulando y apoyar el gran crecimiento económico general."
+  },
+  {
+    "intent_id": "costo_oportunidad",
+    "keywords": [
+      "costo",
+      "opcion",
+      "decision",
+      "alternativa",
+      "beneficio"
+    ],
+    "base_response": "El costo de oportunidad representa aquello a lo que renuncias al tomar una decisión. Al elegir comprar un juguete, sacrificas la opción de ahorrar ese dinero. Evaluar estas opciones cuidadosamente te ayuda a maximizar los beneficios y administrar mejor tus valiosos recursos."
+  },
+  {
+    "intent_id": "oferta_demanda",
+    "keywords": [
+      "oferta",
+      "demanda",
+      "precio",
+      "producto",
+      "equilibrio"
+    ],
+    "base_response": "La oferta y demanda determinan el precio de los bienes en un mercado activo. Si muchas personas desean comprar algo escaso, el precio sube significativamente rápido. Por el contrario, cuando hay demasiados artículos sin compradores, su valor disminuye para poder ser vendidos."
+  },
+  {
+    "intent_id": "emprendimiento_joven",
+    "keywords": [
+      "emprendedor",
+      "idea",
+      "proyecto",
+      "solucion",
+      "mercado"
+    ],
+    "base_response": "Un emprendedor es alguien creativo que identifica problemas y desarrolla soluciones mediante nuevos proyectos. Al iniciar un negocio, asumes grandes responsabilidades y buscas oportunidades de éxito. Emprender requiere mucha dedicación, trabajo constante y una visión clara para destacar en un mercado competitivo."
+  },
+  {
+    "intent_id": "lluvia_ideas",
+    "keywords": [
+      "idea",
+      "creatividad",
+      "negocio",
+      "innovacion",
+      "solucion"
+    ],
+    "base_response": "La lluvia de ideas es una técnica excelente para generar conceptos de negocio novedosos. Consiste en anotar todas las propuestas posibles sin juzgarlas en un principio. Este método fomenta la creatividad extrema, permitiendo descubrir soluciones únicas para satisfacer diversas necesidades del consumidor."
+  },
+  {
+    "intent_id": "plan_negocios",
+    "keywords": [
+      "plan",
+      "negocio",
+      "objetivo",
+      "estrategia",
+      "guia"
+    ],
+    "base_response": "El plan de negocios es un documento que describe los objetivos de tu empresa. Explica cómo planeas alcanzar tus metas y qué recursos necesitas para lograrlo. Funciona como un mapa detallado que guía todas las decisiones importantes y atrae a posibles inversores."
+  },
+  {
+    "intent_id": "startup_tecnologica",
+    "keywords": [
+      "startup",
+      "tecnologia",
+      "crecimiento",
+      "innovacion",
+      "empresa"
+    ],
+    "base_response": "Una startup es una empresa joven que busca crecer rápidamente utilizando tecnología avanzada e innovadora. Generalmente proponen soluciones creativas a problemas cotidianos de manera muy eficiente. Tienen un alto potencial de expansión, aunque también enfrentan grandes desafíos para sobrevivir en el mercado."
+  },
+  {
+    "intent_id": "propuesta_valor",
+    "keywords": [
+      "valor",
+      "beneficio",
+      "cliente",
+      "ventaja",
+      "diferencia"
+    ],
+    "base_response": "La propuesta de valor es aquello que hace único y especial a tu producto. Explica claramente por qué un cliente debería elegirte a ti frente a otros. Ofrecer un beneficio real y diferente asegura que tu negocio destaque frente a la enorme competencia."
+  },
+  {
+    "intent_id": "marketing_digital",
+    "keywords": [
+      "marketing",
+      "publicidad",
+      "cliente",
+      "producto",
+      "estrategia"
+    ],
+    "base_response": "El marketing agrupa las estrategias utilizadas para promocionar y vender un producto o servicio exitosamente. Consiste en entender las necesidades del cliente para comunicar el valor ofrecido. Una buena publicidad atrae atención y genera interés genuino, impulsando el crecimiento constante del negocio."
+  },
+  {
+    "intent_id": "publico_objetivo",
+    "keywords": [
+      "publico",
+      "cliente",
+      "producto",
+      "necesidad",
+      "segmento"
+    ],
+    "base_response": "El público objetivo es el grupo específico de personas ideales para comprar tu producto particular. Conocer sus gustos y edades resulta esencial para crear publicidad altamente efectiva. Enfocar tus esfuerzos de venta en este segmento aumenta drásticamente tus posibilidades de lograr ventas."
+  },
+  {
+    "intent_id": "marca_personal",
+    "keywords": [
+      "marca",
+      "identidad",
+      "imagen",
+      "reputacion",
+      "confianza"
+    ],
+    "base_response": "La marca es la identidad y reputación que construyes alrededor de tu negocio o nombre. Incluye logotipos, colores y los valores que transmites a los consumidores diariamente. Una marca fuerte y coherente genera mucha confianza, logrando que los clientes regresen a comprarte siempre."
+  },
+  {
+    "intent_id": "estudio_mercado",
+    "keywords": [
+      "estudio",
+      "mercado",
+      "investigacion",
+      "competencia",
+      "cliente"
+    ],
+    "base_response": "El estudio de mercado es una investigación para conocer mejor a tus posibles clientes. Analiza qué compran, cuánto gastan y qué ofrece exactamente la competencia local. Esta información vital te permite mejorar tu producto y tomar decisiones inteligentes para asegurar mayores ventas."
+  },
+  {
+    "intent_id": "ciclo_producto",
+    "keywords": [
+      "producto",
+      "ciclo",
+      "lanzamiento",
+      "crecimiento",
+      "declive"
+    ],
+    "base_response": "El ciclo de vida de un producto describe las diferentes etapas desde su invención. Incluye el lanzamiento inicial, el crecimiento de ventas y finalmente su declive inevitable. Conocer estas fases ayuda a las empresas a renovar sus ofertas y mantenerse siendo competitivas."
+  },
+  {
+    "intent_id": "retorno_inversion",
+    "keywords": [
+      "retorno",
+      "ganancia",
+      "inversion",
+      "beneficio",
+      "porcentaje"
+    ],
+    "base_response": "El retorno de inversión es una medida que calcula cuánto dinero ganaste tras invertir previamente. Se expresa como un porcentaje y sirve para evaluar si el negocio funcionó. Un número positivo indica que obtuviste beneficios reales y tomaste una excelente decisión financiera."
+  },
+  {
+    "intent_id": "diversificacion_riesgo",
+    "keywords": [
+      "diversificacion",
+      "riesgo",
+      "dinero",
+      "inversion",
+      "estrategia"
+    ],
+    "base_response": "La diversificación consiste en no poner todo tu dinero en un solo tipo de negocio. Al invertir en diferentes opciones, reduces significativamente las posibilidades de perderlo todo. Es una técnica financiera inteligente que brinda gran seguridad y tranquilidad a los inversores más expertos."
+  },
+  {
+    "intent_id": "margen_ganancia",
+    "keywords": [
+      "margen",
+      "ganancia",
+      "precio",
+      "costo",
+      "beneficio"
+    ],
+    "base_response": "El margen de ganancia es la diferencia entre el precio de venta y el costo total. Si fabricar un juguete cuesta cinco monedas y lo vendes a diez, obtienes beneficio. Mantener un margen adecuado es absolutamente fundamental para asegurar que tu empresa pueda sobrevivir económicamente."
+  },
+  {
+    "intent_id": "acciones_bolsa",
+    "keywords": [
+      "accion",
+      "bolsa",
+      "empresa",
+      "inversion",
+      "propiedad"
+    ],
+    "base_response": "Las acciones representan pequeñas partes de la propiedad total de una empresa muy grande. Al comprarlas, te conviertes en socio y puedes recibir parte de las ganancias generadas. Sus precios suben o bajan diariamente según el enorme éxito que tenga la compañía en general."
+  },
+  {
+    "intent_id": "interes_compuesto",
+    "keywords": [
+      "interes",
+      "dinero",
+      "crecimiento",
+      "tiempo",
+      "inversion"
+    ],
+    "base_response": "El interés compuesto ocurre cuando las ganancias de tu inversión generan aún más ganancias adicionales. Es como una bola de nieve que crece rápidamente mientras rueda sin detenerse jamás. Con el tiempo, esta poderosa herramienta financiera logra multiplicar tus ahorros de manera verdaderamente impresionante."
+  },
+  {
+    "intent_id": "pago_impuestos",
+    "keywords": [
+      "impuesto",
+      "gobierno",
+      "servicio",
+      "ciudadano",
+      "economia"
+    ],
+    "base_response": "Los impuestos son pagos obligatorios que los ciudadanos y empresas realizan al gobierno nacional. Este dinero se utiliza para construir escuelas, hospitales y mantener los servicios públicos esenciales. Son fundamentales para el correcto funcionamiento y desarrollo continuo de toda la maravillosa sociedad actual."
+  },
+  {
+    "intent_id": "comercio_internacional",
+    "keywords": [
+      "comercio",
+      "pais",
+      "importacion",
+      "exportacion",
+      "producto"
+    ],
+    "base_response": "El comercio internacional es el intercambio de bienes y servicios entre diferentes países del mundo. Permite vender productos locales en el extranjero y comprar cosas que no producimos aquí. Ayuda a mejorar la economía global, conectando culturas y generando nuevas oportunidades de negocio constantemente."
+  },
+  {
+    "intent_id": "divisas_cambio",
+    "keywords": [
+      "divisa",
+      "moneda",
+      "cambio",
+      "valor",
+      "pais"
+    ],
+    "base_response": "Las divisas son las diferentes monedas oficiales que utilizan los países alrededor del mundo entero. Cada una tiene un valor que cambia constantemente según la economía global del momento histórico. Conocer el tipo de cambio es absolutamente vital para realizar viajes internacionales o negocios exitosos."
+  },
+  {
+    "intent_id": "franquicia_comercial",
+    "keywords": [
+      "franquicia",
+      "negocio",
+      "marca",
+      "licencia",
+      "expansion"
+    ],
+    "base_response": "Una franquicia es un modelo donde pagas por usar la marca y sistema de otro. Te permite abrir una tienda reconocida sin tener que inventar todo desde cero inicialmente. Es una forma popular y muy segura de expandir negocios exitosos a nuevas grandes ciudades."
+  },
+  {
+    "intent_id": "patrocinios_marcas",
+    "keywords": [
+      "patrocinio",
+      "marca",
+      "evento",
+      "apoyo",
+      "publicidad"
+    ],
+    "base_response": "El patrocinio ocurre cuando una empresa financia un evento o equipo para ganar enorme visibilidad. A cambio del dinero, muestran su logotipo y promocionan activamente sus productos al público. Es una estrategia excelente para asociar valores positivos a la identidad visual de la gran marca."
+  },
+  {
+    "intent_id": "economia_circular",
+    "keywords": [
+      "economia",
+      "reciclaje",
+      "recurso",
+      "medioambiente",
+      "sostenibilidad"
+    ],
+    "base_response": "La economía circular busca reducir los desechos reutilizando y reciclando los materiales de producción constantemente. En lugar de tirar las cosas, se transforman en nuevos productos de gran valor. Protege el medio ambiente y ahorra mucho dinero a las fábricas y ciudadanos sumamente responsables."
+  },
+  {
+    "intent_id": "monopolio_mercado",
+    "keywords": [
+      "monopolio",
+      "empresa",
+      "control",
+      "mercado",
+      "competencia"
+    ],
+    "base_response": "Un monopolio sucede cuando una sola empresa controla completamente la venta de un producto. Al no tener competidores, pueden subir los precios y ofrecer menor calidad sin grandes preocupaciones. Los gobiernos suelen vigilarlos para proteger los derechos básicos de todos los ciudadanos y consumidores modernos."
+  },
+  {
+    "intent_id": "capital_humano",
+    "keywords": [
+      "capital",
+      "humano",
+      "talento",
+      "habilidad",
+      "educacion"
+    ],
+    "base_response": "El capital humano representa el conjunto de habilidades, conocimientos y experiencia de los trabajadores. Las empresas invierten en capacitación para mejorar el talento de todo su gran equipo profesional. Un personal muy educado y motivado es el recurso verdaderamente más valioso para cualquier negocio exitoso."
+  },
+  {
+    "intent_id": "logistica_distribucion",
+    "keywords": [
+      "logistica",
+      "transporte",
+      "entrega",
+      "producto",
+      "almacenaje"
+    ],
+    "base_response": "La logística es el proceso completo de organizar el transporte y almacenamiento de productos físicos. Asegura que los artículos lleguen al cliente correcto en el menor tiempo posible siempre. Una buena distribución evita grandes retrasos y mantiene a todos los amables compradores muy felices y satisfechos."
+  },
+  {
+    "intent_id": "ventas_directas",
+    "keywords": [
+      "venta",
+      "contacto",
+      "cliente",
+      "comunicacion",
+      "persuasion"
+    ],
+    "base_response": "Las ventas directas ocurren cuando ofreces tu producto directamente a la persona interesada personalmente. Requiere excelentes habilidades de comunicación y empatía para comprender las verdaderas necesidades reales del comprador. Construir una buena relación garantiza mayor confianza y asegura muchísimas ventas grandes a largo plazo."
+  },
+  {
+    "intent_id": "patente_invencion",
+    "keywords": [
+      "patente",
+      "invento",
+      "proteccion",
+      "derecho",
+      "innovacion"
+    ],
+    "base_response": "Una patente es un derecho legal que protege tu invento para que nadie lo copie fácilmente. Te otorga exclusividad absoluta para fabricar y vender tu creación durante varios años consecutivos. Es fundamental para recompensar el enorme esfuerzo y fomentar la valiosa innovación tecnológica en la sociedad moderna."
+  },
+  {
+    "intent_id": "comercio_electronico",
+    "keywords": [
+      "comercio",
+      "internet",
+      "tienda",
+      "online",
+      "compra"
+    ],
+    "base_response": "El comercio electrónico permite comprar y vender artículos utilizando plataformas digitales a través de internet. Ha revolucionado la forma en que las tiendas alcanzan clientes en absolutamente todo el mundo. Ofrece gran comodidad, permitiendo adquirir maravillosos productos desde casa en cualquier momento del día o noche."
+  },
+  {
+    "intent_id": "responsabilidad_social",
+    "keywords": [
+      "responsabilidad",
+      "sociedad",
+      "empresa",
+      "impacto",
+      "etica"
+    ],
+    "base_response": "La responsabilidad social empresarial es el compromiso de los negocios para mejorar su entorno cercano. Implica cuidar la naturaleza y apoyar activamente a las comunidades mediante proyectos solidarios y muy positivos. Los consumidores modernos siempre prefieren comprar marcas que demuestran preocupación genuina por el hermoso planeta tierra."
+  },
+  {
+    "intent_id": "bienes_servicios",
+    "keywords": [
+      "bien",
+      "servicio",
+      "producto",
+      "necesidad",
+      "consumo"
+    ],
+    "base_response": "Los bienes son objetos tangibles que puedes tocar, como un libro o un rico alimento. Los servicios son acciones que otras personas realizan para ayudarte, como un maravilloso corte de cabello. Ambos son fundamentales en la economía moderna porque logran satisfacer diferentes tipos de necesidades humanas diarias."
+  },
+  {
+    "intent_id": "gasto_hormiga",
+    "keywords": [
+      "gasto",
+      "dinero",
+      "control",
+      "fuga",
+      "compra"
+    ],
+    "base_response": "Los gastos hormiga son aquellas pequeñas compras diarias que parecen completamente inofensivas y muy económicas. Sin embargo, al sumarlas a fin de mes, representan una enorme pérdida de dinero valioso. Controlar estos consumos innecesarios resulta vital para lograr mantener tus finanzas personales perfectamente saludables y siempre estables."
+  },
+  {
+    "intent_id": "tarjeta_credito",
+    "keywords": [
+      "tarjeta",
+      "credito",
+      "prestamo",
+      "banco",
+      "pago"
+    ],
+    "base_response": "Una tarjeta de crédito te permite realizar compras utilizando dinero prestado temporalmente por un banco. Al final del mes debes devolver esa cantidad exacta o pagar intereses adicionales bastante altos. Utilizarla con muchísima responsabilidad ayuda a construir un gran historial financiero para obtener futuros préstamos importantes."
+  },
+  {
+    "intent_id": "trueque_historia",
+    "keywords": [
+      "trueque",
+      "historia",
+      "intercambio",
+      "producto",
+      "dinero"
+    ],
+    "base_response": "Antes de que existiera el dinero, las personas utilizaban el sistema de trueque para sobrevivir. Consistía en intercambiar directamente un producto que poseían por otro que realmente necesitaban con urgencia. Aunque era muy útil, resultaba complicado encontrar a alguien que deseara exactamente lo que tú estabas ofreciendo."
+  },
+  {
+    "intent_id": "hipoteca_casa",
+    "keywords": [
+      "hipoteca",
+      "prestamo",
+      "casa",
+      "banco",
+      "vivienda"
+    ],
+    "base_response": "Una hipoteca es un tipo de préstamo bancario diseñado específicamente para comprar una vivienda familiar. Debido a que las casas son muy costosas, pagas el dinero lentamente durante muchísimos años continuos. La propiedad misma funciona como garantía segura para el banco hasta que termines de pagar completamente."
+  },
+  {
+    "intent_id": "fondo_emergencia",
+    "keywords": [
+      "fondo",
+      "emergencia",
+      "ahorro",
+      "seguridad",
+      "imprevisto"
+    ],
+    "base_response": "Un fondo de emergencia es dinero guardado exclusivamente para afrontar situaciones completamente inesperadas o urgentes. Sirve para pagar gastos médicos sorpresa o reparaciones urgentes sin tener que endeudarte con otros. Tener este ahorro brinda muchísima tranquilidad mental y asegura tu estabilidad económica frente a los problemas cotidianos."
+  },
+  {
+    "intent_id": "salario_minimo",
+    "keywords": [
+      "salario",
+      "sueldo",
+      "trabajo",
+      "ley",
+      "gobierno"
+    ],
+    "base_response": "El salario mínimo es la cantidad de dinero más baja que un empleador puede pagar legalmente. El gobierno establece esta cifra para garantizar que todos los trabajadores puedan cubrir sus necesidades básicas. Esta importante ley laboral protege fuertemente a los empleados de ser severamente explotados en sus trabajos."
+  },
+  {
+    "intent_id": "contrato_trabajo",
+    "keywords": [
+      "contrato",
+      "trabajo",
+      "acuerdo",
+      "empleo",
+      "documento"
+    ],
+    "base_response": "Un contrato de trabajo es un documento legal que detalla las condiciones de tu nuevo empleo. Especifica claramente cuánto te pagarán, tus horarios exactos y todas tus responsabilidades profesionales diarias. Firmar este acuerdo protege tanto al trabajador como a la empresa, evitando futuros problemas o malos entendidos."
+  },
+  {
+    "intent_id": "comercio_justo",
+    "keywords": [
+      "comercio",
+      "justicia",
+      "trabajo",
+      "precio",
+      "etica"
+    ],
+    "base_response": "El comercio justo es un sistema que asegura que los productores reciban un pago digno siempre. Busca eliminar la explotación laboral pagando un precio razonable por los cultivos o los trabajos artesanales. Fomenta el respeto absoluto por los derechos humanos y protege incansablemente al delicado medio ambiente global."
+  },
+  {
+    "intent_id": "eslogan_marca",
+    "keywords": [
+      "eslogan",
+      "frase",
+      "marca",
+      "publicidad",
+      "memoria"
+    ],
+    "base_response": "Un eslogan es una frase corta y muy pegadiza que identifica rápidamente a una marca famosa. Se utiliza en toda la publicidad para que los clientes recuerden el producto de forma instantánea. Un buen eslogan resume perfectamente los valores de la empresa y resulta verdaderamente inolvidable para todos."
+  },
+  {
+    "intent_id": "crowdfunding_micromecenazgo",
+    "keywords": [
+      "plataforma",
+      "proyecto",
+      "donacion",
+      "internet",
+      "comunidad"
+    ],
+    "base_response": "El micromecenazgo permite financiar nuevos proyectos solicitando pequeñas cantidades de dinero a muchísimas personas diferentes. Utilizando plataformas de internet, emprendedores y brillantes artistas pueden conseguir recursos para hacer realidad sus grandes sueños. Es una forma increíblemente colaborativa de lanzar ideas innovadoras y ayudar a jóvenes creadores creativos."
+  },
+  {
+    "intent_id": "devaluacion_moneda",
+    "keywords": [
+      "devaluacion",
+      "moneda",
+      "dinero",
+      "perdida",
+      "valor"
+    ],
+    "base_response": "La devaluación ocurre cuando la moneda oficial de un país pierde su valor frente a otras internacionales. Esto significa que los productos importados se vuelven repentinamente muchísimo más caros para todos. Suele suceder debido a enormes problemas en la economía local o malas decisiones del gobierno nacional vigente."
+  },
+  {
+    "intent_id": "bienes_raices",
+    "keywords": [
+      "bien",
+      "propiedad",
+      "inversion",
+      "terreno",
+      "edificio"
+    ],
+    "base_response": "Los bienes raíces son propiedades físicas como casas, enormes terrenos agrícolas o grandes edificios de oficinas. Invertir en este tipo de activos suele ser muy seguro porque su valor tiende a aumentar siempre. Además de venderlos, puedes ganar mucho dinero alquilándolos a familias o modernas empresas comerciales exitosas."
+  },
+  {
+    "intent_id": "rentabilidad_negocio",
+    "keywords": [
+      "rentabilidad",
+      "ganancia",
+      "negocio",
+      "beneficio",
+      "exito"
+    ],
+    "base_response": "La rentabilidad mide la capacidad que tiene tu empresa para generar ganancias constantes tras pagar gastos. Un negocio resulta verdaderamente rentable cuando los ingresos superan ampliamente a todos los costos de producción diarios. Es el indicador absoluto más importante para asegurar la supervivencia y enorme éxito del proyecto."
+  },
+  {
+    "intent_id": "liquidez_financiera",
+    "keywords": [
+      "liquidez",
+      "dinero",
+      "efectivo",
+      "pago",
+      "rapidez"
+    ],
+    "base_response": "La liquidez financiera es la gran capacidad de tener dinero en efectivo disponible de manera inmediata. Es vital para poder pagar las deudas urgentes y cumplir con todos los compromisos diarios rápidamente. Una empresa sin liquidez puede enfrentar graves problemas, incluso si posee muchísimas propiedades o valiosos equipos."
+  },
+  {
+    "intent_id": "pib_nacional",
+    "keywords": [
+      "producto",
+      "interno",
+      "bruto",
+      "economia",
+      "riqueza"
+    ],
+    "base_response": "El Producto Interno Bruto es el enorme valor total de todos los bienes creados en un país. Sirve para medir con muchísima precisión si la economía nacional está creciendo o está disminuyendo rápidamente. Un crecimiento constante indica que existe mayor riqueza y mejores oportunidades laborales para todos los valiosos ciudadanos."
+  },
+  {
+    "intent_id": "trabajo_equipo",
+    "keywords": [
+      "trabajo",
+      "equipo",
+      "colaboracion",
+      "esfuerzo",
+      "meta"
+    ],
+    "base_response": "El trabajo en equipo consiste en unir grandes esfuerzos con otras personas para alcanzar un objetivo común. En los negocios, resulta fundamental porque cada talentoso empleado aporta diferentes habilidades y valiosos conocimientos técnicos. Colaborar armoniosamente aumenta la productividad general y mejora muchísimo el agradable ambiente laboral diario en la oficina."
+  },
+  {
+    "intent_id": "pirateria_comercial",
+    "keywords": [
+      "pirateria",
+      "copia",
+      "delito",
+      "producto",
+      "autor"
+    ],
+    "base_response": "La piratería comercial consiste en copiar y vender ilegalmente productos protegidos sin permiso del autor original. Afecta gravemente a creadores de música, libros, valioso software y ropa, robándoles sus justas ganancias. Es un delito serio que destruye miles de empleos formales y frena la gran creatividad en todo el mundo."
+  },
+  {
+    "intent_id": "influencer_marketing",
+    "keywords": [
+      "influencer",
+      "red",
+      "seguidor",
+      "marca",
+      "recomendacion"
+    ],
+    "base_response": "El marketing de influencers utiliza a personas famosas en internet para promocionar productos a sus fans. Las marcas les pagan grandes cantidades de dinero para que recomienden sus artículos en fotos y videos. Aprovechan la enorme confianza que estas estrellas de redes sociales logran generar en su gigante público juvenil."
+  }
+]
