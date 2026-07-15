@@ -1,0 +1,332 @@
+[
+  {
+    "intent_id": "calentamiento_fisico_basico",
+    "keywords": [
+      "calentamiento",
+      "musculos",
+      "articulaciones",
+      "preparacion",
+      "ejercicio"
+    ],
+    "base_response": "El calentamiento preparatorio acondiciona adecuadamente el cuerpo, incrementando gradualmente la temperatura muscular y optimizando el flujo sanguíneo general. Esta práctica sistemática previene diversas lesiones deportivas y mejora significativamente el rendimiento físico. Resulta fundamental realizar movimientos articulares específicos y elongaciones moderadas."
+  },
+  {
+    "intent_id": "flexibilidad_muscular_estatica",
+    "keywords": [
+      "flexibilidad",
+      "amplitud",
+      "musculos",
+      "elongacion",
+      "movimiento"
+    ],
+    "base_response": "La flexibilidad funcional permite a las articulaciones corporales moverse con una mayor amplitud y absoluta libertad anatómica. Un músculo debidamente flexibilizado resulta notablemente menos propenso a sufrir desgarros durante cualquier práctica deportiva intensa, desarrollándose siempre mediante rutinas progresivas y constantes."
+  },
+  {
+    "intent_id": "resistencia_aerobica_deportiva",
+    "keywords": [
+      "resistencia",
+      "oxigeno",
+      "esfuerzo",
+      "capacidad",
+      "ejercicio"
+    ],
+    "base_response": "La resistencia aeróbica constituye la capacidad orgánica de mantener prolongadamente un esfuerzo físico de intensidad moderada sin excesiva fatiga. Este atributo fisiológico perfecciona la eficiencia cardíaca y respiratoria al transportar oxígeno durante actividades continuas, tales como correr largas distancias o nadar."
+  },
+  {
+    "intent_id": "velocidad_reaccion_fisica",
+    "keywords": [
+      "velocidad",
+      "reaccion",
+      "estimulo",
+      "respuesta",
+      "movimiento"
+    ],
+    "base_response": "La velocidad de reacción motriz representa la asombrosa capacidad del sistema nervioso central para procesar eficientemente un estímulo y ejecutar simultáneamente un movimiento corporal muy rápido. Constituye un factor absolutamente vital en diversas disciplinas deportivas donde se requiere responder velozmente."
+  },
+  {
+    "intent_id": "fuerza_muscular_dinamica",
+    "keywords": [
+      "fuerza",
+      "contraccion",
+      "musculos",
+      "resistencia",
+      "movimiento"
+    ],
+    "base_response": "La fuerza muscular dinámica se refiere a la capacidad intrínseca de los diferentes grupos musculares para generar alta tensión y superar una resistencia externa durante cualquier movimiento. Este tipo de fuerza motriz es verdaderamente indispensable para saltar, lanzar objetos pesados y correr."
+  },
+  {
+    "intent_id": "coordinacion_motriz_global",
+    "keywords": [
+      "coordinacion",
+      "movimientos",
+      "sincronizacion",
+      "cuerpo",
+      "control"
+    ],
+    "base_response": "La coordinación motriz global implica el uso equilibrado de todo el cuerpo humano en múltiples movimientos sumamente fluidos y sincronizados. Dicha cualidad se logra mediante la integración de señales nerviosas y respuestas musculares que permiten realizar acciones físicas complejas muy eficientemente."
+  },
+  {
+    "intent_id": "equilibrio_corporal_dinamico",
+    "keywords": [
+      "equilibrio",
+      "postura",
+      "estabilidad",
+      "movimiento",
+      "centro"
+    ],
+    "base_response": "El equilibrio dinámico es la increíble habilidad neuromuscular de mantener permanentemente la estabilidad postural mientras el cuerpo completo se encuentra en pleno movimiento. Dicha destreza requiere constantes ajustes físicos y resulta completamente indispensable para realizar rápidos cambios de dirección sin caerse."
+  },
+  {
+    "intent_id": "agilidad_fisica_deportiva",
+    "keywords": [
+      "agilidad",
+      "cambios",
+      "direccion",
+      "velocidad",
+      "movimiento"
+    ],
+    "base_response": "La agilidad física general es la capacidad neuromuscular de cambiar repentinamente la dirección del cuerpo de una forma verdaderamente rápida y siempre controlada. Esta habilidad combina maravillosamente la velocidad, la coordinación y el equilibrio, siendo fundamental para evadir oponentes eficientemente."
+  },
+  {
+    "intent_id": "disciplina_deportiva_escolar",
+    "keywords": [
+      "disciplina",
+      "reglas",
+      "respeto",
+      "constancia",
+      "entrenamiento"
+    ],
+    "base_response": "La disciplina deportiva fomenta permanentemente el respeto integral por las reglas, las indicaciones del entrenador y los propios compañeros de equipo. Asimismo, implica suma constancia y gran puntualidad en el entrenamiento regular, formando invaluables hábitos positivos que benefician el desarrollo personal."
+  },
+  {
+    "intent_id": "tecnica_deportiva_basica",
+    "keywords": [
+      "tecnica",
+      "ejecucion",
+      "movimiento",
+      "eficiencia",
+      "practica"
+    ],
+    "base_response": "La técnica deportiva básica consiste específicamente en la correcta y depurada ejecución de todos los movimientos característicos de cada disciplina escolar. Dominarla cabalmente permite realizar diversas acciones con muchísima mayor eficiencia y menor gasto energético, reduciendo notablemente el riesgo de lesiones."
+  },
+  {
+    "intent_id": "habilidades_motrices_basicas",
+    "keywords": [
+      "habilidades",
+      "correr",
+      "saltar",
+      "lanzar",
+      "desarrollo"
+    ],
+    "base_response": "Las habilidades motrices básicas abarcan un conjunto de acciones fundamentales para el humano, tales como correr velozmente, saltar alto y lanzar distintos objetos. Constituyen indudablemente la base sólida sobre la cual se construyen los movimientos deportivos mucho más complejos posteriormente."
+  },
+  {
+    "intent_id": "capacidad_anaerobica_deportiva",
+    "keywords": [
+      "capacidad",
+      "esfuerzo",
+      "intensidad",
+      "energia",
+      "oxigeno"
+    ],
+    "base_response": "La capacidad anaeróbica permite al atleta realizar notables esfuerzos físicos de altísima intensidad durante períodos sumamente breves de tiempo cronometrado. Para lograrlo, utiliza exclusivamente fuentes de energía celular almacenadas en los músculos sin requerir oxígeno inmediato durante su rápida ejecución."
+  },
+  {
+    "intent_id": "control_corporal_deportivo",
+    "keywords": [
+      "control",
+      "conciencia",
+      "cuerpo",
+      "movimiento",
+      "precision"
+    ],
+    "base_response": "El control corporal avanzado se refiere a la plena conciencia propioceptiva de las distintas partes del cuerpo en el espacio físico y su preciso manejo voluntario. Dicho control facilita enormemente la ejecución de movimientos muy precisos y contribuye significativamente al ritmo."
+  },
+  {
+    "intent_id": "ritmo_movimiento_corporal",
+    "keywords": [
+      "ritmo",
+      "secuencia",
+      "movimiento",
+      "tiempo",
+      "coordinacion"
+    ],
+    "base_response": "El ritmo corporal consiste básicamente en la adecuada organización secuencial de los movimientos físicos dentro de una fracción de tiempo muy específica. Esta cualidad rítmica favorece la coordinación motriz general y resulta verdaderamente trascendental en distintas actividades gimnásticas o coreográficas."
+  },
+  {
+    "intent_id": "postura_corporal_correcta",
+    "keywords": [
+      "postura",
+      "alineacion",
+      "columna",
+      "cuerpo",
+      "salud"
+    ],
+    "base_response": "Una correcta postura corporal mantiene constantemente la alineación verdaderamente adecuada de la columna vertebral y reduce de inmediato cualquier perjudicial tensión en los músculos. Fomentar siempre excelentes hábitos posturales en la clase de educación física previene dolores y serios problemas articulares futuros."
+  },
+  {
+    "intent_id": "trabajo_equipo_deportivo",
+    "keywords": [
+      "trabajo",
+      "equipo",
+      "cooperacion",
+      "meta",
+      "companeros"
+    ],
+    "base_response": "El importante trabajo en equipo implica la constante y dedicada cooperación coordinada de todos los jugadores para alcanzar victoriosamente una meta común. Esta dinámica promueve firmemente la comunicación, la solidaridad mutua y la confianza plena, valores siempre indispensables en el deporte escolar."
+  },
+  {
+    "intent_id": "salud_fisica_integral",
+    "keywords": [
+      "salud",
+      "bienestar",
+      "ejercicio",
+      "prevencion",
+      "calidad"
+    ],
+    "base_response": "La invaluable salud física integral abarca el completo y armonioso bienestar del cuerpo humano mediante el ejercicio regular continuo, un descanso verdaderamente adecuado y excelente higiene. La educación física busca fomentar activamente este sano estilo de vida para mejorar la vida."
+  },
+  {
+    "intent_id": "movilidad_articular_deportiva",
+    "keywords": [
+      "movilidad",
+      "articulaciones",
+      "rango",
+      "movimiento",
+      "calentamiento"
+    ],
+    "base_response": "La movilidad articular representa la asombrosa capacidad fisiológica de mover las distintas articulaciones en todo su amplio rango natural sin experimentar dolor ni molestas restricciones. Realizar ejercicios específicos de movilidad preparatoria antes de la actividad principal adecúa las estructuras adecuadamente."
+  },
+  {
+    "intent_id": "hidratacion_deportiva_adecuada",
+    "keywords": [
+      "hidratacion",
+      "agua",
+      "sudor",
+      "rendimiento",
+      "liquidos"
+    ],
+    "base_response": "La correcta hidratación repone eficientemente los valiosos líquidos corporales perdidos inevitablemente a través del sudor durante cualquier intensa actividad física. Mantener siempre un nivel verdaderamente adecuado de agua en el organismo previene la fatiga extrema, los calambres dolorosos y garantiza un rendimiento."
+  },
+  {
+    "intent_id": "respiracion_deportiva_controlada",
+    "keywords": [
+      "respiracion",
+      "oxigeno",
+      "inhalacion",
+      "exhalacion",
+      "ritmo"
+    ],
+    "base_response": "El adecuado control de la respiración optimiza notablemente el constante intercambio vital de oxígeno durante todo el ejercicio físico. Coordinar eficientemente la profunda inhalación y la completa exhalación con los movimientos corporales ayuda significativamente a retrasar la fatiga en competencias físicas."
+  },
+  {
+    "intent_id": "fuerza_explosiva_deportiva",
+    "keywords": [
+      "fuerza",
+      "potencia",
+      "velocidad",
+      "musculos",
+      "salto"
+    ],
+    "base_response": "La fuerza explosiva deportiva combina de manera sublime la velocidad máxima y la fuerza muscular pura. Consiste básicamente en liberar la mayor cantidad posible de energía física en un tiempo extremadamente mínimo. Es indispensable en disciplinas como el salto largo o carreras."
+  },
+  {
+    "intent_id": "resistencia_muscular_localizada",
+    "keywords": [
+      "resistencia",
+      "musculo",
+      "esfuerzo",
+      "repeticion",
+      "fatiga"
+    ],
+    "base_response": "La resistencia muscular localizada permite a un músculo específico sostener prolongadamente contracciones continuas frente a una carga ligera o moderada. Retrasar la incómoda fatiga muscular local es crucial en ciertos deportes intensos, como por ejemplo el remo clásico escolar."
+  },
+  {
+    "intent_id": "evaluacion_fisica_escolar",
+    "keywords": [
+      "evaluacion",
+      "pruebas",
+      "rendimiento",
+      "medicion",
+      "progreso"
+    ],
+    "base_response": "La evaluación física escolar comprende una serie de pruebas estandarizadas que miden de forma objetiva las diversas capacidades motrices del alumno. Su principal propósito formativo es diagnosticar el nivel inicial del estudiante para trazar metas realistas y monitorear un verdadero progreso continuo."
+  },
+  {
+    "intent_id": "deporte_escolar_inclusivo",
+    "keywords": [
+      "deporte",
+      "inclusion",
+      "participacion",
+      "adaptacion",
+      "equidad"
+    ],
+    "base_response": "El deporte escolar inclusivo fomenta activamente la participación equitativa de absolutamente todos los alumnos, sin importar en absoluto sus diferentes habilidades físicas o condiciones particulares. Se promueve firmemente adaptando maravillosamente reglas, espacios o materiales para garantizar oportunidades iguales y completamente justas."
+  },
+  {
+    "intent_id": "motricidad_fina_escolar",
+    "keywords": [
+      "motricidad",
+      "precision",
+      "movimiento",
+      "manos",
+      "coordinacion"
+    ],
+    "base_response": "La motricidad fina implica la precisa coordinación neuromuscular de movimientos minúsculos y sumamente exactos, utilizando principalmente los pequeños músculos de las manos y dedos. Su óptimo desarrollo continuo es verdaderamente vital para la destreza manual compleja y la escritura correcta futura."
+  },
+  {
+    "intent_id": "motricidad_gruesa_infantil",
+    "keywords": [
+      "motricidad",
+      "cuerpo",
+      "movimiento",
+      "equilibrio",
+      "desarrollo"
+    ],
+    "base_response": "La motricidad gruesa abarca todos los movimientos amplios que involucran directamente a los grandes grupos musculares de todo el cuerpo infantil. Es fundamental trabajar intensamente estas acciones durante la primera infancia, puesto que consolidan el equilibrio dinámico y la postura global."
+  },
+  {
+    "intent_id": "educacion_fisica_infantil",
+    "keywords": [
+      "educacion",
+      "juego",
+      "desarrollo",
+      "aprendizaje",
+      "movimiento"
+    ],
+    "base_response": "La educación física infantil prioriza maravillosamente el aprendizaje significativo a través del juego espontáneo, descubriendo así el propio cuerpo y su increíble entorno espacial. Estimula fuertemente el adecuado desarrollo perceptivo, cognitivo y puramente motor, sentando bases duraderas e inquebrantables para el futuro."
+  },
+  {
+    "intent_id": "valores_deporte_escolar",
+    "keywords": [
+      "valores",
+      "respeto",
+      "solidaridad",
+      "juego",
+      "educacion"
+    ],
+    "base_response": "La práctica deportiva escolar constituye un vehículo pedagógico inmejorable para transmitir valores humanos absolutamente fundamentales. Fomenta continuamente la importante solidaridad mutua, la sana competencia leal, la tolerancia frente a la derrota momentánea y el profundo respeto incondicional hacia los rivales deportivos."
+  },
+  {
+    "intent_id": "reglamento_deportivo_basico",
+    "keywords": [
+      "reglamento",
+      "normas",
+      "juego",
+      "orden",
+      "respeto"
+    ],
+    "base_response": "El reglamento deportivo básico estructura de forma verdaderamente justa la práctica de cualquier disciplina, estableciendo normas claras que garantizan un orden lógico. Conocerlo y respetarlo íntegramente es absolutamente indispensable para el correcto y pacífico desarrollo del juego competitivo escolar."
+  },
+  {
+    "intent_id": "tactica_deportiva_escolar",
+    "keywords": [
+      "tactica",
+      "estrategia",
+      "juego",
+      "decision",
+      "equipo"
+    ],
+    "base_response": "La táctica deportiva implica la oportuna y siempre inteligente toma de decisiones dinámicas durante el juego, buscando superar al adversario bajo el reglamento. En el ámbito escolar, desarrolla notablemente el pensamiento analítico rápido y la adaptación inmediata a situaciones muy cambiantes."
+  }
+]
