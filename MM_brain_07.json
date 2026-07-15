@@ -1,0 +1,347 @@
+[
+  {
+    "intent_id": "clasificacion_triangulos",
+    "keywords": [
+      "triangulos",
+      "clasificacion",
+      "lados",
+      "angulos",
+      "medida"
+    ],
+    "base_response": "Los triángulos se clasifican principalmente en dos grandes categorías dependiendo de las características evaluadas. Según la longitud de sus lados, pueden ser equiláteros, isósceles o escalenos. Por otro lado, basándose en la medida de sus ángulos internos, se denominan acutángulos, rectángulos u obtusángulos."
+  },
+  {
+    "intent_id": "cuadrados_regulares",
+    "keywords": [
+      "cuadrado",
+      "poligono",
+      "lados",
+      "simetria",
+      "perimetro"
+    ],
+    "base_response": "El cuadrado representa un polígono regular fundamental debido a que siempre posee cuatro lados de idéntica longitud y cuatro ángulos rectos exactos. Esta hermosa figura plana destaca especialmente por su simetría perfecta, lo cual facilita enormemente calcular el perímetro total y toda el área interna."
+  },
+  {
+    "intent_id": "poligonos_planos_cerrados",
+    "keywords": [
+      "poligonos",
+      "figuras",
+      "segmentos",
+      "vertices",
+      "contorno"
+    ],
+    "base_response": "Un polígono es una figura geométrica completamente plana que está delimitada estrictamente por una secuencia finita de segmentos rectos consecutivos. Estos segmentos cerrados forman el contorno exterior de la figura, encerrando una región espacial bidimensional donde múltiples vértices conectan cada línea recta sin cruzarse nunca."
+  },
+  {
+    "intent_id": "perimetros_figuras",
+    "keywords": [
+      "perimetro",
+      "medida",
+      "contorno",
+      "suma",
+      "longitud"
+    ],
+    "base_response": "El perímetro corresponde a la longitud total del contorno continuo que rodea y delimita una figura geométrica plana. Para calcular este valor fundamental en cualquier polígono irregular o regular, simplemente se debe realizar la suma completa de las longitudes individuales correspondientes a cada lado visible."
+  },
+  {
+    "intent_id": "areas_superficies",
+    "keywords": [
+      "area",
+      "superficie",
+      "medida",
+      "espacio",
+      "region"
+    ],
+    "base_response": "El área es una importante medida métrica que determina la extensión exacta de una superficie geométrica contenida dentro de ciertos límites cerrados. Esta magnitud bidimensional permite cuantificar cuánto espacio plano ocupa una figura específica, expresándose matemáticamente utilizando unidades cuadradas estandarizadas como metros o centímetros cuadrados."
+  },
+  {
+    "intent_id": "medicion_angulos",
+    "keywords": [
+      "medicion",
+      "angulos",
+      "transportador",
+      "grados",
+      "amplitud"
+    ],
+    "base_response": "La medición de los ángulos se realiza habitualmente empleando un instrumento especializado denominado transportador, utilizando los grados sexagesimales como principal unidad estándar. Este procedimiento determina cuidadosamente la amplitud rotacional existente entre dos líneas rectas convergentes que comparten exactamente un mismo punto central de origen o vértice."
+  },
+  {
+    "intent_id": "circunferencias_circulos",
+    "keywords": [
+      "circunferencia",
+      "circulo",
+      "curva",
+      "centro",
+      "radio"
+    ],
+    "base_response": "La circunferencia consiste únicamente en la curva exterior completamente cerrada que contiene puntos equidistantes de un centro común. Por el contrario, el círculo comprende tanto esa línea perimetral exterior como toda la vasta región interior plana que queda encerrada dentro de dicha frontera curva delimitadora."
+  },
+  {
+    "intent_id": "lineas_paralelas",
+    "keywords": [
+      "lineas",
+      "paralelas",
+      "distancia",
+      "interseccion",
+      "plano"
+    ],
+    "base_response": "Las líneas rectas paralelas son aquellas trayectorias continuas dibujadas sobre un mismo plano que mantienen constantemente la misma distancia exacta de separación entre ellas. Estas líneas poseen la característica fundamental de que jamás llegan a cruzarse ni tocarse, sin importar cuánto logren prolongarse hacia el infinito."
+  },
+  {
+    "intent_id": "rectas_perpendiculares",
+    "keywords": [
+      "rectas",
+      "perpendiculares",
+      "cruce",
+      "angulos",
+      "interseccion"
+    ],
+    "base_response": "Las líneas rectas perpendiculares son aquellas trayectorias secantes particulares que, al cruzarse o intersecarse en un punto específico del plano bidimensional, forman exactamente cuatro ángulos rectos idénticos. Esto significa que cada uno de los cuatro ángulos generados durante el cruce mide rigurosamente noventa grados sexagesimales."
+  },
+  {
+    "intent_id": "vertices_poligonos",
+    "keywords": [
+      "vertices",
+      "poligonos",
+      "puntos",
+      "interseccion",
+      "lados"
+    ],
+    "base_response": "Los vértices de un polígono son los puntos geométricos exactos donde se produce la intersección directa entre dos lados consecutivos. Estos puntos de unión son esenciales para mantener cerrada la figura plana, determinando además la cantidad total de ángulos internos que poseerá dicha estructura geométrica."
+  },
+  {
+    "intent_id": "lados_figuras",
+    "keywords": [
+      "lados",
+      "figuras",
+      "segmentos",
+      "frontera",
+      "poligono"
+    ],
+    "base_response": "Los lados corresponden a cada uno de los distintos segmentos rectos individuales que conforman la frontera exterior delimitadora de un polígono plano. La cantidad total de estos segmentos conectados determina el nombre específico de la figura geométrica, afectando directamente las propiedades matemáticas vinculadas a ella."
+  },
+  {
+    "intent_id": "diagonales_cuadrilateros",
+    "keywords": [
+      "diagonales",
+      "cuadrilateros",
+      "segmentos",
+      "vertices",
+      "conexion"
+    ],
+    "base_response": "Las diagonales de cualquier cuadrilátero son segmentos rectos internos que conectan intencionalmente dos vértices opuestos que no resultan consecutivos. Cada cuadrilátero siempre posee exactamente dos diagonales, las cuales pueden cruzarse dentro o fuera de la figura original dependiendo directamente de si el polígono es convexo o cóncavo."
+  },
+  {
+    "intent_id": "rectangulos_base",
+    "keywords": [
+      "rectangulos",
+      "base",
+      "lados",
+      "angulos",
+      "paralelogramo"
+    ],
+    "base_response": "El rectángulo es un paralelogramo clásico que presenta cuatro ángulos rectos, donde sus lados opuestos mantienen exactamente la misma longitud. Tradicionalmente, se denomina base al lado inferior horizontal sobre el cual se asienta visualmente la figura, aunque cualquier lado puede funcionar matemáticamente como base principal."
+  },
+  {
+    "intent_id": "rombos_romboides",
+    "keywords": [
+      "rombos",
+      "romboides",
+      "lados",
+      "angulos",
+      "paralelogramos"
+    ],
+    "base_response": "Los rombos son paralelogramos especiales con cuatro lados de igual longitud, pero sus ángulos internos generalmente no son rectos. Por su parte, los romboides también tienen lados paralelos dos a dos, pero carecen de la igualdad total de lados característica del rombo regular tradicional y simétrico."
+  },
+  {
+    "intent_id": "trapecios_trapezoides",
+    "keywords": [
+      "trapecios",
+      "trapezoides",
+      "lados",
+      "paralelismo",
+      "cuadrilateros"
+    ],
+    "base_response": "Los trapecios son cuadriláteros que destacan por tener exactamente un par de lados paralelos opuestos, comúnmente llamados bases mayor y menor. En contraste, los trapezoides son figuras planas asimétricas que no poseen absolutamente ningún par de lados paralelos, mostrando una apariencia mucho más irregular e impredecible."
+  },
+  {
+    "intent_id": "radio_circulo",
+    "keywords": [
+      "radio",
+      "segmento",
+      "centro",
+      "circunferencia",
+      "medida",
+      "diametro"
+    ],
+    "base_response": "El radio es un segmento recto fundamental que conecta directamente el centro exacto del círculo con cualquier punto ubicado sobre la circunferencia exterior. Esta medida resulta indispensable porque determina el tamaño de toda la figura geométrica circular, siendo exactamente igual a la mitad del diámetro."
+  },
+  {
+    "intent_id": "diametro_circunferencia",
+    "keywords": [
+      "diametro",
+      "segmento",
+      "circulo",
+      "centro",
+      "puntos",
+      "radio"
+    ],
+    "base_response": "El diámetro representa el segmento recto más largo posible dentro de cualquier círculo, atravesando obligatoriamente el punto central exacto de la figura. Esta importante línea interna conecta dos puntos completamente opuestos situados sobre la circunferencia exterior, midiendo exactamente el doble del respectivo radio circular base."
+  },
+  {
+    "intent_id": "cuerda_secante",
+    "keywords": [
+      "cuerda",
+      "segmento",
+      "puntos",
+      "borde",
+      "centro",
+      "recta"
+    ],
+    "base_response": "Una cuerda circular es un segmento recto interno que une dos puntos cualesquiera ubicados sobre el borde de la circunferencia, sin pasar necesariamente por el centro. Cuando esta línea cruza la figura de lado a lado cortándola efectivamente en dos porciones, recibe el nombre geométrico de recta secante."
+  },
+  {
+    "intent_id": "arco_circunferencia",
+    "keywords": [
+      "arco",
+      "porcion",
+      "curva",
+      "circunferencia",
+      "puntos",
+      "longitud"
+    ],
+    "base_response": "El arco constituye simplemente una porción continua y curva de la circunferencia exterior, delimitada cuidadosamente entre dos puntos específicos seleccionados sobre ella. Su longitud se calcula considerando directamente el ángulo central correspondiente y la medida del radio, siendo fundamental para comprender diversas mediciones geométricas angulares."
+  },
+  {
+    "intent_id": "tangente_curva",
+    "keywords": [
+      "tangente",
+      "recta",
+      "curva",
+      "circunferencia",
+      "contacto",
+      "angulo"
+    ],
+    "base_response": "Una línea recta tangente es aquella trayectoria geométrica exterior que apenas roza la circunferencia tocándola en un único punto aislado llamado punto de tangencia. En ese preciso instante de contacto superficial, la recta forma un ángulo estrictamente perpendicular respecto al radio interno correspondiente al círculo."
+  },
+  {
+    "intent_id": "angulos_agudos",
+    "keywords": [
+      "angulos",
+      "agudos",
+      "amplitud",
+      "grados",
+      "vertices",
+      "triangulos"
+    ],
+    "base_response": "Los ángulos agudos son aquellas medidas angulares que poseen una amplitud estrictamente menor a noventa grados sexagesimales, siendo visiblemente más cerrados que un ángulo recto. Esta particular configuración geométrica aparece con mucha frecuencia al analizar los diversos vértices internos presentes en triángulos acutángulos regulares."
+  },
+  {
+    "intent_id": "angulos_obtusos",
+    "keywords": [
+      "angulo",
+      "obtuso",
+      "abertura",
+      "medida",
+      "grados",
+      "poligonos"
+    ],
+    "base_response": "Un ángulo obtuso es una abertura geométrica cuya medida supera los noventa grados pero resulta estrictamente inferior a los ciento ochenta grados sexagesimales. Visualmente, estas configuraciones angulares se perciben como uniones muy abiertas y expansivas, apareciendo frecuentemente dentro de la estructura de los polígonos irregulares complejos."
+  },
+  {
+    "intent_id": "angulos_rectos",
+    "keywords": [
+      "angulo",
+      "recto",
+      "figura",
+      "lineas",
+      "abertura",
+      "medida"
+    ],
+    "base_response": "El ángulo recto es la figura formada cuando dos líneas rectas perpendiculares se cruzan directamente, originando una abertura de exactamente noventa grados sexagesimales. Esta importante medida matemática representa un cuarto completo de vuelta circular, siendo la piedra angular para construir polígonos regulares como cuadrados y rectángulos."
+  },
+  {
+    "intent_id": "angulos_llanos",
+    "keywords": [
+      "angulo",
+      "llano",
+      "amplitud",
+      "grados",
+      "linea",
+      "circunferencia"
+    ],
+    "base_response": "Un ángulo llano corresponde a una amplitud rotacional que mide exactamente ciento ochenta grados sexagesimales, formando visualmente una línea completamente recta y continua. Esta particular disposición geométrica representa con precisión media vuelta sobre una circunferencia completa, originando que ambos lados apunten hacia direcciones totalmente opuestas."
+  },
+  {
+    "intent_id": "bisectriz_angulo",
+    "keywords": [
+      "bisectriz",
+      "semirrecta",
+      "vertice",
+      "angulo",
+      "partes",
+      "distancia"
+    ],
+    "base_response": "La bisectriz es una semirrecta especial que se origina exactamente en el vértice principal del ángulo, dividiéndolo simétricamente en dos partes iguales. Este trazado geométrico interno asegura que cualquier punto ubicado sobre dicha línea mantenga idéntica distancia respecto a los dos lados originales del ángulo estudiado."
+  },
+  {
+    "intent_id": "mediatriz_segmento",
+    "keywords": [
+      "mediatriz",
+      "linea",
+      "perpendicular",
+      "segmento",
+      "punto",
+      "distancia"
+    ],
+    "base_response": "La mediatriz es una línea recta perfectamente perpendicular que atraviesa y cruza un segmento dado exactamente por su punto central o medio. Cualquier punto situado sobre esta trazada geométrica mantendrá siempre una distancia completamente equitativa respecto a los dos extremos originales que delimitan dicho segmento base."
+  },
+  {
+    "intent_id": "poligonos_inscritos",
+    "keywords": [
+      "poligono",
+      "figura",
+      "lados",
+      "circunferencia",
+      "vertices",
+      "linea"
+    ],
+    "base_response": "Un polígono regular inscrito es una figura geométrica con lados idénticos que se dibuja perfectamente dentro de una circunferencia externa envolvente. La condición indispensable establece que todos los vértices del polígono interior deben tocar exactamente la línea curva exterior que pertenece a la circunferencia principal envolvente."
+  },
+  {
+    "intent_id": "apotema_poligono",
+    "keywords": [
+      "apotema",
+      "segmento",
+      "centro",
+      "poligono",
+      "lados",
+      "linea"
+    ],
+    "base_response": "El apotema es el segmento geométrico recto más corto que conecta el punto central de un polígono regular con el centro exacto de cualquiera de sus lados exteriores. Esta línea resulta estrictamente perpendicular al lado correspondiente y facilita enormemente el cálculo del área poligonal."
+  },
+  {
+    "intent_id": "sector_circular",
+    "keywords": [
+      "sector",
+      "region",
+      "arco",
+      "radios",
+      "extremos",
+      "centro"
+    ],
+    "base_response": "El sector circular es la región interna plana delimitada por un arco exterior y los dos radios que conectan sus respectivos extremos con el punto central. Su área total es directamente proporcional a la amplitud geométrica que posee el ángulo central generado entre dichos radios."
+  },
+  {
+    "intent_id": "corona_circular",
+    "keywords": [
+      "corona",
+      "figura",
+      "espacio",
+      "circunferencias",
+      "centro",
+      "area"
+    ],
+    "base_response": "La corona circular es una figura plana y concéntrica que queda encerrada exactamente en el espacio intermedio situado entre dos circunferencias de diferente tamaño pero con un centro común. Para calcular su área superficial, se debe restar la región interior menor del área exterior mayor."
+  }
+]
