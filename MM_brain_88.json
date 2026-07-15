@@ -1,0 +1,277 @@
+[
+  {
+    "intent_id": "prevencion_vacunas",
+    "keywords": [
+      "vacuna",
+      "proteger",
+      "inmunidad",
+      "cuerpo",
+      "virus"
+    ],
+    "base_response": "Las vacunas enseñan a nuestro cuerpo a defenderse contra enfermedades peligrosas. Actúan como un entrenamiento para nuestras defensas, preparando anticuerpos especiales que combaten virus o bacterias específicos, manteniéndonos fuertes y protegidos frente a diversas infecciones."
+  },
+  {
+    "intent_id": "higiene_lavado_manos",
+    "keywords": [
+      "lavar",
+      "manos",
+      "agua",
+      "jabon",
+      "bacterias"
+    ],
+    "base_response": "Lavarse las manos frecuentemente con agua y jabón elimina microorganismos invisibles que causan enfermedades. Esta sencilla acción es una de las medidas preventivas más eficaces para detener la propagación de agentes patógenos en nuestra comunidad."
+  },
+  {
+    "intent_id": "microorganismos_patogenos_bacterias",
+    "keywords": [
+      "bacteria",
+      "infeccion",
+      "multiplicar",
+      "organismo",
+      "antibiotico"
+    ],
+    "base_response": "Las bacterias son seres diminutos de una sola célula. Aunque muchas resultan beneficiosas, algunas son patógenas e invaden el cuerpo, causando infecciones que requieren descanso y, en ciertas ocasiones, medicamentos específicos recetados por un profesional."
+  },
+  {
+    "intent_id": "defensas_sistema_inmunologico",
+    "keywords": [
+      "sistema",
+      "inmune",
+      "defender",
+      "ataque",
+      "globulo"
+    ],
+    "base_response": "El sistema inmunológico es el escudo protector natural del organismo. Está formado por glóbulos blancos y diversas células especializadas que trabajan juntas para identificar, atacar y destruir amenazas externas, manteniendo nuestra salud en óptimas condiciones."
+  },
+  {
+    "intent_id": "salud_habitos_alimentacion",
+    "keywords": [
+      "nutricion",
+      "comer",
+      "fruta",
+      "verdura",
+      "fortalecer"
+    ],
+    "base_response": "Una alimentación balanceada, rica en frutas, verduras y proteínas, proporciona los nutrientes necesarios para mantener un cuerpo fuerte. Consumir alimentos saludables diariamente potencia el sistema inmunológico, permitiendo que las defensas combatan eficazmente cualquier enfermedad invasora."
+  },
+  {
+    "intent_id": "virus_transmision",
+    "keywords": [
+      "virus",
+      "contagiar",
+      "celula",
+      "enfermedad",
+      "prevenir"
+    ],
+    "base_response": "Los virus son agentes microscópicos que necesitan invadir células vivas para poder multiplicarse. Se transmiten fácilmente por el aire o contacto directo, pero podemos prevenir su propagación utilizando medidas básicas como cubrirnos al toser o estornudar."
+  },
+  {
+    "intent_id": "anticuerpos_defensa",
+    "keywords": [
+      "anticuerpo",
+      "proteina",
+      "neutralizar",
+      "sangre",
+      "patogeno"
+    ],
+    "base_response": "Los anticuerpos son proteínas sumamente fundamentales fabricadas por nuestro sistema inmunológico. Viajan rápidamente por el torrente sanguíneo con la misión principal de detectar, atrapar y neutralizar diferentes agentes extraños, evitando que los microorganismos invasores nos causen un daño muy grave."
+  },
+  {
+    "intent_id": "aislamiento_preventivo",
+    "keywords": [
+      "aislar",
+      "persona",
+      "evitar",
+      "contagio",
+      "descansar"
+    ],
+    "base_response": "El aislamiento preventivo consiste en mantener separadas a las personas enfermas de las sanas. Esta medida resulta indispensable para frenar rápidamente la transmisión de enfermedades muy contagiosas, brindando además tranquilidad y reposo al paciente afectado."
+  },
+  {
+    "intent_id": "higiene_bucal_salud",
+    "keywords": [
+      "cepillar",
+      "dientes",
+      "caries",
+      "boca",
+      "limpieza"
+    ],
+    "base_response": "Mantener una correcta higiene bucal previniendo caries e infecciones es esencial para la salud general. Cepillarse los dientes regularmente remueve los restos alimenticios, impidiendo que las bacterias dañinas prosperen y generen complicaciones en nuestro organismo."
+  },
+  {
+    "intent_id": "descanso_reparador_inmune",
+    "keywords": [
+      "dormir",
+      "descansar",
+      "energia",
+      "recuperar",
+      "defensas"
+    ],
+    "base_response": "Un sueño reparador permite que el cuerpo recupere energía vital. Durante las horas de descanso, el sistema inmunológico aprovecha para fortalecerse y organizarse, mejorando notablemente nuestra capacidad natural para resistir y superar futuras infecciones microbianas."
+  },
+  {
+    "intent_id": "inmunidad_colectiva",
+    "keywords": [
+      "rebano",
+      "poblacion",
+      "proteger",
+      "brote",
+      "inmune"
+    ],
+    "base_response": "La inmunidad comunitaria ocurre cuando gran parte de la población está protegida contra una enfermedad específica. Esto dificulta enormemente que el patógeno circule libremente, protegiendo indirectamente a aquellas personas vulnerables que no pueden recibir tratamientos médicos."
+  },
+  {
+    "intent_id": "hidratacion_salud",
+    "keywords": [
+      "beber",
+      "agua",
+      "hidratar",
+      "cuerpo",
+      "funcionar"
+    ],
+    "base_response": "Mantener una buena hidratación bebiendo suficiente agua pura todos los días ayuda al organismo a eliminar toxinas perjudiciales. El agua permite transportar nutrientes esenciales a nuestras células, facilitando que los órganos funcionen correctamente y manteniéndonos muy saludables."
+  },
+  {
+    "intent_id": "higiene_respiratoria",
+    "keywords": [
+      "toser",
+      "estornudar",
+      "cubrir",
+      "boca",
+      "brazo"
+    ],
+    "base_response": "Al toser o estornudar, es fundamental cubrirse la boca y la nariz utilizando la parte interna del codo o un pañuelo desechable. Esta excelente práctica bloquea inmediatamente la salida de pequeñas gotas respiratorias que pueden contener virus contagiables."
+  },
+  {
+    "intent_id": "antibioticos_uso",
+    "keywords": [
+      "medicamento",
+      "medico",
+      "recetar",
+      "curar",
+      "bacteria"
+    ],
+    "base_response": "Los antibióticos son medicamentos muy potentes que sirven únicamente para combatir enfermedades provocadas por bacterias. Es crucial usarlos siempre bajo estricta indicación médica, completando todo el tratamiento recetado para evitar que las bacterias se vuelvan resistentes al fármaco."
+  },
+  {
+    "intent_id": "ejercicio_fisico",
+    "keywords": [
+      "ejercicio",
+      "mover",
+      "cuerpo",
+      "fuerte",
+      "salud"
+    ],
+    "base_response": "Realizar actividad física regularmente mantiene los músculos y los huesos en excelente estado. El ejercicio promueve una mejor circulación sanguínea, estimula las defensas naturales de nuestro cuerpo y genera sensaciones muy positivas de bienestar mental y físico duradero."
+  },
+  {
+    "intent_id": "desinfeccion_superficies",
+    "keywords": [
+      "limpiar",
+      "desinfectar",
+      "hogar",
+      "mesa",
+      "patogeno"
+    ],
+    "base_response": "Limpiar y desinfectar habitualmente las superficies que tocamos mucho, como mesas o interruptores, ayuda a eliminar microorganismos escondidos. Utilizar productos adecuados previene que los agentes patógenos sobrevivan en nuestro entorno y lleguen accidentalmente hasta nuestras propias manos."
+  },
+  {
+    "intent_id": "higiene_alimentaria",
+    "keywords": [
+      "lavar",
+      "alimento",
+      "cocinar",
+      "comer",
+      "enfermar"
+    ],
+    "base_response": "Lavar minuciosamente las frutas y verduras antes de consumirlas elimina posibles bacterias o pesticidas. Además, cocinar adecuadamente las carnes asegura la destrucción de microorganismos peligrosos, garantizando que nuestra alimentación sea completamente segura y verdaderamente nutritiva para nosotros."
+  },
+  {
+    "intent_id": "ventilacion_espacios",
+    "keywords": [
+      "abrir",
+      "ventana",
+      "aire",
+      "fresco",
+      "circular"
+    ],
+    "base_response": "Abrir las ventanas permite que el aire fresco circule por todas las habitaciones de nuestro hogar. Una buena ventilación renueva el ambiente, dispersando cualquier partícula dañina acumulada y reduciendo drástically el riesgo de contraer enfermedades respiratorias graves."
+  },
+  {
+    "intent_id": "vectores_mosquitos",
+    "keywords": [
+      "mosquito",
+      "picar",
+      "insecto",
+      "enfermedad",
+      "repelente"
+    ],
+    "base_response": "Algunos insectos como los mosquitos pueden transportar patógenos peligrosos y transmitirlos a las personas cuando pican. Utilizar repelentes adecuados, mosquiteros y eliminar los recipientes donde se acumula agua limpia resulta esencial para evitar por completo su rápida reproducción."
+  },
+  {
+    "intent_id": "salud_mental",
+    "keywords": [
+      "mente",
+      "tranquilo",
+      "estres",
+      "sentir",
+      "hablar"
+    ],
+    "base_response": "Cuidar nuestros pensamientos y emociones resulta tan importante como proteger nuestra salud física diaria. Hablar sobre cómo nos sentimos, realizar pasatiempos agradables y aprender a relajarnos ayuda inmensamente a reducir el estrés acumulado, manteniendo un sistema inmunológico fortalecido."
+  },
+  {
+    "intent_id": "sintomas_alerta",
+    "keywords": [
+      "fiebre",
+      "dolor",
+      "sentir",
+      "enfermo",
+      "medico"
+    ],
+    "base_response": "La aparición de fiebre, cansancio extremo o dolor son señales claras de advertencia. Nuestro cuerpo nos indica que está luchando contra una posible infección, por lo que resulta sumamente importante descansar mucho y consultar inmediatamente a un profesional médico."
+  },
+  {
+    "intent_id": "hongos_infecciones",
+    "keywords": [
+      "hongo",
+      "piel",
+      "humedad",
+      "secar",
+      "pie"
+    ],
+    "base_response": "Los hongos son microorganismos que crecen fácilmente en ambientes cálidos y muy húmedos. Mantener la piel siempre limpia y secar meticulosamente nuestro cuerpo después de bañarnos previene efectivamente que aparezcan molestas infecciones cutáneas, especialmente en nuestros pies."
+  },
+  {
+    "intent_id": "vacunacion_refuerzo",
+    "keywords": [
+      "dosis",
+      "refuerzo",
+      "recordar",
+      "defensas",
+      "proteger"
+    ],
+    "base_response": "Algunas vacunas necesitan una dosis adicional de refuerzo después de cierto tiempo transcurrido. Estas aplicaciones posteriores funcionan como valiosos recordatorios para nuestro sistema inmunológico, asegurando que las defensas corporales permanezcan muy activas y fuertes durante toda nuestra vida."
+  },
+  {
+    "intent_id": "parasitos_intestinales",
+    "keywords": [
+      "parasito",
+      "intestino",
+      "comer",
+      "dolor",
+      "barriga"
+    ],
+    "base_response": "Los parásitos pueden ingresar a nuestro organismo al consumir agua o alimentos contaminados con huevecillos. Causan dolores estomacales y desnutrición severa, pero podemos evitarlos lavando muy bien nuestras manos siempre y bebiendo exclusivamente agua purificada o hervida adecuadamente."
+  },
+  {
+    "intent_id": "mascarillas_proteccion",
+    "keywords": [
+      "mascarilla",
+      "usar",
+      "proteger",
+      "aire",
+      "respirar"
+    ],
+    "base_response": "Utilizar correctamente una mascarilla ayuda a filtrar el aire que respiramos cotidianamente en espacios cerrados. Esta excelente barrera física retiene pequeñas gotas contaminadas, protegiendo eficientemente nuestras valiosas vías respiratorias y evitando también que nosotros contagiemos a otras personas."
+  }
+]
