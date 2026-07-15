@@ -1,0 +1,1188 @@
+[
+  {
+    "intent_id": "autoestima_constructiva",
+    "keywords": [
+      "autoestima",
+      "confianza",
+      "identidad",
+      "motivacion",
+      "resiliencia"
+    ],
+    "base_response": "La autoestima constructiva permite reconocer capacidades personales, aceptar errores y valorar logros. Favorece decisiones seguras, relaciones saludables y una actitud positiva ante desafíos. Desarrollarla implica practicar autoconocimiento, pensamiento realista y hábitos que fortalezcan la confianza interna."
+  },
+  {
+    "intent_id": "metas_significativas",
+    "keywords": [
+      "metas",
+      "planificacion",
+      "motivacion",
+      "disciplina",
+      "superacion"
+    ],
+    "base_response": "Las metas significativas orientan el esfuerzo y dan sentido al aprendizaje. Ayudan a organizar prioridades, mantener la motivación y evaluar avances. Establecer metas claras implica definir objetivos alcanzables, crear estrategias y sostener la disciplina necesaria para lograr crecimiento personal continuo."
+  },
+  {
+    "intent_id": "resiliencia_activa",
+    "keywords": [
+      "resiliencia",
+      "adaptacion",
+      "perseverancia",
+      "autocontrol",
+      "superacion"
+    ],
+    "base_response": "La resiliencia activa permite enfrentar dificultades con fortaleza emocional y pensamiento flexible. Implica aprender de experiencias, regular emociones y buscar soluciones creativas. Desarrollarla ayuda a superar retos, mantener equilibrio personal y fortalecer la capacidad de recuperación ante situaciones complejas."
+  },
+  {
+    "intent_id": "valores_personales",
+    "keywords": [
+      "valores",
+      "integridad",
+      "responsabilidad",
+      "conviccion",
+      "autonomia"
+    ],
+    "base_response": "Los valores personales guían decisiones y comportamientos, fortaleciendo la identidad y la convivencia. Practicarlos implica actuar con coherencia, asumir consecuencias y respetar principios propios. Comprenderlos ayuda a construir relaciones positivas, desarrollar autonomía y orientar el crecimiento personal con claridad."
+  },
+  {
+    "intent_id": "relaciones_saludables",
+    "keywords": [
+      "relaciones",
+      "comunicacion",
+      "empatia",
+      "cooperacion",
+      "confianza"
+    ],
+    "base_response": "Las relaciones saludables se basan en comunicación clara, empatía y respeto mutuo. Fomentarlas implica escuchar activamente, expresar emociones adecuadamente y resolver conflictos de manera constructiva. Estas habilidades fortalecen la convivencia, mejoran el bienestar emocional y favorecen vínculos positivos."
+  },
+  {
+    "intent_id": "identidad_personal",
+    "keywords": [
+      "identidad",
+      "autoconocimiento",
+      "valores",
+      "motivacion",
+      "confianza"
+    ],
+    "base_response": "La identidad personal se construye mediante experiencias, intereses y valores propios. Comprenderla permite tomar decisiones coherentes, fortalecer la autoestima y desarrollar seguridad interna. Explorar gustos, habilidades y metas ayuda a definir quién se es y cómo se desea crecer."
+  },
+  {
+    "intent_id": "autoconocimiento_reflexivo",
+    "keywords": [
+      "autoconocimiento",
+      "reflexion",
+      "emociones",
+      "motivacion",
+      "disciplina"
+    ],
+    "base_response": "El autoconocimiento reflexivo permite identificar emociones, fortalezas y áreas de mejora. Facilita decisiones conscientes y una relación equilibrada con uno mismo. Practicarlo implica observar pensamientos, reconocer necesidades y ajustar conductas para favorecer el desarrollo personal y la autodisciplina."
+  },
+  {
+    "intent_id": "autodisciplina_proactiva",
+    "keywords": [
+      "disciplina",
+      "constancia",
+      "organizacion",
+      "motivacion",
+      "responsabilidad"
+    ],
+    "base_response": "La autodisciplina proactiva ayuda a cumplir compromisos y sostener hábitos positivos. Requiere constancia, organización y control de impulsos. Practicarla permite avanzar hacia metas, mejorar el rendimiento académico y fortalecer la responsabilidad personal mediante acciones coherentes y sostenidas."
+  },
+  {
+    "intent_id": "motivacion_interna",
+    "keywords": [
+      "motivacion",
+      "interes",
+      "esfuerzo",
+      "crecimiento",
+      "superacion"
+    ],
+    "base_response": "La motivación interna surge del interés genuino por aprender y mejorar. Implica disfrutar el proceso, valorar el esfuerzo y mantener constancia ante desafíos. Cultivarla favorece el crecimiento personal, impulsa la superación y fortalece la autonomía en la toma de decisiones."
+  },
+  {
+    "intent_id": "proposito_de_vida",
+    "keywords": [
+      "proposito",
+      "metas",
+      "motivacion",
+      "identidad",
+      "crecimiento"
+    ],
+    "base_response": "El propósito de vida orienta decisiones y da sentido al desarrollo personal. Comprenderlo implica reflexionar sobre intereses, valores y metas a largo plazo. Tener un propósito fortalece la motivación, guía el crecimiento y ayuda a construir una identidad coherente con aspiraciones profundas."
+  },
+  {
+    "intent_id": "autoestima_saludable",
+    "keywords": [
+      "autoestima",
+      "confianza",
+      "valoracion",
+      "amor",
+      "propio"
+    ],
+    "base_response": "Una autoestima saludable se basa en la autoaceptación y el respeto propio, permitiendo que los estudiantes se sientan seguros y valorados. Esto les ayuda a enfrentar desafíos, tomar decisiones conscientes y establecer relaciones positivas con los demás."
+  },
+  {
+    "intent_id": "establecimiento_de_metas",
+    "keywords": [
+      "metas",
+      "objetivos",
+      "planificacion",
+      "accion",
+      "logro"
+    ],
+    "base_response": "El establecimiento de metas claras ayuda a los estudiantes a enfocar sus esfuerzos y a desarrollar habilidades de planificación. Al alcanzar objetivos, se refuerza la motivación intrínseca y se fomenta un sentido de logro personal y satisfacción."
+  },
+  {
+    "intent_id": "resiliencia_emocional",
+    "keywords": [
+      "resiliencia",
+      "adaptacion",
+      "superacion",
+      "emociones",
+      "fortaleza"
+    ],
+    "base_response": "La resiliencia emocional permite a los estudiantes superar adversidades y adaptarse a cambios. Fortalece su capacidad para gestionar emociones, aprender de experiencias difíciles y mantener una actitud positiva ante los retos, mejorando su bienestar general."
+  },
+  {
+    "intent_id": "autodisciplina_y_motivacion",
+    "keywords": [
+      "autodisciplina",
+      "motivacion",
+      "habitos",
+      "constancia",
+      "logros"
+    ],
+    "base_response": "La autodisciplina, combinada con la motivación, impulsa a los estudiantes a establecer hábitos positivos y a ser constantes en sus esfuerzos. Esto les permite alcanzar metas personales, mejorar su rendimiento académico y desarrollar un sentido de responsabilidad."
+  },
+  {
+    "intent_id": "autorrealizacion_y_proposito",
+    "keywords": [
+      "autorrealizacion",
+      "proposito",
+      "satisfaccion",
+      "objetivo",
+      "vida"
+    ],
+    "base_response": "La autorrealización se vincula con encontrar un propósito significativo en la vida. Los estudiantes que trabajan hacia objetivos que reflejan sus valores y pasiones experimentan una mayor satisfacción personal y un sentido de plenitud y realización."
+  },
+  {
+    "intent_id": "confianza_en_si_mismo",
+    "keywords": [
+      "confianza",
+      "seguridad",
+      "capacidad",
+      "autoevaluacion",
+      "exito"
+    ],
+    "base_response": "La confianza en sí mismo se desarrolla mediante la autoevaluación positiva y el reconocimiento de las propias capacidades. Esta confianza permite a los estudiantes enfrentar nuevos desafíos con seguridad, facilitando el éxito y la superación personal continua."
+  },
+  {
+    "intent_id": "autonomia_y_responsabilidad",
+    "keywords": [
+      "autonomia",
+      "responsabilidad",
+      "independencia",
+      "decisiones",
+      "autogestion"
+    ],
+    "base_response": "Fomentar la autonomía y la responsabilidad en los estudiantes promueve la independencia y la toma de decisiones informadas. La autogestión efectiva les prepara para afrontar situaciones de manera responsable, incrementando su capacidad de liderazgo y autoconfianza."
+  },
+  {
+    "intent_id": "autoestima_ninos_taller",
+    "keywords": [
+      "autoestima",
+      "confianza",
+      "seguridad",
+      "valoracion"
+    ],
+    "base_response": "La autoestima en niños se desarrolla mediante la valorización de sus habilidades y logros. Fomentar un ambiente positivo donde se reconozcan sus esfuerzos fortalece su autoconfianza y seguridad, impulsando una percepción positiva de sí mismos."
+  },
+  {
+    "intent_id": "metas_personales_ninos",
+    "keywords": [
+      "metas",
+      "objetivos",
+      "planificacion",
+      "logros"
+    ],
+    "base_response": "Establecer metas personales ayuda a los niños a desarrollar habilidades de planificación y organización. Al alcanzar objetivos, experimentan satisfacción y motivación, lo cual impulsa su capacidad de establecer nuevos desafíos, fomentando el crecimiento personal continuo."
+  },
+  {
+    "intent_id": "resiliencia_desarrollo_ninos",
+    "keywords": [
+      "resiliencia",
+      "adaptacion",
+      "superacion",
+      "fortaleza"
+    ],
+    "base_response": "La resiliencia permite a los niños enfrentar adversidades con fortaleza y adaptabilidad. Enseñarles a ver los desafíos como oportunidades de aprendizaje fortalece su capacidad para superar dificultades y crecer emocionalmente, promoviendo un desarrollo personal robusto."
+  },
+  {
+    "intent_id": "valores_formacion_ninos",
+    "keywords": [
+      "valores",
+      "etica",
+      "integridad",
+      "principios"
+    ],
+    "base_response": "Inculcar valores sólidos desde temprana edad forma la base de la integridad y ética en los niños. Estos principios guían sus decisiones y comportamientos, fomentando relaciones interpersonales saludables y una vida basada en el respeto y la responsabilidad."
+  },
+  {
+    "intent_id": "relaciones_interpersonales_ninos",
+    "keywords": [
+      "relaciones",
+      "comunicacion",
+      "amistad",
+      "empatia"
+    ],
+    "base_response": "Las relaciones interpersonales saludables en niños se fundamentan en la comunicación efectiva y la empatía. Fomentar amistades basadas en el respeto y la comprensión ayuda a desarrollar habilidades sociales cruciales para su bienestar emocional y social."
+  },
+  {
+    "intent_id": "identidad_autoconocimiento_ninos",
+    "keywords": [
+      "identidad",
+      "autoconocimiento",
+      "individualidad",
+      "personalidad"
+    ],
+    "base_response": "El desarrollo de la identidad en niños implica el reconocimiento de su propia individualidad y características únicas. Fomentar el autoconocimiento les permite comprender sus emociones y fortalezas, contribuyendo a la formación de una personalidad segura y auténtica."
+  },
+  {
+    "intent_id": "crecimiento_personal_ninos",
+    "keywords": [
+      "crecimiento",
+      "aprendizaje",
+      "desarrollo",
+      "madurez"
+    ],
+    "base_response": "El crecimiento personal en niños se potencia a través del aprendizaje continuo y la adquisición de nuevas habilidades. Este proceso de desarrollo les lleva a una mayor madurez emocional, permitiéndoles enfrentar desafíos con confianza y determinación."
+  },
+  {
+    "intent_id": "autodisciplina_habitos_ninos",
+    "keywords": [
+      "autodisciplina",
+      "habitos",
+      "constancia",
+      "responsabilidad"
+    ],
+    "base_response": "La autodisciplina se desarrolla en niños mediante la formación de hábitos saludables y constantes. Este enfoque les enseña responsabilidad y les ayuda a gestionar sus tareas y tiempo de manera eficaz, mejorando su capacidad de alcanzar objetivos personales y académicos."
+  },
+  {
+    "intent_id": "motivacion_intrinseca_ninos",
+    "keywords": [
+      "motivacion",
+      "interes",
+      "curiosidad",
+      "entusiasmo"
+    ],
+    "base_response": "La motivación intrínseca en niños surge del interés genuino y la curiosidad por aprender. Fomentar un entorno de aprendizaje estimulante y entusiasta ayuda a mantener su interés activo, impulsando un deseo constante de descubrir y experimentar cosas nuevas."
+  },
+  {
+    "intent_id": "autorrealizacion_potencial_ninos",
+    "keywords": [
+      "autorrealizacion",
+      "potencial",
+      "exito",
+      "satisfaccion"
+    ],
+    "base_response": "La autorrealización en niños consiste en alcanzar su máximo potencial y experimentar satisfacción personal. Al identificarse con sus capacidades y logros, se sienten exitosos y motivados, lo cual les anima a perseguir sus intereses y metas con determinación."
+  },
+  {
+    "intent_id": "identidad_en_desarrollo",
+    "keywords": [
+      "identidad",
+      "autoconocimiento",
+      "exploracion",
+      "crecimiento",
+      "confianza"
+    ],
+    "base_response": "La identidad en desarrollo surge de explorar intereses, valores y capacidades personales. Permite comprender quién se es y qué se desea lograr. Este proceso fortalece la confianza, facilita decisiones responsables y contribuye al crecimiento emocional durante etapas de cambio."
+  },
+  {
+    "intent_id": "autodisciplina_formativa",
+    "keywords": [
+      "autodisciplina",
+      "habito",
+      "constancia",
+      "responsabilidad",
+      "motivacion"
+    ],
+    "base_response": "La autodisciplina formativa ayuda a mantener hábitos positivos y cumplir responsabilidades. Requiere constancia, organización y motivación interna para sostener esfuerzos diarios. Desarrollarla permite alcanzar metas, mejorar el rendimiento académico y fortalecer la capacidad de tomar decisiones equilibradas."
+  },
+  {
+    "intent_id": "autonomia_responsable",
+    "keywords": [
+      "autonomia",
+      "responsabilidad",
+      "decision",
+      "crecimiento",
+      "confianza"
+    ],
+    "base_response": "La autonomía responsable implica tomar decisiones conscientes y asumir sus consecuencias. Favorece el crecimiento personal y fortalece la confianza en las propias capacidades. Practicarla desarrolla independencia, mejora la organización y permite enfrentar retos con mayor seguridad y madurez."
+  },
+  {
+    "intent_id": "metas_personales",
+    "keywords": [
+      "metas",
+      "planificacion",
+      "motivacion",
+      "superacion",
+      "disciplina"
+    ],
+    "base_response": "Las metas personales orientan el crecimiento y ofrecen dirección clara. Ayudan a organizar acciones, mantener la motivación y evaluar avances. Cuando son realistas y significativas, fortalecen la disciplina y la resiliencia, permitiendo que los estudiantes desarrollen autonomía y confianza en sus capacidades."
+  },
+  {
+    "intent_id": "autodisciplina_constructiva",
+    "keywords": [
+      "autodisciplina",
+      "habitos",
+      "responsabilidad",
+      "motivacion",
+      "superacion"
+    ],
+    "base_response": "La autodisciplina constructiva permite mantener hábitos positivos y cumplir compromisos. Implica organizar tiempos, controlar impulsos y sostener esfuerzos incluso ante dificultades. Desarrollarla fortalece la responsabilidad y la autonomía, facilitando que los estudiantes alcancen metas personales y académicas con constancia."
+  },
+  {
+    "intent_id": "autoestima_fortalecimiento",
+    "keywords": [
+      "autoestima",
+      "confianza",
+      "seguridad",
+      "autovaloracion",
+      "aceptacion",
+      "respeto"
+    ],
+    "base_response": "Fortalecer la autoestima implica reconocer nuestras capacidades y limitaciones, aceptando quiénes somos. La confianza en uno mismo es esencial para afrontar desafíos, y la autovaloración positiva fomenta el respeto y la aceptación personal, fundamentales para un desarrollo equilibrado y saludable."
+  },
+  {
+    "intent_id": "establecimiento_metas",
+    "keywords": [
+      "metas",
+      "objetivos",
+      "planificacion",
+      "logros",
+      "motivacion",
+      "esfuerzo"
+    ],
+    "base_response": "Establecer metas claras ayuda a enfocar esfuerzos y mantener la motivación. Planificar objetivos realistas y alcanzables fomenta la perseverancia y el logro de resultados, potenciando el aprendizaje y el desarrollo personal. La motivación es clave en este proceso continuo."
+  },
+  {
+    "intent_id": "resiliencia_adaptacion",
+    "keywords": [
+      "resiliencia",
+      "adaptacion",
+      "superacion",
+      "fortaleza",
+      "estrategias",
+      "cambio"
+    ],
+    "base_response": "La resiliencia es la capacidad de adaptarse y superar adversidades. Fomentar estrategias de afrontamiento fortalece la habilidad de manejar cambios y desafíos. Una actitud resiliente es crucial para el crecimiento personal, permitiendo enfrentar situaciones difíciles con fortaleza y optimismo."
+  },
+  {
+    "intent_id": "valores_educacion",
+    "keywords": [
+      "valores",
+      "etica",
+      "moral",
+      "educacion",
+      "principios",
+      "conducta"
+    ],
+    "base_response": "Los valores son principios éticos que guían la conducta. Educar en valores fomenta el respeto, la responsabilidad y la empatía. Integrar principios morales en la educación promueve un comportamiento ético y una convivencia armoniosa, esenciales para el desarrollo personal y social."
+  },
+  {
+    "intent_id": "autoconocimiento_crecimiento",
+    "keywords": [
+      "autoconocimiento",
+      "reflexion",
+      "conciencia",
+      "fortalezas",
+      "debilidades",
+      "crecimiento"
+    ],
+    "base_response": "El autoconocimiento es la reflexión consciente sobre nuestras fortalezas y debilidades. Fomentar la conciencia personal permite identificar áreas de mejora y potenciar el crecimiento. Comprenderse a uno mismo es esencial para el desarrollo integral y la autorrealización."
+  },
+  {
+    "intent_id": "autodisciplina_habitos",
+    "keywords": [
+      "autodisciplina",
+      "habitos",
+      "constancia",
+      "autocontrol",
+      "responsabilidad",
+      "esfuerzo"
+    ],
+    "base_response": "La autodisciplina implica formar hábitos positivos a través de la constancia y el autocontrol. Establecer rutinas responsables y consistentes es clave para alcanzar metas. El esfuerzo sostenido y la responsabilidad personal son fundamentales para el éxito académico y personal."
+  },
+  {
+    "intent_id": "motivacion_intrinseca",
+    "keywords": [
+      "motivacion",
+      "intrinseca",
+      "interes",
+      "pasiones",
+      "curiosidad",
+      "aprendizaje"
+    ],
+    "base_response": "La motivación intrínseca se basa en el interés y la curiosidad genuina. Fomentar pasiones personales en el aprendizaje promueve un compromiso más profundo y duradero. Explorar áreas de interés propio es crucial para un desarrollo educativo significativo y satisfactorio."
+  },
+  {
+    "intent_id": "autorrealizacion_proposito",
+    "keywords": [
+      "autorrealizacion",
+      "proposito",
+      "logros",
+      "satisfaccion",
+      "objetivos",
+      "autodeterminacion"
+    ],
+    "base_response": "La autorrealización es alcanzar el máximo potencial personal mediante el propósito claro y la autodeterminación. Lograr objetivos significativos proporciona satisfacción y sentido a la vida. La búsqueda continua de crecimiento personal es vital para el bienestar emocional y la plenitud."
+  },
+  {
+    "intent_id": "autoestima_desarrollo",
+    "keywords": [
+      "autoestima",
+      "confianza",
+      "identidad",
+      "autoconocimiento"
+    ],
+    "base_response": "La autoestima es fundamental en el desarrollo personal. Comprender y valorar nuestras cualidades fortalece la confianza y fomenta una identidad positiva. Desarrollar un autoconocimiento profundo ayuda a enfrentar retos y a establecer metas realistas, promoviendo un crecimiento integral y equilibrado."
+  },
+  {
+    "intent_id": "metas_resiliencia",
+    "keywords": [
+      "metas",
+      "resiliencia",
+      "superacion",
+      "motivacion"
+    ],
+    "base_response": "Establecer metas claras y alcanzables es esencial para el desarrollo personal. La resiliencia permite superar obstáculos, impulsando la motivación. Mantener un enfoque positivo y adaptativo ante los desafíos fomenta la superación personal y fortalece la capacidad para alcanzar objetivos significativos a lo largo de la vida."
+  },
+  {
+    "intent_id": "valores_identidad",
+    "keywords": [
+      "valores",
+      "identidad",
+      "relaciones",
+      "autodisciplina"
+    ],
+    "base_response": "Los valores son pilares en la formación de la identidad. Guiar conductas y decisiones fomenta relaciones interpersonales saludables. La autodisciplina es clave para alinear acciones con principios personales, fortaleciendo la integridad y el sentido de propósito, fundamentales para el desarrollo personal y social."
+  },
+  {
+    "intent_id": "autodisciplina_responsabilidad",
+    "keywords": [
+      "autodisciplina",
+      "responsabilidad",
+      "habitos",
+      "metas"
+    ],
+    "base_response": "La autodisciplina es esencial para cumplir responsabilidades y alcanzar metas. Establecer hábitos positivos y consistentes facilita el logro de objetivos personales. La responsabilidad fomenta la independencia y el compromiso, permitiendo un desarrollo personal sólido y la capacidad de enfrentar desafíos con eficacia y determinación."
+  },
+  {
+    "intent_id": "motivacion_autorrealizacion",
+    "keywords": [
+      "motivacion",
+      "autorrealizacion",
+      "proposito",
+      "crecimiento"
+    ],
+    "base_response": "La motivación impulsa la búsqueda de la autorrealización. Encontrar un propósito claro en la vida guía el crecimiento personal, promoviendo acciones significativas y alineadas con nuestros valores. La autorrealización resulta de alcanzar metas personales, contribuyendo al bienestar y a una vida plena y satisfactoria."
+  },
+  {
+    "intent_id": "proposito_vida",
+    "keywords": [
+      "proposito",
+      "vida",
+      "significado",
+      "objetivos"
+    ],
+    "base_response": "Tener un propósito en la vida proporciona significado y dirección. Definir objetivos acordes con nuestros valores y aspiraciones personales orienta nuestras acciones. Un propósito claro motiva el desarrollo personal, impulsando el bienestar y la satisfacción al cumplir metas significativas y vivir de manera coherente."
+  },
+  {
+    "intent_id": "confianza_autonomia",
+    "keywords": [
+      "confianza",
+      "autonomia",
+      "independencia",
+      "desarrollo"
+    ],
+    "base_response": "La confianza en uno mismo es fundamental para desarrollar autonomía. La independencia permite tomar decisiones informadas y asumir responsabilidades. Fomentar estas habilidades es esencial para el desarrollo personal, ya que promueve la capacidad de enfrentar desafíos y adaptarse a nuevas situaciones con seguridad y eficacia."
+  },
+  {
+    "intent_id": "responsabilidad_superacion",
+    "keywords": [
+      "responsabilidad",
+      "superacion",
+      "compromiso",
+      "metas"
+    ],
+    "base_response": "Asumir responsabilidad es clave para la superación personal. El compromiso con nuestras acciones y decisiones impulsa el logro de metas. Desarrollar un sentido de responsabilidad fortalece la capacidad de enfrentar desafíos, promoviendo un desarrollo personal continuo y una vida más equilibrada y satisfactoria."
+  },
+  {
+    "intent_id": "resiliencia_y_adaptacion",
+    "keywords": [
+      "resiliencia",
+      "adaptacion",
+      "confianza",
+      "autonomia"
+    ],
+    "base_response": "La resiliencia es la capacidad de adaptarse ante las adversidades. En el desarrollo infantil, fomenta la confianza y la autonomía, permitiendo que los niños gestionen emociones y situaciones difíciles, promoviendo un crecimiento personal sostenido y una actitud positiva ante la vida."
+  },
+  {
+    "intent_id": "relaciones_interpersonales_saludables",
+    "keywords": [
+      "relaciones",
+      "empatia",
+      "comunicacion",
+      "confianza"
+    ],
+    "base_response": "Fomentar relaciones interpersonales saludables en niños es vital para su desarrollo emocional. La empatía y la comunicación efectiva son claves para construir confianza y vínculos significativos, contribuyendo a un entorno social positivo y al bienestar emocional, esencial para su crecimiento personal."
+  },
+  {
+    "intent_id": "identidad_y_autoconcepto",
+    "keywords": [
+      "identidad",
+      "autoconcepto",
+      "autoestima",
+      "autoconocimiento"
+    ],
+    "base_response": "La identidad y el autoconcepto son fundamentales en el desarrollo infantil. Ayudan a los niños a comprender quiénes son, fortaleciendo su autoestima y autoconocimiento. Este proceso es esencial para construir una imagen personal positiva y fomentar la confianza en sus capacidades."
+  },
+  {
+    "intent_id": "crecimiento_personal_continuo",
+    "keywords": [
+      "crecimiento",
+      "desarrollo",
+      "aprendizaje",
+      "motivacion"
+    ],
+    "base_response": "El crecimiento personal continuo involucra un compromiso con el aprendizaje y el desarrollo. En los niños, la motivación para mejorar y adquirir nuevas habilidades es crucial, fomentando una mentalidad de progreso que les acompañará a lo largo de su vida, impulsando su autorrealización."
+  },
+  {
+    "intent_id": "autodisciplina_y_autorregulacion",
+    "keywords": [
+      "autodisciplina",
+      "autorregulacion",
+      "autonomia",
+      "responsabilidad"
+    ],
+    "base_response": "La autodisciplina y la autorregulación son habilidades esenciales para los niños, promoviendo la autonomía y la responsabilidad. Estas capacidades les permiten gestionar su comportamiento y emociones, estableciendo hábitos positivos que contribuyen a su éxito académico y bienestar emocional."
+  },
+  {
+    "intent_id": "concepto_autoestima_1",
+    "keywords": [
+      "autoestima",
+      "confianza",
+      "identidad",
+      "crecimiento"
+    ],
+    "base_response": "La autoestima es clave para el desarrollo personal. Implica confianza en uno mismo y en la propia identidad. Fomenta el crecimiento emocional al permitir que los estudiantes se valoren y respeten, esencial para lograr metas y construir relaciones saludables."
+  },
+  {
+    "intent_id": "concepto_metas_2",
+    "keywords": [
+      "metas",
+      "autodisciplina",
+      "motivacion",
+      "proposito"
+    ],
+    "base_response": "Establecer metas claras ayuda a los estudiantes a desarrollar autodisciplina. La motivación para alcanzarlas se fortalece cuando se alinean con el propósito de vida, lo que proporciona dirección y sentido, aumentando la satisfacción y la autorrealización personal."
+  },
+  {
+    "intent_id": "concepto_valores_4",
+    "keywords": [
+      "valores",
+      "responsabilidad",
+      "identidad",
+      "autoconocimiento"
+    ],
+    "base_response": "Los valores como la responsabilidad y el respeto son fundamentales para el desarrollo de la identidad. A través del autoconocimiento, los estudiantes definen qué es importante para ellos, guiando sus decisiones y comportamientos hacia un crecimiento personal y social positivo."
+  },
+  {
+    "intent_id": "concepto_relaciones_5",
+    "keywords": [
+      "relaciones",
+      "confianza",
+      "comunicacion",
+      "empatia"
+    ],
+    "base_response": "Las relaciones interpersonales se fortalecen con confianza, comunicación efectiva y empatía. Los estudiantes aprenden a interactuar de manera positiva, construyendo vínculos saludables y respetuosos, esenciales para su desarrollo emocional y social, favoreciendo un entorno de aprendizaje colaborativo."
+  },
+  {
+    "intent_id": "concepto_identidad_6",
+    "keywords": [
+      "identidad",
+      "autoconocimiento",
+      "valores",
+      "autoestima"
+    ],
+    "base_response": "La identidad se desarrolla mediante el autoconocimiento y los valores personales. Comprender quiénes somos fortalece la autoestima y permite a los estudiantes tomar decisiones congruentes con sus principios, facilitando el crecimiento personal y la autorrealización en su entorno."
+  },
+  {
+    "intent_id": "concepto_autoconocimiento_7",
+    "keywords": [
+      "autoconocimiento",
+      "emociones",
+      "autoestima",
+      "motivacion"
+    ],
+    "base_response": "El autoconocimiento implica reconocer las propias emociones y fortalezas. Esto fomenta una autoestima saludable y motiva a los estudiantes a establecer metas personales. Saber quiénes son les ayuda a tomar decisiones informadas y a desarrollar su potencial al máximo."
+  },
+  {
+    "intent_id": "concepto_crecimiento_8",
+    "keywords": [
+      "crecimiento",
+      "desarrollo",
+      "metas",
+      "resiliencia"
+    ],
+    "base_response": "El crecimiento personal es un proceso continuo de desarrollo. Al establecer metas y superar obstáculos mediante la resiliencia, los estudiantes experimentan un avance en sus capacidades, mejorando su habilidad para enfrentar desafíos y adaptarse a cambios en su entorno."
+  },
+  {
+    "intent_id": "concepto_autodisciplina_9",
+    "keywords": [
+      "autodisciplina",
+      "responsabilidad",
+      "metas",
+      "motivacion"
+    ],
+    "base_response": "La autodisciplina es esencial para alcanzar metas y asumir responsabilidad. Implica regular el comportamiento y mantener la motivación, incluso ante dificultades. Los estudiantes que la practican desarrollan un sentido de control personal que favorece el éxito académico y personal."
+  },
+  {
+    "intent_id": "concepto_autorrealizacion_10",
+    "keywords": [
+      "autorrealizacion",
+      "proposito",
+      "crecimiento",
+      "confianza"
+    ],
+    "base_response": "La autorrealización es el proceso de alcanzar el máximo potencial personal. Los estudiantes logran esto al identificar su propósito y fortalecer su confianza. El crecimiento personal se produce cuando se alinean sus acciones con sus valores y aspiraciones, mejorando su bienestar general."
+  },
+  {
+    "intent_id": "autoconocimiento_profundo",
+    "keywords": [
+      "autoconocimiento",
+      "emociones",
+      "pensamientos",
+      "reflexion",
+      "crecimiento"
+    ],
+    "base_response": "El autoconocimiento profundo implica reconocer emociones, pensamientos y comportamientos propios. Facilita comprender reacciones, mejorar decisiones y fortalecer el crecimiento personal. Practicarlo permite identificar necesidades reales, establecer limites sanos y desarrollar una relacion equilibrada consigo mismo."
+  },
+  {
+    "intent_id": "autorrealizacion_personal",
+    "keywords": [
+      "autorrealizacion",
+      "proposito",
+      "crecimiento",
+      "metas",
+      "confianza"
+    ],
+    "base_response": "La autorrealizacion personal consiste en desarrollar capacidades, alcanzar metas significativas y vivir de acuerdo con un proposito claro. Impulsa el crecimiento integral y fortalece la confianza. Requiere compromiso, reflexion y apertura para aprender de cada experiencia y avanzar con sentido."
+  },
+  {
+    "intent_id": "autoestima_ninez",
+    "keywords": [
+      "autoestima",
+      "confianza",
+      "ninez",
+      "identidad",
+      "valores"
+    ],
+    "base_response": "La autoestima en la niñez es crucial para el desarrollo emocional. Ayuda a los niños a sentirse seguros, a aceptar sus capacidades y limitaciones, y a construir una identidad positiva. Esto fomenta la confianza en sí mismos y una relación saludable con los demás."
+  },
+  {
+    "intent_id": "resiliencia_infantil",
+    "keywords": [
+      "resiliencia",
+      "superacion",
+      "adversidad",
+      "emociones",
+      "ninez"
+    ],
+    "base_response": "La resiliencia infantil es la capacidad de enfrentar y superar situaciones adversas. Fomenta la adaptabilidad y el manejo emocional, permitiendo a los niños aprender de las dificultades. Es esencial para su bienestar emocional y social a lo largo de la vida."
+  },
+  {
+    "intent_id": "identidad_personal_infantil",
+    "keywords": [
+      "identidad",
+      "autoconocimiento",
+      "personalidad",
+      "ninez",
+      "desarrollo"
+    ],
+    "base_response": "La identidad personal se forma durante la niñez a medida que los niños exploran sus intereses y valores. El autoconocimiento les permite comprender sus emociones y comportamientos, lo que contribuye a una personalidad coherente. Este proceso es esencial para su desarrollo integral."
+  },
+  {
+    "intent_id": "autodisciplina_ninos",
+    "keywords": [
+      "autodisciplina",
+      "control",
+      "habitos",
+      "responsabilidad",
+      "ninos"
+    ],
+    "base_response": "La autodisciplina en los niños implica la capacidad de controlar impulsos y cumplir responsabilidades. Desarrollar hábitos de autodisciplina fomenta la autonomía y el autocontrol, esenciales para el éxito académico y personal. Es importante guiar su desarrollo con expectativas claras y consistentes."
+  },
+  {
+    "intent_id": "motivacion_infantil",
+    "keywords": [
+      "motivacion",
+      "interes",
+      "aprendizaje",
+      "curiosidad",
+      "ninos"
+    ],
+    "base_response": "La motivación infantil está impulsada por la curiosidad y el interés por aprender. Fomentar un entorno estimulante ayuda a mantener viva esta motivación natural, esencial para el desarrollo cognitivo y emocional. Los niños motivados son más propensos a explorar y descubrir de manera autónoma."
+  },
+  {
+    "intent_id": "autorrealizacion_ninez",
+    "keywords": [
+      "autorrealizacion",
+      "potencial",
+      "satisfaccion",
+      "ninos",
+      "desempeno"
+    ],
+    "base_response": "La autorrealización en la niñez implica alcanzar el máximo potencial personal. Se logra cuando los niños están satisfechos con sus logros y se sienten motivados a continuar creciendo. Esto requiere un equilibrio entre desafíos apropiados y apoyo emocional positivo en su entorno."
+  },
+  {
+    "intent_id": "proposito_vida_infantil",
+    "keywords": [
+      "proposito",
+      "vida",
+      "significado",
+      "orientacion",
+      "ninos"
+    ],
+    "base_response": "Ayudar a los niños a descubrir un propósito en la vida les proporciona orientación y sentido. Aunque su comprensión es básica, promover el desarrollo de intereses y pasiones puede guiar futuras decisiones. Esto contribuye a un sentido de significado y dirección personal."
+  },
+  {
+    "intent_id": "crecimiento_personal",
+    "keywords": [
+      "crecimiento",
+      "desarrollo",
+      "potencial",
+      "aprendizaje",
+      "evolucion"
+    ],
+    "base_response": "El crecimiento personal implica el desarrollo continuo de habilidades y conocimiento. Fomentarlo en estudiantes promueve el aprendizaje constante y la evolución personal, permitiendo el descubrimiento y la realización del potencial individual en diferentes aspectos de la vida académica y social."
+  },
+  {
+    "intent_id": "autodisciplina_efectiva",
+    "keywords": [
+      "autodisciplina",
+      "control",
+      "habitos",
+      "constancia",
+      "autocontrol"
+    ],
+    "base_response": "La autodisciplina efectiva es la capacidad de controlar impulsos y mantener hábitos positivos. Enseñar autodisciplina a estudiantes fomenta la constancia y el autocontrol, esenciales para alcanzar metas personales y académicas, contribuyendo a un desarrollo equilibrado y exitoso a largo plazo."
+  },
+  {
+    "intent_id": "proposito_personal",
+    "keywords": [
+      "proposito",
+      "motivacion",
+      "metas",
+      "autonomia",
+      "crecimiento"
+    ],
+    "base_response": "El proposito personal ofrece direccion y sentido a las acciones diarias. Ayuda a mantener la motivacion y orienta la toma de decisiones. Cuando los estudiantes identifican su proposito, desarrollan autonomia, claridad y compromiso con su crecimiento, fortaleciendo su bienestar emocional y academico."
+  },
+  {
+    "intent_id": "confianza_autonoma",
+    "keywords": [
+      "confianza",
+      "autonomia",
+      "responsabilidad",
+      "crecimiento",
+      "motivacion"
+    ],
+    "base_response": "La confianza autonoma surge al reconocer capacidades propias y asumir responsabilidades. Permite enfrentar retos con seguridad y motivacion. Fomentarla ayuda a los estudiantes a tomar decisiones informadas, valorar sus logros y construir una actitud positiva hacia su crecimiento personal y escolar."
+  },
+  {
+    "intent_id": "desarrollo_autoestima",
+    "keywords": [
+      "autoestima",
+      "confianza",
+      "identidad",
+      "autoconocimiento"
+    ],
+    "base_response": "La autoestima es crucial en el desarrollo personal de los estudiantes; fomenta la confianza y una imagen positiva de la identidad y el autoconocimiento, permitiéndoles enfrentar desafíos con seguridad y reconocer sus capacidades y valores únicos."
+  },
+  {
+    "intent_id": "valores_interpersonales",
+    "keywords": [
+      "valores",
+      "relaciones",
+      "responsabilidad",
+      "crecimiento"
+    ],
+    "base_response": "Los valores interpersonales, como la responsabilidad y el respeto, son esenciales para el crecimiento personal. Fortalecen las relaciones, promoviendo un entorno de colaboración y empatía, donde los estudiantes aprenden a convivir y trabajar en equipo."
+  },
+  {
+    "intent_id": "construccion_identidad",
+    "keywords": [
+      "identidad",
+      "autoconocimiento",
+      "confianza",
+      "valores"
+    ],
+    "base_response": "La construcción de la identidad es un proceso que involucra el autoconocimiento y la confianza. Los valores personales juegan un papel crucial, guiando a los estudiantes en el desarrollo de una identidad sólida y coherente con sus creencias."
+  },
+  {
+    "intent_id": "autoestima_ninos",
+    "keywords": [
+      "autoestima",
+      "confianza",
+      "identidad",
+      "valores"
+    ],
+    "base_response": "La autoestima en niños es crucial para su desarrollo, ya que les ayuda a afrontar desafíos con confianza. Una autoestima saludable fomenta la aceptación personal y el respeto hacia los demás, formando una base sólida para el crecimiento emocional y social."
+  },
+  {
+    "intent_id": "resiliencia_educativa",
+    "keywords": [
+      "resiliencia",
+      "superacion",
+      "adversidad",
+      "fortaleza"
+    ],
+    "base_response": "La resiliencia es la capacidad de adaptarse ante la adversidad. Fomentar esta habilidad en los estudiantes les permite enfrentar desafíos con fortaleza, aprender de las experiencias difíciles y seguir adelante con determinación, mejorando su bienestar emocional y académico."
+  },
+  {
+    "intent_id": "valores_morales",
+    "keywords": [
+      "valores",
+      "etica",
+      "moral",
+      "integridad"
+    ],
+    "base_response": "La educación en valores es fundamental para el desarrollo moral de los niños. Fomentar la integridad y la ética les ayuda a tomar decisiones responsables, desarrollar empatía y construir relaciones sanas, siendo pilares esenciales para su crecimiento personal y social."
+  },
+  {
+    "intent_id": "autorrealizacion_objetivos",
+    "keywords": [
+      "autorrealizacion",
+      "logros",
+      "metas",
+      "satisfaccion"
+    ],
+    "base_response": "La autorrealización es el proceso de alcanzar el propio potencial. Guiar a los niños en el establecimiento de objetivos realistas y significativos les proporciona satisfacción personal y un sentido de logro, reforzando su confianza y motivación para seguir creciendo."
+  },
+  {
+    "intent_id": "autodisciplina_progresiva",
+    "keywords": [
+      "disciplina",
+      "metas",
+      "responsabilidad",
+      "motivacion",
+      "superacion"
+    ],
+    "base_response": "La autodisciplina progresiva se construye mediante hábitos constantes que apoyan metas personales. Requiere responsabilidad y motivación sostenida. Al practicarla, se fortalecen la organización y la capacidad de superar obstáculos, permitiendo avanzar con mayor seguridad hacia objetivos importantes."
+  },
+  {
+    "intent_id": "autoestima_desarrollo_personal",
+    "keywords": [
+      "autoestima",
+      "confianza",
+      "autoconocimiento",
+      "valores"
+    ],
+    "base_response": "La autoestima es el reconocimiento y valoración que tenemos de nosotros mismos. Un fuerte sentido de autoestima está basado en el autoconocimiento y los valores personales, y es esencial para desarrollar confianza y superar desafíos personales con éxito."
+  },
+  {
+    "intent_id": "responsabilidad_superacion_personal",
+    "keywords": [
+      "responsabilidad",
+      "superacion",
+      "autonomia",
+      "valores"
+    ],
+    "base_response": "La responsabilidad personal es clave para la superación personal. Asumir consecuencias de nuestras acciones fomenta autonomía y valores sólidos, permitiendo a los estudiantes aprender de sus experiencias y crecer hacia una vida más equilibrada y significativa."
+  },
+  {
+    "intent_id": "autoconocimiento_confianza",
+    "keywords": [
+      "autoconocimiento",
+      "confianza",
+      "identidad",
+      "valores"
+    ],
+    "base_response": "El autoconocimiento es el entendimiento profundo de nuestras emociones, valores y motivaciones. Desarrollar este conocimiento fortalece la confianza en uno mismo y contribuye a una identidad clara, facilitando la toma de decisiones y el desarrollo personal."
+  },
+  {
+    "intent_id": "motivacion_superacion",
+    "keywords": [
+      "motivacion",
+      "superacion",
+      "metas",
+      "autodisciplina"
+    ],
+    "base_response": "La motivación es el impulso que nos mueve hacia el logro de metas. Es esencial para la superación personal, ya que proporciona energía y enfoque, mientras la autodisciplina asegura la constancia necesaria para alcanzar el éxito en nuestros objetivos."
+  },
+  {
+    "intent_id": "resiliencia_adolescente",
+    "keywords": [
+      "resiliencia",
+      "adaptabilidad",
+      "fortaleza",
+      "dificultades",
+      "superacion"
+    ],
+    "base_response": "La resiliencia es clave para enfrentar adversidades. Enseñar a los adolescentes a adaptarse a los cambios y superar obstáculos fortalece su capacidad de recuperación y los prepara para manejar situaciones difíciles con una mentalidad positiva y constructiva."
+  },
+  {
+    "intent_id": "proposito_vidal",
+    "keywords": [
+      "proposito",
+      "sentido",
+      "direccion",
+      "objetivo",
+      "vision"
+    ],
+    "base_response": "Tener un propósito de vida proporciona sentido y dirección. Los estudiantes deben explorar sus intereses y valores para identificar objetivos significativos, lo que les permitirá enfocar sus esfuerzos hacia metas que reflejen su visión personal y aspiraciones futuras."
+  },
+  {
+    "intent_id": "concepto_autoestima",
+    "keywords": [
+      "autoestima",
+      "confianza",
+      "seguridad",
+      "emociones",
+      "percepcion"
+    ],
+    "base_response": "La autoestima es la valoración positiva o negativa que hacemos de nosotros mismos. Una alta autoestima promueve la confianza y la seguridad, facilitando el desarrollo personal y el manejo adecuado de emociones. Es crucial para enfrentar desafíos y construir relaciones saludables."
+  },
+  {
+    "intent_id": "concepto_metas",
+    "keywords": [
+      "metas",
+      "objetivos",
+      "planeacion",
+      "logro",
+      "motivacion"
+    ],
+    "base_response": "Establecer metas claras es esencial para el crecimiento personal. Ayudan a mantener la motivación y a enfocar esfuerzos en objetivos específicos. La planificación adecuada de metas permite medir el progreso y ajustar estrategias para alcanzar el éxito deseado."
+  },
+  {
+    "intent_id": "concepto_resiliencia",
+    "keywords": [
+      "resiliencia",
+      "adaptacion",
+      "superacion",
+      "fortaleza",
+      "cambio"
+    ],
+    "base_response": "La resiliencia es la capacidad de adaptarse y recuperarse frente a adversidades. Implica desarrollar fortaleza mental y emocional para superar obstáculos. Fomenta una actitud positiva hacia el cambio y el crecimiento personal, permitiendo afrontar situaciones difíciles con eficacia."
+  },
+  {
+    "intent_id": "concepto_valores",
+    "keywords": [
+      "valores",
+      "etica",
+      "principios",
+      "moral",
+      "conducta"
+    ],
+    "base_response": "Los valores son principios éticos que guían nuestra conducta. Establecen estándares de moralidad y ética, influyendo en nuestras decisiones y relaciones interpersonales. Fomentar valores sólidos contribuye al desarrollo de una identidad coherente y una vida plena y significativa."
+  },
+  {
+    "intent_id": "concepto_relaciones_interpersonales",
+    "keywords": [
+      "relaciones",
+      "comunicacion",
+      "interaccion",
+      "vinculos",
+      "amistad"
+    ],
+    "base_response": "Las relaciones interpersonales son conexiones que establecemos con otros. La comunicación efectiva y la empatía son fundamentales para construir vínculos sólidos y significativos. Relaciones saludables promueven el bienestar emocional y personal, facilitando el desarrollo social y afectivo."
+  },
+  {
+    "intent_id": "concepto_identidad",
+    "keywords": [
+      "identidad",
+      "autoconcepto",
+      "individualidad",
+      "personalidad",
+      "unico"
+    ],
+    "base_response": "La identidad es el conjunto de características que nos hace únicos. Incluye nuestros valores, creencias y percepciones, formando el autoconcepto. Desarrollar una identidad sólida es crucial para el autoconocimiento y la autorrealización, permitiendo vivir de acuerdo con nuestros principios."
+  },
+  {
+    "intent_id": "concepto_autoconocimiento",
+    "keywords": [
+      "autoconocimiento",
+      "reflexion",
+      "introspeccion",
+      "conciencia",
+      "entendimiento"
+    ],
+    "base_response": "El autoconocimiento es la comprensión profunda de nuestras emociones, pensamientos y comportamientos. A través de la reflexión e introspección, ganamos conciencia de nuestras fortalezas y áreas de mejora. Este conocimiento es esencial para el crecimiento personal y la toma de decisiones informadas."
+  },
+  {
+    "intent_id": "concepto_crecimiento_personal",
+    "keywords": [
+      "crecimiento",
+      "desarrollo",
+      "evolucion",
+      "progreso",
+      "mejora"
+    ],
+    "base_response": "El crecimiento personal es el proceso continuo de mejora y desarrollo de habilidades y capacidades. Involucra la búsqueda de conocimiento y experiencias que fomenten la evolución personal. Establecer metas y reflexionar sobre el progreso contribuye a una vida más plena y satisfactoria."
+  },
+  {
+    "intent_id": "concepto_autodisciplina",
+    "keywords": [
+      "autodisciplina",
+      "control",
+      "habitos",
+      "consistencia",
+      "responsabilidad"
+    ],
+    "base_response": "La autodisciplina es la capacidad de controlarse para alcanzar objetivos. Implica consistencia en la práctica de hábitos positivos y responsabilidad en la toma de decisiones. Es fundamental para el éxito personal y profesional, permitiendo superar obstáculos y mantenerse enfocado."
+  },
+  {
+    "intent_id": "concepto_motivacion",
+    "keywords": [
+      "motivacion",
+      "inspiracion",
+      "energia",
+      "proposito",
+      "empeno"
+    ],
+    "base_response": "La motivación es el impulso que nos mueve a actuar hacia nuestras metas. Puede ser interna o externa y es clave para mantener el esfuerzo constante. Encontrar un propósito claro y significativo aumenta la motivación y fomenta la autorrealización y el éxito personal."
+  },
+  {
+    "intent_id": "valores_relaciones",
+    "keywords": [
+      "valores",
+      "relaciones",
+      "respeto",
+      "empatia",
+      "comunicacion"
+    ],
+    "base_response": "Los valores como el respeto y la empatía son esenciales para construir relaciones interpersonales saludables. La comunicación efectiva y el entendimiento mutuo permiten que los estudiantes desarrollen conexiones significativas y aprendan a colaborar de manera positiva en diferentes contextos."
+  },
+  {
+    "intent_id": "identidad_autoconocimiento",
+    "keywords": [
+      "identidad",
+      "autoconocimiento",
+      "personalidad",
+      "intereses",
+      "fortalezas"
+    ],
+    "base_response": "El autoconocimiento es clave para que los estudiantes desarrollen una identidad sólida. Al explorar sus intereses, fortalezas y personalidad, pueden comprender mejor quiénes son, lo que les facilita tomar decisiones alineadas con sus valores y metas personales."
+  },
+  {
+    "intent_id": "proposito_vida_confianza",
+    "keywords": [
+      "proposito",
+      "vida",
+      "confianza",
+      "orientacion",
+      "futuro"
+    ],
+    "base_response": "Tener un propósito de vida claro aumenta la confianza en uno mismo. Los estudiantes que comprenden su orientación y objetivos futuros son más propensos a tomar decisiones informadas que les permiten avanzar con seguridad hacia el logro de sus aspiraciones personales."
+  },
+  {
+    "intent_id": "autonomia_responsabilidad",
+    "keywords": [
+      "autonomia",
+      "responsabilidad",
+      "decision",
+      "independencia",
+      "madurez"
+    ],
+    "base_response": "Fomentar la autonomía en los estudiantes implica otorgarles responsabilidad en la toma de decisiones. Esto promueve su independencia y madurez, al permitirles aprender de sus experiencias y desarrollar un sentido de control sobre sus acciones y sus consecuencias."
+  },
+  {
+    "intent_id": "superacion_personal_confianza",
+    "keywords": [
+      "superacion",
+      "confianza",
+      "desafio",
+      "crecimiento",
+      "experiencia"
+    ],
+    "base_response": "La superación personal se basa en enfrentar desafíos con confianza. Cada experiencia de éxito o aprendizaje contribuye al crecimiento, fortaleciendo la autoconfianza y motivando a los estudiantes a seguir avanzando y explorando nuevas posibilidades para su desarrollo."
+  },
+  {
+    "intent_id": "autorrealizacion_relaciones",
+    "keywords": [
+      "autorrealizacion",
+      "relaciones",
+      "apoyo",
+      "interaccion",
+      "comunidad"
+    ],
+    "base_response": "La autorrealización se enriquece mediante relaciones interpersonales sanas. El apoyo y la interacción positiva dentro de una comunidad proporcionan un entorno seguro donde los estudiantes pueden explorar sus intereses, aprender de otros y alcanzar su máximo potencial personal."
+  },
+  {
+    "intent_id": "autoestima_positiva",
+    "keywords": [
+      "autoestima",
+      "confianza",
+      "autovaloracion",
+      "seguridad",
+      "aceptacion"
+    ],
+    "base_response": "La autoestima positiva es fundamental para el desarrollo personal. Ayuda a los estudiantes a enfrentarse a los desafíos con seguridad y a valorarse por quienes son, promoviendo una autoimagen saludable y fomentando la aceptación de sus propias fortalezas y debilidades."
+  },
+  {
+    "intent_id": "valores_y_principios",
+    "keywords": [
+      "valores",
+      "principios",
+      "etica",
+      "moral",
+      "conducta"
+    ],
+    "base_response": "Los valores y principios son fundamentales para el desarrollo personal de los estudiantes, guiando su conducta y decisiones. Una base ética sólida les ayuda a discernir entre lo correcto e incorrecto, promoviendo relaciones interpersonales positivas y un comportamiento responsable y respetuoso."
+  },
+  {
+    "intent_id": "autoconocimiento_personal",
+    "keywords": [
+      "autoconocimiento",
+      "reflexion",
+      "autoanalisis",
+      "conciencia",
+      "identidad"
+    ],
+    "base_response": "El autoconocimiento personal es clave para el desarrollo de la identidad. Al reflexionar y analizar sus pensamientos y sentimientos, los estudiantes desarrollan una mayor conciencia de sí mismos, lo que les permite tomar decisiones más informadas y alineadas con sus valores y objetivos."
+  },
+  {
+    "intent_id": "autodisciplina_y_responsabilidad",
+    "keywords": [
+      "autodisciplina",
+      "responsabilidad",
+      "compromiso",
+      "organizacion",
+      "control"
+    ],
+    "base_response": "La autodisciplina y responsabilidad son esenciales para el éxito académico y personal. Al aprender a organizarse y controlarse, los estudiantes desarrollan hábitos productivos y un sentido de compromiso, lo que les permite cumplir con sus deberes y alcanzar sus objetivos de manera efectiva."
+  },
+  {
+    "intent_id": "proposito_vital",
+    "keywords": [
+      "proposito",
+      "reflexion",
+      "metas",
+      "motivacion",
+      "crecimiento"
+    ],
+    "base_response": "El proposito vital orienta decisiones y acciones hacia metas que generan sentido personal. Descubrirlo requiere reflexion sobre intereses, valores y aspiraciones. Tenerlo claro fortalece la motivacion, impulsa el crecimiento y ayuda a mantener enfoque en objetivos significativos."
+  },
+  {
+    "intent_id": "identidad_en_formacion",
+    "keywords": [
+      "identidad",
+      "autoconocimiento",
+      "reflexion",
+      "expresion",
+      "crecimiento"
+    ],
+    "base_response": "La identidad en formación implica explorar gustos, habilidades y valores personales. Requiere reflexión y autoconocimiento para comprender quién se es y qué se desea. Favorece la expresión auténtica y el crecimiento emocional, ayudando a tomar decisiones coherentes durante la adolescencia."
+  }
+]
