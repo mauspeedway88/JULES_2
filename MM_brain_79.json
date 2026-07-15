@@ -1,0 +1,2543 @@
+[
+    {
+        "intent_id": "tecnica_pomodoro_basica",
+        "keywords": [
+            "tecnica",
+            "pomodoro",
+            "tiempo",
+            "descanso",
+            "concentracion"
+        ],
+        "base_response": "La técnica Pomodoro consiste en dividir el tiempo de estudio en bloques de veinticinco minutos, seguidos de pausas breves de cinco minutos. Este método favorece la concentración máxima y previene la fatiga mental, optimizando significativamente la asimilación de nuevos conocimientos."
+    },
+    {
+        "intent_id": "mapas_conceptuales_jerarquia",
+        "keywords": [
+            "mapas",
+            "conceptos",
+            "jerarquia",
+            "visualizacion",
+            "aprendizaje"
+        ],
+        "base_response": "Los mapas conceptuales estructuran la información de manera visual y jerárquica. Al organizar las ideas desde los conceptos más generales hasta los detalles específicos, se facilita la comprensión profunda y la retención a largo plazo de materias complejas."
+    },
+    {
+        "intent_id": "repaso_espaciado_memoria",
+        "keywords": [
+            "repaso",
+            "espaciado",
+            "memoria",
+            "retencion",
+            "estudio"
+        ],
+        "base_response": "El repaso espaciado es una estrategia donde se revisa el material en intervalos de tiempo gradualmente mayores. Esta práctica aprovecha la curva del olvido para fortalecer la memoria a largo plazo, resultando mucho más efectiva que estudiar intensamente un solo día."
+    },
+    {
+        "intent_id": "ambiente_estudio_iluminacion",
+        "keywords": [
+            "ambiente",
+            "iluminacion",
+            "espacio",
+            "rendimiento",
+            "fatiga"
+        ],
+        "base_response": "Un ambiente de estudio adecuado requiere una iluminación óptima, preferiblemente natural, combinada con una luz focal en el escritorio. Esto reduce drásticamente la fatiga visual y mantiene el cerebro en estado de alerta, mejorando el rendimiento durante las sesiones académicas."
+    },
+    {
+        "intent_id": "lectura_comprensiva_activa",
+        "keywords": [
+            "lectura",
+            "comprension",
+            "analisis",
+            "cuestionamiento",
+            "textos"
+        ],
+        "base_response": "La lectura comprensiva va más allá de decodificar palabras; implica analizar activamente el texto, formular preguntas y relacionar conceptos. Este proceso transforma la asimilación pasiva en un aprendizaje profundo, fundamental para el desarrollo del pensamiento crítico en los estudiantes."
+    },
+    {
+        "intent_id": "organizacion_del_tiempo",
+        "keywords": [
+            "planificacion",
+            "horarios",
+            "metas",
+            "revision",
+            "constancia"
+        ],
+        "base_response": "Aprender a organizar el tiempo permite estudiar sin prisas y cumplir tareas diarias. Crear horarios realistas, definir metas pequeñas y revisar avances ayuda a mantener constancia. Este hábito mejora la responsabilidad y facilita comprender mejor cada tema trabajado durante la semana."
+    },
+    {
+        "intent_id": "espacio_de_estudio",
+        "keywords": [
+            "orden",
+            "materiales",
+            "concentracion",
+            "silencio",
+            "comodidad"
+        ],
+        "base_response": "Un espacio de estudio ordenado y cómodo favorece la concentración. Mantener materiales necesarios a la mano y reducir distracciones permite trabajar con mayor claridad. Este hábito ayuda a que los estudiantes se enfoquen en sus tareas y comprendan mejor los contenidos escolares."
+    },
+    {
+        "intent_id": "tecnicas_de_resumen",
+        "keywords": [
+            "lectura",
+            "resumen",
+            "ideas",
+            "analisis",
+            "comprension"
+        ],
+        "base_response": "Resumir textos ayuda a identificar ideas importantes y comprender mejor la informacion. Leer con atencion, subrayar conceptos clave y elaborar un resumen claro fortalece el analisis. Este habito permite recordar contenidos con facilidad y estudiar de manera mas eficiente."
+    },
+    {
+        "intent_id": "uso_de_agenda",
+        "keywords": [
+            "registro",
+            "tareas",
+            "fechas",
+            "organizar",
+            "priorizar"
+        ],
+        "base_response": "Utilizar una agenda permite registrar tareas y fechas importantes. Organizar actividades y priorizar pendientes ayuda a evitar olvidos. Este habito fomenta responsabilidad y permite que los estudiantes mantengan control sobre su trabajo escolar sin sentirse abrumados."
+    },
+    {
+        "intent_id": "descansos_activos",
+        "keywords": [
+            "pausas",
+            "movimiento",
+            "respirar",
+            "relajar",
+            "energizar"
+        ],
+        "base_response": "Tomar descansos activos durante el estudio mejora la energia y la concentracion. Realizar pausas breves para moverse, respirar o relajarse evita el cansancio mental. Este habito ayuda a mantener un ritmo saludable y favorece la retencion de informacion."
+    },
+    {
+        "intent_id": "lectura_diaria",
+        "keywords": [
+            "leer",
+            "comprender",
+            "practicar",
+            "explorar",
+            "aprender"
+        ],
+        "base_response": "La lectura diaria fortalece la comprension y amplia el conocimiento. Practicar unos minutos cada dia permite explorar nuevos temas y mejorar habilidades. Este habito ayuda a desarrollar curiosidad, vocabulario y confianza al estudiar diferentes materias escolares."
+    },
+    {
+        "intent_id": "revisiones_periodicas",
+        "keywords": [
+            "repasar",
+            "memorizar",
+            "evaluar",
+            "reforzar",
+            "recordar"
+        ],
+        "base_response": "Realizar revisiones periodicas permite reforzar lo aprendido y mejorar la memoria. Repasar contenidos en intervalos ayuda a recordar informacion con mayor facilidad. Este habito prepara a los estudiantes para evaluaciones y fortalece su confianza en el estudio."
+    },
+    {
+        "intent_id": "planificacion_horaria_personal",
+        "keywords": [
+            "planificacion",
+            "horario",
+            "actividades",
+            "descanso",
+            "organizacion"
+        ],
+        "base_response": "Comprender la importancia de distribuir el tiempo libre equilibrando actividades recreativas, descanso y responsabilidades personales. Este concepto ayuda a crear rutinas saludables que permiten disfrutar intereses propios sin descuidar tareas esenciales, fomentando autonomia y mejores decisiones cotidianas."
+    },
+    {
+        "intent_id": "priorizacion_de_intereses",
+        "keywords": [
+            "priorizacion",
+            "intereses",
+            "eleccion",
+            "evaluacion",
+            "actividades"
+        ],
+        "base_response": "Aprender a identificar intereses principales y secundarios para decidir que actividades realizar primero durante el tiempo libre. Este concepto desarrolla habilidades de evaluacion y fomenta decisiones conscientes que permiten aprovechar mejor cada momento disponible sin generar estres innecesario."
+    },
+    {
+        "intent_id": "equilibrio_digital_recreativo",
+        "keywords": [
+            "equilibrio",
+            "tecnologia",
+            "juego",
+            "control",
+            "gestion"
+        ],
+        "base_response": "Reconocer la necesidad de equilibrar actividades digitales con opciones recreativas fisicas o creativas. Este concepto promueve un uso responsable de dispositivos, evitando excesos y fomentando experiencias variadas que fortalecen habilidades sociales, creatividad y bienestar emocional."
+    },
+    {
+        "intent_id": "microtareas_productivas",
+        "keywords": [
+            "microtareas",
+            "productividad",
+            "orden",
+            "motivacion",
+            "gestion"
+        ],
+        "base_response": "Incorporar pequeñas tareas productivas dentro del tiempo libre para mantener orden y motivacion. Este concepto enseña a dividir actividades en pasos breves que pueden completarse facilmente, generando sensacion de logro y mejorando la organizacion personal sin restar espacio al disfrute."
+    },
+    {
+        "intent_id": "pausas_conscientes_activas",
+        "keywords": [
+            "pausas",
+            "actividad",
+            "respiracion",
+            "movimiento",
+            "bienestar"
+        ],
+        "base_response": "Practicar pausas activas que incluyan respiracion, estiramientos o movimientos breves durante el tiempo libre. Este concepto ayuda a mejorar concentracion, energia y bienestar general, permitiendo retomar actividades recreativas con mayor claridad y evitando cansancio acumulado."
+    },
+    {
+        "intent_id": "agenda_creativa_personal",
+        "keywords": [
+            "agenda",
+            "creatividad",
+            "planificacion",
+            "ideas",
+            "exploracion"
+        ],
+        "base_response": "Crear una agenda creativa donde se registren ideas, proyectos y actividades deseadas para el tiempo libre. Este concepto impulsa la exploracion personal, facilita recordar intereses y permite organizar momentos recreativos de manera divertida, estructurada y motivadora."
+    },
+    {
+        "intent_id": "evaluacion_post_actividad",
+        "keywords": [
+            "evaluacion",
+            "actividad",
+            "reflexion",
+            "aprendizaje",
+            "mejora"
+        ],
+        "base_response": "Reflexionar brevemente despues de cada actividad realizada en el tiempo libre para identificar aprendizajes, emociones y posibles mejoras. Este concepto fortalece la autonomia, ayuda a reconocer preferencias reales y permite ajustar futuras decisiones para aprovechar mejor cada momento disponible."
+    },
+    {
+        "intent_id": "ordenar_tareas_diarias",
+        "keywords": [
+            "planificacion",
+            "tareas",
+            "priorizar",
+            "organizar",
+            "evaluar"
+        ],
+        "base_response": "La idea consiste en aprender a dividir las actividades del dia en partes manejables, asignando tiempos realistas y ordenando las tareas segun su importancia. Esto ayuda a evitar olvidos, reducir estres y mejorar la concentracion mientras se completan responsabilidades escolares y personales."
+    },
+    {
+        "intent_id": "crear_listas_claras",
+        "keywords": [
+            "listas",
+            "tareas",
+            "escribir",
+            "clasificar",
+            "completar"
+        ],
+        "base_response": "El concepto se centra en elaborar listas simples y detalladas que agrupen tareas por dificultad o urgencia. Al escribir cada actividad, los estudiantes visualizan mejor sus pendientes, controlan avances y desarrollan una rutina que facilita cumplir objetivos sin sentirse abrumados."
+    },
+    {
+        "intent_id": "establecer_metas_cortas",
+        "keywords": [
+            "metas",
+            "tareas",
+            "dividir",
+            "lograr",
+            "progresar"
+        ],
+        "base_response": "Consiste en transformar actividades grandes en metas pequenas y alcanzables. Cada meta permite avanzar paso a paso, mantener motivacion y reconocer logros frecuentes. Esta estrategia ayuda a que los estudiantes comprendan que la constancia diaria produce resultados positivos."
+    },
+    {
+        "intent_id": "usar_tiempos_bloque",
+        "keywords": [
+            "tiempos",
+            "bloques",
+            "organizar",
+            "trabajar",
+            "descansar"
+        ],
+        "base_response": "La tecnica propone dividir el estudio en bloques de tiempo definidos, alternando trabajo y descanso. Esto mejora la concentracion, evita distracciones y permite que los estudiantes aprendan a gestionar su energia mientras completan tareas escolares con mayor eficiencia."
+    },
+    {
+        "intent_id": "anticipar_obstaculos",
+        "keywords": [
+            "obstaculos",
+            "resolver",
+            "planificar",
+            "adaptar",
+            "continuar"
+        ],
+        "base_response": "El concepto enseña a identificar posibles dificultades antes de comenzar una tarea y pensar soluciones practicas. Al anticipar problemas, los estudiantes se sienten preparados, ajustan su plan sin frustrarse y mantienen el ritmo de trabajo incluso cuando surgen imprevistos."
+    },
+    {
+        "intent_id": "revisar_progreso_diario",
+        "keywords": [
+            "progreso",
+            "revisar",
+            "tareas",
+            "analizar",
+            "mejorar"
+        ],
+        "base_response": "Implica dedicar unos minutos al final del dia para evaluar lo realizado, reconocer avances y detectar pendientes. Esta practica fomenta responsabilidad, permite ajustar estrategias y ayuda a que los estudiantes comprendan su propio ritmo de trabajo."
+    },
+    {
+        "intent_id": "equilibrar_estudio_y_ocio",
+        "keywords": [
+            "equilibrar",
+            "estudio",
+            "ocio",
+            "organizar",
+            "disfrutar"
+        ],
+        "base_response": "El concepto busca que los estudiantes aprendan a combinar tareas escolares con actividades recreativas. Al planificar ambos espacios, se evita la saturacion, se mantiene la motivacion y se desarrolla una rutina saludable que favorece el bienestar general."
+    },
+    {
+        "intent_id": "pomodoro_microobjetivos_claros",
+        "keywords": [
+            "objetivos",
+            "tareas",
+            "enfoque",
+            "progreso",
+            "motivacion"
+        ],
+        "base_response": "La tecnica Pomodoro ayuda a dividir una tarea grande en microobjetivos concretos. Cada bloque de trabajo permite concentrarse en un solo objetivo y ver avances rapidos. Esto facilita que estudiantes de nueve a catorce años mantengan motivacion y comprendan mejor su propio proceso de aprendizaje."
+    },
+    {
+        "intent_id": "pomodoro_descansos_activos",
+        "keywords": [
+            "descansos",
+            "movimiento",
+            "respiracion",
+            "energia",
+            "concentracion"
+        ],
+        "base_response": "Los descansos breves entre pomodoros pueden incluir movimientos simples o ejercicios de respiracion. Estas pausas activas ayudan a recuperar energia y mejorar la concentracion. Para estudiantes de nueve a catorce años, integrar actividad ligera evita cansancio y favorece un ritmo de estudio equilibrado."
+    },
+    {
+        "intent_id": "pomodoro_control_tiempo_personal",
+        "keywords": [
+            "tiempo",
+            "registro",
+            "tareas",
+            "ritmo",
+            "autonomia"
+        ],
+        "base_response": "Aplicar la tecnica Pomodoro permite que los estudiantes registren cuanto tardan en completar tareas. Este control del tiempo fomenta autonomia y conciencia del propio ritmo. Entre nueve y catorce años, comprender estas variaciones ayuda a planificar mejor y reducir frustraciones durante el estudio."
+    },
+    {
+        "intent_id": "pomodoro_retos_progresivos",
+        "keywords": [
+            "retos",
+            "tareas",
+            "motivacion",
+            "progreso",
+            "superacion"
+        ],
+        "base_response": "Los pomodoros pueden convertirse en pequeños retos progresivos. Cada ciclo completado refuerza la sensacion de superacion y motiva a continuar. Para estudiantes de nueve a catorce años, esta dinamica convierte el estudio en una experiencia mas atractiva y facilita mantener la atencion en tareas complejas."
+    },
+    {
+        "intent_id": "pomodoro_organizacion_visual",
+        "keywords": [
+            "organizacion",
+            "tiempo",
+            "tareas",
+            "secuencias",
+            "planificacion"
+        ],
+        "base_response": "Usar colores o simbolos para marcar pomodoros y descansos crea una organizacion visual clara. Esta representacion ayuda a estudiantes de nueve a catorce años a comprender secuencias de trabajo y planificacion diaria. Visualizar el proceso facilita mantener orden y reducir distracciones frecuentes."
+    },
+    {
+        "intent_id": "pomodoro_autoevaluacion_corta",
+        "keywords": [
+            "evaluacion",
+            "progreso",
+            "tareas",
+            "reflexion",
+            "aprendizaje"
+        ],
+        "base_response": "Al finalizar cada pomodoro, una autoevaluacion breve permite reflexionar sobre el progreso. Esta practica ayuda a identificar dificultades y ajustar estrategias. Para estudiantes de nueve a catorce años, la reflexion constante fortalece habilidades de aprendizaje y mejora la gestion de tareas escolares."
+    },
+    {
+        "intent_id": "pomodoro_equilibrio_estudio_juego",
+        "keywords": [
+            "equilibrio",
+            "estudio",
+            "juego",
+            "tiempo",
+            "motivacion"
+        ],
+        "base_response": "La tecnica Pomodoro facilita equilibrar estudio y juego mediante bloques definidos. Los estudiantes de nueve a catorce años pueden disfrutar descansos divertidos sin perder ritmo academico. Este equilibrio mejora la motivacion, evita saturacion y convierte el estudio en una rutina mas sostenible."
+    },
+    {
+        "intent_id": "mapas_conceptuales_iconicos",
+        "keywords": [
+            "mapas",
+            "conceptos",
+            "imagenes",
+            "organizar",
+            "comprender"
+        ],
+        "base_response": "Los mapas conceptuales iconicos usan imagenes simples para representar ideas clave y relaciones. Ayudan a estudiantes a recordar informacion mediante simbolos visuales claros. Facilitan conexiones rapidas entre conceptos y permiten explicar temas complejos de manera accesible para diferentes niveles de aprendizaje."
+    },
+    {
+        "intent_id": "nodos_visuales_interactivos",
+        "keywords": [
+            "nodos",
+            "conectar",
+            "explorar",
+            "aprender",
+            "visualizar"
+        ],
+        "base_response": "Los nodos visuales interactivos permiten explorar conceptos mediante puntos conectados que muestran relaciones importantes. Cada nodo incluye colores o formas que guian la comprension. Esta estructura ayuda a estudiantes a descubrir patrones, reforzar memoria y construir explicaciones claras sobre diversos contenidos escolares."
+    },
+    {
+        "intent_id": "lineas_relacionales_codificadas",
+        "keywords": [
+            "lineas",
+            "relaciones",
+            "codificar",
+            "interpretar",
+            "analizar"
+        ],
+        "base_response": "Las lineas relacionales codificadas usan colores y grosores para indicar tipos de conexiones entre ideas. Esta tecnica ayuda a estudiantes a interpretar informacion compleja y analizar jerarquias conceptuales. Facilita la identificacion de causas, efectos y clasificaciones dentro de un tema especifico."
+    },
+    {
+        "intent_id": "mapas_de_simbolos_tematicos",
+        "keywords": [
+            "simbolos",
+            "temas",
+            "representar",
+            "clasificar",
+            "organizar"
+        ],
+        "base_response": "Los mapas de simbolos tematicos emplean iconos relacionados con un tema para representar conceptos principales. Esta estrategia permite clasificar informacion de manera visual y ordenada. Ayuda a estudiantes a comprender contenidos amplios mediante agrupaciones claras que facilitan el estudio y la retencion."
+    },
+    {
+        "intent_id": "diagramas_de_flujo_visual",
+        "keywords": [
+            "diagramas",
+            "flujo",
+            "procesos",
+            "secuenciar",
+            "entender"
+        ],
+        "base_response": "Los diagramas de flujo visual muestran procesos paso a paso usando flechas y figuras. Ayudan a estudiantes a entender secuencias, decisiones y resultados dentro de un tema. Esta herramienta facilita la organizacion mental y mejora la capacidad de explicar procedimientos con claridad."
+    },
+    {
+        "intent_id": "mapas_radiales_de_ideas",
+        "keywords": [
+            "ideas",
+            "radiales",
+            "expandir",
+            "relacionar",
+            "visualizar"
+        ],
+        "base_response": "Los mapas radiales de ideas parten de un concepto central y expanden informacion en ramas visuales. Permiten relacionar contenidos de manera clara y ordenada. Ayudan a estudiantes a visualizar conexiones amplias, organizar pensamientos y desarrollar explicaciones completas sobre diversos temas escolares."
+    },
+    {
+        "intent_id": "estructuras_visualmente_jerarquicas",
+        "keywords": [
+            "estructuras",
+            "jerarquias",
+            "ordenar",
+            "clasificar",
+            "comprender"
+        ],
+        "base_response": "Las estructuras visualmente jerarquicas organizan conceptos desde los mas generales hasta los mas especificos. Esta tecnica ayuda a estudiantes a clasificar informacion y comprender niveles de importancia. Facilita el estudio de temas complejos mediante una presentacion clara y progresiva de ideas."
+    },
+    {
+        "intent_id": "seleccion_palabras_clave",
+        "keywords": [
+            "subrayado",
+            "lectura",
+            "analisis",
+            "comprension",
+            "texto"
+        ],
+        "base_response": "El estudiante identifica palabras clave dentro de un texto largo para subrayarlas. Este proceso ayuda a reconocer ideas esenciales y facilita la comprensión global. Al practicarlo, desarrolla habilidades de análisis y mejora su capacidad para recordar información relevante sin distraerse con detalles secundarios."
+    },
+    {
+        "intent_id": "jerarquia_ideas_principales",
+        "keywords": [
+            "ideas",
+            "subrayado",
+            "organizacion",
+            "lectura",
+            "contenido"
+        ],
+        "base_response": "El estudiante aprende a distinguir ideas principales y secundarias antes de subrayar. Esta jerarquía permite organizar mejor la información y comprender cómo se relacionan los conceptos. Subrayar solo lo esencial evita confusiones y ayuda a estudiar de manera más eficiente textos extensos."
+    },
+    {
+        "intent_id": "uso_colores_funcionales",
+        "keywords": [
+            "colores",
+            "subrayado",
+            "clasificacion",
+            "lectura",
+            "conceptos"
+        ],
+        "base_response": "El estudiante utiliza distintos colores para subrayar categorías específicas dentro del texto. Esta técnica visual facilita la clasificación de conceptos y mejora la memoria. Al asignar un color a cada tipo de información, se vuelve más sencillo revisar y estudiar contenidos largos."
+    },
+    {
+        "intent_id": "deteccion_repeticiones_importantes",
+        "keywords": [
+            "repeticiones",
+            "subrayado",
+            "analisis",
+            "lectura",
+            "informacion"
+        ],
+        "base_response": "El estudiante identifica palabras o ideas que se repiten en el texto y las subraya para destacar su importancia. Esta estrategia ayuda a reconocer temas centrales y comprender mejor la intención del autor. Además, permite estudiar con mayor claridad los conceptos más relevantes."
+    },
+    {
+        "intent_id": "marcado_transiciones_textuales",
+        "keywords": [
+            "transiciones",
+            "subrayado",
+            "lectura",
+            "cambios",
+            "estructura"
+        ],
+        "base_response": "El estudiante subraya palabras que indican cambios de tema o transición dentro del texto. Esto facilita seguir la estructura del contenido y entender cómo se conectan las ideas. Reconocer estas señales mejora la fluidez de lectura y la comprensión de textos largos."
+    },
+    {
+        "intent_id": "resaltar_definiciones_clave",
+        "keywords": [
+            "definiciones",
+            "subrayado",
+            "conceptos",
+            "lectura",
+            "terminos"
+        ],
+        "base_response": "El estudiante subraya definiciones importantes para recordar conceptos esenciales del texto. Esta técnica permite identificar rápidamente información fundamental durante el estudio. Al resaltar términos clave, se facilita la comprensión y se mejora la retención de contenidos complejos."
+    },
+    {
+        "intent_id": "subrayado_en_parrafos_extensos",
+        "keywords": [
+            "parrafos",
+            "subrayado",
+            "lectura",
+            "seleccion",
+            "informacion"
+        ],
+        "base_response": "El estudiante aprende a seleccionar solo las partes más relevantes de párrafos extensos para subrayarlas. Esta habilidad evita marcar demasiado texto y mejora la eficiencia del estudio. Al enfocarse en ideas centrales, se facilita la comprensión y organización del contenido."
+    },
+    {
+        "intent_id": "resaltar_ideas_clave",
+        "keywords": [
+            "resaltar",
+            "ideas",
+            "conceptos",
+            "lectura",
+            "comprension"
+        ],
+        "base_response": "Aprender a resaltar ideas clave ayuda a identificar la informacion mas importante durante una clase. Los estudiantes pueden usar colores o simbolos para marcar conceptos esenciales y relacionarlos con ejemplos. Esto mejora la comprension y facilita estudiar despues sin releer todo."
+    },
+    {
+        "intent_id": "mapas_mentales_basicos",
+        "keywords": [
+            "mapas",
+            "organizar",
+            "conceptos",
+            "dibujar",
+            "relacionar"
+        ],
+        "base_response": "Los mapas mentales permiten organizar informacion de forma visual. Los estudiantes pueden colocar un tema central y dibujar ramas con ideas relacionadas. Esta tecnica ayuda a recordar mejor porque muestra conexiones claras entre conceptos y facilita estudiar de manera ordenada."
+    },
+    {
+        "intent_id": "abreviaturas_personales",
+        "keywords": [
+            "crear",
+            "abreviaturas",
+            "escribir",
+            "recordar",
+            "simplificar"
+        ],
+        "base_response": "Crear abreviaturas personales permite escribir mas rapido sin perder significado. Los estudiantes pueden inventar simbolos o letras para palabras largas y usarlas siempre igual. Esto ayuda a tomar apuntes eficientes durante explicaciones rapidas y facilita revisar despues sin confusiones."
+    },
+    {
+        "intent_id": "escucha_activa_apuntes",
+        "keywords": [
+            "escuchar",
+            "analizar",
+            "anotar",
+            "comprender",
+            "procesar"
+        ],
+        "base_response": "La escucha activa consiste en prestar atencion mientras se piensa en lo que se oye. Los estudiantes deben identificar ideas importantes y anotarlas con sus propias palabras. Esto mejora la comprension y evita copiar todo sin entender, haciendo los apuntes mas utiles."
+    },
+    {
+        "intent_id": "codigos_de_colores",
+        "keywords": [
+            "colores",
+            "clasificar",
+            "organizar",
+            "resaltar",
+            "categorizar"
+        ],
+        "base_response": "Usar codigos de colores ayuda a clasificar informacion en los apuntes. Los estudiantes pueden asignar un color para definiciones, otro para ejemplos y otro para dudas. Esto facilita encontrar rapidamente lo que necesitan y hace el estudio mas claro y ordenado."
+    },
+    {
+        "intent_id": "resumenes_cortos_diarios",
+        "keywords": [
+            "resumir",
+            "escribir",
+            "repasar",
+            "organizar",
+            "recordar"
+        ],
+        "base_response": "Escribir un resumen corto al final del dia permite reforzar lo aprendido. Los estudiantes pueden revisar sus apuntes y elegir las ideas mas importantes. Esto ayuda a recordar mejor, detectar dudas y preparar el estudio futuro de manera mas efectiva."
+    },
+    {
+        "intent_id": "preguntas_clave_en_apuntes",
+        "keywords": [
+            "preguntar",
+            "anotar",
+            "reflexionar",
+            "comprender",
+            "explorar"
+        ],
+        "base_response": "Incluir preguntas clave en los apuntes ayuda a pensar activamente sobre el contenido. Los estudiantes pueden escribir dudas o preguntas que expliquen el tema. Esto fomenta la comprension profunda y convierte los apuntes en una herramienta para explorar ideas nuevas."
+    },
+    {
+        "intent_id": "escaneo_visual_en_linea",
+        "keywords": [
+            "lectura",
+            "escaneo",
+            "busqueda",
+            "comprension",
+            "estudio"
+        ],
+        "base_response": "El escaneo visual en línea ayuda a identificar ideas clave sin leer cada palabra. Los estudiantes aprenden a mover sus ojos rápidamente por renglones, detectando conceptos importantes y evitando distracciones. Esta técnica mejora la velocidad y mantiene una comprensión adecuada durante el estudio."
+    },
+    {
+        "intent_id": "saltos_controlados_de_palabras",
+        "keywords": [
+            "saltos",
+            "palabras",
+            "lectura",
+            "ritmo",
+            "estudio"
+        ],
+        "base_response": "Los saltos controlados permiten avanzar por el texto sin detenerse en cada término. El estudiante practica mover la vista en bloques pequeños, manteniendo ritmo constante. Esta habilidad acelera la lectura y ayuda a concentrarse en información esencial para estudiar con mayor eficiencia."
+    },
+    {
+        "intent_id": "mapas_mentales_de_lectura",
+        "keywords": [
+            "mapas",
+            "lectura",
+            "ideas",
+            "organizacion",
+            "estudio"
+        ],
+        "base_response": "Los mapas mentales de lectura permiten organizar rápidamente conceptos encontrados en textos extensos. El estudiante identifica palabras clave y las conecta visualmente. Esta técnica facilita recordar información, mejora la comprensión y acelera el proceso de estudio al estructurar ideas de forma clara."
+    },
+    {
+        "intent_id": "bloques_de_contenido_rapido",
+        "keywords": [
+            "bloques",
+            "contenido",
+            "lectura",
+            "analisis",
+            "estudio"
+        ],
+        "base_response": "La lectura por bloques consiste en agrupar varias palabras para interpretarlas juntas. El estudiante reduce movimientos oculares y comprende ideas completas con menos esfuerzo. Esta estrategia aumenta la velocidad, mejora la concentración y permite estudiar textos largos de manera más efectiva."
+    },
+    {
+        "intent_id": "anticipacion_de_informacion_clave",
+        "keywords": [
+            "anticipacion",
+            "informacion",
+            "lectura",
+            "prediccion",
+            "estudio"
+        ],
+        "base_response": "La anticipación de información clave ayuda a prever ideas antes de leerlas completamente. El estudiante reconoce patrones y pistas del texto para adivinar contenido próximo. Esta habilidad acelera la lectura, fortalece la comprensión y facilita estudiar materiales complejos con mayor confianza."
+    },
+    {
+        "intent_id": "reduccion_de_regresiones_visuales",
+        "keywords": [
+            "regresiones",
+            "lectura",
+            "control",
+            "flujo",
+            "estudio"
+        ],
+        "base_response": "Reducir regresiones visuales significa evitar volver atrás constantemente en el texto. El estudiante aprende a confiar en su comprensión inicial y mantener flujo continuo. Esta técnica incrementa la velocidad, disminuye distracciones y mejora la eficiencia al estudiar información extensa."
+    },
+    {
+        "intent_id": "ritmo_constante_de_lectura",
+        "keywords": [
+            "ritmo",
+            "lectura",
+            "control",
+            "velocidad",
+            "estudio"
+        ],
+        "base_response": "Mantener un ritmo constante de lectura permite avanzar sin pausas innecesarias. El estudiante practica controlar velocidad y enfoque para evitar interrupciones. Esta habilidad mejora la fluidez, aumenta la rapidez y facilita estudiar textos variados con mayor comodidad y precisión."
+    },
+    {
+        "intent_id": "inferir_significados_ocultos",
+        "keywords": [
+            "inferencias",
+            "contexto",
+            "analisis",
+            "lectura",
+            "interpretacion"
+        ],
+        "base_response": "El estudiante identifica significados no expresados directamente, analizando pistas del texto y relacionándolas con su experiencia previa. Este proceso fortalece la comprensión profunda y fomenta la habilidad de deducir intenciones, emociones y motivos ocultos del autor mediante una lectura atenta y reflexiva."
+    },
+    {
+        "intent_id": "evaluar_fuentes_confiables",
+        "keywords": [
+            "evaluacion",
+            "fuentes",
+            "credibilidad",
+            "informacion",
+            "verificacion"
+        ],
+        "base_response": "El estudiante analiza la confiabilidad de distintas fuentes, revisando datos, autores y evidencias. Este concepto desarrolla la capacidad de distinguir información verificada de contenidos dudosos, promoviendo decisiones informadas y una lectura crítica que evita la aceptación automática de cualquier afirmación presentada."
+    },
+    {
+        "intent_id": "detectar_sesgos_autor",
+        "keywords": [
+            "sesgos",
+            "autor",
+            "perspectiva",
+            "analisis",
+            "argumentos"
+        ],
+        "base_response": "El estudiante reconoce posibles sesgos en la perspectiva del autor, examinando cómo opiniones personales influyen en la presentación de ideas. Esta habilidad permite comprender mejor la intención comunicativa y evaluar la objetividad del texto, fortaleciendo la lectura crítica y el pensamiento independiente."
+    },
+    {
+        "intent_id": "comparar_versiones_textuales",
+        "keywords": [
+            "comparacion",
+            "versiones",
+            "contenido",
+            "interpretacion",
+            "analisis"
+        ],
+        "base_response": "El estudiante compara dos textos sobre un mismo tema, identificando diferencias en enfoque, datos y conclusiones. Esta práctica fomenta la capacidad de analizar múltiples perspectivas, comprender matices y desarrollar criterios propios para evaluar la calidad y coherencia de la información presentada."
+    },
+    {
+        "intent_id": "formular_preguntas_profunda",
+        "keywords": [
+            "preguntas",
+            "reflexion",
+            "analisis",
+            "lectura",
+            "comprension"
+        ],
+        "base_response": "El estudiante genera preguntas que profundizan en el contenido, buscando aclarar ideas, explorar motivos y conectar conceptos. Esta habilidad impulsa una lectura activa y crítica, promoviendo la curiosidad intelectual y el desarrollo de interpretaciones más completas y fundamentadas del texto."
+    },
+    {
+        "intent_id": "identificar_tecnicas_persuasivas",
+        "keywords": [
+            "persuasion",
+            "tecnicas",
+            "argumentos",
+            "analisis",
+            "lectura"
+        ],
+        "base_response": "El estudiante reconoce estrategias persuasivas como exageraciones, emociones o datos selectivos. Al identificar estas técnicas, desarrolla una lectura crítica que le permite evaluar la intención del autor, detectar manipulaciones y construir opiniones informadas basadas en evidencia y razonamiento."
+    },
+    {
+        "intent_id": "relacionar_texto_contexto",
+        "keywords": [
+            "contexto",
+            "relacion",
+            "contenido",
+            "analisis",
+            "comprension"
+        ],
+        "base_response": "El estudiante conecta el texto con su contexto histórico, social o cultural, comprendiendo cómo estos elementos influyen en su significado. Esta habilidad fortalece la interpretación crítica y permite valorar la relevancia del contenido, reconociendo factores externos que moldean la información presentada."
+    },
+    {
+        "intent_id": "planificacion_intervalos_memoria",
+        "keywords": [
+            "memoria",
+            "repaso",
+            "intervalos",
+            "recordar",
+            "aprender"
+        ],
+        "base_response": "El repaso espaciado programado organiza momentos de estudio separados por intervalos crecientes. Esto ayuda a que la memoria trabaje de forma eficiente, reforzando lo aprendido antes de olvidarlo. Los estudiantes pueden mejorar su retencion si siguen un calendario claro y constante."
+    },
+    {
+        "intent_id": "curva_olvido_controlada",
+        "keywords": [
+            "olvido",
+            "memoria",
+            "repaso",
+            "recordar",
+            "estudiar"
+        ],
+        "base_response": "La curva del olvido muestra como la informacion se pierde con el tiempo si no se repasa. Programar repasos en momentos estrategicos permite recuperar lo aprendido y fortalecer la memoria. Los estudiantes pueden usar esta tecnica para mantener conocimientos importantes por mas tiempo."
+    },
+    {
+        "intent_id": "tarjetas_repaso_espaciado",
+        "keywords": [
+            "tarjetas",
+            "repaso",
+            "memoria",
+            "recordar",
+            "aprender"
+        ],
+        "base_response": "Las tarjetas de estudio funcionan muy bien con repaso espaciado. Cada tarjeta se revisa en intervalos crecientes, reforzando conceptos clave. Los estudiantes pueden organizar sus tarjetas por dificultad y frecuencia, logrando una practica mas efectiva y duradera en su aprendizaje diario."
+    },
+    {
+        "intent_id": "agenda_repasos_programados",
+        "keywords": [
+            "agenda",
+            "repasos",
+            "memoria",
+            "recordar",
+            "aprender"
+        ],
+        "base_response": "Crear una agenda con fechas exactas para repasar ayuda a mantener disciplina. Los estudiantes pueden anotar cuando estudiar cada tema y seguir el plan sin saltarse intervalos. Esta organizacion mejora la retencion y evita estudiar todo de golpe antes de un examen."
+    },
+    {
+        "intent_id": "microestudio_intervalos",
+        "keywords": [
+            "microestudio",
+            "repaso",
+            "memoria",
+            "recordar",
+            "aprender"
+        ],
+        "base_response": "El microestudio consiste en sesiones muy cortas distribuidas en varios dias. Con repaso espaciado, estas sesiones se vuelven mas efectivas porque refuerzan la memoria sin cansar. Los estudiantes pueden dedicar pocos minutos diarios y obtener resultados sorprendentes en su aprendizaje."
+    },
+    {
+        "intent_id": "autoevaluacion_espaciada",
+        "keywords": [
+            "autoevaluacion",
+            "repaso",
+            "memoria",
+            "recordar",
+            "aprender"
+        ],
+        "base_response": "La autoevaluacion espaciada permite comprobar que conocimientos siguen firmes y cuales necesitan refuerzo. Los estudiantes pueden realizar pequeñas pruebas en intervalos programados. Esto ayuda a identificar dificultades y ajustar el ritmo de estudio para mejorar la retencion general."
+    },
+    {
+        "intent_id": "rutinas_repaso_diario",
+        "keywords": [
+            "rutinas",
+            "repaso",
+            "memoria",
+            "recordar",
+            "aprender"
+        ],
+        "base_response": "Las rutinas de repaso diario integran intervalos cortos y constantes. Los estudiantes revisan contenidos previamente vistos para fortalecer la memoria. Con el tiempo, esta practica crea habitos solidos que facilitan recordar informacion importante sin necesidad de estudiar grandes cantidades."
+    },
+    {
+        "intent_id": "retencion_inmediata_basica",
+        "keywords": [
+            "memoria",
+            "retencion",
+            "informacion",
+            "procesamiento",
+            "recordar"
+        ],
+        "base_response": "La memoria a corto plazo guarda poca informacion durante unos segundos. Permite recordar datos inmediatos, como instrucciones breves o numeros pequeños. Funciona como un espacio temporal que ayuda a procesar ideas antes de decidir si deben conservarse por mas tiempo."
+    },
+    {
+        "intent_id": "capacidad_limitada_elementos",
+        "keywords": [
+            "memoria",
+            "elementos",
+            "recordar",
+            "procesar",
+            "almacenar"
+        ],
+        "base_response": "La memoria a corto plazo solo puede manejar unos pocos elementos a la vez. Cuando intentas recordar demasiados datos, algunos se pierden rapidamente. Comprender esta limitacion ayuda a organizar mejor la informacion para evitar confusiones y mejorar el aprendizaje diario."
+    },
+    {
+        "intent_id": "repeticion_para_refuerzo",
+        "keywords": [
+            "repeticion",
+            "memoria",
+            "refuerzo",
+            "recordar",
+            "practicar"
+        ],
+        "base_response": "Repetir informacion varias veces fortalece la memoria a corto plazo. Cada repeticion ayuda a que los datos permanezcan activos por mas tiempo. Este proceso permite que ciertos contenidos pasen a la memoria a largo plazo, facilitando el estudio y la comprension escolar."
+    },
+    {
+        "intent_id": "interferencia_por_distraccion",
+        "keywords": [
+            "distraccion",
+            "interferencia",
+            "memoria",
+            "recordar",
+            "procesar"
+        ],
+        "base_response": "Las distracciones pueden bloquear la memoria a corto plazo. Cuando aparece ruido o interrupcion, la informacion reciente se pierde con facilidad. Reconocer estas interferencias permite crear ambientes tranquilos que ayudan a concentrarse y mantener los datos importantes disponibles."
+    },
+    {
+        "intent_id": "uso_en_tareas_diarias",
+        "keywords": [
+            "memoria",
+            "tareas",
+            "recordar",
+            "informacion",
+            "procesar"
+        ],
+        "base_response": "La memoria a corto plazo participa en actividades cotidianas como seguir instrucciones, resolver ejercicios y recordar pasos breves. Funciona como un asistente mental que mantiene datos esenciales mientras realizas acciones, permitiendo completar tareas sin olvidar detalles importantes."
+    },
+    {
+        "intent_id": "transformacion_a_memoria_larga",
+        "keywords": [
+            "memoria",
+            "transformacion",
+            "recordar",
+            "informacion",
+            "procesar"
+        ],
+        "base_response": "La memoria a corto plazo puede convertir informacion en recuerdos duraderos. Cuando prestas atencion y practicas, los datos temporales se vuelven estables. Este proceso es fundamental para aprender conceptos nuevos y conservar conocimientos que necesitaras en el futuro escolar."
+    },
+    {
+        "intent_id": "ejercicios_de_entrenamiento",
+        "keywords": [
+            "ejercicios",
+            "memoria",
+            "recordar",
+            "practicar",
+            "procesar"
+        ],
+        "base_response": "Existen ejercicios que fortalecen la memoria a corto plazo, como repetir secuencias, ordenar numeros o recordar palabras. Estas actividades entrenan la mente para mantener informacion reciente. Practicarlas mejora la concentracion y facilita el aprendizaje en distintas materias escolares."
+    },
+    {
+        "intent_id": "consolidacion_recuerdos_diarios",
+        "keywords": [
+            "recuerdo",
+            "informacion",
+            "procesamiento",
+            "almacenamiento",
+            "repaso"
+        ],
+        "base_response": "La memoria a largo plazo guarda información importante durante mucho tiempo. Para fortalecerla, los estudiantes pueden repasar lo aprendido cada día, relacionar ideas nuevas con experiencias previas y practicar explicaciones propias. Estos hábitos ayudan a consolidar recuerdos duraderos y útiles."
+    },
+    {
+        "intent_id": "asociacion_significados_personales",
+        "keywords": [
+            "asociacion",
+            "significado",
+            "comprension",
+            "conexion",
+            "aprendizaje"
+        ],
+        "base_response": "La memoria a largo plazo mejora cuando conectamos conceptos con experiencias personales. Al relacionar ideas con emociones, actividades o ejemplos cercanos, el cerebro crea rutas más fuertes. Esta estrategia facilita recordar información compleja y aplicar conocimientos en situaciones nuevas."
+    },
+    {
+        "intent_id": "organizacion_en_mapas_mentales",
+        "keywords": [
+            "organizacion",
+            "mapas",
+            "conceptos",
+            "estructura",
+            "recordar"
+        ],
+        "base_response": "Los mapas mentales ayudan a ordenar información para la memoria a largo plazo. Al colocar ideas principales en el centro y añadir detalles alrededor, los estudiantes visualizan relaciones claras. Esta estructura facilita recordar temas amplios y comprender mejor los contenidos escolares."
+    },
+    {
+        "intent_id": "practica_de_recuperacion_activa",
+        "keywords": [
+            "practica",
+            "recuperacion",
+            "recordar",
+            "preguntas",
+            "memoria"
+        ],
+        "base_response": "La recuperación activa consiste en intentar recordar información sin verla. Hacer preguntas, explicar temas en voz alta o escribir lo aprendido fortalece la memoria a largo plazo. Este método entrena al cerebro para acceder a datos importantes con mayor rapidez y precisión."
+    },
+    {
+        "intent_id": "espaciado_de_estudio_programado",
+        "keywords": [
+            "estudio",
+            "espaciado",
+            "repeticion",
+            "tiempo",
+            "memoria"
+        ],
+        "base_response": "El estudio espaciado divide la práctica en varios momentos separados. En lugar de repetir todo en un día, los estudiantes revisan la información en intervalos. Este método mejora la memoria a largo plazo porque permite que el cerebro consolide conocimientos de manera gradual y efectiva."
+    },
+    {
+        "intent_id": "uso_de_imagenes_para_recordar",
+        "keywords": [
+            "imagen",
+            "visualizacion",
+            "concepto",
+            "memoria",
+            "recordar"
+        ],
+        "base_response": "Las imágenes facilitan que la memoria a largo plazo retenga información. Al transformar ideas en dibujos, símbolos o escenas mentales, los estudiantes crean representaciones claras. Estas representaciones ayudan a recordar datos complejos y comprender mejor los contenidos escolares."
+    },
+    {
+        "intent_id": "creacion_de_historias_mnemotecnicas",
+        "keywords": [
+            "historia",
+            "mnemotecnia",
+            "recordar",
+            "conceptos",
+            "memoria"
+        ],
+        "base_response": "Las historias mnemotécnicas convierten conceptos en relatos fáciles de recordar. Al unir ideas con personajes, acciones o situaciones imaginarias, los estudiantes fortalecen la memoria a largo plazo. Este método hace que la información sea más atractiva y sencilla de recuperar después."
+    },
+    {
+        "intent_id": "orden_visual_personalizado",
+        "keywords": [
+            "organizacion",
+            "colores",
+            "materiales",
+            "clasificacion",
+            "etiquetas"
+        ],
+        "base_response": "Un ambiente con orden visual ayuda a que los estudiantes identifiquen materiales rapidamente. Usar colores y etiquetas claras reduce distracciones y mejora la concentracion. La clasificacion consistente permite recordar ubicaciones y facilita comenzar actividades sin perder tiempo buscando recursos importantes."
+    },
+    {
+        "intent_id": "iluminacion_equilibrada_estudio",
+        "keywords": [
+            "iluminacion",
+            "luz",
+            "lectura",
+            "comodidad",
+            "enfoque"
+        ],
+        "base_response": "La iluminacion equilibrada evita fatiga visual y mejora el enfoque. Combinar luz natural con una lampara ajustable permite leer comodamente y mantener la atencion. Una zona bien iluminada reduce errores y ayuda a completar tareas con mayor precision, especialmente en actividades que requieren detalle constante."
+    },
+    {
+        "intent_id": "control_sonido_productivo",
+        "keywords": [
+            "sonido",
+            "ruido",
+            "concentracion",
+            "escucha",
+            "enfoque"
+        ],
+        "base_response": "Controlar el sonido del entorno favorece la concentracion. Reducir ruidos fuertes y mantener un nivel estable de silencio ayuda a escuchar instrucciones y pensar con claridad. Un ambiente auditivo estable permite avanzar en tareas complejas sin interrupciones que afecten el ritmo de estudio diario."
+    },
+    {
+        "intent_id": "espacio_personal_constante",
+        "keywords": [
+            "espacio",
+            "rutina",
+            "estudio",
+            "comodidad",
+            "enfoque"
+        ],
+        "base_response": "Tener un espacio personal constante crea una rutina de estudio efectiva. La familiaridad del lugar aumenta la comodidad y facilita el enfoque. Mantener siempre los mismos elementos disponibles permite iniciar actividades rapidamente y desarrollar habitos positivos que fortalecen la autonomia academica."
+    },
+    {
+        "intent_id": "herramientas_accesibles_inmediatas",
+        "keywords": [
+            "herramientas",
+            "acceso",
+            "materiales",
+            "organizacion",
+            "uso"
+        ],
+        "base_response": "Disponer de herramientas accesibles evita interrupciones innecesarias. Cuando los materiales estan al alcance, los estudiantes mantienen el ritmo de trabajo y aprovechan mejor el tiempo. La organizacion inmediata facilita resolver dudas rapidamente y continuar actividades sin perder la concentracion adquirida."
+    },
+    {
+        "intent_id": "postura_saludable_sostenida",
+        "keywords": [
+            "postura",
+            "espalda",
+            "comodidad",
+            "movimiento",
+            "equilibrio"
+        ],
+        "base_response": "Una postura saludable sostenida mejora la comodidad y previene molestias. Ajustar la silla y mantener la espalda recta ayuda a conservar energia durante el estudio. Un equilibrio adecuado entre estabilidad y movimiento ligero favorece la atencion continua en tareas prolongadas y exigentes."
+    },
+    {
+        "intent_id": "microdescansos_planificados",
+        "keywords": [
+            "descanso",
+            "pausa",
+            "respiracion",
+            "movimiento",
+            "recuperacion"
+        ],
+        "base_response": "Los microdescansos planificados permiten recuperar energia sin perder el ritmo. Breves pausas de respiracion o movimiento reducen la fatiga y mejoran la claridad mental. Integrar descansos cortos en la rutina ayuda a mantener motivacion y completar actividades con mayor precision y constancia."
+    },
+    {
+        "intent_id": "luz_direccion_estudio",
+        "keywords": [
+            "luz",
+            "direccion",
+            "lectura",
+            "concentracion",
+            "estudio"
+        ],
+        "base_response": "La direccion de la luz influye en la claridad visual al estudiar. Cuando la iluminacion llega desde arriba o ligeramente desde un lado, reduce sombras molestas y facilita la lectura. Esta configuracion ayuda a mantener la concentracion y evita esfuerzos innecesarios en los ojos durante tareas prolongadas."
+    },
+    {
+        "intent_id": "contraste_visual_textos",
+        "keywords": [
+            "contraste",
+            "textos",
+            "lectura",
+            "claridad",
+            "vision"
+        ],
+        "base_response": "El contraste adecuado entre la luz y los textos mejora la claridad visual. Una iluminacion equilibrada evita que las letras se vean borrosas o demasiado brillantes. Mantener este contraste ayuda a los estudiantes a leer con mayor comodidad y a comprender mejor la informacion presentada en sus materiales."
+    },
+    {
+        "intent_id": "temperatura_color_tareas",
+        "keywords": [
+            "temperatura",
+            "color",
+            "tareas",
+            "enfoque",
+            "vision"
+        ],
+        "base_response": "La temperatura de color influye en el enfoque durante las tareas. Tonos frios favorecen la atencion y ayudan a mantener la mente activa. Elegir una luz con temperatura adecuada permite a los estudiantes trabajar con mayor precision y reduce la fatiga visual en actividades prolongadas."
+    },
+    {
+        "intent_id": "evitar_sombras_mano",
+        "keywords": [
+            "sombras",
+            "mano",
+            "escritura",
+            "luz",
+            "claridad"
+        ],
+        "base_response": "Evitar sombras producidas por la mano al escribir mejora la claridad del trabajo. Colocar la luz en un angulo que no genere sombras molestas facilita la escritura y la lectura. Esta practica ayuda a los estudiantes a mantener un ritmo constante y a evitar distracciones innecesarias."
+    },
+    {
+        "intent_id": "iluminacion_ambiente_equilibrada",
+        "keywords": [
+            "iluminacion",
+            "ambiente",
+            "equilibrio",
+            "lectura",
+            "comodidad"
+        ],
+        "base_response": "Una iluminacion ambiente equilibrada evita contrastes extremos entre la luz del escritorio y el resto del espacio. Este equilibrio reduce la tension ocular y permite una lectura mas comoda. Los estudiantes pueden concentrarse mejor cuando el entorno luminoso es uniforme y agradable."
+    },
+    {
+        "intent_id": "reflejos_superficie_estudio",
+        "keywords": [
+            "reflejos",
+            "superficie",
+            "estudio",
+            "luz",
+            "comodidad"
+        ],
+        "base_response": "Los reflejos en la superficie de estudio pueden distraer y dificultar la lectura. Ajustar la posicion de la luz o elegir materiales menos reflectantes ayuda a minimizar este problema. Con menos reflejos, los estudiantes mantienen la comodidad visual y mejoran su rendimiento en tareas academicas."
+    },
+    {
+        "intent_id": "rutina_encendido_lampara",
+        "keywords": [
+            "rutina",
+            "lampara",
+            "encendido",
+            "estudio",
+            "enfoque"
+        ],
+        "base_response": "Crear una rutina de encender la lampara antes de estudiar prepara el cerebro para concentrarse. Este habito establece un ambiente constante y adecuado para el aprendizaje. Con una iluminacion estable, los estudiantes pueden enfocarse mejor y desarrollar una mayor disciplina en sus actividades diarias."
+    },
+    {
+        "intent_id": "alineacion_espalda_estudio",
+        "keywords": [
+            "espalda",
+            "alineacion",
+            "estudio",
+            "sentar",
+            "mantener"
+        ],
+        "base_response": "Mantener la espalda alineada evita tensiones y mejora la concentracion. Al sentarte, asegúrate de que tu columna permanezca recta y relajada. Esta postura ayuda a respirar mejor, reduce molestias y permite que tu mente se enfoque en las tareas escolares con mayor comodidad."
+    },
+    {
+        "intent_id": "altura_mesa_silla_correcta",
+        "keywords": [
+            "mesa",
+            "silla",
+            "altura",
+            "estudiar",
+            "ajustar"
+        ],
+        "base_response": "La altura adecuada de mesa y silla facilita una postura equilibrada. Ajusta ambos para que tus brazos descansen cómodamente y tus pies toquen el suelo. Esta configuracion evita dolores y te permite concentrarte en tus actividades escolares sin distracciones fisicas."
+    },
+    {
+        "intent_id": "posicion_pies_estables",
+        "keywords": [
+            "pies",
+            "posicion",
+            "estabilidad",
+            "apoyar",
+            "estudiar"
+        ],
+        "base_response": "Colocar los pies firmes en el suelo proporciona estabilidad al estudiar. Mantenerlos apoyados ayuda a distribuir el peso del cuerpo y evita movimientos incomodos. Esta postura favorece la atencion, mejora la circulacion y permite trabajar con mayor comodidad y seguridad."
+    },
+    {
+        "intent_id": "distancia_ojos_cuadernos",
+        "keywords": [
+            "ojos",
+            "cuadernos",
+            "distancia",
+            "leer",
+            "evitar"
+        ],
+        "base_response": "Mantener una distancia adecuada entre ojos y cuadernos evita fatiga visual. Al leer, procura que el material esté a una distancia que permita ver claramente sin inclinar demasiado la cabeza. Esta practica mejora la postura y protege la salud ocular durante el estudio."
+    },
+    {
+        "intent_id": "colocacion_brazos_escritura",
+        "keywords": [
+            "brazos",
+            "colocacion",
+            "escritura",
+            "apoyar",
+            "estudiar"
+        ],
+        "base_response": "Apoyar los brazos correctamente facilita la escritura y reduce tensiones. Mantén los antebrazos sobre la mesa sin elevar los hombros. Esta posicion permite mover las manos con fluidez, mejora la postura y ayuda a mantener la concentracion durante las actividades escolares."
+    },
+    {
+        "intent_id": "evitar_inclinacion_excesiva",
+        "keywords": [
+            "inclinacion",
+            "evitar",
+            "cabeza",
+            "estudiar",
+            "mantener"
+        ],
+        "base_response": "Evitar inclinar demasiado la cabeza previene molestias en cuello y espalda. Mantenerla erguida permite una mejor alineacion corporal y facilita la lectura. Esta postura ayuda a conservar energia, mejora la atencion y favorece un estudio mas saludable y eficiente."
+    },
+    {
+        "intent_id": "uso_respaldo_silla",
+        "keywords": [
+            "respaldo",
+            "silla",
+            "uso",
+            "apoyar",
+            "estudiar"
+        ],
+        "base_response": "Utilizar el respaldo de la silla brinda soporte a la columna y mejora la postura. Apoyar la espalda permite relajarse sin perder estabilidad. Esta practica reduce la fatiga, favorece la concentracion y ayuda a mantener una posicion adecuada durante el estudio prolongado."
+    },
+    {
+        "intent_id": "ritmos_para_enfocar",
+        "keywords": [
+            "ritmo",
+            "melodia",
+            "concentracion",
+            "estudio",
+            "escucha"
+        ],
+        "base_response": "Los ritmos suaves y repetitivos ayudan a que el cerebro mantenga una atencion constante. Al evitar cambios bruscos, la musica crea un ambiente estable que facilita el enfoque. Elegir melodias tranquilas permite estudiar con mayor calma y mejorar la retencion de informacion."
+    },
+    {
+        "intent_id": "sonidos_binaurales_basicos",
+        "keywords": [
+            "sonido",
+            "frecuencia",
+            "escucha",
+            "enfoque",
+            "aprendizaje"
+        ],
+        "base_response": "Los sonidos binaurales usan dos frecuencias distintas para estimular la concentracion. Funcionan mejor con auriculares y ayudan a reducir distracciones. Para estudiantes, pueden ser una herramienta util cuando necesitan mantener la mente enfocada durante tareas largas o ejercicios de lectura."
+    },
+    {
+        "intent_id": "musica_instrumental_sin_letras",
+        "keywords": [
+            "instrumental",
+            "melodia",
+            "concentracion",
+            "estudio",
+            "escucha"
+        ],
+        "base_response": "La musica instrumental sin letras evita que el cerebro procese palabras adicionales, lo que facilita la concentracion. Las melodias suaves permiten trabajar de manera continua y estable. Es especialmente util para actividades que requieren lectura, escritura o resolucion de problemas."
+    },
+    {
+        "intent_id": "paisajes_sonoros_naturales",
+        "keywords": [
+            "sonido",
+            "naturaleza",
+            "relajacion",
+            "enfoque",
+            "escucha"
+        ],
+        "base_response": "Los paisajes sonoros como lluvia o viento generan una sensacion de calma que favorece la concentracion. Estos sonidos constantes ayudan a bloquear ruidos molestos y permiten estudiar con mayor tranquilidad. Son ideales para momentos en los que se necesita estabilidad emocional."
+    },
+    {
+        "intent_id": "ritmos_lofi_para_tareas",
+        "keywords": [
+            "lofi",
+            "ritmo",
+            "estudio",
+            "concentracion",
+            "escucha"
+        ],
+        "base_response": "El estilo lofi combina ritmos lentos y melodias suaves que facilitan el enfoque. Su estructura repetitiva ayuda a mantener la mente en una actividad concreta. Es una opcion popular entre estudiantes que buscan un ambiente relajado para completar tareas escolares sin distracciones."
+    },
+    {
+        "intent_id": "musica_clasica_para_memoria",
+        "keywords": [
+            "clasica",
+            "melodia",
+            "memoria",
+            "estudio",
+            "concentracion"
+        ],
+        "base_response": "La musica clasica, especialmente piezas con tempo moderado, puede mejorar la memoria y la atencion. Sus patrones armonicos ayudan al cerebro a organizar ideas con mayor claridad. Es una herramienta util para estudiar conceptos complejos o preparar examenes importantes."
+    },
+    {
+        "intent_id": "sonidos_ambientales_para_lectura",
+        "keywords": [
+            "sonido",
+            "ambiente",
+            "lectura",
+            "concentracion",
+            "escucha"
+        ],
+        "base_response": "Los sonidos ambientales, como murmullo suave o ruido blanco, crean un entorno estable para la lectura. Ayudan a reducir distracciones externas y permiten mantener el ritmo lector. Son especialmente utiles cuando se necesita comprender textos largos o estudiar en lugares ruidosos."
+    },
+    {
+        "intent_id": "movimiento_microdescanso",
+        "keywords": [
+            "estiramientos",
+            "respiracion",
+            "movimiento",
+            "relajacion",
+            "coordinacion"
+        ],
+        "base_response": "Los microdescansos incorporan breves movimientos que ayudan a liberar tension acumulada. Permiten reactivar la concentracion mediante estiramientos simples y respiracion controlada. Son ideales para evitar cansancio mental y mejorar la coordinacion durante actividades escolares prolongadas."
+    },
+    {
+        "intent_id": "pausa_sensorial_guiada",
+        "keywords": [
+            "observacion",
+            "escucha",
+            "respiracion",
+            "atencion",
+            "percepcion"
+        ],
+        "base_response": "La pausa sensorial guiada invita a enfocar la atencion en sonidos, colores o texturas cercanas. Este ejercicio fortalece la percepcion consciente y reduce distracciones. Es util para recuperar calma, mejorar la memoria inmediata y preparar la mente para nuevas tareas academicas."
+    },
+    {
+        "intent_id": "descanso_cognitivo_expresivo",
+        "keywords": [
+            "dibujar",
+            "imaginar",
+            "crear",
+            "explorar",
+            "reflexionar"
+        ],
+        "base_response": "El descanso cognitivo expresivo propone actividades breves como dibujar o imaginar escenas. Estas acciones permiten liberar carga mental y estimular creatividad. Facilitan reorganizar ideas, mejorar la reflexion y retomar el estudio con mayor claridad y motivacion."
+    },
+    {
+        "intent_id": "pausa_motriz_energizante",
+        "keywords": [
+            "saltar",
+            "caminar",
+            "mover",
+            "equilibrar",
+            "coordinar"
+        ],
+        "base_response": "La pausa motriz energizante utiliza movimientos rapidos y controlados para activar el cuerpo. Ayuda a mejorar equilibrio, coordinacion y circulacion. Es especialmente efectiva cuando aparece somnolencia o baja energia, permitiendo retomar actividades escolares con mayor dinamismo."
+    },
+    {
+        "intent_id": "microrelajacion_postural",
+        "keywords": [
+            "enderezar",
+            "respirar",
+            "relajar",
+            "estirar",
+            "alinear"
+        ],
+        "base_response": "La microrelajacion postural corrige la posicion del cuerpo mediante estiramientos suaves y respiracion profunda. Reduce molestias por largas horas sentado y mejora la alineacion corporal. Favorece la comodidad y aumenta la capacidad de concentrarse en tareas academicas."
+    },
+    {
+        "intent_id": "pausa_reflexiva_breve",
+        "keywords": [
+            "pensar",
+            "recordar",
+            "analizar",
+            "organizar",
+            "evaluar"
+        ],
+        "base_response": "La pausa reflexiva breve permite detenerse para analizar lo aprendido y organizar ideas. Ayuda a evaluar avances y detectar dudas. Este tipo de descanso fortalece la memoria, mejora la comprension y facilita continuar el estudio con mayor claridad."
+    },
+    {
+        "intent_id": "descanso_ludico_rapido",
+        "keywords": [
+            "jugar",
+            "resolver",
+            "imaginar",
+            "crear",
+            "explorar"
+        ],
+        "base_response": "El descanso ludico rapido incorpora juegos mentales o retos simples que estimulan creatividad y pensamiento flexible. Permite liberar tension, mejorar animo y reactivar la atencion. Es ideal para retomar actividades escolares con mayor motivacion y enfoque."
+    },
+    {
+        "intent_id": "energia_en_clases",
+        "keywords": [
+            "energia",
+            "alimento",
+            "concentracion",
+            "estudio",
+            "rendimiento"
+        ],
+        "base_response": "La energia que obtienes de los alimentos influye directamente en tu concentracion durante las clases. Comer opciones equilibradas antes de estudiar ayuda a mantener la atencion, evitar el cansancio y mejorar el rendimiento general en actividades escolares que requieren esfuerzo mental constante."
+    },
+    {
+        "intent_id": "hidratos_para_deporte",
+        "keywords": [
+            "hidratos",
+            "movimiento",
+            "resistencia",
+            "deporte",
+            "fuerza"
+        ],
+        "base_response": "Los hidratos de carbono proporcionan la energia necesaria para realizar actividades deportivas con mayor resistencia. Consumirlos antes de entrenar permite sostener el esfuerzo fisico, mejorar la fuerza y evitar la fatiga temprana, favoreciendo un mejor desempeño en juegos y competencias escolares."
+    },
+    {
+        "intent_id": "proteinas_recuperacion_muscular",
+        "keywords": [
+            "proteinas",
+            "musculo",
+            "recuperacion",
+            "crecimiento",
+            "actividad"
+        ],
+        "base_response": "Las proteinas ayudan a reparar y construir musculos despues de la actividad fisica. Incluir alimentos ricos en proteinas favorece la recuperacion, reduce molestias y permite mejorar el rendimiento en deportes y juegos, especialmente cuando se practican movimientos repetitivos o ejercicios intensos."
+    },
+    {
+        "intent_id": "hidratacion_y_atencion",
+        "keywords": [
+            "agua",
+            "hidratacion",
+            "concentracion",
+            "aprendizaje",
+            "actividad"
+        ],
+        "base_response": "Mantener una buena hidratacion es esencial para pensar con claridad y aprender mejor. El agua ayuda al cerebro a funcionar adecuadamente, mejora la concentracion y evita el cansancio. Beber suficiente durante el dia favorece el rendimiento en clases y actividades fisicas escolares."
+    },
+    {
+        "intent_id": "desayuno_y_memoria",
+        "keywords": [
+            "desayuno",
+            "memoria",
+            "energia",
+            "estudio",
+            "comprension"
+        ],
+        "base_response": "Un desayuno equilibrado mejora la memoria y la comprension durante el estudio. Proporciona energia estable para comenzar el dia con mayor atencion y motivacion. Saltarlo puede causar distraccion y bajo rendimiento, especialmente en tareas que requieren pensar y recordar informacion importante."
+    },
+    {
+        "intent_id": "snacks_inteligentes",
+        "keywords": [
+            "snacks",
+            "nutricion",
+            "energia",
+            "actividad",
+            "concentracion"
+        ],
+        "base_response": "Elegir snacks nutritivos entre comidas ayuda a mantener la energia y la concentracion. Opciones equilibradas evitan bajones que afectan el rendimiento escolar y fisico. Consumirlos en momentos adecuados favorece la participacion activa en clases, juegos y actividades deportivas diarias."
+    },
+    {
+        "intent_id": "azucares_y_fatiga",
+        "keywords": [
+            "azucar",
+            "fatiga",
+            "energia",
+            "rendimiento",
+            "actividad"
+        ],
+        "base_response": "El consumo excesivo de azucar puede causar subidas rapidas de energia seguidas de fatiga. Esto afecta la atencion y el rendimiento en actividades escolares. Elegir alimentos con azucares naturales ayuda a mantener niveles estables y mejorar la participacion en clases y deportes."
+    },
+    {
+        "intent_id": "ciclo_sueno_salud",
+        "keywords": [
+            "sueno",
+            "cerebro",
+            "energia",
+            "crecimiento",
+            "descanso"
+        ],
+        "base_response": "El sueño nocturno permite que el cerebro procese información, recupere energía y apoye el crecimiento físico. Dormir bien ayuda a mejorar la concentración, la memoria y el estado de ánimo. Sin suficiente descanso, el cuerpo funciona peor y aprender se vuelve más difícil."
+    },
+    {
+        "intent_id": "memoria_consolidacion_nocturna",
+        "keywords": [
+            "memoria",
+            "aprendizaje",
+            "sueno",
+            "procesos",
+            "recordar"
+        ],
+        "base_response": "Durante el sueño nocturno, el cerebro organiza y fortalece lo aprendido durante el día. Este proceso mejora la capacidad de recordar datos importantes y resolver problemas. Dormir adecuadamente facilita que los estudiantes mantengan información útil y desarrollen habilidades académicas esenciales."
+    },
+    {
+        "intent_id": "sueno_y_crecimiento_fisico",
+        "keywords": [
+            "crecimiento",
+            "hormonas",
+            "sueno",
+            "cuerpo",
+            "desarrollo"
+        ],
+        "base_response": "Mientras dormimos, el cuerpo libera hormonas que impulsan el crecimiento y la reparación de tejidos. Un sueño nocturno suficiente ayuda a mantener huesos fuertes, músculos sanos y un desarrollo equilibrado. Descansar bien es fundamental para que el organismo funcione correctamente cada día."
+    },
+    {
+        "intent_id": "sueno_emociones_equilibradas",
+        "keywords": [
+            "emociones",
+            "sueno",
+            "control",
+            "estres",
+            "bienestar"
+        ],
+        "base_response": "Dormir bien contribuye a regular las emociones y manejar el estrés. Cuando el sueño es adecuado, resulta más sencillo mantener la calma, tomar decisiones y relacionarse positivamente con otros. Un descanso nocturno apropiado favorece el bienestar emocional y la convivencia escolar."
+    },
+    {
+        "intent_id": "sueno_y_atencion_diaria",
+        "keywords": [
+            "atencion",
+            "sueno",
+            "concentracion",
+            "tareas",
+            "rendimiento"
+        ],
+        "base_response": "El sueño nocturno mejora la atención y la concentración necesarias para realizar tareas escolares. Dormir lo suficiente permite mantener el enfoque durante las clases y actividades. Un buen descanso incrementa el rendimiento académico y facilita la participación activa en el aprendizaje."
+    },
+    {
+        "intent_id": "sueno_sistema_inmune",
+        "keywords": [
+            "inmunidad",
+            "sueno",
+            "defensas",
+            "cuerpo",
+            "proteccion"
+        ],
+        "base_response": "Dormir adecuadamente fortalece el sistema inmune, que protege al cuerpo de enfermedades. Un sueño nocturno suficiente ayuda a mantener las defensas activas y a recuperarse más rápido. Descansar bien reduce el riesgo de infecciones y favorece una vida escolar saludable y estable."
+    },
+    {
+        "intent_id": "rutinas_sueno_saludables",
+        "keywords": [
+            "rutinas",
+            "sueno",
+            "habitos",
+            "descanso",
+            "organizacion"
+        ],
+        "base_response": "Crear rutinas de sueño saludables facilita dormir mejor cada noche. Mantener horarios regulares, evitar pantallas antes de acostarse y preparar un ambiente tranquilo favorecen el descanso. Estas prácticas ayudan a mejorar la energía diaria y el desempeño escolar de manera constante."
+    },
+    {
+        "intent_id": "descubrir_valores_personales",
+        "keywords": [
+            "motivacion",
+            "logro",
+            "esfuerzo",
+            "reflexion",
+            "metas"
+        ],
+        "base_response": "Los estudiantes identifican valores que les importan y relacionan esos valores con sus metas escolares. Comprenden que aprender puede reflejar quiénes desean ser. Este enfoque fortalece la motivación interna al conectar el estudio con aspiraciones personales significativas."
+    },
+    {
+        "intent_id": "crear_retos_autogestionados",
+        "keywords": [
+            "retos",
+            "progreso",
+            "superacion",
+            "constancia",
+            "evaluacion"
+        ],
+        "base_response": "Los estudiantes diseñan pequeños retos académicos que pueden gestionar solos. Observan su progreso y ajustan estrategias cuando es necesario. Esta práctica fomenta autonomía, constancia y satisfacción interna al ver resultados derivados de su propio esfuerzo sostenido."
+    },
+    {
+        "intent_id": "explorar_intereses_academicos",
+        "keywords": [
+            "intereses",
+            "curiosidad",
+            "investigacion",
+            "aprendizaje",
+            "motivacion"
+        ],
+        "base_response": "Los estudiantes investigan temas que despiertan su curiosidad y los conectan con contenidos escolares. Descubren que aprender puede ser emocionante cuando surge de intereses personales. Esto fortalece la motivación interna y promueve una actitud activa hacia el conocimiento."
+    },
+    {
+        "intent_id": "reforzar_identidad_estudiosa",
+        "keywords": [
+            "identidad",
+            "habilidades",
+            "confianza",
+            "aprendizaje",
+            "perseverancia"
+        ],
+        "base_response": "Los estudiantes reconocen habilidades que ya poseen y las relacionan con su identidad como aprendices. Comprenden que la perseverancia fortalece esa identidad. Esta conciencia impulsa la motivación interna al sentirse capaces de enfrentar nuevos desafíos académicos."
+    },
+    {
+        "intent_id": "establecer_metas_significativas",
+        "keywords": [
+            "metas",
+            "motivacion",
+            "planificacion",
+            "logro",
+            "compromiso"
+        ],
+        "base_response": "Los estudiantes crean metas claras y significativas que conectan con sus intereses. Planifican pasos concretos para alcanzarlas y revisan su avance. Este proceso fortalece la motivación interna al ver cómo sus acciones diarias contribuyen a objetivos personales importantes."
+    },
+    {
+        "intent_id": "celebrar_procesos_no_resultados",
+        "keywords": [
+            "proceso",
+            "esfuerzo",
+            "aprendizaje",
+            "refuerzo",
+            "motivacion"
+        ],
+        "base_response": "Los estudiantes aprenden a valorar el proceso de aprendizaje más que los resultados. Reconocen que el esfuerzo constante genera crecimiento. Esta perspectiva fomenta motivación interna porque se enfocan en mejorar cada día sin depender de recompensas externas."
+    },
+    {
+        "intent_id": "conectar_emociones_con_aprendizaje",
+        "keywords": [
+            "emociones",
+            "motivacion",
+            "comprension",
+            "aprendizaje",
+            "autoconocimiento"
+        ],
+        "base_response": "Los estudiantes identifican emociones que surgen al aprender y analizan cómo influyen en su motivación. Comprenden que gestionar esas emociones ayuda a mantener interés y compromiso. Este enfoque promueve autoconocimiento y fortalece la motivación interna."
+    },
+    {
+        "intent_id": "rutinas_de_responsabilidad_diaria",
+        "keywords": [
+            "responsabilidad",
+            "organizacion",
+            "tareas",
+            "cumplimiento",
+            "habitos"
+        ],
+        "base_response": "La responsabilidad diaria implica cumplir tareas escolares con constancia y orden. Los estudiantes aprenden a organizar materiales, respetar tiempos y mantener hábitos que fortalecen su disciplina. Este concepto fomenta autonomía, mejora el rendimiento y ayuda a desarrollar compromiso personal dentro del entorno educativo."
+    },
+    {
+        "intent_id": "gestion_del_tiempo_academico",
+        "keywords": [
+            "planificacion",
+            "priorizar",
+            "estudiar",
+            "evaluar",
+            "organizar"
+        ],
+        "base_response": "La gestion del tiempo academico enseña a distribuir actividades de manera equilibrada. Los estudiantes aprenden a priorizar trabajos, estudiar con anticipacion y evaluar su progreso. Esta habilidad mejora la disciplina diaria, reduce el estres y promueve un aprendizaje constante y ordenado."
+    },
+    {
+        "intent_id": "autocontrol_en_entornos_escolares",
+        "keywords": [
+            "autocontrol",
+            "regular",
+            "comportamiento",
+            "concentracion",
+            "respetar"
+        ],
+        "base_response": "El autocontrol escolar ayuda a los estudiantes a regular emociones y comportamientos. Permite mantener concentracion, respetar normas y evitar distracciones. Practicarlo diariamente fortalece la disciplina, mejora la convivencia y facilita un ambiente adecuado para el aprendizaje continuo."
+    },
+    {
+        "intent_id": "seguimiento_de_objetivos_diarios",
+        "keywords": [
+            "objetivos",
+            "evaluacion",
+            "progreso",
+            "esfuerzo",
+            "logros"
+        ],
+        "base_response": "El seguimiento de objetivos diarios impulsa a los estudiantes a revisar su progreso y ajustar esfuerzos. Establecer metas claras promueve disciplina, constancia y motivacion. Esta practica ayuda a desarrollar habilidades de evaluacion personal y fomenta un aprendizaje mas consciente y estructurado."
+    },
+    {
+        "intent_id": "orden_personal_en_el_aula",
+        "keywords": [
+            "orden",
+            "materiales",
+            "limpieza",
+            "organizar",
+            "cuidar"
+        ],
+        "base_response": "El orden personal en el aula consiste en mantener materiales organizados y espacios limpios. Esta conducta diaria fortalece la disciplina, facilita el trabajo escolar y promueve respeto por el entorno. Practicarlo ayuda a crear ambientes mas armoniosos y eficientes para todos."
+    },
+    {
+        "intent_id": "participacion_respetuosa_constante",
+        "keywords": [
+            "participacion",
+            "escuchar",
+            "dialogar",
+            "respetar",
+            "colaborar"
+        ],
+        "base_response": "La participacion respetuosa constante implica escuchar, dialogar y colaborar con compañeros y docentes. Este habito diario mejora la convivencia, fortalece la disciplina y facilita el aprendizaje. Practicarlo ayuda a construir relaciones positivas y un ambiente escolar mas equilibrado."
+    },
+    {
+        "intent_id": "rutinas_de_autoevaluacion_diaria",
+        "keywords": [
+            "autoevaluacion",
+            "reflexionar",
+            "mejorar",
+            "analizar",
+            "progreso"
+        ],
+        "base_response": "Las rutinas de autoevaluacion diaria permiten reflexionar sobre el propio desempeño y analizar avances. Este proceso fortalece la disciplina, motiva la mejora continua y ayuda a identificar dificultades. Practicarlo desarrolla autonomia y una actitud mas consciente hacia el aprendizaje."
+    },
+    {
+        "intent_id": "metas_diarias_claras",
+        "keywords": [
+            "metas",
+            "progreso",
+            "registro",
+            "motivacion",
+            "evaluacion"
+        ],
+        "base_response": "Los estudiantes aprenden a definir metas diarias pequeñas y medibles que puedan revisar al final de cada jornada. Este enfoque ayuda a mantener la motivacion, observar el progreso constante y ajustar estrategias cuando sea necesario para mejorar su rendimiento escolar de manera organizada."
+    },
+    {
+        "intent_id": "division_de_objetivos",
+        "keywords": [
+            "objetivos",
+            "division",
+            "tareas",
+            "planificacion",
+            "logros"
+        ],
+        "base_response": "Se enseña a dividir un objetivo grande en tareas manejables que puedan completarse en periodos cortos. Esta tecnica reduce la frustracion, facilita la planificacion y permite celebrar logros frecuentes, fortaleciendo la confianza del estudiante en su capacidad para avanzar."
+    },
+    {
+        "intent_id": "metas_academicas_medibles",
+        "keywords": [
+            "metas",
+            "medicion",
+            "estudio",
+            "seguimiento",
+            "resultados"
+        ],
+        "base_response": "Los estudiantes aprenden a establecer metas academicas con criterios claros de medicion, como mejorar calificaciones o aumentar tiempo de estudio. Esto permite evaluar resultados, identificar dificultades y ajustar habitos para lograr avances reales en su aprendizaje escolar."
+    },
+    {
+        "intent_id": "priorizacion_de_tareas",
+        "keywords": [
+            "priorizacion",
+            "tareas",
+            "orden",
+            "progreso",
+            "organizacion"
+        ],
+        "base_response": "Se trabaja la habilidad de ordenar tareas segun su importancia y urgencia, ayudando a los estudiantes a concentrarse en actividades que generan mayor impacto. Esta practica mejora la organizacion, reduce el estres y facilita un progreso constante hacia sus metas escolares."
+    },
+    {
+        "intent_id": "metas_de_habitos_estudio",
+        "keywords": [
+            "habitos",
+            "estudio",
+            "constancia",
+            "rutinas",
+            "mejora"
+        ],
+        "base_response": "Los estudiantes desarrollan metas enfocadas en crear rutinas de estudio consistentes, como leer cada dia o repasar apuntes semanalmente. Estas metas fortalecen la constancia, mejoran la comprension y generan una base solida para alcanzar objetivos academicos mas complejos."
+    },
+    {
+        "intent_id": "evaluacion_reflexiva_personal",
+        "keywords": [
+            "evaluacion",
+            "reflexion",
+            "progreso",
+            "aprendizaje",
+            "autoconocimiento"
+        ],
+        "base_response": "Se promueve que los estudiantes reflexionen sobre su progreso mediante evaluaciones personales regulares. Esta practica fomenta el autoconocimiento, permite reconocer avances y dificultades, y ayuda a ajustar metas escolares para mantener un aprendizaje significativo y sostenido."
+    },
+    {
+        "intent_id": "metas_colaborativas_escolares",
+        "keywords": [
+            "colaboracion",
+            "metas",
+            "equipo",
+            "comunicacion",
+            "responsabilidad"
+        ],
+        "base_response": "Los estudiantes aprenden a crear metas en equipo que requieren comunicacion clara y responsabilidad compartida. Este enfoque fortalece habilidades sociales, fomenta la colaboracion y permite alcanzar objetivos escolares que requieren esfuerzo conjunto y compromiso constante entre compañeros."
+    },
+    {
+        "intent_id": "respiracion_consciente_en_clase",
+        "keywords": [
+            "respiracion",
+            "calma",
+            "control",
+            "estres",
+            "concentracion"
+        ],
+        "base_response": "La respiracion consciente ayuda a reducir la tension escolar mediante inhalaciones lentas y exhalaciones profundas. Los estudiantes pueden usarla antes de examenes o tareas dificiles para recuperar calma, mejorar la concentracion y sentirse mas seguros al enfrentar desafios academicos sin sentirse abrumados."
+    },
+    {
+        "intent_id": "microdescansos_mentales_diarios",
+        "keywords": [
+            "pausa",
+            "relajacion",
+            "pensamiento",
+            "control",
+            "estres"
+        ],
+        "base_response": "Los microdescansos mentales consisten en breves pausas para relajar la mente durante la jornada escolar. Permiten disminuir el estres acumulado, mejorar la claridad mental y evitar la saturacion. Son utiles entre clases exigentes para mantener energia y equilibrio emocional."
+    },
+    {
+        "intent_id": "organizacion_visual_de_tareas",
+        "keywords": [
+            "organizacion",
+            "planificacion",
+            "tareas",
+            "orden",
+            "control"
+        ],
+        "base_response": "La organizacion visual de tareas ayuda a los estudiantes a dividir actividades escolares en pasos claros. Esto reduce la ansiedad al mostrar avances concretos y evitar acumulaciones. Facilita priorizar, mantener orden y comprender que el progreso ocurre de manera gradual y manejable."
+    },
+    {
+        "intent_id": "dialogo_interno_positivo",
+        "keywords": [
+            "pensamiento",
+            "motivacion",
+            "confianza",
+            "control",
+            "calma"
+        ],
+        "base_response": "El dialogo interno positivo enseña a reemplazar pensamientos negativos por mensajes motivadores. Ayuda a los estudiantes a enfrentar examenes, trabajos y retos con mayor confianza. Reduce el estres al recordarles que pueden aprender, mejorar y manejar situaciones complicadas con serenidad."
+    },
+    {
+        "intent_id": "tecnica_del_espacio_seguro",
+        "keywords": [
+            "visualizacion",
+            "calma",
+            "control",
+            "relajacion",
+            "seguridad"
+        ],
+        "base_response": "La tecnica del espacio seguro utiliza la imaginacion para crear un lugar mental tranquilo. Los estudiantes pueden recurrir a este recurso cuando sienten presion escolar. Favorece la relajacion, disminuye la tension y permite recuperar estabilidad emocional antes de continuar con sus actividades."
+    },
+    {
+        "intent_id": "rutinas_previas_a_examenes",
+        "keywords": [
+            "preparacion",
+            "estudio",
+            "calma",
+            "control",
+            "concentracion"
+        ],
+        "base_response": "Las rutinas previas a examenes ayudan a reducir el estres mediante pasos repetidos que generan seguridad. Incluyen revisar apuntes, organizar materiales y practicar respiracion. Estas acciones fortalecen la concentracion y permiten enfrentar evaluaciones con mayor tranquilidad y confianza personal."
+    },
+    {
+        "intent_id": "gestion_emocional_en_conflictos",
+        "keywords": [
+            "emociones",
+            "dialogo",
+            "control",
+            "comprension",
+            "calma"
+        ],
+        "base_response": "La gestion emocional en conflictos escolares enseña a identificar sentimientos intensos y responder con calma. Los estudiantes aprenden a expresar inquietudes sin reaccionar impulsivamente. Esto reduce estres, mejora la convivencia y facilita resolver desacuerdos de manera respetuosa y equilibrada."
+    },
+    {
+        "intent_id": "micro_tareas_inmediatas",
+        "keywords": [
+            "tareas",
+            "division",
+            "avance",
+            "motivacion",
+            "progreso"
+        ],
+        "base_response": "Dividir una actividad grande en micro tareas ayuda a evitar la procrastinacion porque cada paso parece manejable. Al completar pequeñas partes, el estudiante siente progreso inmediato, aumenta su motivacion y reduce la sensacion de agobio que suele frenar el inicio del trabajo."
+    },
+    {
+        "intent_id": "temporizador_de_enfoque",
+        "keywords": [
+            "temporizador",
+            "enfoque",
+            "trabajo",
+            "descanso",
+            "control"
+        ],
+        "base_response": "Usar un temporizador para trabajar en intervalos breves permite concentrarse sin distracciones. El estudiante sabe que tendra descansos programados, lo cual reduce la ansiedad y facilita iniciar tareas. Esta tecnica ayuda a mantener control del tiempo y evitar retrasos innecesarios."
+    },
+    {
+        "intent_id": "ritual_de_inicio",
+        "keywords": [
+            "ritual",
+            "inicio",
+            "preparacion",
+            "concentracion",
+            "accion"
+        ],
+        "base_response": "Crear un pequeño ritual antes de estudiar, como ordenar el escritorio o respirar profundamente, ayuda a preparar la mente. Este habito indica que es momento de concentrarse, facilita la accion inmediata y reduce la tendencia a posponer actividades escolares importantes."
+    },
+    {
+        "intent_id": "lista_de_prioridades_diarias",
+        "keywords": [
+            "lista",
+            "prioridades",
+            "organizacion",
+            "tareas",
+            "cumplimiento"
+        ],
+        "base_response": "Elaborar una lista de prioridades diarias permite visualizar claramente las tareas esenciales. Al tener un orden definido, el estudiante evita confusiones y comienza por lo mas importante. Esta estrategia fomenta disciplina, mejora la organizacion y reduce la procrastinacion escolar."
+    },
+    {
+        "intent_id": "bloques_de_estudio_sin_pantallas",
+        "keywords": [
+            "bloques",
+            "estudio",
+            "pantallas",
+            "concentracion",
+            "avance"
+        ],
+        "base_response": "Establecer bloques de estudio sin pantallas disminuye distracciones digitales. El estudiante se concentra mejor y avanza mas rapido en sus tareas. Al notar resultados concretos, se siente motivado para continuar y evita retrasar actividades que requieren atencion constante."
+    },
+    {
+        "intent_id": "metas_pequenas_con_recompensas",
+        "keywords": [
+            "metas",
+            "recompensas",
+            "motivacion",
+            "logros",
+            "constancia"
+        ],
+        "base_response": "Definir metas pequenas con recompensas ayuda a mantener la motivacion. Cada logro genera sensacion de exito y refuerza la constancia. Este metodo convierte tareas largas en desafios alcanzables, disminuye la frustracion y reduce la tendencia a posponer responsabilidades escolares."
+    },
+    {
+        "intent_id": "registro_de_progreso_personal",
+        "keywords": [
+            "registro",
+            "progreso",
+            "seguimiento",
+            "motivacion",
+            "habitos"
+        ],
+        "base_response": "Llevar un registro de progreso personal permite observar avances reales. Al revisar el seguimiento, el estudiante reconoce sus esfuerzos y fortalece habitos positivos. Esta practica aumenta la motivacion, facilita iniciar tareas y reduce significativamente la procrastinacion diaria."
+    },
+    {
+        "intent_id": "roles_equilibrados_equipo",
+        "keywords": [
+            "roles",
+            "equipo",
+            "cooperacion",
+            "organizacion",
+            "responsabilidad"
+        ],
+        "base_response": "Comprender que cada integrante cumple un rol específico permite equilibrar tareas y evitar confusiones. Identificar habilidades individuales ayuda a asignar funciones adecuadas. Cuando todos respetan sus responsabilidades, el grupo trabaja con mayor orden, confianza y eficiencia, logrando resultados compartidos."
+    },
+    {
+        "intent_id": "escucha_activa_dialogo",
+        "keywords": [
+            "escucha",
+            "dialogo",
+            "comprension",
+            "participacion",
+            "comunicacion"
+        ],
+        "base_response": "Practicar la escucha activa implica prestar atención real a las ideas de otros, sin interrumpir. Esta habilidad fortalece la comunicacion y reduce malentendidos. Al dialogar con respeto, cada miembro se siente valorado y participa con mayor seguridad, mejorando la calidad del trabajo grupal."
+    },
+    {
+        "intent_id": "resolucion_conflictos_pacifica",
+        "keywords": [
+            "conflictos",
+            "resolucion",
+            "dialogo",
+            "acuerdos",
+            "colaboracion"
+        ],
+        "base_response": "Los conflictos pueden surgir en cualquier grupo, pero resolverlos pacificamente requiere escuchar, comprender y negociar. Buscar acuerdos razonables evita tensiones y mantiene la armonia. Cuando todos colaboran para encontrar soluciones, el equipo avanza con mayor confianza y compromiso."
+    },
+    {
+        "intent_id": "planificacion_tareas_conjuntas",
+        "keywords": [
+            "planificacion",
+            "tareas",
+            "objetivos",
+            "coordinacion",
+            "evaluacion"
+        ],
+        "base_response": "Planificar tareas en conjunto ayuda a organizar tiempos y recursos. Definir objetivos claros permite que cada integrante comprenda su aporte. Coordinar acciones y evaluar avances garantiza que el proyecto se mantenga ordenado y que todos participen activamente en su desarrollo."
+    },
+    {
+        "intent_id": "creatividad_colectiva_ideas",
+        "keywords": [
+            "creatividad",
+            "ideas",
+            "colaboracion",
+            "propuestas",
+            "innovacion"
+        ],
+        "base_response": "La creatividad colectiva surge cuando varios estudiantes comparten ideas y propuestas. Esta colaboracion permite combinar perspectivas distintas y generar soluciones innovadoras. Valorar cada aporte fortalece la confianza grupal y motiva a todos a participar con entusiasmo en el proyecto."
+    },
+    {
+        "intent_id": "responsabilidad_mutua_resultados",
+        "keywords": [
+            "responsabilidad",
+            "resultados",
+            "compromiso",
+            "esfuerzo",
+            "cooperacion"
+        ],
+        "base_response": "Asumir responsabilidad mutua significa que cada integrante reconoce su impacto en los resultados finales. El compromiso compartido impulsa el esfuerzo constante y la cooperacion. Cuando todos cumplen sus tareas, el grupo progresa y obtiene logros que reflejan el trabajo conjunto."
+    },
+    {
+        "intent_id": "retroalimentacion_constructiva_equipo",
+        "keywords": [
+            "retroalimentacion",
+            "comentarios",
+            "mejora",
+            "colaboracion",
+            "aprendizaje"
+        ],
+        "base_response": "La retroalimentacion constructiva ofrece comentarios claros y respetuosos que ayudan a mejorar. Compartir observaciones positivas y sugerencias fortalece el aprendizaje y la colaboracion. Cuando el equipo practica este intercambio, crece en habilidades y confianza para futuros proyectos."
+    },
+    {
+        "intent_id": "revision_autoguiada_basica",
+        "keywords": [
+            "revision",
+            "autoevaluacion",
+            "comprension",
+            "analisis",
+            "mejora"
+        ],
+        "base_response": "La revision autoguiada permite que cada estudiante identifique lo que comprende y lo que necesita reforzar. Mediante preguntas claras y ejemplos concretos, pueden reconocer avances, ajustar estrategias y desarrollar confianza en su propio proceso de aprendizaje."
+    },
+    {
+        "intent_id": "mapa_personal_de_logros",
+        "keywords": [
+            "logros",
+            "registro",
+            "evaluacion",
+            "progreso",
+            "objetivos"
+        ],
+        "base_response": "Un mapa personal de logros ayuda a visualizar metas alcanzadas y pendientes. Los estudiantes registran habilidades, dificultades y avances, comparando resultados con objetivos definidos. Esto fortalece la autonomia y facilita decisiones para mejorar su rendimiento escolar."
+    },
+    {
+        "intent_id": "panel_personal_de_dificultades",
+        "keywords": [
+            "dificultades",
+            "registro",
+            "analisis",
+            "evaluacion",
+            "solucion"
+        ],
+        "base_response": "El panel personal de dificultades permite clasificar problemas segun su complejidad. Los estudiantes analizan causas, prueban estrategias y revisan resultados. Este metodo fomenta autonomia, mejora la toma de decisiones y facilita la superacion de obstaculos."
+    },
+    {
+        "intent_id": "termometro_de_confianza_academica",
+        "keywords": [
+            "confianza",
+            "evaluacion",
+            "aprendizaje",
+            "progreso",
+            "autocontrol"
+        ],
+        "base_response": "El termometro de confianza academica ayuda a medir seguridad en distintos contenidos. Los estudiantes valoran su nivel de dominio, ajustan expectativas y planifican acciones para mejorar. Esta herramienta fortalece la motivacion y la responsabilidad personal."
+    },
+    {
+        "intent_id": "reglas_mnemonicas_colores_basicos",
+        "keywords": [
+            "colores",
+            "memoria",
+            "asociacion",
+            "recordar",
+            "aprender"
+        ],
+        "base_response": "Las reglas mnemotecnicas ayudan a recordar conceptos mediante asociaciones simples. Para colores basicos, los estudiantes pueden vincular cada tono con un objeto cotidiano. Esta relacion concreta facilita la retencion y permite reconstruir la informacion rapidamente cuando la necesiten en actividades escolares."
+    },
+    {
+        "intent_id": "acronimos_para_listas_largas",
+        "keywords": [
+            "acronimos",
+            "listas",
+            "memoria",
+            "crear",
+            "recordar"
+        ],
+        "base_response": "Los acronimos permiten transformar listas extensas en palabras cortas y faciles de recordar. Al combinar las iniciales de varios terminos, los estudiantes crean una clave que simplifica el estudio. Esta tecnica reduce la carga mental y mejora la organizacion de contenidos complejos."
+    },
+    {
+        "intent_id": "historias_para_ordenar_pasos",
+        "keywords": [
+            "historias",
+            "pasos",
+            "orden",
+            "memoria",
+            "crear"
+        ],
+        "base_response": "Crear historias breves ayuda a recordar secuencias de pasos. Cada elemento se convierte en un personaje o accion dentro del relato. Esta estrategia convierte informacion abstracta en escenas visuales, facilitando la comprension y permitiendo reconstruir el orden correcto con mayor facilidad."
+    },
+    {
+        "intent_id": "imagenes_mentales_para_definiciones",
+        "keywords": [
+            "imagenes",
+            "definiciones",
+            "memoria",
+            "visualizar",
+            "conceptos"
+        ],
+        "base_response": "Las imagenes mentales convierten definiciones en representaciones visuales. Al imaginar un dibujo relacionado con el concepto, los estudiantes fortalecen la memoria y comprenden mejor el significado. Esta tecnica es especialmente util cuando deben aprender terminos nuevos o complejos."
+    },
+    {
+        "intent_id": "rimas_para_recordar_reglas",
+        "keywords": [
+            "rimas",
+            "reglas",
+            "recordar",
+            "memoria",
+            "crear"
+        ],
+        "base_response": "Las rimas transforman reglas en frases con ritmo, facilitando su recuerdo. Al repetir la rima, los estudiantes refuerzan la informacion sin esfuerzo adicional. Esta tecnica funciona bien para normas gramaticales, pasos matematicos o cualquier contenido que requiera memorizacion precisa."
+    },
+    {
+        "intent_id": "segmentacion_de_informacion_extensa",
+        "keywords": [
+            "segmentacion",
+            "informacion",
+            "memoria",
+            "organizar",
+            "recordar"
+        ],
+        "base_response": "Segmentar informacion extensa en partes pequenas facilita la memorizacion. Los estudiantes pueden dividir contenidos en bloques relacionados, reduciendo la complejidad. Esta estrategia permite concentrarse en cada segmento y reconstruir el conjunto completo de manera ordenada y eficiente."
+    },
+    {
+        "intent_id": "palabras_clave_para_textos_largos",
+        "keywords": [
+            "palabras",
+            "textos",
+            "memoria",
+            "identificar",
+            "recordar"
+        ],
+        "base_response": "Seleccionar palabras clave en textos largos ayuda a enfocar la atencion en ideas esenciales. Estas palabras funcionan como puntos de referencia que guian la comprension. Al recordarlas, los estudiantes pueden reconstruir el contenido general sin necesidad de memorizar cada detalle."
+    },
+    {
+        "intent_id": "estructura_cornell_basica",
+        "keywords": [
+            "division",
+            "organizacion",
+            "apuntes",
+            "resumen",
+            "preguntas"
+        ],
+        "base_response": "El metodo Cornell divide la pagina en tres partes para organizar mejor la informacion. Los estudiantes escriben apuntes en la seccion grande, anotan preguntas clave en la columna izquierda y elaboran un resumen abajo. Esta estructura ayuda a recordar ideas importantes con claridad."
+    },
+    {
+        "intent_id": "preguntas_clave_cornell",
+        "keywords": [
+            "preguntas",
+            "analisis",
+            "conceptos",
+            "comprension",
+            "reflexion"
+        ],
+        "base_response": "Las preguntas clave permiten que los estudiantes analicen conceptos importantes. Al escribir dudas o ideas esenciales en la columna izquierda, pueden revisar despues y comprobar su comprension. Este proceso fomenta la reflexion y ayuda a conectar los apuntes con el aprendizaje real."
+    },
+    {
+        "intent_id": "resumen_final_cornell",
+        "keywords": [
+            "resumen",
+            "sintesis",
+            "informacion",
+            "ideas",
+            "comprension"
+        ],
+        "base_response": "El resumen final ayuda a sintetizar la informacion aprendida. Los estudiantes escriben una explicacion breve en la parte inferior, usando sus propias palabras. Esta actividad refuerza la comprension y permite identificar las ideas mas importantes de la clase o del texto estudiado."
+    },
+    {
+        "intent_id": "uso_de_cues_cornell",
+        "keywords": [
+            "cues",
+            "recordatorio",
+            "conceptos",
+            "memoria",
+            "estudio"
+        ],
+        "base_response": "Los cues son palabras o frases cortas que funcionan como recordatorios. Se escriben en la columna izquierda para activar la memoria durante el estudio. Esta tecnica permite que los estudiantes relacionen conceptos rapidamente y repasen contenido sin releer todos los apuntes completos."
+    },
+    {
+        "intent_id": "revision_activa_cornell",
+        "keywords": [
+            "revision",
+            "repaso",
+            "memoria",
+            "conceptos",
+            "estudio"
+        ],
+        "base_response": "La revision activa consiste en tapar los apuntes y usar las preguntas o cues para recordar la informacion. Este metodo fortalece la memoria y ayuda a comprobar que los estudiantes realmente entienden los conceptos. Practicar esta tecnica mejora el rendimiento en examenes y tareas escolares."
+    },
+    {
+        "intent_id": "organizacion_visual_cornell",
+        "keywords": [
+            "organizacion",
+            "visualizacion",
+            "apuntes",
+            "conceptos",
+            "estructura"
+        ],
+        "base_response": "La organizacion visual del metodo Cornell facilita encontrar informacion rapidamente. Al separar apuntes, preguntas y resumen, los estudiantes pueden identificar conceptos sin confusiones. Esta estructura clara ayuda a mantener orden y mejora la calidad de los apuntes en cada clase."
+    },
+    {
+        "intent_id": "autoevaluacion_cornell",
+        "keywords": [
+            "autoevaluacion",
+            "comprension",
+            "preguntas",
+            "conceptos",
+            "refuerzo"
+        ],
+        "base_response": "La autoevaluacion permite que los estudiantes midan su comprension usando las preguntas escritas. Si no pueden responderlas sin mirar los apuntes, necesitan repasar. Este proceso refuerza el aprendizaje y ayuda a detectar conceptos que requieren mas practica o explicacion adicional."
+    },
+    {
+        "intent_id": "memoria_visual_basica",
+        "keywords": [
+            "memoria",
+            "imagen",
+            "asociacion",
+            "recordar",
+            "observar"
+        ],
+        "base_response": "Las tarjetas ayudan a relacionar imagen y concepto mediante repeticion guiada. Los estudiantes fortalecen memoria visual al identificar patrones simples y reconocer detalles clave. Este metodo favorece aprendizajes rapidos y mejora la retencion de informacion en actividades escolares diversas."
+    },
+    {
+        "intent_id": "vocabulario_tematico_avanzado",
+        "keywords": [
+            "vocabulario",
+            "clasificar",
+            "leer",
+            "comprender",
+            "definir"
+        ],
+        "base_response": "Las tarjetas permiten explorar vocabulario agrupado por temas concretos, facilitando conexiones entre palabras relacionadas. Los estudiantes amplian comprension al definir terminos y practicar su uso en contextos variados. Este enfoque mejora fluidez verbal y fortalece habilidades de lectura significativa."
+    },
+    {
+        "intent_id": "comprension_cientifica_basica",
+        "keywords": [
+            "experimentar",
+            "observar",
+            "analizar",
+            "clasificar",
+            "describir"
+        ],
+        "base_response": "Las tarjetas presentan conceptos cientificos claros que facilitan la comprension de fenomenos naturales. Los estudiantes analizan ejemplos concretos y relacionan ideas mediante actividades breves. Este recurso fortalece pensamiento critico y fomenta curiosidad por procesos cientificos cotidianos."
+    },
+    {
+        "intent_id": "cronologias_historicas_claras",
+        "keywords": [
+            "ordenar",
+            "recordar",
+            "investigar",
+            "comparar",
+            "relatar"
+        ],
+        "base_response": "Las tarjetas ayudan a organizar eventos historicos en secuencias comprensibles. Los estudiantes comparan hechos, identifican causas y reconocen consecuencias mediante actividades breves. Este enfoque mejora la comprension temporal y facilita el estudio de procesos historicos relevantes."
+    },
+    {
+        "intent_id": "refuerzo_ortografico_practico",
+        "keywords": [
+            "escribir",
+            "corregir",
+            "leer",
+            "practicar",
+            "memorizar"
+        ],
+        "base_response": "Las tarjetas permiten practicar palabras complejas mediante ejercicios breves de escritura y lectura. Los estudiantes memorizan patrones ortograficos y corrigen errores frecuentes. Este metodo fortalece precision linguistica y mejora habilidades comunicativas en tareas escolares diversas."
+    },
+    {
+        "intent_id": "pensamiento_logico_secuencial",
+        "keywords": [
+            "razonar",
+            "ordenar",
+            "deducir",
+            "resolver",
+            "analizar"
+        ],
+        "base_response": "Las tarjetas presentan desafios que requieren organizar ideas en secuencias logicas. Los estudiantes deducen soluciones mediante pistas concretas y practican razonamiento estructurado. Este recurso fortalece habilidades analiticas y mejora la capacidad de resolver problemas cotidianos."
+    },
+    {
+        "intent_id": "estructura_basica_resumen",
+        "keywords": [
+            "resumen",
+            "estructura",
+            "ideas",
+            "organizacion",
+            "contenido"
+        ],
+        "base_response": "Un resumen estructurado organiza las ideas principales de un texto siguiendo un orden claro. Ayuda a comprender mejor la informacion y recordar detalles importantes. Los estudiantes pueden identificar conceptos clave y agruparlos para crear una version corta pero precisa del contenido original."
+    },
+    {
+        "intent_id": "mapa_resumen_secuencial",
+        "keywords": [
+            "mapa",
+            "resumen",
+            "secuencia",
+            "lectura",
+            "analisis"
+        ],
+        "base_response": "Un mapa de resumen secuencial permite ordenar eventos o ideas en el mismo orden en que aparecen. Facilita entender procesos, historias o explicaciones largas. Los estudiantes pueden visualizar cada paso y relacionarlo con el siguiente para reforzar la comprension general del texto."
+    },
+    {
+        "intent_id": "resumen_por_bloques_tematicos",
+        "keywords": [
+            "bloques",
+            "temas",
+            "clasificacion",
+            "resumen",
+            "conceptos"
+        ],
+        "base_response": "El resumen por bloques tematicos agrupa informacion relacionada en secciones. Cada bloque representa un tema importante del texto. Esta tecnica ayuda a los estudiantes a identificar conexiones entre ideas y construir una vision mas clara del contenido sin perder detalles relevantes."
+    },
+    {
+        "intent_id": "resumen_con_palabras_clave",
+        "keywords": [
+            "palabras",
+            "clave",
+            "identificacion",
+            "resumen",
+            "conceptos"
+        ],
+        "base_response": "El resumen con palabras clave se basa en seleccionar terminos esenciales del texto. Estas palabras representan las ideas mas importantes y sirven como guia para redactar una version corta. Los estudiantes aprenden a distinguir informacion relevante y a sintetizarla correctamente."
+    },
+    {
+        "intent_id": "resumen_en_tabla_comparativa",
+        "keywords": [
+            "tabla",
+            "comparacion",
+            "conceptos",
+            "resumen",
+            "analisis"
+        ],
+        "base_response": "Un resumen en tabla comparativa organiza informacion en filas y columnas para observar diferencias y similitudes. Es util cuando el texto presenta varios elementos relacionados. Los estudiantes pueden comparar datos y construir una comprension mas profunda del contenido estudiado."
+    },
+    {
+        "intent_id": "resumen_con_preguntas_guia",
+        "keywords": [
+            "preguntas",
+            "guia",
+            "resumen",
+            "respuesta",
+            "analisis"
+        ],
+        "base_response": "El resumen con preguntas guia utiliza interrogantes clave para dirigir la lectura. Los estudiantes responden cada pregunta usando informacion del texto y luego unen las respuestas en un resumen coherente. Esta tecnica mejora la comprension y fomenta el analisis critico del contenido."
+    },
+    {
+        "intent_id": "resumen_lineal_causa_efecto",
+        "keywords": [
+            "causa",
+            "efecto",
+            "relacion",
+            "resumen",
+            "procesos"
+        ],
+        "base_response": "El resumen lineal causa efecto explica como un evento provoca otro dentro del texto. Los estudiantes identifican relaciones directas y las organizan en una secuencia clara. Esta tecnica es ideal para textos que describen procesos, problemas o situaciones que cambian con el tiempo."
+    },
+    {
+        "intent_id": "planificacion_semanal_estudio",
+        "keywords": [
+            "planificacion",
+            "semana",
+            "horarios",
+            "rutina",
+            "organizacion"
+        ],
+        "base_response": "Diseñar un horario semanal ayuda a organizar el tiempo de forma efectiva. Asignar horas fijas para estudiar y realizar tareas evita el estrés de última hora, fomentando una rutina constante que mejora el rendimiento académico y permite disfrutar del tiempo libre."
+    },
+    {
+        "intent_id": "toma_apuntes_cornell",
+        "keywords": [
+            "apuntes",
+            "metodo",
+            "resumen",
+            "revision",
+            "ideas"
+        ],
+        "base_response": "El método Cornell para tomar apuntes divide la hoja en tres secciones distintas: notas principales, palabras clave y un resumen final. Esta estructura facilita enormemente la revisión posterior, permitiendo identificar rápidamente las ideas fundamentales antes de los exámenes importantes."
+    },
+    {
+        "intent_id": "descanso_activo_rutina",
+        "keywords": [
+            "descanso",
+            "actividad",
+            "energia",
+            "movimiento",
+            "estudio"
+        ],
+        "base_response": "Realizar pausas con actividad física ligera durante el estudio recarga la energía mental. Caminar unos minutos o hacer estiramientos mejora la circulación sanguínea hacia el cerebro, lo que incrementa notablemente la capacidad de mantener el enfoque en las siguientes tareas."
+    },
+    {
+        "intent_id": "alimentacion_rendimiento_cognitivo",
+        "keywords": [
+            "alimentacion",
+            "nutricion",
+            "cerebro",
+            "rendimiento",
+            "energia"
+        ],
+        "base_response": "Una nutrición equilibrada es fundamental para mantener el cerebro funcionando correctamente. Consumir alimentos ricos en vitaminas y minerales proporciona la energía necesaria para sostener la concentración durante largos periodos, facilitando la comprensión y el almacenamiento de nuevos conocimientos adquiridos."
+    },
+    {
+        "intent_id": "sueno_consolidacion_memoria",
+        "keywords": [
+            "sueno",
+            "memoria",
+            "descanso",
+            "cerebro",
+            "aprendizaje"
+        ],
+        "base_response": "Dormir las horas recomendadas es un factor crucial para el aprendizaje eficaz. Durante la fase de sueño profundo, el cerebro procesa y consolida la información obtenida durante el día, transformando la memoria a corto plazo en conocimientos estables y duraderos."
+    },
+    {
+        "intent_id": "postura_ergonomica_silla",
+        "keywords": [
+            "postura",
+            "ergonomia",
+            "espalda",
+            "comodidad",
+            "salud"
+        ],
+        "base_response": "Mantener una postura correcta al sentarse previene dolores de espalda y fatiga corporal prematura. Utilizar una silla adecuada que soporte la región lumbar asegura comodidad a largo plazo, permitiendo que la atención permanezca enfocada exclusivamente en el material de estudio."
+    },
+    {
+        "intent_id": "evitar_procrastinacion_tareas",
+        "keywords": [
+            "tareas",
+            "inicio",
+            "procrastinacion",
+            "accion",
+            "progreso"
+        ],
+        "base_response": "Vencer la procrastinación requiere dividir los proyectos grandes en pasos muy pequeños y manejables. Iniciar con una tarea sencilla rompe la inercia del aplazamiento, generando un impulso positivo que facilita continuar trabajando hasta completar todos los objetivos académicos propuestos."
+    },
+    {
+        "intent_id": "subrayado_eficaz_textos",
+        "keywords": [
+            "subrayado",
+            "textos",
+            "colores",
+            "ideas",
+            "destaque"
+        ],
+        "base_response": "Aplicar el subrayado solo a las palabras y frases más importantes evita la sobrecarga visual del material. Utilizar diferentes colores para categorizar la información ayuda al cerebro a identificar rápidamente los conceptos clave durante las sesiones intensivas de repaso académico."
+    },
+    {
+        "intent_id": "autoevaluacion_conocimiento_previo",
+        "keywords": [
+            "evaluacion",
+            "preguntas",
+            "conocimiento",
+            "prueba",
+            "errores"
+        ],
+        "base_response": "Realizar pequeñas pruebas o cuestionarios propios antes del examen oficial revela el verdadero nivel de comprensión alcanzado. Identificar los errores a tiempo permite redirigir el esfuerzo hacia los temas más débiles, garantizando una preparación completa y reduciendo la ansiedad."
+    },
+    {
+        "intent_id": "estudio_grupo_colaboracion",
+        "keywords": [
+            "estudio",
+            "grupo",
+            "colaboracion",
+            "debate",
+            "perspectivas"
+        ],
+        "base_response": "Estudiar junto a otros compañeros fomenta el intercambio activo de diferentes perspectivas y soluciones. Explicar los conceptos en voz alta refuerza el propio aprendizaje, mientras que escuchar las dudas de los demás amplía significativamente la comprensión global del tema analizado."
+    },
+    {
+        "intent_id": "metas_corto_plazo",
+        "keywords": [
+            "metas",
+            "objetivos",
+            "logros",
+            "motivacion",
+            "avance"
+        ],
+        "base_response": "Establecer metas pequeñas y alcanzables para cada sesión de estudio incrementa la motivación del estudiante. Celebrar estos logros diarios proporciona una sensación constante de progreso, lo cual resulta esencial para mantener el compromiso y la disciplina durante todo el curso escolar."
+    },
+    {
+        "intent_id": "ambiente_sin_distracciones",
+        "keywords": [
+            "ambiente",
+            "distracciones",
+            "silencio",
+            "enfoque",
+            "celular"
+        ],
+        "base_response": "Eliminar las distracciones del entorno, como dispositivos electrónicos innecesarios, es vital para un estudio profundo. Mantener el teléfono apagado o en otra habitación asegura que la atención no se fragmente, permitiendo una inmersión total en los contenidos educativos que se revisan."
+    },
+    {
+        "intent_id": "asociacion_ideas_conceptos",
+        "keywords": [
+            "asociacion",
+            "ideas",
+            "conexiones",
+            "conceptos",
+            "recuerdos"
+        ],
+        "base_response": "Vincular la nueva información con conocimientos que ya se poseen facilita enormemente el aprendizaje significativo. Crear conexiones mentales lógicas entre diferentes temas hace que los recuerdos sean mucho más accesibles cuando se necesitan durante una evaluación o en la vida cotidiana."
+    },
+    {
+        "intent_id": "mnemotecnias_acronimos",
+        "keywords": [
+            "mnemotecnias",
+            "acronimos",
+            "palabras",
+            "recordatorio",
+            "memoria"
+        ],
+        "base_response": "Utilizar reglas mnemotécnicas, como formar palabras nuevas con las iniciales de una lista, simplifica la memorización de datos complejos. Esta técnica transforma secuencias difíciles en elementos fácilmente recordables, agilizando el proceso de recuperación de información clave en momentos de presión."
+    },
+    {
+        "intent_id": "flashcards_tarjetas_estudio",
+        "keywords": [
+            "tarjetas",
+            "repaso",
+            "preguntas",
+            "respuestas",
+            "agilidad"
+        ],
+        "base_response": "Las tarjetas de estudio son herramientas dinámicas que presentan una pregunta en un lado y su respuesta en el reverso. Su uso constante promueve la recuperación activa de la memoria, acelerando el aprendizaje de vocabulario, fórmulas o fechas históricas importantes."
+    },
+    {
+        "intent_id": "bloqueo_tiempo_timeboxing",
+        "keywords": [
+            "bloqueo",
+            "tiempo",
+            "horario",
+            "limites",
+            "productividad"
+        ],
+        "base_response": "Asignar bloques de tiempo específicos e inamovibles para cada asignatura evita dedicar horas excesivas a un solo tema. Esta estrategia impone límites saludables que fomentan la eficiencia, garantizando que todas las materias reciban la atención necesaria dentro del horario establecido."
+    },
+    {
+        "intent_id": "recompensas_tras_estudio",
+        "keywords": [
+            "recompensas",
+            "premio",
+            "esfuerzo",
+            "habitos",
+            "refuerzo"
+        ],
+        "base_response": "Otorgarse una pequeña recompensa al finalizar una sesión de estudio exitosa refuerza positivamente el comportamiento deseado. Ya sea disfrutar de un episodio de una serie o comer un bocadillo favorito, estos incentivos consolidan la disciplina y mejoran la actitud hacia el estudio."
+    },
+    {
+        "intent_id": "disciplina_academica_constancia",
+        "keywords": [
+            "disciplina",
+            "constancia",
+            "habitos",
+            "esfuerzo",
+            "voluntad"
+        ],
+        "base_response": "La disciplina académica consiste en mantener la constancia en el estudio incluso cuando la motivación inicial ha disminuido. Desarrollar esta fuerza de voluntad asegura el cumplimiento de las responsabilidades escolares, construyendo un hábito sólido que beneficia todo el desarrollo personal."
+    },
+    {
+        "intent_id": "motivacion_intrinseca_aprender",
+        "keywords": [
+            "motivacion",
+            "interes",
+            "curiosidad",
+            "aprendizaje",
+            "desarrollo"
+        ],
+        "base_response": "Fomentar un interés genuino por aprender, más allá de las calificaciones, impulsa una asimilación más profunda del conocimiento. Cuando se estudia por curiosidad natural, el proceso deja de ser una obligación y se convierte en una experiencia enriquecedora y sumamente gratificante."
+    },
+    {
+        "intent_id": "organizacion_espacio_trabajo",
+        "keywords": [
+            "organizacion",
+            "espacio",
+            "escritorio",
+            "orden",
+            "claridad"
+        ],
+        "base_response": "Mantener el espacio de trabajo completamente ordenado y libre de objetos innecesarios reduce el estrés y la confusión mental. Un escritorio limpio refleja claridad de pensamiento, permitiendo encontrar rápidamente los materiales necesarios y comenzar a estudiar sin demoras improductivas."
+    }
+]
