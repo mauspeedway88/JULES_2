@@ -1,0 +1,4028 @@
+[
+  {
+    "intent_id": "ahorro_automatico_micro",
+    "keywords": [
+      "ahorro",
+      "automatico",
+      "micro",
+      "rutina",
+      "aplicacion"
+    ],
+    "base_response": "Ahorrar automaticamente en pequeñas cantidades diarias, como redondear compras, forma un habito sin esfuerzo. Usa aplicaciones que guarden centavos sobrantes; en meses, ese microahorro se convierte en un fondo para invertir en tus metas."
+  },
+  {
+    "intent_id": "inversion_tiempo_meta",
+    "keywords": [
+      "inversion",
+      "tiempo",
+      "meta",
+      "esfuerzo",
+      "proyecto"
+    ],
+    "base_response": "Invertir no solo es dinero; tambien es tiempo y esfuerzo en aprender algo nuevo, como un curso de programacion. Ese conocimiento crece y te permite ganar mas en el futuro, igual que una inversion financiera."
+  },
+  {
+    "intent_id": "regla_cinco_por_ciento",
+    "keywords": [
+      "regla",
+      "cinco",
+      "porciento",
+      "ingreso",
+      "separar"
+    ],
+    "base_response": "Separa el cinco por ciento de cualquier ingreso, como mesada o regalo, en una cuenta separada. Ese dinero crece sin tocarlo, y al año tendras un colchon para emergencias o para invertir en algo que te importe."
+  },
+  {
+    "intent_id": "semilla_doble_proposito",
+    "keywords": [
+      "semilla",
+      "doble",
+      "proposito",
+      "gasto",
+      "ahorro"
+    ],
+    "base_response": "Antes de comprar algo, preguntate si es necesidad o deseo. Si es deseo, espera una semana; si aun lo quieres, compralo, pero guarda el mismo valor en tu alcancia. Asi aprendes a equilibrar gasto y ahorro."
+  },
+  {
+    "intent_id": "interes_compuesto_visual",
+    "keywords": [
+      "interes",
+      "compuesto",
+      "visual",
+      "bola",
+      "nieve"
+    ],
+    "base_response": "El interes compuesto es como una bola de nieve que crece al rodar: tu ahorro genera ganancias, y esas ganancias generan mas ganancias. Usa graficos para ver como 10 euros al mes se convierten en cientos en anos."
+  },
+  {
+    "intent_id": "presupuesto_de_emergencia_familiar",
+    "keywords": [
+      "ahorro",
+      "emergencia",
+      "gastos",
+      "planificacion",
+      "seguridad"
+    ],
+    "base_response": "El presupuesto de emergencia es un plan para gastos imprevistos, como una avería o una enfermedad. Asigna una parte de tus ingresos cada mes a este fondo. Así, cuando surja un problema, no tendrás que endeudarte y tu familia estará protegida."
+  },
+  {
+    "intent_id": "presupuesto_colaborativo_en_casa",
+    "keywords": [
+      "reunion",
+      "decision",
+      "gastos",
+      "hijos",
+      "responsabilidad"
+    ],
+    "base_response": "Reúne a tu familia para decidir juntos cómo gastar el dinero. Cada miembro opina sobre prioridades, como ocio o ahorro. Así aprendes a negociar y valorar las necesidades de todos, fomentando la responsabilidad compartida en el hogar."
+  },
+  {
+    "intent_id": "presupuesto_basado_en_metas",
+    "keywords": [
+      "meta",
+      "ahorro",
+      "plan",
+      "gastos",
+      "ingresos",
+      "logro"
+    ],
+    "base_response": "Define una meta familiar, como unas vacaciones o un videojuego. Luego, calcula cuánto ahorrar cada semana ajustando gastos pequeños. Ver tu progreso te motiva a cumplir el plan y celebrar juntos cuando alcancen el objetivo."
+  },
+  {
+    "intent_id": "presupuesto_de_bolsillo_semanal",
+    "keywords": [
+      "semanal",
+      "gasto",
+      "limite",
+      "control",
+      "paga"
+    ],
+    "base_response": "Asigna una cantidad fija de dinero cada semana para gastos personales, como meriendas o juegos. Lleva un registro de lo que compras. Si se acaba, esperas a la siguiente semana. Esto enseña a administrar un límite real."
+  },
+  {
+    "intent_id": "presupuesto_inverso_para_ahorrar",
+    "keywords": [
+      "ahorro",
+      "prioridad",
+      "ingreso",
+      "gasto",
+      "automatico"
+    ],
+    "base_response": "Primero aparta un porcentaje de tus ingresos para ahorrar, antes de gastar en cualquier otra cosa. Luego, con el dinero restante, cubres necesidades y gustos. Así aseguras que el ahorro sea siempre tu prioridad principal."
+  },
+  {
+    "intent_id": "gastos_hormiga_digitales",
+    "keywords": [
+      "compras_micro",
+      "suscripciones_ocultas",
+      "juegos_movil",
+      "aplicaciones_pago",
+      "consumo_impulsivo"
+    ],
+    "base_response": "Son pequeños desembolsos que haces casi sin darte cuenta en plataformas digitales, como compras en juegos o suscripciones de prueba que se renuevan automáticamente. Sumados al mes pueden alcanzar cifras altas, así que revisar estos cargos cada semana te permite evitar gastos innecesarios sin apenas esfuerzo."
+  },
+  {
+    "intent_id": "gastos_compartidos_con_amigos",
+    "keywords": [
+      "salidas_grupo",
+      "pagos_compartidos",
+      "gastos_colectivos",
+      "division_cuentas",
+      "acuerdos_previos"
+    ],
+    "base_response": "Cuando sales con tus amistades, es frecuente que los gastos se repartan entre todos, desde entradas a eventos hasta comida compartida. Establecer acuerdos claros antes de realizar los pagos evita confusiones, deudas pendientes y gastos mayores a los que habías planeado inicialmente para estas actividades."
+  },
+  {
+    "intent_id": "ahorro_redondeo_compras",
+    "keywords": [
+      "redondeo_monedas",
+      "ahorro_automatico",
+      "compras_efectivo",
+      "fondo_ahorro_pequeno",
+      "gastos_menores"
+    ],
+    "base_response": "Cada vez que pagas en efectivo, guarda las monedas de cambio que te devuelven al pagar montos no exactos, o redondea el total de tus compras al alza y aparta la diferencia. Esta técnica te permite acumular dinero sin esfuerzo, sin reducir tus gastos habituales de forma brusca."
+  },
+  {
+    "intent_id": "diferimiento_deseos_compra",
+    "keywords": [
+      "compra_impulsiva",
+      "espera_72_horas",
+      "necesidad_real",
+      "deseo_momentaneo",
+      "decision_compra"
+    ],
+    "base_response": "Cuando quieres comprar algo que no es una necesidad básica, espera al menos 72 horas antes de adquirirlo. Este lapso te ayuda a diferenciar entre un deseo pasajero y una necesidad real, evitando que gastes dinero en objetos que no usarás después de unas semanas."
+  },
+  {
+    "intent_id": "registro_gastos_emocionales",
+    "keywords": [
+      "gasto_aburrimiento",
+      "gasto_alegria",
+      "emocion_compra",
+      "consumo_afectivo",
+      "registro_sentimientos"
+    ],
+    "base_response": "Además de anotar en qué gastas tu dinero, registra la emoción que sentías en el momento de la compra: aburrimiento, tristeza, alegría o estrés. Con el tiempo verás qué estados te llevan a gastar más, y podrás buscar alternativas gratuitas para gestionar esas emociones sin gastar de más."
+  },
+  {
+    "intent_id": "microservicios_escolares",
+    "keywords": [
+      "microservicios",
+      "habilidades",
+      "organizacion",
+      "creatividad",
+      "colaboracion"
+    ],
+    "base_response": "Los microservicios escolares permiten generar ingresos ofreciendo pequeñas soluciones dentro del colegio, como ordenar materiales o crear diseños simples. Ayudan a descubrir habilidades útiles, fomentar la creatividad y aprender a colaborar con otros para resolver necesidades reales de la comunidad escolar."
+  },
+  {
+    "intent_id": "licencias_de_ideas",
+    "keywords": [
+      "licencias",
+      "ideas",
+      "innovacion",
+      "proyectos",
+      "creacion"
+    ],
+    "base_response": "Las licencias de ideas consisten en crear conceptos originales que otros puedan usar, como nombres, personajes o pequeños proyectos. Al compartirlos con permiso, se aprende a valorar la creatividad, proteger el trabajo propio y generar ingresos mediante acuerdos sencillos y responsables."
+  },
+  {
+    "intent_id": "clubes_productivos",
+    "keywords": [
+      "clubes",
+      "produccion",
+      "cooperacion",
+      "planeacion",
+      "ventas"
+    ],
+    "base_response": "Los clubes productivos permiten organizar grupos que crean objetos o servicios, como manualidades o soluciones tecnológicas simples. Enseñan a planear, cooperar y vender de manera ética, convirtiendo actividades escolares en oportunidades reales de aprendizaje económico y responsabilidad compartida."
+  },
+  {
+    "intent_id": "intercambio_de_habilidades",
+    "keywords": [
+      "intercambio",
+      "habilidades",
+      "practica",
+      "servicios",
+      "aprendizaje"
+    ],
+    "base_response": "El intercambio de habilidades permite ofrecer servicios como enseñar trucos digitales o ayudar con tareas creativas. A través de acuerdos claros, los estudiantes practican talentos, aprenden a valorar su tiempo y descubren cómo convertir conocimientos en ingresos responsables y bien organizados."
+  },
+  {
+    "intent_id": "laboratorios_de_soluciones",
+    "keywords": [
+      "laboratorios",
+      "soluciones",
+      "experimentacion",
+      "prototipos",
+      "innovacion"
+    ],
+    "base_response": "Los laboratorios de soluciones permiten crear prototipos que resuelvan problemas cotidianos, como organizar útiles o mejorar espacios. Al experimentar y compartir resultados, los estudiantes desarrollan pensamiento innovador y pueden generar ingresos ofreciendo versiones mejoradas de sus creaciones."
+  },
+  {
+    "intent_id": "confianza_amistad",
+    "keywords": [
+      "amigo",
+      "prestamo",
+      "confianza",
+      "devolucion",
+      "compromiso"
+    ],
+    "base_response": "Prestar dinero a un amigo es un acto de confianza. Debes acordar un plazo para devolverlo y cumplirlo para mantener la amistad. No hacerlo daña la confianza y puede generar problemas, igual que con un banco."
+  },
+  {
+    "intent_id": "plazo_fijo",
+    "keywords": [
+      "fecha",
+      "devolucion",
+      "acuerdo",
+      "multa",
+      "responsabilidad"
+    ],
+    "base_response": "Cuando pides prestado con una fecha fija de pago, te comprometes a devolver en ese día. Si no cumples, pueden cobrarte una multa o perder privilegios. Es importante apuntar la fecha y ahorrar antes para cumplir."
+  },
+  {
+    "intent_id": "interes_creciente",
+    "keywords": [
+      "interes",
+      "crecimiento",
+      "deuda",
+      "tiempo",
+      "pago"
+    ],
+    "base_response": "El interés hace que una deuda pequeña crezca con el tiempo, como una bola de nieve. Si no pagas pronto, terminas debiendo mucho más. Por eso es mejor ahorrar antes y evitar pedir prestado si no puedes devolver rápido."
+  },
+  {
+    "intent_id": "colateral",
+    "keywords": [
+      "garantia",
+      "objeto",
+      "prestamo",
+      "riesgo",
+      "perdida"
+    ],
+    "base_response": "Dejar un objeto de valor como garantía asegura el préstamo. Si no pagas, pierdes ese objeto. Esto te obliga a ser responsable. Siempre elige algo que no sea esencial y devuelve el dinero a tiempo para recuperarlo."
+  },
+  {
+    "intent_id": "proyecto_inversor",
+    "keywords": [
+      "inversion",
+      "negocio",
+      "prestamo",
+      "ganancia",
+      "plan"
+    ],
+    "base_response": "Pedir prestado para un proyecto pequeño, como vender limonada, puede ser útil si calculas gastos y ganancias. Usa el dinero solo para lo necesario y devuelve el préstamo con las primeras ganancias. Así aprendes a invertir con responsabilidad."
+  },
+  {
+    "intent_id": "redondeo_compras_ahorro_automatico",
+    "keywords": [
+      "redondeo",
+      "compras",
+      "ahorro",
+      "cuenta",
+      "inversion",
+      "pequena"
+    ],
+    "base_response": "El redondeo de compras suma los centavos sobrantes de cada pago con tarjeta para invertirlos automáticamente en una cuenta de ahorros. Si gastas 12,30 euros, se redondea a 13 y los 0,70 van directo a tu fondo sin que lo notes. Es una forma sencilla de ahorrar sin esfuerzo extra."
+  },
+  {
+    "intent_id": "reclamacion_cargos_fraudulentos_tarjeta",
+    "keywords": [
+      "reclamacion",
+      "cargos",
+      "fraudulentos",
+      "tarjeta",
+      "proteccion",
+      "debito"
+    ],
+    "base_response": "Al pagar con tarjeta de crédito, tienes protección para reclamar cargos fraudulentos o productos no recibidos sin perder tu dinero mientras se resuelve el caso. A diferencia del débito, el banco investiga el cargo antes de descontarlo de tus fondos, dándote mayor seguridad en compras online o desconocidas."
+  },
+  {
+    "intent_id": "fraccionamiento_sin_intereses_materiales_educativos",
+    "keywords": [
+      "fraccionamiento",
+      "intereses",
+      "materiales",
+      "educativos",
+      "compras",
+      "cuotas"
+    ],
+    "base_response": "Muchas tarjetas de crédito para jóvenes ofrecen fraccionamiento sin intereses en compras de materiales educativos, como tabletas, libros o instrumentos musicales, durante épocas de inicio de curso. Así pagas el costo en cuotas mensuales pequeñas sin cargos extra por el financiamiento."
+  },
+  {
+    "intent_id": "control_gastos_moneda_extranjera_viajes_escolares",
+    "keywords": [
+      "control",
+      "gastos",
+      "moneda",
+      "extranjera",
+      "viajes",
+      "escolares"
+    ],
+    "base_response": "Usar tarjeta de crédito en viajes escolares al extranjero evita llevar efectivo en cantidades altas, y el banco aplica el tipo de cambio oficial sin comisiones si eliges una tarjeta sin costo por divisa. Controlas tus gastos desde la app en todo momento y evitas robos o pérdidas de dinero."
+  },
+  {
+    "intent_id": "construccion_historial_crediticio_menor_edad",
+    "keywords": [
+      "construccion",
+      "historial",
+      "crediticio",
+      "menor",
+      "edad",
+      "prestamos"
+    ],
+    "base_response": "Si tus padres te autorizan como usuario adicional en su tarjeta de crédito y pagas tus gastos pequeños a tiempo, construyes un historial crediticio positivo antes de ser mayor de edad. Esto te ayudará a acceder a préstamos estudiantiles o alquileres de vivienda en el futuro sin problemas de aprobación."
+  },
+  {
+    "intent_id": "huella_digital_bancaria",
+    "keywords": [
+      "registro",
+      "identidad",
+      "seguridad",
+      "transaccion",
+      "verificacion"
+    ],
+    "base_response": "La huella digital bancaria reúne cada acción que realizas en tu cuenta, creando un registro seguro que confirma tu identidad. Ayuda a detectar movimientos extraños, facilita recuperar accesos y permite que el banco verifique operaciones sin depender solo de contraseñas tradicionales."
+  },
+  {
+    "intent_id": "cuentas_satelite_para_metas",
+    "keywords": [
+      "ahorro",
+      "objetivo",
+      "division",
+      "seguimiento",
+      "motivacion"
+    ],
+    "base_response": "Las cuentas satélite permiten dividir tu dinero en pequeños espacios destinados a metas específicas. Facilitan visualizar avances, evitar confusiones y mantener motivación. Funcionan como compartimentos digitales que ordenan tus planes sin necesidad de abrir múltiples cuentas bancarias reales."
+  },
+  {
+    "intent_id": "alertas_inteligentes_de_movimiento",
+    "keywords": [
+      "notificacion",
+      "control",
+      "actividad",
+      "prevencion",
+      "monitoreo"
+    ],
+    "base_response": "Las alertas inteligentes analizan tus hábitos y te avisan cuando ocurre un movimiento inusual. Ayudan a prevenir errores, controlar gastos y detectar riesgos. Funcionan como un asistente que observa patrones y te guía para mantener tu cuenta protegida y organizada."
+  },
+  {
+    "intent_id": "microahorros_automatizados",
+    "keywords": [
+      "redondeo",
+      "transferencia",
+      "acumulacion",
+      "habito",
+      "progreso"
+    ],
+    "base_response": "Los microahorros automatizados redondean pequeñas compras y envían la diferencia a tu ahorro. Transforman gastos cotidianos en progreso constante. Permiten crear hábitos sin esfuerzo y muestran cómo pequeñas cantidades repetidas pueden convertirse en metas alcanzables con disciplina digital."
+  },
+  {
+    "intent_id": "mapa_de_flujo_de_dinero",
+    "keywords": [
+      "ingreso",
+      "gasto",
+      "visualizacion",
+      "analisis",
+      "patron"
+    ],
+    "base_response": "Un mapa de flujo de dinero muestra cómo entra y sale tu dinero dentro del banco. Ayuda a identificar patrones, ajustar decisiones y entender tu comportamiento financiero. Funciona como un dibujo dinámico que revela rutas y destinos de cada movimiento económico."
+  },
+  {
+    "intent_id": "diferencia_tasa_ahorro_prestamo_apps_jovenes",
+    "keywords": [
+      "tasa",
+      "ahorro",
+      "prestamo",
+      "aplicacion",
+      "dinero",
+      "jovenes"
+    ],
+    "base_response": "La tasa de interés no es igual para ahorros y préstamos en apps de dinero juvenil. En el ahorro, la tasa te da ganancias extra por tu dinero guardado; en el préstamo, es el costo adicional que pagas por usar dinero ajeno."
+  },
+  {
+    "intent_id": "efecto_tasa_interes_monto_ahorro_videojuego",
+    "keywords": [
+      "tasa",
+      "interes",
+      "ahorro",
+      "videojuego",
+      "deposito",
+      "monto"
+    ],
+    "base_response": "Si guardas 5 euros semanales en una hucha que da un 2% de interés anual, en un año tendrás más dinero que si la hucha no generara intereses. La tasa hace que tu dinero crezca solo por estar guardado, incluso si no agregas más depósitos."
+  },
+  {
+    "intent_id": "tasa_interes_cero_prestamos_cooperativas_escolares",
+    "keywords": [
+      "tasa",
+      "interes",
+      "cero",
+      "prestamo",
+      "cooperativa",
+      "escolar"
+    ],
+    "base_response": "Las cooperativas escolares dan préstamos para útiles con tasa de interés cero, así que solo devuelves el dinero que pediste sin pagos extra. Esta tasa te permite acceder a materiales sin endeudarte de más por cargos adicionales."
+  },
+  {
+    "intent_id": "inflacion_reduce_valor_real_intereses_ahorro",
+    "keywords": [
+      "inflacion",
+      "interes",
+      "ahorro",
+      "valor",
+      "compra",
+      "ganancia"
+    ],
+    "base_response": "Si tu alcancía da un 3% de interés anual pero la inflación sube un 4%, las ganancias que obtienes no alcanzan para comprar más cosas que el año anterior. La inflación le quita valor real a los intereses que ganas por ahorrar."
+  },
+  {
+    "intent_id": "tasa_interes_mora_aumenta_costo_prestamos_escolares",
+    "keywords": [
+      "tasa",
+      "interes",
+      "mora",
+      "prestamo",
+      "cuota",
+      "retraso"
+    ],
+    "base_response": "Si te atrasas en el pago de una cuota de un préstamo para tu mochila escolar, se aplica una tasa de interés por mora que aumenta el monto total a pagar. Pagar las cuotas a tiempo evita que este cargo extra haga más caro el préstamo."
+  },
+  {
+    "intent_id": "dinero_invisible",
+    "keywords": [
+      "dinero",
+      "digital",
+      "transaccion",
+      "banco",
+      "tarjeta",
+      "app"
+    ],
+    "base_response": "El dinero invisible es el que no ves fisicamente, como el que esta en tu cuenta bancaria o en una tarjeta. Aprende a reconocerlo y a usarlo con cuidado, porque cada transaccion digital tiene un valor real que afecta tus ahorros."
+  },
+  {
+    "intent_id": "presupuesto_juego_roles",
+    "keywords": [
+      "presupuesto",
+      "juego",
+      "roles",
+      "gastos",
+      "ingresos",
+      "planificacion"
+    ],
+    "base_response": "Imagina que tu familia es un equipo y cada miembro tiene un rol en el presupuesto: uno gana, otro gasta, otro ahorra. Al jugar, aprendes a equilibrar ingresos y gastos, y a tomar decisiones que beneficien a todos. Es una aventura financiera."
+  },
+  {
+    "intent_id": "trueque_habilidades",
+    "keywords": [
+      "trueque",
+      "habilidades",
+      "intercambio",
+      "valor",
+      "servicio",
+      "colaboracion"
+    ],
+    "base_response": "El trueque de habilidades consiste en intercambiar lo que sabes hacer por lo que otro sabe. Por ejemplo, tu ensenas matematicas a cambio de clases de dibujo. Asi aprendes que tu tiempo y talento tienen un valor que puedes usar sin dinero."
+  },
+  {
+    "intent_id": "ahorro_objetivos",
+    "keywords": [
+      "ahorro",
+      "objetivo",
+      "meta",
+      "alcancia",
+      "progreso",
+      "motivacion"
+    ],
+    "base_response": "Ahorrar para un objetivo especifico, como un juguete o un viaje, hace que el ahorro sea mas emocionante. Usa una alcancia o una aplicacion para ver tu progreso. Cada moneda te acerca a tu meta, y celebras al alcanzarla."
+  },
+  {
+    "intent_id": "costo_procrastinacion",
+    "keywords": [
+      "procrastinacion",
+      "dinero",
+      "tiempo",
+      "multa",
+      "oportunidad",
+      "decision"
+    ],
+    "base_response": "Cuando dejas para despues algo importante, como pagar una cuenta o hacer una tarea, puedes perder dinero por multas o perder oportunidades. La procrastinacion tiene un costo real: el tiempo perdido tambien es dinero. Aprende a decidir rapido."
+  },
+  {
+    "intent_id": "inflacion_y_precio_de_merienda_en_escuela",
+    "keywords": [
+      "inflacion",
+      "precio",
+      "merienda",
+      "escuela",
+      "ahorro"
+    ],
+    "base_response": "Cuando la inflación sube, el precio de la merienda en la escuela también puede aumentar, lo que reduce el dinero que alcanza para comprar lo mismo. Al observar esos cambios, los estudiantes aprenden a planificar su ahorro y a elegir opciones más económicas sin sacrificar su alimentación."
+  },
+  {
+    "intent_id": "inflacion_y_ahorro_en_alcancia",
+    "keywords": [
+      "inflacion",
+      "ahorro",
+      "alcancia",
+      "tiempo",
+      "valor"
+    ],
+    "base_response": "Guardar dinero en una alcancia parece seguro, pero si la inflación crece más rápido que el interés que gana, ese dinero compra menos cosas con el paso del tiempo. Los estudiantes pueden aprender a buscar formas de hacer que su ahorro mantenga o incluso aumente su poder adquisitivo."
+  },
+  {
+    "intent_id": "inflacion_y_transporte_publico",
+    "keywords": [
+      "inflacion",
+      "transporte",
+      "boleto",
+      "costo",
+      "ruta"
+    ],
+    "base_response": "Cuando la inflación impulsa el aumento de los boletos de transporte público, el costo de ir al colegio o a actividades extracurriculares se vuelve más alto. Al comparar rutas, horarios y alternativas como la bicicleta, los estudiantes pueden reducir gastos y mantener su poder adquisitivo para otros necesidades."
+  },
+  {
+    "intent_id": "inflacion_y_juegos_videojuegos",
+    "keywords": [
+      "inflacion",
+      "juego",
+      "precio",
+      "descuento",
+      "intercambio"
+    ],
+    "base_response": "La inflación hace que los juegos nuevos tengan precios más altos, lo que puede limitar cuántos títulos pueden comprar los estudiantes. Sin embargo, estar atento a ofertas, usar intercambios de juegos usados o esperar rebajas permite obtener diversión sin que el dinero pierda su valor adquisitivo."
+  },
+  {
+    "intent_id": "inflacion_y_proyecto_escolar",
+    "keywords": [
+      "inflacion",
+      "proyecto",
+      "material",
+      "presupuesto",
+      "creatividad"
+    ],
+    "base_response": "Al planear un proyecto escolar, la inflación puede encarecer papel, pegamento o componentes electrónicos, desajustando el presupuesto inicial. Al estimar gastos, buscar materiales reciclados o pedir ayuda a la comunidad, los estudiantes aprenden a proteger su poder adquisitivo y a cumplir sus objetivos sin gastar de más."
+  },
+  {
+    "intent_id": "impuesto_proporcional_en_merienda",
+    "keywords": [
+      "merienda",
+      "porcentaje",
+      "precio",
+      "gobierno",
+      "recaudacion"
+    ],
+    "base_response": "Cuando compras una merienda, parte del precio es un impuesto que va al gobierno. Es como si cada persona pusiera una pequeña moneda en una alcancía común para pagar escuelas y hospitales."
+  },
+  {
+    "intent_id": "impuesto_redistribucion_en_juegos",
+    "keywords": [
+      "juego",
+      "canicas",
+      "comunidad",
+      "reparto",
+      "parque"
+    ],
+    "base_response": "En un juego de canicas, si todos donan una canica para reparar el parque, eso es un impuesto: juntan recursos para mejorar el espacio que usan todos, no solo uno."
+  },
+  {
+    "intent_id": "impuesto_voluntario_en_alcancia",
+    "keywords": [
+      "alcancia",
+      "donacion",
+      "clase",
+      "pizarra",
+      "tiza"
+    ],
+    "base_response": "Si en tu clase deciden aportar una moneda cada semana para comprar tizas, eso es un impuesto voluntario: todos contribuyen un poco para un beneficio que disfruta el grupo entero."
+  },
+  {
+    "intent_id": "impuesto_por_uso_en_biblioteca",
+    "keywords": [
+      "biblioteca",
+      "libro",
+      "prestamo",
+      "mantenimiento",
+      "luz"
+    ],
+    "base_response": "Pagar una pequeña cuota por cada libro prestado en la biblioteca es un impuesto de uso: ayuda a cubrir la luz y el mantenimiento, así el servicio sigue funcionando para todos."
+  },
+  {
+    "intent_id": "impuesto_oculto_en_etiqueta",
+    "keywords": [
+      "etiqueta",
+      "precio",
+      "iva",
+      "consumo",
+      "producto"
+    ],
+    "base_response": "El IVA es un impuesto que ya está incluido en el precio de un juguete, aunque no lo veas en la etiqueta. Cada vez que compras, ayudas a financiar cosas como carreteras y bomberos."
+  },
+  {
+    "intent_id": "escudo_financiero",
+    "keywords": [
+      "ahorro",
+      "emergencia",
+      "proteccion",
+      "gastos",
+      "imprevistos"
+    ],
+    "base_response": "Un fondo de emergencia es un escudo que protege tu dinero de gastos inesperados. Si se rompe tu mochila o pierdes un libro escolar, puedes usar este ahorro sin endeudarte. Así mantienes la calma y evitas problemas financieros."
+  },
+  {
+    "intent_id": "costo_de_oportunidad",
+    "keywords": [
+      "ahorro",
+      "emergencia",
+      "oportunidad",
+      "futuro",
+      "gastos",
+      "decision"
+    ],
+    "base_response": "Ahorrar para emergencias te permite decidir sin presion. Si no tienes fondo y ocurre un imprevisto, tendrias que usar dinero destinado a diversion. Con fondo, proteges tus planes futuros y evitas sacrificar momentos importantes."
+  },
+  {
+    "intent_id": "esfuerzo_familiar",
+    "keywords": [
+      "familia",
+      "ahorro",
+      "emergencia",
+      "cooperacion",
+      "meta",
+      "responsabilidad"
+    ],
+    "base_response": "El fondo de emergencia puede ser un proyecto familiar. Cada miembro aporta una pequena cantidad semanal. Asi, si algo sale mal en casa, el dinero esta listo. Fomenta la cooperacion y la responsabilidad compartida entre todos."
+  },
+  {
+    "intent_id": "fondo_emergencia_vs_deseo",
+    "keywords": [
+      "ahorro",
+      "emergencia",
+      "deseo",
+      "meta",
+      "prioridad",
+      "separacion"
+    ],
+    "base_response": "No es lo mismo ahorrar para un videojuego que para emergencias. El fondo de emergencia solo se usa en imprevistos reales. Separa tu dinero: una parte para tus deseos y otra para protegerte. Asi aprendes a priorizar."
+  },
+  {
+    "intent_id": "numero_magico",
+    "keywords": [
+      "ahorro",
+      "emergencia",
+      "calculo",
+      "meta",
+      "semanas",
+      "gastos"
+    ],
+    "base_response": "Calcula tu fondo de emergencia multiplicando tus gastos semanales por tres. Por ejemplo, si gastas 10 euros a la semana, guarda 30 euros. Ese numero magico te cubre durante un mes ante cualquier imprevisto escolar o personal."
+  },
+  {
+    "intent_id": "ahorro_de_impulso",
+    "keywords": [
+      "impulso",
+      "ahorro",
+      "decision",
+      "gasto",
+      "control",
+      "disciplina"
+    ],
+    "base_response": "El ahorro por impulso consiste en apartar el dinero que habrías gastado en un capricho. Cada vez que sientas ganas de comprar algo innecesario, detente y guarda ese monto. Así convertirás deseos momentáneos en un fondo de ahorro valioso."
+  },
+  {
+    "intent_id": "ahorro_de_cambio",
+    "keywords": [
+      "cambio",
+      "monedas",
+      "alcancia",
+      "ahorro",
+      "acumulacion"
+    ],
+    "base_response": "El ahorro de cambio consiste en guardar todas las monedas y billetes pequeños que recibes. Al final del mes, esa cantidad puede sorprenderte. Es una forma sencilla y automática de acumular dinero sin esfuerzo, ideal para empezar a ahorrar."
+  },
+  {
+    "intent_id": "ahorro_de_metas",
+    "keywords": [
+      "meta",
+      "objetivo",
+      "visual",
+      "ahorro",
+      "motivacion",
+      "progreso"
+    ],
+    "base_response": "El ahorro por metas te propone fijar un objetivo específico, como un juguete o un viaje, y dibujar tu progreso. Cada vez que ahorras, coloreas una parte. Ver el avance te motiva a seguir y hace que el ahorro sea más divertido y concreto."
+  },
+  {
+    "intent_id": "ahorro_de_tiempo",
+    "keywords": [
+      "tiempo",
+      "eficiencia",
+      "planificacion",
+      "ahorro",
+      "productividad"
+    ],
+    "base_response": "El ahorro de tiempo significa organizar tus tareas para hacerlas más rápido. Ese tiempo extra lo puedes usar para aprender o hacer actividades que generen dinero o ahorros. Ahorrar tiempo es ahorrar oportunidades, y eso también cuenta como dinero."
+  },
+  {
+    "intent_id": "ahorro_de_recursos",
+    "keywords": [
+      "recursos",
+      "reciclaje",
+      "reutilizar",
+      "ahorro",
+      "consumo",
+      "reduccion"
+    ],
+    "base_response": "El ahorro de recursos consiste en usar menos cosas nuevas: reutilizar envases, reparar objetos o reducir el consumo. Así evitas gastar dinero en reemplazos y ayudas al planeta. Cada cosa que no compras es un ahorro directo en tu bolsillo."
+  },
+  {
+    "intent_id": "tokens_de_activos_digitales",
+    "keywords": [
+      "token",
+      "digital",
+      "coleccionable",
+      "juego",
+      "intercambio",
+      "avatar"
+    ],
+    "base_response": "Las criptomonedas pueden ser tokens digitales únicos que representan objetos como avatares o cartas de juego. Funcionan como un sello de autenticidad que demuestra que un objeto digital te pertenece. Puedes intercambiarlos con otros jugadores de forma segura."
+  },
+  {
+    "intent_id": "mineria_como_juego",
+    "keywords": [
+      "mineria",
+      "rompecabezas",
+      "recompensa",
+      "computadora",
+      "energia",
+      "bloque"
+    ],
+    "base_response": "Minar criptomonedas es como resolver rompecabezas matemáticos muy difíciles con una computadora. El primero en resolverlo recibe una recompensa en criptomonedas. Es un juego de velocidad y potencia que requiere mucha energía eléctrica."
+  },
+  {
+    "intent_id": "microtransacciones_en_juegos",
+    "keywords": [
+      "microtransaccion",
+      "juego",
+      "propina",
+      "creador",
+      "contenido",
+      "moneda"
+    ],
+    "base_response": "Las criptomonedas permiten enviar pequeñas cantidades de valor a través de internet. Por ejemplo, puedes dar propinas a creadores de videos o comprar objetos en juegos sin usar tarjetas de crédito. Cada transacción es rápida y de bajo costo."
+  },
+  {
+    "intent_id": "libro_contable_compartido",
+    "keywords": [
+      "libro",
+      "contable",
+      "compartido",
+      "bloque",
+      "cadena",
+      "registro"
+    ],
+    "base_response": "La blockchain es un libro contable digital compartido por miles de computadoras. Cada página se llama bloque y contiene transacciones. Una vez escrito, no se puede borrar ni modificar. Todos pueden verlo pero nadie puede hacer trampa."
+  },
+  {
+    "intent_id": "billetera_y_llaves",
+    "keywords": [
+      "billetera",
+      "llave",
+      "privada",
+      "publica",
+      "seguridad",
+      "firma"
+    ],
+    "base_response": "Una billetera digital guarda tus criptomonedas. Tienes una llave pública que es como tu dirección para recibir monedas, y una llave privada, secreta, que te permite gastarlas. Perder la llave privada es perder el dinero para siempre."
+  },
+  {
+    "intent_id": "el_interes_como_alquiler_del_dinero",
+    "keywords": [
+      "interes",
+      "prestamo",
+      "costo",
+      "alquiler",
+      "dinero",
+      "renta"
+    ],
+    "base_response": "Un préstamo personal es como pedir dinero prestado, pero debes devolverlo con un extra llamado interés. El interés es como el alquiler que pagas por usar el dinero de otra persona. Cuanto más tiempo tardes, más alquiler pagas."
+  },
+  {
+    "intent_id": "prestamo_vs_ahorro_esperar_o_comprar_ahora",
+    "keywords": [
+      "ahorro",
+      "prestamo",
+      "decision",
+      "esperar",
+      "meta",
+      "plan"
+    ],
+    "base_response": "Pedir un préstamo te permite obtener algo ahora, pero pagarás más después. Ahorrar requiere esperar, pero no pagas extra. Piensa si realmente necesitas el objeto hoy o puedes esperar para ahorrar."
+  },
+  {
+    "intent_id": "el_historial_crediticio_tu_reputacion_financiera",
+    "keywords": [
+      "historial",
+      "credito",
+      "reputacion",
+      "prestamo",
+      "banco",
+      "confianza"
+    ],
+    "base_response": "Tu historial crediticio es como un boletín de calificaciones para los bancos. Si pagas tus préstamos a tiempo, ganas buena reputación y te prestarán más fácil. Si no pagas, será difícil que confíen en ti otra vez."
+  },
+  {
+    "intent_id": "prestamos_para_inversion_ganar_dinero",
+    "keywords": [
+      "inversion",
+      "prestamo",
+      "educacion",
+      "negocio",
+      "ganancia",
+      "riesgo"
+    ],
+    "base_response": "Algunos préstamos se usan para invertir, como pagar cursos o iniciar un negocio. Si la inversión funciona, el dinero que ganas puede pagar el préstamo y darte ganancias. Pero cuidado: si no funciona, aún debes el préstamo."
+  },
+  {
+    "intent_id": "el_plazo_del_prestamo_tiempo_vs_cuota",
+    "keywords": [
+      "plazo",
+      "cuota",
+      "interes",
+      "tiempo",
+      "mensual",
+      "total"
+    ],
+    "base_response": "El plazo es el tiempo para devolver un préstamo. Un plazo más largo significa cuotas mensuales más pequeñas, pero pagarás más intereses en total. Un plazo más corto tiene cuotas altas pero menos interés. Elige según tu capacidad."
+  },
+  {
+    "intent_id": "hipoteca_como_ahorro_forzado",
+    "keywords": [
+      "ahorro",
+      "hipoteca",
+      "patrimonio",
+      "cuota",
+      "vivienda",
+      "interes"
+    ],
+    "base_response": "Cada pago de tu hipoteca reduce la deuda y aumenta tu parte de la casa. Es como un ahorro forzado: con el tiempo, tu patrimonio crece. Así, pagar la hipoteca te ayuda a construir un hogar propio y un futuro financiero sólido."
+  },
+  {
+    "intent_id": "credito_como_herramienta_de_oportunidad",
+    "keywords": [
+      "credito",
+      "oportunidad",
+      "responsabilidad",
+      "meta",
+      "prestamo",
+      "confianza"
+    ],
+    "base_response": "El crédito es una herramienta que te permite alcanzar metas grandes, como estudiar o comprar una casa. Debes usarlo con responsabilidad: pagar a tiempo demuestra confianza y te abre más oportunidades. Si no, puede cerrarte puertas."
+  },
+  {
+    "intent_id": "interes_compuesto_en_creditos",
+    "keywords": [
+      "interes",
+      "compuesto",
+      "deuda",
+      "crecimiento",
+      "pago",
+      "plazo"
+    ],
+    "base_response": "El interés compuesto en un crédito hace que tu deuda crezca más rápido si no pagas pronto. Es como una bola de nieve que se agranda al rodar. Por eso, pagar a tiempo y reducir el capital te ahorra mucho dinero."
+  },
+  {
+    "intent_id": "amortizacion_anticipada",
+    "keywords": [
+      "amortizacion",
+      "anticipada",
+      "interes",
+      "ahorro",
+      "cuota",
+      "capital"
+    ],
+    "base_response": "Si pagas más de la cuota mínima de tu hipoteca, reduces el capital más rápido. Esto baja el interés total que pagas y acorta el plazo. Es como adelantar pasos en una carrera: llegas a la meta antes y con menos esfuerzo."
+  },
+  {
+    "intent_id": "garantia_hipotecaria_explicada",
+    "keywords": [
+      "garantia",
+      "hipoteca",
+      "prenda",
+      "casa",
+      "riesgo",
+      "banco"
+    ],
+    "base_response": "La casa que compras con una hipoteca es la garantía del préstamo. Si no pagas, el banco puede quedarse con ella. Es como cuando dejas tu bicicleta como prenda para pedir prestado un balón: cuidas el balón para no perder tu bici."
+  },
+  {
+    "intent_id": "microseguros_escolares",
+    "keywords": [
+      "microseguro",
+      "proteccion",
+      "accidente",
+      "estudiante",
+      "cobertura"
+    ],
+    "base_response": "Los microseguros escolares ofrecen protección sencilla y económica ante accidentes menores dentro o fuera del colegio. Permiten que los estudiantes comprendan cómo una pequeña cuota puede cubrir gastos inesperados y fomentar responsabilidad al participar en actividades diarias con mayor seguridad."
+  },
+  {
+    "intent_id": "seguro_de_objetos_personales",
+    "keywords": [
+      "perdida",
+      "robo",
+      "dispositivo",
+      "proteccion",
+      "reemplazo"
+    ],
+    "base_response": "Este seguro cubre objetos personales como tabletas o bicicletas ante pérdida o robo. Enseña a valorar las pertenencias y entender que la protección financiera ayuda a reemplazar artículos importantes sin afectar el presupuesto familiar, promoviendo hábitos de cuidado y prevención."
+  },
+  {
+    "intent_id": "seguro_de_actividades_extracurriculares",
+    "keywords": [
+      "actividad",
+      "riesgo",
+      "participacion",
+      "proteccion",
+      "seguridad"
+    ],
+    "base_response": "Cubre riesgos asociados a deportes, clubes o talleres. Ayuda a los estudiantes a reconocer que cada actividad implica posibles imprevistos y que un seguro adecuado permite disfrutar experiencias nuevas con tranquilidad, reforzando la importancia de planificar antes de asumir compromisos."
+  },
+  {
+    "intent_id": "seguro_de_mascotas_familiares",
+    "keywords": [
+      "mascota",
+      "salud",
+      "cuidado",
+      "emergencia",
+      "veterinario"
+    ],
+    "base_response": "Este seguro protege a las mascotas ante emergencias veterinarias. Permite a los estudiantes comprender que los animales también requieren cuidados costosos y que una póliza ayuda a enfrentar gastos inesperados, fortaleciendo la responsabilidad y el respeto hacia los seres vivos del hogar."
+  },
+  {
+    "intent_id": "seguro_de_eventos_familiares",
+    "keywords": [
+      "evento",
+      "cancelacion",
+      "proteccion",
+      "planificacion",
+      "reembolso"
+    ],
+    "base_response": "Cubre gastos por cancelaciones de celebraciones familiares. Enseña a los estudiantes que incluso momentos especiales pueden enfrentar imprevistos y que un seguro ayuda a recuperar parte del dinero invertido, promoviendo la planificación cuidadosa y la toma de decisiones informadas."
+  },
+  {
+    "intent_id": "arbol_de_decisiones_ahorro",
+    "keywords": [
+      "ahorro",
+      "interes_compuesto",
+      "tiempo",
+      "decision",
+      "futuro"
+    ],
+    "base_response": "Imagina que plantar un arbol hoy te dara sombra en el futuro. Ahorrar dinero cuando eres joven es como regar semillas que crecen solas gracias al interes compuesto. Cada pequena decision de ahorro hoy se convierte en un gran fruto para tu retiro."
+  },
+  {
+    "intent_id": "maquina_del_tiempo_financiera",
+    "keywords": [
+      "dinero",
+      "tiempo",
+      "oportunidad",
+      "inversion",
+      "crecimiento"
+    ],
+    "base_response": "Usa tu maquina del tiempo mental: el dinero que ahorras hoy viaja al futuro y crece. Gastar en dulces ahora significa perder la oportunidad de tener mucho mas despues. Cada euro invertido es un billete de ida al retiro."
+  },
+  {
+    "intent_id": "chef_de_la_jubilacion",
+    "keywords": [
+      "ahorro",
+      "receta",
+      "ingredientes",
+      "plan",
+      "futuro",
+      "jubilacion"
+    ],
+    "base_response": "Ser chef de tu jubilacion significa preparar los ingredientes hoy: ahorro, inversion y paciencia. No esperes al ultimo minuto para cocinar tu retiro. Cada moneda que guardas es un condimento que hara tu futuro mas sabroso y seguro."
+  },
+  {
+    "intent_id": "superheroes_del_ahorro",
+    "keywords": [
+      "superheroe",
+      "ahorro",
+      "habito",
+      "fuerza",
+      "invisibilidad",
+      "disciplina"
+    ],
+    "base_response": "Cada habito de ahorro es un superpoder: la fuerza para resistir gastos, la invisibilidad para evitar compras impulsivas y la vision de rayos X para ver tu futuro. ¡Conviertete en un heroe financiero que construye su retiro!"
+  },
+  {
+    "intent_id": "mapa_del_tesoro_retiro",
+    "keywords": [
+      "mapa",
+      "tesoro",
+      "pasos",
+      "ingreso",
+      "ahorro",
+      "inversion"
+    ],
+    "base_response": "Tu retiro es un tesoro escondido. El mapa tiene pasos: primero, consigue ingresos; segundo, ahorra una parte; tercero, invierte sabiamente. Cada paso te acerca al cofre del retiro. No te saltes ni uno o perderas el rumbo."
+  },
+  {
+    "intent_id": "prueba_de_mercado_escolar",
+    "keywords": [
+      "prueba",
+      "mercado",
+      "escolar",
+      "idea",
+      "inversion",
+      "companeros"
+    ],
+    "base_response": "Antes de lanzar cualquier emprendimiento juvenil, debes probar tu idea con tus compañeros de colegio para saber si les gusta y pagarían por ella. Esta prueba de mercado escolar te ayuda a evitar perder dinero en productos o servicios que nadie quiere comprar, sin necesidad de invertir mucho al principio."
+  },
+  {
+    "intent_id": "prueba_de_ideas_sin_inversion_inicial",
+    "keywords": [
+      "prueba",
+      "idea",
+      "inversion",
+      "inicial",
+      "ahorro",
+      "riesgo"
+    ],
+    "base_response": "No necesitas gastar dinero para comprobar si tu emprendimiento funcionará: puedes mostrar diseños de productos o explicar tu servicio a personas conocidas para medir su interés. Esta prueba de ideas sin inversión inicial reduce mucho el riesgo de perder tus ahorros si la idea no tiene aceptación."
+  },
+  {
+    "intent_id": "conteo_de_costos_ocultos_juveniles",
+    "keywords": [
+      "costos",
+      "ocultos",
+      "ganancias",
+      "tiempo",
+      "transporte",
+      "materiales"
+    ],
+    "base_response": "Muchos emprendedores juveniles olvidan sumar gastos pequeños como el transporte para comprar materiales o el tiempo que invierten en armar productos. El conteo de costos ocultos te permite calcular tus ganancias reales y no creer que ganas más dinero del que realmente tienes."
+  },
+  {
+    "intent_id": "generacion_de_ingresos_por_habilidades_propias",
+    "keywords": [
+      "generacion",
+      "ingresos",
+      "habilidades",
+      "dibujo",
+      "tareas",
+      "arreglo"
+    ],
+    "base_response": "No hace falta comprar materiales o invertir dinero para empezar un emprendimiento juvenil: puedes generar ingresos usando habilidades que ya dominas, como dibujar retratos, ayudar a compañeros con tareas escolares o arreglar objetos pequeños de tus vecinos sin costo adicional."
+  },
+  {
+    "intent_id": "reduccion_de_desperdicio_como_modelo_juvenil",
+    "keywords": [
+      "reduccion",
+      "desperdicio",
+      "modelo",
+      "negocio",
+      "reciclaje",
+      "ahorro"
+    ],
+    "base_response": "Los emprendimientos juveniles basados en reducir el desperdicio, como recolectar útiles escolares usados para venderlos a menor precio o hacer compost con residuos de frutas del recreo, te permiten ganar dinero mientras ayudas a cuidar el medio ambiente de tu comunidad."
+  },
+  {
+    "intent_id": "efecto_dinero_encontrado",
+    "keywords": [
+      "dinero",
+      "regalo",
+      "ahorro",
+      "gasto",
+      "sorpresa",
+      "ahorrar"
+    ],
+    "base_response": "El dinero recibido como regalo o hallazgo suele gastarse con menos cuidado. Para evitarlo, crea una regla: guarda siempre la mitad de cualquier dinero inesperado en tu alcancía de ahorros. Asi cambias un impulso en un habito positivo."
+  },
+  {
+    "intent_id": "trampa_envio_gratis",
+    "keywords": [
+      "envio",
+      "gratis",
+      "compra",
+      "limite",
+      "gasto_extra",
+      "necesidad"
+    ],
+    "base_response": "Las tiendas ofrecen envio gratis si gastas una cantidad minima. Eso te tienta a anadir productos que no necesitas. Antes de comprar, preguntate: ?realmente quiero esto o solo quiero evitar el costo de envio?"
+  },
+  {
+    "intent_id": "sesgo_descuento_porcentual",
+    "keywords": [
+      "descuento",
+      "porcentaje",
+      "precio",
+      "ahorro_real",
+      "calculo",
+      "comparacion"
+    ],
+    "base_response": "Un 50% de descuento suena mejor que 5 euros menos, pero a veces el ahorro en euros es menor. Siempre calcula el precio final en tu moneda. Compara el descuento con tu presupuesto, no solo con el porcentaje."
+  },
+  {
+    "intent_id": "costo_oportunidad_ahora",
+    "keywords": [
+      "costo",
+      "oportunidad",
+      "gasto",
+      "ahorro",
+      "eleccion",
+      "futuro"
+    ],
+    "base_response": "Cada vez que gastas ahora, renuncias a usarlo despues en algo mejor. Por ejemplo, un helado hoy puede significar no tener suficiente para un juego la semana que viene. Preguntate: ?que estoy dejando de lado al comprar esto?"
+  },
+  {
+    "intent_id": "inercia_ahorro_automatico",
+    "keywords": [
+      "ahorro",
+      "automatico",
+      "habito",
+      "rutina",
+      "transferencia",
+      "facil"
+    ],
+    "base_response": "Si programas que una parte de tu dinero se vaya a tu cuenta de ahorros sin pensarlo, ahorraras sin esfuerzo. Tu cerebro prefiere lo facil. Configura una transferencia automatica semanal y observa como crece tu fondo sin tentaciones."
+  },
+  {
+    "intent_id": "tiempo_como_moneda_oculta",
+    "keywords": [
+      "tiempo",
+      "decision",
+      "prioridad",
+      "actividad",
+      "beneficio"
+    ],
+    "base_response": "El costo de oportunidad también aparece cuando tratas tu tiempo como una moneda oculta. Cada minuto dedicado a una actividad impide aprovechar otra con beneficios distintos. Reconocer este intercambio ayuda a elegir acciones que aporten mayor valor personal y académico."
+  },
+  {
+    "intent_id": "talento_en_ruta_alternativa",
+    "keywords": [
+      "talento",
+      "eleccion",
+      "habilidad",
+      "crecimiento",
+      "proyecto"
+    ],
+    "base_response": "A veces el costo de oportunidad surge al usar tu talento en una ruta alternativa. Si aplicas tus habilidades en un proyecto, renuncias a desarrollarlas en otro. Entender esta renuncia permite decidir dónde tu crecimiento será más significativo y motivador."
+  },
+  {
+    "intent_id": "intercambio_de_energia_mental",
+    "keywords": [
+      "energia",
+      "concentracion",
+      "tarea",
+      "resultado",
+      "motivacion"
+    ],
+    "base_response": "El costo de oportunidad también implica intercambiar tu energía mental. Al concentrarte en una tarea, reduces la energía disponible para otras. Reconocer este límite ayuda a priorizar actividades que generen mejores resultados y mantengan tu motivación estable."
+  },
+  {
+    "intent_id": "ventana_de_posibilidades_perdidas",
+    "keywords": [
+      "posibilidad",
+      "decision",
+      "beneficio",
+      "alternativa",
+      "impacto"
+    ],
+    "base_response": "Cada decisión abre una ventana y cierra otras. El costo de oportunidad es el impacto de las posibilidades perdidas al elegir una alternativa. Comprender estas ventanas ayuda a valorar opciones que ofrecen beneficios más amplios y efectos positivos en tu futuro."
+  },
+  {
+    "intent_id": "trueque_de_experiencias_formativas",
+    "keywords": [
+      "experiencia",
+      "aprendizaje",
+      "eleccion",
+      "actividad",
+      "desarrollo"
+    ],
+    "base_response": "El costo de oportunidad aparece cuando haces un trueque de experiencias formativas. Al elegir una actividad de aprendizaje, renuncias a otra que también podría enriquecer tu desarrollo. Evaluar este trueque permite seleccionar experiencias con mayor impacto educativo."
+  },
+  {
+    "intent_id": "libertad_para_cubrir_gastos_sin_prestamos",
+    "keywords": [
+      "gastos",
+      "prestamos",
+      "allegados",
+      "ahorro",
+      "mesada",
+      "independencia"
+    ],
+    "base_response": "Se trata de poder pagar tus pequeños gustos, como un helado o un lápiz de colores, o los materiales que necesitas para el colegio sin tener que pedir dinero prestado a tus papás, amigos o cualquier otra persona. Lo logras guardando un poco de tu mesada cada semana."
+  },
+  {
+    "intent_id": "libertad_para_elegir_actividades_que_generan_dinero",
+    "keywords": [
+      "ingresos",
+      "actividades",
+      "diversion",
+      "trabajos",
+      "autonomia"
+    ],
+    "base_response": "Es la posibilidad de ganar dinero extra haciendo cosas que te divierten, como vender dibujos, cuidar mascotas de vecinos o enseñar a jugar un videojuego a niños más chicos, sin tener que aceptar trabajos que no te gustan o te hacen sentir incómodo."
+  },
+  {
+    "intent_id": "capacidad_para_afrontar_gastos_imprevistos_sin_deudas",
+    "keywords": [
+      "gastos",
+      "imprevistos",
+      "deudas",
+      "ahorro",
+      "emergencias",
+      "independencia"
+    ],
+    "base_response": "Es la seguridad de poder pagar gastos inesperados, como la reparación de tu bicicleta, una salida del colegio que no tenías planeada o un regalo de último momento para un amigo, sin tener que pedir dinero prestado ni generar deudas que luego debas pagar."
+  },
+  {
+    "intent_id": "libertad_para_disfrutar_gustos_sin_descuidar_metas",
+    "keywords": [
+      "gustos",
+      "metas",
+      "ahorro",
+      "experiencias",
+      "gastos",
+      "obligatorios"
+    ],
+    "base_response": "Es la posibilidad de disfrutar de cosas que te gustan, como ir al cine con tus amigos, comprar un videojuego nuevo o asistir a un cumpleaños con regalo, sin tener que dejar de ahorrar para tu meta de comprar una consola o descuidar los gastos del colegio."
+  },
+  {
+    "intent_id": "autonomia_para_tomar_decisiones_dineros_sin_consultar_otros",
+    "keywords": [
+      "decisiones",
+      "dinero",
+      "autonomia",
+      "administracion",
+      "conocimientos",
+      "independencia"
+    ],
+    "base_response": "Se trata de poder decidir tú solo qué haces con tu dinero, si lo guardas, lo gastas en gustos o lo inviertes en una idea que tengas, sin tener que preguntarle a otra persona qué es lo mejor, porque ya sabes administrarlo de forma responsable."
+  },
+  {
+    "intent_id": "riesgo_en_trueques_escolares",
+    "keywords": [
+      "trueque",
+      "companeros",
+      "recompensa",
+      "riesgo",
+      "acuerdo",
+      "valor"
+    ],
+    "base_response": "Cuando intercambias materiales con tus compañeros, existe riesgo y retorno: si cambias un lápiz nuevo por una goma usada, podrías perder valor (riesgo) o ganar un objeto que necesites más (retorno). Evalúa el valor de lo que das y recibes antes de cerrar el acuerdo."
+  },
+  {
+    "intent_id": "riesgo_por_no_invertir_tiempo_habilidades",
+    "keywords": [
+      "tiempo",
+      "habilidad",
+      "ingreso",
+      "riesgo",
+      "retorno",
+      "aprendizaje"
+    ],
+    "base_response": "Invertir tiempo en aprender habilidades como tocar un instrumento o arreglar bicicletas tiene riesgo y retorno: el riesgo es que no le salga bien y no ganes dinero, el retorno es que si lo dominas, podrás ganar ingresos extra haciendo lo que te gusta."
+  },
+  {
+    "intent_id": "riesgo_en_prestamos_entre_companeros",
+    "keywords": [
+      "prestamo",
+      "companeros",
+      "acuerdo",
+      "riesgo",
+      "retorno",
+      "confianza"
+    ],
+    "base_response": "Cuando le prestas dinero o materiales a un compañero, hay riesgo y retorno involucrados: el riesgo es que no te devuelva lo que le diste, el retorno es que si cumple, mantienes tu confianza y puedes volver a ayudarle en el futuro."
+  },
+  {
+    "intent_id": "riesgo_en_proyectos_escolares",
+    "keywords": [
+      "proyecto",
+      "escolar",
+      "riesgo",
+      "retorno",
+      "aprendizaje",
+      "nota"
+    ],
+    "base_response": "Al realizar proyectos escolares, puedes elegir opciones fáciles o más complejas: elegir la opción difícil tiene riesgo de que salga mal y tengas una nota baja, pero retorno de aprender más contenido y obtener una calificación más alta si lo haces bien."
+  },
+  {
+    "intent_id": "riesgo_por_no_comparar_precios",
+    "keywords": [
+      "compra",
+      "comparacion",
+      "precio",
+      "ahorro",
+      "riesgo",
+      "retorno"
+    ],
+    "base_response": "Cuando compras golosinas o materiales en la tienda del colegio, existe riesgo y retorno: si compras el primer producto que ves sin comparar precios, gastas más dinero de lo necesario (riesgo), pero si comparas, obtienes lo mismo por menos y ahorras (retorno)."
+  },
+  {
+    "intent_id": "mercado_de_talentos_multiples",
+    "keywords": [
+      "habilidades",
+      "intercambio",
+      "ingresos",
+      "servicios",
+      "oportunidades"
+    ],
+    "base_response": "Tus talentos son como herramientas para ganar dinero. Si dibujas bien, puedes vender tus obras. Si entiendes matemáticas, ofrece tutoría. Al usar varias habilidades, creas distintas fuentes de ingresos y no dependes de una sola."
+  },
+  {
+    "intent_id": "huerto_de_ingresos",
+    "keywords": [
+      "semillas",
+      "cosecha",
+      "diversidad",
+      "plantar",
+      "ganancias"
+    ],
+    "base_response": "Imagina que cada fuente de ingreso es una planta diferente. Vender limonada es una, cuidar mascotas otra, y reciclar latas otra más. Al tener varias plantas, si una no da fruto, las otras te alimentan financieramente."
+  },
+  {
+    "intent_id": "rifas_del_tiempo",
+    "keywords": [
+      "horario",
+      "bloques",
+      "actividades",
+      "organizar",
+      "productividad"
+    ],
+    "base_response": "Distribuye tu tiempo libre como si fueran bloques de construcción. Dedica una hora a ayudar en casa por una paga, otra hora a crear pulseras para vender, y otra a encuestas online. Así usas el tiempo para múltiples ingresos."
+  },
+  {
+    "intent_id": "monedas_virtuales_y_reales",
+    "keywords": [
+      "digital",
+      "fisico",
+      "plataformas",
+      "trueque",
+      "dinero"
+    ],
+    "base_response": "Gana dinero real con actividades físicas como lavar autos, y también virtuales como crear diseños para juegos o subir videos. Combinar ambos mundos te da más oportunidades y te protege si un mercado se debilita."
+  },
+  {
+    "intent_id": "ciclo_de_trueque_moderno",
+    "keywords": [
+      "intercambio",
+      "servicios",
+      "red",
+      "valor",
+      "convertir"
+    ],
+    "base_response": "Intercambia lo que sabes hacer por lo que otros saben: enseña inglés a cambio de clases de guitarra. Luego, si alguien te paga por enseñar, conviertes ese trueque en dinero. Así diversificas sin empezar de cero."
+  },
+  {
+    "intent_id": "ahorro_por_redondeo_pagos",
+    "keywords": [
+      "monedas",
+      "vuelto",
+      "compras",
+      "alcancia",
+      "ahorro_extra"
+    ],
+    "base_response": "Cuando compras golosinas o útiles escolares en efectivo, puedes guardar el vuelto o el monto que sobra al redondear la compra a la moneda más cercana. Esa cantidad pequeña se acumula rápido en tu alcancía sin que te des cuenta."
+  },
+  {
+    "intent_id": "interes_compuesto_sencillo",
+    "keywords": [
+      "ahorro",
+      "interes",
+      "crecimiento",
+      "tiempo",
+      "dinero"
+    ],
+    "base_response": "El interés compuesto es como una torta de cumpleaños que crece sola cada año: el dinero que tienes ahorrado genera ganancias, y esas ganancias también generan más ganancias con el paso del tiempo, sin que tengas que agregar más dinero."
+  },
+  {
+    "intent_id": "ahorro_por_trueque_objetos",
+    "keywords": [
+      "trueque",
+      "objetos",
+      "ahorro",
+      "intercambio",
+      "gastos"
+    ],
+    "base_response": "Puedes ahorrar dinero si intercambias juguetes, libros o materiales escolares que ya no usas con tus compañeros por lo que necesitas, sin tener que gastar dinero en nuevas compras. Así aprovechas lo que tienes y evitas gastos innecesarios."
+  },
+  {
+    "intent_id": "inversion_en_habilidades",
+    "keywords": [
+      "habilidades",
+      "formacion",
+      "ingresos",
+      "futuro",
+      "aprendizaje"
+    ],
+    "base_response": "Invertir en aprender habilidades como dibujo, programación o cocina es una inversión segura: el conocimiento que ganas te permitirá generar ingresos extra en el futuro haciendo lo que te gusta, sin depender de otras personas."
+  },
+  {
+    "intent_id": "fondo_emergencia_escolar",
+    "keywords": [
+      "emergencia",
+      "gastos",
+      "imprevistos",
+      "ahorro",
+      "materiales"
+    ],
+    "base_response": "Crea un fondo de emergencia pequeño exclusivo para gastos imprevistos escolares: rotura de cuadernos, materiales para trabajos de último momento o salidas de curso. Así no tendrás que pedir dinero prestado a tus padres ni gastar tu dinero de merienda."
+  },
+  {
+    "intent_id": "asignacion_cupos_gasto_menores",
+    "keywords": [
+      "cupos",
+      "gasto",
+      "asignacion",
+      "menores",
+      "administracion",
+      "decision"
+    ],
+    "base_response": "Es una práctica que asigna una cantidad fija de dinero semanal o mensual a los hijos para que decidan libremente en qué gastarlo, dentro de límites acordados. Les enseña a valorar el dinero y tomar decisiones financieras responsables desde pequeños."
+  },
+  {
+    "intent_id": "fondo_emergencia_familiar_adaptado",
+    "keywords": [
+      "fondo",
+      "emergencia",
+      "gastos",
+      "imprevistos",
+      "deudas",
+      "ahorro"
+    ],
+    "base_response": "Es un ahorro reservado exclusivamente para cubrir gastos inesperados en el hogar, como la reparación de un electrodoméstico o la compra de materiales escolares de último momento. Evita pedir dinero prestado de forma urgente y generar deudas innecesarias."
+  },
+  {
+    "intent_id": "rueda_distribucion_gastos_compartidos",
+    "keywords": [
+      "rueda",
+      "distribucion",
+      "gastos",
+      "compartidos",
+      "integrante",
+      "actividades"
+    ],
+    "base_response": "Es una herramienta visual circular donde se anotan los gastos que benefician a toda la familia, como salidas o cenas compartidas. Cada integrante vota qué parte del presupuesto se destina a cada rubro, promoviendo la participación equitativa de todos los miembros."
+  },
+  {
+    "intent_id": "inclusion_actividades_extracurriculares_presupuesto",
+    "keywords": [
+      "costo",
+      "actividades",
+      "extracurriculares",
+      "presupuesto",
+      "gastos",
+      "basicos"
+    ],
+    "base_response": "Es el análisis del dinero necesario para pagar actividades como deportes, música o clases de arte, dentro del presupuesto familiar. Ayuda a priorizar qué actividades se pueden realizar sin perjudicar el pago de gastos esenciales como alimentos o servicios."
+  },
+  {
+    "intent_id": "presupuesto_eventos_especiales_familiares",
+    "keywords": [
+      "presupuesto",
+      "eventos",
+      "especiales",
+      "aportes",
+      "integrantes",
+      "ahorro"
+    ],
+    "base_response": "Es la planificación del dinero para celebraciones como cumpleaños, vacaciones o salidas familiares, que incluye aportes de todos los miembros. Reduce el gasto total, fortalece el trabajo en equipo y hace que todos se involucren en la gestión económica del hogar."
+  },
+  {
+    "intent_id": "experimento_del_gasto_cero",
+    "keywords": [
+      "gasto",
+      "cero",
+      "necesidad",
+      "deseo",
+      "experimento",
+      "reflexion"
+    ],
+    "base_response": "El experimento del gasto cero te reta a no gastar dinero durante un dia. Anota que deseaste comprar pero no necesitabas. Al final, descubres la diferencia entre lo necesario y lo superfluo, aprendiendo a controlar gastos."
+  },
+  {
+    "intent_id": "calculadora_de_suenos",
+    "keywords": [
+      "ahorro",
+      "meta",
+      "gasto",
+      "diario",
+      "calculo",
+      "decision"
+    ],
+    "base_response": "La calculadora de suenos convierte pequenos gastos diarios en tiempo para alcanzar una meta. Por ejemplo, dejar de comprar un dulce cada dia suma lo suficiente para un juego en meses. Asi priorizas tu dinero."
+  },
+  {
+    "intent_id": "detective_de_gastos_ocultos",
+    "keywords": [
+      "detective",
+      "gasto",
+      "pequeno",
+      "recurrente",
+      "suma",
+      "conciencia"
+    ],
+    "base_response": "El detective de gastos ocultos busca pequenas salidas de dinero que pasan desapercibidas, como un refresco diario o una suscripcion. Al sumarlos, ves cuanto podrias ahorrar. Cazar esos gastos te da control."
+  },
+  {
+    "intent_id": "presupuesto_de_la_mochila",
+    "keywords": [
+      "presupuesto",
+      "mochila",
+      "asignacion",
+      "gasto",
+      "limite",
+      "eleccion"
+    ],
+    "base_response": "El presupuesto de la mochila te da una cantidad fija para comprar utiles escolares. Debes elegir que comprar sin pasarte. Asi practicas como asignar dinero a distintas prioridades y ajustar tus decisiones."
+  },
+  {
+    "intent_id": "ingresos_por_venta_de_recursos_digitales_educativos",
+    "keywords": [
+      "apuntes",
+      "plantillas",
+      "guias",
+      "estudiantes",
+      "vender",
+      "plataformas"
+    ],
+    "base_response": "Consiste en crear y vender materiales de estudio que tú mismo elaboras, como apuntes organizados, plantillas de organizadores gráficos o guías de repaso para exámenes, a compañeros que necesiten apoyo en sus materias. Los recursos se comparten por medios seguros, respetando las normas del centro para evitar plagio."
+  },
+  {
+    "intent_id": "ingresos_por_participacion_en_estudios_de_mercado_aprobados",
+    "keywords": [
+      "estudios",
+      "mercado",
+      "padres",
+      "empresas",
+      "opinion",
+      "dinero"
+    ],
+    "base_response": "Son pagos que recibes por dar tu opinión sobre productos o servicios dirigidos a menores, en estudios organizados por empresas que necesitan conocer tus gustos. Siempre debes contar con la autorización de tus padres o tutores para participar de forma segura."
+  },
+  {
+    "intent_id": "ingresos_por_venta_de_contenido_multimedia_estudiantil",
+    "keywords": [
+      "fotografias",
+      "videos",
+      "plataformas",
+      "licencias",
+      "naturaleza",
+      "actividades"
+    ],
+    "base_response": "Consiste en vender fotografías o videos cortos que tú grabas o tomas, de paisajes, animales o actividades escolares, en plataformas que compran contenidos para usar en webs, anuncios o materiales educativos, generando ingresos cada vez que alguien descarga tu material."
+  },
+  {
+    "intent_id": "ingresos_por_servicio_de_ayuda_tecnologica_a_adultos_mayores",
+    "keywords": [
+      "tecnologia",
+      "adultos",
+      "mayores",
+      "apps",
+      "dispositivos",
+      "enseñar"
+    ],
+    "base_response": "Es una fuente de ingreso en la que cobras por enseñar a adultos mayores a usar dispositivos móviles, aplicaciones de mensajería, trámites digitales o redes sociales, resolviendo sus dudas de forma paciente y adaptada a su ritmo de aprendizaje."
+  },
+  {
+    "intent_id": "ingresos_por_servicio_de_cuidado_de_huertos_urbanos",
+    "keywords": [
+      "huertos",
+      "vecinos",
+      "verduras",
+      "cuidado",
+      "excedentes",
+      "venta"
+    ],
+    "base_response": "Consiste en cobrar a vecinos por cuidar sus huertos urbanos pequeños en espacios comunes o balcones, regando las plantas, quitando maleza y cosechando. Puedes vender los excedentes de verduras y hierbas que se produzcan para generar más ingresos."
+  },
+  {
+    "intent_id": "mapa_de_deudas_personal",
+    "keywords": [
+      "registro",
+      "prioridad",
+      "organizacion",
+      "evaluacion",
+      "planificacion"
+    ],
+    "base_response": "Un mapa de deudas personal permite visualizar claramente a quién se debe, cuánto y cuándo. Ayuda a priorizar pagos, evitar confusiones y tomar decisiones más inteligentes. Al verlo como un esquema, los estudiantes comprenden mejor su responsabilidad y anticipan riesgos antes de que crezcan."
+  },
+  {
+    "intent_id": "intercambio_de_tiempo_por_deuda",
+    "keywords": [
+      "tiempo",
+      "esfuerzo",
+      "compromiso",
+      "responsabilidad",
+      "equilibrio"
+    ],
+    "base_response": "Este concepto enseña que cada deuda implica intercambiar tiempo futuro por un beneficio presente. Los estudiantes aprenden a valorar su esfuerzo y a decidir si realmente vale la pena asumir ese compromiso. Comprender este intercambio fomenta decisiones más cuidadosas y equilibradas."
+  },
+  {
+    "intent_id": "semillas_de_deuda",
+    "keywords": [
+      "crecimiento",
+      "habito",
+      "decision",
+      "consecuencia",
+      "prevencion"
+    ],
+    "base_response": "Las semillas de deuda representan pequeñas decisiones que pueden crecer con el tiempo. Si se cuidan, no generan problemas; si se ignoran, se convierten en cargas mayores. Este enfoque ayuda a los estudiantes a identificar hábitos tempranos y prevenir complicaciones futuras."
+  },
+  {
+    "intent_id": "ecosistema_de_compromisos",
+    "keywords": [
+      "compromiso",
+      "balance",
+      "prioridad",
+      "disciplina",
+      "gestion"
+    ],
+    "base_response": "Un ecosistema de compromisos muestra cómo cada deuda afecta otras responsabilidades. Los estudiantes aprenden a equilibrar tareas, pagos y metas personales. Comprender estas conexiones fortalece la disciplina y permite tomar decisiones más coherentes con sus objetivos a largo plazo."
+  },
+  {
+    "intent_id": "huella_deuda_futura",
+    "keywords": [
+      "impacto",
+      "proyeccion",
+      "decision",
+      "costo",
+      "anticipacion"
+    ],
+    "base_response": "La huella de deuda futura explica cómo una decisión presente deja marcas en el futuro. Los estudiantes analizan el impacto de cada compromiso y proyectan posibles escenarios. Esta anticipación les ayuda a evitar costos innecesarios y a elegir opciones más sostenibles."
+  },
+  {
+    "intent_id": "huella_digital_de_gasto",
+    "keywords": [
+      "registro",
+      "patron",
+      "analisis",
+      "consumo",
+      "planificacion"
+    ],
+    "base_response": "Una tarjeta de credito crea una huella digital de tus gastos. Analizarla permite descubrir patrones, anticipar necesidades y ajustar decisiones. Comprender esta huella ayuda a transformar compras impulsivas en elecciones conscientes que fortalecen tu autonomia financiera."
+  },
+  {
+    "intent_id": "simulacion_de_compromisos_futuros",
+    "keywords": [
+      "simulacion",
+      "compromiso",
+      "pago",
+      "evaluacion",
+      "responsabilidad"
+    ],
+    "base_response": "Usar una tarjeta de credito implica comprometer ingresos futuros. Simular distintos escenarios de pago permite evaluar riesgos y beneficios. Esta practica enseña a anticipar consecuencias, equilibrar deseos y necesidades, y asumir responsabilidad sin perder libertad financiera."
+  },
+  {
+    "intent_id": "estrategia_de_microobjetivos",
+    "keywords": [
+      "objetivo",
+      "motivacion",
+      "seguimiento",
+      "progreso",
+      "disciplina"
+    ],
+    "base_response": "La tarjeta de credito puede apoyar microobjetivos financieros. Dividir metas grandes en pasos pequenos facilita medir progreso y mantener motivacion. Esta estrategia convierte cada compra en una decision alineada con tu disciplina y crecimiento economico personal."
+  },
+  {
+    "intent_id": "mapa_de_riesgos_personalizado",
+    "keywords": [
+      "riesgo",
+      "evaluacion",
+      "prioridad",
+      "decision",
+      "control"
+    ],
+    "base_response": "Crear un mapa de riesgos al usar tarjetas de credito ayuda a identificar situaciones que pueden afectar tu estabilidad. Evaluar prioridades y limites permite tomar decisiones con mayor control. Este enfoque fortalece tu criterio y reduce errores costosos."
+  },
+  {
+    "intent_id": "negociacion_consciente_de_beneficios",
+    "keywords": [
+      "beneficio",
+      "negociacion",
+      "recompensa",
+      "comparacion",
+      "eleccion"
+    ],
+    "base_response": "Las tarjetas de credito ofrecen beneficios que requieren negociacion consciente. Comparar recompensas y condiciones permite elegir opciones que realmente aporten valor. Esta habilidad enseña a cuestionar ofertas y a construir relaciones financieras mas inteligentes."
+  },
+  {
+    "intent_id": "banco_como_guardian_de_ahorros",
+    "keywords": [
+      "banco",
+      "ahorro",
+      "seguridad",
+      "deposito",
+      "dinero",
+      "confianza"
+    ],
+    "base_response": "Un banco es como un guardián que cuida tu dinero en una cuenta de ahorros. En lugar de guardarlo en casa, el banco lo protege con medidas de seguridad y te permite retirarlo cuando lo necesites, ayudándote a alcanzar metas financieras."
+  },
+  {
+    "intent_id": "cuenta_corriente_para_gastos_diarios",
+    "keywords": [
+      "cuenta",
+      "corriente",
+      "gastos",
+      "tarjeta",
+      "transaccion",
+      "dinero"
+    ],
+    "base_response": "La cuenta corriente es una herramienta para manejar gastos diarios. Puedes depositar dinero y usar una tarjeta de débito para pagar compras o retirar efectivo en cajeros, facilitando tus transacciones sin llevar billetes encima."
+  },
+  {
+    "intent_id": "interes_compuesto_en_ahorros",
+    "keywords": [
+      "interes",
+      "compuesto",
+      "ahorro",
+      "crecimiento",
+      "tiempo",
+      "capital"
+    ],
+    "base_response": "El interés compuesto hace que tu dinero crezca como una bola de nieve. Al ahorrar en una cuenta, ganas intereses sobre tu capital y también sobre los intereses anteriores, multiplicando tus ahorros con el paso del tiempo sin esfuerzo extra."
+  },
+  {
+    "intent_id": "banco_como_prestamista",
+    "keywords": [
+      "banco",
+      "prestamo",
+      "deuda",
+      "interes",
+      "credito",
+      "plazo"
+    ],
+    "base_response": "Un banco también presta dinero para que compres cosas grandes, como una bicicleta. A cambio, debes devolver el préstamo con intereses en cuotas mensuales. Esto te permite adquirir bienes ahora y pagarlos poco a poco."
+  },
+  {
+    "intent_id": "comisiones_bancarias_ocultas",
+    "keywords": [
+      "comision",
+      "banco",
+      "cargo",
+      "cuenta",
+      "costo",
+      "transaccion"
+    ],
+    "base_response": "Las comisiones son cargos que el banco aplica por servicios como mantener tu cuenta o retirar dinero en otros cajeros. Es importante leer los términos para evitar sorpresas, ya que estos costos reducen tu saldo disponible si no los controlas."
+  },
+  {
+    "intent_id": "ahorro_en_alcancia_digital",
+    "keywords": [
+      "ahorro",
+      "alcancia",
+      "digital",
+      "interes",
+      "ganancia",
+      "aplicacion"
+    ],
+    "base_response": "Las aplicaciones de ahorro infantil pagan intereses mensuales por el dinero guardado en tu alcancía digital. Mientras más tiempo dejes el dinero sin retirarlo, mayor será la ganancia acumulada por la tasa de interés que te ofrece la plataforma."
+  },
+  {
+    "intent_id": "prestamos_entre_companeros",
+    "keywords": [
+      "prestamo",
+      "companero",
+      "interes",
+      "pago",
+      "retraso",
+      "deuda"
+    ],
+    "base_response": "Cuando pides dinero prestado a un compañero y acuerdas pagarle un interés extra por esperar, ese porcentaje es una tasa de interés informal. Si te retrasas en el pago, el monto total a devolver crece por los intereses acumulados durante los días de retraso."
+  },
+  {
+    "intent_id": "compras_a_plazos_cooperativa_escolar",
+    "keywords": [
+      "compra",
+      "plazo",
+      "cooperativa",
+      "escolar",
+      "interes",
+      "costo"
+    ],
+    "base_response": "Cuando compras útiles escolares o snacks a plazos en la cooperativa de tu colegio, la tasa de interés se suma al precio original del producto. Pagas un costo extra por la posibilidad de dividir el pago en varias quincenas o meses sin pagar todo de una vez."
+  },
+  {
+    "intent_id": "prestamos_para_emprendimiento_escolar",
+    "keywords": [
+      "prestamo",
+      "emprendimiento",
+      "escolar",
+      "interes",
+      "ganancia",
+      "proyecto"
+    ],
+    "base_response": "Si pides un préstamo a tu profesor o a la dirección del colegio para montar tu puesto de venta de galletas en la feria, la tasa de interés define cuánto dinero extra deberás devolver además del capital inicial prestado para tu proyecto."
+  },
+  {
+    "intent_id": "ahorro_para_viaje_fin_de_curso",
+    "keywords": [
+      "ahorro",
+      "viaje",
+      "fin",
+      "curso",
+      "tasa",
+      "variable"
+    ],
+    "base_response": "Si guardas dinero para tu viaje de fin de curso en una cuenta con tasa de interés variable, la ganancia mensual puede cambiar según las decisiones del banco central. Si la tasa sube, ganas más dinero sin necesidad de aportar más fondos tú mismo."
+  },
+  {
+    "intent_id": "presupuesto_de_decisiones",
+    "keywords": [
+      "decision",
+      "gasto",
+      "ahorro",
+      "prioridad",
+      "necesidad"
+    ],
+    "base_response": "Un presupuesto no es solo una lista de gastos. Es una herramienta para tomar decisiones conscientes. Al asignar tu dinero a lo que realmente importa, aprendes a priorizar necesidades sobre deseos y a construir un futuro financiero sólido."
+  },
+  {
+    "intent_id": "interes_compuesto_mental",
+    "keywords": [
+      "interes",
+      "compuesto",
+      "ahorro",
+      "tiempo",
+      "crecimiento"
+    ],
+    "base_response": "El interés compuesto es como una bola de nieve que crece al rodar. Al ahorrar una pequeña cantidad hoy, el dinero genera ganancias que a su vez generan más ganancias. Con el tiempo, ese pequeño esfuerzo se convierte en un gran tesoro."
+  },
+  {
+    "intent_id": "valor_del_trabajo_remunerado",
+    "keywords": [
+      "trabajo",
+      "remuneracion",
+      "esfuerzo",
+      "habilidad",
+      "intercambio"
+    ],
+    "base_response": "El dinero que ganas representa el valor de tu esfuerzo o habilidad. Cada vez que trabajas, intercambias tu tiempo y talento por una recompensa. Entender esto te ayuda a valorar tu trabajo y a buscar formas de aumentar tu valor."
+  },
+  {
+    "intent_id": "deuda_como_herramienta",
+    "keywords": [
+      "deuda",
+      "prestamo",
+      "inversion",
+      "riesgo",
+      "oportunidad"
+    ],
+    "base_response": "No toda deuda es mala. Pedir prestado para algo que aumenta tu valor, como un curso o una herramienta, puede ser una inversión. La clave está en usarla con cuidado, sabiendo que deberás devolver más de lo que recibiste."
+  },
+  {
+    "intent_id": "inflacion_poder_compra",
+    "keywords": [
+      "inflacion",
+      "precio",
+      "poder",
+      "compra",
+      "dinero"
+    ],
+    "base_response": "La inflación hace que el dinero pierda valor con el tiempo. Lo que hoy cuesta un helado, mañana costará más. Por eso, guardar dinero debajo del colchón no es buena idea; es mejor invertirlo para que crezca al mismo ritmo que los precios."
+  },
+  {
+    "intent_id": "la_merienda_que_encoge",
+    "keywords": [
+      "merienda",
+      "precio",
+      "dinero",
+      "compra",
+      "poder",
+      "adquisitivo"
+    ],
+    "base_response": "La inflacion hace que con la misma cantidad de dinero puedas comprar menos meriendas cada año. Por ejemplo, si antes comprabas dos bolsas de papas, ahora solo una. Eso es perder poder adquisitivo: tu dinero vale menos."
+  },
+  {
+    "intent_id": "el_ahorro_que_se_derrite",
+    "keywords": [
+      "ahorro",
+      "inflacion",
+      "valor",
+      "perdida",
+      "compra",
+      "futuro"
+    ],
+    "base_response": "Si guardas dinero en una alcancia sin moverlo, la inflacion reduce su valor con el tiempo. Lo que hoy compras con 10 euros, el ano que viene solo comprara 9 euros de lo mismo. Por eso es importante hacer crecer tu dinero."
+  },
+  {
+    "intent_id": "la_carrera_de_salarios_y_precios",
+    "keywords": [
+      "salario",
+      "precio",
+      "carrera",
+      "inflacion",
+      "poder",
+      "compra"
+    ],
+    "base_response": "Imagina una carrera entre tu mesada y los precios. Si los precios corren mas rapido que tu mesada, cada vez podras comprar menos cosas. Para mantener tu poder adquisitivo, tu dinero debe aumentar al mismo ritmo que la inflacion."
+  },
+  {
+    "intent_id": "el_menu_que_encoge",
+    "keywords": [
+      "menu",
+      "restaurante",
+      "precio",
+      "inflacion",
+      "presupuesto",
+      "comida"
+    ],
+    "base_response": "Con 10 euros antes pedias un menu completo. Ahora, por la inflacion, solo alcanza para una hamburguesa. El menu se encoge porque los precios suben y tu dinero fijo compra menos. Asi se pierde poder adquisitivo en la vida diaria."
+  },
+  {
+    "intent_id": "la_cesta_de_la_compra_que_pesa_menos",
+    "keywords": [
+      "cesta",
+      "compra",
+      "precio",
+      "inflacion",
+      "seguimiento",
+      "valor"
+    ],
+    "base_response": "Si cada mes anotas el precio de la misma cesta de frutas, verduras y leche, veras que sube con la inflacion. Tu dinero de siempre compra menos productos. Hacer ese seguimiento te ayuda a entender como cambia tu poder adquisitivo."
+  },
+  {
+    "intent_id": "impuesto_de_consumo",
+    "keywords": [
+      "compra",
+      "iva",
+      "producto",
+      "servicio",
+      "comunidad",
+      "precio"
+    ],
+    "base_response": "Cada vez que compras un helado o un videojuego, pagas un pequeño extra llamado IVA. Ese dinero se junta para construir parques, hospitales y escuelas. Es como una cuota de socio que pagas al usar los servicios de tu comunidad."
+  },
+  {
+    "intent_id": "impuesto_sobre_la_renta",
+    "keywords": [
+      "ingreso",
+      "alcancia",
+      "escuela",
+      "hospital",
+      "aporte",
+      "justicia"
+    ],
+    "base_response": "El impuesto sobre la renta funciona como una alcancia colectiva. Quienes ganan más dinero aportan una parte mayor, y ese fondo se usa para pagar maestros, médicos y mantener las calles. Así todos contribuyen según su capacidad."
+  },
+  {
+    "intent_id": "impuesto_de_propiedad",
+    "keywords": [
+      "casa",
+      "terreno",
+      "municipio",
+      "alumbrado",
+      "recoleccion",
+      "cuota"
+    ],
+    "base_response": "Si tu familia tiene una casa o terreno, cada año paga un impuesto municipal. Ese dinero sirve para que haya luz en las calles, se recoja la basura y se arreglen los parques. Es el costo de mantener el vecindario en orden."
+  },
+  {
+    "intent_id": "impuesto_ambiental",
+    "keywords": [
+      "contaminacion",
+      "producto",
+      "reciclaje",
+      "naturaleza",
+      "cuidado",
+      "costo"
+    ],
+    "base_response": "Algunos productos cuestan más porque incluyen un impuesto ambiental. Esa cantidad extra se usa para limpiar ríos, plantar árboles o reciclar. Así, pagar un poco más ayuda a proteger la naturaleza y fomenta el consumo responsable."
+  },
+  {
+    "intent_id": "impuesto_ciudadano",
+    "keywords": [
+      "responsabilidad",
+      "colaboracion",
+      "sociedad",
+      "servicios",
+      "equipo",
+      "deber"
+    ],
+    "base_response": "Pagar impuestos no es un castigo, sino una responsabilidad ciudadana. Es como cuando en un equipo cada miembro pone su parte para comprar el balón y las camisetas. Así la sociedad funciona y todos disfrutan de servicios públicos."
+  },
+  {
+    "intent_id": "escudo_superheroe",
+    "keywords": [
+      "ahorro",
+      "emergencia",
+      "escudo",
+      "proteccion",
+      "meta"
+    ],
+    "base_response": "Un fondo de emergencia es como un escudo de superhéroe que te protege ante gastos inesperados. Al guardar dinero cada semana, creas una barrera financiera que te mantiene seguro cuando algo sale mal, como una reparación o una enfermedad."
+  },
+  {
+    "intent_id": "nivel_juego",
+    "keywords": [
+      "juego",
+      "nivel",
+      "ahorro",
+      "objetivo",
+      "logro"
+    ],
+    "base_response": "Imagina tu fondo de emergencia como un nivel en un videojuego. Cada vez que ahorras una pequeña cantidad, avanzas hacia el siguiente nivel. Al llegar a la meta, tendrás un escudo listo para enfrentar cualquier imprevisto sin perder tus monedas."
+  },
+  {
+    "intent_id": "frasco_lluvia",
+    "keywords": [
+      "frasco",
+      "lluvia",
+      "monedas",
+      "ahorro",
+      "visual"
+    ],
+    "base_response": "Un fondo de emergencia es como un frasco para días de lluvia. Cada vez que tienes dinero extra, lo guardas en ese frasco. Cuando llegue un día lluvioso, tendrás monedas listas para usarlas sin preocuparte."
+  },
+  {
+    "intent_id": "esfuerzo_equipo",
+    "keywords": [
+      "equipo",
+      "ahorro",
+      "familia",
+      "cooperacion",
+      "meta"
+    ],
+    "base_response": "Formar un fondo de emergencia en equipo con tu familia es como un juego de cooperación. Todos aportan un poco cada mes para construir un colchón financiero. Así, cuando alguien necesita ayuda, el equipo entero está preparado y nadie se queda solo."
+  },
+  {
+    "intent_id": "semilla_magica",
+    "keywords": [
+      "semilla",
+      "crecimiento",
+      "ahorro",
+      "interes",
+      "futuro"
+    ],
+    "base_response": "Un fondo de emergencia es como una semilla mágica. Si la riegas con ahorros constantes, crece con el tiempo gracias al interés. Cuando necesites dinero urgente, esa semilla se habrá convertido en un árbol fuerte que te dará frutos para resolver el problema."
+  },
+  {
+    "intent_id": "ahorro_de_energia",
+    "keywords": [
+      "energia",
+      "recursos",
+      "sostenibilidad",
+      "consumo",
+      "cuidado"
+    ],
+    "base_response": "El ahorro de energia significa usar electricidad, agua y otros recursos de forma responsable. Apagar luces innecesarias, cerrar grifos y aprovechar la luz natural son acciones sencillas que cuidan el planeta y reducen gastos. Asi contribuyes al cuidado del medio ambiente."
+  },
+  {
+    "intent_id": "ahorro_emocional",
+    "keywords": [
+      "emociones",
+      "bienestar",
+      "resiliencia",
+      "gratitud",
+      "felicidad"
+    ],
+    "base_response": "El ahorro emocional es guardar experiencias positivas y recuerdos felices para momentos dificiles. Practicar la gratitud, compartir con amigos y hacer actividades que te gusten fortalece tu bienestar. Es como una alcancia de buenas emociones que te protege."
+  },
+  {
+    "intent_id": "ahorro_digital",
+    "keywords": [
+      "datos",
+      "almacenamiento",
+      "nube",
+      "seguridad",
+      "respaldo"
+    ],
+    "base_response": "El ahorro digital consiste en administrar tu informacion en dispositivos y la nube. Eliminar archivos que no usas, organizar carpetas y hacer copias de seguridad protege tus datos. Asi evitas perder trabajos escolares y mantienes tu espacio digital ordenado."
+  },
+  {
+    "intent_id": "ahorro_de_talento",
+    "keywords": [
+      "talento",
+      "habilidad",
+      "aprendizaje",
+      "practica",
+      "inversion"
+    ],
+    "base_response": "El ahorro de talento significa invertir tiempo en desarrollar tus habilidades y conocimientos. Practicar un deporte, aprender musica o mejorar en matematicas es como ahorrar para tu futuro. Cada esfuerzo aumenta tu talento y te prepara para grandes logros."
+  },
+  {
+    "intent_id": "cripto_moneda_de_videojuegos",
+    "keywords": [
+      "moneda",
+      "videojuegos",
+      "intercambio",
+      "valor",
+      "ahorro"
+    ],
+    "base_response": "Las criptomonedas son como las monedas de un videojuego, pero con valor real. Puedes ganarlas haciendo tareas o jugando, guardarlas en una billetera digital y usarlas para comprar cosas o intercambiarlas con amigos. Aprendes a administrar tu dinero digital."
+  },
+  {
+    "intent_id": "blockchain_diario_compartido",
+    "keywords": [
+      "blockchain",
+      "diario",
+      "transacciones",
+      "compartido",
+      "seguro",
+      "registro"
+    ],
+    "base_response": "El blockchain es un diario compartido donde todos escriben las transacciones con criptomonedas. Una vez escritas, no se pueden borrar ni cambiar. Todos tienen una copia idéntica, por eso es seguro y transparente. Nadie puede hacer trampa."
+  },
+  {
+    "intent_id": "mineria_gimnasia_mental",
+    "keywords": [
+      "mineria",
+      "puzzle",
+      "recompensa",
+      "computadora",
+      "seguridad"
+    ],
+    "base_response": "Minar criptomonedas es como resolver un puzzle matemático muy difícil. Las computadoras compiten para encontrar la solución correcta. La primera que lo logra recibe una recompensa en criptomonedas. Este proceso asegura la red y crea nuevas monedas."
+  },
+  {
+    "intent_id": "llaves_criptograficas_especiales",
+    "keywords": [
+      "llave",
+      "publica",
+      "privada",
+      "firma",
+      "propiedad",
+      "seguridad"
+    ],
+    "base_response": "Para usar criptomonedas necesitas dos llaves digitales. Una pública es como tu dirección para recibir dinero. La privada es como tu firma secreta para gastarlo. Nunca compartas tu llave privada, porque cualquiera podría tomar tus fondos."
+  },
+  {
+    "intent_id": "criptomonedas_fichas_intercambio",
+    "keywords": [
+      "fichas",
+      "intercambio",
+      "trueque",
+      "digital",
+      "confianza"
+    ],
+    "base_response": "Las criptomonedas funcionan como fichas digitales para intercambiar valor entre personas. En lugar de billetes, usas monedas virtuales que todos aceptan porque confían en la red. Puedes canjearlas por bienes o servicios, como en un trueque moderno."
+  },
+  {
+    "intent_id": "prestamo_para_proyectos_escolares",
+    "keywords": [
+      "proyecto",
+      "materiales",
+      "planificacion",
+      "presupuesto",
+      "evaluacion"
+    ],
+    "base_response": "Un prestamo puede servir para impulsar proyectos escolares que requieren materiales especiales. Antes de pedirlo, se analiza el presupuesto, se planifica cada gasto y se evalua si el proyecto generara beneficios educativos suficientes para justificar devolver el dinero sin presiones innecesarias."
+  },
+  {
+    "intent_id": "microprestamos_entre_companeros",
+    "keywords": [
+      "confianza",
+      "registro",
+      "acuerdo",
+      "responsabilidad",
+      "seguimiento"
+    ],
+    "base_response": "Los microprestamos entre companeros funcionan cuando existe confianza y reglas claras. Se registra el acuerdo, se define la fecha de devolucion y se realiza seguimiento. Esta practica enseña responsabilidad financiera y muestra como pequeños compromisos pueden fortalecer la convivencia escolar."
+  },
+  {
+    "intent_id": "prestamos_para_emprendimientos_jovenes",
+    "keywords": [
+      "emprendimiento",
+      "inventario",
+      "venta",
+      "organizacion",
+      "reembolso"
+    ],
+    "base_response": "Un prestamo puede iniciar un pequeño emprendimiento juvenil, como vender manualidades o snacks. Se organiza el inventario, se calcula el reembolso y se controla la venta. Esta experiencia enseña a manejar recursos, asumir riesgos y comprender la importancia de cumplir compromisos financieros."
+  },
+  {
+    "intent_id": "prestamos_con_objetivos_medibles",
+    "keywords": [
+      "objetivo",
+      "metrica",
+      "progreso",
+      "motivacion",
+      "compromiso"
+    ],
+    "base_response": "Al pedir un prestamo, definir objetivos medibles ayuda a mantener el compromiso. Se establecen metricas, se revisa el progreso y se ajustan acciones. Esta estrategia permite entender que los prestamos no solo financian compras, tambien impulsan metas personales con motivacion constante."
+  },
+  {
+    "intent_id": "prestamos_para_habitos_financieros",
+    "keywords": [
+      "habito",
+      "registro",
+      "constancia",
+      "planificacion",
+      "control"
+    ],
+    "base_response": "Usar un prestamo para practicar habitos financieros puede ser util. Se registra cada movimiento, se mantiene constancia y se planifica la devolucion. Esta practica enseña control del dinero y muestra como decisiones pequeñas influyen en la estabilidad economica futura."
+  },
+  {
+    "intent_id": "hipoteca_como_mapa_de_largo_plazo",
+    "keywords": [
+      "planificacion",
+      "compromiso",
+      "pago",
+      "vivienda",
+      "responsabilidad"
+    ],
+    "base_response": "Una hipoteca funciona como un mapa financiero de largo plazo. Enseña a organizar pagos constantes, prever gastos futuros y mantener disciplina económica. Comprenderla ayuda a visualizar metas grandes, como una vivienda, y a practicar decisiones responsables que requieren constancia y paciencia."
+  },
+  {
+    "intent_id": "credito_como_huella_financiera",
+    "keywords": [
+      "historial",
+      "prestamo",
+      "evaluacion",
+      "confianza",
+      "pago"
+    ],
+    "base_response": "Un crédito crea una huella financiera que muestra cómo manejas tus compromisos. Cada pago puntual fortalece la confianza de quienes prestan dinero. Esta huella influye en oportunidades futuras, permitiendo acceder a mejores condiciones cuando se demuestra responsabilidad y constancia."
+  },
+  {
+    "intent_id": "intereses_como_precio_del_tiempo",
+    "keywords": [
+      "costo",
+      "tiempo",
+      "prestamo",
+      "calculo",
+      "decision"
+    ],
+    "base_response": "Los intereses representan el precio del tiempo cuando alguien te presta dinero. Comprenderlos permite evaluar si un crédito conviene realmente. Saber calcularlos ayuda a tomar decisiones más inteligentes y a evitar compromisos que puedan volverse demasiado costosos con el paso de los años."
+  },
+  {
+    "intent_id": "garantias_como_red_de_seguridad",
+    "keywords": [
+      "propiedad",
+      "proteccion",
+      "compromiso",
+      "riesgo",
+      "prestamo"
+    ],
+    "base_response": "Las garantías funcionan como una red de seguridad para quien presta dinero. Si el compromiso no se cumple, la propiedad ofrecida respalda el acuerdo. Entender este mecanismo enseña a valorar los riesgos y a asumir responsabilidades antes de solicitar un crédito importante."
+  },
+  {
+    "intent_id": "amortizacion_como_historia_de_un_prestamo",
+    "keywords": [
+      "calendario",
+      "pago",
+      "reduccion",
+      "saldo",
+      "progreso"
+    ],
+    "base_response": "La amortización es la historia de cómo un préstamo se va reduciendo con cada pago. Permite visualizar el progreso real y entender cómo disminuye el saldo. Conocerla ayuda a planificar mejor y a mantener motivación al ver que cada aporte acerca la meta final."
+  },
+  {
+    "intent_id": "escudo_de_la_mochila",
+    "keywords": [
+      "mochila",
+      "pertenencias",
+      "proteccion",
+      "reposicion",
+      "colegio"
+    ],
+    "base_response": "Imagina que tu mochila y sus contenidos tienen un escudo invisible. Si se pierden o dañan, este seguro ayuda a reponerlos. Asi aprendes a cuidar tus objetos y a prevenir perdidas."
+  },
+  {
+    "intent_id": "red_de_seguridad_del_recreo",
+    "keywords": [
+      "accidente",
+      "lesion",
+      "cobertura",
+      "deporte",
+      "escuela"
+    ],
+    "base_response": "Durante el recreo o deportes, pueden ocurrir caidas o golpes. Este seguro cubre gastos medicos menores, como curaciones o radiografias. Te permite jugar tranquilo, sabiendo que hay una red de proteccion."
+  },
+  {
+    "intent_id": "paraguas_para_viaje_escolar",
+    "keywords": [
+      "viaje",
+      "excursion",
+      "cancelacion",
+      "equipaje",
+      "emergencia"
+    ],
+    "base_response": "Antes de una excursion escolar, este seguro actua como un paraguas. Si cancelan el viaje, pierdes tu equipaje o tienes una emergencia, cubre los gastos. Viajas mas seguro y preparado."
+  },
+  {
+    "intent_id": "caja_de_herramientas_del_hogar",
+    "keywords": [
+      "hogar",
+      "dano",
+      "incendio",
+      "robo",
+      "reparacion"
+    ],
+    "base_response": "Tu casa puede sufrir daños por agua, fuego o robo. Un seguro de hogar es como una caja de herramientas que paga las reparaciones. Protege tu lugar favorito y te ensena a prevenir riesgos."
+  },
+  {
+    "intent_id": "salvavidas_digital",
+    "keywords": [
+      "tablet",
+      "celular",
+      "rotura",
+      "robo",
+      "reemplazo"
+    ],
+    "base_response": "Si tu tablet o celular se rompe o lo roban, este seguro es un salvavidas. Cubre el costo de reparacion o reemplazo. Asi aprendes a usar la tecnologia con responsabilidad y sin miedo a accidentes."
+  },
+  {
+    "intent_id": "mapa_de_suenos_futuros",
+    "keywords": [
+      "vision",
+      "metas",
+      "ahorro",
+      "proyeccion",
+      "crecimiento"
+    ],
+    "base_response": "Invita a imaginar la vida adulta como un mapa lleno de metas emocionantes. Al planear el retiro, los estudiantes aprenden a conectar sueños con acciones concretas, entendiendo que pequeños ahorros constantes pueden transformar ideas en realidades futuras llenas de estabilidad y libertad personal."
+  },
+  {
+    "intent_id": "personaje_financiero_del_futuro",
+    "keywords": [
+      "identidad",
+      "proposito",
+      "disciplina",
+      "ahorro",
+      "progreso"
+    ],
+    "base_response": "Propone crear un personaje que represente su yo financiero del futuro. Este personaje guía decisiones presentes, mostrando cómo la disciplina y el ahorro permiten construir una vida adulta tranquila. Visualizarlo ayuda a comprender que el retiro es una meta alcanzable mediante constancia."
+  },
+  {
+    "intent_id": "ciclo_de_recompensas_largas",
+    "keywords": [
+      "motivacion",
+      "constancia",
+      "ahorro",
+      "objetivos",
+      "recompensas"
+    ],
+    "base_response": "Explica que algunas recompensas requieren tiempo para crecer, igual que una planta. Planear el retiro enseña a valorar la constancia y a entender que los objetivos grandes necesitan paciencia. Cada aporte económico funciona como agua que fortalece la recompensa futura."
+  },
+  {
+    "intent_id": "guardian_del_tiempo_financiero",
+    "keywords": [
+      "tiempo",
+      "control",
+      "ahorro",
+      "anticipacion",
+      "organizacion"
+    ],
+    "base_response": "Presenta la idea de convertirse en guardián del tiempo financiero, anticipando necesidades futuras. Planear el retiro implica organizar recursos desde temprano, aprovechando que el tiempo multiplica el valor del ahorro. Esta perspectiva fomenta responsabilidad y visión a largo plazo."
+  },
+  {
+    "intent_id": "laboratorio_de_experimentos_financieros",
+    "keywords": [
+      "experimentos",
+      "ahorro",
+      "resultados",
+      "proceso",
+      "evaluacion"
+    ],
+    "base_response": "Invita a ver la planificación del retiro como un laboratorio donde cada ahorro es un experimento. Los estudiantes observan resultados, ajustan procesos y comprenden que las decisiones financieras influyen en su bienestar futuro. Esta dinámica promueve curiosidad y pensamiento crítico."
+  },
+  {
+    "intent_id": "trueque_de_habilidades",
+    "keywords": [
+      "intercambio",
+      "habilidades",
+      "trueque",
+      "colaboracion",
+      "valor"
+    ],
+    "base_response": "El trueque de habilidades consiste en intercambiar talentos sin dinero. Un estudiante enseña dibujo a cambio de lecciones de matemáticas. Así se descubre que cada persona tiene algo valioso que ofrecer a la comunidad."
+  },
+  {
+    "intent_id": "mini_cooperativas_escolares",
+    "keywords": [
+      "cooperativa",
+      "produccion",
+      "venta",
+      "equipo",
+      "ganancias",
+      "reparto"
+    ],
+    "base_response": "Una mini cooperativa escolar reúne a estudiantes para producir y vender productos como pulseras o plantas. Todos deciden en equipo, reparten tareas y comparten ganancias. Aprenden a organizarse y a tomar decisiones colectivas."
+  },
+  {
+    "intent_id": "emprendimiento_de_impacto_social",
+    "keywords": [
+      "problema",
+      "solucion",
+      "comunidad",
+      "reciclaje",
+      "solidaridad"
+    ],
+    "base_response": "Este emprendimiento busca resolver problemas reales del entorno, como la basura o la falta de áreas verdes. Los jóvenes crean proyectos que ayudan a otros, como campañas de reciclaje, y aprenden que emprender puede mejorar el mundo."
+  },
+  {
+    "intent_id": "economia_de_la_atencion",
+    "keywords": [
+      "contenido",
+      "audiencia",
+      "creatividad",
+      "etica",
+      "atencion"
+    ],
+    "base_response": "La economía de la atención enseña a crear contenido valioso (videos, podcasts) y a entender que la atención de las personas es un recurso. Se promueve la creatividad ética, sin engaños, y se aprende a comunicar ideas de forma atractiva."
+  },
+  {
+    "intent_id": "feria_de_inventos",
+    "keywords": [
+      "invento",
+      "prototipo",
+      "problema",
+      "solucion",
+      "exposicion"
+    ],
+    "base_response": "En una feria de inventos, los estudiantes diseñan prototipos para solucionar problemas cotidianos, como un organizador de útiles. Luego presentan sus ideas a otros, practican cómo explicar el valor de su invento y reciben retroalimentación."
+  },
+  {
+    "intent_id": "anclaje_precios_compra_impulso_moda",
+    "keywords": [
+      "anclaje",
+      "precios",
+      "compra",
+      "impulso",
+      "moda"
+    ],
+    "base_response": "El efecto de anclaje hace que valores un producto por el primer precio que ves, sin comparar con otros. Por ejemplo, si una sudadera cuesta 50 euros al principio y luego la ves a 30, crees que es una ganga, aunque su valor real sea de 25 euros."
+  },
+  {
+    "intent_id": "sesgo_confirmacion_gastos_grupo_amigos",
+    "keywords": [
+      "sesgo",
+      "confirmacion",
+      "gastos",
+      "amigos",
+      "decisiones"
+    ],
+    "base_response": "El sesgo de confirmación hace que busques solo información que apoya lo que ya querías hacer, como gastar dinero en una salida con tus amigos, ignorando que no tienes dinero ahorrado para la entrada del parque de fin de semana."
+  },
+  {
+    "intent_id": "efecto_encuadre_metas_ahorro_pequenas",
+    "keywords": [
+      "encuadre",
+      "ahorro",
+      "metas",
+      "motivacion",
+      "presentacion"
+    ],
+    "base_response": "El efecto de encuadre modifica tu percepción de una misma situación según su presentación. Por ejemplo, ahorrar 2 euros semanales para un regalo de 100 euros al año te motiva más que la idea de no poder gastar esos 2 euros cada semana por obligación."
+  },
+  {
+    "intent_id": "sesgo_dotacion_venta_objetos_usados",
+    "keywords": [
+      "dotacion",
+      "objetos",
+      "valor",
+      "venta",
+      "pertenencia"
+    ],
+    "base_response": "El sesgo de dotación hace que valores mucho más los objetos que te pertenecen de lo que valen realmente. Por ejemplo, si quieres vender tu consola vieja, le pondrás un precio muy alto, mientras que un comprador pagará mucho menos por el mismo estado."
+  },
+  {
+    "intent_id": "fatiga_decision_gastos_post_escolares",
+    "keywords": [
+      "fatiga",
+      "decision",
+      "gastos",
+      "examenes",
+      "clases",
+      "impulso"
+    ],
+    "base_response": "La fatiga de decisión aparece cuando tomas muchas elecciones en poco tiempo, como después de un examen o una jornada larga de clases. En ese momento, tomas decisiones de gasto más impulsivas, sin pensar si realmente necesitas lo que vas a comprar."
+  },
+  {
+    "intent_id": "talento_no_usado",
+    "keywords": [
+      "talento",
+      "habilidad",
+      "crecimiento",
+      "practica",
+      "oportunidad"
+    ],
+    "base_response": "A veces el costo de oportunidad surge cuando no usas un talento que ya tienes. Si eliges actividades que no fortalecen tus habilidades, pierdes crecimiento potencial. Pensar en cómo aprovechar tus capacidades permite decisiones más inteligentes y beneficiosas."
+  },
+  {
+    "intent_id": "intercambio_social",
+    "keywords": [
+      "amistad",
+      "convivencia",
+      "eleccion",
+      "actividad",
+      "prioridad"
+    ],
+    "base_response": "El costo de oportunidad también aparece en tus relaciones. Elegir pasar tiempo con un grupo implica no convivir con otro. Reconocer este intercambio social ayuda a priorizar amistades y actividades que realmente fortalecen tus vínculos y te hacen sentir acompañado."
+  },
+  {
+    "intent_id": "energia_limitada",
+    "keywords": [
+      "energia",
+      "tarea",
+      "esfuerzo",
+      "rendimiento",
+      "eleccion"
+    ],
+    "base_response": "Tu energía diaria es limitada, y cada tarea que realizas consume parte de ella. El costo de oportunidad surge cuando eliges actividades que reducen tu rendimiento en otras. Pensar en cómo distribuir tu esfuerzo mejora tus resultados y bienestar general."
+  },
+  {
+    "intent_id": "curiosidad_desplazada",
+    "keywords": [
+      "curiosidad",
+      "aprendizaje",
+      "exploracion",
+      "eleccion",
+      "conocimiento"
+    ],
+    "base_response": "Cuando eliges aprender solo un tema, desplazas la oportunidad de explorar otros que podrían interesarte. Este costo de oportunidad afecta tu curiosidad y crecimiento. Variar tus aprendizajes permite descubrir habilidades nuevas y ampliar tu comprensión del mundo."
+  },
+  {
+    "intent_id": "mapa_de_posibilidades",
+    "keywords": [
+      "mapa",
+      "metas",
+      "habilidades",
+      "progreso",
+      "vision"
+    ],
+    "base_response": "La libertad financiera puede verse como un mapa de posibilidades donde cada meta requiere habilidades específicas. Al aprender a identificar rutas, obstáculos y oportunidades, los estudiantes desarrollan una visión clara que les permite avanzar con confianza hacia decisiones económicas responsables."
+  },
+  {
+    "intent_id": "tiempo_como_moneda",
+    "keywords": [
+      "tiempo",
+      "eleccion",
+      "prioridades",
+      "organizacion",
+      "valor"
+    ],
+    "base_response": "La libertad financiera implica comprender que el tiempo funciona como una moneda valiosa. Elegir cómo usarlo permite priorizar actividades que generan aprendizaje y bienestar. Al organizar mejor sus horas, los estudiantes descubren que administrar su tiempo también fortalece su futuro económico."
+  },
+  {
+    "intent_id": "ecosistema_personal",
+    "keywords": [
+      "ecosistema",
+      "recursos",
+      "intercambio",
+      "crecimiento",
+      "responsabilidad"
+    ],
+    "base_response": "Cada estudiante posee un ecosistema personal compuesto por recursos, talentos y hábitos. La libertad financiera surge cuando aprenden a intercambiar estos elementos de manera responsable, generando crecimiento constante. Comprender su propio ecosistema les ayuda a tomar decisiones económicas más equilibradas."
+  },
+  {
+    "intent_id": "microdecisiones_diarias",
+    "keywords": [
+      "microdecisiones",
+      "habitos",
+      "consistencia",
+      "evaluacion",
+      "impacto"
+    ],
+    "base_response": "La libertad financiera se construye mediante microdecisiones diarias que, aunque pequeñas, tienen gran impacto. Al desarrollar hábitos consistentes y evaluar sus elecciones, los estudiantes descubren que cada acción influye en su bienestar económico futuro y fortalece su autonomía."
+  },
+  {
+    "intent_id": "creacion_de_valor",
+    "keywords": [
+      "valor",
+      "creatividad",
+      "proyectos",
+      "motivacion",
+      "aprendizaje"
+    ],
+    "base_response": "La libertad financiera también significa aprender a crear valor mediante creatividad y proyectos personales. Cuando los estudiantes identifican oportunidades para aportar ideas útiles, desarrollan motivación y habilidades que fortalecen su aprendizaje y les permiten construir independencia económica."
+  },
+  {
+    "intent_id": "riesgo_por_curiosidad_financiera",
+    "keywords": [
+      "curiosidad",
+      "exploracion",
+      "decision",
+      "resultado",
+      "aprendizaje"
+    ],
+    "base_response": "El riesgo puede aumentar cuando tomas decisiones solo por curiosidad financiera. Explorar sin investigar puede llevar a resultados inesperados, pero también enseña a evaluar mejor la información. Comprender cómo afecta la curiosidad al retorno ayuda a tomar decisiones más conscientes y responsables."
+  },
+  {
+    "intent_id": "retorno_por_paciencia_activa",
+    "keywords": [
+      "paciencia",
+      "espera",
+      "crecimiento",
+      "evaluacion",
+      "constancia"
+    ],
+    "base_response": "La paciencia activa implica esperar mientras observas cómo crece una inversión y evalúas su comportamiento. No es quedarse quieto, sino revisar avances y ajustar decisiones. Esta actitud puede mejorar el retorno porque combina tiempo, constancia y análisis inteligente."
+  },
+  {
+    "intent_id": "riesgo_en_cambios_de_habito",
+    "keywords": [
+      "habito",
+      "cambio",
+      "disciplina",
+      "impacto",
+      "resultado"
+    ],
+    "base_response": "Modificar hábitos financieros, como ahorrar regularmente, también implica riesgo. Cambiar rutinas puede generar incomodidad inicial, pero produce retornos valiosos a largo plazo. Entender cómo pequeños ajustes influyen en resultados ayuda a tomar decisiones más seguras y sostenibles."
+  },
+  {
+    "intent_id": "retorno_por_colaboracion",
+    "keywords": [
+      "colaboracion",
+      "equipo",
+      "proyecto",
+      "objetivo",
+      "beneficio"
+    ],
+    "base_response": "Trabajar en equipo para lograr metas financieras puede aumentar el retorno. Compartir ideas, dividir tareas y apoyar decisiones reduce riesgos individuales. La colaboración permite aprender de otros y obtener beneficios que serían difíciles de alcanzar por separado."
+  },
+  {
+    "intent_id": "riesgo_por_exceso_de_confianza",
+    "keywords": [
+      "confianza",
+      "error",
+      "impulso",
+      "evaluacion",
+      "consecuencia"
+    ],
+    "base_response": "El exceso de confianza puede aumentar el riesgo porque impulsa decisiones sin evaluar consecuencias. Creer que siempre acertarás puede llevar a errores costosos. Reconocer límites personales ayuda a equilibrar seguridad y análisis, mejorando el retorno potencial."
+  },
+  {
+    "intent_id": "monetizacion_habilidades_digitales_infantiles",
+    "keywords": [
+      "tutoriales",
+      "juegos",
+      "contenido",
+      "diseño",
+      "redes"
+    ],
+    "base_response": "Consiste en crear guías de videojuegos, diseños de personajes o filtros para redes usando herramientas gratuitas, y compartirlos con compañeros a cambio de un pequeño pago o trueque de materiales escolares o códigos de juego."
+  },
+  {
+    "intent_id": "economia_circular_entre_iguales",
+    "keywords": [
+      "trueque",
+      "intercambio",
+      "reutilizacion",
+      "donacion",
+      "comunidad"
+    ],
+    "base_response": "Implica organizar ferias de intercambio de libros, ropa o material escolar dentro del colegio o barrio. Cada objeto cambiado evita gastos y genera valor compartido, creando una red de apoyo sin necesidad de dinero efectivo."
+  },
+  {
+    "intent_id": "emprendimiento_por_pasiones_escolares",
+    "keywords": [
+      "aficiones",
+      "clubes",
+      "proyectos",
+      "materiales",
+      "ventas"
+    ],
+    "base_response": "Se trata de identificar qué actividad disfrutas más en el colegio, como dibujar o armar rompecabezas, y vender productos relacionados: apuntes decorados, kits de manualidades o soluciones a tareas, según tu talento específico."
+  },
+  {
+    "intent_id": "microahorro_con_ingresos_variables",
+    "keywords": [
+      "alcancia",
+      "metas",
+      "pequeno",
+      "fondo",
+      "registro"
+    ],
+    "base_response": "Enseña a separar siempre un porcentaje mínimo de cada ingreso, aunque sea muy pequeño, en una alcancía o app segura. Así creas un fondo para emergencias o metas futuras, sin depender de un sueldo fijo mensual."
+  },
+  {
+    "intent_id": "talentos_no_convencionales",
+    "keywords": [
+      "habilidades",
+      "manualidades",
+      "creatividad",
+      "encargos",
+      "vecinos"
+    ],
+    "base_response": "Detecta destrezas únicas como hacer llaveros de fomi, personalizar cuadernos o entrenar trucos a mascotas, y ofrece esos servicios a vecinos o familiares por un pago simbólico que se sume a tus otros ingresos."
+  },
+  {
+    "intent_id": "ahorro_por_materiales_reciclables",
+    "keywords": [
+      "reciclaje",
+      "materiales",
+      "venta",
+      "ahorro",
+      "ingreso",
+      "reutilizacion"
+    ],
+    "base_response": "Puedes transformar envases, papel o cartón que ya no usas en dinero para tu alcancía. Separa estos materiales en casa, llévalos a centros de acopio y deposita lo que ganes en tu fondo de ahorro, sin gastarlo de inmediato."
+  },
+  {
+    "intent_id": "inversion_en_trueque_de_habilidades",
+    "keywords": [
+      "trueque",
+      "habilidades",
+      "intercambio",
+      "aprendizaje",
+      "retorno",
+      "inversion"
+    ],
+    "base_response": "Intercambiar habilidades con tus compañeros es una forma de inversión sin dinero. Si enseñas dibujo a cambio de que te ayuden con matemáticas, ganas conocimientos sin gastar, y puedes incluso usar esos aprendizajes para generar ingresos pequeños después."
+  },
+  {
+    "intent_id": "ahorro_por_gastos_digitales_recurrentes",
+    "keywords": [
+      "suscripciones",
+      "juegos",
+      "aplicaciones",
+      "cancelacion",
+      "ahorro",
+      "gastos"
+    ],
+    "base_response": "Muchos servicios de juegos o aplicaciones te cobran dinero cada mes sin que te des cuenta. Revisa tus suscripciones activas, cancela las que no usas y destina ese dinero a tu alcancía, notarás el ahorro sin esfuerzo en poco tiempo."
+  },
+  {
+    "intent_id": "inversion_en_cultivo_autoconsumo",
+    "keywords": [
+      "semillas",
+      "cultivo",
+      "alimentos",
+      "autoconsumo",
+      "ahorro",
+      "inversion"
+    ],
+    "base_response": "Invertir en semillas, tierra y macetas para cultivar hierbas o verduras pequeñas te genera retornos dobles. Ahorras en la compra de estos alimentos en el supermercado y puedes vender el excedente a vecinos para ganar dinero extra."
+  },
+  {
+    "intent_id": "ahorro_colectivo_escolar",
+    "keywords": [
+      "fondo",
+      "compañeros",
+      "aportes",
+      "rotacion",
+      "administracion",
+      "ahorro"
+    ],
+    "base_response": "Organizar un fondo de ahorro con tus compañeros de clase les permite juntar dinero para metas grupales, como un viaje o materiales deportivos. Cada uno aporta una cantidad semanal, y rotan el acceso al total para aprender a administrar dinero compartido."
+  },
+  {
+    "intent_id": "mapa_de_flujos_familiares",
+    "keywords": [
+      "flujo",
+      "ingreso",
+      "gasto",
+      "registro",
+      "analisis"
+    ],
+    "base_response": "Un presupuesto familiar puede verse como un mapa de flujos que muestra cómo entra y sale el dinero. Al observar estos movimientos, la familia identifica patrones, ajusta decisiones y comprende mejor cómo cada acción económica influye en su estabilidad mensual."
+  },
+  {
+    "intent_id": "roles_financieros_en_equipo",
+    "keywords": [
+      "rol",
+      "planificacion",
+      "coordinacion",
+      "responsabilidad",
+      "evaluacion"
+    ],
+    "base_response": "El presupuesto familiar funciona mejor cuando cada integrante asume un rol financiero. Algunos registran gastos, otros comparan precios y otros evalúan metas. Esta colaboración fortalece la comprensión del dinero y fomenta decisiones más equilibradas y transparentes."
+  },
+  {
+    "intent_id": "presupuesto_por_escenarios",
+    "keywords": [
+      "escenario",
+      "proyeccion",
+      "decision",
+      "ajuste",
+      "priorizacion"
+    ],
+    "base_response": "Crear escenarios distintos permite anticipar cambios en el presupuesto familiar. La familia imagina situaciones posibles, calcula efectos y ajusta prioridades. Esta práctica enseña a tomar decisiones más seguras y a prepararse para imprevistos sin perder estabilidad."
+  },
+  {
+    "intent_id": "metas_microfinancieras",
+    "keywords": [
+      "meta",
+      "ahorro",
+      "seguimiento",
+      "motivacion",
+      "logro"
+    ],
+    "base_response": "Las metas microfinancieras dividen objetivos grandes en pasos pequeños y alcanzables. Cada avance se registra y celebra, fortaleciendo la motivación. Esta estrategia ayuda a que la familia mantenga disciplina y convierta hábitos financieros en resultados concretos."
+  },
+  {
+    "intent_id": "presupuesto_sensorial",
+    "keywords": [
+      "visualizacion",
+      "color",
+      "categoria",
+      "comparacion",
+      "organizacion"
+    ],
+    "base_response": "Un presupuesto sensorial usa colores y formas para representar categorías de gastos. Esta visualización facilita comparar montos, detectar excesos y organizar decisiones. Es una herramienta útil para que todos comprendan el estado financiero sin complicaciones."
+  },
+  {
+    "intent_id": "mapa_de_gastos_semanal",
+    "keywords": [
+      "gastos",
+      "categorias",
+      "semana",
+      "patrones",
+      "registro",
+      "dibujo"
+    ],
+    "base_response": "Dibuja un mapa con categorías como comida, juegos y ahorros. Cada día, coloca un punto donde gastaste. Al final de la semana, une los puntos para ver cómo se distribuye tu dinero y detectar gastos excesivos."
+  },
+  {
+    "intent_id": "reto_30_dias_sin_gastos_hormiga",
+    "keywords": [
+      "reto",
+      "gastos",
+      "hormiga",
+      "pequenos",
+      "ahorro",
+      "30_dias"
+    ],
+    "base_response": "Los gastos hormiga son pequeñas compras que suman mucho. Durante 30 días, evita cualquier gasto menor a 2 euros. Anota cada día si lo lograste. Al final, calcula cuánto ahorraste para motivarte a seguir controlándolos."
+  },
+  {
+    "intent_id": "balanza_necesidades_deseos",
+    "keywords": [
+      "necesidad",
+      "deseo",
+      "balanza",
+      "prioridad",
+      "decision",
+      "gasto"
+    ],
+    "base_response": "Imagina una balanza: en un lado pon necesidades (comida, transporte) y en el otro deseos (videojuegos, golosinas). Antes de comprar, pregúntate hacia qué lado se inclina. Si el deseo pesa más, espera un día para decidir."
+  },
+  {
+    "intent_id": "presupuesto_elastico",
+    "keywords": [
+      "presupuesto",
+      "flexible",
+      "ajuste",
+      "gastos",
+      "ingresos",
+      "porcentaje"
+    ],
+    "base_response": "Un presupuesto elástico se adapta a cambios. Asigna porcentajes a cada categoría (por ejemplo, 50% necesidades, 30% ahorro, 20% ocio). Si recibes más dinero, ajusta los porcentajes sin perder el control. Así aprendes a ser flexible y responsable."
+  },
+  {
+    "intent_id": "espejo_de_gastos",
+    "keywords": [
+      "reflexion",
+      "gastos",
+      "habitos",
+      "semanal",
+      "analisis",
+      "cambio"
+    ],
+    "base_response": "Cada semana, mírate al espejo de gastos: revisa tus compras y pregúntate si fueron necesarias. Identifica un hábito que desees mejorar, como comprar snacks diarios. Anota un plan para cambiarlo y la próxima semana evalúa si avanzaste."
+  },
+  {
+    "intent_id": "economia_de_intercambio_habil",
+    "keywords": [
+      "intercambio",
+      "habilidades",
+      "trueque",
+      "cooperacion",
+      "aprendizaje"
+    ],
+    "base_response": "Se basa en intercambiar habilidades entre estudiantes, como enseñar trucos de estudio o ayudar con manualidades. Aunque no siempre genera dinero, permite obtener beneficios valiosos. Ayuda a comprender cómo el trueque puede convertirse en oportunidades de ingreso futuras."
+  },
+  {
+    "intent_id": "proyectos_de_revalorizacion",
+    "keywords": [
+      "revalorizacion",
+      "objetos",
+      "creatividad",
+      "venta",
+      "transformacion"
+    ],
+    "base_response": "Consiste en transformar objetos usados en productos nuevos y atractivos. Permite aprender a identificar valor oculto, aplicar creatividad y vender resultados. Ayuda a comprender cómo la transformación inteligente puede convertirse en una fuente de ingresos sostenible."
+  },
+  {
+    "intent_id": "clubes_productivos_estudiantiles",
+    "keywords": [
+      "clubes",
+      "produccion",
+      "organizacion",
+      "venta",
+      "colaboracion"
+    ],
+    "base_response": "Son grupos que crean productos o servicios, como artesanías o contenido digital, y los ofrecen dentro de la comunidad escolar. Enseñan organización, colaboración y manejo básico de ingresos. Permiten experimentar cómo funciona un pequeño emprendimiento colectivo."
+  },
+  {
+    "intent_id": "deuda_como_promesa",
+    "keywords": [
+      "promesa",
+      "confianza",
+      "compromiso",
+      "futuro",
+      "devolucion"
+    ],
+    "base_response": "Pedir prestado es hacer una promesa de devolver el dinero en el futuro. Cumplir esa promesa mantiene la confianza con quien te presta. Si no cumples, perderás oportunidades de pedir ayuda después."
+  },
+  {
+    "intent_id": "intereses_como_alquiler",
+    "keywords": [
+      "alquiler",
+      "interes",
+      "prestamo",
+      "coste",
+      "dinero"
+    ],
+    "base_response": "Cuando pides dinero prestado, pagas un alquiler por usarlo, llamado interés. Es como alquilar un juguete: lo usas un tiempo y luego devuelves el juguete con un pago extra por el alquiler."
+  },
+  {
+    "intent_id": "deuda_de_capricho_vs_necesidad",
+    "keywords": [
+      "capricho",
+      "necesidad",
+      "prioridad",
+      "gasto",
+      "decision"
+    ],
+    "base_response": "Antes de pedir prestado, pregúntate: ¿es una necesidad real o un capricho? Las deudas para necesidades (como estudios) pueden ser útiles; las de caprichos (como un videojuego) suelen pesar después."
+  },
+  {
+    "intent_id": "plazo_y_coste_total",
+    "keywords": [
+      "plazo",
+      "interes",
+      "total",
+      "meses",
+      "pago"
+    ],
+    "base_response": "Cuanto más largo sea el plazo para pagar una deuda, más intereses acumularás y más caro te saldrá. Pagar rápido es como saldar la cuenta antes de que crezcan los intereses."
+  },
+  {
+    "intent_id": "el_credito_como_prestamo_temporal",
+    "keywords": [
+      "prestamo",
+      "devolucion",
+      "fecha",
+      "limite",
+      "interes"
+    ],
+    "base_response": "Usar una tarjeta de credito es como pedir un prestamo que debes devolver antes de la fecha de corte. Si pagas todo a tiempo, no pagas intereses. Si solo pagas una parte, el banco te cobra por el dinero que aun debes."
+  },
+  {
+    "intent_id": "el_periodo_de_gracia",
+    "keywords": [
+      "periodo",
+      "gracia",
+      "interes",
+      "fecha",
+      "pago",
+      "total"
+    ],
+    "base_response": "El periodo de gracia es el tiempo entre tu compra y la fecha de pago. Si pagas el saldo total antes de esa fecha, no pagas intereses. Pero si no pagas todo, los intereses se calculan desde el dia de la compra."
+  },
+  {
+    "intent_id": "el_pago_minimo_es_una_trampa",
+    "keywords": [
+      "pago",
+      "minimo",
+      "deuda",
+      "interes",
+      "plazo"
+    ],
+    "base_response": "Pagar solo el minimo cada mes hace que tu deuda crezca rapidamente por los intereses. Puedes tardar anos en liquidarla y terminar pagando mucho mas de lo que compraste. Es mejor pagar todo o una cantidad mayor."
+  },
+  {
+    "intent_id": "la_tarjeta_no_es_dinero_extra",
+    "keywords": [
+      "dinero",
+      "prestado",
+      "limite",
+      "gasto",
+      "responsabilidad"
+    ],
+    "base_response": "Tu limite de credito no es dinero extra. Es dinero prestado que debes devolver. Gastar hasta el limite puede dejarte sin capacidad para emergencias y generar deudas que no puedes pagar facilmente. Es importante gastar solo lo necesario."
+  },
+  {
+    "intent_id": "proteger_tu_tarjeta",
+    "keywords": [
+      "proteccion",
+      "fraude",
+      "numero",
+      "seguro",
+      "reportar",
+      "perdida"
+    ],
+    "base_response": "Nunca compartas el numero de tu tarjeta ni el codigo de seguridad. Si pierdes la tarjeta o ves cargos desconocidos, reportalo de inmediato al banco. Asi evitas fraudes y proteges tu dinero. Guarda tu tarjeta en un lugar seguro."
+  },
+  {
+    "intent_id": "cuenta_de_ahorros_como_invernadero",
+    "keywords": [
+      "ahorro",
+      "crecimiento",
+      "interes",
+      "meta",
+      "paciencia",
+      "semilla"
+    ],
+    "base_response": "Una cuenta de ahorros es como un invernadero para tu dinero. Depositas una semilla (tu ahorro inicial) y, con el tiempo, los intereses la hacen crecer poco a poco. La paciencia y las metas claras son el sol y el agua que necesitas para verlo florecer."
+  },
+  {
+    "intent_id": "extracto_bancario_como_diario",
+    "keywords": [
+      "extracto",
+      "registro",
+      "gastos",
+      "ingresos",
+      "control",
+      "historia"
+    ],
+    "base_response": "El extracto bancario es el diario de tu dinero. Allí se anotan todos tus ingresos y gastos de cada mes. Revisarlo te ayuda a controlar tus finanzas y entender tu historia económica. Es como leer el libro de tu vida financiera para aprender de tus decisiones."
+  },
+  {
+    "intent_id": "comisiones_bancarias_como_peajes",
+    "keywords": [
+      "comision",
+      "costo",
+      "servicio",
+      "banco",
+      "peaje",
+      "transaccion"
+    ],
+    "base_response": "Las comisiones son como peajes que pagas al banco por usar algunos de sus servicios. Por ejemplo, cada vez que sacas dinero en un cajero de otro banco o recibes una transferencia, hay un pequeño costo. Conocer estos peajes te evita sorpresas y te ayuda a elegir mejor."
+  },
+  {
+    "intent_id": "seguridad_banco_como_escudo",
+    "keywords": [
+      "seguridad",
+      "clave",
+      "proteccion",
+      "fraude",
+      "pin",
+      "alerta"
+    ],
+    "base_response": "Tu cuenta bancaria tiene un escudo digital que la protege: contraseñas fuertes, PINs secretos y alertas de seguridad. Nunca compartas estos datos con nadie. El banco también te protege bloqueando movimientos sospechosos. Así, tu dinero está seguro mientras tú cuidas tus claves."
+  },
+  {
+    "intent_id": "interes_como_precio_del_tiempo",
+    "keywords": [
+      "tiempo",
+      "costo",
+      "espera",
+      "prestamo",
+      "valor"
+    ],
+    "base_response": "El interés puede verse como el precio del tiempo: cuanto más esperas para devolver dinero, más valor pierde para quien lo prestó. Por eso se cobra una cantidad adicional que reconoce ese costo temporal y ayuda a decidir si conviene pedir o guardar dinero."
+  },
+  {
+    "intent_id": "interes_como_recompensa_por_paciencia",
+    "keywords": [
+      "paciencia",
+      "ahorro",
+      "recompensa",
+      "crecimiento",
+      "motivacion"
+    ],
+    "base_response": "Cuando ahorras, el interés funciona como una recompensa por tu paciencia. Permite que tu dinero crezca sin esfuerzo adicional y te motiva a mantener hábitos responsables. Así descubres que esperar puede generar beneficios concretos y mejorar tus decisiones futuras."
+  },
+  {
+    "intent_id": "interes_como_semaforo_de_riesgo",
+    "keywords": [
+      "riesgo",
+      "prestamo",
+      "decision",
+      "evaluacion",
+      "seguridad"
+    ],
+    "base_response": "Las tasas de interés actúan como un semáforo que indica riesgo. Si alguien pide dinero y parece poco seguro de pagarlo, la tasa sube. Si es confiable, baja. Comprender este indicador ayuda a evaluar decisiones y entender cómo se protege quien presta."
+  },
+  {
+    "intent_id": "interes_como_motor_de_proyectos",
+    "keywords": [
+      "proyecto",
+      "financiamiento",
+      "impulso",
+      "creacion",
+      "oportunidad"
+    ],
+    "base_response": "El interés puede impulsar proyectos que requieren dinero inicial. Permite acceder a recursos para crear ideas, aunque implique pagar un extra. Si el proyecto genera más valor que ese costo, la tasa se convierte en una herramienta que abre oportunidades reales."
+  },
+  {
+    "intent_id": "interes_como_huella_del_dinero_en_el_tiempo",
+    "keywords": [
+      "huella",
+      "dinero",
+      "cambio",
+      "registro",
+      "historia"
+    ],
+    "base_response": "El interés deja una huella que muestra cómo cambia el valor del dinero con el tiempo. Esa huella sirve como registro para comparar decisiones, entender cuánto costó realmente un préstamo y analizar cómo evolucionan tus recursos mientras avanzas en tus metas."
+  },
+  {
+    "intent_id": "economia_del_intercambio_inteligente",
+    "keywords": [
+      "intercambio",
+      "valor",
+      "trueque",
+      "evaluacion",
+      "decision"
+    ],
+    "base_response": "Explora cómo los objetos y servicios tienen valores distintos según quien los necesite. Enseña a comparar beneficios antes de intercambiar, analizar si el trueque conviene y comprender que decidir bien requiere observar el contexto, anticipar consecuencias y comunicar con claridad para lograr acuerdos equilibrados."
+  },
+  {
+    "intent_id": "mapas_de_futuro_financiero",
+    "keywords": [
+      "planificacion",
+      "objetivos",
+      "proyeccion",
+      "ahorro",
+      "priorizacion"
+    ],
+    "base_response": "Invita a crear mapas visuales que conecten metas personales con acciones financieras concretas. Ayuda a priorizar deseos, estimar tiempos, calcular ahorros y ajustar decisiones según cambios. Permite entender que planificar el futuro es flexible, creativo y depende de revisar constantemente las elecciones realizadas."
+  },
+  {
+    "intent_id": "emociones_en_las_compras",
+    "keywords": [
+      "emociones",
+      "compras",
+      "autocontrol",
+      "motivacion",
+      "reflexion"
+    ],
+    "base_response": "Analiza cómo las emociones influyen en las compras y cómo reconocerlas mejora el autocontrol. Enseña a identificar motivaciones internas, reflexionar antes de gastar y diferenciar necesidades de impulsos. Ayuda a tomar decisiones más conscientes y evitar errores provocados por sentimientos momentáneos."
+  },
+  {
+    "intent_id": "historias_del_dinero_en_la_vida_diaria",
+    "keywords": [
+      "narracion",
+      "experiencias",
+      "dinero",
+      "contexto",
+      "aprendizaje"
+    ],
+    "base_response": "Propone crear relatos sobre situaciones reales donde el dinero juega un papel importante. Permite analizar decisiones, comprender consecuencias y descubrir patrones útiles. Facilita que los estudiantes conecten conceptos financieros con su vida diaria y desarrollen habilidades prácticas mediante experiencias narradas."
+  },
+  {
+    "intent_id": "el_dinero_que_pierde_fuerza",
+    "keywords": [
+      "peso",
+      "fuerza",
+      "compra",
+      "golosinas",
+      "precios",
+      "suben"
+    ],
+    "base_response": "La inflación hace que tu dinero pierda fuerza para comprar cosas. Con la misma cantidad de dinero, cada año puedes comprar menos golosinas, porque los precios suben y el valor de tu dinero se reduce."
+  },
+  {
+    "intent_id": "ahorrar_con_monedas_que_encogen",
+    "keywords": [
+      "ahorro",
+      "alcancia",
+      "monedas",
+      "encogen",
+      "precio",
+      "canasta"
+    ],
+    "base_response": "Si guardas monedas en tu alcancía por mucho tiempo, su valor se encoge con la inflación. Lo que hoy cuesta una canasta de frutas, mañana necesitarás más monedas para comprarla, aunque ahorres lo mismo."
+  },
+  {
+    "intent_id": "trabajo_extra_para_mantener_poder",
+    "keywords": [
+      "trabajar",
+      "venta",
+      "limonada",
+      "subir",
+      "precio",
+      "vasos"
+    ],
+    "base_response": "Para no perder poder adquisitivo, si vendes limonada, debes subir el precio de cada vaso cuando sube el costo del azúcar. Si no lo haces, ganarás menos dinero real por tu trabajo."
+  },
+  {
+    "intent_id": "regalos_que_valen_menos",
+    "keywords": [
+      "regalo",
+      "billete",
+      "fiesta",
+      "cumpleanos",
+      "compra",
+      "juguetes"
+    ],
+    "base_response": "Si te regalan un billete para tu cumpleaños y tardas meses en gastarlo, la inflación hace que puedas comprar menos juguetes. El mismo billete pierde valor con el tiempo, así que gasta rápido o invierte."
+  },
+  {
+    "intent_id": "prestamo_que_se_licua",
+    "keywords": [
+      "prestar",
+      "amigo",
+      "devolver",
+      "tarde",
+      "compra",
+      "chicles"
+    ],
+    "base_response": "Si prestas dinero a un amigo y te lo devuelve un año después, con inflación no podrás comprar los mismos chicles. Tu dinero prestado se licúa, porque los precios suben mientras él usaba tu dinero gratis."
+  },
+  {
+    "intent_id": "impuesto_como_alcancia_comunitaria",
+    "keywords": [
+      "alcancia",
+      "comunidad",
+      "bienes",
+      "publicos",
+      "cooperacion"
+    ],
+    "base_response": "Los impuestos son como una alcancia comunitaria. Todos aportan una pequeña parte de lo que ganan para comprar cosas que todos usamos: parques, escuelas, hospitales y carreteras. Asi, entre todos, cuidamos lo que es de todos."
+  },
+  {
+    "intent_id": "impuesto_por_servicios_publicos",
+    "keywords": [
+      "servicios",
+      "escuela",
+      "hospital",
+      "bomberos",
+      "basura"
+    ],
+    "base_response": "Cuando pagas impuestos, estas pagando por servicios que usas a diario. Por ejemplo, la escuela publica, la recoleccion de basura, los bomberos. Es como una membresia que nos da acceso a estos servicios esenciales para vivir en comunidad."
+  },
+  {
+    "intent_id": "impuesto_progresivo_equidad",
+    "keywords": [
+      "riqueza",
+      "progresivo",
+      "equidad",
+      "contribucion",
+      "justicia"
+    ],
+    "base_response": "El impuesto progresivo significa que quien gana mas dinero, paga un porcentaje mayor. Es una forma de equidad: los que tienen mas recursos ayudan mas a financiar servicios para todos. Asi se reduce la desigualdad."
+  },
+  {
+    "intent_id": "impuesto_para_el_futuro",
+    "keywords": [
+      "futuro",
+      "inversion",
+      "infraestructura",
+      "educacion",
+      "generaciones"
+    ],
+    "base_response": "Los impuestos no solo sirven para hoy. Tambien se invierten en proyectos a largo plazo como puentes, bibliotecas o becas. Tu contribucion actual ayuda a construir un mejor futuro para ti y para las proximas generaciones."
+  },
+  {
+    "intent_id": "impuesto_en_compras_cotidianas",
+    "keywords": [
+      "compra",
+      "producto",
+      "iva",
+      "precio",
+      "consumo"
+    ],
+    "base_response": "Cada vez que compras un juguete o un helado, pagas un pequeño impuesto llamado IVA que esta incluido en el precio. Ese dinero va al gobierno para financiar servicios publicos. Es una forma de contribuir sin darte cuenta."
+  },
+  {
+    "intent_id": "ahorro_por_microobjetivos",
+    "keywords": [
+      "metas",
+      "motivacion",
+      "progreso",
+      "ahorro",
+      "logros"
+    ],
+    "base_response": "Consiste en dividir un objetivo grande en metas pequeñas y alcanzables. Cada microobjetivo completado genera motivación y claridad sobre el progreso. Este tipo de ahorro ayuda a que los estudiantes mantengan constancia y celebren avances frecuentes sin sentirse abrumados."
+  },
+  {
+    "intent_id": "ahorro_por_intercambio_de_habitos",
+    "keywords": [
+      "habitos",
+      "cambios",
+      "ahorro",
+      "consumo",
+      "disciplina"
+    ],
+    "base_response": "Implica sustituir un hábito costoso por otro más económico sin perder diversión. El ahorro surge del intercambio consciente de actividades. Los estudiantes aprenden a identificar conductas que afectan su bolsillo y a reemplazarlas por opciones sostenibles que fortalecen su disciplina financiera."
+  },
+  {
+    "intent_id": "ahorro_por_proyectos_colaborativos",
+    "keywords": [
+      "proyectos",
+      "colaboracion",
+      "equipo",
+      "ahorro",
+      "organizacion"
+    ],
+    "base_response": "Se basa en crear proyectos grupales donde cada integrante aporta una parte del ahorro. La colaboración fomenta responsabilidad compartida y organización. Los estudiantes descubren cómo unir esfuerzos multiplica resultados y permite alcanzar metas que serían difíciles de lograr individualmente."
+  },
+  {
+    "intent_id": "ahorro_por_temporadas_personales",
+    "keywords": [
+      "temporadas",
+      "planificacion",
+      "prioridades",
+      "ahorro",
+      "ritmo"
+    ],
+    "base_response": "Consiste en identificar momentos del año en los que el estudiante gasta más o menos y ajustar su ahorro según su propio ritmo. Esta estrategia enseña a reconocer patrones personales y a planificar con anticipación para evitar presiones económicas inesperadas."
+  },
+  {
+    "intent_id": "ahorro_por_experimentos_financieros",
+    "keywords": [
+      "experimentos",
+      "pruebas",
+      "resultados",
+      "ahorro",
+      "analisis"
+    ],
+    "base_response": "Propone realizar pequeñas pruebas financieras durante periodos cortos para observar resultados. Los estudiantes experimentan con distintos métodos de ahorro y analizan cuál funciona mejor para ellos. Esta práctica desarrolla pensamiento crítico y permite descubrir estrategias personalizadas de manera segura."
+  },
+  {
+    "intent_id": "monedas_programables_para_juegos",
+    "keywords": [
+      "programacion",
+      "juego",
+      "token",
+      "intercambio",
+      "recompensa"
+    ],
+    "base_response": "Algunas criptomonedas permiten crear reglas dentro de videojuegos, como otorgar recompensas únicas o intercambiar objetos digitales. Los estudiantes pueden entender cómo funcionan los tokens programables y cómo se usan para motivar la participación, controlar valores y fomentar decisiones responsables dentro de entornos virtuales."
+  },
+  {
+    "intent_id": "minado_colaborativo_escolar",
+    "keywords": [
+      "minado",
+      "computadora",
+      "energia",
+      "colaboracion",
+      "bloque"
+    ],
+    "base_response": "El minado colaborativo escolar explica cómo varias computadoras pueden trabajar juntas para resolver problemas matemáticos y validar bloques. Aunque no se realiza realmente en clase, ayuda a comprender la importancia del trabajo distribuido, el uso responsable de energía y la cooperación tecnológica."
+  },
+  {
+    "intent_id": "criptomonedas_para_microtareas",
+    "keywords": [
+      "microtarea",
+      "recompensa",
+      "token",
+      "motivacion",
+      "actividad"
+    ],
+    "base_response": "Las criptomonedas pueden inspirar sistemas de microtareas donde cada actividad completada genera un token simbólico. Esto enseña cómo funcionan las recompensas digitales, cómo se organizan valores pequeños y cómo la constancia puede acumular beneficios dentro de un entorno controlado y seguro."
+  },
+  {
+    "intent_id": "carteras_multicolor",
+    "keywords": [
+      "cartera",
+      "color",
+      "token",
+      "organizacion",
+      "seguridad"
+    ],
+    "base_response": "Una cartera multicolor es una metáfora para explicar cómo se guardan diferentes criptomonedas en un mismo lugar. Cada color representa un tipo de token, ayudando a visualizar organización, seguridad y responsabilidad al manejar valores digitales sin confundir sus funciones."
+  },
+  {
+    "intent_id": "misiones_de_validacion",
+    "keywords": [
+      "validacion",
+      "bloque",
+      "revision",
+      "participacion",
+      "token"
+    ],
+    "base_response": "Las misiones de validación muestran cómo los usuarios revisan información antes de aprobar un bloque. Convertir este proceso en una dinámica escolar ayuda a comprender la importancia de verificar datos, participar activamente y mantener la integridad de un sistema digital compartido."
+  },
+  {
+    "intent_id": "prestamos_para_proyectos_escolares_emprendedores",
+    "keywords": [
+      "prestamo",
+      "proyecto",
+      "feria",
+      "ganancias",
+      "devolucion",
+      "insumos"
+    ],
+    "base_response": "Son préstamos pequeños que te dan para comprar lo que necesitas en tu proyecto de feria o emprendimiento escolar, y devuelves el dinero cuando vendas tus productos, usando solo una parte de lo que ganes para pagar. Así aprendes a manejar dinero sin riesgos grandes."
+  },
+  {
+    "intent_id": "prestamos_con_descuento_por_rendimiento_academico",
+    "keywords": [
+      "prestamo",
+      "descuento",
+      "rendimiento",
+      "academico",
+      "notas",
+      "devolucion"
+    ],
+    "base_response": "Son préstamos que te ofrecen una reducción en los intereses si mantienes buenas notas durante el plazo que dures pagando. Así premian tu esfuerzo en clase y te motivan a seguir estudiando bien mientras aprendes a cumplir compromisos de dinero."
+  },
+  {
+    "intent_id": "prestamos_para_equipos_de_hobby_especializado",
+    "keywords": [
+      "prestamo",
+      "equipo",
+      "hobby",
+      "instrumento",
+      "devolucion",
+      "ingreso"
+    ],
+    "base_response": "Son préstamos pequeños para comprar instrumentos musicales, equipos de robótica o materiales de arte que necesitas para tu hobby, y devuelves el dinero poco a poco con tu mesada o ganancias de ventas de trabajos que hagas con ese equipo."
+  },
+  {
+    "intent_id": "prestamos_con_condonacion_por_metas_de_ahorro",
+    "keywords": [
+      "prestamo",
+      "condonacion",
+      "ahorro",
+      "meta",
+      "deuda",
+      "interes"
+    ],
+    "base_response": "Son préstamos que te perdonan parte o toda la deuda si logras juntar una cantidad de dinero de ahorro que acuerdes al pedirlo. Así te incentivan a guardar dinero mientras pagas lo que debes, sin tener que dar todo tu dinero extra al préstamo."
+  },
+  {
+    "intent_id": "prestamos_comunitarios_gestionados_por_colegio",
+    "keywords": [
+      "prestamo",
+      "comunidad",
+      "colegio",
+      "gestion",
+      "deuda",
+      "estudiante"
+    ],
+    "base_response": "Son préstamos que organiza tu colegio entre todos los alumnos, con reglas claras y sin intereses muy altos, para que puedas pedir dinero para gastos relacionados con tus estudios sin tener que recurrir a entidades externas que cobren mucho más."
+  },
+  {
+    "intent_id": "costo_total_por_plazo_credito",
+    "keywords": [
+      "plazo",
+      "interes",
+      "costo",
+      "pago",
+      "amortizacion"
+    ],
+    "base_response": "El plazo de un crédito hipotecario define cuánto tiempo tardas en pagarlo completamente. A mayor duración, pagas más intereses en total, aunque las cuotas mensuales sean más bajas. Comparar plazos te ayuda a elegir la opción que menos dinero te cueste a largo plazo."
+  },
+  {
+    "intent_id": "riesgo_ahorro_entrada_hipoteca",
+    "keywords": [
+      "ahorro",
+      "entrada",
+      "hipoteca",
+      "emergencia",
+      "reserva"
+    ],
+    "base_response": "La entrada de una hipoteca es el dinero que pagas al principio, sin contar el crédito. Usar todos tus ahorros para ella es un error, porque te quedas sin reserva para gastos imprevistos como arreglos de la casa o emergencias médicas. Siempre guarda un fondo de emergencia aparte."
+  },
+  {
+    "intent_id": "impacto_historial_crediticio_hipoteca",
+    "keywords": [
+      "historial",
+      "credito",
+      "pago",
+      "hipoteca",
+      "mora"
+    ],
+    "base_response": "Tu historial de pagos de pequeños créditos, como los de la tienda de barrio o las cuotas de un celular, influye mucho para conseguir una hipoteca después. Si pagas todo a tiempo, las entidades te verán como una persona confiable y te darán mejores condiciones."
+  },
+  {
+    "intent_id": "gastos_adicionales_hipoteca",
+    "keywords": [
+      "gastos",
+      "hipoteca",
+      "cuota",
+      "seguro",
+      "impuesto"
+    ],
+    "base_response": "La cuota mensual de una hipoteca no es el único gasto que tienes. También debes pagar seguros de vida o de hogar, impuestos municipales y comisiones por gestión. Suma todos estos costos antes de aceptar el crédito para no llevarte sorpresas después."
+  },
+  {
+    "intent_id": "efecto_inflacion_costo_real_hipoteca",
+    "keywords": [
+      "inflacion",
+      "cuota",
+      "hipoteca",
+      "dinero",
+      "valor"
+    ],
+    "base_response": "La inflación hace que el dinero valga menos con el paso del tiempo. Si tu cuota de hipoteca es fija, en unos años la pagarás con dinero que tiene menos poder de compra, por lo que el costo real de esa cuota será menor que cuando empezaste a pagarla."
+  },
+  {
+    "intent_id": "seguro_de_objetos_prestados",
+    "keywords": [
+      "prestamo",
+      "objeto",
+      "cuidado",
+      "responsabilidad",
+      "reparacion"
+    ],
+    "base_response": "Este seguro cubre daños a objetos prestados entre compañeros, como tabletas o instrumentos. Enseña responsabilidad y fomenta acuerdos claros. Permite que los estudiantes practiquen cómo proteger bienes ajenos y entender que un seguro puede evitar conflictos cuando ocurre un accidente inesperado."
+  },
+  {
+    "intent_id": "seguro_de_habilidades",
+    "keywords": [
+      "habilidad",
+      "actividad",
+      "riesgo",
+      "practica",
+      "seguridad"
+    ],
+    "base_response": "Un seguro de habilidades protege a estudiantes que desarrollan talentos como danza, ciclismo o robótica. Si una actividad implica riesgo, este seguro cubre daños relacionados. Ayuda a comprender cómo las aseguradoras analizan habilidades y diseñan coberturas adaptadas a cada práctica."
+  },
+  {
+    "intent_id": "seguro_de_mascotas_escolares",
+    "keywords": [
+      "mascota",
+      "cuidado",
+      "salud",
+      "responsabilidad",
+      "proteccion"
+    ],
+    "base_response": "Algunas escuelas tienen mascotas que requieren cuidados especiales. Este seguro cubre gastos veterinarios y daños causados por el animal. Enseña a los estudiantes cómo funciona la protección de seres vivos y cómo un seguro ayuda a mantener su bienestar sin generar costos inesperados."
+  },
+  {
+    "intent_id": "seguro_de_proyectos_estudiantiles",
+    "keywords": [
+      "proyecto",
+      "material",
+      "fallo",
+      "reemplazo",
+      "prevencion"
+    ],
+    "base_response": "Este seguro protege materiales usados en proyectos escolares, como maquetas o dispositivos electrónicos. Si algo falla o se rompe, cubre el reemplazo. Permite que los estudiantes comprendan cómo planificar riesgos y valorar la importancia de asegurar recursos necesarios para completar tareas importantes."
+  },
+  {
+    "intent_id": "misiones_de_largo_plazo",
+    "keywords": [
+      "misiones",
+      "objetivos",
+      "constancia",
+      "planificacion",
+      "recompensas"
+    ],
+    "base_response": "Transforma la planificación del retiro en misiones de largo plazo, donde cada acción financiera es un avance. Las misiones enseñan que el retiro no es un evento lejano, sino una serie de pasos acumulados que generan recompensas significativas cuando se completan con constancia."
+  },
+  {
+    "intent_id": "ecosistema_de_recursos_personales",
+    "keywords": [
+      "ecosistema",
+      "recursos",
+      "crecimiento",
+      "organizacion",
+      "prioridades"
+    ],
+    "base_response": "Explica que cada persona posee un ecosistema de recursos como tiempo, dinero y habilidades. Administrarlos bien desde joven permite que crezcan equilibradamente. Comprender este ecosistema ayuda a visualizar el retiro como una etapa donde esos recursos deben sostener una vida tranquila."
+  },
+  {
+    "intent_id": "cronometro_de_decisiones_financieras",
+    "keywords": [
+      "cronometro",
+      "decisiones",
+      "tiempo",
+      "acumulacion",
+      "estrategia"
+    ],
+    "base_response": "Introduce la idea de un cronómetro imaginario que inicia con cada decisión financiera. El tiempo amplifica los efectos de ahorrar o gastar. Entender este cronómetro permite ver el retiro como el resultado acumulado de decisiones estratégicas tomadas desde la adolescencia."
+  },
+  {
+    "intent_id": "microproyectos_de_impacto_local",
+    "keywords": [
+      "microproyecto",
+      "impacto",
+      "comunidad",
+      "creatividad",
+      "colaboracion"
+    ],
+    "base_response": "Un microproyecto de impacto local permite que estudiantes identifiquen una necesidad cercana y diseñen soluciones pequeñas pero significativas. Este enfoque desarrolla creatividad, colaboración y responsabilidad social, mostrando cómo una idea sencilla puede transformar su entorno inmediato con acciones concretas y sostenibles."
+  },
+  {
+    "intent_id": "laboratorios_de_experimentacion_comercial",
+    "keywords": [
+      "experimento",
+      "producto",
+      "cliente",
+      "prueba",
+      "ajuste"
+    ],
+    "base_response": "Un laboratorio de experimentación comercial invita a crear prototipos rápidos y probarlos con clientes reales. Los estudiantes aprenden a observar reacciones, ajustar ideas y mejorar productos. Esta dinámica fomenta pensamiento crítico y comprensión práctica del mercado sin grandes inversiones iniciales."
+  },
+  {
+    "intent_id": "economias_creativas_escolares",
+    "keywords": [
+      "creatividad",
+      "intercambio",
+      "valor",
+      "habilidad",
+      "produccion"
+    ],
+    "base_response": "Las economías creativas escolares permiten que estudiantes produzcan bienes o servicios basados en habilidades artísticas o técnicas. Al intercambiar estos productos, comprenden cómo se genera valor. Este modelo impulsa autonomía, organización y visión emprendedora dentro del entorno educativo."
+  },
+  {
+    "intent_id": "clubes_de_solucion_de_problemas",
+    "keywords": [
+      "problema",
+      "solucion",
+      "equipo",
+      "innovacion",
+      "prototipo"
+    ],
+    "base_response": "Los clubes de solución de problemas reúnen estudiantes para identificar desafíos cotidianos y crear prototipos innovadores. Este formato fortalece el trabajo en equipo y la capacidad de análisis. Además, promueve la mentalidad emprendedora al transformar dificultades en oportunidades de aprendizaje."
+  },
+  {
+    "intent_id": "mercados_de_habilidades_personales",
+    "keywords": [
+      "habilidad",
+      "intercambio",
+      "servicio",
+      "aprendizaje",
+      "emprender"
+    ],
+    "base_response": "Un mercado de habilidades personales permite que estudiantes ofrezcan servicios basados en talentos propios, como enseñar, reparar o crear. Al intercambiar estos servicios, desarrollan confianza, responsabilidad y visión emprendedora, comprendiendo cómo sus capacidades pueden generar oportunidades reales."
+  },
+  {
+    "intent_id": "anclaje_de_valor_personal",
+    "keywords": [
+      "anclaje",
+      "valor",
+      "prioridades",
+      "reflexion",
+      "eleccion"
+    ],
+    "base_response": "El anclaje de valor personal ayuda a que los estudiantes definan qué cosas realmente les importan. Al reflexionar sobre prioridades, aprenden a elegir gastos que reflejen sus intereses auténticos. Este proceso fortalece decisiones conscientes y evita compras motivadas por presion social o tendencias pasajeras."
+  },
+  {
+    "intent_id": "rituales_de_control_financiero",
+    "keywords": [
+      "rituales",
+      "control",
+      "seguimiento",
+      "planificacion",
+      "consistencia"
+    ],
+    "base_response": "Los rituales de control financiero convierten tareas simples en hábitos estables. Crear momentos fijos para revisar gastos o planificar metas genera consistencia. Estos rituales permiten que los estudiantes desarrollen disciplina, comprendan patrones y ajusten comportamientos para mejorar su relacion con el dinero."
+  },
+  {
+    "intent_id": "recompensas_inteligentes",
+    "keywords": [
+      "recompensas",
+      "motivacion",
+      "logros",
+      "metas",
+      "gestion"
+    ],
+    "base_response": "Las recompensas inteligentes vinculan la motivacion con logros financieros reales. Al establecer metas y celebrar avances con premios moderados, los estudiantes aprenden a gestionar impulsos y valorar el esfuerzo. Este enfoque refuerza conductas positivas sin fomentar consumismo excesivo ni decisiones precipitadas."
+  },
+  {
+    "intent_id": "narrativas_financieras_personales",
+    "keywords": [
+      "narrativas",
+      "identidad",
+      "experiencias",
+      "aprendizaje",
+      "progreso"
+    ],
+    "base_response": "Las narrativas financieras personales permiten que los estudiantes construyan historias sobre su relacion con el dinero. Al reconocer experiencias y progreso, desarrollan identidad economica consciente. Este enfoque transforma errores en oportunidades de aprendizaje y fortalece la confianza para tomar decisiones responsables."
+  },
+  {
+    "intent_id": "intercambio_de_tiempos_futuros",
+    "keywords": [
+      "tiempo",
+      "decision",
+      "actividad",
+      "beneficio",
+      "eleccion"
+    ],
+    "base_response": "El costo de oportunidad también aparece cuando eliges algo que afecta tu tiempo futuro. Si decides practicar un deporte hoy, quizá renuncias a mejorar una habilidad que necesitarás mañana. Comprender este intercambio ayuda a planificar mejor tus metas personales."
+  },
+  {
+    "intent_id": "valor_oculto_de_las_habilidades",
+    "keywords": [
+      "habilidad",
+      "aprendizaje",
+      "practica",
+      "crecimiento",
+      "eleccion"
+    ],
+    "base_response": "A veces el costo de oportunidad está en habilidades que no desarrollas. Si dedicas horas a videojuegos, podrías perder la oportunidad de aprender algo que te facilite proyectos escolares. Reconocer este valor oculto permite tomar decisiones más conscientes."
+  },
+  {
+    "intent_id": "impacto_en_relaciones_sociales",
+    "keywords": [
+      "amistad",
+      "convivencia",
+      "actividad",
+      "prioridad",
+      "decision"
+    ],
+    "base_response": "Tus decisiones también afectan tus relaciones. Si eliges estudiar toda la tarde, quizá pierdas momentos importantes con amigos. Entender este costo de oportunidad ayuda a equilibrar responsabilidades y vínculos sociales sin descuidar lo que consideras valioso."
+  },
+  {
+    "intent_id": "oportunidades_en_microdecisiones",
+    "keywords": [
+      "eleccion",
+      "momento",
+      "accion",
+      "resultado",
+      "prioridad"
+    ],
+    "base_response": "El costo de oportunidad aparece incluso en decisiones pequeñas. Elegir un bocadillo saludable puede significar renunciar a uno más sabroso, pero ganar energía para tus actividades. Observar estas microdecisiones fortalece tu capacidad de elegir con intención."
+  },
+  {
+    "intent_id": "efecto_en_proyectos_creativos",
+    "keywords": [
+      "creatividad",
+      "proyecto",
+      "idea",
+      "tiempo",
+      "decision"
+    ],
+    "base_response": "Cuando trabajas en un proyecto creativo, cada elección implica renunciar a otras ideas. Si dedicas tiempo a un dibujo, quizá no explores una historia que podría inspirarte más. Reconocer este costo de oportunidad mejora tu proceso creativo y tus resultados."
+  },
+  {
+    "intent_id": "libertad_pagar_caprichos_sin_consulta",
+    "keywords": [
+      "caprichos",
+      "pagar",
+      "consulta",
+      "familiares",
+      "ahorro",
+      "mesada"
+    ],
+    "base_response": "Se refiere a poder comprar los pequeños gustos que quieras, como golosinas, stickers o acceso a tu videojuego favorito, sin tener que pedir permiso ni dinero a tus padres o tutores, usando el dinero que guardaste de tus mesadas o trabajos pequeños."
+  },
+  {
+    "intent_id": "libertad_donar_sin_sacrificar_necesidades",
+    "keywords": [
+      "donar",
+      "causas",
+      "sacrificar",
+      "necesidades",
+      "ahorro",
+      "aportar"
+    ],
+    "base_response": "Es la posibilidad de aportar dinero a causas que te importan, como ayudar a animales o comprar materiales para niños que no tienen, sin dejar de ahorrar para tus propios gastos importantes, como útiles escolares o tus pasatiempos favoritos."
+  },
+  {
+    "intent_id": "libertad_elegir_trabajos_extra_sin_imposicion",
+    "keywords": [
+      "ganar",
+      "dinero",
+      "extra",
+      "imposicion",
+      "padres",
+      "metas"
+    ],
+    "base_response": "Es la capacidad de decidir de qué forma quieres ganar dinero extra, ya sea vendiendo dibujos, paseando perros o ayudando con tareas domésticas, sin que tus padres te obliguen a hacer actividades que no te gustan para obtener ingresos."
+  },
+  {
+    "intent_id": "libertad_no_compartir_dinero_sin_culpa",
+    "keywords": [
+      "compartir",
+      "dinero",
+      "culpa",
+      "amigos",
+      "limites",
+      "ahorro"
+    ],
+    "base_response": "Consiste en poder decidir si quieres prestar o regalar tu dinero a otras personas, sin sentirte culpable por negarte, y sin que los demás te obliguen a dar tu dinero que guardaste para tus propias metas o necesidades."
+  },
+  {
+    "intent_id": "libertad_no_explicar_gastos_si_eres_responsable",
+    "keywords": [
+      "explicar",
+      "gastos",
+      "responsable",
+      "padres",
+      "autonomia",
+      "administrar"
+    ],
+    "base_response": "Se da cuando tus padres confían en tu forma de administrar el dinero, por lo que no tienes que dar cuenta de cada compra que haces, siempre y cuando cumplas con tus responsabilidades y sigas ahorrando para tus metas."
+  },
+  {
+    "intent_id": "riesgo_oportunidad_eleccion_gasto_meta",
+    "keywords": [
+      "gasto",
+      "capricho",
+      "ahorro",
+      "meta",
+      "videojuego",
+      "eleccion"
+    ],
+    "base_response": "Cuando eliges gastar tu dinero de cumpleaños en un juguete que se rompe en una semana, renuncias al retorno de haberlo ahorrado para comprar el videojuego que querías desde hace meses, ese costo oculto es el riesgo oportunidad de tu elección."
+  },
+  {
+    "intent_id": "riesgo_impago_prestamo_companeros",
+    "keywords": [
+      "prestamo",
+      "amigo",
+      "devolucion",
+      "confianza",
+      "dinero",
+      "impago"
+    ],
+    "base_response": "Cuando le prestas dinero a un compañero para que compre un refresco y la lonchera, existe el riesgo de que no te lo devuelva, aunque confíes mucho en él. El retorno es ayudarlo, pero siempre evalúa si puedes permitirte perder ese monto sin problemas."
+  },
+  {
+    "intent_id": "riesgo_perdida_rifa_escolar",
+    "keywords": [
+      "rifa",
+      "sorteo",
+      "boleto",
+      "premio",
+      "probabilidad",
+      "perdida"
+    ],
+    "base_response": "Comprar boletos para la rifa de una consola de videojuegos que organiza el colegio tiene un riesgo muy alto: si no ganas, pierdes todo el dinero que invertiste, y el retorno solo existe para una persona de todas las que compraron números."
+  },
+  {
+    "intent_id": "riesgo_incumplimiento_meta_viaje_escolar",
+    "keywords": [
+      "ahorro",
+      "viaje",
+      "fin",
+      "curso",
+      "meta",
+      "cuota"
+    ],
+    "base_response": "Si no ahorras cada mes una parte de tu dinero de mesada para el viaje de fin de curso, corres el riesgo de no poder pagar la cuota a tiempo y quedarte sin ir, el retorno de tu constancia es disfrutar del paseo con todos tus compañeros."
+  },
+  {
+    "intent_id": "riesgo_perdida_emprendimiento_juvenil",
+    "keywords": [
+      "emprendimiento",
+      "galletas",
+      "inversion",
+      "ingreso",
+      "perdida",
+      "venta"
+    ],
+    "base_response": "Si inviertes tu mesada en ingredientes para vender galletas en el recreo, existe el riesgo de que no vendas ninguna y pierdas todo el dinero, el retorno posible es ganar el doble de lo invertido si logras vender toda la producción."
+  },
+  {
+    "intent_id": "venta_recursos_estudio_companeros",
+    "keywords": [
+      "resumenes",
+      "fichas",
+      "estudio",
+      "companeros",
+      "venta",
+      "ingresos"
+    ],
+    "base_response": "Tienes materias que se te dan muy bien, ¿verdad? Puedes crear resúmenes, fichas de repaso o guías de temas que a tus compañeros les cuesta entender, y venderlas a un precio accesible. Generas ingresos extra sin invertir dinero, y ayudas a otros a mejorar sus calificaciones."
+  },
+  {
+    "intent_id": "cuidado_mascotas_plantas_vecinos",
+    "keywords": [
+      "cuidado",
+      "mascotas",
+      "plantas",
+      "vecinos",
+      "viajes",
+      "ingresos"
+    ],
+    "base_response": "Muchas familias se van de vacaciones o de viaje de trabajo y no tienen con quién dejar a sus perros, gatos o plantas de interior. Puedes ofrecerte a alimentar, pasear o regar sus pertenencias a cambio de un pago diario, generando ingresos sin esfuerzo extra en tu rutina."
+  },
+  {
+    "intent_id": "intercambio_objetos_usados_valor",
+    "keywords": [
+      "intercambio",
+      "objetos",
+      "usados",
+      "valor",
+      "servicios",
+      "dinero"
+    ],
+    "base_response": "Seguro tienes ropa, juguetes, consolas o libros que ya no usas y están en buen estado. Puedes cambiarlos por dinero en tiendas de segunda mano, o intercambiarlos directamente por servicios que necesites, como clases de un tema que te interese, generando valor de lo que tenías olvidado."
+  },
+  {
+    "intent_id": "participacion_encuestas_pruebas_marcas",
+    "keywords": [
+      "encuestas",
+      "pruebas",
+      "productos",
+      "marcas",
+      "adolescentes",
+      "ingresos"
+    ],
+    "base_response": "Muchas empresas quieren saber la opinión de personas de tu edad sobre sus productos, como golosinas, ropa o videojuegos, para mejorarlos antes de lanzarlos al mercado. Puedes registrarte en plataformas confiables para responder encuestas o probar productos a cambio de dinero o premios."
+  },
+  {
+    "intent_id": "ensenanza_habilidades_digitales_recreativas",
+    "keywords": [
+      "ensenanza",
+      "habilidades",
+      "digitales",
+      "recreativas",
+      "ninos",
+      "adultos"
+    ],
+    "base_response": "Sabes usar muy bien las redes sociales, editar videos o pasar niveles difíciles de videojuegos, ¿verdad? Puedes enseñar esas habilidades a niños pequeños que quieren aprender, o a adultos mayores que no saben usar el teléfono, generando ingresos mientras haces lo que te gusta."
+  },
+  {
+    "intent_id": "ahorro_por_redondeo_de_compras",
+    "keywords": [
+      "redondeo",
+      "compras",
+      "cambios",
+      "monedas",
+      "acumulacion"
+    ],
+    "base_response": "El ahorro por redondeo consiste en guardar el cambio sobrante de tus compras diarias, como las monedas de 1 o 2 euros que te devuelven al pagar. Si lo haces de forma constante, al final del mes tendrás dinero extra para lo que quieras sin esfuerzo."
+  },
+  {
+    "intent_id": "inversion_en_bienes_duraderos_personales",
+    "keywords": [
+      "inversion",
+      "bienes",
+      "duraderos",
+      "uso",
+      "personal",
+      "ahorro"
+    ],
+    "base_response": "Invertir en bienes duraderos para tu uso diario consiste en comprar artículos de buena calidad, como una mochila o unos zapatos, en vez de productos baratos que se rompen rápido. A largo plazo gastarás menos dinero y evitarás compras repetidas innecesarias."
+  },
+  {
+    "intent_id": "eliminacion_de_gastos_hormiga",
+    "keywords": [
+      "gastos",
+      "hormiga",
+      "eliminacion",
+      "ahorro",
+      "frecuencia",
+      "dinero"
+    ],
+    "base_response": "Los gastos hormiga son pequeños desembolsos que haces de forma casi inconsciente cada día, como comprar un chicle o una golosina. Eliminarlos o reducirlos genera un ahorro mensual importante sin que notes la falta de ese dinero en tu bolsillo."
+  },
+  {
+    "intent_id": "inversion_en_formacion_propia",
+    "keywords": [
+      "inversion",
+      "formacion",
+      "propia",
+      "conocimientos",
+      "ingresos",
+      "futuro"
+    ],
+    "base_response": "Invertir en tu formación propia consiste en dedicar parte de tu dinero a cursos, libros o actividades que te enseñen habilidades nuevas. Es una inversión segura porque esos conocimientos te servirán para conseguir mejores trabajos o generar ingresos extra cuando seas mayor."
+  },
+  {
+    "intent_id": "ahorro_colectivo_para_metas_compartidas",
+    "keywords": [
+      "ahorro",
+      "colectivo",
+      "metas",
+      "compartidas",
+      "grupo",
+      "dinero"
+    ],
+    "base_response": "El ahorro colectivo consiste en juntar dinero con tus amigos o familiares para alcanzar una meta que les beneficia a todos, como comprar un juego de mesa o pagar una excursión. Cada uno aporta una pequeña cantidad y logran el objetivo más rápido y sin gastar mucho cada uno."
+  },
+  {
+    "intent_id": "mapa_de_flujo_familiar",
+    "keywords": [
+      "flujo",
+      "ingresos",
+      "gastos",
+      "registro",
+      "analisis"
+    ],
+    "base_response": "Un mapa de flujo familiar muestra cómo entra y sale el dinero en casa. Ayuda a visualizar patrones, detectar gastos invisibles y comprender decisiones económicas. Permite a los estudiantes relacionar acciones cotidianas con efectos financieros reales, fortaleciendo su pensamiento crítico."
+  },
+  {
+    "intent_id": "presupuesto_por_estaciones",
+    "keywords": [
+      "estaciones",
+      "variacion",
+      "planificacion",
+      "anticipacion",
+      "ahorro"
+    ],
+    "base_response": "El presupuesto por estaciones identifica cómo cambian los gastos según épocas del año. Permite anticipar compras especiales, ajustar hábitos y evitar sorpresas. Los estudiantes aprenden que la economía familiar también responde a ciclos naturales y requiere preparación constante."
+  },
+  {
+    "intent_id": "roles_financieros_en_casa",
+    "keywords": [
+      "roles",
+      "responsabilidad",
+      "coordinacion",
+      "decision",
+      "organizacion"
+    ],
+    "base_response": "Los roles financieros en casa muestran cómo cada integrante participa en decisiones económicas. Ayudan a comprender responsabilidades compartidas, coordinación de metas y efectos de la comunicación. Los estudiantes descubren que un presupuesto funciona mejor cuando todos colaboran activamente."
+  },
+  {
+    "intent_id": "presupuesto_de_emergencia_creativo",
+    "keywords": [
+      "emergencia",
+      "creatividad",
+      "solucion",
+      "priorizacion",
+      "evaluacion"
+    ],
+    "base_response": "Un presupuesto de emergencia creativo enseña a reorganizar gastos cuando surge un imprevisto. Impulsa la búsqueda de soluciones ingeniosas, priorización de necesidades y evaluación rápida. Los estudiantes desarrollan flexibilidad financiera y capacidad para enfrentar situaciones inesperadas."
+  },
+  {
+    "intent_id": "microproyectos_familiares",
+    "keywords": [
+      "microproyectos",
+      "objetivos",
+      "cooperacion",
+      "financiacion",
+      "seguimiento"
+    ],
+    "base_response": "Los microproyectos familiares convierten metas pequeñas en actividades con presupuesto propio. Fomentan cooperación, seguimiento de avances y comprensión del costo real de las ideas. Los estudiantes aprenden que incluso los proyectos simples requieren organización y recursos bien administrados."
+  }
+]
