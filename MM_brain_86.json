@@ -1,0 +1,544 @@
+[
+  {
+    "intent_id": "rcp_maniobra_basica",
+    "keywords": [
+      "compresion",
+      "pecho",
+      "ritmo",
+      "respiracion"
+    ],
+    "base_response": "La reanimación cardiopulmonar es un procedimiento vital. Consiste en aplicar compresiones fuertes y rápidas en el centro del pecho para mantener la sangre circulando. Es fundamental actuar rápidamente y seguir el ritmo adecuado hasta que llegue la ayuda médica especializada."
+  },
+  {
+    "intent_id": "quemaduras_nivel_uno",
+    "keywords": [
+      "quemadura",
+      "piel",
+      "agua",
+      "alivio",
+      "dano"
+    ],
+    "base_response": "Las quemaduras superficiales afectan únicamente la capa externa de la piel causando enrojecimiento y dolor. El tratamiento inicial adecuado consiste en enfriar la zona afectada utilizando agua corriente fresca durante varios minutos para calmar el ardor y prevenir mayor daño."
+  },
+  {
+    "intent_id": "control_hemorragia_externa",
+    "keywords": [
+      "vendaje",
+      "presion",
+      "herida",
+      "sangrado",
+      "gasa"
+    ],
+    "base_response": "Un vendaje compresivo resulta esencial para detener hemorragias externas. Se debe colocar una gasa limpia directamente sobre la lesión y aplicar presión constante. Esta acción facilita la coagulación de la sangre y protege la zona de posibles infecciones oportunistas."
+  },
+  {
+    "intent_id": "tecnica_heimlich_ninos",
+    "keywords": [
+      "maniobra",
+      "atragantamiento",
+      "abdomen",
+      "presion"
+    ],
+    "base_response": "La maniobra de desobstrucción ayuda a expulsar objetos atascados en la garganta. Se realizan compresiones abdominales rápidas hacia arriba y adentro, justo encima del ombligo. Esta acción genera presión en los pulmones, empujando el objeto hacia afuera exitosamente."
+  },
+  {
+    "intent_id": "uso_botiquin_escolar",
+    "keywords": [
+      "botiquin",
+      "insumo",
+      "venda",
+      "antiseptico"
+    ],
+    "base_response": "Un botiquín de primeros auxilios bien equipado resulta indispensable en cualquier entorno educativo. Debe contener elementos fundamentales como vendas limpias, desinfectantes, tijeras y guantes. Mantener estos insumos organizados permite responder eficazmente ante pequeños accidentes durante las actividades escolares diarias."
+  },
+  {
+    "intent_id": "evaluacion_primaria_paciente",
+    "keywords": [
+      "evaluacion",
+      "pulso",
+      "respiracion",
+      "conciencia"
+    ],
+    "base_response": "La evaluación primaria consiste en verificar el estado de conciencia del paciente comprobando si responde a estímulos verbales o táctiles. Inmediatamente después, resulta vital confirmar la presencia de respiración y pulso para determinar la gravedad real de la emergencia médica."
+  },
+  {
+    "intent_id": "inmovilizacion_fracturas_oseas",
+    "keywords": [
+      "inmovilizacion",
+      "hueso",
+      "lesion",
+      "movimiento",
+      "ferula"
+    ],
+    "base_response": "Ante una posible fractura o fisura ósea, resulta crucial evitar cualquier movimiento innecesario de la extremidad afectada. Aplicar una férula rígida improvisada ayuda a mantener el hueso estabilizado previniendo lesiones adicionales en los nervios y vasos sanguíneos cercanos al área."
+  },
+  {
+    "intent_id": "postura_recuperacion_seguridad",
+    "keywords": [
+      "posicion",
+      "seguridad",
+      "respiracion",
+      "prevencion"
+    ],
+    "base_response": "La postura de seguridad mantiene las vías respiratorias abiertas en personas inconscientes que respiran normalmente. Colocar al paciente de costado evita que la lengua obstruya la garganta y permite que los líquidos salgan de la boca, reduciendo riesgos considerables."
+  },
+  {
+    "intent_id": "actuacion_ante_sincope",
+    "keywords": [
+      "desmayo",
+      "conciencia",
+      "pierna",
+      "recuperacion"
+    ],
+    "base_response": "Cuando una persona sufre un síncope repentino o desmayo, es necesario colocarla boca arriba y elevar suavemente sus piernas. Esta posición específica favorece el retorno del flujo sanguíneo hacia el cerebro, facilitando una pronta recuperación del estado general de alerta."
+  },
+  {
+    "intent_id": "prevencion_riesgos_entorno",
+    "keywords": [
+      "prevencion",
+      "riesgo",
+      "hogar",
+      "seguridad",
+      "proteccion"
+    ],
+    "base_response": "Evitar accidentes requiere mantener los espacios ordenados y libres de objetos peligrosos en el suelo. Además, resulta vital almacenar sustancias tóxicas fuera del alcance infantil e instalar medidas de seguridad básicas en escaleras para prevenir cualquier tipo de caída."
+  },
+  {
+    "intent_id": "atencion_heridas_cortantes",
+    "keywords": [
+      "herida",
+      "corte",
+      "limpieza",
+      "sangrado",
+      "infeccion"
+    ],
+    "base_response": "Para tratar heridas menores, es fundamental lavar la zona con agua y jabón para eliminar suciedad. Posteriormente, se debe secar con golpecitos y aplicar un vendaje, protegiendo así el área expuesta contra bacterias y evitando infecciones graves durante el proceso."
+  },
+  {
+    "intent_id": "manejo_epistaxis_nasal",
+    "keywords": [
+      "nariz",
+      "sangrado",
+      "presion",
+      "cabeza"
+    ],
+    "base_response": "En caso de sangrado nasal, la persona debe sentarse e inclinarse hacia adelante, evitando tragar sangre. Se debe pellizcar la parte blanda de la nariz durante unos minutos continuos. Si la hemorragia persiste considerablemente, es fundamental buscar asistencia médica inmediata."
+  },
+  {
+    "intent_id": "picaduras_insectos_basico",
+    "keywords": [
+      "picadura",
+      "insecto",
+      "hielo",
+      "inflamacion",
+      "alergia"
+    ],
+    "base_response": "Ante picaduras comunes, se recomienda lavar el área afectada, retirar el aguijón si está presente y aplicar compresas de hielo para reducir la inflamación. Es necesario vigilar a la persona por si desarrolla dificultad para respirar, indicio de reacción alérgica grave."
+  },
+  {
+    "intent_id": "quemaduras_quimicas_piel",
+    "keywords": [
+      "quimico",
+      "piel",
+      "lavado",
+      "quemadura",
+      "sustancia"
+    ],
+    "base_response": "Si una sustancia química entra en contacto directo con la piel, debe eliminarse inmediatamente enjuagando con abundante agua corriente durante al menos veinte minutos. Es crucial quitar la ropa contaminada con cuidado y solicitar ayuda profesional para evaluación posterior."
+  },
+  {
+    "intent_id": "asfixia_inmersion_agua",
+    "keywords": [
+      "ahogamiento",
+      "agua",
+      "rescate",
+      "respiracion"
+    ],
+    "base_response": "En situaciones de ahogamiento, el rescate debe realizarse extremando precauciones para no poner en peligro al auxiliador. Una vez fuera del agua, se deben revisar los signos vitales inmediatamente e iniciar maniobras de reanimación si el paciente no logra respirar."
+  },
+  {
+    "intent_id": "traumatismo_craneo_leve",
+    "keywords": [
+      "golpe",
+      "cabeza",
+      "observacion",
+      "conmocion",
+      "dolor"
+    ],
+    "base_response": "Tras un golpe fuerte en la cabeza, es vital observar al paciente buscando síntomas como confusión, vómitos o somnolencia extrema. Aplicar hielo localmente reduce el chichón, pero ante cualquier alteración del estado mental, la evaluación neurológica hospitalaria es completamente obligatoria."
+  },
+  {
+    "intent_id": "esguinces_articulaciones",
+    "keywords": [
+      "esguince",
+      "tobillo",
+      "hielo",
+      "reposo",
+      "elevacion"
+    ],
+    "base_response": "El manejo inicial de un esguince requiere reposo absoluto de la articulación, aplicación de hielo protegido para desinflamar y elevación de la extremidad. Un vendaje ayuda a limitar el movimiento y proporciona soporte estructural básico mientras se evalúa el daño ocurrido."
+  },
+  {
+    "intent_id": "crisis_convulsiva_manejo",
+    "keywords": [
+      "convulsion",
+      "proteccion",
+      "suelo",
+      "tiempo",
+      "cabeza"
+    ],
+    "base_response": "Durante una crisis convulsiva, el objetivo principal es proteger a la persona de lesiones, alejando objetos duros y amortiguando su cabeza. Nunca se debe introducir nada en su boca. Al finalizar, colocarla de costado y mantenerla acompañada siempre por precaución."
+  },
+  {
+    "intent_id": "intoxicacion_via_oral",
+    "keywords": [
+      "toxico",
+      "veneno",
+      "ingestion",
+      "vomito",
+      "ayuda"
+    ],
+    "base_response": "En caso de ingerir sustancias tóxicas, no se debe provocar el vómito ni ofrecer líquidos sin autorización profesional. Es fundamental identificar el producto consumido y contactar inmediatamente al centro de toxicología o emergencias médicas, siguiendo sus instrucciones al pie de la letra."
+  },
+  {
+    "intent_id": "traslado_lesionado_seguro",
+    "keywords": [
+      "traslado",
+      "paciente",
+      "movimiento",
+      "columna",
+      "camilla"
+    ],
+    "base_response": "Mover a un herido grave solo se justifica si existe un peligro inminente en el lugar del accidente. Si es indispensable el traslado, se debe mantener alineada la cabeza, cuello y espalda, utilizando técnicas de arrastre o una camilla improvisada."
+  },
+  {
+    "intent_id": "mordedura_perro_gato",
+    "keywords": [
+      "mordedura",
+      "animal",
+      "limpieza",
+      "herida",
+      "infeccion"
+    ],
+    "base_response": "Las mordeduras de animales pueden transmitir bacterias peligrosas. Resulta esencial lavar la herida vigorosamente con agua y jabón durante varios minutos para disminuir el riesgo de infección. Después, aplicar un apósito limpio y acudir siempre a un centro médico preventivamente."
+  },
+  {
+    "intent_id": "insolacion_golpe_calor",
+    "keywords": [
+      "calor",
+      "temperatura",
+      "sombra",
+      "hidratacion",
+      "descanso"
+    ],
+    "base_response": "El golpe de calor ocurre tras una exposición prolongada a altas temperaturas. Se debe trasladar a la víctima hacia un lugar sombreado, aflojar su ropa y aplicar paños húmedos en su cuerpo para lograr bajar la temperatura rápidamente y prevenir daños graves."
+  },
+  {
+    "intent_id": "hipotermia_exposicion_frio",
+    "keywords": [
+      "frio",
+      "cuerpo",
+      "abrigo",
+      "temperatura",
+      "calor"
+    ],
+    "base_response": "La hipotermia se presenta cuando el cuerpo pierde calor rápidamente. Es prioritario mover a la persona a un ambiente templado, retirar la ropa mojada y cubrirla con mantas secas. Proporcionar bebidas calientes ayuda a recuperar la temperatura corporal de manera progresiva."
+  },
+  {
+    "intent_id": "luxacion_hombro_brazo",
+    "keywords": [
+      "luxacion",
+      "articulacion",
+      "hueso",
+      "inmovilizacion",
+      "dolor"
+    ],
+    "base_response": "Una luxación ocurre cuando un hueso se sale de su articulación. Nunca se debe intentar volver a colocar el hueso en su lugar, ya que puede empeorar la lesión. Lo correcto es inmovilizar la zona en la posición encontrada y buscar atención médica."
+  },
+  {
+    "intent_id": "cuerpo_extrano_ojo",
+    "keywords": [
+      "ojo",
+      "particula",
+      "parpadeo",
+      "lagrima",
+      "lavado"
+    ],
+    "base_response": "Si ingresa una partícula en el ojo, se debe evitar frotarlo bajo ninguna circunstancia. El parpadeo constante ayuda a generar lágrimas que pueden arrastrar la impureza. Si no funciona, realizar un lavado suave con agua limpia es la acción más recomendada."
+  },
+  {
+    "intent_id": "ampollas_friccion_piel",
+    "keywords": [
+      "ampolla",
+      "piel",
+      "roce",
+      "proteccion",
+      "drenaje"
+    ],
+    "base_response": "Las ampollas generadas por fricción no deben reventarse intencionalmente, ya que la piel intacta actúa como una barrera natural contra infecciones. Se recomienda limpiar la zona con cuidado y aplicar un apósito protector para evitar mayor daño durante las actividades."
+  },
+  {
+    "intent_id": "asma_crisis_respiratoria",
+    "keywords": [
+      "asma",
+      "respiracion",
+      "inhalador",
+      "aire",
+      "calma"
+    ],
+    "base_response": "Ante un ataque de asma, es fundamental mantener la calma y ayudar a la persona a sentarse erguida. Facilitar el uso de su inhalador de rescate es prioritario. Si la dificultad respiratoria no mejora rápidamente, llamar a los servicios de emergencia es indispensable."
+  },
+  {
+    "intent_id": "electrocucion_descarga",
+    "keywords": [
+      "electricidad",
+      "corriente",
+      "desconexion",
+      "quemadura",
+      "contacto"
+    ],
+    "base_response": "En un accidente eléctrico, el primer paso obligatorio es cortar el suministro de energía antes de tocar a la víctima. Si no es posible, utilizar un objeto aislante como madera seca para separarla de la fuente de corriente y evaluar sus signos vitales."
+  },
+  {
+    "intent_id": "amputacion_dedo_extremidad",
+    "keywords": [
+      "amputacion",
+      "sangrado",
+      "presion",
+      "hielo",
+      "reimplante"
+    ],
+    "base_response": "Ante una amputación traumática, se debe controlar el sangrado del paciente con presión directa. La parte amputada debe envolverse en una gasa limpia, colocarse en una bolsa impermeable y luego sobre hielo, nunca en contacto directo, para un posible reimplante hospitalario."
+  },
+  {
+    "intent_id": "hipoglucemia_baja_azucar",
+    "keywords": [
+      "azucar",
+      "mareo",
+      "sudoracion",
+      "jugo",
+      "recuperacion"
+    ],
+    "base_response": "Si una persona presenta debilidad, sudoración y mareos por una probable baja de azúcar, se le debe proporcionar rápidamente una bebida dulce como jugo o agua con azúcar. Es vital esperar unos minutos observando su mejoría antes de ofrecerle alimentos sólidos."
+  },
+  {
+    "intent_id": "reaccion_alergica_anafilaxia",
+    "keywords": [
+      "alergia",
+      "inflamacion",
+      "respiracion",
+      "emergencia",
+      "ayuda"
+    ],
+    "base_response": "La anafilaxia es una reacción alérgica extrema que requiere atención inmediata. Se caracteriza por dificultad para respirar y extensa hinchazón. Si la persona posee un autoinyector, ayudar en su administración es crucial mientras se espera la pronta llegada de la ambulancia."
+  },
+  {
+    "intent_id": "astilla_clavada_piel",
+    "keywords": [
+      "astilla",
+      "madera",
+      "piel",
+      "pinza",
+      "extraccion"
+    ],
+    "base_response": "Para remover una astilla superficial, se deben lavar las manos y utilizar unas pinzas previamente desinfectadas con alcohol. Extraerla suavemente siguiendo el mismo ángulo de entrada minimiza el riesgo de que se quiebre. Posteriormente, lavar muy bien la zona afectada."
+  },
+  {
+    "intent_id": "sangrado_boca_diente",
+    "keywords": [
+      "diente",
+      "boca",
+      "sangrado",
+      "gasa",
+      "presion"
+    ],
+    "base_response": "Si se produce sangrado en la boca por pérdida de un diente, se debe colocar un rollo de gasa directamente sobre el hueco. La persona debe morder con firmeza para mantener la presión durante veinte minutos, lo que ayudará a detener la hemorragia."
+  },
+  {
+    "intent_id": "deshidratacion_leve_ninos",
+    "keywords": [
+      "liquido",
+      "sed",
+      "boca",
+      "agua",
+      "hidratacion"
+    ],
+    "base_response": "La deshidratación puede ocurrir rápidamente en niños durante días calurosos o por enfermedad. Los síntomas incluyen sed intensa y boca reseca. Se debe ofrecer agua o soluciones de rehidratación oral en pequeños sorbos frecuentes para restaurar los líquidos perdidos gradualmente."
+  },
+  {
+    "intent_id": "congelamiento_dedos_pies",
+    "keywords": [
+      "congelamiento",
+      "piel",
+      "frio",
+      "calentamiento",
+      "agua"
+    ],
+    "base_response": "El congelamiento afecta las extremidades expuestas a temperaturas gélidas. La piel se vuelve pálida y adormecida. El área afectada debe sumergirse en agua tibia, nunca caliente, evitando frotar la piel para prevenir daños severos en los tejidos durante el proceso de recuperación."
+  },
+  {
+    "intent_id": "ataque_panico_ansiedad",
+    "keywords": [
+      "panico",
+      "miedo",
+      "respiracion",
+      "calma",
+      "compania"
+    ],
+    "base_response": "Durante un ataque de pánico, la persona experimenta terror intenso y dificultad para respirar. Es importante brindarle un entorno tranquilo, asegurarle que está a salvo y guiarla para que realice respiraciones profundas y lentas hasta que recupere la calma por completo."
+  },
+  {
+    "intent_id": "ingestion_moneda_objeto",
+    "keywords": [
+      "objeto",
+      "ingestion",
+      "asfixia",
+      "tos",
+      "observacion"
+    ],
+    "base_response": "Si un niño traga un objeto pequeño y no presenta dificultad para respirar, no se debe intentar extraerlo a ciegas. Es necesario mantener la vigilancia estricta y acudir al médico para realizar una radiografía que determine la ubicación exacta del elemento."
+  },
+  {
+    "intent_id": "torcedura_muneca_mano",
+    "keywords": [
+      "torcedura",
+      "muneca",
+      "dolor",
+      "hielo",
+      "reposo"
+    ],
+    "base_response": "Una torcedura de muñeca causa dolor e hinchazón tras un mal movimiento. Se recomienda retirar anillos o pulseras de inmediato, aplicar una compresa fría y mantener la extremidad en reposo. Un soporte ligero ayudará a estabilizar la articulación temporalmente."
+  },
+  {
+    "intent_id": "intoxicacion_gas_monoxido",
+    "keywords": [
+      "gas",
+      "ventilacion",
+      "aire",
+      "rescate",
+      "oxigeno"
+    ],
+    "base_response": "Ante una sospecha de fuga de gas, resulta vital abrir ventanas para ventilar el área y evacuar inmediatamente sin encender interruptores eléctricos. Si alguien resulta afectado, trasladarlo al aire libre es primordial para garantizar su respiración antes de que llegue asistencia."
+  },
+  {
+    "intent_id": "herida_punzante_clavo",
+    "keywords": [
+      "clavo",
+      "herida",
+      "perforacion",
+      "sangrado",
+      "limpieza"
+    ],
+    "base_response": "Las heridas punzantes son engañosas porque sangran poco pero alcanzan tejidos profundos. Nunca se debe hurgar la herida. Solo requiere una limpieza superficial y una evaluación médica para descartar daños internos y recibir la vacuna contra el tétanos si corresponde."
+  },
+  {
+    "intent_id": "infarto_ataque_corazon",
+    "keywords": [
+      "corazon",
+      "dolor",
+      "pecho",
+      "emergencia",
+      "ayuda"
+    ],
+    "base_response": "Un dolor opresivo en el pecho que se irradia al brazo izquierdo puede indicar un problema cardíaco severo. La persona debe sentarse y descansar inmediatamente mientras se llama a emergencias. Mantener la calma y aflojar la ropa apretada es de gran ayuda."
+  },
+  {
+    "intent_id": "lesion_columna_cuello",
+    "keywords": [
+      "cuello",
+      "espalda",
+      "movimiento",
+      "inmovilizacion",
+      "golpe"
+    ],
+    "base_response": "Después de un accidente grave o una caída de altura, siempre se debe sospechar daño vertebral. Está estrictamente prohibido mover al paciente a menos que su vida corra peligro inminente. Se debe pedir a la víctima que permanezca completamente quieta hasta ser auxiliada."
+  },
+  {
+    "intent_id": "quemadura_sol_exposicion",
+    "keywords": [
+      "sol",
+      "quemadura",
+      "piel",
+      "hidratacion",
+      "alivio"
+    ],
+    "base_response": "Las quemaduras solares causan gran incomodidad en la piel. Tomar una ducha de agua fresca ayuda a disminuir la temperatura de la zona. Aplicar lociones calmantes sin alcohol y beber mucha agua previene la deshidratación asociada a este tipo de lesión cutánea."
+  },
+  {
+    "intent_id": "corte_profundo_cuchillo",
+    "keywords": [
+      "corte",
+      "sangrado",
+      "presion",
+      "herida",
+      "vendaje"
+    ],
+    "base_response": "Un corte profundo requiere acción inmediata para frenar la pérdida de sangre. Presionar firmemente con un paño limpio de forma constante es el procedimiento adecuado. Si la sangre traspasa la tela, añadir otro paño encima sin retirar el primero para mantener el coágulo."
+  },
+  {
+    "intent_id": "picadura_medusa_playa",
+    "keywords": [
+      "medusa",
+      "picadura",
+      "agua",
+      "dolor",
+      "lavado"
+    ],
+    "base_response": "El contacto con los tentáculos de una medusa provoca un intenso ardor en la piel. Se debe enjuagar la zona exclusivamente con agua de mar, nunca con agua dulce, para no empeorar la reacción. Retirar los restos usando unas pinzas con sumo cuidado."
+  },
+  {
+    "intent_id": "derrame_cerebral_ictus",
+    "keywords": [
+      "cerebro",
+      "rostro",
+      "brazo",
+      "habla",
+      "emergencia"
+    ],
+    "base_response": "Identificar una interrupción del riego sanguíneo cerebral es vital. Si la persona presenta debilidad en un lado del rostro, incapacidad para mantener los brazos elevados o dificultades para hablar con claridad, es fundamental trasladarla al hospital sin perder un solo minuto."
+  },
+  {
+    "intent_id": "escoriacion_raspon_rodilla",
+    "keywords": [
+      "raspon",
+      "rodilla",
+      "limpieza",
+      "herida",
+      "agua"
+    ],
+    "base_response": "Las raspaduras o escoriaciones son comunes en caídas y resultan bastante dolorosas. Es esencial lavarlas minuciosamente bajo el grifo de agua para eliminar tierra y partículas. Se pueden dejar al descubierto si no hay roce de ropa para acelerar el proceso de curación."
+  },
+  {
+    "intent_id": "mordedura_serpiente_venenosa",
+    "keywords": [
+      "serpiente",
+      "mordedura",
+      "veneno",
+      "calma",
+      "inmovilizacion"
+    ],
+    "base_response": "Ante la mordedura de una serpiente, la víctima debe permanecer inmóvil para ralentizar la propagación del veneno por el torrente sanguíneo. No se debe intentar succionar la herida ni aplicar torniquetes. Trasladar al paciente rápidamente a un centro médico resulta totalmente indispensable."
+  },
+  {
+    "intent_id": "ataque_asma_sin_inhalador",
+    "keywords": [
+      "asma",
+      "respiracion",
+      "aire",
+      "calma",
+      "ayuda"
+    ],
+    "base_response": "Si una persona experimenta dificultades respiratorias y no cuenta con su medicación, debe sentarse e inclinarse ligeramente hacia adelante. Ayudarla a concentrarse en respirar lentamente por la nariz y exhalar por la boca prolongadamente puede brindar un alivio parcial mientras llegan los paramédicos."
+  },
+  {
+    "intent_id": "dolor_abdominal_agudo",
+    "keywords": [
+      "dolor",
+      "abdomen",
+      "descanso",
+      "observacion",
+      "medico"
+    ],
+    "base_response": "Un dolor fuerte y repentino en el vientre no debe ignorarse ni tratarse con analgésicos comunes, ya que puede ocultar problemas graves como apendicitis. La persona debe recostarse cómodamente mientras se vigilan sus síntomas y se coordina el traslado para evaluación profesional inmediata."
+  }
+]
