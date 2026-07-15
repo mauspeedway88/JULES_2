@@ -1,0 +1,552 @@
+[
+  {
+    "intent_id": "musica_notas_basicas",
+    "keywords": [
+      "notas",
+      "sonido",
+      "frecuencia",
+      "tono",
+      "pentagrama"
+    ],
+    "base_response": "Las notas musicales representan la altura y duración del sonido. Los nombres fundamentales son do, re, mi, fa, sol, la y si. Aprender a leerlas permite interpretar cualquier melodía con precisión en diferentes instrumentos, desarrollando así tu capacidad auditiva."
+  },
+  {
+    "intent_id": "ritmo_estructura_musical",
+    "keywords": [
+      "ritmo",
+      "tiempo",
+      "pulso",
+      "compas",
+      "duracion"
+    ],
+    "base_response": "El ritmo organiza los sonidos y silencios en el tiempo. Actúa como el corazón de una pieza musical, marcando la velocidad y el carácter. Comprender el pulso te ayuda a mantener la coordinación necesaria para tocar en agrupaciones instrumentales."
+  },
+  {
+    "intent_id": "melodia_expresion_sonora",
+    "keywords": [
+      "melodia",
+      "secuencia",
+      "voz",
+      "linea",
+      "sucesion"
+    ],
+    "base_response": "La melodía es una sucesión de notas tocadas una tras otra que forma una idea musical reconocible. Suelen ser la parte más memorable de una canción. Aprender a cantar o tocar melodías mejora la sensibilidad y la expresión artística."
+  },
+  {
+    "intent_id": "instrumentos_cuerda_frotada",
+    "keywords": [
+      "violin",
+      "cuerda",
+      "arco",
+      "vibracion",
+      "instrumento"
+    ],
+    "base_response": "Los instrumentos de cuerda frotada, como el violín y el violonchelo, producen sonido cuando un arco desliza sobre sus cuerdas. Poseen una enorme capacidad para imitar la voz humana, permitiendo transmitir emociones muy profundas en las orquestas sinfónicas."
+  },
+  {
+    "intent_id": "instrumentos_viento_madera",
+    "keywords": [
+      "flauta",
+      "viento",
+      "madera",
+      "columna",
+      "aire"
+    ],
+    "base_response": "Los instrumentos de viento madera generan sonido mediante la vibración de una caña o el paso del aire por un bisel. Ejemplos incluyen el clarinete y la flauta dulce. Exigen un excelente control respiratorio para lograr un tono limpio."
+  },
+  {
+    "intent_id": "instrumentos_percusion_membrana",
+    "keywords": [
+      "tambor",
+      "membrana",
+      "golpe",
+      "ritmo",
+      "baqueta"
+    ],
+    "base_response": "La percusión incluye instrumentos como el tambor, que producen sonido al ser golpeados. Son esenciales para mantener el tempo en cualquier grupo musical. Tocar percusión desarrolla enormemente la coordinación motora y fomenta un agudo sentido del tiempo estructurado."
+  },
+  {
+    "intent_id": "pentagrama_lectura_escritura",
+    "keywords": [
+      "pentagrama",
+      "linea",
+      "espacio",
+      "lectura",
+      "escritura"
+    ],
+    "base_response": "El pentagrama consiste en cinco líneas y cuatro espacios paralelos donde se escriben las figuras musicales. Su invención revolucionó la historia, permitiendo que las composiciones pudieran ser conservadas y leídas por músicos de diferentes épocas con total exactitud."
+  },
+  {
+    "intent_id": "genero_musica_clasica",
+    "keywords": [
+      "clasica",
+      "genero",
+      "orquesta",
+      "sinfonia",
+      "concierto"
+    ],
+    "base_response": "La música clásica comprende composiciones formales desarrolladas principalmente en Europa. Destaca por su gran complejidad instrumental y estructura rigurosa. Escuchar obras de compositores famosos estimula el desarrollo cognitivo y mejora la capacidad de concentración en los estudiantes jóvenes."
+  },
+  {
+    "intent_id": "genero_musica_folclorica",
+    "keywords": [
+      "folclore",
+      "tradicion",
+      "cultura",
+      "pueblo",
+      "danza"
+    ],
+    "base_response": "La música folclórica representa las tradiciones y costumbres de un pueblo. Se transmite generalmente de forma oral de generación en generación. Su estudio nos permite conocer la historia de diferentes culturas y comprender nuestra propia identidad social compartida."
+  },
+  {
+    "intent_id": "armonia_acordes_basicos",
+    "keywords": [
+      "armonia",
+      "acorde",
+      "combinacion",
+      "sonido",
+      "apoyo"
+    ],
+    "base_response": "La armonía ocurre cuando varias notas suenan simultáneamente, creando acordes que acompañan a la melodía. Funciona como el paisaje de fondo de una pintura. Conocer las progresiones armónicas te permite entender cómo se construyen tus canciones favoritas cotidianas."
+  },
+  {
+    "intent_id": "composicion_creacion_original",
+    "keywords": [
+      "composicion",
+      "creacion",
+      "idea",
+      "obra",
+      "proceso"
+    ],
+    "base_response": "La composición es el arte de crear obras musicales originales combinando ritmo, melodía y armonía. Fomenta la creatividad y la resolución de problemas. Cualquier estudiante puede empezar a componer utilizando instrumentos básicos para expresar sus propios sentimientos personales."
+  },
+  {
+    "intent_id": "interpretacion_escenario_publico",
+    "keywords": [
+      "interpretacion",
+      "escenario",
+      "publico",
+      "artista",
+      "presentacion"
+    ],
+    "base_response": "La interpretación musical consiste en tocar una obra frente a otras personas. Requiere mucha práctica, técnica y control de los nervios. Tocar en público fortalece la confianza en uno mismo y desarrolla habilidades de comunicación no verbal fundamentales."
+  },
+  {
+    "intent_id": "voz_canto_respiracion",
+    "keywords": [
+      "voz",
+      "canto",
+      "respiracion",
+      "diafragma",
+      "cuerda"
+    ],
+    "base_response": "El canto es una forma de expresión musical donde el cuerpo humano actúa como instrumento. Requiere una técnica adecuada de respiración diafragmática. Entrenar la voz mejora la postura, la dicción y ayuda a liberar el estrés diario acumulado."
+  },
+  {
+    "intent_id": "escala_mayor_estructura",
+    "keywords": [
+      "escala",
+      "tono",
+      "semitono",
+      "estructura",
+      "orden"
+    ],
+    "base_response": "La escala mayor es una secuencia de ocho notas musicales con un patrón específico de tonos y semitonos. Es la base de gran parte de la música occidental. Su sonido se asocia frecuentemente con emociones de alegría y tranquilidad."
+  },
+  {
+    "intent_id": "escala_menor_emocion",
+    "keywords": [
+      "escala",
+      "variacion",
+      "tristeza",
+      "secuencia",
+      "modo"
+    ],
+    "base_response": "La escala menor presenta una estructura de intervalos diferente que altera la sensación sonora general. Comúnmente se utiliza para evocar sentimientos de melancolía o misterio. Comprender su funcionamiento es vital para analizar cómo los compositores manipulan nuestras emociones."
+  },
+  {
+    "intent_id": "acorde_triada_construccion",
+    "keywords": [
+      "acorde",
+      "triada",
+      "base",
+      "tercera",
+      "quinta"
+    ],
+    "base_response": "Una tríada es el acorde más básico, formado por tres notas simultáneas: la fundamental, la tercera y la quinta. Dominar su construcción facilita el acompañamiento de canciones populares en instrumentos como el piano o la guitarra con gran facilidad."
+  },
+  {
+    "intent_id": "tempo_velocidad_musical",
+    "keywords": [
+      "tempo",
+      "velocidad",
+      "metronomo",
+      "medida",
+      "movimiento"
+    ],
+    "base_response": "El tempo define la velocidad a la que debe ejecutarse una pieza musical. Se mide en pulsaciones por minuto usando un metrónomo. Un cambio de tempo puede transformar por completo el carácter de una canción, volviéndola enérgica o relajante."
+  },
+  {
+    "intent_id": "dinamica_volumen_intensidad",
+    "keywords": [
+      "dinamica",
+      "volumen",
+      "intensidad",
+      "fuerza",
+      "contraste"
+    ],
+    "base_response": "La dinámica se refiere a los cambios de volumen o intensidad en una interpretación musical. Usar contrastes entre sonidos suaves y fuertes aporta vida y emoción a la obra, evitando que la ejecución resulte aburrida o excesivamente mecánica."
+  },
+  {
+    "intent_id": "historia_barroco_musical",
+    "keywords": [
+      "barroco",
+      "historia",
+      "epoca",
+      "ornamento",
+      "contrapunto"
+    ],
+    "base_response": "El período barroco se caracterizó por su ornamentación detallada y el desarrollo del contrapunto complejo. Figuras notables revolucionaron la forma de escribir música. Estudiar esta época nos revela cómo las matemáticas y el arte pueden fusionarse creando belleza estructurada."
+  },
+  {
+    "intent_id": "practica_habito_estudio",
+    "keywords": [
+      "practica",
+      "habito",
+      "estudio",
+      "disciplina",
+      "mejora"
+    ],
+    "base_response": "La práctica constante es el único camino para dominar un instrumento musical. Requiere establecer rutinas diarias, mantener la paciencia y superar la frustración. Este hábito desarrolla una sólida disciplina personal que resulta útil en todas las áreas de la vida."
+  },
+  {
+    "intent_id": "audicion_percepcion_activa",
+    "keywords": [
+      "audicion",
+      "percepcion",
+      "atencion",
+      "escucha",
+      "detalle"
+    ],
+    "base_response": "La audición activa consiste en prestar atención consciente a los diferentes elementos de una obra. Al identificar instrumentos, ritmos y melodías, nuestro cerebro se estimula profundamente. Esta habilidad mejora nuestra memoria y nos permite disfrutar la música con plenitud."
+  },
+  {
+    "intent_id": "silencio_pausa_musical",
+    "keywords": [
+      "silencio",
+      "pausa",
+      "ausencia",
+      "descanso",
+      "efecto"
+    ],
+    "base_response": "El silencio es la ausencia de sonido y es tan importante como las notas mismas. Crea tensión, ofrece descanso y permite organizar las frases musicales. Sin silencios, la música sería un ruido continuo e incomprensible para el oído humano."
+  },
+  {
+    "intent_id": "clave_sol_referencia",
+    "keywords": [
+      "clave",
+      "sol",
+      "simbolo",
+      "referencia",
+      "registro"
+    ],
+    "base_response": "La clave de sol es un símbolo colocado al inicio del pentagrama que fija la posición de las notas agudas. Es fundamental para instrumentos como el violín, la flauta y la mano derecha del piano, facilitando su lectura rápida."
+  },
+  {
+    "intent_id": "clave_fa_graves",
+    "keywords": [
+      "clave",
+      "simbolo",
+      "grave",
+      "registro",
+      "bajo"
+    ],
+    "base_response": "La clave de fa se utiliza para representar los sonidos más graves del espectro musical. Instrumentos como el violonchelo, el trombón y el bajo eléctrico dependen de ella. Su dominio permite entender la base armónica que sostiene una orquesta."
+  },
+  {
+    "intent_id": "compas_cuatro_cuartos",
+    "keywords": [
+      "compas",
+      "medida",
+      "fraccion",
+      "pulso",
+      "agrupacion"
+    ],
+    "base_response": "El compás de cuatro cuartos es el más común en la música popular moderna. Agrupa los pulsos en bloques de cuatro, marcando un acento natural en el primer tiempo. Su estructura constante invita al movimiento corporal y facilita el baile."
+  },
+  {
+    "intent_id": "forma_sonata_clasica",
+    "keywords": [
+      "forma",
+      "sonata",
+      "desarrollo",
+      "exposicion",
+      "recapitulacion"
+    ],
+    "base_response": "La forma sonata es una estructura musical dividida en tres partes principales: exposición, desarrollo y recapitulación. Permite al compositor presentar temas musicales, explorarlos creativamente y luego resolver las tensiones. Entenderla facilita el análisis de grandes obras maestras del clasicismo europeo."
+  },
+  {
+    "intent_id": "instrumento_piano_teclado",
+    "keywords": [
+      "piano",
+      "teclado",
+      "martillo",
+      "cuerda",
+      "pedal"
+    ],
+    "base_response": "El piano es un instrumento de teclado cuyas cuerdas son golpeadas por pequeños martillos recubiertos de fieltro. Posee un amplio rango tonal capaz de abarcar casi toda la orquesta. Estudiarlo mejora drásticamente la coordinación independiente entre ambas manos del intérprete."
+  },
+  {
+    "intent_id": "canto_coral_agrupacion",
+    "keywords": [
+      "coro",
+      "canto",
+      "agrupacion",
+      "armonia",
+      "voz"
+    ],
+    "base_response": "El canto coral involucra a un grupo de personas interpretando distintas partes vocales al mismo tiempo. Fomenta el trabajo en equipo, la empatía y la escucha recíproca. Participar en un coro enseña a los estudiantes a sincronizarse con una comunidad mayor."
+  },
+  {
+    "intent_id": "timbre_color_sonoro",
+    "keywords": [
+      "timbre",
+      "color",
+      "caracteristica",
+      "distincion",
+      "fuente"
+    ],
+    "base_response": "El timbre es la cualidad que nos permite distinguir un instrumento de otro, incluso si tocan la misma nota. Depende de los materiales y la forma del instrumento. Reconocer los timbres afina la sensibilidad auditiva y enriquece nuestra experiencia estética."
+  },
+  {
+    "intent_id": "musica_jazz_improvisacion",
+    "keywords": [
+      "jazz",
+      "improvisacion",
+      "libertad",
+      "ritmo",
+      "estilo"
+    ],
+    "base_response": "El jazz es un género musical originario de Estados Unidos que destaca por la síncopa y la improvisación. Requiere que el músico cree melodías espontáneamente sobre una base armónica. Su práctica promueve una inmensa libertad creativa y pensamiento rápido."
+  },
+  {
+    "intent_id": "figura_negra_duracion",
+    "keywords": [
+      "figura",
+      "negra",
+      "duracion",
+      "pulso",
+      "simbolo"
+    ],
+    "base_response": "La negra es una figura musical que usualmente representa un pulso o un tiempo entero en el compás de cuatro cuartos. Es la unidad básica de medida rítmica. Dominar su ejecución constante es el primer paso para tocar con precisión."
+  },
+  {
+    "intent_id": "figura_corchea_division",
+    "keywords": [
+      "corchea",
+      "figura",
+      "division",
+      "mitad",
+      "velocidad"
+    ],
+    "base_response": "La corchea es una figura que dura exactamente la mitad del tiempo de una negra. Se agrupan frecuentemente para generar ritmos más ágiles. Practicar secuencias de corcheas ayuda a desarrollar la destreza motriz en los dedos del joven estudiante."
+  },
+  {
+    "intent_id": "alteracion_sostenido_elevacion",
+    "keywords": [
+      "sostenido",
+      "alteracion",
+      "elevacion",
+      "semitono",
+      "nota"
+    ],
+    "base_response": "El sostenido es un símbolo musical que eleva el tono de una nota medio paso o semitono. Se escribe justo antes de la nota en el pentagrama. Conocer las alteraciones es indispensable para poder tocar en diferentes tonalidades musicales adecuadamente."
+  },
+  {
+    "intent_id": "alteracion_bemol_reduccion",
+    "keywords": [
+      "bemol",
+      "alteracion",
+      "descenso",
+      "semitono",
+      "ajuste"
+    ],
+    "base_response": "El bemol es un signo que disminuye la altura de una nota en un semitono exacto. Permite modificar las melodías y construir escalas diferentes a la natural. Su uso correcto asegura que los acordes suenen de la forma prevista."
+  },
+  {
+    "intent_id": "metronomo_herramienta_practica",
+    "keywords": [
+      "metronomo",
+      "aparato",
+      "herramienta",
+      "pulso",
+      "guia"
+    ],
+    "base_response": "El metrónomo es un dispositivo que produce pulsos regulares a una velocidad preestablecida. Los estudiantes lo utilizan para no acelerar ni retrasar el tiempo mientras practican. Es el mejor aliado para lograr ejecuciones limpias, consistentes y profesionales en cualquier instrumento."
+  },
+  {
+    "intent_id": "historia_romanticismo_emocion",
+    "keywords": [
+      "romanticismo",
+      "historia",
+      "emocion",
+      "libertad",
+      "expresion"
+    ],
+    "base_response": "El romanticismo musical fue una época que priorizó la expresión de emociones intensas sobre las reglas estrictas del clasicismo. Se introdujeron armonías novedosas y grandes orquestas. Explorar este periodo ayuda a comprender cómo el arte refleja los sentimientos humanos más profundos."
+  },
+  {
+    "intent_id": "acorde_septima_tension",
+    "keywords": [
+      "acorde",
+      "septima",
+      "tension",
+      "resolucion",
+      "nota"
+    ],
+    "base_response": "Los acordes de séptima incluyen una cuarta nota que añade tensión a la armonía tradicional. Se emplean extensamente en el blues y la música moderna. Su principal función es crear la necesidad de resolución, llevando la melodía hacia adelante fluidamente."
+  },
+  {
+    "intent_id": "tecnica_pizzicato_cuerda",
+    "keywords": [
+      "pizzicato",
+      "tecnica",
+      "pellizco",
+      "cuerda",
+      "efecto"
+    ],
+    "base_response": "El pizzicato es una técnica donde los músicos de cuerda pellizcan las cuerdas con los dedos en lugar de usar el arco. Genera un sonido corto y percusivo. Este recurso añade sorpresa y variedad a los arreglos para orquestas sinfónicas."
+  },
+  {
+    "intent_id": "tecnica_legato_conexion",
+    "keywords": [
+      "legato",
+      "tecnica",
+      "conexion",
+      "fluidez",
+      "enlace"
+    ],
+    "base_response": "El legato indica que las notas deben interpretarse de manera suave y conectada, sin interrupciones entre ellas. Simula la fluidez natural de un cantante experimentado. Dominar esta técnica aporta gran belleza y expresividad a cualquier melodía ejecutada en solitario."
+  },
+  {
+    "intent_id": "tecnica_staccato_separacion",
+    "keywords": [
+      "staccato",
+      "tecnica",
+      "separacion",
+      "ataque",
+      "corte"
+    ],
+    "base_response": "El staccato es una articulación que exige acortar la duración de la nota, produciendo sonidos separados y saltarines. Requiere un excelente control muscular para lograr precisión. Transmite sensaciones de ligereza, misterio o humor dentro de una obra musical clásica."
+  },
+  {
+    "intent_id": "cuerda_pulsada_guitarra",
+    "keywords": [
+      "guitarra",
+      "cuerda",
+      "pulsacion",
+      "traste",
+      "caja"
+    ],
+    "base_response": "La guitarra es un instrumento de cuerda pulsada con un mástil dividido por trastes. Su versatilidad le permite adaptarse a casi cualquier género musical existente. Aprender sus acordes iniciales resulta altamente motivador para los jóvenes que desean hacer música rápidamente."
+  },
+  {
+    "intent_id": "orquesta_sinfonica_conjunto",
+    "keywords": [
+      "orquesta",
+      "conjunto",
+      "director",
+      "seccion",
+      "instrumento"
+    ],
+    "base_response": "La orquesta sinfónica es un gran conjunto musical organizado en familias de instrumentos: cuerdas, maderas, metales y percusión. Trabaja bajo la guía de un director. Su estudio enseña cómo múltiples elementos diferentes pueden unirse para formar una estructura sonora armoniosa."
+  },
+  {
+    "intent_id": "canto_diccion_claridad",
+    "keywords": [
+      "diccion",
+      "canto",
+      "claridad",
+      "pronunciacion",
+      "texto"
+    ],
+    "base_response": "La dicción en el canto asegura que el texto se entienda claramente sin perder la calidad del tono musical. Implica articular adecuadamente las vocales y consonantes. Trabajar la pronunciación aumenta la confianza del estudiante al presentarse frente al público escolar."
+  },
+  {
+    "intent_id": "solfeo_lectura_vocal",
+    "keywords": [
+      "solfeo",
+      "lectura",
+      "entonacion",
+      "nota",
+      "practica"
+    ],
+    "base_response": "El solfeo consiste en entonar las notas musicales mientras se lee la partitura, respetando la duración exacta de cada figura. Desarrolla un oído interno muy preciso. Es la base fundamental para cualquier persona que desee comprender la música a nivel académico."
+  },
+  {
+    "intent_id": "director_orquesta_liderazgo",
+    "keywords": [
+      "director",
+      "orquesta",
+      "batuta",
+      "liderazgo",
+      "gesto"
+    ],
+    "base_response": "El director de orquesta coordina a decenas de músicos usando gestos corporales y una batuta. Define la velocidad, la dinámica y el carácter general de la interpretación. Representa la figura central del liderazgo y la comunicación no verbal artística."
+  },
+  {
+    "intent_id": "matices_expresion_volumen",
+    "keywords": [
+      "matiz",
+      "expresion",
+      "volumen",
+      "variacion",
+      "detalle"
+    ],
+    "base_response": "Los matices son variaciones sutiles en la intensidad y el volumen durante la interpretación de una canción. Agregan profundidad emocional, evitando que la obra suene mecánica. Su uso cuidadoso demuestra la madurez musical y la sensibilidad artística del intérprete joven."
+  },
+  {
+    "intent_id": "instrumentos_viento_metal",
+    "keywords": [
+      "trompeta",
+      "metal",
+      "boquilla",
+      "viento",
+      "brillo"
+    ],
+    "base_response": "Los instrumentos de viento metal, como la trompeta y el trombón, producen sonido mediante la vibración de los labios en una boquilla. Poseen un volumen potente y brillante. Son piezas clave para crear momentos de gran heroísmo en las sinfonías modernas."
+  },
+  {
+    "intent_id": "articulacion_ataque_sonido",
+    "keywords": [
+      "articulacion",
+      "ataque",
+      "sonido",
+      "claridad",
+      "tecnica"
+    ],
+    "base_response": "La articulación define cómo comienza y termina cada nota musical producida. Puede ser agresiva, suave o cortante dependiendo del requerimiento de la obra. Su correcta aplicación garantiza que las melodías rápidas mantengan claridad absoluta y se comprendan sin ninguna dificultad."
+  },
+  {
+    "intent_id": "fraseo_respiracion_musical",
+    "keywords": [
+      "fraseo",
+      "respiracion",
+      "pausa",
+      "sentido",
+      "idea"
+    ],
+    "base_response": "El fraseo musical es similar a la lectura expresiva de un poema. Consiste en agrupar las notas para formar ideas con sentido lógico. Enseña a los estudiantes a encontrar los puntos de respiración adecuados para transmitir el mensaje emocional correctamente."
+  },
+  {
+    "intent_id": "afinacion_ajuste_frecuencia",
+    "keywords": [
+      "afinacion",
+      "ajuste",
+      "frecuencia",
+      "oido",
+      "instrumento"
+    ],
+    "base_response": "La afinación es el proceso de ajustar un instrumento para que sus notas correspondan a las frecuencias estándar correctas. Es un requisito absoluto para tocar en grupo. Desarrolla enormemente la capacidad auditiva analítica y la atención al detalle sonoro inmediato."
+  }
+]
