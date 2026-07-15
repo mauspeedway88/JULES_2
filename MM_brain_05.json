@@ -1,0 +1,332 @@
+[
+  {
+    "intent_id": "variables_literales_basicas",
+    "keywords": [
+      "variables",
+      "literales",
+      "letras",
+      "numeros",
+      "ecuaciones"
+    ],
+    "base_response": "Las variables literales son letras que representan números desconocidos en álgebra, permitiendo establecer fórmulas generales y resolver ecuaciones. Se utilizan comúnmente símbolos para identificar valores que pueden cambiar continuamente dentro del contexto de un problema matemático específico durante su desarrollo analítico."
+  },
+  {
+    "intent_id": "constantes_numericas_fijas",
+    "keywords": [
+      "constantes",
+      "numeros",
+      "valores",
+      "fijos",
+      "algebra"
+    ],
+    "base_response": "Las constantes numéricas son valores fijos que no cambian en una expresión matemática. A diferencia de las variables, mantienen siempre la misma magnitud, brindando estabilidad a las ecuaciones algebraicas al establecer cantidades conocidas que operan de manera directa sobre los términos."
+  },
+  {
+    "intent_id": "expresiones_polinomios",
+    "keywords": [
+      "expresiones",
+      "polinomios",
+      "terminos",
+      "sumas",
+      "restas"
+    ],
+    "base_response": "Un polinomio es una expresión algebraica formada por la suma o resta de múltiples términos matemáticos. Cada uno de estos elementos combina constantes y variables elevadas a exponentes enteros no negativos, estructurando operaciones complejas de manera ordenada para su posterior análisis lógico."
+  },
+  {
+    "intent_id": "estructura_monomios",
+    "keywords": [
+      "estructura",
+      "monomios",
+      "coeficiente",
+      "literal",
+      "termino"
+    ],
+    "base_response": "El monomio es la expresión algebraica más simple, constituida por un solo término matemático. Está compuesto esencialmente por un coeficiente numérico multiplicando a una parte literal, donde las variables pueden presentar exponentes, formando el pilar fundamental para construir ecuaciones más complejas."
+  },
+  {
+    "intent_id": "factorizacion_algebraica_basica",
+    "keywords": [
+      "factorizacion",
+      "algebraica",
+      "factores",
+      "expresion",
+      "multiplicacion"
+    ],
+    "base_response": "La factorización algebraica consiste en descomponer una expresión matemática en el producto de sus factores fundamentales. Este proceso simplifica los polinomios complejos, facilitando enormemente la resolución de ecuaciones y permitiendo comprender la estructura interna de las relaciones matemáticas analizadas paso a paso."
+  },
+  {
+    "intent_id": "agrupacion_terminos_semejantes",
+    "keywords": [
+      "agrupacion",
+      "terminos",
+      "semejantes",
+      "reduccion",
+      "literales"
+    ],
+    "base_response": "La agrupación de términos semejantes implica sumar o restar elementos que poseen exactamente la misma parte literal y exponentes. Este procedimiento es fundamental para simplificar expresiones largas, reduciendo el tamaño del problema algebraico y facilitando su resolución matemática de forma ordenada."
+  },
+  {
+    "intent_id": "binomios_expresiones",
+    "keywords": [
+      "binomios",
+      "expresiones",
+      "terminos",
+      "suma",
+      "resta"
+    ],
+    "base_response": "Un binomio es un polinomio que consta exactamente de dos términos separados por un signo de suma o resta. Representa una de las formas más comunes en el álgebra básica, siendo esencial para desarrollar productos notables y comprender operaciones fundamentales progresivamente."
+  },
+  {
+    "intent_id": "trinomios_cuadrados_perfectos",
+    "keywords": [
+      "trinomios",
+      "cuadrados",
+      "perfectos",
+      "binomio",
+      "desarrollo"
+    ],
+    "base_response": "Un trinomio cuadrado perfecto es el resultado matemático de elevar un binomio al cuadrado. Sus características principales incluyen tener el primer y tercer término positivos con raíces exactas, mientras que el término central equivale al doble del producto de dichas raíces obtenidas."
+  },
+  {
+    "intent_id": "coeficiente_numerico_algebraico",
+    "keywords": [
+      "coeficiente",
+      "numerico",
+      "multiplicador",
+      "termino",
+      "algebra"
+    ],
+    "base_response": "El coeficiente numérico es el número que acompaña y multiplica a la parte literal dentro de un término algebraico. Define la cantidad de veces que se considera la variable, siendo un elemento indispensable para realizar correctamente sumas, restas o multiplicaciones entre monomios."
+  },
+  {
+    "intent_id": "parte_literal_variable",
+    "keywords": [
+      "parte",
+      "literal",
+      "variable",
+      "letras",
+      "exponentes"
+    ],
+    "base_response": "La parte literal de un término está conformada por las letras y sus respectivos exponentes dentro de una expresión algebraica. Esta sección determina la naturaleza de las variables involucradas, siendo el criterio principal para identificar si dos elementos matemáticos son considerados términos semejantes."
+  },
+  {
+    "intent_id": "grado_absoluto_polinomico",
+    "keywords": [
+      "grado",
+      "absoluto",
+      "polinomio",
+      "exponentes",
+      "suma"
+    ],
+    "base_response": "El grado absoluto de un polinomio se determina calculando la mayor suma de los exponentes de las variables en un solo término. Este valor numérico establece la jerarquía y el comportamiento general de la función algebraica al momento de graficarla o resolverla completamente."
+  },
+  {
+    "intent_id": "grado_relativo_literal",
+    "keywords": [
+      "grado",
+      "relativo",
+      "literal",
+      "exponente",
+      "variable"
+    ],
+    "base_response": "El grado relativo se enfoca específicamente en una sola variable dentro del polinomio. Representa el mayor exponente que dicha letra alcanza en toda la expresión algebraica, permitiendo clasificar y analizar el impacto particular de cada componente dentro de la ecuación matemática planteada."
+  },
+  {
+    "intent_id": "lenguaje_algebraico_traducido",
+    "keywords": [
+      "lenguaje",
+      "algebraico",
+      "traduccion",
+      "enunciado",
+      "matematicas"
+    ],
+    "base_response": "El lenguaje algebraico permite traducir problemas descritos en palabras a expresiones matemáticas mediante el uso de números, letras y signos operativos. Esta habilidad es crucial para modelar situaciones del mundo real, transformando enunciados verbales abstractos en ecuaciones concretas listas para ser resueltas analíticamente."
+  },
+  {
+    "intent_id": "valor_numerico_expresivo",
+    "keywords": [
+      "valor",
+      "numerico",
+      "sustitucion",
+      "resultado",
+      "operacion"
+    ],
+    "base_response": "El valor numérico de una expresión se obtiene al sustituir todas sus variables literales por números específicos y resolver las operaciones matemáticas indicadas. Este cálculo proporciona un resultado final cuantificable, permitiendo evaluar funciones algebraicas bajo condiciones particulares establecidas en el problema inicial."
+  },
+  {
+    "intent_id": "suma_polinomios",
+    "keywords": [
+      "suma",
+      "polinomios",
+      "terminos",
+      "semejantes",
+      "agrupacion"
+    ],
+    "base_response": "La suma de polinomios se realiza combinando exclusivamente los términos que son semejantes entre sí. Consiste en sumar algebraicamente sus coeficientes numéricos mientras se mantiene intacta la parte literal, requiriendo ordenar previamente las expresiones para evitar confusiones durante el desarrollo del procedimiento."
+  },
+  {
+    "intent_id": "resta_monomios",
+    "keywords": [
+      "resta",
+      "monomios",
+      "sustraccion",
+      "coeficientes",
+      "semejantes"
+    ],
+    "base_response": "Para restar monomios, es estrictamente necesario que ambos compartan la misma parte literal con exponentes idénticos. El proceso consiste en restar sus coeficientes y conservar las letras originales, aplicando correctamente la ley de signos para obtener un resultado algebraico totalmente preciso."
+  },
+  {
+    "intent_id": "multiplicacion_algebraica_distributiva",
+    "keywords": [
+      "multiplicacion",
+      "distributiva",
+      "producto",
+      "terminos",
+      "exponentes"
+    ],
+    "base_response": "La multiplicación algebraica utiliza extensamente la propiedad distributiva para multiplicar cada término de un polinomio por los elementos del otro. Durante este procedimiento, los coeficientes se multiplican normalmente mientras que los exponentes de las variables idénticas se suman según las leyes matemáticas aplicables."
+  },
+  {
+    "intent_id": "productos_notables_basicos",
+    "keywords": [
+      "productos",
+      "notables",
+      "reglas",
+      "multiplicacion",
+      "formulas"
+    ],
+    "base_response": "Los productos notables son multiplicaciones algebraicas cuyos resultados se pueden determinar directamente siguiendo reglas fijas sin necesidad de realizar el cálculo completo paso a paso. Memorizar estas fórmulas facilita enormemente la agilidad mental y reduce errores operativos al resolver ecuaciones extensas o complejas."
+  },
+  {
+    "intent_id": "diferencia_cuadrados",
+    "keywords": [
+      "diferencia",
+      "cuadrados",
+      "binomios",
+      "conjugados",
+      "producto"
+    ],
+    "base_response": "La diferencia de cuadrados es el resultado que surge al multiplicar dos binomios conjugados, es decir, la suma por la diferencia de dos mismas cantidades. Su estructura final siempre consta de dos términos al cuadrado separados permanentemente por un signo matemático negativo."
+  },
+  {
+    "intent_id": "suma_cubos",
+    "keywords": [
+      "suma",
+      "cubos",
+      "factorizacion",
+      "binomio",
+      "trinomio"
+    ],
+    "base_response": "La suma de cubos es una expresión factorizable conformada por dos términos elevados a la tercera potencia. Se descompone algebraicamente en el producto de un binomio formado por las raíces cúbicas y un trinomio que sigue un patrón preestablecido de signos y multiplicaciones."
+  },
+  {
+    "intent_id": "cuadrado_binomio",
+    "keywords": [
+      "cuadrado",
+      "binomio",
+      "producto",
+      "notable",
+      "trinomio"
+    ],
+    "base_response": "El cuadrado de un binomio genera siempre un trinomio cuadrado perfecto como resultado directo. Su desarrollo matemático consiste en elevar el primer término al cuadrado, sumar o restar el doble producto de ambos términos y agregar siempre el segundo término elevado al cuadrado."
+  },
+  {
+    "intent_id": "cubo_binomio",
+    "keywords": [
+      "cubo",
+      "binomio",
+      "desarrollo",
+      "polinomio",
+      "potencia"
+    ],
+    "base_response": "El cubo de un binomio produce un polinomio de cuatro términos tras su desarrollo matemático completo. Involucra elevar cada cantidad al cubo y calcular los triples productos intercalando exponentes descendentes y ascendentes, conformando una estructura fundamental para estudios avanzados del álgebra elemental."
+  },
+  {
+    "intent_id": "factor_comun_monomio",
+    "keywords": [
+      "factor",
+      "comun",
+      "monomio",
+      "divisor",
+      "expresion"
+    ],
+    "base_response": "Extraer el factor común monomio es el primer método utilizado en la factorización. Consiste en identificar el máximo común divisor de todos los coeficientes numéricos junto con las variables repetidas de menor exponente, simplificando la expresión matemática para facilitar futuras operaciones algebraicas requeridas."
+  },
+  {
+    "intent_id": "factor_comun_polinomio",
+    "keywords": [
+      "factor",
+      "comun",
+      "polinomio",
+      "agrupacion",
+      "terminos"
+    ],
+    "base_response": "El factor común polinomio ocurre cuando un grupo completo de términos agrupados entre paréntesis se repite en toda la expresión. Este conjunto algebraico se extrae como una unidad indivisible, permitiendo factorizar la ecuación original de manera estructurada y altamente eficiente durante su resolución."
+  },
+  {
+    "intent_id": "division_polinomios",
+    "keywords": [
+      "division",
+      "polinomios",
+      "cociente",
+      "residuo",
+      "terminos"
+    ],
+    "base_response": "La división de polinomios es un proceso que busca encontrar un cociente y un posible residuo al repartir una expresión algebraica entre otra. Requiere ordenar ambos polinomios descendentemente respecto a una variable, operando de manera similar a la división tradicional de números enteros largos."
+  },
+  {
+    "intent_id": "regla_ruffini",
+    "keywords": [
+      "regla",
+      "ruffini",
+      "division",
+      "sintetica",
+      "coeficientes"
+    ],
+    "base_response": "La regla de Ruffini proporciona un método abreviado y sistemático para dividir un polinomio entre un binomio de primer grado. Utiliza únicamente los coeficientes numéricos de la expresión, reduciendo significativamente el tiempo de cálculo y el espacio necesario para encontrar el cociente final."
+  },
+  {
+    "intent_id": "teorema_resto",
+    "keywords": [
+      "teorema",
+      "resto",
+      "division",
+      "evaluacion",
+      "polinomio"
+    ],
+    "base_response": "El teorema del resto permite determinar el residuo de una división algebraica sin necesidad de efectuarla por completo. Funciona evaluando el polinomio dividendo al sustituir su variable por el valor numérico que anula al binomio divisor, simplificando enormemente la comprobación de factores exactos."
+  },
+  {
+    "intent_id": "identidades_algebraicas_notables",
+    "keywords": [
+      "identidades",
+      "algebraicas",
+      "igualdades",
+      "variables",
+      "formulas"
+    ],
+    "base_response": "Las identidades algebraicas son igualdades matemáticas que permanecen verdaderas para cualquier valor asignado a sus variables. Funcionan como herramientas fundamentales dentro del álgebra, permitiendo transformar y simplificar expresiones complejas mediante sustituciones rápidas y confiables sin alterar el valor original del planteamiento inicial."
+  },
+  {
+    "intent_id": "reduccion_expresiones",
+    "keywords": [
+      "reduccion",
+      "expresiones",
+      "simplificacion",
+      "terminos",
+      "operaciones"
+    ],
+    "base_response": "La reducción de expresiones implica aplicar operaciones matemáticas consecutivas para disminuir la cantidad total de términos presentes. Este proceso abarca desde la eliminación cuidadosa de paréntesis hasta la suma de elementos semejantes, buscando siempre la forma más compacta y manejable de la ecuación."
+  },
+  {
+    "intent_id": "simplificacion_binomios",
+    "keywords": [
+      "simplificacion",
+      "binomios",
+      "factores",
+      "fracciones",
+      "algebraicas"
+    ],
+    "base_response": "La simplificación de binomios ocurre frecuentemente en fracciones algebraicas donde el numerador y denominador comparten factores idénticos. Al cancelar estos binomios repetidos, se reduce la complejidad matemática de la función, facilitando su evaluación y evitando cálculos excesivos e innecesarios durante el proceso analítico."
+  }
+]
