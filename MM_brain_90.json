@@ -1,0 +1,441 @@
+[
+    {
+        "intent_id": "conceptos_basicos_ingredientes",
+        "keywords": [
+            "ingrediente",
+            "alimento",
+            "receta",
+            "preparacion"
+        ],
+        "base_response": "Los ingredientes culinarios son sustancias que forman parte de una mezcla destinada a la preparación de alimentos. Cada ingrediente aporta un sabor, textura y valor nutricional específico, siendo fundamentales para crear recetas equilibradas y saludables durante las diferentes preparaciones culinarias."
+    },
+    {
+        "intent_id": "tecnicas_coccion_vapor",
+        "keywords": [
+            "coccion",
+            "vapor",
+            "calor",
+            "nutriente",
+            "agua"
+        ],
+        "base_response": "La cocción al vapor es un método saludable que utiliza el vapor del agua hirviendo para cocinar los alimentos sin sumergirlos. Esta técnica permite conservar gran parte de las vitaminas y minerales originales, manteniendo además texturas firmes y colores brillantes."
+    },
+    {
+        "intent_id": "higiene_alimentaria_basica",
+        "keywords": [
+            "higiene",
+            "alimento",
+            "limpieza",
+            "contaminacion",
+            "salud"
+        ],
+        "base_response": "La higiene alimentaria incluye todas las medidas necesarias para garantizar la seguridad de los alimentos. Es indispensable lavar bien las manos y los utensilios, así como limpiar las superficies antes de cocinar, previniendo la propagación de bacterias y enfermedades transmitidas."
+    },
+    {
+        "intent_id": "medidas_culinarias_estandar",
+        "keywords": [
+            "medida",
+            "porcion",
+            "cuchara",
+            "taza",
+            "gramo"
+        ],
+        "base_response": "Las medidas culinarias estandarizadas permiten seguir las recetas con precisión para lograr resultados consistentes. El uso de tazas medidoras, básculas y cucharas específicas asegura que cada ingrediente mantenga la proporción correcta, afectando directamente la textura y sabor del platillo final."
+    },
+    {
+        "intent_id": "conservacion_alimentos_refrigeracion",
+        "keywords": [
+            "conservacion",
+            "frio",
+            "refrigeracion",
+            "bacteria",
+            "deterioro"
+        ],
+        "base_response": "La conservación mediante refrigeración retrasa el crecimiento de microorganismos perjudiciales al mantener temperaturas bajas. Almacenar adecuadamente carnes, lácteos y vegetales frescos en el refrigerador prolonga su vida útil, previniendo intoxicaciones y garantizando un consumo seguro por más tiempo."
+    },
+    {
+        "intent_id": "utensilios_cocina_cuchillos",
+        "keywords": [
+            "utensilio",
+            "cuchillo",
+            "corte",
+            "herramienta",
+            "seguridad"
+        ],
+        "base_response": "Los cuchillos de cocina son herramientas primordiales para cortar, picar y rebanar diversos ingredientes. Utilizar la hoja adecuada y mantenerla bien afilada facilita el trabajo culinario, requiriendo siempre aplicar técnicas de sujeción seguras para evitar accidentes durante la preparación."
+    },
+    {
+        "intent_id": "alimentos_hojas_comestibles",
+        "keywords": [
+            "hoja",
+            "comestible",
+            "vegetal",
+            "nutricion",
+            "ensalada"
+        ],
+        "base_response": "Las hojas comestibles son vegetales muy valorados en la gastronomía por su alto contenido de vitaminas y minerales esenciales. Variedades como la espinaca, la lechuga y el repollo se pueden consumir tanto crudas en ensaladas como cocinadas en múltiples guisos."
+    },
+    {
+        "intent_id": "hojas_moringa_propiedades",
+        "keywords": [
+            "moringa",
+            "hoja",
+            "nutriente",
+            "proteina",
+            "vitamina"
+        ],
+        "base_response": "Las hojas de moringa destacan por su excepcional perfil nutricional, proporcionando proteínas, hierro, calcio y vitaminas. Su consumo regular en la dieta mediante infusiones, polvos o agregadas frescas a diversas recetas, contribuye significativamente al fortalecimiento del sistema inmunológico humano."
+    },
+    {
+        "intent_id": "manipulacion_segura_carnes",
+        "keywords": [
+            "manipulacion",
+            "carne",
+            "contaminacion",
+            "crudo",
+            "bacteria"
+        ],
+        "base_response": "La manipulación segura de carnes crudas exige usar tablas y cuchillos exclusivos para evitar la contaminación cruzada con vegetales u otros alimentos listos para consumir. Además, se requiere cocinar la carne a la temperatura interna correcta para eliminar bacterias."
+    },
+    {
+        "intent_id": "tecnicas_coccion_hervido",
+        "keywords": [
+            "hervido",
+            "agua",
+            "ebullicion",
+            "temperatura",
+            "burbuja"
+        ],
+        "base_response": "El hervido es una técnica de cocción que sumerge los alimentos en un líquido, generalmente agua, a punto de ebullición. Este método ablanda ingredientes duros como legumbres o papas, aunque puede provocar cierta pérdida de nutrientes solubles en el líquido."
+    },
+    {
+        "intent_id": "preparacion_ensaladas_basicas",
+        "keywords": [
+            "ensalada",
+            "preparacion",
+            "vegetal",
+            "mezcla",
+            "fresco"
+        ],
+        "base_response": "La preparación de ensaladas consiste en mezclar vegetales frescos, previamente lavados y cortados, combinados frecuentemente con semillas o proteínas. Una ensalada bien equilibrada ofrece texturas crujientes y aporta fibra dietética fundamental, mejorando la digestión y la salud general diaria."
+    },
+    {
+        "intent_id": "hojas_berdolaga_usos",
+        "keywords": [
+            "berdolaga",
+            "hoja",
+            "omega",
+            "planta",
+            "guiso"
+        ],
+        "base_response": "La verdolaga es una planta comestible cuyas hojas suculentas aportan un sabor ligeramente ácido y salado. Se reconoce por su contenido natural de ácidos grasos y antioxidantes, siendo ideal para enriquecer guisos, sopas y ensaladas en la cocina tradicional."
+    },
+    {
+        "intent_id": "seleccion_ingredientes_frescos",
+        "keywords": [
+            "seleccion",
+            "fresco",
+            "calidad",
+            "color",
+            "textura"
+        ],
+        "base_response": "La correcta selección de ingredientes frescos determina la calidad final del platillo elaborado. Es importante observar características como colores vivos, firmeza al tacto y olores agradables naturales, evitando productos marchitos, golpeados o con signos evidentes de deterioro y descomposición."
+    },
+    {
+        "intent_id": "lavado_alimentos_frutas",
+        "keywords": [
+            "lavado",
+            "fruta",
+            "verdura",
+            "agua",
+            "suciedad"
+        ],
+        "base_response": "El lavado minucioso de frutas y verduras bajo un chorro continuo de agua potable es vital para remover restos de tierra, insectos y posibles residuos químicos. Frotar suavemente la superficie garantiza un alimento más limpio y seguro para el consumo."
+    },
+    {
+        "intent_id": "corte_ingredientes_juliana",
+        "keywords": [
+            "corte",
+            "juliana",
+            "tira",
+            "cuchillo",
+            "vegetal"
+        ],
+        "base_response": "El corte en juliana es una técnica culinaria básica que consiste en seccionar los vegetales en tiras finas y alargadas de tamaño uniforme. Este método asegura una cocción rápida y homogénea, mejorando además la presentación visual de ensaladas y salteados."
+    },
+    {
+        "intent_id": "mezclado_ingredientes_homogeneo",
+        "keywords": [
+            "mezcla",
+            "ingrediente",
+            "homogeneo",
+            "sabor",
+            "integracion"
+        ],
+        "base_response": "El mezclado adecuado de ingredientes busca lograr una distribución uniforme de sabores, colores y texturas en la preparación. Utilizar movimientos envolventes o un batido vigoroso, dependiendo de la receta, asegura que cada porción final contenga la proporción ideal deseada."
+    },
+    {
+        "intent_id": "tiempos_coccion_importancia",
+        "keywords": [
+            "tiempo",
+            "coccion",
+            "reloj",
+            "textura",
+            "sabor"
+        ],
+        "base_response": "Respetar los tiempos de cocción indicados es crucial para no alterar desfavorablemente el resultado final. Una exposición excesiva al calor destruye nutrientes, seca las carnes y deshace las verduras, mientras que un tiempo insuficiente deja los alimentos crudos y riesgosos."
+    },
+    {
+        "intent_id": "condimentos_culinarios_sal",
+        "keywords": [
+            "condimento",
+            "sal",
+            "sabor",
+            "sazon",
+            "cantidad"
+        ],
+        "base_response": "Los condimentos, como la sal común, potencian y realzan los sabores naturales de cada ingrediente durante la cocción. Sin embargo, su uso debe ser moderado y equilibrado, ya que un exceso puede arruinar la preparación y afectar negativamente la salud."
+    },
+    {
+        "intent_id": "especias_culinarias_aroma",
+        "keywords": [
+            "especia",
+            "aroma",
+            "sabor",
+            "semilla",
+            "polvo"
+        ],
+        "base_response": "Las especias culinarias son sustancias aromáticas de origen vegetal, obtenidas de semillas, cortezas o raíces secas. Agregar pequeñas cantidades de canela, pimienta o comino transforma platos simples en experiencias gustativas complejas, aportando también beneficios digestivos y propiedades antioxidantes naturales."
+    },
+    {
+        "intent_id": "aceites_cocina_tipos",
+        "keywords": [
+            "aceite",
+            "grasa",
+            "fritura",
+            "oliva",
+            "temperatura"
+        ],
+        "base_response": "Los aceites de cocina proporcionan la base grasa necesaria para múltiples métodos de cocción. El aceite de oliva es preferido por sus grasas saludables y se recomienda para aderezos o salteados ligeros, mientras que otros soportan mejor las altas temperaturas."
+    },
+    {
+        "intent_id": "tecnicas_coccion_salteado",
+        "keywords": [
+            "salteado",
+            "sarten",
+            "fuego",
+            "movimiento",
+            "rapidez"
+        ],
+        "base_response": "El salteado es una técnica rápida que emplea fuego alto y una pequeña cantidad de materia grasa en la sartén. Los ingredientes, cortados en trozos pequeños, se deben mover constantemente para evitar que se quemen, conservando su textura crujiente interior."
+    },
+    {
+        "intent_id": "horneado_basico_panaderia",
+        "keywords": [
+            "horno",
+            "horneado",
+            "calor",
+            "masa",
+            "pan"
+        ],
+        "base_response": "El horneado expone los alimentos a un calor seco y uniforme dentro de un espacio cerrado. Es la técnica principal utilizada para la cocción de panes, pasteles y galletas, requiriendo un control preciso de la temperatura para un dorado perfecto."
+    },
+    {
+        "intent_id": "fritura_controlada_aceite",
+        "keywords": [
+            "fritura",
+            "aceite",
+            "inmersion",
+            "calor",
+            "dorado"
+        ],
+        "base_response": "La fritura controlada consiste en sumergir completamente los alimentos en aceite caliente para lograr una cubierta exterior crujiente y dorada. Mantener la temperatura estable evita que el producto absorba demasiada grasa, obteniendo resultados sabrosos sin un exceso perjudicial de lípidos."
+    },
+    {
+        "intent_id": "valor_nutricional_alimentario",
+        "keywords": [
+            "valor",
+            "nutricion",
+            "energia",
+            "vitamina",
+            "dieta"
+        ],
+        "base_response": "El valor nutricional alimentario indica la cantidad y calidad de nutrientes, como carbohidratos, proteínas y vitaminas, que aporta cada comida. Comprender estos valores permite diseñar dietas equilibradas y beneficiosas, fundamentales para el desarrollo físico y mental durante la etapa escolar."
+    },
+    {
+        "intent_id": "recetas_moringa_infusion",
+        "keywords": [
+            "moringa",
+            "receta",
+            "infusion",
+            "agua",
+            "bebida"
+        ],
+        "base_response": "Una forma sencilla de aprovechar la moringa es mediante la preparación de una infusión caliente. Remojar sus hojas secas en agua caliente durante unos minutos libera sus valiosos antioxidantes y vitaminas, creando una bebida reconfortante y altamente nutritiva diaria."
+    },
+    {
+        "intent_id": "recetas_berdolaga_ensalada",
+        "keywords": [
+            "berdolaga",
+            "ensalada",
+            "receta",
+            "vinagreta",
+            "fresco"
+        ],
+        "base_response": "Las hojas frescas de verdolaga, lavadas cuidadosamente, son excelentes protagonistas para elaborar ensaladas nutritivas y refrescantes. Combinarlas con tomate, cebolla y un aderezo ligero de limón resalta su textura crujiente y proporciona una importante dosis de vitaminas esenciales diarias."
+    },
+    {
+        "intent_id": "higiene_alimentaria_cruzada",
+        "keywords": [
+            "higiene",
+            "contaminacion",
+            "bacteria",
+            "separacion",
+            "superficie"
+        ],
+        "base_response": "La contaminación cruzada ocurre cuando bacterias de alimentos crudos se transfieren a productos cocidos o listos para consumir. Evitar este grave problema requiere mantener áreas de trabajo, utensilios y recipientes estrictamente separados durante todo el proceso de preparación culinaria básica."
+    },
+    {
+        "intent_id": "utensilios_cocina_tablas",
+        "keywords": [
+            "tabla",
+            "corte",
+            "utensilio",
+            "superficie",
+            "madera"
+        ],
+        "base_response": "Las tablas de picar ofrecen una superficie plana y segura, protegiendo las encimeras durante el corte de ingredientes. Se recomienda tener tablas de diferentes colores o materiales para separar carnes crudas de verduras, facilitando las prácticas de higiene y seguridad."
+    },
+    {
+        "intent_id": "conservacion_alimentos_congelacion",
+        "keywords": [
+            "congelacion",
+            "hielo",
+            "conservacion",
+            "duracion",
+            "temperatura"
+        ],
+        "base_response": "La congelación es un método excepcional que detiene la actividad microbiana al reducir drásticamente la temperatura interna del alimento. Esta técnica permite almacenar porciones preparadas o ingredientes frescos por meses, reduciendo el desperdicio y facilitando la planificación de comidas familiares."
+    },
+    {
+        "intent_id": "corte_ingredientes_brunoise",
+        "keywords": [
+            "corte",
+            "cubo",
+            "cuchillo",
+            "vegetal",
+            "tamano"
+        ],
+        "base_response": "El corte en brunoise produce dados diminutos y uniformes, generalmente aplicados a vegetales aromáticos como cebollas, zanahorias y pimientos. Esta precisa técnica culinaria permite que los ingredientes se cocinen rápidamente, distribuyendo sus sabores intensos de manera sutil en la preparación."
+    },
+    {
+        "intent_id": "tecnicas_coccion_plancha",
+        "keywords": [
+            "plancha",
+            "calor",
+            "metal",
+            "dorado",
+            "superficie"
+        ],
+        "base_response": "Cocinar a la plancha implica transmitir calor directo mediante una placa metálica muy caliente. Requiere mínima cantidad de aceite, produciendo una costra dorada exterior en carnes y vegetales que sella sus jugos naturales, resultando en platos ligeros y muy sabrosos."
+    },
+    {
+        "intent_id": "medidas_culinarias_liquidos",
+        "keywords": [
+            "medida",
+            "liquido",
+            "volumen",
+            "taza",
+            "mililitro"
+        ],
+        "base_response": "Medir líquidos correctamente es esencial en repostería y salsas para lograr la consistencia deseada. Se deben utilizar jarras graduadas transparentes, colocándolas sobre una superficie plana y leyendo la marca a la altura de los ojos para evitar errores de proporción."
+    },
+    {
+        "intent_id": "preparacion_alimentos_marinado",
+        "keywords": [
+            "marinado",
+            "liquido",
+            "sabor",
+            "ablandamiento",
+            "carne"
+        ],
+        "base_response": "El marinado consiste en remojar carnes o vegetales en una mezcla líquida sazonada antes de someterlos a cocción. Esta técnica no solo impregna los alimentos con sabores profundos y aromáticos, sino que también ayuda a ablandar considerablemente las fibras musculares."
+    },
+    {
+        "intent_id": "seleccion_ingredientes_temporada",
+        "keywords": [
+            "seleccion",
+            "temporada",
+            "fresco",
+            "mercado",
+            "cosecha"
+        ],
+        "base_response": "Elegir ingredientes de temporada garantiza consumir productos en su punto óptimo de maduración, sabor y valor nutricional. Además de ser generalmente más económicos y accesibles, apoyar la agricultura local durante la cosecha contribuye a un consumo responsable y sostenible."
+    },
+    {
+        "intent_id": "manipulacion_segura_huevos",
+        "keywords": [
+            "huevo",
+            "cascara",
+            "manipulacion",
+            "bacteria",
+            "coccion"
+        ],
+        "base_response": "La manipulación de huevos requiere especial cuidado, ya que su cáscara puede albergar bacterias perjudiciales para la salud humana. Es fundamental evitar que el interior entre en contacto con el exterior sucio y cocinar completamente las preparaciones para mayor seguridad."
+    },
+    {
+        "intent_id": "utensilios_cocina_ollas",
+        "keywords": [
+            "olla",
+            "recipiente",
+            "coccion",
+            "metal",
+            "tapa"
+        ],
+        "base_response": "Las ollas son recipientes metálicos cilíndricos con asas y tapa, diseñados para cocinar grandes volúmenes de líquidos. Su estructura permite distribuir el calor uniformemente, siendo utensilios indispensables para preparar sopas, estofados, caldos nutritivos y cocer pastas de forma adecuada."
+    },
+    {
+        "intent_id": "condimentos_culinarios_pimienta",
+        "keywords": [
+            "pimienta",
+            "condimento",
+            "grano",
+            "picante",
+            "aroma"
+        ],
+        "base_response": "La pimienta es uno de los condimentos más utilizados mundialmente por su característico toque ligeramente picante y aromático. Moler los granos justo antes de integrarlos a la receta preserva sus aceites esenciales, mejorando significativamente el perfil gustativo del plato terminado."
+    },
+    {
+        "intent_id": "tecnicas_coccion_estofado",
+        "keywords": [
+            "estofado",
+            "fuego",
+            "liquido",
+            "lento",
+            "olla"
+        ],
+        "base_response": "El estofado es un proceso lento que combina calor húmedo y seco, cocinando los ingredientes a fuego suave en un recipiente cerrado con algo de líquido. Esta técnica tradicional ablanda piezas duras y fusiona los sabores, creando salsas espesas deliciosas."
+    },
+    {
+        "intent_id": "higiene_alimentaria_manos",
+        "keywords": [
+            "lavado",
+            "mano",
+            "jabon",
+            "agua",
+            "limpieza"
+        ],
+        "base_response": "El lavado exhaustivo de manos con agua tibia y jabón es el primer paso crítico en la cocina. Realizarlo antes de tocar alimentos, después de ir al baño o tras manipular desperdicios, previene directamente la transferencia de gérmenes y virus."
+    },
+    {
+        "intent_id": "alimentos_hojas_espinaca",
+        "keywords": [
+            "espinaca",
+            "hoja",
+            "hierro",
+            "vegetal",
+            "nutriente"
+        ],
+        "base_response": "La espinaca es una hoja comestible verde oscura sumamente rica en hierro, calcio y múltiples vitaminas esenciales. Puede integrarse fácilmente en la dieta escolar a través de tortillas, batidos verdes, ensaladas crujientes o rehogada suavemente como guarnición muy nutritiva."
+    }
+]
