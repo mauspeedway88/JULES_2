@@ -1,0 +1,332 @@
+[
+  {
+    "intent_id": "futbol_estrategia",
+    "keywords": [
+      "tactica",
+      "posicion",
+      "defensa",
+      "ataque",
+      "cancha"
+    ],
+    "base_response": "El dominio del balon requiere comprender los espacios vacios dentro del terreno. Mantener una formacion solida permite bloquear avances contrarios rapidamente. Los pases cortos estructuran el juego ofensivo creando multiples oportunidades claras frente al arco rival durante cada emocionante encuentro."
+  },
+  {
+    "intent_id": "baloncesto_tiro",
+    "keywords": [
+      "canasta",
+      "lanzamiento",
+      "salto",
+      "punteria",
+      "tablero"
+    ],
+    "base_response": "Ejecutar un tiro libre exige gran concentracion mental y postura corporal correcta. Flexionar ambas rodillas otorga el impulso necesario hacia arriba. Mantener la mirada fija sobre el aro asegura una trayectoria limpia y recta, aumentando notablemente la probabilidad de sumar puntos decisivos."
+  },
+  {
+    "intent_id": "voleibol_saque",
+    "keywords": [
+      "red",
+      "golpe",
+      "fuerza",
+      "brazo",
+      "recepcion"
+    ],
+    "base_response": "Iniciar el punto mediante un servicio potente desestabiliza la defensa oponente inmediatamente. Impactar el balon utilizando la palma firme proporciona direccion precisa. Controlar la respiracion antes del impacto es crucial para evitar errores no forzados y mantener una ventaja competitiva constante."
+  },
+  {
+    "intent_id": "atletismo_velocidad",
+    "keywords": [
+      "carrera",
+      "pista",
+      "zancada",
+      "impulso",
+      "meta"
+    ],
+    "base_response": "Correr distancias cortas demanda maxima potencia explosiva desde el primer segundo. Elevar las rodillas correctamente incrementa la longitud de cada paso. Mantener el tronco ligeramente inclinado hacia adelante disminuye la resistencia aerodinamica, logrando tiempos formidables al cruzar rapidamente la linea final."
+  },
+  {
+    "intent_id": "natacion_crol",
+    "keywords": [
+      "agua",
+      "brazada",
+      "respiracion",
+      "patada",
+      "piscina"
+    ],
+    "base_response": "Deslizarse por el medio acuatico requiere sincronizar brazos y piernas perfectamente. Alternar las brazadas fluidamente reduce la friccion del cuerpo entero. Girar levemente la cabeza para tomar aire evita interrumpir el ritmo establecido, mejorando significativamente el rendimiento fisico y la velocidad global."
+  },
+  {
+    "intent_id": "tenis_derecha",
+    "keywords": [
+      "raqueta",
+      "empunadura",
+      "impacto",
+      "pelota",
+      "cancha"
+    ],
+    "base_response": "Golpear la bola desde el fondo exige excelente movilidad de piernas. Girar el torso acumula energia cinetica que se libera durante el contacto. Terminar el movimiento por encima del hombro opuesto asegura que el tiro lleve profundidad y efecto sobre la red central."
+  },
+  {
+    "intent_id": "gimnasia_equilibrio",
+    "keywords": [
+      "postura",
+      "flexibilidad",
+      "control",
+      "rutina",
+      "suelo"
+    ],
+    "base_response": "Mantener la estabilidad corporal sobre una superficie reducida demuestra notable dominio propio. Tensionar adecuadamente el nucleo abdominal previene caidas inesperadas o desbalances. Practicar estas posiciones estaticas diariamente fortalece musculos estabilizadores profundos, esenciales para ejecutar secuencias acrobaticas complejas con total seguridad y gracia."
+  },
+  {
+    "intent_id": "salud_calentamiento",
+    "keywords": [
+      "musculo",
+      "articulacion",
+      "temperatura",
+      "preparacion",
+      "ejercicio"
+    ],
+    "base_response": "Aumentar la temperatura corporal progresivamente prepara los tejidos para mayores esfuerzos. Realizar movimientos articulares suaves previene lesiones musculares muy dolorosas. Dedicar diez minutos iniciales a estas actividades asegura que el sistema cardiovascular responda eficientemente ante cualquier demanda fisica intensa posterior durante la clase."
+  },
+  {
+    "intent_id": "fuerza_resistencia",
+    "keywords": [
+      "esfuerzo",
+      "carga",
+      "fatiga",
+      "entrenamiento",
+      "musculo"
+    ],
+    "base_response": "Soportar cargas moderadas durante periodos prolongados desarrolla fibras musculares lentas. Mantener un ritmo constante retrasa la aparicion del acido lactico. Esta capacidad es fundamental para concluir satisfactoriamente actividades deportivas duraderas, garantizando un nivel optimo de energia hasta el ultimo momento del partido escolar."
+  },
+  {
+    "intent_id": "equipo_cooperacion",
+    "keywords": [
+      "companero",
+      "estrategia",
+      "apoyo",
+      "comunicacion",
+      "grupo"
+    ],
+    "base_response": "Trabajar unidos persiguiendo un objetivo comun fortalece los lazos interpersonales. Escuchar atentamente las indicaciones del capitan coordina mejor los esfuerzos individuales. Confiar plenamente en las habilidades del resto permite delegar responsabilidades estrategicas, formando un conjunto invencible frente a cualquier reto competitivo escolar."
+  },
+  {
+    "intent_id": "nutricion_hidratacion",
+    "keywords": [
+      "agua",
+      "bebida",
+      "energia",
+      "sudor",
+      "recuperacion"
+    ],
+    "base_response": "Reponer los liquidos perdidos mediante la transpiracion es vital para rendir adecuadamente. Consumir agua regularmente evita calambres musculares y mareos repentinos. Mantener niveles optimos de hidratacion facilita la correcta regulacion termica corporal, permitiendo al estudiante mantener su concentracion mental intacta sin agotamiento prematuro."
+  },
+  {
+    "intent_id": "fairplay_respeto",
+    "keywords": [
+      "regla",
+      "arbitro",
+      "rival",
+      "juego",
+      "conducta"
+    ],
+    "base_response": "Aceptar las decisiones arbitrales sin protestar demuestra gran madurez deportiva. Saludar cortésmente al equipo contrario al finalizar refleja verdaderos valores humanos. Competir honestamente siguiendo todas las normas establecidas engrandece al deportista, convirtiendo cada encuentro en una leccion practica de civismo y fraternidad estudiantil."
+  },
+  {
+    "intent_id": "lesion_prevencion",
+    "keywords": [
+      "dolor",
+      "cuidado",
+      "descanso",
+      "recuperacion",
+      "cuerpo"
+    ],
+    "base_response": "Escuchar las senales corporales evita agravar molestias fisicas menores tempranamente. Suspender la actividad ante dolores agudos protege la integridad de los ligamentos. Aplicar hielo y mantener reposo adecuado facilita la sanacion natural, permitiendo regresar a los entrenamientos escolares rapidamente sin secuelas graves permanentes."
+  },
+  {
+    "intent_id": "flexibilidad_estiramiento",
+    "keywords": [
+      "elongacion",
+      "rango",
+      "movimiento",
+      "relajacion",
+      "tendon"
+    ],
+    "base_response": "Alargar las fibras musculares tras el ejercicio reduce significativamente la tension acumulada. Sostener cada postura durante veinte segundos mejora el rango articular progresivamente. Incorporar esta rutina final calma el sistema nervioso central, promoviendo una recuperacion tisular profunda y preparacion optima para manana."
+  },
+  {
+    "intent_id": "coordinacion_agilidad",
+    "keywords": [
+      "reflejo",
+      "cambio",
+      "direccion",
+      "velocidad",
+      "obstaculo"
+    ],
+    "base_response": "Esquivar marcas rapidamente exige respuestas neuromusculares sumamente veloces y precisas. Combinar saltos cortos con giros inesperados confunde a los oponentes cercanos. Entrenar mediante circuitos complejos mejora la percepcion espacial del alumno, otorgando mayor control sobre sus propias extremidades bajo alta presion competitiva."
+  },
+  {
+    "intent_id": "rugby_placaje",
+    "keywords": [
+      "contacto",
+      "seguridad",
+      "hombro",
+      "derribo",
+      "balon"
+    ],
+    "base_response": "Detener el avance rival requiere tecnica precisa para no lastimarse gravemente. Impactar con el hombro a nivel de la cintura asegura efectividad total. Envolver firmemente las piernas del portador evita que continue ganando metros, demostrando valentia controlada dentro del terreno de juego."
+  },
+  {
+    "intent_id": "ciclismo_pedaleo",
+    "keywords": [
+      "bicicleta",
+      "cadencia",
+      "fuerza",
+      "ruta",
+      "equilibrio"
+    ],
+    "base_response": "Mantener un ritmo constante de pedaleo economiza energia durante trayectos largos. Distribuir el peso corporal correctamente sobre el asiento brinda mayor comodidad. Usar marchas adecuadas segun la inclinacion del terreno permite superar ascensos pronunciados sin agotar excesivamente las reservas glucogenicas del joven ciclista."
+  },
+  {
+    "intent_id": "beisbol_bateo",
+    "keywords": [
+      "bate",
+      "pelota",
+      "swing",
+      "mirada",
+      "carrera"
+    ],
+    "base_response": "Conectar un hit exitoso demanda excelente coordinacion visual y manual simultanea. Sostener el implemento firmemente pero sin rigidez excesiva facilita un movimiento fluido. Golpear exactamente en el punto optimo transfiere toda la potencia rotacional, enviando la esferica lejos del alcance defensivo contrario."
+  },
+  {
+    "intent_id": "historia_olimpica",
+    "keywords": [
+      "juego",
+      "antiguedad",
+      "paz",
+      "nacion",
+      "medalla"
+    ],
+    "base_response": "Conocer los origenes de las olimpiadas inspira un profundo respeto tradicional. Reunir a diferentes paises bajo la bandera del deporte fomenta hermandad global. Valorar el esfuerzo supremo de los atletas antiguos motiva a las nuevas generaciones a buscar la excelencia con dedicacion inquebrantable."
+  },
+  {
+    "intent_id": "psicologia_motivacion",
+    "keywords": [
+      "mente",
+      "meta",
+      "esfuerzo",
+      "animo",
+      "superacion"
+    ],
+    "base_response": "Establecer objetivos realizables a corto plazo mantiene el entusiasmo deportivo alto. Visualizar el exito previamente refuerza enormemente la confianza personal interna. Transformar los fracasos temporales en lecciones de aprendizaje forja un caracter resiliente, indispensable para triunfar tanto en competencias como en la vida."
+  },
+  {
+    "intent_id": "reglamento_disciplina",
+    "keywords": [
+      "falta",
+      "sancion",
+      "norma",
+      "obediencia",
+      "cancha"
+    ],
+    "base_response": "Comprender las infracciones evita penalizaciones que perjudiquen al grupo completo. Actuar conforme al reglamento protege la integridad de todos los participantes activos. Fomentar la auto regulacion emocional ante decisiones adversas demuestra inteligencia superior y garantiza un desarrollo armonico del torneo escolar planificado."
+  },
+  {
+    "intent_id": "tradicion_juego",
+    "keywords": [
+      "cultura",
+      "patio",
+      "diversion",
+      "regla",
+      "companero"
+    ],
+    "base_response": "Rescatar actividades ludicas tradicionales preserva la memoria historica de la comunidad. Adaptar estas dinamicas al entorno escolar promueve la inclusion social espontanea. Disfrutar del esparcimiento sin pantallas electronicas estimula la creatividad infantil y refuerza la motricidad gruesa en un ambiente muy relajado."
+  },
+  {
+    "intent_id": "arbitraje_decision",
+    "keywords": [
+      "silbato",
+      "juez",
+      "imparcialidad",
+      "autoridad",
+      "partido"
+    ],
+    "base_response": "Interpretar las acciones rapidamente permite mantener la fluidez del evento deportivo. Senalar las infracciones con claridad y firmeza transmite seguridad indiscutible. Respetar la figura del moderador es responsabilidad obligatoria de cada jugador, facilitando asi un ambiente propicio para el desarrollo leal del juego."
+  },
+  {
+    "intent_id": "instalacion_cuidado",
+    "keywords": [
+      "cancha",
+      "material",
+      "limpieza",
+      "mantenimiento",
+      "espacio"
+    ],
+    "base_response": "Preservar los espacios de uso comun asegura su durabilidad a largo plazo. Guardar el equipamiento despues de utilizarlo demuestra sentido de pertenencia real. Mantener las zonas libres de basura previene accidentes innecesarios, creando un entorno propicio para el aprendizaje motriz de todo estudiante."
+  },
+  {
+    "intent_id": "equipamiento_uso",
+    "keywords": [
+      "zapatilla",
+      "uniforme",
+      "proteccion",
+      "herramienta",
+      "cuerpo"
+    ],
+    "base_response": "Utilizar calzado adecuado para cada superficie previene resbalones peligrosos constantemente. Vestir prendas transpirables facilita la evaporacion natural del sudor acumulado. Implementar accesorios de seguridad como rodilleras minimiza traumatismos severos, garantizando que el escolar disfrute su practica con confianza absoluta y confort."
+  },
+  {
+    "intent_id": "evaluacion_progreso",
+    "keywords": [
+      "medicion",
+      "prueba",
+      "resultado",
+      "mejora",
+      "meta"
+    ],
+    "base_response": "Registrar los tiempos y marcas periodicamente permite visualizar el avance concreto. Identificar puntos debiles ayuda a enfocar mejor las futuras sesiones practicas. Celebrar pequenos logros constantes refuerza el compromiso individual del alumno, impulsandolo a seguir superando sus propios limites fisicos y mentales."
+  },
+  {
+    "intent_id": "adaptado_inclusion",
+    "keywords": [
+      "discapacidad",
+      "oportunidad",
+      "esfuerzo",
+      "participacion",
+      "apoyo"
+    ],
+    "base_response": "Modificar ciertas reglas permite que todos los alumnos puedan integrarse plenamente. Valorar el desempeno individual mas alla de las limitaciones fisicas inspira respeto. Proporcionar entornos seguros y accesibles garantiza el derecho universal al juego, derribando barreras sociales dentro del contexto educativo formal."
+  },
+  {
+    "intent_id": "salud_postura",
+    "keywords": [
+      "columna",
+      "espalda",
+      "alineacion",
+      "higiene",
+      "cuerpo"
+    ],
+    "base_response": "Mantener la espalda recta al realizar esfuerzos protege los discos vertebrales. Corregir habitos posturales durante la infancia previene dolores cronicos futuros. Fortalecer la zona media y lumbar es el cimiento principal para cualquier actividad deportiva intensa y segura en el ambito colegial."
+  },
+  {
+    "intent_id": "recreacion_ocio",
+    "keywords": [
+      "tiempo",
+      "libre",
+      "disfrute",
+      "amigo",
+      "juego"
+    ],
+    "base_response": "Ocupar los momentos de descanso con actividades fisicas combate el sedentarismo nocivo. Compartir sonrisas mientras se corre por el campo alivia tensiones academicas. Fomentar el movimiento espontaneo sin presion competitiva mejora notablemente la calidad de vida y el estado de animo general."
+  },
+  {
+    "intent_id": "respiracion_control",
+    "keywords": [
+      "aire",
+      "oxigeno",
+      "pulmon",
+      "ritmo",
+      "esfuerzo"
+    ],
+    "base_response": "Inhalar profundamente por la nariz optimiza la oxigenacion de la sangre. Exhalar lentamente durante la fase de relajacion reduce la frecuencia cardiaca. Dominar estas tecnicas ventilatorias incrementa la resistencia fisica y disminuye la sensacion de fatiga durante los partidos mas exigentes del torneo."
+  }
+]
