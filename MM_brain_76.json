@@ -1,0 +1,4480 @@
+[
+  {
+    "intent_id": "comunicacion_efectiva",
+    "keywords": [
+      "comunicacion",
+      "escuchar",
+      "mensaje",
+      "expresar",
+      "dialogo"
+    ],
+    "base_response": "La comunicacion efectiva es escuchar atentamente y expresar ideas con claridad para entender y ser entendido, facilitando la solucion pacifica de conflictos en el trabajo y mejorando la convivencia entre compañeros."
+  },
+  {
+    "intent_id": "negociacion_sana",
+    "keywords": [
+      "negociacion",
+      "acordar",
+      "problema",
+      "resolver",
+      "consenso"
+    ],
+    "base_response": "La negociacion sana implica acordar soluciones justas para todas las partes, buscando resolver problemas mediante el dialogo y el consenso, evitando peleas y promoviendo un ambiente laboral armonioso y respetuoso."
+  },
+  {
+    "intent_id": "empatia_laboral",
+    "keywords": [
+      "empatia",
+      "comprender",
+      "emocion",
+      "respetar",
+      "sentimiento"
+    ],
+    "base_response": "La empatia laboral es comprender y respetar las emociones y sentimientos de los demas, lo que ayuda a evitar malentendidos y a resolver conflictos con respeto y solidaridad en el entorno de trabajo."
+  },
+  {
+    "intent_id": "resolucion_pacifica",
+    "keywords": [
+      "resolucion",
+      "conflicto",
+      "dialogo",
+      "buscar",
+      "acuerdo"
+    ],
+    "base_response": "La resolucion pacifica de conflictos consiste en usar el dialogo para buscar acuerdos que beneficien a todos, evitando la violencia y fortaleciendo la colaboracion y el respeto mutuo en el trabajo."
+  },
+  {
+    "intent_id": "trabajo_en_equipo",
+    "keywords": [
+      "trabajo",
+      "colaborar",
+      "equipo",
+      "ayudar",
+      "objetivo"
+    ],
+    "base_response": "El trabajo en equipo es colaborar y ayudarse mutuamente para alcanzar objetivos comunes, lo que reduce conflictos y mejora el ambiente laboral al fomentar la union y el respeto entre compañeros."
+  },
+  {
+    "intent_id": "definicion_outsourcing",
+    "keywords": [
+      "contrato",
+      "tercero",
+      "empresa",
+      "servicio",
+      "delegar"
+    ],
+    "base_response": "El outsourcing corporativo es la contratacion de un proveedor externo para realizar funciones o procesos que antes hacia la empresa. Permite enfocarse en el negocio principal, aprovechando la especializacion del tercero y reduciendo costos operativos."
+  },
+  {
+    "intent_id": "ventajas_outsourcing",
+    "keywords": [
+      "ahorro",
+      "eficiencia",
+      "especializacion",
+      "flexibilidad",
+      "enfoque"
+    ],
+    "base_response": "Las ventajas del outsourcing incluyen reduccion de costos, acceso a expertos, mayor flexibilidad operativa, y concentracion en el core del negocio. Tambien permite escalar rapidamente y compartir riesgos con el proveedor externo."
+  },
+  {
+    "intent_id": "desventajas_outsourcing",
+    "keywords": [
+      "riesgo",
+      "dependencia",
+      "control",
+      "calidad",
+      "confidencialidad"
+    ],
+    "base_response": "Las desventajas del outsourcing abarcan perdida de control sobre procesos, dependencia del proveedor, posible baja calidad, riesgos de seguridad de datos y falta de alineacion cultural. Requiere gestion cuidadosa para mitigar estos problemas."
+  },
+  {
+    "intent_id": "outsourcing_ti",
+    "keywords": [
+      "tecnologia",
+      "soporte",
+      "desarrollo",
+      "sistemas",
+      "infraestructura"
+    ],
+    "base_response": "El outsourcing de TI externaliza servicios como desarrollo de software, soporte tecnico, mantenimiento de infraestructura y seguridad informatica. Busca reducir costos y acceder a talento especializado sin invertir en equipos propios."
+  },
+  {
+    "intent_id": "bpo_outsourcing",
+    "keywords": [
+      "proceso",
+      "negocio",
+      "tercerizar",
+      "gestion",
+      "servicio"
+    ],
+    "base_response": "El BPO o outsourcing de procesos de negocio delega funciones administrativas como contabilidad, recursos humanos y atencion al cliente. Permite a las empresas optimizar operaciones no centrales mediante expertos externos."
+  },
+  {
+    "intent_id": "outsourcing_manufactura",
+    "keywords": [
+      "produccion",
+      "fabrica",
+      "componente",
+      "contrato",
+      "ensamble"
+    ],
+    "base_response": "El outsourcing de manufactura contrata fabricantes externos para producir bienes o componentes. Reduce inversiones en plantas, permite acceso a capacidades especializadas y facilita la adaptacion a cambios en la demanda."
+  },
+  {
+    "intent_id": "outsourcing_marketing",
+    "keywords": [
+      "publicidad",
+      "promocion",
+      "mercadeo",
+      "campana",
+      "digital"
+    ],
+    "base_response": "El outsourcing de marketing externaliza la creacion de campañas publicitarias, gestion de redes sociales y contenido digital. Permite acceder a creatividad y herramientas sin invertir en un equipo interno completo."
+  },
+  {
+    "intent_id": "outsourcing_investigacion_desarrollo",
+    "keywords": [
+      "innovacion",
+      "investigacion",
+      "desarrollo",
+      "prototipo",
+      "tecnologia"
+    ],
+    "base_response": "El outsourcing de I+D contrata laboratorios o centros de innovacion externos para desarrollar nuevos productos o tecnologias. Acelera la innovacion y reduce los riesgos financieros de la investigacion interna."
+  },
+  {
+    "intent_id": "mercado_monetario",
+    "keywords": [
+      "mercado",
+      "deuda",
+      "corto",
+      "plazo",
+      "liquidez",
+      "instrumento"
+    ],
+    "base_response": "El mercado monetario negocia instrumentos de deuda a corto plazo con alta liquidez. Facilita la financiación temporal entre entidades y gobiernos, permitiendo gestionar excedentes y necesidades de efectivo de forma eficiente y segura."
+  },
+  {
+    "intent_id": "mercado_capitales",
+    "keywords": [
+      "capital",
+      "inversion",
+      "largo",
+      "plazo",
+      "financiamiento",
+      "accion"
+    ],
+    "base_response": "El mercado de capitales canaliza recursos hacia inversiones a largo plazo mediante la emisión de acciones y bonos. Permite a empresas y gobiernos obtener financiamiento mientras los inversionistas buscan rentabilidad y crecimiento."
+  },
+  {
+    "intent_id": "mercado_primario",
+    "keywords": [
+      "emision",
+      "titulo",
+      "nuevo",
+      "oferta",
+      "suscripcion",
+      "emisor"
+    ],
+    "base_response": "En el mercado primario se emiten y venden títulos nuevos por primera vez. Los emisores reciben directamente los fondos de los inversionistas, estableciendo el precio y las condiciones iniciales de cada instrumento financiero."
+  },
+  {
+    "intent_id": "mercado_secundario",
+    "keywords": [
+      "reventa",
+      "titulo",
+      "liquidez",
+      "negociacion",
+      "inversionista",
+      "bolsa"
+    ],
+    "base_response": "El mercado secundario permite la compraventa de títulos ya emitidos entre inversionistas. Proporciona liquidez y continuidad a los valores, facilitando la salida de inversiones y la determinación de precios de mercado."
+  },
+  {
+    "intent_id": "mercado_valores",
+    "keywords": [
+      "accion",
+      "bolsa",
+      "cotizacion",
+      "inversion",
+      "capital",
+      "renta"
+    ],
+    "base_response": "El mercado de valores agrupa la negociación de acciones y otros instrumentos de renta variable. Las empresas listan sus títulos en bolsas para captar capital, y los inversionistas compran participaciones buscando rendimientos."
+  },
+  {
+    "intent_id": "mercado_divisas",
+    "keywords": [
+      "divisa",
+      "cambio",
+      "tipo",
+      "par",
+      "cotizacion",
+      "intercambio"
+    ],
+    "base_response": "El mercado de divisas es el espacio global donde se intercambian monedas de diferentes países. Las transacciones determinan los tipos de cambio actuales, facilitando el comercio internacional y la inversión extranjera."
+  },
+  {
+    "intent_id": "mercado_derivados",
+    "keywords": [
+      "derivado",
+      "futuro",
+      "opcion",
+      "swap",
+      "contrato",
+      "subyacente"
+    ],
+    "base_response": "El mercado de derivados negocia contratos cuyo valor depende de un activo subyacente. Futuros, opciones y swaps permiten cubrir riesgos o especular sobre movimientos de precios sin poseer el activo directo."
+  },
+  {
+    "intent_id": "mercado_materias_primas",
+    "keywords": [
+      "materia",
+      "prima",
+      "commodity",
+      "petroleo",
+      "oro",
+      "trigo"
+    ],
+    "base_response": "El mercado de materias primas comercia productos básicos como petróleo, oro y trigo. Estos recursos se negocian en bolsas especializadas y su precio responde a la oferta y demanda global, afectando economías enteras."
+  },
+  {
+    "intent_id": "mercado_subastas",
+    "keywords": [
+      "subasta",
+      "oferta",
+      "demanda",
+      "precio",
+      "competencia",
+      "compraventa"
+    ],
+    "base_response": "El mercado de subastas realiza transacciones mediante un proceso competitivo donde compradores y vendedores presentan ofertas. El precio se determina por la interacción de la oferta y la demanda en tiempo real."
+  },
+  {
+    "intent_id": "mercado_contado",
+    "keywords": [
+      "contado",
+      "spot",
+      "entrega",
+      "inmediata",
+      "pago",
+      "precio"
+    ],
+    "base_response": "El mercado al contado o spot exige la entrega y pago inmediato del activo en el momento de la transacción. El precio se fija al instante y la liquidación ocurre en un plazo muy corto."
+  },
+  {
+    "intent_id": "mercado_futuros",
+    "keywords": [
+      "futuro",
+      "contrato",
+      "estandar",
+      "plazo",
+      "fijar",
+      "precio"
+    ],
+    "base_response": "El mercado de futuros negocia contratos estandarizados para comprar o vender un activo en una fecha futura a un precio acordado. Sirve para cubrir riesgos o especular sobre cambios de precio."
+  },
+  {
+    "intent_id": "mercado_opciones",
+    "keywords": [
+      "opcion",
+      "call",
+      "put",
+      "derecho",
+      "prima",
+      "vencimiento"
+    ],
+    "base_response": "El mercado de opciones otorga el derecho, mas no la obligacion, de comprar o vender un activo a un precio fijo. El comprador paga una prima y decide si ejercer la opcion al vencimiento."
+  },
+  {
+    "intent_id": "flujo_efectivo_directo",
+    "keywords": [
+      "ingreso",
+      "egreso",
+      "registro",
+      "calculo",
+      "flujo"
+    ],
+    "base_response": "El flujo de efectivo directo muestra entradas y salidas reales de dinero durante un periodo. Presenta cada cobro y pago de manera detallada, permitiendo analizar la liquidez inmediata. Facilita decisiones operativas al evidenciar movimientos concretos que afectan la disponibilidad financiera."
+  },
+  {
+    "intent_id": "flujo_efectivo_indirecto",
+    "keywords": [
+      "utilidad",
+      "ajuste",
+      "operacion",
+      "flujo",
+      "cobro"
+    ],
+    "base_response": "El flujo de efectivo indirecto parte de la utilidad neta y realiza ajustes por partidas no monetarias. Permite comprender cómo las operaciones afectan la liquidez real. Es útil para relacionar resultados contables con movimientos de efectivo y evaluar la capacidad financiera."
+  },
+  {
+    "intent_id": "liquidez_operativa",
+    "keywords": [
+      "liquidez",
+      "operacion",
+      "ingreso",
+      "egreso",
+      "control"
+    ],
+    "base_response": "La liquidez operativa refleja la capacidad de una empresa para cubrir gastos inmediatos con efectivo disponible. Permite evaluar estabilidad financiera y anticipar necesidades de recursos. Un adecuado control asegura continuidad en actividades esenciales sin interrupciones."
+  },
+  {
+    "intent_id": "ciclo_caja",
+    "keywords": [
+      "cobro",
+      "pago",
+      "venta",
+      "compra",
+      "flujo"
+    ],
+    "base_response": "El ciclo de caja mide el tiempo entre la salida de dinero para adquirir recursos y la entrada generada por ventas. Ayuda a identificar periodos críticos de liquidez. Su analisis permite optimizar procesos y mejorar la gestion financiera diaria."
+  },
+  {
+    "intent_id": "efectivo_disponible",
+    "keywords": [
+      "efectivo",
+      "saldo",
+      "control",
+      "ingreso",
+      "egreso"
+    ],
+    "base_response": "El efectivo disponible representa el dinero inmediato que posee una empresa para cumplir obligaciones. Su monitoreo constante permite evitar retrasos en pagos y aprovechar oportunidades. Es fundamental para mantener estabilidad y responder a situaciones imprevistas."
+  },
+  {
+    "intent_id": "flujo_operacional",
+    "keywords": [
+      "operacion",
+      "ingreso",
+      "egreso",
+      "actividad",
+      "flujo"
+    ],
+    "base_response": "El flujo operacional muestra el efectivo generado por actividades principales del negocio. Permite evaluar eficiencia y sostenibilidad de procesos internos. Un flujo positivo indica capacidad para financiar operaciones sin depender de fuentes externas."
+  },
+  {
+    "intent_id": "flujo_inversion",
+    "keywords": [
+      "inversion",
+      "compra",
+      "venta",
+      "activo",
+      "flujo"
+    ],
+    "base_response": "El flujo de inversion registra movimientos de efectivo relacionados con compra y venta de activos. Permite analizar decisiones estratégicas y su impacto financiero. Ayuda a determinar si las inversiones apoyan crecimiento sostenible y generan beneficios futuros."
+  },
+  {
+    "intent_id": "flujo_financiamiento",
+    "keywords": [
+      "prestamo",
+      "pago",
+      "capital",
+      "financiar",
+      "flujo"
+    ],
+    "base_response": "El flujo de financiamiento muestra entradas y salidas de efectivo vinculadas a prestamos, aportes de capital y obligaciones financieras. Permite evaluar dependencia de recursos externos y medir capacidad para cumplir compromisos adquiridos."
+  },
+  {
+    "intent_id": "proyeccion_efectivo",
+    "keywords": [
+      "proyeccion",
+      "ingreso",
+      "egreso",
+      "calculo",
+      "flujo"
+    ],
+    "base_response": "La proyeccion de efectivo estima futuros movimientos financieros para anticipar necesidades y oportunidades. Facilita planificacion y prevencion de problemas de liquidez. Es esencial para tomar decisiones informadas y asegurar estabilidad operativa."
+  },
+  {
+    "intent_id": "presupuesto_efectivo",
+    "keywords": [
+      "presupuesto",
+      "ingreso",
+      "egreso",
+      "control",
+      "flujo"
+    ],
+    "base_response": "El presupuesto de efectivo organiza entradas y salidas previstas durante un periodo. Permite controlar recursos y evitar desequilibrios financieros. Su uso adecuado mejora la gestion y garantiza disponibilidad para cumplir obligaciones y proyectos."
+  },
+  {
+    "intent_id": "flujo_neto",
+    "keywords": [
+      "flujo",
+      "ingreso",
+      "egreso",
+      "calculo",
+      "resultado"
+    ],
+    "base_response": "El flujo neto representa la diferencia entre ingresos y egresos de efectivo. Indica si una empresa genera o consume liquidez. Su analisis permite evaluar salud financiera y orientar decisiones para mejorar disponibilidad monetaria."
+  },
+  {
+    "intent_id": "estado_flujo_efectivo",
+    "keywords": [
+      "estado",
+      "flujo",
+      "ingreso",
+      "egreso",
+      "reporte"
+    ],
+    "base_response": "El estado de flujo de efectivo resume movimientos monetarios en actividades operativas, de inversion y financiamiento. Proporciona vision clara de liquidez real. Es herramienta clave para evaluar capacidad de generar efectivo y sostener operaciones."
+  },
+  {
+    "intent_id": "gestionar_cobros",
+    "keywords": [
+      "cobro",
+      "control",
+      "registro",
+      "ingreso",
+      "flujo"
+    ],
+    "base_response": "Gestionar cobros implica organizar y asegurar la entrada oportuna de dinero proveniente de clientes. Mejora liquidez y reduce riesgos de retrasos. Un sistema eficiente fortalece estabilidad financiera y permite cumplir compromisos sin dificultades."
+  },
+  {
+    "intent_id": "gestionar_pagos",
+    "keywords": [
+      "pago",
+      "control",
+      "egreso",
+      "registro",
+      "flujo"
+    ],
+    "base_response": "Gestionar pagos consiste en planificar y ejecutar desembolsos de manera ordenada. Permite evitar atrasos y mantener relaciones comerciales saludables. Un manejo adecuado garantiza equilibrio financiero y disponibilidad de recursos para operaciones esenciales."
+  },
+  {
+    "intent_id": "flujo_libre",
+    "keywords": [
+      "flujo",
+      "calculo",
+      "ingreso",
+      "egreso",
+      "operacion"
+    ],
+    "base_response": "El flujo libre de efectivo muestra el dinero disponible despues de cubrir operaciones e inversiones necesarias. Indica capacidad para expandirse, reducir deudas o distribuir beneficios. Es indicador clave para evaluar fortaleza financiera y potencial de crecimiento."
+  },
+  {
+    "intent_id": "costos_fijos",
+    "keywords": [
+      "costo",
+      "fijo",
+      "gasto",
+      "empresa",
+      "produccion"
+    ],
+    "base_response": "Los costos fijos son gastos que permanecen constantes independientemente del nivel de produccion, como alquileres o sueldos, y son esenciales para mantener la operacion de la empresa sin importar la cantidad producida."
+  },
+  {
+    "intent_id": "costos_variables",
+    "keywords": [
+      "costo",
+      "variable",
+      "produccion",
+      "materia",
+      "directo"
+    ],
+    "base_response": "Los costos variables cambian directamente con el volumen de produccion, incluyendo materias primas y mano de obra directa, y afectan la rentabilidad segun la cantidad de productos fabricados o vendidos."
+  },
+  {
+    "intent_id": "punto_equilibrio",
+    "keywords": [
+      "venta",
+      "costo",
+      "ingreso",
+      "equilibrio",
+      "producto"
+    ],
+    "base_response": "El punto de equilibrio es el nivel de ventas donde los ingresos totales igualan los costos totales, sin generar ni ganancia ni perdida, permitiendo identificar la cantidad minima necesaria para cubrir gastos."
+  },
+  {
+    "intent_id": "costeo_por_actividad",
+    "keywords": [
+      "costeo",
+      "actividad",
+      "gasto",
+      "producto",
+      "proceso"
+    ],
+    "base_response": "El costeo por actividad asigna los costos indirectos a productos o servicios segun las actividades que los generan, mejorando la precision en la determinacion de costos y facilitando la toma de decisiones."
+  },
+  {
+    "intent_id": "costos_directos",
+    "keywords": [
+      "costo",
+      "directo",
+      "materia",
+      "mano",
+      "producto"
+    ],
+    "base_response": "Los costos directos son aquellos que se pueden identificar claramente con un producto, como materia prima y mano de obra directa, y son fundamentales para calcular el costo total de produccion."
+  },
+  {
+    "intent_id": "margen_seguridad",
+    "keywords": [
+      "margen",
+      "seguridad",
+      "venta",
+      "riesgo",
+      "utilidad"
+    ],
+    "base_response": "El margen de seguridad indica la diferencia entre las ventas reales y el punto de equilibrio, mostrando el nivel de riesgo que la empresa puede soportar antes de incurrir en perdidas."
+  },
+  {
+    "intent_id": "kpi_eficiencia_operativa",
+    "keywords": [
+      "proceso",
+      "control",
+      "medicion",
+      "evaluacion",
+      "mejora"
+    ],
+    "base_response": "Los indicadores de eficiencia operativa permiten analizar el rendimiento de los procesos internos. Su medicion ayuda a identificar fallas, optimizar recursos y mejorar resultados. Facilitan decisiones basadas en evidencia y fortalecen la gestion institucional mediante acciones correctivas oportunas."
+  },
+  {
+    "intent_id": "kpi_productividad",
+    "keywords": [
+      "trabajo",
+      "resultado",
+      "proceso",
+      "medicion",
+      "evaluacion"
+    ],
+    "base_response": "La productividad mide la relacion entre los recursos utilizados y los resultados obtenidos. Permite evaluar el desempeño de equipos y procesos, identificar oportunidades de mejora y orientar estrategias para incrementar la eficiencia. Es fundamental para asegurar crecimiento sostenible y competitividad."
+  },
+  {
+    "intent_id": "kpi_eficacia",
+    "keywords": [
+      "objetivo",
+      "resultado",
+      "accion",
+      "logro",
+      "evaluacion"
+    ],
+    "base_response": "La eficacia analiza el grado en que se alcanzan los objetivos establecidos. Permite valorar si las acciones ejecutadas generan los resultados esperados. Su uso orienta la toma de decisiones y fortalece la gestion institucional mediante ajustes oportunos en estrategias y recursos."
+  },
+  {
+    "intent_id": "kpi_calidad_servicio",
+    "keywords": [
+      "servicio",
+      "satisfaccion",
+      "usuario",
+      "evaluacion",
+      "mejora"
+    ],
+    "base_response": "Los indicadores de calidad del servicio permiten medir la experiencia del usuario y el cumplimiento de estandares. Facilitan detectar fallas, fortalecer procesos y garantizar respuestas oportunas. Su aplicacion impulsa mejoras continuas y promueve confianza en la gestion institucional."
+  },
+  {
+    "intent_id": "kpi_tiempo_respuesta",
+    "keywords": [
+      "tiempo",
+      "respuesta",
+      "proceso",
+      "usuario",
+      "medicion"
+    ],
+    "base_response": "El tiempo de respuesta mide la rapidez con que una organizacion atiende solicitudes o tareas. Su analisis permite optimizar procesos, reducir retrasos y mejorar la experiencia del usuario. Es clave para garantizar eficiencia y fortalecer la gestion operativa."
+  },
+  {
+    "intent_id": "kpi_costos_operativos",
+    "keywords": [
+      "costo",
+      "proceso",
+      "control",
+      "recurso",
+      "evaluacion"
+    ],
+    "base_response": "Los costos operativos reflejan los recursos economicos utilizados para ejecutar actividades. Su medicion permite identificar gastos innecesarios, optimizar inversiones y mejorar la eficiencia financiera. Son esenciales para planificar estrategias sostenibles y asegurar equilibrio presupuestario."
+  },
+  {
+    "intent_id": "kpi_rentabilidad",
+    "keywords": [
+      "ingreso",
+      "costo",
+      "beneficio",
+      "medicion",
+      "evaluacion"
+    ],
+    "base_response": "La rentabilidad analiza la capacidad de una organizacion para generar beneficios a partir de sus recursos. Permite evaluar decisiones financieras, identificar oportunidades de mejora y orientar estrategias que fortalezcan la sostenibilidad economica y el crecimiento institucional."
+  },
+  {
+    "intent_id": "kpi_desempeno_equipo",
+    "keywords": [
+      "equipo",
+      "trabajo",
+      "resultado",
+      "medicion",
+      "evaluacion"
+    ],
+    "base_response": "El desempeño del equipo mide la efectividad colectiva en el cumplimiento de tareas y objetivos. Facilita identificar fortalezas, necesidades de capacitacion y oportunidades de mejora. Su uso promueve colaboracion, motivacion y mayor eficiencia en la gestion institucional."
+  },
+  {
+    "intent_id": "kpi_satisfaccion_usuario",
+    "keywords": [
+      "usuario",
+      "servicio",
+      "opinion",
+      "evaluacion",
+      "medicion"
+    ],
+    "base_response": "La satisfaccion del usuario refleja la percepcion sobre la calidad del servicio recibido. Su medicion permite detectar fallas, ajustar procesos y fortalecer la relacion institucional. Es fundamental para garantizar confianza, mejorar experiencias y orientar decisiones estrategicas."
+  },
+  {
+    "intent_id": "kpi_innovacion",
+    "keywords": [
+      "idea",
+      "proceso",
+      "cambio",
+      "creacion",
+      "evaluacion"
+    ],
+    "base_response": "La innovacion mide la capacidad de generar soluciones nuevas que mejoren procesos o servicios. Permite evaluar iniciativas, promover creatividad y fortalecer competitividad. Su aplicacion impulsa transformaciones positivas y asegura adaptacion constante a necesidades emergentes."
+  },
+  {
+    "intent_id": "kpi_riesgo_operativo",
+    "keywords": [
+      "riesgo",
+      "proceso",
+      "control",
+      "prevencion",
+      "evaluacion"
+    ],
+    "base_response": "El riesgo operativo analiza eventos que pueden afectar el funcionamiento institucional. Su medicion permite anticipar problemas, implementar controles y reducir impactos negativos. Es esencial para garantizar continuidad, seguridad y eficiencia en la gestion diaria."
+  },
+  {
+    "intent_id": "kpi_planificacion",
+    "keywords": [
+      "plan",
+      "objetivo",
+      "accion",
+      "proceso",
+      "evaluacion"
+    ],
+    "base_response": "La planificacion mide el grado de cumplimiento de actividades programadas. Permite evaluar avances, ajustar estrategias y asegurar coherencia entre acciones y objetivos. Su uso fortalece la organizacion y mejora la capacidad de respuesta ante cambios o desafios."
+  },
+  {
+    "intent_id": "kpi_transparencia",
+    "keywords": [
+      "informe",
+      "dato",
+      "control",
+      "proceso",
+      "evaluacion"
+    ],
+    "base_response": "La transparencia analiza la claridad y disponibilidad de informacion institucional. Su medicion fortalece la confianza, facilita la rendicion de cuentas y mejora la gestion. Es clave para garantizar practicas responsables y promover participacion informada."
+  },
+  {
+    "intent_id": "kpi_compromiso_laboral",
+    "keywords": [
+      "trabajo",
+      "motivacion",
+      "equipo",
+      "participacion",
+      "evaluacion"
+    ],
+    "base_response": "El compromiso laboral mide el nivel de motivacion y participacion del personal. Permite identificar factores que influyen en el rendimiento y orientar acciones de mejora. Su aplicacion fortalece la cultura organizacional y promueve mayor productividad."
+  },
+  {
+    "intent_id": "kpi_crecimiento_institucional",
+    "keywords": [
+      "crecimiento",
+      "proceso",
+      "resultado",
+      "evaluacion",
+      "plan"
+    ],
+    "base_response": "El crecimiento institucional analiza la expansion y fortalecimiento de capacidades organizacionales. Su medicion permite evaluar avances, identificar oportunidades y orientar estrategias sostenibles. Es fundamental para asegurar desarrollo continuo y mejorar la calidad de los servicios."
+  },
+  {
+    "intent_id": "motivacion_intrinseca",
+    "keywords": [
+      "motivacion",
+      "interes",
+      "logro",
+      "creacion"
+    ],
+    "base_response": "La motivacion intrinseca surge cuando la persona realiza una tarea por satisfaccion propia. Favorece el compromiso laboral porque impulsa el deseo de aprender, mejorar y crear valor. Promueve autonomia, fortalece la identidad profesional y estimula el crecimiento continuo dentro del entorno de trabajo."
+  },
+  {
+    "intent_id": "motivacion_extrinseca",
+    "keywords": [
+      "recompensa",
+      "incentivo",
+      "objetivo",
+      "cumplir"
+    ],
+    "base_response": "La motivacion extrinseca se basa en recompensas externas que impulsan el esfuerzo. Incluye incentivos, reconocimientos y beneficios que estimulan el cumplimiento de objetivos. Ayuda a mantener la productividad, refuerza conductas positivas y complementa la motivacion interna en diversos contextos laborales."
+  },
+  {
+    "intent_id": "satisfaccion_laboral",
+    "keywords": [
+      "satisfaccion",
+      "trabajo",
+      "desempeno",
+      "crecer"
+    ],
+    "base_response": "La satisfaccion laboral refleja el grado de bienestar que experimenta una persona en su trabajo. Influye en el desempeno, la permanencia y el compromiso. Surge cuando las tareas permiten crecer, aprender y aportar, generando un ambiente positivo que favorece la motivacion y la productividad."
+  },
+  {
+    "intent_id": "clima_organizacional",
+    "keywords": [
+      "ambiente",
+      "comunicacion",
+      "confianza",
+      "colaborar"
+    ],
+    "base_response": "El clima organizacional describe la percepcion del ambiente laboral. Un clima positivo fomenta confianza, comunicacion y colaboracion entre los miembros. Cuando las relaciones son saludables, aumenta la motivacion, se reducen tensiones y se fortalece el sentido de pertenencia dentro de la organizacion."
+  },
+  {
+    "intent_id": "liderazgo_motivador",
+    "keywords": [
+      "liderazgo",
+      "orientacion",
+      "apoyo",
+      "guiar"
+    ],
+    "base_response": "El liderazgo motivador impulsa el compromiso mediante orientacion clara y apoyo constante. Un buen lider inspira, guia y reconoce los esfuerzos del equipo. Esta influencia positiva fortalece la motivacion, mejora el desempeno y crea un entorno donde las personas se sienten valoradas y escuchadas."
+  },
+  {
+    "intent_id": "reconocimiento_laboral",
+    "keywords": [
+      "reconocimiento",
+      "valor",
+      "esfuerzo",
+      "agradecer"
+    ],
+    "base_response": "El reconocimiento laboral destaca el valor del esfuerzo realizado. Cuando las personas reciben agradecimiento por sus aportes, aumenta su motivacion y compromiso. Este acto refuerza conductas positivas, fortalece la autoestima profesional y contribuye a construir un ambiente laboral mas estimulante."
+  },
+  {
+    "intent_id": "autonomia_profesional",
+    "keywords": [
+      "autonomia",
+      "decision",
+      "responsabilidad",
+      "actuar"
+    ],
+    "base_response": "La autonomia profesional permite tomar decisiones y asumir responsabilidad sobre las tareas. Favorece la motivacion porque brinda libertad para actuar y desarrollar habilidades. Cuando las personas sienten control sobre su trabajo, aumenta la creatividad, la iniciativa y el compromiso con los objetivos."
+  },
+  {
+    "intent_id": "proposito_laboral",
+    "keywords": [
+      "proposito",
+      "sentido",
+      "trabajo",
+      "aportar"
+    ],
+    "base_response": "El proposito laboral se relaciona con encontrar sentido en las tareas realizadas. Cuando las personas comprenden el impacto de su trabajo, aumenta la motivacion y el compromiso. Este enfoque promueve la satisfaccion, impulsa el esfuerzo y fortalece la conexion con los objetivos organizacionales."
+  },
+  {
+    "intent_id": "bienestar_emocional",
+    "keywords": [
+      "bienestar",
+      "emocion",
+      "equilibrio",
+      "cuidar"
+    ],
+    "base_response": "El bienestar emocional influye directamente en la motivacion laboral. Mantener equilibrio interno permite enfrentar desafios con mayor fortaleza. Cuando las personas cuidan sus emociones, mejoran su desempeno, fortalecen relaciones y desarrollan una actitud positiva hacia las responsabilidades profesionales."
+  },
+  {
+    "intent_id": "gestion_del_tiempo",
+    "keywords": [
+      "organizacion",
+      "tiempo",
+      "planificacion",
+      "priorizar"
+    ],
+    "base_response": "La gestion del tiempo facilita la organizacion de tareas y la planificacion adecuada. Priorizar actividades reduce estres y aumenta la motivacion. Cuando las personas administran bien su tiempo, mejoran su productividad, alcanzan metas con mayor claridad y fortalecen su compromiso laboral."
+  },
+  {
+    "intent_id": "retroalimentacion_constructiva",
+    "keywords": [
+      "retroalimentacion",
+      "mejora",
+      "orientacion",
+      "aprender"
+    ],
+    "base_response": "La retroalimentacion constructiva ofrece orientacion para mejorar el desempeno. Ayuda a aprender de errores y fortalece habilidades. Cuando se brinda de manera clara y respetuosa, aumenta la motivacion, refuerza la confianza y promueve un ambiente laboral centrado en el crecimiento continuo."
+  },
+  {
+    "intent_id": "compromiso_organizacional",
+    "keywords": [
+      "compromiso",
+      "organizacion",
+      "pertenencia",
+      "participar"
+    ],
+    "base_response": "El compromiso organizacional refleja el grado de vinculacion con la empresa. Surge cuando las personas sienten pertenencia y participan activamente en los objetivos. Este compromiso fortalece la motivacion, mejora el desempeno y contribuye a construir una cultura laboral mas solida y colaborativa."
+  },
+  {
+    "intent_id": "desarrollo_profesional",
+    "keywords": [
+      "desarrollo",
+      "habilidad",
+      "aprendizaje",
+      "progresar"
+    ],
+    "base_response": "El desarrollo profesional impulsa la motivacion al ofrecer oportunidades de aprendizaje y crecimiento. Cuando las personas progresan en sus habilidades, aumenta su confianza y compromiso. Este proceso fortalece la trayectoria laboral y contribuye a mantener un alto nivel de productividad."
+  },
+  {
+    "intent_id": "equilibrio_vida_trabajo",
+    "keywords": [
+      "equilibrio",
+      "vida",
+      "trabajo",
+      "descansar"
+    ],
+    "base_response": "El equilibrio entre vida y trabajo es esencial para mantener la motivacion. Permite descansar, atender necesidades personales y evitar agotamiento. Cuando las personas logran armonia entre ambos espacios, mejoran su bienestar, aumentan su energia y fortalecen su desempeno profesional."
+  },
+  {
+    "intent_id": "cohesion_de_equipo",
+    "keywords": [
+      "equipo",
+      "union",
+      "cooperacion",
+      "apoyar"
+    ],
+    "base_response": "La cohesion de equipo fortalece la motivacion mediante relaciones basadas en union y cooperacion. Cuando los miembros se apoyan mutuamente, aumenta la confianza y el compromiso. Este ambiente colaborativo facilita el logro de objetivos y promueve un clima laboral mas positivo y productivo."
+  },
+  {
+    "intent_id": "definicion_auditoria",
+    "keywords": [
+      "auditoria",
+      "administrativa",
+      "evaluacion",
+      "gestion",
+      "procesos"
+    ],
+    "base_response": "La auditoría administrativa es una revisión sistemática de la gestión organizacional. Su propósito es evaluar la eficiencia, eficacia y calidad de los procesos administrativos, identificando áreas de mejora para optimizar el desempeño y cumplir los objetivos estratégicos."
+  },
+  {
+    "intent_id": "objetivos_auditoria",
+    "keywords": [
+      "objetivo",
+      "evaluar",
+      "mejorar",
+      "control",
+      "gestion"
+    ],
+    "base_response": "Los objetivos de la auditoría administrativa incluyen evaluar el cumplimiento de metas, detectar desviaciones, proponer mejoras y fortalecer el control interno. Busca optimizar recursos, aumentar la productividad y asegurar la alineación con la estrategia organizacional."
+  },
+  {
+    "intent_id": "alcance_auditoria",
+    "keywords": [
+      "alcance",
+      "area",
+      "proceso",
+      "funcion",
+      "departamento"
+    ],
+    "base_response": "El alcance de la auditoría administrativa delimita las áreas, procesos o funciones a examinar. Puede abarcar toda la organización o enfocarse en unidades específicas, según los objetivos definidos y los recursos disponibles para la revisión."
+  },
+  {
+    "intent_id": "metodologia_auditoria",
+    "keywords": [
+      "metodologia",
+      "planear",
+      "ejecutar",
+      "informar",
+      "seguir"
+    ],
+    "base_response": "La metodología de la auditoría administrativa comprende etapas de planeación, ejecución, informe y seguimiento. Incluye técnicas como entrevistas, análisis documental y observación directa para recopilar evidencia objetiva y emitir conclusiones fundamentadas."
+  },
+  {
+    "intent_id": "fases_auditoria",
+    "keywords": [
+      "fase",
+      "planeacion",
+      "ejecucion",
+      "informe",
+      "seguimiento"
+    ],
+    "base_response": "Las fases de la auditoría administrativa son planeación, ejecución, elaboración del informe y seguimiento. Cada etapa tiene actividades específicas que garantizan un proceso ordenado, desde la definición del plan hasta la verificación de las recomendaciones implementadas."
+  },
+  {
+    "intent_id": "tipos_auditoria",
+    "keywords": [
+      "tipo",
+      "interna",
+      "externa",
+      "operativa",
+      "funcional"
+    ],
+    "base_response": "Existen diversos tipos de auditoría administrativa: interna, realizada por personal de la organización; externa, por consultores independientes; operativa, enfocada en procesos; y funcional, que evalúa áreas específicas como recursos humanos o finanzas."
+  },
+  {
+    "intent_id": "instrumentos_auditoria",
+    "keywords": [
+      "instrumento",
+      "cuestionario",
+      "lista",
+      "cedula",
+      "entrevista"
+    ],
+    "base_response": "Los instrumentos de la auditoría administrativa incluyen cuestionarios, listas de verificación, cédulas de trabajo y guías de entrevista. Estas herramientas facilitan la recolección, organización y análisis de la información durante el proceso de evaluación."
+  },
+  {
+    "intent_id": "evidencia_auditoria",
+    "keywords": [
+      "evidencia",
+      "prueba",
+      "documento",
+      "registro",
+      "observacion"
+    ],
+    "base_response": "La evidencia en auditoría administrativa es la información obtenida mediante pruebas documentales, físicas, testimoniales o analíticas. Debe ser suficiente, competente y relevante para sustentar los hallazgos y conclusiones del informe final."
+  },
+  {
+    "intent_id": "cedulas_auditoria",
+    "keywords": [
+      "cedula",
+      "trabajo",
+      "papel",
+      "registro",
+      "analisis"
+    ],
+    "base_response": "Las cédulas de auditoría son documentos de trabajo donde se registran los procedimientos aplicados, datos recopilados y resultados obtenidos. Sirven como respaldo de la evidencia y facilitan la revisión y supervisión del trabajo realizado."
+  },
+  {
+    "intent_id": "informe_auditoria",
+    "keywords": [
+      "informe",
+      "resultado",
+      "hallazgo",
+      "conclusion",
+      "recomendacion"
+    ],
+    "base_response": "El informe de auditoría administrativa presenta los hallazgos, conclusiones y recomendaciones derivados de la evaluación. Debe ser claro, objetivo y oportuno, proporcionando a la dirección información útil para la toma de decisiones y mejora continua."
+  },
+  {
+    "intent_id": "recomendaciones_auditoria",
+    "keywords": [
+      "recomendacion",
+      "mejora",
+      "accion",
+      "correccion",
+      "plan"
+    ],
+    "base_response": "Las recomendaciones de auditoría administrativa proponen acciones correctivas o preventivas para solucionar las deficiencias detectadas. Deben ser factibles, específicas y priorizadas, con un plan de implementación que asegure su efectividad y seguimiento."
+  },
+  {
+    "intent_id": "control_interno_auditoria",
+    "keywords": [
+      "control",
+      "interno",
+      "gestion",
+      "riesgo",
+      "proceso"
+    ],
+    "base_response": "El control interno es un elemento clave en la auditoría administrativa. Evalúa la eficacia de los sistemas de control para mitigar riesgos, salvaguardar activos, garantizar la confiabilidad de la información y promover el cumplimiento de normas y políticas."
+  },
+  {
+    "intent_id": "eficiencia_auditoria",
+    "keywords": [
+      "eficiencia",
+      "recurso",
+      "productividad",
+      "costo",
+      "tiempo"
+    ],
+    "base_response": "La auditoría administrativa mide la eficiencia al comparar los recursos utilizados con los resultados obtenidos. Busca identificar desperdicios, duplicidades y oportunidades para optimizar procesos, reducir costos y maximizar el rendimiento organizacional."
+  },
+  {
+    "intent_id": "eficacia_auditoria",
+    "keywords": [
+      "eficacia",
+      "meta",
+      "objetivo",
+      "logro",
+      "resultado"
+    ],
+    "base_response": "La eficacia en auditoría administrativa evalúa el grado en que se alcanzan los objetivos y metas establecidos. Analiza la pertinencia de las acciones y la congruencia entre los resultados reales y los esperados por la organización."
+  },
+  {
+    "intent_id": "evaluacion_auditoria",
+    "keywords": [
+      "evaluacion",
+      "desempeno",
+      "calidad",
+      "gestion",
+      "proceso"
+    ],
+    "base_response": "La evaluación en auditoría administrativa examina el desempeño global de la gestión. Considera criterios de calidad, productividad, satisfacción del cliente y cumplimiento normativo, proporcionando una visión integral para la mejora continua de la organización."
+  },
+  {
+    "intent_id": "margen_contribucion",
+    "keywords": [
+      "venta",
+      "costo",
+      "calculo",
+      "produccion",
+      "analisis"
+    ],
+    "base_response": "El margen de contribución muestra cuánto aporta cada unidad vendida para cubrir costos fijos y generar utilidad. Su análisis permite evaluar productos, ajustar precios y comprender la relación entre costos variables y rentabilidad dentro del punto de equilibrio."
+  },
+  {
+    "intent_id": "precio_venta",
+    "keywords": [
+      "venta",
+      "calculo",
+      "mercado",
+      "ajuste",
+      "analisis"
+    ],
+    "base_response": "El precio de venta determina los ingresos obtenidos por unidad comercializada. Analizarlo permite equilibrar costos, competencia y valor percibido, asegurando que el punto de equilibrio sea alcanzable y que la empresa mantenga una estrategia sostenible."
+  },
+  {
+    "intent_id": "volumen_produccion",
+    "keywords": [
+      "produccion",
+      "calculo",
+      "ajuste",
+      "control",
+      "medicion"
+    ],
+    "base_response": "El volumen de producción influye directamente en costos variables y en la capacidad de alcanzar el punto de equilibrio. Analizarlo permite planificar recursos, optimizar procesos y asegurar que la empresa produzca lo necesario para cubrir sus costos."
+  },
+  {
+    "intent_id": "utilidad_operativa",
+    "keywords": [
+      "calculo",
+      "ingreso",
+      "costo",
+      "evaluacion",
+      "planeacion"
+    ],
+    "base_response": "La utilidad operativa refleja el beneficio generado antes de impuestos y otros gastos. Comprender su relación con el punto de equilibrio permite evaluar la eficiencia del negocio, ajustar estrategias y proyectar resultados financieros realistas."
+  },
+  {
+    "intent_id": "relacion_costos_volumen",
+    "keywords": [
+      "costo",
+      "produccion",
+      "calculo",
+      "analisis",
+      "evaluacion"
+    ],
+    "base_response": "La relación entre costos y volumen permite entender cómo cambian los gastos según la producción. Analizarla facilita estimar el punto de equilibrio, evaluar escenarios y tomar decisiones que mejoren la rentabilidad y estabilidad financiera."
+  },
+  {
+    "intent_id": "analisis_sensibilidad",
+    "keywords": [
+      "calculo",
+      "evaluacion",
+      "cambio",
+      "medicion",
+      "proyeccion"
+    ],
+    "base_response": "El análisis de sensibilidad estudia cómo variaciones en costos, precios o volumen afectan el punto de equilibrio. Permite anticipar riesgos, evaluar alternativas y fortalecer la toma de decisiones estratégicas en entornos cambiantes."
+  },
+  {
+    "intent_id": "estructura_costos",
+    "keywords": [
+      "costo",
+      "clasificacion",
+      "control",
+      "registro",
+      "analisis"
+    ],
+    "base_response": "La estructura de costos organiza los gastos fijos y variables de una empresa. Comprenderla facilita calcular el punto de equilibrio, identificar áreas de mejora y diseñar estrategias que optimicen la eficiencia y la rentabilidad."
+  },
+  {
+    "intent_id": "proyeccion_ventas",
+    "keywords": [
+      "venta",
+      "calculo",
+      "estimacion",
+      "planeacion",
+      "analisis"
+    ],
+    "base_response": "La proyección de ventas estima cuántas unidades se venderán en un periodo. Es fundamental para calcular el punto de equilibrio, evaluar metas y planificar estrategias que permitan alcanzar niveles de ingreso suficientes para cubrir costos."
+  },
+  {
+    "intent_id": "seguridad_financiera",
+    "keywords": [
+      "calculo",
+      "evaluacion",
+      "control",
+      "planeacion",
+      "medicion"
+    ],
+    "base_response": "La seguridad financiera indica cuánto exceden las ventas reales al punto de equilibrio. Analizarla permite medir el riesgo, evaluar la estabilidad del negocio y tomar decisiones que protejan la continuidad operativa."
+  },
+  {
+    "intent_id": "aplicacion_graficas",
+    "keywords": [
+      "calculo",
+      "representacion",
+      "analisis",
+      "evaluacion",
+      "planeacion"
+    ],
+    "base_response": "Las gráficas del punto de equilibrio permiten visualizar la relación entre costos, ingresos y volumen. Facilitan interpretar resultados, comunicar información y comprender cómo se alcanza la zona de rentabilidad dentro de la empresa."
+  },
+  {
+    "intent_id": "decision_produccion",
+    "keywords": [
+      "produccion",
+      "calculo",
+      "evaluacion",
+      "planeacion",
+      "control"
+    ],
+    "base_response": "Las decisiones de producción se apoyan en el punto de equilibrio para determinar cuántas unidades fabricar. Analizarlo permite optimizar recursos, evitar pérdidas y asegurar que la empresa opere dentro de niveles rentables."
+  },
+  {
+    "intent_id": "rentabilidad_producto",
+    "keywords": [
+      "venta",
+      "costo",
+      "calculo",
+      "analisis",
+      "evaluacion"
+    ],
+    "base_response": "La rentabilidad por producto evalúa cuánto aporta cada artículo al beneficio total. Relacionarla con el punto de equilibrio permite identificar productos estratégicos, ajustar precios y mejorar la eficiencia del portafolio empresarial."
+  },
+  {
+    "intent_id": "vision_estrategica",
+    "keywords": [
+      "vision",
+      "liderazgo",
+      "direccion",
+      "planificar",
+      "objetivo"
+    ],
+    "base_response": "La vision estrategica orienta las decisiones organizacionales hacia un futuro deseado. Permite al liderazgo definir objetivos claros, anticipar desafios y coordinar esfuerzos colectivos. Su correcta formulacion impulsa la coherencia institucional y fortalece la capacidad de adaptacion ante cambios del entorno."
+  },
+  {
+    "intent_id": "toma_decisiones",
+    "keywords": [
+      "decision",
+      "analisis",
+      "evaluacion",
+      "resolver",
+      "priorizar"
+    ],
+    "base_response": "La toma de decisiones implica seleccionar la mejor alternativa disponible para resolver situaciones organizacionales. Requiere analizar informacion relevante, evaluar riesgos y considerar impactos. Un proceso estructurado favorece soluciones efectivas y fortalece la confianza del equipo en el liderazgo."
+  },
+  {
+    "intent_id": "comunicacion_interna",
+    "keywords": [
+      "comunicacion",
+      "mensaje",
+      "dialogo",
+      "informar",
+      "escuchar"
+    ],
+    "base_response": "La comunicacion interna asegura que todos los miembros comprendan objetivos, tareas y cambios. Facilita el dialogo abierto, reduce conflictos y promueve la colaboracion. Un liderazgo que comunica con claridad fortalece la cohesion organizacional y mejora el desempeno colectivo."
+  },
+  {
+    "intent_id": "gestion_cambio",
+    "keywords": [
+      "cambio",
+      "adaptacion",
+      "transformacion",
+      "guiar",
+      "proceso"
+    ],
+    "base_response": "La gestion del cambio ayuda a las organizaciones a adaptarse a nuevas condiciones. Implica planificar transformaciones, comunicar razones y acompañar al personal. Un liderazgo efectivo reduce resistencia, facilita transiciones y asegura que los cambios generen mejoras sostenibles."
+  },
+  {
+    "intent_id": "motivacion_equipo",
+    "keywords": [
+      "motivacion",
+      "equipo",
+      "impulso",
+      "reconocer",
+      "estimular"
+    ],
+    "base_response": "La motivacion del equipo fortalece el compromiso y la productividad. El liderazgo debe reconocer logros, ofrecer retroalimentacion y estimular el desarrollo profesional. Cuando las personas se sienten valoradas, aumenta su disposicion para contribuir activamente al cumplimiento de metas."
+  },
+  {
+    "intent_id": "delegacion_responsabilidades",
+    "keywords": [
+      "delegacion",
+      "responsabilidad",
+      "asignar",
+      "confianza",
+      "tarea"
+    ],
+    "base_response": "La delegacion de responsabilidades permite distribuir tareas segun capacidades individuales. Requiere confianza, claridad y seguimiento. Un liderazgo que delega adecuadamente fomenta autonomia, desarrolla habilidades y optimiza el uso de recursos dentro de la organizacion."
+  },
+  {
+    "intent_id": "gestion_conflictos",
+    "keywords": [
+      "conflicto",
+      "mediacion",
+      "dialogo",
+      "resolver",
+      "acuerdo"
+    ],
+    "base_response": "La gestion de conflictos busca resolver desacuerdos de manera constructiva. El liderazgo debe promover el dialogo, escuchar activamente y facilitar acuerdos. Un enfoque adecuado evita tensiones prolongadas, mejora relaciones laborales y fortalece la convivencia organizacional."
+  },
+  {
+    "intent_id": "cultura_organizacional",
+    "keywords": [
+      "cultura",
+      "valor",
+      "norma",
+      "comportamiento",
+      "identidad"
+    ],
+    "base_response": "La cultura organizacional define valores, normas y comportamientos compartidos. Influye en la forma de trabajar y relacionarse. Un liderazgo consciente de la cultura puede reforzar practicas positivas, corregir desviaciones y consolidar una identidad institucional coherente."
+  },
+  {
+    "intent_id": "liderazgo_transformacional",
+    "keywords": [
+      "liderazgo",
+      "inspiracion",
+      "innovacion",
+      "motivar",
+      "cambio"
+    ],
+    "base_response": "El liderazgo transformacional inspira a las personas a superar expectativas. Promueve innovacion, motiva con proposito y estimula el crecimiento profesional. Este enfoque genera compromiso profundo y facilita cambios significativos dentro de la organizacion."
+  },
+  {
+    "intent_id": "gestion_talento",
+    "keywords": [
+      "talento",
+      "desarrollo",
+      "competencia",
+      "evaluar",
+      "formar"
+    ],
+    "base_response": "La gestion del talento identifica habilidades clave y promueve su desarrollo. Incluye evaluar desempeno, ofrecer formacion y planificar crecimiento. Un liderazgo que impulsa el talento fortalece la capacidad organizacional y asegura continuidad en roles estrategicos."
+  },
+  {
+    "intent_id": "planificacion_estrategica",
+    "keywords": [
+      "planificacion",
+      "estrategia",
+      "objetivo",
+      "analizar",
+      "proyectar"
+    ],
+    "base_response": "La planificacion estrategica define metas a largo plazo y establece acciones para alcanzarlas. Requiere analizar contexto, proyectar escenarios y coordinar recursos. Un liderazgo comprometido garantiza que las estrategias se ejecuten con coherencia y seguimiento adecuado."
+  },
+  {
+    "intent_id": "gestion_riesgos",
+    "keywords": [
+      "riesgo",
+      "prevencion",
+      "analisis",
+      "mitigar",
+      "control"
+    ],
+    "base_response": "La gestion de riesgos identifica amenazas potenciales y establece medidas para mitigarlas. Implica analizar vulnerabilidades, planificar acciones y monitorear resultados. Un liderazgo atento reduce impactos negativos y fortalece la estabilidad organizacional."
+  },
+  {
+    "intent_id": "trabajo_colaborativo",
+    "keywords": [
+      "colaboracion",
+      "equipo",
+      "cooperacion",
+      "aportar",
+      "coordinar"
+    ],
+    "base_response": "El trabajo colaborativo integra esfuerzos de diferentes personas para lograr objetivos comunes. Requiere coordinacion, confianza y comunicacion efectiva. Un liderazgo que promueve colaboracion mejora la eficiencia y genera soluciones mas completas y creativas."
+  },
+  {
+    "intent_id": "evaluacion_desempeno",
+    "keywords": [
+      "evaluacion",
+      "desempeno",
+      "medir",
+      "retroalimentar",
+      "mejorar"
+    ],
+    "base_response": "La evaluacion del desempeno permite medir resultados y orientar mejoras. Incluye retroalimentacion clara, reconocimiento y establecimiento de metas. Un liderazgo que evalua con justicia impulsa el crecimiento profesional y fortalece la calidad del trabajo realizado."
+  },
+  {
+    "intent_id": "gestion_innovacion",
+    "keywords": [
+      "innovacion",
+      "creatividad",
+      "proceso",
+      "generar",
+      "idea"
+    ],
+    "base_response": "La gestion de la innovacion fomenta la creacion de ideas que mejoren procesos y productos. Requiere apertura, experimentacion y apoyo del liderazgo. Cuando la innovacion se integra en la cultura, la organizacion se vuelve mas competitiva y adaptable."
+  },
+  {
+    "intent_id": "valores_organizacionales",
+    "keywords": [
+      "valores",
+      "comportamiento",
+      "decision",
+      "etica",
+      "identidad"
+    ],
+    "base_response": "Los valores organizacionales son principios fundamentales que guian el comportamiento y las decisiones de los miembros de una empresa. Definen la identidad, promueven la etica y crean un marco de referencia para la cultura interna."
+  },
+  {
+    "intent_id": "normas_culturales",
+    "keywords": [
+      "normas",
+      "reglas",
+      "conducta",
+      "expectativas",
+      "grupo"
+    ],
+    "base_response": "Las normas culturales son reglas informales que establecen expectativas de conducta dentro de la organizacion. Regulan las interacciones, refuerzan valores compartidos y facilitan la cohesion del grupo en el entorno laboral."
+  },
+  {
+    "intent_id": "liderazgo_cultural",
+    "keywords": [
+      "liderazgo",
+      "influencia",
+      "ejemplo",
+      "vision",
+      "motivacion"
+    ],
+    "base_response": "El liderazgo cultural implica la capacidad de influir en las creencias y comportamientos del equipo. Los lideres actuan como ejemplo, transmiten la vision y motivan a los empleados a alinearse con los valores organizacionales."
+  },
+  {
+    "intent_id": "identidad_corporativa",
+    "keywords": [
+      "identidad",
+      "personalidad",
+      "imagen",
+      "diferencia",
+      "cultura"
+    ],
+    "base_response": "La identidad corporativa es la personalidad unica de la organizacion, reflejada en su cultura, valores y comportamiento. Diferencia a la empresa de sus competidores y crea una imagen coherente ante los grupos de interes."
+  },
+  {
+    "intent_id": "cambio_cultural",
+    "keywords": [
+      "cambio",
+      "transformacion",
+      "adaptacion",
+      "resistencia",
+      "innovacion"
+    ],
+    "base_response": "El cambio cultural es un proceso de transformacion de creencias y practicas organizacionales. Requiere adaptacion, gestion de la resistencia y fomento de la innovacion para alinear la cultura con nuevas estrategias."
+  },
+  {
+    "intent_id": "aprendizaje_organizacional",
+    "keywords": [
+      "aprendizaje",
+      "conocimiento",
+      "experiencia",
+      "mejora",
+      "adaptacion"
+    ],
+    "base_response": "El aprendizaje organizacional es la capacidad de adquirir, compartir y aplicar conocimiento. Fomenta la mejora continua, la adaptacion al entorno y una cultura que valora la experiencia y la innovacion."
+  },
+  {
+    "intent_id": "etica_empresarial",
+    "keywords": [
+      "etica",
+      "moral",
+      "integralidad",
+      "responsabilidad",
+      "confianza"
+    ],
+    "base_response": "La etica empresarial establece principios morales que guian las acciones de la organizacion. Promueve la integridad, la responsabilidad social y la confianza, pilares de una cultura organizacional solida y respetada."
+  },
+  {
+    "intent_id": "socializacion_laboral",
+    "keywords": [
+      "socializacion",
+      "induccion",
+      "adaptacion",
+      "integracion",
+      "cultura"
+    ],
+    "base_response": "La socializacion laboral es el proceso mediante el cual los nuevos empleados aprenden la cultura organizacional. Incluye induccion, adaptacion a normas y valores, y la integracion plena en el equipo de trabajo."
+  },
+  {
+    "intent_id": "identificacion_riesgo",
+    "keywords": [
+      "identificar",
+      "riesgo",
+      "evaluar",
+      "amenaza",
+      "vulnerabilidad"
+    ],
+    "base_response": "La identificacion de riesgos reconoce eventos potenciales que afectan objetivos empresariales. Analiza amenazas y vulnerabilidades documentando cada riesgo para su evaluacion y tratamiento posterior. Este proceso fundamental permite anticipar problemas y establecer medidas preventivas adecuadas."
+  },
+  {
+    "intent_id": "evaluacion_riesgo",
+    "keywords": [
+      "analizar",
+      "riesgo",
+      "probabilidad",
+      "impacto",
+      "priorizar"
+    ],
+    "base_response": "La evaluacion de riesgos cuantifica probabilidad e impacto de cada riesgo identificado. Permite priorizar aquellos que requieren atencion inmediata, estableciendo criterios objetivos para asignar recursos y definir estrategias de mitigacion adecuadas y eficaces."
+  },
+  {
+    "intent_id": "mitigacion_riesgo",
+    "keywords": [
+      "reducir",
+      "riesgo",
+      "control",
+      "implementar",
+      "medida"
+    ],
+    "base_response": "La mitigacion de riesgos aplica medidas para reducir probabilidad o impacto. Implementa controles preventivos y correctivos, transfiere o evita el riesgo, protegiendo activos y asegurando la continuidad del negocio frente a eventos adversos."
+  },
+  {
+    "intent_id": "monitoreo_riesgo",
+    "keywords": [
+      "supervisar",
+      "riesgo",
+      "control",
+      "evaluar",
+      "seguimiento"
+    ],
+    "base_response": "El monitoreo de riesgos es un proceso continuo que revisa la efectividad de las estrategias implementadas. Realiza seguimiento a indicadores clave, detecta cambios en el entorno y ajusta acciones para mantener el riesgo dentro de niveles aceptables."
+  },
+  {
+    "intent_id": "apetito_riesgo",
+    "keywords": [
+      "apetito",
+      "riesgo",
+      "tolerancia",
+      "estrategia",
+      "aceptar"
+    ],
+    "base_response": "El apetito de riesgo define el nivel de riesgo que la organizacion acepta al buscar sus objetivos. Guia decisiones estrategicas, alineando la exposicion con la capacidad de asumir perdidas potenciales y aprovechar oportunidades."
+  },
+  {
+    "intent_id": "cultura_riesgo",
+    "keywords": [
+      "cultura",
+      "riesgo",
+      "conciencia",
+      "comunicacion",
+      "gestion"
+    ],
+    "base_response": "La cultura de riesgo es el conjunto de valores, actitudes y comportamientos hacia la gestion de riesgos. Promueve conciencia en todos los niveles, fomentando comunicacion abierta y responsabilidad compartida por identificar y manejar riesgos."
+  },
+  {
+    "intent_id": "cumplimiento_normativo",
+    "keywords": [
+      "cumplimiento",
+      "normativa",
+      "riesgo",
+      "legal",
+      "regulacion"
+    ],
+    "base_response": "El cumplimiento normativo asegura que la organizacion opera conforme a leyes, regulaciones y estandares. Gestiona riesgos legales identificando areas de exposicion y estableciendo controles para evitar sanciones y danos reputacionales."
+  },
+  {
+    "intent_id": "continuidad_negocio",
+    "keywords": [
+      "continuidad",
+      "negocio",
+      "riesgo",
+      "recuperacion",
+      "interrupcion"
+    ],
+    "base_response": "La continuidad del negocio prepara planes para mantener operaciones esenciales durante y despues de una interrupcion. Identifica amenazas y desarrolla estrategias de recuperacion para minimizar el impacto en la organizacion."
+  },
+  {
+    "intent_id": "gestion_crisis",
+    "keywords": [
+      "crisis",
+      "gestion",
+      "riesgo",
+      "respuesta",
+      "emergencia"
+    ],
+    "base_response": "La gestion de crisis responde eficazmente a eventos adversos de gran magnitud. Activa protocolos de emergencia, comunica con partes interesadas y toma decisiones rapidas para contener el dano y restaurar la normalidad."
+  },
+  {
+    "intent_id": "matriz_riesgo",
+    "keywords": [
+      "matriz",
+      "riesgo",
+      "probabilidad",
+      "impacto",
+      "visualizar"
+    ],
+    "base_response": "La matriz de riesgos cruza probabilidad e impacto para clasificar riesgos visualmente. Facilita la priorizacion mostrando graficamente cuales requieren atencion urgente y cuales son aceptables, apoyando la toma de decisiones."
+  },
+  {
+    "intent_id": "registro_riesgo",
+    "keywords": [
+      "registro",
+      "riesgo",
+      "documentar",
+      "control",
+      "seguimiento"
+    ],
+    "base_response": "El registro de riesgos es un documento vivo que lista todos los riesgos identificados, su evaluacion, controles y planes de accion. Sirve como base para monitoreo y comunicacion, asegurando que ningun riesgo quede sin gestionar."
+  },
+  {
+    "intent_id": "tratamiento_riesgo",
+    "keywords": [
+      "tratamiento",
+      "riesgo",
+      "respuesta",
+      "evitar",
+      "transferir"
+    ],
+    "base_response": "El tratamiento de riesgos define acciones para abordar cada riesgo, incluyendo evitarlo, reducirlo, transferirlo o aceptarlo. Selecciona la estrategia mas adecuada segun costo, beneficio y alineacion con el apetito de riesgo."
+  },
+  {
+    "intent_id": "reporte_riesgo",
+    "keywords": [
+      "reporte",
+      "riesgo",
+      "informar",
+      "comunicar",
+      "indicador"
+    ],
+    "base_response": "El reporte de riesgos comunica informacion clave sobre exposicion y gestion a los stakeholders. Incluye indicadores de desempeno, tendencias y alertas tempranas, facilitando la toma de decisiones informadas a nivel directivo."
+  },
+  {
+    "intent_id": "costo_directo",
+    "keywords": [
+      "costo",
+      "directo",
+      "material",
+      "mano",
+      "obra",
+      "producto"
+    ],
+    "base_response": "Los costos directos se asocian claramente con un producto o servicio, como materias primas y mano de obra directa. Su identificacion precisa es clave para calcular el costo unitario y fijar precios."
+  },
+  {
+    "intent_id": "costo_produccion",
+    "keywords": [
+      "costo",
+      "produccion",
+      "material",
+      "mano",
+      "obra",
+      "gasto"
+    ],
+    "base_response": "El costo de produccion incluye materiales directos, mano de obra directa y costos indirectos de fabricacion. Su calculo exacto es fundamental para valorar inventarios y determinar la rentabilidad del producto."
+  },
+  {
+    "intent_id": "valoracion_inventario",
+    "keywords": [
+      "valoracion",
+      "inventario",
+      "costo",
+      "mercancia",
+      "metodo"
+    ],
+    "base_response": "La valoracion de inventarios asigna un valor a las existencias usando metodos como FIFO o promedio ponderado. Afecta el costo de ventas y el resultado neto, siendo esencial para estados financieros."
+  },
+  {
+    "intent_id": "depreciacion",
+    "keywords": [
+      "depreciacion",
+      "activo",
+      "desgaste",
+      "vida",
+      "util",
+      "costo"
+    ],
+    "base_response": "La depreciacion distribuye el costo de un activo fijo a lo largo de su vida util, reflejando su desgaste. Es un gasto no monetario que reduce la utilidad contable pero no afecta el flujo de efectivo."
+  },
+  {
+    "intent_id": "flujo_caja",
+    "keywords": [
+      "flujo",
+      "caja",
+      "ingreso",
+      "efectivo",
+      "saldo",
+      "liquidez"
+    ],
+    "base_response": "El flujo de caja registra entradas y salidas de efectivo en un periodo. Mide la liquidez real del negocio, esencial para pagar obligaciones, invertir y mantener la solvencia a corto plazo."
+  },
+  {
+    "intent_id": "estado_resultados",
+    "keywords": [
+      "estado",
+      "resultado",
+      "ingreso",
+      "gasto",
+      "utilidad",
+      "perdida"
+    ],
+    "base_response": "El estado de resultados resume ingresos, costos y gastos de un periodo, mostrando la utilidad o perdida neta. Es basico para evaluar el desempeno operativo y la rentabilidad del negocio."
+  },
+  {
+    "intent_id": "costo_estandar",
+    "keywords": [
+      "costo",
+      "estandar",
+      "presupuestado",
+      "comparar",
+      "eficiencia"
+    ],
+    "base_response": "El costo estandar es un costo predeterminado que sirve como referencia para comparar con el real. Permite medir la eficiencia productiva y detectar desviaciones para mejorar la gestion de costos."
+  },
+  {
+    "intent_id": "rentabilidad",
+    "keywords": [
+      "rentabilidad",
+      "ganancia",
+      "ingreso",
+      "costo",
+      "inversion",
+      "retorno"
+    ],
+    "base_response": "La rentabilidad mide la capacidad de generar ganancias en relacion con ingresos, costos o inversion. Indicadores como margen neto o ROE ayudan a evaluar si el negocio es financieramente saludable."
+  },
+  {
+    "intent_id": "propuesta_valor",
+    "keywords": [
+      "valor",
+      "cliente",
+      "oferta",
+      "beneficio",
+      "diferenciar"
+    ],
+    "base_response": "La propuesta de valor define los beneficios unicos que una empresa ofrece a sus clientes. Debe resolver problemas especificos y diferenciar la marca frente a la competencia en el mercado."
+  },
+  {
+    "intent_id": "responsabilidad_social",
+    "keywords": [
+      "impacto",
+      "comunidad",
+      "ambiente",
+      "accion",
+      "voluntad"
+    ],
+    "base_response": "La responsabilidad social empresarial implica acciones voluntarias que benefician a la comunidad y al ambiente. Va mas alla de cumplir la ley, integrando valores eticos en la gestion diaria de la empresa."
+  },
+  {
+    "intent_id": "codigo_conducta",
+    "keywords": [
+      "norma",
+      "regla",
+      "empleado",
+      "comportamiento",
+      "directriz"
+    ],
+    "base_response": "El codigo de conducta es un documento que establece normas eticas para los empleados. Define comportamientos aceptables y prohibidos, promoviendo la integridad y la transparencia en todas las operaciones empresariales."
+  },
+  {
+    "intent_id": "gobierno_corporativo",
+    "keywords": [
+      "directivo",
+      "control",
+      "supervision",
+      "estructura",
+      "rendicion"
+    ],
+    "base_response": "El gobierno corporativo es la estructura de supervision de una empresa. Define roles de directivos y accionistas, asegurando rendicion de cuentas y decisiones eticas que protejan los intereses de todos."
+  },
+  {
+    "intent_id": "fraude",
+    "keywords": [
+      "enganio",
+      "beneficio",
+      "ilegal",
+      "dano",
+      "tercero"
+    ],
+    "base_response": "El fraude empresarial es un enganio intencional para obtener beneficio ilegal. Incluye falsificacion de estados financieros o estafas, causando dano a inversores, empleados y la confianza publica en la empresa."
+  },
+  {
+    "intent_id": "cadena_suministro",
+    "keywords": [
+      "proveedor",
+      "origen",
+      "material",
+      "etica",
+      "control"
+    ],
+    "base_response": "La cadena de suministro etica exige controlar que proveedores cumplan normas laborales y ambientales. Implica verificar el origen de materiales y evitar practicas como trabajo infantil o contaminacion en la produccion."
+  },
+  {
+    "intent_id": "costo_fijo",
+    "keywords": [
+      "costo",
+      "empresa",
+      "produccion",
+      "control",
+      "calculo"
+    ],
+    "base_response": "Un costo fijo permanece constante sin importar el nivel de producción. Incluye gastos como alquiler, salarios administrativos y seguros. Comprenderlo permite planificar mejor, controlar recursos y evaluar la rentabilidad, ya que no cambia aunque la actividad aumente o disminuya."
+  },
+  {
+    "intent_id": "costo_variable",
+    "keywords": [
+      "costo",
+      "produccion",
+      "material",
+      "consumo",
+      "fabricacion"
+    ],
+    "base_response": "Un costo variable cambia según el volumen producido. Aumenta cuando se fabrican más unidades y disminuye cuando la producción baja. Incluye materiales directos y energía. Su análisis permite ajustar procesos, optimizar recursos y mejorar la eficiencia operativa."
+  },
+  {
+    "intent_id": "mezcla_costos",
+    "keywords": [
+      "costo",
+      "empresa",
+      "produccion",
+      "analisis",
+      "gestion"
+    ],
+    "base_response": "La mezcla de costos combina elementos fijos y variables dentro de una operación. Comprender esta estructura ayuda a identificar cómo se comportan los gastos ante cambios productivos, facilitando decisiones estratégicas y evaluaciones de rentabilidad en diferentes escenarios."
+  },
+  {
+    "intent_id": "costos_indirectos",
+    "keywords": [
+      "costo",
+      "empresa",
+      "servicio",
+      "proceso",
+      "administracion"
+    ],
+    "base_response": "Los costos indirectos no se vinculan directamente con un producto, pero son necesarios para operar. Incluyen servicios, mantenimiento y administración. Analizarlos ayuda a distribuir gastos correctamente, mejorar la gestión y comprender su impacto en la rentabilidad."
+  },
+  {
+    "intent_id": "economia_escala",
+    "keywords": [
+      "produccion",
+      "empresa",
+      "costo",
+      "eficiencia",
+      "fabricacion"
+    ],
+    "base_response": "La economía de escala ocurre cuando aumentar la producción reduce el costo por unidad. Esto sucede porque los costos fijos se reparten entre más productos. Comprenderla permite mejorar estrategias, optimizar recursos y fortalecer la competitividad empresarial."
+  },
+  {
+    "intent_id": "costeo_marginal",
+    "keywords": [
+      "costo",
+      "produccion",
+      "calculo",
+      "analisis",
+      "empresa"
+    ],
+    "base_response": "El costeo marginal considera únicamente los costos variables para evaluar decisiones. Permite analizar cómo cambios en producción afectan la utilidad. Es útil para fijar precios, estudiar alternativas y comprender el impacto de cada unidad adicional fabricada."
+  },
+  {
+    "intent_id": "costeo_total",
+    "keywords": [
+      "costo",
+      "empresa",
+      "produccion",
+      "calculo",
+      "evaluacion"
+    ],
+    "base_response": "El costeo total incluye costos fijos y variables para determinar el costo completo de un producto. Facilita establecer precios adecuados, evaluar rentabilidad y comprender cómo cada componente influye en la operación general y en la estrategia financiera."
+  },
+  {
+    "intent_id": "presupuesto_costos",
+    "keywords": [
+      "costo",
+      "empresa",
+      "planificacion",
+      "control",
+      "calculo"
+    ],
+    "base_response": "El presupuesto de costos organiza y proyecta gastos fijos y variables para un periodo. Permite controlar recursos, anticipar necesidades y mejorar decisiones. Su elaboración ayuda a mantener estabilidad financiera y evaluar el desempeño operativo de la empresa."
+  },
+  {
+    "intent_id": "costos_operativos",
+    "keywords": [
+      "costo",
+      "empresa",
+      "servicio",
+      "proceso",
+      "control"
+    ],
+    "base_response": "Los costos operativos incluyen gastos necesarios para mantener funciones diarias. Combinan elementos fijos y variables. Analizarlos permite mejorar eficiencia, controlar recursos y comprender cómo influyen en la rentabilidad y sostenibilidad de la organización."
+  },
+  {
+    "intent_id": "presupuesto_personal",
+    "keywords": [
+      "presupuesto",
+      "ingreso",
+      "gasto",
+      "control",
+      "ahorro"
+    ],
+    "base_response": "El presupuesto personal permite organizar ingresos y gastos para mantener equilibrio financiero. Facilita identificar prioridades, reducir compras innecesarias y planificar metas económicas. Su uso constante ayuda a mejorar decisiones y fortalecer la estabilidad monetaria a corto y largo plazo."
+  },
+  {
+    "intent_id": "fondo_emergencia",
+    "keywords": [
+      "ahorro",
+      "reserva",
+      "proteccion",
+      "imprevisto",
+      "seguridad"
+    ],
+    "base_response": "Un fondo de emergencia es una reserva destinada a cubrir gastos inesperados sin endeudarse. Proporciona seguridad financiera, evita presiones económicas y permite enfrentar situaciones complicadas con mayor tranquilidad. Su construccion requiere disciplina y constancia en el ahorro mensual."
+  },
+  {
+    "intent_id": "deuda_buena",
+    "keywords": [
+      "credito",
+      "inversion",
+      "pago",
+      "beneficio",
+      "financiar"
+    ],
+    "base_response": "La deuda buena se utiliza para financiar inversiones que generan valor futuro, como estudios o negocios. Ayuda a mejorar oportunidades y aumentar ingresos. Requiere administracion responsable, evaluacion de riesgos y cumplimiento puntual de pagos para evitar problemas financieros posteriores."
+  },
+  {
+    "intent_id": "deuda_mala",
+    "keywords": [
+      "consumo",
+      "interes",
+      "pago",
+      "gasto",
+      "endeudar"
+    ],
+    "base_response": "La deuda mala surge al financiar compras de consumo que no generan valor. Suele tener intereses altos y dificulta el control financiero. Evitarla implica planificar gastos, comparar opciones y priorizar necesidades reales para mantener estabilidad economica y prevenir endeudamiento excesivo."
+  },
+  {
+    "intent_id": "ahorro_automatico",
+    "keywords": [
+      "ahorro",
+      "transferencia",
+      "ingreso",
+      "programar",
+      "guardar"
+    ],
+    "base_response": "El ahorro automatico consiste en programar transferencias regulares hacia una cuenta destinada a metas financieras. Facilita disciplina, evita tentaciones de gasto y permite acumular recursos de manera constante. Es una estrategia efectiva para construir estabilidad economica sin esfuerzo diario."
+  },
+  {
+    "intent_id": "inversion_basica",
+    "keywords": [
+      "inversion",
+      "riesgo",
+      "rendimiento",
+      "capital",
+      "crecer"
+    ],
+    "base_response": "La inversion basica implica destinar capital a instrumentos que generen rendimiento con el tiempo. Requiere comprender riesgos, plazos y objetivos personales. Ayuda a incrementar patrimonio, diversificar recursos y construir seguridad financiera mediante decisiones informadas y responsables."
+  },
+  {
+    "intent_id": "interes_compuesto",
+    "keywords": [
+      "interes",
+      "capital",
+      "crecer",
+      "reinvertir",
+      "ganancia"
+    ],
+    "base_response": "El interes compuesto permite que las ganancias generadas se reinviertan, aumentando el capital de forma acelerada. Es una herramienta poderosa para construir riqueza a largo plazo. Funciona mejor con constancia, tiempo y decisiones financieras prudentes que favorezcan el crecimiento sostenido."
+  },
+  {
+    "intent_id": "metas_financieras",
+    "keywords": [
+      "objetivo",
+      "ahorro",
+      "planificar",
+      "priorizar",
+      "lograr"
+    ],
+    "base_response": "Las metas financieras orientan decisiones economicas hacia objetivos concretos. Facilitan organizar recursos, priorizar gastos y mantener motivacion. Deben ser claras, alcanzables y medibles para asegurar progreso constante. Su cumplimiento fortalece la estabilidad y el crecimiento personal."
+  },
+  {
+    "intent_id": "historial_credito",
+    "keywords": [
+      "credito",
+      "pago",
+      "registro",
+      "evaluar",
+      "prestamo"
+    ],
+    "base_response": "El historial de credito refleja el comportamiento de pago de una persona. Influye en la aprobacion de prestamos y en las tasas ofrecidas. Mantenerlo saludable requiere cumplir obligaciones puntualmente, evitar endeudamiento excesivo y revisar reportes periodicamente para corregir errores."
+  },
+  {
+    "intent_id": "tarjeta_credito",
+    "keywords": [
+      "credito",
+      "pago",
+      "compra",
+      "interes",
+      "usar"
+    ],
+    "base_response": "La tarjeta de credito permite realizar compras financiadas, pero exige responsabilidad. Su mal uso genera intereses altos y deudas complicadas. Administrarla bien implica pagar a tiempo, evitar gastos innecesarios y comprender condiciones para mantener estabilidad financiera y buen historial."
+  },
+  {
+    "intent_id": "plan_jubilacion",
+    "keywords": [
+      "ahorro",
+      "retiro",
+      "planificar",
+      "inversion",
+      "futuro"
+    ],
+    "base_response": "El plan de jubilacion ayuda a asegurar recursos para el futuro. Requiere ahorrar e invertir de manera constante durante la vida laboral. Permite mantener calidad de vida al retirarse y reduce preocupaciones economicas. Su exito depende de disciplina y decisiones financieras informadas."
+  },
+  {
+    "intent_id": "diversificacion",
+    "keywords": [
+      "inversion",
+      "riesgo",
+      "repartir",
+      "capital",
+      "proteger"
+    ],
+    "base_response": "La diversificacion consiste en repartir inversiones entre distintos activos para reducir riesgos. Evita depender de un solo instrumento y mejora estabilidad financiera. Es una estrategia clave para proteger capital y aumentar posibilidades de obtener rendimientos equilibrados a largo plazo."
+  },
+  {
+    "intent_id": "inflacion",
+    "keywords": [
+      "precio",
+      "mercado",
+      "valor",
+      "aumentar",
+      "costo"
+    ],
+    "base_response": "La inflacion es el aumento sostenido de precios en la economia. Reduce el poder adquisitivo y afecta decisiones financieras. Comprenderla permite ajustar presupuestos, elegir inversiones adecuadas y proteger recursos. Es fundamental considerar su impacto en planes economicos personales."
+  },
+  {
+    "intent_id": "balance_personal",
+    "keywords": [
+      "activo",
+      "pasivo",
+      "registro",
+      "evaluar",
+      "organizar"
+    ],
+    "base_response": "El balance personal muestra activos y pasivos de una persona. Permite evaluar situacion financiera, identificar fortalezas y detectar problemas. Ayuda a organizar recursos, planificar estrategias y tomar decisiones informadas para mejorar estabilidad economica y construir patrimonio."
+  },
+  {
+    "intent_id": "definicion_foda",
+    "keywords": [
+      "foda",
+      "analisis",
+      "herramienta",
+      "estrategia",
+      "diagnostico"
+    ],
+    "base_response": "El analisis FODA es una herramienta estrategica que permite evaluar fortalezas, debilidades, oportunidades y amenazas de una organizacion. Ayuda a diagnosticar la situacion actual y planificar acciones futuras de manera efectiva."
+  },
+  {
+    "intent_id": "debilidades",
+    "keywords": [
+      "debilidad",
+      "limitacion",
+      "carencia",
+      "interna",
+      "mejorar",
+      "problema"
+    ],
+    "base_response": "Las debilidades son factores internos negativos que limitan el desempeno organizacional. Pueden ser carencias de recursos, procesos ineficientes o falta de habilidades que requieren atencion para evitar riesgos y mejorar la competitividad."
+  },
+  {
+    "intent_id": "matriz_foda",
+    "keywords": [
+      "matriz",
+      "foda",
+      "cuadro",
+      "analisis",
+      "factores",
+      "cruzar"
+    ],
+    "base_response": "La matriz FODA es una representacion visual que cruza factores internos y externos. Permite generar estrategias combinando fortalezas con oportunidades, o debilidades con amenazas, facilitando la toma de decisiones informadas y planificacion."
+  },
+  {
+    "intent_id": "analisis_interno",
+    "keywords": [
+      "interno",
+      "analisis",
+      "fortaleza",
+      "debilidad",
+      "recurso",
+      "evaluacion"
+    ],
+    "base_response": "El analisis interno examina factores controlables por la organizacion, como recursos, capacidades y procesos. Identifica fortalezas para potenciar y debilidades para corregir, brindando una base solida para la planificacion estrategica."
+  },
+  {
+    "intent_id": "analisis_externo",
+    "keywords": [
+      "externo",
+      "analisis",
+      "oportunidad",
+      "amenaza",
+      "entorno",
+      "mercado"
+    ],
+    "base_response": "El analisis externo estudia factores del entorno que la organizacion no controla, como economia, tecnologia y competencia. Detecta oportunidades para aprovechar y amenazas para mitigar, guiando la adaptacion estrategica al contexto."
+  },
+  {
+    "intent_id": "estrategia",
+    "keywords": [
+      "estrategia",
+      "plan",
+      "accion",
+      "objetivo",
+      "foda",
+      "decision"
+    ],
+    "base_response": "La estrategia es un conjunto de acciones planificadas para alcanzar objetivos organizacionales. El analisis FODA proporciona informacion clave para disenar estrategias efectivas que aprovechen fortalezas, minimicen debilidades y respondan al entorno."
+  },
+  {
+    "intent_id": "planificacion",
+    "keywords": [
+      "planificacion",
+      "proceso",
+      "futuro",
+      "meta",
+      "recurso",
+      "organizacion"
+    ],
+    "base_response": "La planificacion estrategica define el rumbo de una organizacion a largo plazo. El analisis FODA es fundamental en este proceso, ya que evalua la situacion actual y ayuda a establecer metas realistas, asignar recursos y priorizar acciones."
+  },
+  {
+    "intent_id": "ventaja_competitiva",
+    "keywords": [
+      "ventaja",
+      "competitivo",
+      "diferencia",
+      "valor",
+      "fortaleza",
+      "mercado"
+    ],
+    "base_response": "La ventaja competitiva es un atributo unico que diferencia a una organizacion de sus rivales. El analisis FODA identifica fortalezas clave que pueden convertirse en ventajas sostenibles, permitiendo ofrecer mayor valor a clientes y superar a la competencia."
+  },
+  {
+    "intent_id": "diagnostico_organizacional",
+    "keywords": [
+      "diagnostico",
+      "organizacion",
+      "evaluacion",
+      "foda",
+      "estado",
+      "situacion"
+    ],
+    "base_response": "El diagnostico organizacional mediante FODA evalua el estado actual de una empresa. Combina factores internos y externos para obtener una vision clara de su posicion, detectar problemas, oportunidades y orientar esfuerzos hacia la mejora continua."
+  },
+  {
+    "intent_id": "factores_clave",
+    "keywords": [
+      "factor",
+      "clave",
+      "exito",
+      "foda",
+      "critico",
+      "desempeno"
+    ],
+    "base_response": "Los factores clave de exito son elementos esenciales que determinan el rendimiento organizacional. El analisis FODA ayuda a identificarlos, tanto internos como externos, para enfocar recursos en areas que realmente impulsan el logro de objetivos estrategicos."
+  },
+  {
+    "intent_id": "objetivos_estrategicos",
+    "keywords": [
+      "objetivo",
+      "estrategico",
+      "meta",
+      "foda",
+      "plan",
+      "logro"
+    ],
+    "base_response": "Los objetivos estrategicos son metas a largo plazo que guian las acciones de la organizacion. El analisis FODA proporciona informacion vital para definirlos de manera realista, alineados con fortalezas y oportunidades, y considerando debilidades y amenazas."
+  },
+  {
+    "intent_id": "modelo_negocio",
+    "keywords": [
+      "negocio",
+      "marca",
+      "venta",
+      "crecer",
+      "servicio"
+    ],
+    "base_response": "El modelo de franquicia permite replicar una marca mediante acuerdos formales. El franquiciado opera un negocio siguiendo lineamientos establecidos, mientras el franquiciador ofrece soporte continuo. Esta estructura facilita la expansion ordenada y reduce riesgos al aprovechar procesos probados y reconocimiento comercial."
+  },
+  {
+    "intent_id": "canon_entrada",
+    "keywords": [
+      "pago",
+      "acuerdo",
+      "marca",
+      "ingreso",
+      "contrato"
+    ],
+    "base_response": "El canon de entrada es un pago inicial que realiza el franquiciado para acceder a la marca y al sistema operativo. Este monto cubre capacitaciones, manuales y asistencia inicial. Su valor depende del prestigio comercial, la complejidad del negocio y el mercado objetivo."
+  },
+  {
+    "intent_id": "regalias_periodicas",
+    "keywords": [
+      "pago",
+      "venta",
+      "control",
+      "ingreso",
+      "operar"
+    ],
+    "base_response": "Las regalías son pagos continuos que el franquiciado entrega al franquiciador por el uso de la marca y el soporte recibido. Generalmente se calculan como porcentaje de ventas. Garantizan recursos para mantener estandares, mejorar procesos y sostener la estructura administrativa central."
+  },
+  {
+    "intent_id": "manual_operativo",
+    "keywords": [
+      "proceso",
+      "norma",
+      "control",
+      "servicio",
+      "gestionar"
+    ],
+    "base_response": "El manual operativo reúne procedimientos esenciales para gestionar la franquicia. Incluye normas de calidad, protocolos de servicio y pautas administrativas. Su objetivo es asegurar uniformidad en todas las unidades, evitando variaciones que afecten la experiencia del cliente y la reputacion comercial."
+  },
+  {
+    "intent_id": "territorio_exclusivo",
+    "keywords": [
+      "zona",
+      "venta",
+      "cliente",
+      "control",
+      "mercado"
+    ],
+    "base_response": "El territorio exclusivo es un area definida donde el franquiciado puede operar sin competencia directa de la misma marca. Esta proteccion favorece la estabilidad comercial y permite planificar estrategias locales. Su dimension depende del tipo de negocio y la densidad poblacional."
+  },
+  {
+    "intent_id": "soporte_frquiciador",
+    "keywords": [
+      "asistencia",
+      "proceso",
+      "formacion",
+      "control",
+      "gestionar"
+    ],
+    "base_response": "El soporte del franquiciador incluye capacitacion, asesoramiento y seguimiento continuo. Este acompañamiento garantiza que el franquiciado aplique correctamente los procesos establecidos. Su calidad influye en la eficiencia operativa, la satisfaccion del cliente y la permanencia del negocio."
+  },
+  {
+    "intent_id": "imagen_corporativa",
+    "keywords": [
+      "marca",
+      "diseno",
+      "cliente",
+      "servicio",
+      "venta"
+    ],
+    "base_response": "La imagen corporativa define elementos visuales y comunicativos que identifican la franquicia. Incluye logotipos, colores y estilos de atencion. Mantener coherencia fortalece el reconocimiento del cliente y asegura que todas las unidades transmitan los mismos valores comerciales."
+  },
+  {
+    "intent_id": "contrato_franquicia",
+    "keywords": [
+      "acuerdo",
+      "norma",
+      "control",
+      "marca",
+      "operar"
+    ],
+    "base_response": "El contrato de franquicia establece derechos y obligaciones entre franquiciador y franquiciado. Regula pagos, uso de marca, soporte y condiciones de operacion. Su claridad evita conflictos y garantiza que ambas partes comprendan los limites y responsabilidades del modelo comercial."
+  },
+  {
+    "intent_id": "seleccion_franquiciado",
+    "keywords": [
+      "evaluar",
+      "perfil",
+      "experiencia",
+      "gestionar",
+      "negocio"
+    ],
+    "base_response": "La seleccion del franquiciado implica evaluar capacidades administrativas, recursos financieros y compromiso con la marca. Este proceso busca asegurar que la persona pueda gestionar adecuadamente el negocio. Una eleccion correcta reduce riesgos y fortalece la expansion comercial."
+  },
+  {
+    "intent_id": "capacitacion_inicial",
+    "keywords": [
+      "formacion",
+      "proceso",
+      "servicio",
+      "venta",
+      "gestionar"
+    ],
+    "base_response": "La capacitacion inicial prepara al franquiciado para operar el negocio siguiendo estandares definidos. Incluye entrenamiento en procesos, servicio al cliente y administracion. Su calidad influye directamente en el rendimiento inicial y en la correcta aplicacion del modelo comercial."
+  },
+  {
+    "intent_id": "control_calidad",
+    "keywords": [
+      "control",
+      "proceso",
+      "servicio",
+      "cliente",
+      "evaluar"
+    ],
+    "base_response": "El control de calidad garantiza que cada unidad cumpla los estandares establecidos por la marca. Se realizan evaluaciones periodicas para verificar procesos y servicio. Este seguimiento mantiene la confianza del cliente y protege la reputacion comercial en todos los puntos de venta."
+  },
+  {
+    "intent_id": "marketing_conjunto",
+    "keywords": [
+      "publicidad",
+      "marca",
+      "cliente",
+      "venta",
+      "promocion"
+    ],
+    "base_response": "El marketing conjunto coordina acciones promocionales entre franquiciador y franquiciados. Busca fortalecer la marca y atraer clientes mediante campañas unificadas. Esta estrategia optimiza recursos, mejora la visibilidad comercial y asegura coherencia en los mensajes publicitarios."
+  },
+  {
+    "intent_id": "expansion_red",
+    "keywords": [
+      "crecer",
+      "mercado",
+      "negocio",
+      "venta",
+      "cliente"
+    ],
+    "base_response": "La expansion de la red consiste en abrir nuevas unidades para aumentar presencia comercial. Este crecimiento requiere analisis de mercado, seleccion adecuada de franquiciados y soporte continuo. Una expansion ordenada fortalece la marca y mejora la cobertura hacia distintos segmentos."
+  },
+  {
+    "intent_id": "inversion_inicial",
+    "keywords": [
+      "pago",
+      "negocio",
+      "equipo",
+      "instalar",
+      "servicio"
+    ],
+    "base_response": "La inversion inicial comprende gastos necesarios para instalar y equipar la franquicia. Incluye mobiliario, tecnologia y adecuaciones del local. Su monto depende del tipo de negocio y del tamaño del establecimiento. Es fundamental calcularla correctamente para asegurar viabilidad financiera."
+  },
+  {
+    "intent_id": "rentabilidad_franquicia",
+    "keywords": [
+      "ingreso",
+      "venta",
+      "coste",
+      "gestionar",
+      "negocio"
+    ],
+    "base_response": "La rentabilidad de una franquicia se evalua comparando ingresos y costes operativos. Factores como ubicacion, gestion y reconocimiento de marca influyen en los resultados. Analizar estos elementos permite determinar si el negocio genera beneficios sostenibles a largo plazo."
+  },
+  {
+    "intent_id": "definicion_metas",
+    "keywords": [
+      "objetivo",
+      "plan",
+      "accion",
+      "logro",
+      "direccion"
+    ],
+    "base_response": "Las metas corporativas representan objetivos claros que orientan las acciones de una organización. Permiten establecer prioridades, coordinar esfuerzos y evaluar avances. Su definicion adecuada facilita decisiones coherentes, impulsa el crecimiento y fortalece la alineacion entre equipos y estrategias institucionales."
+  },
+  {
+    "intent_id": "analisis_contexto",
+    "keywords": [
+      "analisis",
+      "entorno",
+      "evaluacion",
+      "competencia",
+      "adaptacion"
+    ],
+    "base_response": "El analisis del contexto permite comprender factores internos y externos que influyen en la empresa. Facilita identificar oportunidades y riesgos, ajustar estrategias y definir metas realistas. Esta evaluacion constante mejora la capacidad de respuesta y fortalece la toma de decisiones corporativas."
+  },
+  {
+    "intent_id": "alineacion_equipo",
+    "keywords": [
+      "equipo",
+      "coordinacion",
+      "comunicacion",
+      "colaboracion",
+      "direccion"
+    ],
+    "base_response": "La alineacion del equipo garantiza que todos comprendan y compartan las metas corporativas. Favorece la colaboracion, mejora la eficiencia y reduce conflictos. Cuando los miembros trabajan con un proposito comun, la organizacion avanza de manera coherente hacia sus objetivos estrategicos definidos."
+  },
+  {
+    "intent_id": "indicadores_desempeno",
+    "keywords": [
+      "indicador",
+      "medicion",
+      "avance",
+      "resultado",
+      "evaluacion"
+    ],
+    "base_response": "Los indicadores de desempeno permiten medir el progreso hacia las metas corporativas. Facilitan evaluar resultados, identificar desviaciones y ajustar estrategias. Su uso adecuado mejora la transparencia, fortalece la gestion y asegura que los esfuerzos se orienten al logro de objetivos definidos."
+  },
+  {
+    "intent_id": "priorizacion_objetivos",
+    "keywords": [
+      "prioridad",
+      "objetivo",
+      "orden",
+      "seleccion",
+      "direccion"
+    ],
+    "base_response": "La priorizacion de objetivos ayuda a determinar cuales metas requieren atencion inmediata. Permite asignar recursos de manera eficiente, evitar dispersion y concentrar esfuerzos en acciones clave. Esta practica fortalece la gestion estrategica y mejora el cumplimiento de resultados corporativos."
+  },
+  {
+    "intent_id": "seguimiento_constante",
+    "keywords": [
+      "seguimiento",
+      "control",
+      "revision",
+      "accion",
+      "evaluacion"
+    ],
+    "base_response": "El seguimiento constante garantiza que las metas corporativas se mantengan en curso. Permite detectar problemas, corregir desviaciones y reforzar acciones efectivas. Esta supervision continua mejora la gestion, impulsa la responsabilidad y asegura avances sostenidos hacia los objetivos definidos."
+  },
+  {
+    "intent_id": "comunicacion_clara",
+    "keywords": [
+      "comunicacion",
+      "mensaje",
+      "transmision",
+      "informacion",
+      "direccion"
+    ],
+    "base_response": "La comunicacion clara facilita que todos los miembros comprendan las metas corporativas. Reduce confusiones, fortalece la cohesion y mejora la coordinacion. Cuando la informacion fluye adecuadamente, la organizacion avanza con mayor precision y compromiso hacia sus objetivos estrategicos."
+  },
+  {
+    "intent_id": "evaluacion_riesgos",
+    "keywords": [
+      "riesgo",
+      "evaluacion",
+      "prevencion",
+      "analisis",
+      "accion"
+    ],
+    "base_response": "La evaluacion de riesgos permite anticipar situaciones que puedan afectar el cumplimiento de metas corporativas. Facilita diseñar estrategias preventivas, minimizar impactos y fortalecer la resiliencia organizacional. Esta practica mejora la toma de decisiones y asegura mayor estabilidad en los procesos."
+  },
+  {
+    "intent_id": "motivacion_personal",
+    "keywords": [
+      "motivacion",
+      "impulso",
+      "accion",
+      "compromiso",
+      "logro"
+    ],
+    "base_response": "La motivacion personal influye directamente en el cumplimiento de metas corporativas. Cuando los colaboradores se sienten valorados y comprometidos, aumentan su productividad y dedicacion. Fomentar un ambiente positivo fortalece la cultura organizacional y facilita alcanzar objetivos estrategicos."
+  },
+  {
+    "intent_id": "gestion_recursos",
+    "keywords": [
+      "recurso",
+      "gestion",
+      "asignacion",
+      "control",
+      "utilizacion"
+    ],
+    "base_response": "La gestion de recursos asegura que la empresa utilice adecuadamente sus capacidades para cumplir metas corporativas. Permite asignar herramientas, tiempo y presupuesto de manera eficiente. Una administracion responsable fortalece la productividad y facilita alcanzar resultados planificados."
+  },
+  {
+    "intent_id": "adaptacion_cambios",
+    "keywords": [
+      "cambio",
+      "adaptacion",
+      "accion",
+      "ajuste",
+      "transformacion"
+    ],
+    "base_response": "La adaptacion a cambios es esencial para mantener la relevancia de las metas corporativas. Permite ajustar estrategias ante nuevas circunstancias y responder con flexibilidad. Esta capacidad fortalece la competitividad, mejora la resiliencia y asegura la continuidad del progreso organizacional."
+  },
+  {
+    "intent_id": "definicion_plazos",
+    "keywords": [
+      "plazo",
+      "tiempo",
+      "organizacion",
+      "accion",
+      "cumplimiento"
+    ],
+    "base_response": "La definicion de plazos establece tiempos concretos para alcanzar metas corporativas. Facilita organizar tareas, medir avances y mantener el ritmo de trabajo. Plazos claros fortalecen la disciplina, mejoran la eficiencia y aseguran que los objetivos se cumplan dentro de periodos razonables."
+  },
+  {
+    "intent_id": "retroalimentacion_activa",
+    "keywords": [
+      "retroalimentacion",
+      "comentario",
+      "mejora",
+      "accion",
+      "evaluacion"
+    ],
+    "base_response": "La retroalimentacion activa permite identificar fortalezas y debilidades en el avance hacia metas corporativas. Facilita corregir errores, reforzar aciertos y promover el aprendizaje continuo. Esta practica mejora la comunicacion interna y fortalece la efectividad de los procesos organizacionales."
+  },
+  {
+    "intent_id": "coherencia_estrategica",
+    "keywords": [
+      "coherencia",
+      "estrategia",
+      "direccion",
+      "accion",
+      "organizacion"
+    ],
+    "base_response": "La coherencia estrategica asegura que todas las acciones de la empresa se alineen con sus metas corporativas. Permite evitar contradicciones, optimizar recursos y fortalecer la identidad institucional. Esta integracion mejora la eficiencia y facilita alcanzar resultados sostenidos en el tiempo."
+  },
+  {
+    "intent_id": "costeo_directo",
+    "keywords": [
+      "costo",
+      "producto",
+      "calculo",
+      "produccion",
+      "asignar"
+    ],
+    "base_response": "El costeo directo asigna solo costos variables a los productos. Facilita decisiones de corto plazo, permite evaluar la contribucion de cada unidad y ayuda a comprender el impacto de cambios en volumen sobre la rentabilidad empresarial."
+  },
+  {
+    "intent_id": "costeo_indirecto",
+    "keywords": [
+      "costo",
+      "empresa",
+      "asignar",
+      "proceso",
+      "calculo"
+    ],
+    "base_response": "El costeo indirecto distribuye costos fijos entre productos o servicios. Permite conocer el gasto total involucrado en la operacion y ayuda a establecer precios adecuados que reflejen la realidad economica de la empresa."
+  },
+  {
+    "intent_id": "costos_mixtos",
+    "keywords": [
+      "costo",
+      "servicio",
+      "variar",
+      "calculo",
+      "empresa"
+    ],
+    "base_response": "Los costos mixtos combinan componentes fijos y variables. Un ejemplo es el servicio electrico con tarifa base y consumo adicional. Analizarlos permite comprender mejor el comportamiento del gasto y planificar presupuestos mas precisos."
+  },
+  {
+    "intent_id": "presupuesto_operativo",
+    "keywords": [
+      "presupuesto",
+      "costo",
+      "planificar",
+      "empresa",
+      "control"
+    ],
+    "base_response": "El presupuesto operativo organiza costos fijos y variables para un periodo determinado. Ayuda a anticipar necesidades, controlar gastos y establecer metas realistas que orienten la gestion eficiente de recursos dentro de la empresa."
+  },
+  {
+    "intent_id": "costos_hundidos",
+    "keywords": [
+      "costo",
+      "pasado",
+      "gasto",
+      "ignorar",
+      "decision"
+    ],
+    "base_response": "Los costos hundidos son gastos ya realizados que no pueden recuperarse. No deben influir en decisiones futuras porque no cambian con nuevas acciones. Comprenderlos evita errores y promueve decisiones racionales basadas en informacion actual."
+  },
+  {
+    "intent_id": "costos_no_controlables",
+    "keywords": [
+      "costo",
+      "empresa",
+      "externo",
+      "afectar",
+      "proceso"
+    ],
+    "base_response": "Los costos no controlables dependen de factores externos como regulaciones o precios de mercado. Aunque no pueden modificarse, analizarlos permite anticipar cambios, ajustar estrategias y mantener estabilidad financiera en la empresa."
+  },
+  {
+    "intent_id": "eficiencia_operativa",
+    "keywords": [
+      "recurso",
+      "proceso",
+      "optimizar",
+      "costo",
+      "tiempo",
+      "producir"
+    ],
+    "base_response": "La eficiencia operativa se logra al maximizar la producción utilizando la menor cantidad de recursos posibles. Implica optimizar procesos para reducir costos y tiempos, asegurando que cada insumo genere el mayor valor sin desperdicios."
+  },
+  {
+    "intent_id": "eficacia_estrategica",
+    "keywords": [
+      "objetivo",
+      "meta",
+      "lograr",
+      "resultado",
+      "plan",
+      "accion"
+    ],
+    "base_response": "La eficacia estrategica se enfoca en alcanzar los objetivos y metas propuestos mediante acciones planificadas. Evalua el logro de resultados deseados, priorizando la calidad y pertinencia de las actividades sobre el uso de recursos."
+  },
+  {
+    "intent_id": "indicador_gestion",
+    "keywords": [
+      "medir",
+      "desempeno",
+      "dato",
+      "evaluar",
+      "control",
+      "mejora"
+    ],
+    "base_response": "Los indicadores de gestion son metricas que miden el desempeno corporativo. Permiten evaluar procesos, controlar resultados y guiar la mejora continua, proporcionando datos objetivos para tomar decisiones informadas y alinear esfuerzos con metas."
+  },
+  {
+    "intent_id": "productividad_laboral",
+    "keywords": [
+      "trabajo",
+      "produccion",
+      "hora",
+      "empleado",
+      "rendimiento",
+      "valor"
+    ],
+    "base_response": "La productividad laboral relaciona la produccion obtenida con las horas trabajadas. Mide el rendimiento de empleados al generar valor, incentivando metodos eficientes y eficaces que optimizan el tiempo y mejoran los resultados corporativos."
+  },
+  {
+    "intent_id": "calidad_total",
+    "keywords": [
+      "excelencia",
+      "cliente",
+      "satisfaccion",
+      "proceso",
+      "mejora",
+      "estandar"
+    ],
+    "base_response": "La calidad total busca la excelencia en cada proceso para satisfacer al cliente. Implica estandares rigurosos y mejora continua, integrando eficiencia y eficacia para entregar productos o servicios que superen expectativas y generen lealtad."
+  },
+  {
+    "intent_id": "gestion_tiempo",
+    "keywords": [
+      "planificar",
+      "priorizar",
+      "tarea",
+      "plazo",
+      "organizar",
+      "cumplir"
+    ],
+    "base_response": "La gestion del tiempo consiste en planificar y priorizar tareas para cumplir plazos. Organiza actividades de forma eficiente y eficaz, evitando retrasos y maximizando el uso de horas laborales para alcanzar objetivos corporativos."
+  },
+  {
+    "intent_id": "asignacion_recursos",
+    "keywords": [
+      "distribuir",
+      "presupuesto",
+      "personal",
+      "equipo",
+      "invertir",
+      "necesidad"
+    ],
+    "base_response": "La asignacion de recursos distribuye presupuesto, personal y equipos segun necesidades. Busca eficiencia al invertir donde generen mayor impacto y eficacia al asegurar que cada area tenga lo necesario para lograr metas."
+  },
+  {
+    "intent_id": "alineacion_estrategica",
+    "keywords": [
+      "vision",
+      "mision",
+      "meta",
+      "departamento",
+      "cohesion",
+      "direccion"
+    ],
+    "base_response": "La alineacion estrategica asegura que todos los departamentos trabajen hacia la misma vision y mision. Cohesiona esfuerzos para lograr metas comunes, combinando eficiencia en procesos y eficacia en resultados corporativos."
+  },
+  {
+    "intent_id": "motivacion_compra",
+    "keywords": [
+      "motivacion",
+      "compra",
+      "necesidad",
+      "decision",
+      "consumidor"
+    ],
+    "base_response": "La motivacion de compra surge cuando el consumidor identifica una necesidad y busca satisfacerla mediante un producto o servicio. Este impulso influye directamente en la decision final, guiando la eleccion segun beneficios percibidos, experiencias previas y expectativas personales."
+  },
+  {
+    "intent_id": "percepcion_producto",
+    "keywords": [
+      "percepcion",
+      "producto",
+      "imagen",
+      "valor",
+      "consumidor"
+    ],
+    "base_response": "La percepcion del producto se forma a partir de la interpretacion que hace el consumidor sobre sus caracteristicas y beneficios. Esta percepcion influye en la valoracion general, afectando la decision de compra y la preferencia frente a alternativas disponibles en el mercado."
+  },
+  {
+    "intent_id": "actitud_consumidor",
+    "keywords": [
+      "actitud",
+      "consumidor",
+      "creencia",
+      "evaluacion",
+      "conducta"
+    ],
+    "base_response": "La actitud del consumidor combina creencias, emociones y evaluaciones hacia un producto o marca. Esta predisposicion influye en su conducta de compra, determinando si mostrara interes, rechazo o preferencia, y afectando directamente la relacion con la oferta comercial."
+  },
+  {
+    "intent_id": "proceso_decision",
+    "keywords": [
+      "decision",
+      "proceso",
+      "evaluacion",
+      "alternativa",
+      "compra"
+    ],
+    "base_response": "El proceso de decision incluye etapas como reconocimiento de necesidad, busqueda de informacion, evaluacion de alternativas y compra. Cada fase permite al consumidor analizar opciones, comparar beneficios y seleccionar la alternativa que mejor satisfaga sus expectativas personales."
+  },
+  {
+    "intent_id": "influencia_social",
+    "keywords": [
+      "influencia",
+      "grupo",
+      "opinion",
+      "conducta",
+      "consumidor"
+    ],
+    "base_response": "La influencia social proviene de grupos, familiares o referentes que afectan la conducta del consumidor. Sus opiniones y comportamientos pueden modificar percepciones, generar confianza o crear presion, influyendo directamente en la eleccion de productos y marcas disponibles."
+  },
+  {
+    "intent_id": "aprendizaje_consumidor",
+    "keywords": [
+      "aprendizaje",
+      "experiencia",
+      "conducta",
+      "consumidor",
+      "repeticion"
+    ],
+    "base_response": "El aprendizaje del consumidor surge de experiencias previas que moldean su conducta futura. A traves de repeticion y observacion, desarrolla preferencias, reconoce beneficios y ajusta decisiones, fortaleciendo vinculos con marcas que satisfacen consistentemente sus necesidades."
+  },
+  {
+    "intent_id": "motivacion_interna",
+    "keywords": [
+      "motivacion",
+      "interna",
+      "necesidad",
+      "impulso",
+      "consumidor"
+    ],
+    "base_response": "La motivacion interna se origina en necesidades personales que impulsan al consumidor a actuar. Este impulso dirige la busqueda de productos que brinden satisfaccion emocional o funcional, influyendo de manera decisiva en la eleccion final dentro del mercado disponible."
+  },
+  {
+    "intent_id": "rol_cultura",
+    "keywords": [
+      "cultura",
+      "valor",
+      "creencia",
+      "conducta",
+      "consumidor"
+    ],
+    "base_response": "La cultura define valores y creencias que orientan la conducta del consumidor. Estos elementos influyen en preferencias, habitos y decisiones de compra, determinando la forma en que interpreta productos, evalua beneficios y establece relaciones con marcas presentes en su entorno."
+  },
+  {
+    "intent_id": "segmentacion_mercado",
+    "keywords": [
+      "segmentacion",
+      "mercado",
+      "grupo",
+      "caracteristica",
+      "consumidor"
+    ],
+    "base_response": "La segmentacion de mercado consiste en dividir consumidores en grupos con caracteristicas similares. Esta practica permite ofrecer productos adaptados a necesidades especificas, optimizando estrategias comerciales y mejorando la satisfaccion mediante propuestas mas precisas y efectivas."
+  },
+  {
+    "intent_id": "comportamiento_postcompra",
+    "keywords": [
+      "compra",
+      "satisfaccion",
+      "evaluacion",
+      "experiencia",
+      "consumidor"
+    ],
+    "base_response": "El comportamiento postcompra refleja la evaluacion que hace el consumidor tras usar un producto. Esta experiencia determina su nivel de satisfaccion, influye en futuras decisiones y puede generar recomendaciones positivas o negativas que afectan la reputacion de la marca."
+  },
+  {
+    "intent_id": "lealtad_marca",
+    "keywords": [
+      "lealtad",
+      "marca",
+      "preferencia",
+      "confianza",
+      "consumidor"
+    ],
+    "base_response": "La lealtad a la marca surge cuando el consumidor desarrolla confianza y preferencia hacia una oferta especifica. Esta relacion estable se fortalece con experiencias positivas, generando compras repetidas y reduciendo la probabilidad de elegir alternativas competidoras."
+  },
+  {
+    "intent_id": "estilo_vida",
+    "keywords": [
+      "estilo",
+      "vida",
+      "habito",
+      "preferencia",
+      "consumidor"
+    ],
+    "base_response": "El estilo de vida refleja habitos y preferencias que influyen en decisiones de compra. Estos patrones determinan productos valorados, actividades realizadas y prioridades personales, permitiendo comprender mejor las elecciones del consumidor dentro de distintos contextos sociales."
+  },
+  {
+    "intent_id": "necesidad_consumidor",
+    "keywords": [
+      "necesidad",
+      "consumidor",
+      "motivacion",
+      "busqueda",
+      "producto"
+    ],
+    "base_response": "La necesidad del consumidor es el punto de partida del proceso de compra. Surge cuando identifica una carencia y busca un producto que la satisfaga. Esta motivacion dirige su conducta, orientando la seleccion hacia opciones que ofrezcan beneficios claros y relevantes."
+  },
+  {
+    "intent_id": "influencia_publicidad",
+    "keywords": [
+      "publicidad",
+      "mensaje",
+      "impacto",
+      "consumidor",
+      "atencion"
+    ],
+    "base_response": "La influencia de la publicidad se manifiesta cuando un mensaje logra captar la atencion del consumidor y modificar su percepcion. Este impacto puede generar interes, reforzar creencias o estimular la compra, convirtiendose en herramienta clave dentro de estrategias comerciales."
+  },
+  {
+    "intent_id": "decision_impulsiva",
+    "keywords": [
+      "decision",
+      "impulso",
+      "compra",
+      "emocion",
+      "consumidor"
+    ],
+    "base_response": "La decision impulsiva ocurre cuando el consumidor compra sin planificacion, guiado por emociones momentaneas. Este comportamiento surge ante estimulos atractivos y puede generar adquisiciones inesperadas, influenciadas por factores como novedad, deseo inmediato o presentacion del producto."
+  },
+  {
+    "intent_id": "control_estadistico_procesos",
+    "keywords": [
+      "control",
+      "estadistico",
+      "procesos",
+      "variacion",
+      "calidad"
+    ],
+    "base_response": "El control estadistico de procesos emplea herramientas estadisticas para monitorear y reducir la variabilidad. Permite detectar desviaciones a tiempo y asegurar que los productos cumplan las especificaciones de calidad, facilitando la mejora continua en la produccion."
+  },
+  {
+    "intent_id": "inspeccion_por_muestreo",
+    "keywords": [
+      "inspeccion",
+      "muestreo",
+      "lote",
+      "defecto",
+      "aceptacion"
+    ],
+    "base_response": "La inspeccion por muestreo evalua una parte del lote para decidir su aceptacion o rechazo. Es eficiente cuando probar todo es costoso o destructivo. Se basa en planes de muestreo estadisticos que equilibran riesgo del productor y consumidor."
+  },
+  {
+    "intent_id": "graficos_de_control",
+    "keywords": [
+      "grafico",
+      "control",
+      "limite",
+      "variacion",
+      "proceso"
+    ],
+    "base_response": "Los graficos de control son herramientas visuales que muestran la variacion de un proceso a lo largo del tiempo. Incluyen limites superior e inferior para detectar causas especiales. Ayudan a mantener el proceso estable y predecible."
+  },
+  {
+    "intent_id": "capacidad_del_proceso",
+    "keywords": [
+      "capacidad",
+      "proceso",
+      "indice",
+      "especificacion",
+      "variacion"
+    ],
+    "base_response": "La capacidad del proceso mide si un proceso puede cumplir consistentemente las especificaciones. Se calculan indices como Cp y Cpk que comparan la variacion natural con los limites de tolerancia. Un proceso capaz produce piezas dentro de especificacion."
+  },
+  {
+    "intent_id": "no_conformidad",
+    "keywords": [
+      "no",
+      "conformidad",
+      "defecto",
+      "producto",
+      "requisito"
+    ],
+    "base_response": "Una no conformidad es el incumplimiento de un requisito especificado. Puede referirse a un producto, servicio o proceso. Se documenta y analiza para implementar acciones correctivas que eviten su recurrencia y mejoren la calidad."
+  },
+  {
+    "intent_id": "accion_correctiva",
+    "keywords": [
+      "accion",
+      "correctiva",
+      "causa",
+      "problema",
+      "eliminar"
+    ],
+    "base_response": "La accion correctiva se toma para eliminar la causa de una no conformidad detectada. Incluye analisis de causa raiz, planificacion de soluciones y verificacion de eficacia. Su objetivo es prevenir la repeticion del problema y mejorar el proceso."
+  },
+  {
+    "intent_id": "accion_preventiva",
+    "keywords": [
+      "accion",
+      "preventiva",
+      "riesgo",
+      "potencial",
+      "evitar"
+    ],
+    "base_response": "La accion preventiva se implementa para eliminar las causas de una no conformidad potencial. Se basa en la identificacion de riesgos y oportunidades de mejora. Ayuda a anticipar problemas y mantener la calidad del proceso antes de que ocurran fallos."
+  },
+  {
+    "intent_id": "auditoria_de_calidad",
+    "keywords": [
+      "auditoria",
+      "calidad",
+      "sistema",
+      "proceso",
+      "cumplimiento"
+    ],
+    "base_response": "La auditoria de calidad es un examen sistematico e independiente para verificar el cumplimiento de requisitos. Evalua la eficacia del sistema de gestion y detecta areas de mejora. Puede ser interna o externa y se documenta en informes."
+  },
+  {
+    "intent_id": "ciclo_de_deming",
+    "keywords": [
+      "ciclo",
+      "deming",
+      "planificar",
+      "hacer",
+      "verificar",
+      "actuar"
+    ],
+    "base_response": "El ciclo de Deming, o PDCA, es un metodo de mejora continua. Incluye planificar el cambio, ejecutarlo, verificar los resultados y actuar para estandarizar o ajustar. Se aplica a procesos, productos y servicios para lograr calidad sostenible."
+  },
+  {
+    "intent_id": "analisis_causa_raiz",
+    "keywords": [
+      "analisis",
+      "causa",
+      "raiz",
+      "problema",
+      "origen"
+    ],
+    "base_response": "El analisis de causa raiz es una tecnica para identificar el origen de un problema. Utiliza herramientas como los cinco porques o diagrama de Ishikawa. Su objetivo es encontrar la causa fundamental y aplicar acciones correctivas efectivas."
+  },
+  {
+    "intent_id": "sistema_gestion_calidad",
+    "keywords": [
+      "sistema",
+      "gestion",
+      "calidad",
+      "iso",
+      "procesos"
+    ],
+    "base_response": "Un sistema de gestion de calidad es un conjunto de politicas, procesos y procedimientos para dirigir y controlar una organizacion respecto a la calidad. Normas como ISO 9001 establecen requisitos para su implementacion y mejora continua."
+  },
+  {
+    "intent_id": "mejora_continua",
+    "keywords": [
+      "mejora",
+      "continua",
+      "proceso",
+      "calidad",
+      "eficiencia"
+    ],
+    "base_response": "La mejora continua es un esfuerzo constante por incrementar la eficacia y eficiencia de los procesos. Se basa en el ciclo PDCA y la participacion de todos. Busca reducir variabilidad, eliminar desperdicios y satisfacer al cliente."
+  },
+  {
+    "intent_id": "control_calidad_produccion",
+    "keywords": [
+      "control",
+      "calidad",
+      "produccion",
+      "inspeccion",
+      "proceso"
+    ],
+    "base_response": "El control de calidad en produccion asegura que los productos fabricados cumplan los estandares. Incluye inspecciones durante y despues del proceso, uso de equipos de medicion y tecnicas estadisticas para detectar y corregir defectos a tiempo."
+  },
+  {
+    "intent_id": "aseguramiento_calidad",
+    "keywords": [
+      "aseguramiento",
+      "calidad",
+      "confianza",
+      "requisitos",
+      "sistema"
+    ],
+    "base_response": "El aseguramiento de la calidad proporciona confianza de que los requisitos de calidad se cumpliran. Incluye actividades planificadas y sistematicas como auditorias, revisiones y documentacion. Es preventivo y se enfoca en disenar procesos robustos."
+  },
+  {
+    "intent_id": "gestion_calidad_total",
+    "keywords": [
+      "gestion",
+      "calidad",
+      "total",
+      "mejora",
+      "participacion"
+    ],
+    "base_response": "La gestion de calidad total es un enfoque de gestion centrado en la calidad, basado en la participacion de todos los miembros. Busca la satisfaccion del cliente y la mejora continua a largo plazo. Integra todas las funciones de la organizacion."
+  },
+  {
+    "intent_id": "globalizacion_comercial",
+    "keywords": [
+      "intercambio",
+      "mercado",
+      "producto",
+      "exportar",
+      "importar"
+    ],
+    "base_response": "La globalización comercial describe la creciente integración de mercados internacionales mediante el intercambio constante de bienes y servicios. Facilita que los países accedan a productos diversos, amplíen oportunidades económicas y fortalezcan relaciones comerciales que impulsan el desarrollo y la competitividad global."
+  },
+  {
+    "intent_id": "aranceles",
+    "keywords": [
+      "impuesto",
+      "mercancia",
+      "importar",
+      "exportar",
+      "regulacion"
+    ],
+    "base_response": "Los aranceles son impuestos aplicados a mercancías que ingresan o salen de un país. Su función principal es regular el comercio internacional, proteger industrias locales y generar ingresos estatales, influyendo directamente en los precios y la competitividad de los productos."
+  },
+  {
+    "intent_id": "balanza_comercial",
+    "keywords": [
+      "exportacion",
+      "importacion",
+      "valor",
+      "mercado",
+      "intercambio"
+    ],
+    "base_response": "La balanza comercial mide la diferencia entre el valor de las exportaciones y las importaciones de un país. Un saldo positivo indica superávit, mientras uno negativo refleja déficit. Este indicador permite evaluar la salud económica y la capacidad competitiva internacional."
+  },
+  {
+    "intent_id": "tratados_comerciales",
+    "keywords": [
+      "acuerdo",
+      "pais",
+      "intercambio",
+      "producto",
+      "cooperar"
+    ],
+    "base_response": "Los tratados comerciales son acuerdos formales entre países que buscan facilitar el intercambio de bienes y servicios. Reducen barreras, establecen reglas claras y promueven la cooperación económica, generando beneficios mutuos y mayor estabilidad en las relaciones internacionales."
+  },
+  {
+    "intent_id": "dumping",
+    "keywords": [
+      "precio",
+      "mercado",
+      "competencia",
+      "producto",
+      "vender"
+    ],
+    "base_response": "El dumping ocurre cuando una empresa vende productos en otro país a precios inferiores a los del mercado local. Esta práctica afecta la competencia justa, perjudica industrias nacionales y suele requerir medidas regulatorias para proteger la producción interna."
+  },
+  {
+    "intent_id": "tipo_de_cambio",
+    "keywords": [
+      "moneda",
+      "valor",
+      "mercado",
+      "intercambio",
+      "convertir"
+    ],
+    "base_response": "El tipo de cambio representa el valor de una moneda respecto a otra. Influye directamente en el comercio internacional porque determina el costo real de importar y exportar, afectando precios, decisiones empresariales y la competitividad de los productos nacionales."
+  },
+  {
+    "intent_id": "barreras_no_arancelarias",
+    "keywords": [
+      "regulacion",
+      "control",
+      "producto",
+      "mercado",
+      "limitar"
+    ],
+    "base_response": "Las barreras no arancelarias son restricciones comerciales que no implican impuestos, como normas técnicas o cuotas. Su objetivo es controlar la calidad, proteger la salud pública o regular el mercado, influyendo en la facilidad para comerciar internacionalmente."
+  },
+  {
+    "intent_id": "organizacion_mundial_comercio",
+    "keywords": [
+      "cooperacion",
+      "regla",
+      "pais",
+      "intercambio",
+      "regular"
+    ],
+    "base_response": "La Organización Mundial del Comercio establece normas que regulan el comercio internacional y promueven relaciones económicas justas. Facilita negociaciones, resuelve disputas y busca garantizar que los intercambios entre países sean transparentes, previsibles y equitativos."
+  },
+  {
+    "intent_id": "exportaciones",
+    "keywords": [
+      "producto",
+      "vender",
+      "mercado",
+      "pais",
+      "intercambio"
+    ],
+    "base_response": "Las exportaciones consisten en vender bienes o servicios producidos en un país hacia mercados extranjeros. Representan una fuente clave de ingresos, fortalecen la economía nacional y permiten que las empresas amplíen su alcance y competitividad internacional."
+  },
+  {
+    "intent_id": "importaciones",
+    "keywords": [
+      "comprar",
+      "producto",
+      "mercado",
+      "pais",
+      "intercambio"
+    ],
+    "base_response": "Las importaciones son bienes o servicios adquiridos desde otros países para satisfacer necesidades internas. Permiten acceder a productos variados, mejorar la calidad de vida y complementar la producción nacional, aunque también influyen en la balanza comercial."
+  },
+  {
+    "intent_id": "ventaja_comparativa",
+    "keywords": [
+      "produccion",
+      "coste",
+      "pais",
+      "mercado",
+      "especializar"
+    ],
+    "base_response": "La ventaja comparativa explica cómo un país puede beneficiarse especializándose en producir bienes con menor coste relativo. Esta teoría fundamenta el comercio internacional al mostrar que todos ganan cuando cada nación se enfoca en lo que produce eficientemente."
+  },
+  {
+    "intent_id": "zona_franca",
+    "keywords": [
+      "mercancia",
+      "almacenar",
+      "procesar",
+      "exportar",
+      "importar"
+    ],
+    "base_response": "Una zona franca es un área delimitada donde las mercancías pueden almacenarse, transformarse o redistribuirse sin pagar impuestos inmediatos. Facilita operaciones logísticas, atrae inversión y promueve el comercio internacional mediante condiciones favorables."
+  },
+  {
+    "intent_id": "logistica_internacional",
+    "keywords": [
+      "transporte",
+      "producto",
+      "coordinar",
+      "ruta",
+      "almacen"
+    ],
+    "base_response": "La logística internacional organiza el movimiento eficiente de productos entre países. Incluye transporte, almacenamiento y coordinación de procesos para asegurar que las mercancías lleguen en buen estado, a tiempo y con costos controlados, fortaleciendo el comercio global."
+  },
+  {
+    "intent_id": "barreras_culturales",
+    "keywords": [
+      "idioma",
+      "costumbre",
+      "negocio",
+      "comunicar",
+      "mercado"
+    ],
+    "base_response": "Las barreras culturales son diferencias de idioma, costumbres o valores que afectan las relaciones comerciales internacionales. Comprender estas variaciones permite negociar adecuadamente, evitar malentendidos y construir vínculos comerciales sólidos y respetuosos."
+  },
+  {
+    "intent_id": "competitividad_global",
+    "keywords": [
+      "empresa",
+      "mercado",
+      "producto",
+      "innovar",
+      "mejorar"
+    ],
+    "base_response": "La competitividad global refleja la capacidad de una empresa o país para destacar en mercados internacionales. Requiere innovación, calidad y eficiencia para ofrecer productos atractivos, adaptarse a cambios y mantener una posición sólida frente a competidores extranjeros."
+  },
+  {
+    "intent_id": "cultura_innovacion",
+    "keywords": [
+      "cultura",
+      "innovacion",
+      "empresa",
+      "cambio",
+      "crear"
+    ],
+    "base_response": "La cultura de innovacion implica promover valores y comportamientos que favorecen el cambio constante dentro de una organizacion. Fomenta la creatividad, impulsa nuevas ideas y facilita la adaptacion a entornos competitivos mediante la participacion activa de todos los miembros del equipo."
+  },
+  {
+    "intent_id": "creatividad_organizacional",
+    "keywords": [
+      "creatividad",
+      "idea",
+      "proceso",
+      "equipo",
+      "pensar"
+    ],
+    "base_response": "La creatividad organizacional consiste en generar ideas originales que aporten valor a la empresa. Requiere un entorno que estimule el pensamiento libre, la colaboracion entre equipos y la exploracion de soluciones novedosas para enfrentar desafios y oportunidades emergentes."
+  },
+  {
+    "intent_id": "innovacion_abierta",
+    "keywords": [
+      "innovacion",
+      "colaboracion",
+      "empresa",
+      "idea",
+      "crear"
+    ],
+    "base_response": "La innovacion abierta implica colaborar con actores externos para desarrollar nuevas soluciones. Permite integrar conocimientos diversos, acelerar procesos creativos y aprovechar recursos compartidos, fortaleciendo la capacidad de una organizacion para competir y adaptarse al mercado."
+  },
+  {
+    "intent_id": "prototipado_rapido",
+    "keywords": [
+      "prototipo",
+      "crear",
+      "modelo",
+      "prueba",
+      "producto"
+    ],
+    "base_response": "El prototipado rapido permite construir modelos iniciales de productos para evaluar funcionalidades y detectar mejoras. Facilita experimentar con ideas, reducir costos y ajustar soluciones antes de su lanzamiento, impulsando procesos de innovacion mas eficientes y efectivos."
+  },
+  {
+    "intent_id": "analisis_tendencias",
+    "keywords": [
+      "tendencia",
+      "analisis",
+      "mercado",
+      "dato",
+      "observar"
+    ],
+    "base_response": "El analisis de tendencias consiste en estudiar cambios del mercado para anticipar oportunidades. Permite identificar patrones, comprender necesidades emergentes y orientar decisiones estrategicas que favorezcan la innovacion y el desarrollo de productos competitivos."
+  },
+  {
+    "intent_id": "design_thinking",
+    "keywords": [
+      "usuario",
+      "idea",
+      "crear",
+      "proceso",
+      "solucion"
+    ],
+    "base_response": "El design thinking es una metodologia centrada en comprender al usuario para crear soluciones efectivas. Combina empatia, creatividad y experimentacion, permitiendo desarrollar productos o servicios que respondan de manera precisa a necesidades reales."
+  },
+  {
+    "intent_id": "gestion_portafolio",
+    "keywords": [
+      "proyecto",
+      "evaluacion",
+      "prioridad",
+      "recurso",
+      "planear"
+    ],
+    "base_response": "La gestion de portafolio organiza y evalua proyectos de innovacion para asignar recursos de manera eficiente. Ayuda a priorizar iniciativas segun su impacto, riesgo y alineacion estrategica, garantizando un desarrollo equilibrado dentro de la organizacion."
+  },
+  {
+    "intent_id": "transformacion_digital",
+    "keywords": [
+      "digital",
+      "proceso",
+      "tecnologia",
+      "cambio",
+      "adaptacion"
+    ],
+    "base_response": "La transformacion digital integra tecnologias en procesos organizacionales para mejorar eficiencia y competitividad. Implica adoptar nuevas herramientas, modificar estructuras y promover habilidades digitales que permitan responder a las demandas actuales del mercado."
+  },
+  {
+    "intent_id": "liderazgo_innovador",
+    "keywords": [
+      "liderazgo",
+      "equipo",
+      "motivacion",
+      "idea",
+      "crear"
+    ],
+    "base_response": "El liderazgo innovador impulsa la generacion de ideas y motiva a los equipos a experimentar. Fomenta un ambiente donde se valoran propuestas nuevas, se gestionan riesgos y se promueve el aprendizaje continuo para fortalecer la capacidad creativa organizacional."
+  },
+  {
+    "intent_id": "benchmarking_innovacion",
+    "keywords": [
+      "comparacion",
+      "empresa",
+      "proceso",
+      "analisis",
+      "mejora"
+    ],
+    "base_response": "El benchmarking de innovacion consiste en comparar practicas con otras organizaciones para identificar oportunidades de mejora. Permite aprender de casos exitosos, adaptar estrategias y fortalecer la competitividad mediante la incorporacion de enfoques mas eficientes."
+  },
+  {
+    "intent_id": "ecosistema_innovacion",
+    "keywords": [
+      "ecosistema",
+      "colaboracion",
+      "empresa",
+      "idea",
+      "crear"
+    ],
+    "base_response": "Un ecosistema de innovacion integra actores que colaboran para generar soluciones. Incluye empresas, instituciones y comunidades que comparten recursos y conocimientos, facilitando el desarrollo de proyectos creativos y fortaleciendo la capacidad de innovar."
+  },
+  {
+    "intent_id": "gestion_conocimiento",
+    "keywords": [
+      "conocimiento",
+      "informacion",
+      "proceso",
+      "compartir",
+      "equipo"
+    ],
+    "base_response": "La gestion del conocimiento organiza y comparte informacion dentro de la empresa. Facilita el aprendizaje colectivo, mejora la toma de decisiones y fortalece la innovacion al asegurar que las experiencias y datos relevantes esten disponibles para todos los equipos."
+  },
+  {
+    "intent_id": "evaluacion_innovacion",
+    "keywords": [
+      "evaluacion",
+      "proceso",
+      "resultado",
+      "analisis",
+      "medir"
+    ],
+    "base_response": "La evaluacion de innovacion analiza el impacto de proyectos creativos dentro de la organizacion. Permite medir resultados, identificar mejoras y asegurar que las iniciativas aporten valor real, fortaleciendo la estrategia y la eficiencia en el desarrollo de nuevas soluciones."
+  },
+  {
+    "intent_id": "burocracia",
+    "keywords": [
+      "burocracia",
+      "reglas",
+      "jerarquia",
+      "procedimiento",
+      "administracion"
+    ],
+    "base_response": "La burocracia es una forma de organizacion basada en normas escritas, jerarquia clara y procedimientos estandarizados. Busca eficiencia y control en la gestion publica, aunque puede generar rigidez y lentitud en la toma de decisiones."
+  },
+  {
+    "intent_id": "transparencia",
+    "keywords": [
+      "transparencia",
+      "informacion",
+      "acceso",
+      "publico",
+      "gobierno"
+    ],
+    "base_response": "La transparencia implica que la informacion publica sea accesible y clara para los ciudadanos. Permite conocer las acciones del gobierno, fomenta la confianza y facilita el control social para evitar la corrupcion."
+  },
+  {
+    "intent_id": "eficiencia",
+    "keywords": [
+      "eficiencia",
+      "recursos",
+      "optimal",
+      "gestion",
+      "resultado"
+    ],
+    "base_response": "La eficiencia en administracion publica busca lograr los mejores resultados con el menor uso de recursos disponibles. Implica optimizar procesos, reducir costos y maximizar el valor publico entregado a la sociedad."
+  },
+  {
+    "intent_id": "eficacia",
+    "keywords": [
+      "eficacia",
+      "objetivo",
+      "logro",
+      "meta",
+      "impacto"
+    ],
+    "base_response": "La eficacia mide el grado en que se alcanzan los objetivos planificados en politicas publicas. Una administracion eficaz cumple sus metas y genera cambios positivos en la poblacion, independientemente de los recursos usados."
+  },
+  {
+    "intent_id": "descentralizacion",
+    "keywords": [
+      "descentralizacion",
+      "poder",
+      "region",
+      "autonomia",
+      "local"
+    ],
+    "base_response": "La descentralizacion transfiere competencias y recursos desde el gobierno central a entidades locales o regionales. Busca acercar la decision a los ciudadanos, mejorar la eficiencia y adaptar politicas a realidades especificas."
+  },
+  {
+    "intent_id": "participacion",
+    "keywords": [
+      "participacion",
+      "ciudadano",
+      "consulta",
+      "decision",
+      "democracia"
+    ],
+    "base_response": "La participacion ciudadana permite que los ciudadanos intervengan en la formulacion, ejecucion y evaluacion de politicas publicas. Fortalece la democracia, mejora la legitimidad y asegura que las decisiones reflejen las necesidades sociales."
+  },
+  {
+    "intent_id": "fiscalizacion",
+    "keywords": [
+      "fiscalizacion",
+      "control",
+      "auditoria",
+      "supervision",
+      "gestion"
+    ],
+    "base_response": "La fiscalizacion es el proceso de control y supervision de los actos de la administracion publica. Verifica el uso correcto de fondos, el cumplimiento de normas y la eficiencia en la gestion, previniendo irregularidades."
+  },
+  {
+    "intent_id": "presupuesto",
+    "keywords": [
+      "presupuesto",
+      "gasto",
+      "ingreso",
+      "planificacion",
+      "finanzas"
+    ],
+    "base_response": "El presupuesto publico es la estimacion de ingresos y gastos del estado para un periodo. Permite planificar y asignar recursos a prioridades sociales, garantizando el equilibrio fiscal y la transparencia financiera."
+  },
+  {
+    "intent_id": "funcion_publica",
+    "keywords": [
+      "funcion",
+      "publico",
+      "servicio",
+      "empleado",
+      "carrera"
+    ],
+    "base_response": "La funcion publica comprende el conjunto de empleados que trabajan para el estado. Su objetivo es brindar servicios de calidad a los ciudadanos, basandose en principios de merito, profesionalismo y estabilidad laboral."
+  },
+  {
+    "intent_id": "gobernanza",
+    "keywords": [
+      "gobernanza",
+      "coordinacion",
+      "redes",
+      "actores",
+      "decision"
+    ],
+    "base_response": "La gobernanza se refiere a la forma en que se toman decisiones colectivas involucrando a multiples actores publicos y privados. Promueve la cooperacion, la participacion y la responsabilidad compartida en la gestion de asuntos comunes."
+  },
+  {
+    "intent_id": "federalismo",
+    "keywords": [
+      "federalismo",
+      "estado",
+      "autonomia",
+      "territorio",
+      "division"
+    ],
+    "base_response": "El federalismo es un sistema de organizacion politica donde el poder se divide entre un gobierno central y unidades territoriales autonomas. Cada nivel tiene competencias propias, equilibrando unidad y diversidad nacional."
+  },
+  {
+    "intent_id": "estado_derecho",
+    "keywords": [
+      "estado",
+      "derecho",
+      "ley",
+      "justicia",
+      "constitucion"
+    ],
+    "base_response": "El estado de derecho implica que todos los poderes publicos y ciudadanos estan sometidos a la ley. Garantiza la proteccion de derechos, la separacion de poderes y el control judicial para evitar abusos de autoridad."
+  },
+  {
+    "intent_id": "gobierno_electronico",
+    "keywords": [
+      "gobierno",
+      "electronico",
+      "digital",
+      "servicio",
+      "tecnologia"
+    ],
+    "base_response": "El gobierno electronico utiliza tecnologias de informacion para mejorar la prestacion de servicios publicos. Facilita tramites en linea, aumenta la transparencia y permite una comunicacion mas rapida entre estado y ciudadanos."
+  },
+  {
+    "intent_id": "meritocracia",
+    "keywords": [
+      "meritocracia",
+      "merito",
+      "capacidad",
+      "empleo",
+      "oposicion"
+    ],
+    "base_response": "La meritocracia en la administracion publica selecciona y promueve a los funcionarios basandose en su talento y rendimiento. Busca garantizar la competencia profesional y evitar el nepotismo o favoritismo politico."
+  },
+  {
+    "intent_id": "flujo_efectivo",
+    "keywords": [
+      "efectivo",
+      "registro",
+      "entrada",
+      "salida",
+      "control"
+    ],
+    "base_response": "El flujo de efectivo muestra entradas y salidas de dinero en una organizacion, permitiendo evaluar liquidez y capacidad de pago. Ayuda a anticipar necesidades, evitar faltantes y tomar decisiones oportunas para mantener operaciones estables y sostenibles en el tiempo."
+  },
+  {
+    "intent_id": "capital_trabajo",
+    "keywords": [
+      "capital",
+      "operacion",
+      "recurso",
+      "empresa",
+      "administrar"
+    ],
+    "base_response": "El capital de trabajo representa recursos disponibles para cubrir operaciones diarias. Incluye activos circulantes y obligaciones inmediatas. Su gestion adecuada garantiza continuidad, evita retrasos y permite responder a necesidades operativas sin comprometer estabilidad financiera general."
+  },
+  {
+    "intent_id": "analisis_rentabilidad",
+    "keywords": [
+      "rentabilidad",
+      "ganancia",
+      "coste",
+      "evaluar",
+      "resultado"
+    ],
+    "base_response": "El analisis de rentabilidad determina si una actividad genera beneficios suficientes respecto a sus costes. Permite comparar alternativas, identificar mejoras y orientar decisiones estrategicas. Es esencial para asegurar sostenibilidad y crecimiento dentro de cualquier organizacion."
+  },
+  {
+    "intent_id": "plan_inversion",
+    "keywords": [
+      "inversion",
+      "evaluar",
+      "riesgo",
+      "beneficio",
+      "proyecto"
+    ],
+    "base_response": "El plan de inversion analiza proyectos para determinar su conveniencia economica. Considera riesgos, beneficios y plazos, permitiendo asignar recursos de manera responsable. Su aplicacion favorece crecimiento sostenible y mejora la capacidad de respuesta ante oportunidades."
+  },
+  {
+    "intent_id": "gestion_riesgo",
+    "keywords": [
+      "riesgo",
+      "identificar",
+      "analizar",
+      "mitigar",
+      "proteger"
+    ],
+    "base_response": "La gestion del riesgo identifica amenazas financieras y establece acciones para reducir impactos. Incluye analisis, prevencion y seguimiento continuo. Su correcta aplicacion protege recursos, mejora decisiones y fortalece estabilidad institucional frente a situaciones imprevistas."
+  },
+  {
+    "intent_id": "control_interno",
+    "keywords": [
+      "control",
+      "proceso",
+      "verificar",
+      "registro",
+      "proteccion"
+    ],
+    "base_response": "El control interno establece procedimientos para asegurar uso adecuado de recursos y confiabilidad en registros. Permite detectar errores, prevenir fraudes y mejorar eficiencia. Es fundamental para mantener transparencia y fortalecer la gestion financiera institucional."
+  },
+  {
+    "intent_id": "auditoria_financiera",
+    "keywords": [
+      "auditoria",
+      "revisar",
+      "documento",
+      "proceso",
+      "verificacion"
+    ],
+    "base_response": "La auditoria financiera revisa documentos y procesos para evaluar exactitud y cumplimiento normativo. Identifica mejoras, detecta inconsistencias y fortalece confianza en la informacion. Contribuye a una gestion responsable y transparente dentro de cualquier organizacion."
+  },
+  {
+    "intent_id": "planeacion_estrategica",
+    "keywords": [
+      "planeacion",
+      "objetivo",
+      "analizar",
+      "recurso",
+      "direccion"
+    ],
+    "base_response": "La planeacion estrategica define objetivos y acciones para guiar decisiones financieras a largo plazo. Analiza recursos, entorno y prioridades, permitiendo anticipar cambios y orientar esfuerzos. Favorece crecimiento ordenado y sostenibilidad institucional."
+  },
+  {
+    "intent_id": "evaluacion_proyectos",
+    "keywords": [
+      "proyecto",
+      "evaluar",
+      "coste",
+      "beneficio",
+      "decision"
+    ],
+    "base_response": "La evaluacion de proyectos analiza costos y beneficios para determinar su viabilidad. Facilita decisiones informadas, optimiza recursos y reduce riesgos. Es esencial para seleccionar iniciativas que aporten valor y fortalezcan la gestion financiera general."
+  },
+  {
+    "intent_id": "contabilidad_basica",
+    "keywords": [
+      "contabilidad",
+      "registro",
+      "operacion",
+      "clasificar",
+      "informar"
+    ],
+    "base_response": "La contabilidad basica organiza y registra operaciones financieras, permitiendo clasificar movimientos y generar informacion confiable. Facilita analisis, control y toma de decisiones. Es la base para comprender la situacion economica de cualquier entidad."
+  },
+  {
+    "intent_id": "analisis_balance",
+    "keywords": [
+      "balance",
+      "activo",
+      "pasivo",
+      "evaluar",
+      "estructura"
+    ],
+    "base_response": "El analisis del balance examina activos y pasivos para comprender la estructura financiera. Permite evaluar solvencia, identificar fortalezas y detectar riesgos. Es fundamental para orientar decisiones y mantener estabilidad economica institucional."
+  },
+  {
+    "intent_id": "gestion_cobros",
+    "keywords": [
+      "cobro",
+      "registro",
+      "cliente",
+      "verificar",
+      "administrar"
+    ],
+    "base_response": "La gestion de cobros organiza procesos para asegurar recepcion oportuna de pagos. Incluye seguimiento, verificacion y comunicacion con clientes. Su correcta aplicacion mejora liquidez, reduce retrasos y fortalece estabilidad financiera general."
+  },
+  {
+    "intent_id": "gestion_pagos",
+    "keywords": [
+      "pago",
+      "proveedor",
+      "procesar",
+      "ordenar",
+      "control"
+    ],
+    "base_response": "La gestion de pagos coordina desembolsos hacia proveedores, garantizando cumplimiento y orden. Incluye verificacion de documentos, programacion y control. Una administracion adecuada evita atrasos, mejora relaciones y mantiene equilibrio financiero institucional."
+  },
+  {
+    "intent_id": "pensamiento_estrategico",
+    "keywords": [
+      "estrategia",
+      "objetivo",
+      "plan",
+      "analizar",
+      "decidir"
+    ],
+    "base_response": "El pensamiento estrategico orienta decisiones para alcanzar objetivos mediante analisis profundo del contexto. Facilita priorizar acciones, anticipar riesgos y aprovechar oportunidades. Es esencial para dirigir procesos de innovacion con claridad y coherencia."
+  },
+  {
+    "intent_id": "mapa_innovacion",
+    "keywords": [
+      "mapa",
+      "idea",
+      "proceso",
+      "analizar",
+      "organizar"
+    ],
+    "base_response": "El mapa de innovacion organiza ideas y procesos para visualizar oportunidades. Facilita analizar conexiones, priorizar acciones y estructurar iniciativas. Ayuda a comprender el panorama completo de esfuerzos innovadores dentro de una organizacion."
+  },
+  {
+    "intent_id": "ciclo_innovacion",
+    "keywords": [
+      "ciclo",
+      "idea",
+      "desarrollo",
+      "probar",
+      "mejorar"
+    ],
+    "base_response": "El ciclo de innovacion describe etapas desde generar ideas hasta mejorar soluciones implementadas. Incluye desarrollo, prueba y ajuste continuo. Permite gestionar proyectos de manera ordenada para obtener resultados efectivos y sostenibles."
+  },
+  {
+    "intent_id": "ley_demanda",
+    "keywords": [
+      "demanda",
+      "precio",
+      "cantidad",
+      "ley",
+      "curva"
+    ],
+    "base_response": "La ley de la demanda establece que, al aumentar el precio, la cantidad demandada disminuye, y viceversa. Esta relacion inversa entre precio y cantidad se representa mediante una curva de demanda con pendiente negativa, fundamental para entender el comportamiento del consumidor."
+  },
+  {
+    "intent_id": "ley_oferta",
+    "keywords": [
+      "oferta",
+      "precio",
+      "cantidad",
+      "ley",
+      "relacion",
+      "directa"
+    ],
+    "base_response": "La ley de la oferta indica que, ceteris paribus, la cantidad ofrecida de un bien aumenta cuando su precio sube. Existe una relacion directa entre precio y cantidad ofrecida, representada por una curva de oferta con pendiente positiva, clave en la teoria microeconomica."
+  },
+  {
+    "intent_id": "exceso_demanda",
+    "keywords": [
+      "exceso",
+      "demanda",
+      "escasez",
+      "precio",
+      "cantidad",
+      "mercado"
+    ],
+    "base_response": "El exceso de demanda, tambien llamado escasez, ocurre cuando el precio de un bien es menor al de equilibrio. La cantidad demandada supera a la ofrecida, generando presion al alza sobre el precio hasta alcanzar el equilibrio."
+  },
+  {
+    "intent_id": "exceso_oferta",
+    "keywords": [
+      "exceso",
+      "oferta",
+      "superavit",
+      "precio",
+      "cantidad",
+      "mercado"
+    ],
+    "base_response": "El exceso de oferta, o superavit, se produce cuando el precio esta por encima del equilibrio. La cantidad ofrecida excede a la demandada, provocando presion a la baja en el precio hasta restaurar el equilibrio de mercado."
+  },
+  {
+    "intent_id": "elasticidad_demanda",
+    "keywords": [
+      "elasticidad",
+      "demanda",
+      "precio",
+      "sensibilidad",
+      "cantidad",
+      "cambio"
+    ],
+    "base_response": "La elasticidad precio de la demanda mide la sensibilidad de la cantidad demandada ante variaciones en el precio. Se calcula como el cambio porcentual en la cantidad dividido por el cambio porcentual en el precio, indicando si la demanda es elastica o inelastica."
+  },
+  {
+    "intent_id": "elasticidad_oferta",
+    "keywords": [
+      "elasticidad",
+      "oferta",
+      "precio",
+      "sensibilidad",
+      "cantidad",
+      "cambio"
+    ],
+    "base_response": "La elasticidad precio de la oferta mide la sensibilidad de la cantidad ofrecida ante cambios en el precio. Se obtiene dividiendo el cambio porcentual de la cantidad ofrecida entre el cambio porcentual del precio, determinando la capacidad de respuesta de los productores."
+  },
+  {
+    "intent_id": "demanda_individual",
+    "keywords": [
+      "demanda",
+      "individual",
+      "consumidor",
+      "precio",
+      "cantidad",
+      "preferencia"
+    ],
+    "base_response": "La demanda individual representa la cantidad de un bien que un consumidor esta dispuesto a comprar a diferentes precios. Depende de sus preferencias, ingreso y precios de otros bienes, y se suma horizontalmente para obtener la demanda de mercado."
+  },
+  {
+    "intent_id": "oferta_individual",
+    "keywords": [
+      "oferta",
+      "individual",
+      "productor",
+      "precio",
+      "cantidad",
+      "costo"
+    ],
+    "base_response": "La oferta individual muestra la cantidad de un bien que un productor esta dispuesto a vender a distintos precios. Depende de los costos de produccion, tecnologia y expectativas. La suma de ofertas individuales conforma la oferta total del mercado."
+  },
+  {
+    "intent_id": "cambio_demanda",
+    "keywords": [
+      "cambio",
+      "demanda",
+      "desplazamiento",
+      "curva",
+      "factores",
+      "ingreso"
+    ],
+    "base_response": "Un cambio en la demanda ocurre cuando factores distintos al precio, como el ingreso o gustos, alteran la cantidad demandada a cada precio. Esto desplaza la curva de demanda hacia la derecha o izquierda, modificando el equilibrio de mercado."
+  },
+  {
+    "intent_id": "cambio_oferta",
+    "keywords": [
+      "cambio",
+      "oferta",
+      "desplazamiento",
+      "curva",
+      "factores",
+      "costo"
+    ],
+    "base_response": "Un cambio en la oferta se produce cuando factores como costos de produccion, tecnologia o impuestos afectan la cantidad ofrecida a cada precio. La curva de oferta se desplaza, alterando el precio y la cantidad de equilibrio en el mercado."
+  },
+  {
+    "intent_id": "precio_maximo",
+    "keywords": [
+      "precio",
+      "maximo",
+      "control",
+      "gobierno",
+      "escasez",
+      "intervencion"
+    ],
+    "base_response": "El precio maximo es un limite superior impuesto por el gobierno al precio de un bien. Si es menor al equilibrio, genera escasez porque la demanda supera a la oferta. Busca proteger a consumidores, pero puede crear mercados negros."
+  },
+  {
+    "intent_id": "precio_minimo",
+    "keywords": [
+      "precio",
+      "minimo",
+      "control",
+      "gobierno",
+      "superavit",
+      "intervencion"
+    ],
+    "base_response": "El precio minimo es un limite inferior fijado por el gobierno. Si es superior al equilibrio, provoca superavit al ofrecerse mas cantidad de la demandada. Se usa para proteger productores, pero puede generar excedentes no vendidos."
+  },
+  {
+    "intent_id": "bienes_sustitutos_complementos",
+    "keywords": [
+      "bienes",
+      "sustitutos",
+      "complementarios",
+      "demanda",
+      "precio",
+      "relacion"
+    ],
+    "base_response": "Los bienes sustitutos satisfacen la misma necesidad, por lo que si sube el precio de uno, aumenta la demanda del otro. Los complementarios se consumen juntos; si sube el precio de uno, disminuye la demanda del otro. Afectan la elasticidad cruzada."
+  },
+  {
+    "intent_id": "determinantes_demanda",
+    "keywords": [
+      "determinantes",
+      "demanda",
+      "ingreso",
+      "gustos",
+      "precio",
+      "expectativas"
+    ],
+    "base_response": "Los determinantes de la demanda son factores que influyen en la cantidad demandada ademas del precio: ingreso del consumidor, gustos, precios de bienes relacionados, expectativas futuras y numero de compradores. Cambios en estos desplazan la curva."
+  },
+  {
+    "intent_id": "fortaleza",
+    "keywords": [
+      "recurso",
+      "capacidad",
+      "ventaja",
+      "valor",
+      "exito"
+    ],
+    "base_response": "Las fortalezas son recursos y capacidades internas que proporcionan una ventaja competitiva. Identificarlas permite potenciar el valor único de la organización y sostener su éxito frente a los desafíos del entorno."
+  },
+  {
+    "intent_id": "debilidad",
+    "keywords": [
+      "limitacion",
+      "deficiencia",
+      "riesgo",
+      "mejora",
+      "competencia"
+    ],
+    "base_response": "Las debilidades son factores internos que limitan el desempeño o generan desventajas. Reconocerlas facilita diseñar estrategias de mejora y minimizar riesgos frente a la competencia, optimizando recursos y procesos organizacionales."
+  },
+  {
+    "intent_id": "amenaza",
+    "keywords": [
+      "riesgo",
+      "competidor",
+      "regulacion",
+      "crisis",
+      "entorno"
+    ],
+    "base_response": "Las amenazas son factores externos que pueden perjudicar a la organización. Incluyen nuevos competidores, cambios regulatorios o crisis económicas, y requieren monitoreo constante para anticipar su impacto y proteger la estabilidad."
+  },
+  {
+    "intent_id": "factores_internos",
+    "keywords": [
+      "control",
+      "recurso",
+      "habilidad",
+      "gestion",
+      "proceso"
+    ],
+    "base_response": "Los factores internos son elementos controlables por la organización, como recursos, habilidades y procesos. Su evaluación permite identificar fortalezas y debilidades, base para ajustar la gestión y mejorar el rendimiento."
+  },
+  {
+    "intent_id": "presupuesto_financiero",
+    "keywords": [
+      "presupuesto",
+      "flujo",
+      "capital",
+      "planificar",
+      "evaluar"
+    ],
+    "base_response": "El presupuesto financiero proyecta flujos de efectivo, inversiones y necesidades de capital. Ayuda a anticipar situaciones de liquidez, evaluar riesgos y garantizar estabilidad economica. Es esencial para coordinar decisiones estrategicas y asegurar el cumplimiento de objetivos empresariales."
+  },
+  {
+    "intent_id": "costeo_absorbente",
+    "keywords": [
+      "costeo",
+      "produccion",
+      "producto",
+      "calcular",
+      "empresa"
+    ],
+    "base_response": "El costeo absorbente asigna costos fijos y variables a los productos. Es requerido para informes externos y permite evaluar el costo total de produccion. Su aplicacion ayuda a determinar precios, analizar inventarios y comprender la estructura completa de gastos."
+  },
+  {
+    "intent_id": "analisis_variaciones",
+    "keywords": [
+      "analisis",
+      "costo",
+      "presupuesto",
+      "calcular",
+      "empresa"
+    ],
+    "base_response": "El analisis de variaciones compara resultados reales con cifras presupuestadas. Identifica diferencias y permite investigar causas. Su aplicacion mejora el control de costos, fortalece la toma de decisiones y contribuye al rendimiento eficiente de la gestion empresarial."
+  },
+  {
+    "intent_id": "centros_costos",
+    "keywords": [
+      "centro",
+      "costo",
+      "empresa",
+      "control",
+      "proceso"
+    ],
+    "base_response": "Los centros de costos agrupan actividades o departamentos para controlar gastos. Facilitan asignar recursos, evaluar desempeno y mejorar eficiencia. Su uso permite comprender donde se generan costos y aplicar estrategias adecuadas para optimizar operaciones empresariales."
+  },
+  {
+    "intent_id": "inventario_final",
+    "keywords": [
+      "inventario",
+      "producto",
+      "control",
+      "empresa",
+      "almacen"
+    ],
+    "base_response": "El inventario final representa los productos disponibles al cierre del periodo. Su valoracion permite calcular costos de ventas, evaluar eficiencia de produccion y planificar compras. Es fundamental para mantener control adecuado y garantizar continuidad operativa."
+  },
+  {
+    "intent_id": "costos_oportunidad",
+    "keywords": [
+      "costo",
+      "decidir",
+      "alternativa",
+      "empresa",
+      "evaluar"
+    ],
+    "base_response": "Los costos de oportunidad representan beneficios perdidos al elegir una alternativa sobre otra. Su analisis permite evaluar decisiones estrategicas, optimizar recursos y comprender impactos futuros. Es esencial para seleccionar opciones que generen mayor valor empresarial."
+  },
+  {
+    "intent_id": "costos_relevantes",
+    "keywords": [
+      "costo",
+      "analisis",
+      "decidir",
+      "proceso",
+      "empresa"
+    ],
+    "base_response": "Los costos relevantes son aquellos que cambian segun la decision tomada. Su identificacion permite evaluar alternativas, evitar informacion innecesaria y concentrarse en factores clave. Son fundamentales para decisiones eficientes y orientadas a objetivos empresariales."
+  },
+  {
+    "intent_id": "valores_compartidos",
+    "keywords": [
+      "valor",
+      "principio",
+      "creencia",
+      "accion",
+      "norma"
+    ],
+    "base_response": "Los valores compartidos representan las convicciones fundamentales que orientan el comportamiento dentro de una organizacion. Funcionan como guia para la toma de decisiones, fortalecen la cohesion interna y permiten que los miembros actuen de manera coherente con los objetivos institucionales."
+  },
+  {
+    "intent_id": "vision_institucional",
+    "keywords": [
+      "vision",
+      "objetivo",
+      "futuro",
+      "direccion",
+      "proposito"
+    ],
+    "base_response": "La vision institucional describe el rumbo deseado por la organizacion a largo plazo. Orienta esfuerzos, inspira compromiso y ayuda a definir prioridades estrategicas. Cuando es clara y compartida, facilita la alineacion de acciones y motiva a los miembros hacia metas comunes."
+  },
+  {
+    "intent_id": "mision_organizacional",
+    "keywords": [
+      "mision",
+      "funcion",
+      "servicio",
+      "objetivo",
+      "accion"
+    ],
+    "base_response": "La mision organizacional explica la razon de ser de la entidad y define su aporte a la comunidad. Proporciona sentido al trabajo diario, orienta decisiones y establece criterios para evaluar resultados. Una mision clara fortalece la identidad institucional y mejora la coherencia operativa."
+  },
+  {
+    "intent_id": "clima_laboral",
+    "keywords": [
+      "ambiente",
+      "relacion",
+      "comunicacion",
+      "motivacion",
+      "trabajo"
+    ],
+    "base_response": "El clima laboral refleja las percepciones de los miembros sobre su entorno de trabajo. Influye en la motivacion, la productividad y la satisfaccion. Un clima positivo promueve colaboracion, confianza y bienestar, mientras que uno negativo puede generar conflictos y disminuir el rendimiento."
+  },
+  {
+    "intent_id": "liderazgo_interno",
+    "keywords": [
+      "liderazgo",
+      "direccion",
+      "motivacion",
+      "gestion",
+      "orientacion"
+    ],
+    "base_response": "El liderazgo interno determina la manera en que se guian las acciones dentro de la organizacion. Un liderazgo efectivo inspira, comunica con claridad y fomenta la participacion. Su influencia es clave para consolidar una cultura solida y promover el compromiso de todos los miembros."
+  },
+  {
+    "intent_id": "normas_internas",
+    "keywords": [
+      "norma",
+      "regla",
+      "conducta",
+      "control",
+      "accion"
+    ],
+    "base_response": "Las normas internas establecen pautas de comportamiento que regulan la convivencia y el funcionamiento institucional. Facilitan la organizacion, previenen conflictos y aseguran coherencia en las acciones. Cuando son claras y justas, fortalecen la cultura y mejoran la eficiencia colectiva."
+  },
+  {
+    "intent_id": "comunicacion_corporativa",
+    "keywords": [
+      "comunicacion",
+      "mensaje",
+      "dialogo",
+      "informacion",
+      "interaccion"
+    ],
+    "base_response": "La comunicacion corporativa integra los procesos mediante los cuales circula la informacion dentro de la organizacion. Una comunicacion efectiva promueve transparencia, fortalece relaciones y facilita la coordinacion. Es esencial para consolidar una cultura basada en confianza y colaboracion."
+  },
+  {
+    "intent_id": "identidad_institucional",
+    "keywords": [
+      "identidad",
+      "imagen",
+      "valor",
+      "historia",
+      "cultura"
+    ],
+    "base_response": "La identidad institucional representa los rasgos que distinguen a la organizacion y le otorgan personalidad propia. Incluye valores, simbolos y practicas que la caracterizan. Una identidad fuerte genera sentido de pertenencia y facilita la cohesion entre sus miembros."
+  },
+  {
+    "intent_id": "aprendizaje_colectivo",
+    "keywords": [
+      "aprendizaje",
+      "conocimiento",
+      "accion",
+      "mejora",
+      "proceso"
+    ],
+    "base_response": "El aprendizaje colectivo implica la capacidad de la organizacion para adquirir, compartir y aplicar conocimientos. Favorece la innovacion, fortalece habilidades y permite adaptarse a cambios. Cuando se promueve activamente, contribuye al desarrollo continuo de la cultura institucional."
+  },
+  {
+    "intent_id": "innovacion_cultural",
+    "keywords": [
+      "innovacion",
+      "cambio",
+      "creacion",
+      "idea",
+      "accion"
+    ],
+    "base_response": "La innovacion cultural se refiere a la capacidad de transformar practicas y creencias para mejorar el funcionamiento institucional. Impulsa creatividad, fomenta nuevas soluciones y permite adaptarse a desafios. Una cultura abierta a innovar fortalece la competitividad y el crecimiento."
+  },
+  {
+    "intent_id": "compromiso_laboral",
+    "keywords": [
+      "compromiso",
+      "motivacion",
+      "accion",
+      "participacion",
+      "trabajo"
+    ],
+    "base_response": "El compromiso laboral expresa el nivel de involucramiento y responsabilidad que los miembros asumen en sus tareas. Un alto compromiso mejora la productividad, fortalece la cultura y promueve la colaboracion. Se construye mediante reconocimiento, apoyo y claridad en los objetivos."
+  },
+  {
+    "intent_id": "etica_institucional",
+    "keywords": [
+      "etica",
+      "valor",
+      "conducta",
+      "principio",
+      "accion"
+    ],
+    "base_response": "La etica institucional establece criterios morales que orientan decisiones y comportamientos. Promueve integridad, responsabilidad y respeto. Cuando se practica de manera coherente, fortalece la confianza interna y externa, consolidando una cultura organizacional solida y transparente."
+  },
+  {
+    "intent_id": "cohesion_equipo",
+    "keywords": [
+      "cohesion",
+      "equipo",
+      "union",
+      "colaboracion",
+      "accion"
+    ],
+    "base_response": "La cohesion de equipo refleja el grado de union entre los miembros para alcanzar objetivos comunes. Favorece la colaboracion, reduce conflictos y mejora la eficiencia. Una cohesion fuerte se logra mediante comunicacion clara, apoyo mutuo y reconocimiento de las fortalezas individuales."
+  },
+  {
+    "intent_id": "rituales_institucionales",
+    "keywords": [
+      "ritual",
+      "practica",
+      "costumbre",
+      "accion",
+      "grupo"
+    ],
+    "base_response": "Los rituales institucionales son actividades simbolicas que refuerzan la identidad y los valores de la organizacion. Facilitan la integracion, fortalecen la pertenencia y consolidan tradiciones. Su repeticion genera sentido comunitario y contribuye a mantener una cultura estable."
+  },
+  {
+    "intent_id": "adaptacion_organizacional",
+    "keywords": [
+      "adaptacion",
+      "cambio",
+      "accion",
+      "proceso",
+      "mejora"
+    ],
+    "base_response": "La adaptacion organizacional describe la capacidad de ajustar estructuras, practicas y comportamientos ante nuevas circunstancias. Permite responder eficazmente a desafios y aprovechar oportunidades. Una cultura flexible facilita la transformacion y asegura continuidad en entornos cambiantes."
+  },
+  {
+    "intent_id": "reduccion_costos",
+    "keywords": [
+      "empresa",
+      "reducir",
+      "costo",
+      "gasto",
+      "ahorro"
+    ],
+    "base_response": "La reducción de costos es uno de los principales beneficios del outsourcing, ya que permite a las empresas disminuir gastos operativos al delegar actividades a proveedores especializados con menores costos."
+  },
+  {
+    "intent_id": "especializacion_tareas",
+    "keywords": [
+      "tarea",
+      "especializar",
+      "proveedor",
+      "servicio",
+      "empresa"
+    ],
+    "base_response": "La especialización en tareas es una ventaja del outsourcing, ya que los proveedores externos cuentan con experiencia y conocimientos específicos que mejoran la calidad y eficiencia de los servicios prestados."
+  },
+  {
+    "intent_id": "evaluacion_organizacional",
+    "keywords": [
+      "analisis",
+      "proceso",
+      "control",
+      "gestion",
+      "revision"
+    ],
+    "base_response": "La evaluacion organizacional identifica fortalezas y debilidades en la estructura administrativa. Examina procesos clave, determina la eficiencia operativa y permite establecer acciones correctivas. Su objetivo es mejorar la gestion institucional mediante decisiones fundamentadas y alineadas con las metas estrategicas definidas."
+  },
+  {
+    "intent_id": "diagnostico_administrativo",
+    "keywords": [
+      "diagnostico",
+      "analisis",
+      "estructura",
+      "funcion",
+      "proceso"
+    ],
+    "base_response": "El diagnostico administrativo estudia la situacion actual de una organizacion para detectar problemas y oportunidades. Analiza funciones, procesos y recursos disponibles. Facilita la toma de decisiones informadas que fortalecen la eficiencia y promueven mejoras continuas en todas las areas operativas."
+  },
+  {
+    "intent_id": "auditoria_operativa",
+    "keywords": [
+      "auditoria",
+      "operacion",
+      "evaluacion",
+      "proceso",
+      "eficiencia"
+    ],
+    "base_response": "La auditoria operativa examina procedimientos y actividades para determinar su eficiencia. Identifica fallas, analiza recursos utilizados y propone mejoras. Su finalidad es optimizar el desempeño institucional mediante recomendaciones que fortalecen la productividad y reducen costos innecesarios."
+  },
+  {
+    "intent_id": "indicadores_gestion",
+    "keywords": [
+      "indicador",
+      "medicion",
+      "proceso",
+      "resultado",
+      "evaluacion"
+    ],
+    "base_response": "Los indicadores de gestion permiten medir el desempeño administrativo mediante datos verificables. Facilitan evaluar resultados, comparar avances y detectar desviaciones. Su uso adecuado fortalece la toma de decisiones y promueve una administracion basada en evidencia y mejora continua."
+  },
+  {
+    "intent_id": "analisis_riesgos",
+    "keywords": [
+      "riesgo",
+      "analisis",
+      "evaluacion",
+      "proceso",
+      "prevencion"
+    ],
+    "base_response": "El analisis de riesgos identifica eventos que pueden afectar la operacion administrativa. Evalua probabilidades, determina impactos y propone acciones preventivas. Su aplicacion reduce vulnerabilidades y fortalece la capacidad institucional para enfrentar situaciones adversas de manera efectiva."
+  },
+  {
+    "intent_id": "revision_procedimientos",
+    "keywords": [
+      "revision",
+      "procedimiento",
+      "proceso",
+      "verificacion",
+      "ajuste"
+    ],
+    "base_response": "La revision de procedimientos analiza la forma en que se ejecutan tareas administrativas. Detecta inconsistencias, verifica cumplimiento y propone ajustes. Su objetivo es mejorar la eficiencia operativa mediante la estandarizacion de actividades y la eliminacion de pasos innecesarios."
+  },
+  {
+    "intent_id": "auditoria_recursos_humanos",
+    "keywords": [
+      "auditoria",
+      "personal",
+      "evaluacion",
+      "proceso",
+      "gestion"
+    ],
+    "base_response": "La auditoria de recursos humanos examina practicas relacionadas con el personal. Evalua procesos de seleccion, capacitacion y desempeño. Permite detectar fallas, mejorar la gestion del talento y asegurar que las politicas laborales se apliquen correctamente dentro de la organizacion."
+  },
+  {
+    "intent_id": "auditoria_tecnologica",
+    "keywords": [
+      "auditoria",
+      "tecnologia",
+      "sistema",
+      "proceso",
+      "seguridad"
+    ],
+    "base_response": "La auditoria tecnologica analiza sistemas informaticos y su funcionamiento. Evalua seguridad, eficiencia y uso adecuado de herramientas digitales. Identifica vulnerabilidades y propone mejoras que fortalecen la gestion administrativa mediante soluciones tecnicas confiables y actualizadas."
+  },
+  {
+    "intent_id": "auditoria_estrategica",
+    "keywords": [
+      "auditoria",
+      "estrategia",
+      "analisis",
+      "proceso",
+      "objetivo"
+    ],
+    "base_response": "La auditoria estrategica examina la coherencia entre acciones administrativas y objetivos institucionales. Analiza planes, recursos y resultados. Permite detectar desviaciones y recomendar ajustes que aseguren el cumplimiento de la vision organizacional y el fortalecimiento de la competitividad."
+  },
+  {
+    "intent_id": "auditoria_comunicacion",
+    "keywords": [
+      "auditoria",
+      "comunicacion",
+      "proceso",
+      "mensaje",
+      "evaluacion"
+    ],
+    "base_response": "La auditoria de comunicacion analiza la efectividad de los mensajes internos y externos. Evalua canales, claridad y coherencia informativa. Su objetivo es mejorar la relacion institucional, fortalecer la transparencia y asegurar que la informacion fluya adecuadamente entre todas las partes involucradas."
+  },
+  {
+    "intent_id": "financiamiento_externo",
+    "keywords": [
+      "financiamiento",
+      "prestamo",
+      "capital",
+      "obtener",
+      "recurso"
+    ],
+    "base_response": "El financiamiento externo consiste en obtener recursos de entidades ajenas para cubrir necesidades financieras. Permite ampliar operaciones, adquirir activos y sostener proyectos, siempre considerando costos, plazos y condiciones de pago."
+  },
+  {
+    "intent_id": "evaluacion_crediticia",
+    "keywords": [
+      "credito",
+      "analizar",
+      "pago",
+      "historial",
+      "riesgo"
+    ],
+    "base_response": "La evaluacion crediticia analiza la capacidad de pago de una persona o empresa. Considera historial, ingresos y riesgos para determinar condiciones adecuadas de financiamiento y proteger a las entidades prestadoras."
+  },
+  {
+    "intent_id": "reclutamiento_personal",
+    "keywords": [
+      "reclutamiento",
+      "seleccion",
+      "candidato",
+      "evaluacion",
+      "contratar"
+    ],
+    "base_response": "El reclutamiento de personal consiste en atraer y seleccionar candidatos adecuados para cubrir vacantes dentro de una organizacion. Incluye analizar perfiles, evaluar competencias y elegir personas capaces de contribuir al cumplimiento de objetivos institucionales mediante un proceso ordenado y transparente."
+  },
+  {
+    "intent_id": "capacitacion_laboral",
+    "keywords": [
+      "capacitacion",
+      "aprendizaje",
+      "habilidad",
+      "desarrollo",
+      "entrenar"
+    ],
+    "base_response": "La capacitacion laboral busca fortalecer habilidades y conocimientos de los trabajadores para mejorar su desempeno. Incluye actividades planificadas que permiten actualizar competencias, adaptarse a cambios organizacionales y promover un crecimiento profesional continuo que beneficie tanto al empleado como a la empresa."
+  },
+  {
+    "intent_id": "liderazgo_equipo",
+    "keywords": [
+      "liderazgo",
+      "equipo",
+      "direccion",
+      "motivacion",
+      "coordinar"
+    ],
+    "base_response": "El liderazgo de equipo consiste en guiar y motivar a los trabajadores para alcanzar objetivos comunes. Requiere habilidades de comunicacion, coordinacion y toma de decisiones que permitan crear un ambiente colaborativo, fortalecer la confianza y mejorar el rendimiento colectivo."
+  },
+  {
+    "intent_id": "motivacion_laboral",
+    "keywords": [
+      "motivacion",
+      "reconocimiento",
+      "incentivo",
+      "compromiso",
+      "participacion"
+    ],
+    "base_response": "La motivacion laboral impulsa a los empleados a realizar sus tareas con energia y compromiso. Se fortalece mediante reconocimiento, incentivos y oportunidades de participacion, generando mayor satisfaccion, productividad y alineacion con los objetivos de la organizacion."
+  },
+  {
+    "intent_id": "organizacion_trabajo",
+    "keywords": [
+      "organizacion",
+      "tarea",
+      "proceso",
+      "coordinar",
+      "estructura"
+    ],
+    "base_response": "La organizacion del trabajo define la estructura y distribucion de tareas dentro de una empresa. Permite coordinar procesos, asignar responsabilidades y optimizar recursos, asegurando que las actividades se realicen de manera eficiente y alineada con los objetivos institucionales."
+  },
+  {
+    "intent_id": "gestion_compensaciones",
+    "keywords": [
+      "compensacion",
+      "salario",
+      "beneficio",
+      "equidad",
+      "retribucion"
+    ],
+    "base_response": "La gestion de compensaciones establece salarios y beneficios que reconocen el valor del trabajo realizado. Busca mantener equidad interna, competitividad externa y motivacion, asegurando que los empleados reciban una retribucion justa acorde con sus responsabilidades y desempeno."
+  },
+  {
+    "intent_id": "bienestar_laboral",
+    "keywords": [
+      "bienestar",
+      "salud",
+      "equilibrio",
+      "prevencion",
+      "cuidado"
+    ],
+    "base_response": "El bienestar laboral promueve condiciones que favorecen la salud fisica y emocional de los trabajadores. Incluye acciones de prevencion, cuidado y equilibrio entre vida personal y profesional, contribuyendo a un entorno seguro, motivador y productivo."
+  },
+  {
+    "intent_id": "gestion_diversidad",
+    "keywords": [
+      "diversidad",
+      "inclusion",
+      "respeto",
+      "equidad",
+      "participacion"
+    ],
+    "base_response": "La gestion de la diversidad fomenta un ambiente inclusivo donde se valoran las diferencias individuales. Promueve respeto, equidad y participacion, fortaleciendo la creatividad, la innovacion y la capacidad de la organizacion para responder a necesidades variadas."
+  },
+  {
+    "intent_id": "gestion_sucesion",
+    "keywords": [
+      "sucesion",
+      "planificacion",
+      "liderazgo",
+      "reemplazo",
+      "desarrollo"
+    ],
+    "base_response": "La gestion de la sucesion identifica y prepara a empleados capaces de asumir roles clave en el futuro. Incluye planificacion y desarrollo continuo para asegurar reemplazos adecuados, garantizando estabilidad, continuidad y fortalecimiento del liderazgo organizacional."
+  },
+  {
+    "intent_id": "canal_distribucion",
+    "keywords": [
+      "canal",
+      "distribucion",
+      "venta",
+      "producto",
+      "cliente",
+      "ruta"
+    ],
+    "base_response": "El canal de distribucion es la ruta que sigue un producto desde el fabricante hasta el consumidor final. Incluye intermediarios como mayoristas o minoristas que facilitan la venta y entrega."
+  },
+  {
+    "intent_id": "precio_psicologico",
+    "keywords": [
+      "precio",
+      "psicologia",
+      "percepcion",
+      "valor",
+      "compra",
+      "estrategia"
+    ],
+    "base_response": "El precio psicologico usa tecnicas como precios impares o redondeados para influir en la percepcion del comprador. Busca hacer el costo parecer menor o mas atractivo para facilitar la venta."
+  },
+  {
+    "intent_id": "cliente_objetivo",
+    "keywords": [
+      "cliente",
+      "objetivo",
+      "perfil",
+      "mercado",
+      "compra",
+      "necesidad"
+    ],
+    "base_response": "El cliente objetivo es el perfil ideal de consumidor al que se dirige una estrategia de venta. Se define por edad, ingreso o interes para enfocar recursos y maximizar exito."
+  },
+  {
+    "intent_id": "jerarquia",
+    "keywords": [
+      "jerarquia",
+      "autoridad",
+      "nivel",
+      "mando",
+      "superior",
+      "subordinado"
+    ],
+    "base_response": "La jerarquia organiza los niveles de autoridad en una empresa, definiendo quien reporta a quien. Facilita la toma de decisiones y la comunicacion, estableciendo una cadena de mando clara para lograr eficiencia y orden en las operaciones."
+  },
+  {
+    "intent_id": "centralizacion",
+    "keywords": [
+      "centralizacion",
+      "decision",
+      "poder",
+      "alta",
+      "direccion",
+      "control"
+    ],
+    "base_response": "La centralizacion concentra la autoridad y la toma de decisiones en los niveles superiores de la organizacion. Busca uniformidad, control estricto y coherencia estrategica, aunque puede limitar la autonomia de niveles inferiores."
+  },
+  {
+    "intent_id": "amplitud_control",
+    "keywords": [
+      "amplitud",
+      "control",
+      "supervision",
+      "subordinado",
+      "gerente",
+      "alcance"
+    ],
+    "base_response": "La amplitud de control indica el numero de subordinados que un gerente supervisa directamente. Una amplitud amplia reduce niveles jerarquicos, mientras que una estrecha permite un mayor seguimiento y supervision detallada de cada empleado."
+  },
+  {
+    "intent_id": "cadena_mando",
+    "keywords": [
+      "cadena",
+      "mando",
+      "autoridad",
+      "linea",
+      "reporte",
+      "orden"
+    ],
+    "base_response": "La cadena de mando es la linea de autoridad que recorre la organizacion desde el nivel superior hasta el inferior. Define quien tiene poder de decision y a quien se debe rendir cuentas, estableciendo la jerarquia formal."
+  },
+  {
+    "intent_id": "coordinacion",
+    "keywords": [
+      "coordinacion",
+      "integracion",
+      "actividad",
+      "area",
+      "comunicacion",
+      "sincronizacion"
+    ],
+    "base_response": "La coordinacion asegura que las distintas partes de la organizacion trabajen de manera armonica hacia objetivos comunes. Implica sincronizar esfuerzos, compartir informacion y alinear recursos para evitar conflictos y duplicidad de funciones."
+  },
+  {
+    "intent_id": "division_trabajo",
+    "keywords": [
+      "division",
+      "trabajo",
+      "especializacion",
+      "tarea",
+      "eficiencia",
+      "rol"
+    ],
+    "base_response": "La division del trabajo fragmenta las actividades complejas en tareas mas simples y especificas. Cada persona se especializa en una funcion, aumentando la productividad, la destreza y la rapidez, base de la organizacion moderna."
+  },
+  {
+    "intent_id": "formalizacion",
+    "keywords": [
+      "formalizacion",
+      "regla",
+      "procedimiento",
+      "norma",
+      "estandar",
+      "documento"
+    ],
+    "base_response": "La formalizacion establece normas, reglas y procedimientos escritos que guian el comportamiento organizacional. Busca uniformidad, previsibilidad y control, aunque en exceso puede reducir la flexibilidad y la creatividad de los empleados."
+  },
+  {
+    "intent_id": "estructura_matricial",
+    "keywords": [
+      "matriz",
+      "proyecto",
+      "equipo",
+      "funcion",
+      "autoridad",
+      "dual"
+    ],
+    "base_response": "La estructura matricial combina la departamentalizacion funcional con la de proyectos. Los empleados reportan a dos jefes, uno funcional y otro de proyecto, buscando flexibilidad, uso eficiente de recursos y respuesta rapida a cambios."
+  },
+  {
+    "intent_id": "estructura_funcional",
+    "keywords": [
+      "funcion",
+      "departamento",
+      "especializacion",
+      "area",
+      "jerarquia",
+      "tarea"
+    ],
+    "base_response": "La estructura funcional agrupa empleados por especialidad, como ventas o produccion. Cada departamento tiene un jefe y se enfoca en su funcion, logrando eficiencia y profundidad de conocimiento, pero puede generar aislamiento entre areas."
+  },
+  {
+    "intent_id": "estructura_divisional",
+    "keywords": [
+      "division",
+      "producto",
+      "mercado",
+      "geografia",
+      "unidad",
+      "autonomia"
+    ],
+    "base_response": "La estructura divisional organiza la empresa en unidades semiautonomas basadas en producto, cliente o region. Cada division opera como un negocio independiente, facilitando la adaptacion local y la responsabilidad por resultados."
+  },
+  {
+    "intent_id": "trabajo_equipo",
+    "keywords": [
+      "trabajo",
+      "equipo",
+      "colaboracion",
+      "meta",
+      "comunicacion",
+      "sinergia"
+    ],
+    "base_response": "El trabajo en equipo reune personas con habilidades complementarias para lograr un objetivo comun. Fomenta la colaboracion, la creatividad y la sinergia, mejorando la resolucion de problemas y la motivacion de los integrantes."
+  },
+  {
+    "intent_id": "targeting",
+    "keywords": [
+      "targeting",
+      "mercado",
+      "objetivo",
+      "seleccionar",
+      "segmento",
+      "enfoque"
+    ],
+    "base_response": "Targeting consiste en seleccionar uno o varios segmentos de mercado a los cuales la empresa dirigira sus esfuerzos. Implica evaluar atractivo y compatibilidad con los recursos organizacionales para enfocar la estrategia comercial."
+  },
+  {
+    "intent_id": "posicionamiento",
+    "keywords": [
+      "posicionamiento",
+      "producto",
+      "marca",
+      "mente",
+      "consumidor",
+      "percepcion"
+    ],
+    "base_response": "Posicionamiento busca ocupar un lugar distintivo en la mente del consumidor frente a la competencia. Se logra mediante atributos unicos, beneficios claros y una comunicacion coherente que diferencia la marca en el mercado."
+  },
+  {
+    "intent_id": "diferenciacion",
+    "keywords": [
+      "diferenciacion",
+      "ventaja",
+      "competitivo",
+      "producto",
+      "servicio",
+      "valor"
+    ],
+    "base_response": "Diferenciacion es crear un producto o servicio percibido como unico en el mercado. Permite obtener ventaja competitiva al ofrecer caracteristicas exclusivas que satisfacen necesidades especificas y justifican un precio superior."
+  },
+  {
+    "intent_id": "ciclo_vida_producto",
+    "keywords": [
+      "ciclo",
+      "vida",
+      "producto",
+      "etapa",
+      "introduccion",
+      "declive"
+    ],
+    "base_response": "El ciclo de vida del producto describe las etapas por las que atraviesa desde su lanzamiento hasta su retiro. Incluye introduccion, crecimiento, madurez y declive, cada una con estrategias de marketing y gestion especificas."
+  },
+  {
+    "intent_id": "marketing_mix",
+    "keywords": [
+      "marketing",
+      "mezcla",
+      "producto",
+      "precio",
+      "plaza",
+      "promocion"
+    ],
+    "base_response": "Marketing mix es el conjunto de herramientas tacticas controlables que la empresa combina para influir en la demanda. Incluye producto, precio, plaza y promocion, variables que se ajustan para lograr los objetivos comerciales."
+  },
+  {
+    "intent_id": "canales_distribucion",
+    "keywords": [
+      "canal",
+      "distribucion",
+      "producto",
+      "cliente",
+      "intermediario",
+      "logistica"
+    ],
+    "base_response": "Canales de distribucion son las rutas que sigue un producto desde el fabricante hasta el consumidor final. Involucran intermediarios como mayoristas y minoristas, y decisiones sobre cobertura, control y costos logisticos."
+  },
+  {
+    "intent_id": "branding",
+    "keywords": [
+      "branding",
+      "marca",
+      "identidad",
+      "imagen",
+      "valor",
+      "percepcion"
+    ],
+    "base_response": "Branding es la gestion estrategica de la marca para construir una identidad unica y positiva en la mente del consumidor. Incluye diseno, comunicacion y experiencia, creando lealtad y valor intangible para la empresa."
+  }
+]
