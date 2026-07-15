@@ -1,0 +1,332 @@
+[
+  {
+    "intent_id": "mediana_de_datos",
+    "keywords": [
+      "ordenamiento",
+      "calculo",
+      "mediana",
+      "datos",
+      "posicion"
+    ],
+    "base_response": "La mediana es el valor central de un conjunto de datos ordenados. Se obtiene organizando los valores y ubicando el que queda justo en medio. Si hay dos valores centrales, la mediana es el promedio entre ambos. Representa una medida resistente ante extremos."
+  },
+  {
+    "intent_id": "media_aritmetica_promedio",
+    "keywords": [
+      "media",
+      "promedio",
+      "numeros",
+      "sumar",
+      "dividir",
+      "conjunto"
+    ],
+    "base_response": "La media aritmética, también llamada promedio, se calcula sumando todos los valores de un conjunto y dividiéndolo por la cantidad de elementos. Este valor representa el centro de masa numérica del conjunto, para evaluar la dispersión."
+  },
+  {
+    "intent_id": "diseno_de_encuestas",
+    "keywords": [
+      "muestreo",
+      "pregunta",
+      "analisis",
+      "respuesta",
+      "formulacion"
+    ],
+    "base_response": "El diseño de encuestas implica seleccionar una muestra adecuada, formular preguntas claras y definir tipos de respuesta que permitan obtener datos útiles. Un buen diseño evita sesgos, organiza la información y facilita el análisis para comprender patrones y tomar decisiones fundamentadas."
+  },
+  {
+    "intent_id": "varianza_de_dispersion",
+    "keywords": [
+      "varianza",
+      "calculo",
+      "datos",
+      "distribucion",
+      "medicion"
+    ],
+    "base_response": "La varianza mide cuánto se alejan los datos de su media. Se calcula usando las diferencias cuadráticas respecto al promedio. Un valor alto indica mayor dispersión y uno bajo señala datos más agrupados. Ayuda a comprender la estabilidad o variabilidad en conjuntos numéricos."
+  },
+  {
+    "intent_id": "poblacion_de_estudio",
+    "keywords": [
+      "seleccion",
+      "plazo",
+      "representatividad",
+      "filtro",
+      "muestra"
+    ],
+    "base_response": "En estadística educativa, la población de estudio es el conjunto completo de individuos, entidades o eventos que poseen las características relevantes para el análisis y cuya información será recopilada para inferir conclusiones sobre el fenómeno investigado."
+  },
+  {
+    "intent_id": "desviacion_estandar_tipica",
+    "keywords": [
+      "desviacion",
+      "media",
+      "calculo",
+      "dispersion",
+      "tipica"
+    ],
+    "base_response": "La desviación estándar típica mide la dispersión media de los datos respecto a la media aritmética y se expresa con la misma unidad que los datos originales. Su fórmula involucra la raíz cuadrada del promedio de los cuadrados de las diferencias."
+  },
+  {
+    "intent_id": "datos_agrupados_continuos",
+    "keywords": [
+      "agrupacion",
+      "intervalos",
+      "frecuencias",
+      "analisis",
+      "datos"
+    ],
+    "base_response": "Los datos agrupados continuos organizan valores numéricos en intervalos de igual amplitud para facilitar el análisis. Cada intervalo reúne múltiples mediciones y permite calcular frecuencias, distribuciones y tendencias, apoyando interpretaciones más claras en estudios estadísticos escolares."
+  },
+  {
+    "intent_id": "frecuencia_absoluta_simple",
+    "keywords": [
+      "conteo",
+      "registro",
+      "dato",
+      "valor",
+      "ocurrencia"
+    ],
+    "base_response": "La frecuencia absoluta simple indica cuántas veces aparece un valor dentro de un conjunto de datos. Se obtiene contando cada ocurrencia sin realizar operaciones adicionales. Permite identificar patrones básicos y comparar repeticiones para analizar información de manera inicial y ordenada."
+  },
+  {
+    "intent_id": "frecuencia_relativa_porcentual",
+    "keywords": [
+      "conteo",
+      "porcentaje",
+      "calculo",
+      "interpretacion",
+      "frecuencia"
+    ],
+    "base_response": "La frecuencia relativa porcentual expresa cuántas veces ocurre un resultado respecto al total, transformado en porcentaje. Se obtiene dividiendo la frecuencia absoluta entre el número total de datos y multiplicando por cien. Permite comparar categorías y analizar distribuciones con claridad."
+  },
+  {
+    "intent_id": "frecuencia_absoluta_acumulada",
+    "keywords": [
+      "conteo",
+      "registro",
+      "ordenamiento",
+      "acumulacion",
+      "analisis"
+    ],
+    "base_response": "La frecuencia absoluta acumulada representa el total progresivo de datos contabilizados hasta cada valor en una distribución. Se obtiene sumando las frecuencias absolutas anteriores, permitiendo identificar cuántos datos se han registrado como mínimo hasta un punto específico."
+  },
+  {
+    "intent_id": "moda_estadistica_frecuente",
+    "keywords": [
+      "calculo",
+      "conteo",
+      "frecuencia",
+      "datos",
+      "analisis"
+    ],
+    "base_response": "La moda estadística frecuente es el valor que aparece más veces en un conjunto de datos. Permite identificar tendencias rápidas y comparar grupos. En contextos escolares ayuda a reconocer patrones y tomar decisiones basadas en información cuantitativa clara y repetida."
+  },
+  {
+    "intent_id": "variables_estadisticas_cualitativas",
+    "keywords": [
+      "clasificacion",
+      "registro",
+      "categoria",
+      "analisis",
+      "interpretacion"
+    ],
+    "base_response": "Las variables estadísticas cualitativas representan características no numéricas que permiten clasificar datos en categorías. Se utilizan para organizar información según atributos comunes y facilitan el análisis de frecuencias, patrones y diferencias dentro de un conjunto de datos observados."
+  },
+  {
+    "intent_id": "muestra_representativa_aleatoria",
+    "keywords": [
+      "muestra",
+      "seleccion",
+      "poblacion",
+      "analisis",
+      "datos"
+    ],
+    "base_response": "Una muestra representativa aleatoria es un conjunto de datos elegido al azar donde cada elemento de la población tiene la misma probabilidad de ser seleccionado. Permite obtener conclusiones confiables sin estudiar toda la población, reduciendo sesgos y mejorando la precisión estadística."
+  },
+  {
+    "intent_id": "intervalos_de_clase",
+    "keywords": [
+      "intervalos",
+      "clase",
+      "agrupacion",
+      "datos",
+      "analisis"
+    ],
+    "base_response": "Los intervalos de clase organizan datos agrupándolos en rangos de valores con límites definidos. Facilitan identificar patrones, comparar frecuencias y construir histogramas. Su correcta elección mejora la interpretación estadística y permite analizar conjuntos extensos de información de manera clara y ordenada."
+  },
+  {
+    "intent_id": "variables_cuantitativas_discretas",
+    "keywords": [
+      "conteo",
+      "registro",
+      "medicion",
+      "clasificacion",
+      "analisis"
+    ],
+    "base_response": "Las variables cuantitativas discretas representan datos numéricos obtenidos mediante conteos. Solo admiten valores enteros y permiten analizar fenómenos donde cada unidad es indivisible. Facilitan organizar información, construir tablas de frecuencia y comprender patrones presentes en conjuntos de datos."
+  },
+  {
+    "intent_id": "tabla_de_distribucion",
+    "keywords": [
+      "tabla",
+      "datos",
+      "frecuencia",
+      "comparar",
+      "representar"
+    ],
+    "base_response": "Una tabla de distribución presenta datos agregados de una población, disposuidos según categorías o valores, mostrando la frecuencia o proporción de cada grupo. Facilita el análisis estadístico al visualizar patrón de ocurrencia y comparar bloques de datos."
+  },
+  {
+    "intent_id": "diagrama_de_barras",
+    "keywords": [
+      "comparacion",
+      "datos",
+      "medicion",
+      "representacion",
+      "analisis"
+    ],
+    "base_response": "Un diagrama de barras representa cantidades mediante barras cuya longitud corresponde al valor medido. Permite comparar categorías de manera visual y rápida, facilitando la interpretación de diferencias y tendencias. Es útil para organizar información numérica y apoyar conclusiones fundamentadas."
+  },
+  {
+    "intent_id": "marcas_de_clase",
+    "keywords": [
+      "ordenamiento",
+      "agrupacion",
+      "datos",
+      "intervalos",
+      "analisis"
+    ],
+    "base_response": "Las marcas de clase representan el punto medio de cada intervalo en una tabla de frecuencias y permiten estimar valores dentro de conjuntos de datos agrupados. Facilitan cálculos como medias o varianzas y ayudan a interpretar tendencias cuando los datos no están presentados individualmente."
+  },
+  {
+    "intent_id": "cuartiles_de_posicion",
+    "keywords": [
+      "cuartiles",
+      "datos",
+      "ordenar",
+      "calcular",
+      "interpretar"
+    ],
+    "base_response": "Los cuartiles de posición dividen un conjunto de datos ordenados en cuatro partes iguales. Cada cuartil señala un punto clave que permite analizar la distribución y detectar concentraciones o dispersión. Facilitan comparar grupos y comprender variaciones dentro de la información estudiada."
+  },
+  {
+    "intent_id": "histograma_de_frecuencias",
+    "keywords": [
+      "conteo",
+      "agrupacion",
+      "datos",
+      "intervalos",
+      "representacion"
+    ],
+    "base_response": "Un histograma de frecuencias organiza datos en intervalos iguales y muestra cuántos valores caen en cada uno. Permite identificar patrones, concentraciones y variaciones dentro de un conjunto de datos, facilitando comparaciones visuales y el análisis de distribuciones reales."
+  },
+  {
+    "intent_id": "poligono_de_frecuencias",
+    "keywords": [
+      "poligono",
+      "frecuencia",
+      "grafico",
+      "dato",
+      "interpretacion"
+    ],
+    "base_response": "Un polígono de frecuencias es una representación gráfica que une con segmentos los puntos medios superiores de cada intervalo en una distribución de datos. Permite visualizar tendencias, comparar variaciones y analizar cómo se comportan las frecuencias dentro de un conjunto organizado."
+  },
+  {
+    "intent_id": "rango_de_datos",
+    "keywords": [
+      "rango",
+      "datos",
+      "calculo",
+      "variacion",
+      "estadistica"
+    ],
+    "base_response": "El rango de datos representa la diferencia entre el valor máximo y el valor mínimo en un conjunto. Permite identificar la amplitud de variación y analizar cómo se dispersan los datos, facilitando comparaciones y la comprensión de patrones dentro de una distribución numérica."
+  },
+  {
+    "intent_id": "deciles_estadisticos_fragmentados",
+    "keywords": [
+      "ordenamiento",
+      "calculo",
+      "interpretacion",
+      "segmentacion",
+      "comparacion"
+    ],
+    "base_response": "Los deciles estadísticos fragmentados dividen un conjunto de datos en diez partes iguales, pero analizan cada segmento por separado para identificar variaciones internas. Permiten comparar grupos específicos, detectar patrones locales y comprender mejor la distribución sin depender únicamente del conjunto completo."
+  },
+  {
+    "intent_id": "percentiles_de_distribucion",
+    "keywords": [
+      "ordenar",
+      "comparar",
+      "interpretar",
+      "calcular",
+      "analizar"
+    ],
+    "base_response": "Los percentiles de distribución permiten ubicar un dato dentro de un conjunto ordenado, indicando qué porcentaje de valores queda por debajo. Facilitan comparar rendimientos, interpretar variaciones y analizar posiciones relativas en evaluaciones o mediciones estadísticas escolares."
+  },
+  {
+    "intent_id": "medidas_de_tendencia",
+    "keywords": [
+      "promedio",
+      "calculo",
+      "analisis",
+      "datos",
+      "variacion"
+    ],
+    "base_response": "Las medidas de tendencia resumen un conjunto de datos mediante valores representativos que facilitan interpretar patrones. La media, la mediana y la moda permiten comparar distribuciones, identificar comportamientos centrales y apoyar decisiones basadas en información cuantitativa confiable dentro de contextos escolares y cotidianos."
+  },
+  {
+    "intent_id": "grafico_de_pastel",
+    "keywords": [
+      "representacion",
+      "porcentaje",
+      "comparacion",
+      "interpretacion",
+      "analisis"
+    ],
+    "base_response": "Un gráfico de pastel muestra cómo se distribuye un conjunto de datos en partes proporcionales. Cada sector representa un porcentaje del total, permitiendo comparar rápidamente categorías. Su lectura exige identificar valores, interpretar proporciones y relacionar cada segmento con el conjunto completo."
+  },
+  {
+    "intent_id": "recoleccion_de_informacion",
+    "keywords": [
+      "recoger",
+      "identificar",
+      "organizar",
+      "analizar",
+      "construir"
+    ],
+    "base_response": "La recolección de información constituye la fase inicial donde los estudiantes identifican fuentes confiables, extraen datos relevantes y los organizan en tablas o mapas conceptuales, facilitando su análisis crítico y la posterior construcción de argumentos matemáticos fundamentados."
+  },
+  {
+    "intent_id": "tabulacion_de_resultados",
+    "keywords": [
+      "tabulacion",
+      "registro",
+      "conteo",
+      "organizacion",
+      "analisis"
+    ],
+    "base_response": "La tabulación de resultados consiste en organizar datos en tablas para facilitar su conteo, comparación y análisis. Permite identificar patrones, verificar frecuencias y apoyar conclusiones basadas en información ordenada. Es esencial para interpretar resultados en actividades estadísticas escolares."
+  },
+  {
+    "intent_id": "coeficiente_de_variacion",
+    "keywords": [
+      "variacion",
+      "calculo",
+      "comparacion",
+      "datos",
+      "analisis"
+    ],
+    "base_response": "El coeficiente de variación mide la dispersión relativa de un conjunto de datos comparando la desviación estándar con la media. Permite evaluar qué tan consistente es la información y facilita comparar variabilidad entre grupos con diferentes magnitudes promedio."
+  },
+  {
+    "intent_id": "sesgo_de_distribucion",
+    "keywords": [
+      "medir",
+      "analizar",
+      "recolectar",
+      "comparar"
+    ],
+    "base_response": "El sesgo de distribución es la tendencia a que los resultados de pruebas, encuestas o experimentos se acerquen a valores extremos, distorsionando la media y la varianza. Reconocerlo permite ajustar métodos para obtener conclusiones fiables."
+  }
+]
