@@ -1,0 +1,2317 @@
+[
+  {
+    "intent_id": "hidratacion_celular_ejercicio",
+    "keywords": [
+      "agua",
+      "celula",
+      "rendimiento",
+      "transpiracion",
+      "sed"
+    ],
+    "base_response": "El agua es el componente principal del cuerpo humano y resulta vital para el rendimiento físico. Cuando haces ejercicio, pierdes líquidos por el sudor. Beber agua constantemente previene los mareos, mantiene tus células vivas y permite que tus músculos trabajen correctamente."
+  },
+  {
+    "intent_id": "fase_calentamiento_articular",
+    "keywords": [
+      "articulacion",
+      "temperatura",
+      "movimiento",
+      "prevencion",
+      "preparacion"
+    ],
+    "base_response": "El calentamiento articular eleva la temperatura de tus tendones y ligamentos de forma gradual y controlada. Al realizar movimientos circulares lentos antes de una actividad física intensa, previenes desgarros musculares, mejoras la circulación de la sangre y preparas tu cuerpo adecuadamente."
+  },
+  {
+    "intent_id": "recuperacion_sueno_profundo",
+    "keywords": [
+      "descanso",
+      "hormona",
+      "crecimiento",
+      "reparacion",
+      "noche"
+    ],
+    "base_response": "Durante el sueño profundo y prolongado por la noche, tu cerebro libera la hormona del crecimiento. Este proceso biológico es totalmente indispensable para reparar las microlesiones musculares originadas durante el entrenamiento, garantizando que despiertes con la energía suficiente cada mañana."
+  },
+  {
+    "intent_id": "alimentacion_glucogeno_muscular",
+    "keywords": [
+      "carbohidrato",
+      "energia",
+      "glucogeno",
+      "musculo",
+      "reserva"
+    ],
+    "base_response": "Los alimentos ricos en carbohidratos complejos, como la avena y el arroz, se almacenan en tus músculos como glucógeno. Esta sustancia funciona como el combustible principal durante los ejercicios intensos, proporcionando la energía sostenida que necesitas para correr velozmente sin agotarte rápidamente."
+  },
+  {
+    "intent_id": "estiramiento_elasticidad_fibra",
+    "keywords": [
+      "estiramiento",
+      "elasticidad",
+      "fibra",
+      "rango",
+      "flexibilidad"
+    ],
+    "base_response": "Los ejercicios de estiramiento progresivo aumentan la longitud temporal de tus fibras musculares y mejoran el rango de movimiento articular. Al estirar suavemente al finalizar tu entrenamiento, reduces la acumulación de ácido láctico y evitas sentir rigidez corporal al día siguiente."
+  },
+  {
+    "intent_id": "postura_ergonomia_columna",
+    "keywords": [
+      "columna",
+      "vertebra",
+      "espalda",
+      "alineacion",
+      "equilibrio"
+    ],
+    "base_response": "Mantener la espalda recta y el abdomen levemente contraído protege los discos ubicados entre tus vértebras. Una postura ergonómica adecuada distribuye mejor el peso corporal, previene los dolores lumbares a largo plazo y mejora significativamente la oxigenación general de tus pulmones."
+  },
+  {
+    "intent_id": "respiracion_diafragmatica_controlada",
+    "keywords": [
+      "respiracion",
+      "diafragma",
+      "oxigeno",
+      "pulmon",
+      "fatiga"
+    ],
+    "base_response": "La respiración diafragmática utiliza el músculo inferior de los pulmones para maximizar la entrada de oxígeno al cuerpo. Inspirar profundo por la nariz y exhalar lentamente por la boca durante el ejercicio ayuda a reducir la fatiga y mantiene tu concentración."
+  },
+  {
+    "intent_id": "agilidad_neuromuscular_respuesta",
+    "keywords": [
+      "agilidad",
+      "respuesta",
+      "cerebro",
+      "reflejo",
+      "obstaculo"
+    ],
+    "base_response": "La agilidad deportiva es la capacidad excepcional de tu sistema nervioso para cambiar rápidamente la dirección de tu cuerpo sin perder el equilibrio. Entrenar con conos y obstáculos mejora la comunicación entre el cerebro y las extremidades, acelerando tus reflejos enormemente."
+  },
+  {
+    "intent_id": "fuerza_isometrica_resistencia",
+    "keywords": [
+      "fuerza",
+      "contraccion",
+      "postura",
+      "estabilidad",
+      "tension"
+    ],
+    "base_response": "La fuerza isométrica ocurre cuando tensas un músculo sin cambiar su longitud, como al mantener una plancha abdominal sostenida. Este tipo de resistencia fortalece los tendones profundos, mejora drásticamente la estabilidad de las articulaciones mayores y desarrolla un núcleo corporal sólido."
+  },
+  {
+    "intent_id": "coordinacion_culo_manual",
+    "keywords": [
+      "ojo",
+      "mano",
+      "precision",
+      "lanzamiento",
+      "recepcion"
+    ],
+    "base_response": "La coordinación óculo manual sincroniza la información visual captada por tus ojos con el movimiento rápido de tus manos. Practicar pases con una pelota pequeña perfecciona la precisión motriz, facilitando el aprendizaje exitoso de deportes dinámicos como el baloncesto o voleibol."
+  },
+  {
+    "intent_id": "microdescanso_deportivo_controlado",
+    "keywords": [
+      "descanso",
+      "recuperar",
+      "musculo",
+      "prevenir",
+      "lesion"
+    ],
+    "base_response": "El microdescanso deportivo consiste en realizar pausas breves entre ejercicios intensos para permitir que los músculos recuperen energía. Estas pausas controladas mejoran el rendimiento, reducen la fatiga y ayudan a prevenir lesiones durante entrenamientos prolongados en jóvenes deportistas."
+  },
+  {
+    "intent_id": "respiracion_en_saltos_deportivos",
+    "keywords": [
+      "respiracion",
+      "saltar",
+      "coordinacion",
+      "control",
+      "equilibrar"
+    ],
+    "base_response": "El control de la respiración durante saltos deportivos ayuda a mantener estabilidad corporal y mejorar la coordinación. Inhalar antes del impulso y exhalar al caer reduce tensión muscular, favorece equilibrio y previene molestias, permitiendo movimientos más seguros y eficientes en cada práctica."
+  },
+  {
+    "intent_id": "control_postural_en_sentadillas",
+    "keywords": [
+      "postura",
+      "equilibrar",
+      "cadera",
+      "alinear"
+    ],
+    "base_response": "La sentadilla requiere mantener la espalda recta y las rodillas alineadas con los pies para evitar tensiones innecesarias. Controlar la posición de la cadera permite distribuir el esfuerzo correctamente y mejorar la estabilidad durante el movimiento, favoreciendo un entrenamiento seguro y eficiente."
+  },
+  {
+    "intent_id": "hidratacion_intermitente_en_entrenamiento",
+    "keywords": [
+      "hidratacion",
+      "pausa",
+      "ejercicio",
+      "agua",
+      "rendimiento"
+    ],
+    "base_response": "La hidratación intermitente consiste en beber pequeños sorbos de agua antes, durante y después del ejercicio, sin esperar a tener sed. Ayuda a mantener la energía, regular la temperatura corporal y evitar calambres, especialmente en actividades largas o intensas."
+  },
+  {
+    "intent_id": "control_postural_en_sentadillas_a",
+    "keywords": [
+      "postura",
+      "equilibrar",
+      "cadera",
+      "alinear",
+      "torso",
+      "mantener"
+    ],
+    "base_response": "La sentadilla requiere controlar la postura para evitar tensiones innecesarias. Mantener la cadera alineada, el torso firme y los pies estables mejora la seguridad del movimiento. Practicar este control postural fortalece la técnica y reduce riesgos durante rutinas deportivas frecuentes."
+  },
+  {
+    "intent_id": "respiracion_carreras_moderadas",
+    "keywords": [
+      "respiracion",
+      "correr",
+      "oxigenacion",
+      "mantener"
+    ],
+    "base_response": "El control de la respiración durante carreras moderadas ayuda a mantener ritmo estable y evitar fatiga temprana. Inhalar por la nariz y exhalar por la boca mejora oxigenación, sostiene energía y favorece una técnica eficiente que reduce molestias corporales."
+  },
+  {
+    "intent_id": "respiracion_pliometrica_controlada",
+    "keywords": [
+      "respiracion",
+      "saltar",
+      "torso",
+      "control",
+      "musculo"
+    ],
+    "base_response": "La técnica de respiración durante saltos pliométricos ayuda a estabilizar el torso, mejorar la potencia y reducir la fatiga. Inhalar antes del impulso y exhalar al aterrizar permite mantener control corporal y prevenir tensiones innecesarias en músculos clave."
+  },
+  {
+    "intent_id": "hidratacion_adecuada_ejercicio",
+    "keywords": [
+      "hidratacion",
+      "mantener",
+      "energia",
+      "beber",
+      "agua"
+    ],
+    "base_response": "Mantener una hidratación adecuada durante el ejercicio es fundamental para conservar la energía y evitar la fatiga. Beber agua en pequeñas cantidades y de forma constante ayuda a reponer líquidos perdidos por el sudor y mejora el rendimiento físico y mental."
+  },
+  {
+    "intent_id": "control_respiratorio_activo",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "diafragma",
+      "coordinar"
+    ],
+    "base_response": "La respiración diafragmática durante el ejercicio mejora la estabilidad corporal y reduce la fatiga. Al controlar el movimiento del diafragma, los estudiantes optimizan la entrada de aire, mantienen mejor coordinación motriz y sostienen esfuerzos físicos prolongados sin perder eficiencia ni comodidad."
+  },
+  {
+    "intent_id": "ejercicios_propriocepcion",
+    "keywords": [
+      "equilibrio",
+      "ejecutar",
+      "caidas",
+      "prevenir"
+    ],
+    "base_response": "Según la práctica de equilibrio, los niños aprenden a reconocer la posición de sus articulaciones mediante superficies inestables. Cuando ejecutan ejercicios de propriocepción, mejoran su sensibilidad al movimiento, reduciendo la probabilidad de caídas durante actividades recreativas."
+  },
+  {
+    "intent_id": "respiracion_pliometrica_control",
+    "keywords": [
+      "respiracion",
+      "saltar",
+      "estabilidad",
+      "exhalar"
+    ],
+    "base_response": "El control de la respiración durante saltos pliométricos ayuda a estabilizar el cuerpo, mejorar la potencia y evitar tensiones innecesarias. Inhalar antes del impulso y exhalar al aterrizar permite mantener ritmo, proteger articulaciones y optimizar el rendimiento deportivo juvenil de manera segura."
+  },
+  {
+    "intent_id": "control_postural_dinamico",
+    "keywords": [
+      "postura",
+      "movimiento",
+      "equilibrio",
+      "fortalecer"
+    ],
+    "base_response": "El control postural dinámico consiste en mantener una alineación corporal estable mientras el cuerpo se mueve rápidamente. Ayuda a prevenir lesiones, mejora la coordinación y permite ejecutar gestos deportivos con mayor precisión. Requiere práctica constante y fortalecimiento de músculos estabilizadores."
+  },
+  {
+    "intent_id": "respiracion_carreras_moderadas_a",
+    "keywords": [
+      "respiracion",
+      "correr",
+      "esfuerzo",
+      "mejorar"
+    ],
+    "base_response": "El control de la respiración durante carreras moderadas permite mantener un ritmo estable y reducir la fatiga. Practicar inhalaciones profundas y exhalaciones rítmicas mejora la oxigenación muscular, favorece la resistencia y ayuda a sostener esfuerzos prolongados con mayor seguridad."
+  },
+  {
+    "intent_id": "control_respiratorio_deportivo",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "diafragma",
+      "fortalecer"
+    ],
+    "base_response": "El control respiratorio deportivo consiste en usar el diafragma para regular el aire durante movimientos intensos, evitando tensión innecesaria. Esta técnica mejora la resistencia, estabiliza la postura y ayuda a mantener un ritmo constante mientras se realizan ejercicios prolongados o actividades físicas exigentes."
+  },
+  {
+    "intent_id": "control_postural_dinamico_a",
+    "keywords": [
+      "columna",
+      "alinear",
+      "musculo",
+      "estabilizar"
+    ],
+    "base_response": "La técnica de control postural dinámico enseña a mantener la columna alineada mientras el cuerpo se mueve. Ayuda a evitar tensiones musculares y mejora la estabilidad durante actividades deportivas intensas. Practicarla permite ejecutar gestos rápidos con mayor seguridad y eficiencia física."
+  },
+  {
+    "intent_id": "respiracion_deportiva_control",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "oxigeno",
+      "mantener",
+      "coordinacion"
+    ],
+    "base_response": "El control de la respiración durante esfuerzos intensos permite mantener estabilidad corporal y mejorar la resistencia. Practicar inhalaciones profundas y exhalaciones rítmicas ayuda a evitar mareos, optimiza el flujo de oxígeno y sostiene movimientos deportivos eficientes sin perder coordinación."
+  },
+  {
+    "intent_id": "control_respiratorio_deportivo_a",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "diafragma",
+      "fortalecer"
+    ],
+    "base_response": "El control respiratorio deportivo consiste en aprender a usar el diafragma para inhalar profundamente durante el ejercicio, mejorando la oxigenación muscular. Esta técnica ayuda a mantener la resistencia, reducir la fatiga y sostener un ritmo físico estable mientras se realizan actividades deportivas intensas."
+  },
+  {
+    "intent_id": "prevencion_lesiones_sobreuso_deportivo",
+    "keywords": [
+      "lesiones",
+      "prevenir",
+      "descansar",
+      "practicar",
+      "supervisar"
+    ],
+    "base_response": "Prevenir lesiones por sobreuso requiere descansar adecuadamente, practicar variedad de deportes y supervisar la técnica. Es fundamental evitar la repetición excesiva de movimientos para proteger músculos y articulaciones, garantizando un desarrollo físico saludable y seguro en la práctica deportiva diaria."
+  },
+  {
+    "intent_id": "prevencion_lesiones_sobreuso_deporte",
+    "keywords": [
+      "lesiones",
+      "prevenir",
+      "descansar",
+      "ejercitar",
+      "hidratar"
+    ],
+    "base_response": "Prevenir lesiones por sobreuso requiere alternar días de ejercicio con descanso adecuado, hidratarse correctamente y realizar calentamientos específicos. Esto ayuda a evitar daños musculares y articulares, promoviendo una práctica deportiva segura y saludable en adolescentes activos."
+  },
+  {
+    "intent_id": "microdescanso_deportivo_controlado_a",
+    "keywords": [
+      "microdescanso",
+      "recuperar",
+      "musculo",
+      "entrenar"
+    ],
+    "base_response": "El microdescanso deportivo consiste en pausas breves durante entrenamientos intensos para permitir que los músculos recuperen energía, estabilicen la respiración y mantengan la concentración. Estas interrupciones controladas ayudan a prevenir fatiga excesiva y mejoran la calidad del rendimiento físico general."
+  },
+  {
+    "intent_id": "respiracion_diafragmatica_deportiva",
+    "keywords": [
+      "respiracion",
+      "mejorar",
+      "estabilidad",
+      "prevenir"
+    ],
+    "base_response": "La respiración diafragmática durante el ejercicio mejora la estabilidad corporal y reduce la fatiga al permitir un flujo de aire más eficiente. Practicarla conscientemente ayuda a mantener un ritmo constante, optimiza el rendimiento físico y previene tensiones innecesarias en el pecho y cuello."
+  },
+  {
+    "intent_id": "respiracion_diafragmatica_deportiva_a",
+    "keywords": [
+      "respiracion",
+      "mejorar",
+      "abdomen",
+      "inhalar",
+      "postura",
+      "mantener"
+    ],
+    "base_response": "La respiración diafragmática durante el ejercicio mejora la oxigenación muscular y reduce la fatiga. Practicarla implica expandir el abdomen al inhalar y controlar la exhalación. Este hábito favorece un rendimiento deportivo más estable y ayuda a mantener una postura corporal equilibrada."
+  },
+  {
+    "intent_id": "control_respiratorio_deportivo_b",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "diafragma",
+      "fortalecer"
+    ],
+    "base_response": "El control respiratorio deportivo consiste en usar el diafragma para dirigir inhalaciones profundas que estabilizan el cuerpo durante movimientos intensos. Esta técnica mejora la resistencia, reduce la fatiga y ayuda a mantener una postura eficiente mientras se realizan actividades físicas exigentes."
+  },
+  {
+    "intent_id": "microdescanso_deportivo",
+    "keywords": [
+      "microdescanso",
+      "recuperar",
+      "energia",
+      "mantener",
+      "tecnica",
+      "reducir"
+    ],
+    "base_response": "El microdescanso deportivo consiste en pausas breves durante entrenamientos intensos para recuperar energía muscular y mantener la concentración. Estas pausas controladas reducen la fatiga, mejoran la técnica y permiten continuar la actividad física con mayor seguridad y rendimiento sostenido."
+  },
+  {
+    "intent_id": "prevencion_lesiones_deportivas_estudiantes",
+    "keywords": [
+      "prevencion",
+      "lesiones",
+      "ejercicio",
+      "proteccion",
+      "cuerpo"
+    ],
+    "base_response": "La prevención de lesiones deportivas en estudiantes requiere usar equipo adecuado, realizar calentamientos específicos y respetar los tiempos de descanso. Además, es fundamental mantener una postura correcta y evitar movimientos bruscos para proteger músculos y articulaciones durante la actividad física."
+  },
+  {
+    "intent_id": "control_respiratorio_esfuerzo",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "energia",
+      "ejecutar"
+    ],
+    "base_response": "El control respiratorio durante el esfuerzo físico ayuda a mantener estabilidad corporal y mejorar la resistencia. Inhalar profundamente antes de cada movimiento y exhalar al ejecutar la acción reduce tensión muscular, optimiza energía y previene mareos durante entrenamientos intensos."
+  },
+  {
+    "intent_id": "calentamiento_fisico_preventivo",
+    "keywords": [
+      "calentamiento",
+      "prevenir",
+      "lesiones",
+      "preparar",
+      "cuerpo",
+      "ejercicio"
+    ],
+    "base_response": "El calentamiento físico preventivo prepara el cuerpo para el ejercicio, aumentando la temperatura muscular y la circulación sanguínea. Esto reduce el riesgo de lesiones, mejora la coordinación y facilita un mejor rendimiento durante la actividad deportiva, especialmente en estudiantes de 9 a 14 años."
+  },
+  {
+    "intent_id": "respiracion_diafragmatica_deportiva_b",
+    "keywords": [
+      "diafragma",
+      "respirar",
+      "oxigeno",
+      "mover",
+      "resistencia"
+    ],
+    "base_response": "La respiración diafragmática durante el ejercicio ayuda a mantener estabilidad corporal y mejorar la resistencia. Al inhalar profundamente usando el diafragma, el cuerpo recibe más oxígeno, permitiendo movimientos controlados, menor fatiga y mejor coordinación en actividades deportivas intensas."
+  },
+  {
+    "intent_id": "control_respiratorio_activo_a",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "diafragma",
+      "fortalecer"
+    ],
+    "base_response": "La respiración diafragmática durante el ejercicio mejora la estabilidad corporal y reduce la fatiga. Al aprender a controlar el aire en movimientos intensos, los músculos reciben oxígeno constante, aumentando la resistencia y evitando tensiones innecesarias que pueden provocar molestias físicas durante la actividad deportiva."
+  },
+  {
+    "intent_id": "reflejo_estiramiento_previo",
+    "keywords": [
+      "reflejo",
+      "estiramiento",
+      "preparar",
+      "musculo",
+      "mejorar",
+      "movimiento"
+    ],
+    "base_response": "La activación del reflejo de estiramiento antes de correr ayuda a preparar los músculos para movimientos rápidos y seguros. Este proceso mejora la respuesta neuromuscular, reduce tensiones inesperadas y favorece una transición eficiente hacia esfuerzos más intensos durante la práctica deportiva."
+  },
+  {
+    "intent_id": "control_respiratorio_calentamiento",
+    "keywords": [
+      "respiracion",
+      "calentamiento",
+      "inhalar",
+      "exhalar"
+    ],
+    "base_response": "El control respiratorio específico durante el calentamiento deportivo ayuda a preparar los músculos, estabilizar la postura y mejorar la coordinación. Practicar inhalaciones profundas y exhalaciones rítmicas permite activar el cuerpo progresivamente, reducir tensiones y optimizar el rendimiento físico inicial."
+  },
+  {
+    "intent_id": "control_postural_dinamico_b",
+    "keywords": [
+      "postura",
+      "movimiento",
+      "columna",
+      "mantener"
+    ],
+    "base_response": "La postura dinámica correcta durante ejercicios implica sostener la columna alineada mientras el cuerpo se mueve. Esto reduce tensiones musculares, mejora la coordinación y previene lesiones. Practicarla en desplazamientos rápidos ayuda a mantener estabilidad y eficiencia en cada acción deportiva."
+  },
+  {
+    "intent_id": "control_postural_dinamico_c",
+    "keywords": [
+      "postura",
+      "equilibrar",
+      "cuerpo",
+      "mantener",
+      "movimiento",
+      "fortalecer"
+    ],
+    "base_response": "El control postural dinámico consiste en ajustar la posición corporal mientras te mueves para evitar tensiones y mejorar la eficiencia deportiva. Implica activar músculos estabilizadores, mantener alineación adecuada y responder rápido a cambios de dirección durante actividades físicas variadas."
+  },
+  {
+    "intent_id": "hidratacion_durante_ejercicio",
+    "keywords": [
+      "hidratacion",
+      "mantener",
+      "cuerpo",
+      "regular",
+      "ejercicio"
+    ],
+    "base_response": "Mantener una hidratacion adecuada durante el ejercicio es fundamental para regular la temperatura corporal y evitar la fatiga. Beber agua en intervalos regulares ayuda a conservar el rendimiento fisico y prevenir calambres musculares, asegurando un bienestar corporal optimo."
+  },
+  {
+    "intent_id": "microajuste_postural_sentadillas",
+    "keywords": [
+      "postura",
+      "ajustar",
+      "rodillas",
+      "fortalecer"
+    ],
+    "base_response": "El microajuste de postura en sentadillas ayuda a mantener la alineación correcta de rodillas, cadera y espalda durante el movimiento. Practicar pequeños ajustes conscientes mejora la estabilidad, previene molestias y fortalece el control corporal en rutinas deportivas diarias."
+  },
+  {
+    "intent_id": "respiracion_diafragmatica_deportiva_c",
+    "keywords": [
+      "respiracion",
+      "mejorar",
+      "musculo",
+      "controlar",
+      "movimiento"
+    ],
+    "base_response": "La respiración diafragmática durante el ejercicio mejora la oxigenación muscular y reduce la fatiga, permitiendo movimientos más eficientes. Practicarla conscientemente ayuda a mantener estabilidad corporal, controlar el ritmo y prevenir tensiones innecesarias en entrenamientos deportivos intensos."
+  },
+  {
+    "intent_id": "prevencion_lesiones_sobreuso_deportivo_a",
+    "keywords": [
+      "lesiones",
+      "prevenir",
+      "descansar",
+      "practicar",
+      "deporte",
+      "supervisar"
+    ],
+    "base_response": "La prevención de lesiones por sobreuso en deportistas jóvenes implica descansar adecuadamente, practicar diferentes deportes para evitar fatiga muscular localizada y supervisar la técnica durante el ejercicio. Esto ayuda a mantener un cuerpo saludable y reduce el riesgo de daños físicos a largo plazo."
+  },
+  {
+    "intent_id": "prevencion_lesiones_deportivas_especifica",
+    "keywords": [
+      "lesiones",
+      "prevenir",
+      "ejercicio",
+      "supervisar",
+      "calentar"
+    ],
+    "base_response": "Prevenir lesiones deportivas requiere calentar adecuadamente antes del ejercicio y supervisar la técnica durante la actividad. Usar equipo adecuado y respetar los tiempos de descanso ayuda a evitar daños musculares y articulares, promoviendo una práctica segura y saludable en jóvenes deportistas."
+  },
+  {
+    "intent_id": "respiracion_pliometrica_controlada_a",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "salto",
+      "mantener",
+      "coordinacion",
+      "fortalecer"
+    ],
+    "base_response": "Comprender el control de la respiración durante saltos pliométricos ayuda a mantener estabilidad corporal, mejorar oxigenación muscular y evitar fatiga prematura. Practicar inhalaciones profundas antes del impulso y exhalaciones controladas al aterrizar fortalece coordinación y reduce riesgos de lesiones deportivas."
+  },
+  {
+    "intent_id": "alineacion_pies_salto_vertical",
+    "keywords": [
+      "alineacion",
+      "mejorar",
+      "estabilidad",
+      "flexionar"
+    ],
+    "base_response": "Mantener una alineación precisa de los pies durante el salto vertical mejora la estabilidad corporal y reduce riesgos de lesiones. Al flexionar ligeramente las rodillas y distribuir el peso, se optimiza la fuerza aplicada y se favorece un aterrizaje seguro."
+  },
+  {
+    "intent_id": "control_respiratorio_calentamiento_a",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "musculo",
+      "oxigenar"
+    ],
+    "base_response": "El control respiratorio durante el calentamiento deportivo ayuda a preparar mejor los músculos y reducir tensiones. Inspirar profundamente y exhalar de forma rítmica mejora la oxigenación, estabiliza el ritmo corporal y facilita movimientos más seguros antes de iniciar ejercicios intensos."
+  },
+  {
+    "intent_id": "control_postural_dinamico_d",
+    "keywords": [
+      "postura",
+      "movimiento",
+      "columna",
+      "mantener"
+    ],
+    "base_response": "La práctica deportiva exige controlar la postura dinámica, ajustando la alineación corporal mientras se corre, salta o cambia de dirección. Este control previene tensiones innecesarias, mejora la eficiencia del movimiento y ayuda a proteger la columna durante actividades físicas intensas realizadas diariamente."
+  },
+  {
+    "intent_id": "respiracion_diafragmatica_deportiva_d",
+    "keywords": [
+      "respiracion",
+      "mejorar",
+      "musculo",
+      "inhalar",
+      "resistencia"
+    ],
+    "base_response": "La respiración diafragmática durante el ejercicio mejora la oxigenación muscular y reduce la fatiga. Practicar inhalaciones profundas controladas permite mantener estabilidad corporal y aumentar resistencia. Integrar esta técnica en rutinas deportivas ayuda a optimizar rendimiento y prevenir tensiones innecesarias."
+  },
+  {
+    "intent_id": "control_respiratorio_deportivo_c",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "diafragma",
+      "fortalecer"
+    ],
+    "base_response": "La respiración diafragmática durante el ejercicio mejora la oxigenación y reduce la fatiga muscular. Practicar inhalaciones profundas y exhalaciones controladas ayuda a mantener estabilidad corporal, aumentar resistencia y evitar tensiones innecesarias mientras se realizan movimientos deportivos exigentes."
+  },
+  {
+    "intent_id": "control_respiratorio_esfuerzo_a",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "musculo",
+      "oxigenar"
+    ],
+    "base_response": "El control respiratorio durante el esfuerzo físico ayuda a mantener estabilidad corporal y mejorar rendimiento. Inhalar profundamente y exhalar de forma rítmica permite oxigenar músculos, evitar fatiga temprana y sostener movimientos seguros durante actividades deportivas intensas y prolongadas."
+  },
+  {
+    "intent_id": "respiracion_pliometrica_control_c",
+    "keywords": [
+      "respiracion",
+      "saltar",
+      "estabilidad",
+      "coordinar"
+    ],
+    "base_response": "El control de la respiración durante saltos pliométricos ayuda a mantener estabilidad corporal y mejorar la eficiencia del movimiento. Inhalar antes del impulso y exhalar al aterrizar reduce tensión muscular, favorece la coordinación y previene molestias en entrenamientos intensivos."
+  },
+  {
+    "intent_id": "control_postural_dinamico_e",
+    "keywords": [
+      "postura",
+      "equilibrar",
+      "columna",
+      "fortalecer"
+    ],
+    "base_response": "El control postural dinámico consiste en mantener la alineación corporal correcta mientras el cuerpo se mueve. Ayuda a proteger la columna, mejora la coordinación y permite realizar ejercicios con mayor seguridad. Practicarlo diariamente reduce tensiones y favorece un rendimiento físico más estable."
+  },
+  {
+    "intent_id": "respiracion_carrera_control_a",
+    "keywords": [
+      "respiracion",
+      "correr",
+      "oxigenar",
+      "control"
+    ],
+    "base_response": "El control de la respiración durante una carrera mejora la eficiencia corporal al mantener un ritmo estable. Inhalar por la nariz y exhalar por la boca ayuda a oxigenar mejor los músculos, reduce la fatiga y sostiene un rendimiento deportivo saludable."
+  },
+  {
+    "intent_id": "control_postural_dinamico_f",
+    "keywords": [
+      "postura",
+      "movimiento",
+      "columna",
+      "activar"
+    ],
+    "base_response": "El control postural dinámico consiste en mantener la columna alineada mientras el cuerpo se mueve rápidamente. Ayuda a evitar tensiones musculares y mejora la precisión deportiva. Practicarlo permite ejecutar cambios de dirección seguros, conservar energía y sostener un rendimiento físico estable durante actividades intensas."
+  },
+  {
+    "intent_id": "postura_neutra_columna",
+    "keywords": [
+      "columna",
+      "mantener",
+      "postura",
+      "ajustar",
+      "equilibrio",
+      "fortalecer"
+    ],
+    "base_response": "Mantener una postura neutra de la columna durante ejercicios dinámicos ayuda a evitar tensiones innecesarias. Ajustar la posición de hombros y cadera permite movimientos más eficientes. Practicar esta alineación mejora el equilibrio, reduce riesgos y fortalece la conciencia corporal deportiva."
+  },
+  {
+    "intent_id": "respiracion_ritmica_carrera",
+    "keywords": [
+      "respiracion",
+      "carrera",
+      "controlar",
+      "inhalar"
+    ],
+    "base_response": "El control de la respiración rítmica durante carreras cortas ayuda a mantener estabilidad corporal y mejorar la resistencia. Practicar inhalaciones profundas y exhalaciones constantes permite sostener velocidad sin fatiga excesiva, favoreciendo un rendimiento seguro y una técnica más eficiente."
+  },
+  {
+    "intent_id": "control_neutral_de_pisada",
+    "keywords": [
+      "pisada",
+      "control",
+      "equilibrio",
+      "mejorar"
+    ],
+    "base_response": "La pisada neutra durante carreras cortas ayuda a evitar tensiones en tobillos y rodillas. Mantener el control del apoyo del pie mejora la estabilidad y reduce riesgos de lesiones. Practicar ejercicios de equilibrio fortalece la musculatura y favorece una técnica de movimiento más eficiente."
+  },
+  {
+    "intent_id": "control_postural_en_sentadillas_b",
+    "keywords": [
+      "postura",
+      "equilibrar",
+      "cadera",
+      "flexionar"
+    ],
+    "base_response": "Mantener la cadera alineada durante una sentadilla evita tensiones innecesarias en la zona lumbar. Controlar el descenso con flexión equilibrada de rodillas y espalda recta mejora la estabilidad corporal y fortalece la musculatura implicada, reduciendo riesgos de lesiones en prácticas deportivas frecuentes."
+  },
+  {
+    "intent_id": "control_postural_dinamico_g",
+    "keywords": [
+      "postura",
+      "equilibrar",
+      "columna",
+      "fortalecer"
+    ],
+    "base_response": "El control postural dinámico consiste en mantener la alineación corporal correcta mientras el cuerpo se mueve. Ayuda a proteger la columna, mejora la coordinación y reduce lesiones. Practicarlo durante ejercicios rápidos permite sostener estabilidad y fuerza sin perder precisión en cada acción deportiva."
+  },
+  {
+    "intent_id": "respiracion_control_esfuerzo",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "esfuerzo",
+      "mantener",
+      "rendimiento"
+    ],
+    "base_response": "El control de la respiración durante esfuerzos intensos ayuda a mantener estabilidad corporal y mejorar rendimiento. Inhalar profundamente por la nariz y exhalar de forma rítmica permite sostener movimientos prolongados, reducir tensión muscular y evitar fatiga prematura en actividades deportivas exigentes."
+  },
+  {
+    "intent_id": "control_postural_en_saltos_deportivos",
+    "keywords": [
+      "postura",
+      "saltar",
+      "equilibrio",
+      "mantener",
+      "columna",
+      "proteger"
+    ],
+    "base_response": "El control postural en los saltos deportivos consiste en mantener la columna alineada durante el despegue y la caída para proteger articulaciones y mejorar la estabilidad. Practicar saltos cortos con enfoque en el equilibrio ayuda a desarrollar coordinación y prevenir lesiones frecuentes en entrenamientos juveniles."
+  },
+  {
+    "intent_id": "postura_neutra_columna_a",
+    "keywords": [
+      "columna",
+      "mantener",
+      "postura",
+      "ajustar",
+      "movimiento"
+    ],
+    "base_response": "Mantener una postura neutra de la columna durante ejercicios evita tensiones innecesarias y mejora la eficiencia del movimiento. Al practicar deportes, ajustar hombros, cadera y rodillas permite distribuir cargas correctamente y prevenir molestias que afectan el rendimiento físico general."
+  },
+  {
+    "intent_id": "control_respiratorio_sprints",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "energia",
+      "correr"
+    ],
+    "base_response": "El control respiratorio durante sprints cortos ayuda a mantener estabilidad corporal y mejorar la eficiencia energética. Practicar inhalaciones rápidas y exhalaciones profundas sincronizadas con el ritmo de carrera reduce la fatiga muscular y favorece un rendimiento deportivo más seguro y constante."
+  },
+  {
+    "intent_id": "respiracion_diafragmatica_deportiva_e",
+    "keywords": [
+      "respiracion",
+      "practicar",
+      "musculo",
+      "aumentar"
+    ],
+    "base_response": "La respiración diafragmática durante el ejercicio mejora la oxigenación muscular y reduce la fatiga. Practicar inhalaciones profundas y exhalaciones controladas permite mantener un ritmo estable, aumentar la resistencia y favorecer una postura equilibrada que ayuda a prevenir molestias físicas."
+  },
+  {
+    "intent_id": "control_postural_dinamica",
+    "keywords": [
+      "columna",
+      "estabilizar",
+      "musculo",
+      "mantener"
+    ],
+    "base_response": "La control postural dinámica consiste en activar los músculos profundos de la columna mientras se realizan movimientos deportivos. Esta habilidad permite mantener estabilidad corporal, prevenir tensiones innecesarias y mejorar la precisión motriz durante ejercicios que requieren cambios rápidos de dirección o equilibrio sostenido."
+  },
+  {
+    "intent_id": "control_respiratorio_calentamiento_b",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "musculo",
+      "preparar"
+    ],
+    "base_response": "El control respiratorio durante el calentamiento mejora la oxigenación muscular y prepara el cuerpo para esfuerzos intensos. Inspirar profundamente y exhalar de forma controlada ayuda a estabilizar la postura, reducir tensiones y aumentar la eficiencia en movimientos deportivos exigentes diarios."
+  },
+  {
+    "intent_id": "respiracion_en_carrera",
+    "keywords": [
+      "respiracion",
+      "correr",
+      "ritmo",
+      "oxigenar"
+    ],
+    "base_response": "El control de la respiración durante una carrera permite mantener un ritmo estable y evitar la fatiga prematura. Practicar inhalaciones profundas y exhalaciones rítmicas mejora la resistencia, ayuda a oxigenar mejor los músculos y favorece un desempeño deportivo más seguro."
+  },
+  {
+    "intent_id": "control_postural_dinamica_a",
+    "keywords": [
+      "postura",
+      "alinear",
+      "columna",
+      "mantener"
+    ],
+    "base_response": "La control postural dinámica consiste en ajustar la posición corporal durante movimientos deportivos para proteger la columna y mejorar la eficiencia física. Implica activar músculos estabilizadores, mantener alineación constante y evitar tensiones innecesarias que puedan generar lesiones durante actividades intensas o repetitivas."
+  },
+  {
+    "intent_id": "control_neutral_de_pisada_a",
+    "keywords": [
+      "pisada",
+      "control",
+      "equilibrio",
+      "mejorar"
+    ],
+    "base_response": "La técnica de control neutral de pisada consiste en apoyar el pie alineado con la rodilla durante carreras o saltos. Este hábito reduce tensiones en tobillos, mejora la estabilidad dinámica y previene lesiones por impactos repetidos, favoreciendo un movimiento más eficiente y seguro."
+  },
+  {
+    "intent_id": "reflejo_estiramiento_preventivo",
+    "keywords": [
+      "musculo",
+      "estirar",
+      "reflejo",
+      "calentar"
+    ],
+    "base_response": "La activación del reflejo de estiramiento durante un calentamiento específico ayuda a preparar los músculos para movimientos rápidos y seguros. Comprender este mecanismo permite mejorar la coordinación y reducir riesgos, favoreciendo un desempeño deportivo más eficiente y saludable en actividades diarias."
+  },
+  {
+    "intent_id": "control_respiratorio_sprints_a",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "oxigeno",
+      "correr"
+    ],
+    "base_response": "El control respiratorio durante sprints cortos permite mantener oxígeno suficiente y evitar fatiga prematura. Practicar inhalaciones profundas y exhalaciones rítmicas mejora la eficiencia corporal, estabiliza la postura y ayuda a sostener esfuerzos intensos sin perder coordinación ni velocidad."
+  },
+  {
+    "intent_id": "control_respiratorio_deportivo_d",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "musculo",
+      "oxigenar"
+    ],
+    "base_response": "El control respiratorio durante ejercicios intensos ayuda a mantener estabilidad corporal y mejorar rendimiento. Inhalar profundamente y exhalar de forma rítmica permite oxigenar músculos, reducir fatiga y sostener movimientos prolongados con mayor seguridad, evitando tensiones innecesarias y favoreciendo concentración deportiva."
+  },
+  {
+    "intent_id": "control_postural_dinamico_h",
+    "keywords": [
+      "columna",
+      "mantener",
+      "equilibrio",
+      "activar",
+      "musculo",
+      "estabilizar"
+    ],
+    "base_response": "El control postural dinámico consiste en ajustar la posición corporal mientras se realizan movimientos deportivos. Ayuda a proteger la columna, mejorar la coordinación y evitar tensiones innecesarias. Practicarlo permite ejecutar acciones más precisas y seguras durante cualquier actividad física exigente."
+  },
+  {
+    "intent_id": "respiracion_diafragmatica_ejercicio",
+    "keywords": [
+      "respiracion",
+      "ejercicio",
+      "controlar",
+      "tronco"
+    ],
+    "base_response": "La respiración diafragmática durante el ejercicio ayuda a mantener un flujo de oxígeno constante, mejora la resistencia y reduce la fatiga. Practicarla permite controlar mejor el esfuerzo físico, estabilizar el tronco y prevenir tensiones innecesarias en el cuello y los hombros."
+  },
+  {
+    "intent_id": "control_respiracion_carrera",
+    "keywords": [
+      "respiracion",
+      "carrera",
+      "inhalar",
+      "exhalar",
+      "ritmo"
+    ],
+    "base_response": "El control de la respiración durante una carrera mejora la resistencia y evita la fatiga temprana. Inhalar por la nariz y exhalar por la boca ayuda a mantener un ritmo estable, optimiza el oxígeno disponible y favorece un desempeño deportivo más seguro."
+  },
+  {
+    "intent_id": "respiracion_diafragmatica_deportiva_g",
+    "keywords": [
+      "respiracion",
+      "mejorar",
+      "musculo",
+      "practicar",
+      "tecnica"
+    ],
+    "base_response": "La respiración diafragmática durante el ejercicio mejora la oxigenación muscular y reduce la fatiga. Practicarla permite mantener un ritmo estable, aumentar la resistencia y evitar tensiones innecesarias. Dominar esta técnica favorece un desempeño deportivo más seguro y eficiente."
+  },
+  {
+    "intent_id": "control_postural_dinamica_b",
+    "keywords": [
+      "postura",
+      "movimiento",
+      "columna",
+      "mantener"
+    ],
+    "base_response": "La control postural dinámica consiste en ajustar la posición corporal mientras se realizan movimientos deportivos. Ayuda a proteger la columna, mejorar la coordinación y evitar tensiones innecesarias. Practicarla permite ejecutar gestos físicos con mayor precisión y seguridad durante actividades intensas."
+  },
+  {
+    "intent_id": "respiracion_diafragmatica_deportiva_h",
+    "keywords": [
+      "respiracion",
+      "mejorar",
+      "musculo",
+      "controlar"
+    ],
+    "base_response": "La respiración diafragmática durante el ejercicio mejora la oxigenación muscular y reduce la fatiga. Practicarla permite mantener estabilidad corporal y controlar el esfuerzo físico. Al dominarla, los estudiantes optimizan su rendimiento deportivo y fortalecen su bienestar general."
+  },
+  {
+    "intent_id": "control_postural_dinamico_j",
+    "keywords": [
+      "postura",
+      "alinear",
+      "columna",
+      "mantener"
+    ],
+    "base_response": "La postura dinámica durante el ejercicio implica sostener la columna alineada mientras el cuerpo se mueve. Este control evita tensiones innecesarias, mejora la eficiencia de cada gesto deportivo y reduce riesgos de lesiones. Practicarlo permite desarrollar hábitos corporales seguros y un desempeño físico más estable."
+  },
+  {
+    "intent_id": "respiracion_carreras_cortas",
+    "keywords": [
+      "respiracion",
+      "correr",
+      "control",
+      "inhalar",
+      "exhalar"
+    ],
+    "base_response": "El control de la respiración durante carreras cortas ayuda a mantener estabilidad corporal y mejorar resistencia. Inhalar por la nariz y exhalar por la boca permite ritmo constante, evita fatiga temprana y favorece movimientos coordinados que aumentan seguridad y rendimiento deportivo."
+  },
+  {
+    "intent_id": "reflejo_estiramiento_preventivo_a",
+    "keywords": [
+      "musculo",
+      "estiramiento",
+      "movimiento",
+      "preparar",
+      "flexibilidad"
+    ],
+    "base_response": "La activación del reflejo de estiramiento mejora la flexibilidad al preparar los músculos para movimientos amplios y seguros. Practicar estiramientos controlados antes de ejercicios intensos reduce tensiones, favorece la movilidad y ayuda a prevenir lesiones durante actividades deportivas exigentes."
+  },
+  {
+    "intent_id": "control_neutral_de_pisada_b",
+    "keywords": [
+      "pisada",
+      "equilibrar",
+      "impacto",
+      "correr"
+    ],
+    "base_response": "La pisada neutra durante la carrera reduce tensiones en tobillos y rodillas, permitiendo un desplazamiento más eficiente. Identificar cómo apoyas el pie ayuda a corregir desequilibrios y prevenir molestias. Practicar ejercicios de equilibrio mejora la alineación y fortalece la estabilidad corporal."
+  },
+  {
+    "intent_id": "control_respiratorio_deportivo_e",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "oxigeno",
+      "inhalar"
+    ],
+    "base_response": "El control respiratorio durante ejercicio intenso ayuda a mantener estabilidad corporal y mejorar rendimiento. Inhalar profundamente y exhalar de forma rítmica reduce tensión muscular, optimiza oxigenación y previene fatiga prematura, permitiendo movimientos más seguros y eficientes en actividades deportivas."
+  },
+  {
+    "intent_id": "respiracion_diafragmatica_deportiva_i",
+    "keywords": [
+      "respiracion",
+      "ejercicio",
+      "estabilidad",
+      "movimiento",
+      "practicar",
+      "prevencion"
+    ],
+    "base_response": "La respiración diafragmática durante el ejercicio mejora la estabilidad corporal al permitir que el aire se distribuya profundamente, reduciendo la tensión muscular y aumentando la eficiencia del movimiento. Practicarla diariamente ayuda a mantener un ritmo físico constante y prevenir fatiga prematura."
+  },
+  {
+    "intent_id": "control_respiratorio_deportivo_g",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "diafragma",
+      "fortalecer"
+    ],
+    "base_response": "El control respiratorio deportivo consiste en usar el diafragma para regular el aire durante movimientos intensos, mejorando la estabilidad corporal. Practicar inhalaciones profundas y exhalaciones rítmicas ayuda a mantener energía constante, evitar mareos y optimizar la coordinación en actividades físicas exigentes."
+  },
+  {
+    "intent_id": "control_respiratorio_deportivo_h",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "diafragma",
+      "fortalecer"
+    ],
+    "base_response": "El control respiratorio deportivo consiste en aprender a dirigir el aire hacia el diafragma durante ejercicios intensos. Esta técnica mejora la resistencia, reduce la fatiga y ayuda a mantener una postura estable. Practicarla diariamente permite un rendimiento físico más eficiente y seguro."
+  },
+  {
+    "intent_id": "control_respiratorio_deportivo_i",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "diafragma",
+      "coordinar"
+    ],
+    "base_response": "El control respiratorio deportivo consiste en dirigir el aire hacia el diafragma durante movimientos intensos para mejorar estabilidad corporal. Esta técnica ayuda a mantener ritmo, reducir fatiga y aumentar precisión motriz mientras se ejecutan ejercicios que requieren coordinación continua y esfuerzo sostenido."
+  },
+  {
+    "intent_id": "control_respiratorio_deportivo_j",
+    "keywords": [
+      "respiracion",
+      "mantener",
+      "diafragma",
+      "coordinar"
+    ],
+    "base_response": "El control respiratorio durante ejercicios intensos permite sostener el ritmo sin fatiga excesiva. Al activar el diafragma y coordinar inhalaciones profundas con movimientos específicos, se mejora la resistencia y se reduce la tensión muscular, favoreciendo un desempeño físico más eficiente y seguro."
+  },
+  {
+    "intent_id": "control_respiratorio_calentamiento_c",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "calentamiento",
+      "mejorar"
+    ],
+    "base_response": "Controlar la respiración durante el calentamiento deportivo ayuda a preparar el cuerpo para esfuerzos mayores. Inhalar profundamente y exhalar de forma controlada mejora la oxigenación muscular, reduce tensiones innecesarias y favorece un inicio físico más seguro y eficiente."
+  },
+  {
+    "intent_id": "alineacion_columna_saltos",
+    "keywords": [
+      "columna",
+      "alinear",
+      "rodillas",
+      "mantener",
+      "impacto"
+    ],
+    "base_response": "Mantener una alineación neutra de la columna durante ejercicios de salto ayuda a evitar tensiones innecesarias. Al flexionar ligeramente rodillas y mantener hombros relajados, el cuerpo distribuye mejor el impacto, mejora la estabilidad y reduce riesgos de lesiones deportivas."
+  },
+  {
+    "intent_id": "reflejo_estiramiento_controlado",
+    "keywords": [
+      "musculo",
+      "estirar",
+      "flexibilidad",
+      "mejorar"
+    ],
+    "base_response": "La activación del reflejo de estiramiento ayuda a mejorar la flexibilidad controlada durante ejercicios deportivos. Al realizar movimientos lentos y progresivos, los músculos responden de manera segura, evitando tensiones bruscas y favoreciendo un rango articular saludable que permite entrenar con mayor precisión y estabilidad."
+  },
+  {
+    "intent_id": "control_respiratorio_deportivo_o",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "diafragma",
+      "fortalecer"
+    ],
+    "base_response": "El control respiratorio deportivo consiste en aprender a dirigir el aire hacia el diafragma durante movimientos intensos. Esta técnica mejora la estabilidad corporal, reduce la fatiga temprana y permite sostener esfuerzos prolongados con mayor seguridad, precisión y eficiencia física general."
+  },
+  {
+    "intent_id": "microdescanso_deportivo_preventivo",
+    "keywords": [
+      "descanso",
+      "recuperar",
+      "energia",
+      "respiracion",
+      "tecnica"
+    ],
+    "base_response": "El microdescanso deportivo consiste en pausas breves durante entrenamientos intensos para evitar fatiga acumulada. Estas pausas permiten recuperar energía, estabilizar la respiración y mantener la técnica correcta, reduciendo riesgos de lesiones y mejorando el rendimiento físico general."
+  },
+  {
+    "intent_id": "postura_correcta_sentadillas",
+    "keywords": [
+      "postura",
+      "alinear",
+      "columna",
+      "proteger"
+    ],
+    "base_response": "Mantener una postura correcta al realizar sentadillas ayuda a proteger las rodillas y la espalda. Controlar la alineación de la columna y distribuir el peso en los talones mejora la estabilidad, evita tensiones innecesarias y fortalece los músculos de manera segura."
+  },
+  {
+    "intent_id": "control_respiratorio_sprint",
+    "keywords": [
+      "respiracion",
+      "sprint",
+      "controlar",
+      "impulso"
+    ],
+    "base_response": "El control respiratorio durante sprints cortos mejora la eficiencia corporal al mantener oxígeno suficiente en músculos activos. Practicar inhalaciones profundas antes de acelerar y exhalaciones rápidas al impulsar ayuda a sostener velocidad, reducir fatiga y prevenir molestias torácicas."
+  },
+  {
+    "intent_id": "micro_pausas_hidratacion_deportiva",
+    "keywords": [
+      "hidratacion",
+      "beber",
+      "energia",
+      "recuperacion"
+    ],
+    "base_response": "Las micro-pausas de hidratación durante entrenamientos intensos permiten mantener un equilibrio hídrico adecuado. Beber pequeñas cantidades de agua cada pocos minutos ayuda a sostener la energía, prevenir mareos y favorecer la recuperación muscular sin interrumpir el ritmo deportivo."
+  },
+  {
+    "intent_id": "control_respiratorio_pliometria",
+    "keywords": [
+      "respiracion",
+      "saltar",
+      "musculo",
+      "coordinar"
+    ],
+    "base_response": "Control respiratorio durante saltos pliométricos ayuda a mantener estabilidad corporal y prevenir fatiga prematura. Al sincronizar inhalaciones y exhalaciones con cada impulso, los músculos reciben oxígeno suficiente, mejorando potencia, coordinación y seguridad en rutinas deportivas intensas para jóvenes."
+  },
+  {
+    "intent_id": "alineacion_rodillas_saltos",
+    "keywords": [
+      "rodilla",
+      "saltar",
+      "alineacion",
+      "fortalecer"
+    ],
+    "base_response": "Mantener una correcta alineación de rodillas durante saltos deportivos evita tensiones innecesarias y reduce riesgos de lesiones. Practicar aterrizajes suaves, con rodillas flexionadas y apuntando hacia adelante, mejora la estabilidad corporal y fortalece la coordinación motriz en actividades físicas intensas."
+  },
+  {
+    "intent_id": "reflejo_estiramiento_controlado_a",
+    "keywords": [
+      "reflejo",
+      "estiramiento",
+      "controlar",
+      "musculo",
+      "prevenir",
+      "lesion"
+    ],
+    "base_response": "La activación del reflejo de estiramiento controlado ayuda a mejorar la flexibilidad durante rutinas deportivas. Al realizar movimientos lentos y conscientes, los músculos responden con menor tensión, permitiendo ampliar el rango articular y prevenir lesiones en actividades físicas exigentes."
+  },
+  {
+    "intent_id": "reflejo_estiramiento_preventivo_b",
+    "keywords": [
+      "reflejo",
+      "estiramiento",
+      "preparar",
+      "mover",
+      "musculo"
+    ],
+    "base_response": "La activación del reflejo de estiramiento antes de ejercicios intensos ayuda a preparar los músculos para movimientos rápidos, reduciendo riesgos de desgarros. Practicar estiramientos controlados mejora la respuesta neuromuscular y permite un rendimiento deportivo más seguro y eficiente."
+  },
+  {
+    "intent_id": "control_respiratorio_deportivo_q",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "diafragma",
+      "fortalecer"
+    ],
+    "base_response": "La respiración diafragmática durante el ejercicio mejora la estabilidad corporal y reduce la fatiga. Al controlar el aire desde el abdomen, se optimiza la oxigenación muscular y se mantiene un ritmo físico constante. Practicarla diariamente fortalece el diafragma y favorece un rendimiento deportivo más seguro."
+  },
+  {
+    "intent_id": "control_postural_dinamico_k",
+    "keywords": [
+      "columna",
+      "mantener",
+      "equilibrio",
+      "fortalecer",
+      "postura",
+      "coordinar"
+    ],
+    "base_response": "El control postural dinámico consiste en ajustar la posición corporal mientras te mueves para proteger la columna. Implica activar músculos estabilizadores, coordinar movimientos y mantener equilibrio durante cambios rápidos. Practicarlo mejora la técnica deportiva y reduce riesgos de lesiones frecuentes."
+  },
+  {
+    "intent_id": "control_neutral_de_pisada_c",
+    "keywords": [
+      "pisada",
+      "evaluar",
+      "impacto",
+      "mejorar"
+    ],
+    "base_response": "La técnica de control neutral de pisada consiste en revisar cómo apoyas tus pies al correr para evitar desbalances. Ajustar la alineación del talón y del arco reduce tensiones musculares, mejora la eficiencia del movimiento y previene molestias que pueden aparecer durante entrenamientos constantes."
+  },
+  {
+    "intent_id": "reflejo_estiramiento_preventivo_c",
+    "keywords": [
+      "reflejo",
+      "estiramiento",
+      "musculo",
+      "coordinar"
+    ],
+    "base_response": "La activación del reflejo de estiramiento ayuda a mantener músculos preparados antes de movimientos rápidos. Comprender cómo este reflejo funciona permite evitar tensiones bruscas, mejorar la coordinación y favorecer una respuesta corporal más segura durante actividades deportivas intensas."
+  },
+  {
+    "intent_id": "control_respiratorio_calentamiento_e",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "calentamiento",
+      "preparar"
+    ],
+    "base_response": "El control respiratorio durante el calentamiento deportivo ayuda a preparar el cuerpo para esfuerzos intensos. Inhalar profundamente y exhalar de forma rítmica mejora la oxigenación muscular, reduce tensiones innecesarias y facilita una transición segura hacia movimientos más exigentes."
+  },
+  {
+    "intent_id": "control_postural_dinamica_c",
+    "keywords": [
+      "postura",
+      "movimiento",
+      "equilibrio",
+      "fortalecer"
+    ],
+    "base_response": "La control postural dinámica consiste en mantener una alineación corporal estable mientras el cuerpo se mueve. Ayuda a evitar tensiones musculares y mejora la eficiencia deportiva. Practicar desplazamientos lentos con el tronco firme fortalece la estabilidad y reduce riesgos de lesiones durante actividades físicas."
+  },
+  {
+    "intent_id": "control_postural_dinamico_l",
+    "keywords": [
+      "postura",
+      "equilibrar",
+      "cuerpo",
+      "mantener",
+      "movimiento",
+      "fortalecer"
+    ],
+    "base_response": "El control postural dinámico consiste en ajustar la posición del cuerpo mientras se realizan movimientos deportivos. Ayuda a prevenir lesiones, mejora la coordinación y permite ejecutar acciones más precisas. Practicar ejercicios de equilibrio fortalece músculos estabilizadores y favorece un rendimiento físico seguro."
+  },
+  {
+    "intent_id": "control_postural_en_saltos",
+    "keywords": [
+      "postura",
+      "salto",
+      "equilibrio",
+      "control"
+    ],
+    "base_response": "Mantener una postura estable durante los saltos deportivos ayuda a evitar lesiones y mejorar la precisión del movimiento. Controlar la alineación de rodillas y cadera permite aterrizajes seguros, distribuyendo mejor el impacto y fortaleciendo la coordinación corporal en cada práctica física."
+  },
+  {
+    "intent_id": "control_respiratorio_carreras_a",
+    "keywords": [
+      "respiracion",
+      "carrera",
+      "controlar",
+      "zancada",
+      "sincronizar"
+    ],
+    "base_response": "El control respiratorio durante carreras cortas mejora la eficiencia corporal al sincronizar inhalaciones y exhalaciones con el ritmo de zancada. Esta técnica reduce la fatiga temprana, estabiliza la postura y permite mantener velocidad constante sin comprometer la seguridad física del deportista."
+  },
+  {
+    "intent_id": "control_postural_en_sentadillas_c",
+    "keywords": [
+      "postura",
+      "equilibrar",
+      "cadera",
+      "alinear"
+    ],
+    "base_response": "El control postural en sentadillas implica mantener la espalda recta, distribuir el peso en ambos pies y alinear rodillas con caderas. Esta técnica mejora la estabilidad corporal, previene lesiones y fortalece músculos clave al realizar movimientos deportivos que requieren precisión y equilibrio constante."
+  },
+  {
+    "intent_id": "respiracion_controlada_en_esfuerzo",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "esfuerzo",
+      "inhalar"
+    ],
+    "base_response": "Aprender a controlar la respiración durante esfuerzos intensos permite mantener estabilidad corporal y mejorar el rendimiento. Inhalar profundamente antes de cada movimiento y exhalar al ejecutar ayuda a evitar tensión excesiva, favorece la coordinación y reduce riesgos de fatiga prematura."
+  },
+  {
+    "intent_id": "control_respiratorio_calentamiento_g",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "calentamiento",
+      "oxigenar"
+    ],
+    "base_response": "El control respiratorio durante el calentamiento físico ayuda a preparar mejor los músculos y reduce tensiones innecesarias. Al inhalar profundamente y exhalar de forma rítmica, el cuerpo mejora su oxigenación y aumenta la eficiencia del movimiento deportivo inicial."
+  },
+  {
+    "intent_id": "control_respiratorio_activo_c",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "diafragma",
+      "fortalecer"
+    ],
+    "base_response": "La respiración diafragmática durante el ejercicio ayuda a mantener estabilidad corporal y mejorar la resistencia. Al activar el diafragma de forma consciente, se reduce la fatiga y se optimiza la oxigenación muscular, permitiendo movimientos más eficientes y seguros en rutinas deportivas intensas."
+  },
+  {
+    "intent_id": "control_postural_dinamica_d",
+    "keywords": [
+      "postura",
+      "equilibrar",
+      "columna",
+      "fortalecer"
+    ],
+    "base_response": "La postura dinámica durante el ejercicio implica mantener la columna alineada mientras el cuerpo se mueve. Esto ayuda a evitar tensiones innecesarias, mejora la eficiencia de cada gesto deportivo y permite que los músculos trabajen de forma equilibrada, reduciendo riesgos y aumentando el rendimiento físico general."
+  },
+  {
+    "intent_id": "control_respiratorio_deportivo_s",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "diafragma",
+      "fortalecer"
+    ],
+    "base_response": "El control respiratorio deportivo consiste en usar el diafragma para inhalar profundamente y exhalar de forma constante durante el ejercicio. Esta técnica mejora la resistencia, reduce la fatiga y ayuda a mantener una postura estable mientras se realizan movimientos físicos exigentes."
+  },
+  {
+    "intent_id": "reflejo_estiramiento_dinamico",
+    "keywords": [
+      "musculo",
+      "activar",
+      "reflejo",
+      "preparar",
+      "movimiento",
+      "control"
+    ],
+    "base_response": "La activación del reflejo de estiramiento dinámico ayuda a preparar los músculos antes de movimientos rápidos, reduciendo riesgos de tirones. Este proceso mejora la respuesta neuromuscular y permite ejecutar acciones deportivas con mayor seguridad, precisión y control corporal sostenido."
+  },
+  {
+    "intent_id": "respiracion_carrera_control_b",
+    "keywords": [
+      "respiracion",
+      "correr",
+      "control",
+      "mantener",
+      "postura"
+    ],
+    "base_response": "El control de la respiración durante la carrera mejora la eficiencia corporal al mantener un ritmo estable. Inhalar por la nariz y exhalar por la boca ayuda a reducir la fatiga, estabilizar la postura y sostener un esfuerzo físico prolongado sin molestias."
+  },
+  {
+    "intent_id": "respiracion_diafragmatica_deportiva_l",
+    "keywords": [
+      "respiracion",
+      "ejercicio",
+      "controlar",
+      "postura",
+      "rendimiento"
+    ],
+    "base_response": "La respiración diafragmática durante el ejercicio ayuda a mantener un flujo de aire estable, mejora la resistencia y reduce la fatiga. Practicarla permite controlar mejor el esfuerzo físico, optimizar la postura y favorecer un rendimiento deportivo más seguro y eficiente."
+  },
+  {
+    "intent_id": "respiracion_ritmica_carreras",
+    "keywords": [
+      "respiracion",
+      "correr",
+      "tecnica",
+      "controlar"
+    ],
+    "base_response": "La técnica de respiración rítmica durante carreras ayuda a mantener estabilidad corporal, mejorar resistencia y evitar fatiga prematura. Practicar inhalaciones profundas coordinadas con pasos permite optimizar oxígeno, sostener velocidad constante y fortalecer hábitos deportivos saludables en entrenamientos diarios."
+  },
+  {
+    "intent_id": "control_respiratorio_activo_d",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "diafragma",
+      "fortalecer"
+    ],
+    "base_response": "El control respiratorio activo durante el ejercicio mejora la estabilidad corporal y reduce la fatiga. Al usar el diafragma de forma consciente, se optimiza la entrada de oxígeno y se mantiene un ritmo físico más eficiente, favoreciendo la resistencia y la coordinación en actividades deportivas intensas."
+  },
+  {
+    "intent_id": "respiracion_carreras_cortas_c",
+    "keywords": [
+      "respiracion",
+      "correr",
+      "estabilidad",
+      "inhalar"
+    ],
+    "base_response": "El control de la respiración durante carreras cortas ayuda a mantener estabilidad corporal y mejorar la resistencia. Inhalar por la nariz y exhalar por la boca permite regular el esfuerzo, evitar fatiga temprana y sostener un ritmo eficiente mientras se practica actividad física."
+  },
+  {
+    "intent_id": "microdescanso_deportivo_preventivo_b",
+    "keywords": [
+      "microdescanso",
+      "recuperar",
+      "musculo",
+      "equilibrar",
+      "lesion"
+    ],
+    "base_response": "Los microdescansos deportivos consisten en pausas breves durante entrenamientos intensos para permitir que los músculos recuperen energía y evitar fatiga excesiva. Ayudan a mantener la técnica correcta, mejorar el rendimiento y reducir riesgos de lesiones al equilibrar esfuerzo y recuperación."
+  },
+  {
+    "intent_id": "control_respiratorio_activo_f",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "diafragma",
+      "fortalecer"
+    ],
+    "base_response": "La respiración diafragmática durante el ejercicio ayuda a mantener un ritmo estable y mejora la resistencia física. Al controlar el movimiento del diafragma, el cuerpo recibe más oxígeno, reduce la fatiga y permite realizar actividades deportivas con mayor eficiencia y seguridad."
+  },
+  {
+    "intent_id": "postura_en_sentadilla_segura",
+    "keywords": [
+      "postura",
+      "mantener",
+      "rodillas",
+      "alinear",
+      "espalda",
+      "fortalecer"
+    ],
+    "base_response": "Mantener una sentadilla con alineación precisa de rodillas y espalda ayuda a evitar tensiones innecesarias. Practicar este control postural fortalece músculos estabilizadores, mejora la coordinación y permite realizar movimientos deportivos seguros, eficientes y sostenidos durante actividades físicas intensas."
+  },
+  {
+    "intent_id": "respiracion_diafragmatica_ejercicio_a",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "musculo",
+      "estabilizar"
+    ],
+    "base_response": "La respiración diafragmática durante el ejercicio mejora la oxigenación muscular y reduce la fatiga. Al practicarla, los estudiantes aprenden a controlar el ritmo respiratorio, estabilizar el tronco y mantener un rendimiento físico constante sin sobrecargar el cuerpo."
+  },
+  {
+    "intent_id": "respiracion_resistencia",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "oxigeno",
+      "mantener"
+    ],
+    "base_response": "El control respiratorio rítmico durante ejercicios de resistencia cardiovascular ayuda a mantener un flujo de oxígeno constante, reduce la fatiga y mejora la eficiencia del movimiento. Practicar inhalaciones profundas y exhalaciones prolongadas estabiliza el esfuerzo físico y favorece un rendimiento saludable."
+  },
+  {
+    "intent_id": "control_postural_en_sentadillas_e",
+    "keywords": [
+      "postura",
+      "equilibrar",
+      "cadera",
+      "alinear"
+    ],
+    "base_response": "Mantener la postura correcta en sentadillas exige alinear la cadera y la espalda para evitar tensiones innecesarias. Controlar el movimiento ayuda a distribuir el peso de forma segura, mejorar la estabilidad y fortalecer músculos clave sin generar lesiones durante la práctica deportiva constante."
+  },
+  {
+    "intent_id": "alineacion_rodillas_saltos_a",
+    "keywords": [
+      "rodilla",
+      "alinear",
+      "salto",
+      "aterrizar",
+      "musculo",
+      "fortalecer"
+    ],
+    "base_response": "Mantener una correcta alineación de rodillas durante saltos deportivos evita tensiones innecesarias y mejora la estabilidad corporal. Practicar aterrizajes controlados fortalece músculos clave, reduce riesgos de lesiones y favorece movimientos más seguros en rutinas físicas intensas para jóvenes deportistas."
+  },
+  {
+    "intent_id": "respiracion_sprints_control",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "musculo",
+      "correr"
+    ],
+    "base_response": "El control de la respiración durante sprints cortos permite mantener estabilidad corporal y evitar fatiga repentina. Al coordinar inhalaciones rápidas y exhalaciones profundas, los músculos reciben oxígeno suficiente, mejorando la velocidad y reduciendo riesgos de tensión excesiva en esfuerzos intensos."
+  },
+  {
+    "intent_id": "respiracion_pliometrica_control_i",
+    "keywords": [
+      "control",
+      "respirar",
+      "salto",
+      "mejorar"
+    ],
+    "base_response": "El control de la respiración durante saltos pliométricos ayuda a mantener estabilidad corporal y reducir fatiga. Inhalar antes del impulso y exhalar al aterrizar mejora coordinación, protege articulaciones y permite ejecutar movimientos explosivos con mayor seguridad y eficiencia deportiva."
+  },
+  {
+    "intent_id": "control_respiratorio_estiramientos",
+    "keywords": [
+      "respiracion",
+      "estiramiento",
+      "control",
+      "mejorar"
+    ],
+    "base_response": "El control respiratorio durante estiramientos mejora la relajación muscular y evita tensiones innecesarias. Al inhalar profundamente y exhalar lentamente, el cuerpo se estabiliza, aumenta la flexibilidad y se reduce el riesgo de molestias, favoreciendo una práctica deportiva más segura."
+  },
+  {
+    "intent_id": "respiracion_pliometrica_control_j",
+    "keywords": [
+      "respiracion",
+      "saltar",
+      "estabilidad",
+      "coordinar",
+      "rendimiento",
+      "prevenir"
+    ],
+    "base_response": "El control de la respiración durante saltos pliométricos ayuda a mantener estabilidad corporal y prevenir fatiga excesiva. Inhalar antes del impulso y exhalar al aterrizar mejora la coordinación, reduce tensiones musculares y favorece un rendimiento deportivo más seguro y eficiente."
+  },
+  {
+    "intent_id": "control_respiratorio_carrera",
+    "keywords": [
+      "respiracion",
+      "correr",
+      "oxigeno",
+      "mantener",
+      "ritmo"
+    ],
+    "base_response": "El control respiratorio durante la carrera mejora la eficiencia física al permitir un flujo constante de oxígeno. Practicar inhalaciones profundas y exhalaciones rítmicas ayuda a mantener estabilidad corporal, reducir fatiga y sostener un ritmo adecuado en actividades deportivas prolongadas."
+  },
+  {
+    "intent_id": "microdescanso_deportivo_preventivo_c",
+    "keywords": [
+      "microdescanso",
+      "recuperar",
+      "musculo",
+      "evitar",
+      "lesion"
+    ],
+    "base_response": "El microdescanso deportivo consiste en pausas breves durante entrenamientos intensos para permitir que los músculos recuperen energía y evitar fatiga acumulada. Estas pausas estratégicas mejoran la calidad del movimiento, reducen riesgos de lesión y mantienen un rendimiento físico estable."
+  },
+  {
+    "intent_id": "reflejo_estiramiento_controlado_b",
+    "keywords": [
+      "musculo",
+      "estirar",
+      "flexibilidad",
+      "mejorar",
+      "rendimiento"
+    ],
+    "base_response": "La activación del reflejo de estiramiento controlado ayuda a mejorar la flexibilidad muscular sin causar tensión excesiva. Al realizar movimientos lentos y conscientes, los músculos se adaptan progresivamente, reduciendo riesgos de lesiones y favoreciendo un rendimiento deportivo más seguro y eficiente."
+  },
+  {
+    "intent_id": "control_postural_en_sentadillas_f",
+    "keywords": [
+      "postura",
+      "equilibrar",
+      "columna",
+      "fortalecer"
+    ],
+    "base_response": "El control postural en sentadillas implica mantener la columna alineada mientras se flexionan las rodillas, evitando que los talones se eleven. Esta técnica mejora la estabilidad corporal, previene lesiones y permite desarrollar fuerza funcional de manera segura durante rutinas deportivas constantes."
+  },
+  {
+    "intent_id": "control_respiratorio_calentamiento_i",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "musculo",
+      "oxigenar"
+    ],
+    "base_response": "El control respiratorio durante el calentamiento ayuda a preparar el cuerpo para movimientos intensos, estabilizando la postura y mejorando la coordinación. Respirar profundamente aumenta la oxigenación muscular y reduce tensiones, permitiendo iniciar la actividad física con mayor seguridad y eficiencia."
+  },
+  {
+    "intent_id": "control_respiratorio_calentamiento_j",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "calentamiento",
+      "oxigenar"
+    ],
+    "base_response": "El control respiratorio durante el calentamiento deportivo ayuda a preparar el cuerpo para esfuerzos intensos. Inhalar profundamente y exhalar de forma rítmica mejora la oxigenación muscular, estabiliza la postura y reduce tensiones, facilitando movimientos seguros y eficientes."
+  },
+  {
+    "intent_id": "control_postural_dinamica_f",
+    "keywords": [
+      "postura",
+      "equilibrar",
+      "cuerpo",
+      "mantener",
+      "alineacion",
+      "mover"
+    ],
+    "base_response": "La control postural dinámica consiste en sostener una alineación corporal estable mientras el cuerpo se mueve rápidamente. Este hábito deportivo ayuda a prevenir lesiones, mejora la coordinación y permite ejecutar movimientos ágiles con mayor precisión durante actividades físicas intensas."
+  },
+  {
+    "intent_id": "respiracion_carreras_control",
+    "keywords": [
+      "respiracion",
+      "correr",
+      "controlar",
+      "avanzar"
+    ],
+    "base_response": "El control de la respiración durante carreras mejora la resistencia y evita fatiga prematura. Inhalar por la nariz y exhalar por la boca estabiliza el ritmo corporal, optimiza el oxígeno disponible y ayuda a mantener una técnica eficiente mientras se avanza."
+  },
+  {
+    "intent_id": "respiracion_diafragmatica_deportiva_p",
+    "keywords": [
+      "respiracion",
+      "mejorar",
+      "musculo",
+      "fortalecer"
+    ],
+    "base_response": "La respiración diafragmática durante el ejercicio mejora la oxigenación muscular y reduce la fatiga. Al practicarla conscientemente, los estudiantes fortalecen su control corporal, mantienen una postura estable y optimizan su resistencia física, favoreciendo un rendimiento deportivo más seguro y eficiente."
+  },
+  {
+    "intent_id": "control_respiratorio_carrera_a",
+    "keywords": [
+      "respiracion",
+      "carrera",
+      "controlar",
+      "mejorar"
+    ],
+    "base_response": "El control respiratorio durante la carrera mejora la eficiencia corporal al mantener un ritmo estable de inhalación y exhalación. Practicar respiraciones profundas sincronizadas con cada zancada ayuda a reducir la fatiga, optimizar la resistencia y sostener un rendimiento deportivo saludable."
+  },
+  {
+    "intent_id": "microdescanso_deportivo_controlado_c",
+    "keywords": [
+      "microdescanso",
+      "recuperar",
+      "musculo",
+      "pausa",
+      "entrenar"
+    ],
+    "base_response": "El microdescanso deportivo consiste en pausas breves durante entrenamientos intensos para permitir que los músculos recuperen energía, reducir la fatiga acumulada y mantener la técnica correcta. Estas interrupciones controladas mejoran el rendimiento, previenen lesiones y ayudan a sostener una rutina física segura."
+  },
+  {
+    "intent_id": "respiracion_diafragmatica_deportiva_q",
+    "keywords": [
+      "respiracion",
+      "mejorar",
+      "postura",
+      "coordinar"
+    ],
+    "base_response": "La respiración diafragmática durante el ejercicio mejora la oxigenación muscular y reduce la fatiga. Practicarla permite mantener un ritmo estable, aumentar la resistencia y favorecer una postura más eficiente. Requiere atención consciente para coordinar inhalaciones profundas con movimientos controlados."
+  },
+  {
+    "intent_id": "respiracion_ritmica_carrera_a",
+    "keywords": [
+      "respiracion",
+      "correr",
+      "resistencia",
+      "control"
+    ],
+    "base_response": "El control de la respiración rítmica durante la carrera ayuda a mantener estabilidad corporal, mejorar la resistencia y evitar fatiga prematura. Practicar inhalaciones profundas y exhalaciones constantes permite sostener el esfuerzo físico y optimizar el rendimiento deportivo de manera segura."
+  },
+  {
+    "intent_id": "control_respiratorio_calentamiento_l",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "calentamiento",
+      "practicar"
+    ],
+    "base_response": "Controlar la respiración durante el calentamiento deportivo ayuda a preparar el cuerpo, estabilizar el ritmo cardíaco y mejorar la concentración. Practicar inhalaciones profundas y exhalaciones controladas reduce tensiones musculares y facilita un inicio físico seguro y eficiente."
+  },
+  {
+    "intent_id": "reflejo_estiramiento_preventivo_e",
+    "keywords": [
+      "musculo",
+      "estirar",
+      "reflejo",
+      "activar"
+    ],
+    "base_response": "La activación del reflejo de estiramiento mejora la seguridad al iniciar movimientos deportivos, porque prepara los músculos para responder con rapidez controlada. Comprender este mecanismo ayuda a evitar tensiones bruscas y favorece una práctica física más consciente y saludable."
+  },
+  {
+    "intent_id": "control_postural_en_sentadillas_g",
+    "keywords": [
+      "postura",
+      "controlar",
+      "cadera",
+      "mantener"
+    ],
+    "base_response": "La sentadilla requiere mantener la espalda recta y la cadera alineada para evitar tensiones innecesarias. Controlar la postura durante este movimiento mejora la estabilidad corporal, fortalece músculos clave y reduce riesgos de lesiones al practicar actividades deportivas cotidianas."
+  },
+  {
+    "intent_id": "control_postural_dinamica_g",
+    "keywords": [
+      "postura",
+      "equilibrar",
+      "columna",
+      "estabilizar"
+    ],
+    "base_response": "La control postural dinámica consiste en mantener la alineación corporal correcta mientras el cuerpo se mueve rápidamente. Ayuda a evitar tensiones musculares, mejora la coordinación y permite ejecutar gestos deportivos con mayor precisión. Practicarla regularmente fortalece la estabilidad y previene lesiones frecuentes."
+  },
+  {
+    "intent_id": "control_respiratorio_deportivo_w",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "diafragma",
+      "fortalecer"
+    ],
+    "base_response": "La respiración diafragmática durante el ejercicio ayuda a mantener un ritmo estable, mejora la oxigenación y reduce la fatiga. Practicar inhalaciones profundas y exhalaciones controladas permite sostener esfuerzos prolongados y favorece una postura más eficiente al realizar actividades deportivas intensas."
+  },
+  {
+    "intent_id": "control_postural_dinamica_h",
+    "keywords": [
+      "postura",
+      "equilibrar",
+      "columna",
+      "fortalecer"
+    ],
+    "base_response": "La control postural dinámica consiste en mantener la alineación corporal correcta mientras el cuerpo se mueve. Ayuda a evitar tensiones innecesarias, mejora la eficiencia deportiva y reduce riesgos de lesiones. Practicarla requiere atención constante y fortalecimiento de músculos estabilizadores durante actividades físicas variadas."
+  },
+  {
+    "intent_id": "alineacion_postural_deportiva",
+    "keywords": [
+      "postura",
+      "ajustar",
+      "hombro",
+      "prevenir"
+    ],
+    "base_response": "Mantener una postura corporal correcta durante el ejercicio evita tensiones innecesarias y mejora la eficiencia del movimiento. Ajustar hombros, cadera y rodillas en línea ayuda a prevenir lesiones y permite desarrollar habilidades deportivas con mayor seguridad y control."
+  },
+  {
+    "intent_id": "control_respiratorio_deportivo_y",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "diafragma",
+      "coordinar"
+    ],
+    "base_response": "El control respiratorio deportivo consiste en aprender a usar el diafragma para mantener un flujo de aire constante durante el ejercicio. Esta técnica mejora la resistencia, reduce la fatiga y ayuda a sostener movimientos coordinados sin perder estabilidad corporal en actividades físicas intensas."
+  },
+  {
+    "intent_id": "control_respiratorio_deportivo_z",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "diafragma",
+      "coordinar"
+    ],
+    "base_response": "La respiración diafragmática durante el ejercicio ayuda a mantener estabilidad corporal y mejorar la resistencia. Al controlar el aire de forma rítmica, se reduce la fatiga y aumenta la eficiencia del movimiento, permitiendo realizar actividades deportivas con mayor seguridad y mejor rendimiento físico general."
+  },
+  {
+    "intent_id": "control_respiratorio_deportivo_aa",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "diafragma",
+      "fortalecer"
+    ],
+    "base_response": "El control respiratorio deportivo consiste en usar el diafragma para dirigir inhalaciones profundas durante ejercicios intensos. Esta técnica mejora la oxigenación, estabiliza la postura y reduce la fatiga, permitiendo mantener un ritmo físico constante y seguro en actividades prolongadas."
+  },
+  {
+    "intent_id": "control_respiratorio_calentamiento_m",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "musculo",
+      "preparar"
+    ],
+    "base_response": "El control respiratorio durante el calentamiento mejora la oxigenación muscular y prepara el cuerpo para movimientos intensos. Practicar inhalaciones profundas y exhalaciones rítmicas ayuda a estabilizar la postura, reducir tensiones y aumentar la eficiencia física antes de iniciar cualquier actividad deportiva."
+  },
+  {
+    "intent_id": "reflejo_estiramiento_preventivo_g",
+    "keywords": [
+      "reflejo",
+      "estiramiento",
+      "preparar",
+      "movimiento"
+    ],
+    "base_response": "La activación del reflejo de estiramiento antes de ejercicios intensos ayuda a preparar los músculos para movimientos rápidos, reduciendo tensiones inesperadas. Comprender este mecanismo permite mejorar la coordinación y prevenir lesiones al iniciar rutinas deportivas que requieren cambios bruscos de dirección."
+  },
+  {
+    "intent_id": "control_respiratorio_activo_g",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "diafragma",
+      "coordinar"
+    ],
+    "base_response": "El control respiratorio activo durante el ejercicio ayuda a mantener estabilidad corporal y mejorar la resistencia. Al inhalar profundamente usando el diafragma y exhalar de forma rítmica, se optimiza el flujo de oxígeno, se reduce la fatiga y se favorece un desempeño físico más seguro y eficiente."
+  },
+  {
+    "intent_id": "reflejo_miotatico_controlado",
+    "keywords": [
+      "musculo",
+      "estirar",
+      "reflejo",
+      "mejorar"
+    ],
+    "base_response": "La activación del reflejo miotático durante estiramientos controlados ayuda a mejorar la flexibilidad sin causar tensión excesiva. Comprender cómo responde el músculo permite ajustar la intensidad y prevenir lesiones, favoreciendo un progreso seguro en rutinas deportivas constantes para jóvenes en crecimiento."
+  },
+  {
+    "intent_id": "control_respiratorio_calentamiento_n",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "musculo",
+      "inhalar"
+    ],
+    "base_response": "El control respiratorio durante el calentamiento físico ayuda a preparar mejor los músculos y mantener un ritmo estable. Al inhalar profundamente y exhalar de forma controlada, los estudiantes mejoran su coordinación, reducen tensiones y optimizan su rendimiento deportivo inicial."
+  },
+  {
+    "intent_id": "control_respiratorio_saltos",
+    "keywords": [
+      "respiracion",
+      "saltar",
+      "equilibrio",
+      "control"
+    ],
+    "base_response": "El control respiratorio durante saltos deportivos ayuda a estabilizar el cuerpo, mejorar la coordinación y evitar tensiones innecesarias. Inhalar antes del impulso y exhalar al caer permite mantener equilibrio, reducir impactos y optimizar la energía en cada movimiento."
+  },
+  {
+    "intent_id": "control_postural_dinamico_o",
+    "keywords": [
+      "postura",
+      "movimiento",
+      "columna",
+      "mantener",
+      "equilibrio",
+      "fortalecer"
+    ],
+    "base_response": "La postura dinámica correcta durante desplazamientos deportivos ayuda a proteger la columna y mejorar el rendimiento. Implica mantener el tronco estable mientras las extremidades se mueven con coordinación, evitando tensiones innecesarias y favoreciendo un equilibrio corporal que reduce riesgos de lesiones frecuentes."
+  },
+  {
+    "intent_id": "control_respiratorio_pliometrico",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "salto",
+      "fortalecer"
+    ],
+    "base_response": "El control respiratorio durante saltos pliométricos ayuda a estabilizar el cuerpo, mejorar la eficiencia del movimiento y reducir la fatiga. Practicar inhalaciones profundas antes del impulso y exhalaciones firmes al aterrizar fortalece la coordinación y previene tensiones musculares innecesarias."
+  },
+  {
+    "intent_id": "control_respiratorio_calentamiento_q",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "calentamiento",
+      "preparar"
+    ],
+    "base_response": "El control respiratorio durante el calentamiento deportivo ayuda a preparar el cuerpo para esfuerzos intensos, estabilizando la frecuencia cardíaca y mejorando la oxigenación muscular. Practicar inhalaciones profundas y exhalaciones lentas reduce tensión y favorece un inicio físico más seguro."
+  },
+  {
+    "intent_id": "respiracion_carreras_saludable",
+    "keywords": [
+      "respiracion",
+      "carrera",
+      "inhalar",
+      "exhalar",
+      "musculo"
+    ],
+    "base_response": "El control de la respiración durante carreras mejora la resistencia y evita fatiga prematura. Inhalar por la nariz y exhalar por la boca ayuda a mantener ritmo estable, oxigenar músculos y sostener esfuerzo físico sin perder coordinación ni concentración deportiva."
+  },
+  {
+    "intent_id": "respiracion_ritmica_ejercicio",
+    "keywords": [
+      "respiracion",
+      "inhalar",
+      "oxigeno",
+      "controlar",
+      "movimiento"
+    ],
+    "base_response": "La respiración rítmica durante el ejercicio ayuda a mantener un flujo constante de oxígeno, mejora la resistencia y reduce la fatiga. Practicar inhalaciones profundas y exhalaciones controladas permite estabilizar el cuerpo, optimizar movimientos y prevenir esfuerzos innecesarios."
+  },
+  {
+    "intent_id": "respiracion_carreras_moderadas_c",
+    "keywords": [
+      "respiracion",
+      "correr",
+      "musculo",
+      "oxigenar"
+    ],
+    "base_response": "El control de la respiración rítmica durante carreras moderadas ayuda a mantener estabilidad corporal y mejorar resistencia. Inhalar por la nariz y exhalar por la boca permite oxigenar músculos, evitar fatiga temprana y sostener un ritmo constante sin perder coordinación."
+  },
+  {
+    "intent_id": "control_postural_en_sentadillas_h",
+    "keywords": [
+      "postura",
+      "controlar",
+      "cadera",
+      "alinear",
+      "torso",
+      "mantener"
+    ],
+    "base_response": "La sentadilla requiere mantener la espalda recta y la cadera alineada para evitar tensiones innecesarias. Controlar la postura permite activar correctamente los músculos y prevenir lesiones. Practicar el movimiento lentamente ayuda a mejorar la técnica y fortalecer el cuerpo de manera segura."
+  },
+  {
+    "intent_id": "alineacion_rodillas_saltos_c",
+    "keywords": [
+      "rodilla",
+      "alinear",
+      "salto",
+      "fortalecer",
+      "aterrizaje"
+    ],
+    "base_response": "Mantener una correcta alineación de rodillas durante saltos deportivos evita tensiones innecesarias y mejora la estabilidad corporal. Practicar aterrizajes controlados fortalece músculos clave y reduce riesgos de lesiones, permitiendo desarrollar habilidades atléticas seguras mediante movimientos precisos y repetidos en cada entrenamiento."
+  },
+  {
+    "intent_id": "control_respiratorio_activo_h",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "diafragma",
+      "fortalecer"
+    ],
+    "base_response": "El control respiratorio activo durante el ejercicio mejora la eficiencia corporal al usar el diafragma de forma consciente. Permite sostener movimientos exigentes, reduce la fatiga y ayuda a mantener una postura estable. Practicar inhalaciones profundas rítmicas favorece un rendimiento deportivo más seguro."
+  },
+  {
+    "intent_id": "respiracion_carreras_cortas_e",
+    "keywords": [
+      "respiracion",
+      "correr",
+      "resistencia",
+      "inhalar",
+      "exhalar"
+    ],
+    "base_response": "El control de la respiración durante carreras cortas ayuda a mantener estabilidad corporal y mejorar la resistencia. Inhalar por la nariz y exhalar por la boca permite ritmo constante, reduce fatiga y favorece movimientos seguros mientras se incrementa la velocidad progresivamente."
+  },
+  {
+    "intent_id": "respiracion_carrera_control_h",
+    "keywords": [
+      "respiracion",
+      "correr",
+      "resistencia",
+      "control"
+    ],
+    "base_response": "El control de respiración rítmica durante la carrera mejora la resistencia y evita la fatiga temprana. Practicar inhalaciones profundas y exhalaciones constantes ayuda a mantener estabilidad corporal, optimiza el flujo de oxígeno y favorece un rendimiento deportivo más seguro y eficiente."
+  },
+  {
+    "intent_id": "respiracion_ritmica_carreras_b",
+    "keywords": [
+      "respiracion",
+      "correr",
+      "oxigenacion",
+      "mantener"
+    ],
+    "base_response": "La técnica de respiración rítmica durante carreras ayuda a mantener estabilidad corporal, mejorar oxigenación y evitar fatiga prematura. Practicar inhalaciones profundas coordinadas con pasos permite sostener esfuerzo continuo y desarrollar resistencia saludable sin sobrecargar músculos."
+  },
+  {
+    "intent_id": "control_postural_en_sentadillas_i",
+    "keywords": [
+      "postura",
+      "controlar",
+      "cadera",
+      "alinear",
+      "torso",
+      "mantener"
+    ],
+    "base_response": "La sentadilla requiere controlar la postura para evitar tensiones innecesarias. Mantener la cadera alineada con el torso permite distribuir el esfuerzo correctamente. Esta técnica mejora la estabilidad, protege las rodillas y fortalece la musculatura profunda que sostiene el cuerpo durante movimientos deportivos exigentes."
+  },
+  {
+    "intent_id": "respiracion_ritmica_carreras_c",
+    "keywords": [
+      "respiracion",
+      "correr",
+      "oxigeno",
+      "sincronizar",
+      "pasos"
+    ],
+    "base_response": "La técnica de respiración rítmica durante carreras cortas ayuda a mantener oxígeno suficiente y evitar fatiga prematura. Consiste en sincronizar inhalaciones y exhalaciones con pasos específicos, mejorando control corporal, estabilidad y rendimiento deportivo sin exigir esfuerzo excesivo para jóvenes en entrenamiento."
+  },
+  {
+    "intent_id": "control_respiratorio_calentamiento_t",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "musculo",
+      "preparar"
+    ],
+    "base_response": "El control respiratorio durante el calentamiento mejora la oxigenación muscular y prepara al cuerpo para movimientos intensos. Practicar inhalaciones profundas y exhalaciones rítmicas reduce tensión interna y aumenta coordinación inicial, favoreciendo un rendimiento deportivo más seguro y estable."
+  },
+  {
+    "intent_id": "control_postural_dinamica_i",
+    "keywords": [
+      "postura",
+      "equilibrar",
+      "columna",
+      "estabilizar"
+    ],
+    "base_response": "La control postural dinámica consiste en mantener la columna alineada mientras el cuerpo se mueve rápidamente. Este hábito reduce tensiones musculares y mejora la precisión deportiva. Practicar desplazamientos cortos con el abdomen firme ayuda a sostener una postura estable durante actividades intensas."
+  },
+  {
+    "intent_id": "control_respiratorio_deportivo_af",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "diafragma",
+      "coordinar"
+    ],
+    "base_response": "El control respiratorio deportivo consiste en aprender a dirigir el aire hacia el diafragma durante movimientos intensos, mejorando la estabilidad corporal. Esta técnica ayuda a sostener el esfuerzo físico, evita tensiones innecesarias y favorece una recuperación más rápida después de cada ejercicio exigente."
+  },
+  {
+    "intent_id": "control_respiratorio_calentamiento_v",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "musculo",
+      "preparar"
+    ],
+    "base_response": "El control respiratorio durante el calentamiento mejora la oxigenación muscular y prepara el cuerpo para movimientos exigentes. Al inhalar profundamente y exhalar de forma rítmica, se estabiliza la postura, se reduce la tensión y se optimiza la coordinación antes del ejercicio."
+  },
+  {
+    "intent_id": "alineacion_cervical_saltos",
+    "keywords": [
+      "cuello",
+      "alinear",
+      "postura",
+      "saltar"
+    ],
+    "base_response": "Mantener una alineación cervical estable durante ejercicios de salto reduce tensiones innecesarias en el cuello y mejora la eficiencia del movimiento. Practicar esta postura ayuda a prevenir molestias, optimiza la coordinación y fortalece hábitos corporales seguros en actividades deportivas intensas."
+  },
+  {
+    "intent_id": "control_postural_dinamica_j",
+    "keywords": [
+      "postura",
+      "alinear",
+      "columna",
+      "mantener"
+    ],
+    "base_response": "La correcta alineación dinámica de la columna durante desplazamientos rápidos evita tensiones innecesarias y mejora la eficiencia corporal. Mantener la postura estable mientras se cambia de dirección permite movimientos más seguros, reduce riesgos de lesiones y favorece un rendimiento deportivo equilibrado y constante."
+  },
+  {
+    "intent_id": "control_neutral_de_pisada_e",
+    "keywords": [
+      "pisada",
+      "control",
+      "equilibrio",
+      "mejorar"
+    ],
+    "base_response": "La pisada neutra durante carreras cortas ayuda a distribuir el impacto de forma equilibrada. Mantener el control del apoyo evita tensiones innecesarias en tobillos y rodillas. Practicar este ajuste mejora la estabilidad corporal y reduce riesgos de lesiones en entrenamientos frecuentes."
+  },
+  {
+    "intent_id": "control_postural_dinamico_p",
+    "keywords": [
+      "columna",
+      "mantener",
+      "equilibrio",
+      "activar"
+    ],
+    "base_response": "El control postural dinámico consiste en ajustar la posición de la columna mientras el cuerpo se mueve, activando músculos estabilizadores para evitar tensiones. Practicarlo durante ejercicios rápidos mejora la coordinación y reduce riesgos de lesiones, fortaleciendo hábitos deportivos saludables."
+  },
+  {
+    "intent_id": "control_respiratorio_deportivo_aj",
+    "keywords": [
+      "respiracion",
+      "mantener",
+      "diafragma",
+      "coordinar"
+    ],
+    "base_response": "El control respiratorio deportivo consiste en usar el diafragma para regular inhalaciones profundas durante movimientos intensos, mejorando la resistencia y evitando fatiga prematura. Practicar ciclos rítmicos de aire permite sostener esfuerzos prolongados y mantener estabilidad corporal en actividades físicas exigentes."
+  },
+  {
+    "intent_id": "control_postural_dinamico_q",
+    "keywords": [
+      "postura",
+      "movimiento",
+      "columna",
+      "mantener"
+    ],
+    "base_response": "La práctica del control postural dinámico durante ejercicios rápidos ayuda a proteger la columna y mejorar la estabilidad corporal. Consiste en ajustar la postura mientras se cambia de dirección, evitando tensiones innecesarias y favoreciendo un rendimiento deportivo más seguro y eficiente."
+  },
+  {
+    "intent_id": "postura_lumbar_saltos",
+    "keywords": [
+      "postura",
+      "control",
+      "columna",
+      "alinear"
+    ],
+    "base_response": "El control consciente de la postura lumbar durante ejercicios de salto ayuda a evitar tensiones innecesarias en la espalda. Mantener la columna alineada y los abdominales activos mejora la estabilidad, reduce riesgos de lesión y favorece un rendimiento físico más seguro y eficiente."
+  },
+  {
+    "intent_id": "respiracion_carreras_a",
+    "keywords": [
+      "respiracion",
+      "correr",
+      "oxigenacion",
+      "inhalar"
+    ],
+    "base_response": "La respiración rítmica durante carreras mejora la eficiencia corporal al permitir mayor oxigenación muscular. Practicar inhalaciones profundas y exhalaciones controladas ayuda a mantener estabilidad, reducir fatiga y sostener un ritmo constante sin perder coordinación física durante ejercicios prolongados."
+  },
+  {
+    "intent_id": "control_respiratorio_activo_j",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "diafragma",
+      "fortalecer"
+    ],
+    "base_response": "La respiración diafragmática durante el ejercicio mejora la oxigenación y reduce la fatiga muscular. Practicar inhalaciones profundas y exhalaciones controladas ayuda a mantener estabilidad corporal, optimizar movimientos deportivos y sostener un ritmo físico saludable sin perder energía innecesaria durante actividades intensas."
+  },
+  {
+    "intent_id": "control_postural_en_sentadillas_j",
+    "keywords": [
+      "postura",
+      "equilibrar",
+      "cadera",
+      "alinear"
+    ],
+    "base_response": "Mantener una sentadilla con la espalda recta y las rodillas alineadas fortalece la estabilidad corporal. Controlar la posición de la cadera evita tensiones innecesarias y mejora la técnica deportiva. Practicar este ajuste postural incrementa seguridad, precisión y eficiencia durante actividades físicas variadas."
+  },
+  {
+    "intent_id": "control_neutral_de_pies",
+    "keywords": [
+      "pies",
+      "equilibrar",
+      "cuerpo",
+      "estabilizar"
+    ],
+    "base_response": "El control neutral de los pies durante la actividad física ayuda a mantener una alineación adecuada que reduce tensiones en rodillas y caderas. Practicar esta posición mejora la estabilidad, previene lesiones y favorece movimientos más eficientes en deportes que requieren cambios rápidos de dirección."
+  },
+  {
+    "intent_id": "control_postural_en_saltos_a",
+    "keywords": [
+      "postura",
+      "salto",
+      "alineacion",
+      "evitar",
+      "impacto",
+      "proteger"
+    ],
+    "base_response": "La correcta alineación corporal durante los saltos deportivos ayuda a reducir impactos innecesarios en rodillas y tobillos. Mantener el tronco estable y caer con flexión controlada mejora la seguridad, previene lesiones y permite ejecutar movimientos más eficientes en actividades físicas intensas."
+  },
+  {
+    "intent_id": "control_postural_dinamica_l",
+    "keywords": [
+      "postura",
+      "alinear",
+      "columna",
+      "mantener",
+      "movimiento",
+      "equilibrar"
+    ],
+    "base_response": "La correcta alineación corporal durante desplazamientos rápidos evita tensiones innecesarias en la columna y mejora la eficiencia deportiva. Mantener la cabeza estable, activar el abdomen y equilibrar el peso en cada paso permite movimientos más seguros, fluidos y resistentes en actividades físicas intensas."
+  },
+  {
+    "intent_id": "control_respiratorio_pliometrico_a",
+    "keywords": [
+      "respiracion",
+      "saltos",
+      "controlar",
+      "mejorar"
+    ],
+    "base_response": "Controlar la respiración durante saltos pliométricos mejora la estabilidad corporal y reduce la fatiga. Inspirar antes del impulso y exhalar al aterrizar ayuda a mantener ritmo seguro, optimiza la energía y favorece una ejecución técnica más precisa en rutinas deportivas intensas."
+  },
+  {
+    "intent_id": "control_respiratorio_carrera_b",
+    "keywords": [
+      "respiracion",
+      "correr",
+      "oxigenacion",
+      "control"
+    ],
+    "base_response": "El control respiratorio durante la carrera ayuda a mantener un ritmo estable y reducir la fatiga. Inspirar por la nariz y exhalar por la boca mejora la oxigenación muscular, permite mayor resistencia y evita molestias torácicas durante esfuerzos prolongados."
+  },
+  {
+    "intent_id": "respiracion_calentamiento_controlada",
+    "keywords": [
+      "respiracion",
+      "calentamiento",
+      "control",
+      "inhalar",
+      "exhalar"
+    ],
+    "base_response": "El control de la respiración durante el calentamiento ayuda a preparar mejor los músculos y mantener un ritmo estable. Inhalar profundamente y exhalar de forma controlada mejora la oxigenación, reduce la tensión inicial y facilita un inicio deportivo más seguro."
+  },
+  {
+    "intent_id": "control_postural_dinamico_s",
+    "keywords": [
+      "columna",
+      "mantener",
+      "alineacion",
+      "fortalecer"
+    ],
+    "base_response": "La alineación dinámica de la columna durante movimientos deportivos evita tensiones innecesarias y mejora la eficiencia corporal. Mantener la espalda estable mientras se flexionan rodillas y caderas permite distribuir mejor el esfuerzo, fortaleciendo músculos profundos y reduciendo riesgos de lesiones en actividades físicas variadas."
+  },
+  {
+    "intent_id": "control_respiratorio_calentamiento_y",
+    "keywords": [
+      "respiracion",
+      "inhalar",
+      "exhalar",
+      "musculo",
+      "oxigenar"
+    ],
+    "base_response": "El control respiratorio durante el calentamiento deportivo ayuda a preparar los músculos y estabilizar el ritmo corporal. Inhalar profundamente y exhalar de forma controlada mejora la oxigenación, reduce tensiones y permite iniciar la actividad física con mayor seguridad y eficiencia."
+  },
+  {
+    "intent_id": "control_respiracion_carrera_b",
+    "keywords": [
+      "respiracion",
+      "carrera",
+      "regular",
+      "inhalar"
+    ],
+    "base_response": "Aprender a regular la respiración durante carreras cortas permite mantener un ritmo estable y evitar fatiga temprana. Practicar inhalaciones profundas y exhalaciones controladas mejora la coordinación corporal, aumenta la resistencia y ayuda a sostener esfuerzos físicos con mayor seguridad."
+  },
+  {
+    "intent_id": "microdescanso_deportivo_e",
+    "keywords": [
+      "microdescanso",
+      "recuperar",
+      "musculo",
+      "respirar",
+      "tecnica"
+    ],
+    "base_response": "Los microdescansos deportivos consisten en pausas breves durante entrenamientos intensos para reducir fatiga muscular y mejorar concentración. Estos descansos permiten recuperar energía, estabilizar la respiración y mantener técnica adecuada, evitando sobrecargas y favoreciendo un rendimiento físico más seguro y eficiente."
+  },
+  {
+    "intent_id": "control_respiratorio_deportivo_al",
+    "keywords": [
+      "respiracion",
+      "mantener",
+      "diafragma",
+      "coordinar"
+    ],
+    "base_response": "El control respiratorio deportivo consiste en usar el diafragma para regular inhalaciones profundas durante movimientos intensos. Esta técnica mejora la resistencia, disminuye la fatiga y ayuda a mantener estabilidad corporal mientras se ejecutan ejercicios que requieren coordinación precisa y esfuerzo continuo."
+  },
+  {
+    "intent_id": "microdescanso_deportivo_preventivo_f",
+    "keywords": [
+      "microdescanso",
+      "recuperar",
+      "musculo",
+      "evitar",
+      "fatiga"
+    ],
+    "base_response": "Los microdescansos deportivos consisten en pausas breves durante entrenamientos intensos para permitir que los músculos recuperen energía y evitar la fatiga acumulada. Aplicarlos correctamente mejora el rendimiento, reduce riesgos de lesión y ayuda a mantener una rutina física más sostenible."
+  },
+  {
+    "intent_id": "control_postural_en_saltos_b",
+    "keywords": [
+      "postura",
+      "salto",
+      "equilibrio",
+      "control"
+    ],
+    "base_response": "Mantener una postura estable durante los saltos deportivos ayuda a evitar tensiones innecesarias en la espalda y las rodillas. Controlar la alineación del tronco y la posición de los brazos permite aterrizajes más seguros, mejora la coordinación y favorece un movimiento eficiente en actividades físicas intensas."
+  },
+  {
+    "intent_id": "control_respiratorio_en_carrera",
+    "keywords": [
+      "respiracion",
+      "correr",
+      "ritmo",
+      "mantener"
+    ],
+    "base_response": "El control respiratorio durante la carrera permite sostener el esfuerzo sin agotarse rápidamente. Al inhalar por la nariz y exhalar por la boca, se estabiliza el ritmo corporal, mejora la oxigenación muscular y se reduce la tensión física, favoreciendo un desempeño deportivo más eficiente y seguro."
+  },
+  {
+    "intent_id": "microdescanso_deportivo_f",
+    "keywords": [
+      "microdescanso",
+      "entrenar",
+      "musculo",
+      "recuperar"
+    ],
+    "base_response": "El microdescanso deportivo consiste en pausas breves durante entrenamientos intensos para permitir que los músculos reduzcan tensión acumulada. Estas pausas mejoran la concentración, previenen fatiga excesiva y ayudan a mantener un rendimiento físico estable sin comprometer la seguridad corporal."
+  },
+  {
+    "intent_id": "control_respiratorio_calentamiento_z",
+    "keywords": [
+      "respiracion",
+      "preparar",
+      "musculo",
+      "mejorar"
+    ],
+    "base_response": "El control respiratorio durante el calentamiento deportivo ayuda a preparar músculos y articulaciones mediante inhalaciones profundas y exhalaciones rítmicas. Esta técnica mejora la oxigenación, reduce tensiones innecesarias y facilita movimientos iniciales más seguros, evitando esfuerzos bruscos que puedan causar lesiones."
+  },
+  {
+    "intent_id": "respiracion_carrera_control_k",
+    "keywords": [
+      "respiracion",
+      "correr",
+      "ritmo",
+      "optimizar"
+    ],
+    "base_response": "El control de la respiración durante la carrera mejora la eficiencia corporal al mantener un ritmo estable. Inhalar por la nariz y exhalar por la boca ayuda a reducir la fatiga, optimizar la resistencia y sostener movimientos coordinados en trayectos prolongados."
+  },
+  {
+    "intent_id": "control_postural_en_sentadillas_k",
+    "keywords": [
+      "postura",
+      "equilibrar",
+      "cadera",
+      "flexionar"
+    ],
+    "base_response": "La sentadilla requiere mantener la espalda alineada mientras se flexionan las rodillas sin que la cadera se incline hacia adelante. Este control postural específico evita tensiones innecesarias y mejora la estabilidad corporal durante movimientos deportivos que exigen precisión y fuerza coordinada."
+  },
+  {
+    "intent_id": "control_respiratorio_deportivo_am",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "musculo",
+      "regular",
+      "energia",
+      "mantener"
+    ],
+    "base_response": "El control respiratorio durante esfuerzo deportivo ayuda a mantener estabilidad corporal y mejorar rendimiento. Inhalar profundamente antes de movimientos intensos y exhalar al ejecutar acciones permite regular tensión muscular, prevenir mareos y sostener energía constante durante actividades prolongadas."
+  },
+  {
+    "intent_id": "control_respiratorio_esfuerzo_f",
+    "keywords": [
+      "respiracion",
+      "inhalar",
+      "exhalar",
+      "musculo",
+      "oxigenar"
+    ],
+    "base_response": "El control respiratorio durante esfuerzos intensos ayuda a mantener estabilidad corporal y mejorar rendimiento. Inhalar profundamente antes de cada movimiento y exhalar al ejecutar acciones permite oxigenar músculos, reducir fatiga y sostener actividad física con mayor seguridad y eficiencia."
+  },
+  {
+    "intent_id": "control_respiratorio_deportivo_an",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "diafragma",
+      "mantener"
+    ],
+    "base_response": "El control respiratorio deportivo consiste en usar el diafragma para regular el aire durante movimientos intensos. Esta técnica mejora la resistencia, reduce la fatiga y ayuda a mantener estabilidad corporal mientras se corre, salta o cambia de dirección rápidamente en actividades físicas exigentes."
+  },
+  {
+    "intent_id": "reflejo_miotatico_flexibilidad",
+    "keywords": [
+      "reflejo",
+      "estirar",
+      "musculo",
+      "mejorar",
+      "flexibilidad"
+    ],
+    "base_response": "La activación del reflejo miotático durante estiramientos controlados ayuda a mejorar la flexibilidad muscular progresiva. Comprender cómo el músculo responde al estiramiento permite realizar movimientos seguros, prevenir lesiones y desarrollar una rutina física más eficiente que favorece el rendimiento deportivo saludable."
+  },
+  {
+    "intent_id": "control_respiratorio_deportivo_ao",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "diafragma",
+      "mantener"
+    ],
+    "base_response": "La respiración diafragmática durante el ejercicio ayuda a estabilizar el cuerpo y mejorar la resistencia. Al controlar el aire desde el abdomen, se reduce la fatiga y se mantiene un ritmo físico más eficiente, favoreciendo movimientos seguros y mejor coordinación deportiva."
+  },
+  {
+    "intent_id": "respiracion_diafragmatica_deportiva_ad",
+    "keywords": [
+      "respiracion",
+      "activar",
+      "musculo",
+      "optimizar"
+    ],
+    "base_response": "La respiración diafragmática durante el ejercicio mejora la estabilidad corporal al activar músculos profundos, permite un flujo de oxígeno más eficiente y reduce la fatiga. Practicarla conscientemente ayuda a mantener postura adecuada y optimizar el rendimiento deportivo en actividades intensas."
+  },
+  {
+    "intent_id": "alineacion_cervical_saltos_a",
+    "keywords": [
+      "cuello",
+      "alinear",
+      "cervical",
+      "saltar",
+      "coordinar"
+    ],
+    "base_response": "Mantener una alineación cervical estable durante ejercicios de salto reduce tensiones innecesarias y mejora la coordinación. Al controlar la posición del cuello, se favorece un movimiento más seguro, se previenen molestias y se fortalece la conciencia corporal en actividades deportivas dinámicas."
+  },
+  {
+    "intent_id": "respiracion_control_esfuerzo_a",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "esfuerzo",
+      "inhalar"
+    ],
+    "base_response": "El control de la respiración durante esfuerzos intensos ayuda a mantener estabilidad corporal y mejorar la resistencia. Inhalar profundamente antes del movimiento y exhalar al ejecutar la acción permite optimizar energía, reducir fatiga y sostener un ritmo deportivo seguro."
+  },
+  {
+    "intent_id": "control_respiratorio_deportivo_aq",
+    "keywords": [
+      "respiracion",
+      "controlar",
+      "diafragma",
+      "fortalecer"
+    ],
+    "base_response": "El control respiratorio deportivo consiste en usar el diafragma para regular el aire durante movimientos intensos, evitando fatiga temprana. Practicar inhalaciones profundas y exhalaciones rítmicas mejora la resistencia, estabiliza la postura y ayuda a mantener un ritmo físico constante sin perder eficiencia."
+  }
+]
