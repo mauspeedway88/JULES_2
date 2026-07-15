@@ -1,0 +1,662 @@
+[
+  {
+    "intent_id": "conjunto_numeros_naturales",
+    "keywords": [
+      "conjunto",
+      "naturales",
+      "conteo",
+      "elementos",
+      "infinito"
+    ],
+    "base_response": "El conjunto de los números naturales comprende todos aquellos valores utilizados fundamentalmente para contar y ordenar diversos elementos en la realidad cotidiana. Inicia habitualmente desde el número uno y continúa sin límite hacia el infinito, estructurando firmemente las primeras bases del pensamiento aritmético."
+  },
+  {
+    "intent_id": "conjunto_numeros_enteros",
+    "keywords": [
+      "conjunto",
+      "enteros",
+      "positivos",
+      "negativos",
+      "cero"
+    ],
+    "base_response": "El conjunto de los números enteros extiende directamente los números naturales al incorporar simultáneamente el valor cero y las cantidades negativas correspondientes. Esta estructura numérica resulta imprescindible para representar matemáticamente conceptos como temperaturas gélidas bajo cero, profundidades oceánicas o deudas financieras."
+  },
+  {
+    "intent_id": "conjunto_numeros_racionales",
+    "keywords": [
+      "conjunto",
+      "racionales",
+      "fracciones",
+      "cociente",
+      "enteros"
+    ],
+    "base_response": "El conjunto de los números racionales agrupa cualquier valor que logre expresarse estrictamente como una fracción o cociente exacto entre dos números enteros distintos, siempre garantizando que el denominador permanezca completamente diferente de cero para evitar una división matemáticamente indefinida."
+  },
+  {
+    "intent_id": "conjunto_numeros_irracionales",
+    "keywords": [
+      "conjunto",
+      "irracionales",
+      "decimales",
+      "infinitos",
+      "fraccion"
+    ],
+    "base_response": "El conjunto de los números irracionales engloba aquellos valores numéricos que resultan totalmente imposibles de representar mediante una fracción convencional. Se caracterizan profundamente por presentar una expansión decimal infinita que carece de cualquier patrón periódico repetitivo, abarcando constantes famosas como pi."
+  },
+  {
+    "intent_id": "sistema_numeros_reales",
+    "keywords": [
+      "sistema",
+      "reales",
+      "racionales",
+      "irracionales",
+      "recta"
+    ],
+    "base_response": "El sistema general de los números reales surge al combinar orgánicamente todos los números racionales junto con los números irracionales dentro de un único grupo matemático. Este extenso conjunto permite localizar con absoluta precisión cualquier punto concebible sobre una recta numérica continua."
+  },
+  {
+    "intent_id": "concepto_numeros_imaginarios",
+    "keywords": [
+      "concepto",
+      "imaginarios",
+      "raices",
+      "negativas",
+      "unidad"
+    ],
+    "base_response": "El concepto fundamental de los números imaginarios nace para brindar soluciones lógicas a raíces cuadradas de cantidades estrictamente negativas que no existen en los números reales. La unidad principal se denomina habitualmente con la letra i minúscula, abriendo caminos hacia matemáticas avanzadas."
+  },
+  {
+    "intent_id": "formacion_subconjuntos",
+    "keywords": [
+      "formacion",
+      "subconjuntos",
+      "elementos",
+      "pertenencia",
+      "agrupacion"
+    ],
+    "base_response": "La formación de subconjuntos ocurre sistemáticamente cuando todos los elementos pertenecientes a un pequeño grupo específico también forman parte íntegra de un conjunto originario mucho más amplio. Este proceso lógico resulta fundamental para clasificar y organizar información matemática en diversas categorías jerárquicas."
+  },
+  {
+    "intent_id": "diagramas_de_venn",
+    "keywords": [
+      "diagramas",
+      "venn",
+      "representacion",
+      "grafica",
+      "relaciones"
+    ],
+    "base_response": "Los diagramas de Venn constituyen una representación visual altamente efectiva que utiliza círculos cerrados superpuestos para ilustrar simultáneamente las relaciones lógicas existentes entre diferentes colecciones de elementos. Facilitan enormemente la comprensión intuitiva sobre conceptos matemáticos como intersecciones y uniones grupales."
+  },
+  {
+    "intent_id": "interseccion_conjuntos",
+    "keywords": [
+      "interseccion",
+      "conjuntos",
+      "elementos",
+      "comunes",
+      "operacion"
+    ],
+    "base_response": "La intersección de conjuntos define una operación matemática orientada a formar un nuevo grupo exclusivamente constituido por los elementos específicos que resultan estrictamente comunes entre dos o más conjuntos originales. Visualmente corresponde directamente a la zona central compartida dentro de los diagramas."
+  },
+  {
+    "intent_id": "union_elementos",
+    "keywords": [
+      "union",
+      "elementos",
+      "conjuntos",
+      "agrupacion",
+      "totalidad"
+    ],
+    "base_response": "La unión de conjuntos representa una operación aritmética lógica que combina meticulosamente la totalidad absoluta de elementos pertenecientes a varios grupos diferentes para conformar un único gran conjunto general. Cualquier elemento repetido entre ellos se contabiliza cuidadosamente una sola vez."
+  },
+  {
+    "intent_id": "diferencia_conjuntos",
+    "keywords": [
+      "diferencia",
+      "conjuntos",
+      "elementos",
+      "exclusivos",
+      "resta"
+    ],
+    "base_response": "La diferencia entre conjuntos conforma una operación estructurada para extraer aquellos elementos particulares que pertenecen exclusivamente al primer grupo mencionado, descartando completamente cualquier valor que también participe dentro del segundo. Funciona conceptualmente como un proceso lógico de sustracción o eliminación selectiva."
+  },
+  {
+    "intent_id": "complemento_conjuntos",
+    "keywords": [
+      "complemento",
+      "conjuntos",
+      "universo",
+      "elementos",
+      "faltantes"
+    ],
+    "base_response": "El complemento de un conjunto abarca rigurosamente todos aquellos elementos específicos del universo general predefinido que actualmente no se encuentran incluidos dentro del grupo analizado. Representa conceptualmente aquella parte exacta que falta irremediablemente para poder completar la totalidad del conjunto universal."
+  },
+  {
+    "intent_id": "pertenencia_elementos",
+    "keywords": [
+      "pertenencia",
+      "elementos",
+      "relacion",
+      "inclusiones",
+      "simbolos"
+    ],
+    "base_response": "La relación matemática de pertenencia establece formalmente si un elemento individual específico forma parte constitutiva e indivisible de una determinada colección o agrupación previamente definida. Este vínculo esencial se indica visualmente mediante un símbolo distintivo parecido a una letra cursiva especial."
+  },
+  {
+    "intent_id": "notacion_comprension",
+    "keywords": [
+      "notacion",
+      "comprension",
+      "propiedades",
+      "caracteristicas",
+      "reglas"
+    ],
+    "base_response": "La notación por comprensión representa una metodología sumamente eficiente para definir conjuntos matemáticos describiendo rigurosamente las propiedades intrínsecas o características exclusivas que deben cumplir obligatoriamente sus respectivos elementos constitutivos, evitando así enumerarlos exhaustiva e individualmente uno tras otro sin fin."
+  },
+  {
+    "intent_id": "notacion_extension",
+    "keywords": [
+      "notacion",
+      "extension",
+      "enumeracion",
+      "elementos",
+      "listado"
+    ],
+    "base_response": "La notación por extensión constituye un método sumamente directo y visual para definir conjuntos lógicos mediante la enumeración explícita e individual de absolutamente todos y cada uno de sus elementos conformantes, separándolos cuidadosamente por comas y encerrándolos organizadamente entre llaves características."
+  },
+  {
+    "intent_id": "recta_numerica_real",
+    "keywords": [
+      "recta",
+      "numerica",
+      "real",
+      "geometria",
+      "puntos"
+    ],
+    "base_response": "La recta numérica real conforma un modelo geométrico continuo verdaderamente indispensable donde cada punto físico trazado corresponde biunívocamente a un único número real específico. Permite visualizar claramente las relaciones espaciales de magnitud y establecer comparaciones lógicas de orden entre diferentes cantidades."
+  },
+  {
+    "intent_id": "cardinalidad_conjunto",
+    "keywords": [
+      "cardinalidad",
+      "conjunto",
+      "cantidad",
+      "elementos",
+      "tamano"
+    ],
+    "base_response": "La cardinalidad matemática de un conjunto representa de manera exacta e invariable la cantidad total absoluta de elementos individuales distintos que componen efectivamente dicha agrupación particular. Este valioso concepto numérico ayuda significativamente a comparar los tamaños relativos existentes entre diversas colecciones."
+  },
+  {
+    "intent_id": "conjunto_vacio_nulo",
+    "keywords": [
+      "conjunto",
+      "vacio",
+      "nulo",
+      "carencia",
+      "elementos"
+    ],
+    "base_response": "El conjunto vacío o nulo representa matemáticamente una agrupación conceptual completamente peculiar que carece intencionalmente de cualquier tipo de elemento constitutivo en su interior. Funciona primordialmente como un bloque estructural indispensable que garantiza la consistencia teórica en diversas operaciones de conjuntos algebraicos."
+  },
+  {
+    "intent_id": "conjunto_universal_base",
+    "keywords": [
+      "conjunto",
+      "universal",
+      "base",
+      "totalidad",
+      "contexto"
+    ],
+    "base_response": "El conjunto universal asume el rol indispensable de una base referencial global que contiene exhaustivamente todos los posibles elementos relevantes circunscritos bajo un contexto matemático específico de análisis. Define claramente los límites fronterizos para las operaciones y discusiones lógicas actuales."
+  },
+  {
+    "intent_id": "clasificacion_numeros",
+    "keywords": [
+      "clasificacion",
+      "numeros",
+      "categorias",
+      "propiedades",
+      "jerarquias"
+    ],
+    "base_response": "La clasificación detallada de los números agrupa racionalmente las cantidades matemáticas en categorías progresivas y jerárquicas cuidadosamente diseñadas, tales como naturales, enteros, racionales e irracionales. Esta organización sistemática facilita enormemente el estudio analítico profundo sobre sus propiedades intrínsecas y comportamientos."
+  },
+  {
+    "intent_id": "propiedad_cerradura",
+    "keywords": [
+      "propiedad",
+      "cerradura",
+      "operaciones",
+      "resultados",
+      "conjuntos"
+    ],
+    "base_response": "La propiedad matemática de cerradura asegura categóricamente que al ejecutar una operación aritmética concreta entre diversos elementos correspondientes a un conjunto definido, el resultado emergente siempre pertenecerá indudablemente a esa misma colección originaria, preservando así la integridad estructural del sistema."
+  },
+  {
+    "intent_id": "elementos_pares_positivos",
+    "keywords": [
+      "elementos",
+      "pares",
+      "positivos",
+      "multiplos",
+      "divisibles"
+    ],
+    "base_response": "Los elementos numéricos pares positivos constituyen aquellos números enteros estrictamente mayores que cero que resultan perfectamente divisibles entre dos, produciendo invariablemente un cociente exacto sin residuos fraccionarios. Se distribuyen uniformemente a lo largo de la escala numérica mediante progresiones aritméticas constantes."
+  },
+  {
+    "intent_id": "elementos_impares_positivos",
+    "keywords": [
+      "elementos",
+      "impares",
+      "positivos",
+      "enteros",
+      "residuos"
+    ],
+    "base_response": "Los elementos numéricos impares positivos comprenden todos aquellos enteros mayores que cero que jamás logran dividirse exactamente entre dos, dejando sistemáticamente un residuo invariable de uno. Se ubican de manera intercalada precisa entre los valores pares sobre la recta numérica conceptual."
+  },
+  {
+    "intent_id": "multiplos_numericos_basicos",
+    "keywords": [
+      "multiplos",
+      "numericos",
+      "basicos",
+      "productos",
+      "multiplicacion"
+    ],
+    "base_response": "Los múltiplos numéricos básicos surgen progresiva y ordenadamente al multiplicar constantemente una cantidad entera inicial por absolutamente todos los demás números naturales existentes en secuencia infinita. Esta valiosa relación aritmética permite generar series crecientes fundamentales para analizar patrones matemáticos complejos."
+  },
+  {
+    "intent_id": "divisores_numericos_exactos",
+    "keywords": [
+      "divisores",
+      "numericos",
+      "exactos",
+      "divisiones",
+      "fracciones"
+    ],
+    "base_response": "Los divisores numéricos exactos representan sistemáticamente todas aquellas cantidades enteras particulares capaces de fraccionar o dividir a un número específico originando un resultado puramente entero y un residuo absolutamente equivalente a cero. Su correcta identificación resulta vital para simplificar problemas matemáticos complejos."
+  },
+  {
+    "intent_id": "numeros_primos_fundamentales",
+    "keywords": [
+      "numeros",
+      "primos",
+      "fundamentales",
+      "divisores",
+      "unidad"
+    ],
+    "base_response": "Los números primos fundamentales conforman una categoría exclusiva de valores enteros superiores a la unidad que ostentan estrictamente solo dos divisores naturales posibles e irreemplazables: el número uno y ellos mismos, actuando indudablemente como los verdaderos bloques constructivos de la aritmética."
+  },
+  {
+    "intent_id": "numeros_compuestos_divisibles",
+    "keywords": [
+      "numeros",
+      "compuestos",
+      "divisibles",
+      "factores",
+      "enteros"
+    ],
+    "base_response": "Los números compuestos agrupan ordenadamente aquellos valores enteros positivamente mayores a uno que cuentan intrínsecamente con tres o más divisores exactos comprobables. Pueden descomponerse lógicamente mediante procesos analíticos en un producto completamente único conformado por múltiples factores primos más simples."
+  },
+  {
+    "intent_id": "criba_de_eratostenes",
+    "keywords": [
+      "criba",
+      "eratostenes",
+      "algoritmos",
+      "primos",
+      "tablas"
+    ],
+    "base_response": "La clásica criba de Eratóstenes representa un antiguo y brillante algoritmo matemático diseñado meticulosamente para identificar sistemáticamente todos los números primos existentes hasta un límite numérico superior establecido previamente, eliminando iterativamente los sucesivos múltiplos compuestos encontrados en una tabla secuencial ordenada."
+  },
+  {
+    "intent_id": "valor_absoluto_numerico",
+    "keywords": [
+      "valor",
+      "absoluto",
+      "numerico",
+      "distancias",
+      "origen"
+    ],
+    "base_response": "El valor absoluto numérico expresa conceptualmente la distancia puramente geométrica existente entre cualquier cantidad específica y el punto de origen representado por el cero dentro de la recta numérica. Se considera siempre como una magnitud matemática estrictamente positiva o nula independientemente del signo original."
+  },
+  {
+    "intent_id": "opuesto_aritmetico_aditivo",
+    "keywords": [
+      "opuesto",
+      "aritmetico",
+      "aditivo",
+      "signos",
+      "distancias"
+    ],
+    "base_response": "El opuesto aritmético aditivo de cualquier cantidad determinada constituye un segundo número específico que, al sumarse algebraicamente con el elemento original, produce sistemáticamente un resultado nulo equivalente a cero. Visualmente se ubican a distancias perfectamente simétricas sobre la recta continua."
+  },
+  {
+    "intent_id": "fracciones_propias_comunes",
+    "keywords": [
+      "fracciones",
+      "propias",
+      "numerador",
+      "denominador",
+      "unidad"
+    ],
+    "base_response": "Las fracciones propias comunes constituyen expresiones matemáticas fundamentales donde el numerador numérico es estrictamente menor que el correspondiente denominador. Estas estructuras representan gráficamente porciones exactas que siempre resultan menores a la unidad completa, siendo esenciales para evaluar particiones físicas simples."
+  },
+  {
+    "intent_id": "fracciones_impropias_basicas",
+    "keywords": [
+      "fracciones",
+      "impropias",
+      "numerador",
+      "mayores",
+      "unidades"
+    ],
+    "base_response": "Las fracciones impropias básicas emergen analíticamente cuando el numerador superior resulta ser equivalentemente igual o francamente mayor al denominador inferior correspondiente. Simbolizan numéricamente cantidades que representan una unidad completa o valores progresivamente mayores, facilitando operaciones en cálculos aritméticos medianamente avanzados."
+  },
+  {
+    "intent_id": "numeros_mixtos_compuestos",
+    "keywords": [
+      "numeros",
+      "mixtos",
+      "enteros",
+      "fracciones",
+      "combinaciones"
+    ],
+    "base_response": "Los números mixtos compuestos combinan armoniosa y simultáneamente un número entero completo con una fracción propia claramente adyacente. Ofrecen una representación visual y conceptual mucho más intuitiva para comprender aquellas cantidades reales mayores a la unidad en múltiples situaciones prácticas cotidianas."
+  },
+  {
+    "intent_id": "fracciones_equivalentes_iguales",
+    "keywords": [
+      "fracciones",
+      "equivalentes",
+      "iguales",
+      "proporciones",
+      "valores"
+    ],
+    "base_response": "Las fracciones equivalentes iguales expresan numéricamente exactamente el mismo valor matemático o la idéntica proporción lógica subyacente, a pesar de estar escritas visualmente con diferentes numeradores y denominadores. Se descubren fácilmente mediante procesos metódicos de amplificación o simplificación aritmética proporcional."
+  },
+  {
+    "intent_id": "simplificacion_fraccionaria",
+    "keywords": [
+      "simplificacion",
+      "fraccionaria",
+      "reduccion",
+      "terminos",
+      "divisiones"
+    ],
+    "base_response": "La simplificación fraccionaria describe el proceso metódico de reducir constantemente tanto el numerador como el denominador superior mediante la división simultánea por un divisor común máximo. Esta técnica asegura obtener rápidamente la expresión numérica más compacta y analíticamente manejable posible."
+  },
+  {
+    "intent_id": "minimo_comun_multiplo",
+    "keywords": [
+      "minimo",
+      "comun",
+      "multiplo",
+      "menor",
+      "coincidencias"
+    ],
+    "base_response": "El mínimo común múltiplo representa categóricamente el número entero positivo más pequeño posible que resulta ser un múltiplo simultáneo perfecto de dos o más cantidades predefinidas. Resulta indispensable operativamente para lograr sumar o restar adecuadamente diferentes fracciones con denominadores completamente desiguales."
+  },
+  {
+    "intent_id": "maximo_comun_divisor",
+    "keywords": [
+      "maximo",
+      "comun",
+      "divisor",
+      "mayor",
+      "divisiones"
+    ],
+    "base_response": "El máximo común divisor define de manera exacta al mayor número entero concebible capaz de dividir simultáneamente a dos o más valores sin producir absolutamente ningún residuo fraccionario restante. Esta valiosa herramienta resulta vital para simplificar al máximo expresiones algebraicas complejas."
+  },
+  {
+    "intent_id": "potenciacion_aritmetica",
+    "keywords": [
+      "potenciacion",
+      "aritmetica",
+      "multiplicacion",
+      "repetida",
+      "exponentes"
+    ],
+    "base_response": "La potenciación aritmética establece una operación matemática progresiva que representa fundamentalmente una multiplicación iterada y sucesiva de un número base específico por sí mismo, tantas veces como indique puntualmente el exponente asociado. Acelera notablemente los cálculos de crecimientos geométricos acelerados."
+  },
+  {
+    "intent_id": "radicacion_cuadrada",
+    "keywords": [
+      "radicacion",
+      "cuadrada",
+      "raices",
+      "inversa",
+      "potencias"
+    ],
+    "base_response": "La radicación cuadrada funciona lógicamente como la operación matemática estrictamente inversa a la potenciación de grado dos. Consiste primordialmente en determinar aquel número oculto particular que, al ser multiplicado exactamente por sí mismo, genere como resultado ineludible la cantidad original propuesta."
+  },
+  {
+    "intent_id": "notacion_cientifica",
+    "keywords": [
+      "notacion",
+      "cientifica",
+      "potencias",
+      "diez",
+      "grandes"
+    ],
+    "base_response": "La notación científica representa un sistema tipográfico altamente especializado diseñado para escribir rápidamente números colosalmente grandes o infinitesimalmente diminutos. Emplea inteligentemente multiplicaciones por potencias consecutivas de diez, logrando compactar expresiones que de otra manera resultarían imposibles de manejar."
+  },
+  {
+    "intent_id": "proporcionalidad_directa",
+    "keywords": [
+      "proporcionalidad",
+      "directa",
+      "aumento",
+      "magnitudes",
+      "constantes"
+    ],
+    "base_response": "La proporcionalidad directa vincula algebraicamente dos magnitudes físicas o matemáticas distintas de manera que si una cantidad aumenta su valor numérico multiplicativamente, la segunda incrementará simultáneamente manteniendo inalterable un cociente proporcional constante, facilitando así la predicción analítica de comportamientos empíricos interconectados."
+  },
+  {
+    "intent_id": "proporcionalidad_inversa",
+    "keywords": [
+      "proporcionalidad",
+      "inversa",
+      "disminucion",
+      "magnitudes",
+      "productos"
+    ],
+    "base_response": "La proporcionalidad inversa enlaza sistemáticamente dos variables cuantitativas concretas provocando que mientras la magnitud de una se incrementa notoriamente de forma multiplicativa, el valor complementario de la otra disminuya correlativamente, manteniendo siempre completamente constante el producto final inalterable entre ambos elementos numéricos."
+  },
+  {
+    "intent_id": "porcentajes_matematicos",
+    "keywords": [
+      "porcentajes",
+      "matematicos",
+      "fracciones",
+      "cien",
+      "partes"
+    ],
+    "base_response": "Los porcentajes matemáticos constituyen una manera ampliamente estandarizada de expresar cuidadosamente cualquier proporción fraccionaria específica tomando invariablemente como denominador referencial absoluto al número cien. Este sistema comparativo resulta extraordinariamente útil e intuitivo para analizar descuentos comerciales, incrementos estadísticos poblacionales o tasas financieras."
+  },
+  {
+    "intent_id": "regla_tres_simple",
+    "keywords": [
+      "regla",
+      "tres",
+      "simple",
+      "proporciones",
+      "incognitas"
+    ],
+    "base_response": "La clásica regla de tres simple proporciona un mecanismo aritmético sumamente directo para resolver lógicamente diversos problemas prácticos basados en proporciones matemáticas conocidas. Permite deducir velozmente el valor oculto de una cuarta cantidad incógnita utilizando sabiamente tres datos numéricos previamente establecidos."
+  },
+  {
+    "intent_id": "sistemas_numeracion",
+    "keywords": [
+      "sistemas",
+      "numeracion",
+      "reglas",
+      "simbolos",
+      "representacion"
+    ],
+    "base_response": "Los sistemas de numeración engloban un conjunto lógicamente ordenado compuesto por diversos símbolos representativos y reglas gramaticales estrictas que permiten expresar cualquier cantidad matemática concebible. Estos marcos conceptuales determinan profundamente cómo las distintas civilizaciones registran, operan y transmiten eficientemente la información numérica."
+  },
+  {
+    "intent_id": "sistema_decimal_posicional",
+    "keywords": [
+      "sistema",
+      "decimal",
+      "posicional",
+      "base",
+      "diez"
+    ],
+    "base_response": "El sistema decimal posicional opera universalmente utilizando una base matemática de diez dígitos fundamentales independientes. Su característica principal verdaderamente revolucionaria reside en que el valor cuantitativo real de cada cifra individual depende exclusivamente de la posición jerárquica exacta que ocupa dentro del número."
+  },
+  {
+    "intent_id": "sistema_binario_digital",
+    "keywords": [
+      "sistema",
+      "binario",
+      "digital",
+      "base",
+      "dos"
+    ],
+    "base_response": "El sistema binario digital funciona basándose rigurosamente en la utilización exclusiva de únicamente dos símbolos representativos, generalmente identificados mediante ceros y unos consecutivos. Constituye irrevocablemente el lenguaje matemático fundamental empleado por todas las computadoras modernas para procesar volúmenes masivos de información estructurada."
+  },
+  {
+    "intent_id": "numeros_romanos_antiguos",
+    "keywords": [
+      "numeros",
+      "romanos",
+      "antiguos",
+      "letras",
+      "adicion"
+    ],
+    "base_response": "El sistema de números romanos antiguos emplea selectivamente diversas letras mayúsculas del alfabeto latino tradicional para representar visualmente diferentes cantidades matemáticas acumulativas. Se fundamenta empíricamente en complejas reglas lógicas de adición iterativa y sustracción posicional, utilizándose actualmente en aplicaciones ornamentales estéticas e históricas."
+  },
+  {
+    "intent_id": "propiedad_conmutativa",
+    "keywords": [
+      "propiedad",
+      "conmutativa",
+      "orden",
+      "factores",
+      "resultados"
+    ],
+    "base_response": "La propiedad matemática conmutativa certifica formalmente que el orden posicional elegido para sumar o multiplicar diferentes cantidades numéricas no alterará de ninguna forma imaginable el resultado lógico final obtenido al concluir correctamente las operaciones algebraicas planteadas sobre el papel metódicamente estructurado."
+  },
+  {
+    "intent_id": "propiedad_asociativa",
+    "keywords": [
+      "propiedad",
+      "asociativa",
+      "agrupacion",
+      "terminos",
+      "operaciones"
+    ],
+    "base_response": "La propiedad asociativa matemática establece rigurosamente que al sumar o multiplicar tres o más cantidades numéricas sucesivas, la manera particular en la cual se decida agrupar inicialmente dichos términos no provocará absolutamente ninguna variación detectable sobre el resultado definitivo consolidado final."
+  },
+  {
+    "intent_id": "propiedad_distributiva",
+    "keywords": [
+      "propiedad",
+      "distributiva",
+      "multiplicacion",
+      "sumas",
+      "reparto"
+    ],
+    "base_response": "La propiedad distributiva enlaza armoniosamente operaciones de multiplicación sobre estructuras de sumas aditivas. Estipula sistemáticamente que multiplicar ordenadamente un número particular por una suma equivale numéricamente a multiplicar dicho factor aislado por cada término sumando antes de consolidar los productos resultantes."
+  },
+  {
+    "intent_id": "jerarquia_de_operaciones",
+    "keywords": [
+      "jerarquia",
+      "operaciones",
+      "orden",
+      "resolucion",
+      "parentesis"
+    ],
+    "base_response": "La jerarquía formal de operaciones dicta reglas sumamente estrictas e inquebrantables acerca del orden analítico correcto para resolver pacientemente expresiones matemáticas combinadas muy complejas. Garantiza que cualquier persona obtenga sistemáticamente respuestas idénticas priorizando ordenadamente paréntesis, exponentes, multiplicaciones, divisiones, sumas y restas."
+  },
+  {
+    "intent_id": "intervalos_abiertos_reales",
+    "keywords": [
+      "intervalos",
+      "abiertos",
+      "reales",
+      "extremos",
+      "conjuntos"
+    ],
+    "base_response": "Los intervalos matemáticos abiertos abarcan lógicamente todos los números reales estrictamente comprendidos entre dos límites referenciales previamente establecidos, excluyendo explícitamente a ambos extremos delimitadores de pertenecer al conjunto final resultante. Se representan gráficamente en rectas continuas utilizando generalmente paréntesis tipográficos circulares."
+  },
+  {
+    "intent_id": "intervalos_cerrados_reales",
+    "keywords": [
+      "intervalos",
+      "cerrados",
+      "reales",
+      "inclusiones",
+      "limites"
+    ],
+    "base_response": "Los intervalos matemáticos cerrados engloban de manera comprehensiva todos los valores reales numéricamente comprendidos entre un par de límites predefinidos, incorporando simultáneamente a ambos extremos delimitadores como partes integrales legítimas del conjunto. Convencionalmente, se simbolizan visualmente empleando robustos corchetes tipográficos angulares rectangulares."
+  },
+  {
+    "intent_id": "operaciones_con_conjuntos",
+    "keywords": [
+      "operaciones",
+      "conjuntos",
+      "manipulaciones",
+      "elementos",
+      "reglas"
+    ],
+    "base_response": "Las operaciones formales con conjuntos proporcionan poderosas herramientas analíticas fundamentales que permiten combinar, relacionar o transformar inteligentemente agrupaciones preexistentes aplicando reglas de lógica matemática estrictamente definidas. Facilitan resoluciones elegantes de problemas sumamente complejos mediante procesos secuenciales como intersecciones, uniones, diferencias complementarias."
+  },
+  {
+    "intent_id": "numeros_perfectos_teoricos",
+    "keywords": [
+      "numeros",
+      "perfectos",
+      "teoricos",
+      "divisores",
+      "sumas"
+    ],
+    "base_response": "Los números perfectos representan una rareza matemática fascinante conformada exclusivamente por aquellos enteros positivos cuya suma precisa de todos sus divisores propios, omitiendo al número original mismo, iguala de forma absolutamente exacta a la magnitud del valor numérico que está analizándose cuidadosamente."
+  },
+  {
+    "intent_id": "sucesiones_aritmeticas_lineales",
+    "keywords": [
+      "sucesiones",
+      "aritmeticas",
+      "lineales",
+      "diferencias",
+      "patrones"
+    ],
+    "base_response": "Las sucesiones aritméticas conforman series numéricas organizadas secuencialmente donde la diferencia matemática cuantificable existente entre cualquier par de términos consecutivos adyacentes permanece inalterablemente constante en cada etapa progresiva. Resultan verdaderamente fundamentales para modelar comportamientos y crecimientos de carácter estrictamente lineal predecibles sistemáticamente."
+  },
+  {
+    "intent_id": "sucesiones_geometricas_exponenciales",
+    "keywords": [
+      "sucesiones",
+      "geometricas",
+      "exponenciales",
+      "razones",
+      "multiplicaciones"
+    ],
+    "base_response": "Las sucesiones geométricas exponenciales constituyen agrupaciones numéricas ordenadas escalonadamente donde cada elemento progresivo subsiguiente se determina inequívocamente multiplicando invariablemente el término inmediatamente previo por un valor constante fijo llamado razón multiplicativa geométrica, generando así patrones analíticos de desarrollo verdaderamente acelerado exponencialmente."
+  },
+  {
+    "intent_id": "redondeo_numerico_aproximado",
+    "keywords": [
+      "redondeo",
+      "numerico",
+      "aproximado",
+      "cifras",
+      "simplificaciones"
+    ],
+    "base_response": "El redondeo matemático numérico conforma un proceso metódico para aproximar racionalmente el valor real de una cantidad dada hasta alcanzar una cifra particular convenientemente manejable, sacrificando deliberadamente un grado mínimo de precisión técnica en favor de obtener una simplificación práctica e intuitiva útil."
+  },
+  {
+    "intent_id": "truncamiento_decimal_directo",
+    "keywords": [
+      "truncamiento",
+      "decimal",
+      "directo",
+      "cortes",
+      "cifras"
+    ],
+    "base_response": "El proceso de truncamiento decimal implica directamente acortar de manera abrupta cualquier número complejo prescindiendo y eliminando arbitrariamente todas las cifras posteriores existentes a partir de una posición referencial específica predeterminada anteladamente, descartando rotundamente cualquier método analítico convencional para ajustar valores cercanos aproximados."
+  }
+]
