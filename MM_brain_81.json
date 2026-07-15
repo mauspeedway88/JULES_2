@@ -1,0 +1,2320 @@
+[
+  {
+    "intent_id": "trazos_dibujo_artistico",
+    "keywords": [
+      "trazo",
+      "dibujo",
+      "artista",
+      "linea",
+      "mano"
+    ],
+    "base_response": "El trazo es el movimiento fundacional del dibujo artístico clásico. Permite plasmar ideas mediante líneas continuas o discontinuas, definiendo formas iniciales y guiando la estructura compositiva para lograr representaciones precisas. Esta técnica resulta esencial para dominar los fundamentos básicos del dibujo."
+  },
+  {
+    "intent_id": "perspectiva_visual_dibujo",
+    "keywords": [
+      "perspectiva",
+      "profundidad",
+      "espacio",
+      "punto",
+      "fuga"
+    ],
+    "base_response": "La perspectiva visual otorga profundidad espacial a las superficies planas utilizadas. Al aplicar puntos de fuga y líneas convergentes, logramos que los objetos parezcan tridimensionales. Su dominio requiere observación constante, permitiendo al artista traducir su entorno con notable exactitud óptica."
+  },
+  {
+    "intent_id": "bocetos_creativos_iniciales",
+    "keywords": [
+      "boceto",
+      "idea",
+      "creacion",
+      "esbozo",
+      "papel"
+    ],
+    "base_response": "Los bocetos creativos iniciales son esquemas rápidos que capturan la esencia conceptual. Sirven para experimentar formas generales antes de definir detalles complejos, optimizando el diseño compositivo temprano. Al perfeccionar este aspecto, se logra transmitir con mayor eficacia la intencionalidad final."
+  },
+  {
+    "intent_id": "sombras_dibujo_expresivo",
+    "keywords": [
+      "sombra",
+      "expresion",
+      "oscuro",
+      "contraste",
+      "volumen"
+    ],
+    "base_response": "Las sombras en el dibujo expresivo aportan dramatismo y volumen a las representaciones gráficas. Modulando la intensidad del oscurecimiento, logramos separar visualmente los elementos representados, generando un contraste visual. Esta comprensión es fundamental en el desarrollo metodológico del arte clásico."
+  },
+  {
+    "intent_id": "proporciones_figuras_dibujadas",
+    "keywords": [
+      "proporcion",
+      "medida",
+      "relacion",
+      "escala",
+      "tamano"
+    ],
+    "base_response": "Comprender las proporciones es vital para dibujar figuras completamente equilibradas. Relacionar matemáticamente los tamaños de las partes asegura que el conjunto conserve la armonía estructural planificada. Esta técnica es vital para cualquier estudiante que busque perfeccionar sus habilidades gráficas fundamentales."
+  },
+  {
+    "intent_id": "lapiz_dibujo_artistico",
+    "keywords": [
+      "lapiz",
+      "herramienta",
+      "grafito",
+      "dureza",
+      "trazo"
+    ],
+    "base_response": "El lápiz para dibujo artístico es una herramienta versátil cuya mina determina el acabado. Las durezas permiten desde esbozos suaves hasta marcados profundos, facilitando diversas técnicas de expresión. Su dominio requiere práctica constante para lograr traducciones exactas al formato bidimensional."
+  },
+  {
+    "intent_id": "grafito_material_grafico",
+    "keywords": [
+      "grafito",
+      "material",
+      "carbon",
+      "brillo",
+      "textura"
+    ],
+    "base_response": "El grafito destaca por su inmensa maleabilidad y acabado satinado característico. Su capacidad para ser difuminado permite crear transiciones tonales muy suaves, ideales para modelar texturas sutiles. Perfeccionar este material conecta emocionalmente con el espectador mediante detalles visualmente muy ricos."
+  },
+  {
+    "intent_id": "lineas_contorno_artistico",
+    "keywords": [
+      "linea",
+      "contorno",
+      "limite",
+      "borde",
+      "forma"
+    ],
+    "base_response": "Las líneas de contorno delimitan eficientemente las fronteras físicas en el plano. Al variar su grosor y presión, el contorno puede sugerir peso y tensión en la figura. Esta comprensión sienta bases sólidas para avanzar hacia elaboraciones más complejas espacialmente."
+  },
+  {
+    "intent_id": "composicion_visual_dibujo",
+    "keywords": [
+      "composicion",
+      "orden",
+      "elemento",
+      "equilibrio",
+      "centro"
+    ],
+    "base_response": "La composición visual organiza armónicamente los elementos presentes en el formato elegido. Distribuir pesos, líneas y espacios dirige adecuadamente la mirada del espectador, creando obras estéticas. Esta técnica resulta esencial para perfeccionar habilidades perceptivas superiores en el entorno artístico general."
+  },
+  {
+    "intent_id": "volumen_representaciones_graficas",
+    "keywords": [
+      "volumen",
+      "masa",
+      "espacio",
+      "tridimensional",
+      "forma"
+    ],
+    "base_response": "Representar el volumen gráficamente implica engañar al ojo para percibir masa real. Se logra mediante el modelado de luces y sombras continuas, otorgando tridimensionalidad perceptible. Su dominio permite al artista plasmar el entorno tridimensional con una fidelidad visual excepcionalmente rigurosa."
+  },
+  {
+    "intent_id": "claroscuro_tecnicas_dibujo",
+    "keywords": [
+      "claroscuro",
+      "luz",
+      "sombra",
+      "tecnica",
+      "contraste"
+    ],
+    "base_response": "El claroscuro extrema dramáticamente los contrastes de luz y sombra presentes. Este método clásico resalta formas tridimensionales y genera atmósferas únicas, enfatizando la presencia física del objeto. Al perfeccionar esta técnica, se logran resultados visuales cautivadores y de enorme calidad."
+  },
+  {
+    "intent_id": "texturas_trazos_graficos",
+    "keywords": [
+      "textura",
+      "superficie",
+      "trazo",
+      "sensacion",
+      "tacto"
+    ],
+    "base_response": "Las texturas visuales se simulan utilizando sutiles variaciones en los trazos ejecutados. Patrones repetitivos, puntos y líneas entrecruzadas imitan superficies reales detalladas, añadiendo enorme riqueza sensorial. Esta habilidad permite desarrollar composiciones académicas de alto valor estético y rigor formal comprobado."
+  },
+  {
+    "intent_id": "degradados_tonales_grafito",
+    "keywords": [
+      "degradado",
+      "tono",
+      "escala",
+      "transicion",
+      "suavidad"
+    ],
+    "base_response": "Los degradados tonales permiten pasar imperceptiblemente entre zonas oscuras y luminosas continuas. Controlando cuidadosamente la presión aplicada, se generan superficies suaves que modelan curvas absolutamente realistas. Resulta una técnica esencial para cualquier estudiante que anhele dominar representaciones tridimensionales complejas."
+  },
+  {
+    "intent_id": "encuadre_elementos_dibujados",
+    "keywords": [
+      "encuadre",
+      "marco",
+      "limite",
+      "enfoque",
+      "recorte"
+    ],
+    "base_response": "El encuadre selecciona meticulosamente los elementos ubicados dentro del espacio visual delimitado. Determinar qué partes excluir enfoca inmediatamente la atención y establece la narrativa visual primaria. Esta observación metodológica permite articular composiciones rigurosas con gran impacto psicológico sobre el observador."
+  },
+  {
+    "intent_id": "escala_objetos_representados",
+    "keywords": [
+      "escala",
+      "tamano",
+      "referencia",
+      "comparacion",
+      "dimension"
+    ],
+    "base_response": "La escala establece dimensiones relativas comparando objetos con un claro referente referencial. Mantener proporciones correctas asegura que la interpretación de tamaños espaciales sea totalmente realista y verosímil. Dominar este fundamento facilita enormemente la creación de escenarios complejos y profundamente detallados."
+  },
+  {
+    "intent_id": "observacion_aplicada_dibujo",
+    "keywords": [
+      "observacion",
+      "mirada",
+      "analisis",
+      "detalle",
+      "atencion"
+    ],
+    "base_response": "La observación minuciosa y dedicada es absolutamente fundamental para captar el entorno natural. Analizar atentamente proporciones y luces antes de trazar permite trasladar características visuales al papel fielmente. Esta fase inicial establece las bases necesarias para cualquier estudio figurativo profesional."
+  },
+  {
+    "intent_id": "precision_trazos_artisticos",
+    "keywords": [
+      "precision",
+      "exactitud",
+      "trazo",
+      "control",
+      "detalle"
+    ],
+    "base_response": "La precisión analítica en los trazos requiere un gran nivel de control motriz concentrado. Líneas definidas resultan esenciales para ilustraciones académicas, donde cada pequeño detalle aporta claridad. Practicarla constantemente otorga destreza técnica indispensable para plasmar ideas con claridad conceptual suprema."
+  },
+  {
+    "intent_id": "anatomia_figuras_humanas",
+    "keywords": [
+      "anatomia",
+      "cuerpo",
+      "hueso",
+      "musculo",
+      "estructura"
+    ],
+    "base_response": "El estudio anatómico estructurado permite dibujar figuras humanas con integridad volumétrica y coherencia. Entender profundamente huesos y músculos facilita representar movimientos dinámicos con enorme verosimilitud biomecánica. Constituye el pilar formativo para ilustradores especializados en el diseño de personajes complejos detallados."
+  },
+  {
+    "intent_id": "profundidad_espacial_dibujo",
+    "keywords": [
+      "profundidad",
+      "distancia",
+      "espacio",
+      "plano",
+      "legania"
+    ],
+    "base_response": "La profundidad espacial gráfica ubica magistralmente distintos elementos sobre diversos planos sucesivos. Utilizando superposición y variaciones tonales progresivas, creamos ilusiones de lejanía muy efectivas para el ojo humano. Esta técnica compositiva es el pilar para construir ambientes narrativos extensos verosímiles."
+  },
+  {
+    "intent_id": "esbozos_preliminares_ilustracion",
+    "keywords": [
+      "esbozo",
+      "preliminar",
+      "borrador",
+      "guia",
+      "dibujo"
+    ],
+    "base_response": "Los esbozos preliminares son guías instrumentales para organizar lógicamente los componentes gráficos esenciales. Estos borradores rápidos estructuran la pieza, facilitando ágiles correcciones espaciales sin perder dinamismo original. Su dominio permite al creador explorar sin restricciones múltiples variaciones del diseño base."
+  },
+  {
+    "intent_id": "difuminado_sombras_graficas",
+    "keywords": [
+      "difuminado",
+      "sombra",
+      "esfumin",
+      "suavidad",
+      "grafito"
+    ],
+    "base_response": "El difuminado suaviza elegantemente las sombras y oculta delicadamente las marcas del trazo. Empleando esfuminos especializados se logran transiciones casi fotográficas sobre las superficies retratadas. Al perfeccionar este tratamiento visual, se consigue transmitir una fuerte sensación táctil al observador concentrado."
+  },
+  {
+    "intent_id": "carboncillo_tecnica_expresiva",
+    "keywords": [
+      "carboncillo",
+      "material",
+      "expresion",
+      "oscuridad",
+      "mancha"
+    ],
+    "base_response": "El carboncillo es un medio expresivo que permite alcanzar tonos oscuros profundos velozmente. Por su naturaleza polvorienta, es perfecto para generar manchas extensas y cubrir grandes áreas del soporte. Conlleva una práctica especializada para controlar sus intensidades sin saturar el papel."
+  },
+  {
+    "intent_id": "dibujo_lineal_estructural",
+    "keywords": [
+      "linea",
+      "estructura",
+      "armadura",
+      "geometria",
+      "base"
+    ],
+    "base_response": "El dibujo lineal estructural emplea formas geométricas simples para construir esqueletos internos consistentes. Antes de añadir volúmenes externos, se configuran cajas y cilindros que definen la dirección espacial. Esta metodología garantiza cimientos robustos para desarrollar personajes estables y entornos arquitectónicos creíbles."
+  },
+  {
+    "intent_id": "escorzo_figura_perspectiva",
+    "keywords": [
+      "escorzo",
+      "figura",
+      "perspectiva",
+      "acortamiento",
+      "angulo"
+    ],
+    "base_response": "El escorzo es la representación visual de figuras vistas desde ángulos sumamente oblicuos. Implica acortar las proporciones naturales según reglas perceptivas para crear la ilusión de avance espacial. Dominar este desafiante recurso aporta un dramatismo impactante a las composiciones humanas ilustradas."
+  },
+  {
+    "intent_id": "luz_reflejada_sombreado",
+    "keywords": [
+      "luz",
+      "reflejo",
+      "rebote",
+      "sombra",
+      "iluminacion"
+    ],
+    "base_response": "La luz reflejada es aquella iluminación que rebota desde otras superficies hacia las zonas ensombrecidas. Incluir este delicado brillo dentro de una sombra proyectada potencia inmensamente el volumen esférico. Comprender su comportamiento óptico es el secreto para lograr ilustraciones verdaderamente hiperrealistas."
+  },
+  {
+    "intent_id": "goma_moldable_luces",
+    "keywords": [
+      "goma",
+      "borrador",
+      "luz",
+      "brillo",
+      "herramienta"
+    ],
+    "base_response": "La goma moldeable es un instrumento artístico fundamental para sustraer grafito sin dañar el soporte. Permite recuperar áreas luminosas y crear brillos especulares levantando suavemente el pigmento depositado. Su utilización metódica amplía enormemente el rango tonal disponible en trabajos muy detallados."
+  },
+  {
+    "intent_id": "trama_cruzada_sombras",
+    "keywords": [
+      "trama",
+      "cruzada",
+      "sombreado",
+      "linea",
+      "oscuridad"
+    ],
+    "base_response": "La trama cruzada genera oscurecimiento mediante la superposición de múltiples líneas trazadas direccionalmente. Aumentando la densidad del entrecruzamiento, se logran sombras intensas manteniendo vibrante la textura original. Constituye una alternativa clásica y enérgica al difuminado tradicional para desarrollar valores tonales ricos."
+  },
+  {
+    "intent_id": "punto_fuga_arquitectonico",
+    "keywords": [
+      "punto",
+      "fuga",
+      "horizonte",
+      "linea",
+      "convergencia"
+    ],
+    "base_response": "El punto de fuga es el destino visual donde convergen imaginariamente las líneas paralelas. Ubicado sobre la línea del horizonte, organiza rigurosamente toda la estructura del escenario dibujado. Establecer este centro de convergencia es imperativo para ilustrar espacios arquitectónicos tridimensionales veraces."
+  },
+  {
+    "intent_id": "valoracion_tonal_escala",
+    "keywords": [
+      "valor",
+      "tono",
+      "escala",
+      "gris",
+      "luz"
+    ],
+    "base_response": "La valoración tonal es el estudio sistemático de las diferencias entre áreas claras y oscuras. Emplear una escala de grises graduada facilita asignar el nivel exacto de oscuridad necesario. Dominar estos valores asegura que la imagen resultante posea un contraste tridimensional coherente."
+  },
+  {
+    "intent_id": "papel_textura_soporte",
+    "keywords": [
+      "papel",
+      "soporte",
+      "textura",
+      "gramaje",
+      "superficie"
+    ],
+    "base_response": "La elección del papel determina en gran medida el comportamiento de las herramientas gráficas seleccionadas. Un gramaje superior o una textura rugosa retienen el carbón ofreciendo acabados sumamente expresivos. Entender las propiedades del soporte eleva la calidad técnica y conservación del dibujo."
+  },
+  {
+    "intent_id": "encaje_proporciones_dibujo",
+    "keywords": [
+      "encaje",
+      "bloque",
+      "medida",
+      "limite",
+      "geometria"
+    ],
+    "base_response": "El encaje consiste en situar el objeto dentro de bloques geométricos delimitadores provisionales. Permite calcular alturas y anchuras máximas antes de comprometerse con los detalles internos específicos. Este paso preliminar previene errores críticos de escala, asegurando que la obra mantenga proporciones adecuadas."
+  },
+  {
+    "intent_id": "peso_visual_composicion",
+    "keywords": [
+      "peso",
+      "visual",
+      "atencion",
+      "equilibrio",
+      "masa"
+    ],
+    "base_response": "El peso visual determina cuánta atención atrae un área particular dentro del plano artístico. Las zonas muy oscuras, detalladas o coloridas ejercen mayor fuerza gravitatoria sobre la mirada. Balancear adecuadamente estas masas visuales previene que la obra final parezca inestable."
+  },
+  {
+    "intent_id": "perspectiva_atmosferica_aire",
+    "keywords": [
+      "perspectiva",
+      "atmosfera",
+      "aire",
+      "desenfoque",
+      "distancia"
+    ],
+    "base_response": "La perspectiva atmosférica simula el aire interponiéndose entre el espectador y los objetos lejanos. Al reducir gradualmente el contraste y detallado de las montañas distantes, se recrea profundidad colosal. Aplicar esta observación óptica enriquece la monumentalidad de cualquier representación paisajística profesional."
+  },
+  {
+    "intent_id": "linea_horizonte_nivel",
+    "keywords": [
+      "linea",
+      "horizonte",
+      "nivel",
+      "ojo",
+      "espectador"
+    ],
+    "base_response": "La línea del horizonte representa el nivel exacto de los ojos del hipotético observador. Su altura define radicalmente si miramos la escena desde arriba, abajo o en igualdad. Establecer tempranamente este eje horizontal es crucial para mantener la consistencia espacial total."
+  },
+  {
+    "intent_id": "apunte_rapido_movimiento",
+    "keywords": [
+      "apunte",
+      "rapidez",
+      "movimiento",
+      "gesto",
+      "captura"
+    ],
+    "base_response": "El apunte rápido busca registrar la esencia fluida del movimiento en apenas unos instantes. Ignorando el acabado pulido, prioriza captar el ritmo, la postura y el dinamismo interno. Su práctica diaria desarrolla una intuición gráfica incomparable para ilustrar figuras llenas de vida."
+  },
+  {
+    "intent_id": "tecnica_grafito_basica",
+    "keywords": [
+      "grafito",
+      "trazo",
+      "sombreado",
+      "presion",
+      "textura"
+    ],
+    "base_response": "El grafito permite controlar valores mediante variaciones de presion y direccion del trazo. Practicar escalas tonales ayuda a comprender la textura resultante. Dominar el sombreado gradual facilita crear volumen convincente en formas simples y complejas dentro del dibujo."
+  },
+  {
+    "intent_id": "tecnica_carboncillo_expresivo",
+    "keywords": [
+      "carboncillo",
+      "mancha",
+      "contraste",
+      "difuminado",
+      "volumen"
+    ],
+    "base_response": "El carboncillo ofrece manchas amplias y contrastes intensos. Su difuminado permite transiciones suaves que refuerzan el volumen. Explorar distintos grosores y presiones ayuda a generar composiciones expresivas con gran impacto visual y control tonal preciso."
+  },
+  {
+    "intent_id": "tecnica_pastel_suave",
+    "keywords": [
+      "pastel",
+      "color",
+      "mezcla",
+      "capa",
+      "luminosidad"
+    ],
+    "base_response": "El pastel suave destaca por su luminosidad y capacidad de mezcla directa. Aplicar capas sucesivas permite crear matices complejos. Controlar la presion evita saturar el soporte. Practicar degradados ayuda a comprender la relacion entre color y volumen."
+  },
+  {
+    "intent_id": "perspectiva_conica_un_punto",
+    "keywords": [
+      "perspectiva",
+      "punto",
+      "linea",
+      "profundidad",
+      "horizonte"
+    ],
+    "base_response": "La perspectiva conica de un punto utiliza lineas convergentes hacia un punto en el horizonte. Este sistema organiza la profundidad y mantiene proporciones coherentes. Practicar cubos y interiores ayuda a comprender la estructura espacial del dibujo."
+  },
+  {
+    "intent_id": "perspectiva_conica_dos_puntos",
+    "keywords": [
+      "perspectiva",
+      "puntos",
+      "convergencia",
+      "volumen",
+      "espacio"
+    ],
+    "base_response": "La perspectiva conica de dos puntos permite representar objetos con mayor realismo espacial. Las lineas convergen hacia dos puntos distintos, generando volumen convincente. Practicar formas simples ayuda a dominar la orientacion correcta dentro del espacio."
+  },
+  {
+    "intent_id": "anatomia_artistica_craneo",
+    "keywords": [
+      "craneo",
+      "estructura",
+      "volumen",
+      "proporcion",
+      "referencia"
+    ],
+    "base_response": "El estudio del craneo permite comprender la estructura base de la cabeza. Analizar volumen y proporcion facilita ubicar rasgos faciales correctamente. Usar referencias desde distintos angulos ayuda a mejorar la precision en retratos y figuras humanas."
+  },
+  {
+    "intent_id": "materiales_papel_texturado",
+    "keywords": [
+      "papel",
+      "textura",
+      "fibra",
+      "agarre",
+      "trazo"
+    ],
+    "base_response": "El papel texturado ofrece mayor agarre al trazo y permite efectos variados. Comprender la fibra del soporte ayuda a elegir tecnicas adecuadas. Experimentar con diferentes gramajes facilita controlar resultados y mejorar la calidad del dibujo final."
+  },
+  {
+    "intent_id": "composicion_regla_tercios",
+    "keywords": [
+      "composicion",
+      "tercios",
+      "equilibrio",
+      "foco",
+      "estructura"
+    ],
+    "base_response": "La regla de tercios organiza la composicion mediante divisiones equilibradas. Ubicar el foco en puntos estrategicos mejora la lectura visual. Practicar con objetos simples ayuda a comprender estructura y dinamismo dentro del espacio del dibujo."
+  },
+  {
+    "intent_id": "sombras_proyeccion_basica",
+    "keywords": [
+      "sombra",
+      "proyeccion",
+      "luz",
+      "forma",
+      "direccion"
+    ],
+    "base_response": "Las sombras proyectadas dependen de la direccion de la luz y la forma del objeto. Comprender esta relacion permite crear escenas coherentes. Practicar figuras geometricas ayuda a dominar la ubicacion correcta de sombras en composiciones complejas."
+  },
+  {
+    "intent_id": "carboncillo_expresivo",
+    "keywords": [
+      "carboncillo",
+      "mancha",
+      "contraste",
+      "difuminado",
+      "gesto"
+    ],
+    "base_response": "El carboncillo facilita gestos amplios y contrastes intensos. Su naturaleza blanda permite transiciones rápidas entre tonos profundos y áreas luminosas. Experimentar con difuminados controlados ayuda a construir atmósferas dramáticas y reforzar la expresividad del dibujo."
+  },
+  {
+    "intent_id": "pastel_suave_color",
+    "keywords": [
+      "pastel",
+      "color",
+      "mezcla",
+      "capa",
+      "intensidad"
+    ],
+    "base_response": "El pastel ofrece colores vibrantes y mezclas directas sobre el soporte. Superponer capas suaves permite crear matices complejos. Ajustar la presión al aplicar pigmento ayuda a controlar la intensidad cromática y a generar efectos visuales ricos y equilibrados."
+  },
+  {
+    "intent_id": "perspectiva_conica_fundamentos",
+    "keywords": [
+      "perspectiva",
+      "punto",
+      "fuga",
+      "linea",
+      "profundidad"
+    ],
+    "base_response": "La perspectiva cónica organiza líneas hacia puntos de fuga para crear profundidad convincente. Comprender la relación entre horizonte y objetos permite ubicar elementos con precisión. Practicar estructuras simples ayuda a dominar la ilusión espacial en composiciones complejas."
+  },
+  {
+    "intent_id": "historia_dibujo_renacimiento",
+    "keywords": [
+      "renacimiento",
+      "maestro",
+      "estudio",
+      "boceto",
+      "observacion"
+    ],
+    "base_response": "Durante el Renacimiento, el dibujo se consolidó como herramienta esencial para estudiar la naturaleza. Los maestros empleaban bocetos detallados para comprender anatomía y luz. Este enfoque fortaleció la observación rigurosa y elevó el dibujo a disciplina fundamental."
+  },
+  {
+    "intent_id": "historia_dibujo_moderno",
+    "keywords": [
+      "moderno",
+      "experimentacion",
+      "linea",
+      "abstraccion",
+      "concepto"
+    ],
+    "base_response": "El dibujo moderno amplió posibilidades expresivas mediante líneas libres y abstracciones audaces. La experimentación se volvió central para explorar ideas visuales. Este enfoque conceptual permitió desarrollar estilos diversos y transformar la percepción tradicional del dibujo."
+  },
+  {
+    "intent_id": "iluminacion_basica_formas",
+    "keywords": [
+      "luz",
+      "sombra",
+      "volumen",
+      "direccion",
+      "contraste"
+    ],
+    "base_response": "La iluminación define volúmenes mediante relaciones entre luz y sombra. Comprender la dirección de la fuente permite ubicar contrastes coherentes. Practicar con formas simples ayuda a dominar transiciones tonales y mejorar la claridad visual del dibujo."
+  },
+  {
+    "intent_id": "iluminacion_multiple_fuentes",
+    "keywords": [
+      "iluminacion",
+      "fuente",
+      "reflejo",
+      "sombra",
+      "intensidad"
+    ],
+    "base_response": "Trabajar con múltiples fuentes de luz exige analizar cómo interactúan sombras y reflejos. Ajustar intensidades permite equilibrar la escena. Este estudio mejora la comprensión de efectos complejos y fortalece la representación realista de ambientes iluminados."
+  },
+  {
+    "intent_id": "materiales_papel_textura",
+    "keywords": [
+      "papel",
+      "textura",
+      "fibra",
+      "agarre",
+      "superficie"
+    ],
+    "base_response": "La textura del papel influye en el agarre del material y en la calidad del trazo. Elegir fibras adecuadas permite controlar efectos tonales. Experimentar con superficies diversas ayuda a comprender cómo responden técnicas distintas y mejora resultados finales."
+  },
+  {
+    "intent_id": "materiales_lapices_variedad",
+    "keywords": [
+      "lapiz",
+      "dureza",
+      "grafito",
+      "trazo",
+      "control"
+    ],
+    "base_response": "Los lápices varían en dureza y permiten ajustar precisión y tono. Seleccionar grados adecuados facilita controlar trazo y sombreado. Practicar combinaciones de durezas ayuda a construir dibujos equilibrados y a mejorar la comprensión del comportamiento del grafito."
+  },
+  {
+    "intent_id": "proporciones_figura_humana",
+    "keywords": [
+      "figura",
+      "proporcion",
+      "canon",
+      "medicion",
+      "estructura"
+    ],
+    "base_response": "Las proporciones humanas se basan en cánones que orientan la construcción de la figura. Utilizar mediciones relativas ayuda a ubicar elementos con coherencia. Practicar estructuras simples permite mejorar la precisión y fortalecer la representación anatómica."
+  },
+  {
+    "intent_id": "composicion_dinamica_movimiento",
+    "keywords": [
+      "movimiento",
+      "linea",
+      "ritmo",
+      "flujo",
+      "energia"
+    ],
+    "base_response": "Una composición dinámica utiliza líneas y ritmos para sugerir energía. Controlar el flujo visual permite dirigir la mirada del espectador. Explorar variaciones de dirección ayuda a crear imágenes vivas y reforzar la sensación de movimiento dentro del dibujo."
+  },
+  {
+    "intent_id": "sombras_proyeccion_formas",
+    "keywords": [
+      "sombra",
+      "proyeccion",
+      "forma",
+      "volumen",
+      "direccion"
+    ],
+    "base_response": "Las sombras proyectadas dependen de la forma del objeto y la dirección de la luz. Comprender esta relación permite construir escenas coherentes. Practicar con figuras simples ayuda a dominar proyecciones y mejorar la profundidad visual del dibujo."
+  },
+  {
+    "intent_id": "tecnica_grafito_avanzada",
+    "keywords": [
+      "grafito",
+      "trazo",
+      "sombreado",
+      "detalle",
+      "pulido"
+    ],
+    "base_response": "El grafito permite desarrollar control preciso del trazo y explorar gradaciones tonales. Practicar presiones variadas mejora la textura y la profundidad. Combinar capas suaves y zonas pulidas facilita crear volumen convincente y refinar composiciones complejas con resultados expresivos."
+  },
+  {
+    "intent_id": "estudio_carboncillo_expresivo",
+    "keywords": [
+      "carboncillo",
+      "mancha",
+      "contraste",
+      "gesto",
+      "difuminado"
+    ],
+    "base_response": "El carboncillo favorece gestos amplios y contrastes intensos. Su naturaleza maleable permite crear manchas profundas y transiciones suaves. Practicar difuminados controlados ayuda a construir atmósferas dramáticas y definir formas con energía, manteniendo equilibrio entre precisión y espontaneidad."
+  },
+  {
+    "intent_id": "perspectiva_conica_basica",
+    "keywords": [
+      "perspectiva",
+      "punto",
+      "fuga",
+      "linea",
+      "proyeccion"
+    ],
+    "base_response": "La perspectiva cónica organiza objetos según líneas que convergen en puntos de fuga. Practicar proyecciones simples ayuda a comprender la relación espacial. Ajustar proporciones y ángulos permite construir escenas coherentes, reforzando la sensación de profundidad y orden visual en cada dibujo."
+  },
+  {
+    "intent_id": "perspectiva_isometrica_tecnica",
+    "keywords": [
+      "isometrica",
+      "proyeccion",
+      "volumen",
+      "eje",
+      "estructura"
+    ],
+    "base_response": "La perspectiva isométrica mantiene proporciones constantes sin puntos de fuga. Utilizar ejes inclinados permite representar volúmenes con claridad técnica. Practicar estructuras geométricas ayuda a comprender relaciones espaciales y facilita crear diseños precisos con coherencia visual sólida."
+  },
+  {
+    "intent_id": "historia_dibujo_renacentista",
+    "keywords": [
+      "renacimiento",
+      "maestro",
+      "estudio",
+      "trazo",
+      "modelo"
+    ],
+    "base_response": "Durante el Renacimiento, maestros estudiaban anatomía y perfeccionaban el trazo observando modelos reales. El dibujo se convirtió en base del aprendizaje artístico. Explorar obras clásicas permite comprender métodos tradicionales y desarrollar habilidades que fortalecen la representación naturalista."
+  },
+  {
+    "intent_id": "anatomia_artistica_cabeza",
+    "keywords": [
+      "craneo",
+      "proporcion",
+      "volumen",
+      "rasgo",
+      "estructura"
+    ],
+    "base_response": "Estudiar el cráneo permite comprender proporciones y volúmenes que sostienen los rasgos faciales. Analizar estructuras básicas facilita ubicar elementos con precisión. Practicar bocetos repetidos ayuda a mejorar la coherencia anatómica y refinar la representación expresiva del rostro humano."
+  },
+  {
+    "intent_id": "anatomia_artistica_manos",
+    "keywords": [
+      "mano",
+      "articulacion",
+      "gesto",
+      "forma",
+      "volumen"
+    ],
+    "base_response": "Las manos requieren observar articulaciones y gestos para captar su complejidad. Comprender formas básicas permite construir volúmenes coherentes. Practicar poses variadas ayuda a mejorar la precisión y desarrollar sensibilidad hacia movimientos naturales que enriquecen la expresividad del dibujo."
+  },
+  {
+    "intent_id": "iluminacion_natural_basica",
+    "keywords": [
+      "luz",
+      "sombra",
+      "fuente",
+      "volumen",
+      "direccion"
+    ],
+    "base_response": "La iluminación natural define volúmenes mediante luces y sombras. Observar la dirección de la fuente permite identificar zonas iluminadas y áreas en penumbra. Practicar estudios simples ayuda a comprender transiciones tonales y mejorar la coherencia visual en composiciones realistas."
+  },
+  {
+    "intent_id": "iluminacion_dramatica_estudio",
+    "keywords": [
+      "contraste",
+      "foco",
+      "sombra",
+      "intensidad",
+      "volumen"
+    ],
+    "base_response": "La iluminación dramática utiliza contrastes fuertes para resaltar volúmenes. Ajustar la intensidad del foco permite crear atmósferas potentes. Practicar composiciones con sombras marcadas ayuda a desarrollar control tonal y refuerza la expresividad en escenas con intención narrativa."
+  },
+  {
+    "intent_id": "materiales_papel_variedades",
+    "keywords": [
+      "papel",
+      "grano",
+      "fibra",
+      "superficie",
+      "resistencia"
+    ],
+    "base_response": "El papel influye en la textura y la respuesta del trazo. Conocer el grano y la fibra permite elegir superficies adecuadas para cada técnica. Experimentar con distintas resistencias ayuda a comprender cómo interactúan materiales y mejora la calidad final del dibujo."
+  },
+  {
+    "intent_id": "materiales_lapices_durezas",
+    "keywords": [
+      "lapiz",
+      "dureza",
+      "grafito",
+      "trazo",
+      "control"
+    ],
+    "base_response": "Los lápices varían en dureza y producen trazos distintos. Comprender estas diferencias permite controlar mejor el grafito. Practicar con varias graduaciones ayuda a explorar matices tonales y desarrollar precisión en detalles, fortaleciendo la técnica general del dibujo."
+  },
+  {
+    "intent_id": "perspectiva_isometrica_creativa",
+    "keywords": [
+      "isometria",
+      "volumen",
+      "paralelo",
+      "proyeccion",
+      "construccion"
+    ],
+    "base_response": "La perspectiva isométrica mantiene líneas paralelas y facilita construcciones geométricas claras. Su ausencia de distorsión permite representar volúmenes con precisión técnica. Practicar proyecciones básicas ayuda a comprender relaciones espaciales. Integrar variaciones de escala aporta dinamismo sin perder coherencia estructural."
+  },
+  {
+    "intent_id": "anatomia_artistica_mano",
+    "keywords": [
+      "mano",
+      "articulacion",
+      "forma",
+      "gesto",
+      "volumen"
+    ],
+    "base_response": "La mano combina articulaciones complejas y gestos expresivos. Comprender su estructura volumétrica permite dibujar poses naturales. Practicar bloques simples ayuda a organizar formas. Observar variaciones anatómicas mejora la precisión. Integrar sombras suaves refuerza la sensación de profundidad y realismo en cada estudio."
+  },
+  {
+    "intent_id": "iluminacion_dura",
+    "keywords": [
+      "luz",
+      "fuente",
+      "contraste",
+      "sombra",
+      "direccion"
+    ],
+    "base_response": "La iluminación dura produce sombras definidas y contrastes intensos. Comprender la dirección de la luz ayuda a ubicar volúmenes con claridad. Practicar objetos simples permite analizar bordes de sombra. Integrar transiciones controladas mejora la coherencia visual y refuerza la sensación de tridimensionalidad."
+  },
+  {
+    "intent_id": "iluminacion_suave",
+    "keywords": [
+      "luz",
+      "difusion",
+      "gradacion",
+      "volumen",
+      "ambiente"
+    ],
+    "base_response": "La iluminación suave genera gradaciones delicadas y atmósferas envolventes. Comprender cómo se difunde la luz permite construir volúmenes sutiles. Practicar transiciones amplias mejora la sensibilidad tonal. Integrar fondos neutros refuerza la armonía general y facilita la lectura clara de las formas representadas."
+  },
+  {
+    "intent_id": "materiales_lapices_duros_blandos",
+    "keywords": [
+      "lapiz",
+      "dureza",
+      "marca",
+      "sombreado",
+      "control"
+    ],
+    "base_response": "Los lápices duros generan líneas precisas, mientras los blandos producen sombras profundas. Comprender esta diferencia mejora el control tonal. Practicar escalas de dureza ayuda a elegir herramientas adecuadas. Integrar variaciones de presión permite crear texturas ricas y reforzar la coherencia del dibujo final."
+  },
+  {
+    "intent_id": "proporciones_animales",
+    "keywords": [
+      "animal",
+      "estructura",
+      "volumen",
+      "movimiento",
+      "observacion"
+    ],
+    "base_response": "Dibujar animales requiere comprender estructuras específicas y volúmenes dinámicos. Observar su movimiento facilita capturar poses naturales. Practicar siluetas simples ayuda a organizar formas complejas. Integrar detalles anatómicos mejora la precisión y refuerza la credibilidad visual de cada estudio realizado."
+  },
+  {
+    "intent_id": "composicion_dinamica",
+    "keywords": [
+      "ritmo",
+      "linea",
+      "flujo",
+      "contraste",
+      "movimiento"
+    ],
+    "base_response": "Una composición dinámica utiliza líneas y ritmos para generar movimiento visual. Comprender cómo interactúan formas y contrastes mejora la energía de la imagen. Practicar variaciones de flujo fortalece la expresividad. Integrar elementos diagonales aporta tensión y enriquece la narrativa gráfica del dibujo."
+  },
+  {
+    "intent_id": "sombras_proyectadas",
+    "keywords": [
+      "sombra",
+      "proyeccion",
+      "forma",
+      "distancia",
+      "luz"
+    ],
+    "base_response": "Las sombras proyectadas dependen de la distancia entre objeto y superficie. Comprender la dirección de la luz facilita su construcción. Practicar figuras simples ayuda a analizar deformaciones. Integrar variaciones tonales refuerza la coherencia espacial y mejora la credibilidad del entorno representado."
+  },
+  {
+    "intent_id": "claroscuro_volumen",
+    "keywords": [
+      "claroscuro",
+      "volumen",
+      "contraste",
+      "gradacion",
+      "profundidad"
+    ],
+    "base_response": "El claroscuro utiliza contrastes para definir volúmenes y profundidades. Comprender gradaciones tonales permite transiciones fluidas. Practicar estudios monocromos fortalece la sensibilidad lumínica. Integrar zonas de luz intensa y sombra profunda enriquece la atmósfera y mejora la solidez visual del dibujo."
+  },
+  {
+    "intent_id": "claroscuro_dramatico",
+    "keywords": [
+      "luz",
+      "sombra",
+      "drama",
+      "contraste",
+      "intensidad"
+    ],
+    "base_response": "El claroscuro dramático enfatiza contrastes intensos para crear impacto visual. Comprender cómo interactúan luces y sombras permite dirigir la atención. Practicar composiciones con focos marcados fortalece la narrativa. Integrar transiciones controladas mejora la coherencia y potencia la expresividad del dibujo final."
+  },
+  {
+    "intent_id": "historia_dibujo_prehistorico",
+    "keywords": [
+      "prehistoria",
+      "representacion",
+      "figura",
+      "animal",
+      "pintura"
+    ],
+    "base_response": "El dibujo prehistorico muestra figuras y animales creados con pigmentos naturales. Estas representaciones revelan observacion detallada y simbolismo cultural. Estudiar estas obras permite comprender la evolucion del trazo y la necesidad humana de comunicar visualmente."
+  },
+  {
+    "intent_id": "iluminacion_luz_directa",
+    "keywords": [
+      "luz",
+      "sombra",
+      "direccion",
+      "contraste",
+      "volumen"
+    ],
+    "base_response": "La luz directa genera sombras definidas y contrastes fuertes que resaltan el volumen. Analizar la direccion de la iluminacion permite ubicar zonas claras y oscuras con precision. Practicar estudios simples ayuda a comprender relaciones tonales fundamentales."
+  },
+  {
+    "intent_id": "iluminacion_luz_difusa",
+    "keywords": [
+      "iluminacion",
+      "difusion",
+      "tono",
+      "transicion",
+      "superficie"
+    ],
+    "base_response": "La luz difusa produce transiciones suaves y tonos equilibrados sobre la superficie. Este tipo de iluminacion reduce sombras duras y facilita representar texturas delicadas. Comprender su comportamiento mejora la capacidad de crear ambientes serenos y naturales."
+  },
+  {
+    "intent_id": "materiales_papel_grano_fino",
+    "keywords": [
+      "papel",
+      "grano",
+      "superficie",
+      "detalle",
+      "precision"
+    ],
+    "base_response": "El papel de grano fino ofrece superficie uniforme ideal para detalles precisos. Su textura suave permite controlar trazos delicados y sombreados sutiles. Elegir este material favorece trabajos minuciosos y estudios que requieren alta claridad en las lineas."
+  },
+  {
+    "intent_id": "materiales_papel_grano_grueso",
+    "keywords": [
+      "papel",
+      "grano",
+      "textura",
+      "trazo",
+      "expresion"
+    ],
+    "base_response": "El papel de grano grueso aporta textura marcada que influye en el trazo y la expresion. Este soporte permite efectos dinamicos y sombreados ricos. Comprender su comportamiento ayuda a seleccionar tecnicas adecuadas para composiciones energicas y atmosfericas."
+  },
+  {
+    "intent_id": "perspectiva_conica_principios",
+    "keywords": [
+      "perspectiva",
+      "punto",
+      "linea",
+      "profundidad",
+      "proyeccion"
+    ],
+    "base_response": "La perspectiva conica utiliza puntos de fuga y lineas convergentes para generar profundidad convincente. Comprender la proyeccion de objetos en el espacio ayuda a organizar composiciones coherentes. Practicar estructuras simples mejora la precision y la sensacion tridimensional."
+  },
+  {
+    "intent_id": "perspectiva_isometrica_estructuras",
+    "keywords": [
+      "isometrica",
+      "eje",
+      "angulo",
+      "proporcion",
+      "volumen"
+    ],
+    "base_response": "La perspectiva isometrica mantiene angulos constantes para representar volumen sin distorsion. Organizar objetos sobre ejes definidos facilita la lectura espacial. Este metodo resulta util para estudiar estructuras complejas y desarrollar claridad en la construccion de formas."
+  },
+  {
+    "intent_id": "historia_dibujo_antiguo",
+    "keywords": [
+      "dibujo",
+      "origen",
+      "tecnica",
+      "representacion",
+      "estudio"
+    ],
+    "base_response": "El dibujo antiguo revela tecnicas fundamentales empleadas para representar figuras y escenas. Su estudio permite comprender la evolucion de la observacion visual. Analizar obras historicas ayuda a identificar metodos que influyen en la practica contemporanea del dibujo."
+  },
+  {
+    "intent_id": "iluminacion_directa_basica",
+    "keywords": [
+      "luz",
+      "sombra",
+      "direccion",
+      "contraste",
+      "volumen"
+    ],
+    "base_response": "La iluminacion directa genera sombras definidas que resaltan el volumen. Comprender la direccion de la luz permite ubicar contrastes con precision. Practicar estudios simples ayuda a mejorar la coherencia visual y la lectura clara de las formas dibujadas."
+  },
+  {
+    "intent_id": "iluminacion_indirecta_suave",
+    "keywords": [
+      "luz",
+      "rebote",
+      "suavidad",
+      "transicion",
+      "matiz"
+    ],
+    "base_response": "La iluminacion indirecta produce sombras suaves y matices sutiles. Observar rebotes de luz ayuda a crear transiciones armoniosas. Este enfoque favorece atmosferas delicadas y mejora la capacidad de representar variaciones tonales complejas en el dibujo."
+  },
+  {
+    "intent_id": "composicion_visual_dinamismo",
+    "keywords": [
+      "composicion",
+      "dinamismo",
+      "linea",
+      "ritmo",
+      "direccion"
+    ],
+    "base_response": "El dinamismo en la composicion surge del uso de lineas y ritmos visuales. Organizar direcciones coherentes genera movimiento perceptible. Practicar esquemas activos ayuda a crear imagenes energicas y a fortalecer la intencion expresiva del dibujo."
+  },
+  {
+    "intent_id": "sombras_profundidad_espacial",
+    "keywords": [
+      "sombra",
+      "profundidad",
+      "forma",
+      "contorno",
+      "gradacion"
+    ],
+    "base_response": "Las sombras aportan profundidad y definen contornos con claridad. Comprender gradaciones tonales permite representar formas complejas. Practicar estudios de luz y sombra mejora la coherencia espacial y la capacidad de transmitir volumen en el dibujo."
+  },
+  {
+    "intent_id": "tecnica_grafito_lapiz",
+    "keywords": [
+      "grafito",
+      "dibujo",
+      "tecnica",
+      "sombras",
+      "texturas"
+    ],
+    "base_response": "El grafito es una técnica de dibujo basada en minas de carbono, permite graduar tonos desde grises muy claros hasta negros profundos, ideal para bocetos iniciales, retratos y estudio de sombras, se trabaja con diferentes durezas de lápiz que generan texturas variables según la presión aplicada."
+  },
+  {
+    "intent_id": "tecnica_carboncillo_artistico",
+    "keywords": [
+      "carboncillo",
+      "dibujo",
+      "tecnica",
+      "contraste",
+      "bocetos"
+    ],
+    "base_response": "El carboncillo es una técnica de dibujo elaborada a partir de ramas de vid o sauce carbonizadas, genera trazos muy expresivos y contrastes marcados entre zonas claras y oscuras, es ideal para bocetos rápidos de figuras y paisajes, se fija con fijador spray para evitar manchas."
+  },
+  {
+    "intent_id": "tecnica_pastel_tonos_suaves",
+    "keywords": [
+      "pastel",
+      "dibujo",
+      "tecnica",
+      "colores",
+      "paisajes"
+    ],
+    "base_response": "El pastel es una técnica de dibujo que usa barras de pigmento seco aglutinado, permite crear tonos muy suaves y difuminados, es ideal para representar paisajes y retratos con colores vibrantes, se trabaja sobre papeles con textura rugosa para mejor adherencia del pigmento."
+  },
+  {
+    "intent_id": "perspectiva_conica_profundidad",
+    "keywords": [
+      "perspectiva",
+      "conica",
+      "profundidad",
+      "puntos",
+      "fuga"
+    ],
+    "base_response": "La perspectiva cónica es un sistema de representación gráfica que simula la profundidad del espacio tridimensional sobre una superficie plana, se basa en puntos de fuga situados en la línea de horizonte, es fundamental para dibujar escenas realistas de interiores y exteriores urbanos."
+  },
+  {
+    "intent_id": "perspectiva_isometrica_arquitectura",
+    "keywords": [
+      "perspectiva",
+      "isometrica",
+      "arquitectura",
+      "planos",
+      "escalas"
+    ],
+    "base_response": "La perspectiva isométrica es un sistema de proyección paralela que representa objetos tridimensionales sin deformaciones de profundidad, se usa habitualmente en dibujo técnico y arquitectónico para planos de edificios, mobiliario y diseños industriales, mantiene las escalas de todos los ejes iguales."
+  },
+  {
+    "intent_id": "historia_dibujo_prehistorico_rupestre",
+    "keywords": [
+      "historia",
+      "dibujo",
+      "prehistorico",
+      "rupestre",
+      "cuevas"
+    ],
+    "base_response": "Los primeros dibujos de la historia son las pinturas rupestres prehistóricas realizadas en el interior de cuevas, representaban animales escenas de caza y símbolos rituales, se elaboraban con pigmentos naturales como óxidos de hierro y carbón vegetal mezclados con grasa animal."
+  },
+  {
+    "intent_id": "historia_dibujo_renacentista_estudio",
+    "keywords": [
+      "historia",
+      "dibujo",
+      "renacentista",
+      "estudio",
+      "artistas"
+    ],
+    "base_response": "En el Renacimiento el dibujo se consolidó como herramienta fundamental para el estudio de la anatomía la perspectiva y la composición artística, artistas como Leonardo da Vinci y Miguel Ángel usaban el dibujo para desarrollar bocetos previos a sus obras pictóricas y escultóricas."
+  },
+  {
+    "intent_id": "anatomia_artistica_mano_estructura",
+    "keywords": [
+      "anatomia",
+      "artistica",
+      "mano",
+      "huesos",
+      "musculos"
+    ],
+    "base_response": "El estudio de la anatomía artística de la mano requiere conocer la disposición de sus 27 huesos y los músculos que controlan sus movimientos, es fundamental para dibujar gestos naturales y realistas, se recomienda practicar con modelos de referencia y estudios de esqueleto de la mano."
+  },
+  {
+    "intent_id": "anatomia_artistica_rostro_proporciones",
+    "keywords": [
+      "anatomia",
+      "artistica",
+      "rostro",
+      "proporciones",
+      "simetria"
+    ],
+    "base_response": "El estudio de la anatomía artística del rostro se apoya en reglas de proporciones básicas, como la división del rostro en tercios verticales, permite captar la simetría facial y los rasgos característicos de cada persona sin deformaciones, es clave para retratos realistas."
+  },
+  {
+    "intent_id": "iluminacion_dibujo_figura_valores",
+    "keywords": [
+      "iluminacion",
+      "dibujo",
+      "figura",
+      "valores",
+      "tonalidades"
+    ],
+    "base_response": "La iluminación en el dibujo de figura determina la distribución de valores tonalidades sobre la superficie del modelo, una fuente de luz lateral genera contrastes marcados entre zonas iluminadas y zonas de sombra, es fundamental para dar volumen y tridimensionalidad a los dibujos de figuras humanas."
+  },
+  {
+    "intent_id": "materiales_dibujo_principiantes_basicos",
+    "keywords": [
+      "materiales",
+      "dibujo",
+      "principiantes",
+      "lapices",
+      "papel"
+    ],
+    "base_response": "Los materiales de dibujo básicos para principiantes incluyen lápices de grafito de diferentes durezas, goma de borrar blanca, papel de dibujo de gramaje medio y un sacapuntas, estos elementos permiten practicar técnicas básicas como el sombreado y el trazo sin necesidad de inversiones iniciales elevadas."
+  },
+  {
+    "intent_id": "proporciones_figura_humana_cabezas",
+    "keywords": [
+      "proporciones",
+      "figura",
+      "humana",
+      "cabezas",
+      "canon"
+    ],
+    "base_response": "Las proporciones de la figura humana se miden habitualmente en unidades de cabeza, el canon clásico establece que la altura total del cuerpo adulto equivale a siete cabezas y media, esta medida sirve de referencia para dibujar figuras proporcionadas sin deformaciones anatómicas evidentes."
+  },
+  {
+    "intent_id": "composicion_visual_regla_tercios_encuadre",
+    "keywords": [
+      "composicion",
+      "visual",
+      "regla",
+      "tercios",
+      "encuadre"
+    ],
+    "base_response": "La regla de los tercios es una pauta de composición visual que divide el encuadre del dibujo en nueve partes iguales mediante dos líneas horizontales y dos verticales, los puntos de intersección de estas líneas son los puntos de interés donde se ubican los elementos principales de la obra."
+  },
+  {
+    "intent_id": "sombras_dibujo_paisaje_luz_solar",
+    "keywords": [
+      "sombras",
+      "dibujo",
+      "paisaje",
+      "luz",
+      "proyeccion"
+    ],
+    "base_response": "Las sombras en el dibujo de paisaje se proyectan en dirección opuesta a la fuente de luz solar, su forma y longitud varían según la hora del día y la estación del año, dibujarlas correctamente aporta coherencia espacial y realismo a las escenas de paisaje natural."
+  },
+  {
+    "intent_id": "claroscuro_tecnica_contraste_luz_sombra",
+    "keywords": [
+      "claroscuro",
+      "tecnica",
+      "contraste",
+      "luz",
+      "sombra"
+    ],
+    "base_response": "El claroscuro es una técnica de dibujo y pintura que se basa en el contraste marcado entre zonas de luz intensa y zonas de sombra profunda, se popularizó en el Renacimiento y el Barroco para dar volumen y dramatismo a las figuras representadas en las obras artísticas."
+  },
+  {
+    "intent_id": "materiales_carboncillo_tortillon_fijador",
+    "keywords": [
+      "materiales",
+      "carboncillo",
+      "tortillon",
+      "fijador",
+      "papel"
+    ],
+    "base_response": "Los materiales específicos para la técnica de carboncillo incluyen barras de carboncillo de diferentes grosores, tortillones para difuminar trazos y fijador spray para evitar que el pigmento se desprenda, se recomienda usar papel de gramaje alto para soportar la presión y el difuminado sin rasgarse."
+  },
+  {
+    "intent_id": "perspectiva_atmosferica_paisaje_profundidad",
+    "keywords": [
+      "perspectiva",
+      "atmosferica",
+      "paisaje",
+      "profundidad",
+      "colores"
+    ],
+    "base_response": "La perspectiva atmosférica es una técnica de dibujo que simula la profundidad en escenas de paisaje modificando el tono y la saturación de los colores, los elementos más alejados se dibujan con tonos más claros y menos saturados para imitar el efecto de la atmósfera sobre la visión humana."
+  },
+  {
+    "intent_id": "sombreado_tinta_puntos_rayados",
+    "keywords": [
+      "sombreado",
+      "tinta",
+      "puntos",
+      "rayados",
+      "dibujo"
+    ],
+    "base_response": "El sombreado con tinta se realiza mediante técnicas de puntos tramados o rayados paralelos, permite crear valores tonales desde grises muy claros hasta negros profundos sin necesidad de usar lápiz, es ideal para ilustraciones de estilo gráfico y cómic."
+  },
+  {
+    "intent_id": "proporciones_animales_zoomorfas_esqueleto",
+    "keywords": [
+      "proporciones",
+      "animales",
+      "zoomorfas",
+      "esqueleto",
+      "referencia"
+    ],
+    "base_response": "Las proporciones zoomorfas para dibujar animales se basan en el estudio de su esqueleto y la relación entre las medidas de su cuerpo, cada especie tiene reglas de proporción específicas que evitan deformaciones, se recomienda usar fotografías de referencia para practicar de forma precisa."
+  },
+  {
+    "intent_id": "composicion_simetrica_equilibrio_visual",
+    "keywords": [
+      "composicion",
+      "simetrica",
+      "equilibrio",
+      "visual",
+      "ejes"
+    ],
+    "base_response": "La composición simétrica en el dibujo organiza los elementos de la obra alrededor de un eje central vertical u horizontal, genera un equilibrio visual muy marcado que transmite sensación de estabilidad y formalidad, se usa habitualmente en retratos y dibujos de arquitectura clásica."
+  },
+  {
+    "intent_id": "perspectiva_isometrica_aplicada",
+    "keywords": [
+      "isometria",
+      "eje",
+      "proyeccion",
+      "forma",
+      "precision"
+    ],
+    "base_response": "La perspectiva isometrica mantiene proporciones constantes mediante ejes inclinados. Su proyeccion uniforme facilita representar formas tecnicas con precision. Practicar figuras geometricas permite comprender la logica espacial y desarrollar dibujos claros sin distorsiones propias de otros sistemas."
+  },
+  {
+    "intent_id": "iluminacion_basica_objetos",
+    "keywords": [
+      "luz",
+      "sombra",
+      "volumen",
+      "direccion",
+      "contraste"
+    ],
+    "base_response": "La iluminacion define volumen mediante relaciones entre luz y sombra. Observar la direccion del foco permite identificar contrastes esenciales. Practicar con objetos simples ayuda a comprender la distribucion tonal y desarrollar representaciones coherentes que refuercen la tridimensionalidad del dibujo."
+  },
+  {
+    "intent_id": "iluminacion_ambiental_suave",
+    "keywords": [
+      "ambiente",
+      "difusion",
+      "tono",
+      "gradacion",
+      "claridad"
+    ],
+    "base_response": "La iluminacion ambiental genera difusion suave que reduce contrastes fuertes. Comprender sus efectos permite trabajar gradaciones tonales delicadas. Practicar escenas con luz uniforme ayuda a desarrollar claridad visual y sensibilidad para representar atmosferas equilibradas en composiciones complejas."
+  },
+  {
+    "intent_id": "proporciones_animales_basicas",
+    "keywords": [
+      "animal",
+      "estructura",
+      "volumen",
+      "patron",
+      "movimiento"
+    ],
+    "base_response": "Los animales requieren estudiar patrones estructurales que organizan volumen y movimiento. Analizar proporciones basicas permite simplificar formas antes de detallar. Practicar especies diversas mejora la comprension morfologica y fortalece la capacidad de representar dinamismo con precision."
+  },
+  {
+    "intent_id": "composicion_visual_equilibrio",
+    "keywords": [
+      "composicion",
+      "equilibrio",
+      "forma",
+      "ritmo",
+      "direccion"
+    ],
+    "base_response": "La composicion visual busca equilibrio mediante distribucion consciente de formas y ritmos. Observar direcciones dominantes ayuda a guiar la mirada. Practicar esquemas variados permite desarrollar sensibilidad para organizar elementos y crear imagenes armoniosas con intencion clara."
+  },
+  {
+    "intent_id": "composicion_visual_enfoque",
+    "keywords": [
+      "enfoque",
+      "contraste",
+      "detalle",
+      "centro",
+      "jerarquia"
+    ],
+    "base_response": "El enfoque se logra estableciendo jerarquia visual mediante contraste y detalle. Definir un centro de interes orienta la lectura del dibujo. Practicar variaciones tonales y texturales permite controlar la atencion del espectador y construir composiciones efectivas y claras."
+  },
+  {
+    "intent_id": "sombras_proyeccion_objetos",
+    "keywords": [
+      "sombra",
+      "proyeccion",
+      "forma",
+      "angulo",
+      "distancia"
+    ],
+    "base_response": "Las sombras proyectadas dependen del angulo y distancia de la luz respecto a la forma. Comprender esta relacion permite representar escenas coherentes. Practicar con objetos simples ayuda a visualizar trayectorias y desarrollar precision en la construccion de espacios iluminados."
+  },
+  {
+    "intent_id": "claroscuro_dramatico_figura",
+    "keywords": [
+      "figura",
+      "luz",
+      "sombra",
+      "drama",
+      "intensidad"
+    ],
+    "base_response": "El claroscuro dramatico utiliza luz intensa y sombras profundas para resaltar la figura. Comprender su impacto emocional permite crear escenas poderosas. Practicar composiciones contrastadas ayuda a dominar la narrativa visual y reforzar la expresividad del dibujo figurativo."
+  },
+  {
+    "intent_id": "claroscuro_modelado",
+    "keywords": [
+      "claroscuro",
+      "contraste",
+      "volumen",
+      "luz",
+      "sombra"
+    ],
+    "base_response": "El claroscuro modela volumenes mediante contrastes entre luz y sombra. Dominar este recurso permite crear atmosferas intensas y realistas. Practicar su aplicacion en diferentes objetos ayuda a mejorar la expresion visual y la coherencia espacial."
+  },
+  {
+    "intent_id": "tecnica_grafito",
+    "keywords": [
+      "grafito",
+      "dibujo",
+      "tecnica",
+      "lapiz",
+      "difuminado"
+    ],
+    "base_response": "La técnica de dibujo basada en minas de grafito de distintas durezas permite graduar tonos desde grises claros a negros profundos mediante presión y difuminado, ideal para bocetos y obras detalladas de gran realismo por su versatilidad y fácil corrección de errores."
+  },
+  {
+    "intent_id": "tecnica_carboncillo",
+    "keywords": [
+      "carboncillo",
+      "dibujo",
+      "tecnica",
+      "contraste",
+      "difuminado"
+    ],
+    "base_response": "El carboncillo es una técnica de dibujo que usa varillas de carbón vegetal o animal quemado, genera trazos muy expresivos y contrastes intensos entre luces y sombras, se difumina fácilmente para crear degradados suaves en retratos y paisajes."
+  },
+  {
+    "intent_id": "perspectiva_conica",
+    "keywords": [
+      "perspectiva",
+      "conica",
+      "profundidad",
+      "puntofuga",
+      "espacio"
+    ],
+    "base_response": "La perspectiva cónica es un sistema de representación espacial que simula la percepción humana del espacio, se basa en uno o varios puntos de fuga donde convergen las líneas paralelas del objeto para generar sensación de profundidad en el dibujo."
+  },
+  {
+    "intent_id": "perspectiva_isometrica",
+    "keywords": [
+      "perspectiva",
+      "isometrica",
+      "dibujo",
+      "tecnico",
+      "angulos"
+    ],
+    "base_response": "La perspectiva isométrica es un sistema de representación sin punto de fuga, utilizado principalmente en dibujo técnico y arte conceptual, mantiene ángulos de 120 grados entre ejes para representar objetos tridimensionales sin deformaciones aparentes en sus vistas."
+  },
+  {
+    "intent_id": "iluminacion_dibujo_direccional",
+    "keywords": [
+      "iluminacion",
+      "dibujo",
+      "luz",
+      "direccional",
+      "sombras"
+    ],
+    "base_response": "La iluminación direccional en el dibujo proviene de una única fuente de luz situada en un punto concreto del espacio, genera sombras definidas y un contraste marcado entre las zonas iluminadas y las zonas en penumbra del objeto representado."
+  },
+  {
+    "intent_id": "materiales_dibujo_papel_acuarela",
+    "keywords": [
+      "materiales",
+      "dibujo",
+      "papel",
+      "acuarela",
+      "textura"
+    ],
+    "base_response": "El papel de acuarela es uno de los materiales más utilizados en dibujo y pintura, se fabrica con fibras de algodón o celulosa, presenta distintas gramaturas y texturas que se adaptan a técnicas como el lápiz, el pastel o la acuarela líquida."
+  },
+  {
+    "intent_id": "proporciones_canon_policleto",
+    "keywords": [
+      "proporciones",
+      "dibujo",
+      "canon",
+      "policleto",
+      "figurahumana"
+    ],
+    "base_response": "El canon de proporciones de Policleto es un modelo matemático de la figura humana creado en la antigua Grecia, establece que la altura del cuerpo equivale a siete veces la longitud de la cabeza para lograr representaciones armónicas y equilibradas."
+  },
+  {
+    "intent_id": "claroscuro_renacimiento",
+    "keywords": [
+      "claroscuro",
+      "tecnica",
+      "renacimiento",
+      "contraste",
+      "volumen"
+    ],
+    "base_response": "El claroscuro es una técnica de dibujo y pintura desarrollada durante el renacimiento, consiste en contrastar zonas de luz intensa con zonas de oscuridad total para crear la ilusión de volumen y tridimensionalidad en superficies planas en sus obras."
+  },
+  {
+    "intent_id": "tecnica_pastel_seco",
+    "keywords": [
+      "pastel",
+      "seco",
+      "dibujo",
+      "tecnica",
+      "color"
+    ],
+    "base_response": "El pastel seco es una técnica de dibujo que utiliza barras de pigmento en polvo aglutinado con resina o goma, permite aplicar colores vibrantes de forma directa sobre el papel, creando texturas mates y degradados muy suaves."
+  },
+  {
+    "intent_id": "historia_dibujo_edad_media",
+    "keywords": [
+      "historia",
+      "dibujo",
+      "edadmedia",
+      "miniatura",
+      "religion"
+    ],
+    "base_response": "Durante la edad media el dibujo se utilizó principalmente para ilustrar manuscritos religiosos, las miniaturas medievales se realizaban con tintas y pigmentos sobre pergamino, representando escenas bíblicas con gran detalle y simbolismo en sus creaciones."
+  },
+  {
+    "intent_id": "anatomia_artistica_pies",
+    "keywords": [
+      "anatomia",
+      "artistica",
+      "pies",
+      "proporciones",
+      "estructura"
+    ],
+    "base_response": "El estudio de la anatomía artística de los pies es esencial para evitar errores de representación, su estructura se organiza en 26 huesos, arcos plantares y articulaciones que permiten soportar el peso corporal y realizar desplazamientos variados."
+  },
+  {
+    "intent_id": "iluminacion_luz_ambiental",
+    "keywords": [
+      "iluminacion",
+      "luz",
+      "ambiental",
+      "sombras",
+      "contraste"
+    ],
+    "base_response": "La luz ambiental es la iluminación general que rodea un objeto en el dibujo, no procede de una fuente puntual concreta, genera sombras muy suaves y contrastes poco marcados que aportan naturalidad a las representaciones de escenas cotidianas."
+  },
+  {
+    "intent_id": "materiales_lapices_colores",
+    "keywords": [
+      "materiales",
+      "dibujo",
+      "lapices",
+      "colores",
+      "pigmento"
+    ],
+    "base_response": "Los lápices de colores son materiales de dibujo formados por una mina de pigmento aglutinado con cera o goma, se utilizan para crear ilustraciones detalladas, se superponen capas de color para generar tonalidades más intensas y matices variados."
+  },
+  {
+    "intent_id": "proporciones_canon_durero",
+    "keywords": [
+      "proporciones",
+      "canon",
+      "durero",
+      "figurahumana",
+      "dibujo"
+    ],
+    "base_response": "El canon de proporciones de Alberto Durero es un modelo de la figura humana creado en el renacimiento nórdico, combina mediciones anatómicas precisas con reglas matemáticas para lograr representaciones proporcionadas y estéticamente agradables en el dibujo."
+  },
+  {
+    "intent_id": "composicion_triangular",
+    "keywords": [
+      "composicion",
+      "visual",
+      "triangular",
+      "equilibrio",
+      "interes"
+    ],
+    "base_response": "La composición triangular es un recurso de composición visual que distribuye los elementos principales de la obra en tres puntos que forman un triángulo, genera sensación de estabilidad y equilibrio al mismo tiempo que dirige la mirada del espectador por toda la pieza."
+  },
+  {
+    "intent_id": "sombras_reflejos_superficies_brillantes",
+    "keywords": [
+      "sombras",
+      "reflejos",
+      "superficies",
+      "brillantes",
+      "dibujo"
+    ],
+    "base_response": "Para dibujar superficies brillantes es necesario representar tanto las sombras propias del objeto como los reflejos de la fuente de luz y los elementos del entorno, estos últimos se dibujan con tonos más claros y menos definidos que las sombras."
+  },
+  {
+    "intent_id": "iluminacion_ambiental_color",
+    "keywords": [
+      "ambiente",
+      "color",
+      "reflejo",
+      "luz",
+      "matiz"
+    ],
+    "base_response": "La iluminacion ambiental influye en matices y reflejos sobre superficies. Analizar la calidad de la luz permite ajustar valores cromaticos. Integrar variaciones sutiles mejora la profundidad visual. Este enfoque resulta esencial para escenas con atmosferas complejas."
+  },
+  {
+    "intent_id": "composicion_dinamica_lineas",
+    "keywords": [
+      "linea",
+      "direccion",
+      "energia",
+      "flujo",
+      "movimiento"
+    ],
+    "base_response": "Las lineas dinamicas generan energia y flujo dentro de la composicion. Controlar direcciones permite guiar movimiento visual. Integrar variaciones de grosor aporta expresividad. Este enfoque ayuda a crear escenas vivas y estructuradas con impacto narrativo."
+  },
+  {
+    "intent_id": "iluminacion_basica_dibujo",
+    "keywords": [
+      "luz",
+      "sombra",
+      "fuente",
+      "volumen",
+      "direccion"
+    ],
+    "base_response": "La iluminacion define volumen mediante la relacion entre luz y sombra. Identificar la direccion de la fuente permite organizar valores coherentes. Practicar objetos simples ayuda a comprender como la luz transforma formas y genera profundidad visual."
+  },
+  {
+    "intent_id": "materiales_papel_texturas",
+    "keywords": [
+      "papel",
+      "grano",
+      "fibra",
+      "superficie",
+      "trazo"
+    ],
+    "base_response": "El papel influye en el trazo mediante su grano y fibra. Elegir superficie adecuada permite controlar textura y detalle. Experimentar con distintos tipos ayuda a comprender como cada material afecta la calidad del dibujo y la respuesta del medio utilizado."
+  },
+  {
+    "intent_id": "composicion_lineas_dinamicas",
+    "keywords": [
+      "linea",
+      "direccion",
+      "ritmo",
+      "flujo",
+      "energia"
+    ],
+    "base_response": "Las lineas dinamicas generan ritmo y energia en la composicion. Comprender su direccion ayuda a guiar la mirada y crear fluidez. Practicar trazos variados permite construir escenas vivas y reforzar la intencion expresiva del dibujo."
+  },
+  {
+    "intent_id": "sombras_proyeccion",
+    "keywords": [
+      "sombra",
+      "proyeccion",
+      "luz",
+      "forma",
+      "distancia"
+    ],
+    "base_response": "Las sombras proyectadas dependen de la direccion de la luz y la distancia entre objetos. Comprender su logica permite reforzar coherencia espacial. Practicar figuras simples ayuda a observar deformaciones y mejorar la credibilidad del entorno."
+  },
+  {
+    "intent_id": "perspectiva_isometrica_basica",
+    "keywords": [
+      "isometrica",
+      "eje",
+      "proyeccion",
+      "volumen",
+      "geometria"
+    ],
+    "base_response": "La perspectiva isometrica mantiene los ejes en angulos iguales, evitando la convergencia. Esto permite representar volumen sin distorsion. Practicar figuras geometricas ayuda a comprender la estructura tridimensional y a planificar objetos con precision tecnica y claridad visual."
+  },
+  {
+    "intent_id": "iluminacion_luz_dura",
+    "keywords": [
+      "luz",
+      "dura",
+      "sombra",
+      "contraste",
+      "direccion"
+    ],
+    "base_response": "La luz dura genera sombras definidas y contrastes intensos. Observar la direccion de la fuente permite ubicar correctamente las zonas iluminadas. Practicar con objetos simples ayuda a comprender la relacion entre forma y sombra en situaciones de iluminacion directa."
+  },
+  {
+    "intent_id": "iluminacion_luz_suave",
+    "keywords": [
+      "luz",
+      "suave",
+      "transicion",
+      "difusion",
+      "volumen"
+    ],
+    "base_response": "La luz suave produce transiciones graduales entre zonas iluminadas y sombreadas. Su difusion reduce el contraste, creando volumen delicado. Estudiar esta iluminacion ayuda a desarrollar sensibilidad para representar atmosferas calmadas y superficies con matices sutiles."
+  },
+  {
+    "intent_id": "materiales_lapices_dureza",
+    "keywords": [
+      "lapiz",
+      "dureza",
+      "grafito",
+      "trazo",
+      "control"
+    ],
+    "base_response": "Los lapices varian en dureza, lo que afecta el trazo y la intensidad del grafito. Comprender esta escala permite seleccionar herramientas adecuadas. Practicar con diferentes grados mejora el control y facilita crear dibujos con matices precisos y coherentes."
+  },
+  {
+    "intent_id": "proporciones_rostro_basicas",
+    "keywords": [
+      "rostro",
+      "proporcion",
+      "alineacion",
+      "simetria",
+      "estructura"
+    ],
+    "base_response": "Las proporciones del rostro se basan en alineaciones que organizan ojos, nariz y boca. Comprender esta estructura facilita ubicar rasgos con precision. Practicar variaciones ayuda a representar diferentes fisonomias sin perder coherencia en la construccion general."
+  },
+  {
+    "intent_id": "claroscuro_modelado_volumen",
+    "keywords": [
+      "claroscuro",
+      "contraste",
+      "modelado",
+      "volumen",
+      "gradacion"
+    ],
+    "base_response": "El claroscuro utiliza contrastes para modelar volumen mediante gradaciones cuidadosas. Observar la luz permite definir planos y profundidades. Practicar esta tecnica fortalece la capacidad de representar formas complejas con dramatismo y coherencia visual en diferentes contextos."
+  },
+  {
+    "intent_id": "claroscuro_drama_visual",
+    "keywords": [
+      "claroscuro",
+      "luz",
+      "sombra",
+      "intensidad",
+      "atmosfera"
+    ],
+    "base_response": "El claroscuro dramatico enfatiza la intensidad entre luz y sombra para crear atmosfera poderosa. Analizar fuentes luminosas ayuda a planificar composiciones expresivas. Practicar contrastes extremos permite desarrollar sensibilidad narrativa y reforzar el impacto visual del dibujo."
+  },
+  {
+    "intent_id": "iluminacion_difusa_ambiente",
+    "keywords": [
+      "iluminacion",
+      "difusion",
+      "matiz",
+      "transicion",
+      "suavidad"
+    ],
+    "base_response": "La iluminacion difusa produce transiciones suaves y matices delicados. Comprender su comportamiento ayuda a representar ambientes equilibrados, estudiando la suavidad de las sombras y la manera en que la luz se distribuye sobre distintas superficies."
+  },
+  {
+    "intent_id": "tecnica_tramado_grafito",
+    "keywords": [
+      "grafito",
+      "tramado",
+      "sombreado",
+      "texturas"
+    ],
+    "base_response": "El tramado con grafito consiste en superponer trazos paralelos o cruzados para generar tonalidades, se ajusta la presión y densidad de líneas para pasar de grises claros a negros profundos, es ideal para crear texturas realistas en superficies como madera o tela sin usar difumino."
+  },
+  {
+    "intent_id": "tecnica_carboncillo_borrado",
+    "keywords": [
+      "carboncillo",
+      "borrado",
+      "contraste",
+      "esbozo"
+    ],
+    "base_response": "El carboncillo permite realizar esbozos rápidos y expresivos gracias a su textura granulada, el borrado con goma de pan o triturada genera luces y matices suaves, es ideal para capturar la esencia de modelos en sesiones de dibujo al natural sin detalles superfluos."
+  },
+  {
+    "intent_id": "tecnica_pastel_blending",
+    "keywords": [
+      "pastel",
+      "blending",
+      "color",
+      "capas"
+    ],
+    "base_response": "El pastel se trabaja superponiendo capas de pigmento en polvo sobre papel de grano rugoso, el blending o frotado con dedos o difuminos mezcla los tonos para generar gradaciones suaves, es perfecto para obras de gran viveza cromática y textura aterciopelada."
+  },
+  {
+    "intent_id": "perspectiva_conica_puntos_fuga",
+    "keywords": [
+      "perspectiva",
+      "conica",
+      "puntos",
+      "fuga",
+      "profundidad"
+    ],
+    "base_response": "La perspectiva cónica es un sistema de representación tridimensional en superficie plana que usa uno o varios puntos de fuga situados en la línea de horizonte, reproduce la forma en que el ojo humano percibe la profundidad y el tamaño decreciente de los objetos alejados."
+  },
+  {
+    "intent_id": "perspectiva_isometrica_dibujo_tecnico",
+    "keywords": [
+      "perspectiva",
+      "isometrica",
+      "ejes",
+      "angulos",
+      "medidas"
+    ],
+    "base_response": "La perspectiva isométrica es un sistema de representación sin puntos de fuga en el que los tres ejes principales forman ángulos de 120 grados entre sí, mantiene las medidas reales de los objetos sin distorsión por distancia, se usa mucho en dibujo técnico e ilustración de videojuegos."
+  },
+  {
+    "intent_id": "anatomia_artistica_manos_proporciones",
+    "keywords": [
+      "anatomia",
+      "manos",
+      "proporciones",
+      "huesos",
+      "musculos"
+    ],
+    "base_response": "Para dibujar manos realistas es fundamental conocer sus proporciones básicas: la palma tiene la misma longitud que el antebrazo, cada dedo se divide en tres falanges excepto el pulgar que tiene dos, los huesos y músculos definen su forma y movimiento natural."
+  },
+  {
+    "intent_id": "iluminacion_dibujo_realista_fuentes",
+    "keywords": [
+      "iluminacion",
+      "dibujo",
+      "fuentes",
+      "luz",
+      "sombra"
+    ],
+    "base_response": "La iluminación define el volumen y la atmósfera de un dibujo realista, las fuentes de luz pueden ser naturales como el sol o artificiales como una lámpara, su dirección y intensidad determinan la ubicación y suavidad de las sombras proyectadas sobre los objetos."
+  },
+  {
+    "intent_id": "materiales_dibujo_papel_algodon",
+    "keywords": [
+      "materiales",
+      "papel",
+      "algodon",
+      "grano",
+      "absorcion"
+    ],
+    "base_response": "El papel de algodón es uno de los materiales más valorados para dibujo por su resistencia y textura de grano variable, absorbe bien el pigmento de grafito, carboncillo y pastel sin dañarse fácilmente, existe en presentaciones de diferentes pesos y acabados."
+  },
+  {
+    "intent_id": "proporciones_aureas_dibujo_composicion",
+    "keywords": [
+      "proporciones",
+      "aureas",
+      "composicion",
+      "belleza",
+      "equilibrio"
+    ],
+    "base_response": "Las proporciones áureas son una relación matemática de 1 a 1,618 que se aplica en la composición de dibujos para generar equilibrio y sensación de belleza natural, se usa para dividir lienzos o situar elementos clave en la obra de forma armoniosa."
+  },
+  {
+    "intent_id": "composicion_visual_regla_tercios",
+    "keywords": [
+      "composicion",
+      "visual",
+      "regla",
+      "tercios",
+      "equilibrio"
+    ],
+    "base_response": "La regla de tercios es una pauta de composición visual que divide el dibujo en nueve cuadrados iguales con dos líneas horizontales y dos verticales, los puntos de intersección de estas líneas son los lugares ideales para situar los elementos principales de la obra."
+  },
+  {
+    "intent_id": "sombras_proyectadas_dibujo_obstaculos",
+    "keywords": [
+      "sombras",
+      "proyectadas",
+      "obstaculos",
+      "direccion",
+      "luz"
+    ],
+    "base_response": "Las sombras proyectadas son aquellas que un objeto arroja sobre una superficie al bloquear el paso de la luz, su forma, tamaño y nitidez dependen de la distancia entre el objeto emisor de luz y el obstáculo que la intercepta en el dibujo."
+  },
+  {
+    "intent_id": "claroscuro_renacentista_contorno_volumen",
+    "keywords": [
+      "claroscuro",
+      "renacentista",
+      "contraste",
+      "volumen",
+      "luz"
+    ],
+    "base_response": "El claroscuro es una técnica de dibujo y pintura renacentista que combina zonas de luz intensa y sombras profundas para modelar el volumen de las figuras, genera un fuerte contraste que resalta los relieves y da sensación de tridimensionalidad a la obra."
+  },
+  {
+    "intent_id": "dibujo_paisajes_lapiz_colores_capas",
+    "keywords": [
+      "dibujo",
+      "paisajes",
+      "lapiz",
+      "colores",
+      "capas"
+    ],
+    "base_response": "El dibujo de paisajes con lápiz de colores se basa en superponer capas de pigmento para generar profundidad y matices naturales, se empieza por los tonos más claros del fondo y se añaden capas más oscuras progresivamente para crear sensación de lejanía."
+  },
+  {
+    "intent_id": "tecnica_sanguina_dibujo_retrato",
+    "keywords": [
+      "sanguina",
+      "retrato",
+      "tonos",
+      "carnes",
+      "difumino"
+    ],
+    "base_response": "La sanguina es un material de dibujo de tono rojizo ideal para retratos por su capacidad de reproducir matices de piel y carnaciones, se trabaja con trazos suaves que se difuminan con difumino para generar transiciones homogéneas entre luces y sombras."
+  },
+  {
+    "intent_id": "perspectiva_dos_puntos_fuga_angulos",
+    "keywords": [
+      "perspectiva",
+      "dos",
+      "puntos",
+      "fuga",
+      "angulos"
+    ],
+    "base_response": "La perspectiva de dos puntos es un sistema cónico que sitúa dos puntos de fuga en la línea de horizonte para representar objetos vistos desde un ángulo lateral, mantiene la proporción de las caras frontales y reproduce la profundidad de las caras laterales de forma realista."
+  },
+  {
+    "intent_id": "materiales_dibujo_goma_moldeable_borrado",
+    "keywords": [
+      "goma",
+      "moldeable",
+      "borrado",
+      "carboncillo",
+      "pastel"
+    ],
+    "base_response": "La goma de borrar moldeable es un material de dibujo especial para borrar trazos de carboncillo, pastel y grafito sin dañar el papel, se amasa para cambiar su forma y adaptarse a zonas pequeñas o detalles finos sin dejar residuos de goma en la obra."
+  },
+  {
+    "intent_id": "composicion_visual_simetria_equilibrio",
+    "keywords": [
+      "composicion",
+      "simetria",
+      "equilibrio",
+      "eje",
+      "elementos"
+    ],
+    "base_response": "La composición por simetría organiza los elementos del dibujo de forma equilibrada alrededor de un eje central o vertical, genera sensación de estabilidad y formalidad, se usa mucho en retratos oficiales, dibujos arquitectónicos y obras de estilo clásico o religioso."
+  },
+  {
+    "intent_id": "sombras_propias_objetos_iluminacion",
+    "keywords": [
+      "sombras",
+      "propias",
+      "objetos",
+      "iluminacion",
+      "formas"
+    ],
+    "base_response": "Las sombras propias son las zonas oscuras que aparecen en la cara de un objeto que no recibe luz directa, su forma depende de la geometría del objeto y la dirección de la fuente de iluminación, ayudan a definir su volumen y forma tridimensional en el dibujo."
+  },
+  {
+    "intent_id": "iluminacion_basica_volumen",
+    "keywords": [
+      "luz",
+      "volumen",
+      "sombra",
+      "fuente",
+      "direccion"
+    ],
+    "base_response": "La iluminacion define volumen mediante sombras y luces. Analizar la direccion de la fuente permite ubicar valores con coherencia. Practicar ejercicios simples ayuda a comprender relaciones tonales y fortalece la percepcion espacial en el dibujo."
+  },
+  {
+    "intent_id": "materiales_papel_propiedades",
+    "keywords": [
+      "papel",
+      "grano",
+      "fibra",
+      "absorcion",
+      "resistencia"
+    ],
+    "base_response": "El papel influye en la calidad del trazo mediante su grano y fibra. Comprender su absorcion permite elegir materiales adecuados. Experimentar con distintas superficies ayuda a descubrir efectos variados y optimizar resultados tecnicos en el dibujo."
+  },
+  {
+    "intent_id": "materiales_lapices_variedades",
+    "keywords": [
+      "lapiz",
+      "dureza",
+      "mina",
+      "trazo",
+      "control"
+    ],
+    "base_response": "Los lapices ofrecen durezas diversas que afectan el trazo y el control. Seleccionar la mina adecuada permite ajustar valores tonales. Practicar con varias opciones ayuda a comprender diferencias y mejora la precision en trabajos detallados."
+  },
+  {
+    "intent_id": "composicion_dinamica_diagonal",
+    "keywords": [
+      "diagonal",
+      "energia",
+      "movimiento",
+      "direccion",
+      "forma"
+    ],
+    "base_response": "Las diagonales aportan energia y movimiento a la composicion. Controlar su direccion permite guiar la mirada del espectador. Integrar formas alineadas con estas lineas genera dinamismo y fortalece la estructura visual del dibujo en escenas narrativas."
+  },
+  {
+    "intent_id": "linea_contorno_expresiva",
+    "keywords": [
+      "linea",
+      "contorno",
+      "expresion",
+      "trazo",
+      "flujo"
+    ],
+    "base_response": "La linea de contorno expresiva transmite energia mediante variaciones de trazo. Controlar el flujo permite sugerir volumen sin sombreado. Practicar diferentes ritmos lineales ayuda a desarrollar un estilo personal y mejorar la claridad estructural del dibujo."
+  },
+  {
+    "intent_id": "boceto_rapido_observacion",
+    "keywords": [
+      "boceto",
+      "observacion",
+      "gesto",
+      "forma",
+      "velocidad"
+    ],
+    "base_response": "El boceto rapido entrena la observacion y captura el gesto esencial. Trabajar con velocidad obliga a simplificar formas y priorizar movimiento. Este ejercicio mejora la capacidad de interpretar escenas complejas y desarrollar soltura en el proceso de dibujo."
+  },
+  {
+    "intent_id": "claroscuro_modelado_intenso",
+    "keywords": [
+      "contraste",
+      "volumen",
+      "transicion",
+      "profundidad",
+      "drama"
+    ],
+    "base_response": "El claroscuro utiliza contrastes intensos para modelar volumen y generar drama visual. Controlar transiciones permite crear profundidad convincente. Practicar estudios dedicados ayuda a comprender la fuerza expresiva de la luz y mejorar la narrativa grafica."
+  },
+  {
+    "intent_id": "composicion_visual_dinamica",
+    "keywords": [
+      "dinamica",
+      "linea",
+      "ritmo",
+      "flujo",
+      "movimiento"
+    ],
+    "base_response": "La composicion dinamica utiliza lineas y ritmo para generar flujo visual. Analizar movimiento interno permite crear escenas energicas y expresivas. Practicar variaciones de direccion ayuda a comprender la relacion entre elementos y fortalecer la narrativa grafica del dibujo."
+  },
+  {
+    "intent_id": "claroscuro_modelado_basico",
+    "keywords": [
+      "claroscuro",
+      "contraste",
+      "luz",
+      "sombra",
+      "modelado"
+    ],
+    "base_response": "El claroscuro utiliza contrastes entre luz y sombra para modelar volumen. Analizar su distribucion permite crear escenas dramaticas y expresivas. Practicar estudios simples ayuda a comprender relaciones tonales y mejorar la capacidad de representar profundidad convincente."
+  },
+  {
+    "intent_id": "claroscuro_avanzado_emocion",
+    "keywords": [
+      "tono",
+      "contraste",
+      "drama",
+      "volumen",
+      "intencion"
+    ],
+    "base_response": "El claroscuro avanzado explora tonos y contrastes para transmitir intencion dramatica. Comprender volumen mediante luces intensas y sombras profundas fortalece la expresion emocional. Practicar variaciones tonales permite desarrollar sensibilidad y enriquecer la narrativa visual del dibujo."
+  },
+  {
+    "intent_id": "materiales_papel_caracteristicas",
+    "keywords": [
+      "papel",
+      "grano",
+      "absorcion",
+      "trazo",
+      "textura"
+    ],
+    "base_response": "El papel influye en el trazo mediante su grano y absorcion. Texturas distintas permiten efectos variados. Elegir el soporte adecuado mejora la calidad del dibujo. Experimentar con diferentes superficies ayuda a comprender sus posibilidades expresivas."
+  },
+  {
+    "intent_id": "claroscuro_ambiental_suave",
+    "keywords": [
+      "ambiente",
+      "luz",
+      "sombra",
+      "gradacion",
+      "tono"
+    ],
+    "base_response": "El claroscuro ambiental emplea gradaciones suaves para sugerir atmosfera. Analizar la relacion entre tono y distancia permite crear profundidad sutil. Practicar variaciones controladas ayuda a mejorar la coherencia visual y desarrollar escenas con sensacion envolvente."
+  },
+  {
+    "intent_id": "tecnica_carboncillo_tonos",
+    "keywords": [
+      "carboncillo",
+      "fijador",
+      "tonos",
+      "polvo",
+      "textura"
+    ],
+    "base_response": "El carboncillo permite obtener tonos muy oscuros y texturas rugosas gracias a su composicion de carbon vegetal. Los polvos generados se fijan con fijador en aerosol para evitar manchas, siendo ideal para bocetos rapidos y estudios de volumen y claroscuro."
+  },
+  {
+    "intent_id": "tecnica_pastel_seco_pigmento",
+    "keywords": [
+      "pastel",
+      "pigmento",
+      "papel",
+      "textura",
+      "difuminado"
+    ],
+    "base_response": "El pastel seco esta compuesto por pigmentos puros aglutinados con goma arábica, lo que le da una intensidad de color excepcional. Se aplica sobre papeles con textura rugosa para que el pigmento se adhiera, permitiendo difuminados suaves y mezclas directas."
+  },
+  {
+    "intent_id": "perspectiva_isometrica_ejes",
+    "keywords": [
+      "isometrica",
+      "ejes",
+      "angulos",
+      "medidas",
+      "objetos"
+    ],
+    "base_response": "La perspectiva isometrica es un sistema axonometrico donde los tres ejes principales forman angulos de 120 grados entre si, sin puntos de fuga. Mantiene las proporciones reales de los objetos, por lo que se usa mucho en dibujo tecnico, ilustracion de videojuegos y planos de arquitectura."
+  },
+  {
+    "intent_id": "historia_dibujo_prehistorico_pinturas",
+    "keywords": [
+      "dibujo",
+      "prehistorico",
+      "pinturas",
+      "cuevas",
+      "altamira"
+    ],
+    "base_response": "Los primeros dibujos de la humanidad se encuentran en pinturas rupestres de hace mas de 40 mil anos, como las de la cueva de Altamira. Estas obras muestran animales y escenas de caza, demostrando que el ser humano ya usaba el dibujo para registrar su realidad desde tiempos ancestrales."
+  },
+  {
+    "intent_id": "anatomia_artistica_estructura_osea",
+    "keywords": [
+      "anatomia",
+      "artistica",
+      "huesos",
+      "musculos",
+      "proporciones"
+    ],
+    "base_response": "La anatomia artistica estudia la estructura del cuerpo humano para representarlo de forma realista, centrandose primero en el esquema oseo y luego en la disposicion de los musculos. Conocer estas bases evita errores de proporcion en dibujos de figuras humanas en cualquier posicion."
+  },
+  {
+    "intent_id": "iluminacion_dibujo_fuente_luz",
+    "keywords": [
+      "iluminacion",
+      "fuente",
+      "luz",
+      "sombras",
+      "tonos"
+    ],
+    "base_response": "La iluminacion en el dibujo se define por la ubicacion de la fuente de luz, que determina donde aparecen las zonas iluminadas, las medias tintas y las sombras proyectadas. Dominar este concepto es fundamental para dar volumen y credibilidad a cualquier representacion bidimensional."
+  },
+  {
+    "intent_id": "materiales_dibujo_profesional_calidad",
+    "keywords": [
+      "materiales",
+      "dibujo",
+      "profesional",
+      "papel",
+      "lapices"
+    ],
+    "base_response": "Los materiales de dibujo profesional se diferencian de los escolares por su mayor calidad y durabilidad, incluyendo lapices de grafito de minas duras y blandas, papeles de algodon sin acido y gomas especiales que no dañan la superficie del soporte."
+  },
+  {
+    "intent_id": "proporciones_canonicas_cuerpo_humano",
+    "keywords": [
+      "proporciones",
+      "canonicas",
+      "cuerpo",
+      "altura",
+      "cabeza"
+    ],
+    "base_response": "Las proporciones canonicas del cuerpo humano establecen que la altura total equivale a siete veces y media la altura de la cabeza, medida desde la barbilla hasta el coronilla. Esta regla es una guia flexible que se adapta a diferentes estilos de dibujo y caracteristicas individuales."
+  },
+  {
+    "intent_id": "composicion_regla_tercios_marco",
+    "keywords": [
+      "composicion",
+      "visual",
+      "tercios",
+      "marco",
+      "interes"
+    ],
+    "base_response": "La regla de los tercios de la composicion visual divide el marco del dibujo en nueve cuadrados iguales, situando los elementos de mayor interes en las intersecciones de las lineas divisorias. Esta tecnica genera obras mas dinamicas y equilibradas que la colocacion centrada de los elementos."
+  },
+  {
+    "intent_id": "sombras_proyectadas_fuente_luz",
+    "keywords": [
+      "sombras",
+      "proyectadas",
+      "fuente",
+      "luz",
+      "direccion"
+    ],
+    "base_response": "Las sombras proyectadas se generan cuando un objeto opaco bloquea el paso de la luz de una fuente determinada, apareciendo en la superficie opuesta a la iluminacion. Su forma y intensidad dependen de la distancia entre el objeto, la fuente de luz y la superficie donde se proyectan."
+  },
+  {
+    "intent_id": "claroscuro_renacentista_contraste",
+    "keywords": [
+      "claroscuro",
+      "contraste",
+      "luz",
+      "sombra",
+      "volumen"
+    ],
+    "base_response": "El claroscuro es una tecnica de contraste entre zonas iluminadas y zonas oscuras que se popularizo en el Renacimiento para dar volumen a las figuras. Grandes maestros como Caravaggio lo usaron de forma extrema para crear efectos dramaticos y resaltar elementos clave de sus obras."
+  },
+  {
+    "intent_id": "dibujo_manos_estructura_osea",
+    "keywords": [
+      "dibujo",
+      "manos",
+      "huesos",
+      "proporciones",
+      "trazos"
+    ],
+    "base_response": "Dibujar manos requiere conocer su estructura osea subyacente, formada por los huesos metacarpianos y las falanges, que definen su forma y movilidad. Se recomienda practicar con trazos rapidos de diferentes posiciones para memorizar las proporciones y evitar errores de rigidez en las representaciones."
+  },
+  {
+    "intent_id": "dibujo_retratos_rasgos_faciales",
+    "keywords": [
+      "retratos",
+      "rasgos",
+      "faciales",
+      "simetria",
+      "expresion"
+    ],
+    "base_response": "Para dibujar retratos realistas es fundamental dominar la ubicacion de los rasgos faciales y sus proporciones relativas, asi como la simetria del rostro. Practicar con bocetos de diferentes expresiones ayuda a capturar la personalidad del modelo de forma mas veraz y expresiva."
+  },
+  {
+    "intent_id": "dibujo_paisajes_perspectiva_aerea",
+    "keywords": [
+      "paisajes",
+      "perspectiva",
+      "aerea",
+      "planos",
+      "profundidad"
+    ],
+    "base_response": "El dibujo de paisajes se apoya en la perspectiva aerea para generar sensacion de profundidad, reduciendo el contraste y la saturacion de los elementos mas alejados del espectador. Combinar planos cercanos, medios y lejanos permite crear composiciones de paisaje mas creibles y envolventes."
+  },
+  {
+    "intent_id": "dibujo_tecnico_normas_medidas",
+    "keywords": [
+      "dibujo",
+      "tecnico",
+      "normas",
+      "medidas",
+      "precision"
+    ],
+    "base_response": "El dibujo tecnico sigue normas estandarizadas para representar objetos, piezas o espacios con precision absoluta, usando escalas, acotaciones y simbologia especifica. Es fundamental en campos como la arquitectura, la ingenieria y el diseño industrial para comunicar ideas de forma uniforme y sin ambigüedades."
+  },
+  {
+    "intent_id": "dibujo_animales_anatomia_especie",
+    "keywords": [
+      "animales",
+      "anatomia",
+      "especie",
+      "movimiento",
+      "trazos"
+    ],
+    "base_response": "Para dibujar animales de forma realista es necesario estudiar la anatomia especifica de cada especie, prestando atencion a la estructura osea, la disposicion de los musculos y los patrones de movimiento. Realizar bocetos rapidos de animales en movimiento ayuda a capturar su esencia de forma natural."
+  },
+  {
+    "intent_id": "tecnica_tinta_lineas_contraste",
+    "keywords": [
+      "tinta",
+      "lineas",
+      "contraste",
+      "trama",
+      "estilo"
+    ],
+    "base_response": "El dibujo con tinta se apoya en el uso de lineas de distinto grosor y densidad para generar contrastes, tramas y texturas sin necesidad de usar tonos grises. Es una tecnica muy versatil que se adapta a estilos de ilustracion, comic y dibujo artistico de todo tipo."
+  },
+  {
+    "intent_id": "dibujo_moda_figura_vestimenta",
+    "keywords": [
+      "moda",
+      "vestimenta",
+      "figura",
+      "estilo",
+      "boceto"
+    ],
+    "base_response": "El dibujo de moda se centra en representar la vestimenta sobre la figura humana, adaptando las proporciones para resaltar las prendas y su estilo. Los bocetos de moda suelen ser dinamicos, con trazos fluidos que muestran la caida de las telas y el movimiento de las prendas."
+  },
+  {
+    "intent_id": "tecnica_pastel",
+    "keywords": [
+      "pastel",
+      "color",
+      "difuminado",
+      "capas"
+    ],
+    "base_response": "Los pasteles se componen de pigmentos aglutinados con resina o goma, permiten mezclar colores directamente sobre el soporte, crean acabados vibrantes y suaves, y se trabajan en capas superpuestas para lograr efectos de profundidad y matiz variados."
+  },
+  {
+    "intent_id": "anatomia_artistica_rostro",
+    "keywords": [
+      "rostro",
+      "anatomia",
+      "proporciones",
+      "dibujo"
+    ],
+    "base_response": "El rostro se divide por líneas guía en tercios: desde la base del cabello a las cejas, de cejas a la base de la nariz y de ahí al mentón, esta medida universal sirve para lograr retratos proporcionados y realistas en cualquier estilo de dibujo."
+  },
+  {
+    "intent_id": "iluminacion_dibujo",
+    "keywords": [
+      "iluminacion",
+      "luz",
+      "sombra",
+      "volumen"
+    ],
+    "base_response": "La iluminación define la percepción de volumen y textura en el dibujo, una fuente de luz situada en un solo lado genera zonas de luz, media tinta y sombra, lo que permite modelar los elementos para que parezcan tridimensionales sobre el papel."
+  },
+  {
+    "intent_id": "materiales_dibujo_basicos",
+    "keywords": [
+      "materiales",
+      "dibujo",
+      "papel",
+      "lapices"
+    ],
+    "base_response": "Los materiales básicos para dibujar incluyen lápices de diferentes durezas, papel de gramaje adecuado para evitar roturas al borrar, gomas de borrar de diferentes tipos y fijador para preservar obras realizadas con materiales polvorientos como el carboncillo."
+  },
+  {
+    "intent_id": "proporciones_humanas_basicas",
+    "keywords": [
+      "proporciones",
+      "cuerpohumano",
+      "canon",
+      "dibujo"
+    ],
+    "base_response": "El canon de proporciones humanas establece que la altura del cuerpo adulto equivale a ocho veces la altura de la cabeza, esta medida varía según la edad y el estilo artístico, pero sirve como referencia inicial para dibujar figuras proporcionadas."
+  },
+  {
+    "intent_id": "claroscuro_tecnica",
+    "keywords": [
+      "claroscuro",
+      "contraste",
+      "luz",
+      "sombra"
+    ],
+    "base_response": "El claroscuro es una técnica de representación que contrasta zonas de luz muy brillante con zonas de sombra muy oscura, sin tonos intermedios, se usó profusamente en el Barroco para generar dramatismo y resaltar los volúmenes de las figuras."
+  },
+  {
+    "intent_id": "tecnica_lapiz_colores",
+    "keywords": [
+      "lapizcolores",
+      "capas",
+      "mezcla",
+      "textura"
+    ],
+    "base_response": "El dibujo con lápices de colores se basa en la superposición de capas transparentes de pigmento, se pueden mezclar tonos frotando con difumino o con capas adicionales, y se consiguen efectos de textura variada según la presión y el tipo de papel utilizado."
+  },
+  {
+    "intent_id": "dibujo_paisajes",
+    "keywords": [
+      "paisajes",
+      "perspectiva",
+      "profundidad",
+      "composicion"
+    ],
+    "base_response": "Para dibujar paisajes se usa la perspectiva atmosférica, que consiste en reducir el contraste y la saturación de los elementos más alejados, además de hacerlos más pequeños y menos detallados, para generar sensación de profundidad en el plano."
+  },
+  {
+    "intent_id": "dibujo_animales",
+    "keywords": [
+      "animales",
+      "anatomia",
+      "movimiento",
+      "dibujo"
+    ],
+    "base_response": "Para dibujar animales es fundamental estudiar su anatomía específica y su patrón de movimiento, se recomienda usar referencias fotográficas y hacer bocetos rápidos para capturar la esencia de la postura antes de realizar el dibujo final detallado."
+  },
+  {
+    "intent_id": "tecnica_entintado",
+    "keywords": [
+      "entintado",
+      "tinta",
+      "lineas",
+      "contraste"
+    ],
+    "base_response": "El entintado es una técnica de dibujo que usa tintas de diferentes colores o negro, se trabaja con plumillas, pinceles o rotuladores de punta fina, permite crear líneas de grosor variable y contrastes muy marcados para ilustraciones y cómics."
+  },
+  {
+    "intent_id": "boceto_preparatorio",
+    "keywords": [
+      "boceto",
+      "dibujo",
+      "composicion",
+      "estudio"
+    ],
+    "base_response": "El boceto es un dibujo previo y rápido que se realiza para planificar la composición, probar proporciones y resolver problemas de diseño antes de ejecutar la obra final, se hace con trazos sueltos y sin detalles innecesarios para agilizar el proceso creativo."
+  },
+  {
+    "intent_id": "historia_dibujo_barroco",
+    "keywords": [
+      "barroco",
+      "movimiento",
+      "contraste",
+      "figura",
+      "composicion"
+    ],
+    "base_response": "En el Barroco, el dibujo enfatizo el movimiento y el contraste dramatico. Las figuras adquirieron dinamismo mediante lineas fluidas. La composicion se volvio mas teatral, buscando guiar la mirada del espectador. Este periodo destaco la expresividad como recurso fundamental."
+  },
+  {
+    "intent_id": "iluminacion_basica_luz_dura",
+    "keywords": [
+      "luz",
+      "fuente",
+      "sombra",
+      "contraste",
+      "direccion"
+    ],
+    "base_response": "La luz dura genera sombras definidas y contrastes intensos. Analizar la direccion de la fuente permite anticipar la ubicacion de las sombras. Este tipo de iluminacion facilita estudiar volumen con claridad. Practicar objetos simples ayuda a comprender relaciones luminosas esenciales."
+  },
+  {
+    "intent_id": "iluminacion_suave_difusa",
+    "keywords": [
+      "iluminacion",
+      "difusion",
+      "transicion",
+      "volumen",
+      "matiz"
+    ],
+    "base_response": "La iluminacion difusa produce transiciones suaves entre luz y sombra. Este efecto ayuda a estudiar volumen con delicadeza. Observar matices sutiles mejora la sensibilidad visual. Practicar con superficies variadas permite comprender como la luz interactua con diferentes materiales."
+  },
+  {
+    "intent_id": "materiales_papel_grano",
+    "keywords": [
+      "papel",
+      "grano",
+      "superficie",
+      "trazo",
+      "control"
+    ],
+    "base_response": "El grano del papel influye en la textura del trazo y en el control del sombreado. Superficies rugosas generan efectos expresivos, mientras las lisas permiten precision. Conocer estas diferencias ayuda a elegir materiales adecuados. Experimentar mejora la adaptacion tecnica del artista."
+  },
+  {
+    "intent_id": "anatomia_artistica_torso",
+    "keywords": [
+      "torso",
+      "musculo",
+      "proporcion",
+      "eje",
+      "volumen"
+    ],
+    "base_response": "El torso combina musculos y proporciones que definen postura y equilibrio. Comprender su eje central facilita representar movimiento. Practicar volumen mediante bloques simplificados ayuda a visualizar profundidad. Este estudio fortalece la coherencia anatomica en figuras completas."
+  }
+]
