@@ -1,0 +1,1803 @@
+[
+    {
+        "intent_id": "teatro_origen_grecia",
+        "keywords": [
+            "teatro",
+            "origen",
+            "grecia",
+            "tragedia",
+            "comedia",
+            "dramaturgia"
+        ],
+        "base_response": "El teatro occidental tiene sus raíces en la antigua Grecia, donde surgió como parte de festividades religiosas dedicadas a deidades locales. Los primeros dramaturgos crearon tragedias y comedias que exploraban dilemas éticos, humanos y divinos, sentando las bases fundamentales para la dramaturgia moderna y la representación escénica actual."
+    },
+    {
+        "intent_id": "teatro_actuacion_tecnica",
+        "keywords": [
+            "actuacion",
+            "dominio",
+            "expresion",
+            "cuerpo",
+            "voz",
+            "emocion"
+        ],
+        "base_response": "La actuación teatral exige un profundo dominio de la expresión corporal y vocal. Un actor debe transmitir emociones complejas utilizando su cuerpo y su voz, conectando con el público en vivo. Este proceso requiere disciplina, imaginación y una conexión auténtica con las motivaciones internas del personaje representado."
+    },
+    {
+        "intent_id": "teatro_direccion_escena",
+        "keywords": [
+            "director",
+            "escena",
+            "vision",
+            "actores",
+            "disenadores",
+            "ritmo"
+        ],
+        "base_response": "El director de escena es el responsable de unificar la visión artística de toda la obra teatral. Coordina el trabajo de los actores, diseñadores y técnicos, asegurando que cada elemento, desde la escenografía hasta el ritmo de los diálogos, sirva para comunicar el mensaje central de la historia."
+    },
+    {
+        "intent_id": "teatro_escenografia_diseno",
+        "keywords": [
+            "escenografia",
+            "espacio",
+            "universo",
+            "estructuras",
+            "narrativa",
+            "imaginacion"
+        ],
+        "base_response": "La escenografía transforma un espacio vacío en el universo particular donde habitan los personajes de la obra. Mediante el diseño cuidadoso de estructuras, telones y plataformas, los escenógrafos crean ambientes visuales que contextualizan la acción, apoyando la narrativa visual y estimulando la imaginación activa del espectador atento."
+    },
+    {
+        "intent_id": "teatro_iluminacion_atmosfera",
+        "keywords": [
+            "iluminacion",
+            "luz",
+            "atmosfera",
+            "tiempo",
+            "color",
+            "atencion"
+        ],
+        "base_response": "El diseño de iluminación en el teatro hace mucho más que simplemente hacer visibles a los actores. La luz define atmósferas, marca el paso del tiempo y resalta detalles emocionales importantes. Los diseñadores utilizan color, intensidad y dirección para guiar sutilmente la atención del público durante toda la representación."
+    },
+    {
+        "intent_id": "teatro_vestuario_caracterizacion",
+        "keywords": [
+            "vestuario",
+            "personaje",
+            "epoca",
+            "paleta",
+            "prendas",
+            "historia"
+        ],
+        "base_response": "El vestuario teatral proporciona información inmediata sobre la personalidad, época y estatus social de cada personaje. Los diseñadores investigan contextos históricos y paletas de colores para crear prendas funcionales que faciliten el movimiento del actor mientras comunican visualmente aspectos esenciales de la historia narrativa desde el primer instante."
+    },
+    {
+        "intent_id": "teatro_improvisacion_creatividad",
+        "keywords": [
+            "improvisacion",
+            "escenas",
+            "guion",
+            "creatividad",
+            "agilidad",
+            "resolucion"
+        ],
+        "base_response": "La improvisación teatral es una técnica actoral donde las escenas se crean en el momento, sin un guion previo. Los actores deben escuchar activamente, aceptar las propuestas de sus compañeros y responder con creatividad espontánea, fomentando la agilidad mental, la confianza mutua y la resolución rápida de problemas narrativos."
+    },
+    {
+        "intent_id": "teatro_voz_proyeccion",
+        "keywords": [
+            "voz",
+            "publico",
+            "cuerdas",
+            "respiracion",
+            "resonancia",
+            "auditorio"
+        ],
+        "base_response": "La voz del actor teatral debe alcanzar a todo el público sin perder calidad ni dañar las cuerdas vocales. El entrenamiento incluye técnicas de respiración diafragmática, articulación clara y resonancia adecuada, permitiendo que cada palabra sea comprensible, expresiva e impactante, incluso en los auditorios teatrales más grandes del mundo."
+    },
+    {
+        "intent_id": "teatro_maquillaje_expresion",
+        "keywords": [
+            "maquillaje",
+            "rasgos",
+            "luces",
+            "escenario",
+            "mascara",
+            "transformacion"
+        ],
+        "base_response": "El maquillaje teatral ayuda a caracterizar físicamente al intérprete, exagerando rasgos para que sean visibles bajo las potentes luces del escenario. Desde el envejecimiento hasta la creación de criaturas fantásticas, el maquillaje se convierte en una máscara expresiva que apoya la transformación psicológica y visual del actor protagonista."
+    },
+    {
+        "intent_id": "teatro_movimiento_bloqueo",
+        "keywords": [
+            "movimiento",
+            "espacio",
+            "coreografia",
+            "bloqueo",
+            "posiciones",
+            "foco"
+        ],
+        "base_response": "El movimiento escénico se refiere a cómo los actores se desplazan e interactúan dentro del espacio teatral. La coreografía de estos movimientos, llamada bloqueo, debe parecer natural mientras asegura que las posiciones escénicas cuenten la historia visualmente, manteniendo siempre el foco de atención en la acción principal desarrollada."
+    },
+    {
+        "intent_id": "teatro_utileria_objetos",
+        "keywords": [
+            "utileria",
+            "objetos",
+            "escena",
+            "manipulacion",
+            "realismo",
+            "simbolismo"
+        ],
+        "base_response": "La utilería incluye todos los objetos móviles que los actores manejan durante la representación, como espadas, libros o tazas. Estos elementos ayudan a construir el realismo de la obra, proporcionar detalles sobre los hábitos del personaje e incluso adquirir un profundo valor simbólico dentro de la trama desarrollada."
+    },
+    {
+        "intent_id": "teatro_dramaturgia_texto",
+        "keywords": [
+            "dramaturgia",
+            "texto",
+            "dialogos",
+            "conflicto",
+            "estructura",
+            "narrativa"
+        ],
+        "base_response": "La dramaturgia es el arte de concebir y escribir obras de teatro. El dramaturgo estructura la narrativa a través de diálogos, monólogos y acotaciones escénicas, construyendo un conflicto central que los personajes deberán resolver. Es el plano fundamental sobre el cual se edifica toda la puesta en escena teatral."
+    },
+    {
+        "intent_id": "teatro_analisis_critico",
+        "keywords": [
+            "analisis",
+            "critica",
+            "mensaje",
+            "espectador",
+            "reflexion",
+            "sociedad"
+        ],
+        "base_response": "El análisis teatral permite desglosar los elementos artísticos de una obra para comprender su mensaje profundo. Esta reflexión crítica fomenta que el espectador cuestione las convenciones sociales, interprete metáforas visuales y desarrolle un pensamiento crítico enriquecedor, transformando el entretenimiento pasivo en una experiencia intelectual activa y profundamente transformadora."
+    },
+    {
+        "intent_id": "teatro_tragedia_catarsis",
+        "keywords": [
+            "tragedia",
+            "catarsis",
+            "heroe",
+            "destino",
+            "emocion",
+            "purificacion"
+        ],
+        "base_response": "La tragedia teatral clásica presenta la caída inevitable de un protagonista noble enfrentado a su destino o sus propios defectos morales. Este proceso busca generar una profunda compasión y temor en el público, logrando finalmente una purificación emocional colectiva que los teóricos griegos denominaron tradicionalmente como verdadera catarsis."
+    },
+    {
+        "intent_id": "teatro_comedia_satira",
+        "keywords": [
+            "comedia",
+            "humor",
+            "satira",
+            "costumbres",
+            "risa",
+            "critica"
+        ],
+        "base_response": "La comedia utiliza el humor, el enredo y la exageración para entretener al público mientras, frecuentemente, critica vicios sociales o debilidades humanas. Al provocar la risa colectiva, esta forma teatral revela nuestras contradicciones más profundas de manera ligera, permitiendo reflexionar sobre la condición humana sin la gravedad del drama."
+    },
+    {
+        "intent_id": "teatro_espacio_escenico",
+        "keywords": [
+            "espacio",
+            "escenario",
+            "proscenio",
+            "arena",
+            "publico",
+            "arquitectura"
+        ],
+        "base_response": "El espacio escénico dicta la relación física entre los actores y el público. Ya sea un escenario de proscenio tradicional, un teatro circular en arena o un espacio alternativo, la arquitectura teatral influye directamente en el grado de intimidad de la obra y en las decisiones de diseño general."
+    },
+    {
+        "intent_id": "teatro_montaje_colectivo",
+        "keywords": [
+            "montaje",
+            "colectivo",
+            "equipo",
+            "colaboracion",
+            "ensayos",
+            "produccion"
+        ],
+        "base_response": "El montaje teatral es un proceso inherentemente colaborativo donde especialistas de diversas áreas combinan sus talentos únicos. A través de largas jornadas de ensayos y reuniones de producción, el equipo sincroniza actuaciones, escenografía, luces y sonido, transformando finalmente un texto escrito en una vibrante experiencia estética multidimensional y comunitaria."
+    },
+    {
+        "intent_id": "teatro_sonido_ambientacion",
+        "keywords": [
+            "sonido",
+            "musica",
+            "efectos",
+            "ambiente",
+            "emocion",
+            "audicion"
+        ],
+        "base_response": "El diseño sonoro abarca tanto la música incidental como los efectos acústicos creados para la obra. Este paisaje auditivo complementa la acción visual, estableciendo estados de ánimo, indicando cambios de tiempo o lugar, e intensificando las emociones del público de una manera sutil pero absolutamente crucial y determinante."
+    },
+    {
+        "intent_id": "teatro_ensayo_preparacion",
+        "keywords": [
+            "ensayo",
+            "preparacion",
+            "memorizacion",
+            "errores",
+            "perfeccion",
+            "proceso"
+        ],
+        "base_response": "Los ensayos son el laboratorio creativo donde el montaje teatral toma forma gradualmente. Durante semanas, los intérpretes memorizan diálogos, marcan movimientos y exploran sus personajes, permitiendo cometer errores en un entorno seguro antes de perfeccionar la fluidez necesaria para enfrentarse con confianza al público en el esperado día de estreno."
+    },
+    {
+        "intent_id": "teatro_teatro_titeres",
+        "keywords": [
+            "titeres",
+            "marionetas",
+            "manipulacion",
+            "animacion",
+            "ilusion",
+            "infancia"
+        ],
+        "base_response": "El teatro de títeres utiliza figuras inanimadas manipuladas por titiriteros para contar historias llenas de magia y encanto. Esta milenaria disciplina combina la construcción artesanal con la animación gestual precisa, requiriendo que el manipulador transmita vida, respiración y emoción genuina a la materia inerte, creando ilusiones escénicas maravillosas."
+    },
+    {
+        "intent_id": "teatro_produccion_gestion",
+        "keywords": [
+            "produccion",
+            "gestion",
+            "recursos",
+            "presupuesto",
+            "calendario",
+            "difusion"
+        ],
+        "base_response": "La producción teatral abarca toda la gestión organizativa, financiera y logística necesaria para levantar un proyecto escénico complejo. Los productores consiguen financiación, administran presupuestos estrictos, contratan al personal, establecen calendarios de ensayos y diseñan estrategias de difusión, garantizando que el espectáculo llegue exitosamente al público y sea económicamente viable."
+    },
+    {
+        "intent_id": "teatro_pantomima_gesto",
+        "keywords": [
+            "pantomima",
+            "gesto",
+            "silencio",
+            "mimo",
+            "cuerpo",
+            "comunicacion"
+        ],
+        "base_response": "La pantomima es un arte teatral fundamentado exclusivamente en la expresión gestual y corporal, suprimiendo por completo la palabra hablada. Los mimos construyen ilusiones de objetos, pesos y espacios utilizando únicamente su cuerpo, demostrando que el movimiento preciso puede comunicar narrativas complejas con una claridad visual y poética excepcional."
+    },
+    {
+        "intent_id": "teatro_teatro_musical",
+        "keywords": [
+            "musical",
+            "canto",
+            "baile",
+            "coreografia",
+            "canciones",
+            "espectaculo"
+        ],
+        "base_response": "El teatro musical integra armónicamente la actuación dramática con canciones completas, música orquestal y elaboradas coreografías de baile. En este género, los momentos de mayor intensidad emocional se expresan a través del canto y el movimiento rítmico, creando espectáculos dinámicos que exigen intérpretes sumamente versátiles y disciplinados físicamente."
+    },
+    {
+        "intent_id": "teatro_espectador_recepcion",
+        "keywords": [
+            "espectador",
+            "publico",
+            "recepcion",
+            "energia",
+            "aplausos",
+            "retroalimentacion"
+        ],
+        "base_response": "El público es el elemento indispensable que completa el acto teatral. Su presencia física altera la representación, enviando retroalimentación inmediata a los actores a través de silencios, risas o aplausos espontáneos. Esta comunión energética convierte cada función en un evento verdaderamente único, irrepetible y profundamente humano."
+    },
+    {
+        "intent_id": "teatro_teatro_sombras",
+        "keywords": [
+            "sombras",
+            "pantalla",
+            "siluetas",
+            "luz",
+            "ilusion",
+            "tradicion"
+        ],
+        "base_response": "El teatro de sombras es una antigua técnica narrativa que proyecta siluetas articuladas detrás de una pantalla iluminada. Mediante la manipulación precisa de figuras planas, los artistas crean imágenes sugerentes que estimulan fuertemente la imaginación del espectador, combinando folklore ancestral con una estética visual minimalista y altamente poética."
+    },
+    {
+        "intent_id": "teatro_cuarta_pared",
+        "keywords": [
+            "pared",
+            "ilusion",
+            "realismo",
+            "convencion",
+            "ficcion",
+            "ruptura"
+        ],
+        "base_response": "La cuarta pared es una convención teatral imaginaria que separa el escenario del auditorio, creando la ilusión de que los personajes viven su realidad sin observar al público. Romper esta barrera invisible, dirigiéndose directamente a la audiencia, involucra al espectador en la ficción narrativa y desafía los límites del realismo."
+    },
+    {
+        "intent_id": "teatro_monologo_reflexion",
+        "keywords": [
+            "monologo",
+            "discurso",
+            "soledad",
+            "reflexion",
+            "personaje",
+            "intimidad"
+        ],
+        "base_response": "El monólogo es una técnica dramática donde un personaje habla extensamente en solitario, revelando sus pensamientos, dudas y emociones más recónditas. Permite al espectador acceder a la intimidad psicológica del individuo, comprender sus motivaciones internas profundas y seguir el flujo complejo de su conciencia durante momentos de alta tensión."
+    },
+    {
+        "intent_id": "teatro_regidor_coordinacion",
+        "keywords": [
+            "regidor",
+            "funcion",
+            "coordinacion",
+            "cues",
+            "backstage",
+            "orden"
+        ],
+        "base_response": "El regidor o director de escena operativo controla el espectáculo durante las funciones, coordinando entradas de actores, cambios de decorado y ejecutando las señales precisas de luces y sonido. Su máxima concentración y liderazgo organizativo en el backstage aseguran que la representación fluya sin interrupciones técnicas ni accidentes escénicos."
+    },
+    {
+        "intent_id": "teatro_acotaciones_texto",
+        "keywords": [
+            "acotaciones",
+            "dramaturgo",
+            "instrucciones",
+            "lectura",
+            "acciones",
+            "texto"
+        ],
+        "base_response": "Las acotaciones son instrucciones detalladas que el dramaturgo incluye en el texto teatral, indicando movimientos, tonos de voz, expresiones faciales y descripciones espaciales. Estas pautas escritas, que generalmente no se pronuncian durante la representación, son vitales para guiar al equipo artístico en la correcta interpretación y visualización de la obra."
+    },
+    {
+        "intent_id": "teatro_teatro_calle",
+        "keywords": [
+            "calle",
+            "espacio",
+            "publico",
+            "intervencion",
+            "sorpresa",
+            "accesibilidad"
+        ],
+        "base_response": "El teatro de calle saca la representación de los recintos cerrados para intervenir plazas y espacios urbanos cotidianos. Esta modalidad busca democratizar el acceso cultural, sorprendiendo a los transeúntes con espectáculos vibrantes que interactúan directamente con el entorno arquitectónico y fomentan una participación ciudadana espontánea y muy dinámica."
+    },
+    {
+        "intent_id": "teatro_absurdo",
+        "keywords": [
+            "absurdo",
+            "sentido",
+            "existencia",
+            "logica",
+            "incomunicacion"
+        ],
+        "base_response": "El teatro del absurdo rechaza las convenciones dramáticas tradicionales para explorar la falta de sentido en la existencia humana. Mediante diálogos ilógicos, situaciones repetitivas y personajes desorientados, estos dramaturgos ilustran la profunda incomunicación y el vacío existencial, desafiando al espectador a encontrar significado en un universo caótico."
+    },
+    {
+        "intent_id": "teatro_fisico",
+        "keywords": [
+            "cuerpo",
+            "movimiento",
+            "fisico",
+            "narrativa",
+            "visual"
+        ],
+        "base_response": "El teatro físico prioriza el cuerpo del intérprete como principal herramienta narrativa, superando al texto hablado. Integrando acrobacias, danza y gestos altamente codificados, esta forma escénica expresa emociones abstractas y conceptos poéticos, requiriendo un rigor atlético extraordinario y una capacidad expresiva puramente visual por parte de los intérpretes."
+    },
+    {
+        "intent_id": "teatro_epico",
+        "keywords": [
+            "epico",
+            "distanciamiento",
+            "critica",
+            "politica",
+            "reflexion"
+        ],
+        "base_response": "El teatro épico busca provocar la reflexión racional del público en lugar de la inmersión emocional. Utilizando técnicas de distanciamiento, canciones intercaladas y escenarios visibles, el dramaturgo interrumpe la ilusión teatral constante, obligando al espectador a analizar críticamente las injusticias sociales y políticas que la obra expone sin tapujos."
+    },
+    {
+        "intent_id": "teatro_melodrama",
+        "keywords": [
+            "melodrama",
+            "emocion",
+            "exageracion",
+            "moralidad",
+            "musica"
+        ],
+        "base_response": "El melodrama es un género dramático caracterizado por personajes arquetípicos, emociones exageradas y tramas centradas en conflictos morales sumamente claros entre el bien y el mal. Originalmente acompañado de música incidental para subrayar los sentimientos, busca manipular emocionalmente al público garantizando generalmente un final justo y restaurador del orden."
+    },
+    {
+        "intent_id": "teatro_farsa",
+        "keywords": [
+            "farsa",
+            "ridiculo",
+            "situaciones",
+            "enredo",
+            "comedia"
+        ],
+        "base_response": "La farsa es un estilo cómico que basa su humor en situaciones altamente improbables, malentendidos absurdos y enredos acelerados. A través de caracterizaciones caricaturescas y un ritmo físico vertiginoso, este subgénero persigue la risa rápida y desinhibida del público, obviando la profundidad psicológica en favor del puro entretenimiento escénico."
+    },
+    {
+        "intent_id": "teatro_tragedia_moderna",
+        "keywords": [
+            "tragedia",
+            "moderna",
+            "realismo",
+            "sociedad",
+            "cotidianidad"
+        ],
+        "base_response": "La tragedia moderna desplaza a los reyes y dioses para enfocarse en personas comunes enfrentando fuerzas sociales, económicas o psicológicas abrumadoras. Retratando la cotidianidad con un crudo realismo, explora cómo el individuo ordinario puede ser aplastado por su entorno, generando empatía genuina hacia el sufrimiento contemporáneo y cercano."
+    },
+    {
+        "intent_id": "teatro_didactico",
+        "keywords": [
+            "didactico",
+            "ensenanza",
+            "leccion",
+            "valores",
+            "educacion"
+        ],
+        "base_response": "El teatro didáctico se diseña explícitamente con un propósito pedagógico o moralizante. Utilizando narrativas claras y personajes representativos, busca enseñar lecciones éticas, explicar procesos históricos o fomentar valores ciudadanos en el público, convirtiendo el espacio escénico en una valiosa y efectiva aula de educación alternativa y comunitaria."
+    },
+    {
+        "intent_id": "teatro_ritual",
+        "keywords": [
+            "ritual",
+            "mito",
+            "sagrado",
+            "comunidad",
+            "simbolo"
+        ],
+        "base_response": "El teatro ritual conecta la representación escénica con sus orígenes ceremoniales primitivos. Utilizando cantos, danzas repetitivas y símbolos mitológicos profundos, busca evocar fuerzas primigenias y facilitar una experiencia compartida cuasi religiosa, renovando los lazos espirituales y culturales que unen fuertemente a toda la comunidad participante y observadora."
+    },
+    {
+        "intent_id": "teatro_psicodrama",
+        "keywords": [
+            "psicodrama",
+            "terapia",
+            "emociones",
+            "sanacion",
+            "catarsis"
+        ],
+        "base_response": "El psicodrama aplica técnicas teatrales con fines estrictamente terapéuticos, permitiendo a los participantes escenificar conflictos personales o traumas pasados en un entorno protegido. Dirigido por profesionales, facilita una catarsis emocional profunda y promueve el autoconocimiento reflexivo, demostrando el inmenso poder curativo y transformador del juego dramático guiado y respetuoso."
+    },
+    {
+        "intent_id": "teatro_lectura_dramatizada",
+        "keywords": [
+            "lectura",
+            "atril",
+            "texto",
+            "voces",
+            "imaginacion"
+        ],
+        "base_response": "La lectura dramatizada presenta una obra mediante intérpretes que leen el texto desde atriles, enfocando toda la atención artística exclusivamente en la interpretación vocal. Al prescindir de escenografía compleja o memorización, resalta la riqueza literaria del dramaturgo y estimula la imaginación activa del público para construir mentalmente el espectáculo."
+    },
+    {
+        "intent_id": "teatro_vanguardia",
+        "keywords": [
+            "vanguardia",
+            "experimentacion",
+            "ruptura",
+            "innovacion",
+            "limites"
+        ],
+        "base_response": "El teatro de vanguardia se caracteriza por su constante experimentación formal y su rechazo desafiante a las tradiciones escénicas consolidadas. Innovando en la estructura dramática, el uso del espacio y la tecnología, estos movimientos artísticos buscan expandir radicalmente los límites estéticos y conceptuales de lo que consideramos arte teatral contemporáneo."
+    },
+    {
+        "intent_id": "teatro_documental",
+        "keywords": [
+            "documental",
+            "hechos",
+            "testimonios",
+            "realidad",
+            "investigacion"
+        ],
+        "base_response": "El teatro documental construye su dramaturgia utilizando estrictamente material histórico auténtico, como transcripciones de juicios, entrevistas reales o documentos oficiales. Al escenificar hechos verídicos con rigor investigativo, ofrece una mirada crítica sobre eventos políticos y sociales recientes, desafiando la frontera entre el periodismo investigativo y la representación artística pura."
+    },
+    {
+        "intent_id": "teatro_infantil",
+        "keywords": [
+            "infantil",
+            "ninos",
+            "juego",
+            "imaginacion",
+            "valores"
+        ],
+        "base_response": "El teatro infantil se crea específicamente para atrapar la atención y sensibilidad de los niños. Mediante colores vibrantes, narrativas dinámicas, música alegre e interactividad lúdica, fomenta el desarrollo cognitivo y emocional de los menores, inculcando valores formativos fundamentales mientras los introduce tempranamente al mágico universo de las artes escénicas."
+    },
+    {
+        "intent_id": "teatro_commedia_dellarte",
+        "keywords": [
+            "comedia",
+            "mascaras",
+            "arquetipos",
+            "italia",
+            "improvisacion"
+        ],
+        "base_response": "La Commedia dell'arte, nacida en Italia durante el Renacimiento, se basaba fuertemente en la improvisación sobre estructuras argumentales fijas. Utilizando medias máscaras de cuero y arquetipos sociales reconocibles, actores sumamente virtuosos combinaban acrobacias físicas, sátira ingeniosa y agilidad verbal para cautivar exitosamente a públicos populares de toda Europa continental."
+    },
+    {
+        "intent_id": "teatro_coro_griego",
+        "keywords": [
+            "coro",
+            "comunidad",
+            "canto",
+            "comentario",
+            "tragedia"
+        ],
+        "base_response": "El coro en el teatro griego antiguo funcionaba como la voz representativa de la comunidad ciudadana frente a los héroes. Mediante cantos líricos y danzas circulares, comentaban las acciones dramáticas, proporcionaban contexto histórico y expresaban las advertencias morales que guiaban la interpretación emocional e intelectual de todo el público espectador."
+    },
+    {
+        "intent_id": "teatro_escenografo",
+        "keywords": [
+            "escenografo",
+            "dibujo",
+            "maquetas",
+            "construccion",
+            "visual"
+        ],
+        "base_response": "El escenógrafo diseña cuidadosamente el entorno físico donde transcurre la obra dramática, traduciendo conceptos abstractos en espacios tangibles. A través de bocetos artísticos y maquetas a escala, guía la construcción de escenarios que enmarcan la acción e impulsan el impacto visual de toda la representación para fascinar al público asistente."
+    },
+    {
+        "intent_id": "teatro_dramaturgo",
+        "keywords": [
+            "dramaturgo",
+            "escritor",
+            "letras",
+            "creacion",
+            "personajes"
+        ],
+        "base_response": "El dramaturgo es el arquitecto literario que da vida inicial a una obra de teatro. Explorando conflictos humanos, redacta diálogos intensos y estructura escenas dinámicas, creando un plano textual robusto que luego los directores y actores interpretarán y transformarán sobre el escenario para comunicar profundos mensajes a toda la audiencia."
+    },
+    {
+        "intent_id": "teatro_tecnico_luces",
+        "keywords": [
+            "tecnico",
+            "luces",
+            "focos",
+            "mesa",
+            "programacion"
+        ],
+        "base_response": "El técnico de iluminación opera consolas de control durante la función teatral, asegurando que cada cambio lumínico ocurra en el instante exacto. Su conocimiento especializado sobre óptica y programación es fundamental para ejecutar fielmente el diseño artístico y mantener la magia atmosférica del espectáculo frente a los espectadores maravillados."
+    },
+    {
+        "intent_id": "teatro_coreografo",
+        "keywords": [
+            "coreografo",
+            "danza",
+            "movimiento",
+            "cuerpo",
+            "espacio"
+        ],
+        "base_response": "El coreógrafo diseña y organiza secuencias elaboradas de movimiento para el escenario. Comprendiendo la relación entre música, espacio físico y capacidades anatómicas, instruye a los intérpretes en rutinas que embellecen la obra dramática, dotando a la representación de un asombroso dinamismo escénico que cautiva poderosamente a todos los asistentes presentes."
+    },
+    {
+        "intent_id": "teatro_caracterizacion",
+        "keywords": [
+            "caracterizacion",
+            "actitud",
+            "postura",
+            "cuerpo",
+            "transformacion"
+        ],
+        "base_response": "La caracterización exige que el actor altere su fisiología, adoptando posturas y ritmos distintos para encarnar al personaje. Este meticuloso proceso físico y psicológico permite que el público olvide al intérprete real y crea verdaderamente en la ilusión generada por esta nueva personalidad escénica, logrando una conexión emocional profundamente genuina."
+    },
+    {
+        "intent_id": "teatro_proscenio",
+        "keywords": [
+            "proscenio",
+            "arco",
+            "marco",
+            "clasico",
+            "frente"
+        ],
+        "base_response": "El escenario de proscenio, modelo arquitectónico tradicional, enmarca la acción escénica mediante un gran arco estructural. Este formato clásico establece una división frontal entre actores y audiencia, favoreciendo grandiosas ilusiones ópticas bidimensionales y permitiendo ocultar fácilmente la maquinaria escénica compleja para no quebrar la magia inmersiva de la representación teatral."
+    },
+    {
+        "intent_id": "teatro_arena",
+        "keywords": [
+            "arena",
+            "circular",
+            "gradas",
+            "espectadores",
+            "inmersion"
+        ],
+        "base_response": "El teatro en arena posiciona el escenario en el centro absoluto, rodeado completamente por espectadores en todas las direcciones posibles. Esta configuración arquitectónica desafía fuertemente a directores y actores, quienes deben moverse estratégicamente para asegurar visibilidad total, generando a cambio una experiencia íntima de conexión emocional única y muy profunda."
+    },
+    {
+        "intent_id": "teatro_camerino",
+        "keywords": [
+            "camerino",
+            "preparacion",
+            "maquillaje",
+            "concentracion",
+            "espacio"
+        ],
+        "base_response": "El camerino es un espacio privado del actor, esencial previo a la función. Allí se realiza el proceso físico del vestuario y maquillaje artístico de calidad, acompañado siempre de una intensa concentración psicológica. Esta importante rutina resulta ser completamente fundamental para asumir de manera total cualquier complejo personaje dramático."
+    },
+    {
+        "intent_id": "teatro_telon",
+        "keywords": [
+            "telon",
+            "apertura",
+            "cierre",
+            "misterio",
+            "expectativa"
+        ],
+        "base_response": "El telón es un valioso lienzo que oculta el escenario antes del inicio de cualquier obra. Su apertura genera una inmensa expectativa en el patio de butacas, revelando de forma mágica mundos ilusorios asombrosos, mientras que su caída final cierra la narrativa y genera hermosos y muy emotivos aplausos sinceros."
+    },
+    {
+        "intent_id": "teatro_tramoya",
+        "keywords": [
+            "tramoya",
+            "maquinaria",
+            "poleas",
+            "cambios",
+            "oculto"
+        ],
+        "base_response": "La tramoya engloba todo el sistema mecánico de poleas y varas suspendidas sobre el escenario teatral. Operada hábilmente por maquinistas desde altas galerías, permite realizar cambios escenográficos veloces, elevando telones o moviendo pesados elementos decorativos sin interrumpir el ritmo inmersivo de la obra, manteniendo intacta la ilusión dramática del momento."
+    },
+    {
+        "intent_id": "teatro_utilero",
+        "keywords": [
+            "utilero",
+            "objetos",
+            "cuidado",
+            "detalle",
+            "manipulacion"
+        ],
+        "base_response": "El utilero gestiona pacientemente la adquisición, el mantenimiento y la distribución exacta de todos los objetos manejados por el elenco. Su labor minuciosa asegura que utilerías importantes estén siempre en su posición correcta antes de cada escena, garantizando el desarrollo fluido y realista de toda la acción escénica minuciosamente planificada."
+    },
+    {
+        "intent_id": "teatro_climax",
+        "keywords": [
+            "climax",
+            "tension",
+            "resolucion",
+            "conflicto",
+            "cumbre"
+        ],
+        "base_response": "El clímax representa el punto de máxima tensión dramática dentro de una representación teatral. Es el instante crucial donde las fuerzas antagónicas chocan frontalmente y el destino de los protagonistas se decide, liberando una energía cautivadora que precede directamente a la necesaria resolución narrativa, marcando profundamente al espectador con asombro."
+    },
+    {
+        "intent_id": "teatro_catastrofe",
+        "keywords": [
+            "catastrofe",
+            "desenlace",
+            "caida",
+            "tragedia",
+            "destino"
+        ],
+        "base_response": "En la dramaturgia trágica clásica, la catástrofe marca el desenlace fatídico que destruye al protagonista heroico. Esta resolución devastadora concluye implacablemente la intriga dramática, subrayando la superioridad invencible del destino inclemente o evidenciando trágicamente las fallas humanas irremediables, provocando así una profunda conmoción reflexiva en todos los espectadores atentos presentes."
+    },
+    {
+        "intent_id": "teatro_director_musical",
+        "keywords": [
+            "director",
+            "musical",
+            "orquesta",
+            "canto",
+            "batuta"
+        ],
+        "base_response": "El director musical lidera a los instrumentistas y entrena vocalmente al elenco en complejas producciones de teatro musical. Con extrema precisión rítmica, su batuta sincroniza la interpretación sonora en vivo con la acción del escenario, asegurando que la intensidad melódica acompañe perfectamente la cadencia emocional del espectáculo logrando resultados asombrosos."
+    },
+    {
+        "intent_id": "teatro_libretista",
+        "keywords": [
+            "libretista",
+            "texto",
+            "letras",
+            "canciones",
+            "musical"
+        ],
+        "base_response": "El libretista escribe los diálogos hablados y concibe la estructura narrativa fundamental de un espectáculo musical. Trabajando íntimamente con compositores y letristas geniales, asegura que las fluidas transiciones entre las escenas dramáticas y los vibrantes números coreográficos funcionen orgánicamente, impulsando maravillosamente todo el arco de desarrollo de los fascinantes personajes."
+    },
+    {
+        "intent_id": "teatro_pantallas",
+        "keywords": [
+            "pantallas",
+            "proyeccion",
+            "digital",
+            "tecnologia",
+            "visual"
+        ],
+        "base_response": "La moderna integración de pantallas digitales revoluciona por completo toda escenografía contemporánea. Estas increíbles tecnologías lumínicas permiten transformar instantáneamente variados ambientes visuales escénicos, proyectar hermosos fondos fotorrealistas asombrosos e ilustrar pensamientos complejos con notable fidelidad, logrando expandir fuertemente las valiosas posibilidades narrativas disponibles hoy dentro de un clásico escenario teatral."
+    },
+    {
+        "intent_id": "teatro_biomecanica",
+        "keywords": [
+            "biomecanica",
+            "entrenamiento",
+            "cuerpo",
+            "mecanismo",
+            "energia"
+        ],
+        "base_response": "La importante biomecánica teatral resulta ser un exigente y riguroso sistema que concibe el valioso cuerpo humano como un perfecto mecanismo. Mediante secuencias acrobáticas extremas, dota al intérprete de una increíble precisión técnica, logrando comunicar intensas emociones profundas utilizando únicamente acciones físicas calculadas de manera magistral y muy rigurosa siempre."
+    },
+    {
+        "intent_id": "teatro_stanislavski",
+        "keywords": [
+            "metodo",
+            "memoria",
+            "emocion",
+            "realidad",
+            "psicologia"
+        ],
+        "base_response": "El sistema de Stanislavski revolucionó la actuación teatral al exigir una profunda verdad psicológica durante la interpretación dramática. Fomenta que el intérprete utilice su memoria afectiva personal y analice exhaustivamente motivaciones internas, logrando actuaciones excepcionalmente orgánicas, creíbles y alejadas totalmente de la clásica declamación superficial característica de tiempos artísticos anteriores."
+    },
+    {
+        "intent_id": "teatro_clown",
+        "keywords": [
+            "clown",
+            "payaso",
+            "vulnerabilidad",
+            "risa",
+            "fracaso"
+        ],
+        "base_response": "La técnica escénica del clown explora nuestra vulnerabilidad constante, mediante una valiente aceptación del fracaso propio. Buscando incansablemente lograr alguna conexión empática con el público expectante, este intérprete revela su tierna humanidad siempre con la esperanza de desatar maravillosas carcajadas sanadoras que unan afectuosamente a todos los individuos presentes."
+    },
+    {
+        "intent_id": "teatro_foro",
+        "keywords": [
+            "foro",
+            "opresion",
+            "intervencion",
+            "espectador",
+            "cambio"
+        ],
+        "base_response": "El valioso teatro foro sirve como excelente herramienta dinámica, sociopolítica y también interactiva; donde se invita a espectadores audaces para interrumpir representaciones dramáticas de manera repentina. Todo esto ayuda eficazmente siempre a practicar valientes alternativas de soluciones justas frente a cualquier posible opresión injusta y abusiva evidenciada socialmente."
+    },
+    {
+        "intent_id": "teatro_bufon",
+        "keywords": [
+            "bufon",
+            "burla",
+            "poder",
+            "grotesco",
+            "critica"
+        ],
+        "base_response": "El bufón teatral encarna una figura marginal que, a través de la burla extrema y un físico intencionadamente grotesco, se atreve a criticar abiertamente a las altas esferas del poder establecido. Protegido por su supuesta locura o deformidad, este personaje revela verdades incómodas y destapa hipocresías sociales de forma mordaz."
+    },
+    {
+        "intent_id": "teatro_coro",
+        "keywords": [
+            "coro",
+            "voces",
+            "conjunto",
+            "comentario",
+            "tragedia"
+        ],
+        "base_response": "El coro clásico funciona como una entidad colectiva unificada que comenta, reacciona y reflexiona sobre las acciones principales de los protagonistas dramáticos. A través de recitaciones conjuntas, cantos y movimientos coreográficos sincronizados, esta agrupación aporta contexto histórico, advertencias morales y una profunda dimensión filosófica a la representación escénica global."
+    },
+    {
+        "intent_id": "teatro_mascara",
+        "keywords": [
+            "mascara",
+            "ocultacion",
+            "arquetipo",
+            "transformacion",
+            "rostro"
+        ],
+        "base_response": "El uso de la máscara en escena anula las expresiones faciales individuales del intérprete para imponer una identidad arquetípica fija y universal. Esta herramienta transformadora obliga al actor a comunicar todas las emociones exclusivamente mediante la tensión, el ángulo y el movimiento preciso de todo su cuerpo físico visible."
+    },
+    {
+        "intent_id": "teatro_iluminador",
+        "keywords": [
+            "iluminador",
+            "focos",
+            "color",
+            "atmosfera",
+            "diseno"
+        ],
+        "base_response": "El diseñador de iluminación crea minuciosamente el paisaje lumínico de la obra, seleccionando colores, intensidades y ángulos específicos para cada foco. Su trabajo artístico es crucial para dirigir la atención visual del espectador, establecer la hora del día escénica y potenciar enormemente el clima emocional de cada momento dramático."
+    },
+    {
+        "intent_id": "teatro_vestuarista",
+        "keywords": [
+            "vestuarista",
+            "telas",
+            "ropa",
+            "personaje",
+            "diseno"
+        ],
+        "base_response": "El diseñador de vestuario investiga y elabora la indumentaria completa de todos los personajes, considerando tanto la precisión histórica como la funcionalidad física. A través de texturas, cortes y colores específicos, estas prendas comunican instantáneamente el estatus social, la personalidad y el estado psicológico del personaje al público atento."
+    },
+    {
+        "intent_id": "teatro_maquillador",
+        "keywords": [
+            "maquillador",
+            "rostro",
+            "caracterizacion",
+            "luces",
+            "expresion"
+        ],
+        "base_response": "El maquillador profesional aplica técnicas especializadas para modificar el rostro de los actores, asegurando que las expresiones faciales sean claramente legibles bajo la intensa iluminación teatral. Desde realzar sutilmente las facciones naturales hasta crear envejecimientos complejos o criaturas fantásticas, su labor es esencial para completar visualmente al personaje encarnado."
+    },
+    {
+        "intent_id": "teatro_apuntador",
+        "keywords": [
+            "apuntador",
+            "concha",
+            "texto",
+            "olvido",
+            "ayuda"
+        ],
+        "base_response": "El apuntador tradicional, a menudo ubicado en una pequeña concha frontal oculta al público, asiste discretamente a los actores susurrando las líneas del texto en caso de lapsus de memoria. Aunque su figura ha disminuido con las nuevas metodologías de ensayo, históricamente fue un salvavidas vital durante funciones largas."
+    },
+    {
+        "intent_id": "teatro_acomodador",
+        "keywords": [
+            "acomodador",
+            "sala",
+            "butacas",
+            "publico",
+            "asistencia"
+        ],
+        "base_response": "El acomodador es el profesional encargado de recibir cordialmente al público en la sala, revisar sus entradas y guiarlos amablemente hasta sus butacas correspondientes. Su presencia atenta garantiza un ingreso fluido y ordenado, resolviendo dudas y asegurando que los espectadores estén cómodamente instalados antes del inicio del espectáculo escénico."
+    },
+    {
+        "intent_id": "teatro_taquillero",
+        "keywords": [
+            "taquillero",
+            "boletos",
+            "venta",
+            "publico",
+            "informacion"
+        ],
+        "base_response": "El taquillero gestiona la venta directa de boletos y proporciona información esencial sobre horarios, precios y disponibilidad de asientos a todos los asistentes. Como primer punto de contacto humano en el recinto, su trato cordial y eficiencia administrativa resultan fundamentales para brindar una excelente experiencia inicial al público teatral."
+    },
+    {
+        "intent_id": "teatro_ensayo_general",
+        "keywords": [
+            "ensayo",
+            "general",
+            "estreno",
+            "vestuario",
+            "luces"
+        ],
+        "base_response": "El ensayo general es la última y definitiva prueba completa del espectáculo escénico antes del gran día de estreno oficial. Se ejecuta ininterrumpidamente de principio a fin, incorporando todo el vestuario, luces, sonido y escenografía, simulando condiciones absolutamente reales para pulir minuciosamente cualquier detalle técnico o artístico pendiente aún."
+    },
+    {
+        "intent_id": "teatro_ensayo_italiana",
+        "keywords": [
+            "ensayo",
+            "italiana",
+            "texto",
+            "velocidad",
+            "memoria"
+        ],
+        "base_response": "El ensayo a la italiana es una técnica de preparación donde el elenco recita todos los diálogos de la obra a extrema velocidad y sin ninguna intención emocional o movimiento. Este ejercicio riguroso busca asegurar la perfecta memorización mecánica del texto, garantizando que las réplicas fluyan instintivamente durante las funciones."
+    },
+    {
+        "intent_id": "teatro_lectura_mesa",
+        "keywords": [
+            "lectura",
+            "mesa",
+            "elenco",
+            "texto",
+            "analisis"
+        ],
+        "base_response": "La lectura de mesa marca el inicio formal de los ensayos, donde todo el elenco se reúne para leer colectivamente el texto en voz alta por primera vez. Durante esta fase crucial, el director comparte su visión inicial, se analizan motivaciones complejas y se debaten abiertamente los arcos de personajes."
+    },
+    {
+        "intent_id": "teatro_bloqueo_escenico",
+        "keywords": [
+            "bloqueo",
+            "posiciones",
+            "movimiento",
+            "ensayo",
+            "espacio"
+        ],
+        "base_response": "El bloqueo escénico es la fase del ensayo donde el director establece meticulosamente todas las posiciones y desplazamientos físicos de los actores sobre el escenario. Se marcan las entradas, salidas y cruces específicos, creando una coreografía espacial precisa que asegura una composición visual armoniosa y funcional para la narrativa."
+    },
+    {
+        "intent_id": "teatro_marca_suelo",
+        "keywords": [
+            "marca",
+            "suelo",
+            "cinta",
+            "posicion",
+            "referencia"
+        ],
+        "base_response": "Las marcas en el suelo son pequeñas referencias visuales, generalmente hechas con cinta adhesiva de colores, colocadas estratégicamente sobre el escenario. Sirven para indicar a los actores sus posiciones exactas durante escenas críticas o para señalar la ubicación precisa donde debe colocarse un elemento específico de utilería o mobiliario."
+    },
+    {
+        "intent_id": "teatro_mutis",
+        "keywords": [
+            "mutis",
+            "salida",
+            "actor",
+            "escena",
+            "silencio"
+        ],
+        "base_response": "El mutis es la acción específica por la cual un personaje abandona el espacio escénico visible para retirarse a las zonas ocultas entre bambalinas. Un mutis bien ejecutado puede tener un alto impacto dramático, marcando finales de escenas intensas o señalando transiciones importantes en el desarrollo de la trama."
+    },
+    {
+        "intent_id": "teatro_aparte",
+        "keywords": [
+            "aparte",
+            "texto",
+            "publico",
+            "secreto",
+            "convencion"
+        ],
+        "base_response": "El aparte es una convención dramática donde un personaje expresa sus pensamientos íntimos en voz alta dirigiéndose directamente al público, asumiendo que los demás personajes en escena no pueden escucharlo. Esta técnica genera complicidad, revelando motivaciones secretas u ofreciendo comentarios irónicos sobre la situación dramática que se está desarrollando."
+    },
+    {
+        "intent_id": "teatro_monologo_interior",
+        "keywords": [
+            "monologo",
+            "interior",
+            "pensamiento",
+            "flujo",
+            "conciencia"
+        ],
+        "base_response": "El monólogo interior en escena representa la verbalización directa del flujo continuo de conciencia de un personaje. A diferencia de un discurso estructurado, busca imitar la naturaleza caótica, fragmentada e impulsiva del pensamiento humano real, exponiendo las dudas más profundas y las emociones no filtradas del individuo atormentado."
+    },
+    {
+        "intent_id": "teatro_dialogo_picado",
+        "keywords": [
+            "dialogo",
+            "picado",
+            "ritmo",
+            "rapidez",
+            "interrupcion"
+        ],
+        "base_response": "El diálogo picado o superpuesto se caracteriza por réplicas extremadamente breves y veloces entre dos o más personajes, quienes a menudo interrumpen las frases del otro. Esta técnica acelera drásticamente el ritmo de la escena, generando una sensación de urgencia vital, nerviosismo agudo o un intenso e irresoluble conflicto emocional."
+    },
+    {
+        "intent_id": "teatro_silencio_dramatico",
+        "keywords": [
+            "silencio",
+            "pausa",
+            "tension",
+            "significado",
+            "omision"
+        ],
+        "base_response": "El silencio dramático es una pausa prolongada e intencional en el flujo del diálogo o la acción escénica. Lejos de ser un vacío, este silencio está cargado de un profundo significado subtextual, permitiendo que la tensión crezca exponencialmente y que las emociones no expresadas verbalmente resuenen poderosamente en el auditorio."
+    },
+    {
+        "intent_id": "teatro_subtexto",
+        "keywords": [
+            "subtexto",
+            "significado",
+            "oculto",
+            "intencion",
+            "palabra"
+        ],
+        "base_response": "El subtexto es el significado real, a menudo no verbalizado u oculto, que subyace bajo las líneas habladas del diálogo. Los actores deben investigar profundamente este contenido implícito para interpretar verdaderamente la intención, el deseo o el miedo reprimido que impulsa al personaje a decir determinadas palabras aparentemente banales."
+    },
+    {
+        "intent_id": "teatro_catarsis_publico",
+        "keywords": [
+            "catarsis",
+            "purificacion",
+            "emocion",
+            "publico",
+            "liberacion"
+        ],
+        "base_response": "La catarsis representa el momento de purificación o liberación emocional profunda que experimenta el espectador al presenciar el sufrimiento y la resolución del conflicto dramático en escena. Este proceso psicológico, central en la teoría aristotélica, permite a la audiencia confrontar sus propios temores y compasión de manera segura y sanadora."
+    },
+    {
+        "intent_id": "teatro_anagnorisis",
+        "keywords": [
+            "anagnorisis",
+            "reconocimiento",
+            "verdad",
+            "revelacion",
+            "identidad"
+        ],
+        "base_response": "La anagnórisis es el momento crucial en una obra dramática donde el protagonista pasa dramáticamente de la total ignorancia al conocimiento revelador. Este instante de reconocimiento repentino de la propia identidad, del destino ineludible o de la verdadera naturaleza de otro personaje altera permanentemente el curso de toda la historia."
+    },
+    {
+        "intent_id": "teatro_peripecia",
+        "keywords": [
+            "peripecia",
+            "giro",
+            "suerte",
+            "fortuna",
+            "destino"
+        ],
+        "base_response": "La peripecia es un repentino y drástico giro en las circunstancias o la fortuna del personaje principal, a menudo pasando de un estado de aparente éxito a la ruina total. Este cambio inesperado en la dirección de la trama revitaliza el interés del público y precipita la resolución dramática final."
+    },
+    {
+        "intent_id": "teatro_deus_ex_machina",
+        "keywords": [
+            "dios",
+            "maquina",
+            "resolucion",
+            "artificial",
+            "conflicto"
+        ],
+        "base_response": "El concepto de Deus ex machina describe la introducción repentina e inesperada de una fuerza externa, improbable o divina, que resuelve mágicamente un conflicto dramático aparentemente irresoluble. Originalmente referida a grúas que bajaban dioses al escenario, hoy señala resoluciones narrativas que carecen de justificación lógica dentro de la propia trama."
+    },
+    {
+        "intent_id": "teatro_prologo",
+        "keywords": [
+            "prologo",
+            "introduccion",
+            "contexto",
+            "inicio",
+            "obra"
+        ],
+        "base_response": "El prólogo es una sección introductoria que precede al inicio de la acción dramática principal. Su función es establecer el contexto histórico fundamental, proporcionar antecedentes esenciales sobre los personajes protagonistas o exponer directamente el tema central de la obra, preparando intelectual y emocionalmente al espectador para la representación inminente."
+    },
+    {
+        "intent_id": "teatro_epilogo",
+        "keywords": [
+            "epilogo",
+            "conclusion",
+            "cierre",
+            "mensaje",
+            "final"
+        ],
+        "base_response": "El epílogo es un discurso o escena final que se presenta tras la resolución del conflicto dramático principal. A menudo utilizado para atar cabos sueltos, reflexionar sobre las consecuencias morales de los eventos mostrados o dirigirse directamente a la audiencia para solicitar su aprobación y aplauso al terminar la representación."
+    },
+    {
+        "intent_id": "teatro_entreacto",
+        "keywords": [
+            "entreacto",
+            "pausa",
+            "descanso",
+            "cambio",
+            "funcion"
+        ],
+        "base_response": "El entreacto es la pausa temporal programada entre las diferentes secciones o actos de una representación teatral. Este descanso permite al público salir de la sala brevemente, mientras que en el escenario se aprovecha para realizar cambios complejos de escenografía, iluminación o grandes modificaciones en el vestuario de los actores."
+    },
+    {
+        "intent_id": "teatro_bambalinas",
+        "keywords": [
+            "bambalinas",
+            "ocultacion",
+            "techo",
+            "espacio",
+            "tela"
+        ],
+        "base_response": "Las bambalinas son largas tiras de tela suspendidas horizontalmente desde el techo del escenario, paralelas a la embocadura. Su función principal es ocultar la maquinaria escénica, los focos de iluminación superiores y las estructuras del telar de la vista directa del público, manteniendo intacta la magia y la ilusión teatral."
+    },
+    {
+        "intent_id": "teatro_ciclorama",
+        "keywords": [
+            "ciclorama",
+            "fondo",
+            "curvo",
+            "luz",
+            "ilusion"
+        ],
+        "base_response": "El ciclorama es un gran telón de fondo continuo, a menudo cóncavo, situado en la parte posterior del escenario. Principalmente se utiliza para ser iluminado con diferentes colores o proyecciones, creando la poderosa ilusión óptica de un cielo infinito, un paisaje distante o un espacio dramático sumamente vasto e inabarcable."
+    },
+    {
+        "intent_id": "teatro_escotillon",
+        "keywords": [
+            "escotillon",
+            "trampa",
+            "suelo",
+            "aparicion",
+            "sorpresa"
+        ],
+        "base_response": "El escotillón es una puerta trampa camuflada en el suelo del escenario que permite el acceso rápido al foso inferior. Se utiliza dramáticamente para realizar apariciones o desapariciones sorprendentes de personajes, objetos misteriosos o criaturas fantásticas, añadiendo un elemento de asombro y magia técnica a la representación teatral visual."
+    },
+    {
+        "intent_id": "teatro_platea",
+        "keywords": [
+            "platea",
+            "patio",
+            "butacas",
+            "planta",
+            "espectadores"
+        ],
+        "base_response": "La platea o patio de butacas es la zona principal de asientos destinada al público, situada en la planta baja del teatro frente al escenario. Tradicionalmente ofrece las vistas más directas y frontales de la representación, siendo el área más amplia y densamente poblada de todo el recinto arquitectónico teatral."
+    },
+    {
+        "intent_id": "teatro_palco",
+        "keywords": [
+            "palco",
+            "balcon",
+            "privado",
+            "asientos",
+            "elevado"
+        ],
+        "base_response": "Los palcos son compartimentos cerrados y ligeramente elevados, ubicados en los laterales o pisos superiores de la sala teatral, que albergan pequeños grupos de asientos privados. Históricamente, estos espacios otorgaban estatus social y privacidad a sus ocupantes, ofreciendo una perspectiva lateral y panorámica única sobre todo el acontecimiento escénico desarrollado."
+    },
+    {
+        "intent_id": "teatro_tecnica_meisner",
+        "keywords": [
+            "tecnica",
+            "meisner",
+            "escucha",
+            "instinto",
+            "reaccion"
+        ],
+        "base_response": "La técnica de Sanford Meisner enfatiza la escucha activa y la reacción instintiva entre los actores. Eliminando la intelectualización excesiva, este método entrena al intérprete para responder impulsivamente al comportamiento de su compañero, logrando así actuaciones intensamente sinceras, espontáneas y profundamente conectadas con el momento presente."
+    },
+    {
+        "intent_id": "teatro_metodo_strasberg",
+        "keywords": [
+            "metodo",
+            "strasberg",
+            "memoria",
+            "sensorial",
+            "psicologia"
+        ],
+        "base_response": "El Método desarrollado por Lee Strasberg adapta las enseñanzas de Stanislavski, centrando el trabajo del actor en la memoria sensorial y afectiva. Los intérpretes evocan recuerdos personales dolorosos o intensos para experimentar emociones reales en escena, buscando un grado extremo de realismo psicológico en cada representación dramática."
+    },
+    {
+        "intent_id": "teatro_sistema_meyerhold",
+        "keywords": [
+            "sistema",
+            "meyerhold",
+            "movimiento",
+            "mecanica",
+            "geometria"
+        ],
+        "base_response": "Vsevolod Meyerhold revolucionó la dirección escénica priorizando el movimiento físico sobre el texto hablado. Su enfoque visual convierte el escenario en un espacio puramente geométrico donde los actores, entrenados como gimnastas expresivos, ejecutan acciones precisas y rítmicas para transmitir conceptos ideológicos o emocionales directamente al público observador."
+    },
+    {
+        "intent_id": "teatro_grotesco_criollo",
+        "keywords": [
+            "grotesco",
+            "criollo",
+            "inmigracion",
+            "fracaso",
+            "argentina"
+        ],
+        "base_response": "El grotesco criollo es un subgénero teatral argentino que refleja la amarga desilusión de los inmigrantes europeos. Mezclando humor negro y profunda desesperación, escenifica la miseria económica y el fracaso de las aspiraciones familiares dentro de conventillos oscuros, criticando fuertemente las duras realidades sociales de su época histórica."
+    },
+    {
+        "intent_id": "teatro_sainete",
+        "keywords": [
+            "sainete",
+            "costumbres",
+            "tipos",
+            "humor",
+            "popular"
+        ],
+        "base_response": "El sainete es una pieza teatral breve de carácter cómico y costumbrista, muy popular en España y Latinoamérica. Utiliza personajes arquetípicos y lenguaje coloquial para satirizar hábitos cotidianos de la clase trabajadora, sirviendo a menudo como un intermedio humorístico muy dinámico entre los actos de obras más largas."
+    },
+    {
+        "intent_id": "teatro_auto_sacramental",
+        "keywords": [
+            "auto",
+            "sacramental",
+            "alegoria",
+            "religion",
+            "dogma"
+        ],
+        "base_response": "El auto sacramental es una pieza dramática religiosa, típicamente española, escrita para ensalzar el misterio de la Eucaristía. Utilizando personajes fuertemente alegóricos como el Bien, el Mal o la Fe, estas obras instruían moralmente al pueblo llano sobre complejos dogmas católicos mediante un espectáculo visual sumamente elaborado."
+    },
+    {
+        "intent_id": "teatro_tragi_comedia",
+        "keywords": [
+            "tragicomedia",
+            "mezcla",
+            "tension",
+            "sonrisa",
+            "genero"
+        ],
+        "base_response": "La tragicomedia fusiona elementos trágicos y cómicos, rompiendo la estricta separación clásica de los géneros teatrales. Presenta situaciones de gran tensión dramática que se relajan mediante intervenciones humorísticas, reflejando fielmente la naturaleza ambivalente y compleja de la propia vida humana frente a los espectadores modernos y críticos."
+    },
+    {
+        "intent_id": "teatro_happening",
+        "keywords": [
+            "happening",
+            "evento",
+            "participacion",
+            "arte",
+            "imprevisible"
+        ],
+        "base_response": "El happening es un evento artístico multidisciplinario que rompe las fronteras entre creador, obra y espectador. Al exigir la participación activa y espontánea del público, estas acciones teatrales imprevisibles rechazan la idea del arte como un objeto cerrado, transformándolo en una experiencia efímera, provocativa y puramente vivencial."
+    },
+    {
+        "intent_id": "teatro_ilusionismo",
+        "keywords": [
+            "ilusionismo",
+            "magia",
+            "truco",
+            "enganio",
+            "asombro"
+        ],
+        "base_response": "El ilusionismo escénico combina habilidades teatrales, psicología y mecanismos ingeniosos para crear la apariencia de fenómenos imposibles o sobrenaturales. Los ilusionistas son actores especializados que dominan el arte de desviar la atención, construyendo narrativas llenas de asombro y misterio que desafían la lógica racional de todo su público."
+    },
+    {
+        "intent_id": "teatro_teatro_danza",
+        "keywords": [
+            "danza",
+            "coreografia",
+            "teatro",
+            "expresion",
+            "pina"
+        ],
+        "base_response": "El teatro danza, impulsado por figuras como Pina Bausch, borra la línea entre la actuación dramática y la expresión coreográfica. Los bailarines utilizan el movimiento corporal, gestos cotidianos y textos fragmentados para explorar traumas psicológicos y relaciones humanas, generando un lenguaje escénico visceral, poético e intensamente emotivo."
+    },
+    {
+        "intent_id": "teatro_kathakali",
+        "keywords": [
+            "kathakali",
+            "india",
+            "maquillaje",
+            "mudras",
+            "tradicion"
+        ],
+        "base_response": "El Kathakali es una forma clásica de danza-drama proveniente del sur de la India, célebre por sus elaborados maquillajes y suntuosos vestuarios. Los intérpretes relatan épicas hindúes utilizando un complejo vocabulario de gestos manuales precisos y expresiones faciales exageradas, acompañados siempre por músicos tradicionales en vivo."
+    },
+    {
+        "intent_id": "teatro_noh",
+        "keywords": [
+            "teatro",
+            "noh",
+            "japon",
+            "mascaras",
+            "estilizacion"
+        ],
+        "base_response": "El teatro Noh es una forma dramática clásica japonesa caracterizada por su extrema lentitud, estilización y el uso poético de máscaras de madera finamente talladas. Centrado en cuentos espirituales y fantasmas, busca transmitir una profunda emoción estética y melancólica, utilizando movimientos coreográficos altamente codificados y música tradicional milenaria."
+    },
+    {
+        "intent_id": "teatro_esperpento",
+        "keywords": [
+            "esperpento",
+            "valle",
+            "inclan",
+            "deformacion",
+            "critica"
+        ],
+        "base_response": "El esperpento es una estética teatral creada por Ramón María del Valle-Inclán, que busca criticar la realidad española mediante la deformación sistemática de personajes y valores. Tratando situaciones trágicas con un distanciamiento cruel e irónico, expone lo absurdo de la condición humana mediante imágenes grotescas y lenguajes desgarradores."
+    },
+    {
+        "intent_id": "teatro_marionetas_hilo",
+        "keywords": [
+            "marionetas",
+            "hilo",
+            "manipulacion",
+            "gravedad",
+            "artesania"
+        ],
+        "base_response": "Las marionetas de hilo son muñecos articulados complejos, controlados desde arriba mediante finos hilos conectados a un mando o cruceta de madera. Su manipulación requiere una destreza extraordinaria para simular los efectos de la gravedad, permitiendo caminar, saltar o respirar, infundiendo vida mágica a la materia inerte tallada."
+    },
+    {
+        "intent_id": "teatro_guinol",
+        "keywords": [
+            "guinol",
+            "titeres",
+            "guante",
+            "comedia",
+            "golpes"
+        ],
+        "base_response": "El guiñol tradicional es un tipo de títere de guante originario de Francia, manejado insertando la mano directamente en el muñeco. Caracterizado por argumentos sencillos, interacciones cómicas directas con el público infantil y frecuentes persecuciones a bastonazos, este formato teatral resulta sumamente dinámico, alegre y altamente expresivo."
+    },
+    {
+        "intent_id": "teatro_clausura",
+        "keywords": [
+            "teatro",
+            "clausura",
+            "cierre",
+            "aplausos",
+            "agradecimiento"
+        ],
+        "base_response": "La clausura de una representación teatral culmina con los saludos formales del elenco frente al público. Este ritual final de agradecimiento mutuo rompe la ilusión narrativa sostenida, permitiendo a los espectadores expresar su reconocimiento mediante aplausos, y a los actores agradecer respetuosamente la atención y el silencio recibidos."
+    },
+    {
+        "intent_id": "teatro_bunraku",
+        "keywords": [
+            "bunraku",
+            "japon",
+            "marionetas",
+            "manipuladores",
+            "narracion"
+        ],
+        "base_response": "El Bunraku es el sofisticado teatro de marionetas tradicional japonés. Cada figura es operada visiblemente por tres manipuladores vestidos de negro, acompañados por un narrador dramático y un músico de shamisen. Su asombrosa precisión técnica transmite emociones humanas tan profundas que rivalizan con las actuaciones de los mejores actores vivos."
+    },
+    {
+        "intent_id": "teatro_kabuki",
+        "keywords": [
+            "kabuki",
+            "japon",
+            "espectaculo",
+            "maquillaje",
+            "poses"
+        ],
+        "base_response": "El Kabuki es un estilo teatral tradicional japonés conocido por su espectacularidad visual y estilizadas actuaciones. Los actores utilizan elaborados maquillajes, asombrosos cambios rápidos de vestuario y poses dramáticas exageradas llamadas mie, creando cuadros visuales impactantes que deleitan enormemente a las multitudes con su poderosa y vibrante estética escénica."
+    },
+    {
+        "intent_id": "teatro_isabelino",
+        "keywords": [
+            "teatro",
+            "isabelino",
+            "shakespeare",
+            "verso",
+            "imaginacion"
+        ],
+        "base_response": "El teatro isabelino inglés floreció durante el Renacimiento, destacando genios como Shakespeare. Se caracterizaba por escenarios abiertos sin apenas decorados, obligando al dramaturgo a pintar los paisajes emocionales y físicos mediante una poesía deslumbrante, estimulando así la imaginación activa de un público heterogéneo que acudía masivamente a los corrales."
+    },
+    {
+        "intent_id": "teatro_corral_comedias",
+        "keywords": [
+            "corral",
+            "comedias",
+            "patio",
+            "oro",
+            "espana"
+        ],
+        "base_response": "El corral de comedias era el modelo teatral público del Siglo de Oro español. Instalados en los patios interiores de casas vecinales, presentaban un escenario en un extremo y el público distribuido jerárquicamente. Este vibrante espacio albergó las geniales obras de Lope de Vega y Calderón de la Barca incansablemente."
+    },
+    {
+        "intent_id": "teatro_naturalismo",
+        "keywords": [
+            "naturalismo",
+            "zola",
+            "realidad",
+            "ciencia",
+            "determinismo"
+        ],
+        "base_response": "El naturalismo teatral, fuertemente influenciado por Emile Zola, intentó llevar el método científico al escenario. Exigía decorados hiperrealistas y actuaciones exentas de artificio, buscando demostrar dramáticamente cómo el entorno hostil y la herencia genética determinan ineludiblemente el trágico destino de los personajes marginados o psicológicamente abrumados por la sociedad opresiva."
+    },
+    {
+        "intent_id": "teatro_expresionismo",
+        "keywords": [
+            "expresionismo",
+            "subjetividad",
+            "distorsion",
+            "angustia",
+            "alemania"
+        ],
+        "base_response": "El expresionismo teatral alemán surgió como una violenta reacción contra el realismo burgués. Mediante escenografías distorsionadas de ángulos imposibles, actuaciones robóticas exageradas y tramas fragmentadas, proyectaba la angustia subjetiva y las pesadillas internas del protagonista directamente sobre el escenario físico, criticando duramente la deshumanización inherente de la era industrial moderna."
+    },
+    {
+        "intent_id": "teatro_crueldad",
+        "keywords": [
+            "teatro",
+            "crueldad",
+            "artaud",
+            "sentidos",
+            "choque"
+        ],
+        "base_response": "El Teatro de la Crueldad, teorizado visionariamente por Antonin Artaud, propuso asaltar los sentidos del espectador moderno. Descartando la primacía de la palabra, utilizó luces cegadoras, gritos perturbadores y movimientos frenéticos para despertar instintos primitivos adormecidos, buscando provocar una profunda sanación espiritual mediante un choque sensorial y psicológico extremadamente violento."
+    },
+    {
+        "intent_id": "teatro_pobre",
+        "keywords": [
+            "teatro",
+            "pobre",
+            "grotowski",
+            "actor",
+            "esencia"
+        ],
+        "base_response": "El Teatro Pobre de Jerzy Grotowski despojó a la representación escénica de luces complejas, escenografías elaboradas y maquillajes artificiales. Concentró absolutamente toda la fuerza expresiva en la relación sagrada e íntima entre el actor físicamente exhausto y el espectador cercano, buscando un acto de comunión espiritual verdadera y deslumbrante teatralmente."
+    },
+    {
+        "intent_id": "teatro_zarzuela",
+        "keywords": [
+            "zarzuela",
+            "espana",
+            "musica",
+            "costumbres",
+            "canto"
+        ],
+        "base_response": "La zarzuela es un valioso género escénico tradicionalmente español que alterna brillantemente el canto operístico, coros multitudinarios, números de danza alegre y escenas habladas coloquialmente. Sus coloridos argumentos retratan con entrañable cariño y sátira las entrañables costumbres cotidianas, conflictos amorosos típicos y personajes populares inmortales de la vida madrileña histórica."
+    },
+    {
+        "intent_id": "teatro_opera",
+        "keywords": [
+            "opera",
+            "canto",
+            "lirica",
+            "orquesta",
+            "drama"
+        ],
+        "base_response": "La ópera es un arte escénico monumental donde la totalidad del texto dramático se canta con acompañamiento sinfónico completo. Exige cantantes líricos de extraordinaria resistencia y proyección vocal para transmitir grandiosas historias sobre pasiones humanas extremas, amor trágico o venganzas históricas frente a públicos conmovidos profundamente en lujosos teatros europeos."
+    },
+    {
+        "intent_id": "teatro_revista",
+        "keywords": [
+            "revista",
+            "variedades",
+            "espectaculo",
+            "humor",
+            "plumas"
+        ],
+        "base_response": "El teatro de revista es un vistoso formato de entretenimiento popular compuesto por pequeños números humorísticos sin conexión argumental estricta. Combina esculturales bailarinas, pegadizas canciones satíricas sobre temas políticos candentes, comediantes talentosos y un deslumbrante vestuario cubierto de lentejuelas, ofreciendo a las masas horas de sana diversión y alegre desenfreno."
+    },
+    {
+        "intent_id": "teatro_microteatro",
+        "keywords": [
+            "microteatro",
+            "formato",
+            "breve",
+            "intimidad",
+            "cercania"
+        ],
+        "base_response": "El microteatro revoluciona el consumo escénico al ofrecer obras dramáticas muy breves, típicamente de quince minutos, representadas en pequeñas habitaciones para escasos espectadores. Esta extrema cercanía física obliga a los actores a mantener una naturalidad absoluta, brindando al público una experiencia intensamente inmersiva, única y profundamente perturbadora o emocionante."
+    },
+    {
+        "intent_id": "teatro_sombras_chinescas",
+        "keywords": [
+            "sombras",
+            "chinescas",
+            "manos",
+            "luz",
+            "ilusion"
+        ],
+        "base_response": "Las milenarias sombras chinescas son un arte teatral fascinante donde el manipulador utiliza ágilmente sus manos o figuras planas frente a una fuente lumínica potente. Proyectando siluetas oscuras sobre una tela blanca tensa, crean mágicamente complejos animales y personajes mitológicos, encantando profundamente a niños y adultos con relatos ancestrales."
+    },
+    {
+        "intent_id": "teatro_callejero",
+        "keywords": [
+            "teatro",
+            "calle",
+            "espacio",
+            "urbano",
+            "gratuito"
+        ],
+        "base_response": "El teatro callejero interviene valientemente los espacios urbanos, sorprendiendo a los apresurados transeúntes cotidianos. Al presentarse gratuitamente en plazas públicas sin infraestructura escénica tradicional, democratiza radicalmente el acceso cultural masivo, requiriendo actores con tremenda energía vocal para captar y sostener exitosamente la volátil atención de toda la audiencia peatonal ocasional."
+    },
+    {
+        "intent_id": "teatro_invisible",
+        "keywords": [
+            "teatro",
+            "invisible",
+            "boal",
+            "vida",
+            "opresion"
+        ],
+        "base_response": "El teatro invisible, desarrollado inteligentemente por Augusto Boal, camufla escenas dramáticas ensayadas dentro de entornos reales cotidianos, como trenes o mercados. Los transeúntes ignoran que están presenciando actores profesionales, provocando así reacciones genuinas y urgentes debates públicos sobre candentes problemas sociales, opresiones invisibles e injusticias naturalizadas en nuestra sociedad moderna."
+    },
+    {
+        "intent_id": "teatro_reproduccion",
+        "keywords": [
+            "teatro",
+            "playback",
+            "historia",
+            "publico",
+            "improvisacion"
+        ],
+        "base_response": "El teatro de reproducción, o playback theatre, es una forma profundamente interactiva donde voluntarios del público cuentan breves anécdotas personales reales. Inmediatamente, el elenco de actores talentosos improvisa una fiel representación escénica de dicha memoria, ofreciendo un poderoso espejo emocional que valida, dignifica y sana las experiencias individuales compartidas solidariamente."
+    },
+    {
+        "intent_id": "teatro_dramaturgista",
+        "keywords": [
+            "dramaturgista",
+            "asesor",
+            "texto",
+            "analisis",
+            "investigacion"
+        ],
+        "base_response": "El dramaturgista actúa como un investigador académico dentro del proceso teatral práctico. Trabaja estrechamente con el director para analizar el texto clásico minuciosamente, investigar contextos históricos complejos y asegurar que la adaptación moderna mantenga absoluta coherencia estructural, fortaleciendo significativamente las bases teóricas e intelectuales de toda la propuesta escénica general."
+    },
+    {
+        "intent_id": "teatro_jefe_escenario",
+        "keywords": [
+            "jefe",
+            "escenario",
+            "orden",
+            "equipo",
+            "maquinaria"
+        ],
+        "base_response": "El jefe de escenario lidera a todos los maquinistas y técnicos detrás del telón. Su responsabilidad absoluta es garantizar la máxima seguridad física de los actores y coordinar silenciosamente el montaje, desmontaje y almacenamiento diario de las pesadas estructuras escenográficas, manteniendo un orden militar en el complejo espacio de bambalinas."
+    },
+    {
+        "intent_id": "teatro_asistente_direccion",
+        "keywords": [
+            "asistente",
+            "direccion",
+            "notas",
+            "ensayo",
+            "coordinacion"
+        ],
+        "base_response": "El asistente de dirección es la mano derecha del director durante las intensas jornadas de ensayo. Registra meticulosamente cada movimiento marcado en el libreto, organiza los exigentes calendarios diarios del elenco y comunica las complejas necesidades artísticas a los distintos departamentos técnicos para mantener la maquinaria creativa funcionando perfectamente siempre."
+    },
+    {
+        "intent_id": "teatro_director_movimiento",
+        "keywords": [
+            "director",
+            "movimiento",
+            "cuerpo",
+            "fisico",
+            "entrenamiento"
+        ],
+        "base_response": "El director de movimiento entrena físicamente al elenco teatral moderno para evitar lesiones y mejorar su expresividad corporal. No diseña bailes formales, sino que enseña a los actores a utilizar su propio peso, respiración y tensión muscular para construir personajes visualmente creíbles, orgánicos y con una presencia escénica absolutamente magnética."
+    },
+    {
+        "intent_id": "teatro_director_combate",
+        "keywords": [
+            "director",
+            "combate",
+            "armas",
+            "peleas",
+            "seguridad"
+        ],
+        "base_response": "El director de combate escénico coreografía meticulosamente todas las peleas simuladas, duelos a espada o escenas de violencia física intensa. Su trabajo especializado busca generar una ilusión de extremo peligro frente al público asombrado, mientras garantiza simultáneamente la absoluta seguridad física de todos los actores involucrados mediante rigurosos ensayos previos."
+    },
+    {
+        "intent_id": "teatro_coach_vocal",
+        "keywords": [
+            "coach",
+            "vocal",
+            "acentos",
+            "voz",
+            "diccion"
+        ],
+        "base_response": "El coach vocal asiste a los actores teatrales para dominar acentos regionales complejos, dialectos extranjeros o problemas de dicción severos. Mediante repetitivos ejercicios fonéticos y respiratorios especializados, asegura que el intérprete logre una transformación oral perfecta y verosímil, protegiendo además la salud de sus sensibles cuerdas vocales durante funciones agotadoras."
+    },
+    {
+        "intent_id": "teatro_luminotecnico",
+        "keywords": [
+            "luminotecnico",
+            "cables",
+            "focos",
+            "montaje",
+            "electricidad"
+        ],
+        "base_response": "El luminotécnico instala físicamente los pesados focos, tendiendo gruesos cables eléctricos y ajustando complicados filtros de colores bajo altas temperaturas. Siguiendo ciegamente los detallados planos del diseñador de iluminación, este especialista trepa a peligrosas estructuras en lo alto del teatro para asegurar que cada lámpara apunte mágicamente al sitio exacto."
+    },
+    {
+        "intent_id": "teatro_sonidista",
+        "keywords": [
+            "sonidista",
+            "microfonos",
+            "consola",
+            "mezcla",
+            "acustica"
+        ],
+        "base_response": "El sonidista opera la avanzada mesa de mezclas en tiempo real, controlando minuciosamente los diminutos micrófonos inalámbricos que llevan ocultos los actores de un gran musical. Su excelente oído garantiza un perfecto equilibrio acústico entre las potentes voces humanas y la música orquestal pregrabada para deleite absoluto del público espectador."
+    },
+    {
+        "intent_id": "teatro_traspunte",
+        "keywords": [
+            "traspunte",
+            "avisos",
+            "llamadas",
+            "actores",
+            "orden"
+        ],
+        "base_response": "El traspunte trabaja directamente bajo las órdenes del regidor teatral. Su principal y estresante labor es realizar las llamadas de prevención a los camerinos mediante la megafonía interna, avisando a los distraídos intérpretes que faltan exactamente cinco minutos para su entrada vital, evitando así retrasos fatales en el espectáculo escénico."
+    },
+    {
+        "intent_id": "teatro_utilero_mesa",
+        "keywords": [
+            "utilero",
+            "mesa",
+            "objetos",
+            "bambalinas",
+            "preparacion"
+        ],
+        "base_response": "El utilero de mesa prepara minuciosamente dos largas mesas en la penumbra de ambas patas laterales. Allí dispone ordenadamente cientos de pequeños accesorios importantes como pistolas falsas, cartas selladas o tazas de té vacías, para que el veloz actor pueda agarrarlos inmediatamente antes de irrumpir ciegamente en el brillante escenario."
+    },
+    {
+        "intent_id": "teatro_maquinista",
+        "keywords": [
+            "maquinista",
+            "poleas",
+            "telones",
+            "fuerza",
+            "vuelo"
+        ],
+        "base_response": "El maquinista teatral manipula las enormes poleas y peligrosos contrapesos desde las altas galerías del telar. Gracias a su pericia técnica y gran fuerza física, enormes muros pintados descienden grácilmente del techo oscuro, y actores suspendidos por finos cables pueden volar libremente sobre el escenario como verdaderos seres mágicos alados."
+    },
+    {
+        "intent_id": "teatro_actor_reparto",
+        "keywords": [
+            "actor",
+            "reparto",
+            "apoyo",
+            "trama",
+            "secundario"
+        ],
+        "base_response": "El actor de reparto interpreta roles secundarios pero absolutamente fundamentales para impulsar el conflicto dramático adelante. Sin llevar la inmensa carga del protagonismo heroico, estos excelentes profesionales aportan coloridos matices, imprescindibles momentos de descanso cómico o revelaciones narrativas clave que enriquecen maravillosamente la calidad general de todo el montaje teatral."
+    },
+    {
+        "intent_id": "teatro_figurante",
+        "keywords": [
+            "figurante",
+            "extra",
+            "masa",
+            "ambiente",
+            "silencio"
+        ],
+        "base_response": "El figurante escénico no pronuncia textos ni tiene identidad dramática individual. Su modesta pero necesaria presencia masiva sirve para poblar visualmente enormes plazas públicas o bailes palaciegos, otorgando vitalidad, movimiento constante y una sensación de gran realismo ambiental a las lujosas superproducciones teatrales que requieren multitudes convincentes sobre las tablas."
+    },
+    {
+        "intent_id": "teatro_maestro_armas",
+        "keywords": [
+            "maestro",
+            "armas",
+            "esgrima",
+            "espadas",
+            "teatro"
+        ],
+        "base_response": "El maestro de armas es un especialista en antigua esgrima que coreografía espectaculares duelos a espada para dramas clásicos. Enseña pacientemente a los actores modernas técnicas de ilusión óptica y seguridad, garantizando que el salvaje choque de filos parezca sumamente letal para el asombrado público sin causar jamás heridas reales."
+    },
+    {
+        "intent_id": "teatro_disenador_sonido",
+        "keywords": [
+            "disenador",
+            "sonido",
+            "efectos",
+            "banda",
+            "acustica"
+        ],
+        "base_response": "El diseñador de sonido conceptualiza maravillosamente todo el universo acústico de una obra. Seleccionando efectos sonoros impactantes como tormentas distantes o abstractos ruidos industriales amenazantes, compone una sutil banda sonora invisible que manipula psicológicamente las frágiles emociones del espectador sin que éste advierta apenas la poderosa presencia del truco sonoro."
+    },
+    {
+        "intent_id": "teatro_disenador_proyecciones",
+        "keywords": [
+            "disenador",
+            "proyecciones",
+            "video",
+            "digital",
+            "imagenes"
+        ],
+        "base_response": "El diseñador de proyecciones integra modernos elementos de video digital sobre la tradicional escenografía corpórea. Utilizando complejos programas informáticos y potentes proyectores, baña de mágicas luces animadas las desnudas paredes del escenario, permitiendo transformaciones visuales vertiginosas que acercan velozmente el antiguo arte teatral a la vertiginosa estética del cine moderno."
+    },
+    {
+        "intent_id": "teatro_coro_tragico",
+        "keywords": [
+            "coro",
+            "tragico",
+            "grecia",
+            "canto",
+            "danza"
+        ],
+        "base_response": "El ancestral e imponente coro trágico griego intervenía majestuosamente cantando lamentos poéticos y ejecutando armónicas danzas circulares solemnes. Desempeñaba funciones teatrales vitales narrando trágicos antecedentes míticos oscuros, formulando juicios morales estrictos y canalizando la angustia emocional colectiva del silencioso público griego ante el destino ineludible del altivo héroe dramático desafortunado."
+    },
+    {
+        "intent_id": "teatro_teatro_leido_nuevo",
+        "keywords": [
+            "teatro",
+            "leido",
+            "imaginacion",
+            "texto",
+            "voces"
+        ],
+        "base_response": "El estimulante teatro leído elimina totalmente la necesidad de la compleja acción física escénica. Los intérpretes se concentran en proyectar brillantes matices emocionales utilizando exclusivamente sus poderosas voces entrenadas, permitiendo que el público construya libremente maravillosas puestas en escena privadas dentro de su propia y fértil imaginación mental."
+    },
+    {
+        "intent_id": "teatro_accion_paralela_nueva",
+        "keywords": [
+            "accion",
+            "paralela",
+            "simultanea",
+            "escenario",
+            "foco"
+        ],
+        "base_response": "La técnica de acción paralela muestra asombrosamente dos o más eventos dramáticos ocurriendo simultáneamente en distintas áreas iluminadas del mismo escenario físico. El director manipula sutilmente la atención colectiva, guiando las miradas mediante precisos cambios lumínicos para revelar emocionantes contrastes temáticos o sorpresivas ironías narrativas verdaderamente muy efectivas."
+    },
+    {
+        "intent_id": "teatro_antagonista_teatral_nuevo",
+        "keywords": [
+            "antagonista",
+            "fuerza",
+            "conflicto",
+            "obstaculo",
+            "drama"
+        ],
+        "base_response": "El antagonista teatral no siempre es obligatoriamente un villano perverso humano. Representa sencillamente la fuerza opuesta fundamental que obstaculiza implacablemente el vital objetivo principal del héroe. Puede ser la hostil sociedad opresiva, el ineludible destino trágico, o incluso destructivas facetas psicológicas ocultas dentro de la atormentada mente del protagonista."
+    },
+    {
+        "intent_id": "teatro_arqueotipo_comico_nuevo",
+        "keywords": [
+            "arquetipo",
+            "comico",
+            "personaje",
+            "caricatura",
+            "reconocible"
+        ],
+        "base_response": "El clásico arquetipo cómico teatral es un personaje velozmente reconocible que encarna exageradamente un vicio humano o rasgo social muy específico. Figuras milenarias como el avaro mezquino o el viejo celoso permiten al dramaturgo estructurar ágiles comedias satíricas que trascienden fronteras culturales conectando rápidamente con diversos públicos."
+    },
+    {
+        "intent_id": "teatro_farsa_medieval_nueva",
+        "keywords": [
+            "farsa",
+            "medieval",
+            "iglesia",
+            "profano",
+            "humor"
+        ],
+        "base_response": "La bulliciosa farsa medieval europea nació silenciosamente en los amplios atrios de piedra de las grandes iglesias cristianas. Inicialmente concebida como breve interludio humorístico, pronto evolucionó independientemente incorporando alegres temas profanos picarescos, irreverentes personajes vulgares y muchísima sátira brutal criticando a la estricta y cruel sociedad dominante."
+    },
+    {
+        "intent_id": "teatro_tragedia_venganza_nueva",
+        "keywords": [
+            "tragedia",
+            "venganza",
+            "sangre",
+            "crimen",
+            "justicia"
+        ],
+        "base_response": "La oscura tragedia de venganza es un tenso subgénero dramático tremendamente popular en el sombrío teatro isabelino antiguo. Su violenta trama suele iniciar con un horrendo crimen impune, obligando moralmente al atormentado protagonista heroico a buscar justicia sangrienta al margen de las corrompidas leyes vigentes, desatando un baño mortal."
+    },
+    {
+        "intent_id": "teatro_teatro_revista_nuevo",
+        "keywords": [
+            "teatro",
+            "revista",
+            "musical",
+            "variedades",
+            "espectaculo"
+        ],
+        "base_response": "El alegre teatro de revista agrupa fantásticos y breves cuadros escénicos diversos absolutamente sin ninguna aparente conexión argumental lineal sólida. Alternando pegadizos números musicales sensuales y rápidos gags cómicos atrevidos, busca exclusivamente maravillar los cansados sentidos del entusiasta auditorio asistente durante larguísimas y hermosas veladas nocturnas memorables."
+    },
+    {
+        "intent_id": "teatro_vodevil_frances_nuevo",
+        "keywords": [
+            "vodevil",
+            "frances",
+            "canciones",
+            "comedia",
+            "situaciones"
+        ],
+        "base_response": "El ligero vodevil francés originario es una ágil e ingeniosa comedia urbana repleta de picantes e irresistibles situaciones absurdas hilarantes. Su mayor característica formal es la alegre interrupción constante de la veloz trama principal mediante populares melodías cantadas, creando espectáculos increíblemente frívolos y muy placenteros para las multitudes."
+    },
+    {
+        "intent_id": "teatro_opera_rock_nueva",
+        "keywords": [
+            "opera",
+            "rock",
+            "musica",
+            "rebelion",
+            "concierto"
+        ],
+        "base_response": "La estruendosa y moderna ópera rock teatraliza potentes álbumes musicales conceptuales mediante vigorosas y rebeldes puestas escénicas verdaderamente asombrosas. Combina exitosamente la estructura narrativa clásica operística continua con la furiosa energía eléctrica desbordante de los conciertos de rock, atrayendo poderosamente a las jóvenes audiencias apasionadas y siempre entusiastas."
+    },
+    {
+        "intent_id": "teatro_teatro_gestual_nuevo",
+        "keywords": [
+            "teatro",
+            "gestual",
+            "pantomima",
+            "movimiento",
+            "silencio"
+        ],
+        "base_response": "El minucioso y silente teatro gestual contemporáneo trasciende enormemente la básica pantomima antigua. Utiliza la asombrosa y sutil plasticidad corporal exhaustiva del actor perfectamente entrenado para explorar temas filosóficos profundos y complejas narrativas dramáticas abstractas, demostrando magistralmente que el silencio humano absoluto puede ser artísticamente muy elocuente."
+    },
+    {
+        "intent_id": "teatro_improvisacion_larga_nueva",
+        "keywords": [
+            "improvisacion",
+            "larga",
+            "formato",
+            "creacion",
+            "espontanea"
+        ],
+        "base_response": "El formato de improvisación escénica verdaderamente larga reta a los actores a construir pacientemente una extensa obra dramática continua, totalmente improvisada en tiempo real. Exige muchísima memoria instantánea colaborativa, generosa escucha activa y una gigantesca e inagotable confianza mutua entre todos sus valientes y creativos participantes teatrales."
+    },
+    {
+        "intent_id": "teatro_maquillaje_prostetico_nuevo",
+        "keywords": [
+            "maquillaje",
+            "prostetico",
+            "latex",
+            "transformacion",
+            "efectos"
+        ],
+        "base_response": "El avanzado y moderno maquillaje prostético emplea finísimas piezas prefabricadas de resistente látex para alterar estructuralmente el rostro del actor pacientemente. Esta laboriosa técnica artesanal verdaderamente fascinante permite asombrosas e inmediatas metamorfosis visuales complejas, posibilitando la creíble aparición de horribles monstruos o deformando drásticamente rostros para mayor impacto escénico."
+    },
+    {
+        "intent_id": "teatro_pelucas_postizos_nuevo",
+        "keywords": [
+            "pelucas",
+            "postizos",
+            "cabello",
+            "epoca",
+            "caracterizacion"
+        ],
+        "base_response": "El minucioso diseño escénico de laboriosas pelucas históricas y variados postizos capilares complementa espectacularmente cualquier vestuario teatral magnífico. Confeccionadas artesanalmente con carísimo cabello natural legítimo o moderno material sintético hiperrealista brillante, estas indispensables piezas cambian instantáneamente la fisionomía aparente del intérprete y marcan claramente complejas y distintas épocas."
+    },
+    {
+        "intent_id": "teatro_efectos_especiales_nuevo",
+        "keywords": [
+            "efectos",
+            "especiales",
+            "humo",
+            "fuego",
+            "magia"
+        ],
+        "base_response": "Los complejos y muy costosos efectos especiales teatrales engloban la espectacular y peligrosa creación de fuego artificial seguro, densa niebla misteriosa atmosférica, falsas lluvias, y mágicas explosiones lumínicas. Ejecutados siempre con altísima precisión mecánica y absoluta cautela, potencian enormemente el asombro y estimulan los engañados sentidos de todos."
+    },
+    {
+        "intent_id": "teatro_telon_acero_nuevo",
+        "keywords": [
+            "telon",
+            "acero",
+            "fuego",
+            "seguridad",
+            "proteccion"
+        ],
+        "base_response": "El enorme e impenetrable telón de cortafuegos de macizo acero es un indispensable dispositivo vital de inmensa seguridad arquitectónica en todo teatro mayor moderno. Su ineludible y veloz función es descender rapidísimamente aislando el peligroso fuego escénico mortal, protegiendo heroicamente y garantizando valiosamente las importantes vidas de todo auditorio."
+    }
+]
