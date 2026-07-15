@@ -1,0 +1,2499 @@
+[
+  {
+    "intent_id": "beneficios_cardiovasculares_correr",
+    "keywords": [
+      "correr",
+      "corazon",
+      "circulacion",
+      "resistencia",
+      "oxigeno"
+    ],
+    "base_response": "Correr diariamente mejora significativamente la salud del corazon y optimiza la circulacion sanguinea. Esta actividad deportiva constante aumenta la capacidad pulmonar y permite que el cuerpo transporte oxigeno de manera mucho mas eficiente durante los esfuerzos fisicos prolongados y exigentes."
+  },
+  {
+    "intent_id": "importancia_calentamiento_previo",
+    "keywords": [
+      "calentamiento",
+      "prevencion",
+      "musculos",
+      "preparacion",
+      "articulaciones"
+    ],
+    "base_response": "Realizar un calentamiento fisico preventivo antes de cualquier actividad prepara los musculos y las articulaciones para el esfuerzo intenso. Este proceso gradual eleva la temperatura corporal, previniendo lesiones dolorosas y mejorando la flexibilidad general durante toda la sesion deportiva."
+  },
+  {
+    "intent_id": "hidratacion_deportiva_adecuada",
+    "keywords": [
+      "hidratacion",
+      "agua",
+      "sudor",
+      "rendimiento",
+      "minerales"
+    ],
+    "base_response": "Mantener una hidratacion adecuada durante el ejercicio repone los liquidos y minerales perdidos a traves del sudor. Beber agua constantemente regula la temperatura del cuerpo humano y evita la fatiga prematura, garantizando asi un rendimiento fisico optimo y completamente seguro."
+  },
+  {
+    "intent_id": "descanso_recuperacion_muscular",
+    "keywords": [
+      "descanso",
+      "recuperacion",
+      "sueno",
+      "tejidos",
+      "fatiga"
+    ],
+    "base_response": "El descanso deportivo adecuado es fundamental para permitir que las fibras musculares se reparen tras el esfuerzo. Dormir las horas necesarias favorece la regeneracion celular, reduce la fatiga acumulada y prepara el organismo para futuros entrenamientos fisicos con mayor energia."
+  },
+  {
+    "intent_id": "alimentacion_previa_entrenamiento",
+    "keywords": [
+      "alimentacion",
+      "energia",
+      "carbohidratos",
+      "nutrientes",
+      "digestion"
+    ],
+    "base_response": "Consumir una comida equilibrada antes de entrenar proporciona la energia necesaria para realizar un esfuerzo fisico sostenido. Los carbohidratos complejos liberan glucosa gradualmente en el torrente sanguineo, asegurando una reserva de nutrientes constante que optimiza el rendimiento deportivo sin causar pesadez."
+  },
+  {
+    "intent_id": "estiramientos_flexibilidad_postentrenamiento",
+    "keywords": [
+      "estiramiento",
+      "flexibilidad",
+      "relajacion",
+      "tension",
+      "movilidad"
+    ],
+    "base_response": "Practicar estiramientos musculares despues del ejercicio reduce enormemente la tension acumulada y mejora la flexibilidad corporal progresiva. Esta rutina de relajacion evita el acortamiento de los musculos, promueve una circulacion sanguinea saludable y facilita una recuperacion fisica rapida y efectiva."
+  },
+  {
+    "intent_id": "fuerza_muscular_funcional",
+    "keywords": [
+      "fuerza",
+      "musculos",
+      "postura",
+      "huesos",
+      "estabilidad"
+    ],
+    "base_response": "Desarrollar la fuerza muscular funcional fortalece el sistema oseo y mejora significativamente la estabilidad de las articulaciones. Este tipo de entrenamiento deportivo previene desequilibrios estructurales, asegura una postura corporal correcta y facilita la realizacion segura de movimientos cotidianos intensos y complejos."
+  },
+  {
+    "intent_id": "salud_mental_endorfinas",
+    "keywords": [
+      "endorfinas",
+      "bienestar",
+      "estres",
+      "animo",
+      "cerebro"
+    ],
+    "base_response": "La practica regular de ejercicio fisico estimula la produccion natural de endorfinas en el cerebro. Estas sustancias quimicas promueven una profunda sensacion de bienestar corporal, reducen considerablemente los niveles de estres diario y mejoran de manera notable el estado de animo general."
+  },
+  {
+    "intent_id": "coordinacion_motriz_agilidad",
+    "keywords": [
+      "coordinacion",
+      "agilidad",
+      "equilibrio",
+      "reflejos",
+      "movimiento"
+    ],
+    "base_response": "Entrenar la coordinacion motriz deportiva incrementa la capacidad para realizar movimientos simultaneos de forma precisa. Esta habilidad fisica desarrollada mejora el equilibrio corporal y perfecciona los reflejos naturales, permitiendo reaccionar rapidamente ante estimulos visuales durante cualquier actividad recreativa intensa."
+  },
+  {
+    "intent_id": "trabajo_equipo_deportes",
+    "keywords": [
+      "equipo",
+      "cooperacion",
+      "comunicacion",
+      "estrategia",
+      "disciplina"
+    ],
+    "base_response": "Participar en deportes colectivos fomenta el trabajo en equipo y fortalece la comunicacion entre los companeros. Estas actividades conjuntas ensenan a coordinar estrategias eficientes, desarrollando habilidades sociales fundamentales y promoviendo una fuerte disciplina deportiva personal basada en el respeto mutuo constante."
+  },
+  {
+    "intent_id": "beneficios_ejercicio_aerobico",
+    "keywords": [
+      "resistencia",
+      "oxigenacion",
+      "movimiento",
+      "respiracion",
+      "energia"
+    ],
+    "base_response": "El ejercicio aeróbico fortalece la resistencia física, mejora la oxigenación de los tejidos y favorece la respiración eficiente. Además, incrementa la energía diaria y contribuye a mantener un sistema cardiovascular saludable, promoviendo bienestar integral mediante prácticas constantes y adecuadas."
+  },
+  {
+    "intent_id": "beneficios_ejercicio_aerobico_a",
+    "keywords": [
+      "circulacion",
+      "pulmones",
+      "ritmo",
+      "actividad",
+      "salud"
+    ],
+    "base_response": "La actividad aeróbica impulsa la circulación sanguínea, optimiza la función de los pulmones y regula el ritmo cardíaco. Estas mejoras fortalecen la salud general, incrementan la capacidad de esfuerzo y ayudan a prevenir enfermedades crónicas mediante hábitos de ejercicio sostenidos."
+  },
+  {
+    "intent_id": "beneficios_ejercicio_aerobico_b",
+    "keywords": [
+      "frecuencia",
+      "resistencia",
+      "musculos",
+      "respiracion",
+      "coordinacion"
+    ],
+    "base_response": "El entrenamiento aeróbico incrementa la frecuencia cardíaca de forma controlada, fortalece la resistencia muscular y mejora la respiración. También favorece la coordinación corporal, permitiendo movimientos más eficientes y seguros que contribuyen al bienestar físico y emocional."
+  },
+  {
+    "intent_id": "beneficios_ejercicio_aerobico_c",
+    "keywords": [
+      "cardio",
+      "movimiento",
+      "pulmones",
+      "resistencia",
+      "circulacion"
+    ],
+    "base_response": "La práctica de cardio aeróbico estimula el movimiento continuo, fortalece los pulmones y mejora la resistencia. Además, promueve una circulación eficiente que ayuda a mantener órganos saludables y reduce riesgos asociados a estilos de vida sedentarios."
+  },
+  {
+    "intent_id": "anaerobico",
+    "keywords": [
+      "fuerza",
+      "intensidad",
+      "contraccion",
+      "potencia",
+      "crecimiento"
+    ],
+    "base_response": "Los ejercicios anaeróbicos impulsan el desarrollo muscular mediante esfuerzos breves y muy intensos. Este tipo de entrenamiento favorece la hipertrofia, mejora la potencia y fortalece fibras rápidas. Su práctica constante incrementa la capacidad de generar fuerza explosiva y optimiza el rendimiento físico general."
+  },
+  {
+    "intent_id": "anaerobico_a",
+    "keywords": [
+      "levantamiento",
+      "resistencia",
+      "tension",
+      "adaptacion",
+      "musculacion"
+    ],
+    "base_response": "El trabajo anaeróbico se basa en movimientos que generan alta tensión muscular. Al levantar cargas elevadas, el cuerpo estimula adaptaciones que incrementan la musculación. Estas acciones breves mejoran la resistencia de fibras rápidas y contribuyen a un desarrollo físico más sólido y eficiente."
+  },
+  {
+    "intent_id": "anaerobico_b",
+    "keywords": [
+      "hipertrofia",
+      "carga",
+      "repeticion",
+      "contraccion",
+      "desempeno"
+    ],
+    "base_response": "La hipertrofia se logra mediante ejercicios anaeróbicos que exigen contracciones intensas. Al aplicar cargas progresivas y controlar repeticiones, el músculo aumenta su tamaño. Este enfoque mejora el desempeño atlético, fortalece tejidos y favorece una estructura corporal más resistente y funcional."
+  },
+  {
+    "intent_id": "anaerobico_c",
+    "keywords": [
+      "potencia",
+      "explosion",
+      "velocidad",
+      "contraccion",
+      "desarrollo"
+    ],
+    "base_response": "Los ejercicios anaeróbicos potencian la velocidad y la explosión muscular. Al realizar movimientos rápidos y exigentes, se estimula la contracción de fibras de alta potencia. Este tipo de entrenamiento impulsa el desarrollo físico, mejora la fuerza y optimiza la capacidad de respuesta atlética."
+  },
+  {
+    "intent_id": "anaerobico_d",
+    "keywords": [
+      "intensidad",
+      "fuerza",
+      "carga",
+      "contraccion",
+      "musculacion"
+    ],
+    "base_response": "El entrenamiento anaeróbico se caracteriza por esfuerzos de alta intensidad que fortalecen la musculación. Al trabajar con cargas elevadas, se generan contracciones profundas que estimulan el crecimiento muscular. Esta práctica mejora la fuerza, incrementa la potencia y favorece un rendimiento físico superior."
+  },
+  {
+    "intent_id": "prevencion_esguinces_contacto",
+    "keywords": [
+      "fortalecimiento",
+      "estiramiento",
+      "equilibrio",
+      "coordinacion",
+      "movilidad"
+    ],
+    "base_response": "La prevención de esguinces en deportes de contacto requiere fortalecer articulaciones, mejorar equilibrio y realizar estiramientos dinámicos. Integrar ejercicios de movilidad y coordinación reduce riesgos durante impactos. Una rutina constante prepara al cuerpo para movimientos exigentes y disminuye lesiones frecuentes."
+  },
+  {
+    "intent_id": "prevencion_esguinces_contacto_a",
+    "keywords": [
+      "calentamiento",
+      "musculatura",
+      "estabilidad",
+      "entrenamiento",
+      "progresion"
+    ],
+    "base_response": "Un calentamiento adecuado activa la musculatura y mejora la estabilidad articular, clave para evitar esguinces. El entrenamiento debe incluir progresión controlada para adaptarse a la intensidad del deporte. Practicar movimientos específicos reduce fallos mecánicos y protege las articulaciones en situaciones de contacto."
+  },
+  {
+    "intent_id": "prevencion_esguinces_contacto_b",
+    "keywords": [
+      "propiocepcion",
+      "refuerzo",
+      "tobillo",
+      "rodilla",
+      "control"
+    ],
+    "base_response": "La propiocepción es esencial para prevenir esguinces en deportes de contacto. Ejercicios de refuerzo en tobillo y rodilla mejoran el control corporal ante cambios bruscos. Entrenar superficies inestables desarrolla respuestas rápidas, disminuyendo lesiones por movimientos inesperados durante la competencia."
+  },
+  {
+    "intent_id": "prevencion_esguinces_contacto_c",
+    "keywords": [
+      "tecnica",
+      "movimientos",
+      "impacto",
+      "alineacion",
+      "seguridad"
+    ],
+    "base_response": "Una técnica correcta en movimientos de impacto garantiza alineación articular y mayor seguridad. Practicar gestos deportivos con supervisión reduce errores que generan esguinces. Ajustar la postura y controlar la fuerza aplicada disminuye tensiones excesivas en ligamentos durante acciones intensas."
+  },
+  {
+    "intent_id": "prevencion_esguinces_contacto_d",
+    "keywords": [
+      "hidratacion",
+      "fatiga",
+      "recuperacion",
+      "descanso",
+      "prevencion"
+    ],
+    "base_response": "La hidratación adecuada y el manejo de la fatiga son fundamentales para la prevención de esguinces. Un cuerpo cansado pierde precisión en movimientos, aumentando riesgos. Incorporar descanso y recuperación activa mantiene la función muscular óptima y protege articulaciones en deportes de contacto."
+  },
+  {
+    "intent_id": "calistenia_basica",
+    "keywords": [
+      "fuerza",
+      "equilibrio",
+      "resistencia",
+      "movimiento",
+      "progresion"
+    ],
+    "base_response": "Las rutinas de calistenia para principiantes desarrollan fuerza funcional mediante ejercicios simples que aprovechan el peso corporal. Incluyen progresiones seguras, movimientos controlados y descansos adecuados. Favorecen equilibrio, coordinación y resistencia, permitiendo avanzar gradualmente sin requerir equipamiento especializado."
+  },
+  {
+    "intent_id": "calistenia_basica_a",
+    "keywords": [
+      "flexiones",
+      "sentadillas",
+      "respiracion",
+      "control",
+      "estabilidad"
+    ],
+    "base_response": "Una rutina inicial de calistenia combina flexiones, sentadillas y ejercicios de estabilidad. El enfoque está en la técnica correcta, la respiración constante y el control del movimiento. Estas prácticas fortalecen articulaciones, mejoran postura y preparan el cuerpo para desafíos más intensos con seguridad."
+  },
+  {
+    "intent_id": "calistenia_basica_b",
+    "keywords": [
+      "movilidad",
+      "core",
+      "traccion",
+      "impulso",
+      "coordinacion"
+    ],
+    "base_response": "Las rutinas para principiantes priorizan movilidad y activación del core. Se integran ejercicios de tracción y empuje que requieren coordinación precisa. El objetivo es crear una base sólida que facilite aprender movimientos avanzados, evitando lesiones y promoviendo un progreso constante en cada sesión."
+  },
+  {
+    "intent_id": "calistenia_basica_c",
+    "keywords": [
+      "plancha",
+      "dominadas",
+      "saltos",
+      "transicion",
+      "adaptacion"
+    ],
+    "base_response": "La calistenia inicial utiliza planchas, saltos controlados y variaciones simples de dominadas. Estas acciones fomentan adaptación muscular y mejoran la transición entre ejercicios. Con práctica regular, los principiantes adquieren confianza, incrementan fuerza y desarrollan habilidades esenciales para rutinas más complejas."
+  },
+  {
+    "intent_id": "calistenia_basica_d",
+    "keywords": [
+      "ritmo",
+      "tecnica",
+      "alineacion",
+      "estiramientos",
+      "fortaleza"
+    ],
+    "base_response": "Las rutinas básicas enfatizan ritmo constante, técnica depurada y alineación corporal. Se incluyen estiramientos dinámicos para preparar músculos y articulaciones. Este enfoque integral fortalece el cuerpo, mejora la movilidad y establece hábitos saludables que permiten avanzar hacia ejercicios más exigentes."
+  },
+  {
+    "intent_id": "ciclismo_salud_articular",
+    "keywords": [
+      "ciclismo",
+      "articulaciones",
+      "movimiento",
+      "resistencia",
+      "fortalecimiento"
+    ],
+    "base_response": "El ciclismo favorece la movilidad articular mediante movimientos continuos y controlados. Reduce la carga sobre rodillas y caderas, fortaleciendo músculos que protegen las articulaciones. Practicarlo con técnica adecuada mejora la resistencia física y disminuye molestias asociadas al desgaste articular."
+  },
+  {
+    "intent_id": "ciclismo_salud_articular_a",
+    "keywords": [
+      "pedaleo",
+      "cartilago",
+      "estabilidad",
+      "musculatura",
+      "coordinacion"
+    ],
+    "base_response": "El pedaleo constante estimula el cartílago y promueve estabilidad articular. La musculatura implicada sostiene las articulaciones, reduciendo tensiones. Además, la coordinación requerida mejora el control del movimiento, favoreciendo una práctica segura y beneficiosa para la salud articular general."
+  },
+  {
+    "intent_id": "ciclismo_salud_articular_b",
+    "keywords": [
+      "bicicleta",
+      "impacto",
+      "alineacion",
+      "flexibilidad",
+      "equilibrio"
+    ],
+    "base_response": "La bicicleta ofrece ejercicio de bajo impacto que protege las articulaciones. Mantener correcta alineación corporal durante el pedaleo mejora la flexibilidad y el equilibrio. Esta combinación reduce riesgos de lesiones y contribuye al bienestar articular a largo plazo."
+  },
+  {
+    "intent_id": "ciclismo_salud_articular_c",
+    "keywords": [
+      "entrenamiento",
+      "rodillas",
+      "caderas",
+      "adaptacion",
+      "prevencion"
+    ],
+    "base_response": "El entrenamiento en ciclismo fortalece rodillas y caderas mediante movimientos repetidos y controlados. La adaptación progresiva evita sobrecargas y facilita la prevención de lesiones. Esta disciplina resulta adecuada para quienes buscan mejorar su salud articular sin impactos excesivos."
+  },
+  {
+    "intent_id": "ciclismo_salud_articular_d",
+    "keywords": [
+      "movilidad",
+      "sinovia",
+      "estiramiento",
+      "ritmo",
+      "estabilidad"
+    ],
+    "base_response": "El ciclismo incrementa la movilidad articular y favorece la producción de sinovia, esencial para lubricar articulaciones. Combinado con estiramiento y ritmo adecuado, mejora la estabilidad corporal. Esta práctica contribuye significativamente al mantenimiento de articulaciones saludables."
+  },
+  {
+    "intent_id": "postura_estabilidad_carga",
+    "keywords": [
+      "postura",
+      "estabilidad",
+      "carga",
+      "control",
+      "tecnica"
+    ],
+    "base_response": "Mantener una postura correcta en el levantamiento de pesas mejora la estabilidad corporal, distribuye la carga de manera segura y optimiza la técnica. Una alineación adecuada reduce riesgos de lesión y permite ejecutar movimientos más eficientes, fortaleciendo el rendimiento general del deportista."
+  },
+  {
+    "intent_id": "alineacion_prevencion_lesiones",
+    "keywords": [
+      "alineacion",
+      "lesion",
+      "movimiento",
+      "columna",
+      "seguridad"
+    ],
+    "base_response": "La postura adecuada protege la columna al mantener una alineación estable durante el esfuerzo. Un movimiento controlado disminuye la tensión innecesaria y previene lesiones. Adoptar posiciones seguras facilita el levantamiento eficiente y promueve un progreso constante en el entrenamiento."
+  },
+  {
+    "intent_id": "activacion_muscular_correcta",
+    "keywords": [
+      "activacion",
+      "musculo",
+      "equilibrio",
+      "fuerza",
+      "coordinacion"
+    ],
+    "base_response": "Una postura correcta favorece la activación muscular equilibrada, permitiendo que cada grupo participe con la fuerza necesaria. La coordinación mejora cuando el cuerpo mantiene estabilidad, lo que incrementa la eficacia del levantamiento y reduce compensaciones perjudiciales durante la ejecución."
+  },
+  {
+    "intent_id": "respiracion_control_postural",
+    "keywords": [
+      "respiracion",
+      "control",
+      "core",
+      "estabilidad",
+      "levantamiento"
+    ],
+    "base_response": "La postura influye en la respiración y en la activación del core, elementos esenciales para la estabilidad en el levantamiento. Un control adecuado del tronco permite manejar cargas mayores con seguridad, evitando desequilibrios y fortaleciendo la técnica general del deportista."
+  },
+  {
+    "intent_id": "progreso_tecnico_constante",
+    "keywords": [
+      "tecnica",
+      "progreso",
+      "postura",
+      "precision",
+      "ejecucion"
+    ],
+    "base_response": "La postura correcta facilita un progreso técnico constante, ya que permite ejecutar movimientos con mayor precisión. Una base estable mejora la eficiencia del levantamiento y ayuda a desarrollar hábitos seguros, esenciales para avanzar sin riesgos y consolidar habilidades deportivas duraderas."
+  },
+  {
+    "intent_id": "natacion_completa",
+    "keywords": [
+      "resistencia",
+      "coordinacion",
+      "respiracion",
+      "movimiento",
+      "fortalecimiento"
+    ],
+    "base_response": "La natación desarrolla resistencia cardiovascular, mejora la coordinación motora y fortalece diversos grupos musculares. Su práctica constante favorece la respiración eficiente y el movimiento fluido, convirtiéndola en una disciplina integral que impulsa bienestar físico general mediante ejercicios de bajo impacto."
+  },
+  {
+    "intent_id": "natacion_completa_a",
+    "keywords": [
+      "musculatura",
+      "tecnica",
+      "propulsion",
+      "equilibrio",
+      "entrenamiento"
+    ],
+    "base_response": "La natación exige técnica precisa para optimizar la propulsión y mantener el equilibrio corporal. Su entrenamiento fortalece la musculatura profunda, mejora la postura y promueve un desarrollo físico equilibrado. Es un deporte completo que integra coordinación, control respiratorio y esfuerzo sostenido."
+  },
+  {
+    "intent_id": "natacion_completa_b",
+    "keywords": [
+      "coordinacion",
+      "resistencia",
+      "propulsion",
+      "respiracion",
+      "movimiento"
+    ],
+    "base_response": "La natación combina coordinación de brazos y piernas con respiración rítmica, generando movimientos eficientes. Su práctica incrementa la resistencia física y mejora la postura. Es un deporte completo que involucra múltiples sistemas corporales, favoreciendo salud integral y rendimiento sostenido."
+  },
+  {
+    "intent_id": "natacion_completa_c",
+    "keywords": [
+      "fortalecimiento",
+      "movimiento",
+      "coordinacion",
+      "resistencia",
+      "respiracion"
+    ],
+    "base_response": "La natación ofrece fortalecimiento muscular equilibrado mediante movimientos fluidos y coordinados. Su práctica constante mejora la resistencia cardiovascular y optimiza la respiración. Es un deporte completo que favorece la salud general y reduce el impacto articular durante el ejercicio."
+  },
+  {
+    "intent_id": "natacion_completa_d",
+    "keywords": [
+      "tecnica",
+      "coordinacion",
+      "resistencia",
+      "movimiento",
+      "propulsion"
+    ],
+    "base_response": "La natación integra técnica depurada, coordinación precisa y movimientos continuos que generan propulsión eficiente. Este deporte completo fortalece músculos profundos, mejora la resistencia y favorece la postura corporal, contribuyendo a un desarrollo físico armónico y saludable."
+  },
+  {
+    "intent_id": "estres_fisiologia_rendimiento",
+    "keywords": [
+      "estres",
+      "fatiga",
+      "adaptacion",
+      "concentracion",
+      "recuperacion"
+    ],
+    "base_response": "El estrés altera procesos fisiológicos esenciales, afectando la concentración y la coordinación. Cuando se acumula, incrementa la fatiga y reduce la capacidad de adaptación. Una gestión adecuada permite mantener la recuperación óptima y sostener el rendimiento deportivo bajo presión constante."
+  },
+  {
+    "intent_id": "estres_cognicion_deportiva",
+    "keywords": [
+      "estres",
+      "tomadecisiones",
+      "memoria",
+      "anticipacion",
+      "control"
+    ],
+    "base_response": "El estrés influye en funciones cognitivas clave, dificultando la toma de decisiones y la anticipación. También afecta la memoria operativa, reduciendo la precisión táctica. Un control adecuado del estrés favorece respuestas más rápidas y mejora la ejecución técnica en situaciones competitivas exigentes."
+  },
+  {
+    "intent_id": "estres_motivacion_rendimiento",
+    "keywords": [
+      "estres",
+      "motivacion",
+      "autoconfianza",
+      "persistencia",
+      "superacion"
+    ],
+    "base_response": "El estrés puede disminuir la motivación y la autoconfianza, afectando la persistencia ante desafíos. Cuando se gestiona correctamente, impulsa la superación personal y fortalece la resiliencia. Comprender su impacto permite desarrollar estrategias que sostienen el rendimiento deportivo en escenarios complejos."
+  },
+  {
+    "intent_id": "estres_emociones_competencia",
+    "keywords": [
+      "estres",
+      "emociones",
+      "regulacion",
+      "ansiedad",
+      "equilibrio"
+    ],
+    "base_response": "El estrés altera la regulación emocional, incrementando la ansiedad y reduciendo el equilibrio mental. Estas variaciones afectan la ejecución técnica y la toma de decisiones. Entrenar habilidades de regulación permite mantener estabilidad emocional y mejorar el rendimiento durante competencias intensas."
+  },
+  {
+    "intent_id": "estres_entrenamiento_adaptativo",
+    "keywords": [
+      "estres",
+      "entrenamiento",
+      "adaptacion",
+      "resistencia",
+      "evaluacion"
+    ],
+    "base_response": "El estrés influye en la adaptación al entrenamiento, afectando la resistencia y la capacidad de progresión. Una evaluación constante permite ajustar cargas y evitar sobreentrenamiento. Comprender estas respuestas facilita diseñar programas más eficientes que optimizan el rendimiento deportivo sostenido."
+  },
+  {
+    "intent_id": "nutricion_post_entrenamiento",
+    "keywords": [
+      "proteinas",
+      "hidratos",
+      "recuperacion",
+      "musculo",
+      "reponer"
+    ],
+    "base_response": "La nutrición post‑entrenamiento debe enfocarse en reponer energía y reparar tejidos musculares. Consumir proteínas y hidratos de carbono favorece la recuperación eficiente, reduce la fatiga y optimiza adaptaciones fisiológicas. Integrar alimentos de calidad potencia resultados deportivos y bienestar general."
+  },
+  {
+    "intent_id": "nutricion_post_entrenamiento_a",
+    "keywords": [
+      "aminoacidos",
+      "glucogeno",
+      "recuperar",
+      "musculo",
+      "ingerir"
+    ],
+    "base_response": "Tras el ejercicio, ingerir aminoácidos esenciales ayuda a reconstruir fibras dañadas y recuperar niveles de glucógeno. Una combinación equilibrada de nutrientes acelera la reparación muscular, mejora el rendimiento futuro y sostiene procesos metabólicos clave para una recuperación completa."
+  },
+  {
+    "intent_id": "nutricion_post_entrenamiento_b",
+    "keywords": [
+      "hidratar",
+      "electrolitos",
+      "recuperacion",
+      "beber",
+      "musculo"
+    ],
+    "base_response": "La hidratación post‑entrenamiento es fundamental para restablecer electrolitos perdidos y sostener funciones musculares. Beber líquidos adecuados favorece la recuperación, previene calambres y mantiene el equilibrio fisiológico. Integrar bebidas con minerales optimiza la reposición tras esfuerzos intensos."
+  },
+  {
+    "intent_id": "nutricion_post_entrenamiento_c",
+    "keywords": [
+      "antioxidantes",
+      "inflamacion",
+      "recuperar",
+      "frutas",
+      "musculo"
+    ],
+    "base_response": "Consumir antioxidantes después del entrenamiento ayuda a reducir inflamación y acelerar la recuperación muscular. Frutas ricas en compuestos protectores apoyan la reparación celular y fortalecen defensas. Integrar estos alimentos mejora la adaptación al esfuerzo y promueve bienestar general."
+  },
+  {
+    "intent_id": "nutricion_post_entrenamiento_d",
+    "keywords": [
+      "suplementar",
+      "proteina",
+      "recuperacion",
+      "musculo",
+      "absorber"
+    ],
+    "base_response": "La suplementación con proteína puede facilitar la recuperación al mejorar la absorción de nutrientes clave. Consumirla tras entrenar favorece la reparación muscular y estimula adaptaciones positivas. Elegir productos de calidad garantiza beneficios sostenidos y apoyo nutricional adecuado."
+  },
+  {
+    "intent_id": "hiit_concept",
+    "keywords": [
+      "intensidad",
+      "intervalos",
+      "resistencia",
+      "potencia",
+      "recuperacion"
+    ],
+    "base_response": "El entrenamiento HIIT combina ráfagas breves de esfuerzo máximo con pausas controladas, optimizando la capacidad cardiovascular y muscular. Su estructura permite mejorar la resistencia, acelerar el metabolismo y desarrollar potencia mediante intervalos intensos que favorecen adaptaciones fisiológicas rápidas y sostenibles."
+  },
+  {
+    "intent_id": "hiit_concept_a",
+    "keywords": [
+      "velocidad",
+      "fuerza",
+      "alternancia",
+      "esfuerzo",
+      "respiracion"
+    ],
+    "base_response": "La alternancia entre esfuerzo intenso y recuperación en HIIT impulsa mejoras en velocidad y fuerza. Este método exige controlar la respiración, mantener técnica adecuada y gestionar la fatiga para obtener beneficios significativos en menor tiempo, favoreciendo eficiencia y rendimiento general."
+  },
+  {
+    "intent_id": "hiit_concept_b",
+    "keywords": [
+      "explosion",
+      "ritmo",
+      "coordinacion",
+      "saltos",
+      "resistencia"
+    ],
+    "base_response": "Los ejercicios explosivos dentro del HIIT, como saltos o cambios rápidos de ritmo, fortalecen la coordinación y la resistencia. Estas acciones dinámicas estimulan fibras musculares de contracción rápida, mejoran la agilidad y promueven adaptaciones que incrementan el rendimiento deportivo global."
+  },
+  {
+    "intent_id": "hiit_concept_c",
+    "keywords": [
+      "intensidad",
+      "control",
+      "movimiento",
+      "ritmo",
+      "respiracion"
+    ],
+    "base_response": "El control del movimiento y la respiración durante intervalos de alta intensidad es esencial en HIIT. Mantener ritmo adecuado evita sobrecargas y mejora la eficiencia energética. Esta práctica desarrolla conciencia corporal, optimiza la técnica y potencia resultados en sesiones cortas."
+  },
+  {
+    "intent_id": "hiit_concept_d",
+    "keywords": [
+      "metabolismo",
+      "velocidad",
+      "resistencia",
+      "fuerza",
+      "recuperacion"
+    ],
+    "base_response": "El HIIT incrementa el metabolismo mediante esfuerzos breves y veloces que desafían la resistencia y la fuerza. La recuperación estratégica entre intervalos permite sostener intensidad elevada, generando adaptaciones fisiológicas que mejoran capacidad aeróbica y anaeróbica de manera eficiente."
+  },
+  {
+    "intent_id": "hidratacion",
+    "keywords": [
+      "electrolitos",
+      "agua",
+      "rendimiento",
+      "sudor",
+      "recuperacion"
+    ],
+    "base_response": "La hidratación con electrolitos favorece la reposición de minerales perdidos durante el ejercicio, mientras el agua pura mantiene funciones básicas. En esfuerzos prolongados, los electrolitos sostienen el rendimiento y previenen calambres, aunque el agua sigue siendo esencial para equilibrar la temperatura corporal."
+  },
+  {
+    "intent_id": "hidratacion_a",
+    "keywords": [
+      "sales",
+      "absorcion",
+      "musculos",
+      "resistencia",
+      "equilibrio"
+    ],
+    "base_response": "Las bebidas con electrolitos mejoran la absorción de líquidos y sostienen la función muscular en entrenamientos intensos. El agua pura hidrata, pero no reemplaza sales esenciales. En deportes de resistencia, mantener equilibrio mineral evita fatiga prematura y favorece una recuperación más eficiente."
+  },
+  {
+    "intent_id": "hidratacion_b",
+    "keywords": [
+      "sodio",
+      "potasio",
+      "hidratar",
+      "ejercicio",
+      "termorregulacion"
+    ],
+    "base_response": "El sodio y el potasio presentes en soluciones con electrolitos ayudan a hidratar de manera más efectiva durante el ejercicio. El agua pura contribuye a la termorregulación, pero no compensa pérdidas minerales. En sesiones prolongadas, combinar ambos recursos optimiza la estabilidad fisiológica."
+  },
+  {
+    "intent_id": "hidratacion_c",
+    "keywords": [
+      "deporte",
+      "metabolismo",
+      "contracciones",
+      "sudoracion",
+      "reserva"
+    ],
+    "base_response": "En deportes de alta sudoración, las bebidas con electrolitos sostienen el metabolismo y las contracciones musculares. El agua pura mantiene la reserva hídrica, pero no aporta minerales. Elegir según intensidad permite prevenir desbalances y mantener un rendimiento físico estable y seguro."
+  },
+  {
+    "intent_id": "hidratacion_d",
+    "keywords": [
+      "nutrientes",
+      "balance",
+      "actividad",
+      "musculo",
+      "reponer"
+    ],
+    "base_response": "Las soluciones con electrolitos aportan nutrientes que ayudan a reponer pérdidas durante actividad intensa, manteniendo balance interno. El agua pura hidrata sin añadir minerales. En entrenamientos largos, usar electrolitos reduce riesgos de deshidratación y sostiene la función muscular adecuada."
+  },
+  {
+    "intent_id": "meditacion_deportiva",
+    "keywords": [
+      "respiracion",
+      "enfoque",
+      "visualizacion",
+      "autocontrol",
+      "disciplina"
+    ],
+    "base_response": "La meditación fortalece la concentración deportiva al estabilizar la respiración, ordenar pensamientos y reducir tensiones internas. Practicarla antes de competir mejora la claridad mental, facilita decisiones rápidas y promueve autocontrol emocional, creando un entorno óptimo para ejecutar movimientos precisos bajo presión."
+  },
+  {
+    "intent_id": "meditacion_deportiva_a",
+    "keywords": [
+      "atencion",
+      "calma",
+      "ritmo",
+      "control",
+      "progreso"
+    ],
+    "base_response": "La concentración se desarrolla mediante ejercicios de atención plena que estabilizan la mente y regulan el ritmo corporal. Integrar prácticas meditativas en rutinas deportivas favorece el control emocional, mejora la percepción del entorno y potencia el progreso técnico durante entrenamientos exigentes."
+  },
+  {
+    "intent_id": "meditacion_deportiva_b",
+    "keywords": [
+      "mindfulness",
+      "respirar",
+      "observar",
+      "equilibrio",
+      "constancia"
+    ],
+    "base_response": "El mindfulness aplicado al deporte impulsa la capacidad de observar sensaciones sin reaccionar impulsivamente. Respirar con conciencia genera equilibrio mental, reduce distracciones y fortalece la constancia, permitiendo sostener el rendimiento incluso en situaciones competitivas de alta exigencia psicológica."
+  },
+  {
+    "intent_id": "meditacion_deportiva_c",
+    "keywords": [
+      "foco",
+      "silencio",
+      "energia",
+      "controlar",
+      "persistencia"
+    ],
+    "base_response": "El silencio interior obtenido mediante meditación ayuda a dirigir el foco hacia objetivos concretos. Controlar la energía mental incrementa la persistencia y disminuye errores derivados de tensión, creando una base psicológica sólida para ejecutar estrategias deportivas con mayor precisión."
+  },
+  {
+    "intent_id": "meditacion_deportiva_d",
+    "keywords": [
+      "concentrar",
+      "respirar",
+      "visualizar",
+      "confianza",
+      "estabilidad"
+    ],
+    "base_response": "Concentrar la mente mediante respiración profunda y visualización fortalece la confianza del deportista. Estas técnicas generan estabilidad emocional, mejoran la anticipación de movimientos y permiten mantener la atención sostenida, incluso cuando las condiciones competitivas demandan respuestas rápidas y seguras."
+  },
+  {
+    "intent_id": "calzado_adecuado",
+    "keywords": [
+      "calzado",
+      "impacto",
+      "estabilidad",
+      "prevencion",
+      "lesiones"
+    ],
+    "base_response": "El calzado deportivo adecuado reduce el impacto en articulaciones, mejora la estabilidad y previene lesiones frecuentes. Su diseño especializado favorece la distribución equilibrada del peso corporal y optimiza el rendimiento físico, permitiendo entrenamientos más seguros y eficientes en diversas disciplinas deportivas."
+  },
+  {
+    "intent_id": "calzado_adecuado_a",
+    "keywords": [
+      "amortiguacion",
+      "traccion",
+      "movimiento",
+      "proteccion",
+      "rendimiento"
+    ],
+    "base_response": "Un calzado deportivo apropiado ofrece amortiguación y tracción que facilitan el movimiento seguro. Además, proporciona protección frente a impactos repetitivos y contribuye al rendimiento general. Elegir el modelo correcto según la actividad es esencial para evitar molestias y mejorar la eficiencia física."
+  },
+  {
+    "intent_id": "calzado_adecuado_b",
+    "keywords": [
+      "soporte",
+      "equilibrio",
+      "adaptacion",
+      "entrenar",
+      "resistencia"
+    ],
+    "base_response": "El calzado deportivo adecuado brinda soporte y equilibrio, permitiendo entrenar con mayor resistencia. Su capacidad de adaptación al tipo de pisada ayuda a prevenir sobrecargas musculares. Una elección informada garantiza comodidad prolongada y favorece la ejecución correcta de movimientos deportivos."
+  },
+  {
+    "intent_id": "calzado_adecuado_c",
+    "keywords": [
+      "estabilidad",
+      "movilidad",
+      "control",
+      "impacto",
+      "seguridad"
+    ],
+    "base_response": "El calzado deportivo correcto mejora la estabilidad y movilidad, ofreciendo control en cada paso. Reduce el impacto en superficies duras y aumenta la seguridad durante actividades intensas. Su estructura especializada favorece la técnica adecuada y disminuye el riesgo de lesiones recurrentes."
+  },
+  {
+    "intent_id": "calzado_adecuado_d",
+    "keywords": [
+      "traccion",
+      "amortiguar",
+      "pisada",
+      "adaptacion",
+      "proteccion"
+    ],
+    "base_response": "Un calzado deportivo bien seleccionado proporciona tracción y capacidad para amortiguar la pisada. Su adaptación al movimiento natural del pie garantiza protección continua. Esta elección influye directamente en la eficiencia del entrenamiento y en la prevención de molestias físicas prolongadas."
+  },
+  {
+    "intent_id": "evitar_sobreentrenamiento",
+    "keywords": [
+      "descanso",
+      "planificacion",
+      "intensidad",
+      "recuperacion",
+      "evaluacion"
+    ],
+    "base_response": "El sobreentrenamiento se previene equilibrando cargas físicas y descansos adecuados. Ajustar la intensidad, alternar sesiones y evaluar señales de fatiga permite sostener el rendimiento. La recuperación activa y la planificación estructurada ayudan a mantener la salud muscular y evitar lesiones por exceso de esfuerzo."
+  },
+  {
+    "intent_id": "evitar_sobreentrenamiento_a",
+    "keywords": [
+      "monitorizacion",
+      "fatiga",
+      "progresion",
+      "nutricion",
+      "hidratacion"
+    ],
+    "base_response": "Evitar el sobreentrenamiento implica monitorear la fatiga, progresar gradualmente y asegurar una nutrición equilibrada. La hidratación constante y el análisis de sensaciones corporales permiten ajustar rutinas. Mantener descansos estratégicos favorece la adaptación fisiológica y reduce riesgos de agotamiento físico."
+  },
+  {
+    "intent_id": "evitar_sobreentrenamiento_b",
+    "keywords": [
+      "variacion",
+      "rutina",
+      "recuperacion",
+      "sueno",
+      "equilibrio"
+    ],
+    "base_response": "La variación en la rutina de ejercicios ayuda a prevenir el sobreentrenamiento. Integrar días de recuperación y priorizar el sueño mejora la regeneración muscular. Mantener equilibrio entre esfuerzo y descanso permite sostener avances sin comprometer la salud física ni el bienestar general."
+  },
+  {
+    "intent_id": "evitar_sobreentrenamiento_c",
+    "keywords": [
+      "autoconocimiento",
+      "ritmo",
+      "adaptacion",
+      "control",
+      "prevencion"
+    ],
+    "base_response": "El autoconocimiento del ritmo corporal facilita evitar el sobreentrenamiento. Adaptar cargas según sensaciones y controlar la progresión reduce tensiones innecesarias. La prevención se fortalece con pausas activas, revisión de objetivos y atención a signos tempranos de agotamiento físico durante entrenamientos intensos."
+  },
+  {
+    "intent_id": "evitar_sobreentrenamiento_d",
+    "keywords": [
+      "tecnica",
+      "fortalecimiento",
+      "descanso",
+      "planificacion",
+      "seguimiento"
+    ],
+    "base_response": "Una técnica adecuada y el fortalecimiento progresivo disminuyen el riesgo de sobreentrenamiento. Incorporar descansos programados y una planificación realista favorece la recuperación. El seguimiento constante del rendimiento permite ajustar cargas y mantener una evolución saludable sin exceder límites físicos."
+  },
+  {
+    "intent_id": "caminar_rapido",
+    "keywords": [
+      "resistencia",
+      "circulacion",
+      "movimiento",
+      "energia",
+      "salud"
+    ],
+    "base_response": "Caminar rápido cada día fortalece la resistencia física, mejora la circulación sanguínea y estimula la energía corporal. Este hábito deportivo contribuye a mantener un peso saludable, optimiza la función cardiovascular y favorece una sensación general de bienestar constante."
+  },
+  {
+    "intent_id": "caminar_rapido_a",
+    "keywords": [
+      "metabolismo",
+      "velocidad",
+      "coordinacion",
+      "ritmo",
+      "actividad"
+    ],
+    "base_response": "La práctica diaria de caminar rápido impulsa el metabolismo, incrementa la velocidad de reacción y perfecciona la coordinación motora. Mantener un ritmo constante durante la actividad ayuda a mejorar la capacidad aeróbica y a desarrollar mayor eficiencia en el movimiento."
+  },
+  {
+    "intent_id": "caminar_rapido_b",
+    "keywords": [
+      "musculos",
+      "equilibrio",
+      "respiracion",
+      "fuerza",
+      "pasos"
+    ],
+    "base_response": "Caminar rápido fortalece los músculos de las piernas, mejora el equilibrio corporal y regula la respiración. Al aumentar la fuerza con cada paso, se promueve una postura más estable y se reduce el riesgo de lesiones derivadas de movimientos inadecuados."
+  },
+  {
+    "intent_id": "caminar_rapido_c",
+    "keywords": [
+      "estres",
+      "tension",
+      "relajacion",
+      "oxigenacion",
+      "ritmo"
+    ],
+    "base_response": "La caminata rápida diaria disminuye el estrés, reduce la tensión acumulada y favorece la relajación mental. Al mejorar la oxigenación del cuerpo y mantener un ritmo constante, se potencia la claridad mental y se incrementa la sensación de bienestar emocional."
+  },
+  {
+    "intent_id": "caminar_rapido_d",
+    "keywords": [
+      "articulaciones",
+      "movilidad",
+      "estabilidad",
+      "pasos",
+      "resistencia"
+    ],
+    "base_response": "Caminar rápido todos los días fortalece las articulaciones, incrementa la movilidad y mejora la estabilidad corporal. Con pasos firmes y continuos, se desarrolla mayor resistencia física, se previenen molestias musculares y se impulsa un estilo de vida activo y saludable."
+  },
+  {
+    "intent_id": "movilidad_matutina",
+    "keywords": [
+      "estiramiento",
+      "rotacion",
+      "flexion",
+      "despertar",
+      "movimiento"
+    ],
+    "base_response": "Los ejercicios de movilidad articular matutinos optimizan la función corporal al activar suavemente músculos y articulaciones. Facilitan la circulación, mejoran la postura y preparan el cuerpo para actividades diarias. Practicarlos con constancia incrementa bienestar físico y reduce molestias acumuladas."
+  },
+  {
+    "intent_id": "movilidad_matutina_a",
+    "keywords": [
+      "calentamiento",
+      "elongacion",
+      "respiracion",
+      "coordinacion",
+      "activacion"
+    ],
+    "base_response": "La movilidad articular matutina favorece la transición del reposo al movimiento mediante secuencias controladas. Estas rutinas estimulan la coordinación, fortalecen la conciencia corporal y disminuyen rigidez. Integrarlas cada mañana contribuye a un desempeño físico más eficiente y estable."
+  },
+  {
+    "intent_id": "movilidad_matutina_b",
+    "keywords": [
+      "circulacion",
+      "estabilidad",
+      "equilibrio",
+      "flexibilidad",
+      "movilizar"
+    ],
+    "base_response": "Realizar movilidad articular al despertar impulsa la circulación y mejora la estabilidad general. Los movimientos suaves incrementan flexibilidad y equilibrio, preparando articulaciones para esfuerzos posteriores. Esta práctica diaria promueve hábitos saludables y reduce tensiones musculares persistentes."
+  },
+  {
+    "intent_id": "movilidad_matutina_c",
+    "keywords": [
+      "sincronizar",
+      "estirar",
+      "rotar",
+      "activar",
+      "fortalecer"
+    ],
+    "base_response": "Los ejercicios matutinos de movilidad permiten sincronizar cuerpo y mente mediante gestos fluidos. Estirar y rotar articulaciones activa tejidos profundos, fortaleciendo patrones de movimiento. Su práctica constante genera mayor energía, claridad física y mejor disposición para tareas cotidianas."
+  },
+  {
+    "intent_id": "movilidad_matutina_d",
+    "keywords": [
+      "dinamizar",
+      "movilizar",
+      "respirar",
+      "flexionar",
+      "rotar"
+    ],
+    "base_response": "La movilidad articular matutina dinamiza el cuerpo mediante secuencias que movilizan articulaciones clave. Al combinar respiración y flexión se optimiza la preparación física. Esta rutina diaria reduce rigidez, mejora amplitud de movimiento y favorece un inicio activo de la jornada."
+  },
+  {
+    "intent_id": "beneficios_cardio_cuerda",
+    "keywords": [
+      "resistencia",
+      "coordinacion",
+      "ritmo",
+      "salto",
+      "cardio"
+    ],
+    "base_response": "Saltar la cuerda fortalece el sistema cardiovascular al incrementar la resistencia, mejorar la circulación y optimizar la capacidad pulmonar. Este ejercicio dinámico eleva el ritmo cardíaco de forma sostenida, favoreciendo la salud del corazón y promoviendo un acondicionamiento físico eficiente y accesible."
+  },
+  {
+    "intent_id": "beneficios_cardio_cuerda_a",
+    "keywords": [
+      "movimiento",
+      "pulmones",
+      "velocidad",
+      "energia",
+      "salto"
+    ],
+    "base_response": "La práctica constante de saltar la cuerda impulsa la función pulmonar, aumenta la velocidad de respuesta y mejora la eficiencia energética. Este ejercicio eleva el ritmo cardíaco rápidamente, fortaleciendo el sistema cardiovascular y contribuyendo a un estado físico más saludable y equilibrado."
+  },
+  {
+    "intent_id": "beneficios_cardio_cuerda_b",
+    "keywords": [
+      "resistencia",
+      "coordinacion",
+      "impacto",
+      "cardio",
+      "salto"
+    ],
+    "base_response": "Saltar la cuerda genera un impacto positivo en la resistencia cardiovascular al mantener el corazón activo y eficiente. La coordinación requerida mejora la conexión neuromuscular, mientras el ritmo constante favorece una circulación óptima y un fortalecimiento integral del sistema cardiorrespiratorio."
+  },
+  {
+    "intent_id": "beneficios_cardio_cuerda_c",
+    "keywords": [
+      "ritmo",
+      "cardio",
+      "movimiento",
+      "resistencia",
+      "coordinacion"
+    ],
+    "base_response": "El ejercicio de saltar la cuerda incrementa la resistencia cardiovascular mediante movimientos rítmicos que elevan la frecuencia cardíaca. Esta actividad mejora la coordinación, potencia la circulación sanguínea y contribuye a un fortalecimiento general del corazón, favoreciendo un estilo de vida activo."
+  },
+  {
+    "intent_id": "beneficios_cardio_cuerda_d",
+    "keywords": [
+      "salto",
+      "cardio",
+      "velocidad",
+      "resistencia",
+      "movimiento"
+    ],
+    "base_response": "Saltar la cuerda estimula el sistema cardiovascular al aumentar la velocidad del pulso y fortalecer la resistencia física. Los movimientos repetitivos mejoran la circulación, optimizan la función cardíaca y ofrecen un entrenamiento eficaz que impulsa la salud general y el rendimiento deportivo."
+  },
+  {
+    "intent_id": "pilates_core",
+    "keywords": [
+      "estabilidad",
+      "control",
+      "respiracion",
+      "alineacion",
+      "fortalecer"
+    ],
+    "base_response": "El Pilates fortalece el core abdominal mediante movimientos precisos que mejoran la estabilidad y la alineación corporal. Su práctica constante incrementa el control muscular y la resistencia, favoreciendo una postura equilibrada y reduciendo tensiones que afectan el rendimiento físico general."
+  },
+  {
+    "intent_id": "pilates_core_a",
+    "keywords": [
+      "activacion",
+      "coordinacion",
+      "movimiento",
+      "resistencia",
+      "equilibrio"
+    ],
+    "base_response": "La activación del core en Pilates exige coordinación y resistencia para sostener movimientos fluidos. Este enfoque desarrolla equilibrio y potencia abdominal, permitiendo ejecutar ejercicios con mayor eficacia y previniendo molestias lumbares derivadas de una musculatura debilitada."
+  },
+  {
+    "intent_id": "pilates_core_b",
+    "keywords": [
+      "fortaleza",
+      "estiramiento",
+      "controlar",
+      "movilizar",
+      "respirar"
+    ],
+    "base_response": "Pilates combina fortaleza y estiramiento para controlar y movilizar el core abdominal. La respiración consciente guía cada ejercicio, optimizando la activación profunda de músculos estabilizadores y promoviendo una base sólida para actividades deportivas más exigentes."
+  },
+  {
+    "intent_id": "pilates_core_c",
+    "keywords": [
+      "resistencia",
+      "controlar",
+      "fortalecer",
+      "movimiento",
+      "estabilidad"
+    ],
+    "base_response": "El Pilates desarrolla resistencia al controlar y fortalecer el core abdominal durante cada movimiento. La estabilidad resultante favorece una postura funcional, disminuye riesgos de lesión y potencia el desempeño deportivo al mejorar la eficiencia biomecánica."
+  },
+  {
+    "intent_id": "prevencion_impacto_mecanico",
+    "keywords": [
+      "tecnica",
+      "pisada",
+      "fortalecimiento",
+      "estabilidad",
+      "adaptacion"
+    ],
+    "base_response": "La prevención del impacto mecánico exige mejorar la técnica de carrera, fortalecer la musculatura estabilizadora y adaptar progresivamente la intensidad. Estas acciones reducen tensiones repetitivas, optimizan la pisada y disminuyen el riesgo de lesiones frecuentes en corredores que incrementan volumen sin preparación adecuada."
+  },
+  {
+    "intent_id": "control_carga_entrenamiento",
+    "keywords": [
+      "planificacion",
+      "progresion",
+      "monitorizacion",
+      "descanso",
+      "recuperacion"
+    ],
+    "base_response": "Controlar la carga de entrenamiento implica planificar progresiones realistas, monitorizar sensaciones y respetar descansos. Una recuperación adecuada evita sobreesfuerzos, permite adaptaciones fisiológicas seguras y reduce la aparición de lesiones por exceso de volumen o intensidad en corredores de distintos niveles."
+  },
+  {
+    "intent_id": "fortalecimiento_muscular_clave",
+    "keywords": [
+      "ejercicios",
+      "estabilidad",
+      "fuerza",
+      "coordinacion",
+      "equilibrio"
+    ],
+    "base_response": "El fortalecimiento muscular clave se centra en ejercicios que mejoran estabilidad, fuerza y coordinación. Un cuerpo equilibrado soporta mejor el impacto repetido, disminuye compensaciones y protege articulaciones vulnerables, especialmente en corredores que buscan mantener rendimiento sin aumentar riesgo de lesiones."
+  },
+  {
+    "intent_id": "prevencion_sobrecarga_tendinosa",
+    "keywords": [
+      "tendones",
+      "elasticidad",
+      "estiramientos",
+      "movilidad",
+      "resistencia"
+    ],
+    "base_response": "La prevención de sobrecarga tendinosa requiere mantener elasticidad mediante estiramientos, mejorar movilidad y desarrollar resistencia específica. Estas prácticas reducen tensiones acumuladas, favorecen la función de los tendones y disminuyen lesiones típicas en corredores sometidos a esfuerzos repetitivos prolongados."
+  },
+  {
+    "intent_id": "eleccion_calzado_adecuado",
+    "keywords": [
+      "calzado",
+      "amortiguacion",
+      "superficie",
+      "ajuste",
+      "proteccion"
+    ],
+    "base_response": "Elegir calzado adecuado implica considerar amortiguación, ajuste y superficie habitual. Un zapato apropiado protege estructuras sensibles, distribuye mejor el impacto y favorece una pisada eficiente, reduciendo lesiones comunes en corredores que entrenan con modelos inadecuados para su biomecánica."
+  },
+  {
+    "intent_id": "sueno_rem_recuperacion_deportiva",
+    "keywords": [
+      "recuperacion",
+      "rendimiento",
+      "sueno",
+      "musculo",
+      "energia"
+    ],
+    "base_response": "El sueño REM favorece la recuperación muscular profunda, estabiliza la energía diaria y mejora la coordinación motora. Su influencia en la consolidación de habilidades técnicas permite a los deportistas optimizar su rendimiento y sostener entrenamientos intensos sin comprometer su progreso físico ni mental."
+  },
+  {
+    "intent_id": "sueno_rem_equilibrio_hormonal",
+    "keywords": [
+      "hormonas",
+      "sueno",
+      "estres",
+      "recuperacion",
+      "metabolismo"
+    ],
+    "base_response": "Durante el sueño REM se regulan hormonas esenciales que controlan el estrés y el metabolismo. Este equilibrio hormonal ayuda a los deportistas a mantener estabilidad emocional, mejorar la recuperación tras esfuerzos prolongados y sostener niveles óptimos de energía para entrenamientos exigentes y competencias demandantes."
+  },
+  {
+    "intent_id": "sueno_rem_memoria_motora",
+    "keywords": [
+      "memoria",
+      "movimiento",
+      "aprendizaje",
+      "sueno",
+      "tecnica"
+    ],
+    "base_response": "El sueño REM fortalece la memoria motora, permitiendo que los deportistas integren movimientos complejos con mayor precisión. Este proceso de consolidación técnica facilita la ejecución eficiente de habilidades específicas, mejora la coordinación general y acelera el aprendizaje en disciplinas que requieren alta demanda neuromuscular."
+  },
+  {
+    "intent_id": "sueno_rem_prevencion_lesiones",
+    "keywords": [
+      "lesiones",
+      "recuperacion",
+      "sueno",
+      "musculo",
+      "equilibrio"
+    ],
+    "base_response": "Un sueño REM adecuado contribuye a la reparación muscular y al equilibrio neurológico, reduciendo el riesgo de lesiones. Los deportistas que priorizan esta fase del descanso mantienen mayor estabilidad corporal, mejor respuesta motora y capacidad de adaptación ante cargas físicas intensas durante entrenamientos prolongados."
+  },
+  {
+    "intent_id": "sueno_rem_regulacion_emocional",
+    "keywords": [
+      "emociones",
+      "sueno",
+      "estres",
+      "motivacion",
+      "concentracion"
+    ],
+    "base_response": "El sueño REM regula emociones y disminuye el estrés, factores decisivos para la concentración deportiva. Una adecuada calidad de descanso fortalece la motivación, mejora la toma de decisiones y permite a los atletas enfrentar desafíos competitivos con mayor claridad mental y estabilidad psicológica sostenida."
+  },
+  {
+    "intent_id": "proteinas_funcion_muscular",
+    "keywords": [
+      "proteina",
+      "musculo",
+      "recuperacion",
+      "entrenamiento",
+      "rendimiento"
+    ],
+    "base_response": "Las proteínas permiten reparar fibras musculares dañadas durante el entrenamiento, favoreciendo la recuperación y el crecimiento. Un aporte adecuado mejora el rendimiento, sostiene la fuerza y evita el catabolismo. Su consumo equilibrado resulta esencial para deportistas que buscan progresos constantes y saludables en su disciplina."
+  },
+  {
+    "intent_id": "proteinas_balance_energetico",
+    "keywords": [
+      "energia",
+      "metabolismo",
+      "nutricion",
+      "resistencia",
+      "adaptacion"
+    ],
+    "base_response": "Las proteínas contribuyen al equilibrio energético al participar en procesos metabólicos que sostienen la resistencia. Su presencia adecuada favorece la adaptación al esfuerzo prolongado, evitando fatiga excesiva. Una nutrición rica en proteínas ayuda a mantener estabilidad fisiológica y optimiza la capacidad de trabajo deportivo continuo."
+  },
+  {
+    "intent_id": "proteinas_sintesis_muscular",
+    "keywords": [
+      "sintesis",
+      "tejido",
+      "crecimiento",
+      "fuerza",
+      "recuperacion"
+    ],
+    "base_response": "La síntesis proteica permite reconstruir tejido muscular tras sesiones intensas, impulsando crecimiento y fuerza. Un consumo suficiente acelera la recuperación y reduce lesiones. Para deportistas, mantener niveles adecuados de proteínas garantiza avances sostenidos y una respuesta fisiológica eficiente ante cargas de entrenamiento exigentes."
+  },
+  {
+    "intent_id": "proteinas_sistema_inmunologico",
+    "keywords": [
+      "inmunidad",
+      "defensa",
+      "estres",
+      "entrenamiento",
+      "salud"
+    ],
+    "base_response": "Las proteínas fortalecen la inmunidad al formar componentes esenciales del sistema de defensa. En deportistas sometidos a estrés físico, un aporte adecuado previene infecciones y mantiene la salud. Su consumo equilibrado permite sostener entrenamientos intensos sin comprometer la capacidad del organismo para protegerse."
+  },
+  {
+    "intent_id": "proteinas_recuperacion_postejercicio",
+    "keywords": [
+      "recuperacion",
+      "musculo",
+      "nutriente",
+      "adaptacion",
+      "entrenamiento"
+    ],
+    "base_response": "Tras el ejercicio, las proteínas aceleran la reparación muscular y favorecen la adaptación al entrenamiento. Su ingesta adecuada reduce dolor, mejora la respuesta fisiológica y prepara al deportista para nuevas cargas. Constituyen un nutriente clave para mantener continuidad, progreso y bienestar en la práctica deportiva."
+  },
+  {
+    "intent_id": "fortalecer_lumbar",
+    "keywords": [
+      "estabilidad",
+      "movimiento",
+      "fortalecimiento",
+      "control",
+      "resistencia"
+    ],
+    "base_response": "Los ejercicios para fortalecer la zona lumbar mejoran la estabilidad del tronco, reducen molestias y previenen lesiones. Incluir movimientos controlados y progresivos favorece la resistencia muscular y la postura. Practicarlos con técnica adecuada optimiza resultados y protege la columna vertebral."
+  },
+  {
+    "intent_id": "fortalecer_lumbar_a",
+    "keywords": [
+      "extension",
+      "activacion",
+      "musculatura",
+      "coordinacion",
+      "equilibrio"
+    ],
+    "base_response": "La zona lumbar requiere ejercicios que combinen extensión y activación profunda para sostener la columna. Trabajar la musculatura con movimientos lentos mejora la coordinación y el equilibrio. Una rutina constante fortalece el soporte interno y disminuye el riesgo de molestias crónicas."
+  },
+  {
+    "intent_id": "fortalecer_lumbar_b",
+    "keywords": [
+      "flexion",
+      "rotacion",
+      "estiramiento",
+      "fortaleza",
+      "movilidad"
+    ],
+    "base_response": "Fortalecer la zona lumbar implica integrar flexión, rotación y estiramiento para mantener movilidad saludable. La fortaleza de esta área estabiliza el cuerpo en actividades diarias. Realizar ejercicios variados mejora la función muscular y contribuye a una postura más eficiente y segura."
+  },
+  {
+    "intent_id": "fortalecer_lumbar_c",
+    "keywords": [
+      "core",
+      "estabilizar",
+      "fortalecer",
+      "alinear",
+      "sostener"
+    ],
+    "base_response": "El fortalecimiento lumbar se potencia al trabajar el core, que ayuda a estabilizar y alinear la columna. Ejercicios específicos permiten sostener cargas y movimientos con seguridad. Una práctica regular mejora la eficiencia corporal y reduce tensiones en la región baja de la espalda."
+  },
+  {
+    "intent_id": "fortalecer_lumbar_d",
+    "keywords": [
+      "contraccion",
+      "respiracion",
+      "controlar",
+      "movilizar",
+      "fortalecer"
+    ],
+    "base_response": "Los ejercicios lumbares requieren contracción precisa y respiración coordinada para controlar el movimiento. Movilizar la zona con progresión adecuada fortalece tejidos profundos. Una rutina bien diseñada mejora la estabilidad general y disminuye la aparición de molestias en la espalda baja."
+  },
+  {
+    "intent_id": "entrenamiento_funcional_movilidad",
+    "keywords": [
+      "movilidad",
+      "equilibrio",
+      "fuerza",
+      "coordinacion",
+      "resistencia"
+    ],
+    "base_response": "El entrenamiento funcional mejora la movilidad y la fuerza mediante movimientos que replican acciones cotidianas. Favorece el equilibrio, la coordinación y la resistencia, ayudando a prevenir lesiones y optimizar tareas diarias como levantar objetos, caminar con estabilidad o mantener posturas prolongadas."
+  },
+  {
+    "intent_id": "patrones_movimiento_diario",
+    "keywords": [
+      "agacharse",
+      "empujar",
+      "tirar",
+      "rotar",
+      "estabilizar"
+    ],
+    "base_response": "Los patrones de movimiento funcional incluyen acciones esenciales como agacharse, empujar, tirar y rotar. Practicarlos fortalece la capacidad de estabilizar el cuerpo durante actividades diarias, mejorando la eficiencia y reduciendo el riesgo de molestias musculares en situaciones habituales."
+  },
+  {
+    "intent_id": "core_estabilidad_diaria",
+    "keywords": [
+      "core",
+      "estabilidad",
+      "control",
+      "respirar",
+      "fortalecer"
+    ],
+    "base_response": "Un core fuerte proporciona estabilidad y control en cada movimiento cotidiano. Fortalecer esta zona mediante ejercicios funcionales facilita respirar adecuadamente, sostener cargas, mantener posturas seguras y ejecutar tareas diarias con mayor eficiencia y menor tensión corporal."
+  },
+  {
+    "intent_id": "transferencia_movimientos_funcionales",
+    "keywords": [
+      "transferir",
+      "adaptar",
+      "mover",
+      "cargar",
+      "optimizar"
+    ],
+    "base_response": "La transferencia de movimientos funcionales permite adaptar habilidades físicas a situaciones reales. Practicar cómo mover y cargar objetos optimiza la mecánica corporal, mejora la seguridad en tareas diarias y fomenta hábitos de movimiento más eficientes y sostenibles."
+  },
+  {
+    "intent_id": "prevencion_lesiones_funcional",
+    "keywords": [
+      "prevenir",
+      "fortalecer",
+      "alinear",
+      "estabilizar",
+      "mover"
+    ],
+    "base_response": "El entrenamiento funcional ayuda a prevenir lesiones al fortalecer músculos clave y promover una correcta alineación corporal. Enseña a estabilizar y mover el cuerpo de manera segura, reduciendo tensiones y mejorando la capacidad de afrontar las demandas físicas cotidianas."
+  },
+  {
+    "intent_id": "juego_limpio",
+    "keywords": [
+      "respeto",
+      "competencia",
+      "disciplina",
+      "integridad",
+      "cooperar"
+    ],
+    "base_response": "El juego limpio fortalece la integridad deportiva, fomenta respeto entre participantes y promueve decisiones éticas. Practicarlo impulsa disciplina, cooperación y responsabilidad, creando entornos seguros donde la competencia se vive con honestidad y compromiso, favoreciendo el desarrollo integral de cada atleta."
+  },
+  {
+    "intent_id": "juego_limpio_a",
+    "keywords": [
+      "honestidad",
+      "valores",
+      "convivir",
+      "superacion",
+      "equilibrio"
+    ],
+    "base_response": "La ética deportiva impulsa honestidad y valores que permiten convivir sanamente. Mantener equilibrio emocional favorece la superación personal y el respeto mutuo. Estas prácticas fortalecen vínculos positivos, evitando conductas dañinas y promoviendo un ambiente competitivo justo y enriquecedor."
+  },
+  {
+    "intent_id": "juego_limpio_b",
+    "keywords": [
+      "responsabilidad",
+      "compartir",
+      "dialogar",
+      "crecer",
+      "respetar"
+    ],
+    "base_response": "El juego limpio exige responsabilidad y disposición para dialogar. Respetar reglas y rivales permite compartir experiencias que ayudan a crecer. Esta actitud ética mejora la convivencia deportiva, evitando conflictos y fortaleciendo la confianza entre quienes participan activamente."
+  },
+  {
+    "intent_id": "juego_limpio_c",
+    "keywords": [
+      "compromiso",
+      "justicia",
+      "participar",
+      "aprender",
+      "valorar"
+    ],
+    "base_response": "La ética deportiva promueve compromiso y justicia al participar. Valorar el esfuerzo propio y ajeno permite aprender de cada encuentro. Esta visión fomenta comportamientos respetuosos, evitando trampas y fortaleciendo la credibilidad del deporte como espacio formativo."
+  },
+  {
+    "intent_id": "juego_limpio_d",
+    "keywords": [
+      "colaborar",
+      "respetar",
+      "competir",
+      "dialogar",
+      "mejorar"
+    ],
+    "base_response": "El juego limpio impulsa colaborar y respetar mientras se compite. Dialogar con apertura permite mejorar conductas y decisiones. Esta práctica ética sostiene relaciones sanas, evitando abusos y promoviendo un entorno deportivo equilibrado que favorece el crecimiento personal."
+  },
+  {
+    "intent_id": "beneficios_psicologicos",
+    "keywords": [
+      "disciplina",
+      "autocontrol",
+      "resiliencia",
+      "concentracion",
+      "superacion"
+    ],
+    "base_response": "Las artes marciales fortalecen la disciplina mental, fomentan el autocontrol y mejoran la concentración. Además, impulsan la resiliencia emocional al enfrentar desafíos constantes. Practicarlas favorece la superación personal y contribuye a un equilibrio psicológico duradero, útil para afrontar situaciones exigentes."
+  },
+  {
+    "intent_id": "beneficios_psicologicos_a",
+    "keywords": [
+      "confianza",
+      "motivacion",
+      "perseverancia",
+      "autoconocimiento",
+      "equilibrio"
+    ],
+    "base_response": "La práctica de artes marciales incrementa la confianza al dominar técnicas progresivas. También estimula la motivación interna y la perseverancia. El entrenamiento constante promueve el autoconocimiento, permitiendo identificar fortalezas y debilidades. Este proceso genera equilibrio emocional y mayor estabilidad psicológica."
+  },
+  {
+    "intent_id": "beneficios_psicologicos_b",
+    "keywords": [
+      "gestion",
+      "estres",
+      "calma",
+      "respiracion",
+      "control"
+    ],
+    "base_response": "Las artes marciales ayudan a gestionar el estrés mediante ejercicios de respiración y control corporal. Estas prácticas favorecen la calma mental y reducen tensiones acumuladas. El enfoque en movimientos precisos fortalece la estabilidad emocional, permitiendo enfrentar situaciones difíciles con mayor serenidad."
+  },
+  {
+    "intent_id": "beneficios_psicologicos_c",
+    "keywords": [
+      "foco",
+      "disciplina",
+      "autonomia",
+      "crecimiento",
+      "motivacion"
+    ],
+    "base_response": "El entrenamiento marcial desarrolla foco y disciplina, impulsando la autonomía en la toma de decisiones. La práctica constante refuerza la motivación y facilita el crecimiento personal. Estos elementos contribuyen a una mente más organizada, capaz de enfrentar retos con claridad y determinación."
+  },
+  {
+    "intent_id": "beneficios_psicologicos_d",
+    "keywords": [
+      "cooperacion",
+      "respeto",
+      "confianza",
+      "adaptacion",
+      "control"
+    ],
+    "base_response": "Las artes marciales fomentan la cooperación entre practicantes y fortalecen el respeto mutuo. Este entorno impulsa la confianza y mejora la adaptación a cambios. El control emocional adquirido permite manejar conflictos con mayor equilibrio, promoviendo relaciones interpersonales saludables y estables."
+  },
+  {
+    "intent_id": "calentamiento_futbol",
+    "keywords": [
+      "movilidad",
+      "coordinacion",
+      "pases",
+      "desplazamientos",
+      "activacion"
+    ],
+    "base_response": "El calentamiento específico en fútbol integra movilidad dinámica, coordinación con balón y desplazamientos progresivos. Incluye pases cortos y cambios de ritmo que preparan articulaciones y músculos para acciones técnicas intensas. Favorece precisión, reacción y adaptación al entorno competitivo inmediato."
+  },
+  {
+    "intent_id": "calentamiento_natacion",
+    "keywords": [
+      "brazadas",
+      "respiracion",
+      "flotacion",
+      "patada",
+      "activacion"
+    ],
+    "base_response": "En natación, el calentamiento específico combina brazadas suaves, control respiratorio y ejercicios de flotación. Se añaden series de patada para activar piernas y mejorar la alineación corporal. Este proceso optimiza la coordinación acuática y reduce el riesgo de fatiga temprana durante la sesión."
+  },
+  {
+    "intent_id": "calentamiento_baloncesto",
+    "keywords": [
+      "bote",
+      "saltos",
+      "giros",
+      "lanzamientos",
+      "velocidad"
+    ],
+    "base_response": "El calentamiento en baloncesto integra bote controlado, saltos moderados y giros rápidos. Se practican lanzamientos progresivos para ajustar la mecánica del tiro. Además, se incluyen desplazamientos de velocidad variable que preparan el cuerpo para acciones explosivas y cambios de dirección frecuentes."
+  },
+  {
+    "intent_id": "calentamiento_atletismo",
+    "keywords": [
+      "zancada",
+      "estiramientos",
+      "aceleraciones",
+      "coordinacion",
+      "ritmo"
+    ],
+    "base_response": "En atletismo, el calentamiento específico incorpora zancadas técnicas, estiramientos dinámicos y aceleraciones breves. Se añaden ejercicios de coordinación para afinar el ritmo de carrera. Esta preparación mejora la eficiencia biomecánica y reduce la tensión muscular antes del esfuerzo principal."
+  },
+  {
+    "intent_id": "calentamiento_tenis",
+    "keywords": [
+      "golpes",
+      "desplazamientos",
+      "rotaciones",
+      "coordinacion",
+      "activacion"
+    ],
+    "base_response": "El calentamiento en tenis incluye golpes controlados, desplazamientos laterales y rotaciones de tronco. Se trabaja la coordinación ojo‑mano mediante intercambios suaves. Esta activación prepara articulaciones y músculos para movimientos rápidos, cambios de dirección y ajustes técnicos constantes durante el juego."
+  },
+  {
+    "intent_id": "resp_diaf",
+    "keywords": [
+      "diafragma",
+      "respiracion",
+      "control",
+      "ejercicio",
+      "resistencia"
+    ],
+    "base_response": "La respiración diafragmática optimiza la entrada de aire al activar el diafragma, mejorando la oxigenación muscular. Durante el ejercicio, favorece la estabilidad del tronco, reduce la fatiga y permite mantener un ritmo constante. Practicarla incrementa eficiencia y rendimiento físico sostenido."
+  },
+  {
+    "intent_id": "resp_diaf_a",
+    "keywords": [
+      "inhalacion",
+      "exhalacion",
+      "diafragma",
+      "coordinacion",
+      "movimiento"
+    ],
+    "base_response": "Coordinar inhalación profunda y exhalación controlada mediante el diafragma ayuda a estabilizar el cuerpo durante esfuerzos intensos. Esta técnica mejora la eficiencia respiratoria, disminuye tensiones y facilita movimientos fluidos. Su práctica constante fortalece la conexión entre respiración y desempeño físico."
+  },
+  {
+    "intent_id": "resp_diaf_b",
+    "keywords": [
+      "diafragma",
+      "entrenamiento",
+      "respiracion",
+      "ritmo",
+      "musculatura"
+    ],
+    "base_response": "Entrenar la respiración diafragmática permite sostener ritmos exigentes al mejorar la capacidad pulmonar y la activación muscular profunda. Durante el ejercicio, contribuye a mantener estabilidad y reducir la sensación de ahogo. Su dominio favorece mayor control corporal y eficiencia energética continua."
+  },
+  {
+    "intent_id": "resp_diaf_c",
+    "keywords": [
+      "respiracion",
+      "diafragma",
+      "estabilidad",
+      "fuerza",
+      "oxigenacion"
+    ],
+    "base_response": "La respiración diafragmática incrementa la estabilidad central al activar musculatura profunda, mejorando la fuerza aplicada en cada movimiento. Además, optimiza la oxigenación durante esfuerzos prolongados, reduciendo la fatiga. Integrarla en rutinas deportivas potencia control, eficiencia y rendimiento general."
+  },
+  {
+    "intent_id": "resp_diaf_d",
+    "keywords": [
+      "diafragma",
+      "respiracion",
+      "tecnica",
+      "ejercicio",
+      "control"
+    ],
+    "base_response": "Aplicar técnica diafragmática durante el ejercicio mejora el control respiratorio y la eficiencia del movimiento. Al dirigir el aire hacia la zona abdominal, se reduce tensión en el pecho y se incrementa estabilidad. Esta práctica favorece resistencia sostenida y desempeño físico más equilibrado."
+  },
+  {
+    "intent_id": "adaptacion_cardio",
+    "keywords": [
+      "resistencia",
+      "entrenamiento",
+      "frecuencia",
+      "oxigenacion",
+      "circulacion"
+    ],
+    "base_response": "La adaptación cardiovascular al entrenamiento continuo incrementa la eficiencia del corazón, mejora la circulación periférica y optimiza la oxigenación muscular. Estos cambios permiten sostener esfuerzos prolongados, reducen la fatiga y favorecen una recuperación más rápida tras actividades físicas exigentes."
+  },
+  {
+    "intent_id": "adaptacion_cardio_a",
+    "keywords": [
+      "capacidad",
+      "bombeo",
+      "suministro",
+      "metabolismo",
+      "rendimiento"
+    ],
+    "base_response": "El entrenamiento continuo fortalece el miocardio, aumentando su capacidad de bombeo y mejorando el suministro sanguíneo. Esta adaptación favorece un metabolismo más eficiente, incrementa el rendimiento aeróbico y permite mantener ritmos de ejercicio prolongados con menor esfuerzo fisiológico."
+  },
+  {
+    "intent_id": "adaptacion_cardio_b",
+    "keywords": [
+      "ventriculo",
+      "volumen",
+      "latido",
+      "resistencia",
+      "adaptacion"
+    ],
+    "base_response": "La práctica sostenida de ejercicio continuo incrementa el volumen del ventrículo izquierdo, permitiendo expulsar más sangre por latido. Esta adaptación mejora la resistencia general, disminuye la frecuencia cardíaca en reposo y facilita un transporte más eficaz de nutrientes durante el esfuerzo."
+  },
+  {
+    "intent_id": "adaptacion_cardio_c",
+    "keywords": [
+      "capilarizacion",
+      "flujo",
+      "musculo",
+      "entrenamiento",
+      "oxigeno"
+    ],
+    "base_response": "El entrenamiento continuo promueve la capilarización muscular, aumentando el flujo sanguíneo y la entrega de oxígeno. Esta mejora estructural facilita la actividad aeróbica, reduce la acumulación de metabolitos y permite sostener esfuerzos prolongados con mayor eficiencia fisiológica."
+  },
+  {
+    "intent_id": "adaptacion_cardio_d",
+    "keywords": [
+      "cardiovascular",
+      "eficiencia",
+      "ritmo",
+      "adaptacion",
+      "resistencia"
+    ],
+    "base_response": "La adaptación cardiovascular al ejercicio continuo incrementa la eficiencia del corazón, estabiliza el ritmo cardíaco y mejora la resistencia aeróbica. Estos cambios fisiológicos permiten realizar actividades prolongadas con menor desgaste, optimizando la respuesta del organismo ante esfuerzos repetidos."
+  },
+  {
+    "intent_id": "tecnologia_entrenamiento",
+    "keywords": [
+      "monitorizacion",
+      "rendimiento",
+      "analisis",
+      "sensores",
+      "optimizar"
+    ],
+    "base_response": "La tecnología transforma el entrenamiento mediante sistemas que analizan movimientos, registran datos fisiológicos y ajustan cargas de trabajo. Estas herramientas permiten decisiones precisas, seguimiento continuo y mejoras personalizadas que incrementan la eficiencia deportiva y reducen riesgos asociados al esfuerzo físico."
+  },
+  {
+    "intent_id": "tecnologia_entrenamiento_a",
+    "keywords": [
+      "automatizacion",
+      "evaluacion",
+      "progreso",
+      "software",
+      "medicion"
+    ],
+    "base_response": "Los avances tecnológicos facilitan evaluar el progreso con métricas detalladas que orientan la planificación deportiva. El uso de software especializado permite detectar patrones, corregir errores y diseñar rutinas más efectivas que fortalecen la preparación física y optimizan el rendimiento general."
+  },
+  {
+    "intent_id": "tecnologia_entrenamiento_b",
+    "keywords": [
+      "simulacion",
+      "virtualizacion",
+      "aprendizaje",
+      "interaccion",
+      "practicar"
+    ],
+    "base_response": "La simulación digital ofrece escenarios controlados donde los atletas practican habilidades específicas sin riesgos. Estas experiencias inmersivas fomentan el aprendizaje técnico, mejoran la toma de decisiones y permiten repetir situaciones complejas para perfeccionar estrategias deportivas con mayor precisión."
+  },
+  {
+    "intent_id": "tecnologia_entrenamiento_c",
+    "keywords": [
+      "biometria",
+      "seguimiento",
+      "adaptacion",
+      "registro",
+      "evaluar"
+    ],
+    "base_response": "Los sistemas biométricos registran variables corporales que ayudan a evaluar la respuesta del atleta durante el entrenamiento. Esta información permite adaptar cargas, prevenir lesiones y diseñar programas personalizados que fortalecen la salud física y mejoran la eficiencia en cada sesión deportiva."
+  },
+  {
+    "intent_id": "tecnologia_entrenamiento_d",
+    "keywords": [
+      "inteligencia",
+      "procesamiento",
+      "datos",
+      "prediccion",
+      "entrenar"
+    ],
+    "base_response": "La inteligencia artificial procesa grandes volúmenes de datos para predecir comportamientos deportivos y orientar decisiones estratégicas. Estas herramientas permiten entrenar con mayor precisión, identificar áreas de mejora y ajustar métodos que incrementan la efectividad del rendimiento físico."
+  },
+  {
+    "intent_id": "acuaticos_rehabilitacion",
+    "keywords": [
+      "flotacion",
+      "movilidad",
+      "resistencia",
+      "coordinacion",
+      "recuperacion"
+    ],
+    "base_response": "La flotación reduce la carga articular y facilita movimientos seguros. La resistencia del agua mejora la fuerza sin impacto. La coordinación se entrena con desplazamientos controlados. Estas prácticas favorecen la recuperación funcional y fortalecen la confianza motora del paciente."
+  },
+  {
+    "intent_id": "acuaticos_rehabilitacion_a",
+    "keywords": [
+      "hidroterapia",
+      "equilibrio",
+      "fortalecimiento",
+      "adaptacion",
+      "progresion"
+    ],
+    "base_response": "La hidroterapia permite trabajar equilibrio con menor riesgo de caída. El fortalecimiento se logra mediante ejercicios adaptados. La adaptación progresiva del paciente facilita mejoras constantes. El entorno acuático favorece movimientos amplios y seguros durante la rehabilitación física."
+  },
+  {
+    "intent_id": "acuaticos_rehabilitacion_b",
+    "keywords": [
+      "inmersion",
+      "estabilidad",
+      "control",
+      "flexibilidad",
+      "recuperacion"
+    ],
+    "base_response": "La inmersión proporciona estabilidad adicional para practicar control postural. La flexibilidad mejora gracias a la temperatura del agua. La recuperación se acelera mediante ejercicios suaves y repetitivos. El medio acuático reduce dolor y facilita la ejecución de movimientos complejos."
+  },
+  {
+    "intent_id": "acuaticos_rehabilitacion_c",
+    "keywords": [
+      "natacion",
+      "respiracion",
+      "alineacion",
+      "coordinacion",
+      "resistencia"
+    ],
+    "base_response": "La natación promueve respiración eficiente y alineación corporal. La coordinación se desarrolla con patrones rítmicos de movimiento. La resistencia del agua fortalece musculatura profunda. Estas prácticas contribuyen a rehabilitación integral y mejoran la funcionalidad diaria del paciente."
+  },
+  {
+    "intent_id": "acuaticos_rehabilitacion_d",
+    "keywords": [
+      "acuagim",
+      "movimiento",
+      "estiramiento",
+      "fortaleza",
+      "rehabilitacion"
+    ],
+    "base_response": "El acuagim facilita movimiento seguro y controlado. Los estiramientos en agua mejoran amplitud articular. La fortaleza muscular aumenta con ejercicios de baja carga. La rehabilitación se vuelve más accesible gracias a la flotación, que reduce impacto y favorece la movilidad funcional."
+  },
+  {
+    "intent_id": "propiocepcion_control",
+    "keywords": [
+      "equilibrio",
+      "coordinacion",
+      "movimiento",
+      "percepcion",
+      "estabilidad"
+    ],
+    "base_response": "La propiocepción permite reconocer la posición corporal y ajustar movimientos con precisión. Favorece la estabilidad, mejora la coordinación y reduce lesiones. Entrenarla mediante ejercicios específicos fortalece la respuesta neuromuscular y optimiza el control corporal en actividades deportivas exigentes."
+  },
+  {
+    "intent_id": "propiocepcion_control_a",
+    "keywords": [
+      "sensacion",
+      "musculo",
+      "balance",
+      "adaptacion",
+      "respuesta"
+    ],
+    "base_response": "La propiocepción integra señales musculares y articulares para sostener el balance dinámico. Su desarrollo facilita respuestas rápidas ante cambios del entorno. Practicar tareas variadas potencia la adaptación corporal y mejora el rendimiento deportivo mediante movimientos más seguros y eficientes."
+  },
+  {
+    "intent_id": "propiocepcion_control_b",
+    "keywords": [
+      "control",
+      "postura",
+      "fuerza",
+      "coordinacion",
+      "movimiento"
+    ],
+    "base_response": "El control corporal depende de la propiocepción para ajustar postura y fuerza en cada acción. Entrenar esta capacidad mejora la coordinación fina y la ejecución técnica. Su fortalecimiento contribuye a prevenir errores motores y optimizar la calidad del movimiento en diferentes disciplinas deportivas."
+  },
+  {
+    "intent_id": "propiocepcion_control_c",
+    "keywords": [
+      "estabilidad",
+      "equilibrio",
+      "movimiento",
+      "percepcion",
+      "ajuste"
+    ],
+    "base_response": "La propiocepción guía ajustes inmediatos que sostienen la estabilidad durante movimientos complejos. Su práctica constante incrementa la precisión motora y favorece el equilibrio. En el deporte, esta habilidad resulta esencial para reaccionar eficazmente ante situaciones cambiantes y demandas físicas intensas."
+  },
+  {
+    "intent_id": "propiocepcion_control_d",
+    "keywords": [
+      "coordinacion",
+      "sensacion",
+      "movimiento",
+      "balance",
+      "respuesta"
+    ],
+    "base_response": "La propiocepción permite interpretar sensaciones internas para coordinar movimientos con mayor exactitud. Su entrenamiento mejora el balance y fortalece la respuesta corporal ante estímulos inesperados. En el ámbito deportivo, impulsa acciones más fluidas y reduce el riesgo de lesiones recurrentes."
+  },
+  {
+    "intent_id": "fuerza_adolescentes",
+    "keywords": [
+      "fortalecimiento",
+      "musculacion",
+      "adaptacion",
+      "progresion",
+      "seguridad"
+    ],
+    "base_response": "El entrenamiento de fuerza en adolescentes requiere supervisión adecuada, progresión gradual y énfasis en la técnica correcta. Favorece el desarrollo muscular, mejora la coordinación y fortalece la estructura ósea. Integrar descansos y variedad de ejercicios garantiza beneficios sostenibles sin comprometer la salud general."
+  },
+  {
+    "intent_id": "fuerza_adolescentes_a",
+    "keywords": [
+      "resistencia",
+      "planificacion",
+      "supervision",
+      "motivacion",
+      "control"
+    ],
+    "base_response": "La fuerza en adolescentes debe abordarse con planificación estructurada, considerando su maduración física. La supervisión profesional asegura movimientos seguros y eficaces. La motivación constante y el control de cargas permiten avances equilibrados, evitando lesiones y promoviendo hábitos saludables que fortalecen su bienestar integral."
+  },
+  {
+    "intent_id": "fuerza_adolescentes_b",
+    "keywords": [
+      "coordinacion",
+      "equilibrio",
+      "ejecucion",
+      "variabilidad",
+      "progreso"
+    ],
+    "base_response": "El entrenamiento de fuerza en adolescentes impulsa la coordinación y el equilibrio mediante ejercicios variados. La ejecución correcta es esencial para evitar riesgos y consolidar progresos. La variabilidad en rutinas estimula la adaptación muscular, favoreciendo un desarrollo físico armónico y seguro durante esta etapa de crecimiento."
+  },
+  {
+    "intent_id": "fuerza_adolescentes_c",
+    "keywords": [
+      "tecnica",
+      "estabilidad",
+      "fortaleza",
+      "evaluacion",
+      "consistencia"
+    ],
+    "base_response": "La técnica adecuada en el entrenamiento de fuerza adolescente garantiza estabilidad y fortaleza. La evaluación periódica permite ajustar cargas según su evolución. La consistencia en la práctica fomenta mejoras sostenidas, promoviendo confianza corporal y hábitos deportivos que contribuyen a un desarrollo saludable y responsable."
+  },
+  {
+    "intent_id": "fuerza_adolescentes_d",
+    "keywords": [
+      "prevencion",
+      "lesiones",
+      "movilidad",
+      "intensidad",
+      "progreso"
+    ],
+    "base_response": "La prevención de lesiones en adolescentes exige movilidad adecuada y control de intensidad. El entrenamiento de fuerza bien estructurado impulsa el progreso físico sin comprometer articulaciones. Integrar calentamientos y estiramientos mejora la calidad del movimiento, fortaleciendo su capacidad atlética y promoviendo seguridad constante."
+  },
+  {
+    "intent_id": "planificacion_semana",
+    "keywords": [
+      "objetivos",
+      "progresion",
+      "descanso",
+      "ejecucion",
+      "evaluacion"
+    ],
+    "base_response": "Planificar una rutina deportiva semanal exige definir objetivos claros, distribuir sesiones equilibradas, alternar intensidades y asegurar descansos adecuados. Integrar progresión gradual y evaluar resultados permite sostener la motivación, prevenir lesiones y mejorar el rendimiento general de manera constante."
+  },
+  {
+    "intent_id": "planificacion_semana_a",
+    "keywords": [
+      "organizacion",
+      "fuerza",
+      "resistencia",
+      "flexibilidad",
+      "seguimiento"
+    ],
+    "base_response": "Una planificación semanal efectiva combina fuerza, resistencia y flexibilidad, organizando cada sesión según metas personales. Mantener un seguimiento continuo ayuda a ajustar cargas, optimizar tiempos y garantizar que el cuerpo reciba estímulos variados para mejorar su condición física integral."
+  },
+  {
+    "intent_id": "planificacion_semana_b",
+    "keywords": [
+      "priorizacion",
+      "ritmo",
+      "adaptacion",
+      "constancia",
+      "variacion"
+    ],
+    "base_response": "Establecer prioridades y ritmo semanal permite adaptar la rutina a necesidades reales. La constancia y la variación de ejercicios favorecen avances sostenidos. Ajustar la planificación según sensaciones corporales garantiza equilibrio entre esfuerzo y recuperación, evitando sobrecargas innecesarias."
+  },
+  {
+    "intent_id": "planificacion_semana_c",
+    "keywords": [
+      "calendario",
+      "intensidad",
+      "metas",
+      "equilibrio",
+      "progreso"
+    ],
+    "base_response": "Crear un calendario deportivo semanal implica distribuir intensidades y metas de forma equilibrada. Esta organización facilita el progreso continuo, permitiendo alternar sesiones exigentes con actividades más suaves. Así se construye una rutina sostenible que impulsa mejoras físicas y mentales."
+  },
+  {
+    "intent_id": "planificacion_semana_d",
+    "keywords": [
+      "estructura",
+      "motivacion",
+      "control",
+      "rutina",
+      "planificacion"
+    ],
+    "base_response": "Una estructura semanal clara fortalece la motivación y el control del entrenamiento. Planificar cada sesión con propósito ayuda a mantener coherencia y evitar improvisaciones. Esta estrategia permite consolidar hábitos deportivos duraderos y alcanzar objetivos con mayor eficiencia y seguridad."
+  },
+  {
+    "intent_id": "hierro_oxigenacion",
+    "keywords": [
+      "hierro",
+      "oxigenacion",
+      "transporte",
+      "musculo",
+      "rendimiento"
+    ],
+    "base_response": "El hierro facilita la unión del oxígeno a la hemoglobina, permitiendo su llegada eficiente al músculo. Una adecuada disponibilidad de hierro sostiene la producción energética, mejora la resistencia y evita la fatiga prematura durante esfuerzos prolongados en actividades deportivas intensas."
+  },
+  {
+    "intent_id": "hierro_oxigenacion_a",
+    "keywords": [
+      "hemoglobina",
+      "mioglobina",
+      "respiracion",
+      "energia",
+      "contraccion"
+    ],
+    "base_response": "La hemoglobina y la mioglobina dependen del hierro para transportar y almacenar oxígeno. Este proceso optimiza la respiración celular, favorece la producción de energía y sostiene la contracción muscular, especialmente en deportes que exigen esfuerzos repetidos y prolongados."
+  },
+  {
+    "intent_id": "hierro_oxigenacion_b",
+    "keywords": [
+      "metabolismo",
+      "oxidacion",
+      "resistencia",
+      "musculo",
+      "nutricion"
+    ],
+    "base_response": "El hierro participa en reacciones metabólicas que permiten la oxidación de nutrientes. Una ingesta adecuada mejora la resistencia muscular, favorece la recuperación y asegura que el músculo reciba suficiente oxígeno para mantener un rendimiento deportivo estable y eficiente."
+  },
+  {
+    "intent_id": "hierro_oxigenacion_c",
+    "keywords": [
+      "enzimas",
+      "respiracion",
+      "hierro",
+      "musculo",
+      "actividad"
+    ],
+    "base_response": "Varias enzimas dependientes del hierro intervienen en la respiración celular, asegurando que el músculo utilice el oxígeno de manera óptima. Este mecanismo resulta esencial para sostener la actividad física intensa y retrasar la aparición de la fatiga durante el ejercicio."
+  },
+  {
+    "intent_id": "hierro_oxigenacion_d",
+    "keywords": [
+      "capacidad",
+      "oxigeno",
+      "hierro",
+      "musculo",
+      "rendimiento"
+    ],
+    "base_response": "La capacidad del cuerpo para transportar oxígeno depende en gran medida del hierro. Cuando los niveles son adecuados, el músculo recibe suficiente oxígeno para mantener su rendimiento, mejorar la eficiencia energética y soportar cargas deportivas exigentes sin disminuir la intensidad."
+  },
+  {
+    "intent_id": "estabilizacion",
+    "keywords": [
+      "equilibrio",
+      "fortalecer",
+      "estabilizar",
+      "coordinacion",
+      "control"
+    ],
+    "base_response": "Los ejercicios de estabilización fortalecen músculos profundos, mejoran la coordinación y aumentan el control postural. Practicarlos regularmente reduce el riesgo de caídas, especialmente en personas mayores. Incluyen movimientos lentos, cambios de apoyo y trabajo de equilibrio dinámico para mantener estabilidad funcional."
+  },
+  {
+    "intent_id": "estabilizacion_a",
+    "keywords": [
+      "equilibrio",
+      "propriocepcion",
+      "fortalecer",
+      "estabilizar",
+      "movimiento"
+    ],
+    "base_response": "La estabilización corporal mejora la propriocepción y fortalece estructuras clave para sostener el equilibrio. Estos ejercicios entrenan respuestas rápidas ante desequilibrios, reduciendo caídas. Integran movimientos controlados, variaciones de apoyo y desafíos progresivos que preparan el cuerpo para situaciones cotidianas."
+  },
+  {
+    "intent_id": "estabilizacion_b",
+    "keywords": [
+      "equilibrio",
+      "fortalecer",
+      "estabilizar",
+      "coordinacion",
+      "proteger"
+    ],
+    "base_response": "Los ejercicios de estabilización ayudan a proteger articulaciones y mejorar la coordinación. Al fortalecer músculos estabilizadores, se incrementa la capacidad de reaccionar ante cambios bruscos. Su práctica constante disminuye caídas y favorece un movimiento seguro durante actividades diarias."
+  },
+  {
+    "intent_id": "estabilizacion_c",
+    "keywords": [
+      "equilibrio",
+      "estabilizar",
+      "fortalecer",
+      "movimiento",
+      "control"
+    ],
+    "base_response": "La estabilización corporal desarrolla control postural y fortalece músculos esenciales para sostener el equilibrio. Estos ejercicios preparan al cuerpo para responder eficazmente ante inestabilidad. Su práctica regular reduce caídas y mejora la seguridad en desplazamientos cotidianos."
+  },
+  {
+    "intent_id": "estabilizacion_d",
+    "keywords": [
+      "equilibrio",
+      "fortalecer",
+      "estabilizar",
+      "coordinacion",
+      "movimiento"
+    ],
+    "base_response": "Los ejercicios de estabilización optimizan la coordinación y fortalecen músculos profundos que sostienen el equilibrio. Practicarlos disminuye caídas al mejorar la capacidad de reaccionar ante perturbaciones. Incluyen movimientos controlados y variaciones de apoyo que incrementan estabilidad funcional."
+  },
+  {
+    "intent_id": "pliometria_potencia",
+    "keywords": [
+      "salto",
+      "impulso",
+      "fuerza",
+      "coordinacion",
+      "velocidad"
+    ],
+    "base_response": "Los ejercicios pliométricos mejoran la potencia al combinar saltos explosivos y movimientos rápidos. Incrementan la capacidad neuromuscular, optimizan la coordinación y fortalecen el sistema elástico muscular. Practicarlos con técnica adecuada reduce riesgos y potencia el rendimiento deportivo en disciplinas que requieren aceleraciones intensas."
+  },
+  {
+    "intent_id": "pliometria_potencia_a",
+    "keywords": [
+      "despegue",
+      "carga",
+      "estabilidad",
+      "salto",
+      "impacto"
+    ],
+    "base_response": "La pliometría desarrolla potencia mediante ciclos de estiramiento y acortamiento muscular. Al ejecutar saltos con control del impacto, se mejora la estabilidad y la capacidad de generar fuerza rápidamente. Este método resulta esencial para atletas que buscan mayor eficiencia en movimientos explosivos repetidos."
+  },
+  {
+    "intent_id": "pliometria_potencia_b",
+    "keywords": [
+      "salto",
+      "reactividad",
+      "fuerza",
+      "aceleracion",
+      "impulso"
+    ],
+    "base_response": "Los entrenamientos pliométricos incrementan la reactividad muscular, permitiendo producir fuerza en menos tiempo. Saltos verticales y horizontales fortalecen tendones y mejoran la aceleración. Integrar progresiones adecuadas garantiza avances seguros y sostenidos en la potencia aplicada a gestos deportivos específicos."
+  },
+  {
+    "intent_id": "pliometria_potencia_c",
+    "keywords": [
+      "fuerza",
+      "salto",
+      "coordinacion",
+      "impulso",
+      "estabilidad"
+    ],
+    "base_response": "La pliometría potencia el rendimiento al estimular el sistema neuromuscular mediante saltos controlados. Mejora la coordinación, incrementa la fuerza explosiva y refuerza la estabilidad articular. Su aplicación constante favorece movimientos más eficientes en deportes que exigen cambios rápidos de dirección."
+  },
+  {
+    "intent_id": "pliometria_potencia_d",
+    "keywords": [
+      "salto",
+      "fuerza",
+      "velocidad",
+      "impulso",
+      "resistencia"
+    ],
+    "base_response": "Los ejercicios pliométricos combinan velocidad y fuerza para generar potencia. Saltos repetidos mejoran la capacidad de producir impulsos intensos y fortalecen estructuras musculares. Su práctica progresiva incrementa la resistencia a esfuerzos explosivos, beneficiando a deportistas que requieren acciones rápidas y potentes."
+  },
+  {
+    "intent_id": "vendaje_neuromuscular",
+    "keywords": [
+      "vendaje",
+      "musculo",
+      "tension",
+      "movimiento",
+      "recuperacion"
+    ],
+    "base_response": "El vendaje neuromuscular favorece la función muscular al reducir tensiones y mejorar la circulación. Su aplicación correcta optimiza el movimiento, disminuye molestias y acelera la recuperación deportiva. Además, contribuye a prevenir lesiones mediante soporte dinámico sin limitar la movilidad natural del atleta."
+  },
+  {
+    "intent_id": "vendaje_neuromuscular_a",
+    "keywords": [
+      "adhesion",
+      "estimulo",
+      "piel",
+      "contraccion",
+      "estabilidad"
+    ],
+    "base_response": "El vendaje neuromuscular actúa mediante adhesión estratégica que estimula la piel y favorece la contracción muscular eficiente. Proporciona estabilidad sin rigidez, ayudando al deportista a mantener patrones de movimiento seguros. Su uso adecuado mejora la propiocepción y reduce el riesgo de lesiones recurrentes."
+  },
+  {
+    "intent_id": "vendaje_neuromuscular_b",
+    "keywords": [
+      "circulacion",
+      "drenaje",
+      "tejido",
+      "presion",
+      "soporte"
+    ],
+    "base_response": "El vendaje neuromuscular mejora la circulación y facilita el drenaje linfático, reduciendo inflamaciones en el tejido afectado. Su aplicación controla la presión sobre zonas sensibles y ofrece soporte funcional. Esto permite al deportista continuar entrenando con mayor comodidad y eficiencia biomecánica."
+  },
+  {
+    "intent_id": "vendaje_neuromuscular_c",
+    "keywords": [
+      "propriocepcion",
+      "equilibrio",
+      "activacion",
+      "musculo",
+      "rendimiento"
+    ],
+    "base_response": "El vendaje neuromuscular incrementa la propriocepción, ayudando al deportista a mantener equilibrio y control motor. Su efecto sobre la activación muscular favorece un rendimiento más estable. Además, permite corregir descompensaciones funcionales sin restringir la movilidad, mejorando la calidad del gesto deportivo."
+  },
+  {
+    "intent_id": "vendaje_neuromuscular_d",
+    "keywords": [
+      "prevencion",
+      "lesion",
+      "movilidad",
+      "estimulo",
+      "musculo"
+    ],
+    "base_response": "El vendaje neuromuscular contribuye a la prevención de lesiones mediante estímulos que guían la movilidad adecuada. Su acción sobre el músculo favorece la alineación funcional y disminuye sobrecargas. Es una herramienta útil para mantener continuidad en el entrenamiento y mejorar la eficiencia corporal."
+  },
+  {
+    "intent_id": "ansiedad_precompetitiva",
+    "keywords": [
+      "respiracion",
+      "visualizacion",
+      "autocontrol",
+      "concentracion",
+      "preparacion"
+    ],
+    "base_response": "La ansiedad precompetitiva puede manejarse mediante respiración consciente, visualización positiva y autocontrol emocional. Estas estrategias fortalecen la concentración y la preparación mental, permitiendo afrontar la competencia con mayor seguridad, reducir tensiones internas y optimizar el rendimiento deportivo en situaciones exigentes."
+  },
+  {
+    "intent_id": "ansiedad_precompetitiva_a",
+    "keywords": [
+      "rutinas",
+      "relajacion",
+      "confianza",
+      "planificacion",
+      "evaluacion"
+    ],
+    "base_response": "Establecer rutinas de relajación y planificar cada etapa competitiva ayuda a disminuir la ansiedad. La confianza se construye evaluando progresos y reconociendo habilidades personales, lo que permite afrontar desafíos con mayor estabilidad emocional y una perspectiva más equilibrada del rendimiento deportivo."
+  },
+  {
+    "intent_id": "ansiedad_precompetitiva_b",
+    "keywords": [
+      "mindfulness",
+      "respiracion",
+      "control",
+      "focalizacion",
+      "autoconocimiento"
+    ],
+    "base_response": "El mindfulness favorece el autoconocimiento y la focalización en el presente, reduciendo pensamientos anticipatorios que generan ansiedad. Integrar ejercicios de respiración y control emocional permite mantener estabilidad mental, mejorar la preparación psicológica y afrontar la competencia con mayor serenidad."
+  },
+  {
+    "intent_id": "ansiedad_precompetitiva_c",
+    "keywords": [
+      "motivacion",
+      "objetivos",
+      "entrenamiento",
+      "autogestion",
+      "equilibrio"
+    ],
+    "base_response": "Definir objetivos realistas y fortalecer la motivación facilita la autogestión de la ansiedad. Un entrenamiento equilibrado, que incluya aspectos físicos y psicológicos, permite afrontar la competencia con mayor claridad mental, reduciendo tensiones y favoreciendo un desempeño más estable y seguro."
+  },
+  {
+    "intent_id": "ansiedad_precompetitiva_d",
+    "keywords": [
+      "dialogo",
+      "emociones",
+      "regulacion",
+      "anticipacion",
+      "seguridad"
+    ],
+    "base_response": "El diálogo interno positivo ayuda a regular emociones y disminuir la anticipación negativa. Reconocer sensaciones corporales y aplicar técnicas de regulación emocional incrementa la seguridad personal, permitiendo enfrentar la competencia con mayor control, confianza y una actitud mental más estable."
+  },
+  {
+    "intent_id": "altitud_oxigeno_hematocrito",
+    "keywords": [
+      "altitud",
+      "oxigeno",
+      "adaptacion",
+      "respiracion",
+      "rendimiento"
+    ],
+    "base_response": "La altitud reduce la disponibilidad de oxígeno, obligando al cuerpo a ajustar su respiración y aumentar la producción de glóbulos rojos. Estos cambios buscan sostener el rendimiento aeróbico, aunque inicialmente generan fatiga y disminución de la capacidad física durante esfuerzos prolongados."
+  },
+  {
+    "intent_id": "hipoxia_resistencia_fisiologia",
+    "keywords": [
+      "hipoxia",
+      "resistencia",
+      "fisiologia",
+      "entrenamiento",
+      "pulmones"
+    ],
+    "base_response": "La hipoxia en altura afecta la resistencia al limitar el transporte de oxígeno. El organismo incrementa la ventilación y modifica la función pulmonar para compensar. Estas adaptaciones mejoran el rendimiento aeróbico con el tiempo, aunque requieren una fase inicial de aclimatación."
+  },
+  {
+    "intent_id": "aclimatacion_musculos_metabolismo",
+    "keywords": [
+      "aclimatacion",
+      "musculos",
+      "metabolismo",
+      "energia",
+      "esfuerzo"
+    ],
+    "base_response": "La aclimatación permite que los músculos utilicen el oxígeno de manera más eficiente. El metabolismo se ajusta para optimizar la producción de energía durante el esfuerzo. Este proceso mejora el rendimiento aeróbico, aunque exige varios días de adaptación progresiva en altura."
+  },
+  {
+    "intent_id": "ventilacion_frecuencia_cardio",
+    "keywords": [
+      "ventilacion",
+      "frecuencia",
+      "cardio",
+      "adaptacion",
+      "oxigenacion"
+    ],
+    "base_response": "En altura, la ventilación aumenta y la frecuencia cardíaca se eleva para compensar la menor oxigenación. Estas respuestas cardiovasculares sostienen el rendimiento aeróbico, aunque incrementan la percepción de esfuerzo. Con el tiempo, el cuerpo ajusta estos parámetros para mejorar la eficiencia."
+  },
+  {
+    "intent_id": "rendimiento_altura_entrenamiento",
+    "keywords": [
+      "rendimiento",
+      "altura",
+      "entrenamiento",
+      "oxigeno",
+      "resistencia"
+    ],
+    "base_response": "El entrenamiento en altura potencia la resistencia al estimular adaptaciones fisiológicas relacionadas con el uso del oxígeno. Aunque inicialmente disminuye el rendimiento, la exposición controlada mejora la capacidad aeróbica. Este método es utilizado por atletas para optimizar su desempeño en competencias."
+  },
+  {
+    "intent_id": "beneficio_escalada",
+    "keywords": [
+      "fuerza",
+      "coordinacion",
+      "equilibrio",
+      "movimiento",
+      "resistencia"
+    ],
+    "base_response": "La escalada deportiva indoor fortalece la musculatura, mejora la coordinación y desarrolla equilibrio mediante movimientos controlados. Además, incrementa la resistencia física y promueve hábitos saludables al ofrecer un entorno seguro para practicar habilidades motrices complejas sin exposición a condiciones climáticas adversas."
+  },
+  {
+    "intent_id": "beneficio_escalada_a",
+    "keywords": [
+      "concentracion",
+      "estrategia",
+      "planificacion",
+      "resolucion",
+      "retos"
+    ],
+    "base_response": "La escalada deportiva indoor impulsa la concentración y exige estrategia para resolver rutas. Fomenta la planificación anticipada y la resolución de retos, fortaleciendo habilidades cognitivas. Este proceso mental mejora la toma de decisiones y estimula el pensamiento crítico en situaciones controladas y progresivas."
+  },
+  {
+    "intent_id": "beneficio_escalada_b",
+    "keywords": [
+      "confianza",
+      "motivacion",
+      "superacion",
+      "progreso",
+      "habilidades"
+    ],
+    "base_response": "La escalada deportiva indoor incrementa la confianza personal al evidenciar progreso constante. Motiva la superación de límites y refuerza habilidades físicas y mentales. Cada ascenso exitoso fortalece la autoestima, generando una experiencia formativa que impulsa el desarrollo integral del practicante."
+  },
+  {
+    "intent_id": "beneficio_escalada_c",
+    "keywords": [
+      "flexibilidad",
+      "movilidad",
+      "tecnica",
+      "adaptacion",
+      "control"
+    ],
+    "base_response": "La escalada deportiva indoor mejora la flexibilidad y la movilidad articular mediante técnicas variadas. Exige adaptación continua y control corporal preciso. Este entrenamiento contribuye a prevenir lesiones, optimizar la postura y favorecer un desempeño físico equilibrado en actividades cotidianas y deportivas."
+  },
+  {
+    "intent_id": "beneficio_escalada_d",
+    "keywords": [
+      "comunidad",
+      "cooperacion",
+      "aprendizaje",
+      "motivacion",
+      "interaccion"
+    ],
+    "base_response": "La escalada deportiva indoor fomenta la comunidad y la cooperación entre participantes. Facilita el aprendizaje compartido y potencia la motivación mediante la interacción social. Este entorno colaborativo fortalece vínculos y promueve experiencias enriquecedoras que impulsan el compromiso con la actividad física."
+  },
+  {
+    "intent_id": "isometrico_resistencia",
+    "keywords": [
+      "contraccion",
+      "musculo",
+      "tension",
+      "fuerza",
+      "resistencia"
+    ],
+    "base_response": "Los ejercicios isométricos fortalecen la resistencia al mantener tensión muscular sin movimiento. Esta práctica mejora la estabilidad, incrementa la fuerza y optimiza el control corporal. Realizarlos con regularidad permite sostener esfuerzos prolongados y desarrollar una base física sólida para actividades deportivas intensas."
+  },
+  {
+    "intent_id": "isometrico_resistencia_a",
+    "keywords": [
+      "estabilidad",
+      "core",
+      "contraccion",
+      "aguante",
+      "fortaleza"
+    ],
+    "base_response": "La resistencia se incrementa mediante ejercicios isométricos que exigen mantener posiciones exigentes. Activar el core y sostener contracciones prolongadas mejora el aguante físico. Esta técnica favorece la fortaleza general y prepara el cuerpo para esfuerzos continuos en diversas disciplinas deportivas."
+  },
+  {
+    "intent_id": "isometrico_resistencia_b",
+    "keywords": [
+      "postura",
+      "contraccion",
+      "equilibrio",
+      "control",
+      "musculo"
+    ],
+    "base_response": "Los ejercicios isométricos refuerzan la resistencia al mantener posturas estables durante varios segundos. Esta práctica desarrolla control corporal, mejora el equilibrio y fortalece grupos musculares clave. Su aplicación constante permite enfrentar actividades deportivas prolongadas con mayor eficiencia y seguridad."
+  },
+  {
+    "intent_id": "isometrico_resistencia_c",
+    "keywords": [
+      "fuerza",
+      "contraccion",
+      "soporte",
+      "musculo",
+      "aguante"
+    ],
+    "base_response": "La resistencia se potencia mediante contracciones isométricas que obligan a los músculos a sostener cargas sin movimiento. Este método mejora el aguante y el soporte corporal, permitiendo enfrentar entrenamientos intensos. Integrarlo en rutinas deportivas favorece un rendimiento físico más estable y duradero."
+  },
+  {
+    "intent_id": "isometrico_resistencia_d",
+    "keywords": [
+      "tension",
+      "control",
+      "musculo",
+      "estabilidad",
+      "fortaleza"
+    ],
+    "base_response": "Los ejercicios isométricos incrementan la resistencia al mantener tensión constante en los músculos. Esta técnica mejora la estabilidad y el control corporal, fortaleciendo zonas clave. Practicarlos con frecuencia permite sostener esfuerzos prolongados y optimizar el rendimiento en diversas actividades deportivas."
+  },
+  {
+    "intent_id": "tenis_reflejos",
+    "keywords": [
+      "coordinacion",
+      "movimiento",
+      "anticipacion",
+      "velocidad",
+      "impacto"
+    ],
+    "base_response": "El tenis impulsa reflejos rápidos mediante acciones que exigen anticipar trayectorias, reaccionar ante impactos veloces y coordinar movimientos precisos. La práctica constante fortalece la conexión neuromuscular, permitiendo respuestas más eficientes y mejor control corporal durante situaciones deportivas que requieren decisiones inmediatas."
+  },
+  {
+    "intent_id": "tenis_reflejos_a",
+    "keywords": [
+      "respuesta",
+      "estimulo",
+      "golpeo",
+      "precision",
+      "adaptacion"
+    ],
+    "base_response": "La dinámica del tenis favorece reflejos ágiles al enfrentar estímulos cambiantes que exigen respuestas inmediatas. El golpeo preciso y la adaptación continua a la velocidad de la pelota desarrollan habilidades cognitivas y motoras, fortaleciendo la capacidad de reaccionar eficazmente en escenarios deportivos exigentes."
+  },
+  {
+    "intent_id": "tenis_reflejos_b",
+    "keywords": [
+      "percepcion",
+      "reaccion",
+      "movimiento",
+      "control",
+      "ritmo"
+    ],
+    "base_response": "El tenis mejora reflejos rápidos al integrar percepción visual, reacción inmediata y control del movimiento. Ajustar el ritmo frente a golpes inesperados estimula la agilidad mental y física, promoviendo un desarrollo integral que facilita respuestas oportunas en diversas situaciones deportivas de alta demanda."
+  },
+  {
+    "intent_id": "tenis_reflejos_c",
+    "keywords": [
+      "agilidad",
+      "direccion",
+      "impacto",
+      "respuesta",
+      "movimiento"
+    ],
+    "base_response": "La práctica del tenis potencia reflejos veloces mediante desplazamientos ágiles y cambios de dirección constantes. Enfrentar impactos repentinos exige respuestas coordinadas que fortalecen la rapidez motora, contribuyendo a un desempeño deportivo más eficiente y adaptable ante desafíos de alta intensidad."
+  },
+  {
+    "intent_id": "tenis_reflejos_d",
+    "keywords": [
+      "anticipacion",
+      "velocidad",
+      "movimiento",
+      "reaccion",
+      "golpeo"
+    ],
+    "base_response": "El tenis estimula reflejos rápidos al requerir anticipación constante y reacción inmediata frente a golpes veloces. La interacción entre movimiento coordinado y velocidad de respuesta desarrolla habilidades motoras esenciales, mejorando la capacidad de actuar eficazmente en situaciones deportivas de ritmo acelerado."
+  },
+  {
+    "intent_id": "beneficios_sociales",
+    "keywords": [
+      "convivencia",
+      "cooperacion",
+      "participacion",
+      "integracion",
+      "comunidad"
+    ],
+    "base_response": "Los clubes deportivos fortalecen la convivencia y la integración social mediante actividades que promueven cooperación y participación activa. Fomentan vínculos comunitarios, desarrollan habilidades sociales y generan espacios seguros donde personas diversas comparten experiencias, construyen confianza y consolidan redes de apoyo significativas."
+  },
+  {
+    "intent_id": "beneficios_sociales_a",
+    "keywords": [
+      "liderazgo",
+      "responsabilidad",
+      "motivacion",
+      "disciplina",
+      "interaccion"
+    ],
+    "base_response": "La participación en clubes deportivos impulsa el liderazgo y la responsabilidad al involucrar a los miembros en tareas colaborativas. Estas dinámicas fortalecen la motivación, la disciplina y la interacción positiva, creando entornos donde se desarrollan competencias sociales esenciales para la vida cotidiana."
+  },
+  {
+    "intent_id": "beneficios_sociales_b",
+    "keywords": [
+      "inclusion",
+      "diversidad",
+      "aprendizaje",
+      "convivencia",
+      "cohesion"
+    ],
+    "base_response": "Los clubes deportivos promueven inclusión y respeto por la diversidad, generando espacios donde el aprendizaje social surge de la convivencia diaria. Estas experiencias fortalecen la cohesión grupal, favorecen la empatía y permiten construir relaciones basadas en valores compartidos."
+  },
+  {
+    "intent_id": "beneficios_sociales_c",
+    "keywords": [
+      "comunicacion",
+      "colaboracion",
+      "confianza",
+      "pertenencia",
+      "interaccion"
+    ],
+    "base_response": "La práctica deportiva en clubes estimula la comunicación efectiva y la colaboración entre sus integrantes. Estas dinámicas fortalecen la confianza, el sentido de pertenencia y la interacción respetuosa, creando comunidades sólidas que apoyan el desarrollo integral de sus miembros."
+  },
+  {
+    "intent_id": "higiene_deportiva",
+    "keywords": [
+      "higiene",
+      "prevencion",
+      "lesiones",
+      "rutina",
+      "salud"
+    ],
+    "base_response": "La higiene deportiva personal reduce infecciones, mejora el rendimiento y fortalece la salud general. Mantener ropa limpia, ducharse tras entrenar y cuidar la piel evita molestias y lesiones. Una rutina constante fomenta hábitos responsables que favorecen el bienestar físico y emocional del deportista."
+  },
+  {
+    "intent_id": "higiene_deportiva_a",
+    "keywords": [
+      "limpieza",
+      "entrenamiento",
+      "bacterias",
+      "cuidado",
+      "disciplina"
+    ],
+    "base_response": "La higiene deportiva personal controla bacterias y hongos que afectan la piel y el rendimiento. Limpiar equipo, usar prendas adecuadas y mantener disciplina diaria reduce riesgos. Este cuidado constante fortalece la confianza y promueve un entorno deportivo seguro y saludable para todos."
+  },
+  {
+    "intent_id": "higiene_deportiva_b",
+    "keywords": [
+      "ducha",
+      "sudor",
+      "prevencion",
+      "orden",
+      "salud"
+    ],
+    "base_response": "La higiene deportiva personal incluye ducharse tras el ejercicio para eliminar sudor y microorganismos. Este hábito previene irritaciones y enfermedades cutáneas. Mantener orden en el equipo y ropa deportiva refuerza la salud, mejora la comodidad y favorece una práctica física responsable."
+  },
+  {
+    "intent_id": "higiene_deportiva_c",
+    "keywords": [
+      "higiene",
+      "equipamiento",
+      "limpieza",
+      "prevencion",
+      "bienestar"
+    ],
+    "base_response": "La higiene deportiva personal exige limpiar equipamiento y mantener hábitos que eviten infecciones. Una práctica constante de higiene favorece el bienestar físico y emocional. Prevenir problemas cutáneos y mantener orden contribuye a un entorno deportivo más seguro, eficiente y saludable."
+  },
+  {
+    "intent_id": "higiene_deportiva_d",
+    "keywords": [
+      "cuidado",
+      "piel",
+      "sudor",
+      "limpieza",
+      "prevencion"
+    ],
+    "base_response": "La higiene deportiva personal protege la piel del sudor acumulado y microorganismos. Mantener limpieza diaria y cuidar zonas sensibles previene infecciones. Estos hábitos fortalecen la salud, mejoran el rendimiento y promueven una práctica deportiva más segura, responsable y equilibrada."
+  }
+]
