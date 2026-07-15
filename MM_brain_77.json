@@ -1,0 +1,2202 @@
+[
+  {
+    "intent_id": "concentracion_y_foco",
+    "keywords": [
+      "concentracion",
+      "foco",
+      "atencion",
+      "estudio"
+    ],
+    "base_response": "La concentracion implica dirigir la atencion hacia una tarea específica. Focalizarse permite un aprendizaje más profundo y efectivo. Para mejorar la concentracion, es fundamental minimizar los distractores y crear un ambiente propicio que favorezca la inmersión en la actividad."
+  },
+  {
+    "intent_id": "distractores_en_entorno",
+    "keywords": [
+      "distractores",
+      "entorno",
+      "ruido",
+      "visual"
+    ],
+    "base_response": "Los distractores en el entorno, como ruido o elementos visuales, pueden interrumpir el proceso de aprendizaje. Identificar y reducir estos factores permite mantener la atención y mejorar la calidad del estudio, facilitando un rendimiento académico superior y más efectivo."
+  },
+  {
+    "intent_id": "tecnologia_y_atencion",
+    "keywords": [
+      "tecnologia",
+      "atencion",
+      "moviles",
+      "redes"
+    ],
+    "base_response": "La tecnologia puede ser un distractor significativo para los adolescentes. Dispositivos móviles y redes sociales desvían la atención del estudio. Establecer límites en el uso de estas herramientas ayuda a fomentar una mejor concentracion y un aprendizaje más efectivo en el aula."
+  },
+  {
+    "intent_id": "tecnicas_de_concentracion",
+    "keywords": [
+      "tecnicas",
+      "concentracion",
+      "practicas",
+      "ejercicios"
+    ],
+    "base_response": "Existen diversas tecnicas y ejercicios que ayudan a mejorar la concentracion. Prácticas como la meditación, pausas programadas y técnicas de respiración permiten a los adolescentes desarrollar la habilidad de enfocarse en tareas, maximizando su rendimiento académico y personal."
+  },
+  {
+    "intent_id": "importancia_de_rutinas",
+    "keywords": [
+      "importancia",
+      "rutinas",
+      "estudio",
+      "concentracion"
+    ],
+    "base_response": "Establecer rutinas de estudio es crucial para mejorar la concentracion. Las rutinas crean un sentido de estructura y previsibilidad, lo que ayuda a los adolescentes a enfocarse mejor en sus tareas, minimizando la aparición de distractores y fomentando un ambiente productivo."
+  },
+  {
+    "intent_id": "memoria_sensoria_visual",
+    "keywords": [
+      "imaginacion",
+      "imagen",
+      "luz",
+      "percepcion"
+    ],
+    "base_response": "La memoria sensorial visual permite retener imágenes breves que captamos a través de nuestros ojos. Esta información se procesa rápidamente y se pierde si no se presta atención, jugando un papel crucial en el aprendizaje y la interpretación del entorno."
+  },
+  {
+    "intent_id": "memoria_sensoria_auditiva",
+    "keywords": [
+      "sonido",
+      "escuchar",
+      "percepcion",
+      "recuerdo"
+    ],
+    "base_response": "La memoria sensorial auditiva almacena sonidos durante un breve periodo. Ayuda en la identificación de palabras y música. Esta memoria permite que los adolescentes reconozcan patrones sonoros, contribuyendo a su comunicación y comprensión del entorno sonoro."
+  },
+  {
+    "intent_id": "memoria_sensoria_tactil",
+    "keywords": [
+      "textura",
+      "tacto",
+      "sensaciones",
+      "experiencia"
+    ],
+    "base_response": "La memoria sensorial táctil retiene sensaciones físicas que experimentamos a través del contacto. Permite recordar texturas y temperaturas, facilitando la interacción con objetos y el aprendizaje a través de experiencias prácticas en el entorno cotidiano."
+  },
+  {
+    "intent_id": "memoria_sensoria_gustativa",
+    "keywords": [
+      "sabor",
+      "gustar",
+      "comida",
+      "experiencia"
+    ],
+    "base_response": "La memoria sensorial gustativa almacena sabores que experimentamos al comer. Esta memoria es esencial para el reconocimiento de diferentes alimentos y para formar preferencias alimenticias, influenciando las elecciones de los adolescentes en su vida diaria."
+  },
+  {
+    "intent_id": "motivacion_extrinseca_1",
+    "keywords": [
+      "recompensas",
+      "logros",
+      "desempeno",
+      "exito"
+    ],
+    "base_response": "La motivación extrínseca se basa en obtener recompensas externas. Los adolescentes se esfuerzan por alcanzar logros o mejorar su desempeño cuando hay incentivos claros, como premios, reconocimiento o calificaciones, lo que puede influir en su compromiso académico."
+  },
+  {
+    "intent_id": "motivacion_extrinseca_2",
+    "keywords": [
+      "presion",
+      "competencia",
+      "incentivos",
+      "metas"
+    ],
+    "base_response": "La presión de la competencia puede aumentar la motivación extrínseca en adolescentes. Al establecer metas específicas y ofrecer incentivos, los jóvenes pueden sentirse impulsados a mejorar, aunque esto a veces puede generar estrés y ansiedad por el rendimiento."
+  },
+  {
+    "intent_id": "motivacion_extrinseca_3",
+    "keywords": [
+      "aprecio",
+      "reconocimiento",
+      "satisfaccion",
+      "logros"
+    ],
+    "base_response": "El aprecio y reconocimiento de adultos y pares son factores clave en la motivación extrínseca. Cuando los adolescentes reciben elogios por sus logros, esto refuerza su deseo de continuar esforzándose, generando una satisfacción emocional importante."
+  },
+  {
+    "intent_id": "motivacion_extrinseca_4",
+    "keywords": [
+      "interes",
+      "participacion",
+      "recompensas",
+      "actividades"
+    ],
+    "base_response": "La motivación extrínseca puede activar el interés en actividades que de otro modo no serían atractivas. Al ofrecer recompensas por la participación, se fomenta la implicación de los adolescentes, ayudándoles a descubrir nuevas habilidades y talentos."
+  },
+  {
+    "intent_id": "motivacion_extrinseca_5",
+    "keywords": [
+      "responsabilidad",
+      "logros",
+      "futuro",
+      "desarrollo"
+    ],
+    "base_response": "La motivación extrínseca puede enseñar a los adolescentes responsabilidad en su desarrollo personal. Al asociar logros con recompensas, se les ayuda a entender la relación entre esfuerzo y resultados, preparándolos para enfrentar desafíos futuros en su vida."
+  },
+  {
+    "intent_id": "estilo_aprendizaje_auditivo_1",
+    "keywords": [
+      "escucha",
+      "comprension",
+      "clases",
+      "discusiones"
+    ],
+    "base_response": "Los estudiantes con estilo de aprendizaje auditivo prosperan al escuchar información. Prefieren clases que incluyan discusiones y explicaciones verbales. Su comprensión se fortalece al oír conceptos, logrando retener mejor la información a través de la repetición y el diálogo."
+  },
+  {
+    "intent_id": "estilo_aprendizaje_auditivo_2",
+    "keywords": [
+      "grabaciones",
+      "musica",
+      "notas",
+      "memoria"
+    ],
+    "base_response": "Utilizar grabaciones o música puede potenciar el aprendizaje auditivo. Los estudiantes que aprenden de esta manera suelen recordar mejor las notas y conceptos al asociarlos con melodías, facilitando la memorización y el entendimiento a largo plazo."
+  },
+  {
+    "intent_id": "estilo_aprendizaje_auditivo_3",
+    "keywords": [
+      "podcasts",
+      "charlas",
+      "interacciones",
+      "aula"
+    ],
+    "base_response": "Incorporar podcasts y charlas en el aula es beneficioso para los aprendices auditivos. Este enfoque fomenta interacciones ricas y mejora su habilidad para procesar información. Las discusiones en grupo son clave para su desarrollo académico y social."
+  },
+  {
+    "intent_id": "estilo_aprendizaje_auditivo_4",
+    "keywords": [
+      "instrucciones",
+      "oral",
+      "feedback",
+      "participacion"
+    ],
+    "base_response": "Los estudiantes auditivos responden mejor a instrucciones orales que escritas. Proporcionar feedback verbal y fomentar su participación activa en discusiones les ayuda a asimilar conceptos. Este estilo favorece la comunicación y el intercambio de ideas en el aprendizaje."
+  },
+  {
+    "intent_id": "estilo_aprendizaje_auditivo_5",
+    "keywords": [
+      "narracion",
+      "historias",
+      "conexiones",
+      "aprendizaje"
+    ],
+    "base_response": "La narración de historias es una técnica eficaz para los aprendices auditivos. Relacionan conceptos a través de conexiones auditivas, creando un contexto que facilita el aprendizaje. Este método estimula su imaginación y apoya la retención de información clave."
+  },
+  {
+    "intent_id": "atencion_selectiva_y_aprendizaje",
+    "keywords": [
+      "atencion",
+      "selectiva",
+      "aprendizaje",
+      "concentracion"
+    ],
+    "base_response": "La atencion selectiva es la capacidad de enfocarse en un estímulo específico mientras se ignoran otros. Esta habilidad es crucial para el aprendizaje, ya que permite procesar información relevante y mejorar la comprensión de conceptos en situaciones complejas."
+  },
+  {
+    "intent_id": "factores_influencia_atencion_selectiva",
+    "keywords": [
+      "factores",
+      "influencia",
+      "atencion",
+      "selectiva"
+    ],
+    "base_response": "Diversos factores influyen en la atencion selectiva, como el interés personal y el ambiente. Un entorno tranquilo y motivaciones internas ayudan a centrarse en tareas específicas, mejorando así la eficacia en el aprendizaje y la retención de información."
+  },
+  {
+    "intent_id": "tecnicas_mejora_atencion_selectiva",
+    "keywords": [
+      "tecnicas",
+      "mejora",
+      "atencion",
+      "selectiva"
+    ],
+    "base_response": "Existen varias técnicas para mejorar la atencion selectiva, como la práctica de la meditación y el uso de listas de tareas. Estas estrategias ayudan a aumentar el enfoque y la organización mental, facilitando la asimilación de información durante las clases."
+  },
+  {
+    "intent_id": "juegos_atencion_selectiva",
+    "keywords": [
+      "juegos",
+      "atencion",
+      "selectiva",
+      "diversion"
+    ],
+    "base_response": "Los juegos que desafían la atencion selectiva son herramientas efectivas para adolescentes. Actividades como rompecabezas y juegos de memoria fomentan la concentración y la capacidad de ignorar distracciones, convirtiendo el aprendizaje en un proceso divertido y dinámico."
+  },
+  {
+    "intent_id": "importancia_atencion_selectiva",
+    "keywords": [
+      "importancia",
+      "atencion",
+      "selectiva",
+      "desarrollo"
+    ],
+    "base_response": "La atencion selectiva es fundamental para el desarrollo cognitivo de los adolescentes. Permite a los jóvenes filtrar información irrelevante, enfocándose en lo esencial, lo que resulta en un aprendizaje más efectivo y en una mejor toma de decisiones en su vida diaria."
+  },
+  {
+    "intent_id": "cognicion_en_movimiento",
+    "keywords": [
+      "cuerpo",
+      "movimiento",
+      "aprendizaje",
+      "experiencia"
+    ],
+    "base_response": "La cognición corporizada sugiere que el aprendizaje y la comprensión se potencian a través del movimiento y la interacción física. Las experiencias corporales enriquecen la mente, facilitando la retención y la conexión de conceptos en adolescentes en desarrollo."
+  },
+  {
+    "intent_id": "percepcion_sensorial",
+    "keywords": [
+      "percepcion",
+      "sensorial",
+      "cognicion",
+      "experiencia"
+    ],
+    "base_response": "La cognición corporizada implica que nuestras percepciones sensoriales influyen en el aprendizaje. Al interactuar con el entorno, los adolescentes asimilan mejor la información, integrando conocimientos a través de experiencias táctiles y visuales que estimulan su desarrollo cognitivo."
+  },
+  {
+    "intent_id": "emociones_y_aprendizaje",
+    "keywords": [
+      "emociones",
+      "cognicion",
+      "aprendizaje",
+      "interaccion"
+    ],
+    "base_response": "La cognición corporizada destaca la relación entre emociones y aprendizaje. Las experiencias físicas y emocionales en situaciones educativas permiten que los adolescentes conecten más profundamente con el contenido, favoreciendo su compromiso y motivación en el proceso de aprendizaje."
+  },
+  {
+    "intent_id": "contexto_fisico",
+    "keywords": [
+      "contexto",
+      "fisico",
+      "aprendizaje",
+      "espacio"
+    ],
+    "base_response": "El contexto físico en el que se aprende afecta la cognición. Espacios interactivos y dinámicos fomentan el aprendizaje en adolescentes, permitiéndoles explorar y experimentar, lo que resulta en una comprensión más sólida y significativa de los conceptos estudiados."
+  },
+  {
+    "intent_id": "aprendizaje_multisensorial",
+    "keywords": [
+      "aprendizaje",
+      "multisensorial",
+      "cognicion",
+      "experiencias"
+    ],
+    "base_response": "La cognición corporizada promueve el aprendizaje multisensorial, donde los adolescentes utilizan diferentes sentidos para adquirir conocimientos. Al involucrar el oído, la vista y el tacto, se facilita una comprensión más profunda y duradera de los conceptos, mejorando la retención."
+  },
+  {
+    "intent_id": "metodo_pomodoro",
+    "keywords": [
+      "tiempo",
+      "trabajo",
+      "descanso",
+      "productividad"
+    ],
+    "base_response": "El método Pomodoro es una técnica de gestión del tiempo que divide el trabajo en intervalos de 25 minutos, llamados 'pomodoros', seguidos de breves descansos. Este enfoque mejora la concentración y la eficiencia en tareas académicas y proyectos personales."
+  },
+  {
+    "intent_id": "ventajas_medio_pomodoro",
+    "keywords": [
+      "enfoque",
+      "motivacion",
+      "rendimiento",
+      "tareas"
+    ],
+    "base_response": "Utilizar el método Pomodoro permite mantener un enfoque constante y mejora la motivación al completar tareas. Los descansos programados ayudan a evitar la fatiga mental, lo que se traduce en un mejor rendimiento académico y una mayor satisfacción personal."
+  },
+  {
+    "intent_id": "pomodoro_y_adolescentes",
+    "keywords": [
+      "estudiantes",
+      "aprendizaje",
+      "organizacion",
+      "responsabilidad"
+    ],
+    "base_response": "El método Pomodoro es especialmente útil para estudiantes adolescentes, ya que les enseña a organizar su tiempo y a ser responsables en el aprendizaje. Les ayuda a gestionar el tiempo de estudio y a equilibrar tareas y actividades recreativas."
+  },
+  {
+    "intent_id": "adaptacion_pomodoro",
+    "keywords": [
+      "flexibilidad",
+      "intervalos",
+      "adaptar",
+      "metodo"
+    ],
+    "base_response": "Este método es flexible y se puede adaptar a diferentes necesidades. Por ejemplo, los intervalos pueden ser ajustados a 20 o 30 minutos según la tarea, permitiendo que cada adolescente encuentre el ritmo de trabajo que mejor se adapte a sus preferencias."
+  },
+  {
+    "intent_id": "pomodoro_y_foco",
+    "keywords": [
+      "concentracion",
+      "interrupciones",
+      "habilidades",
+      "gestionar"
+    ],
+    "base_response": "El método Pomodoro ayuda a los adolescentes a gestionar interrupciones y a mejorar su concentración. Al establecer periodos de trabajo y descanso, desarrollan habilidades para mantenerse enfocados, lo que resulta en un aprendizaje más efectivo y menos distracciones."
+  },
+  {
+    "intent_id": "inteligencia_linguistica",
+    "keywords": [
+      "lectura",
+      "escritura",
+      "comunicacion",
+      "narracion"
+    ],
+    "base_response": "La inteligencia linguistica se manifiesta en la habilidad para utilizar el lenguaje de manera efectiva. Esto incluye la capacidad de leer, escribir, narrar historias y comunicarse claramente, permitiendo a los adolescentes expresarse y comprender mejor su entorno."
+  },
+  {
+    "intent_id": "inteligencia_logico_matematica",
+    "keywords": [
+      "matematica",
+      "razonamiento",
+      "problemas",
+      "analisis"
+    ],
+    "base_response": "La inteligencia logico-matematica se refiere a la capacidad de analizar problemas, razonar y utilizar operaciones matemáticas. Los adolescentes con esta inteligencia destacan en la resolución de problemas, el pensamiento crítico y la lógica, habilidades fundamentales en su desarrollo académico."
+  },
+  {
+    "intent_id": "inteligencia_visual_espacial",
+    "keywords": [
+      "imaginacion",
+      "visualizacion",
+      "dibujo",
+      "arte"
+    ],
+    "base_response": "La inteligencia visual-espacial permite a los adolescentes visualizar y manipular objetos en su mente. Se relaciona con la creatividad y habilidades artísticas, como el dibujo y la escultura, facilitando la expresión de ideas a través de representaciones visuales."
+  },
+  {
+    "intent_id": "inteligencia_cinestetica",
+    "keywords": [
+      "movimiento",
+      "cuerpo",
+      "deportes",
+      "expresion"
+    ],
+    "base_response": "La inteligencia cinestésica se manifiesta en la habilidad de utilizar el cuerpo para expresar ideas o realizar actividades. Los adolescentes que destacan en esta inteligencia suelen ser hábiles en deportes, danza y otras formas de expresión física, conectando cuerpo y mente."
+  },
+  {
+    "intent_id": "inteligencia_interpersonal",
+    "keywords": [
+      "relaciones",
+      "empatia",
+      "comunicacion",
+      "colaboracion"
+    ],
+    "base_response": "La inteligencia interpersonal se refiere a la capacidad de entender y relacionarse con otros. Los adolescentes con esta inteligencia son empáticos y efectivos en la comunicación, lo que les permite colaborar, resolver conflictos y construir relaciones saludables en su entorno social."
+  },
+  {
+    "intent_id": "atencion_sostenida_1",
+    "keywords": [
+      "concentracion",
+      "tareas",
+      "tiempo",
+      "esfuerzo"
+    ],
+    "base_response": "La atencion sostenida es la capacidad de mantener la concentracion en una tarea durante un periodo prolongado. Esto implica un esfuerzo continuo, evitando distracciones y facilitando el aprendizaje y la asimilacion de conocimientos importantes en el entorno académico."
+  },
+  {
+    "intent_id": "atencion_sostenida_3",
+    "keywords": [
+      "distracciones",
+      "entorno",
+      "tecnologia",
+      "impacto"
+    ],
+    "base_response": "El entorno actual está lleno de distracciones que afectan la atencion sostenida. La tecnologia, aunque útil, puede interrumpir el foco. Identificar y minimizar estas distracciones es clave para que los adolescentes logren un aprendizaje efectivo y centrado."
+  },
+  {
+    "intent_id": "atencion_sostenida_4",
+    "keywords": [
+      "actividades",
+      "metodos",
+      "juegos",
+      "motivacion"
+    ],
+    "base_response": "Incorporar actividades lúdicas y métodos interactivos puede mejorar la atencion sostenida en adolescentes. Juegos que fomenten la concentración y la motivacion son herramientas efectivas para mantener el interés y facilitar el proceso de aprendizaje en el aula."
+  },
+  {
+    "intent_id": "atencion_sostenida_5",
+    "keywords": [
+      "metas",
+      "objetivos",
+      "evaluacion",
+      "progreso"
+    ],
+    "base_response": "Establecer metas y objetivos claros ayuda a los adolescentes a desarrollar la atencion sostenida. La evaluacion continua del progreso permite ajustar estrategias y mantener la motivacion, lo cual es esencial para alcanzar el éxito académico y personal."
+  },
+  {
+    "intent_id": "neuroplasticidad_y_aprendizaje",
+    "keywords": [
+      "neuroplasticidad",
+      "aprendizaje",
+      "cerebro",
+      "cambios"
+    ],
+    "base_response": "La neuroplasticidad es la capacidad del cerebro para cambiar y adaptarse a nuevas experiencias. A medida que aprendemos, nuestras conexiones neuronales se fortalecen o debilitan, lo que permite adquirir habilidades y conocimientos a lo largo de la vida."
+  },
+  {
+    "intent_id": "neuroplasticidad_y_errores",
+    "keywords": [
+      "neuroplasticidad",
+      "errores",
+      "aprendizaje",
+      "crecimiento"
+    ],
+    "base_response": "Los errores son fundamentales para la neuroplasticidad. Al cometer un error, el cerebro ajusta sus conexiones neuronales, permitiendo un aprendizaje más profundo. Este proceso fomenta el crecimiento personal y la mejora continua en diversas habilidades."
+  },
+  {
+    "intent_id": "neuroplasticidad_y_metodos",
+    "keywords": [
+      "neuroplasticidad",
+      "metodos",
+      "estudio",
+      "estrategias"
+    ],
+    "base_response": "Existen varios métodos para aprovechar la neuroplasticidad en el estudio. Estrategias como la práctica deliberada, el aprendizaje multisensorial y la repetición activa ayudan a fortalecer las conexiones neuronales, facilitando un aprendizaje más efectivo y duradero."
+  },
+  {
+    "intent_id": "neuroplasticidad_y_emociones",
+    "keywords": [
+      "neuroplasticidad",
+      "emociones",
+      "cerebro",
+      "sentimientos"
+    ],
+    "base_response": "Las emociones influyen en la neuroplasticidad del cerebro. Sentimientos positivos pueden fortalecer las conexiones neuronales, mientras que el estrés prolongado puede dificultar el aprendizaje. Comprender esta relación es vital para desarrollar un ambiente educativo saludable y productivo."
+  },
+  {
+    "intent_id": "neuroplasticidad_y_juegos",
+    "keywords": [
+      "neuroplasticidad",
+      "juegos",
+      "cerebro",
+      "diversion"
+    ],
+    "base_response": "Los juegos estimulan la neuroplasticidad mediante la creación de nuevas conexiones neuronales. Actividades lúdicas que desafían el pensamiento crítico y la resolución de problemas fomentan un aprendizaje activo, haciendo que la experiencia educativa sea más divertida y efectiva."
+  },
+  {
+    "intent_id": "entender_sobre_carga_cognitiva",
+    "keywords": [
+      "carga",
+      "cognitiva",
+      "comprension",
+      "aprendizaje"
+    ],
+    "base_response": "La sobrecarga cognitiva ocurre cuando la cantidad de información que se debe procesar excede la capacidad mental del estudiante. Esto dificulta la comprensión y retención de conceptos, afectando el aprendizaje efectivo y generando frustración en los adolescentes."
+  },
+  {
+    "intent_id": "impacto_sobre_carga_cognitiva",
+    "keywords": [
+      "atencion",
+      "concentracion",
+      "estres",
+      "rendimiento"
+    ],
+    "base_response": "La sobrecarga cognitiva puede afectar la atención y concentración de los adolescentes, provocando estrés y disminuyendo su rendimiento académico. Es vital identificar y minimizar los factores que contribuyen a esta sobrecarga para facilitar un ambiente de aprendizaje saludable."
+  },
+  {
+    "intent_id": "signos_sobre_carga_cognitiva",
+    "keywords": [
+      "fatiga",
+      "desinteres",
+      "dificultades",
+      "procesamiento"
+    ],
+    "base_response": "Los signos de sobrecarga cognitiva incluyen fatiga mental, desinterés y dificultades para procesar información. Reconocer estos síntomas en adolescentes permite a educadores y padres implementar cambios que optimicen su experiencia de aprendizaje y reduzcan la carga innecesaria."
+  },
+  {
+    "intent_id": "tecnicas_manejo_sobre_carga_cognitiva",
+    "keywords": [
+      "tareas",
+      "organizacion",
+      "metodos",
+      "priorizacion"
+    ],
+    "base_response": "Utilizar técnicas de organización y priorización de tareas puede ayudar a manejar la sobrecarga cognitiva en adolescentes. Establecer un orden claro de actividades y permitir pausas regulares facilita la asimilación de información y mejora la productividad en el aprendizaje."
+  },
+  {
+    "intent_id": "estilo_de_aprendizaje_auditivo",
+    "keywords": [
+      "escuchar",
+      "comunicacion",
+      "retencion",
+      "discursos"
+    ],
+    "base_response": "El estilo de aprendizaje auditivo se centra en la capacidad de los estudiantes para aprender mejor a través de la escucha. Estos aprendices retienen información de manera efectiva mediante charlas, grabaciones y discusiones, facilitando su comprensión y expresión verbal."
+  },
+  {
+    "intent_id": "metodos_auditivos_en_clase",
+    "keywords": [
+      "discursos",
+      "debates",
+      "grabaciones",
+      "audiolibros"
+    ],
+    "base_response": "Los métodos auditivos en clase incluyen el uso de debates, grabaciones y audiolibros. Estas estrategias permiten a los estudiantes auditivos absorber conocimientos de manera más efectiva, ya que les ayudan a procesar la información a través de la escucha activa."
+  },
+  {
+    "intent_id": "ventajas_aprendizaje_auditivo",
+    "keywords": [
+      "comprension",
+      "conversaciones",
+      "memoria",
+      "interaccion"
+    ],
+    "base_response": "Las ventajas del aprendizaje auditivo incluyen una mayor comprensión y retención de la información a través de conversaciones y exposiciones. Los estudiantes auditivos suelen participar activamente en discusiones, lo que mejora su memoria y habilidades interactivas en el aula."
+  },
+  {
+    "intent_id": "estrategias_auditivas",
+    "keywords": [
+      "escuchar",
+      "repetir",
+      "notas",
+      "audiovisuales"
+    ],
+    "base_response": "Las estrategias auditivas para estudiantes incluyen escuchar atentamente, repetir información en voz alta y tomar notas durante exposiciones. Utilizar materiales audiovisuales también potencia su aprendizaje, ya que combina la escucha con estímulos visuales que refuerzan el contenido."
+  },
+  {
+    "intent_id": "evaluacion_auditiva",
+    "keywords": [
+      "examenes",
+      "orales",
+      "feedback",
+      "escucha"
+    ],
+    "base_response": "La evaluación para estudiantes con estilo de aprendizaje auditivo puede incluir exámenes orales y presentaciones. Proveer feedback constante durante estas actividades permite ajustar su aprendizaje, asegurando que comprendan y retengan la información de manera efectiva."
+  },
+  {
+    "intent_id": "memoria_corto_plazo",
+    "keywords": [
+      "memoria",
+      "informacion",
+      "recuerdo",
+      "corto"
+    ],
+    "base_response": "La memoria a corto plazo permite retener información por breves períodos. Es crucial para realizar tareas diarias como recordar un número de teléfono o seguir instrucciones. Su capacidad es limitada, lo que requiere estrategias para optimizar su uso en situaciones cotidianas."
+  },
+  {
+    "intent_id": "capacidad_memoria_corto",
+    "keywords": [
+      "capacidad",
+      "memoria",
+      "corto",
+      "informacion"
+    ],
+    "base_response": "La capacidad de la memoria a corto plazo generalmente se estima en siete elementos. Esta limitación significa que es necesario organizar y agrupar la información para que sea más fácil de recordar y utilizar en actividades o tareas diarias importantes."
+  },
+  {
+    "intent_id": "estrategias_recuerdo",
+    "keywords": [
+      "estrategias",
+      "recuerdo",
+      "memoria",
+      "corto"
+    ],
+    "base_response": "Utilizar estrategias de recuerdo, como la repetición o la visualización, puede mejorar la retención de información en la memoria a corto plazo. Estas técnicas ayudan a transformar datos efímeros en recuerdos más duraderos, facilitando su uso en situaciones cotidianas."
+  },
+  {
+    "intent_id": "diferencia_memoria",
+    "keywords": [
+      "diferencia",
+      "memoria",
+      "corto",
+      "largo"
+    ],
+    "base_response": "La memoria a corto plazo se diferencia de la memoria a largo plazo en duración y capacidad. Mientras que la primera almacena información temporalmente, la segunda permite conservar recuerdos por períodos extensos, cruciales para el aprendizaje y la experiencia acumulada."
+  },
+  {
+    "intent_id": "impacto_interferencia",
+    "keywords": [
+      "impacto",
+      "interferencia",
+      "memoria",
+      "corto"
+    ],
+    "base_response": "La interferencia puede afectar negativamente la memoria a corto plazo. Cuando nueva información entra en conflicto con datos previamente almacenados, puede dificultar el recuerdo. Reconocer y minimizar esta interferencia es esencial para mejorar la efectividad de la memoria en tareas diarias."
+  },
+  {
+    "intent_id": "mecanismos_recompensa_dopamina_1",
+    "keywords": [
+      "dopamina",
+      "recompensa",
+      "cerebro",
+      "aprendizaje"
+    ],
+    "base_response": "La dopamina actúa como un mensajero en el cerebro, liberándose durante experiencias placenteras. Este proceso refuerza el aprendizaje, ya que crea conexiones neuronales que asocian acciones con recompensas, incentivando a los adolescentes a repetir comportamientos positivos."
+  },
+  {
+    "intent_id": "mecanismos_recompensa_dopamina_2",
+    "keywords": [
+      "motivacion",
+      "recompensa",
+      "comportamiento",
+      "dopamina"
+    ],
+    "base_response": "Los mecanismos de recompensa influyen en la motivación de los adolescentes. La liberación de dopamina al realizar actividades satisfactorias fomenta un comportamiento proactivo, impulsando a los jóvenes a seguir buscando experiencias que les generen placer o satisfacción."
+  },
+  {
+    "intent_id": "mecanismos_recompensa_dopamina_3",
+    "keywords": [
+      "dopamina",
+      "sistemasrecompensa",
+      "emociones",
+      "adolescentes"
+    ],
+    "base_response": "Durante la adolescencia, los sistemas de recompensa son más sensibles a la dopamina. Esto provoca una mayor intensidad emocional ante recompensas, llevando a los jóvenes a experimentar placer de forma más intensa, afectando su toma de decisiones y conductas."
+  },
+  {
+    "intent_id": "mecanismos_recompensa_dopamina_4",
+    "keywords": [
+      "dopamina",
+      "juegos",
+      "recompensas",
+      "aprendizaje"
+    ],
+    "base_response": "Los videojuegos utilizan mecanismos de recompensa para liberar dopamina, creando un ciclo de satisfacción. Esta estrategia puede ser aplicada en entornos educativos, motivando a los adolescentes a aprender a través de metas y recompensas que refuercen su progreso."
+  },
+  {
+    "intent_id": "mecanismos_recompensa_dopamina_5",
+    "keywords": [
+      "dopamina",
+      "recompensa",
+      "desempeno",
+      "esfuerzo"
+    ],
+    "base_response": "La dopamina no solo recompensa logros, sino también el esfuerzo. Cuando los adolescentes perciben que su trabajo duro es reconocido, se libera dopamina, fomentando un círculo virtuoso que mejora su desempeño académico y personal en diversas áreas."
+  },
+  {
+    "intent_id": "codificacion_basica",
+    "keywords": [
+      "codificacion",
+      "informacion",
+      "datos",
+      "sistemas"
+    ],
+    "base_response": "La codificación de la información es el proceso de transformar datos en un formato específico. Esto permite enviar, almacenar y recuperar información de manera eficiente. Existen diferentes sistemas de codificación que facilitan la comunicación entre dispositivos y usuarios."
+  },
+  {
+    "intent_id": "codigos_y_significados",
+    "keywords": [
+      "codigos",
+      "significados",
+      "lenguaje",
+      "interpretacion"
+    ],
+    "base_response": "Los códigos son representaciones simbólicas de la información. Cada código tiene un significado particular, lo que permite la interpretación correcta de los datos. Aprender sobre códigos ayuda a comprender cómo se organiza y se comunica la información en diferentes contextos."
+  },
+  {
+    "intent_id": "algoritmos_y_procesos",
+    "keywords": [
+      "algoritmos",
+      "procesos",
+      "codificacion",
+      "soluciones"
+    ],
+    "base_response": "Los algoritmos son secuencias de pasos lógicos utilizados para codificar información. Estos procesos permiten resolver problemas específicos y transformar datos en resultados útiles. Comprender algoritmos es esencial para desarrollar habilidades en programación y análisis de datos."
+  },
+  {
+    "intent_id": "codificacion_y_seguridad",
+    "keywords": [
+      "codificacion",
+      "seguridad",
+      "informacion",
+      "protegida"
+    ],
+    "base_response": "La codificación también se utiliza para proteger la información sensible. Mediante técnicas de encriptación, los datos se convierten en formatos ininteligibles. Esto asegura que solo personas autorizadas puedan acceder y entender la información, resguardando la privacidad y seguridad."
+  },
+  {
+    "intent_id": "codificacion_en_digital",
+    "keywords": [
+      "codificacion",
+      "digital",
+      "tecnologia",
+      "informacion"
+    ],
+    "base_response": "La codificación digital se refiere a la conversión de información en un formato que los dispositivos electrónicos pueden procesar. Esto incluye convertir texto, sonido e imágenes en datos binarios, facilitando su almacenamiento y transmisión en plataformas tecnológicas modernas."
+  },
+  {
+    "intent_id": "aprendizaje_observacional_1",
+    "keywords": [
+      "modelo",
+      "imitacion",
+      "conducta",
+      "aprendizaje"
+    ],
+    "base_response": "El aprendizaje observacional implica aprender a través de la observación de modelos. Los adolescentes pueden imitar conductas y actitudes observadas en otros, facilitando la adquisición de habilidades y comportamientos sociales sin necesidad de práctica directa o instrucción explícita."
+  },
+  {
+    "intent_id": "aprendizaje_observacional_2",
+    "keywords": [
+      "entorno",
+      "experiencia",
+      "interaccion",
+      "refuerzo"
+    ],
+    "base_response": "La observación en un entorno social permite a los adolescentes aprender de experiencias ajenas. Al observar interacciones y obtener refuerzos de las reacciones de otros, los jóvenes ajustan su propio comportamiento, mejorando su adaptación y comprensión social."
+  },
+  {
+    "intent_id": "aprendizaje_observacional_3",
+    "keywords": [
+      "cognicion",
+      "atencion",
+      "procesos",
+      "aprendizaje"
+    ],
+    "base_response": "El aprendizaje observacional no solo involucra ver, sino también procesar cognitivamente lo observado. Los adolescentes deben prestar atención, analizar y recordar la información, lo que les permite integrar y aplicar nuevos conocimientos en diferentes contextos."
+  },
+  {
+    "intent_id": "aprendizaje_observacional_5",
+    "keywords": [
+      "autonomia",
+      "reflexion",
+      "decisiones",
+      "identidad"
+    ],
+    "base_response": "El aprendizaje observacional también fomenta la autonomía en los adolescentes. Al reflexionar sobre lo que observan, pueden tomar decisiones informadas sobre su propia identidad y comportamiento, ayudando a forjar un sentido de sí mismos en un contexto social."
+  },
+  {
+    "intent_id": "estilo_de_aprendizaje_visual_1",
+    "keywords": [
+      "imagenes",
+      "diagramas",
+      "colores",
+      "representaciones"
+    ],
+    "base_response": "El aprendizaje visual se basa en la capacidad de entender y recordar información a través de representaciones gráficas. Los estudiantes visuales retienen mejor conceptos al utilizar imágenes, diagramas y colores que facilitan la comprensión y organización de ideas complejas."
+  },
+  {
+    "intent_id": "estilo_de_aprendizaje_visual_2",
+    "keywords": [
+      "mapas",
+      "proyectos",
+      "videos",
+      "presentaciones"
+    ],
+    "base_response": "Los estudiantes con estilo de aprendizaje visual prefieren interactuar con materiales visuales como mapas conceptuales, proyectos creativos, videos y presentaciones. Estas herramientas ayudan a captar y organizar información de manera efectiva, potenciando su aprendizaje y motivación."
+  },
+  {
+    "intent_id": "estilo_de_aprendizaje_visual_3",
+    "keywords": [
+      "observacion",
+      "dibujo",
+      "esquemas",
+      "visualizacion"
+    ],
+    "base_response": "La observación y el dibujo son fundamentales para los aprendices visuales. Estos estudiantes se benefician de la creación de esquemas y la visualización de conceptos, lo que les permite procesar la información de manera más intuitiva y clara durante su aprendizaje."
+  },
+  {
+    "intent_id": "estilo_de_aprendizaje_visual_4",
+    "keywords": [
+      "fotografias",
+      "ilustraciones",
+      "carteles",
+      "animaciones"
+    ],
+    "base_response": "Fotografías, ilustraciones y carteles son herramientas clave para los aprendices visuales. Utilizar animaciones y recursos gráficos en la enseñanza estimula su imaginación y facilita la conexión entre conceptos, lo que mejora significativamente su retención de información."
+  },
+  {
+    "intent_id": "estilo_de_aprendizaje_visual_5",
+    "keywords": [
+      "creatividad",
+      "arte",
+      "estimulos",
+      "aprendizaje"
+    ],
+    "base_response": "El aprendizaje visual fomenta la creatividad al involucrar el arte y diversos estímulos visuales. Los estudiantes visuales se sienten motivados a explorar, experimentar y expresar sus ideas de manera original, lo que enriquece su proceso educativo y desarrollo personal."
+  },
+  {
+    "intent_id": "concepto_uno_amnesia_infantil",
+    "keywords": [
+      "memoria",
+      "infancia",
+      "olvido",
+      "experiencias"
+    ],
+    "base_response": "La amnesia infantil se refiere a la incapacidad de recordar eventos de la infancia temprana. Este fenómeno ocurre principalmente debido al desarrollo cerebral y la forma en que los recuerdos se forman, almacenan y recuperan en los primeros años de vida."
+  },
+  {
+    "intent_id": "concepto_dos_mecanismos_de_amnesia",
+    "keywords": [
+      "mecanismos",
+      "recuperacion",
+      "neurociencia",
+      "sistema"
+    ],
+    "base_response": "Los mecanismos de la amnesia infantil involucran procesos neurobiológicos que afectan la recuperación de recuerdos. Durante la infancia, el cerebro está en constante desarrollo, lo que puede dificultar el almacenamiento y la recuperación de experiencias significativas de los primeros años."
+  },
+  {
+    "intent_id": "concepto_tres_importancia_recuerdos",
+    "keywords": [
+      "importancia",
+      "recuerdos",
+      "identidad",
+      "desarrollo"
+    ],
+    "base_response": "Los recuerdos de la infancia son esenciales para la formación de la identidad. La amnesia infantil puede afectar el desarrollo emocional y social, ya que la capacidad de recordar experiencias pasadas influye en la forma en que los adolescentes se relacionan con el mundo."
+  },
+  {
+    "intent_id": "concepto_cuatro_factores_ambientales",
+    "keywords": [
+      "factores",
+      "ambientales",
+      "experiencias",
+      "influencias"
+    ],
+    "base_response": "Los factores ambientales, como la crianza y el contexto social, juegan un papel importante en la amnesia infantil. Las experiencias vividas en la infancia pueden ser olvidadas, pero las influencias del entorno crean una base para la memoria futura y el aprendizaje."
+  },
+  {
+    "intent_id": "concepto_cinco_teorias_amnesia",
+    "keywords": [
+      "teorias",
+      "amnesia",
+      "desarrollo",
+      "psicologia"
+    ],
+    "base_response": "Existen diversas teorías sobre la amnesia infantil en psicología. Algunas sugieren que el desarrollo cognitivo limita la capacidad de recordar, mientras que otras argumentan que el olvido es un mecanismo adaptativo que permite enfocarse en el aprendizaje de nuevas experiencias."
+  },
+  {
+    "intent_id": "atencion_dividida_y_aprendizaje",
+    "keywords": [
+      "atencion",
+      "aprendizaje",
+      "multitarea",
+      "desempeno"
+    ],
+    "base_response": "La atención dividida permite a los adolescentes realizar múltiples tareas al mismo tiempo. Sin embargo, puede afectar su desempeño académico. Es importante enseñarles a priorizar y gestionar su atención para optimizar el aprendizaje en entornos complejos."
+  },
+  {
+    "intent_id": "tecnologia_y_atencion_dividida",
+    "keywords": [
+      "tecnologia",
+      "dispositivos",
+      "concentracion",
+      "impacto"
+    ],
+    "base_response": "El uso de tecnología en adolescentes provoca una atención dividida. Los dispositivos digitales pueden distraer y dificultar la concentración. Es fundamental fomentar un uso equilibrado para maximizar la efectividad en el estudio y minimizar distracciones."
+  },
+  {
+    "intent_id": "juegos_y_atencion_dividida",
+    "keywords": [
+      "juegos",
+      "estrategias",
+      "desarrollo",
+      "habilidades"
+    ],
+    "base_response": "Participar en juegos que requieren atención dividida puede desarrollar habilidades cognitivas en adolescentes. Estos juegos estimulan la toma de decisiones rápida y efectiva, lo que contribuye al fortalecimiento de sus capacidades de atención y procesamiento de información."
+  },
+  {
+    "intent_id": "entorno_y_atencion_dividida",
+    "keywords": [
+      "entorno",
+      "ruido",
+      "estudio",
+      "atencion"
+    ],
+    "base_response": "El ambiente en el que los adolescentes estudian influye en su atención dividida. Un entorno ruidoso o desorganizado puede dificultar su capacidad para concentrarse. Crear espacios de estudio adecuados es clave para mejorar su enfoque y rendimiento académico."
+  },
+  {
+    "intent_id": "practicas_y_atencion_dividida",
+    "keywords": [
+      "practicas",
+      "ejercicios",
+      "atencion",
+      "mejora"
+    ],
+    "base_response": "Implementar prácticas y ejercicios que fortalezcan la atención dividida es esencial para adolescentes. Actividades como el mindfulness y la meditación ayudan a mejorar su concentración y a manejar mejor sus distracciones, contribuyendo a un aprendizaje más efectivo."
+  },
+  {
+    "intent_id": "cognicion_corporizada_1",
+    "keywords": [
+      "movimiento",
+      "aprendizaje",
+      "experiencia",
+      "cuerpo"
+    ],
+    "base_response": "La cognición corporizada implica que el aprendizaje no solo ocurre en la mente, sino también a través del cuerpo. Las experiencias físicas enriquecen la comprensión, permitiendo que los adolescentes integren conocimientos mediante la interacción activa con su entorno."
+  },
+  {
+    "intent_id": "cognicion_corporizada_2",
+    "keywords": [
+      "sensorial",
+      "emociones",
+      "percepcion",
+      "accion"
+    ],
+    "base_response": "La cognición corporizada considera que las emociones y percepciones están directamente ligadas a la experiencia sensorial. A medida que los adolescentes actúan y sienten, sus procesos cognitivos se ven influenciados, promoviendo aprendizajes más significativos y duraderos."
+  },
+  {
+    "intent_id": "cognicion_corporizada_3",
+    "keywords": [
+      "juego",
+      "interaccion",
+      "creatividad",
+      "aprendizaje"
+    ],
+    "base_response": "El juego se convierte en un medio esencial para la cognición corporizada. A través de la interacción lúdica, los adolescentes desarrollan habilidades cognitivas, fomentando la creatividad y el pensamiento crítico al enfrentar desafíos en un entorno dinámico y divertido."
+  },
+  {
+    "intent_id": "cognicion_corporizada_4",
+    "keywords": [
+      "contexto",
+      "situaciones",
+      "aprendizaje",
+      "adaptacion"
+    ],
+    "base_response": "En la cognición corporizada, el contexto y las situaciones influyen en el aprendizaje. Los adolescentes adaptan su conocimiento al entorno físico y social, facilitando la comprensión de conceptos complejos a través de experiencias vivenciales y relevantes."
+  },
+  {
+    "intent_id": "cognicion_corporizada_5",
+    "keywords": [
+      "metacognicion",
+      "reflexion",
+      "cuerpo",
+      "pensamiento"
+    ],
+    "base_response": "La metacognición se integra en la cognición corporizada al reflexionar sobre cómo el cuerpo influye en el pensamiento. Los adolescentes aprenden a reconocer sus procesos mentales, aumentando la conciencia de cómo sus acciones físicas afectan su comprensión y aprendizaje."
+  },
+  {
+    "intent_id": "concepto_amnesia_infantil_001",
+    "keywords": [
+      "memoria",
+      "infancia",
+      "experiencias",
+      "recuerdos"
+    ],
+    "base_response": "La amnesia infantil se refiere a la incapacidad de recordar eventos de la primera infancia. Este fenómeno es común y se debe a la inmadurez del cerebro en etapas tempranas, lo que impide almacenar recuerdos duraderos de experiencias significativas."
+  },
+  {
+    "intent_id": "concepto_amnesia_infantil_002",
+    "keywords": [
+      "desarrollo",
+      "neurociencia",
+      "recuerdos",
+      "cognicion"
+    ],
+    "base_response": "Durante el desarrollo infantil, la formación de recuerdos se ve afectada por la maduración cerebral. Las conexiones neuronales necesarias para la memoria aún no están completamente desarrolladas, lo que contribuye a la falta de recuerdos de los primeros años de vida."
+  },
+  {
+    "intent_id": "concepto_amnesia_infantil_003",
+    "keywords": [
+      "emociones",
+      "memoria",
+      "aprendizaje",
+      "ninez"
+    ],
+    "base_response": "Las emociones juegan un papel crucial en la formación de recuerdos. En la niñez, los recuerdos emocionales tienden a ser más duraderos, mientras que los eventos neutros o poco significativos pueden desaparecer, contribuyendo a la amnesia infantil."
+  },
+  {
+    "intent_id": "concepto_amnesia_infantil_004",
+    "keywords": [
+      "identidad",
+      "recuerdos",
+      "experiencias",
+      "adolescencia"
+    ],
+    "base_response": "La amnesia infantil puede influir en la formación de la identidad. Al no recordar experiencias tempranas, los adolescentes pueden tener una percepción limitada de sí mismos, afectando su desarrollo emocional y social en la transición hacia la adultez."
+  },
+  {
+    "intent_id": "concepto_amnesia_infantil_005",
+    "keywords": [
+      "cultura",
+      "memoria",
+      "historias",
+      "transmision"
+    ],
+    "base_response": "La amnesia infantil también tiene implicaciones culturales. Las historias familiares y las tradiciones pueden ser difíciles de recordar en la infancia, lo que limita la transmisión de valores y experiencias significativas entre generaciones, afectando la cohesión familiar."
+  },
+  {
+    "intent_id": "introduccion_metodo_cornell",
+    "keywords": [
+      "metodo",
+      "apuntes",
+      "estructura",
+      "aprendizaje"
+    ],
+    "base_response": "El método Cornell es una técnica de toma de apuntes que divide la hoja en secciones claras. Facilita la organización de la información y promueve un aprendizaje activo al permitir resumir y revisar los apuntes de manera efectiva. Es ideal para estudiantes."
+  },
+  {
+    "intent_id": "seccion_resumen_cornell",
+    "keywords": [
+      "resumen",
+      "informacion",
+      "apuntes",
+      "toma"
+    ],
+    "base_response": "En el método Cornell, la sección de resumen es crucial. Al final de la clase, el estudiante debe condensar la información clave en sus propias palabras. Esto mejora la retención y comprensión de los conceptos aprendidos durante la lección."
+  },
+  {
+    "intent_id": "uso_palabras_clave",
+    "keywords": [
+      "palabras",
+      "clave",
+      "identificacion",
+      "conceptos"
+    ],
+    "base_response": "Las palabras clave en el método Cornell son esenciales para destacar los puntos más importantes. Al escribir estas palabras en la sección lateral, el estudiante puede identificar rápidamente los conceptos centrales y facilitar la revisión posterior de los apuntes tomados."
+  },
+  {
+    "intent_id": "revisar_apuntes_cornell",
+    "keywords": [
+      "revisar",
+      "apuntes",
+      "metodo",
+      "aprender"
+    ],
+    "base_response": "Revisar los apuntes utilizando el método Cornell implica cubrir la sección de notas y tratar de recordar la información clave. Esto refuerza el aprendizaje y ayuda a identificar áreas que necesitan mayor atención antes de los exámenes o evaluaciones."
+  },
+  {
+    "intent_id": "beneficios_metodo_cornell",
+    "keywords": [
+      "beneficios",
+      "organizacion",
+      "estudiantes",
+      "metodo"
+    ],
+    "base_response": "El método Cornell ofrece múltiples beneficios para los estudiantes. Mejora la organización de los apuntes, fomenta la síntesis de información y facilita la preparación para exámenes, promoviendo un aprendizaje más profundo y efectivo en comparación con técnicas tradicionales."
+  },
+  {
+    "intent_id": "zona_de_desarrollo_proximal",
+    "keywords": [
+      "zona",
+      "desarrollo",
+      "aprendizaje",
+      "potencial"
+    ],
+    "base_response": "La zona de desarrollo proximal es el espacio entre lo que un adolescente puede hacer solo y lo que puede lograr con ayuda. Este concepto resalta la importancia del apoyo social y la colaboración para facilitar el aprendizaje y la adquisición de habilidades."
+  },
+  {
+    "intent_id": "mediacion_social",
+    "keywords": [
+      "mediacion",
+      "interaccion",
+      "cultura",
+      "aprendizaje"
+    ],
+    "base_response": "La mediación social se refiere al proceso mediante el cual los adolescentes aprenden a través de interacciones con otros. La cultura y el contexto social influyen en su aprendizaje, permitiendo que adquieran conocimientos y habilidades de manera más efectiva."
+  },
+  {
+    "intent_id": "lenguaje_y_pensamiento",
+    "keywords": [
+      "lenguaje",
+      "pensamiento",
+      "cognicion",
+      "desarrollo"
+    ],
+    "base_response": "Vygotsky sostenía que el lenguaje es fundamental en el desarrollo del pensamiento. A medida que los adolescentes adquieren habilidades lingüísticas, también desarrollan su capacidad de razonamiento y solución de problemas, afectando su aprendizaje y comprensión del mundo."
+  },
+  {
+    "intent_id": "aprendizaje_colaborativo",
+    "keywords": [
+      "colaborativo",
+      "aprendizaje",
+      "grupo",
+      "interaccion"
+    ],
+    "base_response": "El aprendizaje colaborativo se basa en la idea de que los adolescentes aprenden mejor trabajando en grupo. Al interactuar con sus pares, comparten conocimientos y experiencias, lo que enriquece su comprensión y favorece el desarrollo de habilidades sociales."
+  },
+  {
+    "intent_id": "importancia_del_contexto",
+    "keywords": [
+      "contexto",
+      "cultural",
+      "aprendizaje",
+      "experiencia"
+    ],
+    "base_response": "El contexto cultural influye significativamente en el aprendizaje de los adolescentes. Vygotsky enfatiza que las experiencias y valores culturales moldean cómo interpretan y asimilan la información, convirtiendo el entorno en un factor clave en el proceso educativo."
+  },
+  {
+    "intent_id": "atencion_plena_en_clases",
+    "keywords": [
+      "atencion",
+      "plena",
+      "clases",
+      "estudio"
+    ],
+    "base_response": "La atencion plena en clases permite a los estudiantes concentrarse en el presente, minimizando distracciones. Practicar mindfulness ayuda a mejorar la retencion de informacion y a desarrollar habilidades de escucha activa, favoreciendo un aprendizaje significativo y consciente."
+  },
+  {
+    "intent_id": "respiracion_consciente",
+    "keywords": [
+      "respiracion",
+      "consciente",
+      "estudiantes",
+      "estres"
+    ],
+    "base_response": "La respiracion consciente es una tecnica de mindfulness que ayuda a los estudiantes a manejar el estres. Al enfocarse en su respiracion, pueden calmar su mente, mejorar su claridad y aumentar su capacidad para resolver problemas durante el estudio."
+  },
+  {
+    "intent_id": "visualizacion_de_objetivos",
+    "keywords": [
+      "visualizacion",
+      "objetivos",
+      "exito",
+      "estudio"
+    ],
+    "base_response": "La visualizacion de objetivos fomenta la motivacion en los estudiantes. Al imaginarse alcanzando sus metas academicas, pueden fortalecer su autoconfianza y compromiso, utilizando el mindfulness para mantenerse enfocados y alineados con sus aspiraciones durante el estudio."
+  },
+  {
+    "intent_id": "autoconocimiento_y_reflexion",
+    "keywords": [
+      "autoconocimiento",
+      "reflexion",
+      "aprendizaje",
+      "mindfulness"
+    ],
+    "base_response": "El autoconocimiento y la reflexion son componentes clave del mindfulness en el estudio. Al entender sus propias emociones y reacciones, los estudiantes pueden identificar sus fortalezas y debilidades, lo que les permite ajustar sus estrategias de aprendizaje efectivamente."
+  },
+  {
+    "intent_id": "momentos_de_pausa",
+    "keywords": [
+      "momentos",
+      "pausa",
+      "concentracion",
+      "estudio"
+    ],
+    "base_response": "Incorporar momentos de pausa durante el estudio es esencial. Estas pausas permiten a los estudiantes recargar su energia mental y emocional. Practicar mindfulness en estos momentos mejora la concentracion y facilita la absorcion de nuevos conceptos y conocimientos."
+  },
+  {
+    "intent_id": "introduccion_a_la_codificacion",
+    "keywords": [
+      "codificacion",
+      "informacion",
+      "datos",
+      "sistemas"
+    ],
+    "base_response": "La codificación de la información es el proceso de transformar datos en un formato específico que facilita su almacenamiento y transmisión. Este proceso es fundamental en la informática, ya que permite que la información sea comprensible para las máquinas y los humanos."
+  },
+  {
+    "intent_id": "tipos_de_codificacion",
+    "keywords": [
+      "tipos",
+      "codificacion",
+      "binaria",
+      "texto"
+    ],
+    "base_response": "Existen diferentes tipos de codificación, como la binaria, que utiliza ceros y unos, y la codificación de texto, que convierte caracteres en números. Cada tipo tiene su propósito y aplica en diversas áreas de la tecnología y la comunicación digital."
+  },
+  {
+    "intent_id": "importancia_de_la_codificacion",
+    "keywords": [
+      "importancia",
+      "codificacion",
+      "seguridad",
+      "transmision"
+    ],
+    "base_response": "La codificación es esencial para la seguridad de la información. Protege los datos sensibles durante la transmisión y el almacenamiento, asegurando que solo las personas autorizadas puedan acceder a ellos. Sin codificación, la información sería vulnerable a accesos no deseados."
+  },
+  {
+    "intent_id": "codificacion_y_algoritmos",
+    "keywords": [
+      "codificacion",
+      "algoritmos",
+      "procesos",
+      "datos"
+    ],
+    "base_response": "La codificación está íntimamente relacionada con los algoritmos, que son secuencias de instrucciones para procesar datos. Estos algoritmos determinan cómo se codifican y decodifican la información, permitiendo realizar tareas computacionales de manera eficiente y efectiva."
+  },
+  {
+    "intent_id": "aplicaciones_de_la_codificacion",
+    "keywords": [
+      "aplicaciones",
+      "codificacion",
+      "programacion",
+      "tecnologia"
+    ],
+    "base_response": "La codificación se aplica en diversas áreas, como la programación, la seguridad cibernética y el almacenamiento de datos. Su uso es vital en la creación de software, la protección de información y la optimización de sistemas tecnológicos en la actualidad."
+  },
+  {
+    "intent_id": "mecanismos_de_recompensa_1",
+    "keywords": [
+      "dopamina",
+      "recompensa",
+      "conducta",
+      "motivacion"
+    ],
+    "base_response": "La dopamina actúa como un neurotransmisor que desencadena sensaciones de placer y satisfacción. Cuando realizamos actividades gratificantes, como jugar o estudiar, nuestro cerebro libera dopamina, reforzando conductas que queremos repetir en el futuro para obtener recompensas similares."
+  },
+  {
+    "intent_id": "mecanismos_de_recompensa_2",
+    "keywords": [
+      "aprendizaje",
+      "dopamina",
+      "experiencia",
+      "recompensa"
+    ],
+    "base_response": "El aprendizaje está estrechamente relacionado con los mecanismos de recompensa. Cada vez que experimentamos un éxito, se libera dopamina, lo que refuerza el comportamiento aprendido y nos motiva a repetir acciones que resultan en experiencias satisfactorias."
+  },
+  {
+    "intent_id": "mecanismos_de_recompensa_3",
+    "keywords": [
+      "juegos",
+      "dopamina",
+      "diversion",
+      "recompensas"
+    ],
+    "base_response": "Los videojuegos son un ejemplo claro de cómo la dopamina facilita la diversión. Al completar niveles o alcanzar metas, el cerebro libera dopamina, creando un ciclo de recompensa que nos motiva a seguir jugando y disfrutando de la experiencia."
+  },
+  {
+    "intent_id": "mecanismos_de_recompensa_4",
+    "keywords": [
+      "metas",
+      "dopamina",
+      "logros",
+      "motivacion"
+    ],
+    "base_response": "Establecer metas personales puede activar los mecanismos de recompensa en el cerebro. Al alcanzar esos objetivos, se libera dopamina, lo que genera una sensación de logro y satisfacción, impulsándonos a fijar y alcanzar nuevas metas en el futuro."
+  },
+  {
+    "intent_id": "mecanismos_de_recompensa_5",
+    "keywords": [
+      "social",
+      "dopamina",
+      "interacciones",
+      "recompensas"
+    ],
+    "base_response": "Las interacciones sociales también estimulan la liberación de dopamina. Al compartir momentos agradables con amigos o familiares, se activa el sistema de recompensa del cerebro, fomentando la conexión emocional y la búsqueda de más experiencias sociales gratificantes."
+  },
+  {
+    "intent_id": "definicion_condicionamiento_operante",
+    "keywords": [
+      "condicionamiento",
+      "refuerzo",
+      "conducta",
+      "consecuencia"
+    ],
+    "base_response": "El condicionamiento operante es un proceso de aprendizaje donde las conductas se modifican mediante refuerzos o castigos. A través de este método, se busca aumentar o disminuir la probabilidad de que una conducta ocurra nuevamente en el futuro."
+  },
+  {
+    "intent_id": "tipos_refuerzo_condicionamiento",
+    "keywords": [
+      "refuerzo",
+      "positivo",
+      "negativo",
+      "conducta"
+    ],
+    "base_response": "Existen dos tipos principales de refuerzo en el condicionamiento operante: el positivo, que añade un estímulo agradable para aumentar una conducta, y el negativo, que elimina un estímulo aversivo para fomentar el comportamiento deseado en el individuo."
+  },
+  {
+    "intent_id": "aplicaciones_condicionamiento_operante",
+    "keywords": [
+      "educacion",
+      "comportamiento",
+      "metodos",
+      "aprendizaje"
+    ],
+    "base_response": "El condicionamiento operante se aplica en la educación para moldear comportamientos. Los profesores pueden usar refuerzos para motivar a los estudiantes, estableciendo un ambiente positivo donde el aprendizaje se ve favorecido y las conductas indeseadas se minimizan."
+  },
+  {
+    "intent_id": "castigo_condicionamiento_operante",
+    "keywords": [
+      "castigo",
+      "conducta",
+      "reducir",
+      "consecuencia"
+    ],
+    "base_response": "El castigo en el condicionamiento operante se utiliza para disminuir conductas no deseadas. Puede ser positivo, al añadir un estímulo desagradable, o negativo, al retirar algo placentero, buscando así una modificación efectiva del comportamiento a través de consecuencias."
+  },
+  {
+    "intent_id": "extincion_condicionamiento_operante",
+    "keywords": [
+      "extincion",
+      "conducta",
+      "refuerzo",
+      "eliminar"
+    ],
+    "base_response": "La extinción en el condicionamiento operante ocurre cuando un comportamiento previamente reforzado deja de recibir refuerzo. Con el tiempo, la conducta tiende a disminuir y eventualmente desaparecer, ya que el individuo no recibe recompensas por su acción anterior."
+  },
+  {
+    "intent_id": "concepto_olvido_1",
+    "keywords": [
+      "memoria",
+      "recuerdo",
+      "informacion",
+      "perdida"
+    ],
+    "base_response": "El olvido es un proceso natural de la memoria donde la información almacenada se desvanece. Esto puede ocurrir por falta de uso, desinterés o interferencias, afectando nuestra capacidad para recordar eventos o conocimientos previamente aprendidos."
+  },
+  {
+    "intent_id": "concepto_decaimiento_1",
+    "keywords": [
+      "habilidad",
+      "practica",
+      "desuso",
+      "progreso"
+    ],
+    "base_response": "El decaimiento se refiere a la pérdida gradual de habilidades o conocimientos debido a la falta de práctica. Cuando no se ejercitan, estas capacidades pueden debilitarse, dificultando el aprendizaje y el desarrollo personal en diversas áreas."
+  },
+  {
+    "intent_id": "concepto_olvido_2",
+    "keywords": [
+      "atencion",
+      "concentracion",
+      "distraccion",
+      "recuerdos"
+    ],
+    "base_response": "La distracción afecta nuestra atención y, por ende, nuestra capacidad para retener información. Cuando no estamos plenamente concentrados en una tarea, es más probable que olvidemos detalles importantes, lo cual influye en nuestro aprendizaje diario."
+  },
+  {
+    "intent_id": "concepto_decaimiento_2",
+    "keywords": [
+      "motivacion",
+      "esfuerzo",
+      "perseverancia",
+      "rendimiento"
+    ],
+    "base_response": "El decaimiento del rendimiento puede surgir cuando la motivación disminuye. Sin un esfuerzo constante, los logros pueden desvanecerse. Es fundamental mantener un enfoque positivo y perseverar para evitar que el progreso se estancara y se pierda."
+  },
+  {
+    "intent_id": "concepto_olvido_3",
+    "keywords": [
+      "repeticion",
+      "aprendizaje",
+      "refuerzo",
+      "memoria"
+    ],
+    "base_response": "La repetición es clave para evitar el olvido. Mediante el refuerzo constante de la información, se fortalecen las conexiones neuronales, facilitando su recuperación. Sin esta práctica, es más probable que los recuerdos se desvanezcan con el tiempo."
+  },
+  {
+    "intent_id": "concepto_repeticion_espaciada_1",
+    "keywords": [
+      "memoria",
+      "aprendizaje",
+      "intervalos",
+      "revisiones"
+    ],
+    "base_response": "La repetición espaciada se basa en revisar información en intervalos de tiempo crecientes. Este método mejora la retención a largo plazo, ya que permite que el cerebro asimile los conocimientos de manera más efectiva y estructurada a lo largo del tiempo."
+  },
+  {
+    "intent_id": "concepto_repeticion_espaciada_2",
+    "keywords": [
+      "eficacia",
+      "consolidacion",
+      "conocimientos",
+      "estudio"
+    ],
+    "base_response": "Este enfoque se centra en la eficacia del aprendizaje, facilitando la consolidación de conocimientos. Al espaciar las revisiones, se reduce la carga cognitiva y se optimiza el tiempo de estudio, logrando un aprendizaje más profundo y duradero."
+  },
+  {
+    "intent_id": "concepto_repeticion_espaciada_3",
+    "keywords": [
+      "tecnica",
+      "memorizacion",
+      "temas",
+      "intervalos"
+    ],
+    "base_response": "La técnica de repetición espaciada implica programar revisiones para temas específicos. Al aplicar intervalos estratégicos entre sesiones de estudio, se maximiza la memorización y se minimiza el olvido, mejorando el rendimiento académico de los estudiantes."
+  },
+  {
+    "intent_id": "concepto_repeticion_espaciada_4",
+    "keywords": [
+      "aprendizaje",
+      "estrategia",
+      "olvido",
+      "estudiantes"
+    ],
+    "base_response": "La repetición espaciada es una estrategia que combate el olvido. Al revisar material en momentos adecuados, se fomenta un aprendizaje más efectivo y se ayuda a los estudiantes a recordar información crucial durante exámenes y evaluaciones."
+  },
+  {
+    "intent_id": "concepto_repeticion_espaciada_5",
+    "keywords": [
+      "cognicion",
+      "retencion",
+      "informacion",
+      "estudio"
+    ],
+    "base_response": "Este método apoya la cognición al permitir que la retención de información se realice de manera natural. Al espaciar las sesiones de estudio, el cerebro se adapta y refuerza los aprendizajes, lo que resulta en una comprensión más sólida y duradera."
+  },
+  {
+    "intent_id": "estudios_longitudinales",
+    "keywords": [
+      "investigacion",
+      "cambio",
+      "tiempo",
+      "desarrollo"
+    ],
+    "base_response": "Los estudios longitudinales analizan los cambios en los mismos sujetos a lo largo del tiempo. Permiten observar el desarrollo de comportamientos y actitudes, proporcionando información valiosa sobre la evolución y los factores que influyen en el crecimiento personal."
+  },
+  {
+    "intent_id": "diferencias_estudios",
+    "keywords": [
+      "metodologia",
+      "enfoque",
+      "resultados",
+      "tiempo"
+    ],
+    "base_response": "La principal diferencia entre estudios longitudinales y transversales radica en su enfoque temporal. Mientras los longitudinales siguen a los mismos individuos a través del tiempo, los transversales analizan diferentes grupos en un solo momento, generando resultados distintos."
+  },
+  {
+    "intent_id": "aplicaciones_practicas",
+    "keywords": [
+      "educacion",
+      "investigacion",
+      "estrategias",
+      "desarrollo"
+    ],
+    "base_response": "Ambos tipos de estudios tienen aplicaciones prácticas en educación. Los longitudinales pueden ayudar a evaluar el progreso académico a lo largo de los años, mientras que los transversales permiten comparar el rendimiento de diferentes cohortes en un periodo específico."
+  },
+  {
+    "intent_id": "ventajas_desventajas",
+    "keywords": [
+      "beneficios",
+      "limitaciones",
+      "recursos",
+      "tiempo"
+    ],
+    "base_response": "Los estudios longitudinales ofrecen un análisis profundo y detallado, pero requieren más tiempo y recursos. En contraste, los transversales son más rápidos y menos costosos, aunque pueden no proporcionar información tan exhaustiva sobre cambios a largo plazo."
+  },
+  {
+    "intent_id": "importancia_de_atencion_focalizada",
+    "keywords": [
+      "atencion",
+      "concentracion",
+      "rendimiento",
+      "aprendizaje"
+    ],
+    "base_response": "La atención focalizada permite a los adolescentes concentrarse en tareas específicas, lo que mejora su rendimiento académico. Al reducir distracciones, fomentan un aprendizaje más efectivo y significativo, facilitando la comprensión de conceptos y habilidades esenciales para su desarrollo."
+  },
+  {
+    "intent_id": "metodos_para_mejorar_atencion",
+    "keywords": [
+      "metodos",
+      "ejercicios",
+      "practicas",
+      "atencion"
+    ],
+    "base_response": "Existen diversos métodos y ejercicios que ayudan a los adolescentes a mejorar su atención focalizada. Prácticas como la meditación, el uso de temporizadores y intervalos de descanso, permiten entrenar la mente para mantener el enfoque en actividades relevantes."
+  },
+  {
+    "intent_id": "ambientes_que_favorecen_atencion",
+    "keywords": [
+      "ambientes",
+      "entorno",
+      "disminuirdistracciones",
+      "concentracion"
+    ],
+    "base_response": "Crear un ambiente propicio para la atención focalizada es crucial. Un entorno libre de ruidos y distracciones, con una organización adecuada del espacio de trabajo, facilita que los adolescentes se concentren en sus tareas y aprovechen al máximo su tiempo de estudio."
+  },
+  {
+    "intent_id": "atencion_focalizada_y_emociones",
+    "keywords": [
+      "emociones",
+      "atencion",
+      "manejo",
+      "estres"
+    ],
+    "base_response": "La atención focalizada puede verse afectada por las emociones. Enseñar a los adolescentes a gestionar sus sentimientos y estrés les ayuda a mejorar su concentración, permitiéndoles enfrentar desafíos académicos con mayor claridad y eficacia en su aprendizaje diario."
+  },
+  {
+    "intent_id": "tecnologia_y_atencion_focalizada",
+    "keywords": [
+      "tecnologia",
+      "influencia",
+      "atencion",
+      "aprendizaje"
+    ],
+    "base_response": "La tecnología tiene un impacto significativo en la atención focalizada de los adolescentes. El uso excesivo de dispositivos puede disminuir su capacidad de concentración, pero también puede ser aprovechado para desarrollar herramientas y aplicaciones que fomenten el aprendizaje efectivo."
+  },
+  {
+    "intent_id": "atencion_selectiva",
+    "keywords": [
+      "atencion",
+      "focalizacion",
+      "procesos",
+      "cognitivos"
+    ],
+    "base_response": "La atencion selectiva permite a los adolescentes concentrarse en información relevante mientras ignoran distracciones. Este proceso es fundamental para el aprendizaje, ya que facilita la comprensión y retención de datos importantes en entornos saturados de estímulos."
+  },
+  {
+    "intent_id": "memoria_operativa",
+    "keywords": [
+      "memoria",
+      "corta",
+      "retencion",
+      "informacion"
+    ],
+    "base_response": "La memoria operativa es crucial para realizar tareas cognitivas complejas. Permite mantener y manipular información temporalmente, facilitando la resolución de problemas. Su desarrollo en adolescentes mejora la capacidad para aprender y realizar actividades académicas efectivas."
+  },
+  {
+    "intent_id": "pensamiento_critico",
+    "keywords": [
+      "pensamiento",
+      "analisis",
+      "juicio",
+      "decision"
+    ],
+    "base_response": "El pensamiento crítico involucra evaluar y analizar información de manera objetiva. Para los adolescentes, desarrollar esta habilidad es esencial, ya que les ayuda a tomar decisiones informadas y a construir argumentos sólidos basados en evidencias y razonamientos lógicos."
+  },
+  {
+    "intent_id": "resolucion_problemas",
+    "keywords": [
+      "problemas",
+      "soluciones",
+      "estrategias",
+      "cognitivas"
+    ],
+    "base_response": "La resolución de problemas es un proceso cognitivo que implica identificar, analizar y formular soluciones efectivas. Fomentar esta habilidad en adolescentes es vital, ya que les permite enfrentar desafíos académicos y personales con creatividad y resiliencia."
+  },
+  {
+    "intent_id": "aprendizaje_autonomo",
+    "keywords": [
+      "aprendizaje",
+      "autonomo",
+      "motivo",
+      "iniciativa"
+    ],
+    "base_response": "El aprendizaje autónomo empodera a los adolescentes para que tomen control sobre su educación. Este proceso cognitivo implica establecer metas, buscar recursos y evaluar su propio progreso, fomentando así la iniciativa y la responsabilidad en su desarrollo personal y académico."
+  },
+  {
+    "intent_id": "concepto_uno",
+    "keywords": [
+      "desamparo",
+      "aprendizaje",
+      "comportamiento",
+      "adolescentes"
+    ],
+    "base_response": "El desamparo aprendido se manifiesta cuando los adolescentes sienten que no pueden influir en sus circunstancias, lo que afecta su motivación. Este fenómeno puede generar pasividad y falta de esfuerzo ante situaciones adversas, limitando su desarrollo personal y académico."
+  },
+  {
+    "intent_id": "concepto_dos",
+    "keywords": [
+      "emociones",
+      "percepcion",
+      "futuro",
+      "decisiones"
+    ],
+    "base_response": "La percepción del desamparo aprendido influye en cómo los adolescentes enfrentan sus desafíos. Creer que sus acciones no tienen impacto puede llevar a la desesperanza, afectando su capacidad para tomar decisiones, lo que puede limitar sus oportunidades futuras."
+  },
+  {
+    "intent_id": "concepto_tres",
+    "keywords": [
+      "resiliencia",
+      "intervencion",
+      "apoyo",
+      "adolescentes"
+    ],
+    "base_response": "Intervenciones efectivas pueden ayudar a los adolescentes a superar el desamparo aprendido. Fomentar la resiliencia y ofrecer apoyo emocional y práctico les permite reconocer su capacidad de influir en su entorno y mejorar su bienestar general."
+  },
+  {
+    "intent_id": "concepto_cuatro",
+    "keywords": [
+      "autoeficacia",
+      "motivacion",
+      "desarrollo",
+      "adolescentes"
+    ],
+    "base_response": "La autoeficacia es crucial en la superación del desamparo aprendido. Fomentar la creencia en sus habilidades ayuda a los adolescentes a enfrentar desafíos con mayor motivación, lo que contribuye a un desarrollo más positivo en diversas áreas de su vida."
+  },
+  {
+    "intent_id": "concepto_cinco",
+    "keywords": [
+      "estrategias",
+      "aprendizaje",
+      "afrontamiento",
+      "desamparo"
+    ],
+    "base_response": "Implementar estrategias de afrontamiento es esencial para combatir el desamparo aprendido en adolescentes. Estas técnicas pueden incluir el establecimiento de metas, la práctica de la autorreflexión y la búsqueda de apoyo social, permitiendo un desarrollo más saludable y proactivo."
+  },
+  {
+    "intent_id": "memoria_a_corto_plazo_1",
+    "keywords": [
+      "memoria",
+      "informacion",
+      "cortoplazo",
+      "retencion"
+    ],
+    "base_response": "La memoria a corto plazo se refiere a la capacidad de retener información de manera temporal. Permite recordar datos durante breves periodos, como números de teléfono o instrucciones, facilitando el aprendizaje y la ejecución de tareas cotidianas."
+  },
+  {
+    "intent_id": "memoria_a_corto_plazo_2",
+    "keywords": [
+      "cognicion",
+      "procesos",
+      "atencion",
+      "memoria"
+    ],
+    "base_response": "Este tipo de memoria es fundamental en los procesos cognitivos. Involucra la atención y se activa al recibir estímulos. Sin atención adecuada, la información puede perderse rápidamente, afectando el aprendizaje y la comprensión de nuevos conceptos."
+  },
+  {
+    "intent_id": "memoria_a_corto_plazo_3",
+    "keywords": [
+      "capacidad",
+      "limitada",
+      "datos",
+      "almacenamiento"
+    ],
+    "base_response": "La memoria a corto plazo tiene una capacidad limitada, generalmente retiene entre cinco y nueve elementos. Esto significa que solo se pueden almacenar unos pocos datos a la vez, lo que requiere estrategias de organización para facilitar el recuerdo."
+  },
+  {
+    "intent_id": "memoria_a_corto_plazo_4",
+    "keywords": [
+      "distraction",
+      "olvido",
+      "informacion",
+      "recuperacion"
+    ],
+    "base_response": "La información en la memoria a corto plazo puede olvidarse rápidamente si no se revisa o utiliza. Distracciones, falta de interés o estrés pueden afectar la recuperación de datos, dificultando el aprendizaje efectivo en situaciones académicas."
+  },
+  {
+    "intent_id": "memoria_a_corto_plazo_5",
+    "keywords": [
+      "estrategias",
+      "mejorar",
+      "aprendizaje",
+      "memoria"
+    ],
+    "base_response": "Existen diversas estrategias para mejorar la memoria a corto plazo. Técnicas como la repetición, la visualización o el uso de acrónimos facilitan la retención de información, potenciando el aprendizaje en adolescentes y optimizando su rendimiento académico."
+  },
+  {
+    "intent_id": "autoevaluacion_y_ajuste",
+    "keywords": [
+      "autoevaluacion",
+      "ajuste",
+      "estrategias",
+      "aprendizaje"
+    ],
+    "base_response": "La autoevaluacion permite a los adolescentes reflexionar sobre su propio proceso de aprendizaje. Ajustar estrategias según lo que funciona y lo que no, ayuda a mejorar la comprensión y retención de conocimientos, fomentando una mayor autonomía en el aprendizaje."
+  },
+  {
+    "intent_id": "planificacion_del_aprendizaje",
+    "keywords": [
+      "planificacion",
+      "objetivos",
+      "tiempo",
+      "recursos"
+    ],
+    "base_response": "La planificacion del aprendizaje implica establecer objetivos claros y utilizar el tiempo y los recursos de manera efectiva. Esta habilidad promueve la organización y la anticipación de dificultades, facilitando el logro de metas académicas y personales en adolescentes."
+  },
+  {
+    "intent_id": "reflexion_post_aprendizaje",
+    "keywords": [
+      "reflexion",
+      "evaluacion",
+      "experiencias",
+      "mejoras"
+    ],
+    "base_response": "La reflexion post-aprendizaje invita a los adolescentes a evaluar sus experiencias educativas. Identificar qué estrategias funcionaron y cuáles no, fomenta un aprendizaje continuo y la implementación de mejoras en futuras tareas o proyectos académicos."
+  },
+  {
+    "intent_id": "monitorizacion_del_proceso",
+    "keywords": [
+      "monitorizacion",
+      "proceso",
+      "metas",
+      "feedback"
+    ],
+    "base_response": "La monitorizacion del proceso educativo permite a los adolescentes seguir su progreso hacia las metas establecidas. Recibir feedback y ajustar acciones en tiempo real es clave para el éxito académico, promoviendo una mentalidad de crecimiento y superación."
+  },
+  {
+    "intent_id": "regulacion_emocional",
+    "keywords": [
+      "regulacion",
+      "emocional",
+      "estres",
+      "aprendizaje"
+    ],
+    "base_response": "La regulacion emocional en el aprendizaje es fundamental para manejar el estres y la ansiedad. Los adolescentes deben aprender a identificar sus emociones y aplicar estrategias que faciliten un estado mental positivo, mejorando su capacidad para aprender y enfrentar desafíos."
+  },
+  {
+    "intent_id": "percepcion_de_habilidades",
+    "keywords": [
+      "autoeficacia",
+      "habilidades",
+      "percepcion",
+      "logros"
+    ],
+    "base_response": "La percepción de habilidades se refiere a cómo un adolescente evalúa sus capacidades para realizar tareas. Esta autoevaluación influye en su motivación y esfuerzo, determinando su disposición para enfrentar desafíos y alcanzar logros significativos en su vida diaria."
+  },
+  {
+    "intent_id": "influencia_del_ambiente",
+    "keywords": [
+      "entorno",
+      "apoyo",
+      "autoeficacia",
+      "motivacion"
+    ],
+    "base_response": "El entorno en el que se desarrolla un adolescente impacta su autoeficacia. Un ambiente de apoyo, donde se valoran los esfuerzos y se celebran los logros, fortalece la confianza en sus habilidades, impulsando su motivación para superar obstáculos."
+  },
+  {
+    "intent_id": "metas_realistas",
+    "keywords": [
+      "metas",
+      "realistas",
+      "autoeficacia",
+      "desarrollo"
+    ],
+    "base_response": "Establecer metas realistas es fundamental para el desarrollo de la autoeficacia en adolescentes. Al alcanzar objetivos alcanzables, se refuerza la creencia en sus capacidades, promoviendo un ciclo positivo de autoevaluación y motivación hacia nuevos desafíos."
+  },
+  {
+    "intent_id": "aprendizaje_a_traves_de_fracasos",
+    "keywords": [
+      "fracasos",
+      "aprendizaje",
+      "autoeficacia",
+      "resiliencia"
+    ],
+    "base_response": "El aprendizaje a través de fracasos es esencial para desarrollar la autoeficacia. Los adolescentes que ven los errores como oportunidades de crecimiento incrementan su resiliencia y confianza, lo que les ayuda a enfrentar futuros desafíos con una mentalidad positiva."
+  },
+  {
+    "intent_id": "modelado_de_comportamiento",
+    "keywords": [
+      "modelado",
+      "comportamiento",
+      "autoeficacia",
+      "referencias"
+    ],
+    "base_response": "El modelado de comportamiento implica que los adolescentes aprenden observando a otros. Al ver a modelos exitosos, pueden desarrollar una mayor autoeficacia, ya que identifican estrategias efectivas y se sienten inspirados a replicar esos comportamientos en sus propias vidas."
+  },
+  {
+    "intent_id": "comprension_lectora",
+    "keywords": [
+      "comprension",
+      "texto",
+      "analisis",
+      "interaccion"
+    ],
+    "base_response": "La comprensión lectora implica un análisis activo del texto. Los lectores interactúan con el contenido, formulando preguntas y buscando conexiones. Esto les permite internalizar la información y desarrollar un pensamiento crítico sobre lo que leen, mejorando su aprendizaje."
+  },
+  {
+    "intent_id": "subrayado_efectivo",
+    "keywords": [
+      "subrayado",
+      "destacar",
+      "informacion",
+      "enfoque"
+    ],
+    "base_response": "El subrayado efectivo consiste en destacar información clave mientras se lee. Permite al lector concentrarse en los conceptos más importantes, facilitando la retención de información y el repaso posterior. Este método promueve una lectura más activa y consciente."
+  },
+  {
+    "intent_id": "notas_marginales",
+    "keywords": [
+      "notas",
+      "marginales",
+      "reflexiones",
+      "anotaciones"
+    ],
+    "base_response": "Tomar notas marginales implica escribir reflexiones y anotaciones al margen del texto. Esto estimula el pensamiento crítico y la conexión de ideas. Fomenta una lectura activa, ya que el lector se involucra y dialoga con el contenido de manera personal."
+  },
+  {
+    "intent_id": "preguntas_lectura",
+    "keywords": [
+      "preguntas",
+      "lectura",
+      "curiosidad",
+      "comprension"
+    ],
+    "base_response": "Formular preguntas durante la lectura es esencial para mantener la curiosidad. Estas preguntas guían al lector y fomentan una búsqueda activa de respuestas en el texto, lo que promueve una comprensión más profunda y un aprendizaje significativo."
+  },
+  {
+    "intent_id": "resumen_sintesis",
+    "keywords": [
+      "resumen",
+      "sintesis",
+      "contenido",
+      "estructura"
+    ],
+    "base_response": "Hacer resúmenes y síntesis del contenido leído ayuda a estructurar la información. Este proceso activo no solo refuerza la memoria, sino que también permite al lector identificar ideas principales y relaciones, facilitando una comprensión más clara y duradera del texto."
+  },
+  {
+    "intent_id": "atencion_focalizada_en_tareas",
+    "keywords": [
+      "atencion",
+      "tareas",
+      "concentracion",
+      "eficacia"
+    ],
+    "base_response": "La atención focalizada en tareas permite a los adolescentes concentrarse en un objetivo específico, mejorando la eficacia en su aprendizaje. Al eliminar distracciones, se potencia su capacidad para procesar información y resolver problemas de forma más efectiva."
+  },
+  {
+    "intent_id": "estrategias_de_atencion_focalizada",
+    "keywords": [
+      "estrategias",
+      "atencion",
+      "focalizacion",
+      "aprendizaje"
+    ],
+    "base_response": "Implementar estrategias de atención focalizada ayuda a los adolescentes a desarrollar habilidades de concentración. Técnicas como la respiración controlada o el uso de temporizadores facilitan el enfoque en actividades, optimizando su rendimiento académico y personal."
+  },
+  {
+    "intent_id": "impacto_de_atencion_focalizada",
+    "keywords": [
+      "impacto",
+      "atencion",
+      "rendimiento",
+      "adolescentes"
+    ],
+    "base_response": "El impacto de la atención focalizada en el rendimiento académico de los adolescentes es significativo. Al centrarse en una tarea, los estudiantes pueden absorber información más fácilmente, lo que resulta en una mejor comprensión y retención del contenido estudiado."
+  },
+  {
+    "intent_id": "desarrollo_de_habilidades_atencion",
+    "keywords": [
+      "desarrollo",
+      "habilidades",
+      "atencion",
+      "adolescentes"
+    ],
+    "base_response": "El desarrollo de habilidades de atención focalizada es crucial en la adolescencia. Estas habilidades permiten a los jóvenes gestionar su tiempo de estudio y extracurricular, fomentando un crecimiento personal y académico que les servirá en el futuro."
+  },
+  {
+    "intent_id": "entorno_de_atencion_focalizada",
+    "keywords": [
+      "entorno",
+      "atencion",
+      "focalizada",
+      "distracciones"
+    ],
+    "base_response": "Crear un entorno propicio para la atención focalizada es esencial. Minimizar distracciones, organizar el espacio de estudio y establecer rutinas ayuda a los adolescentes a concentrarse mejor, facilitando así su proceso de aprendizaje y autoeficacia."
+  },
+  {
+    "intent_id": "efecto_primacia",
+    "keywords": [
+      "memoria",
+      "informacion",
+      "aprendizaje",
+      "prioridad"
+    ],
+    "base_response": "El efecto de primacía se refiere a la tendencia a recordar mejor la información presentada al inicio de una lista. Este fenómeno se relaciona con la forma en que la memoria procesa y almacena la información durante el aprendizaje inicial."
+  },
+  {
+    "intent_id": "efecto_recencia",
+    "keywords": [
+      "memoria",
+      "informacion",
+      "reciente",
+      "recordar"
+    ],
+    "base_response": "El efecto de recencia indica que los últimos elementos de una lista son más fáciles de recordar. Esto ocurre porque estos elementos permanecen frescos en la memoria a corto plazo, facilitando su recuperación en momentos de necesidad."
+  },
+  {
+    "intent_id": "estrategias_aprendizaje",
+    "keywords": [
+      "estudio",
+      "metodos",
+      "memoria",
+      "organizacion"
+    ],
+    "base_response": "Para optimizar el aprendizaje, se pueden aplicar estrategias que aprovechen el efecto de primacía y recencia. Organizar la información en grupos y repasar al principio y al final mejora significativamente la retención de datos en la memoria."
+  },
+  {
+    "intent_id": "aplicaciones_clase",
+    "keywords": [
+      "ensenanza",
+      "metodos",
+      "evaluacion",
+      "recursos"
+    ],
+    "base_response": "Los docentes pueden utilizar el efecto de primacía y recencia al estructurar sus clases. Iniciar con conceptos clave y concluir con resúmenes refuerza el aprendizaje, permitiendo que los alumnos retengan más información de las sesiones educativas."
+  },
+  {
+    "intent_id": "dificultades_memoria",
+    "keywords": [
+      "dificultades",
+      "aprendizaje",
+      "memoria",
+      "atencion"
+    ],
+    "base_response": "Las dificultades en la memoria pueden afectar cómo los adolescentes experimentan los efectos de primacía y recencia. Estrategias adaptativas pueden ayudar a superar estas limitaciones, mejorando la atención y la capacidad de recordar información en diversas situaciones."
+  },
+  {
+    "intent_id": "atencion_sostenida_en_clase",
+    "keywords": [
+      "atencion",
+      "clase",
+      "estudiantes",
+      "aprendizaje"
+    ],
+    "base_response": "La atencion sostenida en clase es la capacidad de un estudiante para concentrarse en una tarea durante un periodo prolongado. Esto permite asimilar mejor la información y participar activamente en el aprendizaje, favoreciendo un entorno educativo más efectivo y dinámico."
+  },
+  {
+    "intent_id": "tecnicas_para_atencion_sostenida",
+    "keywords": [
+      "tecnicas",
+      "atencion",
+      "sostenida",
+      "estudios"
+    ],
+    "base_response": "Existen diversas tecnicas para mejorar la atencion sostenida, como la práctica de la meditación, establecimiento de metas y el uso de pausas activas. Estas estrategias ayudan a los adolescentes a mantener su enfoque y aumentar su productividad académica en diversas actividades."
+  },
+  {
+    "intent_id": "impacto_de_atencion_sostenida",
+    "keywords": [
+      "impacto",
+      "atencion",
+      "sostenida",
+      "rendimiento"
+    ],
+    "base_response": "El impacto de la atencion sostenida en el rendimiento académico es significativo. Los estudiantes que logran mantener su atención durante más tiempo tienden a obtener mejores resultados, ya que comprenden y retienen la información de manera más efectiva en sus estudios."
+  },
+  {
+    "intent_id": "juegos_para_atencion_sostenida",
+    "keywords": [
+      "juegos",
+      "atencion",
+      "sostenida",
+      "diversion"
+    ],
+    "base_response": "Los juegos diseñados para fomentar la atencion sostenida son herramientas útiles en el aula. Actividades como rompecabezas y juegos de memoria no solo son divertidos, sino que también ayudan a los adolescentes a desarrollar habilidades de concentración y enfoque en sus tareas."
+  },
+  {
+    "intent_id": "relacion_atencion_sostenida_y_emociones",
+    "keywords": [
+      "relacion",
+      "atencion",
+      "emociones",
+      "adolescentes"
+    ],
+    "base_response": "La relacion entre la atencion sostenida y las emociones es crucial en adolescentes. Las emociones pueden afectar su capacidad de concentrarse. Un ambiente emocionalmente positivo fomenta una mejor atención, mientras que el estrés puede dificultar su enfoque en tareas académicas."
+  },
+  {
+    "intent_id": "interes_y_curiosidad",
+    "keywords": [
+      "interes",
+      "curiosidad",
+      "aprendizaje",
+      "adolescentes"
+    ],
+    "base_response": "La motivacion intrinseca en adolescentes se nutre del interes y la curiosidad. Estos elementos provocan un deseo natural de aprender, explorar y descubrir, lo que a su vez fomenta una actitud positiva hacia el aprendizaje y la superacion personal."
+  },
+  {
+    "intent_id": "autonomia_y_control",
+    "keywords": [
+      "autonomia",
+      "control",
+      "decisiones",
+      "aprendizaje"
+    ],
+    "base_response": "Fomentar la autonomia permite a los adolescentes sentir que tienen control sobre su aprendizaje. Esto les motiva a tomar decisiones, establecer metas y asumir responsabilidades, creando un ambiente donde el deseo de aprender se vuelve un motor interno."
+  },
+  {
+    "intent_id": "reconocimiento_y_logros",
+    "keywords": [
+      "reconocimiento",
+      "logros",
+      "autoestima",
+      "metas"
+    ],
+    "base_response": "El reconocimiento de logros personales fortalece la autoestima en adolescentes. Al establecer y alcanzar metas, sienten satisfacción interna que potencia su motivacion intrinseca. Este ciclo de éxito alimenta el deseo de seguir aprendiendo y mejorando continuamente."
+  },
+  {
+    "intent_id": "conexiones_y_relaciones",
+    "keywords": [
+      "conexiones",
+      "relaciones",
+      "aprendizaje",
+      "colaborativo"
+    ],
+    "base_response": "Las conexiones y relaciones sociales influyen en la motivacion intrinseca. Cuando los adolescentes trabajan en grupo, comparten ideas y experiencias, se sienten más comprometidos y motivados, ya que el aprendizaje se transforma en una experiencia colectiva enriquecedora."
+  },
+  {
+    "intent_id": "interes_personal_y_relevancia",
+    "keywords": [
+      "interes",
+      "personal",
+      "relevancia",
+      "temas"
+    ],
+    "base_response": "La relevancia de los temas en el curriculum es crucial para la motivacion intrinseca. Si los adolescentes encuentran un vinculo personal con el contenido, se sienten más motivados a participar activamente, lo que mejora su aprendizaje y comprensión del entorno."
+  },
+  {
+    "intent_id": "atencion_y_concentracion",
+    "keywords": [
+      "atencion",
+      "concentracion",
+      "focalizacion",
+      "tareas"
+    ],
+    "base_response": "La atencion y concentracion son funciones ejecutivas que permiten a los adolescentes enfocarse en una tarea específica. Esto implica filtrar distracciones y mantener el enfoque durante periodos prolongados, mejorando su rendimiento académico y habilidades de aprendizaje."
+  },
+  {
+    "intent_id": "planificacion_y_organizacion",
+    "keywords": [
+      "planificacion",
+      "organizacion",
+      "metas",
+      "estrategias"
+    ],
+    "base_response": "La planificacion y organizacion son esenciales para que los adolescentes establezcan metas y diseñen estrategias para alcanzarlas. Estas habilidades les ayudan a estructurar su tiempo y recursos, facilitando la ejecución de proyectos y tareas diarias con eficacia."
+  },
+  {
+    "intent_id": "control_inhibitorio",
+    "keywords": [
+      "control",
+      "inhibicion",
+      "impulsos",
+      "decisiones"
+    ],
+    "base_response": "El control inhibitorio es una función ejecutiva que permite a los adolescentes gestionar impulsos y emociones. Esta habilidad es crucial para tomar decisiones reflexivas, evitando comportamientos impulsivos que pueden perjudicar su bienestar o relaciones interpersonales."
+  },
+  {
+    "intent_id": "flexibilidad_cognitiva",
+    "keywords": [
+      "flexibilidad",
+      "cognitiva",
+      "adaptacion",
+      "cambios"
+    ],
+    "base_response": "La flexibilidad cognitiva es la capacidad de adaptarse a nuevas situaciones y cambios en el entorno. Para los adolescentes, esta función ejecutiva les permite modificar sus pensamientos y enfoques, facilitando la resolución de problemas y la innovación en diversas áreas."
+  },
+  {
+    "intent_id": "memoria_de_trabajo",
+    "keywords": [
+      "memoria",
+      "trabajo",
+      "informacion",
+      "retencion"
+    ],
+    "base_response": "La memoria de trabajo es una función ejecutiva que permite a los adolescentes mantener y manipular información temporalmente. Esta habilidad es fundamental para el aprendizaje, ya que facilita la comprensión y el uso de datos en tareas académicas y cotidianas."
+  },
+  {
+    "intent_id": "autoeficacia_basica",
+    "keywords": [
+      "confianza",
+      "logros",
+      "esfuerzo",
+      "metas"
+    ],
+    "base_response": "La autoeficacia es la creencia que tiene un adolescente en su capacidad para alcanzar metas y enfrentar desafíos. Esta confianza se desarrolla a través de experiencias previas, aprendizajes y el apoyo de otros, fomentando un esfuerzo constante hacia el éxito."
+  },
+  {
+    "intent_id": "autoeficacia_y_aprendizaje",
+    "keywords": [
+      "aprendizaje",
+      "motivacion",
+      "resultados",
+      "estrategias"
+    ],
+    "base_response": "La autoeficacia influye directamente en el aprendizaje. Los adolescentes que creen en su capacidad tienden a usar estrategias efectivas, se muestran más motivados y persisten ante las dificultades, lo que les permite obtener mejores resultados académicos y personales."
+  },
+  {
+    "intent_id": "autoeficacia_en_grupo",
+    "keywords": [
+      "colaboracion",
+      "grupo",
+      "apoyo",
+      "desempeno"
+    ],
+    "base_response": "En contextos grupales, la autoeficacia colectiva puede mejorar el desempeño de un equipo. Cuando los adolescentes se apoyan mutuamente y creen en sus capacidades compartidas, se generan mejores dinámicas de trabajo, aumentando la motivación y el rendimiento general."
+  },
+  {
+    "intent_id": "autoeficacia_y_resiliencia",
+    "keywords": [
+      "resiliencia",
+      "obstaculos",
+      "superacion",
+      "confianza"
+    ],
+    "base_response": "La autoeficacia está relacionada con la resiliencia. Los adolescentes que confían en sus habilidades son más propensos a enfrentar obstáculos y superarlos. Esta capacidad les permite adaptarse a situaciones adversas y aprender de los fracasos sin rendirse."
+  },
+  {
+    "intent_id": "autoeficacia_y_autonomia",
+    "keywords": [
+      "autonomia",
+      "decisiones",
+      "independencia",
+      "responsabilidad"
+    ],
+    "base_response": "La autoeficacia promueve la autonomía en los adolescentes. Al creer en su capacidad para tomar decisiones acertadas, se sienten más responsables de sus acciones. Esta independencia fomenta un desarrollo personal más sólido y una mejor preparación para el futuro."
+  },
+  {
+    "intent_id": "zona_de_desarrollo_proximo_1",
+    "keywords": [
+      "aprendizaje",
+      "colaboracion",
+      "maestro",
+      "companion"
+    ],
+    "base_response": "La zona de desarrollo próximo se refiere a la distancia entre lo que un estudiante puede hacer solo y lo que puede hacer con ayuda. Esto implica que el apoyo adecuado potencia su aprendizaje y desarrollo de habilidades cognitivas y sociales."
+  },
+  {
+    "intent_id": "zona_de_desarrollo_proximo_2",
+    "keywords": [
+      "estudiante",
+      "retos",
+      "apoyo",
+      "crecimiento"
+    ],
+    "base_response": "Identificar la zona de desarrollo próximo permite a los educadores crear tareas desafiantes que estimulan el aprendizaje. Además, fomenta un ambiente donde los estudiantes se sienten seguros para explorar y crecer con el apoyo necesario de sus compañeros y docentes."
+  },
+  {
+    "intent_id": "zona_de_desarrollo_proximo_3",
+    "keywords": [
+      "tareas",
+      "interaccion",
+      "proceso",
+      "evaluacion"
+    ],
+    "base_response": "La zona de desarrollo próximo se manifiesta en el proceso de aprendizaje a través de interacciones significativas. Al evaluar las tareas adecuadas, se puede ofrecer el soporte necesario que ayude a los estudiantes a avanzar y adquirir nuevas competencias."
+  },
+  {
+    "intent_id": "zona_de_desarrollo_proximo_4",
+    "keywords": [
+      "desempeno",
+      "horizonte",
+      "metas",
+      "autonomia"
+    ],
+    "base_response": "La zona de desarrollo próximo permite que un estudiante identifique sus metas y aspiraciones. A través del aprendizaje guiado, puede superar sus límites actuales, logrando un desempeño más autónomo y efectivo en diversas áreas académicas y sociales."
+  },
+  {
+    "intent_id": "zona_de_desarrollo_proximo_5",
+    "keywords": [
+      "habilidades",
+      "construccion",
+      "conocimiento",
+      "intervencion"
+    ],
+    "base_response": "Este concepto enfatiza la importancia de la intervención educativa en la adquisición de habilidades. Al reconocer la zona de desarrollo próximo, los educadores pueden orientar la construcción del conocimiento, facilitando el aprendizaje y el desarrollo integral del estudiante."
+  },
+  {
+    "intent_id": "estilo_aprendizaje_kinestesico_1",
+    "keywords": [
+      "movimiento",
+      "interaccion",
+      "experiencia",
+      "practica"
+    ],
+    "base_response": "El estilo de aprendizaje kinestésico se basa en la participación activa. Los adolescentes aprenden mejor al hacer, experimentar y moverse. Este enfoque fomenta la retención de información al involucrar el cuerpo en el proceso educativo, facilitando conexiones significativas."
+  },
+  {
+    "intent_id": "estilo_aprendizaje_kinestesico_2",
+    "keywords": [
+      "manipulacion",
+      "materiales",
+      "juegos",
+      "creatividad"
+    ],
+    "base_response": "Los estudiantes kinestésicos se benefician de actividades que incluyen la manipulación de materiales. Utilizar juegos, proyectos prácticos y dinámicas creativas permite a los adolescentes explorar conceptos, desarrollando habilidades y facilitando la comprensión a través de la acción."
+  },
+  {
+    "intent_id": "estilo_aprendizaje_kinestesico_3",
+    "keywords": [
+      "motor",
+      "sensorial",
+      "aprendizaje",
+      "emocional"
+    ],
+    "base_response": "El aprendizaje kinestésico está ligado a la inteligencia motora y sensorial. Los adolescentes que adoptan este estilo suelen crear conexiones emocionales más fuertes con el contenido, lo que les permite recordar mejor la información a través de experiencias vivenciales y activas."
+  },
+  {
+    "intent_id": "estilo_aprendizaje_kinestesico_4",
+    "keywords": [
+      "espacio",
+      "ambiente",
+      "exploracion",
+      "autonomia"
+    ],
+    "base_response": "Los estudiantes kinestésicos prosperan en ambientes que fomentan la exploración y el movimiento. Proporcionar espacios flexibles donde puedan moverse libremente les permite aprender de manera autónoma, favoreciendo su curiosidad mientras adquieren conocimientos de forma efectiva."
+  },
+  {
+    "intent_id": "estilo_aprendizaje_kinestesico_5",
+    "keywords": [
+      "multisensorial",
+      "diversion",
+      "participacion",
+      "retencion"
+    ],
+    "base_response": "El aprendizaje kinestésico es altamente multisensorial y divertido. Al involucrar la participación activa y el juego, los adolescentes no solo disfrutan el proceso, sino que también mejoran su retención de información, convirtiendo el aprendizaje en una experiencia agradable y efectiva."
+  }
+]
