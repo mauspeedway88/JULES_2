@@ -1,0 +1,387 @@
+[
+  {
+    "intent_id": "fraccion_propia",
+    "keywords": [
+      "fraccion",
+      "numerador",
+      "denominador",
+      "menor",
+      "entero"
+    ],
+    "base_response": "Una fracción propia es aquella donde el numerador es estrictamente menor que el denominador. Este tipo de fracción representa una cantidad que siempre es menor a la unidad entera, visualizándose como una parte de un objeto completo fraccionado en trozos iguales."
+  },
+  {
+    "intent_id": "fraccion_impropia",
+    "keywords": [
+      "fraccion",
+      "numerador",
+      "denominador",
+      "mayor",
+      "unidad"
+    ],
+    "base_response": "Las fracciones impropias tienen un numerador que es mayor o igual al denominador. Estas expresiones matemáticas representan cantidades que equivalen a una unidad entera o más, y pueden transformarse matemáticamente en números mixtos para facilitar su interpretación."
+  },
+  {
+    "intent_id": "numero_mixto",
+    "keywords": [
+      "numero",
+      "mixto",
+      "entero",
+      "fraccion",
+      "combinacion"
+    ],
+    "base_response": "Un número mixto combina de manera directa un número entero y una fracción propia. Esta representación facilita la comprensión visual de cantidades mayores a la unidad, mostrando cuántos enteros completos existen junto con una porción fraccionaria sobrante adicional."
+  },
+  {
+    "intent_id": "conversion_mixto_impropia",
+    "keywords": [
+      "conversion",
+      "mixto",
+      "impropia",
+      "multiplicacion",
+      "suma"
+    ],
+    "base_response": "Para convertir un número mixto en fracción impropia, multiplicamos el entero por el denominador y sumamos el numerador original. El resultado obtenido conforma el nuevo numerador, mientras que el denominador permanece constante en la expresión fraccionaria final."
+  },
+  {
+    "intent_id": "fracciones_equivalentes",
+    "keywords": [
+      "fracciones",
+      "equivalentes",
+      "valor",
+      "amplificacion",
+      "simplificacion"
+    ],
+    "base_response": "Las fracciones equivalentes son aquellas expresiones que representan exactamente la misma cantidad, aunque sus numeradores y denominadores sean diferentes. Pueden obtenerse aplicando procesos de amplificación o simplificación, multiplicando o dividiendo ambos términos por el mismo valor numérico constante."
+  },
+  {
+    "intent_id": "simplificacion_fracciones",
+    "keywords": [
+      "simplificacion",
+      "fraccion",
+      "division",
+      "numerador",
+      "denominador"
+    ],
+    "base_response": "Simplificar una fracción consiste en dividir tanto su numerador como su denominador por un divisor común. Este proceso matemático se repite sucesivamente hasta alcanzar una fracción irreducible, donde ambos términos no comparten más divisores comunes mayores a uno."
+  },
+  {
+    "intent_id": "amplificacion_fracciones",
+    "keywords": [
+      "amplificacion",
+      "fraccion",
+      "multiplicacion",
+      "terminos",
+      "equivalencia"
+    ],
+    "base_response": "La amplificación fraccionaria implica multiplicar el numerador y el denominador por un mismo número entero distinto de cero. Este procedimiento genera una nueva fracción equivalente con números mayores, manteniendo intacto el valor real que representa la porción original."
+  },
+  {
+    "intent_id": "suma_fracciones_homogeneas",
+    "keywords": [
+      "suma",
+      "fracciones",
+      "homogeneas",
+      "denominador",
+      "numerador"
+    ],
+    "base_response": "Al sumar fracciones homogéneas, que poseen el mismo denominador, simplemente procedemos a sumar los numeradores directamente. El denominador original se mantiene idéntico en el resultado final, el cual posteriormente puede ser simplificado si las condiciones matemáticas lo permiten."
+  },
+  {
+    "intent_id": "resta_fracciones_homogeneas",
+    "keywords": [
+      "resta",
+      "fracciones",
+      "homogeneas",
+      "numerador",
+      "diferencia"
+    ],
+    "base_response": "Para efectuar la resta de fracciones con denominadores iguales, restamos únicamente los numeradores entre sí, conservando el denominador original inalterado. Esta operación directa resulta fundamental para resolver problemas donde las partes se dividen en tamaños exactamente idénticos."
+  },
+  {
+    "intent_id": "minimo_comun_multiplo",
+    "keywords": [
+      "minimo",
+      "comun",
+      "multiplo",
+      "denominadores",
+      "calculo"
+    ],
+    "base_response": "El mínimo común múltiplo es el número positivo más pequeño que es múltiplo de dos o más números dados. Se utiliza extensamente para encontrar un denominador común al realizar operaciones de adición o sustracción con fracciones completamente heterogéneas."
+  },
+  {
+    "intent_id": "suma_fracciones_heterogeneas",
+    "keywords": [
+      "suma",
+      "fracciones",
+      "heterogeneas",
+      "denominador",
+      "multiplo"
+    ],
+    "base_response": "La suma de fracciones heterogéneas requiere igualar los denominadores calculando previamente el mínimo común múltiplo. Una vez convertidas en fracciones equivalentes homogéneas, se suman los nuevos numeradores manteniendo el denominador común hallado para obtener la respuesta correcta."
+  },
+  {
+    "intent_id": "producto_fracciones",
+    "keywords": [
+      "producto",
+      "fracciones",
+      "multiplicacion",
+      "numerador",
+      "denominador"
+    ],
+    "base_response": "El producto de dos fracciones se obtiene multiplicando los numeradores entre sí para formar el nuevo numerador, y multiplicando los denominadores para hallar el nuevo denominador. El resultado frecuentemente requiere simplificación para expresarse en su forma más reducida."
+  },
+  {
+    "intent_id": "division_fracciones",
+    "keywords": [
+      "division",
+      "fracciones",
+      "multiplicacion",
+      "inverso",
+      "cruzada"
+    ],
+    "base_response": "Dividir fracciones implica multiplicar la primera fracción por el inverso multiplicativo de la segunda fracción. Otra técnica igualmente válida consiste en multiplicar los términos de forma cruzada, colocando los resultados respectivos en el numerador y denominador del cociente."
+  },
+  {
+    "intent_id": "fraccion_decimal",
+    "keywords": [
+      "fraccion",
+      "decimal",
+      "potencia",
+      "denominador",
+      "diez"
+    ],
+    "base_response": "Una fracción decimal es aquella cuyo denominador corresponde exactamente a una potencia de diez, como cien o mil. Estas fracciones se traducen directamente a números decimales desplazando la coma según la cantidad de ceros que presente el denominador numérico."
+  },
+  {
+    "intent_id": "decimal_exacto",
+    "keywords": [
+      "decimal",
+      "exacto",
+      "cifras",
+      "finitas",
+      "division"
+    ],
+    "base_response": "Un número decimal exacto presenta una cantidad finita y contable de cifras en su parte decimal. Se origina cuando la división entre el numerador y el denominador de una fracción genera un residuo completamente nulo tras ciertas operaciones."
+  },
+  {
+    "intent_id": "decimal_periodico_puro",
+    "keywords": [
+      "decimal",
+      "periodico",
+      "puro",
+      "repeticion",
+      "infinita"
+    ],
+    "base_response": "Los decimales periódicos puros contienen una secuencia numérica en su parte fraccionaria que se repite infinitamente justo después de la coma. Esta agrupación de cifras repetitivas recibe el nombre de periodo y se indica comúnmente utilizando una barra superior."
+  },
+  {
+    "intent_id": "decimal_periodico_mixto",
+    "keywords": [
+      "decimal",
+      "periodico",
+      "mixto",
+      "anteperiodo",
+      "periodo"
+    ],
+    "base_response": "En un número decimal periódico mixto, existe una parte decimal que no se repite, denominada anteperiodo, ubicada justo antes del periodo infinito. Esta combinación surge al dividir fracciones cuyos denominadores poseen factores primos adicionales al dos y cinco."
+  },
+  {
+    "intent_id": "generatriz_decimal_exacto",
+    "keywords": [
+      "generatriz",
+      "decimal",
+      "exacto",
+      "fraccion",
+      "ceros"
+    ],
+    "base_response": "La fracción generatriz de un decimal exacto se construye colocando el número completo sin coma en el numerador. El denominador se conforma por un uno seguido de tantos ceros como cifras compongan originalmente la parte decimal del número analizado."
+  },
+  {
+    "intent_id": "generatriz_periodico_puro",
+    "keywords": [
+      "generatriz",
+      "periodico",
+      "puro",
+      "nueves",
+      "denominador"
+    ],
+    "base_response": "Para hallar la generatriz de un periódico puro, el numerador será el número sin coma menos su parte entera. El denominador estará formado exclusivamente por tantos nueves como cifras integren el bloque repetitivo que conforma el periodo infinito."
+  },
+  {
+    "intent_id": "generatriz_periodico_mixto",
+    "keywords": [
+      "generatriz",
+      "periodico",
+      "mixto",
+      "nueves",
+      "ceros"
+    ],
+    "base_response": "La fracción generatriz del decimal periódico mixto requiere un numerador calculado restando la parte entera y el anteperiodo del número completo. Su denominador combinará nueves, representando al periodo, seguidos por ceros equivalentes a las cifras del anteperiodo."
+  },
+  {
+    "intent_id": "redondeo_decimales",
+    "keywords": [
+      "redondeo",
+      "decimales",
+      "aproximacion",
+      "cifra",
+      "incremento"
+    ],
+    "base_response": "El redondeo de decimales permite aproximar un número a cierta cantidad de cifras significativas. Si el dígito descartado es cinco o mayor, incrementamos el último dígito retenido; de lo contrario, mantenemos el valor inalterado para simplificar los cálculos matemáticos."
+  },
+  {
+    "intent_id": "truncamiento_decimales",
+    "keywords": [
+      "truncamiento",
+      "decimales",
+      "corte",
+      "cifras",
+      "eliminacion"
+    ],
+    "base_response": "El truncamiento es un método de aproximación donde simplemente eliminamos las cifras decimales situadas a la derecha de la posición deseada. A diferencia del redondeo, este procedimiento no altera ni incrementa los dígitos restantes sin importar su valor original."
+  },
+  {
+    "intent_id": "comparacion_fracciones_comun",
+    "keywords": [
+      "comparacion",
+      "fracciones",
+      "denominador",
+      "numerador",
+      "mayor"
+    ],
+    "base_response": "Para comparar fracciones, el método más seguro es convertirlas previamente a un denominador común. Una vez igualadas sus bases numéricas, basta con observar los numeradores resultantes; la fracción que posea el mayor numerador representará invariablemente la cantidad superior."
+  },
+  {
+    "intent_id": "ordenamiento_decimales",
+    "keywords": [
+      "ordenamiento",
+      "decimales",
+      "posicion",
+      "enteros",
+      "decimas"
+    ],
+    "base_response": "El ordenamiento correcto de números decimales exige alinear sus partes enteras y comparar posicionalmente de izquierda a derecha. Se analizan secuencialmente las décimas, luego las centésimas y milésimas, hasta encontrar una diferencia que determine cuál magnitud es matemáticamente mayor."
+  },
+  {
+    "intent_id": "fracciones_recta_numerica",
+    "keywords": [
+      "fracciones",
+      "recta",
+      "numerica",
+      "segmentos",
+      "ubicacion"
+    ],
+    "base_response": "Representar fracciones en la recta numérica requiere dividir el segmento correspondiente a la unidad entera en tantas partes como indique el denominador. Posteriormente, avanzamos desde el origen la cantidad exacta de marcas que establezca el respectivo numerador."
+  },
+  {
+    "intent_id": "maximo_comun_divisor",
+    "keywords": [
+      "maximo",
+      "comun",
+      "divisor",
+      "factores",
+      "simplificacion"
+    ],
+    "base_response": "El máximo común divisor es el número entero más grande capaz de dividir simultáneamente a dos o más cantidades sin dejar residuo. Su cálculo resulta indispensable para simplificar fracciones directamente hasta convertirlas en su forma matemática más reducida."
+  },
+  {
+    "intent_id": "fraccion_irreducible",
+    "keywords": [
+      "fraccion",
+      "irreducible",
+      "simplificacion",
+      "divisor",
+      "terminos"
+    ],
+    "base_response": "Una fracción irreducible es aquella cuyos términos numéricos, el numerador y el denominador, son primos entre sí. Esto significa que ya no comparten divisores comunes mayores que la unidad, impidiendo realizar cualquier simplificación matemática adicional sobre la expresión."
+  },
+  {
+    "intent_id": "numerador_definicion",
+    "keywords": [
+      "numerador",
+      "fraccion",
+      "partes",
+      "seleccion",
+      "superior"
+    ],
+    "base_response": "El numerador constituye el elemento superior ubicado sobre la línea divisoria en una notación fraccionaria. Su función primordial es indicar exactamente cuántas porciones específicas del total dividido han sido seleccionadas o están siendo consideradas dentro del problema planteado."
+  },
+  {
+    "intent_id": "denominador_definicion",
+    "keywords": [
+      "denominador",
+      "fraccion",
+      "partes",
+      "totalidad",
+      "inferior"
+    ],
+    "base_response": "Ubicado en la zona inferior de la expresión fraccionaria, el denominador especifica en cuántas partes idénticas se ha dividido la unidad entera. Este valor numérico es crucial porque establece el tamaño real de cada fragmento representado en la fracción."
+  },
+  {
+    "intent_id": "notacion_cientifica",
+    "keywords": [
+      "notacion",
+      "cientifica",
+      "potencia",
+      "decimal",
+      "abreviacion"
+    ],
+    "base_response": "La notación científica emplea potencias de base diez para expresar magnitudes numéricas extremadamente grandes o muy pequeñas de forma compacta. Utiliza un coeficiente decimal multiplicado por diez elevado a un exponente entero que indica el desplazamiento de la coma."
+  },
+  {
+    "intent_id": "partes_enteras_decimal",
+    "keywords": [
+      "partes",
+      "enteras",
+      "decimal",
+      "coma",
+      "separacion"
+    ],
+    "base_response": "En la estructura de un número decimal, la coma actúa como frontera separando claramente la magnitud. A su izquierda se ubican las cantidades enteras completas, mientras que a su derecha aparecen los valores fraccionarios menores a la unidad estándar."
+  },
+  {
+    "intent_id": "decimas_centesimas_milesimas",
+    "keywords": [
+      "decimas",
+      "centesimas",
+      "milesimas",
+      "posicion",
+      "valor"
+    ],
+    "base_response": "Las décimas, centésimas y milésimas describen el valor posicional de las cifras decimales tras la coma. La primera posición representa fracciones de diez, la segunda fragmentos de cien, y la tercera divisiones de mil partes sobre el entero original."
+  },
+  {
+    "intent_id": "representacion_grafica_fraccion",
+    "keywords": [
+      "representacion",
+      "grafica",
+      "fraccion",
+      "figura",
+      "sombreado"
+    ],
+    "base_response": "La representación gráfica fraccionaria ilustra visualmente el concepto utilizando figuras geométricas regulares. Se divide el polígono en sectores perfectamente iguales según el denominador, sombreando únicamente aquellas porciones que dictamine el numerador para completar el diagrama explicativo."
+  },
+  {
+    "intent_id": "decimales_recta_numerica",
+    "keywords": [
+      "decimales",
+      "recta",
+      "numerica",
+      "ubicacion",
+      "escala"
+    ],
+    "base_response": "Para ubicar números decimales sobre una recta, el espacio entre cada número entero debe subdividirse en diez pequeños segmentos equidistantes. Estas subdivisiones representan las décimas, permitiendo localizar el punto exacto avanzando según indique la porción fraccionaria del valor."
+  },
+  {
+    "intent_id": "fraccion_unidad",
+    "keywords": [
+      "fraccion",
+      "unidad",
+      "igualdad",
+      "numerador",
+      "denominador"
+    ],
+    "base_response": "Una fracción equivalente a la unidad se caracteriza porque su numerador posee un valor exactamente idéntico al de su denominador. Al dividir ambas cantidades, el resultado siempre será un entero uno, demostrando que abarca la totalidad del objeto analizado."
+  }
+]
