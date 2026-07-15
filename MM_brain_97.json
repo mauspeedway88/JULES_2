@@ -1,0 +1,1729 @@
+[
+    {
+        "intent_id": "conceptos_corte_juliana",
+        "keywords": [
+            "corte",
+            "juliana",
+            "tecnica",
+            "cuchillo",
+            "vegetales"
+        ],
+        "base_response": "El corte en juliana es una técnica culinaria fundamental que consiste en cortar los vegetales en tiras finas y alargadas. Este procedimiento garantiza una cocción uniforme y rápida, además de mejorar considerablemente la presentación estética de las ensaladas y guarniciones."
+    },
+    {
+        "intent_id": "higiene_lavado_manos",
+        "keywords": [
+            "lavado",
+            "manos",
+            "higiene",
+            "prevencion",
+            "bacterias"
+        ],
+        "base_response": "El lavado exhaustivo de las manos es el primer paso indispensable en la higiene alimentaria. Utilizar agua tibia y jabón durante al menos veinte segundos elimina bacterias patógenas, previniendo así la peligrosa contaminación cruzada al manipular diferentes tipos de ingredientes."
+    },
+    {
+        "intent_id": "metodo_coccion_hervir",
+        "keywords": [
+            "coccion",
+            "hervir",
+            "agua",
+            "ebullicion",
+            "temperatura"
+        ],
+        "base_response": "Hervir es un método de cocción por expansión donde los alimentos se sumergen en un líquido en estado de ebullición. Esta técnica permite ablandar estructuras celulares complejas, facilitando la digestión y extrayendo nutrientes esenciales hacia el caldo resultante del proceso."
+    },
+    {
+        "intent_id": "utensilios_tabla_picar",
+        "keywords": [
+            "tabla",
+            "picar",
+            "utensilio",
+            "superficie",
+            "corte"
+        ],
+        "base_response": "La tabla de picar proporciona una superficie segura y estable para realizar cortes precisos. Es fundamental utilizar tablas distintas para carnes crudas y vegetales frescos, evitando de esta manera transferir microorganismos dañinos que pueden causar graves enfermedades de transmisión alimentaria."
+    },
+    {
+        "intent_id": "medidas_cucharada_estandar",
+        "keywords": [
+            "cucharada",
+            "medida",
+            "volumen",
+            "receta",
+            "estandar"
+        ],
+        "base_response": "La cucharada estándar es una unidad de medida de volumen esencial en la repostería y la cocina general. Equivale exactamente a quince mililitros de líquido, permitiendo replicar recetas con gran precisión y asegurar un equilibrio perfecto entre los diversos sabores."
+    },
+    {
+        "intent_id": "conservacion_refrigeracion",
+        "keywords": [
+            "conservacion",
+            "refrigeracion",
+            "alimentos",
+            "frio",
+            "descomposicion"
+        ],
+        "base_response": "La refrigeración es un método de conservación que utiliza temperaturas frías para ralentizar significativamente el crecimiento bacteriano. Mantener los alimentos perecederos por debajo de cinco grados Celsius es crucial para extender su vida útil y garantizar un consumo completamente seguro."
+    },
+    {
+        "intent_id": "tecnica_sellado_carne",
+        "keywords": [
+            "sellado",
+            "carne",
+            "calor",
+            "jugos",
+            "dorado"
+        ],
+        "base_response": "El sellado de la carne implica aplicar calor seco y muy intenso a la superficie del alimento. Esta técnica desarrolla una costra dorada y sabrosa mediante la reacción de Maillard, mejorando la textura exterior sin cocinar completamente el interior tierno."
+    },
+    {
+        "intent_id": "ingredientes_especias_basicas",
+        "keywords": [
+            "especias",
+            "sabor",
+            "aroma",
+            "condimento",
+            "preparacion"
+        ],
+        "base_response": "Las especias básicas transforman radicalmente cualquier preparación culinaria aportando aromas profundos y sabores complejos. Elementos como la pimienta, el comino o la canela deben usarse con moderación, buscando siempre realzar las características naturales de los ingredientes principales sin llegar a opacarlos."
+    },
+    {
+        "intent_id": "seguridad_cuchillos_afilados",
+        "keywords": [
+            "seguridad",
+            "cuchillos",
+            "filo",
+            "prevencion",
+            "accidentes"
+        ],
+        "base_response": "Mantener los cuchillos perfectamente afilados es una regla de seguridad paradójica pero vital en la cocina. Un filo adecuado requiere aplicar mucha menos fuerza durante el corte, reduciendo drásticamente la probabilidad de resbalones peligrosos y accidentes graves en las manos."
+    },
+    {
+        "intent_id": "clasificacion_alimentos_perecederos",
+        "keywords": [
+            "alimentos",
+            "perecederos",
+            "descomposicion",
+            "humedad",
+            "almacenamiento"
+        ],
+        "base_response": "Los alimentos perecederos son aquellos que poseen una alta concentración de agua y nutrientes, lo que facilita su rápida descomposición. Carnes, lácteos y vegetales frescos exigen condiciones de almacenamiento específicas, principalmente refrigeración inmediata, para mantener sus óptimas propiedades nutricionales intactas."
+    },
+    {
+        "intent_id": "metodo_coccion_vapor",
+        "keywords": [
+            "coccion",
+            "vapor",
+            "calor",
+            "nutrientes",
+            "textura"
+        ],
+        "base_response": "La cocción al vapor utiliza el calor suave emanado por un líquido hirviendo sin sumergir directamente el alimento. Este método extraordinario preserva al máximo las vitaminas hidrosolubles, mantiene colores brillantes y protege la delicada textura de verduras y pescados magros."
+    },
+    {
+        "intent_id": "utensilios_sarten_antiadherente",
+        "keywords": [
+            "sarten",
+            "antiadherente",
+            "superficie",
+            "fritura",
+            "calor"
+        ],
+        "base_response": "La sartén antiadherente posee un recubrimiento especial que impide que los ingredientes se peguen a su superficie. Es el utensilio ideal para preparar alimentos delicados como huevos o pescados, permitiendo además una cocción más saludable al requerir una cantidad mínima de grasa."
+    },
+    {
+        "intent_id": "preparacion_mise_en_place",
+        "keywords": [
+            "organizacion",
+            "preparacion",
+            "ingredientes",
+            "cocina",
+            "eficiencia"
+        ],
+        "base_response": "El concepto de 'mise en place' significa tener todo organizado y preparado antes de comenzar a cocinar. Picar, medir y disponer ordenadamente los ingredientes optimiza el tiempo de ejecución, reduce el estrés y previene errores críticos durante el proceso culinario."
+    },
+    {
+        "intent_id": "tecnica_blanqueado_vegetales",
+        "keywords": [
+            "blanqueado",
+            "vegetales",
+            "ebullicion",
+            "hielo",
+            "textura"
+        ],
+        "base_response": "El blanqueado consiste en sumergir brevemente los vegetales en agua hirviendo y trasladarlos inmediatamente a un baño de hielo. Este choque térmico detiene la cocción al instante, fijando la clorofila para mantener colores vibrantes y conservando una textura agradablemente crujiente."
+    },
+    {
+        "intent_id": "medidas_taza_reposteria",
+        "keywords": [
+            "taza",
+            "medida",
+            "volumen",
+            "ingredientes",
+            "reposteria"
+        ],
+        "base_response": "La taza medidora es un recipiente calibrado diseñado para cuantificar ingredientes secos o líquidos con exactitud. Al medir harinas, es fundamental nivelar la superficie con una espátula recta para evitar excesos que puedan alterar negativamente la estructura final del producto horneado."
+    },
+    {
+        "intent_id": "higiene_contaminacion_cruzada",
+        "keywords": [
+            "contaminacion",
+            "cruzada",
+            "bacterias",
+            "alimentos",
+            "transferencia"
+        ],
+        "base_response": "La contaminación cruzada ocurre cuando microorganismos peligrosos se transfieren de un alimento crudo a uno listo para consumir. Utilizar utensilios separados y limpiar meticulosamente las superficies de trabajo son medidas profilácticas obligatorias para evitar severas intoxicaciones en el entorno doméstico."
+    },
+    {
+        "intent_id": "metodo_coccion_horno",
+        "keywords": [
+            "coccion",
+            "horno",
+            "calor",
+            "aire",
+            "temperatura"
+        ],
+        "base_response": "Hornear implica rodear el alimento con aire caliente y seco dentro de un espacio cerrado. Este método distribuye la temperatura de forma homogénea, permitiendo transformaciones químicas complejas que desarrollan costras crujientes y migas esponjosas en masas, panes y deliciosos pasteles."
+    },
+    {
+        "intent_id": "ingredientes_hierbas_aromaticas",
+        "keywords": [
+            "hierbas",
+            "aromaticas",
+            "hojas",
+            "sabor",
+            "condimento"
+        ],
+        "base_response": "Las hierbas aromáticas son las hojas frescas o secas de diversas plantas utilizadas para perfumar los platos. A diferencia de las especias fuertes, las hierbas delicadas como el cilantro o la albahaca deben incorporarse al final de la cocción para preservar su frescura."
+    },
+    {
+        "intent_id": "utensilios_batidor_globo",
+        "keywords": [
+            "batidor",
+            "globo",
+            "mezcla",
+            "aire",
+            "emulsion"
+        ],
+        "base_response": "El batidor de globo es una herramienta conformada por alambres curvados unidos a un mango ergonómico. Su diseño aerodinámico permite incorporar grandes cantidades de aire a mezclas líquidas, siendo indispensable para montar claras a punto de nieve o emulsionar delicadas vinagretas."
+    },
+    {
+        "intent_id": "conservacion_congelacion_alimentos",
+        "keywords": [
+            "congelacion",
+            "alimentos",
+            "temperatura",
+            "hielo",
+            "preservacion"
+        ],
+        "base_response": "La congelación detiene casi por completo la actividad enzimática y bacteriana al transformar el agua interna en cristales de hielo. Empacar herméticamente los alimentos antes de someterlos a temperaturas bajo cero evita quemaduras por frío y prolonga su conservación durante varios meses."
+    },
+    {
+        "intent_id": "tecnica_desglasado_sarten",
+        "keywords": [
+            "desglasado",
+            "sarten",
+            "liquido",
+            "sabor",
+            "fondos"
+        ],
+        "base_response": "El desglasado es la acción de verter un líquido, como vino o caldo, sobre una sartén caliente donde se ha cocinado carne. Este proceso disuelve y recupera los jugos caramelizados adheridos al fondo, creando la base perfecta para salsas sumamente sabrosas."
+    },
+    {
+        "intent_id": "clasificacion_grupos_alimenticios",
+        "keywords": [
+            "grupos",
+            "alimenticios",
+            "nutricion",
+            "dieta",
+            "macronutrientes"
+        ],
+        "base_response": "Los grupos alimenticios clasifican los alimentos según su composición predominante de macronutrientes. Entender la función de los carbohidratos, las proteínas y las grasas saludables permite planificar menús diarios equilibrados que proporcionen la energía y los materiales de construcción que el cuerpo necesita."
+    },
+    {
+        "intent_id": "metodo_coccion_plancha",
+        "keywords": [
+            "coccion",
+            "plancha",
+            "calor",
+            "metal",
+            "superficie"
+        ],
+        "base_response": "Cocinar a la plancha requiere una placa metálica calentada a alta temperatura con una cantidad mínima de grasa lubricante. Transmite el calor por conducción directa, dorando rápidamente la capa exterior y resultando en preparaciones ligeras, jugosas y nutricionalmente muy recomendables para dietas saludables."
+    },
+    {
+        "intent_id": "higiene_desinfeccion_superficies",
+        "keywords": [
+            "desinfeccion",
+            "superficies",
+            "limpieza",
+            "bacterias",
+            "cocina"
+        ],
+        "base_response": "La desinfección de las encimeras de la cocina exige usar soluciones específicas que eliminen patógenos microscópicos. Tras retirar los residuos visibles con agua y jabón, aplicar un desinfectante garantiza un entorno estéril, indispensable para manipular alimentos crudos con total seguridad sanitaria."
+    },
+    {
+        "intent_id": "medidas_gramos_bascula",
+        "keywords": [
+            "gramos",
+            "bascula",
+            "peso",
+            "ingredientes",
+            "precision"
+        ],
+        "base_response": "El uso de la báscula digital permite medir los ingredientes en gramos, ofreciendo una precisión absoluta frente a las medidas por volumen. Este rigor matemático es la clave del éxito en la panadería moderna, donde pequeñas variaciones arruinan por completo la estructura química."
+    },
+    {
+        "intent_id": "ingredientes_frescos",
+        "keywords": [
+            "ingredientes",
+            "seleccionar",
+            "lavar",
+            "cortar",
+            "mezclar"
+        ],
+        "base_response": "Los ingredientes frescos permiten preparar comidas más sabrosas y saludables. Es importante elegir productos de buena calidad, lavarlos correctamente y cortarlos con cuidado. Así se logra una base adecuada para cualquier receta sencilla en la cocina diaria."
+    },
+    {
+        "intent_id": "receta_huevos_revueltos",
+        "keywords": [
+            "huevos",
+            "batir",
+            "cocinar",
+            "servir",
+            "sazonar"
+        ],
+        "base_response": "Los huevos revueltos son una receta básica que ayuda a practicar técnicas simples. Se baten los huevos, se cocinan a fuego medio y se sazonan al gusto. Esta preparación enseña control del calor y mezcla adecuada para obtener buena textura."
+    },
+    {
+        "intent_id": "utensilio_sarten",
+        "keywords": [
+            "sarten",
+            "calentar",
+            "freir",
+            "voltear",
+            "servir"
+        ],
+        "base_response": "La sartén es un utensilio esencial para cocinar alimentos rápidamente. Permite freír, saltear y dorar ingredientes con facilidad. Su uso adecuado ayuda a desarrollar habilidades básicas, como controlar el aceite y voltear alimentos sin romperlos."
+    },
+    {
+        "intent_id": "medida_taza",
+        "keywords": [
+            "taza",
+            "medir",
+            "llenar",
+            "verter",
+            "calcular"
+        ],
+        "base_response": "La taza es una medida culinaria muy utilizada para ingredientes secos y líquidos. Facilita calcular cantidades sin necesidad de instrumentos complejos. Aprender a usarla correctamente ayuda a seguir recetas con precisión y obtener buenos resultados."
+    },
+    {
+        "intent_id": "higiene_manos",
+        "keywords": [
+            "lavar",
+            "manos",
+            "frotar",
+            "enjuagar",
+            "secar"
+        ],
+        "base_response": "Lavarse las manos antes de cocinar evita la contaminación de los alimentos. Es importante frotar bien, enjuagar con agua limpia y secar completamente. Esta práctica sencilla protege la salud y mantiene la cocina segura para todos."
+    },
+    {
+        "intent_id": "ingredientes_secos",
+        "keywords": [
+            "harina",
+            "azucar",
+            "sal",
+            "mezclar",
+            "tamizar"
+        ],
+        "base_response": "Los ingredientes secos son fundamentales en muchas recetas básicas. Es útil tamizarlos para evitar grumos y mezclarlos con cuidado para lograr masas uniformes. Conocer su función ayuda a mejorar la textura y el sabor de las preparaciones."
+    },
+    {
+        "intent_id": "tecnica_salpimentar",
+        "keywords": [
+            "sazonar",
+            "espolvorear",
+            "mezclar",
+            "probar",
+            "ajustar"
+        ],
+        "base_response": "Salpimentar es añadir sal y pimienta para realzar el sabor de los alimentos. Es importante probar la preparación y ajustar la cantidad según preferencia. Esta técnica desarrolla el sentido del gusto y mejora cualquier plato sencillo."
+    },
+    {
+        "intent_id": "metodo_salteado",
+        "keywords": [
+            "saltear",
+            "mover",
+            "calentar",
+            "mezclar",
+            "cocinar"
+        ],
+        "base_response": "El salteado consiste en cocinar alimentos rápidamente con poco aceite y calor alto. Se deben mover los ingredientes constantemente para evitar que se quemen. Este método desarrolla coordinación y control del tiempo en la cocina."
+    },
+    {
+        "intent_id": "receta_sandwich",
+        "keywords": [
+            "untar",
+            "cortar",
+            "armar",
+            "servir",
+            "rellenar"
+        ],
+        "base_response": "El sándwich es una receta sencilla que permite practicar organización y combinación de ingredientes. Se arma con un relleno equilibrado y se corta para facilitar su consumo. Es ideal para aprender a preparar comidas rápidas y nutritivas."
+    },
+    {
+        "intent_id": "tecnica_marinar",
+        "keywords": [
+            "marinar",
+            "mezclar",
+            "sumergir",
+            "reposar",
+            "sazonar"
+        ],
+        "base_response": "Marinar consiste en sumergir alimentos en una mezcla de sabores para mejorar su gusto y textura. Requiere reposo adecuado para que los ingredientes absorban el líquido. Esta técnica ayuda a crear platos más sabrosos y variados."
+    },
+    {
+        "intent_id": "ingredientes_basicos_cocina",
+        "keywords": [
+            "ingredientes",
+            "cocina",
+            "mezcla",
+            "preparacion",
+            "sabor"
+        ],
+        "base_response": "Los ingredientes básicos permiten crear recetas sencillas y deliciosas. Conocer su función ayuda a combinarlos correctamente y obtener mejores resultados. Practicar su uso desarrolla habilidades culinarias útiles para la vida diaria y fomenta la creatividad en la cocina."
+    },
+    {
+        "intent_id": "receta_sencilla_huevos",
+        "keywords": [
+            "huevos",
+            "batir",
+            "cocinar",
+            "mezclar",
+            "servir"
+        ],
+        "base_response": "Preparar huevos es una receta sencilla que enseña técnicas básicas de cocción. Al batir y cocinar adecuadamente, se logra una textura agradable. Este proceso ayuda a comprender tiempos de cocción y mejora la confianza al iniciar en la cocina."
+    },
+    {
+        "intent_id": "tecnica_coccion_hervir",
+        "keywords": [
+            "hervir",
+            "calentar",
+            "sumergir",
+            "cocinar",
+            "controlar"
+        ],
+        "base_response": "Hervir consiste en calentar agua hasta que burbujee y cocinar alimentos dentro de ella. Esta técnica permite ablandar ingredientes y mejorar su sabor. Es fundamental aprender a controlar el tiempo para evitar que los alimentos se deshagan."
+    },
+    {
+        "intent_id": "utensilio_sarten_basica",
+        "keywords": [
+            "sarten",
+            "cocinar",
+            "freir",
+            "calentar",
+            "manejar"
+        ],
+        "base_response": "La sartén es un utensilio esencial para freír y cocinar diversos alimentos. Su uso adecuado implica controlar la temperatura y mover los ingredientes con cuidado. Dominarla facilita preparar platos rápidos y seguros en la vida cotidiana."
+    },
+    {
+        "intent_id": "ingrediente_sal_basica",
+        "keywords": [
+            "sal",
+            "sazonar",
+            "mezclar",
+            "cocinar",
+            "realzar"
+        ],
+        "base_response": "La sal es un ingrediente fundamental que realza el sabor de los alimentos. Usarla correctamente implica añadir la cantidad adecuada para evitar excesos. Comprender su función ayuda a mejorar cualquier receta y desarrollar buen gusto culinario."
+    },
+    {
+        "intent_id": "receta_sopa_simple",
+        "keywords": [
+            "sopa",
+            "cocinar",
+            "mezclar",
+            "hervir",
+            "servir"
+        ],
+        "base_response": "Una sopa simple enseña a combinar ingredientes y controlar tiempos de cocción. Al mezclar y hervir adecuadamente, se obtiene un plato nutritivo y reconfortante. Prepararla ayuda a desarrollar habilidades básicas para cocinar de forma independiente."
+    },
+    {
+        "intent_id": "utensilio_cuchillo_seguridad",
+        "keywords": [
+            "cuchillo",
+            "cortar",
+            "sujetar",
+            "manejar",
+            "cocinar"
+        ],
+        "base_response": "El cuchillo es un utensilio esencial que requiere manejo seguro y preciso. Aprender a sujetarlo correctamente evita accidentes y mejora la calidad del corte. Practicar con atención desarrolla confianza y habilidades importantes en la cocina."
+    },
+    {
+        "intent_id": "tecnica_hervir",
+        "keywords": [
+            "hervir",
+            "agua",
+            "calor",
+            "coccion",
+            "control"
+        ],
+        "base_response": "Hervir consiste en calentar agua hasta que burbujee de forma constante. Esta técnica permite cocinar alimentos de manera uniforme y segura. Comprender el control del calor ayuda a evitar sobrecocción y mejora la precisión en preparaciones cotidianas."
+    },
+    {
+        "intent_id": "utensilio_cuchillo_cocina",
+        "keywords": [
+            "cuchillo",
+            "corte",
+            "afilado",
+            "agarre",
+            "seguridad"
+        ],
+        "base_response": "El cuchillo de cocina es esencial para cortar alimentos con precisión. Aprender a sujetarlo correctamente mejora la seguridad y la eficiencia. Mantenerlo afilado facilita el trabajo y permite desarrollar habilidades fundamentales en la preparación de recetas básicas."
+    },
+    {
+        "intent_id": "medida_taza_culinaria",
+        "keywords": [
+            "taza",
+            "medida",
+            "cantidad",
+            "receta",
+            "precision"
+        ],
+        "base_response": "La taza culinaria ayuda a medir cantidades exactas en recetas. Usarla correctamente garantiza resultados consistentes y evita errores comunes. Comprender su función fomenta hábitos organizados y mejora la capacidad de seguir instrucciones culinarias con confianza."
+    },
+    {
+        "intent_id": "metodo_asar_basico",
+        "keywords": [
+            "asar",
+            "horno",
+            "calor",
+            "coccion",
+            "superficie"
+        ],
+        "base_response": "Asar consiste en cocinar alimentos usando calor seco dentro del horno. Este método resalta sabores y crea texturas agradables. Comprender tiempos y temperaturas permite preparar platos sencillos con buenos resultados y desarrollar habilidades culinarias iniciales."
+    },
+    {
+        "intent_id": "ingrediente_sal",
+        "keywords": [
+            "sal",
+            "sazonado",
+            "cristales",
+            "realce",
+            "sabor"
+        ],
+        "base_response": "La sal es un ingrediente clave para realzar sabores. Usarla en cantidades adecuadas evita que los platos resulten demasiado intensos. Aprender su función ayuda a desarrollar equilibrio en las recetas y mejora la comprensión del gusto en la cocina diaria."
+    },
+    {
+        "intent_id": "receta_huevo_revuelto",
+        "keywords": [
+            "huevo",
+            "revuelto",
+            "batido",
+            "coccion",
+            "mezcla"
+        ],
+        "base_response": "Los huevos revueltos enseñan a controlar el calor y mezclar suavemente. Cocinarlos lentamente produce una textura suave y agradable. Esta receta básica ayuda a practicar técnicas simples y fomenta la confianza en la preparación de desayunos cotidianos."
+    },
+    {
+        "intent_id": "medida_cucharada",
+        "keywords": [
+            "cucharada",
+            "medida",
+            "cantidad",
+            "receta",
+            "dosificacion"
+        ],
+        "base_response": "La cucharada es una medida útil para ingredientes líquidos y secos. Utilizarla correctamente garantiza precisión en recetas básicas. Comprender su función ayuda a evitar errores y fomenta hábitos organizados en la preparación de alimentos diarios."
+    },
+    {
+        "intent_id": "ingrediente_harina",
+        "keywords": [
+            "harina",
+            "mezcla",
+            "masa",
+            "espesor",
+            "coccion"
+        ],
+        "base_response": "La harina es fundamental para crear masas y espesar preparaciones. Comprender su comportamiento al mezclarse ayuda a lograr texturas adecuadas. Practicar su uso desarrolla habilidades básicas y permite experimentar con recetas simples en la cocina diaria."
+    },
+    {
+        "intent_id": "tecnica_remover",
+        "keywords": [
+            "remover",
+            "mezclar",
+            "coccion",
+            "control",
+            "textura"
+        ],
+        "base_response": "Remover permite integrar ingredientes y evitar que se quemen. Practicar esta técnica mejora el control del calor y la textura final. Comprender su importancia ayuda a desarrollar habilidades básicas necesarias para recetas sencillas y seguras."
+    },
+    {
+        "intent_id": "utensilio_tabla_corte",
+        "keywords": [
+            "tabla",
+            "corte",
+            "superficie",
+            "seguridad",
+            "organizacion"
+        ],
+        "base_response": "La tabla de corte ofrece una superficie estable para preparar alimentos. Usarla correctamente evita accidentes y mantiene el orden. Esta herramienta ayuda a desarrollar hábitos seguros y facilita la práctica de técnicas básicas de cocina."
+    },
+    {
+        "intent_id": "receta_sencilla",
+        "keywords": [
+            "receta",
+            "preparar",
+            "cocinar",
+            "mezclar",
+            "servir"
+        ],
+        "base_response": "Una receta sencilla ayuda a aprender pasos básicos de cocina sin complicaciones. Primero se reúnen los ingredientes, luego se mezclan y se cocinan siguiendo instrucciones claras. Finalmente, se sirve el plato terminado, fomentando confianza y habilidades culinarias iniciales."
+    },
+    {
+        "intent_id": "utensilio_cuchillo",
+        "keywords": [
+            "cuchillo",
+            "cortar",
+            "rebanar",
+            "pelar",
+            "preparar"
+        ],
+        "base_response": "El cuchillo es un utensilio esencial para cortar y preparar alimentos. Su uso correcto requiere sujetarlo con firmeza y mantener la hoja afilada. Con práctica, permite rebanar y pelar ingredientes de forma segura, mejorando la precisión en la cocina diaria."
+    },
+    {
+        "intent_id": "metodo_asar",
+        "keywords": [
+            "asar",
+            "calentar",
+            "voltear",
+            "cocinar",
+            "dorarse"
+        ],
+        "base_response": "Asar consiste en cocinar alimentos con calor directo, logrando que se doren por fuera y queden jugosos por dentro. Es importante voltear los ingredientes para una cocción uniforme. Este método aporta sabores intensos y texturas agradables."
+    },
+    {
+        "intent_id": "receta_ensalada",
+        "keywords": [
+            "ensalada",
+            "cortar",
+            "mezclar",
+            "agregar",
+            "servir"
+        ],
+        "base_response": "La ensalada es una receta básica que combina verduras frescas cortadas y mezcladas. Se pueden agregar ingredientes variados para mejorar su sabor. Es una preparación rápida que enseña a trabajar con alimentos crudos y a crear platos equilibrados."
+    },
+    {
+        "intent_id": "tecnica_freir",
+        "keywords": [
+            "freir",
+            "calentar",
+            "sumergir",
+            "voltear",
+            "escurrir"
+        ],
+        "base_response": "Freír implica calentar aceite y sumergir alimentos para cocinarlos rápidamente. Es importante controlar la temperatura y voltear los ingredientes para evitar quemarlos. Al terminar, se escurren para retirar el exceso de grasa y obtener texturas crujientes."
+    },
+    {
+        "intent_id": "metodo_hornear",
+        "keywords": [
+            "hornear",
+            "calentar",
+            "mezclar",
+            "colocar",
+            "cocinar"
+        ],
+        "base_response": "Hornear consiste en cocinar alimentos dentro de un horno usando calor constante. Se mezclan los ingredientes, se colocan en un molde y se cocinan hasta obtener la textura deseada. Este método permite crear platos dulces y salados con buenos resultados."
+    },
+    {
+        "intent_id": "ingrediente_aceite",
+        "keywords": [
+            "aceite",
+            "verter",
+            "mezclar",
+            "cocinar",
+            "sazonar"
+        ],
+        "base_response": "El aceite se utiliza para cocinar y sazonar alimentos, aportando sabor y textura. Debe verterse en cantidades moderadas para evitar excesos. Con práctica, se aprende a mezclarlo adecuadamente y a usarlo en distintas técnicas culinarias."
+    },
+    {
+        "intent_id": "receta_sopa",
+        "keywords": [
+            "sopa",
+            "hervir",
+            "mezclar",
+            "agregar",
+            "servir"
+        ],
+        "base_response": "La sopa es una receta básica que combina ingredientes hervidos y mezclados en agua. Se pueden agregar verduras, granos o carnes para variar su sabor. Es una preparación reconfortante que enseña tiempos de cocción y equilibrio de sabores."
+    },
+    {
+        "intent_id": "utensilio_tabla",
+        "keywords": [
+            "tabla",
+            "cortar",
+            "colocar",
+            "preparar",
+            "organizar"
+        ],
+        "base_response": "La tabla de cortar permite organizar y preparar ingredientes de manera segura. Se coloca sobre una superficie firme y se usan cuchillos adecuados. Este utensilio ayuda a mantener orden y facilita el proceso de cortar alimentos correctamente."
+    },
+    {
+        "intent_id": "medida_gramo",
+        "keywords": [
+            "gramo",
+            "pesar",
+            "calcular",
+            "verificar",
+            "agregar"
+        ],
+        "base_response": "El gramo es una medida precisa para pesar ingredientes sólidos. Usarlo permite calcular cantidades exactas y seguir recetas con mayor detalle. Con práctica, se aprende a verificar pesos y agregar los productos necesarios para cada preparación."
+    },
+    {
+        "intent_id": "higiene_refrigerar",
+        "keywords": [
+            "refrigerar",
+            "guardar",
+            "proteger",
+            "conservar",
+            "ordenar"
+        ],
+        "base_response": "Refrigerar alimentos ayuda a conservar su frescura y evitar que se dañen. Deben guardarse en envases limpios y ordenados. Este hábito protege la salud y enseña la importancia de mantener temperaturas adecuadas en la cocina cotidiana."
+    },
+    {
+        "intent_id": "coccion_asar",
+        "keywords": [
+            "asar",
+            "hornear",
+            "calentar",
+            "cocinar",
+            "controlar"
+        ],
+        "base_response": "Asar implica cocinar alimentos en un horno usando calor seco. Esta técnica permite obtener sabores intensos y texturas crujientes. Controlar la temperatura y el tiempo es clave para lograr resultados deliciosos sin quemar los ingredientes."
+    },
+    {
+        "intent_id": "tecnica_salpicar",
+        "keywords": [
+            "salpicar",
+            "agregar",
+            "sazonar",
+            "controlar",
+            "mezclar"
+        ],
+        "base_response": "Salpicar consiste en agregar pequeñas cantidades de condimentos para ajustar el sabor. Esta técnica requiere atención y práctica para evitar excesos. Dominarla permite mejorar recetas y desarrollar un paladar más preciso en la cocina diaria."
+    },
+    {
+        "intent_id": "utensilio_olla",
+        "keywords": [
+            "olla",
+            "hervir",
+            "cocinar",
+            "calentar",
+            "mezclar"
+        ],
+        "base_response": "La olla es un utensilio básico para hervir y cocinar alimentos líquidos o semilíquidos. Su profundidad permite preparar sopas y pastas con facilidad. Aprender a usarla correctamente ayuda a mejorar la eficiencia en la cocina diaria."
+    },
+    {
+        "intent_id": "higiene_utensilios",
+        "keywords": [
+            "lavar",
+            "utensilios",
+            "secar",
+            "ordenar",
+            "guardar"
+        ],
+        "base_response": "Lavar y secar los utensilios después de usarlos evita la acumulación de bacterias y mantiene la cocina ordenada. Guardarlos correctamente prolonga su vida útil. Esta práctica fomenta responsabilidad y cuidado en la preparación de alimentos."
+    },
+    {
+        "intent_id": "tecnica_cortar_cubos",
+        "keywords": [
+            "cortar",
+            "cubos",
+            "cuchillo",
+            "precision",
+            "practica"
+        ],
+        "base_response": "Cortar en cubos ayuda a lograr piezas uniformes que se cocinan de manera pareja. Usa el cuchillo con cuidado y practica movimientos controlados. Esta técnica mejora la presentación y facilita la cocción de muchos platos."
+    },
+    {
+        "intent_id": "seleccion_ingredientes_frescos",
+        "keywords": [
+            "seleccion",
+            "ingredientes",
+            "frescura",
+            "evaluacion",
+            "compra"
+        ],
+        "base_response": "Elegir ingredientes frescos permite preparar comidas más sabrosas y seguras. Observa colores, texturas y olores para identificar productos en buen estado. Practicar esta habilidad ayuda a desarrollar criterio culinario y mejora la calidad de cualquier receta sencilla."
+    },
+    {
+        "intent_id": "uso_sal_basico",
+        "keywords": [
+            "sal",
+            "sazonado",
+            "control",
+            "medicion",
+            "cocinar"
+        ],
+        "base_response": "La sal realza sabores y debe usarse con cuidado. Aprender a medir pequeñas cantidades evita que los platos queden demasiado intensos. Con práctica, los estudiantes comprenden cómo equilibrar gustos y mejorar preparaciones simples sin complicaciones."
+    },
+    {
+        "intent_id": "medicion_volumen_liquidos",
+        "keywords": [
+            "medicion",
+            "volumen",
+            "liquidos",
+            "vasos",
+            "precision"
+        ],
+        "base_response": "Medir líquidos con exactitud garantiza resultados consistentes en recetas básicas. Utilizar vasos graduados y observar la línea de medida al nivel de los ojos evita errores. Esta habilidad desarrolla hábitos ordenados y mejora la calidad de las preparaciones."
+    },
+    {
+        "intent_id": "higiene_manos_cocina",
+        "keywords": [
+            "lavado",
+            "manos",
+            "higiene",
+            "prevencion",
+            "cocinar"
+        ],
+        "base_response": "Lavar las manos antes de cocinar reduce riesgos de contaminación. Usar agua tibia y jabón durante varios segundos elimina gérmenes. Este hábito sencillo protege la salud y enseña responsabilidad en la preparación de alimentos cotidianos."
+    },
+    {
+        "intent_id": "tecnica_hervir_basica",
+        "keywords": [
+            "hervir",
+            "agua",
+            "coccion",
+            "control",
+            "temperatura"
+        ],
+        "base_response": "Hervir consiste en cocinar alimentos en agua caliente hasta que burbujea. Controlar el tiempo y la cantidad de líquido permite obtener texturas adecuadas. Esta técnica es fundamental para preparar pastas, verduras y otros platos simples."
+    },
+    {
+        "intent_id": "uso_sarten_antiahderente",
+        "keywords": [
+            "sarten",
+            "antiahderente",
+            "cocinar",
+            "calor",
+            "manejo"
+        ],
+        "base_response": "La sartén antiadherente facilita cocinar sin que los alimentos se peguen. Calentarla a fuego medio y usar utensilios adecuados evita daños en su superficie. Es ideal para recetas básicas que requieren poca grasa y resultados uniformes."
+    },
+    {
+        "intent_id": "preparacion_huevos_revueltos",
+        "keywords": [
+            "huevos",
+            "revolver",
+            "cocinar",
+            "batir",
+            "textura"
+        ],
+        "base_response": "Los huevos revueltos se preparan batiendo y cocinando a fuego suave mientras se mezclan. Controlar el calor evita que se sequen y mantiene una textura esponjosa. Es una receta sencilla que ayuda a practicar coordinación y paciencia."
+    },
+    {
+        "intent_id": "uso_colador_cocina",
+        "keywords": [
+            "colador",
+            "escurrir",
+            "liquidos",
+            "utensilio",
+            "cocinar"
+        ],
+        "base_response": "El colador permite separar líquidos de sólidos al cocinar. Usarlo correctamente evita derrames y facilita preparar pastas, verduras y otras recetas simples. Es un utensilio esencial que mejora la organización y seguridad en la cocina."
+    },
+    {
+        "intent_id": "corte_vegetales_basico",
+        "keywords": [
+            "corte",
+            "vegetales",
+            "cuchillo",
+            "precision",
+            "practica"
+        ],
+        "base_response": "El corte básico de vegetales permite preparar ingredientes de forma segura y uniforme. Practicar diferentes tamaños ayuda a mejorar la cocción y la presentación. Con paciencia y atención, los estudiantes desarrollan habilidades esenciales para cocinar con confianza y creatividad."
+    },
+    {
+        "intent_id": "medicion_ingredientes_cocina",
+        "keywords": [
+            "medicion",
+            "ingredientes",
+            "taza",
+            "balanza",
+            "exactitud"
+        ],
+        "base_response": "Medir ingredientes con precisión evita errores en recetas y mejora los resultados. Usar tazas, cucharas o balanzas facilita comprender proporciones. Esta habilidad ayuda a los estudiantes a seguir instrucciones y experimentar con preparaciones culinarias de manera segura y ordenada."
+    },
+    {
+        "intent_id": "uso_sarten_basico",
+        "keywords": [
+            "sarten",
+            "calor",
+            "aceite",
+            "coccion",
+            "control"
+        ],
+        "base_response": "Aprender a usar una sartén permite cocinar alimentos de forma uniforme y segura. Controlar el calor y el aceite ayuda a evitar quemaduras y mejorar sabores. Esta técnica básica desarrolla confianza y motiva a los estudiantes a explorar nuevas preparaciones."
+    },
+    {
+        "intent_id": "tecnica_hervir_agua",
+        "keywords": [
+            "hervir",
+            "agua",
+            "calor",
+            "burbujas",
+            "coccion"
+        ],
+        "base_response": "Hervir agua es una técnica esencial para preparar pastas, verduras y otros alimentos. Reconocer las burbujas indica el momento adecuado para agregar ingredientes. Comprender este proceso ayuda a los estudiantes a cocinar con precisión y seguridad."
+    },
+    {
+        "intent_id": "ingredientes_frescos_identificacion",
+        "keywords": [
+            "ingredientes",
+            "frescura",
+            "color",
+            "textura",
+            "seleccion"
+        ],
+        "base_response": "Identificar ingredientes frescos mejora la calidad de las comidas y la experiencia culinaria. Observar color, olor y textura permite elegir productos adecuados. Esta habilidad enseña a los estudiantes a valorar alimentos saludables y preparar platos más sabrosos."
+    },
+    {
+        "intent_id": "receta_sandwich_basico",
+        "keywords": [
+            "sandwich",
+            "preparacion",
+            "ingredientes",
+            "ensamble",
+            "corte"
+        ],
+        "base_response": "Preparar un sándwich básico enseña organización y creatividad. Combinar ingredientes simples permite practicar técnicas de ensamble y corte. Esta actividad ayuda a los estudiantes a desarrollar autonomía y disfrutar la elaboración de comidas sencillas y nutritivas."
+    },
+    {
+        "intent_id": "tecnica_tostar_pan",
+        "keywords": [
+            "tostar",
+            "pan",
+            "calor",
+            "color",
+            "crujiente"
+        ],
+        "base_response": "Tostar pan permite obtener textura crujiente y sabor más intenso. Controlar el tiempo evita quemaduras y mejora el resultado. Esta técnica sencilla ayuda a los estudiantes a comprender el efecto del calor en los alimentos."
+    },
+    {
+        "intent_id": "ingredientes_basicos",
+        "keywords": [
+            "ingredientes",
+            "cocinar",
+            "mezclar",
+            "preparar",
+            "usar"
+        ],
+        "base_response": "Los ingredientes básicos permiten crear recetas sencillas y nutritivas. Conocer su sabor, textura y función ayuda a combinarlos correctamente. Practicar su uso desarrolla habilidades culinarias esenciales para cocinar con confianza y creatividad en la vida diaria."
+    },
+    {
+        "intent_id": "corte_verduras_basico",
+        "keywords": [
+            "corte",
+            "verduras",
+            "cuchillo",
+            "practica",
+            "precision"
+        ],
+        "base_response": "El corte básico de verduras ayuda a preparar comidas seguras y ordenadas. Permite cocinar más rápido, mejorar la presentación y evitar accidentes. Practicar diferentes formas de corte desarrolla habilidades útiles para cualquier receta sencilla en la cocina diaria."
+    },
+    {
+        "intent_id": "ingredientes_sal_basica",
+        "keywords": [
+            "sal",
+            "condimentar",
+            "sazonar",
+            "realzar",
+            "mezclar"
+        ],
+        "base_response": "La sal es un ingrediente esencial que realza el sabor de los alimentos. Usarla en cantidades adecuadas evita que las comidas queden muy fuertes. Comprender su función ayuda a equilibrar recetas y mejorar preparaciones simples."
+    },
+    {
+        "intent_id": "utensilios_basicos",
+        "keywords": [
+            "cuchillo",
+            "tabla",
+            "olla",
+            "sarten",
+            "espatula"
+        ],
+        "base_response": "Los utensilios básicos facilitan la preparación de recetas simples. Un cuchillo afilado, una tabla resistente y una olla o sartén permiten cocinar con seguridad. Conocer su uso adecuado ayuda a desarrollar habilidades culinarias desde etapas tempranas."
+    },
+    {
+        "intent_id": "medidas_culinarias",
+        "keywords": [
+            "medir",
+            "cantidad",
+            "taza",
+            "cuchara",
+            "peso"
+        ],
+        "base_response": "Las medidas culinarias permiten seguir recetas con precisión. Usar tazas, cucharas y balanzas ayuda a obtener resultados consistentes. Comprender las cantidades evita errores y mejora la confianza al cocinar platos básicos en la vida cotidiana."
+    },
+    {
+        "intent_id": "receta_sandwich_simple",
+        "keywords": [
+            "sandwich",
+            "cortar",
+            "armar",
+            "ingredientes",
+            "servir"
+        ],
+        "base_response": "Un sándwich simple permite practicar organización y selección de ingredientes. Se cortan los elementos, se arman capas equilibradas y se sirve de manera ordenada. Es una receta ideal para estudiantes que inician en la cocina."
+    },
+    {
+        "intent_id": "receta_ensalada_simple",
+        "keywords": [
+            "ensalada",
+            "mezclar",
+            "vegetales",
+            "cortar",
+            "servir"
+        ],
+        "base_response": "Una ensalada simple enseña a cortar, mezclar y combinar vegetales frescos. Es una preparación rápida que fomenta el consumo de alimentos saludables. Practicarla ayuda a mejorar habilidades básicas y a comprender la importancia de la frescura en la cocina."
+    },
+    {
+        "intent_id": "higiene_superficies",
+        "keywords": [
+            "limpiar",
+            "superficies",
+            "higiene",
+            "cocina",
+            "prevencion"
+        ],
+        "base_response": "Mantener las superficies limpias evita la contaminación cruzada y mejora la seguridad alimentaria. Limpiarlas antes y después de cocinar es un hábito esencial. Enseñar esta práctica fomenta responsabilidad y cuidado en la preparación de alimentos diarios."
+    },
+    {
+        "intent_id": "metodo_freir",
+        "keywords": [
+            "freir",
+            "aceite",
+            "cocinar",
+            "calentar",
+            "control"
+        ],
+        "base_response": "Freír consiste en cocinar alimentos en aceite caliente para obtener textura crujiente. Requiere controlar la temperatura y evitar salpicaduras. Practicar este método ayuda a comprender cómo el calor y el aceite transforman los ingredientes rápidamente."
+    },
+    {
+        "intent_id": "coccion_asado",
+        "keywords": [
+            "asado",
+            "hornear",
+            "calentar",
+            "dorar",
+            "cocinar"
+        ],
+        "base_response": "El asado utiliza calor seco para cocinar y dorar alimentos. Esta técnica permite obtener sabores intensos y texturas crujientes. Aprender a controlar la temperatura del horno ayuda a preparar platos equilibrados y seguros para toda la familia."
+    },
+    {
+        "intent_id": "tecnica_salteado",
+        "keywords": [
+            "saltear",
+            "mover",
+            "calentar",
+            "cocinar",
+            "mezclar"
+        ],
+        "base_response": "El salteado consiste en cocinar alimentos rápidamente con poco aceite. Requiere moverlos constantemente para evitar quemaduras y lograr una textura uniforme. Practicar esta técnica mejora la coordinación y el control del calor en la cocina."
+    },
+    {
+        "intent_id": "coccion_vapor",
+        "keywords": [
+            "vapor",
+            "cocinar",
+            "calentar",
+            "suavizar",
+            "controlar"
+        ],
+        "base_response": "Cocinar al vapor permite preparar alimentos suaves y saludables sin usar aceite. Controlar el tiempo y la cantidad de agua es fundamental para buenos resultados. Esta técnica ayuda a conservar nutrientes y mejorar hábitos alimentarios."
+    },
+    {
+        "intent_id": "seleccion_ingredientes",
+        "keywords": [
+            "ingredientes",
+            "seleccion",
+            "cocinar",
+            "mezclar",
+            "preparar"
+        ],
+        "base_response": "Elegir ingredientes frescos permite obtener mejores sabores y resultados en la cocina diaria. Los estudiantes pueden aprender a identificar colores, aromas y texturas para asegurar calidad. Esta habilidad básica facilita preparar recetas sencillas con confianza y seguridad."
+    },
+    {
+        "intent_id": "uso_sarten",
+        "keywords": [
+            "sarten",
+            "cocinar",
+            "freir",
+            "calentar",
+            "voltear"
+        ],
+        "base_response": "La sartén permite freír y saltear alimentos de manera rápida. Aprender a manejarla ayuda a desarrollar seguridad y precisión. Los estudiantes pueden practicar movimientos simples como voltear ingredientes y controlar el nivel de calor para evitar quemaduras."
+    },
+    {
+        "intent_id": "medidas_basicas",
+        "keywords": [
+            "medir",
+            "pesar",
+            "calcular",
+            "mezclar",
+            "cocinar"
+        ],
+        "base_response": "Conocer medidas básicas como cucharadas y tazas facilita seguir recetas con exactitud. Los estudiantes aprenden a calcular cantidades y evitar errores. Esta habilidad mejora la organización en la cocina y fomenta la comprensión de proporciones simples."
+    },
+    {
+        "intent_id": "tecnica_asar",
+        "keywords": [
+            "asar",
+            "hornear",
+            "cocinar",
+            "calentar",
+            "controlar"
+        ],
+        "base_response": "Asar implica cocinar alimentos en el horno usando calor seco. Los estudiantes pueden observar cómo cambian textura y sabor. Esta técnica ayuda a comprender el efecto del tiempo y la temperatura en diferentes ingredientes de uso diario."
+    },
+    {
+        "intent_id": "uso_olla",
+        "keywords": [
+            "olla",
+            "cocinar",
+            "hervir",
+            "calentar",
+            "mezclar"
+        ],
+        "base_response": "La olla permite cocinar sopas, pastas y otros alimentos que requieren agua o caldo. Los estudiantes aprenden a controlar el fuego y mezclar con cuidado. Esta herramienta es esencial para preparar recetas sencillas y nutritivas."
+    },
+    {
+        "intent_id": "receta_arroz_blanco",
+        "keywords": [
+            "arroz",
+            "hervir",
+            "cocinar",
+            "medir",
+            "servir"
+        ],
+        "base_response": "El arroz blanco es una receta básica que enseña a medir agua, controlar fuego y esperar tiempos adecuados. Los estudiantes desarrollan paciencia y precisión. Este plato acompaña muchas comidas y ayuda a practicar técnicas fundamentales."
+    },
+    {
+        "intent_id": "tecnica_sellar",
+        "keywords": [
+            "sellar",
+            "cocinar",
+            "freir",
+            "calentar",
+            "voltear"
+        ],
+        "base_response": "Sellar consiste en dorar alimentos rápidamente para conservar jugos y sabor. Los estudiantes aprenden a usar fuego alto y movimientos ágiles. Esta técnica mejora la textura de carnes y verduras, haciendo las preparaciones más atractivas."
+    },
+    {
+        "intent_id": "ingredientes_liquidos",
+        "keywords": [
+            "agua",
+            "leche",
+            "aceite",
+            "verter",
+            "mezclar"
+        ],
+        "base_response": "Los ingredientes líquidos como agua, leche y aceite se usan para dar consistencia a las recetas. Se vierten con cuidado y se mezclan hasta integrar bien. Comprender su función ayuda a lograr masas suaves y preparaciones equilibradas."
+    },
+    {
+        "intent_id": "medida_gramos",
+        "keywords": [
+            "gramos",
+            "pesar",
+            "colocar",
+            "verificar",
+            "ajustar"
+        ],
+        "base_response": "Medir en gramos permite obtener resultados precisos en recetas. Se pesa cada ingrediente, se verifica la cantidad y se ajusta si es necesario. Esta práctica ayuda a comprender proporciones y a mejorar la calidad de las preparaciones."
+    },
+    {
+        "intent_id": "ingredientes_frescos_basicos",
+        "keywords": [
+            "ingredientes",
+            "seleccion",
+            "lavado",
+            "corte",
+            "conservacion"
+        ],
+        "base_response": "Los ingredientes frescos son esenciales para cocinar con buen sabor y seguridad. Aprender a elegirlos, lavarlos y conservarlos correctamente ayuda a preparar platos saludables. Practicar estas habilidades mejora la confianza y permite crear recetas sencillas con resultados deliciosos."
+    },
+    {
+        "intent_id": "tecnica_coccion_hervido",
+        "keywords": [
+            "hervido",
+            "calentado",
+            "control",
+            "tiempo",
+            "coccion"
+        ],
+        "base_response": "El hervido es una técnica fundamental que consiste en cocinar alimentos en agua caliente. Controlar el tiempo y la temperatura permite obtener texturas adecuadas. Practicar esta técnica ayuda a preparar verduras, pastas y otros ingredientes de manera segura y deliciosa."
+    },
+    {
+        "intent_id": "medidas_culinarias_simples",
+        "keywords": [
+            "medidas",
+            "pesado",
+            "calculado",
+            "mezclado",
+            "proporcion"
+        ],
+        "base_response": "Las medidas culinarias ayudan a mantener proporciones correctas en las recetas. Conocer cucharadas, tazas y gramos facilita preparar platos equilibrados. Practicar estas medidas desarrolla precisión y permite que los resultados sean más consistentes y sabrosos."
+    },
+    {
+        "intent_id": "metodo_coccion_asado",
+        "keywords": [
+            "asado",
+            "horneado",
+            "calentado",
+            "control",
+            "coccion"
+        ],
+        "base_response": "El asado consiste en cocinar alimentos en un horno usando calor seco. Controlar la temperatura y el tiempo permite obtener texturas crujientes y sabores intensos. Practicar este método ayuda a preparar platos variados y desarrollar habilidades culinarias importantes."
+    },
+    {
+        "intent_id": "ingredientes_secos_basicos",
+        "keywords": [
+            "harina",
+            "azucar",
+            "sal",
+            "cacao",
+            "levadura"
+        ],
+        "base_response": "Los ingredientes secos son fundamentales en muchas recetas. Conocer su función y aprender a medirlos correctamente permite preparar mezclas equilibradas. Practicar con ellos ayuda a desarrollar precisión y mejora la calidad de panes, postres y otras preparaciones."
+    },
+    {
+        "intent_id": "tecnica_coccion_fritura",
+        "keywords": [
+            "fritura",
+            "aceite",
+            "calentado",
+            "control",
+            "coccion"
+        ],
+        "base_response": "La fritura consiste en cocinar alimentos en aceite caliente. Controlar la temperatura y el tiempo evita quemaduras y mejora el sabor. Practicar esta técnica ayuda a desarrollar precisión y permite preparar platos crujientes de manera segura y responsable."
+    },
+    {
+        "intent_id": "uso_cuchillo_seguro",
+        "keywords": [
+            "cuchillo",
+            "corte",
+            "agarre",
+            "seguridad",
+            "practica"
+        ],
+        "base_response": "Usar un cuchillo correctamente es esencial en la cocina. Aprender a sujetarlo, cortar con cuidado y practicar movimientos seguros evita accidentes. Desarrollar esta habilidad mejora la preparación de ingredientes y aumenta la confianza al cocinar."
+    },
+    {
+        "intent_id": "medidas_liquidas_basicas",
+        "keywords": [
+            "liquidos",
+            "medicion",
+            "vertido",
+            "control",
+            "proporcion"
+        ],
+        "base_response": "Medir líquidos con precisión ayuda a que las recetas salgan bien. Usar tazas y jarras graduadas permite controlar proporciones y evitar errores. Practicar esta habilidad mejora la calidad de sopas, salsas y bebidas preparadas en la cocina diaria."
+    },
+    {
+        "intent_id": "ingredientes_aromaticos_basicos",
+        "keywords": [
+            "ajo",
+            "cebolla",
+            "perejil",
+            "cilantro",
+            "jengibre"
+        ],
+        "base_response": "Los ingredientes aromáticos aportan sabor y olor a las comidas. Aprender a picarlos y usarlos correctamente mejora cualquier receta. Practicar con ellos ayuda a desarrollar creatividad culinaria y permite experimentar con distintos estilos de cocina."
+    },
+    {
+        "intent_id": "tecnica_coccion_salteado",
+        "keywords": [
+            "salteado",
+            "mezcla",
+            "calentado",
+            "movimiento",
+            "coccion"
+        ],
+        "base_response": "El salteado consiste en cocinar ingredientes rápidamente con poco aceite. Mantenerlos en movimiento evita que se quemen y mejora su textura. Practicar esta técnica ayuda a preparar platos variados y desarrollar coordinación en la cocina."
+    },
+    {
+        "intent_id": "uso_olla_basico",
+        "keywords": [
+            "olla",
+            "hervido",
+            "mezcla",
+            "calentado",
+            "coccion"
+        ],
+        "base_response": "La olla es un utensilio esencial para preparar sopas, pastas y guisos. Aprender a usarla correctamente permite controlar la cocción y evitar derrames. Practicar su uso ayuda a desarrollar habilidades básicas y obtener platos deliciosos."
+    },
+    {
+        "intent_id": "coccion_freir",
+        "keywords": [
+            "freir",
+            "sumergir",
+            "calentar",
+            "voltear",
+            "escurrir"
+        ],
+        "base_response": "Freír implica sumergir alimentos en aceite caliente para cocinarlos rápidamente. Voltearlos con cuidado y escurrir el exceso de aceite mejora su textura. Practicar esta técnica ayuda a comprender el uso del calor y a preparar platos crujientes."
+    },
+    {
+        "intent_id": "tecnica_picar",
+        "keywords": [
+            "picar",
+            "cortar",
+            "rebanar",
+            "manipular",
+            "ordenar"
+        ],
+        "base_response": "Picar consiste en cortar alimentos en trozos pequeños y ordenados. Practicar esta técnica mejora la precisión y facilita la cocción uniforme. Es una habilidad básica que ayuda a preparar recetas variadas y a trabajar con seguridad en la cocina."
+    },
+    {
+        "intent_id": "utensilio_batidora_manual",
+        "keywords": [
+            "batir",
+            "mezclar",
+            "agitar",
+            "emulsionar",
+            "preparar"
+        ],
+        "base_response": "La batidora manual permite mezclar y batir ingredientes con facilidad. Usarla ayuda a crear mezclas suaves y uniformes, ideales para salsas y huevos. Practicar su manejo desarrolla coordinación y mejora tus resultados en recetas sencillas."
+    },
+    {
+        "intent_id": "utensilio_cucharon",
+        "keywords": [
+            "servir",
+            "sostener",
+            "verter",
+            "recoger",
+            "mezclar"
+        ],
+        "base_response": "El cucharón es útil para servir sopas y guisos. Su forma permite recoger y verter líquidos con facilidad. Aprender a usarlo mejora tu manejo de utensilios y te ayuda a preparar comidas calientes de manera segura y ordenada."
+    },
+    {
+        "intent_id": "tecnicas_corte_basico",
+        "keywords": [
+            "corte",
+            "picado",
+            "rebanado",
+            "ingredientes",
+            "cocinar"
+        ],
+        "base_response": "Dominar técnicas de corte básicas permite preparar ingredientes de forma segura y uniforme. Al practicar el picado y el rebanado, los estudiantes desarrollan coordinación y precisión, facilitando recetas sencillas y mejorando la presentación de los platos en la cocina diaria."
+    },
+    {
+        "intent_id": "uso_sarten_seguro",
+        "keywords": [
+            "sarten",
+            "calentar",
+            "freir",
+            "voltear",
+            "cocinar"
+        ],
+        "base_response": "Aprender a usar una sartén de manera segura ayuda a evitar accidentes y cocinar con confianza. Controlar la temperatura, manejar utensilios adecuados y practicar movimientos simples permite preparar alimentos básicos sin riesgos y con mejores resultados."
+    },
+    {
+        "intent_id": "medicion_ingredientes",
+        "keywords": [
+            "medir",
+            "pesar",
+            "mezclar",
+            "ingredientes",
+            "cocinar"
+        ],
+        "base_response": "Medir ingredientes correctamente garantiza que las recetas salgan como se espera. Conocer cucharadas, tazas y pesos ayuda a los estudiantes a seguir instrucciones, evitar errores y comprender la importancia de la precisión en la cocina cotidiana."
+    },
+    {
+        "intent_id": "receta_sopa_basica",
+        "keywords": [
+            "sopa",
+            "hervir",
+            "mezclar",
+            "agregar",
+            "servir"
+        ],
+        "base_response": "Una sopa básica se prepara hirviendo agua con verduras y otros ingredientes. Se mezclan bien para integrar sabores y se agregan condimentos suaves. Este plato enseña a combinar alimentos y a crear comidas reconfortantes ideales para cualquier día."
+    },
+    {
+        "intent_id": "tecnica_cocer_vapor",
+        "keywords": [
+            "vapor",
+            "cocer",
+            "calentar",
+            "ablandar",
+            "servir"
+        ],
+        "base_response": "Cocer al vapor permite cocinar alimentos sin sumergirlos en agua. El calor los ablanda y conserva mejor sus nutrientes. Es una técnica saludable que ayuda a preparar verduras y otros ingredientes con textura suave y sabor natural."
+    },
+    {
+        "intent_id": "metodo_hervido",
+        "keywords": [
+            "hervir",
+            "calentar",
+            "sumergir",
+            "cocinar",
+            "ablandar"
+        ],
+        "base_response": "Hervir consiste en cocinar alimentos en agua caliente hasta que se ablanden. Es un método sencillo que permite preparar verduras, pastas y huevos. Controlar el tiempo de cocción ayuda a obtener texturas adecuadas y sabores equilibrados."
+    },
+    {
+        "intent_id": "tecnica_saltear",
+        "keywords": [
+            "saltear",
+            "mover",
+            "calentar",
+            "cocinar",
+            "agregar"
+        ],
+        "base_response": "Saltear implica cocinar alimentos rápidamente en poco aceite mientras se mueven constantemente. Esta técnica conserva sabores y texturas. Es útil para verduras y carnes pequeñas, y enseña coordinación y control del calor en la cocina básica."
+    },
+    {
+        "intent_id": "utensilio_batidora",
+        "keywords": [
+            "batidora",
+            "mezclar",
+            "unir",
+            "suavizar",
+            "preparar"
+        ],
+        "base_response": "La batidora ayuda a mezclar ingredientes y unirlos de forma uniforme. Su uso permite suavizar masas y preparar mezclas rápidas. Es un utensilio práctico que facilita recetas básicas y mejora la textura de diferentes preparaciones cotidianas."
+    },
+    {
+        "intent_id": "medidas_liquidas",
+        "keywords": [
+            "verter",
+            "llenar",
+            "calcular",
+            "medir",
+            "comprobar"
+        ],
+        "base_response": "Las medidas líquidas permiten calcular cantidades de agua, leche u otros líquidos. Verter y llenar con cuidado ayuda a medir correctamente. Comprender estas medidas mejora la precisión y evita errores en recetas sencillas de cocina diaria."
+    },
+    {
+        "intent_id": "medida_taza_estandar",
+        "keywords": [
+            "medir",
+            "taza",
+            "calcular",
+            "vertido",
+            "mezcla"
+        ],
+        "base_response": "La taza estándar es una medida culinaria que ayuda a calcular cantidades de ingredientes secos o líquidos. Usarla correctamente permite seguir recetas con precisión. Comprender su función mejora la organización y el resultado final de cada preparación."
+    },
+    {
+        "intent_id": "metodo_hornear_basico",
+        "keywords": [
+            "hornear",
+            "calentar",
+            "mezclar",
+            "colocar",
+            "vigilar"
+        ],
+        "base_response": "Hornear es un método de cocción que utiliza calor seco para preparar panes, galletas o verduras. Requiere controlar la temperatura y el tiempo. Aprender esta técnica permite crear platos variados y desarrollar habilidades culinarias importantes."
+    },
+    {
+        "intent_id": "tecnica_hervido",
+        "keywords": [
+            "hervir",
+            "cocinar",
+            "calentar",
+            "agua",
+            "controlar"
+        ],
+        "base_response": "La técnica de hervido consiste en cocinar alimentos en agua caliente hasta lograr suavidad y sabor adecuado. Permite preparar verduras, pastas y huevos con facilidad. Practicarla ayuda a desarrollar precisión y cuidado al controlar temperaturas y tiempos de cocción."
+    },
+    {
+        "intent_id": "utensilio_cuchillo_seguro",
+        "keywords": [
+            "cuchillo",
+            "cortar",
+            "cocinar",
+            "usar",
+            "seguridad"
+        ],
+        "base_response": "El cuchillo es un utensilio esencial para cortar alimentos con precisión. Aprender a usarlo de forma segura evita accidentes y mejora la preparación de recetas. Con práctica, se desarrollan habilidades que permiten trabajar con confianza y orden en la cocina diaria."
+    },
+    {
+        "intent_id": "metodo_asado_basico",
+        "keywords": [
+            "asar",
+            "cocinar",
+            "calor",
+            "hornear",
+            "controlar"
+        ],
+        "base_response": "El método de asado utiliza calor seco para cocinar alimentos y desarrollar sabores intensos. Permite preparar verduras y carnes con textura agradable. Comprender su funcionamiento ayuda a controlar tiempos y temperaturas, mejorando la calidad de las recetas cotidianas."
+    },
+    {
+        "intent_id": "metodo_horneado",
+        "keywords": [
+            "hornear",
+            "cocinar",
+            "calor",
+            "controlar",
+            "preparar"
+        ],
+        "base_response": "El horneado utiliza calor uniforme para cocinar alimentos lentamente y lograr texturas especiales. Es ideal para panes, galletas y verduras. Comprender su funcionamiento ayuda a controlar tiempos y temperaturas, mejorando resultados en recetas básicas y creativas."
+    },
+    {
+        "intent_id": "tecnica_vapor",
+        "keywords": [
+            "vapor",
+            "cocinar",
+            "calentar",
+            "suavizar",
+            "controlar"
+        ],
+        "base_response": "Cocinar al vapor permite suavizar alimentos sin perder nutrientes. Es una técnica saludable que enseña a controlar tiempos y evitar excesos de calor. Practicarla ayuda a desarrollar habilidades culinarias cuidadosas y adecuadas para recetas básicas y equilibradas."
+    },
+    {
+        "intent_id": "medida_mililitro",
+        "keywords": [
+            "mililitro",
+            "medir",
+            "liquidos",
+            "calcular",
+            "cocinar"
+        ],
+        "base_response": "El mililitro es una unidad que permite medir líquidos con precisión para lograr recetas equilibradas. Comprender su uso ayuda a evitar errores y obtener resultados consistentes. Es fundamental para estudiantes que comienzan a explorar técnicas culinarias básicas."
+    },
+    {
+        "intent_id": "higiene_refrigeracion",
+        "keywords": [
+            "refrigerar",
+            "guardar",
+            "higiene",
+            "cocinar",
+            "prevenir"
+        ],
+        "base_response": "Refrigerar alimentos correctamente evita su deterioro y previene enfermedades. Este hábito enseña responsabilidad y cuidado en la cocina. Comprender su importancia ayuda a mantener ingredientes frescos y seguros, mejorando la calidad de las preparaciones cotidianas."
+    },
+    {
+        "intent_id": "receta_basica_huevos_revueltos",
+        "keywords": [
+            "huevo",
+            "batir",
+            "cocinar",
+            "sarten",
+            "mezcla"
+        ],
+        "base_response": "Los huevos revueltos son una receta sencilla que enseña control del calor y mezcla adecuada. Batir bien y cocinar lentamente produce una textura suave. Esta preparación ayuda a desarrollar confianza en la cocina y permite experimentar con ingredientes adicionales."
+    },
+    {
+        "intent_id": "tecnica_sazonar_comidas",
+        "keywords": [
+            "sazonar",
+            "sal",
+            "especias",
+            "mezclar",
+            "equilibrar"
+        ],
+        "base_response": "Sazonar correctamente mejora el sabor de cualquier plato. Usar sal y especias con equilibrio evita sabores demasiado fuertes. Practicar esta técnica ayuda a comprender cómo pequeños ajustes pueden transformar una receta básica en una preparación más agradable."
+    },
+    {
+        "intent_id": "uso_tabla_cortar",
+        "keywords": [
+            "tabla",
+            "cortar",
+            "superficie",
+            "utensilio",
+            "orden"
+        ],
+        "base_response": "La tabla de cortar ofrece una superficie segura para preparar alimentos. Mantenerla estable y limpia evita accidentes y contaminación. Aprender a usarla correctamente fomenta orden en la cocina y facilita realizar cortes precisos en diferentes ingredientes."
+    },
+    {
+        "intent_id": "tecnica_salpicar_aceite",
+        "keywords": [
+            "aceite",
+            "calor",
+            "salpicar",
+            "cocinar",
+            "control"
+        ],
+        "base_response": "El aceite caliente puede salpicar si no se controla bien el proceso. Comprender cómo manejar la temperatura y agregar ingredientes con cuidado evita accidentes. Esta técnica enseña responsabilidad y atención mientras se preparan recetas básicas en la cocina."
+    },
+    {
+        "intent_id": "receta_basica_ensalada_simple",
+        "keywords": [
+            "ensalada",
+            "mezclar",
+            "verduras",
+            "aderezo",
+            "cortar"
+        ],
+        "base_response": "Una ensalada simple permite practicar corte, mezcla y uso de aderezos. Combinar verduras frescas ayuda a crear platos nutritivos y coloridos. Esta receta enseña organización y fomenta hábitos saludables en la vida cotidiana de los estudiantes."
+    },
+    {
+        "intent_id": "tecnica_hornear_basico",
+        "keywords": [
+            "hornear",
+            "calor",
+            "horno",
+            "tiempo",
+            "coccion"
+        ],
+        "base_response": "Hornear requiere controlar tiempo y temperatura para lograr buenos resultados. Conocer el funcionamiento del horno ayuda a evitar quemaduras y fallas. Esta técnica permite preparar platos sencillos mientras se desarrolla paciencia y atención al detalle."
+    },
+    {
+        "intent_id": "uso_cuchara_madera",
+        "keywords": [
+            "cuchara",
+            "madera",
+            "mezclar",
+            "cocinar",
+            "utensilio"
+        ],
+        "base_response": "La cuchara de madera es útil para mezclar alimentos sin dañar utensilios. Su material resistente soporta altas temperaturas y evita rayones. Aprender a usarla correctamente mejora la experiencia culinaria y fomenta cuidado de los objetos de cocina."
+    },
+    {
+        "intent_id": "receta_basica_sandwich",
+        "keywords": [
+            "sandwich",
+            "cortar",
+            "untar",
+            "mezclar",
+            "relleno"
+        ],
+        "base_response": "Preparar un sándwich enseña habilidades simples como cortar, untar y combinar ingredientes. Permite experimentar con diferentes rellenos y sabores. Esta receta básica ayuda a desarrollar creatividad y autonomía en la cocina cotidiana de los estudiantes."
+    },
+    {
+        "intent_id": "tecnica_vapor_basico",
+        "keywords": [
+            "vapor",
+            "cocinar",
+            "agua",
+            "calor",
+            "olla"
+        ],
+        "base_response": "Cocinar al vapor conserva nutrientes y sabores en los alimentos. Usar una olla adecuada y controlar el nivel de agua es fundamental. Esta técnica enseña métodos saludables y permite preparar verduras y otros ingredientes de manera sencilla."
+    },
+    {
+        "intent_id": "higiene_superficies_cocina",
+        "keywords": [
+            "limpieza",
+            "superficies",
+            "higiene",
+            "prevencion",
+            "orden"
+        ],
+        "base_response": "Mantener las superficies limpias evita contaminación y promueve seguridad alimentaria. Limpiar antes y después de cocinar reduce riesgos y mejora el ambiente de trabajo. Esta práctica enseña responsabilidad y cuidado en la preparación de alimentos."
+    },
+    {
+        "intent_id": "tecnica_asar_basico",
+        "keywords": [
+            "asar",
+            "calor",
+            "superficie",
+            "cocinar",
+            "control"
+        ],
+        "base_response": "Asar alimentos requiere controlar el calor y vigilar la cocción para evitar quemaduras. Esta técnica permite obtener sabores intensos y texturas agradables. Practicarla ayuda a desarrollar atención y comprensión de los cambios que ocurren durante la preparación."
+    },
+    {
+        "intent_id": "receta_huevo_frito",
+        "keywords": [
+            "huevo",
+            "freir",
+            "calentar",
+            "aceite",
+            "cocinar"
+        ],
+        "base_response": "Freír un huevo es una receta básica que ayuda a practicar control del calor y uso de utensilios. Se calienta aceite, se agrega el huevo y se cocina hasta lograr la textura deseada. Esta técnica desarrolla confianza en la cocina diaria."
+    },
+    {
+        "intent_id": "tecnica_asado_basico",
+        "keywords": [
+            "asado",
+            "horno",
+            "calor",
+            "cocinar",
+            "bandeja"
+        ],
+        "base_response": "El asado básico en horno ayuda a cocinar alimentos de manera uniforme. Los estudiantes aprenden a usar bandejas, controlar el calor y vigilar el tiempo, desarrollando habilidades que mejoran su capacidad para preparar comidas cotidianas con seguridad."
+    },
+    {
+        "intent_id": "ingredientes_sopa_simple",
+        "keywords": [
+            "sopa",
+            "verduras",
+            "caldo",
+            "cortar",
+            "cocinar"
+        ],
+        "base_response": "Una sopa simple requiere verduras cortadas, caldo y cocción adecuada. Al preparar este plato, los estudiantes practican técnicas básicas y comprenden cómo combinar ingredientes para crear comidas nutritivas que pueden disfrutar en su vida diaria."
+    },
+    {
+        "intent_id": "tecnica_freir_basico",
+        "keywords": [
+            "freir",
+            "aceite",
+            "sarten",
+            "calor",
+            "voltear"
+        ],
+        "base_response": "Freír alimentos requiere controlar el aceite y el calor para evitar quemaduras. Los estudiantes aprenden a voltear con cuidado y a observar cambios en la textura, desarrollando habilidades esenciales para cocinar con seguridad en casa."
+    },
+    {
+        "intent_id": "ingredientes_frescos_seleccion",
+        "keywords": [
+            "seleccion",
+            "frescura",
+            "verduras",
+            "frutas",
+            "calidad"
+        ],
+        "base_response": "Elegir ingredientes frescos mejora el sabor y la calidad de las comidas. Observar colores, texturas y aromas ayuda a identificar productos adecuados. Practicar esta selección permite preparar platillos más nutritivos y desarrollar criterio culinario responsable."
+    },
+    {
+        "intent_id": "uso_cucharon_sopa",
+        "keywords": [
+            "cucharon",
+            "sopa",
+            "servir",
+            "mezclar",
+            "caldo"
+        ],
+        "base_response": "El cucharón permite servir sopas y mezclar caldos de manera ordenada. Su forma profunda facilita tomar líquidos sin derrames. Usarlo correctamente ayuda a mantener la cocina limpia y mejora la presentación de los platillos calientes."
+    },
+    {
+        "intent_id": "ingredientes_secos_organizar",
+        "keywords": [
+            "organizar",
+            "harina",
+            "azucar",
+            "cacao",
+            "almacen"
+        ],
+        "base_response": "Organizar ingredientes secos como harina, azúcar y cacao facilita encontrar lo necesario al cocinar. Mantenerlos en envases cerrados preserva su calidad. Este hábito mejora la eficiencia y ayuda a mantener una cocina ordenada y funcional."
+    },
+    {
+        "intent_id": "tecnica_asar_horno",
+        "keywords": [
+            "asar",
+            "horno",
+            "calor",
+            "bandeja",
+            "cocinar"
+        ],
+        "base_response": "Asar en horno utiliza calor seco para cocinar alimentos lentamente. Colocar los ingredientes en una bandeja permite una cocción uniforme. Esta técnica ayuda a desarrollar paciencia y obtener platillos con sabores intensos y texturas agradables."
+    },
+    {
+        "intent_id": "uso_colador_pasta",
+        "keywords": [
+            "colador",
+            "pasta",
+            "escurrir",
+            "agua",
+            "cocinar"
+        ],
+        "base_response": "El colador permite escurrir la pasta después de hervirla. Verter el contenido con cuidado evita quemaduras y facilita el proceso. Usarlo correctamente ayuda a preparar platos de pasta con mejor textura y organización en la cocina."
+    }
+]
