@@ -1,0 +1,376 @@
+[
+    {
+        "intent_id": "economia_basica_oferta",
+        "keywords": [
+            "oferta",
+            "cantidad",
+            "bienes",
+            "mercado",
+            "productores"
+        ],
+        "base_response": "La oferta representa la cantidad de bienes y servicios que los productores están dispuestos a vender a un precio determinado. Cuando los precios aumentan, generalmente los vendedores ofrecen más productos al mercado, buscando maximizar sus ganancias operativas y financieras."
+    },
+    {
+        "intent_id": "economia_basica_demanda",
+        "keywords": [
+            "demanda",
+            "consumidores",
+            "adquisicion",
+            "necesidad",
+            "precio"
+        ],
+        "base_response": "La demanda refleja la cantidad de productos que los consumidores desean adquirir a distintos niveles de precio. Suele aumentar cuando los costos disminuyen, permitiendo a las personas satisfacer sus necesidades diarias mediante la adquisición constante de diferentes recursos básicos."
+    },
+    {
+        "intent_id": "economia_basica_escasez",
+        "keywords": [
+            "distribucion",
+            "limitacion",
+            "necesidades",
+            "escasez",
+            "recursos"
+        ],
+        "base_response": "La escasez ocurre porque los recursos disponibles son limitados frente a las necesidades humanas infinitas. Este fenómeno obliga a las sociedades a tomar decisiones cuidadosas sobre cómo producir y distribuir todo aquello que se requiere para vivir adecuadamente diariamente."
+    },
+    {
+        "intent_id": "poder_adquisitivo_salvadoreno",
+        "keywords": [
+            "ingresos",
+            "salarios",
+            "poder",
+            "salvador",
+            "compras"
+        ],
+        "base_response": "El poder adquisitivo salvadoreño mide la cantidad real de productos que una familia puede comprar con sus ingresos actuales. Depende directamente de los salarios recibidos y del costo de vida vigente, reflejando así el bienestar económico del país centroamericano."
+    },
+    {
+        "intent_id": "mercado_salvadoreno_informal",
+        "keywords": [
+            "comercio",
+            "economia",
+            "calles",
+            "mercado",
+            "vendedores"
+        ],
+        "base_response": "El mercado salvadoreño incluye una extensa red de comercio informal donde miles de vendedores ofrecen sus productos diariamente. Esta actividad proporciona ingresos inmediatos para muchas familias, operando generalmente fuera de regulaciones estrictas y dinamizando constantemente la gran economía local."
+    },
+    {
+        "intent_id": "inflacion_efectos",
+        "keywords": [
+            "aumento",
+            "dinero",
+            "inflacion",
+            "valor",
+            "precios"
+        ],
+        "base_response": "La inflación es el incremento generalizado de los precios durante un periodo específico. Esto provoca que el dinero pierda valor gradualmente, obligando a las personas a gastar mayores sumas para adquirir exactamente los mismos productos que consumían antes fácilmente."
+    },
+    {
+        "intent_id": "bienes_economicos",
+        "keywords": [
+            "consumo",
+            "bienes",
+            "satisfaccion",
+            "intercambio",
+            "objetos"
+        ],
+        "base_response": "Los bienes económicos son objetos tangibles que se producen para satisfacer las necesidades de las personas. Tienen un valor de intercambio en el mercado y requieren recursos para ser fabricados, abarcando siempre desde alimentos básicos hasta tecnología avanzada compleja."
+    },
+    {
+        "intent_id": "servicios_financieros",
+        "keywords": [
+            "bancos",
+            "dinero",
+            "actividades",
+            "servicios",
+            "prestamos"
+        ],
+        "base_response": "Los servicios financieros comprenden diversas actividades intangibles ofrecidas por bancos y cooperativas. Permiten a los usuarios guardar su dinero de forma segura, gestionar pagos electrónicos y acceder a préstamos necesarios para desarrollar importantes proyectos personales o empresariales."
+    },
+    {
+        "intent_id": "carreras_universitarias_demanda",
+        "keywords": [
+            "estudios",
+            "carreras",
+            "profesionales",
+            "tecnologia",
+            "empresas"
+        ],
+        "base_response": "Las carreras universitarias salvadoreñas con mayor demanda suelen relacionarse fuertemente con tecnología y administración. Los jóvenes eligen estas opciones buscando asegurar empleos estables y salarios competitivos dentro de empresas modernas que requieren profesionales altamente capacitados diariamente nacionalmente."
+    },
+    {
+        "intent_id": "oferta_agricola_salvador",
+        "keywords": [
+            "oferta",
+            "granos",
+            "frijol",
+            "cultivos",
+            "agricultura"
+        ],
+        "base_response": "La oferta agrícola salvadoreña destaca por la producción constante de granos básicos como maíz y frijol. Estos cultivos son fundamentales para garantizar la alimentación nacional y representan una fuente vital de trabajo para miles de campesinos locales anualmente permanentemente."
+    },
+    {
+        "intent_id": "mercado_competitivo",
+        "keywords": [
+            "competencia",
+            "calidad",
+            "clientes",
+            "empresas",
+            "precios"
+        ],
+        "base_response": "Un mercado competitivo existe cuando varias empresas venden productos similares buscando atraer a los mismos clientes constantemente. Esto beneficia directamente a los consumidores porque obliga a los vendedores a mejorar la calidad de sus artículos y reducir sus precios permanentemente."
+    },
+    {
+        "intent_id": "monopolio_comercial",
+        "keywords": [
+            "monopolio",
+            "opciones",
+            "control",
+            "empresa",
+            "mercado"
+        ],
+        "base_response": "El monopolio ocurre cuando una sola empresa controla completamente la venta de un producto o servicio determinado. Esta situación reduce las opciones disponibles para los consumidores y frecuentemente provoca que los precios se mantengan altos debido a la falta de competidores reales."
+    },
+    {
+        "intent_id": "remesas_salvadorenas",
+        "keywords": [
+            "economia",
+            "familias",
+            "dinero",
+            "remesas",
+            "extranjero"
+        ],
+        "base_response": "Las remesas son los envíos de dinero que realizan los salvadoreños residentes en el extranjero hacia sus familias localmente. Estos ingresos son un pilar fundamental de la economía nacional porque impulsan el consumo diario y mejoran las condiciones de vida significativamente."
+    },
+    {
+        "intent_id": "importaciones_comerciales",
+        "keywords": [
+            "importaciones",
+            "productos",
+            "compras",
+            "fronteras",
+            "extranjero"
+        ],
+        "base_response": "Las importaciones son todas aquellas compras de productos y servicios fabricados en el extranjero que ingresan al territorio nacional. Permiten a los salvadoreños acceder a tecnología avanzada, maquinaria especializada y alimentos que no se producen internamente por razones diversas siempre."
+    },
+    {
+        "intent_id": "exportaciones_locales",
+        "keywords": [
+            "ingresos",
+            "mercados",
+            "productos",
+            "exportaciones",
+            "ventas"
+        ],
+        "base_response": "Las exportaciones representan la venta de productos locales hacia otros países alrededor del mundo. En El Salvador destacan artículos como café, azúcar y textiles, los cuales generan ingresos importantes y crean numerosos empleos dentro del sector productivo nacional constantemente."
+    },
+    {
+        "intent_id": "ahorro_familiar",
+        "keywords": [
+            "seguridad",
+            "dinero",
+            "ahorro",
+            "gastos",
+            "futuro"
+        ],
+        "base_response": "El ahorro familiar consiste en reservar una parte del dinero ganado mes a mes evitando gastarlo inmediatamente. Esta práctica inteligente proporciona seguridad financiera frente a imprevistos y facilita la realización de proyectos futuros importantes como comprar una casa adecuada o estudiar."
+    },
+    {
+        "intent_id": "presupuesto_personal",
+        "keywords": [
+            "presupuesto",
+            "ingresos",
+            "finanzas",
+            "planificacion",
+            "gastos"
+        ],
+        "base_response": "Un presupuesto es un plan escrito que detalla cómo organizar los ingresos y gastos durante un tiempo determinado. Ayuda a las personas a administrar su dinero inteligentemente, evitando deudas innecesarias y asegurando que las necesidades básicas estén completamente cubiertas diariamente."
+    },
+    {
+        "intent_id": "costo_oportunidad",
+        "keywords": [
+            "costo",
+            "oportunidad",
+            "alternativa",
+            "beneficio",
+            "eleccion"
+        ],
+        "base_response": "El costo de oportunidad representa el valor de la mejor alternativa que abandonamos al tomar una decisión específica. Entender este concepto ayuda a los estudiantes a elegir sabiamente cómo invertir su tiempo, dinero o esfuerzo para obtener los mejores beneficios posibles."
+    },
+    {
+        "intent_id": "inversion_productiva",
+        "keywords": [
+            "capital",
+            "inversion",
+            "ganancias",
+            "crecimiento",
+            "negocios"
+        ],
+        "base_response": "La inversión implica destinar recursos o dinero a un negocio con la esperanza de generar ganancias futuras. Es una actividad clave para el crecimiento económico porque permite a las empresas expandirse, crear nuevos empleos y mejorar sus procesos productivos significativamente siempre."
+    },
+    {
+        "intent_id": "impuestos_nacionales",
+        "keywords": [
+            "impuestos",
+            "dinero",
+            "servicios",
+            "gobierno",
+            "poblacion"
+        ],
+        "base_response": "Los impuestos son pagos obligatorios que los ciudadanos y empresas realizan al gobierno regularmente. Estos fondos se utilizan para financiar servicios públicos vitales como hospitales, escuelas y carreteras, buscando mejorar las condiciones generales de toda la población salvadoreña constantemente siempre."
+    },
+    {
+        "intent_id": "microempresas_emprendimiento",
+        "keywords": [
+            "ingresos",
+            "emprendedores",
+            "empleos",
+            "microempresas",
+            "negocios"
+        ],
+        "base_response": "Las microempresas son negocios muy pequeños fundados por emprendedores creativos que buscan generar sus propios ingresos. Constituyen una parte enorme del mercado salvadoreño porque generan numerosos empleos locales y fomentan la independencia económica en diversas comunidades rurales y urbanas."
+    },
+    {
+        "intent_id": "canasta_basica",
+        "keywords": [
+            "canasta",
+            "consumo",
+            "familias",
+            "alimentos",
+            "precios"
+        ],
+        "base_response": "La canasta básica incluye los alimentos esenciales mínimos que una familia necesita consumir para mantenerse saludable diariamente. Su costo es vigilado constantemente porque los aumentos en sus precios afectan fuertemente el bienestar y el bolsillo de los trabajadores salvadoreños."
+    },
+    {
+        "intent_id": "sistema_financiero",
+        "keywords": [
+            "bancos",
+            "instituciones",
+            "sistema",
+            "ahorros",
+            "prestamos"
+        ],
+        "base_response": "El sistema financiero es la gran red de bancos e instituciones que manejan el flujo de dinero en un país. Su función principal es recibir los ahorros de las personas y prestarlos a quienes necesitan capital para iniciar proyectos importantes."
+    },
+    {
+        "intent_id": "salario_minimo",
+        "keywords": [
+            "ingresos",
+            "trabajadores",
+            "pago",
+            "salario",
+            "leyes"
+        ],
+        "base_response": "El salario mínimo es la cantidad de dinero más pequeña que un empleador está obligado legalmente a pagar a sus trabajadores. Su objetivo es asegurar que las personas ganen lo suficiente para cubrir sus necesidades básicas y vivir dignamente."
+    },
+    {
+        "intent_id": "bienes_sustitutos",
+        "keywords": [
+            "bienes",
+            "consumidores",
+            "productos",
+            "reemplazo",
+            "precios"
+        ],
+        "base_response": "Los bienes sustitutos son productos que pueden reemplazarse entre sí para satisfacer la misma necesidad específica. Cuando el precio de un artículo sube demasiado, los consumidores suelen comprar su sustituto más barato para proteger sus finanzas familiares rápidamente."
+    },
+    {
+        "intent_id": "bienes_complementarios",
+        "keywords": [
+            "demanda",
+            "bienes",
+            "productos",
+            "uso",
+            "conjunto"
+        ],
+        "base_response": "Los bienes complementarios son aquellos que necesitan consumirse juntos para funcionar correctamente. Por ejemplo, los teléfonos móviles y los cargadores eléctricos. Si aumenta la demanda de uno, automáticamente crecerá el interés de los compradores por adquirir el otro simultáneamente siempre."
+    },
+    {
+        "intent_id": "sector_terciario",
+        "keywords": [
+            "comercio",
+            "economia",
+            "empleos",
+            "servicios",
+            "sector"
+        ],
+        "base_response": "El sector terciario agrupa todas aquellas actividades económicas dedicadas a ofrecer servicios en lugar de bienes tangibles. Incluye comercios, turismo, transporte y educación, siendo actualmente la mayor fuente de empleos y movimiento económico dentro de la dinámica sociedad salvadoreña."
+    },
+    {
+        "intent_id": "capital_humano",
+        "keywords": [
+            "trabajadores",
+            "habilidades",
+            "productividad",
+            "educacion",
+            "capital"
+        ],
+        "base_response": "El capital humano representa las habilidades, conocimientos y experiencia que poseen los trabajadores de un país. Invertir en educación es fundamental porque mejora este capital, permitiendo que las empresas produzcan bienes más sofisticados y los empleados obtengan mejores salarios permanentemente."
+    },
+    {
+        "intent_id": "deuda_publica",
+        "keywords": [
+            "prestamos",
+            "deuda",
+            "pagos",
+            "intereses",
+            "gobierno"
+        ],
+        "base_response": "La deuda pública es todo el dinero que un gobierno pide prestado para financiar sus obras y operaciones necesarias. A largo plazo, esta deuda debe pagarse utilizando los impuestos de los ciudadanos, lo que exige una administración responsable y sumamente transparente siempre."
+    },
+    {
+        "intent_id": "tasa_interes",
+        "keywords": [
+            "tasa",
+            "interes",
+            "bancos",
+            "dinero",
+            "prestamos"
+        ],
+        "base_response": "La tasa de interés es el costo o porcentaje extra que los bancos cobran por prestar dinero a los usuarios. También representa la ganancia que reciben las personas cuando deciden depositar y mantener sus ahorros dentro del sistema financiero nacional regularmente."
+    },
+    {
+        "intent_id": "crecimiento_economico",
+        "keywords": [
+            "produccion",
+            "riqueza",
+            "empleos",
+            "crecimiento",
+            "pais"
+        ],
+        "base_response": "El crecimiento económico indica el aumento continuo de la producción de bienes y servicios en un país. Es un objetivo vital porque cuando la economía crece, se generan más empleos formales y las familias pueden mejorar su calidad de vida gradualmente siempre."
+    },
+    {
+        "intent_id": "recursos_naturales_economia",
+        "keywords": [
+            "materiales",
+            "produccion",
+            "naturaleza",
+            "escasez",
+            "recursos"
+        ],
+        "base_response": "Los recursos naturales son los materiales proporcionados por la naturaleza que utilizamos para fabricar productos esenciales diariamente. Su uso excesivo puede provocar escasez irreversible, por lo que las industrias deben adoptar prácticas responsables para garantizar la supervivencia económica de futuras generaciones siempre."
+    },
+    {
+        "intent_id": "ventaja_comparativa",
+        "keywords": [
+            "comercio",
+            "paises",
+            "ventaja",
+            "produccion",
+            "costos"
+        ],
+        "base_response": "La ventaja comparativa sugiere que los países deben producir aquello que pueden fabricar con menores costos relativos. Esto fomenta el comercio internacional inteligente, permitiendo que todas las naciones involucradas obtengan productos más baratos y de mejor calidad mediante intercambios eficientes constantemente."
+    },
+    {
+        "intent_id": "desempleo_impacto",
+        "keywords": [
+            "ingresos",
+            "economia",
+            "familias",
+            "desempleo",
+            "trabajo"
+        ],
+        "base_response": "El desempleo ocurre cuando personas capacitadas buscan trabajo activamente pero no logran encontrar ninguna oportunidad disponible. Este problema reduce severamente los ingresos familiares y frena el desarrollo económico del país al disminuir el nivel general de consumo comercial permanentemente."
+    }
+]
