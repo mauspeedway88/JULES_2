@@ -1,0 +1,1123 @@
+[
+  {
+    "intent_id": "prismas_geometricos_espaciales",
+    "keywords": [
+      "poligono",
+      "arista",
+      "volumen",
+      "prisma",
+      "superficie"
+    ],
+    "base_response": "Un prisma geométrico es un sólido formado por dos bases poligonales paralelas y caras laterales rectangulares. Su estructura permite analizar volumen y área de manera sistemática. Comprender sus elementos facilita relacionar figuras planas con cuerpos tridimensionales en diversos contextos matemáticos."
+  },
+  {
+    "intent_id": "cilindros_revolucion_basico",
+    "keywords": [
+      "cilindro",
+      "volumen",
+      "altura",
+      "radio",
+      "revolucion"
+    ],
+    "base_response": "Un cilindro de revolución se forma al girar un rectángulo alrededor de uno de sus lados. Sus elementos principales son el radio y la altura. Comprender su estructura permite calcular áreas y volúmenes, útiles para resolver problemas geométricos cotidianos."
+  },
+  {
+    "intent_id": "calculo_volumen_cuerpos",
+    "keywords": [
+      "cuerpo",
+      "figura",
+      "volumen",
+      "medida",
+      "calculo"
+    ],
+    "base_response": "El volumen de un cuerpo representa el espacio que ocupa en tres dimensiones. Para calcularlo, se utilizan fórmulas específicas según la figura. Comprender este concepto permite resolver problemas prácticos y desarrollar habilidades espaciales esenciales en la educación matemática."
+  },
+  {
+    "intent_id": "vertices_poliedros_basico",
+    "keywords": [
+      "vertice",
+      "arista",
+      "figura",
+      "geometria",
+      "poliedro"
+    ],
+    "base_response": "Los vértices de un poliedro son puntos donde se encuentran varias aristas. Cada vértice ayuda a definir la forma tridimensional del sólido y su estructura. Comprender cuántos vértices tiene un poliedro permite analizar sus propiedades y relacionarlo con otros cuerpos geométricos."
+  },
+  {
+    "intent_id": "caras_planas_laterales",
+    "keywords": [
+      "modelos",
+      "poliedros",
+      "caras",
+      "geometria",
+      "superficie"
+    ],
+    "base_response": "Las caras planas laterales son superficies rectangulares o triangulares que forman los lados de un poliedro. Estas caras conectan la base con el vértice o con otra base, dando estructura y forma al sólido. Comprenderlas ayuda a visualizar y construir figuras tridimensionales correctamente."
+  },
+  {
+    "intent_id": "conos_de_revolucion_basico",
+    "keywords": [
+      "figura",
+      "volumen",
+      "cono",
+      "geometria",
+      "revolucion"
+    ],
+    "base_response": "Un cono de revolución se forma al girar un triángulo rectángulo alrededor de uno de sus catetos. Su estructura incluye una base circular, una altura y una generatriz inclinada. Comprender estas partes permite calcular su volumen y analizar sus propiedades geométricas."
+  },
+  {
+    "intent_id": "propiedades_cubo_regular",
+    "keywords": [
+      "calcular",
+      "cubo",
+      "volumen",
+      "altura",
+      "construir",
+      "lateral"
+    ],
+    "base_response": "Un cubo es un sólido con seis caras cuadradas iguales, doce aristas de igual longitud y ocho vértices. Todas sus aristas son paralelas y perpendiculares entre sí, lo que garantiza simetría interna y la misma distancia desde su centro a cada vértice."
+  },
+  {
+    "intent_id": "esferas_solidas_redondas",
+    "keywords": [
+      "volumen",
+      "radio",
+      "esfera",
+      "diametro",
+      "superficie"
+    ],
+    "base_response": "Una esfera sólida redonda es un cuerpo geométrico cuyos puntos están a la misma distancia del centro. Su forma simétrica permite comprender conceptos como radio, diámetro y volumen. Estudiarla ayuda a relacionar medidas espaciales y desarrollar habilidades para resolver problemas tridimensionales."
+  },
+  {
+    "intent_id": "aristas_interseccion_figuras",
+    "keywords": [
+      "poliedros",
+      "union",
+      "aristas",
+      "geometria",
+      "interseccion"
+    ],
+    "base_response": "Las aristas de intersección aparecen cuando dos figuras tridimensionales se cruzan y generan líneas compartidas. Comprender estas aristas permite analizar cómo se combinan los cuerpos, identificar límites comunes y visualizar con claridad la estructura espacial resultante de su unión."
+  },
+  {
+    "intent_id": "poliedros_regulares_platonicos",
+    "keywords": [
+      "poliedros",
+      "vertices",
+      "caras",
+      "geometria",
+      "simetria"
+    ],
+    "base_response": "Los poliedros regulares platónicos son figuras tridimensionales cuyas caras son polígonos iguales y se unen de manera perfectamente simétrica. Solo existen cinco: tetraedro, cubo, octaedro, dodecaedro y icosaedro. Su estudio fortalece la comprensión espacial y las propiedades geométricas."
+  },
+  {
+    "intent_id": "piramides_de_base",
+    "keywords": [
+      "piramide",
+      "altura",
+      "vertices",
+      "caras",
+      "base"
+    ],
+    "base_response": "Una pirámide de base es un sólido formado por un polígono y un vértice superior donde convergen todas las caras laterales. Su estructura permite analizar áreas y volúmenes, relacionando la forma de la base con la altura para comprender mejor sus propiedades geométricas."
+  },
+  {
+    "intent_id": "area_superficial_total",
+    "keywords": [
+      "calculo",
+      "geometria",
+      "figuras",
+      "superficie",
+      "medicion"
+    ],
+    "base_response": "El área superficial total representa la suma de todas las áreas de las caras de un sólido. Comprenderla permite visualizar mejor las figuras tridimensionales y resolver problemas prácticos. Se calcula identificando cada cara, midiendo sus dimensiones y sumando los resultados obtenidos."
+  },
+  {
+    "intent_id": "area_lateral_cuerpos_geometricos",
+    "keywords": [
+      "figura",
+      "medida",
+      "calculo",
+      "desarrollo",
+      "superficie"
+    ],
+    "base_response": "El área lateral de un cuerpo geométrico corresponde a la suma de las superficies que rodean su volumen, excluyendo las bases. Comprenderla permite relacionar el desarrollo plano con la forma tridimensional y aplicar fórmulas específicas para resolver problemas prácticos."
+  },
+  {
+    "intent_id": "cuerpos_de_revolucion_basico",
+    "keywords": [
+      "figura",
+      "volumen",
+      "rotacion",
+      "eje",
+      "superficie"
+    ],
+    "base_response": "Un cuerpo de revolución se forma al girar una figura plana alrededor de un eje fijo. Este proceso genera una superficie curva continua y un volumen definido. Comprenderlo ayuda a relacionar formas tridimensionales con sus orígenes en figuras bidimensionales."
+  },
+  {
+    "intent_id": "tetraedros_caras",
+    "keywords": [
+      "faceta",
+      "volumen",
+      "regular",
+      "cara",
+      "tetraedro"
+    ],
+    "base_response": "Un tetraedro es un sólido cuádrico con cuatro caras triangulares. Cuando todas las caras son congruentes y almohadilladas, hablamos de tetraedro regular, donde las caras, lados y ángulos internos son idénticos. Este modelo facilita la comprensión de las formas tridimensionales."
+  },
+  {
+    "intent_id": "octaedros_espaciales_cerrados",
+    "keywords": [
+      "octaedro",
+      "vertices",
+      "caras",
+      "geometria",
+      "poliedro"
+    ],
+    "base_response": "Un octaedro espacial cerrado es un poliedro formado por ocho caras triangulares que se unen para encerrar un volumen. Sus vértices y aristas permiten analizar simetrías y relaciones geométricas, favoreciendo la comprensión de estructuras tridimensionales en el estudio de sólidos regulares."
+  },
+  {
+    "intent_id": "secciones_conicas_basicas",
+    "keywords": [
+      "curvas",
+      "planos",
+      "geometria",
+      "figuras",
+      "intersecciones"
+    ],
+    "base_response": "Las secciones cónicas surgen al cortar un cono con un plano y producen figuras como circunferencia, elipse, parábola y hipérbola. Comprender sus formas y propiedades ayuda a relacionar la geometría con fenómenos naturales y aplicaciones tecnológicas cotidianas."
+  },
+  {
+    "intent_id": "dodecaedros_icosaedros_basicos",
+    "keywords": [
+      "poliedros",
+      "vertices",
+      "caras",
+      "aristas",
+      "geometria"
+    ],
+    "base_response": "Los dodecaedros y icosaedros son poliedros regulares que destacan por su simetría y complejidad. El dodecaedro tiene doce caras pentagonales, mientras que el icosaedro posee veinte caras triangulares. Estudiarlos ayuda a comprender estructuras espaciales y relaciones geométricas avanzadas."
+  },
+  {
+    "intent_id": "altura_prisma",
+    "keywords": [
+      "altura",
+      "prisma",
+      "caras",
+      "distancia",
+      "medicion"
+    ],
+    "base_response": "La altura del prisma es la distancia perpendicular entre sus bases paralelas. Este valor determina el espacio interno del sólido y se relaciona directamente con su volumen. Comprender la altura permite analizar y comparar diferentes prismas en situaciones geométricas escolares."
+  },
+  {
+    "intent_id": "centro_esfera_basico",
+    "keywords": [
+      "centro",
+      "radio",
+      "esfera",
+      "geometria",
+      "distancia"
+    ],
+    "base_response": "El centro de una esfera es el punto equidistante de todos los puntos de su superficie. Comprenderlo permite visualizar cómo se define el radio y cómo se construyen figuras tridimensionales. Este concepto facilita analizar simetrías y resolver problemas geométricos."
+  },
+  {
+    "intent_id": "generatriz_cono_basico",
+    "keywords": [
+      "trazado",
+      "cono",
+      "segmento",
+      "generatriz",
+      "superficie"
+    ],
+    "base_response": "La generatriz del cono es el segmento que une el vértice con cualquier punto del borde de la base. Este segmento determina la inclinación y la forma lateral del cono. Comprender su función ayuda a visualizar y construir correctamente esta figura tridimensional."
+  },
+  {
+    "intent_id": "redes_de_desarrollo_figuras",
+    "keywords": [
+      "plegado",
+      "redes",
+      "geometria",
+      "figuras",
+      "superficie"
+    ],
+    "base_response": "Las redes de desarrollo permiten visualizar cómo una figura tridimensional puede desplegarse en un plano. Comprender estas representaciones ayuda a relacionar áreas, formas y conexiones entre caras. Su estudio favorece la construcción mental de sólidos y el análisis espacial."
+  },
+  {
+    "intent_id": "eje_rotacion_basico",
+    "keywords": [
+      "punto",
+      "figura",
+      "rotacion",
+      "geometria",
+      "movimiento"
+    ],
+    "base_response": "El eje de rotación es la línea alrededor de la cual una figura gira. Comprenderlo permite visualizar cómo cambia la posición de un objeto sin alterar su forma. Este concepto ayuda a analizar movimientos circulares y a desarrollar habilidades espaciales esenciales en geometría."
+  },
+  {
+    "intent_id": "simetria_tridimensional_basica",
+    "keywords": [
+      "rotacion",
+      "reflexion",
+      "ejes",
+      "figuras",
+      "simetria"
+    ],
+    "base_response": "La simetría espacial tridimensional permite identificar cómo una figura puede transformarse sin perder su forma. Incluye reflexiones, rotaciones y ejes que organizan el espacio. Comprenderla ayuda a visualizar objetos desde distintas perspectivas y reconocer patrones geométricos complejos."
+  },
+  {
+    "intent_id": "superficies_curvas_cerradas",
+    "keywords": [
+      "superficie",
+      "volumen",
+      "espacio",
+      "curvatura",
+      "forma"
+    ],
+    "base_response": "Una superficie curva cerrada es aquella que rodea completamente un espacio, como una esfera. Estas superficies no tienen bordes y permiten analizar propiedades geométricas relacionadas con el volumen y la forma. Comprenderlas ayuda a visualizar objetos tridimensionales con mayor precisión."
+  },
+  {
+    "intent_id": "ortoedros_prismas_rectangulares",
+    "keywords": [
+      "ortoedro",
+      "volumen",
+      "prisma",
+      "aristas",
+      "superficie"
+    ],
+    "base_response": "Un ortoedro es un prisma rectangular cuyas caras son rectángulos. Sus dimensiones básicas son largo, ancho y altura. Comprender su estructura permite calcular volumen y área total, relacionando medidas y reforzando habilidades geométricas esenciales en la resolución de problemas escolares."
+  },
+  {
+    "intent_id": "area_cubo_regular",
+    "keywords": [
+      "cubo",
+      "medida",
+      "calculo",
+      "caras",
+      "superficie"
+    ],
+    "base_response": "El área de un cubo regular se obtiene multiplicando el área de una de sus caras por seis. Cada cara es un cuadrado con lados iguales, por lo que su área se calcula elevando al cuadrado la longitud del lado. Comprender este proceso facilita visualizar sólidos."
+  },
+  {
+    "intent_id": "truncamiento_piramides",
+    "keywords": [
+      "corte",
+      "seccion",
+      "piramide",
+      "volumen",
+      "truncamiento"
+    ],
+    "base_response": "El truncamiento de una pirámide consiste en cortar su vértice con una sección paralela a la base. El resultado es un sólido con dos bases paralelas, manteniendo la simetría axial y reduciendo el volumen proporcionalmente según el corte."
+  },
+  {
+    "intent_id": "volumen_prisma_recto",
+    "keywords": [
+      "volumen",
+      "altura",
+      "calculo",
+      "prisma",
+      "base"
+    ],
+    "base_response": "El volumen de un prisma recto se obtiene multiplicando el área de su base por la altura. Este método permite comprender cómo el espacio ocupado depende de las dimensiones fundamentales. Dominar este cálculo facilita resolver problemas geométricos cotidianos con mayor precisión."
+  },
+  {
+    "intent_id": "teorema_euler_poliedros",
+    "keywords": [
+      "relacion",
+      "poliedros",
+      "vertices",
+      "caras",
+      "aristas"
+    ],
+    "base_response": "El teorema de Euler establece que en todo poliedro convexo se cumple la relación V − A + C = 2. Esta fórmula permite comprender cómo se conectan vértices, aristas y caras, facilitando el análisis de estructuras tridimensionales y desarrollando habilidades de razonamiento espacial."
+  },
+  {
+    "intent_id": "generatriz_altura_cono",
+    "keywords": [
+      "distancia",
+      "altura",
+      "cono",
+      "generatriz",
+      "superficie"
+    ],
+    "base_response": "La generatriz de un cono es el segmento que une el vértice con cualquier punto del borde circular. La altura es la distancia perpendicular desde el vértice hasta el centro de la base. Comprender ambas permite analizar superficies y resolver problemas geométricos con mayor precisión."
+  },
+  {
+    "intent_id": "base_cilindro",
+    "keywords": [
+      "cilindro",
+      "geometria",
+      "superficie",
+      "medicion",
+      "circulo"
+    ],
+    "base_response": "La base del cilindro es un círculo que determina su tamaño y forma. Comprender esta base permite calcular el área y el volumen del cuerpo. Además, ayuda a relacionar las propiedades del círculo con figuras tridimensionales en situaciones matemáticas cotidianas."
+  },
+  {
+    "intent_id": "diagonales_poliedros_basico",
+    "keywords": [
+      "poliedros",
+      "vertices",
+      "caras",
+      "aristas",
+      "diagonales"
+    ],
+    "base_response": "Las diagonales de un poliedro conectan vértices que no comparten una arista. Estas diagonales pueden estar dentro del cuerpo o sobre sus caras. Comprender su ubicación ayuda a visualizar mejor la estructura tridimensional y analizar propiedades geométricas esenciales."
+  },
+  {
+    "intent_id": "capacidad_recipientes_basico",
+    "keywords": [
+      "comparacion",
+      "volumen",
+      "capacidad",
+      "medicion",
+      "recipientes"
+    ],
+    "base_response": "La capacidad de recipientes permite comprender cuánta cantidad de líquido puede contener un objeto. Al comparar diferentes recipientes, los estudiantes desarrollan habilidades para estimar, medir y relacionar unidades de volumen, fortaleciendo su comprensión de situaciones cotidianas y problemas prácticos."
+  },
+  {
+    "intent_id": "area_total_cilindro",
+    "keywords": [
+      "cilindro",
+      "calculo",
+      "geometria",
+      "area",
+      "superficie"
+    ],
+    "base_response": "El área total del cilindro combina el área lateral y las dos bases circulares. Para calcularla, se multiplica la circunferencia por la altura y se suman las áreas de ambos círculos. Comprender esta relación ayuda a visualizar cómo se distribuye la superficie completa."
+  },
+  {
+    "intent_id": "apotema_piramide_regular",
+    "keywords": [
+      "piramide",
+      "altura",
+      "geometria",
+      "apotema",
+      "triangulo"
+    ],
+    "base_response": "La apotema de una pirámide regular es la altura inclinada de cada cara triangular. Se mide desde el vértice superior hasta el punto medio del lado de la base. Permite calcular áreas laterales y totales, facilitando la comprensión de estructuras tridimensionales."
+  },
+  {
+    "intent_id": "tronco_cono_basico",
+    "keywords": [
+      "figura",
+      "volumen",
+      "altura",
+      "radio",
+      "geometria"
+    ],
+    "base_response": "El tronco de cono surge al cortar un cono con un plano paralelo a su base. Presenta dos bases circulares de distinto tamaño y una altura perpendicular entre ellas. Comprender su estructura permite calcular áreas y volúmenes útiles en problemas geométricos cotidianos."
+  },
+  {
+    "intent_id": "superficie_esferica_area",
+    "keywords": [
+      "constante",
+      "numero",
+      "pi",
+      "esfera",
+      "area",
+      "superficie"
+    ],
+    "base_response": "La superficie de una esfera se calcula con la fórmula 4πr². Esta expresión muestra cómo el radio, al elevarse al cuadrado, más la constante π, determina el área total de la esfera, ofreciendo a los alumnos una relación clara y sencilla."
+  },
+  {
+    "intent_id": "tronco_piramide_basico",
+    "keywords": [
+      "piramide",
+      "volumen",
+      "altura",
+      "geometria",
+      "tronco"
+    ],
+    "base_response": "Un tronco de pirámide se forma al cortar una pirámide con un plano paralelo a su base, generando dos bases poligonales. Para calcular su volumen se emplea la altura y las áreas de ambas bases. Este sólido permite analizar relaciones geométricas importantes."
+  },
+  {
+    "intent_id": "perimetro_base_prisma",
+    "keywords": [
+      "perimetro",
+      "figura",
+      "calculo",
+      "prisma",
+      "base"
+    ],
+    "base_response": "El perímetro de la base del prisma corresponde a la suma de las longitudes de todos los lados de su figura base. Comprenderlo permite calcular áreas laterales y totales. Identificar la forma de la base facilita aplicar correctamente las fórmulas necesarias en cada situación."
+  },
+  {
+    "intent_id": "piramides_base_geometria",
+    "keywords": [
+      "piramide",
+      "altura",
+      "vertices",
+      "caras",
+      "base"
+    ],
+    "base_response": "Una pirámide de base es un sólido formado por un polígono y triángulos que se unen en un vértice común. Su estructura permite analizar áreas y volúmenes, relacionando la forma de la base con la altura. Comprenderla facilita visualizar figuras tridimensionales."
+  },
+  {
+    "intent_id": "cubos_tridimensionales_regulares",
+    "keywords": [
+      "cubo",
+      "volumen",
+      "caras",
+      "aristas",
+      "geometria"
+    ],
+    "base_response": "Un cubo tridimensional regular es una figura con seis caras cuadradas iguales y aristas de la misma longitud. Comprender sus propiedades ayuda a visualizar estructuras espaciales y calcular medidas como el volumen y el área, fundamentales para desarrollar habilidades geométricas avanzadas."
+  },
+  {
+    "intent_id": "calculo_volumen_cilindro",
+    "keywords": [
+      "cilindro",
+      "volumen",
+      "altura",
+      "calculo",
+      "radio"
+    ],
+    "base_response": "El volumen de un cilindro se obtiene multiplicando el área de su base circular por la altura. Comprender esta relación permite visualizar cómo el espacio ocupado depende del radio y la altura. Este concepto facilita comparar cuerpos y resolver problemas cotidianos."
+  },
+  {
+    "intent_id": "cilindros_de_revolucion_basico",
+    "keywords": [
+      "cilindro",
+      "figura",
+      "volumen",
+      "geometria",
+      "revolucion"
+    ],
+    "base_response": "Un cilindro de revolución se forma al girar un rectángulo alrededor de uno de sus lados. Esta figura posee dos bases circulares y una superficie curva. Comprender su estructura permite calcular áreas y volúmenes útiles en problemas geométricos cotidianos."
+  },
+  {
+    "intent_id": "dodecaedros_icosaedros_basico",
+    "keywords": [
+      "poliedros",
+      "vertices",
+      "caras",
+      "aristas",
+      "geometria"
+    ],
+    "base_response": "El dodecaedro y el icosaedro son poliedros regulares que permiten explorar simetrías y relaciones espaciales. Comprender sus caras, vértices y aristas ayuda a desarrollar habilidades de visualización tridimensional y a conectar conceptos geométricos con estructuras presentes en la naturaleza."
+  },
+  {
+    "intent_id": "aristas_interseccion_poliedros",
+    "keywords": [
+      "poliedros",
+      "aristas",
+      "geometria",
+      "figuras",
+      "interseccion"
+    ],
+    "base_response": "Las aristas de intersección aparecen cuando dos superficies de un poliedro se encuentran y forman un borde común. Comprender estas aristas ayuda a visualizar la estructura tridimensional y a identificar cómo se conectan las caras, facilitando el análisis de formas geométricas complejas."
+  },
+  {
+    "intent_id": "tetraedros_de_caras",
+    "keywords": [
+      "vertices",
+      "caras",
+      "aristas",
+      "geometria",
+      "tetraedro"
+    ],
+    "base_response": "Un tetraedro es un poliedro formado por cuatro caras triangulares que se unen en cuatro vértices. Cada cara comparte aristas con las demás, creando una estructura espacial estable. Comprender sus elementos ayuda a visualizar relaciones geométricas fundamentales en tres dimensiones."
+  },
+  {
+    "intent_id": "area_lateral_cuerpos",
+    "keywords": [
+      "calculo",
+      "desarrollo",
+      "geometria",
+      "figuras",
+      "superficie"
+    ],
+    "base_response": "El área lateral de un cuerpo geométrico representa la suma de las superficies que rodean su volumen, excluyendo las bases. Comprenderla permite analizar desarrollos planos, calcular medidas reales y relacionar formas tridimensionales con sus representaciones bidimensionales de manera precisa."
+  },
+  {
+    "intent_id": "vertices_poliedros",
+    "keywords": [
+      "forma",
+      "poliedro",
+      "conexion",
+      "punto",
+      "vertice"
+    ],
+    "base_response": "Un vértice es el punto donde se encuentran al menos tres caras en un poliedro. Su número varía según la geometría: por ejemplo, el cubo tiene ocho vértices, mientras que el dodecaedro tiene veinte. Identificarlos ayuda a entender la estructura tridimensional."
+  },
+  {
+    "intent_id": "piramides_base_triangulo",
+    "keywords": [
+      "base",
+      "altura",
+      "volumen",
+      "geometria",
+      "piramide"
+    ],
+    "base_response": "Una pirámide de base es un sólido formado por una figura plana y un vértice que se une a todos sus lados. Su volumen depende del área de la base y de la altura. Comprender su estructura ayuda a visualizar formas tridimensionales con mayor precisión."
+  },
+  {
+    "intent_id": "conos_revolucion",
+    "keywords": [
+      "triangulo",
+      "area",
+      "rotacion",
+      "conos",
+      "volumen",
+      "revolucion"
+    ],
+    "base_response": "Un cono de revolución es la figura creada al girar un triángulo rectángulo alrededor de su lado recto. El eje de rotación genera la superficie lateral, mientras el extremo inferior forma la base circular. Se mide volúmen y área superficial."
+  },
+  {
+    "intent_id": "redes_desarrollo_figuras",
+    "keywords": [
+      "redes",
+      "desarrollo",
+      "plegado",
+      "geometria",
+      "figuras"
+    ],
+    "base_response": "Las redes de desarrollo permiten visualizar cómo una figura tridimensional puede desplegarse en un plano. Comprender estas representaciones ayuda a relacionar superficies, aristas y vértices, favoreciendo la construcción mental de sólidos y el análisis de sus propiedades geométricas esenciales."
+  },
+  {
+    "intent_id": "generatriz_cono",
+    "keywords": [
+      "generatriz",
+      "distancia",
+      "trazo",
+      "cono",
+      "superficie"
+    ],
+    "base_response": "La generatriz del cono es el segmento que une el vértice con cualquier punto del borde circular de la base. Este segmento determina la forma inclinada del cono y permite calcular su superficie lateral mediante relaciones geométricas entre la altura, el radio y la propia generatriz."
+  },
+  {
+    "intent_id": "base_cilindro_concepto",
+    "keywords": [
+      "base",
+      "geometria",
+      "circulo",
+      "superficie",
+      "cilindro"
+    ],
+    "base_response": "La base del cilindro es un círculo que determina su tamaño y forma. Esta superficie circular se repite en la parte superior y permite calcular el área y el volumen del cuerpo. Comprender su estructura facilita resolver problemas geométricos con mayor precisión."
+  },
+  {
+    "intent_id": "secciones_conicas_bases",
+    "keywords": [
+      "elipse",
+      "parabola",
+      "seccion",
+      "cono",
+      "circulo"
+    ],
+    "base_response": "Las secciones cónicas son las curvas que se obtienen al cortar una pirámide o un cono con un plano. Dependiendo del ángulo, se generan círculos, elipses, parábolas y hipérbolas, cada una con propiedades geométricas distintas."
+  },
+  {
+    "intent_id": "altura_prisma_basico",
+    "keywords": [
+      "altura",
+      "caras",
+      "distancia",
+      "medicion",
+      "prisma"
+    ],
+    "base_response": "La altura del prisma es la distancia perpendicular entre sus dos bases paralelas. Esta medida determina el espacio interno y permite calcular el volumen. Comprenderla ayuda a visualizar la estructura tridimensional y relacionar sus dimensiones con distintos problemas geométricos."
+  },
+  {
+    "intent_id": "diagonales_poliedros",
+    "keywords": [
+      "espacio",
+      "poliedros",
+      "diagonales",
+      "aristas",
+      "vertices"
+    ],
+    "base_response": "Las diagonales de un poliedro conectan vértices que no comparten una arista y pueden estar dentro o fuera de sus caras. Comprenderlas ayuda a visualizar mejor la estructura tridimensional y analizar relaciones espaciales importantes en figuras geométricas complejas."
+  },
+  {
+    "intent_id": "eje_de_rotacion_basico",
+    "keywords": [
+      "movimiento",
+      "rotacion",
+      "geometria",
+      "punto",
+      "figura"
+    ],
+    "base_response": "El eje de rotación es una línea alrededor de la cual una figura gira manteniendo su forma. Comprenderlo permite visualizar cómo cambian las posiciones de los puntos durante el movimiento circular y analizar simetrías presentes en objetos y construcciones geométricas."
+  },
+  {
+    "intent_id": "capacidad_recipientes_basica",
+    "keywords": [
+      "liquidos",
+      "recipientes",
+      "volumen",
+      "capacidad",
+      "medicion"
+    ],
+    "base_response": "La capacidad de recipientes permite comparar y medir cuánta cantidad de líquido puede contener cada uno. Comprender esta idea ayuda a interpretar situaciones cotidianas y a elegir unidades adecuadas. Los estudiantes desarrollan habilidades prácticas al estimar, medir y relacionar diferentes volúmenes."
+  },
+  {
+    "intent_id": "simetria_espacial_tridimensional",
+    "keywords": [
+      "figuras",
+      "rotacion",
+      "simetria",
+      "reflexion",
+      "ejes"
+    ],
+    "base_response": "La simetría espacial tridimensional describe cómo una figura mantiene su forma al reflejarse, rotarse o trasladarse en el espacio. Comprenderla ayuda a visualizar objetos desde diferentes perspectivas y reconocer patrones geométricos que se repiten en sólidos como prismas, pirámides y cuerpos regulares."
+  },
+  {
+    "intent_id": "ortoedro_prisma_rectangular",
+    "keywords": [
+      "ortoedro",
+      "arista",
+      "volumen",
+      "superficie",
+      "prisma"
+    ],
+    "base_response": "Un ortoedro es un prisma rectangular cuyas caras son rectángulos y cuyos ángulos son rectos. Permite analizar dimensiones, áreas y volúmenes de manera estructurada. Comprender su forma facilita resolver problemas geométricos y relacionar medidas en contextos reales."
+  },
+  {
+    "intent_id": "esferas_solaidas_redondas",
+    "keywords": [
+      "radio",
+      "superficie",
+      "volumen",
+      "esferas",
+      "densidad"
+    ],
+    "base_response": "El estudio de una esfera sólida redonda aborda su precisión geométrica y sus propiedades físicas, destacando el radio, la superficie y el volumen. Al relacionar fórmulas con ejemplos cotidianos, los alumnos comprenden cómo calcular espacios y profundizan su pensamiento espacial y lógico."
+  },
+  {
+    "intent_id": "prismas_geom_espa",
+    "keywords": [
+      "rectangulo",
+      "prisma",
+      "altura",
+      "volumen",
+      "cara",
+      "base"
+    ],
+    "base_response": "Los prismas geométricos espaciales presentan dos bases congruentes y caras laterales paralelas entre sí. Cada cara lateral forma un rectángulo. El volumen se calcula multiplicando el área de la base por la altura, la distancia entre las bases."
+  },
+  {
+    "intent_id": "volumen_cuerpos_calcular",
+    "keywords": [
+      "cuerpo",
+      "volumen",
+      "medir",
+      "calcular",
+      "forma"
+    ],
+    "base_response": "Para que los estudiantes comprendan cómo se determina el volumen de distintos cuerpos, se presentan casos prácticos que combinan triángulos y rectángulos, permitiendo usar fórmulas de cubo, prisma y cilindro, mientras se comparan resultados con práctica."
+  },
+  {
+    "intent_id": "piramides_base_caracteristicas",
+    "keywords": [
+      "vertices",
+      "caras",
+      "piramide",
+      "aristas",
+      "base"
+    ],
+    "base_response": "Una pirámide de base es un sólido formado por un polígono y un vértice superior. Sus caras laterales son triángulos que se unen en ese vértice. La forma de la base determina el número de aristas y vértices, permitiendo analizar su estructura espacial."
+  },
+  {
+    "intent_id": "aristas_interseccion_concepto",
+    "keywords": [
+      "superficie",
+      "punto",
+      "combinacion",
+      "arista",
+      "objeto",
+      "interseccion"
+    ],
+    "base_response": "En el estudio de figuras tridimensionales, las aristas de intersección son los segmentos donde dos o más superficies se encuentran. Comprender su ubicación ayuda a identificar vértices y solidificar la noción de geometría espacial, pues cada intersección forma un punto de unión esencial."
+  },
+  {
+    "intent_id": "redes_de_desarrollo_basicas",
+    "keywords": [
+      "redes",
+      "figuras",
+      "geometria",
+      "construccion",
+      "plegado"
+    ],
+    "base_response": "Las redes de desarrollo permiten visualizar cómo una figura tridimensional puede desplegarse en un plano. Comprender estas representaciones ayuda a relacionar formas, identificar sus partes y anticipar cómo se ensamblan. Su estudio fortalece habilidades espaciales esenciales en la geometría escolar."
+  },
+  {
+    "intent_id": "octaedros_espaciales_concepto",
+    "keywords": [
+      "cuerpo",
+      "espacio",
+      "octaedro",
+      "simetria",
+      "forma"
+    ],
+    "base_response": "Un octaedro espacial cerrado es un sólido formado por ocho caras triangulares planas, donde cada vértice se conecta a tres aristas. Sus caras congruentes le confieren simetría y equilibrio, y su interior hace posible modelar estructuras cristalinas y conceptos geométricos complejos."
+  },
+  {
+    "intent_id": "calculo_volumen_prisma_recto",
+    "keywords": [
+      "calculo",
+      "prisma",
+      "altura",
+      "volumen",
+      "base"
+    ],
+    "base_response": "El volumen de un prisma recto se obtiene multiplicando el área de su base por la altura. Comprender esta relación permite visualizar cómo se llena el espacio tridimensional. Practicar con distintas bases ayuda a fortalecer el razonamiento geométrico y la interpretación de medidas."
+  },
+  {
+    "intent_id": "capacidad_recipientes",
+    "keywords": [
+      "recipiente",
+      "volumen",
+      "capacidad",
+      "medicion",
+      "densidad"
+    ],
+    "base_response": "En la medición de la capacidad de un recipiente, los estudiantes comparan volúmenes usando objetos de referencia, comprender la relación entre espacio y contenido, y aplicar unidades del sistema métrico. Así, aprenden a estimar, medir y registrar datos con exactitud y responsabilidad."
+  },
+  {
+    "intent_id": "prismas_caras_laterales",
+    "keywords": [
+      "prisma",
+      "altura",
+      "volumen",
+      "arista",
+      "cara"
+    ],
+    "base_response": "Un prisma geométrico es un cuerpo formado por dos bases paralelas y caras laterales rectangulares. Su estructura permite analizar aristas, vértices y superficies. Comprender sus elementos facilita calcular áreas y volúmenes, reforzando habilidades espaciales esenciales en la educación matemática."
+  },
+  {
+    "intent_id": "cilindros_de_revolucion",
+    "keywords": [
+      "radio",
+      "superficie",
+      "altura",
+      "volumen",
+      "rotacion"
+    ],
+    "base_response": "El cilindro de revolución es la figura obtenida al girar un rectángulo alrededor de su eje. Su superficie lateral se calcula con 2·π·r·h y su volumen con π·r²·h. La altura y el radio definen su tamaño."
+  },
+  {
+    "intent_id": "concepto_poliedro_regulares_platonicos",
+    "keywords": [
+      "vertice",
+      "simetria",
+      "poliedro",
+      "geometrica",
+      "caras"
+    ],
+    "base_response": "Poliedro platónico es una figura tridimensional con caras congruentes e idénticas, vértices y aristas iguales. Cada tipo mantiene la misma figura en todos sus ángulos, lo que los hace simétricos y soporta la base del estudio geométrico."
+  },
+  {
+    "intent_id": "altura_prisma_concepto",
+    "keywords": [
+      "base",
+      "lateral",
+      "altura",
+      "medicion",
+      "prisma"
+    ],
+    "base_response": "Para comprender la altura de un prisma, los estudiantes deben reconocer que es la distancia perpendicular entre dos bases paralelas. Como regla, la altura es siempre perpendicular a cualquier lado lateral. Su cálculo implica identificar la base y el lado que se intersecta."
+  },
+  {
+    "intent_id": "eje_rotacion",
+    "keywords": [
+      "eje",
+      "simetria",
+      "giro",
+      "rotacion",
+      "movimiento"
+    ],
+    "base_response": "El eje de rotación es la recta alrededor de la cual un objeto gira. Si el eje es perpendicular al plano de giro, la figura permanece en la misma posición respecto al espacio. Identificar ejes y su orientación ayuda a prever el movimiento."
+  },
+  {
+    "intent_id": "generatriz_y_altura_en_conos",
+    "keywords": [
+      "cono",
+      "representacion",
+      "altura",
+      "generatriz",
+      "medicion"
+    ],
+    "base_response": "la generatriz es la recta que une el vértice del cono con cualquier punto de su circunferencia. La altura es la distancia perpendicular entre la base y el vértice. Ambas son perpendiculares al plano base y esenciales para calcular volúmenes e hipotenusas."
+  },
+  {
+    "intent_id": "tronco_piramide_concepto",
+    "keywords": [
+      "tronco",
+      "altura",
+      "superficie",
+      "piramide",
+      "volumen"
+    ],
+    "base_response": "Un tronco de pirámide se forma al cortar una pirámide con un plano paralelo a su base, creando dos bases y caras laterales trapezoidales. Permite analizar áreas y volúmenes mediante relaciones entre sus dimensiones, favoreciendo la comprensión de figuras tridimensionales."
+  },
+  {
+    "intent_id": "tronco_de_cono",
+    "keywords": [
+      "base",
+      "radio",
+      "geometria",
+      "altura",
+      "volumen"
+    ],
+    "base_response": "Un tronco de cono es el sólido que resulta al cortar un cono con un plano paralelo a su generatriz. La base superior y la inferior son círculos concéntricos; el alargador es una línea recta que conecta ambos radios."
+  },
+  {
+    "intent_id": "piramides_base_general",
+    "keywords": [
+      "base",
+      "aristas",
+      "piramide",
+      "vertices",
+      "caras"
+    ],
+    "base_response": "Una pirámide de base es un sólido formado por un polígono y triángulos que se unen en un vértice común. Su estructura permite analizar relaciones entre caras, aristas y vértices, facilitando la comprensión espacial y el cálculo de áreas y volúmenes."
+  },
+  {
+    "intent_id": "caras_laterales_prisma",
+    "keywords": [
+      "lateral",
+      "altura",
+      "prisma",
+      "rectangulo",
+      "caras"
+    ],
+    "base_response": "En un prisma, las caras planas laterales son las superficies rectangulares que se forman entre los dos poliedros de base. Estas caras mantienen la misma altura y están perpendiculares a la base, facilitando el cálculo de áreas y la comprensión de la extensión lateral."
+  },
+  {
+    "intent_id": "tetraedros_caras_basico",
+    "keywords": [
+      "geometria",
+      "caras",
+      "aristas",
+      "tetraedro",
+      "vertices"
+    ],
+    "base_response": "Un tetraedro es un sólido formado por cuatro caras triangulares que se unen en cuatro vértices. Cada cara comparte aristas con las demás, creando una estructura rígida y simétrica. Comprender sus elementos ayuda a visualizar relaciones espaciales y desarrollar habilidades geométricas esenciales."
+  },
+  {
+    "intent_id": "redes_desarrollo_basicas",
+    "keywords": [
+      "geometria",
+      "desarrollo",
+      "plegado",
+      "redes",
+      "modelos"
+    ],
+    "base_response": "Las redes de desarrollo permiten visualizar cómo una figura tridimensional puede desplegarse en un plano. Comprender estas representaciones ayuda a relacionar formas, identificar caras y anticipar ensamblajes. Su estudio fortalece la percepción espacial y facilita la construcción de sólidos geométricos."
+  },
+  {
+    "intent_id": "dodecaedros_y_icosaedros",
+    "keywords": [
+      "simetria",
+      "poliedro",
+      "calculo",
+      "triangulo",
+      "estudio",
+      "pentagono"
+    ],
+    "base_response": "El dodecaedro, con sus doce pentágonos regulares, y el icosaedro, formado por veinte triángulos equiláteros, son casos emblemáticos de sólidos platónicos. Se distinguen por su alta simetría, lo que facilita la modelación geométrica y el estudio del espacio tridimensional."
+  },
+  {
+    "intent_id": "concepto_cuerpos_revolucion",
+    "keywords": [
+      "rotacion",
+      "figuras",
+      "eje",
+      "volumen",
+      "superficie"
+    ],
+    "base_response": "Un cuerpo de revolución se forma al girar una figura plana alrededor de un eje fijo. Este proceso genera sólidos como cilindros, conos y esferas. Comprender su estructura ayuda a relacionar áreas, volúmenes y simetrías presentes en diversas situaciones geométricas."
+  },
+  {
+    "intent_id": "calculo_volumen_prisma",
+    "keywords": [
+      "volumen",
+      "prisma",
+      "figuras",
+      "medicion",
+      "calculo"
+    ],
+    "base_response": "El volumen de un prisma se obtiene multiplicando el área de su base por la altura. Este cálculo permite comprender cuánto espacio ocupa el cuerpo en tres dimensiones y facilita comparar distintas figuras. Dominar este concepto ayuda a resolver problemas cotidianos y académicos."
+  },
+  {
+    "intent_id": "eje_rotacion_figuras",
+    "keywords": [
+      "rotacion",
+      "figura",
+      "punto",
+      "geometria",
+      "movimiento"
+    ],
+    "base_response": "El eje de rotación es una línea imaginaria alrededor de la cual una figura gira. Comprenderlo permite analizar cómo cambian las posiciones de los puntos durante el movimiento. Identificar este eje ayuda a visualizar transformaciones y a resolver problemas geométricos con mayor precisión."
+  },
+  {
+    "intent_id": "redes_de_desarrollo_matematico",
+    "keywords": [
+      "superficies",
+      "redes",
+      "figuras",
+      "ensamble",
+      "geometria"
+    ],
+    "base_response": "Las redes de desarrollo permiten visualizar cómo una figura tridimensional puede desplegarse en un plano. Comprender estas redes ayuda a relacionar superficies, formas y ensamblajes, fortaleciendo la capacidad de imaginar y construir sólidos con precisión y sentido espacial."
+  },
+  {
+    "intent_id": "conos_revolucion_basico",
+    "keywords": [
+      "revolucion",
+      "geometria",
+      "figura",
+      "volumen",
+      "cono"
+    ],
+    "base_response": "Un cono de revolución se forma al girar un triángulo rectángulo alrededor de uno de sus catetos. Esta figura posee una base circular y un vértice opuesto. Comprender su estructura permite calcular áreas y volúmenes, fortaleciendo habilidades geométricas esenciales."
+  },
+  {
+    "intent_id": "simetria_tridimensional_concepto",
+    "keywords": [
+      "reflejo",
+      "simetria",
+      "estructura",
+      "volumen",
+      "objeto",
+      "equivalencia"
+    ],
+    "base_response": "La simetría espacial tridimensional aparece cuando un sólido mantiene la misma forma y tamaño al reflejarse respecto a una superficie o eje. Este fenómeno permite que los estudios geométricos comprendan la equivalencia de las partes del objeto."
+  },
+  {
+    "intent_id": "centro_esfera_centro",
+    "keywords": [
+      "simetria",
+      "linea",
+      "centro",
+      "punto",
+      "esfera",
+      "distancia"
+    ],
+    "base_response": "El centro de una esfera es el punto equidistante de todos sus puntos. Se encuentra dentro de la figura y sirve de referencia para medir radios, ángulos y simetrías. Al conocerlo, podemos construir planos tangentes y dividir la esfera en hemisferios."
+  },
+  {
+    "intent_id": "cuerpos_de_revolucion",
+    "keywords": [
+      "ecuacion",
+      "simetria",
+      "rotacion",
+      "eje",
+      "area",
+      "volumen"
+    ],
+    "base_response": "Los cuerpos de revolución son figuras generadas al girar una curva alrededor de un eje. Su volumen se obtiene con la integral de la función al cuadrado, y su área lateral se calcula multiplicando el perímetro de la curva por la distancia recorrida."
+  },
+  {
+    "intent_id": "base_cilindro_geometria",
+    "keywords": [
+      "circulo",
+      "cilindro",
+      "superficie",
+      "geometria",
+      "base"
+    ],
+    "base_response": "La base del cilindro es un círculo que determina su tamaño y forma. Esta superficie plana define el área fundamental para calcular volumen y otras medidas. Comprender su estructura ayuda a relacionar figuras tridimensionales con conceptos geométricos esenciales en el aprendizaje escolar."
+  },
+  {
+    "intent_id": "redes_desarrollo",
+    "keywords": [
+      "interaccion",
+      "nodo",
+      "conexion",
+      "estructura",
+      "flujo"
+    ],
+    "base_response": "Una red de desarrollo se visualiza como un esquema de nodos conectados que permiten el flujo de información entre conceptos. Cada nodo representa un tema, y sus enlaces muestran cómo se refuerzan y se construyen progresivamente, fomentando la comprensión integral."
+  },
+  {
+    "intent_id": "volumen_cuerpos_basico",
+    "keywords": [
+      "espacio",
+      "calculo",
+      "medicion",
+      "volumen",
+      "cuerpo"
+    ],
+    "base_response": "El volumen de un cuerpo representa el espacio que ocupa dentro de un entorno tridimensional. Para calcularlo, se utilizan fórmulas específicas según la forma del objeto. Comprender el volumen permite resolver problemas prácticos y desarrollar habilidades geométricas esenciales."
+  },
+  {
+    "intent_id": "volumen_cuerpos_geometricos",
+    "keywords": [
+      "cuerpo",
+      "calculo",
+      "espacio",
+      "medicion",
+      "volumen"
+    ],
+    "base_response": "El volumen de un cuerpo geométrico representa el espacio que ocupa. Para calcularlo, se aplican fórmulas específicas según la forma, como prismas, cilindros o pirámides. Comprender el volumen permite resolver problemas reales y desarrollar habilidades matemáticas esenciales."
+  },
+  {
+    "intent_id": "tronco_piramide",
+    "keywords": [
+      "base",
+      "sumar",
+      "altura",
+      "tronco",
+      "piramide",
+      "volumen"
+    ],
+    "base_response": "En la geometría, el tronco de pirámide surge al recortar la punta de una pirámide con una sección paralela a la base, manteniendo la forma piramidal pero reduciendo su altura. El volumen del tronco se calcula restando la parte superior del volumen íntegro."
+  },
+  {
+    "intent_id": "caras_laterales_poliedros",
+    "keywords": [
+      "geometria",
+      "poliedros",
+      "superficie",
+      "figuras",
+      "caras"
+    ],
+    "base_response": "Las caras planas laterales son superficies que forman los lados de un poliedro y se unen en los bordes. Cada cara es un polígono que contribuye a la estructura tridimensional. Comprender su disposición ayuda a visualizar mejor la forma y analizar sus propiedades geométricas."
+  },
+  {
+    "intent_id": "redes_desarrollo_geometricas",
+    "keywords": [
+      "pliegues",
+      "figuras",
+      "ensamblaje",
+      "superficies",
+      "modelado"
+    ],
+    "base_response": "Las redes de desarrollo permiten visualizar cómo una figura tridimensional puede desplegarse en un plano. Ayudan a comprender la relación entre caras, aristas y vértices, favoreciendo el razonamiento espacial. Su uso fortalece la capacidad de construir y analizar sólidos geométricos."
+  },
+  {
+    "intent_id": "dodecaedros_icosaedros_formas",
+    "keywords": [
+      "geometria",
+      "poliedros",
+      "vertices",
+      "aristas",
+      "caras"
+    ],
+    "base_response": "Los dodecaedros y icosaedros son poliedros regulares que permiten explorar simetrías y relaciones entre caras, vértices y aristas. Comprender sus estructuras ayuda a desarrollar habilidades espaciales y a conectar conceptos geométricos avanzados con representaciones tridimensionales claras y significativas."
+  },
+  {
+    "intent_id": "centro_de_esfera",
+    "keywords": [
+      "distancia",
+      "esfera",
+      "centro",
+      "geometria",
+      "radio"
+    ],
+    "base_response": "El centro de una esfera es el punto equidistante de todos los puntos de su superficie. Comprenderlo permite analizar radios y diámetros con precisión. Este concepto ayuda a visualizar estructuras tridimensionales y resolver problemas geométricos que requieren ubicar posiciones en el espacio."
+  },
+  {
+    "intent_id": "redes_desarrollo_matematico",
+    "keywords": [
+      "desarrollo",
+      "modelos",
+      "redes",
+      "conexiones",
+      "representaciones"
+    ],
+    "base_response": "Las redes de desarrollo permiten organizar ideas matemáticas mediante conexiones visuales que muestran cómo se relacionan conceptos y procedimientos. Ayudan a estructurar el pensamiento, favorecen la comprensión profunda y facilitan la resolución de problemas al integrar información de manera coherente."
+  }
+]
