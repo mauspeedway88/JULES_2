@@ -1,0 +1,1190 @@
+[
+  {
+    "intent_id": "definicion_conjunto_numeros_naturales",
+    "keywords": [
+      "numeros",
+      "naturales",
+      "conjunto",
+      "contar",
+      "elementos",
+      "infinito"
+    ],
+    "base_response": "El conjunto de números naturales está formado por todos los números enteros positivos que usamos diariamente para contar objetos. Comienza desde el número uno y se extiende de forma infinita, permitiendo organizar colecciones de elementos de manera ordenada y precisa en las matemáticas elementales."
+  },
+  {
+    "intent_id": "origen_numeros_naturales",
+    "keywords": [
+      "origen",
+      "historia",
+      "naturales",
+      "pastores",
+      "antiguedad",
+      "conteo"
+    ],
+    "base_response": "Los números naturales surgieron en la antigüedad por la necesidad humana de contar pertenencias y alimentos. Civilizaciones primitivas utilizaban marcas en huesos, piedras o nudos en cuerdas para registrar cantidades, marcando el inicio de los sistemas de numeración que hoy utilizamos universalmente."
+  },
+  {
+    "intent_id": "error_comun_naturales_cero",
+    "keywords": [
+      "error",
+      "naturales",
+      "cero",
+      "inclusion",
+      "conjunto",
+      "disputa"
+    ],
+    "base_response": "Un error común sobre los números naturales es asumir que el cero siempre pertenece a este conjunto. Aunque algunos matemáticos lo incluyen para facilitar la teoría de conjuntos, tradicionalmente se considera que inicia en el uno, ya que el cero representa ausencia absoluta de conteo físico."
+  },
+  {
+    "intent_id": "aplicacion_naturales_inventario",
+    "keywords": [
+      "aplicacion",
+      "inventario",
+      "naturales",
+      "contar",
+      "objetos",
+      "comercio"
+    ],
+    "base_response": "En la vida cotidiana, los números naturales son indispensables para realizar inventarios de productos en tiendas. Permiten registrar cantidades exactas de artículos físicos como manzanas, libros o juguetes, garantizando que el comercio y la contabilidad básica funcionen sin errores de fracciones o valores negativos."
+  },
+  {
+    "intent_id": "definicion_conjunto_numeros_enteros",
+    "keywords": [
+      "numeros",
+      "enteros",
+      "conjunto",
+      "negativos",
+      "positivos",
+      "cero"
+    ],
+    "base_response": "El conjunto de números enteros abarca los números naturales, sus contrapartes negativas y el cero. Se representa matemáticamente con la letra zeta y permite modelar situaciones opuestas, donde existen pérdidas, deudas o valores por debajo de un punto de referencia establecido como nulo."
+  },
+  {
+    "intent_id": "funcionamiento_enteros_temperatura",
+    "keywords": [
+      "funcionamiento",
+      "temperatura",
+      "enteros",
+      "grados",
+      "termometro",
+      "escala"
+    ],
+    "base_response": "Los números enteros funcionan perfectamente para medir temperaturas ambientales mediante un termómetro digital. Los grados sobre cero se expresan con valores enteros positivos, mientras que el clima extremadamente frío bajo cero se registra con números negativos, facilitando el análisis meteorológico global y diario."
+  },
+  {
+    "intent_id": "error_enteros_decimales",
+    "keywords": [
+      "error",
+      "enteros",
+      "decimales",
+      "fracciones",
+      "confusion",
+      "conceptos"
+    ],
+    "base_response": "Un malentendido frecuente consiste en confundir los números enteros con aquellos que poseen partes decimales o fraccionarias. Los números enteros representan unidades completas sin subdivisiones, por lo que valores como un medio o tres punto cinco quedan totalmente excluidos de esta clasificación matemática."
+  },
+  {
+    "intent_id": "importancia_enteros_finanzas",
+    "keywords": [
+      "importancia",
+      "enteros",
+      "finanzas",
+      "banco",
+      "saldo",
+      "deuda"
+    ],
+    "base_response": "Los números enteros poseen un impacto social enorme en la gestión de cuentas bancarias y finanzas familiares. Un saldo positivo representa dinero disponible para gastar, mientras que un número entero negativo indica una deuda o sobregiro, permitiendo un control transparente de los recursos económicos."
+  },
+  {
+    "intent_id": "definicion_conjunto_numeros_racionales",
+    "keywords": [
+      "numeros",
+      "racionales",
+      "conjunto",
+      "fraccion",
+      "division",
+      "decimales"
+    ],
+    "base_response": "El conjunto de números racionales comprende todos los valores que pueden expresarse como el cociente de dos números enteros. Esto incluye las fracciones comunes y los números decimales finitos o periódicos, representados con la letra q, ideales para repartir porciones exactamente iguales de algo."
+  },
+  {
+    "intent_id": "aplicacion_racionales_cocina",
+    "keywords": [
+      "aplicacion",
+      "racionales",
+      "cocina",
+      "recetas",
+      "fraccion",
+      "ingredientes"
+    ],
+    "base_response": "En el arte culinario, los números racionales son esenciales al seguir recetas detalladas de repostería. Expresiones como media taza de harina o un cuarto de cucharada de sal demuestran cómo las fracciones permiten medir porciones precisas de ingredientes para obtener postres con excelente sabor."
+  },
+  {
+    "intent_id": "error_racionales_division_cero",
+    "keywords": [
+      "error",
+      "racionales",
+      "division",
+      "cero",
+      "indefinido",
+      "fraccion"
+    ],
+    "base_response": "Un error crítico al estudiar números racionales es intentar definir una fracción cuyo denominador sea cero. En matemáticas, la división entre cero no está definida, por lo tanto, cualquier expresión con denominador nulo es inválida y no constituye un número racional bajo ninguna circunstancia matemática."
+  },
+  {
+    "intent_id": "definicion_conjunto_numeros_irracionales",
+    "keywords": [
+      "numeros",
+      "irracionales",
+      "conjunto",
+      "decimales",
+      "infinitos",
+      "periodicos"
+    ],
+    "base_response": "Los números irracionales son aquellos valores reales que no se pueden expresar como una fracción de enteros. Poseen cifras decimales infinitas que no siguen ningún patrón periódico o repetitivo, siendo el número pi y las raíces no exactas los ejemplos más reconocidos de esta familia."
+  },
+  {
+    "intent_id": "historia_irracionales_pitagoras",
+    "keywords": [
+      "historia",
+      "irracionales",
+      "pitagoras",
+      "secreto",
+      "descubrimiento",
+      "geometria"
+    ],
+    "base_response": "La existencia de los números irracionales fue descubierta por la escuela pitagórica al calcular la diagonal de un cuadrado unitario. Este hallazgo causó gran conmoción y crisis filosófica en la antigua Grecia, pues rompía la creencia de que todo el universo se explicaba con números enteros."
+  },
+  {
+    "intent_id": "aplicacion_irracionales_arquitectura",
+    "keywords": [
+      "aplicacion",
+      "irracionales",
+      "arquitectura",
+      "construccion",
+      "proporcion",
+      "diseno"
+    ],
+    "base_response": "En arquitectura, el número irracional conocido como proporción áurea se aplica constantemente para diseñar estructuras visualmente armoniosas y estables. Edificios históricos y monumentos modernos utilizan esta relación matemática infinita para distribuir espacios de manera agradable y estéticamente equilibrada para los observadores."
+  },
+  {
+    "intent_id": "definicion_conjunto_numeros_reales",
+    "keywords": [
+      "numeros",
+      "reales",
+      "conjunto",
+      "recta",
+      "racionales",
+      "irracionales"
+    ],
+    "base_response": "El conjunto de números reales se forma mediante la unión completa de los números racionales e irracionales. Representado con la letra erre, este conjunto abarca todos los puntos posibles de la recta numérica, cubriendo cualquier medida física continua como la distancia, el tiempo o el peso."
+  },
+  {
+    "intent_id": "error_reales_raiz_negativa",
+    "keywords": [
+      "error",
+      "reales",
+      "raiz",
+      "negativa",
+      "imaginarios",
+      "limite"
+    ],
+    "base_response": "Un error común en estudiantes es creer que la raíz cuadrada de un número negativo pertenece a los números reales. Estas operaciones no tienen solución dentro del sistema real, requiriendo la creación de los números imaginarios para poder ser resueltas de manera lógica y consistente."
+  },
+  {
+    "intent_id": "importancia_reales_ciencia",
+    "keywords": [
+      "importancia",
+      "reales",
+      "ciencia",
+      "medicion",
+      "universo",
+      "fenomenos"
+    ],
+    "base_response": "Los números reales son fundamentales en la ciencia para medir fenómenos naturales de manera continua y exacta. Desde calcular la velocidad de la luz hasta registrar la masa de partículas microscópicas, este conjunto numérico proporciona el soporte matemático necesario para describir el universo físico que nos rodea."
+  },
+  {
+    "intent_id": "definicion_unidad_numeros_imaginarios",
+    "keywords": [
+      "unidad",
+      "imaginarios",
+      "numeros",
+      "raiz",
+      "negativo",
+      "algebra"
+    ],
+    "base_response": "La unidad de los números imaginarios se define como la raíz cuadrada de menos uno y se representa comúnmente con la letra i. Su introducción permite resolver ecuaciones algebraicas complejas que carecen de soluciones reales, expandiendo notablemente los horizontes de las matemáticas modernas."
+  },
+  {
+    "intent_id": "aplicacion_imaginarios_electronica",
+    "keywords": [
+      "aplicacion",
+      "imaginarios",
+      "electronica",
+      "corriente",
+      "circuitos",
+      "ondas"
+    ],
+    "base_response": "En la ingeniería eléctrica, los números imaginarios son vitales para analizar circuitos de corriente alterna y ondas electromagnéticas. Facilitan la representación matemática de la resistencia y el desfase de las ondas de energía, permitiendo el diseño eficiente de dispositivos tecnológicos que usamos a diario."
+  },
+  {
+    "intent_id": "mito_imaginarios_inexistentes",
+    "keywords": [
+      "mito",
+      "imaginarios",
+      "inexistentes",
+      "falsos",
+      "utilidad",
+      "nombre"
+    ],
+    "base_response": "Existe el mito de que los números imaginarios son inventos inútiles o inexistentes debido a su nombre peculiar. En realidad, son herramientas matemáticas sumamente rigurosas y prácticas, fundamentales para el desarrollo de la física cuántica, las telecomunicaciones y el procesamiento avanzado de señales de audio."
+  },
+  {
+    "intent_id": "formacion_subconjuntos_numericos",
+    "keywords": [
+      "formacion",
+      "subconjuntos",
+      "numericos",
+      "clasificacion",
+      "grupos",
+      "propiedades"
+    ],
+    "base_response": "La formación de subconjuntos numéricos consiste en agrupar números que comparten propiedades específicas dentro de un conjunto más grande. Por ejemplo, podemos agrupar únicamente los números pares a partir del conjunto de los naturales, facilitando el estudio enfocado de patrones aritméticos particulares."
+  },
+  {
+    "intent_id": "experimento_escolar_subconjuntos",
+    "keywords": [
+      "experimento",
+      "escolar",
+      "subconjuntos",
+      "frijoles",
+      "clasificar",
+      "juego"
+    ],
+    "base_response": "Un experimento escolar sencillo para entender subconjuntos consiste en clasificar semillas o frijoles según su color y tamaño. Al agrupar los frijoles negros dentro de la bolsa total de semillas, los estudiantes visualizan de forma práctica cómo se extrae y define un subconjunto numérico real."
+  },
+  {
+    "intent_id": "diagrama_venn_matematico",
+    "keywords": [
+      "diagrama",
+      "venn",
+      "conjuntos",
+      "grafico",
+      "circulos",
+      "interseccion"
+    ],
+    "base_response": "Un diagrama de Venn es una ilustración matemática que utiliza círculos superpuestos para mostrar las relaciones lógicas entre diferentes conjuntos de elementos. Permite visualizar con extrema claridad dónde se cruzan los grupos de datos y qué elementos comparten propiedades comunes o exclusivas."
+  },
+  {
+    "intent_id": "historia_diagrama_venn",
+    "keywords": [
+      "historia",
+      "diagrama",
+      "venn",
+      "logica",
+      "ingles",
+      "origen"
+    ],
+    "base_response": "Este método gráfico fue introducido por el lógico británico John Venn en el año mil ochocientos ochenta, revolucionando la enseñanza de la teoría de conjuntos. Su objetivo era simplificar la visualización de proposiciones lógicas complejas mediante figuras geométricas planas y accesibles para todos."
+  },
+  {
+    "intent_id": "union_conjuntos_numericos",
+    "keywords": [
+      "union",
+      "conjuntos",
+      "numericos",
+      "operacion",
+      "elementos",
+      "combinar"
+    ],
+    "base_response": "La unión de conjuntos numéricos es una operación que consiste en combinar todos los elementos de dos o más conjuntos en uno solo, sin repetir términos. El nuevo conjunto resultante representa la totalidad de los datos acumulados, simbolizándose con una letra u mayúscula entre ambos."
+  },
+  {
+    "intent_id": "aplicacion_union_listas",
+    "keywords": [
+      "aplicacion",
+      "union",
+      "listas",
+      "invitados",
+      "datos",
+      "organizacion"
+    ],
+    "base_response": "Un ejemplo práctico de unión de conjuntos es fusionar la lista de invitados de dos amigos para organizar una fiesta común. Al unirlas, se eliminan los nombres repetidos de personas conocidas por ambos, obteniendo un listado final único que optimiza la planificación de comida y espacio."
+  },
+  {
+    "intent_id": "interseccion_conjuntos_matematicos",
+    "keywords": [
+      "interseccion",
+      "conjuntos",
+      "matematicos",
+      "operacion",
+      "comunes",
+      "elementos"
+    ],
+    "base_response": "La intersección de conjuntos matemáticos es la operación que identifica y agrupa únicamente los elementos comunes que pertenecen simultáneamente a dos o más conjuntos distintos. Se representa con el símbolo de una u invertida y es fundamental para encontrar coincidencias exactas de datos."
+  },
+  {
+    "intent_id": "aplicacion_interseccion_gustos",
+    "keywords": [
+      "aplicacion",
+      "interseccion",
+      "gustos",
+      "recomendaciones",
+      "musica",
+      "algoritmo"
+    ],
+    "base_response": "En plataformas de música, la intersección de conjuntos se usa para recomendar canciones nuevas a los usuarios. El algoritmo busca las canciones comunes que le gustan a dos personas con preferencias similares, sugiriendo esos temas específicos para descubrir nuevos géneros artísticos exitosamente."
+  },
+  {
+    "intent_id": "complemento_de_un_conjunto",
+    "keywords": [
+      "complemento",
+      "conjunto",
+      "universo",
+      "elementos",
+      "excluidos",
+      "operacion"
+    ],
+    "base_response": "El complemento de un conjunto está formado por todos los elementos que pertenecen al conjunto universo pero que no forman parte del conjunto seleccionado. Representa todo aquello que quedó excluido del grupo original, permitiendo definir categorías opuestas o complementarias en análisis lógicos."
+  },
+  {
+    "intent_id": "aplicacion_complemento_alergias",
+    "keywords": [
+      "aplicacion",
+      "complemento",
+      "alergias",
+      "comida",
+      "salud",
+      "menu"
+    ],
+    "base_response": "El complemento es útil al planificar menús escolares seguros para estudiantes con alergias alimentarias. Si definimos el conjunto de alimentos que causan alergia, el complemento de este conjunto representará todos los ingredientes seguros que los niños pueden consumir sin poner en riesgo su salud."
+  },
+  {
+    "intent_id": "cardinalidad_conjuntos_finitos",
+    "keywords": [
+      "cardinalidad",
+      "conjuntos",
+      "finitos",
+      "contar",
+      "elementos",
+      "numero"
+    ],
+    "base_response": "La cardinalidad de un conjunto finito es el número entero que indica la cantidad exacta de elementos que lo integran. Por ejemplo, la cardinalidad del conjunto de las vocales en nuestro alfabeto español es exactamente cinco, indicando un límite bien definido y fácil de contabilizar."
+  },
+  {
+    "intent_id": "aplicacion_cardinalidad_censo",
+    "keywords": [
+      "aplicacion",
+      "cardinalidad",
+      "censo",
+      "poblacion",
+      "datos",
+      "gobierno"
+    ],
+    "base_response": "La cardinalidad se aplica en los censos de población nacionales para determinar el número exacto de habitantes en cada ciudad. Esta información numérica ayuda a los gobiernos a distribuir recursos públicos, construir escuelas y planificar hospitales según las necesidades de la comunidad censada."
+  },
+  {
+    "intent_id": "elementos_conjunto_vacio",
+    "keywords": [
+      "elementos",
+      "conjunto",
+      "vacio",
+      "cero",
+      "simbolo",
+      "nada"
+    ],
+    "base_response": "El conjunto vacío es un concepto matemático único que se caracteriza por no contener absolutamente ningún elemento en su interior. Se representa con el símbolo de un círculo atravesado por una línea diagonal, y su cardinalidad es exactamente igual a cero, simbolizando la nada matemática."
+  },
+  {
+    "intent_id": "error_vacio_cero",
+    "keywords": [
+      "error",
+      "vacio",
+      "cero",
+      "elemento",
+      "confusion",
+      "diferencia"
+    ],
+    "base_response": "Un error común es confundir el conjunto vacío con un conjunto que contiene únicamente al número cero. Un conjunto con el cero posee un elemento válido, mientras que el conjunto vacío carece por completo de miembros, siendo estructuralmente idéntico a una caja totalmente desocupada."
+  },
+  {
+    "intent_id": "notacion_pertenencia_matematica",
+    "keywords": [
+      "notacion",
+      "pertenencia",
+      "matematica",
+      "simbolo",
+      "elemento",
+      "conjunto"
+    ],
+    "base_response": "La notación de pertenencia es la representación matemática que indica si un elemento específico forma parte de un conjunto determinado. Se utiliza el símbolo similar a una letra e curva para afirmar la pertenencia, o tachado con una línea diagonal para indicar exclusión absoluta."
+  },
+  {
+    "intent_id": "ejemplo_pertenencia_letras",
+    "keywords": [
+      "ejemplo",
+      "pertenencia",
+      "vocales",
+      "alfabeto",
+      "logica",
+      "simbolos"
+    ],
+    "base_response": "Para ilustrar este concepto, podemos afirmar matemáticamente que la letra a pertenece al conjunto de las vocales usando el símbolo de pertenencia. Al contrario, la consonante zeta no pertenece a dicho grupo, representándose con el mismo símbolo tachado para mantener el rigor matemático."
+  },
+  {
+    "intent_id": "relacion_inclusion_conjuntista",
+    "keywords": [
+      "relacion",
+      "inclusion",
+      "conjuntista",
+      "subconjunto",
+      "contenido",
+      "simbolo"
+    ],
+    "base_response": "La relación de inclusión ocurre cuando todos los elementos de un conjunto menor están contenidos dentro de un conjunto mayor, convirtiendo al primero en subconjunto del segundo. Se representa con un símbolo similar a una herradura acostada que apunta hacia el conjunto contenedor."
+  },
+  {
+    "intent_id": "ejemplo_inclusion_paises",
+    "keywords": [
+      "ejemplo",
+      "inclusion",
+      "ciudades",
+      "paises",
+      "geografia",
+      "mapas"
+    ],
+    "base_response": "Geográficamente, podemos ver la inclusión de conjuntos al observar los mapas políticos mundiales. El conjunto de todas las ciudades de España está completamente incluido dentro del conjunto de ciudades europeas, cumpliendo una relación de inclusión perfecta donde cada elemento pertenece a ambos grupos territoriales."
+  },
+  {
+    "intent_id": "conjuntos_numericos_infinitos_basicos",
+    "keywords": [
+      "conjuntos",
+      "numericos",
+      "infinitos",
+      "naturales",
+      "enteros",
+      "limite"
+    ],
+    "base_response": "Los conjuntos numéricos infinitos básicos, como los naturales o los enteros, son agrupaciones matemáticas que contienen un número ilimitado de elementos. Por más que intentemos contar cada uno de sus miembros, siempre existirá un número siguiente, haciendo imposible terminar de enumerarlos completamente."
+  },
+  {
+    "intent_id": "historia_infinito_cantor",
+    "keywords": [
+      "historia",
+      "infinito",
+      "cantor",
+      "matematico",
+      "tamanos",
+      "teoria"
+    ],
+    "base_response": "El estudio formal de los conjuntos infinitos fue desarrollado por el brillante matemático alemán Georg Cantor a finales del siglo diecinueve. Cantor demostró de manera revolucionaria que existen diferentes tamaños de infinito, lo que transformó profundamente la filosofía y la ciencia matemática."
+  },
+  {
+    "intent_id": "representacion_recta_numerica",
+    "keywords": [
+      "representacion",
+      "recta",
+      "numerica",
+      "linea",
+      "orden",
+      "distancia"
+    ],
+    "base_response": "La recta numérica es un diagrama unidimensional donde cada punto corresponde de manera única a un número real ordenado. Funciona como una línea horizontal infinita con el cero en el centro, los números positivos a la derecha y los negativos ubicados a la izquierda."
+  },
+  {
+    "intent_id": "aplicacion_recta_gps",
+    "keywords": [
+      "aplicacion",
+      "recta",
+      "gps",
+      "coordenadas",
+      "mapas",
+      "ubicacion"
+    ],
+    "base_response": "En sistemas de navegación GPS modernos, la recta numérica es la base para calcular distancias lineales exactas entre dos coordenadas. Al proyectar caminos sobre ejes numéricos, los teléfonos inteligentes calculan el tiempo estimado de viaje y guían a los conductores eficientemente en carreteras."
+  },
+  {
+    "intent_id": "valor_absoluto_enteros",
+    "keywords": [
+      "valor",
+      "absoluto",
+      "enteros",
+      "distancia",
+      "positivo",
+      "cero"
+    ],
+    "base_response": "El valor absoluto de un número entero representa su distancia física respecto al cero en la recta numérica, sin importar la dirección o el signo. Dado que las distancias siempre son positivas, el valor absoluto de cualquier número negativo se convierte automáticamente en positivo."
+  },
+  {
+    "intent_id": "aplicacion_valor_absoluto_altitud",
+    "keywords": [
+      "aplicacion",
+      "valor",
+      "absoluto",
+      "altitud",
+      "profundidad",
+      "mar"
+    ],
+    "base_response": "El valor absoluto se aplica para calcular la distancia vertical de un objeto respecto al nivel del mar. Ya sea que un dron vuele a cincuenta metros de altura o un submarino navegue a menos cincuenta metros, ambos se distancian igual del punto cero."
+  },
+  {
+    "intent_id": "numeros_opuestos_o_simetricos",
+    "keywords": [
+      "numeros",
+      "opuestos",
+      "simetricos",
+      "signo",
+      "distancia",
+      "cero"
+    ],
+    "base_response": "Los números opuestos o simétricos son pares de números que se ubican a la misma distancia exacta del cero en la recta numérica, pero en direcciones totalmente opuestas. Al sumar dos números simétricos entre sí, el resultado obtenido siempre será igual a cero."
+  },
+  {
+    "intent_id": "experimento_opuestos_caminar",
+    "keywords": [
+      "experimento",
+      "opuestos",
+      "caminar",
+      "pasos",
+      "patio",
+      "escolar"
+    ],
+    "base_response": "Un experimento interactivo consiste en pedir a dos estudiantes que caminen desde un punto central del patio escolar. Si uno camina cinco pasos hacia adelante y el otro cinco pasos hacia atrás, visualizarán físicamente cómo se crean dos posiciones opuestas y simétricas."
+  },
+  {
+    "intent_id": "numeros_primos_y_compuestos",
+    "keywords": [
+      "numeros",
+      "primos",
+      "compuestos",
+      "divisores",
+      "multiplos",
+      "aritmetica"
+    ],
+    "base_response": "Los números primos son aquellos mayores que uno que solo pueden dividirse exactamente entre sí mismos y la unidad. En cambio, los números compuestos tienen más de dos divisores enteros, permitiendo ser descompuestos en multiplicaciones de factores primos más pequeños y simples."
+  },
+  {
+    "intent_id": "aplicacion_primos_criptografia",
+    "keywords": [
+      "aplicacion",
+      "primos",
+      "criptografia",
+      "seguridad",
+      "internet",
+      "contrasena"
+    ],
+    "base_response": "En el mundo digital, los números primos gigantescos son la base de la criptografía moderna que protege nuestras contraseñas de correo. Estos números hacen extremadamente difícil para computadoras no autorizadas descifrar transacciones bancarias, garantizando la seguridad de la información privada en internet."
+  },
+  {
+    "intent_id": "error_primos_uno",
+    "keywords": [
+      "error",
+      "primos",
+      "uno",
+      "unidad",
+      "clasificacion",
+      "matematica"
+    ],
+    "base_response": "Un error muy extendido en clases de matemáticas es clasificar al número uno dentro del grupo de los números primos. Por definición, un número primo requiere exactamente dos divisores distintos, y dado que el uno solo posee un divisor, queda excluido de esta clasificación."
+  },
+  {
+    "intent_id": "criterios_basicos_de_divisibilidad",
+    "keywords": [
+      "criterios",
+      "divisibilidad",
+      "reglas",
+      "division",
+      "entero",
+      "residuos"
+    ],
+    "base_response": "Los criterios de divisibilidad son reglas aritméticas sencillas que permiten determinar si un número es divisible entre otro sin realizar la división completa. Por ejemplo, un número es divisible entre dos si termina en cifra par, facilitando cálculos rápidos de reparto mental."
+  },
+  {
+    "intent_id": "aplicacion_divisibilidad_reparto",
+    "keywords": [
+      "aplicacion",
+      "divisibilidad",
+      "reparto",
+      "dulces",
+      "amigos",
+      "comunidad"
+    ],
+    "base_response": "Los criterios de divisibilidad se aplican diariamente cuando deseamos repartir dulces equitativamente entre un grupo de amigos. Al verificar si la cantidad total de golosinas cumple la regla del tres, sabremos de antemano si sobrarán dulces sin necesidad de repartirlos físicamente uno a uno."
+  },
+  {
+    "intent_id": "minimo_comun_multiplo_numerico",
+    "keywords": [
+      "minimo",
+      "multiplo",
+      "comun",
+      "coincidencia",
+      "numeros",
+      "tiempo"
+    ],
+    "base_response": "El mínimo común múltiplo es el número más pequeño que es múltiplo simultáneo de dos o más números dados. Es sumamente útil en aritmética para sincronizar eventos periódicos que ocurren a diferentes intervalos temporales, determinando cuándo volverán a suceder al mismo tiempo."
+  },
+  {
+    "intent_id": "aplicacion_mcm_pastillas",
+    "keywords": [
+      "aplicacion",
+      "mcm",
+      "pastillas",
+      "medicina",
+      "horarios",
+      "salud"
+    ],
+    "base_response": "En medicina, el mínimo común múltiplo ayuda a los pacientes a planificar la toma de medicamentos con diferentes horarios. Si una pastilla se toma cada seis horas y otra cada ocho, el cálculo matemático indica que coincidirán exactamente cada veinticuatro horas en el reloj."
+  },
+  {
+    "intent_id": "maximo_comun_divisor_matematico",
+    "keywords": [
+      "maximo",
+      "divisor",
+      "comun",
+      "division",
+      "repartir",
+      "maxima"
+    ],
+    "base_response": "El máximo común divisor es el número entero más grande capaz de dividir exactamente a dos o más números sin dejar residuo alguno. Se emplea habitualmente para agrupar o repartir objetos en partes iguales con el mayor tamaño posible sin desperdiciar nada."
+  },
+  {
+    "intent_id": "aplicacion_mcd_baldosas",
+    "keywords": [
+      "aplicacion",
+      "mcd",
+      "baldosas",
+      "piso",
+      "diseno",
+      "construccion"
+    ],
+    "base_response": "Al remodelar habitaciones, el máximo común divisor permite a los albañiles calcular las dimensiones máximas que deben tener las baldosas cuadradas para cubrir el piso. Esto garantiza rellenar toda la superficie de forma simétrica sin necesidad de cortar o desperdiciar piezas cerámicas."
+  },
+  {
+    "intent_id": "sistema_de_numeracion_decimal",
+    "keywords": [
+      "sistema",
+      "numeracion",
+      "decimal",
+      "base",
+      "digitos",
+      "posicional"
+    ],
+    "base_response": "El sistema de numeración decimal es un sistema posicional que utiliza diez dígitos básicos, del cero al nueve, para representar cualquier cantidad imaginable. Al agrupar unidades de diez en diez, cada posición hacia la izquierda multiplica su valor por diez, facilitando cálculos estructurados."
+  },
+  {
+    "intent_id": "historia_decimal_dedos",
+    "keywords": [
+      "historia",
+      "decimal",
+      "dedos",
+      "manos",
+      "origen",
+      "conteo"
+    ],
+    "base_response": "El origen del sistema decimal está estrechamente vinculado a la anatomía de las manos humanas, que poseen diez dedos en total. Civilizaciones primitivas adoptaron de forma natural esta base diez al contar con los dedos, heredando un sistema que actualmente rige las finanzas mundiales."
+  },
+  {
+    "intent_id": "sistema_de_numeracion_binario",
+    "keywords": [
+      "sistema",
+      "numeracion",
+      "binario",
+      "computadoras",
+      "codigo",
+      "digitos"
+    ],
+    "base_response": "El sistema de numeración binario es un sistema posicional de base dos que emplea exclusivamente los dígitos cero y uno para codificar información. Es el lenguaje nativo utilizado por computadoras y microchips para realizar operaciones lógicas procesando impulsos eléctricos de encendido y apagado."
+  },
+  {
+    "intent_id": "aplicacion_binario_tecnologia",
+    "keywords": [
+      "aplicacion",
+      "binario",
+      "tecnologia",
+      "computadoras",
+      "datos",
+      "digital"
+    ],
+    "base_response": "A nivel social, el sistema binario hace posible toda la tecnología digital moderna que consumimos cotidianamente. Desde reproducir videos en teléfonos hasta enviar mensajes de texto instantáneos, cada dato se traduce internamente en millones de ceros y unos que viajan por el ciberespacio."
+  },
+  {
+    "intent_id": "concepto_de_numeros_ordinales",
+    "keywords": [
+      "numeros",
+      "ordinales",
+      "concepto",
+      "orden",
+      "posicion",
+      "lista"
+    ],
+    "base_response": "Los números ordinales son aquellos que expresan la posición u orden que ocupa un elemento dentro de una secuencia organizada de objetos. Se representan con términos como primero, segundo o tercero, siendo indispensables para establecer clasificaciones justas en competencias y listas estructuradas."
+  },
+  {
+    "intent_id": "aplicacion_ordinales_carreras",
+    "keywords": [
+      "aplicacion",
+      "ordinales",
+      "carreras",
+      "competencia",
+      "podio",
+      "ganador"
+    ],
+    "base_response": "En los deportes olímpicos, los números ordinales se utilizan al premiar a los atletas que llegan a la meta final. El podio distingue claramente al primer lugar con medalla de oro, al segundo con plata y al tercero con bronce, ordenando sus méritos de forma clara."
+  },
+  {
+    "intent_id": "concepto_de_numeros_cardinales",
+    "keywords": [
+      "numeros",
+      "cardinales",
+      "concepto",
+      "cantidad",
+      "elementos",
+      "contar"
+    ],
+    "base_response": "Los números cardinales son los números que utilizamos exclusivamente para expresar la cantidad exacta de elementos que integran una colección determinada. A diferencia de los ordinales que indican posición, los cardinales responden directamente a la pregunta de cuántos objetos hay en total."
+  },
+  {
+    "intent_id": "ejemplo_cardinales_mascotas",
+    "keywords": [
+      "ejemplo",
+      "cardinales",
+      "mascotas",
+      "perros",
+      "conteo",
+      "animales"
+    ],
+    "base_response": "Si cuentas que en tu hogar tienes tres perros y dos gatos, estás utilizando números cardinales para describir tus mascotas. El valor numérico final expresa una cantidad estática de seres vivos, facilitando la descripción clara y precisa de conjuntos domésticos en la vida."
+  },
+  {
+    "intent_id": "diferencia_simetrica_de_conjuntos",
+    "keywords": [
+      "diferencia",
+      "simetrica",
+      "conjuntos",
+      "operacion",
+      "exclusivos",
+      "elementos"
+    ],
+    "base_response": "La diferencia simétrica es una operación entre conjuntos que da como resultado los elementos que pertenecen a cualquiera de los conjuntos originales, pero no a ambos simultáneamente. Excluye por completo la intersección, agrupando únicamente los miembros singulares y exclusivos de cada agrupación."
+  },
+  {
+    "intent_id": "aplicacion_diferencia_simetrica_idiomas",
+    "keywords": [
+      "aplicacion",
+      "diferencia",
+      "simetrica",
+      "idiomas",
+      "hablantes",
+      "comunicacion"
+    ],
+    "base_response": "Esta operación se aplica al agrupar estudiantes que hablan únicamente español o únicamente inglés, descartando a los alumnos bilingües. El conjunto resultante nos permite planificar clases de apoyo lingüístico enfocado en un solo idioma, maximizando la efectividad del aprendizaje educativo escolar."
+  },
+  {
+    "intent_id": "conjuntos_disjuntos_sin_elementos",
+    "keywords": [
+      "conjuntos",
+      "disjuntos",
+      "elementos",
+      "interseccion",
+      "vacio",
+      "coincidencia"
+    ],
+    "base_response": "Dos conjuntos son disjuntos cuando no comparten ningún elemento en común, lo que significa que su intersección es igual al conjunto vacío. Estos grupos de datos son totalmente independientes entre sí, no existiendo ninguna coincidencia numérica o conceptual entre sus respectivos miembros."
+  },
+  {
+    "intent_id": "ejemplo_disjuntos_par_impar",
+    "keywords": [
+      "ejemplo",
+      "disjuntos",
+      "numeros",
+      "pares",
+      "impares",
+      "matematica"
+    ],
+    "base_response": "Un ejemplo matemático clásico de conjuntos disjuntos es comparar el conjunto de números pares con el de números impares. Ningún número entero puede pertenecer simultáneamente a ambas categorías aritméticas, confirmando que se trata de colecciones totalmente separadas e independientes sin solapamiento."
+  },
+  {
+    "intent_id": "axiomas_basicos_de_peano",
+    "keywords": [
+      "axiomas",
+      "peano",
+      "naturales",
+      "aritmetica",
+      "reglas",
+      "matematico"
+    ],
+    "base_response": "Los axiomas de Peano son cinco proposiciones lógicas fundamentales postuladas por el matemático Giuseppe Peano para definir rigurosamente la estructura de los números naturales. Estas reglas establecen que el uno es un número natural y que cada número posee un único sucesor lógico."
+  },
+  {
+    "intent_id": "importancia_peano_computacion",
+    "keywords": [
+      "importancia",
+      "peano",
+      "computacion",
+      "logica",
+      "programacion",
+      "teoria"
+    ],
+    "base_response": "Los axiomas de Peano tienen una gran importancia en la programación de computadoras y la inteligencia artificial moderna. Proporcionan la base lógica para construir algoritmos de inducción matemática, permitiendo que el software verifique teoremas complejos de forma automática con absoluta precisión científica."
+  },
+  {
+    "intent_id": "propiedad_de_densidad_racional",
+    "keywords": [
+      "propiedad",
+      "densidad",
+      "racional",
+      "numeros",
+      "infinitos",
+      "fracciones"
+    ],
+    "base_response": "La propiedad de densidad establece que entre dos números racionales distintos siempre es posible encontrar otro número racional intermedio de forma infinita. Esto significa que no existen racionales consecutivos, pues al sumar ambos y dividir por dos obtenemos un nuevo punto intermedio."
+  },
+  {
+    "intent_id": "experimento_densidad_zoom",
+    "keywords": [
+      "experimento",
+      "densidad",
+      "zoom",
+      "recta",
+      "pizarra",
+      "divisiones"
+    ],
+    "base_response": "Un experimento visual consiste en dibujar dos números racionales lejanos en la pizarra y realizar acercamientos sucesivos. Los estudiantes observarán cómo al dividir repetidamente a la mitad el espacio libre, siempre aparecen nuevos números fraccionarios, ilustrando la densidad infinita del sistema racional."
+  },
+  {
+    "intent_id": "numeros_algebraicos_no_trascendentes",
+    "keywords": [
+      "numeros",
+      "algebraicos",
+      "ecuaciones",
+      "raices",
+      "polinomios",
+      "coeficientes"
+    ],
+    "base_response": "Los números algebraicos son aquellos valores reales que pueden surgir como soluciones de ecuaciones polinómicas con coeficientes enteros. Incluye a todos los números racionales y a raíces como la raíz cuadrada de dos, representando cantidades obtenibles mediante operaciones algebraicas básicas y finitas."
+  },
+  {
+    "intent_id": "historia_algebraicos_geometria",
+    "keywords": [
+      "historia",
+      "algebraicos",
+      "geometria",
+      "griegos",
+      "origen",
+      "raices"
+    ],
+    "base_response": "Históricamente, los números algebraicos no trascendentes capturaron la atención de matemáticos antiguos al intentar resolver la duplicación del cubo mediante regla y compás. El análisis de estas raíces impulsó el desarrollo del álgebra y la comprensión de los límites geométricos clásicos."
+  },
+  {
+    "intent_id": "numeros_trascendentes_como_pi",
+    "keywords": [
+      "numeros",
+      "trascendentes",
+      "pi",
+      "ecuaciones",
+      "circulo",
+      "infinito"
+    ],
+    "base_response": "Los números trascendentes son un tipo especial de números reales que no pueden ser soluciones de ninguna ecuación polinómica con coeficientes enteros. El número pi, fundamental para calcular la circunferencia de cualquier círculo, es el ejemplo más representativo de este fascinante grupo matemático."
+  },
+  {
+    "intent_id": "aplicacion_trascendentes_astronomia",
+    "keywords": [
+      "aplicacion",
+      "trascendentes",
+      "pi",
+      "astronomia",
+      "orbitas",
+      "planetas"
+    ],
+    "base_response": "En la astronomía espacial, el número trascendente pi se utiliza diariamente para trazar las órbitas elípticas de los planetas y satélites artificiales. Permite a las agencias espaciales calcular trayectorias de viaje exactas de naves científicas que exploran nuestro vasto sistema solar."
+  },
+  {
+    "intent_id": "notacion_por_comprension_matematica",
+    "keywords": [
+      "notacion",
+      "comprension",
+      "conjuntos",
+      "propiedad",
+      "simbolos",
+      "definir"
+    ],
+    "base_response": "La notación por comprensión es una forma abreviada de definir un conjunto especificando únicamente la propiedad o característica común que comparten todos sus elementos. Se emplean símbolos lógicos para describir las condiciones de pertenencia sin necesidad de enumerar individualmente cada componente."
+  },
+  {
+    "intent_id": "ejemplo_comprension_pares",
+    "keywords": [
+      "ejemplo",
+      "comprension",
+      "pares",
+      "conjunto",
+      "propiedad",
+      "simbolos"
+    ],
+    "base_response": "Para definir el conjunto de los números pares mediante comprensión, escribimos matemáticamente que el conjunto contiene a los elementos x tales que x es un número entero divisible por dos. Esta descripción lógica resume infinitos valores numéricos de manera extremadamente compacta."
+  },
+  {
+    "intent_id": "notacion_por_extension_conjuntista",
+    "keywords": [
+      "notacion",
+      "extension",
+      "conjuntos",
+      "elementos",
+      "lista",
+      "llaves"
+    ],
+    "base_response": "La notación por extensión consiste en definir un conjunto listando explícitamente y de manera individual cada uno de los elementos que lo integran, separados por comas y encerrados entre llaves. Es idónea para representar conjuntos que poseen una cantidad pequeña de miembros."
+  },
+  {
+    "intent_id": "error_extension_infinito",
+    "keywords": [
+      "error",
+      "extension",
+      "infinito",
+      "limite",
+      "lista",
+      "puntos"
+    ],
+    "base_response": "Un error común al emplear la notación por extensión es intentar listar elementos de conjuntos infinitos sin usar puntos suspensivos. Para evitar redactar una lista interminable e imposible, se deben colocar tres puntos finales que indican la continuación lógica del patrón establecido."
+  },
+  {
+    "intent_id": "clasificacion_de_los_numeros",
+    "keywords": [
+      "clasificacion",
+      "numeros",
+      "conjuntos",
+      "mapa",
+      "familias",
+      "matematica"
+    ],
+    "base_response": "La clasificación de los números organiza la diversidad de valores numéricos en distintas familias jerarquizadas según sus propiedades esenciales. Este mapa conceptual parte de los complejos, pasando por reales, racionales, enteros y naturales, permitiendo estudiar la aritmética con un orden lógico impecable."
+  },
+  {
+    "intent_id": "importancia_clasificacion_orden",
+    "keywords": [
+      "importancia",
+      "clasificacion",
+      "orden",
+      "estudio",
+      "ciencia",
+      "conceptos"
+    ],
+    "base_response": "Comprender la clasificación numérica es crucial en la educación científica de los estudiantes. Facilita la resolución de problemas avanzados al identificar qué operaciones son válidas para cada grupo, evitando errores conceptuales graves al transicionar entre la aritmética escolar y el álgebra abstracta."
+  },
+  {
+    "intent_id": "jerarquia_de_conjuntos_numericos",
+    "keywords": [
+      "jerarquia",
+      "conjuntos",
+      "numericos",
+      "inclusion",
+      "niveles",
+      "estructura"
+    ],
+    "base_response": "La jerarquía de conjuntos numéricos describe cómo los diferentes grupos de números se contienen unos dentro de otros de forma ordenada. Los naturales están incluidos en los enteros, estos en los racionales, los cuales a su vez forman parte de los números reales generales."
+  },
+  {
+    "intent_id": "experimento_jerarquia_cajas",
+    "keywords": [
+      "experimento",
+      "jerarquia",
+      "cajas",
+      "colores",
+      "munecas",
+      "escolar"
+    ],
+    "base_response": "Un experimento educativo magnífico utiliza cajas de diferentes tamaños etiquetadas con los símbolos de cada conjunto numérico. Al introducir la caja de los naturales dentro de la de los enteros, los estudiantes visualizan de manera lúdica la jerarquía y contención matemática real."
+  },
+  {
+    "intent_id": "numero_cero_como_neutro",
+    "keywords": [
+      "numero",
+      "cero",
+      "neutro",
+      "aditivo",
+      "operacion",
+      "suma"
+    ],
+    "base_response": "El número cero actúa como el elemento neutro aditivo dentro de los sistemas numéricos. Esto significa que cualquier número real sumado con cero conserva su valor original sin sufrir alteración alguna, comportándose como un espejo matemático que mantiene intactas las propiedades de la operación."
+  },
+  {
+    "intent_id": "historia_cero_mayas",
+    "keywords": [
+      "historia",
+      "cero",
+      "mayas",
+      "origen",
+      "india",
+      "vacio"
+    ],
+    "base_response": "El concepto de cero como número independiente y marcador de posición vacía fue desarrollado brillantemente por la civilización maya y matemáticos de la antigua India. Su invención facilitó enormemente los cálculos astronómicos y revolucionó el desarrollo de la aritmética posicional global."
+  },
+  {
+    "intent_id": "numeros_perfectos_y_amigos",
+    "keywords": [
+      "numeros",
+      "perfectos",
+      "amigos",
+      "divisores",
+      "suma",
+      "curiosidad"
+    ],
+    "base_response": "Los números perfectos son aquellos enteros que equivalen exactamente a la suma de sus divisores propios positivos, exceptuando al propio número. Por su parte, dos números son amigos si la suma de los divisores de uno equivale de forma recíproca al valor del otro."
+  },
+  {
+    "intent_id": "ejemplo_perfecto_seis",
+    "keywords": [
+      "ejemplo",
+      "perfecto",
+      "seis",
+      "divisores",
+      "suma",
+      "aritmetica"
+    ],
+    "base_response": "El número seis es el número perfecto más pequeño y conocido de la matemática. Si sumamos sus divisores propios, que son el uno, el dos y el tres, obtenemos exactamente el valor de seis, demostrando una simetría aritmética fascinante para los estudiantes."
+  },
+  {
+    "intent_id": "descomposicion_en_factores_primos",
+    "keywords": [
+      "descomposicion",
+      "factores",
+      "primos",
+      "multiplicacion",
+      "numeros",
+      "teorema"
+    ],
+    "base_response": "La descomposición en factores primos consiste en expresar cualquier número compuesto como el producto único de una serie de números primos multiplicados entre sí. Es una herramienta poderosa para simplificar fracciones complejas y para encontrar múltiplos comunes de manera estructurada y veloz."
+  },
+  {
+    "intent_id": "aplicacion_factores_seguridad",
+    "keywords": [
+      "aplicacion",
+      "factores",
+      "primos",
+      "criptografia",
+      "seguridad",
+      "claves"
+    ],
+    "base_response": "La descomposición de números gigantescos en factores primos es un proceso computacional sumamente lento, base de los sistemas de seguridad en transacciones en línea. Esto garantiza que hackers no descifren claves bancarias, protegiendo la privacidad financiera de millones de personas diariamente."
+  },
+  {
+    "intent_id": "operaciones_basicas_entre_conjuntos",
+    "keywords": [
+      "operaciones",
+      "conjuntos",
+      "union",
+      "interseccion",
+      "diferencia",
+      "logica"
+    ],
+    "base_response": "Las operaciones básicas entre conjuntos incluyen la unión, la intersección, la diferencia y el complemento. Estas herramientas matemáticas permiten manipular, combinar y analizar colecciones de datos bajo reglas lógicas estrictas, formando los cimientos lógicos que rigen la informática y bases de datos modernas."
+  },
+  {
+    "intent_id": "aplicacion_operaciones_filtros",
+    "keywords": [
+      "aplicacion",
+      "operaciones",
+      "filtros",
+      "compras",
+      "internet",
+      "busqueda"
+    ],
+    "base_response": "Al buscar productos en tiendas virtuales, las operaciones de conjuntos nos permiten filtrar por precio y marca simultáneamente. La página web realiza una intersección lógica de tus preferencias, mostrando en pantalla únicamente aquellos artículos que cumplen estrictamente con todas tus demandas."
+  },
+  {
+    "intent_id": "conjunto_universo_o_referencial",
+    "keywords": [
+      "conjunto",
+      "universo",
+      "referencial",
+      "elementos",
+      "contexto",
+      "simbolo"
+    ],
+    "base_response": "El conjunto universo o referencial es aquel que contiene a todos los elementos posibles bajo consideración para un estudio o análisis matemático particular. Sirve como marco de referencia absoluto para definir otros conjuntos más específicos y se representa comúnmente con la letra u."
+  },
+  {
+    "intent_id": "ejemplo_universo_colegio",
+    "keywords": [
+      "ejemplo",
+      "universo",
+      "colegio",
+      "estudiantes",
+      "subconjunto",
+      "clases"
+    ],
+    "base_response": "Si estudiamos las actividades deportivas en un colegio, el conjunto universo estará integrado por la totalidad de los estudiantes de la escuela. A partir de allí, podemos crear subconjuntos más pequeños de alumnos que practican deportes específicos como baloncesto o natación."
+  },
+  {
+    "intent_id": "subconjuntos_propios_e_impropios",
+    "keywords": [
+      "subconjuntos",
+      "propios",
+      "impropios",
+      "inclusion",
+      "elementos",
+      "conjunto"
+    ],
+    "base_response": "Un subconjunto propio es aquel que contiene solo algunos elementos del conjunto original, siendo necesariamente más pequeño que este. En contraste, un subconjunto impropio coincide exactamente con la totalidad del conjunto original o se define simplemente como el conjunto vacío en la teoría."
+  },
+  {
+    "intent_id": "error_impropio_igualdad",
+    "keywords": [
+      "error",
+      "impropio",
+      "igualdad",
+      "identidad",
+      "conceptos",
+      "diferencia"
+    ],
+    "base_response": "Un error conceptual común es pensar que un subconjunto siempre debe ser menor que el conjunto original. Al definir un subconjunto impropio, admitimos la igualdad absoluta de elementos entre ambos conjuntos, demostrando que la teoría matemática contempla la autocontención de forma rigurosa."
+  },
+  {
+    "intent_id": "cardinalidad_del_conjunto_potencia",
+    "keywords": [
+      "cardinalidad",
+      "conjunto",
+      "potencia",
+      "subconjuntos",
+      "formula",
+      "combinaciones"
+    ],
+    "base_response": "La cardinalidad del conjunto potencia indica la cantidad total de subconjuntos posibles que se pueden formar a partir de un conjunto base. Se calcula con la fórmula matemática de elevar el número dos al exponente de la cardinalidad del conjunto original estudiado."
+  },
+  {
+    "intent_id": "ejemplo_potencia_colores",
+    "keywords": [
+      "ejemplo",
+      "potencia",
+      "colores",
+      "combinaciones",
+      "matematica",
+      "diseno"
+    ],
+    "base_response": "Si tienes un conjunto de tres lápices de colores diferentes, la cardinalidad de su conjunto potencia es ocho. Esto significa que puedes realizar exactamente ocho combinaciones distintas de lápices para colorear tu dibujo, incluyendo la opción de no seleccionar ningún color."
+  },
+  {
+    "intent_id": "representacion_grafica_de_colecciones",
+    "keywords": [
+      "representacion",
+      "grafica",
+      "colecciones",
+      "dibujos",
+      "conjuntos",
+      "visualizar"
+    ],
+    "base_response": "La representación gráfica de colecciones consiste en utilizar diagramas visuales, dibujos u objetos concretos para agrupar y mostrar elementos que comparten características comunes. Esta técnica facilita enormemente a los alumnos jóvenes la comprensión de conceptos abstractos de pertenencia y exclusión conjuntista."
+  },
+  {
+    "intent_id": "experimento_grafico_frutas",
+    "keywords": [
+      "experimento",
+      "grafico",
+      "frutas",
+      "cartulinas",
+      "colores",
+      "aula"
+    ],
+    "base_response": "En el aula escolar, un experimento genial consiste en dibujar círculos gigantes de colores en cartulinas y colocar recortes de frutas dentro de ellos. Al agrupar manzanas rojas en un círculo y plátanos amarillos en otro, representamos gráficamente las colecciones de datos directamente."
+  }
+]
