@@ -1,0 +1,1531 @@
+[
+  {
+    "intent_id": "definicion_metal_elemento",
+    "keywords": [
+      "metal",
+      "elemento",
+      "quimica",
+      "propiedades",
+      "tabla"
+    ],
+    "base_response": "Un metal es un tipo de elemento químico que se encuentra en la tabla periódica. Se caracteriza por tener propiedades específicas como brillo, ser buen conductor de electricidad y calor, y ser maleable. Son fundamentales en nuestra vida diaria y tecnología."
+  },
+  {
+    "intent_id": "ubicacion_metales_tabla",
+    "keywords": [
+      "metales",
+      "tabla",
+      "periodica",
+      "izquierda",
+      "centro",
+      "elementos"
+    ],
+    "base_response": "Los metales ocupan la mayor parte de la tabla periódica. Los encontrarás principalmente en el lado izquierdo y en el centro. Una línea diagonal separa los metales de los no metales, ayudándonos a identificarlos fácilmente por su posición."
+  },
+  {
+    "intent_id": "conductividad_electrica_metales",
+    "keywords": [
+      "metales",
+      "electricidad",
+      "electrones",
+      "movimiento",
+      "conductores"
+    ],
+    "base_response": "Una propiedad clave de los metales es su excelente conductividad eléctrica. Esto significa que permiten que la electricidad fluya a través de ellos fácilmente. Sus electrones externos se mueven libremente, transportando la corriente de un punto a otro."
+  },
+  {
+    "intent_id": "conductividad_termica_metales",
+    "keywords": [
+      "metales",
+      "calor",
+      "energia",
+      "transferencia",
+      "temperatura"
+    ],
+    "base_response": "Los metales también son muy buenos conductores de calor. Si calientas un extremo de una barra metálica, el calor se propagará rápidamente por toda la barra. Esta capacidad es útil en utensilios de cocina y radiadores."
+  },
+  {
+    "intent_id": "maleabilidad_metales_forma",
+    "keywords": [
+      "metales",
+      "maleabilidad",
+      "forma",
+      "lamina",
+      "golpes",
+      "deformacion"
+    ],
+    "base_response": "La maleabilidad es la capacidad de los metales para ser golpeados o prensados y transformarse en láminas delgadas sin romperse. Piensa en el papel de aluminio o las carrocerías de los coches. Esta propiedad es muy valiosa en la industria."
+  },
+  {
+    "intent_id": "ductilidad_metales_hilos",
+    "keywords": [
+      "metales",
+      "ductilidad",
+      "hilos",
+      "alambres",
+      "estirar",
+      "resistencia"
+    ],
+    "base_response": "La ductilidad es otra propiedad física importante de los metales. Permite que los metales sean estirados y convertidos en hilos o alambres delgados sin romperse. El cobre, por ejemplo, es muy dúctil y se usa en cables eléctricos."
+  },
+  {
+    "intent_id": "brillo_metalico_superficie",
+    "keywords": [
+      "metales",
+      "brillo",
+      "lustroso",
+      "superficie",
+      "luz",
+      "reflejo"
+    ],
+    "base_response": "Los metales puros suelen tener un brillo característico, conocido como brillo metálico. Esto se debe a que sus electrones libres reflejan la luz de manera eficiente. Cuando los ves pulidos, su superficie es muy lustrosa y atractiva."
+  },
+  {
+    "intent_id": "densidad_alta_metales",
+    "keywords": [
+      "metales",
+      "densidad",
+      "masa",
+      "volumen",
+      "pesados",
+      "atomos"
+    ],
+    "base_response": "Generalmente, los metales tienen una alta densidad, lo que significa que una pequeña cantidad de metal tiene mucha masa. Por eso, la mayoría de los metales se sienten pesados para su tamaño. Sus átomos están muy juntos."
+  },
+  {
+    "intent_id": "punto_fusion_elevado_metales",
+    "keywords": [
+      "metales",
+      "fusion",
+      "temperatura",
+      "solido",
+      "liquido",
+      "energia"
+    ],
+    "base_response": "La mayoría de los metales tienen puntos de fusión elevados, lo que significa que necesitan mucha energía y altas temperaturas para pasar de estado sólido a líquido. Esto los hace útiles en aplicaciones que requieren resistencia al calor."
+  },
+  {
+    "intent_id": "enlace_metalico_estructura",
+    "keywords": [
+      "enlace",
+      "metalico",
+      "atomos",
+      "electrones",
+      "mar",
+      "deslocalizados"
+    ],
+    "base_response": "El enlace metálico es lo que mantiene unidos a los átomos en un metal. Imagina un \"mar de electrones\" que se mueven libremente entre los iones metálicos positivos. Esta estructura especial explica muchas de sus propiedades únicas."
+  },
+  {
+    "intent_id": "modelo_mar_electrones",
+    "keywords": [
+      "modelo",
+      "electrones",
+      "mar",
+      "atomos",
+      "cationes",
+      "movilidad"
+    ],
+    "base_response": "El modelo del mar de electrones explica cómo los metales conducen electricidad y calor. Los electrones de valencia no están unidos a un solo átomo, sino que se mueven libremente por toda la estructura, como un \"mar\" alrededor de los cationes metálicos."
+  },
+  {
+    "intent_id": "tendencia_perder_electrones",
+    "keywords": [
+      "metales",
+      "electrones",
+      "perder",
+      "cationes",
+      "reaccion",
+      "valencia"
+    ],
+    "base_response": "Una característica química importante de los metales es su tendencia a perder electrones de su capa más externa. Al perder electrones, se convierten en iones positivos, llamados cationes. Esta es la base de muchas de sus reacciones químicas."
+  },
+  {
+    "intent_id": "metales_alcalinos_grupo1",
+    "keywords": [
+      "metales",
+      "alcalinos",
+      "grupo1",
+      "reactivos",
+      "blandos",
+      "litio"
+    ],
+    "base_response": "Los metales alcalinos son los elementos del Grupo 1 de la tabla periódica, como el litio y el sodio. Son muy reactivos, blandos y tienen un solo electrón de valencia. Reaccionan vigorosamente con el agua, liberando hidrógeno."
+  },
+  {
+    "intent_id": "metales_alcalinoterreos_grupo2",
+    "keywords": [
+      "metales",
+      "alcalinoterreos",
+      "grupo2",
+      "reactivos",
+      "magnesio",
+      "calcio"
+    ],
+    "base_response": "Los metales alcalinotérreos se encuentran en el Grupo 2 de la tabla periódica, como el magnesio y el calcio. Son menos reactivos que los alcalinos, pero aún así reaccionan fácilmente. Tienen dos electrones de valencia y son más duros."
+  },
+  {
+    "intent_id": "metales_postransicion_propiedades",
+    "keywords": [
+      "metales",
+      "postransicion",
+      "aluminio",
+      "plomo",
+      "blandos",
+      "puntosfusion"
+    ],
+    "base_response": "Los metales de post-transición, como el aluminio y el plomo, se encuentran a la derecha de los metales de transición. Son más blandos y tienen puntos de fusión más bajos que los metales de transición. Muestran algunas propiedades metálicas y otras no."
+  },
+  {
+    "intent_id": "oxidacion_metales_reaccion",
+    "keywords": [
+      "oxidacion",
+      "metales",
+      "oxigeno",
+      "reaccion",
+      "corrosion",
+      "oxido"
+    ],
+    "base_response": "La oxidación es una reacción química común en la que un metal reacciona con el oxígeno, a menudo del aire. Esto forma un óxido metálico, como el óxido de hierro (herrumbre). Es un proceso que causa la corrosión y el deterioro de los metales."
+  },
+  {
+    "intent_id": "sustancias_puras_definicion",
+    "keywords": [
+      "sustancias",
+      "puras",
+      "composicion",
+      "fija",
+      "propiedades",
+      "constantes"
+    ],
+    "base_response": "Una sustancia pura es aquella que tiene una composición química definida y constante. Esto significa que sus propiedades son siempre las mismas, sin importar de dónde provenga. Los metales puros, como el oro o el cobre, son ejemplos de sustancias puras."
+  },
+  {
+    "intent_id": "metales_no_metales_comparacion",
+    "keywords": [
+      "metales",
+      "no metales",
+      "propiedades",
+      "diferencias",
+      "tabla",
+      "elementos"
+    ],
+    "base_response": "Los metales y los no metales son dos grandes grupos de elementos con propiedades muy diferentes. Los metales conducen electricidad y calor, son maleables y dúctiles. Los no metales, en cambio, suelen ser aislantes y frágiles."
+  },
+  {
+    "intent_id": "metaloides_propiedades_intermedias",
+    "keywords": [
+      "metaloides",
+      "propiedades",
+      "intermedias",
+      "semiconductores",
+      "boro",
+      "silicio"
+    ],
+    "base_response": "Los metaloides son elementos que se encuentran en la frontera entre metales y no metales en la tabla periódica. Tienen propiedades intermedias, como ser semiconductores. Ejemplos incluyen el boro y el silicio, importantes en la electrónica."
+  },
+  {
+    "intent_id": "serie_reactividad_metales",
+    "keywords": [
+      "reactividad",
+      "metales",
+      "reaccion",
+      "facilidad",
+      "perder",
+      "electrones"
+    ],
+    "base_response": "La serie de reactividad de los metales nos indica qué tan fácilmente un metal reacciona químicamente. Los metales más reactivos, como el sodio, pierden electrones con mayor facilidad que los menos reactivos, como el oro. Esto es clave en química."
+  },
+  {
+    "intent_id": "importancia_hierro_usos",
+    "keywords": [
+      "hierro",
+      "metal",
+      "construccion",
+      "acero",
+      "herramientas",
+      "industria"
+    ],
+    "base_response": "El hierro es uno de los metales más importantes y abundantes. Es fundamental en la construcción, formando la base del acero, y se usa en herramientas, maquinaria y vehículos. Su resistencia y bajo costo lo hacen indispensable en la industria."
+  },
+  {
+    "intent_id": "importancia_aluminio_ligereza",
+    "keywords": [
+      "aluminio",
+      "metal",
+      "ligereza",
+      "resistencia",
+      "corrosion",
+      "envases"
+    ],
+    "base_response": "El aluminio es un metal ligero y resistente a la corrosión, lo que lo hace muy útil. Lo encontramos en envases de bebidas, aviones, bicicletas y ventanas. Su baja densidad lo convierte en una opción excelente para reducir peso."
+  },
+  {
+    "intent_id": "aleaciones_mezcla_metales",
+    "keywords": [
+      "aleaciones",
+      "mezcla",
+      "metales",
+      "propiedades",
+      "mejoradas",
+      "acero"
+    ],
+    "base_response": "Una aleación es una mezcla de dos o más elementos, donde al menos uno es un metal. Se hacen para mejorar las propiedades del metal puro, como aumentar la dureza o la resistencia a la corrosión. El acero y el bronce son ejemplos comunes."
+  },
+  {
+    "intent_id": "definicion_no_metal_elemento",
+    "keywords": [
+      "elemento",
+      "no metal",
+      "propiedades",
+      "diferentes"
+    ],
+    "base_response": "Un no metal es un tipo de elemento químico que tiene propiedades muy diferentes a los metales. No conducen bien la electricidad ni el calor, y suelen ser frágiles. Son esenciales para la vida y forman muchos compuestos importantes."
+  },
+  {
+    "intent_id": "ubicacion_no_metales_tabla",
+    "keywords": [
+      "tabla periodica",
+      "no metales",
+      "derecha",
+      "arriba"
+    ],
+    "base_response": "En la tabla periódica, los no metales se encuentran principalmente en la parte superior derecha. Hay una línea diagonal que los separa de los metales, ayudándote a identificarlos rápidamente. El hidrógeno es una excepción, está a la izquierda."
+  },
+  {
+    "intent_id": "conductividad_no_metales_baja",
+    "keywords": [
+      "conductividad",
+      "electricidad",
+      "calor",
+      "aislantes",
+      "baja"
+    ],
+    "base_response": "Una característica clave de los no metales es su baja conductividad. Esto significa que no permiten que la electricidad o el calor pasen a través de ellos fácilmente. Por eso, muchos se usan como aislantes."
+  },
+  {
+    "intent_id": "estados_materia_no_metales",
+    "keywords": [
+      "estados",
+      "materia",
+      "solidos",
+      "liquidos",
+      "gases"
+    ],
+    "base_response": "Los no metales pueden encontrarse en los tres estados de la materia a temperatura ambiente. Algunos son gases como el oxígeno, otros son sólidos como el carbono y el azufre, y solo uno, el bromo, es líquido."
+  },
+  {
+    "intent_id": "halogenos_grupo_17",
+    "keywords": [
+      "halogenos",
+      "grupo 17",
+      "reactivos",
+      "sales",
+      "cloro",
+      "fluor"
+    ],
+    "base_response": "Los halógenos son un grupo de no metales muy reactivos, ubicados en el Grupo 17. Incluyen el flúor, cloro, bromo y yodo. Son conocidos por formar sales con metales y son muy útiles en la industria."
+  },
+  {
+    "intent_id": "hidrogeno_caso_especial",
+    "keywords": [
+      "hidrogeno",
+      "elemento",
+      "especial",
+      "no metal",
+      "unico",
+      "tabla"
+    ],
+    "base_response": "El hidrógeno es un no metal único y el elemento más abundante del universo. Aunque está en el Grupo 1, no es un metal alcalino. Sus propiedades lo hacen un caso especial en la tabla periódica, formando muchos compuestos."
+  },
+  {
+    "intent_id": "moleculas_diatomicas_no_metales",
+    "keywords": [
+      "moleculas",
+      "diatomicas",
+      "no metales",
+      "dos atomos",
+      "oxigeno",
+      "nitrogeno"
+    ],
+    "base_response": "Muchos no metales existen en la naturaleza como moléculas diatómicas, lo que significa que están formados por dos átomos del mismo elemento unidos. Ejemplos son el oxígeno (O2), nitrógeno (N2), flúor (F2) y cloro (Cl2)."
+  },
+  {
+    "intent_id": "afinidad_electronica_no_metales",
+    "keywords": [
+      "afinidad",
+      "electronica",
+      "atraer",
+      "electrones",
+      "energia",
+      "liberar"
+    ],
+    "base_response": "Los no metales suelen tener una alta afinidad electrónica. Esto significa que cuando un átomo de no metal gana un electrón, libera una cantidad significativa de energía. Es otra razón por la que les gusta ganar electrones."
+  },
+  {
+    "intent_id": "usos_cotidianos_no_metales",
+    "keywords": [
+      "usos",
+      "cotidianos",
+      "cloro",
+      "piscinas",
+      "nitrogeno",
+      "fertilizantes"
+    ],
+    "base_response": "Los no metales tienen muchos usos en nuestra vida diaria. El cloro se usa para desinfectar piscinas, el nitrógeno para fertilizantes y la conservación de alimentos, y el carbono es la base de los combustibles fósiles."
+  },
+  {
+    "intent_id": "no_metales_atmosfera",
+    "keywords": [
+      "atmosfera",
+      "aire",
+      "oxigeno",
+      "nitrogeno",
+      "gases",
+      "respirar"
+    ],
+    "base_response": "La atmósfera de la Tierra está compuesta principalmente por no metales en forma de gases. El nitrógeno (N2) es el más abundante, seguido por el oxígeno (O2), esencial para la respiración de los seres vivos."
+  },
+  {
+    "intent_id": "no_metales_aislantes_electricos",
+    "keywords": [
+      "aislantes",
+      "electricos",
+      "no metales",
+      "electrones",
+      "libres",
+      "movimiento"
+    ],
+    "base_response": "Los no metales son excelentes aislantes eléctricos. Esto se debe a que sus electrones están fuertemente unidos a los átomos y no se mueven libremente, impidiendo el flujo de corriente eléctrica. Son lo opuesto a los metales."
+  },
+  {
+    "intent_id": "azufre_propiedades_usos",
+    "keywords": [
+      "azufre",
+      "no metal",
+      "solido",
+      "amarillo",
+      "usos",
+      "vulcanizacion"
+    ],
+    "base_response": "El azufre es un no metal sólido de color amarillo que se encuentra en la naturaleza. Es importante en la industria para fabricar ácido sulfúrico, fertilizantes y en la vulcanización del caucho, haciéndolo más resistente."
+  },
+  {
+    "intent_id": "fosforo_importancia_biologica",
+    "keywords": [
+      "fosforo",
+      "no metal",
+      "biologico",
+      "adn",
+      "huesos",
+      "energia"
+    ],
+    "base_response": "El fósforo es un no metal crucial para la vida. Es un componente esencial del ADN, ARN y ATP (la molécula de energía de las células). También es fundamental para la formación de huesos y dientes en nuestro cuerpo."
+  },
+  {
+    "intent_id": "bromo_unico_liquido",
+    "keywords": [
+      "bromo",
+      "no metal",
+      "liquido",
+      "temperatura ambiente",
+      "rojizo"
+    ],
+    "base_response": "El bromo es el único no metal que es líquido a temperatura ambiente. Es un líquido volátil de color rojizo-marrón y tiene un olor fuerte. Se utiliza en la fabricación de retardantes de llama y productos farmacéuticos."
+  },
+  {
+    "intent_id": "yodo_solido_sublimacion",
+    "keywords": [
+      "yodo",
+      "no metal",
+      "solido",
+      "sublimacion",
+      "violeta",
+      "desinfectante"
+    ],
+    "base_response": "El yodo es un no metal sólido de color gris oscuro que tiene una propiedad interesante: la sublimación. Esto significa que pasa directamente de sólido a gas violeta sin pasar por el estado líquido. Se usa como desinfectante."
+  },
+  {
+    "intent_id": "propiedades_acidas_oxidos",
+    "keywords": [
+      "oxidos",
+      "no metales",
+      "acidos",
+      "lluvia acida",
+      "reaccion"
+    ],
+    "base_response": "Cuando los no metales reaccionan con oxígeno, forman óxidos que suelen ser ácidos. Estos óxidos, como el dióxido de carbono o el dióxido de azufre, pueden disolverse en agua y contribuir a fenómenos como la lluvia ácida."
+  },
+  {
+    "intent_id": "carbono_base_quimica_organica",
+    "keywords": [
+      "carbono",
+      "base",
+      "quimica",
+      "organica",
+      "enlaces",
+      "vida"
+    ],
+    "base_response": "El carbono es el no metal más importante en la química orgánica. Su capacidad para formar cuatro enlaces estables con otros átomos de carbono y con muchos otros elementos le permite construir las complejas moléculas que forman la vida."
+  },
+  {
+    "intent_id": "gases_nobles_definicion_general",
+    "keywords": [
+      "gases",
+      "nobles",
+      "elementos",
+      "grupo",
+      "dieciocho"
+    ],
+    "base_response": "Los gases nobles son un grupo especial de elementos en la tabla periódica. Se encuentran en el grupo 18, el último de la derecha. Son conocidos por ser muy estables y no reaccionar fácilmente con otros elementos."
+  },
+  {
+    "intent_id": "radon_gas_radiactivo",
+    "keywords": [
+      "radon",
+      "radiactivo",
+      "gas",
+      "natural",
+      "salud",
+      "peligro"
+    ],
+    "base_response": "El radón es un gas noble especial porque es radiactivo. Se forma naturalmente en el suelo y las rocas. Es importante ventilar las casas para evitar su acumulación, ya que puede ser perjudicial para la salud."
+  },
+  {
+    "intent_id": "oganesson_elemento_sintetico",
+    "keywords": [
+      "oganesson",
+      "sintetico",
+      "elemento",
+      "inestable",
+      "laboratorio"
+    ],
+    "base_response": "El oganesón es el gas noble más nuevo y pesado, creado en laboratorio. Es un elemento sintético y muy inestable, lo que significa que se desintegra rápidamente. No se encuentra de forma natural en la Tierra."
+  },
+  {
+    "intent_id": "color_olor_gases_nobles",
+    "keywords": [
+      "incoloro",
+      "inodoro",
+      "gases",
+      "nobles",
+      "propiedades"
+    ],
+    "base_response": "Los gases nobles son incoloros e inodoros, lo que significa que no tienen color ni olor. No los puedes ver ni oler directamente. Solo se hacen visibles cuando se les aplica energía, como en los letreros de neón."
+  },
+  {
+    "intent_id": "configuracion_electronica_estable",
+    "keywords": [
+      "configuracion",
+      "electronica",
+      "octeto",
+      "duetos",
+      "estabilidad"
+    ],
+    "base_response": "La configuración electrónica de los gases nobles es muy estable. Excepto el helio (que tiene dos), todos tienen ocho electrones en su capa más externa. Esto se conoce como la regla del octeto y explica su inercia."
+  },
+  {
+    "intent_id": "puntos_ebullicion_fusion_bajos",
+    "keywords": [
+      "punto",
+      "ebullicion",
+      "fusion",
+      "bajos",
+      "temperatura"
+    ],
+    "base_response": "Los gases nobles tienen puntos de ebullición y fusión extremadamente bajos. Esto significa que necesitan muy poca energía para pasar de sólido a líquido o de líquido a gas, por eso son gases a temperatura ambiente."
+  },
+  {
+    "intent_id": "densidad_relativa_aire",
+    "keywords": [
+      "densidad",
+      "aire",
+      "helio",
+      "argon",
+      "flotar",
+      "pesado"
+    ],
+    "base_response": "El helio es menos denso que el aire, por eso los globos de helio flotan. Sin embargo, otros gases nobles como el argón o el xenón son más densos que el aire y se hunden."
+  },
+  {
+    "intent_id": "origen_helio_sol_radiactividad",
+    "keywords": [
+      "helio",
+      "origen",
+      "sol",
+      "fusion",
+      "nuclear",
+      "radiactividad"
+    ],
+    "base_response": "Gran parte del helio en el universo se forma en el Sol mediante fusión nuclear. En la Tierra, el helio se produce por la desintegración radiactiva de elementos como el uranio y el torio en las rocas."
+  },
+  {
+    "intent_id": "brillo_neon_electricidad",
+    "keywords": [
+      "neon",
+      "brillo",
+      "electricidad",
+      "atomos",
+      "energia",
+      "luz"
+    ],
+    "base_response": "El brillo del neón en los letreros ocurre cuando la electricidad excita sus átomos. Los electrones saltan a niveles de energía más altos y, al regresar a su estado original, emiten luz de un color específico."
+  },
+  {
+    "intent_id": "xenon_gas_pesado",
+    "keywords": [
+      "xenon",
+      "pesado",
+      "densidad",
+      "atomos",
+      "grande"
+    ],
+    "base_response": "El xenón es un gas noble relativamente pesado. Sus átomos son grandes y tienen muchos electrones, lo que contribuye a su mayor densidad en comparación con otros gases nobles más ligeros como el helio o el neón."
+  },
+  {
+    "intent_id": "posicion_ultimo_grupo_tabla",
+    "keywords": [
+      "posicion",
+      "ultimo",
+      "grupo",
+      "tabla",
+      "periodica",
+      "estabilidad"
+    ],
+    "base_response": "Su posición como el último grupo de la tabla periódica, el Grupo 18, es muy significativa. Representan el final de cada período, donde los elementos han completado su capa de valencia, alcanzando la máxima estabilidad."
+  },
+  {
+    "intent_id": "helio_configuracion_dueto",
+    "keywords": [
+      "helio",
+      "electrones",
+      "duetos",
+      "configuracion",
+      "estable",
+      "unico"
+    ],
+    "base_response": "El helio es único entre los gases nobles porque solo tiene dos electrones en su capa más externa, no ocho. Aun así, esta configuración de \"dueto\" lo hace tan estable como los demás gases nobles con su octeto completo."
+  },
+  {
+    "intent_id": "grupos_columnas_verticales",
+    "keywords": [
+      "grupos",
+      "columnas",
+      "verticales",
+      "elementos",
+      "tabla"
+    ],
+    "base_response": "En la tabla periódica, los grupos son las columnas verticales. Agrupan elementos con propiedades químicas similares porque tienen la misma cantidad de electrones en su capa más externa. Esto es clave para entender su comportamiento."
+  },
+  {
+    "intent_id": "electrones_valencia_grupo",
+    "keywords": [
+      "electrones",
+      "valencia",
+      "grupo",
+      "numero",
+      "comportamiento"
+    ],
+    "base_response": "El número de grupo principal (del 1 al 18) te indica cuántos electrones de valencia tienen los elementos de ese grupo. Estos son los electrones más externos y determinan cómo un átomo se une a otros."
+  },
+  {
+    "intent_id": "gases_nobles_estabilidad_quimica",
+    "keywords": [
+      "gases",
+      "nobles",
+      "grupo",
+      "estables",
+      "reaccionan"
+    ],
+    "base_response": "Los gases nobles, del Grupo 18, son los elementos más estables. Tienen su capa de valencia completa, lo que significa que no necesitan ganar ni perder electrones. Por eso, casi nunca reaccionan con otros elementos."
+  },
+  {
+    "intent_id": "metales_transicion_variedad",
+    "keywords": [
+      "metales",
+      "transicion",
+      "grupos",
+      "propiedades",
+      "colores"
+    ],
+    "base_response": "Los metales de transición se encuentran en los grupos del 3 al 12. Son conocidos por su gran variedad de propiedades y por formar compuestos con colores muy vivos. El hierro y el cobre son ejemplos comunes."
+  },
+  {
+    "intent_id": "grupos_principales_representativos",
+    "keywords": [
+      "grupos",
+      "principales",
+      "representativos",
+      "propiedades",
+      "predecibles"
+    ],
+    "base_response": "Los grupos principales, o elementos representativos, son los Grupos 1, 2 y del 13 al 18. Sus propiedades son más predecibles y su número de electrones de valencia es fácil de determinar por el número de grupo."
+  },
+  {
+    "intent_id": "bloques_spdf_grupos",
+    "keywords": [
+      "bloques",
+      "spdf",
+      "grupos",
+      "electrones",
+      "orbitales"
+    ],
+    "base_response": "La tabla periódica se divide en bloques s, p, d y f, que se relacionan con los grupos. Los elementos de un mismo bloque tienen sus electrones de valencia en el mismo tipo de orbital, lo que influye en sus propiedades."
+  },
+  {
+    "intent_id": "reactividad_alcalinos_aumenta",
+    "keywords": [
+      "reactividad",
+      "alcalinos",
+      "aumenta",
+      "grupo",
+      "abajo"
+    ],
+    "base_response": "Dentro del grupo de los metales alcalinos (Grupo 1), la reactividad aumenta a medida que bajas en la columna. Esto se debe a que los electrones de valencia están más lejos del núcleo y son más fáciles de perder."
+  },
+  {
+    "intent_id": "hidrogeno_posicion_especial",
+    "keywords": [
+      "hidrogeno",
+      "posicion",
+      "grupo",
+      "propiedades",
+      "unico"
+    ],
+    "base_response": "El hidrógeno está en el Grupo 1, pero no es un metal alcalino. Es un no metal con propiedades muy únicas. A veces se comporta como si quisiera perder un electrón y otras veces como si quisiera ganar uno."
+  },
+  {
+    "intent_id": "grupo16_ganan_electrones",
+    "keywords": [
+      "grupo",
+      "oxigeno",
+      "azufre",
+      "ganar",
+      "electrones"
+    ],
+    "base_response": "Los elementos del Grupo 16, como el oxígeno y el azufre, tienen seis electrones de valencia. Tienden a ganar dos electrones para completar su capa externa y formar iones con carga -2, siendo muy reactivos."
+  },
+  {
+    "intent_id": "caracter_metalico_grupo",
+    "keywords": [
+      "caracter",
+      "metalico",
+      "grupo",
+      "aumenta",
+      "abajo"
+    ],
+    "base_response": "El carácter metálico de los elementos aumenta a medida que bajas en un grupo. Esto significa que los elementos en la parte inferior de una columna son más metálicos, es decir, tienden a perder electrones con más facilidad."
+  },
+  {
+    "intent_id": "radio_atomico_grupo",
+    "keywords": [
+      "radio",
+      "atomico",
+      "grupo",
+      "aumenta",
+      "abajo"
+    ],
+    "base_response": "El radio atómico, que es el tamaño del átomo, aumenta a medida que bajas en un grupo. Esto se debe a que cada nuevo período añade una capa electrónica adicional, haciendo que el átomo sea más grande."
+  },
+  {
+    "intent_id": "electronegatividad_grupo",
+    "keywords": [
+      "electronegatividad",
+      "grupo",
+      "disminuye",
+      "abajo",
+      "electron"
+    ],
+    "base_response": "La electronegatividad, que es la capacidad de un átomo para atraer electrones en un enlace, disminuye a medida que bajas en un grupo. Los electrones de valencia están más lejos del núcleo y son menos atraídos."
+  },
+  {
+    "intent_id": "energia_ionizacion_grupo",
+    "keywords": [
+      "energia",
+      "ionizacion",
+      "grupo",
+      "disminuye",
+      "electron"
+    ],
+    "base_response": "La energía de ionización, que es la energía necesaria para quitar un electrón a un átomo, disminuye a medida que bajas en un grupo. Los electrones externos están menos unidos y son más fáciles de arrancar."
+  },
+  {
+    "intent_id": "periodo_fila_horizontal_definicion",
+    "keywords": [
+      "periodo",
+      "fila",
+      "horizontal",
+      "tabla",
+      "quimica"
+    ],
+    "base_response": "Un período es cada una de las filas horizontales en la tabla periódica. Los elementos en el mismo período tienen el mismo número de capas electrónicas principales, aunque sus propiedades químicas son diferentes. Es una forma clave de organizar los elementos."
+  },
+  {
+    "intent_id": "numero_atomico_aumento_periodo",
+    "keywords": [
+      "numero",
+      "atomico",
+      "aumento",
+      "periodo",
+      "elementos"
+    ],
+    "base_response": "Al moverte de izquierda a derecha en un período, el número atómico de los elementos siempre aumenta en una unidad. Esto significa que cada elemento tiene un protón más que el anterior, cambiando sus propiedades."
+  },
+  {
+    "intent_id": "propiedad_metalica_tendencia_periodo",
+    "keywords": [
+      "propiedad",
+      "metalica",
+      "tendencia",
+      "periodo",
+      "disminuye"
+    ],
+    "base_response": "La propiedad metálica de los elementos disminuye a medida que avanzas de izquierda a derecha en un período. Los elementos de la izquierda son metales, mientras que los de la derecha tienden a ser no metales. Es una regla general."
+  },
+  {
+    "intent_id": "propiedad_no_metalica_tendencia_periodo",
+    "keywords": [
+      "propiedad",
+      "no_metalica",
+      "tendencia",
+      "periodo",
+      "aumenta"
+    ],
+    "base_response": "La propiedad no metálica de los elementos aumenta a medida que te mueves de izquierda a derecha en un período. Los elementos de la derecha, como los halógenos, son típicamente no metales. Esto es opuesto a la metálica."
+  },
+  {
+    "intent_id": "radio_atomico_variacion_periodo",
+    "keywords": [
+      "radio",
+      "atomico",
+      "variacion",
+      "periodo",
+      "disminuye"
+    ],
+    "base_response": "El radio atómico generalmente disminuye a medida que avanzas de izquierda a derecha en un período. Esto ocurre porque el número de protones aumenta, atrayendo más fuertemente los electrones hacia el núcleo, encogiendo el átomo."
+  },
+  {
+    "intent_id": "electronegatividad_aumento_periodo",
+    "keywords": [
+      "electronegatividad",
+      "aumento",
+      "periodo",
+      "elementos",
+      "electron"
+    ],
+    "base_response": "La electronegatividad, que es la capacidad de un átomo para atraer electrones en un enlace, aumenta de izquierda a derecha en un período. Esto se debe a la mayor carga nuclear y menor radio atómico."
+  },
+  {
+    "intent_id": "energia_ionizacion_aumento_periodo",
+    "keywords": [
+      "energia",
+      "ionizacion",
+      "aumento",
+      "periodo",
+      "electron"
+    ],
+    "base_response": "La energía de ionización, que es la energía necesaria para quitar un electrón a un átomo, generalmente aumenta de izquierda a derecha en un período. Los átomos de la derecha retienen sus electrones con más fuerza."
+  },
+  {
+    "intent_id": "elementos_periodo_uno",
+    "keywords": [
+      "elementos",
+      "periodo",
+      "uno",
+      "hidrogeno",
+      "helio"
+    ],
+    "base_response": "El período 1 es el más corto de todos, conteniendo solo dos elementos: el hidrógeno (H) y el helio (He). Sus átomos tienen solo una capa electrónica ocupada, la más cercana al núcleo. Son únicos."
+  },
+  {
+    "intent_id": "elementos_periodo_dos",
+    "keywords": [
+      "elementos",
+      "periodo",
+      "dos",
+      "litio",
+      "neon"
+    ],
+    "base_response": "El período 2 contiene ocho elementos, desde el litio (Li) hasta el neón (Ne). Todos estos elementos tienen dos capas electrónicas principales ocupadas, llenando la segunda capa con sus electrones de valencia. Sus propiedades varían."
+  },
+  {
+    "intent_id": "elementos_periodo_tres",
+    "keywords": [
+      "elementos",
+      "periodo",
+      "tres",
+      "sodio",
+      "argon"
+    ],
+    "base_response": "El período 3 también tiene ocho elementos, comenzando con el sodio (Na) y terminando con el argón (Ar). Los átomos de estos elementos tienen tres capas electrónicas principales ocupadas, siendo la tercera la capa de valencia."
+  },
+  {
+    "intent_id": "metales_transicion_periodos_centrales",
+    "keywords": [
+      "metales",
+      "transicion",
+      "periodos",
+      "centrales",
+      "propiedades"
+    ],
+    "base_response": "Los metales de transición se encuentran en los períodos 4, 5, 6 y 7, ocupando la parte central de la tabla. Estos elementos llenan subniveles d y tienen propiedades químicas variadas e interesantes. Son muy importantes industrialmente."
+  },
+  {
+    "intent_id": "carga_nuclear_efectiva_periodo",
+    "keywords": [
+      "carga",
+      "nuclear",
+      "efectiva",
+      "periodo",
+      "aumento"
+    ],
+    "base_response": "La carga nuclear efectiva aumenta de izquierda a derecha en un período. Aunque los electrones de valencia están en la misma capa, el aumento de protones en el núcleo los atrae con más fuerza, afectando el tamaño."
+  },
+  {
+    "intent_id": "blindaje_electronico_periodo_constante",
+    "keywords": [
+      "blindaje",
+      "electronico",
+      "periodo",
+      "constante",
+      "capas"
+    ],
+    "base_response": "El efecto de blindaje o apantallamiento de los electrones internos sobre los de valencia permanece relativamente constante a lo largo de un período. Esto se debe a que el número de capas electrónicas internas no cambia."
+  },
+  {
+    "intent_id": "elementos_representativos_periodos",
+    "keywords": [
+      "elementos",
+      "representativos",
+      "periodos",
+      "grupos",
+      "extremos"
+    ],
+    "base_response": "Los elementos representativos se encuentran en los extremos de cada período, en los grupos 1, 2 y del 13 al 18. Sus propiedades son más predecibles y sus electrones de valencia llenan subniveles s o p."
+  },
+  {
+    "intent_id": "configuracion_electronica_periodo_nivel",
+    "keywords": [
+      "configuracion",
+      "electronica",
+      "periodo",
+      "nivel",
+      "energia"
+    ],
+    "base_response": "El número del período de un elemento corresponde al nivel de energía principal (n) de sus electrones de valencia. Por ejemplo, en el período 3, los electrones de valencia están en el nivel n=3. Esto es clave."
+  },
+  {
+    "intent_id": "metales_metaloides_no_metales_periodo",
+    "keywords": [
+      "metales",
+      "metaloides",
+      "no_metales",
+      "periodo",
+      "transicion"
+    ],
+    "base_response": "En cada período, los elementos pasan de ser metales a la izquierda, a metaloides en el centro (en diagonal), y finalmente a no metales a la derecha. Esta transición muestra la diversidad de propiedades químicas."
+  },
+  {
+    "intent_id": "reactividad_elementos_periodo",
+    "keywords": [
+      "reactividad",
+      "elementos",
+      "periodo",
+      "cambio",
+      "extremos"
+    ],
+    "base_response": "La reactividad química varía a lo largo de un período. Los metales más reactivos están a la izquierda (grupos 1 y 2), y los no metales más reactivos están a la derecha (grupo 17). Los gases nobles son inertes."
+  },
+  {
+    "intent_id": "puntos_fusion_ebullicion_periodo",
+    "keywords": [
+      "puntos",
+      "fusion",
+      "ebullicion",
+      "periodo",
+      "tendencia"
+    ],
+    "base_response": "Los puntos de fusión y ebullición no siguen una tendencia simple en un período. Generalmente aumentan hasta el centro (metales de transición) y luego disminuyen hacia los no metales y gases nobles. Es una variación compleja."
+  },
+  {
+    "intent_id": "densidad_elementos_periodo",
+    "keywords": [
+      "densidad",
+      "elementos",
+      "periodo",
+      "variacion",
+      "masa"
+    ],
+    "base_response": "La densidad de los elementos en un período tiende a aumentar desde los extremos hacia el centro, alcanzando un máximo en los metales de transición. Esto se debe a la combinación de masa atómica y tamaño."
+  },
+  {
+    "intent_id": "importancia_organizacion_periodos",
+    "keywords": [
+      "importancia",
+      "organizacion",
+      "periodos",
+      "propiedades",
+      "predecir"
+    ],
+    "base_response": "Los períodos son fundamentales para organizar la tabla periódica y entender las tendencias de las propiedades de los elementos. Nos permiten predecir cómo se comportarán los átomos basándonos en su posición. Es una herramienta poderosa."
+  },
+  {
+    "intent_id": "niveles_subniveles_energia_periodo",
+    "keywords": [
+      "niveles",
+      "subniveles",
+      "energia",
+      "periodo",
+      "llenado"
+    ],
+    "base_response": "A lo largo de un período, los electrones van llenando los subniveles de energía (s, p, d, f) dentro de la misma capa electrónica principal. Este orden de llenado determina la longitud de cada período. Es un patrón."
+  },
+  {
+    "intent_id": "numero_atomico_definicion_protones",
+    "keywords": [
+      "numero",
+      "atomico",
+      "protones",
+      "nucleo",
+      "elemento"
+    ],
+    "base_response": "El número atómico, representado por la letra Z, es la cantidad exacta de protones que tiene el núcleo de un átomo. Este número es fundamental porque define qué elemento químico es. Cada elemento tiene su propio número atómico único."
+  },
+  {
+    "intent_id": "simbolo_z_numero_atomico",
+    "keywords": [
+      "simbolo",
+      "z",
+      "numero",
+      "atomico",
+      "representacion",
+      "quimica"
+    ],
+    "base_response": "Cuando ves la letra Z en química, se refiere al número atómico. Es una forma rápida y universal de indicar cuántos protones tiene un átomo en su núcleo, lo cual es clave para entender su comportamiento."
+  },
+  {
+    "intent_id": "isotopos_numero_atomico_igual",
+    "keywords": [
+      "isotopos",
+      "numero",
+      "atomico",
+      "protones",
+      "neutrones",
+      "variacion"
+    ],
+    "base_response": "Los isótopos son átomos del mismo elemento, lo que significa que tienen el mismo número atómico (igual cantidad de protones). Su diferencia radica en el número de neutrones, lo que cambia su masa, no su identidad."
+  },
+  {
+    "intent_id": "iones_numero_atomico_constante",
+    "keywords": [
+      "iones",
+      "numero",
+      "atomico",
+      "electrones",
+      "carga",
+      "cambio"
+    ],
+    "base_response": "Cuando un átomo se convierte en un ion, gana o pierde electrones, pero su número atómico (cantidad de protones) permanece constante. Por eso, sigue siendo el mismo elemento, solo que con una carga eléctrica diferente."
+  },
+  {
+    "intent_id": "corazon_atomo_numero_atomico",
+    "keywords": [
+      "corazon",
+      "atomo",
+      "numero",
+      "atomico",
+      "nucleo",
+      "esencia"
+    ],
+    "base_response": "Piensa en el número atómico como el \"corazón\" o la esencia de un átomo. Es lo que realmente lo define y lo distingue de todos los demás. Sin él, no sabríamos qué elemento estamos observando."
+  },
+  {
+    "intent_id": "transmutacion_cambio_z",
+    "keywords": [
+      "transmutacion",
+      "cambio",
+      "numero",
+      "atomico",
+      "elemento",
+      "nuclear"
+    ],
+    "base_response": "La transmutación es el proceso de cambiar un elemento a otro. Esto solo ocurre si el número atómico, es decir, la cantidad de protones en el núcleo, se modifica. Es un cambio nuclear, no químico."
+  },
+  {
+    "intent_id": "electrones_valencia_numero_atomico",
+    "keywords": [
+      "electrones",
+      "valencia",
+      "numero",
+      "atomico",
+      "configuracion",
+      "reactividad"
+    ],
+    "base_response": "Aunque el número atómico cuenta protones, en un átomo neutro también indica el total de electrones. Esto es clave, ya que la configuración de los electrones de valencia, que determina la reactividad, depende de este total."
+  },
+  {
+    "intent_id": "leer_numero_atomico_tabla",
+    "keywords": [
+      "leer",
+      "numero",
+      "atomico",
+      "tabla",
+      "periodica",
+      "encontrar"
+    ],
+    "base_response": "Para encontrar el número atómico de un elemento, busca su símbolo en la tabla periódica. El número entero que suele estar arriba del símbolo o en una esquina es el número atómico. ¡Es muy fácil de identificar!"
+  },
+  {
+    "intent_id": "cambiar_protones_consecuencia",
+    "keywords": [
+      "cambiar",
+      "protones",
+      "consecuencia",
+      "elemento",
+      "transformacion",
+      "nuclear"
+    ],
+    "base_response": "Si pudieras cambiar el número de protones en el núcleo de un átomo, ya no tendrías el mismo elemento. Por ejemplo, si quitas un protón al oxígeno (Z=8), se convertiría en nitrógeno (Z=7)."
+  },
+  {
+    "intent_id": "fundamento_tabla_moderna_z",
+    "keywords": [
+      "fundamento",
+      "tabla",
+      "moderna",
+      "numero",
+      "atomico",
+      "organizacion"
+    ],
+    "base_response": "El número atómico es el fundamento sobre el que se construyó la tabla periódica moderna. Gracias a él, los elementos se organizan de manera lógica, revelando patrones y tendencias en sus propiedades químicas y físicas."
+  },
+  {
+    "intent_id": "diferencia_peso_atomico_z",
+    "keywords": [
+      "diferencia",
+      "peso",
+      "atomico",
+      "numero",
+      "atomico",
+      "masa"
+    ],
+    "base_response": "El peso atómico es un promedio de las masas de los isótopos de un elemento, por eso suele tener decimales. El número atómico, en cambio, es siempre un número entero que solo cuenta los protones."
+  },
+  {
+    "intent_id": "relacion_periodo_numero_atomico",
+    "keywords": [
+      "relacion",
+      "periodo",
+      "numero",
+      "atomico",
+      "niveles",
+      "energia"
+    ],
+    "base_response": "A medida que el número atómico aumenta, también lo hace el número de electrones en un átomo neutro. Esto influye en cuántos niveles de energía se llenan, lo que a su vez determina el período en la tabla periódica."
+  },
+  {
+    "intent_id": "conteo_protones_numero_atomico",
+    "keywords": [
+      "conteo",
+      "protones",
+      "numero",
+      "atomico",
+      "nucleo",
+      "particulas"
+    ],
+    "base_response": "El número atómico es simplemente un conteo de los protones que residen en el núcleo de un átomo. Es una medida fundamental que nos dice la cantidad de carga positiva que posee el núcleo de ese elemento."
+  },
+  {
+    "intent_id": "adn_elemento_numero_atomico",
+    "keywords": [
+      "adn",
+      "elemento",
+      "numero",
+      "atomico",
+      "identidad",
+      "genetica"
+    ],
+    "base_response": "Podríamos decir que el número atómico es como el \"ADN\" de un elemento. Es la información genética que lo hace ser quien es, dictando sus características y cómo interactuará con otros elementos en el universo."
+  },
+  {
+    "intent_id": "mendeleyev_logro_principal",
+    "keywords": [
+      "mendeleyev",
+      "tabla",
+      "periodica",
+      "organizar",
+      "elementos"
+    ],
+    "base_response": "Dmitri Mendeléyev fue un químico ruso que creó la primera versión de la tabla periódica. Su gran logro fue organizar los elementos conocidos de manera lógica, revelando patrones en sus propiedades. Esto cambió la química para siempre."
+  },
+  {
+    "intent_id": "correccion_masas_atomicas",
+    "keywords": [
+      "masa",
+      "atomica",
+      "corregir",
+      "berilio",
+      "indio"
+    ],
+    "base_response": "Mendeléyev no solo organizó, sino que también corrigió las masas atómicas de algunos elementos ya conocidos, como el berilio y el indio. Se dio cuenta de que sus propiedades no encajaban con las masas aceptadas."
+  },
+  {
+    "intent_id": "periodos_tabla_mendeleyev",
+    "keywords": [
+      "periodos",
+      "filas",
+      "propiedades",
+      "cambiar",
+      "gradualmente"
+    ],
+    "base_response": "Las filas horizontales en la tabla de Mendeléyev se llamaban períodos. A medida que avanzabas en un período, las propiedades de los elementos cambiaban de forma gradual y predecible, hasta que se repetían en el siguiente."
+  },
+  {
+    "intent_id": "valencia_tabla_mendeleyev",
+    "keywords": [
+      "valencia",
+      "enlaces",
+      "atomos",
+      "mendeleyev",
+      "grupos"
+    ],
+    "base_response": "Mendeléyev también consideró la valencia de los elementos, es decir, su capacidad para formar enlaces con otros átomos. Esto le ayudó a agruparlos correctamente, ya que elementos en el mismo grupo suelen tener valencias similares."
+  },
+  {
+    "intent_id": "bloques_periodicos_organizacion",
+    "keywords": [
+      "bloques",
+      "tabla",
+      "periodica",
+      "organizacion",
+      "electrones"
+    ],
+    "base_response": "La tabla periódica se divide en bloques s, p, d y f. Esta división ayuda a entender cómo se organizan los electrones en los átomos de cada elemento. Cada bloque agrupa elementos con características electrónicas similares, facilitando el estudio de sus propiedades químicas."
+  },
+  {
+    "intent_id": "bloque_electron_valencia",
+    "keywords": [
+      "bloque",
+      "electron",
+      "valencia",
+      "ultimo",
+      "orbital"
+    ],
+    "base_response": "El bloque al que pertenece un elemento está determinado por el tipo de orbital donde se encuentra su último electrón de valencia. Si el último electrón entra en un orbital 's', el elemento es del bloque 's'. Esto es clave para su comportamiento químico."
+  },
+  {
+    "intent_id": "bloque_s_definicion",
+    "keywords": [
+      "bloque_s",
+      "orbital_s",
+      "electrones",
+      "valencia",
+      "grupo"
+    ],
+    "base_response": "El bloque 's' incluye los elementos cuyos electrones más externos ocupan orbitales 's'. Estos elementos son los metales alcalinos y alcalinotérreos, ubicados en los grupos 1 y 2 de la tabla periódica. Son muy reactivos debido a estos electrones."
+  },
+  {
+    "intent_id": "elementos_bloque_s",
+    "keywords": [
+      "elementos",
+      "bloque_s",
+      "alcalinos",
+      "alcalinoterreos",
+      "hidrogeno",
+      "helio"
+    ],
+    "base_response": "Los elementos del bloque 's' son el hidrógeno, el helio y todos los metales alcalinos y alcalinotérreos. Estos son los grupos 1 y 2. Comparten la característica de tener sus electrones de valencia en el subnivel 's', lo que les da propiedades similares."
+  },
+  {
+    "intent_id": "bloque_p_definicion",
+    "keywords": [
+      "bloque_p",
+      "orbital_p",
+      "electrones",
+      "valencia",
+      "grupos"
+    ],
+    "base_response": "El bloque 'p' agrupa los elementos cuyo último electrón de valencia se encuentra en un orbital 'p'. Estos elementos están en los grupos 13 al 18 de la tabla periódica. Incluye metales, metaloides y no metales, mostrando una gran diversidad de propiedades."
+  },
+  {
+    "intent_id": "elementos_bloque_p",
+    "keywords": [
+      "elementos",
+      "bloque_p",
+      "no_metales",
+      "metaloides",
+      "metales",
+      "grupos"
+    ],
+    "base_response": "Los elementos del bloque 'p' son muy variados. Aquí encontramos no metales, como el oxígeno y el nitrógeno; metaloides, como el silicio; y algunos metales, como el aluminio. Ocupan los grupos 13 a 18, excepto el helio."
+  },
+  {
+    "intent_id": "bloque_d_definicion",
+    "keywords": [
+      "bloque_d",
+      "orbital_d",
+      "electrones",
+      "transicion",
+      "metales"
+    ],
+    "base_response": "El bloque 'd' contiene los metales de transición. Su último electrón de valencia ocupa un orbital 'd'. Estos elementos se encuentran en los grupos 3 al 12 de la tabla periódica. Son conocidos por su capacidad de formar iones con múltiples estados de oxidación."
+  },
+  {
+    "intent_id": "elementos_bloque_d",
+    "keywords": [
+      "elementos",
+      "bloque_d",
+      "transicion",
+      "metales",
+      "grupos",
+      "propiedades"
+    ],
+    "base_response": "Los elementos del bloque 'd' son todos metales de transición. Ejemplos son el hierro, cobre, oro y plata. Se ubican en el centro de la tabla, desde el grupo 3 hasta el 12. Son importantes en la industria por sus propiedades únicas y su resistencia."
+  },
+  {
+    "intent_id": "bloque_f_definicion",
+    "keywords": [
+      "bloque_f",
+      "orbital_f",
+      "electrones",
+      "lantanidos",
+      "actinidos"
+    ],
+    "base_response": "El bloque 'f' incluye los lantánidos y actínidos, que son elementos con electrones de valencia en orbitales 'f'. Se suelen representar en dos filas separadas en la parte inferior de la tabla. Son metales pesados y muchos son radiactivos, como el uranio."
+  },
+  {
+    "intent_id": "elementos_bloque_f",
+    "keywords": [
+      "elementos",
+      "bloque_f",
+      "lantanidos",
+      "actinidos",
+      "metales",
+      "radiactivos"
+    ],
+    "base_response": "Los elementos del bloque 'f' son los lantánidos y actínidos. Los lantánidos son las \"tierras raras\", y los actínidos incluyen elementos como el uranio y el plutonio. Se caracterizan por tener propiedades químicas muy similares entre sí, lo que dificulta su separación."
+  },
+  {
+    "intent_id": "ubicacion_bloque_s",
+    "keywords": [
+      "ubicacion",
+      "bloque_s",
+      "tabla",
+      "periodica",
+      "izquierda",
+      "grupos"
+    ],
+    "base_response": "El bloque 's' se encuentra en el extremo izquierdo de la tabla periódica. Incluye los dos primeros grupos verticales, el grupo 1 y el grupo 2. Estos elementos son los más reactivos entre los metales, perdiendo fácilmente sus electrones de valencia."
+  },
+  {
+    "intent_id": "ubicacion_bloque_p",
+    "keywords": [
+      "ubicacion",
+      "bloque_p",
+      "tabla",
+      "periodica",
+      "derecha",
+      "grupos"
+    ],
+    "base_response": "El bloque 'p' está situado en el lado derecho de la tabla periódica. Abarca los grupos 13 al 18. Es el bloque más diverso en cuanto a propiedades, ya que contiene metales, metaloides y no metales, incluyendo los gases nobles."
+  },
+  {
+    "intent_id": "ubicacion_bloque_d",
+    "keywords": [
+      "ubicacion",
+      "bloque_d",
+      "tabla",
+      "periodica",
+      "centro",
+      "transicion"
+    ],
+    "base_response": "El bloque 'd' ocupa la parte central de la tabla periódica. Se extiende desde el grupo 3 hasta el grupo 12. Aquí se encuentran todos los metales de transición, conocidos por su dureza, altos puntos de fusión y su capacidad para formar compuestos coloreados."
+  },
+  {
+    "intent_id": "electrones_orbital_s",
+    "keywords": [
+      "electrones",
+      "orbital_s",
+      "bloque_s",
+      "capacidad",
+      "dos"
+    ],
+    "base_response": "Un orbital 's' puede contener un máximo de dos electrones. Por eso, el bloque 's' tiene dos columnas en la tabla periódica. Cada columna representa un electrón de valencia diferente en ese orbital 's', llenándose de izquierda a derecha."
+  },
+  {
+    "intent_id": "electrones_orbital_p",
+    "keywords": [
+      "electrones",
+      "orbital_p",
+      "bloque_p",
+      "capacidad",
+      "seis"
+    ],
+    "base_response": "Un orbital 'p' puede contener un máximo de seis electrones. Por esta razón, el bloque 'p' abarca seis columnas en la tabla periódica. Cada columna representa un electrón adicional que se va añadiendo al subnivel 'p' de los átomos."
+  },
+  {
+    "intent_id": "electrones_orbital_d",
+    "keywords": [
+      "electrones",
+      "orbital_d",
+      "bloque_d",
+      "capacidad",
+      "diez"
+    ],
+    "base_response": "Un orbital 'd' tiene capacidad para un máximo de diez electrones. Esto explica por qué el bloque 'd' tiene diez columnas en la tabla periódica. Estos electrones son los responsables de las propiedades metálicas y de transición de los elementos."
+  },
+  {
+    "intent_id": "electrones_orbital_f",
+    "keywords": [
+      "electrones",
+      "orbital_f",
+      "bloque_f",
+      "capacidad",
+      "catorce"
+    ],
+    "base_response": "Un orbital 'f' puede albergar un máximo de catorce electrones. Por eso, el bloque 'f' se compone de catorce columnas, aunque se muestren en dos filas de siete. Estos electrones internos son los que dan las propiedades especiales a lantánidos y actínidos."
+  },
+  {
+    "intent_id": "bloques_configuracion_electronica",
+    "keywords": [
+      "bloques",
+      "configuracion",
+      "electronica",
+      "orbitales",
+      "energia"
+    ],
+    "base_response": "Los bloques de la tabla periódica están directamente relacionados con la configuración electrónica de los átomos. El bloque indica el último tipo de orbital (s, p, d o f) que se está llenando con electrones. Esto es fundamental para entender su reactividad química."
+  },
+  {
+    "intent_id": "propiedades_bloque_s",
+    "keywords": [
+      "propiedades",
+      "bloque_s",
+      "metales",
+      "reactividad",
+      "blandos",
+      "bajos"
+    ],
+    "base_response": "Los elementos del bloque 's' son metales muy reactivos, blandos y con bajos puntos de fusión y ebullición. Tienden a perder sus electrones de valencia fácilmente para formar iones positivos. Reaccionan vigorosamente con el agua, especialmente los alcalinos."
+  },
+  {
+    "intent_id": "propiedades_bloque_p",
+    "keywords": [
+      "propiedades",
+      "bloque_p",
+      "diversidad",
+      "no_metales",
+      "metaloides",
+      "gases"
+    ],
+    "base_response": "Las propiedades de los elementos del bloque 'p' son muy diversas. Incluyen no metales que son malos conductores, metaloides con propiedades intermedias y algunos metales. También están los gases nobles, que son muy estables y poco reactivos."
+  },
+  {
+    "intent_id": "propiedades_bloque_d",
+    "keywords": [
+      "propiedades",
+      "bloque_d",
+      "metales",
+      "transicion",
+      "color",
+      "magnetismo"
+    ],
+    "base_response": "Los metales del bloque 'd' son duros, tienen altos puntos de fusión y ebullición, y son buenos conductores de electricidad y calor. Muchos forman compuestos coloreados y son paramagnéticos. Son muy importantes en la industria y como catalizadores."
+  },
+  {
+    "intent_id": "propiedades_bloque_f",
+    "keywords": [
+      "propiedades",
+      "bloque_f",
+      "lantanidos",
+      "actinidos",
+      "radiactividad",
+      "metales"
+    ],
+    "base_response": "Los elementos del bloque 'f' son metales pesados. Los lantánidos son químicamente muy similares entre sí. Los actínidos son casi todos radiactivos y muchos son sintéticos. Sus propiedades son únicas debido al llenado de orbitales 'f' internos."
+  },
+  {
+    "intent_id": "bloques_periodos_relacion",
+    "keywords": [
+      "bloques",
+      "periodos",
+      "relacion",
+      "nivel",
+      "energia",
+      "principal"
+    ],
+    "base_response": "Los bloques se relacionan con los períodos de la tabla. El número del período indica el nivel de energía principal (n) que se está llenando con electrones. Por ejemplo, en el período 3, se llenan los orbitales 3s y 3p, y luego los 3d en el bloque d."
+  },
+  {
+    "intent_id": "bloques_grupos_relacion",
+    "keywords": [
+      "bloques",
+      "grupos",
+      "relacion",
+      "electrones",
+      "valencia",
+      "propiedades"
+    ],
+    "base_response": "Los bloques también se relacionan con los grupos. Los elementos dentro de un mismo bloque y grupo comparten similitudes en sus propiedades químicas porque tienen la misma configuración de electrones de valencia. Esto es clave para predecir su comportamiento."
+  },
+  {
+    "intent_id": "importancia_bloques_estudio",
+    "keywords": [
+      "importancia",
+      "bloques",
+      "estudio",
+      "quimica",
+      "propiedades",
+      "predecir"
+    ],
+    "base_response": "La clasificación en bloques es muy importante porque simplifica el estudio de la química. Al saber a qué bloque pertenece un elemento, puedes predecir muchas de sus propiedades y cómo reaccionará con otros elementos. Es una herramienta muy útil."
+  },
+  {
+    "intent_id": "bloque_s_reactividad",
+    "keywords": [
+      "bloque_s",
+      "reactividad",
+      "electrones",
+      "perder",
+      "metales",
+      "alcalinos"
+    ],
+    "base_response": "Los elementos del bloque 's' son los más reactivos entre los metales. Esto se debe a que tienen solo uno o dos electrones de valencia que pueden perder fácilmente para alcanzar una configuración electrónica estable. Por eso, reaccionan con mucha energía."
+  },
+  {
+    "intent_id": "bloque_p_no_metales",
+    "keywords": [
+      "bloque_p",
+      "no_metales",
+      "ganar",
+      "electrones",
+      "halogenos",
+      "oxigeno"
+    ],
+    "base_response": "El bloque 'p' es donde encontramos la mayoría de los no metales. Estos elementos tienden a ganar electrones para completar su capa de valencia, como los halógenos, o a compartirlos. Sus propiedades son muy diferentes a las de los metales del bloque 's' o 'd'."
+  },
+  {
+    "intent_id": "bloque_d_estados_oxidacion",
+    "keywords": [
+      "bloque_d",
+      "estados",
+      "oxidacion",
+      "variables",
+      "transicion",
+      "iones"
+    ],
+    "base_response": "Una característica distintiva de los elementos del bloque 'd' es que pueden tener múltiples estados de oxidación. Esto significa que pueden perder un número diferente de electrones en distintas reacciones, formando iones con cargas variadas. Por ejemplo, el hierro puede ser Fe²⁺ o Fe³⁺."
+  },
+  {
+    "intent_id": "bloque_f_transicion_interna",
+    "keywords": [
+      "bloque_f",
+      "transicion",
+      "interna",
+      "lantanidos",
+      "actinidos",
+      "orbitales"
+    ],
+    "base_response": "Los elementos del bloque 'f' se conocen como metales de transición interna. Esto es porque sus electrones se están llenando en orbitales 'f' que están más adentro del átomo, no en la capa más externa. Esto les da propiedades químicas muy particulares y similares entre ellos."
+  }
+]
