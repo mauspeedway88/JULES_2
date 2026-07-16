@@ -1,0 +1,4398 @@
+[
+  {
+    "intent_id": "naturales_definicion",
+    "keywords": [
+      "numeros",
+      "naturales",
+      "conjunto",
+      "contar",
+      "elementos"
+    ],
+    "base_response": "El conjunto de los números naturales está formado por todos los números que usamos en la vida diaria para contar objetos. Este conjunto inicia desde el uno o el cero y se extiende de manera infinita hacia valores siempre mayores."
+  },
+  {
+    "intent_id": "naturales_simbolo",
+    "keywords": [
+      "simbolo",
+      "naturales",
+      "representacion",
+      "letra",
+      "matematica"
+    ],
+    "base_response": "La representación del conjunto de los números naturales se realiza de forma universal con la letra mayúscula ene con doble línea. Este símbolo ayuda a identificar rápidamente que estamos trabajando únicamente con valores enteros positivos y sin decimales."
+  },
+  {
+    "intent_id": "naturales_ejemplo_conteo",
+    "keywords": [
+      "ejemplo",
+      "conteo",
+      "manzanas",
+      "objetos",
+      "naturales"
+    ],
+    "base_response": "Cuando cuentas las manzanas que guardas en una canasta, utilizas de manera directa el conjunto de los números naturales. Empezando por el uno, vas asignando un número entero a cada fruta hasta conocer la cantidad exacta de elementos."
+  },
+  {
+    "intent_id": "naturales_infinito",
+    "keywords": [
+      "infinito",
+      "naturales",
+      "limite",
+      "numeros",
+      "conteo"
+    ],
+    "base_response": "Los números naturales son infinitos porque no existe un número que sea el más grande de todos los que se pueden contar. Si piensas en un número natural sumamente enorme, siempre podrás sumarle uno más para obtener el siguiente."
+  },
+  {
+    "intent_id": "naturales_operaciones",
+    "keywords": [
+      "operaciones",
+      "suma",
+      "multiplicacion",
+      "naturales",
+      "resultado"
+    ],
+    "base_response": "En el conjunto de los números naturales, operaciones como la suma y la multiplicación siempre nos dan como resultado otro número natural. Sin embargo, la resta y la división no siempre cumplen esta regla si el resultado es negativo."
+  },
+  {
+    "intent_id": "naturales_sucesor",
+    "keywords": [
+      "sucesor",
+      "siguiente",
+      "naturales",
+      "sumar",
+      "numero"
+    ],
+    "base_response": "Cada número natural tiene un sucesor único que se obtiene de manera muy sencilla sumando una unidad al valor actual. Por ejemplo, el sucesor del número cinco es el seis, cumpliendo la estructura ordenada de este conjunto."
+  },
+  {
+    "intent_id": "naturales_antecesor",
+    "keywords": [
+      "antecesor",
+      "anterior",
+      "naturales",
+      "restar",
+      "numero"
+    ],
+    "base_response": "El antecesor de un número natural es el valor que se encuentra inmediatamente antes de él y se obtiene restando uno. En este conjunto, el número uno no tiene antecesor si consideramos que el conjunto inicia estrictamente ahí."
+  },
+  {
+    "intent_id": "naturales_cero_debate",
+    "keywords": [
+      "cero",
+      "naturales",
+      "inicio",
+      "conjunto",
+      "matematicos"
+    ],
+    "base_response": "Existe un debate constante entre los matemáticos sobre si el cero debe incluirse dentro del conjunto de los números naturales. Algunos prefieren iniciar el conjunto en el uno para contar, mientras otros incluyen al cero como elemento inicial."
+  },
+  {
+    "intent_id": "naturales_orden",
+    "keywords": [
+      "orden",
+      "naturales",
+      "comparar",
+      "mayor",
+      "menor"
+    ],
+    "base_response": "Los números naturales tienen un orden estricto que nos permite comparar cualquier pareja de valores utilizando los símbolos mayor y menor. Esto significa que siempre podemos determinar cuál de los dos números representa una cantidad de elementos más grande."
+  },
+  {
+    "intent_id": "naturales_no_decimales",
+    "keywords": [
+      "decimales",
+      "enteros",
+      "naturales",
+      "fracciones",
+      "valores"
+    ],
+    "base_response": "Es fundamental recordar que los números naturales no incluyen fracciones ni números decimales en su composición bajo ninguna circunstancia. Este conjunto trabaja exclusivamente con cantidades completas y enteras que representan objetos enteros que no se pueden dividir."
+  },
+  {
+    "intent_id": "naturales_aplicacion_colegio",
+    "keywords": [
+      "colegio",
+      "estudiantes",
+      "naturales",
+      "lista",
+      "conteo"
+    ],
+    "base_response": "En el colegio, el profesor utiliza los números naturales para saber cuántos estudiantes asistieron a clase cada mañana de la semana. La lista escolar se ordena numéricamente para llevar un control exacto y sin errores de asistencia."
+  },
+  {
+    "intent_id": "naturales_representacion_llaves",
+    "keywords": [
+      "llaves",
+      "representacion",
+      "naturales",
+      "notacion",
+      "elementos"
+    ],
+    "base_response": "Para escribir el conjunto de los números naturales usando llaves, colocamos los primeros elementos separados por comas y luego puntos suspensivos. Esta notación matemática indica claramente que la lista de elementos continúa de forma infinita hacia adelante."
+  },
+  {
+    "intent_id": "naturales_origen_historico",
+    "keywords": [
+      "origen",
+      "historia",
+      "contar",
+      "humanidad",
+      "naturales"
+    ],
+    "base_response": "Los números naturales nacieron por la necesidad de las primeras civilizaciones humanas de contar sus animales y pertenencias agrícolas. Fue el primer sistema numérico inventado por la humanidad y sigue siendo el más intuitivo y utilizado hoy."
+  },
+  {
+    "intent_id": "enteros_definicion",
+    "keywords": [
+      "enteros",
+      "negativos",
+      "positivos",
+      "cero",
+      "conjunto"
+    ],
+    "base_response": "El conjunto de los números enteros abarca los números naturales, sus respectivos opuestos negativos y también incluye al número cero. Este conjunto nos permite representar situaciones cotidianas donde existen valores por debajo de una referencia inicial establecida."
+  },
+  {
+    "intent_id": "enteros_simbolo",
+    "keywords": [
+      "simbolo",
+      "letra",
+      "enteros",
+      "matematica",
+      "conjunto"
+    ],
+    "base_response": "El conjunto de los números enteros se representa con la letra mayúscula zeta con una doble línea en su diagonal. Este símbolo proviene de la palabra alemana que significa número y se utiliza en todas las matemáticas."
+  },
+  {
+    "intent_id": "enteros_negativos_concepto",
+    "keywords": [
+      "negativos",
+      "enteros",
+      "cero",
+      "menores",
+      "valores"
+    ],
+    "base_response": "Los números enteros negativos son aquellos valores menores que el cero que se ubican a la izquierda de la recta numérica. Se escriben siempre con un signo de resta antes del número para indicar su naturaleza opuesta."
+  },
+  {
+    "intent_id": "enteros_temperatura_ejemplo",
+    "keywords": [
+      "temperatura",
+      "frio",
+      "cero",
+      "enteros",
+      "negativos"
+    ],
+    "base_response": "Una aplicación muy común de los números enteros es la medición de la temperatura ambiental cuando el clima es extremadamente frío. Decir que estamos a cinco grados bajo cero se expresa matemáticamente como un número entero negativo."
+  },
+  {
+    "intent_id": "enteros_ascensor_ejemplo",
+    "keywords": [
+      "ascensor",
+      "sotano",
+      "pisos",
+      "enteros",
+      "negativos"
+    ],
+    "base_response": "En el edificio del colegio, el ascensor utiliza los números enteros para marcar los diferentes niveles y plantas de la estructura. Los pisos superiores se representan con valores positivos, mientras que los sótanos usan números negativos. Esta representación es útil para modelar situaciones de pérdidas cotidianas."
+  },
+  {
+    "intent_id": "enteros_operaciones_resta",
+    "keywords": [
+      "resta",
+      "operaciones",
+      "enteros",
+      "resultado",
+      "conjunto"
+    ],
+    "base_response": "A diferencia de los naturales, en el conjunto de los números enteros siempre podemos realizar restas sin importar el tamaño de los números. La resta de cualquier pareja de números enteros siempre dará como resultado otro número entero."
+  },
+  {
+    "intent_id": "enteros_deudas_ejemplo",
+    "keywords": [
+      "deudas",
+      "dinero",
+      "finanzas",
+      "enteros",
+      "negativos"
+    ],
+    "base_response": "En el mundo de las finanzas y el comercio, los números enteros negativos se utilizan para representar deudas o pérdidas de dinero. Si tienes una deuda de diez dólares, esa cantidad se registra como un número negativo."
+  },
+  {
+    "intent_id": "enteros_recta_orden",
+    "keywords": [
+      "recta",
+      "orden",
+      "enteros",
+      "izquierda",
+      "derecha"
+    ],
+    "base_response": "En la recta numérica de los enteros, cualquier número que se encuentre a la derecha de otro siempre será mayor que este último. Por esta razón, el número cero es mayor que cualquier número entero negativo existente."
+  },
+  {
+    "intent_id": "enteros_no_fracciones",
+    "keywords": [
+      "fracciones",
+      "enteros",
+      "decimales",
+      "conjunto",
+      "valores"
+    ],
+    "base_response": "Al igual que con los naturales, el conjunto de los números enteros no admite fracciones ni partes decimales bajo ninguna regla matemática. Cada elemento de este conjunto representa unidades completas, ya sean estas de carácter positivo o negativo."
+  },
+  {
+    "intent_id": "enteros_subconjunto_naturales",
+    "keywords": [
+      "subconjunto",
+      "naturales",
+      "enteros",
+      "relacion",
+      "conjuntos"
+    ],
+    "base_response": "El conjunto de los números naturales es un subconjunto directo del conjunto de los números enteros en la estructura matemática. Esto significa que todo número natural es automáticamente un número entero, pero no todos los enteros son naturales."
+  },
+  {
+    "intent_id": "enteros_historia_origen",
+    "keywords": [
+      "historia",
+      "origen",
+      "enteros",
+      "comercio",
+      "negativos"
+    ],
+    "base_response": "El origen de los números enteros negativos se remonta a los antiguos matemáticos chinos e indios que buscaban representar saldos comerciales desfavorables. Con el tiempo, este concepto fue aceptado universalmente como un pilar de las matemáticas. Esta representación es útil para modelar situaciones de pérdidas cotidianas."
+  },
+  {
+    "intent_id": "enteros_opuesto_aditivo",
+    "keywords": [
+      "opuesto",
+      "aditivo",
+      "enteros",
+      "cero",
+      "signo"
+    ],
+    "base_response": "Cada número entero positivo tiene un hermano opuesto con signo negativo que se encuentra a la misma distancia del cero. Al sumar un número entero con su respectivo opuesto aditivo, el resultado siempre será igual a cero."
+  },
+  {
+    "intent_id": "enteros_altitud_ejemplo",
+    "keywords": [
+      "altitud",
+      "mar",
+      "altura",
+      "enteros",
+      "profundidad"
+    ],
+    "base_response": "Los números enteros se usan para medir la altitud de la geografía con respecto al nivel medio del mar mundial. Las montañas se representan con metros de altura positivos, mientras que las fosas marinas usan números negativos."
+  },
+  {
+    "intent_id": "racionales_definicion",
+    "keywords": [
+      "racionales",
+      "fracciones",
+      "decimales",
+      "division",
+      "conjunto"
+    ],
+    "base_response": "El conjunto de los números racionales incluye a todos los números que pueden expresarse como el cociente de dos números enteros. Esto significa que cualquier valor que podamos escribir en forma de fracción pertenece a esta gran familia."
+  },
+  {
+    "intent_id": "racionales_simbolo",
+    "keywords": [
+      "simbolo",
+      "letra",
+      "racionales",
+      "matematica",
+      "conjunto"
+    ],
+    "base_response": "El conjunto de los números racionales se representa matemáticamente con la letra mayúscula ku con una doble línea vertical en su trazo. Esta letra se eligió por la palabra italiana que hace referencia al cociente de una división."
+  },
+  {
+    "intent_id": "racionales_denominador_cero",
+    "keywords": [
+      "denominador",
+      "cero",
+      "racionales",
+      "division",
+      "error"
+    ],
+    "base_response": "En la definición de los números racionales, es una regla matemática inquebrantable que el denominador de la fracción no sea cero. La división entre cero no está definida en matemáticas, por lo que el denominador debe ser diferente."
+  },
+  {
+    "intent_id": "racionales_ejemplo_cocina",
+    "keywords": [
+      "cocina",
+      "recetas",
+      "fracciones",
+      "racionales",
+      "ejemplo"
+    ],
+    "base_response": "Cuando sigues una receta de cocina y necesitas agregar media taza de leche a la mezcla, usas números racionales. La fracción un medio representa una parte de un todo, lo cual es un ejemplo perfecto de número racional."
+  },
+  {
+    "intent_id": "racionales_decimales_exactos",
+    "keywords": [
+      "decimales",
+      "exactos",
+      "racionales",
+      "fraccion",
+      "valores"
+    ],
+    "base_response": "Los números decimales exactos, como el cero punto cinco, son números racionales porque se pueden transformar fácilmente en una fracción equivalente. En este caso, el número representa exactamente la fracción de un medio en su forma decimal."
+  },
+  {
+    "intent_id": "racionales_decimales_periodicos",
+    "keywords": [
+      "periodicos",
+      "decimales",
+      "racionales",
+      "fraccion",
+      "infinitos"
+    ],
+    "base_response": "Los números decimales periódicos que repiten una cifra de forma infinita, como el cero punto tres infinito, son también racionales. Estos números se pueden escribir como una fracción simple, que en este ejemplo corresponde a un tercio."
+  },
+  {
+    "intent_id": "racionales_enteros_relacion",
+    "keywords": [
+      "enteros",
+      "racionales",
+      "subconjunto",
+      "relacion",
+      "fraccion"
+    ],
+    "base_response": "Todos los números enteros son parte del conjunto de los números racionales, ya que se pueden escribir como una fracción con denominador uno. Por ejemplo, el entero cuatro se puede representar como la fracción de cuatro sobre uno."
+  },
+  {
+    "intent_id": "racionales_densidad",
+    "keywords": [
+      "densidad",
+      "racionales",
+      "numeros",
+      "recta",
+      "infinitos"
+    ],
+    "base_response": "La propiedad de densidad en los números racionales significa que entre cualquier pareja de números racionales siempre existe otro número racional. Esta propiedad hace que el conjunto sea infinitamente denso en cualquier intervalo de la recta. Este sistema de reparto es clave para medir porciones diarias."
+  },
+  {
+    "intent_id": "racionales_porcentaje_ejemplo",
+    "keywords": [
+      "porcentaje",
+      "tienda",
+      "descuento",
+      "racionales",
+      "ejemplo"
+    ],
+    "base_response": "Los porcentajes que ves en las tiendas durante las ofertas, como el cincuenta por ciento, son números racionales disfrazados. Este porcentaje equivale a la fracción de un medio o al número decimal racional de cero punto cinco."
+  },
+  {
+    "intent_id": "racionales_simplificacion",
+    "keywords": [
+      "simplificacion",
+      "fracciones",
+      "racionales",
+      "equivalentes",
+      "division"
+    ],
+    "base_response": "Simplificar un número racional consiste en dividir tanto el numerador como el denominador por un mismo factor común para reducir la fracción. Este proceso nos permite encontrar la fracción más simple y equivalente para trabajar con comodidad."
+  },
+  {
+    "intent_id": "racionales_reparto_ejemplo",
+    "keywords": [
+      "reparto",
+      "pizza",
+      "fracciones",
+      "racionales",
+      "ejemplo"
+    ],
+    "base_response": "Al repartir una pizza entre tus amigos en partes iguales, estás aplicando directamente el concepto de números racionales. Si divides la pizza en ocho porciones y comes tres, has consumido tres octavos de la pizza completa. Este sistema de reparto es clave para medir porciones diarias."
+  },
+  {
+    "intent_id": "racionales_origen_egipcio",
+    "keywords": [
+      "origen",
+      "historia",
+      "egipcios",
+      "fracciones",
+      "racionales"
+    ],
+    "base_response": "Los antiguos egipcios fueron de los primeros en utilizar fracciones matemáticas, aunque su sistema se limitaba a fracciones unitarias con numerador uno. Este fue el inicio del desarrollo del conjunto que hoy conocemos como números racionales. Este sistema de reparto es clave para medir porciones diarias."
+  },
+  {
+    "intent_id": "racionales_operaciones_basicas",
+    "keywords": [
+      "operaciones",
+      "suma",
+      "multiplicacion",
+      "racionales",
+      "resultado"
+    ],
+    "base_response": "Las operaciones de suma, resta, multiplicación y división de números racionales siempre producen como resultado otro número racional, exceptuando la división por cero. Esto significa que el conjunto es cerrado bajo estas cuatro operaciones aritméticas elementales. Este sistema de reparto es clave para medir porciones diarias."
+  },
+  {
+    "intent_id": "irracionales_definicion",
+    "keywords": [
+      "irracionales",
+      "decimales",
+      "infinitos",
+      "fraccion",
+      "conjunto"
+    ],
+    "base_response": "El conjunto de los números irracionales está formado por todos aquellos números que poseen infinitas cifras decimales no periódicas. Estos números tienen la característica única de que no se pueden escribir de ninguna manera como una fracción común."
+  },
+  {
+    "intent_id": "irracionales_simbolo",
+    "keywords": [
+      "simbolo",
+      "letra",
+      "irracionales",
+      "matematica",
+      "conjunto"
+    ],
+    "base_response": "El conjunto de los números irracionales se denota habitualmente con la letra mayúscula i latina con doble línea en su estructura. Este símbolo permite diferenciar claramente a estos números de sus parientes cercanos los números racionales. Estos decimales muestran la maravillosa complejidad de la naturaleza física."
+  },
+  {
+    "intent_id": "irracionales_ejemplo_pi",
+    "keywords": [
+      "numero",
+      "circulo",
+      "decimales",
+      "irracionales",
+      "geometria"
+    ],
+    "base_response": "El número pi es el ejemplo más famoso de un número irracional dentro de las matemáticas y la geometría universal. Representan la relación entre la longitud de una circunferencia y su diámetro, poseyendo infinitos decimales que no se repiten."
+  },
+  {
+    "intent_id": "irracionales_raiz_dos",
+    "keywords": [
+      "raiz",
+      "cuadrado",
+      "irracionales",
+      "geometria",
+      "diagonal"
+    ],
+    "base_response": "La raíz cuadrada de dos es otro número irracional fundamental que surge de forma natural al calcular la diagonal de un cuadrado. Su valor decimal comienza con uno punto cuarenta y uno y se extiende de forma infinita."
+  },
+  {
+    "intent_id": "irracionales_no_periodicos",
+    "keywords": [
+      "periodo",
+      "decimales",
+      "irracionales",
+      "patron",
+      "numeros"
+    ],
+    "base_response": "Una característica crucial de los números irracionales es que su parte decimal no presenta ningún patrón repetitivo o período regular. Aunque sus decimales avanzan hacia el infinito, jamás encontrarás una secuencia de números que se repita continuamente."
+  },
+  {
+    "intent_id": "irracionales_raices_imperfectas",
+    "keywords": [
+      "raices",
+      "irracionales",
+      "cuadradas",
+      "enteros",
+      "valores"
+    ],
+    "base_response": "Las raíces cuadradas de números enteros que no son cuadrados perfectos son siempre números irracionales en su naturaleza matemática. Por ejemplo, las raíces de tres, cinco o siete tienen infinitos decimales no periódicos en su desarrollo. Estos decimales muestran la maravillosa complejidad de la naturaleza física."
+  },
+  {
+    "intent_id": "irracionales_numero_e",
+    "keywords": [
+      "numero",
+      "crecimiento",
+      "irracionales",
+      "matematica",
+      "constante"
+    ],
+    "base_response": "El número de Euler, representado simplemente con la letra e, es una constante irracional de enorme relevancia en las ciencias. Su valor aproximado es de dos punto setenta y uno y describe fenómenos de crecimiento biológico continuo."
+  },
+  {
+    "intent_id": "irracionales_interseccion_vacia",
+    "keywords": [
+      "interseccion",
+      "racionales",
+      "irracionales",
+      "vacio",
+      "conjuntos"
+    ],
+    "base_response": "La intersección entre el conjunto de números racionales y el conjunto de números irracionales es un conjunto totalmente vacío. Esto significa que un número no puede ser racional e irracional al mismo tiempo bajo ninguna regla. Estos decimales muestran la maravillosa complejidad de la naturaleza física."
+  },
+  {
+    "intent_id": "irracionales_origen_griego",
+    "keywords": [
+      "origen",
+      "historia",
+      "griegos",
+      "pitagoras",
+      "irracionales"
+    ],
+    "base_response": "El descubrimiento de los números irracionales causó una gran crisis en la escuela del matemático griego Pitágoras hace miles de años. Los pitagóricos creían que todo el universo se podía explicar únicamente con fracciones de números enteros."
+  },
+  {
+    "intent_id": "irracionales_numero_aureo",
+    "keywords": [
+      "numero",
+      "belleza",
+      "naturaleza",
+      "irracionales",
+      "proporcion"
+    ],
+    "base_response": "El número áureo o de oro es un valor irracional que representa la proporción perfecta de la belleza en la naturaleza y el arte. Se encuentra en el crecimiento de caracoles, flores y en famosas esculturas de la antigüedad."
+  },
+  {
+    "intent_id": "irracionales_suma_resultado",
+    "keywords": [
+      "suma",
+      "operaciones",
+      "irracionales",
+      "resultado",
+      "matematica"
+    ],
+    "base_response": "La suma de dos números irracionales no siempre produce como resultado otro número irracional en las operaciones matemáticas. Por ejemplo, al sumar la raíz de dos con su valor negativo, obtenemos cero, que es un número racional."
+  },
+  {
+    "intent_id": "irracionales_recta_numerica",
+    "keywords": [
+      "recta",
+      "numerica",
+      "irracionales",
+      "puntos",
+      "reales"
+    ],
+    "base_response": "En la recta numérica real, los números irracionales ocupan infinitos puntos que rellenan los huecos dejados por los números racionales. Sin la presencia de los irracionales, la recta numérica tendría infinitos agujeros vacíos en su extensión. Estos decimales muestran la maravillosa complejidad de la naturaleza física."
+  },
+  {
+    "intent_id": "irracionales_clasificacion",
+    "keywords": [
+      "clasificacion",
+      "algebraicos",
+      "trascendentes",
+      "irracionales",
+      "valores"
+    ],
+    "base_response": "Los números irracionales se pueden clasificar en dos grandes grupos conocidos como algebraicos y trascendentes. Los algebraicos surgen de resolver ecuaciones sencillas, mientras que los trascendentes, como pi, no provienen de ninguna ecuación algebraica. Estos decimales muestran la maravillosa complejidad de la naturaleza física."
+  },
+  {
+    "intent_id": "irracionales_aproximacion",
+    "keywords": [
+      "aproximacion",
+      "decimales",
+      "irracionales",
+      "calculo",
+      "practica"
+    ],
+    "base_response": "Para trabajar con números irracionales en la práctica, los ingenieros y científicos utilizan aproximaciones decimales redondeadas a pocos dígitos. De este modo, usan tres punto catorce dieciséis para realizar cálculos rápidos sobre círculos y esferas. Estos decimales muestran la maravillosa complejidad de la naturaleza física."
+  },
+  {
+    "intent_id": "reales_definicion",
+    "keywords": [
+      "reales",
+      "racionales",
+      "irracionales",
+      "sistema",
+      "conjunto"
+    ],
+    "base_response": "El sistema de los números reales es el gran conjunto que se forma al unir los números racionales y los irracionales. Este sistema engloba prácticamente a todos los números que usamos para medir magnitudes en las ciencias."
+  },
+  {
+    "intent_id": "reales_simbolo",
+    "keywords": [
+      "simbolo",
+      "letra",
+      "reales",
+      "matematica",
+      "conjunto"
+    ],
+    "base_response": "El conjunto de los números reales se representa universalmente en matemáticas con la letra mayúscula erre que posee una doble línea vertical. Este símbolo identifica al conjunto completo de valores que podemos ubicar en la recta. Este sistema continuo permite mediciones precisas en la ciencia moderna."
+  },
+  {
+    "intent_id": "reales_recta_completa",
+    "keywords": [
+      "recta",
+      "puntos",
+      "reales",
+      "continuidad",
+      "geometria"
+    ],
+    "base_response": "La recta numérica real es continua porque a cada punto de la recta le corresponde exactamente un único número real. No existen espacios vacíos ni saltos en la línea, lo que permite modelar el tiempo y la distancia."
+  },
+  {
+    "intent_id": "reales_subconjuntos_todos",
+    "keywords": [
+      "subconjuntos",
+      "naturales",
+      "enteros",
+      "racionales",
+      "reales"
+    ],
+    "base_response": "El conjunto de los números reales contiene como subconjuntos a los números naturales, a los enteros, a los racionales y a los irracionales. Es la estructura numérica más amplia y completa que se estudia en el colegio."
+  },
+  {
+    "intent_id": "reales_propiedades_basicas",
+    "keywords": [
+      "propiedades",
+      "conmutativa",
+      "asociativa",
+      "reales",
+      "operaciones"
+    ],
+    "base_response": "Las operaciones con números reales cumplen con propiedades fundamentales como la conmutativa y la asociativa tanto para la suma como para la multiplicación. Estas reglas garantizan que el orden de los factores no altere el resultado final."
+  },
+  {
+    "intent_id": "reales_densidad_recta",
+    "keywords": [
+      "densidad",
+      "reales",
+      "puntos",
+      "recta",
+      "infinitos"
+    ],
+    "base_response": "El conjunto de los números reales es infinitamente denso, lo que significa que entre dos reales cualesquiera existen infinitos números reales adicionales. Esta densidad matemática es clave para entender conceptos de límites y continuidad física en ciencias."
+  },
+  {
+    "intent_id": "reales_medicion_vida",
+    "keywords": [
+      "medicion",
+      "estatura",
+      "peso",
+      "reales",
+      "ejemplo"
+    ],
+    "base_response": "Utilizas los números reales cada vez que mides tu estatura en metros o pesas un ingrediente en la balanza escolar. Estas mediciones físicas casi siempre requieren valores decimales precisos que pertenecen al conjunto de los reales. Este sistema continuo permite mediciones precisas en la ciencia moderna."
+  },
+  {
+    "intent_id": "reales_no_raiz_negativa",
+    "keywords": [
+      "raiz",
+      "negativa",
+      "reales",
+      "operaciones",
+      "limite"
+    ],
+    "base_response": "En el sistema de los números reales, no es posible calcular la raíz cuadrada de un número negativo. Esta operación no tiene un resultado real porque ningún número real multiplicado por sí mismo da un valor negativo."
+  },
+  {
+    "intent_id": "reales_elemento_neutro",
+    "keywords": [
+      "neutro",
+      "cero",
+      "reales",
+      "operaciones",
+      "suma"
+    ],
+    "base_response": "El número cero actúa como el elemento neutro de la suma dentro del conjunto de los números reales. Esto significa que si sumas cero a cualquier número real, el valor original del número no cambia bajo ninguna circunstancia."
+  },
+  {
+    "intent_id": "reales_elemento_neutro_multi",
+    "keywords": [
+      "neutro",
+      "multiplicacion",
+      "uno",
+      "reales",
+      "operaciones"
+    ],
+    "base_response": "El número uno es el elemento neutro de la multiplicación para todos los números del conjunto real. Al multiplicar cualquier número real por uno, el resultado conserva exactamente el mismo valor original de la operación matemática. Este sistema continuo permite mediciones precisas en la ciencia moderna."
+  },
+  {
+    "intent_id": "reales_propiedad_distributiva",
+    "keywords": [
+      "distributiva",
+      "multiplicacion",
+      "suma",
+      "reales",
+      "regla"
+    ],
+    "base_response": "La propiedad distributiva de la multiplicación respecto a la suma es una regla fundamental en los números reales. Nos permite resolver operaciones multiplicando el factor externo por cada uno de los sumandos de forma idéntica y sencilla."
+  },
+  {
+    "intent_id": "reales_infinito_concepto",
+    "keywords": [
+      "infinito",
+      "reales",
+      "limite",
+      "recta",
+      "valores"
+    ],
+    "base_response": "Aunque la recta de los números reales se extiende infinitamente en ambas direcciones, el infinito no es un número real en sí mismo. El infinito es un concepto matemático que describe la ausencia total de límites del sistema."
+  },
+  {
+    "intent_id": "reales_distancia_geometria",
+    "keywords": [
+      "distancia",
+      "geometria",
+      "reales",
+      "coordenadas",
+      "recta"
+    ],
+    "base_response": "La distancia entre dos puntos cualesquiera en la recta numérica real se calcula utilizando la resta de sus valores reales. Esta distancia siempre se expresa como un valor positivo, representando una longitud real en el espacio geométrico."
+  },
+  {
+    "intent_id": "reales_origen_desarrollo",
+    "keywords": [
+      "historia",
+      "origen",
+      "reales",
+      "desarrollo",
+      "matematicos"
+    ],
+    "base_response": "La definición formal y rigurosa de los números reales fue completada en el siglo diecinueve por grandes matemáticos como Richard Dedekind y Georg Cantor. Ellos lograron dar una base sólida a la recta real que usamos hoy."
+  },
+  {
+    "intent_id": "imaginarios_definicion",
+    "keywords": [
+      "imaginarios",
+      "raiz",
+      "negativa",
+      "unidad",
+      "concepto"
+    ],
+    "base_response": "Los números imaginarios son aquellos números que surgen al intentar resolver raíces cuadradas de valores negativos en matemáticas. Se definen como el producto de un número real por la unidad imaginaria básica. Esta abstracción permite resolver problemas imposibles en los números reales."
+  },
+  {
+    "intent_id": "imaginarios_unidad_i",
+    "keywords": [
+      "unidad",
+      "imaginaria",
+      "letra",
+      "raiz",
+      "definicion"
+    ],
+    "base_response": "La unidad imaginaria se representa universalmente con la letra minúscula i, la cual tiene la propiedad matemática de que su cuadrado es igual a menos uno. Esto permite resolver operaciones imposibles en los reales. Esta abstracción permite resolver problemas imposibles en los números reales."
+  },
+  {
+    "intent_id": "imaginarios_no_reales",
+    "keywords": [
+      "reales",
+      "imaginarios",
+      "recta",
+      "sistema",
+      "diferencia"
+    ],
+    "base_response": "Es muy importante comprender que los números imaginarios no forman parte de la recta de los números reales. Estos números habitan en su propio eje vertical, perpendicular a la recta real en el plano. Esta abstracción permite resolver problemas imposibles en los números reales."
+  },
+  {
+    "intent_id": "imaginarios_origen_nombre",
+    "keywords": [
+      "origen",
+      "historia",
+      "imaginarios",
+      "descartes",
+      "nombre"
+    ],
+    "base_response": "El nombre de números imaginarios fue propuesto originalmente por el filósofo y matemático René Descartes en el siglo diecisiete como una burla. Descartes consideraba que estos números no tenían ninguna existencia real ni utilidad práctica. Esta abstracción permite resolver problemas imposibles en los números reales."
+  },
+  {
+    "intent_id": "imaginarios_ejemplo_raiz",
+    "keywords": [
+      "raiz",
+      "negativo",
+      "ejemplo",
+      "imaginarios",
+      "operacion"
+    ],
+    "base_response": "La raíz cuadrada de menos nueve es un ejemplo sencillo de un número imaginario en acción. Como la raíz de nueve es tres, el resultado de esta operación se expresa matemáticamente de forma directa como tres i."
+  },
+  {
+    "intent_id": "imaginarios_plano_complejo",
+    "keywords": [
+      "plano",
+      "complejo",
+      "eje",
+      "imaginarios",
+      "geometria"
+    ],
+    "base_response": "Para representar de forma geométrica los números imaginarios, utilizamos el plano complejo en lugar de la recta simple. En este plano, el eje horizontal representa los reales y el eje vertical a los imaginarios puros. Esta abstracción permite resolver problemas imposibles en los números reales."
+  },
+  {
+    "intent_id": "imaginarios_aplicacion_electronica",
+    "keywords": [
+      "electronica",
+      "ingenieria",
+      "electricidad",
+      "imaginarios",
+      "aplicacion"
+    ],
+    "base_response": "Aunque su nombre parezca de fantasía, los números imaginarios son indispensables en la ingeniería electrónica para calcular corrientes alternas de electricidad. Sin ellos, el diseño de teléfonos celulares y computadoras modernas sería extremadamente complejo. Esta abstracción permite resolver problemas imposibles en los números reales."
+  },
+  {
+    "intent_id": "imaginarios_potencias_i",
+    "keywords": [
+      "potencias",
+      "ciclo",
+      "imaginarios",
+      "operaciones",
+      "regla"
+    ],
+    "base_response": "Las potencias de la unidad imaginaria siguen un ciclo repetitivo de cuatro valores que se repite de forma infinita. Al elevar la letra i a potencias sucesivas, obtenemos los valores de i, menos uno, menos i, y uno."
+  },
+  {
+    "intent_id": "imaginarios_complejos_relacion",
+    "keywords": [
+      "complejos",
+      "imaginarios",
+      "reales",
+      "suma",
+      "numeros"
+    ],
+    "base_response": "Al sumar un número real con un número imaginario, damos origen a un nuevo tipo de número llamado número complejo. Un número complejo tiene la estructura de una parte real unida a una parte puramente imaginaria. Esta abstracción permite resolver problemas imposibles en los números reales."
+  },
+  {
+    "intent_id": "imaginarios_ecuaciones_grado",
+    "keywords": [
+      "ecuaciones",
+      "segundo",
+      "grado",
+      "imaginarios",
+      "solucion"
+    ],
+    "base_response": "Los números imaginarios permiten encontrar soluciones a ecuaciones de segundo grado que no cortan el eje horizontal de la gráfica. Esto amplía enormemente la capacidad del álgebra escolar para resolver todo tipo de problemas matemáticos. Esta abstracción permite resolver problemas imposibles en los números reales."
+  },
+  {
+    "intent_id": "imaginarios_fisica_ondas",
+    "keywords": [
+      "ondas",
+      "fisica",
+      "imaginarios",
+      "aplicacion",
+      "ciencia"
+    ],
+    "base_response": "En la física moderna, los números imaginarios se utilizan de manera constante para modelar el comportamiento de las ondas sonoras y electromagnéticas. El estudio de la luz y el sonido se simplifica usando la unidad imaginaria. Esta abstracción permite resolver problemas imposibles en los números reales."
+  },
+  {
+    "intent_id": "imaginarios_multiplicacion_reales",
+    "keywords": [
+      "multiplicacion",
+      "resultado",
+      "imaginarios",
+      "reales",
+      "operaciones"
+    ],
+    "base_response": "Al multiplicar dos números imaginarios puros entre sí, el resultado obtenido es sorprendentemente un número real. Esto ocurre porque el producto de las unidades imaginarias da como resultado menos uno, eliminando el componente imaginario. Esta abstracción permite resolver problemas imposibles en los números reales."
+  },
+  {
+    "intent_id": "imaginarios_simbolismo_ingenieria",
+    "keywords": [
+      "ingenieria",
+      "letra",
+      "imaginarios",
+      "simbolo",
+      "corriente"
+    ],
+    "base_response": "En la ingeniería eléctrica, se suele utilizar la letra jota como símbolo de la unidad imaginaria en lugar de la letra i. Esto se hace para evitar cualquier confusión con la letra i que representa la corriente eléctrica."
+  },
+  {
+    "intent_id": "imaginarios_existencia_real",
+    "keywords": [
+      "existencia",
+      "matematica",
+      "imaginarios",
+      "abstraccion",
+      "conceptos"
+    ],
+    "base_response": "Los números imaginarios son tan reales y abstractos como cualquier número natural o entero en el pensamiento humano. Todos los números son abstracciones mentales creadas por la humanidad para modelar y comprender el universo físico que nos rodea."
+  },
+  {
+    "intent_id": "subconjuntos_definicion",
+    "keywords": [
+      "subconjuntos",
+      "inclusion",
+      "conjuntos",
+      "elementos",
+      "definicion"
+    ],
+    "base_response": "Un subconjunto es un conjunto más pequeño que se forma tomando algunos o todos los elementos de un conjunto mayor original. Decimos que un conjunto es subconjunto de otro si todos sus elementos pertenecen también al mayor."
+  },
+  {
+    "intent_id": "subconjuntos_simbolo",
+    "keywords": [
+      "simbolo",
+      "inclusion",
+      "subconjuntos",
+      "matematica",
+      "notacion"
+    ],
+    "base_response": "El símbolo matemático de inclusión, que parece una letra ce alargada hacia la derecha, se utiliza para indicar que un conjunto es subconjunto de otro. Se lee de forma directa como está contenido dentro de. Esta clasificación sistemática ayuda a organizar colecciones de manera ordenada."
+  },
+  {
+    "intent_id": "subconjuntos_ejemplo_frutas",
+    "keywords": [
+      "frutas",
+      "manzanas",
+      "subconjuntos",
+      "ejemplo",
+      "conjuntos"
+    ],
+    "base_response": "Si tienes un conjunto grande formado por todas las frutas del supermercado, puedes formar un subconjunto más pequeño llamado manzanas. Como cada manzana es una fruta, el conjunto de manzanas está contenido en el conjunto de frutas."
+  },
+  {
+    "intent_id": "subconjuntos_conjunto_vacio",
+    "keywords": [
+      "vacio",
+      "subconjuntos",
+      "propiedad",
+      "conjuntos",
+      "regla"
+    ],
+    "base_response": "Una regla fundamental de la teoría de conjuntos establece que el conjunto vacío es subconjunto de absolutamente cualquier otro conjunto existente. El conjunto vacío se considera contenido en todos los conjuntos por definición matemática universal. Esta clasificación sistemática ayuda a organizar colecciones de manera ordenada."
+  },
+  {
+    "intent_id": "subconjuntos_propio",
+    "keywords": [
+      "propio",
+      "subconjuntos",
+      "diferente",
+      "conjuntos",
+      "definicion"
+    ],
+    "base_response": "Un subconjunto propio es aquel que contiene algunos de los elementos del conjunto original, pero no a todos ellos de forma idéntica. Esto garantiza que el subconjunto propio sea estrictamente más pequeño en tamaño que el conjunto base."
+  },
+  {
+    "intent_id": "subconjuntos_impropio",
+    "keywords": [
+      "impropio",
+      "iguales",
+      "subconjuntos",
+      "conjuntos",
+      "regla"
+    ],
+    "base_response": "Un subconjunto impropio es aquel que es exactamente igual al conjunto original, conteniendo la totalidad de sus elementos bajo la misma estructura. Todo conjunto se considera subconjunto de sí mismo según las reglas de la teoría. Esta clasificación sistemática ayuda a organizar colecciones de manera ordenada."
+  },
+  {
+    "intent_id": "subconjuntos_formula_cantidad",
+    "keywords": [
+      "formula",
+      "cantidad",
+      "subconjuntos",
+      "potencia",
+      "elementos"
+    ],
+    "base_response": "Para calcular la cantidad total de subconjuntos que se pueden formar, elevamos el número dos al número de elementos del conjunto original. Por ejemplo, un conjunto de tres elementos permite formar exactamente ocho subconjuntos diferentes. Esta clasificación sistemática ayuda a organizar colecciones de manera ordenada."
+  },
+  {
+    "intent_id": "subconjuntos_conjunto_potencia",
+    "keywords": [
+      "potencia",
+      "subconjuntos",
+      "conjuntos",
+      "elementos",
+      "definicion"
+    ],
+    "base_response": "El conjunto potencia es aquel conjunto especial formado por todos los posibles subconjuntos que se pueden extraer de un conjunto inicial dado. Es una súper estructura que agrupa todas las combinaciones posibles de elementos del conjunto. Esta clasificación sistemática ayuda a organizar colecciones de manera ordenada."
+  },
+  {
+    "intent_id": "subconjuntos_ejemplo_colegio",
+    "keywords": [
+      "colegio",
+      "estudiantes",
+      "subconjuntos",
+      "seccion",
+      "ejemplo"
+    ],
+    "base_response": "En tu colegio, el grupo completo de estudiantes de noveno grado representa un gran conjunto de personas de la institución. Los alumnos que pertenecen a la sección A representan un subconjunto directo de ese grupo de grado."
+  },
+  {
+    "intent_id": "subconjuntos_no_inclusion",
+    "keywords": [
+      "inclusion",
+      "simbolo",
+      "subconjuntos",
+      "conjuntos",
+      "notacion"
+    ],
+    "base_response": "Para indicar que un conjunto no es subconjunto de otro, cruzamos el símbolo de inclusión con una línea diagonal de derecha a izquierda. Esto señala claramente que al menos un elemento del primer conjunto no está en el segundo."
+  },
+  {
+    "intent_id": "subconjuntos_transitividad",
+    "keywords": [
+      "transitividad",
+      "propiedad",
+      "subconjuntos",
+      "conjuntos",
+      "regla"
+    ],
+    "base_response": "La propiedad transitiva en la formación de subconjuntos indica que si el conjunto A está contenido en B, y B está contenido en C, entonces A está necesariamente contenido en C. Es una regla de herencia de elementos."
+  },
+  {
+    "intent_id": "subconjuntos_clasificacion_numeros",
+    "keywords": [
+      "clasificacion",
+      "numeros",
+      "subconjuntos",
+      "reales",
+      "matematica"
+    ],
+    "base_response": "La clasificación de los números es un ejemplo magnífico de formación de subconjuntos en las matemáticas escolares. El conjunto de los enteros se organiza como un subconjunto de los racionales, los cuales a su vez son subconjunto de los reales."
+  },
+  {
+    "intent_id": "subconjuntos_ejercicio_sencillo",
+    "keywords": [
+      "ejercicio",
+      "letras",
+      "subconjuntos",
+      "conjuntos",
+      "combinaciones"
+    ],
+    "base_response": "Si tienes el conjunto formado por las letras de la palabra sol, puedes formar subconjuntos de un solo elemento como ese u o. También puedes formar subconjuntos de dos elementos como la combinación de ese con o."
+  },
+  {
+    "intent_id": "subconjuntos_utilidad_datos",
+    "keywords": [
+      "datos",
+      "organizacion",
+      "subconjuntos",
+      "computacion",
+      "utilidad"
+    ],
+    "base_response": "La formación de subconjuntos es una herramienta indispensable para organizar bases de datos y clasificar información de forma jerárquica en computación. Permite agrupar elementos que comparten características comunes dentro de un universo de datos mayor. Esta clasificación sistemática ayuda a organizar colecciones de manera ordenada."
+  },
+  {
+    "intent_id": "venn_definicion",
+    "keywords": [
+      "diagramas",
+      "venn",
+      "conjuntos",
+      "circulos",
+      "definicion"
+    ],
+    "base_response": "Los diagramas de Venn son esquemas gráficos que utilizan círculos superpuestos para ilustrar las relaciones lógicas existentes entre varios conjuntos de elementos. Son herramientas visuales excelentes para comprender cómo se agrupan e intersectan los datos. Este esquema gráfico facilita la asimilación visual de operaciones lógicas."
+  },
+  {
+    "intent_id": "venn_origen_john",
+    "keywords": [
+      "origen",
+      "historia",
+      "john",
+      "venn",
+      "diagramas"
+    ],
+    "base_response": "Estos útiles diagramas fueron introducidos por el filósofo y matemático británico John Venn en el año mil ochocientos ochenta. Su objetivo era simplificar la enseñanza de la lógica formal mediante representaciones visuales sumamente intuitivas. Este esquema gráfico facilita la asimilación visual de operaciones lógicas."
+  },
+  {
+    "intent_id": "venn_circulos_concepto",
+    "keywords": [
+      "circulos",
+      "conjuntos",
+      "diagramas",
+      "venn",
+      "representacion"
+    ],
+    "base_response": "En un diagrama de Venn, cada conjunto de elementos se representa de forma estándar con un círculo dibujado con colores o líneas. Los elementos que pertenecen a un conjunto se colocan ordenadamente dentro de su círculo correspondiente."
+  },
+  {
+    "intent_id": "venn_superposicion",
+    "keywords": [
+      "superposicion",
+      "comparten",
+      "elementos",
+      "venn",
+      "diagramas"
+    ],
+    "base_response": "La zona donde los círculos se superponen representa a los elementos que los conjuntos comparten en común entre sí en la lógica. Si un elemento está en esa región central, pertenece a ambos conjuntos de manera simultánea."
+  },
+  {
+    "intent_id": "venn_rectangulo_universal",
+    "keywords": [
+      "rectangulo",
+      "universal",
+      "venn",
+      "diagramas",
+      "universo"
+    ],
+    "base_response": "El marco rectangular que rodea a los círculos en un diagrama de Venn representa al conjunto universal de referencia de la situación. Cualquier elemento de nuestro universo que no pertenezca a los círculos se dibuja fuera de ellos."
+  },
+  {
+    "intent_id": "venn_ejemplo_animales",
+    "keywords": [
+      "animales",
+      "venn",
+      "diagramas",
+      "ejemplo",
+      "conjuntos"
+    ],
+    "base_response": "Puedes usar un diagrama de Venn para clasificar animales terrestres y animales que saben nadar muy bien en el agua. El área donde se cruzan los círculos contendrá a los animales que viven en la tierra y también nadan."
+  },
+  {
+    "intent_id": "venn_representacion_interseccion",
+    "keywords": [
+      "interseccion",
+      "venn",
+      "diagramas",
+      "visualizacion",
+      "grafico"
+    ],
+    "base_response": "La intersección de conjuntos se visualiza de forma directa en los diagramas de Venn sombreando únicamente la región común central de cruce. Esta parte sombreada ayuda a los estudiantes a identificar de un vistazo la solución de operaciones."
+  },
+  {
+    "intent_id": "venn_representacion_union",
+    "keywords": [
+      "union",
+      "venn",
+      "diagramas",
+      "visualizacion",
+      "grafico"
+    ],
+    "base_response": "Para representar la unión de conjuntos en un diagrama de Venn, se sombrean por completo la totalidad de los círculos involucrados en el esquema. Esto muestra visualmente que estamos reuniendo todos los elementos de los conjuntos en uno solo."
+  },
+  {
+    "intent_id": "venn_diferencia_visual",
+    "keywords": [
+      "diferencia",
+      "venn",
+      "diagramas",
+      "visualizacion",
+      "exclusivo"
+    ],
+    "base_response": "La diferencia de conjuntos se representa en el diagrama de Venn pintando únicamente la luna de un círculo que no toca al otro. Esta porción del gráfico muestra de forma exclusiva los elementos que pertenecen solo al primer conjunto."
+  },
+  {
+    "intent_id": "venn_tres_conjuntos",
+    "keywords": [
+      "tres",
+      "conjuntos",
+      "venn",
+      "diagramas",
+      "interseccion"
+    ],
+    "base_response": "Al dibujar diagramas de Venn con tres conjuntos, los tres círculos se entrelazan formando una zona central común donde se intersectan todos. Esta configuración permite analizar de manera simultánea relaciones lógicas complejas de tres grupos de datos."
+  },
+  {
+    "intent_id": "venn_disjuntos_visual",
+    "keywords": [
+      "disjuntos",
+      "separados",
+      "venn",
+      "diagramas",
+      "interseccion"
+    ],
+    "base_response": "Si dos conjuntos son disjuntos y no comparten ningún elemento en común, sus círculos se dibujan completamente separados en el diagrama. La ausencia de superposición visual indica de manera inmediata que su intersección matemática es vacía. Este esquema gráfico facilita la asimilación visual de operaciones lógicas."
+  },
+  {
+    "intent_id": "venn_colegio_uso",
+    "keywords": [
+      "colegio",
+      "materias",
+      "venn",
+      "diagramas",
+      "ejemplo"
+    ],
+    "base_response": "En el colegio, puedes usar un diagrama de Venn para ver cuántos estudiantes prefieren las materias de matemáticas, ciencias o ambas. Es una manera interactiva de presentar los resultados de una encuesta escolar de forma gráfica. Este esquema gráfico facilita la asimilación visual de operaciones lógicas."
+  },
+  {
+    "intent_id": "venn_complemento_visual",
+    "keywords": [
+      "complemento",
+      "venn",
+      "diagramas",
+      "visualizacion",
+      "exterior"
+    ],
+    "base_response": "Para visualizar el complemento de un conjunto en un diagrama de Venn, se sombrea toda el área exterior del círculo dentro del rectángulo. Esto representa gráficamente a todos los elementos del universo que no forman parte de ese conjunto."
+  },
+  {
+    "intent_id": "venn_importancia_logica",
+    "keywords": [
+      "logica",
+      "computacion",
+      "venn",
+      "diagramas",
+      "importancia"
+    ],
+    "base_response": "Los diagramas de Venn son fundamentales en el estudio de la lógica matemática, la estadística moderna y el diseño de circuitos de computación. Ayudan a los programadores a depurar las condiciones condicionales de sus programas informáticos. Este esquema gráfico facilita la asimilación visual de operaciones lógicas."
+  },
+  {
+    "intent_id": "interseccion_definicion",
+    "keywords": [
+      "interseccion",
+      "conjuntos",
+      "elementos",
+      "comunes",
+      "operacion"
+    ],
+    "base_response": "La intersección de conjuntos es la operación matemática que nos permite encontrar los elementos que pertenecen simultáneamente a dos o más conjuntos dados. El conjunto resultante está formado únicamente por aquellos objetos que se repiten en ambos."
+  },
+  {
+    "intent_id": "interseccion_simbolo",
+    "keywords": [
+      "simbolo",
+      "invertida",
+      "interseccion",
+      "notacion"
+    ],
+    "base_response": "La operación de intersección se representa de forma estándar con el símbolo matemático de una letra u mayúscula invertida o de cabeza. Este símbolo se escribe colocándose siempre entre las letras que identifican a los conjuntos. Esta operación lógica es indispensable para filtrar información de forma exacta."
+  },
+  {
+    "intent_id": "interseccion_ejemplo_numeros",
+    "keywords": [
+      "ejemplo",
+      "numeros",
+      "interseccion",
+      "conjuntos",
+      "comunes"
+    ],
+    "base_response": "Si el conjunto A tiene los números uno, dos y tres, y el conjunto B tiene el dos, tres y cuatro, su intersección contendrá los valores dos y tres. Estos son los únicos números que aparecen en ambos conjuntos."
+  },
+  {
+    "intent_id": "interseccion_vacio_disjuntos",
+    "keywords": [
+      "disjuntos",
+      "vacio",
+      "interseccion",
+      "conjuntos",
+      "comunes"
+    ],
+    "base_response": "Cuando dos conjuntos no comparten absolutamente ningún elemento en común, su intersección es igual al conjunto vacío. En las matemáticas escolares, a este tipo especial de conjuntos se les denomina conjuntos disjuntos. Esta operación lógica es indispensable para filtrar información de forma exacta."
+  },
+  {
+    "intent_id": "interseccion_conmutativa",
+    "keywords": [
+      "conmutativa",
+      "propiedad",
+      "interseccion",
+      "orden",
+      "conjuntos"
+    ],
+    "base_response": "La intersección de conjuntos es conmutativa, lo que significa que el orden de los conjuntos en la operación no altera el resultado final. Intersectar el conjunto A con B da exactamente los mismos elementos que intersectar B con A."
+  },
+  {
+    "intent_id": "interseccion_asociativa",
+    "keywords": [
+      "asociativa",
+      "propiedad",
+      "interseccion",
+      "agrupar",
+      "conjuntos"
+    ],
+    "base_response": "La propiedad asociativa de la intersección nos permite agrupar la operación de tres o más conjuntos de la manera que prefiramos en los ejercicios. El resultado final del conjunto de intersección será idéntico en todos los casos."
+  },
+  {
+    "intent_id": "interseccion_idempotencia",
+    "keywords": [
+      "idempotencia",
+      "propiedad",
+      "interseccion",
+      "mismo",
+      "conjunto"
+    ],
+    "base_response": "La propiedad de idempotencia establece que la intersección de cualquier conjunto de elementos con sigo mismo da como resultado el mismo conjunto original. Esta regla matemática resulta lógica pues todos sus elementos son comunes a sí mismos."
+  },
+  {
+    "intent_id": "interseccion_con_vacio",
+    "keywords": [
+      "vacio",
+      "interseccion",
+      "conjuntos",
+      "resultado",
+      "propiedad"
+    ],
+    "base_response": "Cualquier conjunto que sea intersectado con el conjunto vacío dará como resultado final al propio conjunto vacío sin importar sus elementos. Esto se debe a que el conjunto vacío no posee elementos que puedan ser comunes. Esta operación lógica es indispensable para filtrar información de forma exacta."
+  },
+  {
+    "intent_id": "interseccion_con_universal",
+    "keywords": [
+      "universal",
+      "interseccion",
+      "conjuntos",
+      "resultado",
+      "propiedad"
+    ],
+    "base_response": "Al intersectar cualquier conjunto dado con el conjunto universal base de la situación, el resultado obtenido es el propio conjunto dado original. Los únicos elementos comunes son aquellos que ya pertenecían al conjunto de menor tamaño. Esta operación lógica es indispensable para filtrar información de forma exacta."
+  },
+  {
+    "intent_id": "interseccion_ejemplo_deportes",
+    "keywords": [
+      "deportes",
+      "futbol",
+      "basquetbol",
+      "interseccion",
+      "estudiantes"
+    ],
+    "base_response": "Si en tu sección escolar algunos alumnos juegan al fútbol y otros juegan al básquetbol, la intersección representa a los estudiantes deportistas que practican ambos juegos. Esta información es muy útil para planificar los torneos del colegio."
+  },
+  {
+    "intent_id": "interseccion_subconjunto_resultado",
+    "keywords": [
+      "subconjunto",
+      "interseccion",
+      "conjuntos",
+      "resultado",
+      "regla"
+    ],
+    "base_response": "El conjunto que resulta de una intersección es siempre un subconjunto directo de cada uno de los conjuntos originales que participaron en la operación. Sus elementos no pueden exceder bajo ninguna circunstancia el tamaño de los conjuntos iniciales."
+  },
+  {
+    "intent_id": "interseccion_comprension_notacion",
+    "keywords": [
+      "comprension",
+      "notacion",
+      "interseccion",
+      "conjuntos",
+      "matematica"
+    ],
+    "base_response": "Por comprensión, la intersección de los conjuntos A y B se define como el conjunto de elementos equis tales que equis pertenece a A y equis pertenece a B. La conjunción matemática i es el nexo clave de esta notación."
+  },
+  {
+    "intent_id": "interseccion_diagrama_venn_uso",
+    "keywords": [
+      "diagrama",
+      "venn",
+      "interseccion",
+      "visual",
+      "grafico"
+    ],
+    "base_response": "En los exámenes del colegio, la intersección se identifica de forma visual muy rápida buscando la zona del diagrama de Venn donde se cruzan las líneas de los círculos. El sombreado de esta zona central representa la solución de la operación."
+  },
+  {
+    "intent_id": "interseccion_aplicacion_programacion",
+    "keywords": [
+      "programacion",
+      "busqueda",
+      "interseccion",
+      "datos",
+      "computacion"
+    ],
+    "base_response": "En los motores de búsqueda de internet, la intersección se utiliza constantemente cuando buscas información usando varias palabras al mismo tiempo. El buscador te muestra únicamente las páginas de la red que contienen todas tus palabras. Esta operación lógica es indispensable para filtrar información de forma exacta."
+  },
+  {
+    "intent_id": "union_definicion",
+    "keywords": [
+      "union",
+      "conjuntos",
+      "elementos",
+      "reunir",
+      "operacion"
+    ],
+    "base_response": "La unión de conjuntos es la operación matemática que consiste en agrupar en un solo conjunto todos los elementos que pertenecen a dos o más conjuntos dados. El conjunto resultante contiene la totalidad de los objetos sin repetir ninguno."
+  },
+  {
+    "intent_id": "union_simbolo",
+    "keywords": [
+      "simbolo",
+      "letra",
+      "copa",
+      "union",
+      "notacion"
+    ],
+    "base_response": "La operación de unión de conjuntos se representa matemáticamente utilizando el símbolo de una letra u mayúscula normal y abierta hacia arriba. Este símbolo se escribe siempre entre los nombres de los conjuntos que se van a unir."
+  },
+  {
+    "intent_id": "union_ejemplo_numeros",
+    "keywords": [
+      "ejemplo",
+      "numeros",
+      "union",
+      "conjuntos",
+      "elementos"
+    ],
+    "base_response": "Si el conjunto A contiene los números uno y dos, y el conjunto B contiene el tres y el cuatro, su unión será el conjunto con los números uno, dos, tres y cuatro. Hemos reunido todos los elementos en un solo grupo."
+  },
+  {
+    "intent_id": "union_no_duplicados",
+    "keywords": [
+      "duplicados",
+      "repetir",
+      "union",
+      "conjuntos",
+      "elementos"
+    ],
+    "base_response": "Al realizar la unión de conjuntos, es una regla fundamental que los elementos que se repiten en ambos conjuntos se escriban una sola vez en el conjunto resultante. En la teoría de conjuntos, no se duplican los elementos idénticos."
+  },
+  {
+    "intent_id": "union_conmutativa",
+    "keywords": [
+      "conmutativa",
+      "propiedad",
+      "union",
+      "orden",
+      "conjuntos"
+    ],
+    "base_response": "La unión de conjuntos cumple con la propiedad conmutativa, lo que significa que el orden de los factores no altera el conjunto resultante. Unir el conjunto A con B produce exactamente el mismo resultado que unir el conjunto B con A."
+  },
+  {
+    "intent_id": "union_asociativa",
+    "keywords": [
+      "asociativa",
+      "propiedad",
+      "union",
+      "agrupar",
+      "conjuntos"
+    ],
+    "base_response": "La propiedad asociativa de la unión nos permite agrupar de diferentes maneras la operación cuando trabajamos con tres o más conjuntos en los deberes. El resultado final de la unión de todos los elementos será siempre idéntico."
+  },
+  {
+    "intent_id": "union_con_vacio",
+    "keywords": [
+      "vacio",
+      "union",
+      "conjuntos",
+      "resultado",
+      "propiedad"
+    ],
+    "base_response": "Al realizar la unión de cualquier conjunto con el conjunto vacío, el resultado de la operación será el mismo conjunto original sin alteración alguna. Esto se debe a que el conjunto vacío no aporta ningún elemento nuevo al grupo."
+  },
+  {
+    "intent_id": "union_con_universal",
+    "keywords": [
+      "universal",
+      "union",
+      "conjuntos",
+      "resultado",
+      "universo"
+    ],
+    "base_response": "Si unes cualquier conjunto dado con el conjunto universal base de la situación, el resultado de la operación será igual al propio conjunto universal completo. No es posible obtener elementos fuera del universo definido para el problema."
+  },
+  {
+    "intent_id": "union_idempotencia",
+    "keywords": [
+      "idempotencia",
+      "propiedad",
+      "union",
+      "mismo",
+      "conjunto"
+    ],
+    "base_response": "La propiedad de idempotencia establece que la unión de un conjunto con sigo mismo da como resultado el mismo conjunto original. Al no existir elementos nuevos que añadir, la estructura del conjunto se conserva exactamente igual que al inicio."
+  },
+  {
+    "intent_id": "union_comprension_notacion",
+    "keywords": [
+      "comprension",
+      "notacion",
+      "union",
+      "conjuntos",
+      "matematica"
+    ],
+    "base_response": "Por comprensión, la unión de los conjuntos A y B se define como el conjunto de elementos equis tales que equis pertenece a A o equis pertenece a B. La conjunción lógica o es el elemento clave de esta definición."
+  },
+  {
+    "intent_id": "union_ejemplo_aula",
+    "keywords": [
+      "aula",
+      "estudiantes",
+      "union",
+      "grupos",
+      "ejemplo"
+    ],
+    "base_response": "Imaginas que unes al grupo de estudiantes que participan en el club de música con los del club de teatro del colegio. El conjunto unión representará a todos los alumnos que asisten a cualquiera de estas dos actividades artísticas."
+  },
+  {
+    "intent_id": "union_superconjunto",
+    "keywords": [
+      "superconjunto",
+      "union",
+      "conjuntos",
+      "grande",
+      "resultado"
+    ],
+    "base_response": "El conjunto resultante de una unión de conjuntos es siempre un superconjunto de cada uno de los conjuntos individuales que participaron en la operación. Este conjunto final es igual o más grande que cualquiera de los conjuntos de partida."
+  },
+  {
+    "intent_id": "union_diagrama_venn_uso",
+    "keywords": [
+      "diagrama",
+      "venn",
+      "union",
+      "sombreado",
+      "grafico"
+    ],
+    "base_response": "Para mostrar la unión de conjuntos en un diagrama de Venn de forma didáctica, se colorea la totalidad de los círculos que intervienen en el gráfico. Este sombreado completo representa visualmente la suma de todos los elementos disponibles."
+  },
+  {
+    "intent_id": "union_aplicacion_comercial",
+    "keywords": [
+      "comercio",
+      "inventario",
+      "union",
+      "productos",
+      "aplicacion"
+    ],
+    "base_response": "En el inventario de una tienda, la unión de conjuntos se aplica al fusionar las listas de productos de dos proveedores diferentes en una lista única de venta. Esto permite ofrecer una variedad más amplia de artículos a los clientes."
+  },
+  {
+    "intent_id": "diferencia_definicion",
+    "keywords": [
+      "diferencia",
+      "conjuntos",
+      "elementos",
+      "restar",
+      "operacion"
+    ],
+    "base_response": "La diferencia entre conjuntos es la operación matemática que consiste en restar de un primer conjunto todos los elementos que comparte con un segundo conjunto. El conjunto resultante contiene los elementos que pertenecen exclusivamente al primer conjunto de partida."
+  },
+  {
+    "intent_id": "diferencia_simbolo",
+    "keywords": [
+      "simbolo",
+      "resta",
+      "diferencia",
+      "conjuntos",
+      "notacion"
+    ],
+    "base_response": "La operación de diferencia entre conjuntos se representa matemáticamente de forma estándar utilizando el signo de menos o una barra diagonal inversa. Este símbolo se coloca entre las letras que identifican a los conjuntos de la operación."
+  },
+  {
+    "intent_id": "diferencia_ejemplo_numeros",
+    "keywords": [
+      "ejemplo",
+      "numeros",
+      "diferencia",
+      "conjuntos",
+      "restar"
+    ],
+    "base_response": "Si el conjunto A tiene los números del uno al cuatro, y el conjunto B tiene el tres, cuatro y cinco, la diferencia A menos B dará los números uno y dos. Hemos quitado de A los elementos que compartía con B."
+  },
+  {
+    "intent_id": "diferencia_no_conmutativa",
+    "keywords": [
+      "conmutativa",
+      "orden",
+      "diferencia",
+      "conjuntos",
+      "resultado"
+    ],
+    "base_response": "La diferencia entre conjuntos no es conmutativa, lo que significa que cambiar el orden de los conjuntos en la operación altera por completo el resultado final. El conjunto A menos B es diferente al conjunto B menos A en matemáticas."
+  },
+  {
+    "intent_id": "diferencia_exclusividad",
+    "keywords": [
+      "exclusividad",
+      "elementos",
+      "diferencia",
+      "conjuntos",
+      "definicion"
+    ],
+    "base_response": "El concepto clave detrás de la diferencia de conjuntos es la exclusividad de los elementos resultantes en la operación. Los elementos de A menos B son aquellos que pertenecen únicamente al conjunto A y bajo ninguna circunstancia al conjunto B."
+  },
+  {
+    "intent_id": "diferencia_comprension_notacion",
+    "keywords": [
+      "comprension",
+      "notacion",
+      "diferencia",
+      "conjuntos",
+      "matematica"
+    ],
+    "base_response": "Por comprensión, la diferencia de los conjuntos A y B se define como el conjunto de elementos equis tales que equis pertenece a A y equis no pertenece a B. El símbolo de no pertenencia es crucial en esta definición."
+  },
+  {
+    "intent_id": "diferencia_con_vacio",
+    "keywords": [
+      "vacio",
+      "diferencia",
+      "conjuntos",
+      "resultado",
+      "propiedad"
+    ],
+    "base_response": "Al restar el conjunto vacío a cualquier conjunto dado, el resultado obtenido de la diferencia es igual al propio conjunto dado original. Esto ocurre porque el conjunto vacío no contiene elementos que se puedan quitar al conjunto de partida."
+  },
+  {
+    "intent_id": "diferencia_con_mismo",
+    "keywords": [
+      "mismo",
+      "diferencia",
+      "conjuntos",
+      "vacio",
+      "resultado"
+    ],
+    "base_response": "Si realizas la diferencia de un conjunto con sigo mismo, el resultado obtenido será de forma obligatoria el conjunto vacío. Al restar todos los elementos que posee el conjunto, no queda ningún objeto disponible en el grupo final."
+  },
+  {
+    "intent_id": "diferencia_con_universal",
+    "keywords": [
+      "universal",
+      "diferencia",
+      "conjuntos",
+      "vacio",
+      "universo"
+    ],
+    "base_response": "Al restar el conjunto universal a cualquier conjunto dado de la situación, el resultado final de la diferencia de conjuntos será el conjunto vacío. El conjunto universal contiene a la totalidad de los elementos, eliminando todo el conjunto dado."
+  },
+  {
+    "intent_id": "diferencia_disjuntos_propiedad",
+    "keywords": [
+      "disjuntos",
+      "diferencia",
+      "conjuntos",
+      "resultado",
+      "propiedad"
+    ],
+    "base_response": "Si dos conjuntos son disjuntos y no comparten elementos, la diferencia de A menos B dará como resultado el conjunto A original completo. Al no existir elementos comunes para restar, el primer conjunto se conserva totalmente intacto en la operación."
+  },
+  {
+    "intent_id": "diferencia_ejemplo_deberes",
+    "keywords": [
+      "deberes",
+      "lista",
+      "tareas",
+      "diferencia",
+      "ejemplo"
+    ],
+    "base_response": "Imaginas que tienes una lista de tareas pendientes por hacer el fin de semana y otra lista con las tareas que ya completaste. La diferencia entre ambas listas te dará el conjunto exacto de deberes que aún debes realizar."
+  },
+  {
+    "intent_id": "diferencia_diagrama_venn_uso",
+    "keywords": [
+      "diagrama",
+      "venn",
+      "diferencia",
+      "sombreado",
+      "grafico"
+    ],
+    "base_response": "En un diagrama de Venn de dos círculos, la diferencia A menos B se representa de forma visual sombreando únicamente la región en forma de media luna del círculo A. Esto excluye toda la zona de intersección central."
+  },
+  {
+    "intent_id": "diferencia_subconjunto_resultado",
+    "keywords": [
+      "subconjunto",
+      "diferencia",
+      "conjuntos",
+      "resultado",
+      "regla"
+    ],
+    "base_response": "El conjunto obtenido como resultado de la diferencia A menos B es siempre un subconjunto directo del primer conjunto que participó en la operación. Sus elementos no pueden pertenecer a otras fuentes fuera de este conjunto de partida."
+  },
+  {
+    "intent_id": "diferencia_aplicacion_filtros",
+    "keywords": [
+      "filtros",
+      "correo",
+      "diferencia",
+      "datos",
+      "aplicacion"
+    ],
+    "base_response": "En la informática escolar, la diferencia entre conjuntos se utiliza para filtrar correos no deseados o spam de la bandeja de entrada. Se resta la lista de remitentes bloqueados del total de mensajes recibidos por el usuario."
+  },
+  {
+    "intent_id": "complemento_definicion",
+    "keywords": [
+      "complemento",
+      "universo",
+      "elementos",
+      "conjuntos",
+      "definicion"
+    ],
+    "base_response": "El complemento de un conjunto es la operación que nos permite hallar todos los elementos del conjunto universal que no pertenecen al conjunto dado. Representa todo aquello que le falta al conjunto para ser igual al universo completo."
+  },
+  {
+    "intent_id": "complemento_simbolo",
+    "keywords": [
+      "simbolo",
+      "letra",
+      "complemento",
+      "notacion"
+    ],
+    "base_response": "El complemento de un conjunto se representa matemáticamente escribiendo una pequeña letra ce minúscula o un apóstrofe como superíndice en el nombre del conjunto. Se lee de forma directa como el complemento del conjunto A. Esta perspectiva inversa es de gran ayuda para resolver problemas lógicos."
+  },
+  {
+    "intent_id": "complemento_ejemplo_numeros",
+    "keywords": [
+      "ejemplo",
+      "numeros",
+      "universo",
+      "complemento",
+      "conjuntos"
+    ],
+    "base_response": "Si nuestro universo son los números enteros del uno al diez y el conjunto A tiene los valores impares, el complemento de A serán los números pares de esa lista. Son los elementos que faltaban en el conjunto original."
+  },
+  {
+    "intent_id": "complemento_del_universal",
+    "keywords": [
+      "universal",
+      "complemento",
+      "vacio",
+      "conjuntos",
+      "propiedad"
+    ],
+    "base_response": "El complemento del conjunto universal de la situación es de forma obligatoria el conjunto vacío en la teoría. Esto es lógico ya que al universo no le falta ningún elemento para ser igual a sí mismo. Esta perspectiva inversa es de gran ayuda para resolver problemas lógicos."
+  },
+  {
+    "intent_id": "complemento_del_vacio",
+    "keywords": [
+      "vacio",
+      "complemento",
+      "universal",
+      "conjuntos",
+      "propiedad"
+    ],
+    "base_response": "El complemento del conjunto vacío es igual al conjunto universal completo de la situación matemática bajo análisis. Al conjunto vacío le faltan todos los elementos del universo para llegar a ser igual a este último. Esta perspectiva inversa es de gran ayuda para resolver problemas lógicos."
+  },
+  {
+    "intent_id": "complemento_doble",
+    "keywords": [
+      "doble",
+      "complemento",
+      "mismo",
+      "conjunto",
+      "propiedad"
+    ],
+    "base_response": "La propiedad del doble complemento establece que el complemento del complemento de un conjunto dado es igual al propio conjunto original dado. Al aplicar la operación dos veces seguidas, regresamos exactamente al punto de partida de la lógica."
+  },
+  {
+    "intent_id": "complemento_comprension_notacion",
+    "keywords": [
+      "comprension",
+      "notacion",
+      "complemento",
+      "conjuntos",
+      "matematica"
+    ],
+    "base_response": "Por comprensión, el complemento de un conjunto A se define como el conjunto de elementos equis tales que equis pertenece al conjunto universal y equis no pertenece al conjunto A. La pertenencia al universo es un requisito indispensable."
+  },
+  {
+    "intent_id": "complemento_union_interseccion",
+    "keywords": [
+      "union",
+      "interseccion",
+      "complemento",
+      "universo",
+      "propiedad"
+    ],
+    "base_response": "La unión de cualquier conjunto de elementos con su respectivo conjunto complemento da como resultado final al conjunto universal de la situación. Hemos reunido todo lo que está dentro y fuera del conjunto en un solo grupo."
+  },
+  {
+    "intent_id": "complemento_interseccion_vacia",
+    "keywords": [
+      "interseccion",
+      "vacia",
+      "complemento",
+      "conjuntos",
+      "propiedad"
+    ],
+    "base_response": "La intersección de un conjunto dado con su propio complemento es siempre igual al conjunto vacío en las operaciones matemáticas. Es imposible que un elemento pertenezca al conjunto y esté fuera de él al mismo tiempo. Esta perspectiva inversa es de gran ayuda para resolver problemas lógicos."
+  },
+  {
+    "intent_id": "complemento_leyes_morgan",
+    "keywords": [
+      "morgan",
+      "leyes",
+      "union",
+      "interseccion",
+      "complemento"
+    ],
+    "base_response": "Las leyes de De Morgan son reglas matemáticas fundamentales que relacionan los complementos de la unión y la intersección de conjuntos. Estas leyes permiten transformar operaciones de conjuntos complejas de manera sencilla en álgebra escolar. Esta perspectiva inversa es de gran ayuda para resolver problemas lógicos."
+  },
+  {
+    "intent_id": "complemento_ejemplo_clase",
+    "keywords": [
+      "clase",
+      "colegio",
+      "estudiantes",
+      "complemento",
+      "ejemplo"
+    ],
+    "base_response": "Si en tu aula escolar el universo de referencia son todos los alumnos inscritos y el conjunto A representa a quienes trajeron su cuaderno, el complemento de A representará al grupo de estudiantes que olvidaron traer su cuaderno."
+  },
+  {
+    "intent_id": "complemento_diagrama_venn_uso",
+    "keywords": [
+      "diagrama",
+      "venn",
+      "complemento",
+      "sombreado",
+      "grafico"
+    ],
+    "base_response": "En los exámenes del colegio, el complemento se visualiza sombreando toda el área exterior al círculo del conjunto dado. Toda la zona dentro del rectángulo universal queda pintada excepto el propio círculo. Esta perspectiva inversa es de gran ayuda para resolver problemas lógicos."
+  },
+  {
+    "intent_id": "complemento_diferencia_relacion",
+    "keywords": [
+      "diferencia",
+      "universo",
+      "complemento",
+      "conjuntos",
+      "operacion"
+    ],
+    "base_response": "El complemento de un conjunto puede entenderse matemáticamente como una operación especial de diferencia de conjuntos de la teoría. Consiste simplemente en realizar la resta del conjunto universal menos el conjunto dado en la situación. Esta perspectiva inversa es de gran ayuda para resolver problemas lógicos."
+  },
+  {
+    "intent_id": "complemento_aplicacion_seguridad",
+    "keywords": [
+      "seguridad",
+      "redes",
+      "complemento",
+      "datos",
+      "aplicacion"
+    ],
+    "base_response": "En la seguridad informática escolar, el complemento de conjuntos se aplica para identificar posibles vulnerabilidades en las redes de computadoras. Se calcula el complemento de los accesos autorizados para vigilar las zonas desprotegidas. Esta perspectiva inversa es de gran ayuda para resolver problemas lógicos."
+  },
+  {
+    "intent_id": "pertenencia_definicion",
+    "keywords": [
+      "pertenencia",
+      "elementos",
+      "conjuntos",
+      "relacion",
+      "definicion"
+    ],
+    "base_response": "La pertenencia es la relación fundamental en matemáticas que indica si un elemento específico forma parte o no de un conjunto dado de objetos. Esta relación se establece siempre de un elemento hacia un conjunto completo. Esta relación elemental es el cimiento de la teoría de conjuntos."
+  },
+  {
+    "intent_id": "pertenencia_simbolo",
+    "keywords": [
+      "simbolo",
+      "letra",
+      "epsilon",
+      "pertenencia",
+      "notacion"
+    ],
+    "base_response": "La pertenencia de un elemento a un conjunto se representa matemáticamente utilizando el símbolo de la letra griega épsilon con trazo curvo. Este símbolo se escribe colocando el elemento a la izquierda y el conjunto a la derecha."
+  },
+  {
+    "intent_id": "pertenencia_no_pertenece",
+    "keywords": [
+      "pertenece",
+      "simbolo",
+      "linea",
+      "exclusion",
+      "notacion"
+    ],
+    "base_response": "Para indicar de forma directa que un elemento no pertenece a un conjunto de elementos, se utiliza el símbolo de pertenencia cruzado por una línea diagonal. Esto señala que el objeto no es parte del grupo bajo análisis."
+  },
+  {
+    "intent_id": "pertenencia_ejemplo_numeros",
+    "keywords": [
+      "ejemplo",
+      "numeros",
+      "pares",
+      "pertenencia",
+      "conjuntos"
+    ],
+    "base_response": "Si definimos el conjunto P como el grupo de los números pares, podemos afirmar de forma matemática que el número cuatro pertenece al conjunto P. Esta relación se escribe usando el símbolo de épsilon correspondiente. Esta relación elemental es el cimiento de la teoría de conjuntos."
+  },
+  {
+    "intent_id": "pertenencia_ejemplo_vocales",
+    "keywords": [
+      "vocales",
+      "letras",
+      "pertenencia",
+      "ejemplo",
+      "conjuntos"
+    ],
+    "base_response": "En el conjunto formado por las vocales de nuestro abecedario castellano, la letra a cumple con la relación de pertenencia de manera evidente. Sin embargo, la letra be no pertenece a dicho conjunto de letras vocales. Esta relación elemental es el cimiento de la teoría de conjuntos."
+  },
+  {
+    "intent_id": "pertenencia_elemento_conjunto",
+    "keywords": [
+      "elemento",
+      "conjunto",
+      "diferencia",
+      "pertenencia",
+      "regla"
+    ],
+    "base_response": "Es un requisito de la teoría matemática que la pertenencia se aplique únicamente entre un elemento y un conjunto de objetos. No es correcto utilizar el símbolo de pertenencia para relacionar dos conjuntos entre sí. Esta relación elemental es el cimiento de la teoría de conjuntos."
+  },
+  {
+    "intent_id": "pertenencia_no_orden",
+    "keywords": [
+      "orden",
+      "pertenencia",
+      "conjuntos",
+      "elementos",
+      "regla"
+    ],
+    "base_response": "La relación de pertenencia de un elemento no se ve afectada en absoluto por el orden en el que estén escritos los objetos dentro del conjunto. Un elemento pertenece al conjunto sin importar la posición que ocupe en la lista."
+  },
+  {
+    "intent_id": "pertenencia_notacion_extension",
+    "keywords": [
+      "extension",
+      "notacion",
+      "pertenencia",
+      "conjuntos",
+      "elementos"
+    ],
+    "base_response": "En la notación por extensión de un conjunto, podemos verificar la pertenencia de un elemento buscando directamente si el objeto aparece listado dentro de las llaves del conjunto. Si el elemento está escrito allí, la pertenencia es verdadera."
+  },
+  {
+    "intent_id": "pertenencia_notacion_comprension",
+    "keywords": [
+      "comprension",
+      "notacion",
+      "pertenencia",
+      "propiedad",
+      "conjuntos"
+    ],
+    "base_response": "En la notación por comprensión, la pertenencia de un elemento depende de si el objeto cumple o no con la propiedad característica escrita en la definición. Si el elemento posee la característica descrita, entonces pertenece al conjunto."
+  },
+  {
+    "intent_id": "pertenencia_ejemplo_aula",
+    "keywords": [
+      "aula",
+      "estudiantes",
+      "pertenencia",
+      "colegio",
+      "ejemplo"
+    ],
+    "base_response": "En tu colegio, tú cumples de forma directa con la relación de pertenencia con respecto al conjunto de estudiantes de tu salón de clases. Tu nombre figura de forma oficial en la lista de matrícula de la sección."
+  },
+  {
+    "intent_id": "pertenencia_diagrama_venn",
+    "keywords": [
+      "diagrama",
+      "venn",
+      "pertenencia",
+      "visualizacion",
+      "grafico"
+    ],
+    "base_response": "En los diagramas de Venn de la pizarra del aula, la pertenencia se comprueba visualmente observando si el punto que representa al elemento está dibujado dentro del círculo del conjunto. Si está dentro, la pertenencia es afirmativa."
+  },
+  {
+    "intent_id": "pertenencia_conjunto_vacio",
+    "keywords": [
+      "vacio",
+      "pertenencia",
+      "elementos",
+      "conjuntos",
+      "regla"
+    ],
+    "base_response": "Por su propia definición matemática, ningún elemento de las matemáticas puede cumplir con la relación de pertenencia respecto al conjunto vacío. El conjunto vacío carece por completo de objetos en su interior de forma permanente. Esta relación elemental es el cimiento de la teoría de conjuntos."
+  },
+  {
+    "intent_id": "pertenencia_infinitos_elementos",
+    "keywords": [
+      "infinitos",
+      "pertenencia",
+      "naturales",
+      "conjuntos",
+      "elementos"
+    ],
+    "base_response": "En los conjuntos que poseen infinitos elementos, como el conjunto de los números naturales, la pertenencia sigue siendo totalmente válida. Cualquier número entero positivo que imagines pertenece de forma oficial a este conjunto infinito. Esta relación elemental es el cimiento de la teoría de conjuntos."
+  },
+  {
+    "intent_id": "pertenencia_origen_teoria",
+    "keywords": [
+      "origen",
+      "historia",
+      "cantor",
+      "pertenencia",
+      "teoria"
+    ],
+    "base_response": "El concepto moderno de pertenencia y de elemento fue introducido formalmente por el matemático alemán Georg Cantor al fundar la teoría de conjuntos en el siglo diecinueve. Su trabajo revolucionó las bases de la matemática mundial. Esta relación elemental es el cimiento de la teoría de conjuntos."
+  },
+  {
+    "intent_id": "comprension_definicion",
+    "keywords": [
+      "comprension",
+      "notacion",
+      "propiedad",
+      "caracteristica",
+      "conjuntos"
+    ],
+    "base_response": "La notación por comprensión consiste en definir un conjunto mencionando únicamente la propiedad o característica común que deben cumplir todos sus elementos. Es una forma abreviada y muy elegante de representar conjuntos de gran tamaño. Este método abreviado es preferido para formular propiedades generales con rigor."
+  },
+  {
+    "intent_id": "comprension_simbolo_barra",
+    "keywords": [
+      "barra",
+      "tal",
+      "notacion",
+      "comprension",
+      "matematica"
+    ],
+    "base_response": "En la notación por comprensión, se utiliza una barra diagonal o vertical que se lee de forma directa como tal que. Esta barra separa la variable general de las condiciones específicas que deben cumplir los elementos. Este método abreviado es preferido para formular propiedades generales con rigor."
+  },
+  {
+    "intent_id": "comprension_ejemplo_impares",
+    "keywords": [
+      "ejemplo",
+      "impares",
+      "notacion",
+      "comprension",
+      "numeros"
+    ],
+    "base_response": "Un ejemplo clásico de notación por comprensión es definir el conjunto de los números impares menores que deiz. Escribimos entre llaves equis tal que equis es un número entero impar positivo menor que el número diez. Este método abreviado es preferido para formular propiedades generales con rigor."
+  },
+  {
+    "intent_id": "comprension_utilidad",
+    "keywords": [
+      "utilidad",
+      "grandes",
+      "notacion",
+      "comprension",
+      "infinitos"
+    ],
+    "base_response": "La gran utilidad de la notación por comprensión radica en su capacidad para representar conjuntos infinitos o sumamente grandes de manera compacta. Nos evita la tarea imposible de tener que listar uno por uno cada elemento. Este método abreviado es preferido para formular propiedades generales con rigor."
+  },
+  {
+    "intent_id": "comprension_notacion_letras",
+    "keywords": [
+      "letras",
+      "notacion",
+      "comprension",
+      "propiedad",
+      "conjuntos"
+    ],
+    "base_response": "Para definir el conjunto de las letras del alfabeto por comprensión, escribimos equis tal que equis es una letra de nuestro abecedario. Esta simple frase define perfectamente a las veintisiete letras sin necesidad de escribirlas todas. Este método abreviado es preferido para formular propiedades generales con rigor."
+  },
+  {
+    "intent_id": "comprension_reglas_llaves",
+    "keywords": [
+      "llaves",
+      "notacion",
+      "comprension",
+      "conjuntos",
+      "reglas"
+    ],
+    "base_response": "La notación por comprensión requiere siempre el uso de llaves para encerrar la definición matemática del conjunto de elementos. Las llaves indican de forma universal que estamos delimitando una colección bien definida de objetos. Este método abreviado es preferido para formular propiedades generales con rigor."
+  },
+  {
+    "intent_id": "comprension_comparacion_extension",
+    "keywords": [
+      "comparacion",
+      "extension",
+      "notacion",
+      "comprension",
+      "diferencia"
+    ],
+    "base_response": "A diferencia de la extensión, la comprensión no muestra la lista física de los elementos que componen el conjunto de objetos. La comprensión se enfoca únicamente en la regla matemática o lógica que determina la pertenencia. Este método abreviado es preferido para formular propiedades generales con rigor."
+  },
+  {
+    "intent_id": "comprension_ejercicio_multiplos",
+    "keywords": [
+      "ejercicio",
+      "multiplos",
+      "notacion",
+      "comprension",
+      "numeros"
+    ],
+    "base_response": "Si queremos definir los múltiplos de cinco mayores que cero por comprensión, escribimos equis tal que equis es igual a cinco por ka, con ka perteneciente al conjunto de los números naturales positivos. Este método abreviado es preferido para formular propiedades generales con rigor."
+  },
+  {
+    "intent_id": "comprension_abstraccion",
+    "keywords": [
+      "abstraccion",
+      "notacion",
+      "comprension",
+      "matematica",
+      "pensamiento"
+    ],
+    "base_response": "La notación por comprensión requiere un nivel de abstracción matemática muy valioso para los estudiantes de tercer ciclo de colegio. Ayuda a desarrollar el pensamiento lógico al resumir patrones numéricos complejos bajo una sola regla. Este método abreviado es preferido para formular propiedades generales con rigor."
+  },
+  {
+    "intent_id": "comprension_notacion_algebra",
+    "keywords": [
+      "algebra",
+      "ecuaciones",
+      "notacion",
+      "comprension",
+      "conjuntos"
+    ],
+    "base_response": "En el estudio del álgebra, la comprensión se usa para definir conjuntos solución de diversas ecuaciones o desigualdades matemáticas. Se escribe equis tal que equis cumple con la igualdad planteada en la ecuación. Este método abreviado es preferido para formular propiedades generales con rigor."
+  },
+  {
+    "intent_id": "comprension_ejemplo_meses",
+    "keywords": [
+      "meses",
+      "ano",
+      "notacion",
+      "comprension",
+      "ejemplo"
+    ],
+    "base_response": "Definir el conjunto de los meses del año por comprensión es tan sencillo como escribir equis tal que equis es un mes del calendario. Esta regla agrupa automáticamente a los doce meses conocidos por todos. Este método abreviado es preferido para formular propiedades generales con rigor."
+  },
+  {
+    "intent_id": "comprension_notacion_variable",
+    "keywords": [
+      "variable",
+      "notacion",
+      "comprension",
+      "letras",
+      "matematica"
+    ],
+    "base_response": "Aunque la letra equis es la variable más común utilizada en la notación por comprensión, se puede emplear cualquier otra letra minúscula. Lo importante es que la variable represente un elemento genérico de la colección. Este método abreviado es preferido para formular propiedades generales con rigor."
+  },
+  {
+    "intent_id": "comprension_origen_logico",
+    "keywords": [
+      "origen",
+      "historia",
+      "logica",
+      "comprension",
+      "desarrollo"
+    ],
+    "base_response": "La notación de conjuntos por comprensión cobró gran relevancia con el desarrollo de la lógica simbólica y la teoría formal de conjuntos. Permitió a los matemáticos estructurar teoremas complejos con una precisión de escritura sin precedentes. Este método abreviado es preferido para formular propiedades generales con rigor."
+  },
+  {
+    "intent_id": "extension_definicion",
+    "keywords": [
+      "extension",
+      "notacion",
+      "lista",
+      "elementos",
+      "conjuntos"
+    ],
+    "base_response": "La notación por extensión consiste en definir un conjunto escribiendo de forma explícita y directa la lista de todos sus elementos dentro de llaves. Es la manera más clara de mostrar qué contiene exactamente un conjunto. Este formato directo es el recomendado para introducir la teoría de conjuntos."
+  },
+  {
+    "intent_id": "extension_comas_separador",
+    "keywords": [
+      "comas",
+      "separador",
+      "extension",
+      "notacion",
+      "elementos"
+    ],
+    "base_response": "En la notación por extensión, es una regla fundamental separar cada uno de los elementos de la lista utilizando comas o puntos y comas. Esto evita confusiones visuales, especialmente al listar números con decimales. Este formato directo es el recomendado para introducir la teoría de conjuntos."
+  },
+  {
+    "intent_id": "extension_ejemplo_vocales",
+    "keywords": [
+      "vocales",
+      "letras",
+      "extension",
+      "notacion",
+      "ejemplo"
+    ],
+    "base_response": "Para escribir el conjunto de las vocales por extensión, abrimos llaves y escribimos de forma ordenada las letras a, e, i, o, u separadas por comas. Cerramos las llaves para finalizar la definición del conjunto. Este formato directo es el recomendado para introducir la teoría de conjuntos."
+  },
+  {
+    "intent_id": "extension_limite_utilidad",
+    "keywords": [
+      "limite",
+      "utilidad",
+      "extension",
+      "notacion",
+      "grandes"
+    ],
+    "base_response": "La notación por extensión es sumamente útil para conjuntos pequeños, pero resulta muy poco práctica para conjuntos demasiado grandes o de carácter infinito. En esos casos, escribir cada elemento de la lista se vuelve imposible. Este formato directo es el recomendado para introducir la teoría de conjuntos."
+  },
+  {
+    "intent_id": "extension_puntos_suspensivos",
+    "keywords": [
+      "suspensivos",
+      "extension",
+      "notacion",
+      "infinito",
+      "elementos"
+    ],
+    "base_response": "Cuando usamos la extensión para conjuntos grandes pero ordenados, podemos emplear puntos suspensivos para omitir la parte media o final de la lista. Esta convención matemática indica que el patrón numérico continúa de forma idéntica. Este formato directo es el recomendado para introducir la teoría de conjuntos."
+  },
+  {
+    "intent_id": "extension_no_repetir",
+    "keywords": [
+      "repetir",
+      "elementos",
+      "extension",
+      "notacion",
+      "regla"
+    ],
+    "base_response": "Una regla clave en la notación por extensión es que no se deben repetir elementos dentro de las llaves bajo ninguna circunstancia. Cada objeto diferente de la colección debe figurar una única vez en la lista escrita."
+  },
+  {
+    "intent_id": "extension_no_importa_orden",
+    "keywords": [
+      "orden",
+      "elementos",
+      "extension",
+      "notacion",
+      "regla"
+    ],
+    "base_response": "En la notación por extensión, el orden físico en el que escribimos los elementos dentro de las llaves no altera en absoluto al conjunto. El conjunto formado por uno, dos, tres es idéntico al formado por tres, dos, uno."
+  },
+  {
+    "intent_id": "extension_ejemplo_dados",
+    "keywords": [
+      "dados",
+      "caras",
+      "extension",
+      "notacion",
+      "ejemplo"
+    ],
+    "base_response": "El conjunto de los posibles resultados al lanzar un dado común de seis caras se escribe por extensión listando los números del uno al seis. Esta lista contiene todos los resultados posibles del experimento de azar. Este formato directo es el recomendado para introducir la teoría de conjuntos."
+  },
+  {
+    "intent_id": "extension_llaves_notacion",
+    "keywords": [
+      "llaves",
+      "notacion",
+      "extension",
+      "conjuntos",
+      "simbolos"
+    ],
+    "base_response": "El uso de llaves es obligatorio en la notación por extensión para agrupar y delimitar la lista de elementos del conjunto de objetos. No se deben utilizar paréntesis ni corchetes para esta representación matemática estándar. Este formato directo es el recomendado para introducir la teoría de conjuntos."
+  },
+  {
+    "intent_id": "extension_conjunto_vacio",
+    "keywords": [
+      "vacio",
+      "extension",
+      "notacion",
+      "llaves",
+      "elementos"
+    ],
+    "base_response": "Para representar el conjunto vacío utilizando la notación por extensión, simplemente dibujamos unas llaves de apertura y de cierre sin escribir nada en su espacio interior. Esto representa de forma directa la ausencia total de elementos. Este formato directo es el recomendado para introducir la teoría de conjuntos."
+  },
+  {
+    "intent_id": "extension_ejemplo_planetas",
+    "keywords": [
+      "planetas",
+      "sistema",
+      "extension",
+      "notacion",
+      "ejemplo"
+    ],
+    "base_response": "Escribir el conjunto de los planetas de nuestro sistema solar por extensión requiere listar nombres conocidos como Mercurio, Venus, Tierra o Marte entre llaves. Es un ejemplo perfecto de un conjunto finito de tamaño mediano. Este formato directo es el recomendado para introducir la teoría de conjuntos."
+  },
+  {
+    "intent_id": "extension_claridad_estudiantes",
+    "keywords": [
+      "claridad",
+      "estudiantes",
+      "extension",
+      "notacion",
+      "aprendizaje"
+    ],
+    "base_response": "Para los estudiantes de colegio que inician el estudio de conjuntos, la notación por extensión es la más intuitiva y clara para aprender. Permite observar físicamente a los elementos y comprender el concepto de colección matemática. Este formato directo es el recomendado para introducir la teoría de conjuntos."
+  },
+  {
+    "intent_id": "extension_relacion_comprension",
+    "keywords": [
+      "comprension",
+      "notacion",
+      "extension",
+      "conjuntos",
+      "conversion"
+    ],
+    "base_response": "Un ejercicio muy común en clase es convertir conjuntos expresados por comprensión a su respectiva notación por extensión. Este proceso ayuda a los alumnos a verificar si comprendieron la regla o característica común del conjunto. Este formato directo es el recomendado para introducir la teoría de conjuntos."
+  },
+  {
+    "intent_id": "recta_definicion",
+    "keywords": [
+      "recta",
+      "numerica",
+      "real",
+      "geometria",
+      "puntos"
+    ],
+    "base_response": "La recta numérica real es una línea recta horizontal en la que a cada punto de su extensión le corresponde exactamente un número real. Es una representación geométrica indispensable que permite visualizar el orden y la distancia entre los números."
+  },
+  {
+    "intent_id": "recta_origen_cero",
+    "keywords": [
+      "origen",
+      "cero",
+      "recta",
+      "numerica",
+      "centro"
+    ],
+    "base_response": "El punto de origen en la recta numérica se representa con el número cero, el cual se ubica en el centro absoluto del esquema gráfico. Este punto de referencia divide la recta en dos regiones infinitas bien definidas."
+  },
+  {
+    "intent_id": "recta_positivos_derecha",
+    "keywords": [
+      "positivos",
+      "derecha",
+      "recta",
+      "numerica",
+      "valores"
+    ],
+    "base_response": "Los números reales positivos se ubican a la derecha del punto de origen o cero en la recta numérica. A medida que avanzamos hacia el extremo derecho, los valores de los números van creciendo de forma infinita."
+  },
+  {
+    "intent_id": "recta_negativos_izquierda",
+    "keywords": [
+      "negativos",
+      "izquierda",
+      "recta",
+      "numerica",
+      "valores"
+    ],
+    "base_response": "Los números reales negativos se ubican hacia la izquierda del punto de origen en la recta numérica. Cuanto más a la izquierda se dibuje un número negativo, menor será su valor real en las operaciones matemáticas. Esta visualización lineal ayuda a comprender la magnitud de los números."
+  },
+  {
+    "intent_id": "recta_continuidad_puntos",
+    "keywords": [
+      "continuidad",
+      "puntos",
+      "recta",
+      "numerica",
+      "reales"
+    ],
+    "base_response": "La recta numérica real es continua y completa, lo que significa que no existen vacíos ni agujeros entre los números de la línea. Cada punto infinitesimal de la recta corresponde a un único número real racional o irracional."
+  },
+  {
+    "intent_id": "recta_ejemplo_termometro",
+    "keywords": [
+      "termometro",
+      "temperatura",
+      "recta",
+      "numerica",
+      "ejemplo"
+    ],
+    "base_response": "Un termómetro de pared es un ejemplo cotidiano excelente de la recta numérica colocada de forma vertical en el aula. Las temperaturas cálidas se leen por encima del cero, mientras que los valores bajo cero van abajo."
+  },
+  {
+    "intent_id": "recta_coordenadas",
+    "keywords": [
+      "coordenadas",
+      "recta",
+      "numerica",
+      "posicion",
+      "puntos"
+    ],
+    "base_response": "En la recta numérica real, el valor numérico asignado a un punto específico se conoce matemáticamente como su coordenada de posición. Esta coordenada nos indica exactamente dónde se encuentra el objeto en la recta de referencia. Esta visualización lineal ayuda a comprender la magnitud de los números."
+  },
+  {
+    "intent_id": "recta_distancia_absoluto",
+    "keywords": [
+      "distancia",
+      "valor",
+      "absoluto",
+      "recta",
+      "segmento"
+    ],
+    "base_response": "La distancia entre dos números en la recta numérica es la longitud del segmento que los separa, calculada con el valor absoluto. Al ser una distancia física, su resultado será siempre una cantidad positiva en metros o unidades."
+  },
+  {
+    "intent_id": "recta_densidad",
+    "keywords": [
+      "densidad",
+      "reales",
+      "puntos",
+      "recta",
+      "infinitos"
+    ],
+    "base_response": "La propiedad de densidad en la recta numérica real establece que entre cualquier pareja de puntos siempre se puede hallar un tercer punto. Esto significa que la recta alberga infinitos números reales en cualquier intervalo de la recta."
+  },
+  {
+    "intent_id": "recta_orden_comparar",
+    "keywords": [
+      "orden",
+      "comparar",
+      "recta",
+      "numerica",
+      "regla"
+    ],
+    "base_response": "La recta numérica facilita enormemente comparar cualquier par de números reales de forma visual en la pizarra. El número que se ubique a la derecha en la línea es siempre de forma obligatoria el mayor de los dos."
+  },
+  {
+    "intent_id": "recta_ejemplo_regla",
+    "keywords": [
+      "regla",
+      "medicion",
+      "recta",
+      "numerica",
+      "ejemplo"
+    ],
+    "base_response": "La regla graduada de treinta centímetros que llevas en tu estuche escolar es un trozo directo de la recta numérica real. Te permite medir la longitud de tus cuadernos utilizando los números naturales y decimales marcados. Esta visualización lineal ayuda a comprender la magnitud de los números."
+  },
+  {
+    "intent_id": "recta_intervalos_segmentos",
+    "keywords": [
+      "intervalos",
+      "segmentos",
+      "recta",
+      "numerica",
+      "conjuntos"
+    ],
+    "base_response": "Los intervalos son porciones o segmentos continuos de la recta numérica que agrupan a todos los números comprendidos entre dos límites. Pueden ser abiertos, cerrados o semiabiertos en la teoría de conjuntos de matemáticas. Esta visualización lineal ayuda a comprender la magnitud de los números."
+  },
+  {
+    "intent_id": "recta_representacion_grafica",
+    "keywords": [
+      "grafica",
+      "representacion",
+      "recta",
+      "numerica",
+      "dibujo"
+    ],
+    "base_response": "Para dibujar la recta numérica, se traza una línea recta con flechas en ambos extremos para indicar su naturaleza infinita. Se marcan divisiones uniformes para representar la escala de los números de forma ordenada y limpia. Esta visualización lineal ayuda a comprender la magnitud de los números."
+  },
+  {
+    "intent_id": "cardinalidad_definicion",
+    "keywords": [
+      "cardinalidad",
+      "elementos",
+      "conjunto",
+      "tamanho",
+      "definicion"
+    ],
+    "base_response": "La cardinalidad es el concepto matemático que indica la cantidad exacta de elementos diferentes que componen un conjunto dado. Es la medida del tamaño o extensión de la colección de objetos bajo análisis. Esta medida de tamaño permite comparar la extensión de diferentes colecciones."
+  },
+  {
+    "intent_id": "cardinalidad_simbolo",
+    "keywords": [
+      "simbolo",
+      "barras",
+      "cardinalidad",
+      "conjunto",
+      "notacion"
+    ],
+    "base_response": "La cardinalidad de un conjunto se representa matemáticamente colocando el nombre del conjunto entre dos barras verticales idénticas. También se suele escribir anteponiendo la letra ene minúscula al nombre del conjunto entre paréntesis. Esta medida de tamaño permite comparar la extensión de diferentes colecciones."
+  },
+  {
+    "intent_id": "cardinalidad_ejemplo_vocales",
+    "keywords": [
+      "vocales",
+      "cardinalidad",
+      "cinco",
+      "ejemplo",
+      "conjuntos"
+    ],
+    "base_response": "Si definimos el conjunto V como el grupo de las letras vocales de nuestro abecedario, su cardinalidad es igual a cinco. Esto indica de manera directa que existen exactamente cinco elementos diferentes en el conjunto. Esta medida de tamaño permite comparar la extensión de diferentes colecciones."
+  },
+  {
+    "intent_id": "cardinalidad_conjunto_vacio",
+    "keywords": [
+      "vacio",
+      "cardinalidad",
+      "cero",
+      "conjuntos",
+      "regla"
+    ],
+    "base_response": "Por definición, la cardinalidad del conjunto vacío es igual a cero, ya que no posee elementos en su interior. Es el único conjunto de la teoría que tiene esta cardinalidad tan particular y baja. Esta medida de tamaño permite comparar la extensión de diferentes colecciones."
+  },
+  {
+    "intent_id": "cardinalidad_finitos",
+    "keywords": [
+      "finitos",
+      "cardinalidad",
+      "entero",
+      "conjuntos",
+      "definicion"
+    ],
+    "base_response": "Los conjuntos finitos son aquellos cuya cardinalidad es igual a un número entero positivo determinado o al número cero. Esto significa que el proceso de contar sus elementos siempre llega a un final físico claro. Esta medida de tamaño permite comparar la extensión de diferentes colecciones."
+  },
+  {
+    "intent_id": "cardinalidad_infinitos",
+    "keywords": [
+      "infinitos",
+      "cardinalidad",
+      "naturales",
+      "conjuntos",
+      "definicion"
+    ],
+    "base_response": "Los conjuntos infinitos son aquellos que poseen una cardinalidad que no se puede representar con un número entero común. Ejemplos de estos conjuntos son los números naturales, los enteros y todos los números reales. Esta medida de tamaño permite comparar la extensión de diferentes colecciones."
+  },
+  {
+    "intent_id": "cardinalidad_no_repetidos",
+    "keywords": [
+      "repetidos",
+      "cardinalidad",
+      "diferentes",
+      "elementos",
+      "regla"
+    ],
+    "base_response": "Es una regla matemática crucial que los elementos repetidos no aumenten el valor de la cardinalidad de un conjunto. Si un conjunto se escribe listando varias veces un objeto, el elemento se cuenta una sola vez. Esta medida de tamaño permite comparar la extensión de diferentes colecciones."
+  },
+  {
+    "intent_id": "cardinalidad_ejemplo_dados",
+    "keywords": [
+      "dados",
+      "caras",
+      "cardinalidad",
+      "seis",
+      "ejemplo"
+    ],
+    "base_response": "El conjunto formado por los posibles resultados al lanzar un dado común de juego posee una cardinalidad de seis. Esto se debe a que el dado cuenta con exactamente seis caras numeradas diferentes en total. Esta medida de tamaño permite comparar la extensión de diferentes colecciones."
+  },
+  {
+    "intent_id": "cardinalidad_union_formula",
+    "keywords": [
+      "formula",
+      "union",
+      "cardinalidad",
+      "interseccion",
+      "conjuntos"
+    ],
+    "base_response": "Para hallar la cardinalidad de la unión de dos conjuntos, sumamos sus cardinalidades individuales y restamos la cardinalidad de su intersección comunes. Esta fórmula matemática evita contar dos veces los elementos compartidos de los conjuntos. Esta medida de tamaño permite comparar la extensión de diferentes colecciones."
+  },
+  {
+    "intent_id": "cardinalidad_ejemplo_aula",
+    "keywords": [
+      "aula",
+      "estudiantes",
+      "cardinalidad",
+      "colegio",
+      "ejemplo"
+    ],
+    "base_response": "La cardinalidad del conjunto de estudiantes inscritos en tu sección de noveno grado equivale al número total de alumnos de la clase. Este número se utiliza cada mañana por el profesor en la lista. Esta medida de tamaño permite comparar la extensión de diferentes colecciones."
+  },
+  {
+    "intent_id": "cardinalidad_comparar_tamanho",
+    "keywords": [
+      "comparar",
+      "tamanho",
+      "cardinalidad",
+      "conjuntos",
+      "equivalentes"
+    ],
+    "base_response": "La cardinalidad nos permite comparar de forma objetiva el tamaño de dos conjuntos diferentes sin importar la naturaleza de sus elementos. Si dos conjuntos poseen igual cardinalidad, se denominan conjuntos de tipo equivalentes. Esta medida de tamaño permite comparar la extensión de diferentes colecciones."
+  },
+  {
+    "intent_id": "cardinalidad_universo_base",
+    "keywords": [
+      "universo",
+      "cardinalidad",
+      "limite",
+      "conjuntos",
+      "unidades"
+    ],
+    "base_response": "La cardinalidad de un conjunto siempre está limitada por la cardinalidad del conjunto universal que sirve de base para el problema planteado. El tamaño del conjunto menor nunca podrá ser superior al de su universo. Esta medida de tamaño permite comparar la extensión de diferentes colecciones."
+  },
+  {
+    "intent_id": "cardinalidad_origen_cantor",
+    "keywords": [
+      "origen",
+      "historia",
+      "cantor",
+      "cardinalidad",
+      "teoria"
+    ],
+    "base_response": "La teoría matemática del infinito y los diferentes tipos de cardinalidad infinita fue desarrollada por el sabio Georg Cantor a finales del siglo diecinueve. Cantor demostró que existen infinitos más grandes que otros conjuntos. Esta medida de tamaño permite comparar la extensión de diferentes colecciones."
+  },
+  {
+    "intent_id": "vacio_definicion",
+    "keywords": [
+      "vacio",
+      "nulo",
+      "elementos",
+      "conjunto",
+      "definicion"
+    ],
+    "base_response": "El conjunto vacío o nulo es aquel conjunto especial que carece por completo de elementos en su estructura interna de forma permanente. Es un concepto matemático básico fundamental para estructurar operaciones y definiciones teóricas. Esta estructura singular es vital para definir límites en la teoría."
+  },
+  {
+    "intent_id": "vacio_simbolo",
+    "keywords": [
+      "simbolo",
+      "letra",
+      "circulo",
+      "vacio",
+      "notacion"
+    ],
+    "base_response": "El conjunto vacío se representa universalmente en matemáticas utilizando un símbolo que consiste en un círculo cruzado por una línea diagonal. También se puede representar dibujando un par de llaves vacías. Esta estructura singular es vital para definir límites en la teoría."
+  },
+  {
+    "intent_id": "vacio_cardinalidad",
+    "keywords": [
+      "cardinalidad",
+      "cero",
+      "vacio",
+      "conjuntos",
+      "propiedad"
+    ],
+    "base_response": "La cardinalidad del conjunto vacío es igual a cero de manera inquebrantable, dado que no alberga ningún objeto en su interior. Esta propiedad lo convierte en una estructura única en las matemáticas escolares. Esta estructura singular es vital para definir límites en la teoría."
+  },
+  {
+    "intent_id": "vacio_subconjunto_todos",
+    "keywords": [
+      "subconjunto",
+      "todos",
+      "vacio",
+      "conjuntos",
+      "propiedad"
+    ],
+    "base_response": "El conjunto vacío tiene la propiedad única de ser considerado un subconjunto directo de absolutamente cualquier otro conjunto existente en matemáticas. Está contenido de forma lógica y teórica dentro de todos los conjuntos. Esta estructura singular es vital para definir límites en la teoría."
+  },
+  {
+    "intent_id": "vacio_interseccion",
+    "keywords": [
+      "interseccion",
+      "vacio",
+      "conjuntos",
+      "resultado",
+      "propiedad"
+    ],
+    "base_response": "La intersección de cualquier conjunto con el conjunto vacío da siempre como resultado final al propio conjunto vacío en las operaciones. Esto se debe a que no existen elementos comunes que se puedan compartir. Esta estructura singular es vital para definir límites en la teoría."
+  },
+  {
+    "intent_id": "vacio_union",
+    "keywords": [
+      "union",
+      "vacio",
+      "conjuntos",
+      "resultado",
+      "propiedad"
+    ],
+    "base_response": "La unión de cualquier conjunto de elementos con el conjunto vacío da como resultado el conjunto original intacto de forma directa. El conjunto vacío no aporta ningún elemento nuevo a la colección matemática. Esta estructura singular es vital para definir límites en la teoría."
+  },
+  {
+    "intent_id": "vacio_diferencia_resta",
+    "keywords": [
+      "diferencia",
+      "restar",
+      "vacio",
+      "conjuntos",
+      "propiedad"
+    ],
+    "base_response": "Si al conjunto vacío le restas cualquier otro conjunto de elementos, el resultado de la diferencia seguirá siendo el conjunto vacío. Al no tener elementos inicialmente, no es posible quitar ningún objeto de él. Esta estructura singular es vital para definir límites en la teoría."
+  },
+  {
+    "intent_id": "vacio_ejemplo_imposible",
+    "keywords": [
+      "ejemplo",
+      "imposible",
+      "perros",
+      "vacio",
+      "comprension"
+    ],
+    "base_response": "Un ejemplo del conjunto vacío por comprensión es el grupo de perros que saben hablar español de forma fluida. Como esta característica es físicamente imposible, el conjunto correspondiente no contiene ningún elemento real. Esta estructura singular es vital para definir límites en la teoría."
+  },
+  {
+    "intent_id": "vacio_unicidad",
+    "keywords": [
+      "unicidad",
+      "unico",
+      "vacio",
+      "teoria",
+      "conjuntos"
+    ],
+    "base_response": "En la teoría matemática, existe un único conjunto vacío en todo el universo de las matemáticas de forma estricta. Aunque definamos diferentes condiciones imposibles para crearlo, todas ellas conducen al mismo conjunto nulo. Esta estructura singular es vital para definir límites en la teoría."
+  },
+  {
+    "intent_id": "vacio_complemento",
+    "keywords": [
+      "complemento",
+      "universal",
+      "vacio",
+      "universo",
+      "propiedad"
+    ],
+    "base_response": "El complemento del conjunto vacío dentro de cualquier problema es igual al conjunto universal base de referencia de la situación. Al conjunto vacío le falta la totalidad del universo para llegar a completarse. Esta estructura singular es vital para definir límites en la teoría."
+  },
+  {
+    "intent_id": "vacio_no_elemento",
+    "keywords": [
+      "elemento",
+      "error",
+      "vacio",
+      "conjunto",
+      "notacion"
+    ],
+    "base_response": "Es un error común de los estudiantes confundir el conjunto vacío con un conjunto que tiene al número cero como elemento. Un conjunto con el cero posee un elemento, por lo que su cardinalidad es uno. Esta estructura singular es vital para definir límites en la teoría."
+  },
+  {
+    "intent_id": "vacio_algebra_cerrojo",
+    "keywords": [
+      "algebra",
+      "solucion",
+      "vacio",
+      "ecuaciones",
+      "vacia"
+    ],
+    "base_response": "En el estudio del álgebra, el conjunto vacío se emplea para representar de forma directa a las ecuaciones que no poseen ninguna solución real. En estos casos, el conjunto solución se declara vacío. Esta estructura singular es vital para definir límites en la teoría."
+  },
+  {
+    "intent_id": "vacio_origen_formal",
+    "keywords": [
+      "origen",
+      "historia",
+      "vacio",
+      "teoria",
+      "conjuntos"
+    ],
+    "base_response": "La definición formal del conjunto vacío fue consolidada con la axiomatización de la teoría de conjuntos en el siglo veinte. Fue indispensable para estructurar la aritmética moderna a partir de bases lógicas puras. Esta estructura singular es vital para definir límites en la teoría."
+  },
+  {
+    "intent_id": "universal_definicion",
+    "keywords": [
+      "universal",
+      "universo",
+      "elementos",
+      "conjuntos",
+      "definicion"
+    ],
+    "base_response": "El conjunto universal o de referencia es aquel conjunto especial que contiene a la totalidad de los elementos que son objeto de estudio en un problema determinado. Sirve de marco de referencia para todas las operaciones matemáticas."
+  },
+  {
+    "intent_id": "universal_simbolo",
+    "keywords": [
+      "simbolo",
+      "letra",
+      "invertida",
+      "universal",
+      "notacion"
+    ],
+    "base_response": "El conjunto universal se representa matemáticamente de forma estándar utilizando la letra mayúscula u negrita o con doble trazo vertical. Este símbolo ayuda a identificar de forma inmediata al universo bajo análisis. Este conjunto de referencia previene inconsistencias lógicas en el problema."
+  },
+  {
+    "intent_id": "universal_rectangulo_grafico",
+    "keywords": [
+      "rectangulo",
+      "venn",
+      "universal",
+      "universo",
+      "representacion"
+    ],
+    "base_response": "En la representación gráfica de los diagramas de Venn, el conjunto universal se dibuja como un rectángulo exterior amplio de color suave. Los círculos de los demás conjuntos se colocan siempre dentro de este rectángulo. Este conjunto de referencia previene inconsistencias lógicas en el problema."
+  },
+  {
+    "intent_id": "universal_ejemplo_letras",
+    "keywords": [
+      "letras",
+      "alfabeto",
+      "universal",
+      "universo",
+      "ejemplo"
+    ],
+    "base_response": "Si en un ejercicio escolar estamos trabajando únicamente con las letras vocales, el conjunto universal más lógico para tomar como referencia es el abecedario completo en español. Todas las letras vocales están contenidas allí. Este conjunto de referencia previene inconsistencias lógicas en el problema."
+  },
+  {
+    "intent_id": "universal_complemento",
+    "keywords": [
+      "complemento",
+      "vacio",
+      "universal",
+      "universo",
+      "propiedad"
+    ],
+    "base_response": "El complemento de cualquier conjunto universal es siempre de forma obligatoria igual al conjunto vacío en las operaciones de teoría de conjuntos. Al universo no le falta ningún elemento para ser igual a sí mismo. Este conjunto de referencia previene inconsistencias lógicas en el problema."
+  },
+  {
+    "intent_id": "universal_union",
+    "keywords": [
+      "union",
+      "universal",
+      "universo",
+      "resultado",
+      "propiedad"
+    ],
+    "base_response": "La unión de cualquier conjunto de elementos con el conjunto universal da como resultado al propio conjunto universal completo. No es posible generar elementos que se encuentren fuera del universo establecido para la situación. Este conjunto de referencia previene inconsistencias lógicas en el problema."
+  },
+  {
+    "intent_id": "universal_interseccion",
+    "keywords": [
+      "interseccion",
+      "universal",
+      "conjuntos",
+      "resultado",
+      "propiedad"
+    ],
+    "base_response": "La intersección de cualquier conjunto con el conjunto universal da como resultado al propio conjunto original sin alteración alguna. Los únicos elementos comunes son exclusivamente aquellos que pertenecen al conjunto de menor tamaño. Este conjunto de referencia previene inconsistencias lógicas en el problema."
+  },
+  {
+    "intent_id": "universal_cambiante",
+    "keywords": [
+      "cambiante",
+      "referencia",
+      "universal",
+      "contexto",
+      "problema"
+    ],
+    "base_response": "Es importante destacar que el conjunto universal no es un conjunto único o fijo para todas las matemáticas del mundo. El universo de referencia se define de manera personalizada según el contexto del problema. Este conjunto de referencia previene inconsistencias lógicas en el problema."
+  },
+  {
+    "intent_id": "universal_ejemplo_colegio",
+    "keywords": [
+      "colegio",
+      "estudiantes",
+      "universal",
+      "universo",
+      "ejemplo"
+    ],
+    "base_response": "Si estás analizando la cantidad de alumnos que practican deportes en tu sección, el conjunto de todos los estudiantes inscritos en el colegio puede actuar perfectamente como el conjunto universal de referencia. Este conjunto de referencia previene inconsistencias lógicas en el problema."
+  },
+  {
+    "intent_id": "universal_superconjunto_todos",
+    "keywords": [
+      "superconjunto",
+      "todos",
+      "universal",
+      "conjuntos",
+      "propiedad"
+    ],
+    "base_response": "El conjunto universal de un problema es, por definición de la teoría, el superconjunto de absolutamente todos los conjuntos que intervienen en dicho escenario de estudio. Ningún elemento puede existar fuera de este universo. Este conjunto de referencia previene inconsistencias lógicas en el problema."
+  },
+  {
+    "intent_id": "universal_notacion_comprension",
+    "keywords": [
+      "comprension",
+      "notacion",
+      "universal",
+      "universo",
+      "propiedad"
+    ],
+    "base_response": "Por comprensión, el conjunto universal se suele definir estableciendo que agrupa a todos los elementos equis tales que equis pertenece al ámbito o contexto específico de estudio definido para la situación matemática. Este conjunto de referencia previene inconsistencias lógicas en el problema."
+  },
+  {
+    "intent_id": "universal_utilidad_datos",
+    "keywords": [
+      "datos",
+      "organizacion",
+      "universal",
+      "computacion",
+      "utilidad"
+    ],
+    "base_response": "En la computación y la gestión de grandes bases de datos, el conjunto universal representa a la base de datos completa de la empresa. Los subconjuntos se forman para realizar búsquedas específicas de clientes o productos. Este conjunto de referencia previene inconsistencias lógicas en el problema."
+  },
+  {
+    "intent_id": "universal_origen_teoria",
+    "keywords": [
+      "origen",
+      "historia",
+      "cantor",
+      "universal",
+      "teoria"
+    ],
+    "base_response": "La noción de un conjunto que abarcara a todos los objetos imaginables fue discutida ampliamente por los fundadores de la teoría de conjuntos. Sin embargo, se limitó a conjuntos de referencia para evitar paradojas matemáticas. Este conjunto de referencia previene inconsistencias lógicas en el problema."
+  },
+  {
+    "intent_id": "clasificacion_definicion",
+    "keywords": [
+      "clasificacion",
+      "numeros",
+      "conjuntos",
+      "sistemas",
+      "definicion"
+    ],
+    "base_response": "La clasificación de números consiste en organizar la totalidad de los valores numéricos en diferentes familias o conjuntos según sus propiedades matemáticas particulares. Esta organización jerárquica facilita enormemente el estudio del álgebra en el colegio. Esta estructuración brinda un mapa mental claro para ubicar cada sistema."
+  },
+  {
+    "intent_id": "clasificacion_jerarquia",
+    "keywords": [
+      "jerarquia",
+      "subconjuntos",
+      "numeros",
+      "sistemas",
+      "estructura"
+    ],
+    "base_response": "La clasificación sigue una jerarquía de inclusión donde los conjuntos menores están contenidos dentro de los mayores. De este modo, los naturales están en los enteros, que están en los racionales, que están en los reales. Esta estructuración brinda un mapa mental claro para ubicar cada sistema."
+  },
+  {
+    "intent_id": "clasificacion_naturales_enteros",
+    "keywords": [
+      "naturales",
+      "enteros",
+      "clasificacion",
+      "relacion",
+      "positivos"
+    ],
+    "base_response": "Dentro del gran mapa de clasificación, los números naturales se ubican como la primera rama de los números enteros. Representan exactamente a todos los enteros de signo positivo que se utilizan para contar. Esta estructuración brinda un mapa mental claro para ubicar cada sistema."
+  },
+  {
+    "intent_id": "clasificacion_enteros_racionales",
+    "keywords": [
+      "enteros",
+      "racionales",
+      "clasificacion",
+      "fracciones",
+      "relacion"
+    ],
+    "base_response": "Los números enteros se clasifican a su vez como una subdivisión directa de los números racionales de la teoría. Esto es así porque cualquier entero puede escribirse como una fracción con denominador uno. Esta estructuración brinda un mapa mental claro para ubicar cada sistema."
+  },
+  {
+    "intent_id": "clasificacion_racionales_irracionales",
+    "keywords": [
+      "racionales",
+      "irracionales",
+      "clasificacion",
+      "separados",
+      "diferencia"
+    ],
+    "base_response": "Una de las divisiones más nítidas de la clasificación separa por completo a los números racionales de los números irracionales. Son conjuntos totalmente disjuntos que no comparten ningún elemento en sus definiciones de estructura. Esta estructuración brinda un mapa mental claro para ubicar cada sistema."
+  },
+  {
+    "intent_id": "clasificacion_reales_cima",
+    "keywords": [
+      "reales",
+      "racionales",
+      "irracionales",
+      "clasificacion",
+      "conjunto"
+    ],
+    "base_response": "En el nivel de la educación secundaria, el conjunto de los números reales representa la cima de la clasificación numérica escolar. Se forma uniendo directamente las ramas de los racionales y de los irracionales. Esta estructuración brinda un mapa mental claro para ubicar cada sistema."
+  },
+  {
+    "intent_id": "clasificacion_complejos",
+    "keywords": [
+      "complejos",
+      "reales",
+      "imaginarios",
+      "clasificacion",
+      "amplia"
+    ],
+    "base_response": "Más allá de los números reales, existe una clasificación superior que introduce al conjunto de los números complejos. Este súper conjunto engloba tanto a los números reales como a los números imaginarios puros. Esta estructuración brinda un mapa mental claro para ubicar cada sistema."
+  },
+  {
+    "intent_id": "clasificacion_imaginarios_rama",
+    "keywords": [
+      "imaginarios",
+      "complejos",
+      "clasificacion",
+      "raiz",
+      "rama"
+    ],
+    "base_response": "Los números imaginarios ocupan una rama muy especial y separada de la clasificación de números del sistema. Se encargan de dar solución a operaciones que no tienen respuesta en la recta de reales. Esta estructuración brinda un mapa mental claro para ubicar cada sistema."
+  },
+  {
+    "intent_id": "clasificacion_ejemplo_esquema",
+    "keywords": [
+      "esquema",
+      "visual",
+      "clasificacion",
+      "llaves",
+      "diagrama"
+    ],
+    "base_response": "En los libros de texto de matemáticas, la clasificación de los números suele presentarse visualmente utilizando diagramas de llaves o cajas anidadas. Este esquema ayuda a los alumnos a memorizar la pertenencia jerárquica. Esta estructuración brinda un mapa mental claro para ubicar cada sistema."
+  },
+  {
+    "intent_id": "clasificacion_utilidad_algebra",
+    "keywords": [
+      "algebra",
+      "operaciones",
+      "clasificacion",
+      "numeros",
+      "utilidad"
+    ],
+    "base_response": "Conocer la clasificación de los números es de suma importancia para aplicar propiedades algebraicas correctas en las ecuaciones. Cada conjunto numérico tiene reglas particulares sobre qué operaciones matemáticas se pueden realizar en él. Esta estructuración brinda un mapa mental claro para ubicar cada sistema."
+  },
+  {
+    "intent_id": "clasificacion_fracciones_rama",
+    "keywords": [
+      "fracciones",
+      "decimales",
+      "racionales",
+      "clasificacion",
+      "valores"
+    ],
+    "base_response": "Las fracciones comunes y los números decimales exactos se clasifican bajo la rama de los números racionales del sistema. Representan partes fraccionarias de unidades que se pueden medir con exactitud y orden en la recta. Esta estructuración brinda un mapa mental claro para ubicar cada sistema."
+  },
+  {
+    "intent_id": "clasificacion_no_mezclar",
+    "keywords": [
+      "mezclar",
+      "error",
+      "racionales",
+      "irracionales",
+      "clasificacion"
+    ],
+    "base_response": "Un error común de los estudiantes al clasificar es intentar colocar a los números decimales periódicos dentro de los irracionales. Recuerda que al poder escribirse como fracciones, pertenecen estrictamente a los racionales. Esta estructuración brinda un mapa mental claro para ubicar cada sistema."
+  },
+  {
+    "intent_id": "clasificacion_origen_historico",
+    "keywords": [
+      "origen",
+      "historia",
+      "evolucion",
+      "clasificacion",
+      "sistemas"
+    ],
+    "base_response": "La clasificación completa de los números ha sido un proceso de evolución histórica que tardó miles de años en consolidarse. Cada conjunto numérico nuevo nació para resolver limitaciones de los conjuntos numéricos anteriores. Esta estructuración brinda un mapa mental claro para ubicar cada sistema."
+  },
+  {
+    "intent_id": "cerradura_definicion",
+    "keywords": [
+      "cerradura",
+      "operacion",
+      "conjunto",
+      "resultado",
+      "definicion"
+    ],
+    "base_response": "La propiedad de cerradura establece que al realizar una operación matemática con elementos de un conjunto dado, el resultado obtenido debe pertenecer de forma obligatoria al mismo conjunto. Decimos entonces que el conjunto es cerrado. Esta consistencia garantiza la validez de las operaciones algebraicas básicas."
+  },
+  {
+    "intent_id": "cerradura_suma_naturales",
+    "keywords": [
+      "suma",
+      "naturales",
+      "cerradura",
+      "resultado",
+      "propiedad"
+    ],
+    "base_response": "La suma de números naturales cumple de manera perfecta con la propiedad de cerradura en matemáticas. Si sumas cualquier pareja de números naturales, el resultado que obtendrás será de forma garantizada otro número natural positivo. Esta consistencia garantiza la validez de las operaciones algebraicas básicas."
+  },
+  {
+    "intent_id": "cerradura_multi_naturales",
+    "keywords": [
+      "multiplicacion",
+      "naturales",
+      "cerradura",
+      "resultado",
+      "propiedad"
+    ],
+    "base_response": "La multiplicación en el conjunto de los números naturales es cerrada bajo todas sus operaciones y combinaciones posibles. El producto de dos enteros positivos siempre resulta en un número natural de igual naturaleza. Esta consistencia garantiza la validez de las operaciones algebraicas básicas."
+  },
+  {
+    "intent_id": "cerradura_resta_naturales",
+    "keywords": [
+      "resta",
+      "naturales",
+      "error",
+      "cerradura",
+      "negativo"
+    ],
+    "base_response": "Es fundamental comprender que la resta de números naturales no cumple con la propiedad de cerradura en absoluto. Si a un número menor le restas uno mayor, el resultado será un número negativo que no pertenece a los naturales."
+  },
+  {
+    "intent_id": "cerradura_suma_enteros",
+    "keywords": [
+      "suma",
+      "enteros",
+      "cerradura",
+      "resultado",
+      "propiedad"
+    ],
+    "base_response": "El conjunto de los números enteros es completamente cerrado bajo la operación matemática de la suma elemental. Sumar enteros positivos o negativos siempre dará como resultado un número que forma parte de la gran familia zeta. Esta consistencia garantiza la validez de las operaciones algebraicas básicas."
+  },
+  {
+    "intent_id": "cerradura_resta_enteros",
+    "keywords": [
+      "resta",
+      "enteros",
+      "cerradura",
+      "resultado",
+      "propiedad"
+    ],
+    "base_response": "A diferencia de los naturales, la resta de números enteros sí cumple con la propiedad de cerradura de forma universal. No importa el tamaño de los enteros, su diferencia será siempre un número entero válido. Esta consistencia garantiza la validez de las operaciones algebraicas básicas."
+  },
+  {
+    "intent_id": "cerradura_div_enteros",
+    "keywords": [
+      "division",
+      "enteros",
+      "fraccion",
+      "cerradura",
+      "error"
+    ],
+    "base_response": "La división en el conjunto de los números enteros no cumple con la propiedad de cerradura bajo ninguna circunstancia matemática. Dividir cinco entre dos da como resultado un número decimal que no pertenece a los enteros. Esta consistencia garantiza la validez de las operaciones algebraicas básicas."
+  },
+  {
+    "intent_id": "cerradura_racionales_operaciones",
+    "keywords": [
+      "operaciones",
+      "racionales",
+      "cerradura",
+      "cuatro",
+      "resultado"
+    ],
+    "base_response": "El conjunto de los números racionales cumple con la cerradura para la suma, resta, multiplicación y división, exceptuando la división entre cero. El resultado de estas operaciones con racionales siempre dará de forma directa otro racional. Esta consistencia garantiza la validez de las operaciones algebraicas básicas."
+  },
+  {
+    "intent_id": "cerradura_no_irracionales_suma",
+    "keywords": [
+      "suma",
+      "irracionales",
+      "resultado",
+      "cerradura",
+      "error"
+    ],
+    "base_response": "La suma de números irracionales no cumple con la propiedad de cerradura en las matemáticas de forma estricta. Al sumar un valor irracional con su respectivo opuesto negativo, el resultado de la operación será cero, que es racional."
+  },
+  {
+    "intent_id": "cerradura_reales_operaciones",
+    "keywords": [
+      "operaciones",
+      "reales",
+      "cerradura",
+      "resultado",
+      "propiedad"
+    ],
+    "base_response": "La propiedad de cerradura se aplica de forma universal para la suma y multiplicación dentro del sistema de los números reales. Cualquier combinación de números reales bajo estas operaciones producirá un valor real sin falta. Esta consistencia garantiza la validez de las operaciones algebraicas básicas."
+  },
+  {
+    "intent_id": "cerradura_ejemplo_colores",
+    "keywords": [
+      "colores",
+      "ejemplo",
+      "cerradura",
+      "conjuntos",
+      "operacion"
+    ],
+    "base_response": "Si mezclas colores de pintura de un conjunto de colores primarios y obtienes un color nuevo que no estaba en tu conjunto inicial, la operación de mezcla no cumple con la propiedad de cerradura del conjunto de colores."
+  },
+  {
+    "intent_id": "cerradura_importancia_algebra",
+    "keywords": [
+      "algebra",
+      "ecuaciones",
+      "cerradura",
+      "matematica",
+      "importancia"
+    ],
+    "base_response": "La propiedad de cerradura es de gran importancia para el álgebra porque nos da la seguridad de que trabajamos dentro de un terreno estable. Nos garantiza que no saldremos del conjunto numérico definido durante las operaciones. Esta consistencia garantiza la validez de las operaciones algebraicas básicas."
+  },
+  {
+    "intent_id": "cerradura_ejercicio_sencillo",
+    "keywords": [
+      "ejercicio",
+      "enteros",
+      "cerradura",
+      "multiplicacion",
+      "resultado"
+    ],
+    "base_response": "Para comprobar la cerradura en clase, multiplica el entero menos tres por el entero cuatro. El resultado obtenido es el entero menos doce, lo que demuestra empíricamente que la multiplicación de enteros sigue la regla de cerradura."
+  },
+  {
+    "intent_id": "pares_definicion",
+    "keywords": [
+      "pares",
+      "positivos",
+      "multiplos",
+      "dos",
+      "definicion"
+    ],
+    "base_response": "Los elementos pares positivos son todos aquellos números naturales mayores que cero que se pueden dividir exactamente entre el número dos. Representan una secuencia ordenada infinita que avanza dando saltos de dos unidades. Esta regularidad numérica permite distribuir recursos de manera perfectamente simétrica."
+  },
+  {
+    "intent_id": "pares_ejemplo_lista",
+    "keywords": [
+      "lista",
+      "pares",
+      "positivos",
+      "ejemplo",
+      "numeros"
+    ],
+    "base_response": "El conjunto de los números pares positivos se escribe por extensión listando los valores iniciales dos, cuatro, seis, ocho y diez. Los puntos suspensivos finales indican que la secuencia se extiende infinitamente. Esta regularidad numérica permite distribuir recursos de manera perfectamente simétrica."
+  },
+  {
+    "intent_id": "pares_notacion_comprension",
+    "keywords": [
+      "comprension",
+      "notacion",
+      "pares",
+      "positivos",
+      "formula"
+    ],
+    "base_response": "Por comprensión, los números pares positivos se definen utilizando la fórmula matemática de dos por ene, donde ene representa a cualquier número natural positivo. Esta fórmula genera todos los términos de la secuencia. Esta regularidad numérica permite distribuir recursos de manera perfectamente simétrica."
+  },
+  {
+    "intent_id": "pares_terminacion_cifra",
+    "keywords": [
+      "cifra",
+      "unidades",
+      "pares",
+      "numeros",
+      "regla"
+    ],
+    "base_response": "Cualquier número par positivo, sin importar qué tan grande sea, debe terminar obligatoriamente en una de las cifras cero, dos, cuatro, seis u ocho. Esta es la regla clave para identificarlos rápidamente. Esta regularidad numérica permite distribuir recursos de manera perfectamente simétrica."
+  },
+  {
+    "intent_id": "pares_suma_resultado",
+    "keywords": [
+      "suma",
+      "pares",
+      "resultado",
+      "operacion",
+      "propiedad"
+    ],
+    "base_response": "Al realizar la suma de dos números pares positivos, el resultado obtenido de la operación será de forma inquebrantable otro número par. Esta propiedad de cerradura se cumple siempre para esta familia de números. Esta regularidad numérica permite distribuir recursos de manera perfectamente simétrica."
+  },
+  {
+    "intent_id": "pares_multi_resultado",
+    "keywords": [
+      "multiplicacion",
+      "pares",
+      "resultado",
+      "operacion",
+      "propiedad"
+    ],
+    "base_response": "La multiplicación de cualquier pareja de números pares positivos siempre da como resultado final un nuevo número par positivo. Es una regla de comportamiento aritmético muy consistente que se estudia en clase. Esta regularidad numérica permite distribuir recursos de manera perfectamente simétrica."
+  },
+  {
+    "intent_id": "pares_division_exacta",
+    "keywords": [
+      "division",
+      "dos",
+      "pares",
+      "residuo",
+      "cero"
+    ],
+    "base_response": "Al dividir cualquier número par positivo entre dos en tus deberes escolares, el residuo obtenido de la división será siempre igual a cero. Esto demuestra que los números pares son múltiplos perfectos del número dos. Esta regularidad numérica permite distribuir recursos de manera perfectamente simétrica."
+  },
+  {
+    "intent_id": "pares_ejemplo_objetos",
+    "keywords": [
+      "zapatos",
+      "parejas",
+      "objetos",
+      "pares",
+      "ejemplo"
+    ],
+    "base_response": "En la vida diaria, utilizamos el concepto de números pares al agrupar objetos en parejas, como los zapatos o calcetines. Si tienes una cantidad par de zapatos, todos tendrán su compañero correspondiente sin sobrar ninguno. Esta regularidad numérica permite distribuir recursos de manera perfectamente simétrica."
+  },
+  {
+    "intent_id": "pares_subconjunto_naturales",
+    "keywords": [
+      "subconjunto",
+      "naturales",
+      "pares",
+      "positivos",
+      "relacion"
+    ],
+    "base_response": "El conjunto de los números pares positivos es un subconjunto infinito muy importante del conjunto de los números naturales. Contiene exactamente a la mitad de los elementos que componen al conjunto de conteo. Esta regularidad numérica permite distribuir recursos de manera perfectamente simétrica."
+  },
+  {
+    "intent_id": "pares_interseccion_impares",
+    "keywords": [
+      "interseccion",
+      "impares",
+      "pares",
+      "vacio",
+      "conjuntos"
+    ],
+    "base_response": "La intersección de los números pares positivos con el conjunto de los impares es igual al conjunto vacío. Un número no puede ser clasificado de forma simultánea como par e impar en la matemática. Esta regularidad numérica permite distribuir recursos de manera perfectamente simétrica."
+  },
+  {
+    "intent_id": "pares_cero_excluido",
+    "keywords": [
+      "cero",
+      "positivos",
+      "pares",
+      "excluido",
+      "conjunto"
+    ],
+    "base_response": "Es fundamental destacar que el número cero no se incluye dentro del conjunto de los números pares positivos de forma estricta. El cero no tiene signo positivo, por lo que queda fuera de esta clasificación. Esta regularidad numérica permite distribuir recursos de manera perfectamente simétrica."
+  },
+  {
+    "intent_id": "pares_ejercicio_sencillo",
+    "keywords": [
+      "ejercicio",
+      "pares",
+      "verificacion",
+      "division",
+      "numero"
+    ],
+    "base_response": "Para verificar si el número noventa y ocho es un elemento par positivo, divídelo entre dos en tu cuaderno. Como obtienes cuarenta y nueve con residuo cero, confirmas que es un número par válido. Esta regularidad numérica permite distribuir recursos de manera perfectamente simétrica."
+  },
+  {
+    "intent_id": "pares_utilidad_informatica",
+    "keywords": [
+      "informatica",
+      "programacion",
+      "pares",
+      "algoritmos",
+      "utilidad"
+    ],
+    "base_response": "En la informática, la identificación de números pares positivos es de gran utilidad para diseñar algoritmos y organizar información en tablas de datos. Permite distribuir tareas de forma equitativa en los procesadores de computadora. Esta regularidad numérica permite distribuir recursos de manera perfectamente simétrica."
+  },
+  {
+    "intent_id": "impares_definicion",
+    "keywords": [
+      "impares",
+      "positivos",
+      "numeros",
+      "naturales",
+      "definicion"
+    ],
+    "base_response": "Los elementos impares positivos son todos aquellos números naturales mayores que cero que no se pueden dividir exactamente entre dos. Representan valores que siempre dejan un residuo de uno al realizar dicha división. Esta alternancia es clave para estudiar secuencias en el curso escolar."
+  },
+  {
+    "intent_id": "impares_ejemplo_lista",
+    "keywords": [
+      "lista",
+      "impares",
+      "positivos",
+      "ejemplo",
+      "numeros"
+    ],
+    "base_response": "El conjunto de los números impares positivos se escribe por extensión listando los valores iniciales uno, tres, cinco, siete, nueve y once. Los puntos suspensivos indican que la lista se prolonga de manera infinita. Esta alternancia es clave para estudiar secuencias en el curso escolar."
+  },
+  {
+    "intent_id": "impares_notacion_comprension",
+    "keywords": [
+      "comprension",
+      "notacion",
+      "impares",
+      "positivos",
+      "formula"
+    ],
+    "base_response": "Por comprensión, los números impares positivos se definen matemáticamente con la fórmula dos por ene menos uno, donde ene es cualquier número natural positivo. Esta fórmula permite generar cada término de la secuencia. Esta alternancia es clave para estudiar secuencias en el curso escolar."
+  },
+  {
+    "intent_id": "impares_terminacion_cifra",
+    "keywords": [
+      "cifra",
+      "unidades",
+      "impares",
+      "numeros",
+      "regla"
+    ],
+    "base_response": "Todo número impar positivo debe terminar obligatoriamente en uno de los dígitos uno, tres, cinco, siete o nueve. Esta es una regla infalible para reconocer estos números de forma inmediata. Esta alternancia es clave para estudiar secuencias en el curso escolar."
+  },
+  {
+    "intent_id": "impares_suma_resultado",
+    "keywords": [
+      "suma",
+      "impares",
+      "resultado",
+      "par",
+      "propiedad"
+    ],
+    "base_response": "Al sumar dos números impares positivos, el resultado de la operación será sorprendentemente un número par. Esta interesante propiedad se cumple para cualquier par de valores impares que elijas en los ejercicios. Esta alternancia es clave para estudiar secuencias en el curso escolar."
+  },
+  {
+    "intent_id": "impares_multi_resultado",
+    "keywords": [
+      "multiplicacion",
+      "impares",
+      "resultado",
+      "operacion",
+      "propiedad"
+    ],
+    "base_response": "La multiplicación de cualquier pareja de números impares positivos siempre da como resultado final un nuevo número impar positivo. Esta propiedad aritmética es muy consistente y se puede demostrar de forma algebraica. Esta alternancia es clave para estudiar secuencias en el curso escolar."
+  },
+  {
+    "intent_id": "impares_division_residuo",
+    "keywords": [
+      "division",
+      "dos",
+      "impares",
+      "residuo",
+      "uno"
+    ],
+    "base_response": "Al dividir cualquier número impar positivo entre dos, el residuo o resto obtenido de la división será siempre igual a uno. Esto demuestra que los números impares no son múltiplos del número dos. Esta alternancia es clave para estudiar secuencias en el curso escolar."
+  },
+  {
+    "intent_id": "impares_ejemplo_reparto",
+    "keywords": [
+      "reparto",
+      "dulces",
+      "impares",
+      "sobra",
+      "ejemplo"
+    ],
+    "base_response": "Si intentas repartir una cantidad impar de dulces entre dos personas en partes iguales, notarás que siempre te sobrará un dulce. Este hecho cotidiano ilustra perfectamente el concepto físico de los números impares. Esta alternancia es clave para estudiar secuencias en el curso escolar."
+  },
+  {
+    "intent_id": "impares_subconjunto_naturales",
+    "keywords": [
+      "subconjunto",
+      "naturales",
+      "impares",
+      "positivos",
+      "relacion"
+    ],
+    "base_response": "El conjunto de los números impares positivos forma un subconjunto infinito de gran relevancia dentro de los números naturales. Representa exactamente la otra mitad complementaria de los números de conteo del sistema. Esta alternancia es clave para estudiar secuencias en el curso escolar."
+  },
+  {
+    "intent_id": "impares_interseccion_pares",
+    "keywords": [
+      "interseccion",
+      "pares",
+      "impares",
+      "vacio",
+      "conjuntos"
+    ],
+    "base_response": "La intersección de los números impares positivos con el conjunto de los pares es igual al conjunto vacío. No existe ningún número que pueda ser par e impar de forma simultánea en la teoría. Esta alternancia es clave para estudiar secuencias en el curso escolar."
+  },
+  {
+    "intent_id": "impares_cero_excluido",
+    "keywords": [
+      "cero",
+      "positivos",
+      "impares",
+      "excluido",
+      "conjunto"
+    ],
+    "base_response": "Al igual que con los pares, el número cero no forma parte del conjunto de los números impares positivos de ninguna manera. El cero carece de signo positivo y no pertenece a esta secuencia. Esta alternancia es clave para estudiar secuencias en el curso escolar."
+  },
+  {
+    "intent_id": "impares_ejercicio_sencillo",
+    "keywords": [
+      "ejercicio",
+      "impares",
+      "verificacion",
+      "division",
+      "numero"
+    ],
+    "base_response": "Para comprobar si el número noventa y siete es un elemento impar positivo, divídelo entre dos en tu cuaderno. Como obtienes cuarenta y ocho con residuo uno, confirmas que es un número impar. Esta alternancia es clave para estudiar secuencias en el curso escolar."
+  },
+  {
+    "intent_id": "impares_utilidad_matematica",
+    "keywords": [
+      "algebra",
+      "patrones",
+      "impares",
+      "matematica",
+      "utilidad"
+    ],
+    "base_response": "La identificación y el estudio de los números impares positivos ayuda a los estudiantes a comprender patrones numéricos más complejos en el álgebra escolar. Son fundamentales para estructurar series y progresiones matemáticas. Esta alternancia es clave para estudiar secuencias en el curso escolar."
+  },
+  {
+    "intent_id": "multiplos_definicion",
+    "keywords": [
+      "multiplos",
+      "numeros",
+      "multiplicacion",
+      "naturales",
+      "definicion"
+    ],
+    "base_response": "Los múltiplos de un número son todos aquellos números que se obtienen al multiplicar dicho número por cada uno de los números naturales. Representan los resultados de la tabla de multiplicar de dicho número. Esta secuencia periódica es la base para resolver problemas de tiempo."
+  },
+  {
+    "intent_id": "multiplos_infinitos",
+    "keywords": [
+      "infinitos",
+      "multiplos",
+      "numeros",
+      "secuencia",
+      "propiedad"
+    ],
+    "base_response": "Los múltiplos de cualquier número entero diferente de cero son infinitos en cantidad de forma garantizada. Dado que podemos multiplicar el número por infinitos enteros, la lista de múltiplos no tiene fin. Esta secuencia periódica es la base para resolver problemas de tiempo."
+  },
+  {
+    "intent_id": "multiplos_cero_propiedad",
+    "keywords": [
+      "cero",
+      "multiplos",
+      "todos",
+      "numeros",
+      "propiedad"
+    ],
+    "base_response": "El número cero tiene la propiedad única de ser un múltiplo de absolutamente todos los números enteros del sistema. Al multiplicar cualquier número por cero, el resultado obtenido de la operación siempre será cero. Esta secuencia periódica es la base para resolver problemas de tiempo."
+  },
+  {
+    "intent_id": "multiplos_mismo_numero",
+    "keywords": [
+      "mismo",
+      "numero",
+      "multiplos",
+      "multiplicar",
+      "uno"
+    ],
+    "base_response": "Todo número entero es siempre múltiplo de sí mismo según las reglas de la aritmética básica escolar. Esto se comprueba fácilmente al multiplicar dicho número por la unidad, conservando exactamente su mismo valor. Esta secuencia periódica es la base para resolver problemas de tiempo."
+  },
+  {
+    "intent_id": "multiplos_ejemplo_tres",
+    "keywords": [
+      "ejemplo",
+      "tres",
+      "multiplos",
+      "tabla",
+      "numeros"
+    ],
+    "base_response": "Los múltiplos del número tres se obtienen multiplicándolo por uno, dos, tres, dando la lista tres, seis, nueve, doce y quince. Estos valores representan los múltiplos básicos de tres en la aritmética. Esta secuencia periódica es la base para resolver problemas de tiempo."
+  },
+  {
+    "intent_id": "multiplos_ejemplo_cinco",
+    "keywords": [
+      "ejemplo",
+      "cinco",
+      "multiplos",
+      "tabla",
+      "numeros"
+    ],
+    "base_response": "La lista de los primeros múltiplos positivos del número cinco está formada por cinco, diez, quince, veinte y veinticinco. Todos estos números terminan obligatoriamente en la cifra cero o en cinco. Esta secuencia periódica es la base para resolver problemas de tiempo."
+  },
+  {
+    "intent_id": "multiplos_division_exacta",
+    "keywords": [
+      "division",
+      "exacta",
+      "multiplos",
+      "residuo",
+      "cero"
+    ],
+    "base_response": "Si divides un múltiplo de un número entre ese mismo número, la división resultante será siempre exacta. El residuo de la operación será cero, confirmando la relación perfecta de múltiplos. Esta secuencia periódica es la base para resolver problemas de tiempo."
+  },
+  {
+    "intent_id": "multiplos_minimo_comun",
+    "keywords": [
+      "minimo",
+      "comun",
+      "multiplos",
+      "pequeno",
+      "concepto"
+    ],
+    "base_response": "El mínimo común múltiplo es el menor número positivo que es múltiplo común de dos o más números dados. Es una herramienta matemática indispensable para realizar operaciones con fracciones de diferente denominador. Esta secuencia periódica es la base para resolver problemas de tiempo."
+  },
+  {
+    "intent_id": "multiplos_ejemplo_reloj",
+    "keywords": [
+      "reloj",
+      "tiempo",
+      "multiplos",
+      "segundos",
+      "ejemplo"
+    ],
+    "base_response": "Los múltiplos se aplican en la vida cotidiana al medir el paso del tiempo en un reloj de agujas. Los minutos avanzan de cinco en cinco, lo cual es una secuencia directa de múltiplos de cinco. Esta secuencia periódica es la base para resolver problemas de tiempo."
+  },
+  {
+    "intent_id": "multiplos_propiedad_suma",
+    "keywords": [
+      "suma",
+      "multiplos",
+      "resultado",
+      "propiedad",
+      "aritmetica"
+    ],
+    "base_response": "La suma de dos múltiplos de un mismo número da como resultado otro múltiplo de ese mismo número de forma obligatoria. Esta propiedad de cerradura aritmética es muy útil para resolver ecuaciones complejas. Esta secuencia periódica es la base para resolver problemas de tiempo."
+  },
+  {
+    "intent_id": "multiplos_ejercicio_sencillo",
+    "keywords": [
+      "ejercicio",
+      "multiplos",
+      "siete",
+      "verificacion",
+      "tabla"
+    ],
+    "base_response": "Para encontrar los primeros cuatro múltiplos de siete, multiplícalo sucesivamente por uno, dos, tres y cuatro en tu cuaderno. Obtendrás de forma ordenada los números siete, catorce, veintiuno y veintiocho. Esta secuencia periódica es la base para resolver problemas de tiempo."
+  },
+  {
+    "intent_id": "multiplos_relacion_divisores",
+    "keywords": [
+      "divisores",
+      "multiplos",
+      "relacion",
+      "operaciones",
+      "aritmetica"
+    ],
+    "base_response": "La relación entre múltiplos y divisores es inversa y complementaria en las operaciones de aritmética básica escolar. Si afirmamos que el número quince es múltiplo de tres, entonces tres es divisor de quince. Esta secuencia periódica es la base para resolver problemas de tiempo."
+  },
+  {
+    "intent_id": "multiplos_utilidad_musica",
+    "keywords": [
+      "musica",
+      "ritmo",
+      "multiplos",
+      "compas",
+      "utilidad"
+    ],
+    "base_response": "En la teoría de la música, los múltiplos se utilizan para estructurar los compases y los ritmos de las canciones. Los tiempos musicales se dividen en múltiplos de dos o tres para armonizar. Esta secuencia periódica es la base para resolver problemas de tiempo."
+  },
+  {
+    "intent_id": "divisores_definicion",
+    "keywords": [
+      "divisores",
+      "division",
+      "exacta",
+      "numeros",
+      "definicion"
+    ],
+    "base_response": "Los divisores de un número son todos aquellos números enteros que lo dividen de forma completamente exacta, sin dejar ningún residuo. El resultado de realizar la división es siempre otro número entero. Esta capacidad de división exacta es muy útil para simplificar cálculos."
+  },
+  {
+    "intent_id": "divisores_finitos",
+    "keywords": [
+      "finitos",
+      "divisores",
+      "lista",
+      "numeros",
+      "propiedad"
+    ],
+    "base_response": "A diferencia de los múltiplos, los divisores de cualquier número entero son finitos en cantidad de manera inquebrantable. La lista de divisores de un número tiene un límite físico bien definido. Esta capacidad de división exacta es muy útil para simplificar cálculos."
+  },
+  {
+    "intent_id": "divisores_unidad_propiedad",
+    "keywords": [
+      "unidad",
+      "uno",
+      "divisores",
+      "todos",
+      "propiedad"
+    ],
+    "base_response": "El número uno es el divisor universal de absolutamente todos los números enteros de las matemáticas de forma obligatoria. Cualquier número entero dividido entre uno da como resultado el mismo número original. Esta capacidad de división exacta es muy útil para simplificar cálculos."
+  },
+  {
+    "intent_id": "divisores_mismo_numero",
+    "keywords": [
+      "mismo",
+      "numero",
+      "divisores",
+      "division",
+      "uno"
+    ],
+    "base_response": "Todo número entero diferente de cero es siempre divisor de sí mismo en las operaciones aritméticas de la escuela. Al dividir el número por sí mismo, el resultado obtenido será igual a uno. Esta capacidad de división exacta es muy útil para simplificar cálculos."
+  },
+  {
+    "intent_id": "divisores_ejemplo_doce",
+    "keywords": [
+      "ejemplo",
+      "doce",
+      "divisores",
+      "lista",
+      "numeros"
+    ],
+    "base_response": "Los divisores del número doce son los números uno, dos, tres, cuatro, seis y el propio doce en total. Al dividir doce por cualquiera de ellos obtendrás un residuo igual a cero. Esta capacidad de división exacta es muy útil para simplificar cálculos."
+  },
+  {
+    "intent_id": "divisores_ejemplo_diez",
+    "keywords": [
+      "ejemplo",
+      "diez",
+      "divisores",
+      "lista",
+      "numeros"
+    ],
+    "base_response": "La lista de los divisores del número diez está formada únicamente por los números uno, dos, cinco y diez. Estos cuatro valores dividen al número diez de forma exacta en tu cuaderno. Esta capacidad de división exacta es muy útil para simplificar cálculos."
+  },
+  {
+    "intent_id": "divisores_maximo_comun",
+    "keywords": [
+      "maximo",
+      "comun",
+      "divisores",
+      "grande",
+      "concepto"
+    ],
+    "base_response": "El máximo común divisor es el mayor número entero que divide de forma común a dos o más números dados simultáneamente. Es una herramienta muy valiosa para simplificar fracciones numéricas grandes. Esta capacidad de división exacta es muy útil para simplificar cálculos."
+  },
+  {
+    "intent_id": "divisores_no_cero",
+    "keywords": [
+      "cero",
+      "division",
+      "divisores",
+      "error",
+      "limite"
+    ],
+    "base_response": "Es una regla matemática absoluta que el número cero no puede ser divisor de ningún número en matemáticas. La división entre cero es una operación que carece por completo de definición y sentido lógico. Esta capacidad de división exacta es muy útil para simplificar cálculos."
+  },
+  {
+    "intent_id": "divisores_ejemplo_reparto",
+    "keywords": [
+      "reparto",
+      "galletas",
+      "divisores",
+      "amigos",
+      "ejemplo"
+    ],
+    "base_response": "Los divisores se aplican en la vida diaria al repartir una cantidad de objetos entre tus amigos sin que sobre nada. Si tienes ocho galletas, puedes repartirlas exactamente entre dos, cuatro u ocho personas. Esta capacidad de división exacta es muy útil para simplificar cálculos."
+  },
+  {
+    "intent_id": "divisores_ejercicio_sencillo",
+    "keywords": [
+      "ejercicio",
+      "divisores",
+      "veinte",
+      "verificacion",
+      "numeros"
+    ],
+    "base_response": "Para hallar todos los divisores de veinte, realiza pruebas de división desde el uno hasta el veinte en tu cuaderno. Encontrarás de forma exacta la lista formada por uno, dos, cuatro, cinco, diez y veinte. Esta capacidad de división exacta es muy útil para simplificar cálculos."
+  },
+  {
+    "intent_id": "divisores_numeros_primos",
+    "keywords": [
+      "primos",
+      "divisores",
+      "dos",
+      "numeros",
+      "propiedad"
+    ],
+    "base_response": "Los números que poseen de forma estricta únicamente dos divisores, que son el uno y ellos mismos, se denominan números primos. Esta propiedad los convierte en los ladrillos de construcción de la aritmética. Esta capacidad de división exacta es muy útil para simplificar cálculos."
+  },
+  {
+    "intent_id": "divisores_numeros_compuestos",
+    "keywords": [
+      "compuestos",
+      "divisores",
+      "numeros",
+      "propiedad"
+    ],
+    "base_response": "Los números que poseen más de dos divisores en su lista se clasifican de forma directa como números compuestos. Estos números se pueden descomponer en factores primos más pequeños de forma sencilla. Esta capacidad de división exacta es muy útil para simplificar cálculos."
+  },
+  {
+    "intent_id": "divisores_utilidad_diseno",
+    "keywords": [
+      "diseno",
+      "organizacion",
+      "divisores",
+      "cuadricula",
+      "utilidad"
+    ],
+    "base_response": "En el diseño gráfico de páginas web, los divisores se utilizan para organizar los elementos en cuadrículas proporcionales y limpias. Ayudan a dividir el ancho de la pantalla de forma matemática y exacta. Esta capacidad de división exacta es muy útil para simplificar cálculos."
+  },
+  {
+    "intent_id": "primos_definicion",
+    "keywords": [
+      "primos",
+      "divisores",
+      "dos",
+      "numeros",
+      "definicion"
+    ],
+    "base_response": "Los números primos fundamentales son todos aquellos números naturales mayores que uno que poseen de forma estricta únicamente dos divisores: el número uno y ellos mismos. Son los elementos básicos del sistema numérico. Esta naturaleza indivisible convierte a estos números en piezas fundamentales del pensamiento."
+  },
+  {
+    "intent_id": "primos_ejemplo_lista",
+    "keywords": [
+      "lista",
+      "primos",
+      "iniciales",
+      "ejemplo",
+      "numeros"
+    ],
+    "base_response": "La lista de los primeros números primos fundamentales está compuesta por el dos, tres, cinco, siete, once y trece en orden. Esta secuencia de números se extiende de forma infinita hacia adelante. Esta naturaleza indivisible convierte a estos números en piezas fundamentales del pensamiento."
+  },
+  {
+    "intent_id": "primos_numero_dos_unico",
+    "keywords": [
+      "dos",
+      "par",
+      "primos",
+      "unico",
+      "propiedad"
+    ],
+    "base_response": "El número dos es el único número par que pertenece al conjunto de los números primos fundamentales de las matemáticas. Cualquier otro número par mayor que dos se puede dividir entre dos, siendo compuesto. Esta naturaleza indivisible convierte a estos números en piezas fundamentales del pensamiento."
+  },
+  {
+    "intent_id": "primos_no_el_uno",
+    "keywords": [
+      "uno",
+      "excluido",
+      "primos",
+      "teorema",
+      "regla"
+    ],
+    "base_response": "Es una regla matemática indispensable que el número uno no se considere un número primo fundamental en la aritmética. Esto se hace para mantener la consistencia del teorema de la factorización única de enteros. Esta naturaleza indivisible convierte a estos números en piezas fundamentales del pensamiento."
+  },
+  {
+    "intent_id": "primos_teorema_fundamental",
+    "keywords": [
+      "teorema",
+      "factorizacion",
+      "primos",
+      "aritmetica",
+      "ladrillos"
+    ],
+    "base_response": "El teorema fundamental de la aritmética establece que cualquier número compuesto se puede expresar de forma única como el producto de números primos. Por esta razón, los primos son considerados los ladrillos del álgebra. Esta naturaleza indivisible convierte a estos números en piezas fundamentales del pensamiento."
+  },
+  {
+    "intent_id": "primos_criba_eratostenes",
+    "keywords": [
+      "criba",
+      "eratostenes",
+      "primos",
+      "metodo",
+      "filtrar"
+    ],
+    "base_response": "La criba de Eratóstenes es un método de filtrado milenario muy eficiente que sirve para hallar números primos de forma sistemática. Consiste en tachar ordenadamente de una tabla los múltiplos de cada número primo. Esta naturaleza indivisible convierte a estos números en piezas fundamentales del pensamiento."
+  },
+  {
+    "intent_id": "primos_ejercicio_verificar",
+    "keywords": [
+      "ejercicio",
+      "verificar",
+      "primos",
+      "division",
+      "numero"
+    ],
+    "base_response": "Para verificar si el número diecinueve es primo fundamental, divídelo sucesivamente entre los primos menores en tu cuaderno. Al no obtener ninguna división exacta, confirmas de forma matemática que es un número primo. Esta naturaleza indivisible convierte a estos números en piezas fundamentales del pensamiento."
+  },
+  {
+    "intent_id": "primos_infinitos_prueba",
+    "keywords": [
+      "infinitos",
+      "euclides",
+      "primos",
+      "historia",
+      "prueba"
+    ],
+    "base_response": "El antiguo matemático griego Euclides demostró hace más de dos mil años que los números primos son infinitos en cantidad. Su brillante prueba deductiva sigue siendo una de las más bellas de las matemáticas. Esta naturaleza indivisible convierte a estos números en piezas fundamentales del pensamiento."
+  },
+  {
+    "intent_id": "primos_aplicacion_seguridad",
+    "keywords": [
+      "seguridad",
+      "encriptacion",
+      "primos",
+      "datos",
+      "aplicacion"
+    ],
+    "base_response": "En la informática moderna, los números primos gigantescos son la base de la encriptación de seguridad que protege tus datos bancarios. Multiplicar dos primos grandes es fácil, pero deshacer la operación es sumamente difícil. Esta naturaleza indivisible convierte a estos números en piezas fundamentales del pensamiento."
+  },
+  {
+    "intent_id": "primos_no_impares_todos",
+    "keywords": [
+      "impares",
+      "error",
+      "primos",
+      "compuestos",
+      "diferencia"
+    ],
+    "base_response": "Un error muy común de los estudiantes de colegio es pensar que todos los números impares son primos fundamentales. Recuerda que números como el nueve o el quince son impares pero son compuestos en aritmética. Esta naturaleza indivisible convierte a estos números en piezas fundamentales del pensamiento."
+  },
+  {
+    "intent_id": "primos_distribucion_misterio",
+    "keywords": [
+      "distribucion",
+      "misterio",
+      "primos",
+      "patron",
+      "matematicos"
+    ],
+    "base_response": "La distribución de los números primos fundamentales en la recta numérica real sigue siendo uno de los mayores misterios de las ciencias. No existe una fórmula matemática sencilla para predecir cuándo aparecerá el próximo primo. Esta naturaleza indivisible convierte a estos números en piezas fundamentales del pensamiento."
+  },
+  {
+    "intent_id": "primos_primos_gemelos",
+    "keywords": [
+      "gemelos",
+      "diferencia",
+      "primos",
+      "pareja",
+      "ejemplo"
+    ],
+    "base_response": "Los primos gemelos son parejas de números primos fundamentales que tienen una diferencia numérica exacta de dos unidades entre sí. Ejemplos de estos son el tres y cinco, o el once y trece. Esta naturaleza indivisible convierte a estos números en piezas fundamentales del pensamiento."
+  },
+  {
+    "intent_id": "primos_utilidad_didactica",
+    "keywords": [
+      "colegio",
+      "fracciones",
+      "primos",
+      "minimo",
+      "utilidad"
+    ],
+    "base_response": "En el colegio, dominar los números primos fundamentales es de gran utilidad para simplificar fracciones de manera rápida y correcta. Permiten calcular el mínimo común denominador descomponiendo los términos en factores primos simples. Esta naturaleza indivisible convierte a estos números en piezas fundamentales del pensamiento."
+  },
+  {
+    "intent_id": "compuestos_definicion",
+    "keywords": [
+      "compuestos",
+      "divisores",
+      "numeros",
+      "definicion"
+    ],
+    "base_response": "Los números compuestos divisibles son todos aquellos números naturales mayores que uno que poseen más de dos divisores diferentes en su lista de divisores. Estos números se pueden descomponer en factores enteros menores. Esta estructura divisible permite entender la composición de los números enteros."
+  },
+  {
+    "intent_id": "compuestos_ejemplo_lista",
+    "keywords": [
+      "lista",
+      "compuestos",
+      "iniciales",
+      "ejemplo",
+      "numeros"
+    ],
+    "base_response": "El conjunto de los números compuestos divisibles se inicia de forma matemática con el número cuatro, seguido de seis, ocho, nueve, diez y doce. Es una secuencia infinita de enorme relevancia en la aritmética. Esta estructura divisible permite entender la composición de los números enteros."
+  },
+  {
+    "intent_id": "compuestos_descomposicion",
+    "keywords": [
+      "descomposicion",
+      "factores",
+      "primos",
+      "compuestos",
+      "proceso"
+    ],
+    "base_response": "El proceso de descomponer un número compuesto consiste en expresarlo como la multiplicación ordenada de sus factores primos constituyentes. Por ejemplo, el número compuesto doce se descompone de forma exacta en dos por dos por tres. Esta estructura divisible permite entender la composición de los números enteros."
+  },
+  {
+    "intent_id": "compuestos_numero_cuatro",
+    "keywords": [
+      "cuatro",
+      "inicial",
+      "compuestos",
+      "pequeno",
+      "numero"
+    ],
+    "base_response": "El número cuatro tiene el honor de ser el número compuesto divisible más pequeño de todas las matemáticas escolares. Posee exactamente tres divisores en su lista: el uno, el dos y el propio cuatro. Esta estructura divisible permite entender la composición de los números enteros."
+  },
+  {
+    "intent_id": "compuestos_pares_casi_todos",
+    "keywords": [
+      "pares",
+      "compuestos",
+      "excepcion",
+      "dos",
+      "regla"
+    ],
+    "base_response": "Todos los números naturales pares mayores que dos se clasifican de forma obligatoria como números compuestos divisibles en el sistema. Esto ocurre porque al ser pares, admiten al menos al número dos como divisor. Esta estructura divisible permite entender la composición de los números enteros."
+  },
+  {
+    "intent_id": "compuestos_impares_compuestos",
+    "keywords": [
+      "impares",
+      "compuestos",
+      "ejemplo",
+      "nueve",
+      "numeros"
+    ],
+    "base_response": "Es fundamental recordar que existen números impares que también se clasifican como números compuestos divisibles en aritmética. El número nueve o el quince son ejemplos perfectos, ya que poseen más de dos divisores. Esta estructura divisible permite entender la composición de los números enteros."
+  },
+  {
+    "intent_id": "compuestos_no_el_uno",
+    "keywords": [
+      "uno",
+      "excluido",
+      "compuestos",
+      "teoria",
+      "regla"
+    ],
+    "base_response": "Al igual que con los primos, el número uno queda totalmente excluido de la clasificación de los números compuestos divisibles de la teoría. El uno posee un único divisor, por lo que no cumple la definición. Esta estructura divisible permite entender la composición de los números enteros."
+  },
+  {
+    "intent_id": "compuestos_ejercicio_descomponer",
+    "keywords": [
+      "ejercicio",
+      "descomponer",
+      "veinte",
+      "cuaderno",
+      "factores"
+    ],
+    "base_response": "Para realizar la descomposición del número compuesto veinte en tu cuaderno, divídelo sucesivamente entre los primos menores. Obtendrás de forma correcta y ordenada la multiplicación de dos por dos por cinco. Esta estructura divisible permite entender la composición de los números enteros."
+  },
+  {
+    "intent_id": "compuestos_mcd_utilidad",
+    "keywords": [
+      "divisores",
+      "comun",
+      "compuestos",
+      "utilidad",
+      "aritmetica"
+    ],
+    "base_response": "El estudio de los números compuestos es sumamente útil para comprender el concepto de divisibilidad y hallar el máximo común divisor de varios números. Facilita simplificar fracciones numéricas grandes en tus deberes escolares. Esta estructura divisible permite entender la composición de los números enteros."
+  },
+  {
+    "intent_id": "compuestos_aplicacion_cajas",
+    "keywords": [
+      "empaque",
+      "cajas",
+      "compuestos",
+      "organizacion",
+      "aplicacion"
+    ],
+    "base_response": "En la industria del empaque, los números compuestos se aplican constantemente para diseñar cajas con capacidad para organizar productos de forma rectangular. Permiten acomodar los artículos en diferentes filas y columnas iguales. Esta estructura divisible permite entender la composición de los números enteros."
+  },
+  {
+    "intent_id": "compuestos_infinitos_secuencia",
+    "keywords": [
+      "infinitos",
+      "secuencia",
+      "compuestos",
+      "numeros",
+      "propiedad"
+    ],
+    "base_response": "Los números compuestos divisibles son infinitos en cantidad en la recta numérica real, al igual que los primos. A medida que avanzamos hacia valores gigantescos, la proporción de números compuestos se vuelve mayor. Esta estructura divisible permite entender la composición de los números enteros."
+  },
+  {
+    "intent_id": "compuestos_colegio_uso",
+    "keywords": [
+      "colegio",
+      "aprendizaje",
+      "compuestos",
+      "aritmetica",
+      "estudiantes"
+    ],
+    "base_response": "En el colegio, el profesor enseña a identificar números compuestos utilizando las reglas básicas de la divisibilidad de la aritmética. Esto ayuda a los estudiantes a agilizar los cálculos mentales sin necesidad de calculadora. Esta estructura divisible permite entender la composición de los números enteros."
+  },
+  {
+    "intent_id": "compuestos_diferencia_primos",
+    "keywords": [
+      "diferencia",
+      "primos",
+      "compuestos",
+      "divisores",
+      "sistemas"
+    ],
+    "base_response": "La diferencia fundamental entre los números primos y los números compuestos radica exclusivamente en la cantidad de sus divisores. Los primos tienen exactamente dos divisores, mientras que los compuestos poseen tres o más divisores. Esta estructura divisible permite entender la composición de los números enteros."
+  },
+  {
+    "intent_id": "criba_definicion",
+    "keywords": [
+      "criba",
+      "eratostenes",
+      "primos",
+      "metodo",
+      "definicion"
+    ],
+    "base_response": "La criba de Eratóstenes es un método algorítmico muy antiguo y eficiente que permite identificar de forma sistemática los números primos menores que un límite dado. Consiste en realizar descartes sucesivos sobre una tabla. Este histórico algoritmo de descarte es una joya didáctica escolar."
+  },
+  {
+    "intent_id": "criba_origen_historico",
+    "keywords": [
+      "origen",
+      "historia",
+      "eratostenes",
+      "grecia",
+      "diagrama"
+    ],
+    "base_response": "Este ingenioso método de filtrado matemático fue ideado por el sabio y astrónomo griego Eratóstenes de Cirene en el siglo tercero antes de Cristo. Eratóstenes es famoso por medir por primera vez la Tierra. Este histórico algoritmo de descarte es una joya didáctica escolar."
+  },
+  {
+    "intent_id": "criba_funcionamiento_tabla",
+    "keywords": [
+      "tabla",
+      "numeros",
+      "criba",
+      "pasos",
+      "proceso"
+    ],
+    "base_response": "Para aplicar la criba de Eratóstenes, primero se escribe una tabla ordenada con los números desde el dos hasta el límite deseado en el cuaderno. Luego se van tachando sistemáticamente los múltiplos de cada número. Este histórico algoritmo de descarte es una joya didáctica escolar."
+  },
+  {
+    "intent_id": "criba_primer_paso",
+    "keywords": [
+      "primer",
+      "paso",
+      "multiplos",
+      "dos",
+      "criba"
+    ],
+    "base_response": "El primer paso práctico de la criba consiste en seleccionar al número dos como primer primo y tachar de la tabla todos sus múltiplos mayores que él. Esto elimina de un solo golpe a todos los pares."
+  },
+  {
+    "intent_id": "criba_segundo_paso",
+    "keywords": [
+      "segundo",
+      "paso",
+      "multiplos",
+      "tres",
+      "criba"
+    ],
+    "base_response": "El segundo paso consiste en tomar al número tres como el siguiente primo disponible en la lista y proceder a tachar todos sus múltiplos de la tabla. Este filtrado elimina números como el nueve o quince. Este histórico algoritmo de descarte es una joya didáctica escolar."
+  },
+  {
+    "intent_id": "criba_pasos_sucesivos",
+    "keywords": [
+      "sucesivos",
+      "pasos",
+      "primos",
+      "criba",
+      "proceso"
+    ],
+    "base_response": "El proceso de filtrado continúa tomando de forma sucesiva el siguiente número que no esté tachado en la tabla y eliminando sus múltiplos correspondientes. Al finalizar de revisar los números, solo quedarán los primos. Este histórico algoritmo de descarte es una joya didáctica escolar."
+  },
+  {
+    "intent_id": "criba_limite_raiz",
+    "keywords": [
+      "limite",
+      "raiz",
+      "cuadrada",
+      "criba",
+      "regla"
+    ],
+    "base_response": "Una regla matemática muy útil establece que solo necesitamos tachar los múltiplos de los números primos que sean menores o iguales a la raíz cuadrada del límite de nuestra tabla. Esto agiliza enormemente el proceso. Este histórico algoritmo de descarte es una joya didáctica escolar."
+  },
+  {
+    "intent_id": "criba_ejemplo_cien",
+    "keywords": [
+      "ejemplo",
+      "cien",
+      "criba",
+      "primos",
+      "tabla"
+    ],
+    "base_response": "Si aplicas la criba de Eratóstenes con una tabla del dos al cien en tu cuaderno escolar, lograrás identificar exactamente veinticinco números primos. El resto de los números de la tabla habrán sido tachados. Este histórico algoritmo de descarte es una joya didáctica escolar."
+  },
+  {
+    "intent_id": "criba_no_tachar_uno",
+    "keywords": [
+      "uno",
+      "excluido",
+      "criba",
+      "regla",
+      "error"
+    ],
+    "base_response": "Es muy importante recordar que el número uno no forma parte de la criba de Eratóstenes de ninguna manera. Como el uno no es primo ni compuesto, la tabla del ejercicio inicia estrictamente en el dos. Este histórico algoritmo de descarte es una joya didáctica escolar."
+  },
+  {
+    "intent_id": "criba_diagrama_pizarra",
+    "keywords": [
+      "diagrama",
+      "pizarra",
+      "criba",
+      "visual",
+      "ejercicio"
+    ],
+    "base_response": "En el colegio, el profesor suele dibujar la criba de Eratóstenes en la pizarra utilizando tizas de diferentes colores para tachar los múltiplos. Este ejercicio visual ayuda a memorizar la secuencia de primos. Este histórico algoritmo de descarte es una joya didáctica escolar."
+  },
+  {
+    "intent_id": "criba_utilidad_algoritmos",
+    "keywords": [
+      "informatica",
+      "programacion",
+      "criba",
+      "algoritmos",
+      "utilidad"
+    ],
+    "base_response": "En la informática moderna, la criba de Eratóstenes es un algoritmo básico muy valorado para enseñar técnicas de programación eficientes a los estudiantes de computación. Permite generar listas de números primos a gran velocidad. Este histórico algoritmo de descarte es una joya didáctica escolar."
+  },
+  {
+    "intent_id": "criba_nombre_significado",
+    "keywords": [
+      "nombre",
+      "significado",
+      "criba",
+      "colador",
+      "metafora"
+    ],
+    "base_response": "La palabra criba hace referencia a un colador o rejilla que se utiliza para separar los elementos finos de los gruesos en la agricultura. Es una metáfora excelente de cómo este método filtra los números. Este histórico algoritmo de descarte es una joya didáctica escolar."
+  },
+  {
+    "intent_id": "criba_aprendizaje_didactico",
+    "keywords": [
+      "aprendizaje",
+      "didactico",
+      "primos",
+      "criba",
+      "colegio"
+    ],
+    "base_response": "La criba de Eratóstenes es una de las actividades didácticas más valoradas por los maestros de secundaria para enseñar el concepto de divisibilidad de forma interactiva. Permite experimentar físicamente el comportamiento de los números. Este histórico algoritmo de descarte es una joya didáctica escolar."
+  },
+  {
+    "intent_id": "absoluto_definicion",
+    "keywords": [
+      "absoluto",
+      "distancia",
+      "cero",
+      "numero",
+      "definicion"
+    ],
+    "base_response": "El valor absoluto de un número real es la distancia que separa a dicho número del origen o cero en la recta numérica. Al representar una distancia física en el espacio, su resultado será siempre positivo. Esta noción de magnitud es fundamental para medir distancias físicas reales."
+  },
+  {
+    "intent_id": "absoluto_simbolo",
+    "keywords": [
+      "simbolo",
+      "barras",
+      "absoluto",
+      "numero",
+      "notacion"
+    ],
+    "base_response": "El valor absoluto se representa matemáticamente encerrando el número o variable entre dos barras verticales idénticas. Por ejemplo, escribir el número cinco entre barras representa el valor absoluto de cinco. Esta noción de magnitud es fundamental para medir distancias físicas reales."
+  },
+  {
+    "intent_id": "absoluto_ejemplo_positivo",
+    "keywords": [
+      "positivo",
+      "absoluto",
+      "mismo",
+      "resultado",
+      "ejemplo"
+    ],
+    "base_response": "El valor absoluto de un número real de signo positivo es igual al mismo número original dado en la operación. De este modo, el valor absoluto del número positivo siete da como resultado exacto el siete. Esta noción de magnitud es fundamental para medir distancias físicas reales."
+  },
+  {
+    "intent_id": "absoluto_ejemplo_negativo",
+    "keywords": [
+      "negativo",
+      "absoluto",
+      "opuesto",
+      "positivo",
+      "ejemplo"
+    ],
+    "base_response": "El valor absoluto de un número real de signo negativo es igual a su opuesto aditivo con signo positivo. Por ejemplo, el valor absoluto del número menos ocho es de forma exacta el número positivo ocho. Esta noción de magnitud es fundamental para medir distancias físicas reales."
+  },
+  {
+    "intent_id": "absoluto_cero_propiedad",
+    "keywords": [
+      "cero",
+      "absoluto",
+      "distancia",
+      "resultado",
+      "propiedad"
+    ],
+    "base_response": "El valor absoluto del número cero es igual a cero de manera absoluta, ya que se encuentra exactamente sobre el punto de origen. La distancia del cero al cero es evidentemente de cero unidades. Esta noción de magnitud es fundamental para medir distancias físicas reales."
+  },
+  {
+    "intent_id": "absoluto_distancia_simetria",
+    "keywords": [
+      "simetria",
+      "opuestos",
+      "distancia",
+      "absoluto",
+      "recta"
+    ],
+    "base_response": "Los números opuestos, como el tres y el menos tres, poseen exactamente el mismo valor absoluto en las matemáticas de la escuela. Ambos números se encuentran a la misma distancia física del punto cero. Esta noción de magnitud es fundamental para medir distancias físicas reales."
+  },
+  {
+    "intent_id": "absoluto_geometria_longitud",
+    "keywords": [
+      "geometria",
+      "longitud",
+      "distancia",
+      "absoluto",
+      "valores"
+    ],
+    "base_response": "En la geometría escolar, el valor absoluto se aplica constantemente para medir la distancia o longitud de los lados de las figuras. Al ser longitudes reales, nunca verás una figura con un lado de longitud negativa. Esta noción de magnitud es fundamental para medir distancias físicas reales."
+  },
+  {
+    "intent_id": "absoluto_no_negativo",
+    "keywords": [
+      "negativo",
+      "resultado",
+      "absoluto",
+      "regla",
+      "error"
+    ],
+    "base_response": "Es una regla inquebrantable en matemáticas que el resultado de calcular un valor absoluto nunca puede ser un número negativo bajo ninguna circunstancia. El valor absoluto siempre devuelve un valor positivo o igual a cero. Esta noción de magnitud es fundamental para medir distancias físicas reales."
+  },
+  {
+    "intent_id": "absoluto_ejemplo_caminar",
+    "keywords": [
+      "pasos",
+      "caminar",
+      "absoluto",
+      "ejemplo",
+      "distancia"
+    ],
+    "base_response": "Imaginas que caminas cinco pasos hacia adelante o cinco pasos hacia atrás en el patio del colegio de los alumnos. En ambos casos, la distancia total que has recorrido equivale a caminar exactamente cinco pasos. Esta noción de magnitud es fundamental para medir distancias físicas reales."
+  },
+  {
+    "intent_id": "absoluto_ejercicio_sencillo",
+    "keywords": [
+      "ejercicio",
+      "absoluto",
+      "calcular",
+      "cuaderno",
+      "resultado"
+    ],
+    "base_response": "Para resolver un ejercicio de valor absoluto en clase, calcula el valor de la expresión menos quince entre barras en tu cuaderno. El resultado de la operación será el número positivo quince de forma directa. Esta noción de magnitud es fundamental para medir distancias físicas reales."
+  },
+  {
+    "intent_id": "absoluto_temperatura_relacion",
+    "keywords": [
+      "temperatura",
+      "absoluto",
+      "clima",
+      "ejemplo",
+      "distancia"
+    ],
+    "base_response": "En el estudio del clima de las regiones, el valor absoluto se usa para comparar variaciones extremas de temperatura ambiental. Nos permite saber cuántos grados de distancia hay con respecto al punto de congelación. Esta noción de magnitud es fundamental para medir distancias físicas reales."
+  },
+  {
+    "intent_id": "absoluto_utilidad_programacion",
+    "keywords": [
+      "programacion",
+      "absoluto",
+      "diferencias",
+      "computacion",
+      "utilidad"
+    ],
+    "base_response": "En la programación de juegos de computadoras, el valor absoluto es indispensable para calcular la distancia entre los personajes de la pantalla. Permite programar colisiones o detectar si el jugador está cerca de un objeto. Esta noción de magnitud es fundamental para medir distancias físicas reales."
+  },
+  {
+    "intent_id": "absoluto_propiedad_multi",
+    "keywords": [
+      "multiplicacion",
+      "absoluto",
+      "propiedad",
+      "operaciones",
+      "resultado"
+    ],
+    "base_response": "La propiedad multiplicativa del valor absoluto establece que el valor absoluto de una multiplicación es igual al producto de los valores absolutos individuales de cada factor. Esta regla facilita simplificar operaciones complejas en clase. Esta noción de magnitud es fundamental para medir distancias físicas reales."
+  },
+  {
+    "intent_id": "opuesto_definicion",
+    "keywords": [
+      "opuesto",
+      "aditivo",
+      "numero",
+      "suma",
+      "definicion"
+    ],
+    "base_response": "El opuesto aritmético aditivo de un número real es aquel número que tiene exactamente el mismo valor absoluto pero posee el signo contrario. Al realizar la suma de ambos números, el resultado es igual a cero. Esta simetría respecto al cero es clave para simplificar ecuaciones algebraicas."
+  },
+  {
+    "intent_id": "opuesto_simbolo",
+    "keywords": [
+      "simbolo",
+      "signo",
+      "resta",
+      "opuesto",
+      "notacion"
+    ],
+    "base_response": "El opuesto aditivo de un número o variable se representa matemáticamente colocando un signo de menos antes de la letra o número. Por ejemplo, el opuesto del número positivo a se escribe de la forma menos a."
+  },
+  {
+    "intent_id": "opuesto_ejemplo_positivo",
+    "keywords": [
+      "positivo",
+      "opuesto",
+      "negativo",
+      "ejemplo",
+      "numeros"
+    ],
+    "base_response": "El opuesto aditivo de un número entero positivo es su correspondiente valor de signo negativo en la recta. De este modo, el opuesto del número entero positivo seis es de forma directa el número menos seis. Esta simetría respecto al cero es clave para simplificar ecuaciones algebraicas."
+  },
+  {
+    "intent_id": "opuesto_ejemplo_negativo",
+    "keywords": [
+      "negativo",
+      "opuesto",
+      "positivo",
+      "ejemplo",
+      "numeros"
+    ],
+    "base_response": "El opuesto aditivo de un número entero negativo es el mismo valor numérico pero con signo positivo en las matemáticas. Por ejemplo, el opuesto del número negativo menos nueve es el número positivo nueve. Esta simetría respecto al cero es clave para simplificar ecuaciones algebraicas."
+  },
+  {
+    "intent_id": "opuesto_cero_propiedad",
+    "keywords": [
+      "cero",
+      "opuesto",
+      "mismo",
+      "resultado",
+      "propiedad"
+    ],
+    "base_response": "El número cero tiene la propiedad única de ser el opuesto aditivo de sí mismo dentro del sistema real. Al sumar cero con cero en tus operaciones, el resultado obtenido sigue siendo el número cero. Esta simetría respecto al cero es clave para simplificar ecuaciones algebraicas."
+  },
+  {
+    "intent_id": "opuesto_recta_simetria",
+    "keywords": [
+      "simetria",
+      "recta",
+      "opuestos",
+      "distancia",
+      "centro"
+    ],
+    "base_response": "En la recta numérica real, los números opuestos se dibujan de manera simétrica a ambos lados del punto de origen. Se encuentran exactamente a la misma distancia física del cero pero en direcciones opuestas. Esta simetría respecto al cero es clave para simplificar ecuaciones algebraicas."
+  },
+  {
+    "intent_id": "opuesto_suma_cero",
+    "keywords": [
+      "suma",
+      "cero",
+      "opuesto",
+      "resultado",
+      "propiedad"
+    ],
+    "base_response": "Una propiedad fundamental establece que la suma de cualquier número real con su respectivo opuesto aditivo da siempre como resultado cero. Esta regla aritmética es la base para cancelar términos en el álgebra. Esta simetría respecto al cero es clave para simplificar ecuaciones algebraicas."
+  },
+  {
+    "intent_id": "opuesto_doble_negativo",
+    "keywords": [
+      "negativo",
+      "opuesto",
+      "mismo",
+      "resultado",
+      "propiedad"
+    ],
+    "base_response": "La propiedad del doble opuesto establece que el opuesto del opuesto de un número real es igual al mismo número original. Esto demuestra de forma matemática la conocida regla de que menos por menos da más. Esta simetría respecto al cero es clave para simplificar ecuaciones algebraicas."
+  },
+  {
+    "intent_id": "opuesto_ejemplo_termometro",
+    "keywords": [
+      "termometro",
+      "temperatura",
+      "opuestos",
+      "ejemplo",
+      "distancia"
+    ],
+    "base_response": "En un termómetro escolar, una temperatura de cinco grados sobre cero y otra de cinco grados bajo cero representan valores opuestos. Ambas se encuentran a la misma distancia del punto de congelación del agua. Esta simetría respecto al cero es clave para simplificar ecuaciones algebraicas."
+  },
+  {
+    "intent_id": "opuesto_ejercicio_sencillo",
+    "keywords": [
+      "ejercicio",
+      "opuesto",
+      "calcular",
+      "cuaderno",
+      "resultado"
+    ],
+    "base_response": "Para resolver un ejercicio de opuestos en clase, calcula el opuesto aditivo del número negativo menos doce en tu cuaderno. El resultado de la operación matemática será de forma directa el número positivo doce. Esta simetría respecto al cero es clave para simplificar ecuaciones algebraicas."
+  },
+  {
+    "intent_id": "opuesto_deudas_relacion",
+    "keywords": [
+      "deudas",
+      "dinero",
+      "opuestos",
+      "saldo",
+      "ejemplo"
+    ],
+    "base_response": "En el comercio cotidiano, los opuestos aditivos se aplican al relacionar deudas de dinero con saldos a favor. Si tienes una deuda de diez dólares, su opuesto aditivo representa un saldo positivo de diez dólares. Esta simetría respecto al cero es clave para simplificar ecuaciones algebraicas."
+  },
+  {
+    "intent_id": "opuesto_no_inverso_multi",
+    "keywords": [
+      "inverso",
+      "multiplicativo",
+      "opuesto",
+      "diferencia",
+      "error"
+    ],
+    "base_response": "Es un error común de los estudiantes confundir el opuesto aditivo con el inverso multiplicativo de un número real. El opuesto trabaja con la suma y el signo, mientras que el inverso trabaja con la multiplicación. Esta simetría respecto al cero es clave para simplificar ecuaciones algebraicas."
+  },
+  {
+    "intent_id": "opuesto_utilidad_algebra",
+    "keywords": [
+      "algebra",
+      "ecuaciones",
+      "opuesto",
+      "cancelar",
+      "utilidad"
+    ],
+    "base_response": "El concepto de opuesto aritmético aditivo es de gran utilidad en el álgebra para resolver ecuaciones lineales paso a paso. Permite pasar términos al otro lado de la igualdad restando o sumando de forma correcta. Esta simetría respecto al cero es clave para simplificar ecuaciones algebraicas."
+  }
+]
