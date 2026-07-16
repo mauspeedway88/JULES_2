@@ -1,0 +1,4401 @@
+[
+  {
+    "intent_id": "definicion_constante_numerica",
+    "keywords": [
+      "valor",
+      "numero",
+      "representacion",
+      "calculo",
+      "variable"
+    ],
+    "base_response": "Una constante numérica fija es un valor que nunca cambia dentro de una expresión algebraica. Sirve para mantener estabilidad en los cálculos y ayuda a diferenciar elementos que permanecen iguales de aquellos que pueden variar según el problema planteado."
+  },
+  {
+    "intent_id": "constantes_en_funciones",
+    "keywords": [
+      "funcion",
+      "valor",
+      "numero",
+      "calculo",
+      "expresion"
+    ],
+    "base_response": "En una función, las constantes numéricas fijas influyen en la forma de la gráfica y en el comportamiento general. Su valor estable permite ajustar la función sin modificar la relación principal entre las variables involucradas."
+  },
+  {
+    "intent_id": "identificacion_constantes",
+    "keywords": [
+      "identificacion",
+      "valor",
+      "numero",
+      "expresion",
+      "calculo"
+    ],
+    "base_response": "Identificar una constante numérica fija implica reconocer un valor que no cambia dentro de la expresión. Esta habilidad ayuda a separar elementos estables de variables y facilita la resolución de ejercicios algebraicos en distintos contextos."
+  },
+  {
+    "intent_id": "constantes_en_graficas",
+    "keywords": [
+      "grafica",
+      "valor",
+      "numero",
+      "calculo",
+      "expresion"
+    ],
+    "base_response": "Las constantes numéricas fijas influyen en la posición y forma de una gráfica. Al mantener un valor estable, permiten desplazar líneas o curvas sin cambiar la relación entre variables, facilitando la interpretación visual de funciones."
+  },
+  {
+    "intent_id": "suma_de_polinomios",
+    "keywords": [
+      "suma",
+      "polinomio",
+      "termino",
+      "operacion",
+      "resultado"
+    ],
+    "base_response": "Suma de polinomios consiste en combinar términos semejantes de dos expresiones. Este proceso permite obtener un polinomio nuevo que representa la unión de ambos. Practicar la suma ayuda a mejorar la comprensión de operaciones algebraicas básicas."
+  },
+  {
+    "intent_id": "ordenamiento_de_terminos",
+    "keywords": [
+      "ordenamiento",
+      "termino",
+      "polinomio",
+      "exponente",
+      "organizacion"
+    ],
+    "base_response": "Ordenamiento de términos consiste en organizar un polinomio según los exponentes de sus variables. Este proceso facilita la lectura y simplificación de expresiones. Practicarlo ayuda a mejorar la claridad y precisión en el trabajo algebraico."
+  },
+  {
+    "intent_id": "uso_de_parentesis",
+    "keywords": [
+      "parentesis",
+      "polinomio",
+      "agrupacion",
+      "operacion",
+      "termino"
+    ],
+    "base_response": "Uso de paréntesis permite agrupar términos y controlar el orden de las operaciones en polinomios. Comprender su función ayuda a evitar errores y resolver expresiones correctamente. Practicar su uso mejora la precisión en cálculos algebraicos."
+  },
+  {
+    "intent_id": "definicion_monomio",
+    "keywords": [
+      "monomio",
+      "variable",
+      "coeficiente",
+      "producto",
+      "expresion"
+    ],
+    "base_response": "Un monomio es una expresión algebraica formada por un número y una o varias variables multiplicadas entre sí. Cada parte cumple una función específica que ayuda a representar cantidades de manera ordenada dentro de operaciones matemáticas más complejas."
+  },
+  {
+    "intent_id": "coeficiente_monomio",
+    "keywords": [
+      "coeficiente",
+      "numero",
+      "valor",
+      "multiplicacion",
+      "variable"
+    ],
+    "base_response": "El coeficiente de un monomio es el número que multiplica a las variables. Indica cuántas veces se toma la parte literal y permite comparar, ordenar y operar monomios de manera clara dentro de expresiones algebraicas escolares."
+  },
+  {
+    "intent_id": "valor_numerico_monomio",
+    "keywords": [
+      "evaluacion",
+      "variable",
+      "numero",
+      "sustitucion",
+      "resultado"
+    ],
+    "base_response": "El valor numérico de un monomio se obtiene sustituyendo las variables por números y realizando las operaciones indicadas. Este proceso ayuda a conectar el álgebra con situaciones reales y refuerza la comprensión de expresiones matemáticas."
+  },
+  {
+    "intent_id": "signo_monomio",
+    "keywords": [
+      "signo",
+      "coeficiente",
+      "positivo",
+      "negativo",
+      "operacion"
+    ],
+    "base_response": "El signo de un monomio depende del coeficiente. Si es positivo, el monomio será positivo; si es negativo, será negativo. Comprender el signo permite resolver operaciones con mayor precisión y evitar errores comunes en ejercicios."
+  },
+  {
+    "intent_id": "monomio_nulo",
+    "keywords": [
+      "monomio",
+      "cero",
+      "coeficiente",
+      "resultado",
+      "operacion"
+    ],
+    "base_response": "Un monomio nulo es aquel cuyo coeficiente es cero. Sin importar la parte literal, su valor siempre será cero. Este concepto ayuda a simplificar expresiones y entender cómo influye el coeficiente en el resultado final."
+  },
+  {
+    "intent_id": "concepto_factorizacion_significado",
+    "keywords": [
+      "factorizacion",
+      "expresion",
+      "algebra",
+      "proceso",
+      "transformacion"
+    ],
+    "base_response": "La factorización transforma una expresión algebraica en un producto de factores más simples. Facilita cálculos y permite comprender mejor la estructura interna de cada término. Ayuda a resolver ecuaciones y simplificar operaciones con mayor claridad para estudiantes principiantes."
+  },
+  {
+    "intent_id": "identificacion_factor_comun",
+    "keywords": [
+      "factor",
+      "termino",
+      "producto",
+      "operacion",
+      "algebra"
+    ],
+    "base_response": "El factor común aparece cuando varios términos comparten una parte multiplicativa. Extraerlo permite reorganizar la expresión como un producto más sencillo. Este método es útil para simplificar cálculos y preparar la expresión para otros procedimientos algebraicos posteriores."
+  },
+  {
+    "intent_id": "uso_propiedad_distributiva",
+    "keywords": [
+      "distributiva",
+      "multiplicacion",
+      "termino",
+      "expresion",
+      "algebra"
+    ],
+    "base_response": "La propiedad distributiva permite convertir una suma en un producto y viceversa. Es esencial para identificar factores comunes y reorganizar expresiones. Comprenderla ayuda a transformar estructuras algebraicas y facilita la resolución de problemas con mayor eficiencia."
+  },
+  {
+    "intent_id": "factorizacion_monomios_simples",
+    "keywords": [
+      "monomio",
+      "producto",
+      "variable",
+      "coeficiente",
+      "algebra"
+    ],
+    "base_response": "La factorización de monomios consiste en separar coeficientes y variables en partes multiplicativas básicas. Este proceso ayuda a reconocer patrones y simplificar expresiones más grandes. Es un paso inicial para dominar técnicas de factorización avanzadas en cursos posteriores."
+  },
+  {
+    "intent_id": "factorizacion_binomios_basicos",
+    "keywords": [
+      "binomio",
+      "termino",
+      "producto",
+      "variable",
+      "algebra"
+    ],
+    "base_response": "La factorización de binomios básicos implica identificar elementos comunes o patrones simples. Permite transformar dos términos en un producto que facilita operaciones posteriores. Es una técnica fundamental para comprender expresiones más complejas y resolver ecuaciones con mayor facilidad."
+  },
+  {
+    "intent_id": "agrupacion_terminos",
+    "keywords": [
+      "agrupacion",
+      "termino",
+      "patron",
+      "producto",
+      "algebra"
+    ],
+    "base_response": "La agrupación de términos consiste en organizar partes de la expresión para encontrar factores comunes. Este método funciona cuando no hay un factor común evidente. Ayuda a descubrir estructuras ocultas y facilita la simplificación de expresiones más extensas."
+  },
+  {
+    "intent_id": "patrones_factorizacion",
+    "keywords": [
+      "patron",
+      "producto",
+      "termino",
+      "variable",
+      "algebra"
+    ],
+    "base_response": "Los patrones de factorización permiten reconocer estructuras repetidas en expresiones. Identificarlos ayuda a aplicar métodos adecuados y simplificar cálculos. Son útiles para resolver problemas rápidamente y comprender cómo se relacionan los términos dentro de una expresión algebraica."
+  },
+  {
+    "intent_id": "verificacion_factorizacion",
+    "keywords": [
+      "verificacion",
+      "producto",
+      "termino",
+      "expresion",
+      "algebra"
+    ],
+    "base_response": "La verificación consiste en multiplicar los factores obtenidos para comprobar que coinciden con la expresión original. Este paso asegura que la factorización es correcta. Es una práctica importante para evitar errores y fortalecer la comprensión del proceso algebraico."
+  },
+  {
+    "intent_id": "factorizacion_coeficientes",
+    "keywords": [
+      "coeficiente",
+      "producto",
+      "numero",
+      "termino",
+      "algebra"
+    ],
+    "base_response": "La factorización de coeficientes implica descomponer números en factores más simples. Este proceso facilita la extracción de factores comunes y la simplificación de expresiones. Comprenderlo ayuda a manejar operaciones algebraicas con mayor precisión y seguridad."
+  },
+  {
+    "intent_id": "factorizacion_signo",
+    "keywords": [
+      "signo",
+      "termino",
+      "producto",
+      "expresion",
+      "algebra"
+    ],
+    "base_response": "La factorización del signo implica extraer un signo negativo cuando facilita la organización de la expresión. Este paso ayuda a encontrar factores comunes y simplificar cálculos. Es útil para mantener orden y claridad en procedimientos algebraicos básicos."
+  },
+  {
+    "intent_id": "factorizacion_suma",
+    "keywords": [
+      "suma",
+      "termino",
+      "producto",
+      "expresion",
+      "algebra"
+    ],
+    "base_response": "La factorización de sumas transforma una adición en un producto mediante la identificación de factores comunes. Este proceso facilita operaciones posteriores y ayuda a comprender mejor la estructura de la expresión. Es una técnica fundamental en el estudio del álgebra."
+  },
+  {
+    "intent_id": "factorizacion_resto",
+    "keywords": [
+      "resto",
+      "termino",
+      "producto",
+      "expresion",
+      "algebra"
+    ],
+    "base_response": "La factorización del resto convierte una diferencia en un producto cuando existe un factor común. Este método simplifica cálculos y permite reorganizar expresiones de manera más clara. Es útil para resolver ecuaciones y comprender relaciones entre términos."
+  },
+  {
+    "intent_id": "factorizacion_proceso_general",
+    "keywords": [
+      "proceso",
+      "producto",
+      "termino",
+      "expresion",
+      "algebra"
+    ],
+    "base_response": "El proceso general de factorización consiste en transformar expresiones en productos mediante la identificación de factores comunes o patrones. Este método facilita operaciones y ayuda a comprender la estructura interna de cada término. Es esencial para avanzar en álgebra."
+  },
+  {
+    "intent_id": "concepto_identificacion_terminos_semejantes",
+    "keywords": [
+      "termino",
+      "variable",
+      "coeficiente",
+      "agrupacion",
+      "operacion"
+    ],
+    "base_response": "Identificación de términos semejantes permite reconocer expresiones con la misma variable y exponente. Esta habilidad facilita combinar partes similares para simplificar operaciones algebraicas. Dominarla ayuda a resolver ejercicios con mayor rapidez y claridad, fortaleciendo la comprensión del lenguaje algebraico."
+  },
+  {
+    "intent_id": "concepto_simplificacion_expresiones_basicas",
+    "keywords": [
+      "simplificacion",
+      "termino",
+      "variable",
+      "operacion",
+      "resultado"
+    ],
+    "base_response": "Simplificación de expresiones básicas consiste en unir términos semejantes para obtener una forma más corta y clara. Este proceso reduce pasos innecesarios y mejora la precisión al resolver problemas. Practicarlo regularmente fortalece la confianza del estudiante en el manejo de expresiones algebraicas."
+  },
+  {
+    "intent_id": "concepto_coherencia_variable_exponente",
+    "keywords": [
+      "variable",
+      "exponente",
+      "termino",
+      "comparacion",
+      "agrupacion"
+    ],
+    "base_response": "Coherencia entre variable y exponente asegura que solo se agrupen términos exactamente iguales en estas características. Esta regla evita errores comunes al simplificar expresiones. Comprenderla permite avanzar con seguridad en operaciones más complejas y desarrollar una base sólida en álgebra."
+  },
+  {
+    "intent_id": "concepto_importancia_coeficientes_numericos",
+    "keywords": [
+      "coeficiente",
+      "numero",
+      "termino",
+      "suma",
+      "resta"
+    ],
+    "base_response": "Importancia de coeficientes numéricos radica en que representan la cantidad de veces que aparece un término semejante. Al agruparlos, se suman o restan estos valores para simplificar la expresión. Entender su función ayuda a evitar confusiones y mejora la precisión en ejercicios algebraicos."
+  },
+  {
+    "intent_id": "concepto_orden_logico_expresiones",
+    "keywords": [
+      "orden",
+      "termino",
+      "expresion",
+      "agrupacion",
+      "simplificacion"
+    ],
+    "base_response": "Orden lógico en expresiones facilita identificar términos semejantes y agruparlos correctamente. Organizar la expresión antes de operar reduce errores y mejora la claridad del proceso. Esta práctica ayuda a desarrollar hábitos matemáticos eficientes y fortalece la comprensión del estudiante."
+  },
+  {
+    "intent_id": "concepto_uso_signos_operaciones",
+    "keywords": [
+      "signo",
+      "operacion",
+      "termino",
+      "suma",
+      "resta"
+    ],
+    "base_response": "Uso correcto de signos en operaciones es esencial para agrupar términos semejantes sin alterar el resultado. Mantener atención en los signos evita confusiones y asegura una simplificación precisa. Esta habilidad mejora la confianza del estudiante al trabajar con expresiones algebraicas variadas."
+  },
+  {
+    "intent_id": "concepto_deteccion_errores_comunes",
+    "keywords": [
+      "error",
+      "termino",
+      "variable",
+      "exponente",
+      "revision"
+    ],
+    "base_response": "Detección de errores comunes permite identificar fallas al agrupar términos semejantes, como confundir variables o exponentes. Revisar cada paso ayuda a corregir equivocaciones y fortalecer la comprensión. Esta práctica desarrolla habilidades de autocontrol y mejora el desempeño en álgebra."
+  },
+  {
+    "intent_id": "concepto_relacion_entre_suma_y_agrupacion",
+    "keywords": [
+      "suma",
+      "termino",
+      "agrupacion",
+      "coeficiente",
+      "operacion"
+    ],
+    "base_response": "Relación entre suma y agrupación muestra que unir términos semejantes implica sumar sus coeficientes. Comprender esta conexión facilita resolver expresiones con mayor rapidez. Practicarla ayuda a desarrollar fluidez en operaciones algebraicas y mejora la capacidad de simplificar correctamente."
+  },
+  {
+    "intent_id": "concepto_relacion_entre_resta_y_agrupacion",
+    "keywords": [
+      "resta",
+      "termino",
+      "agrupacion",
+      "coeficiente",
+      "operacion"
+    ],
+    "base_response": "Relación entre resta y agrupación explica que al unir términos semejantes también se restan coeficientes cuando corresponda. Esta comprensión evita errores y fortalece la precisión del estudiante. Dominarla permite simplificar expresiones con mayor seguridad y claridad en el proceso."
+  },
+  {
+    "intent_id": "concepto_importancia_revision_final",
+    "keywords": [
+      "revision",
+      "termino",
+      "expresion",
+      "resultado",
+      "precision"
+    ],
+    "base_response": "Importancia de la revisión final radica en confirmar que todos los términos semejantes fueron agrupados correctamente. Este paso asegura un resultado claro y preciso. Practicarlo fomenta hábitos matemáticos responsables y mejora la confianza del estudiante al resolver expresiones algebraicas."
+  },
+  {
+    "intent_id": "concepto_aplicacion_en_problemas_reales",
+    "keywords": [
+      "aplicacion",
+      "problema",
+      "termino",
+      "expresion",
+      "solucion"
+    ],
+    "base_response": "Aplicación en problemas reales demuestra que agrupar términos semejantes ayuda a simplificar cálculos presentes en situaciones cotidianas. Esta habilidad permite resolver problemas con mayor eficiencia. Comprender su utilidad motiva al estudiante y fortalece su conexión con el álgebra."
+  },
+  {
+    "intent_id": "concepto_identificacion_patrones_algebraicos",
+    "keywords": [
+      "patron",
+      "termino",
+      "variable",
+      "expresion",
+      "agrupacion"
+    ],
+    "base_response": "Identificación de patrones algebraicos permite reconocer estructuras repetidas en expresiones y agrupar términos semejantes con facilidad. Esta habilidad mejora la rapidez al resolver ejercicios y fortalece la comprensión del estudiante. Practicarla desarrolla pensamiento matemático más organizado."
+  },
+  {
+    "intent_id": "concepto_relacion_con_distribucion",
+    "keywords": [
+      "distribucion",
+      "termino",
+      "expresion",
+      "agrupacion",
+      "operacion"
+    ],
+    "base_response": "Relación con la distribución muestra que después de aplicar la propiedad distributiva es necesario agrupar términos semejantes para simplificar. Comprender esta conexión ayuda a resolver expresiones más complejas. Practicarla fortalece la habilidad de transformar y ordenar expresiones algebraicas."
+  },
+  {
+    "intent_id": "concepto_importancia_claridad_visual",
+    "keywords": [
+      "claridad",
+      "termino",
+      "expresion",
+      "orden",
+      "agrupacion"
+    ],
+    "base_response": "Importancia de la claridad visual consiste en presentar expresiones ordenadas para identificar términos semejantes con facilidad. Esta práctica reduce errores y mejora la comprensión del proceso. Mantener expresiones claras ayuda al estudiante a trabajar con mayor seguridad y eficiencia."
+  },
+  {
+    "intent_id": "concepto_proceso_paso_a_paso",
+    "keywords": [
+      "proceso",
+      "termino",
+      "agrupacion",
+      "expresion",
+      "simplificacion"
+    ],
+    "base_response": "Proceso paso a paso implica identificar términos semejantes, agruparlos y simplificar la expresión con cuidado. Seguir esta secuencia ayuda a evitar errores y mejora la comprensión del estudiante. Practicarlo desarrolla disciplina matemática y fortalece habilidades fundamentales del álgebra."
+  },
+  {
+    "intent_id": "identificacion_binomio",
+    "keywords": [
+      "binomio",
+      "expresion",
+      "variable",
+      "operacion",
+      "calculo"
+    ],
+    "base_response": "Un binomio es una expresión algebraica formada por dos términos separados por suma o resta. Cada término puede incluir números y variables. Comprender su estructura permite resolver operaciones básicas y avanzar hacia procedimientos más complejos dentro del álgebra escolar."
+  },
+  {
+    "intent_id": "terminos_binomio",
+    "keywords": [
+      "termino",
+      "binomio",
+      "variable",
+      "coeficiente",
+      "calculo"
+    ],
+    "base_response": "Los términos de un binomio combinan coeficientes y variables para formar partes independientes de la expresión. Reconocer cada término ayuda a identificar cómo interactúan en operaciones posteriores y facilita la comprensión de procedimientos algebraicos esenciales para estudiantes en formación."
+  },
+  {
+    "intent_id": "coeficientes_binomio",
+    "keywords": [
+      "coeficiente",
+      "binomio",
+      "numero",
+      "variable",
+      "calculo"
+    ],
+    "base_response": "El coeficiente es el número que acompaña a una variable dentro de un binomio. Su función es indicar cuántas veces se toma la variable. Comprender coeficientes permite interpretar correctamente expresiones y resolver operaciones con mayor seguridad y precisión."
+  },
+  {
+    "intent_id": "variables_binomio",
+    "keywords": [
+      "variable",
+      "binomio",
+      "simbolo",
+      "valor",
+      "calculo"
+    ],
+    "base_response": "Las variables representan valores desconocidos dentro de un binomio. Se expresan mediante letras y pueden cambiar según el problema. Entender su papel ayuda a resolver ejercicios y a relacionar expresiones algebraicas con situaciones reales que requieren análisis numérico."
+  },
+  {
+    "intent_id": "signos_binomio",
+    "keywords": [
+      "signo",
+      "binomio",
+      "suma",
+      "resta",
+      "operacion"
+    ],
+    "base_response": "Los signos en un binomio indican si los términos se suman o se restan. Interpretarlos correctamente es fundamental para resolver operaciones y evitar errores. Su comprensión fortalece la habilidad para manipular expresiones y avanzar en el estudio del álgebra."
+  },
+  {
+    "intent_id": "evaluacion_binomio",
+    "keywords": [
+      "evaluacion",
+      "binomio",
+      "valor",
+      "variable",
+      "calculo"
+    ],
+    "base_response": "Evaluar un binomio consiste en sustituir valores en las variables y realizar las operaciones indicadas. Este proceso permite obtener resultados concretos y comprender cómo cambian las expresiones según los números utilizados en cada situación matemática."
+  },
+  {
+    "intent_id": "simplificacion_binomio",
+    "keywords": [
+      "simplificacion",
+      "binomio",
+      "termino",
+      "operacion",
+      "calculo"
+    ],
+    "base_response": "Simplificar un binomio implica reducir la expresión combinando términos semejantes cuando es posible. Este procedimiento ayuda a obtener formas más claras y manejables, facilitando la resolución de problemas y el análisis de relaciones algebraicas básicas."
+  },
+  {
+    "intent_id": "terminos_semejantes_binomio",
+    "keywords": [
+      "termino",
+      "semejante",
+      "binomio",
+      "variable",
+      "coeficiente"
+    ],
+    "base_response": "Los términos semejantes dentro de un binomio comparten la misma variable y exponente. Identificarlos permite combinar expresiones de manera correcta y simplificar operaciones. Esta habilidad es esencial para desarrollar confianza en el manejo del lenguaje algebraico."
+  },
+  {
+    "intent_id": "representacion_binomio",
+    "keywords": [
+      "representacion",
+      "binomio",
+      "expresion",
+      "variable",
+      "simbolo"
+    ],
+    "base_response": "Representar un binomio consiste en escribirlo usando símbolos matemáticos que muestran claramente sus dos términos. Esta representación ayuda a visualizar la estructura de la expresión y facilita la comprensión de operaciones posteriores dentro del estudio del álgebra."
+  },
+  {
+    "intent_id": "binomio_valor_numerico",
+    "keywords": [
+      "binomio",
+      "valor",
+      "numero",
+      "variable",
+      "calculo"
+    ],
+    "base_response": "El valor numérico de un binomio se obtiene sustituyendo números en las variables y realizando las operaciones indicadas. Este proceso permite verificar resultados y comprender cómo cambian las expresiones según los valores elegidos en cada ejercicio."
+  },
+  {
+    "intent_id": "binomio_contexto_algebraico",
+    "keywords": [
+      "binomio",
+      "contexto",
+      "algebra",
+      "expresion",
+      "termino"
+    ],
+    "base_response": "Los binomios forman parte del lenguaje básico del álgebra y permiten expresar relaciones entre cantidades. Comprender su estructura y uso facilita el aprendizaje de operaciones más avanzadas y fortalece la capacidad de interpretar expresiones matemáticas con claridad."
+  },
+  {
+    "intent_id": "definicion_trinomio_cuadrado_perfecto",
+    "keywords": [
+      "trinomio",
+      "cuadrado",
+      "producto",
+      "binomio",
+      "expresion"
+    ],
+    "base_response": "Un trinomio cuadrado perfecto surge cuando un binomio se multiplica por sí mismo, generando una expresión con dos cuadrados y un término doble producto. Reconocer esta estructura permite simplificar y factorizar con mayor facilidad en ejercicios básicos de álgebra escolar."
+  },
+  {
+    "intent_id": "identificacion_patron_cuadrado",
+    "keywords": [
+      "patron",
+      "trinomio",
+      "cuadrado",
+      "termino",
+      "producto"
+    ],
+    "base_response": "Identificar el patrón de un trinomio cuadrado perfecto implica observar si el primer y último término son cuadrados y si el término central corresponde al doble producto de las raíces. Este reconocimiento facilita resolver problemas algebraicos con mayor seguridad."
+  },
+  {
+    "intent_id": "uso_raices_cuadradas_trinomio",
+    "keywords": [
+      "raiz",
+      "cuadrado",
+      "trinomio",
+      "binomio",
+      "producto"
+    ],
+    "base_response": "Las raíces cuadradas de los términos extremos ayudan a verificar si un trinomio es cuadrado perfecto. Si el término central coincide con el doble producto de esas raíces, la expresión puede factorizarse fácilmente como un binomio elevado al cuadrado."
+  },
+  {
+    "intent_id": "factorizacion_trinomio_cuadrado",
+    "keywords": [
+      "factorizacion",
+      "trinomio",
+      "cuadrado",
+      "binomio",
+      "producto"
+    ],
+    "base_response": "La factorización de un trinomio cuadrado perfecto consiste en escribir la expresión como un binomio al cuadrado. Esto se logra identificando las raíces de los términos extremos y comprobando que el término central sea el doble producto de dichas raíces."
+  },
+  {
+    "intent_id": "verificacion_doble_producto",
+    "keywords": [
+      "verificacion",
+      "producto",
+      "trinomio",
+      "cuadrado",
+      "binomio"
+    ],
+    "base_response": "Para verificar un trinomio cuadrado perfecto, se calcula el doble producto de las raíces cuadradas de los términos extremos. Si coincide con el término central, la expresión cumple el patrón y puede factorizarse como un binomio al cuadrado sin complicaciones."
+  },
+  {
+    "intent_id": "expansion_binomio_cuadrado",
+    "keywords": [
+      "expansion",
+      "binomio",
+      "cuadrado",
+      "trinomio",
+      "producto"
+    ],
+    "base_response": "La expansión de un binomio al cuadrado produce un trinomio cuadrado perfecto. Al multiplicar cada término y sumar el doble producto, se obtiene una expresión ordenada que permite comprender cómo se forman estos trinomios en ejercicios algebraicos sencillos."
+  },
+  {
+    "intent_id": "relacion_binomio_trinomio",
+    "keywords": [
+      "relacion",
+      "binomio",
+      "trinomio",
+      "cuadrado",
+      "producto"
+    ],
+    "base_response": "La relación entre binomios y trinomios cuadrados perfectos se basa en que un binomio al cuadrado genera un trinomio con estructura definida. Comprender esta conexión facilita reconocer y transformar expresiones algebraicas de manera más intuitiva y ordenada."
+  },
+  {
+    "intent_id": "uso_signos_trinomio",
+    "keywords": [
+      "signo",
+      "trinomio",
+      "cuadrado",
+      "binomio",
+      "producto"
+    ],
+    "base_response": "Los signos dentro de un trinomio cuadrado perfecto dependen del binomio original. Si el binomio tiene signo positivo, el trinomio resultante mantiene coherencia en sus términos. Analizar estos signos ayuda a evitar errores al factorizar expresiones algebraicas."
+  },
+  {
+    "intent_id": "aplicacion_trinomio_problemas",
+    "keywords": [
+      "aplicacion",
+      "trinomio",
+      "cuadrado",
+      "binomio",
+      "producto"
+    ],
+    "base_response": "Aplicar trinomios cuadrados perfectos en problemas permite simplificar cálculos y resolver ecuaciones con mayor rapidez. Reconocer su estructura ayuda a transformar expresiones complicadas en formas más manejables, facilitando el avance en temas básicos de álgebra."
+  },
+  {
+    "intent_id": "comparacion_trinomio_no_perfecto",
+    "keywords": [
+      "comparacion",
+      "trinomio",
+      "cuadrado",
+      "producto",
+      "binomio"
+    ],
+    "base_response": "Comparar un trinomio cuadrado perfecto con uno que no lo es permite identificar diferencias clave en su estructura. Si el término central no coincide con el doble producto de las raíces, la expresión no puede factorizarse como un binomio al cuadrado directamente."
+  },
+  {
+    "intent_id": "analisis_terminos_extremos",
+    "keywords": [
+      "analisis",
+      "termino",
+      "trinomio",
+      "cuadrado",
+      "producto"
+    ],
+    "base_response": "El análisis de los términos extremos de un trinomio permite determinar si son cuadrados exactos. Esta verificación es esencial para confirmar la estructura de cuadrado perfecto y avanzar hacia la factorización correcta sin cometer errores comunes en álgebra."
+  },
+  {
+    "intent_id": "uso_modelos_visuales_trinomio",
+    "keywords": [
+      "modelo",
+      "visual",
+      "trinomio",
+      "cuadrado",
+      "producto"
+    ],
+    "base_response": "Modelos visuales como cuadros o áreas ayudan a comprender cómo se forma un trinomio cuadrado perfecto. Representar el binomio al cuadrado permite observar la aparición del doble producto y facilita la comprensión para estudiantes que aprenden mejor visualmente."
+  },
+  {
+    "intent_id": "practica_reconocimiento_trinomio",
+    "keywords": [
+      "practica",
+      "reconocimiento",
+      "trinomio",
+      "cuadrado",
+      "producto"
+    ],
+    "base_response": "La práctica constante en reconocer trinomios cuadrados perfectos fortalece la habilidad de identificar patrones algebraicos. Resolver ejercicios variados permite afianzar el proceso de verificación y mejora la confianza del estudiante al trabajar con expresiones complejas."
+  },
+  {
+    "intent_id": "errores_comunes_trinomio",
+    "keywords": [
+      "error",
+      "trinomio",
+      "cuadrado",
+      "producto",
+      "binomio"
+    ],
+    "base_response": "Los errores comunes al trabajar con trinomios cuadrados perfectos incluyen confundir el doble producto o identificar mal las raíces. Revisar cada término con atención ayuda a evitar fallos y permite factorizar correctamente expresiones que parecen complicadas inicialmente."
+  },
+  {
+    "intent_id": "clasificacion_de_polinomios",
+    "keywords": [
+      "polinomio",
+      "grado",
+      "termino",
+      "variable",
+      "expresion"
+    ],
+    "base_response": "La clasificación de polinomios se basa en su número de términos y grado. Esta organización ayuda a entender cómo se comportan las expresiones y permite elegir métodos adecuados para simplificarlas, compararlas y resolver problemas matemáticos cotidianos."
+  },
+  {
+    "intent_id": "grado_del_polinomio",
+    "keywords": [
+      "grado",
+      "polinomio",
+      "exponente",
+      "variable",
+      "termino"
+    ],
+    "base_response": "El grado del polinomio se determina observando el exponente mayor entre sus términos. Este valor indica la complejidad de la expresión y permite anticipar cómo se comportará al realizar operaciones, apoyando la comprensión de problemas algebraicos."
+  },
+  {
+    "intent_id": "coeficientes_en_polinomios",
+    "keywords": [
+      "coeficiente",
+      "polinomio",
+      "termino",
+      "variable",
+      "numero"
+    ],
+    "base_response": "Los coeficientes representan los números que acompañan a las variables en cada término. Reconocerlos ayuda a interpretar el valor de cada parte del polinomio y facilita operaciones como sumar, restar o simplificar expresiones de manera ordenada."
+  },
+  {
+    "intent_id": "concepto_variable_significado",
+    "keywords": [
+      "variable",
+      "simbolo",
+      "valor",
+      "incognita",
+      "algebra"
+    ],
+    "base_response": "Una variable representa un valor desconocido que puede cambiar según la situación. Se escribe con una letra y permite expresar relaciones matemáticas de manera general. Comprender su función ayuda a resolver problemas con mayor claridad y flexibilidad."
+  },
+  {
+    "intent_id": "incognita_problema_contexto",
+    "keywords": [
+      "incognita",
+      "problema",
+      "contexto",
+      "valor",
+      "solucion"
+    ],
+    "base_response": "Una incógnita es el valor que se busca dentro de un problema. Su significado depende del contexto y se determina analizando la información disponible. Identificarla correctamente permite avanzar hacia la solución con pasos ordenados y claros."
+  },
+  {
+    "intent_id": "expresion_variable_interaccion",
+    "keywords": [
+      "expresion",
+      "variable",
+      "interaccion",
+      "operacion",
+      "resultado"
+    ],
+    "base_response": "Una expresión con variables muestra cómo interactúan números y operaciones para producir un resultado. Aunque el valor exacto no se conozca, la estructura revela relaciones importantes. Analizarla permite anticipar comportamientos y resolver problemas con mayor seguridad."
+  },
+  {
+    "intent_id": "igualdad_variable_equilibrio",
+    "keywords": [
+      "igualdad",
+      "variable",
+      "equilibrio",
+      "operacion",
+      "resultado"
+    ],
+    "base_response": "Una igualdad con variables indica que dos expresiones mantienen el mismo valor. Para conservar ese equilibrio, cualquier cambio en una parte debe reflejarse en la otra. Comprender este principio es esencial para resolver ecuaciones correctamente."
+  },
+  {
+    "intent_id": "termino_variable_componentes",
+    "keywords": [
+      "termino",
+      "variable",
+      "componentes",
+      "coeficiente",
+      "expresion"
+    ],
+    "base_response": "Un término con variable combina un coeficiente y una letra que representa un valor desconocido. Identificar sus componentes permite entender mejor la estructura de una expresión. Esta habilidad es clave para simplificar y resolver problemas algebraicos."
+  },
+  {
+    "intent_id": "constante_diferencia_variable",
+    "keywords": [
+      "constante",
+      "variable",
+      "diferencia",
+      "valor",
+      "expresion"
+    ],
+    "base_response": "Una constante mantiene siempre el mismo valor, mientras que una variable puede cambiar. Distinguir ambas dentro de una expresión ayuda a interpretar correctamente su significado. Esta comprensión permite avanzar con mayor seguridad en el álgebra."
+  },
+  {
+    "intent_id": "uso_constantes_ecuaciones",
+    "keywords": [
+      "ecuacion",
+      "valor",
+      "numero",
+      "calculo",
+      "resultado"
+    ],
+    "base_response": "Las constantes numéricas fijas permiten que una ecuación mantenga siempre el mismo valor en ciertas partes. Esto ayuda a que los estudiantes reconozcan elementos estables y comprendan cómo interactúan con variables para obtener resultados coherentes."
+  },
+  {
+    "intent_id": "papel_constantes_problemas",
+    "keywords": [
+      "problema",
+      "numero",
+      "valor",
+      "calculo",
+      "solucion"
+    ],
+    "base_response": "Las constantes numéricas fijas permiten resolver problemas con mayor precisión. Al no cambiar, ofrecen un punto estable que facilita la identificación de pasos necesarios y la organización de cálculos para llegar a una solución correcta."
+  },
+  {
+    "intent_id": "concepto_terminos_semejantes",
+    "keywords": [
+      "termino",
+      "polinomio",
+      "variable",
+      "coeficiente",
+      "operacion"
+    ],
+    "base_response": "Los términos semejantes son partes de un polinomio que comparten la misma variable y exponente. Agruparlos permite simplificar expresiones y resolver operaciones con mayor facilidad. Identificarlos correctamente ayuda a organizar el polinomio y comprender mejor su estructura."
+  },
+  {
+    "intent_id": "concepto_grado_polinomio",
+    "keywords": [
+      "grado",
+      "polinomio",
+      "exponente",
+      "variable",
+      "calculo"
+    ],
+    "base_response": "El grado de un polinomio es el exponente más alto presente en sus términos. Conocerlo permite entender la complejidad de la expresión y anticipar su comportamiento. Identificar el grado ayuda a clasificar polinomios y resolver ejercicios de manera más ordenada."
+  },
+  {
+    "intent_id": "concepto_coeficientes",
+    "keywords": [
+      "coeficiente",
+      "numero",
+      "polinomio",
+      "multiplicacion",
+      "variable"
+    ],
+    "base_response": "Los coeficientes son los números que acompañan a las variables en un polinomio. Indican cuántas veces se multiplica la variable. Reconocerlos facilita la simplificación y comparación de términos. Son esenciales para comprender la estructura de cualquier expresión algebraica."
+  },
+  {
+    "intent_id": "concepto_variables",
+    "keywords": [
+      "variable",
+      "simbolo",
+      "polinomio",
+      "representacion",
+      "valor"
+    ],
+    "base_response": "Las variables son símbolos que representan valores desconocidos dentro de un polinomio. Permiten generalizar situaciones y construir expresiones flexibles. Comprender su función ayuda a interpretar y manipular polinomios con mayor seguridad y claridad en distintos ejercicios."
+  },
+  {
+    "intent_id": "concepto_simplificacion",
+    "keywords": [
+      "simplificacion",
+      "polinomio",
+      "termino",
+      "reduccion",
+      "operacion"
+    ],
+    "base_response": "La simplificación de polinomios consiste en combinar términos semejantes para obtener una expresión más corta y clara. Este proceso ayuda a resolver problemas de manera eficiente. Practicarlo permite reconocer patrones y mejorar la comprensión de las operaciones algebraicas."
+  },
+  {
+    "intent_id": "concepto_suma_polinomios",
+    "keywords": [
+      "suma",
+      "polinomio",
+      "termino",
+      "variable",
+      "coeficiente"
+    ],
+    "base_response": "La suma de polinomios se realiza combinando términos semejantes y sumando sus coeficientes. Es importante alinear correctamente las variables para evitar errores. Este proceso permite construir expresiones más completas y resolver ejercicios que requieren unir información algebraica."
+  },
+  {
+    "intent_id": "concepto_resta_polinomios",
+    "keywords": [
+      "resta",
+      "polinomio",
+      "termino",
+      "variable",
+      "coeficiente"
+    ],
+    "base_response": "La resta de polinomios implica cambiar el signo del segundo polinomio y luego combinar términos semejantes. Es fundamental identificar correctamente cada parte para evitar confusiones. Practicar este proceso mejora la habilidad para manipular expresiones algebraicas con precisión."
+  },
+  {
+    "intent_id": "concepto_multiplicacion_monomio",
+    "keywords": [
+      "multiplicacion",
+      "monomio",
+      "polinomio",
+      "variable",
+      "exponente"
+    ],
+    "base_response": "Multiplicar un monomio por un polinomio consiste en distribuir el monomio entre todos los términos. Se multiplican coeficientes y se suman exponentes de variables iguales. Este procedimiento ayuda a expandir expresiones y comprender mejor la estructura de los polinomios."
+  },
+  {
+    "intent_id": "concepto_distribucion",
+    "keywords": [
+      "distribucion",
+      "multiplicacion",
+      "polinomio",
+      "termino",
+      "expansion"
+    ],
+    "base_response": "La propiedad distributiva permite multiplicar un número o monomio por cada término de un polinomio. Facilita la expansión de expresiones y la resolución de ejercicios. Comprenderla ayuda a manejar operaciones más complejas y a organizar mejor los pasos del cálculo algebraico."
+  },
+  {
+    "intent_id": "concepto_factor_comun",
+    "keywords": [
+      "factor",
+      "comun",
+      "polinomio",
+      "termino",
+      "agrupacion"
+    ],
+    "base_response": "El factor común es un elemento que se repite en varios términos de un polinomio y puede extraerse para simplificar la expresión. Identificarlo permite reorganizar el polinomio y reducir su complejidad. Es una técnica útil para resolver ejercicios de factorización inicial."
+  },
+  {
+    "intent_id": "concepto_evaluacion_polinomio",
+    "keywords": [
+      "evaluacion",
+      "polinomio",
+      "valor",
+      "variable",
+      "calculo"
+    ],
+    "base_response": "Evaluar un polinomio consiste en sustituir la variable por un número y calcular el resultado. Este proceso permite verificar soluciones y comprender cómo cambia la expresión según distintos valores. Practicarlo ayuda a fortalecer habilidades de cálculo y análisis algebraico."
+  },
+  {
+    "intent_id": "concepto_orden_descendente",
+    "keywords": [
+      "orden",
+      "descendente",
+      "polinomio",
+      "exponente",
+      "organizacion"
+    ],
+    "base_response": "Ordenar un polinomio en forma descendente significa acomodar sus términos desde el exponente más alto al más bajo. Esta organización facilita la lectura y comparación de expresiones. Es una práctica útil para resolver ejercicios y presentar resultados de manera clara."
+  },
+  {
+    "intent_id": "concepto_identificacion_monomios",
+    "keywords": [
+      "monomio",
+      "polinomio",
+      "variable",
+      "coeficiente",
+      "exponente"
+    ],
+    "base_response": "Un monomio es una expresión formada por un número y una variable con exponente. Identificar monomios dentro de un polinomio ayuda a comprender su estructura y a realizar operaciones correctamente. Es fundamental para trabajar con expresiones algebraicas más complejas."
+  },
+  {
+    "intent_id": "concepto_binomios",
+    "keywords": [
+      "binomio",
+      "polinomio",
+      "termino",
+      "variable",
+      "coeficiente"
+    ],
+    "base_response": "Un binomio es un polinomio compuesto por dos términos. Reconocerlo permite aplicar métodos específicos para sumar, restar o multiplicar expresiones. Comprender su estructura ayuda a resolver ejercicios y a construir polinomios más grandes con mayor seguridad."
+  },
+  {
+    "intent_id": "concepto_trinomios",
+    "keywords": [
+      "trinomio",
+      "polinomio",
+      "termino",
+      "variable",
+      "coeficiente"
+    ],
+    "base_response": "Un trinomio es un polinomio formado por tres términos. Identificarlo facilita la organización de la expresión y la aplicación de operaciones básicas. Comprender su estructura permite avanzar hacia ejercicios más complejos y desarrollar habilidades sólidas en álgebra."
+  },
+  {
+    "intent_id": "signo_coeficiente",
+    "keywords": [
+      "signo",
+      "coeficiente",
+      "numero",
+      "valor",
+      "operacion"
+    ],
+    "base_response": "El signo del coeficiente indica si el monomio representa una cantidad positiva o negativa. Comprenderlo ayuda a evitar errores en operaciones y a interpretar correctamente expresiones algebraicas. Es un aspecto fundamental para trabajar con monomios en secundaria."
+  },
+  {
+    "intent_id": "exponentes_monomio",
+    "keywords": [
+      "exponente",
+      "potencia",
+      "variable",
+      "valor",
+      "operacion"
+    ],
+    "base_response": "Los exponentes muestran cuántas veces se multiplica una variable por sí misma dentro del monomio. Entender su función permite interpretar correctamente la parte literal y resolver operaciones con potencias. Es un concepto clave en el aprendizaje del álgebra escolar."
+  },
+  {
+    "intent_id": "producto_monomios",
+    "keywords": [
+      "producto",
+      "monomio",
+      "variable",
+      "exponente",
+      "multiplicacion"
+    ],
+    "base_response": "El producto de monomios consiste en multiplicar coeficientes y sumar exponentes de variables iguales. Dominar este procedimiento permite simplificar expresiones y resolver ejercicios más complejos. Es una habilidad esencial en el estudio del álgebra en secundaria."
+  },
+  {
+    "intent_id": "orden_monomios",
+    "keywords": [
+      "orden",
+      "grado",
+      "comparacion",
+      "monomio",
+      "clasificacion"
+    ],
+    "base_response": "Ordenar monomios consiste en organizarlos según su grado, del menor al mayor o viceversa. Esta habilidad permite analizar expresiones y resolver ejercicios con mayor claridad. Es útil para comprender la estructura de polinomios y avanzar en álgebra escolar."
+  },
+  {
+    "intent_id": "uso_monomios_modelos",
+    "keywords": [
+      "monomio",
+      "modelo",
+      "problema",
+      "variable",
+      "calculo"
+    ],
+    "base_response": "Los monomios pueden representar situaciones reales mediante modelos matemáticos simples. Comprender esta aplicación ayuda a relacionar el álgebra con problemas cotidianos y facilita el aprendizaje. Es una forma práctica de entender la utilidad de las expresiones algebraicas."
+  },
+  {
+    "intent_id": "definicion_terminos_semejantes",
+    "keywords": [
+      "terminos",
+      "agrupacion",
+      "algebra",
+      "expresion",
+      "operacion"
+    ],
+    "base_response": "Los términos semejantes son partes de una expresión algebraica que tienen la misma variable y el mismo exponente. Agruparlos permite simplificar operaciones y resolver problemas con mayor facilidad, ayudando a organizar mejor cada paso del proceso matemático."
+  },
+  {
+    "intent_id": "uso_coeficientes_en_agrupacion",
+    "keywords": [
+      "coeficientes",
+      "suma",
+      "resta",
+      "terminos",
+      "algebra"
+    ],
+    "base_response": "Los coeficientes indican cuántas veces se repite un término semejante. Al agrupar, se suman o restan estos valores para obtener un resultado más simple. Comprender su función ayuda a manejar expresiones algebraicas con mayor seguridad."
+  },
+  {
+    "intent_id": "concepto_variables_significado",
+    "keywords": [
+      "variable",
+      "simbolo",
+      "valor",
+      "representacion",
+      "calculo"
+    ],
+    "base_response": "Una variable literal desconocida es un símbolo que representa un valor que aún no se conoce. Permite expresar relaciones matemáticas de manera flexible y resolver problemas donde falta información específica, facilitando el análisis de distintas situaciones numéricas."
+  },
+  {
+    "intent_id": "relaciones_entre_variables",
+    "keywords": [
+      "relacion",
+      "variable",
+      "cambio",
+      "dependencia",
+      "analisis"
+    ],
+    "base_response": "Las variables pueden relacionarse entre sí, de modo que el valor de una depende del valor de otra. Analizar estas relaciones permite comprender cómo cambian las cantidades y cómo se afectan mutuamente en diferentes situaciones."
+  },
+  {
+    "intent_id": "constantes_en_funciones_lineales",
+    "keywords": [
+      "funcion",
+      "lineal",
+      "numero",
+      "valor",
+      "pendiente"
+    ],
+    "base_response": "En funciones lineales, las constantes numéricas fijas pueden representar valores como la pendiente o el punto inicial. Estos elementos ayudan a describir cómo cambia una cantidad respecto a otra dentro de un contexto matemático sencillo."
+  },
+  {
+    "intent_id": "coeficientes_y_variables",
+    "keywords": [
+      "coeficientes",
+      "variables",
+      "terminos",
+      "polinomios",
+      "expresiones"
+    ],
+    "base_response": "Coeficientes y variables forman cada término del polinomio. Reconocer su función ayuda a interpretar expresiones y realizar operaciones con mayor precisión. Esta comprensión fortalece la habilidad de manipular polinomios y facilita avanzar en el estudio del álgebra escolar."
+  },
+  {
+    "intent_id": "multiplicacion_por_monomio",
+    "keywords": [
+      "multiplicacion",
+      "monomio",
+      "polinomios",
+      "terminos",
+      "variables"
+    ],
+    "base_response": "Multiplicación por monomio requiere aplicar la propiedad distributiva, multiplicando cada término del polinomio por el monomio. Esta operación ayuda a comprender cómo interactúan coeficientes y exponentes, preparando al estudiante para trabajar con expresiones más complejas."
+  },
+  {
+    "intent_id": "propiedad_distributiva",
+    "keywords": [
+      "distributiva",
+      "multiplicacion",
+      "polinomios",
+      "terminos",
+      "variables"
+    ],
+    "base_response": "Propiedad distributiva permite multiplicar un número o término por cada parte de una expresión. Comprenderla facilita operaciones con polinomios y ayuda a simplificar cálculos. Es una herramienta clave para desarrollar habilidades algebraicas y resolver problemas con mayor facilidad."
+  },
+  {
+    "intent_id": "ordenamiento_de_polinomios",
+    "keywords": [
+      "ordenamiento",
+      "polinomios",
+      "terminos",
+      "grado",
+      "expresiones"
+    ],
+    "base_response": "Ordenamiento de polinomios consiste en organizar los términos según su grado, generalmente de mayor a menor. Esta práctica mejora la claridad de las expresiones y facilita resolver operaciones, ayudando al estudiante a comprender mejor la estructura algebraica."
+  },
+  {
+    "intent_id": "uso_de_exponentes",
+    "keywords": [
+      "exponentes",
+      "variables",
+      "polinomios",
+      "terminos",
+      "expresiones"
+    ],
+    "base_response": "Uso de exponentes permite definir el grado de cada término y entender cómo crecen las expresiones. Comprender su función ayuda a manipular polinomios correctamente y facilita resolver operaciones básicas, fortaleciendo la base necesaria para temas algebraicos posteriores."
+  },
+  {
+    "intent_id": "variables_monomio",
+    "keywords": [
+      "variable",
+      "letra",
+      "potencia",
+      "algebra",
+      "expresion"
+    ],
+    "base_response": "Las variables de un monomio representan cantidades desconocidas y se expresan con letras. Cada variable puede tener una potencia que indica cuántas veces se multiplica por sí misma. Identificarlas correctamente permite analizar y operar expresiones algebraicas."
+  },
+  {
+    "intent_id": "potencias_monomio",
+    "keywords": [
+      "potencia",
+      "exponente",
+      "variable",
+      "multiplicacion",
+      "algebra"
+    ],
+    "base_response": "Las potencias en un monomio muestran cuántas veces se multiplica una variable por sí misma. Comprender los exponentes permite calcular el grado y realizar operaciones como multiplicaciones y simplificaciones. Son esenciales para interpretar expresiones algebraicas."
+  },
+  {
+    "intent_id": "monomios_similares",
+    "keywords": [
+      "monomio",
+      "variable",
+      "potencia",
+      "igualdad",
+      "algebra"
+    ],
+    "base_response": "Los monomios similares son aquellos que tienen la misma parte literal, es decir, las mismas variables con iguales potencias. Identificarlos permite sumar o restar monomios correctamente. Esta habilidad es clave para simplificar expresiones algebraicas más amplias."
+  },
+  {
+    "intent_id": "estructura_producto",
+    "keywords": [
+      "producto",
+      "coeficiente",
+      "variable",
+      "potencia",
+      "algebra"
+    ],
+    "base_response": "La estructura de un monomio se basa en un producto entre coeficiente y parte literal. Esta organización permite analizar cada componente por separado y comprender cómo interactúan. Dominarla facilita resolver ejercicios y simplificar expresiones algebraicas."
+  },
+  {
+    "intent_id": "orden_variables",
+    "keywords": [
+      "variable",
+      "orden",
+      "potencia",
+      "algebra",
+      "expresion"
+    ],
+    "base_response": "El orden de las variables en un monomio suele seguir un criterio alfabético para mantener claridad. Aunque no cambia su valor, ayuda a presentar expresiones de forma organizada. Este hábito mejora la comprensión y comunicación matemática entre estudiantes."
+  },
+  {
+    "intent_id": "concepto_factorizacion_monomios",
+    "keywords": [
+      "monomios",
+      "producto",
+      "coeficientes",
+      "variables"
+    ],
+    "base_response": "La factorización de monomios consiste en separar un término en el producto de sus partes más simples. Se identifican coeficientes y variables comunes para expresar el monomio como factores que facilitan operaciones posteriores y simplifican cálculos algebraicos."
+  },
+  {
+    "intent_id": "factorizacion_por_agrupar",
+    "keywords": [
+      "agrupar",
+      "terminos",
+      "producto",
+      "monomios",
+      "patrones"
+    ],
+    "base_response": "La factorización por agrupar consiste en ordenar términos para encontrar factores comunes. Se forman grupos que revelan patrones repetidos y permiten transformar la expresión en un producto. Esta técnica ayuda a simplificar expresiones que no muestran factores evidentes."
+  },
+  {
+    "intent_id": "productos_notables_basicos",
+    "keywords": [
+      "binomios",
+      "cuadrados",
+      "producto",
+      "patrones",
+      "expresiones"
+    ],
+    "base_response": "Los productos notables básicos son patrones que permiten factorizar y expandir expresiones con rapidez. Reconocer cuadrados perfectos y combinaciones de binomios facilita transformar expresiones complicadas en formas más simples y comprensibles para resolver ejercicios algebraicos."
+  },
+  {
+    "intent_id": "cuadrado_binomio",
+    "keywords": [
+      "binomio",
+      "cuadrado",
+      "producto",
+      "terminos",
+      "patrones"
+    ],
+    "base_response": "El cuadrado de un binomio sigue un patrón fijo que combina el cuadrado de cada término y el doble producto de ambos. Comprender esta estructura permite factorizar y expandir expresiones con mayor facilidad, evitando errores comunes en cálculos algebraicos."
+  },
+  {
+    "intent_id": "diferencia_cuadrados",
+    "keywords": [
+      "cuadrados",
+      "binomios",
+      "producto",
+      "terminos",
+      "patrones"
+    ],
+    "base_response": "La diferencia de cuadrados se factoriza como producto de dos binomios complementarios. Este patrón aparece cuando una expresión contiene dos términos elevados al cuadrado con signo negativo entre ellos. Reconocerlo permite simplificar cálculos y resolver problemas más rápidamente."
+  },
+  {
+    "intent_id": "trinomio_cuadrado_perfecto",
+    "keywords": [
+      "trinomio",
+      "cuadrado",
+      "binomios",
+      "producto",
+      "patrones"
+    ],
+    "base_response": "Un trinomio cuadrado perfecto surge cuando la expresión proviene del cuadrado de un binomio. Identificar sus términos característicos permite factorizarlo fácilmente. Esta habilidad ayuda a simplificar expresiones y comprender mejor la estructura de los productos notables."
+  },
+  {
+    "intent_id": "factorizacion_trinomio_simple",
+    "keywords": [
+      "trinomio",
+      "binomios",
+      "producto",
+      "terminos",
+      "coeficientes"
+    ],
+    "base_response": "La factorización de un trinomio simple consiste en encontrar dos binomios cuyo producto reproduce la expresión original. Se analizan coeficientes y términos para identificar combinaciones adecuadas. Esta técnica facilita resolver ecuaciones y simplificar expresiones algebraicas."
+  },
+  {
+    "intent_id": "uso_tablas_factorizacion",
+    "keywords": [
+      "tablas",
+      "terminos",
+      "producto",
+      "binomios",
+      "patrones"
+    ],
+    "base_response": "Las tablas de factorización ayudan a organizar términos y buscar combinaciones que formen binomios correctos. Facilitan visualizar relaciones entre números y variables, permitiendo encontrar factores adecuados. Son útiles para estudiantes que necesitan apoyo visual en algebra."
+  },
+  {
+    "intent_id": "factorizacion_expresiones_mixtas",
+    "keywords": [
+      "expresiones",
+      "terminos",
+      "producto",
+      "binomios",
+      "patrones"
+    ],
+    "base_response": "Las expresiones mixtas combinan diferentes tipos de términos que requieren aplicar varias técnicas de factorización. Analizar la estructura permite elegir el método adecuado. Esta habilidad ayuda a resolver problemas más complejos y comprender mejor la lógica algebraica."
+  },
+  {
+    "intent_id": "analisis_coeficientes_factorizacion",
+    "keywords": [
+      "coeficientes",
+      "terminos",
+      "producto",
+      "binomios",
+      "expresiones"
+    ],
+    "base_response": "El análisis de coeficientes permite identificar relaciones numéricas que facilitan la factorización. Observar cómo interactúan los valores ayuda a encontrar combinaciones correctas para formar binomios. Esta técnica mejora la precisión y comprensión en ejercicios algebraicos."
+  },
+  {
+    "intent_id": "errores_comunes_factorizacion",
+    "keywords": [
+      "errores",
+      "terminos",
+      "producto",
+      "binomios",
+      "expresiones"
+    ],
+    "base_response": "Los errores comunes en factorización incluyen confundir signos, elegir combinaciones incorrectas y olvidar verificar resultados. Comprender estos fallos ayuda a evitarlos y mejora la precisión. Practicar regularmente fortalece la habilidad para resolver expresiones algebraicas correctamente."
+  },
+  {
+    "intent_id": "aplicaciones_factorizacion_basica",
+    "keywords": [
+      "aplicaciones",
+      "terminos",
+      "producto",
+      "binomios",
+      "expresiones"
+    ],
+    "base_response": "La factorización básica se aplica para simplificar expresiones, resolver ecuaciones y comprender relaciones algebraicas. Dominar estas técnicas permite avanzar hacia temas más complejos. Los estudiantes desarrollan confianza al reconocer estructuras y transformar expresiones con facilidad."
+  },
+  {
+    "intent_id": "diferenciacion_terminos_no_semejantes",
+    "keywords": [
+      "diferenciacion",
+      "terminos",
+      "variables",
+      "exponentes",
+      "analisis"
+    ],
+    "base_response": "Diferenciar términos no semejantes implica reconocer cuando dos partes de una expresión tienen variables o exponentes distintos. Estos términos no pueden combinarse. Comprender esta diferencia evita errores comunes y permite trabajar con expresiones de manera más segura y ordenada."
+  },
+  {
+    "intent_id": "orden_visual_expresiones",
+    "keywords": [
+      "orden",
+      "visual",
+      "expresiones",
+      "terminos",
+      "agrupacion"
+    ],
+    "base_response": "El orden visual de expresiones ayuda a organizar los términos semejantes antes de operar. Separar y alinear cada término facilita identificar coincidencias entre variables. Esta estrategia mejora la claridad y permite realizar la simplificación de manera más eficiente y comprensible."
+  },
+  {
+    "intent_id": "agrupacion_por_color",
+    "keywords": [
+      "color",
+      "agrupacion",
+      "terminos",
+      "variables",
+      "identificacion"
+    ],
+    "base_response": "La agrupación por color consiste en marcar términos semejantes con el mismo tono para reconocerlos rápidamente. Esta técnica visual es útil cuando se trabaja con expresiones largas. Facilita distinguir variables iguales y mejora la precisión al combinar coeficientes correspondientes."
+  },
+  {
+    "intent_id": "verificacion_resultados_simplificados",
+    "keywords": [
+      "verificacion",
+      "resultados",
+      "simplificacion",
+      "terminos",
+      "expresiones"
+    ],
+    "base_response": "La verificación de resultados simplificados implica revisar que todos los términos semejantes hayan sido correctamente combinados. Este paso asegura que la expresión final sea coherente y ordenada. Practicar la verificación ayuda a evitar errores y refuerza la comprensión del proceso."
+  },
+  {
+    "intent_id": "relacion_entre_suma_y_agrupacion",
+    "keywords": [
+      "relacion",
+      "suma",
+      "agrupacion",
+      "terminos",
+      "coeficientes"
+    ],
+    "base_response": "La relación entre suma y agrupación se basa en combinar coeficientes de términos semejantes mediante operaciones básicas. Esta conexión permite simplificar expresiones de manera ordenada. Comprenderla facilita resolver ejercicios y fortalece habilidades esenciales del trabajo algebraico escolar."
+  },
+  {
+    "intent_id": "practica_con_multiples_variables",
+    "keywords": [
+      "practica",
+      "variables",
+      "terminos",
+      "agrupacion",
+      "expresiones"
+    ],
+    "base_response": "La práctica con múltiples variables enseña a identificar términos semejantes incluso cuando aparecen varias letras distintas. Este ejercicio mejora la atención y la organización. Dominar esta habilidad permite simplificar expresiones más complejas sin perder claridad ni cometer errores frecuentes."
+  },
+  {
+    "intent_id": "uso_tablas_para_organizar",
+    "keywords": [
+      "tablas",
+      "organizar",
+      "terminos",
+      "variables",
+      "agrupacion"
+    ],
+    "base_response": "El uso de tablas para organizar términos permite clasificar cada parte de una expresión según su variable. Esta estrategia facilita identificar semejanzas y combinar coeficientes. Es una herramienta útil para estudiantes que necesitan apoyo visual al simplificar expresiones algebraicas."
+  },
+  {
+    "intent_id": "conexion_con_ecuaciones_simples",
+    "keywords": [
+      "conexion",
+      "ecuaciones",
+      "terminos",
+      "agrupacion",
+      "simplificacion"
+    ],
+    "base_response": "La conexión con ecuaciones simples muestra cómo agrupar términos semejantes ayuda a resolver ecuaciones de manera más clara. Simplificar primero permite encontrar soluciones con mayor facilidad. Esta relación fortalece habilidades básicas necesarias para avanzar en el estudio del álgebra."
+  },
+  {
+    "intent_id": "uso_simbolos_literal",
+    "keywords": [
+      "simbolo",
+      "variable",
+      "incognita",
+      "ecuacion",
+      "resultado"
+    ],
+    "base_response": "Un símbolo literal funciona como una letra que sustituye un valor no conocido. Facilita escribir ecuaciones y analizar relaciones entre cantidades. Al resolver, se busca el número que reemplaza la letra y cumple la condición planteada en el problema."
+  },
+  {
+    "intent_id": "representacion_cantidad_desconocida",
+    "keywords": [
+      "cantidad",
+      "variable",
+      "incognita",
+      "problema",
+      "solucion"
+    ],
+    "base_response": "Una cantidad desconocida se representa con una letra para simplificar el análisis del problema. Esta letra permite trabajar sin conocer el valor exacto. Al resolver, se determina el número que hace correcta la ecuación planteada inicialmente."
+  },
+  {
+    "intent_id": "igualdad_con_incognitas",
+    "keywords": [
+      "igualdad",
+      "variable",
+      "incognita",
+      "ecuacion",
+      "solucion"
+    ],
+    "base_response": "Una igualdad con incógnitas muestra dos expresiones que deben tener el mismo valor. La letra representa un número que se desconoce. Resolver consiste en encontrar el valor que hace verdadera la igualdad y permite comprender la relación entre cantidades."
+  },
+  {
+    "intent_id": "relacion_variables_ecuaciones",
+    "keywords": [
+      "variable",
+      "ecuacion",
+      "relacion",
+      "incognita",
+      "valor"
+    ],
+    "base_response": "Las variables dentro de una ecuación muestran cómo se relacionan distintas cantidades. Cada letra representa un valor que puede cambiar. Resolver la ecuación consiste en encontrar el número que hace verdadera la relación planteada entre las expresiones."
+  },
+  {
+    "intent_id": "uso_incognitas_problemas",
+    "keywords": [
+      "incognita",
+      "variable",
+      "problema",
+      "ecuacion",
+      "solucion"
+    ],
+    "base_response": "El uso de incógnitas en problemas permite organizar la información y plantear ecuaciones claras. La letra representa el valor buscado. Resolver implica encontrar el número que cumple las condiciones del problema y hace correcta la ecuación escrita."
+  },
+  {
+    "intent_id": "expresiones_con_variables",
+    "keywords": [
+      "expresion",
+      "variable",
+      "incognita",
+      "calculo",
+      "valor"
+    ],
+    "base_response": "Las expresiones con variables combinan letras y números para representar cálculos generales. La letra indica un valor desconocido. Evaluar la expresión consiste en sustituir la variable por un número y realizar las operaciones indicadas correctamente."
+  },
+  {
+    "intent_id": "determinacion_valor_incognita",
+    "keywords": [
+      "valor",
+      "incognita",
+      "ecuacion",
+      "variable",
+      "solucion"
+    ],
+    "base_response": "Determinar el valor de una incógnita consiste en encontrar el número que hace verdadera una ecuación. La letra representa un valor desconocido. Mediante operaciones adecuadas, se obtiene la solución que cumple la igualdad planteada inicialmente."
+  },
+  {
+    "intent_id": "comprension_significado_literal",
+    "keywords": [
+      "significado",
+      "literal",
+      "variable",
+      "incognita",
+      "expresion"
+    ],
+    "base_response": "Comprender el significado literal implica reconocer que una letra representa un valor desconocido. Esta idea permite trabajar con expresiones y ecuaciones de manera flexible. Resolver consiste en encontrar el número que hace correcta la relación planteada."
+  },
+  {
+    "intent_id": "variables_en_operaciones",
+    "keywords": [
+      "variable",
+      "operacion",
+      "incognita",
+      "expresion",
+      "calculo"
+    ],
+    "base_response": "Las variables en operaciones permiten realizar cálculos generales sin conocer todos los valores. La letra representa una cantidad desconocida. Al sustituirla por un número, se obtiene un resultado específico que ayuda a comprender la expresión planteada."
+  },
+  {
+    "intent_id": "papel_constantes_ecuaciones",
+    "keywords": [
+      "ecuacion",
+      "valor",
+      "numero",
+      "funcion",
+      "calculo"
+    ],
+    "base_response": "Las constantes numéricas fijas permiten que una ecuación mantenga su estructura sin alteraciones. Funcionan como puntos de referencia que ayudan a comprender cómo cambian otras partes. Facilitan el análisis y la resolución de problemas algebraicos sencillos."
+  },
+  {
+    "intent_id": "diferencia_constantes_variables",
+    "keywords": [
+      "variable",
+      "constante",
+      "numero",
+      "cambio",
+      "calculo"
+    ],
+    "base_response": "Una constante numérica fija mantiene siempre el mismo valor, mientras que una variable puede cambiar. Esta diferencia permite construir expresiones que combinen elementos estables con otros que varían. Así se modelan situaciones matemáticas de manera clara."
+  },
+  {
+    "intent_id": "uso_constantes_modelos",
+    "keywords": [
+      "modelo",
+      "numero",
+      "valor",
+      "representacion",
+      "calculo"
+    ],
+    "base_response": "Las constantes numéricas fijas se usan para representar valores que no cambian en un modelo matemático. Ayudan a simplificar la estructura y permiten concentrarse en las partes variables. Esto facilita la interpretación de situaciones reales mediante ecuaciones."
+  },
+  {
+    "intent_id": "importancia_constantes_problemas",
+    "keywords": [
+      "problema",
+      "numero",
+      "valor",
+      "calculo",
+      "solucion"
+    ],
+    "base_response": "Las constantes numéricas fijas son importantes porque permiten resolver problemas con mayor precisión. Al mantener un valor estable, ayudan a enfocar la atención en las partes que sí cambian. Esto facilita encontrar soluciones claras y ordenadas."
+  },
+  {
+    "intent_id": "clasificacion_grado_polinomio",
+    "keywords": [
+      "grado",
+      "polinomio",
+      "variable",
+      "potencia",
+      "analisis"
+    ],
+    "base_response": "Clasificación del grado de un polinomio consiste en observar la potencia más alta de la variable. Este valor indica la complejidad de la expresión y permite organizar polinomios para compararlos y resolver operaciones de manera ordenada."
+  },
+  {
+    "intent_id": "suma_polinomios_similares",
+    "keywords": [
+      "suma",
+      "polinomio",
+      "termino",
+      "variable",
+      "coeficiente"
+    ],
+    "base_response": "Suma de polinomios similares implica combinar términos que comparten la misma variable y potencia. Al sumar coeficientes iguales, se simplifica la expresión y se obtiene un resultado más claro para continuar con otros procedimientos algebraicos."
+  },
+  {
+    "intent_id": "multiplicacion_monomio_polinomio",
+    "keywords": [
+      "multiplicacion",
+      "monomio",
+      "polinomio",
+      "variable",
+      "coeficiente"
+    ],
+    "base_response": "Multiplicación de un monomio por un polinomio consiste en distribuir el monomio sobre cada término. Se multiplican coeficientes y se suman potencias de variables, obteniendo una expresión ampliada que conserva la estructura original del polinomio."
+  },
+  {
+    "intent_id": "factorizacion_polinomial_basica",
+    "keywords": [
+      "factorizacion",
+      "polinomio",
+      "termino",
+      "variable",
+      "coeficiente"
+    ],
+    "base_response": "Factorización polinomial básica busca encontrar un término común entre partes del polinomio. Al extraer ese término, la expresión se simplifica y se vuelve más fácil de manipular en ejercicios que requieren pasos adicionales o transformaciones."
+  },
+  {
+    "intent_id": "ordenamiento_terminos_polinomiales",
+    "keywords": [
+      "ordenamiento",
+      "termino",
+      "polinomio",
+      "potencia",
+      "variable"
+    ],
+    "base_response": "Ordenamiento de términos polinomiales implica organizar la expresión desde la potencia más alta hasta la más baja. Este proceso facilita la lectura del polinomio y ayuda a realizar operaciones posteriores con mayor claridad y precisión."
+  },
+  {
+    "intent_id": "partes_monomio",
+    "keywords": [
+      "coeficiente",
+      "variable",
+      "exponente",
+      "producto",
+      "termino"
+    ],
+    "base_response": "Las partes de un monomio incluyen el coeficiente, las variables y los exponentes. Reconocer cada elemento ayuda a interpretar correctamente la expresión y a realizar operaciones algebraicas con mayor seguridad, especialmente cuando se combinan varios términos similares."
+  },
+  {
+    "intent_id": "variable_monomio",
+    "keywords": [
+      "variable",
+      "simbolo",
+      "representacion",
+      "magnitud",
+      "valor"
+    ],
+    "base_response": "La variable en un monomio es el símbolo que representa una cantidad desconocida. Su presencia permite construir expresiones generales y resolver problemas. Entender cómo funciona ayuda a manipular monomios y a relacionarlos con situaciones reales."
+  },
+  {
+    "intent_id": "exponente_monomio",
+    "keywords": [
+      "exponente",
+      "potencia",
+      "variable",
+      "valor",
+      "magnitud"
+    ],
+    "base_response": "El exponente indica cuántas veces se multiplica una variable por sí misma. Es fundamental para comprender la potencia dentro del monomio. Reconocer su función ayuda a interpretar correctamente la expresión y a realizar operaciones algebraicas básicas."
+  },
+  {
+    "intent_id": "concepto_factorizacion_productos",
+    "keywords": [
+      "producto",
+      "termino",
+      "variable",
+      "factorizacion",
+      "operacion"
+    ],
+    "base_response": "La factorización transforma una expresión en un producto de factores más simples. Permite reorganizar términos para facilitar cálculos y resolver ecuaciones. Comprender cómo identificar patrones básicos ayuda a simplificar expresiones y mejorar el razonamiento algebraico en situaciones escolares comunes."
+  },
+  {
+    "intent_id": "concepto_binomio_comun",
+    "keywords": [
+      "binomio",
+      "termino",
+      "variable",
+      "factorizacion",
+      "expresion"
+    ],
+    "base_response": "El binomio común aparece cuando dos términos comparten la misma expresión entre paréntesis. Al extraer ese binomio, se reduce la complejidad de la operación. Este método ayuda a identificar patrones y a organizar mejor las expresiones para resolver ejercicios con mayor claridad."
+  },
+  {
+    "intent_id": "concepto_trinomio_cuadrado_perfecto",
+    "keywords": [
+      "trinomio",
+      "cuadrado",
+      "binomio",
+      "variable",
+      "factorizacion"
+    ],
+    "base_response": "Un trinomio cuadrado perfecto surge cuando una expresión puede escribirse como el cuadrado de un binomio. Identificarlo permite factorizar de manera directa. Este reconocimiento mejora la habilidad para simplificar expresiones y comprender cómo se relacionan los términos en operaciones algebraicas."
+  },
+  {
+    "intent_id": "concepto_reconocimiento_cuadrados",
+    "keywords": [
+      "cuadrado",
+      "termino",
+      "variable",
+      "producto",
+      "expresion"
+    ],
+    "base_response": "Reconocer cuadrados perfectos en una expresión ayuda a aplicar métodos de factorización como trinomio cuadrado perfecto o diferencia de cuadrados. Esta habilidad permite simplificar operaciones y resolver ejercicios con mayor facilidad, fortaleciendo la comprensión de relaciones entre términos algebraicos."
+  },
+  {
+    "intent_id": "concepto_simplificacion_expansion",
+    "keywords": [
+      "simplificacion",
+      "expansion",
+      "producto",
+      "termino",
+      "variable"
+    ],
+    "base_response": "La simplificación y expansión de expresiones están relacionadas con la factorización. Comprender cómo transformar un producto en suma y viceversa permite resolver problemas con mayor flexibilidad. Estas habilidades ayudan a manejar expresiones complejas y mejorar el dominio del álgebra básica."
+  },
+  {
+    "intent_id": "concepto_factorizacion_trinomios",
+    "keywords": [
+      "trinomio",
+      "termino",
+      "variable",
+      "producto",
+      "factorizacion"
+    ],
+    "base_response": "La factorización de trinomios requiere identificar dos números que multiplicados den el término independiente y sumados den el coeficiente central. Este proceso permite transformar la expresión en un producto de binomios, facilitando la resolución de ecuaciones y la simplificación algebraica."
+  },
+  {
+    "intent_id": "concepto_coeficientes_enteros",
+    "keywords": [
+      "coeficiente",
+      "termino",
+      "variable",
+      "producto",
+      "factorizacion"
+    ],
+    "base_response": "Trabajar con coeficientes enteros facilita la factorización porque permite buscar combinaciones sencillas de números. Comprender cómo interactúan estos coeficientes ayuda a identificar factores y simplificar expresiones. Esta habilidad es esencial para resolver ejercicios algebraicos de manera eficiente."
+  },
+  {
+    "intent_id": "concepto_verificacion_factorizacion",
+    "keywords": [
+      "verificacion",
+      "producto",
+      "termino",
+      "variable",
+      "expresion"
+    ],
+    "base_response": "Verificar una factorización consiste en multiplicar los factores obtenidos para comprobar que coinciden con la expresión original. Este paso asegura que el procedimiento fue correcto y fortalece la comprensión de cómo se relacionan los términos en operaciones algebraicas básicas."
+  },
+  {
+    "intent_id": "concepto_importancia_factorizacion",
+    "keywords": [
+      "importancia",
+      "termino",
+      "variable",
+      "producto",
+      "expresion"
+    ],
+    "base_response": "La factorización es importante porque permite simplificar expresiones, resolver ecuaciones y comprender mejor las relaciones entre términos. Dominar estos métodos facilita el estudio del álgebra y ayuda a enfrentar problemas matemáticos con mayor confianza y claridad en niveles escolares."
+  },
+  {
+    "intent_id": "concepto_aplicacion_problemas",
+    "keywords": [
+      "aplicacion",
+      "termino",
+      "variable",
+      "producto",
+      "factorizacion"
+    ],
+    "base_response": "Aplicar la factorización en problemas reales permite transformar expresiones complicadas en formas más simples. Esta habilidad ayuda a resolver ecuaciones y comprender situaciones matemáticas cotidianas. Practicarla mejora el razonamiento lógico y fortalece la base del aprendizaje algebraico escolar."
+  },
+  {
+    "intent_id": "concepto_identificacion_terminos",
+    "keywords": [
+      "terminos",
+      "agrupacion",
+      "algebra",
+      "operacion",
+      "expresion"
+    ],
+    "base_response": "Identificación de términos semejantes permite reconocer partes de una expresión que comparten variables y exponentes. Esta habilidad facilita simplificar operaciones algebraicas, reducir complejidad y mejorar comprensión. Practicar ejemplos variados ayuda a dominar el proceso con confianza."
+  },
+  {
+    "intent_id": "concepto_coeficientes_comunes",
+    "keywords": [
+      "coeficientes",
+      "terminos",
+      "algebra",
+      "agrupacion",
+      "expresion"
+    ],
+    "base_response": "Coeficientes comunes se identifican cuando términos comparten la misma parte literal. Al agruparlos, se suman o restan sus valores numéricos. Esta técnica ayuda a simplificar expresiones y comprender mejor la estructura de las operaciones algebraicas."
+  },
+  {
+    "intent_id": "concepto_parte_literal",
+    "keywords": [
+      "variables",
+      "terminos",
+      "algebra",
+      "agrupacion",
+      "expresion"
+    ],
+    "base_response": "Parte literal se refiere a las variables y exponentes que conforman un término. Para agrupar términos semejantes, esta parte debe coincidir exactamente. Reconocerla permite simplificar expresiones y avanzar con seguridad en la resolución de problemas algebraicos."
+  },
+  {
+    "intent_id": "concepto_suma_terminos",
+    "keywords": [
+      "suma",
+      "terminos",
+      "algebra",
+      "agrupacion",
+      "operacion"
+    ],
+    "base_response": "Suma de términos semejantes implica combinar coeficientes de términos con igual parte literal. Este proceso reduce la expresión y facilita cálculos posteriores. Practicar diferentes ejercicios ayuda a desarrollar habilidad y confianza en la manipulación algebraica."
+  },
+  {
+    "intent_id": "concepto_orden_terminos",
+    "keywords": [
+      "orden",
+      "terminos",
+      "algebra",
+      "agrupacion",
+      "expresion"
+    ],
+    "base_response": "Ordenar términos semejantes facilita su agrupación y simplificación. Al colocar juntos los términos con igual parte literal, se vuelve más sencillo sumar o restar coeficientes. Esta estrategia mejora la claridad y precisión en el trabajo algebraico."
+  },
+  {
+    "intent_id": "concepto_reconocimiento_patrones",
+    "keywords": [
+      "patrones",
+      "terminos",
+      "algebra",
+      "agrupacion",
+      "expresion"
+    ],
+    "base_response": "Reconocimiento de patrones ayuda a identificar términos semejantes dentro de expresiones largas. Al observar repeticiones en variables y exponentes, se facilita la agrupación. Esta habilidad desarrolla pensamiento lógico y mejora la eficiencia en cálculos algebraicos."
+  },
+  {
+    "intent_id": "concepto_simplificacion_extensa",
+    "keywords": [
+      "simplificacion",
+      "terminos",
+      "algebra",
+      "agrupacion",
+      "expresion"
+    ],
+    "base_response": "Simplificación extensa se aplica cuando una expresión contiene muchos términos. Agrupar los semejantes reduce la complejidad y permite avanzar con pasos más claros. Practicar este proceso fortalece la confianza y precisión en el manejo de expresiones algebraicas."
+  },
+  {
+    "intent_id": "concepto_practica_constante",
+    "keywords": [
+      "practica",
+      "terminos",
+      "algebra",
+      "agrupacion",
+      "expresion"
+    ],
+    "base_response": "Práctica constante fortalece la capacidad de identificar y agrupar términos semejantes. Repetir ejercicios variados ayuda a reconocer patrones y mejorar precisión. Esta dedicación permite dominar la simplificación de expresiones y avanzar con seguridad en álgebra."
+  },
+  {
+    "intent_id": "concepto_binomio_identificacion",
+    "keywords": [
+      "binomio",
+      "expresion",
+      "termino",
+      "variable",
+      "operacion"
+    ],
+    "base_response": "Un binomio es una expresión algebraica formada por dos términos separados por suma o resta. Cada término puede incluir números y variables. Comprender su estructura permite resolver operaciones básicas y avanzar hacia procedimientos más complejos con confianza."
+  },
+  {
+    "intent_id": "concepto_binomio_resta",
+    "keywords": [
+      "resta",
+      "binomio",
+      "termino",
+      "variable",
+      "coeficiente"
+    ],
+    "base_response": "La resta de binomios requiere cambiar el signo de los términos del segundo binomio y luego combinar términos semejantes. Comprender este procedimiento ayuda a evitar errores y fortalece la capacidad de manipular expresiones algebraicas correctamente."
+  },
+  {
+    "intent_id": "concepto_binomio_producto",
+    "keywords": [
+      "producto",
+      "binomio",
+      "termino",
+      "variable",
+      "multiplicacion"
+    ],
+    "base_response": "El producto de binomios consiste en multiplicar cada término del primer binomio por cada término del segundo. Este proceso genera una expresión más amplia que luego puede simplificarse. Practicarlo mejora la comprensión de operaciones algebraicas fundamentales."
+  },
+  {
+    "intent_id": "concepto_binomio_distributiva",
+    "keywords": [
+      "distributiva",
+      "binomio",
+      "multiplicacion",
+      "termino",
+      "variable"
+    ],
+    "base_response": "La propiedad distributiva permite multiplicar un término externo por cada término del binomio. Aplicarla correctamente facilita resolver operaciones y comprender cómo se expanden expresiones. Es una herramienta clave para trabajar con binomios de manera eficiente."
+  },
+  {
+    "intent_id": "concepto_binomio_exponente",
+    "keywords": [
+      "exponente",
+      "binomio",
+      "potencia",
+      "termino",
+      "variable"
+    ],
+    "base_response": "Elevar un binomio a una potencia implica aplicar reglas de exponentes y multiplicaciones sucesivas. Comprender este procedimiento permite expandir expresiones y reconocer patrones útiles. Es una habilidad importante para avanzar en operaciones algebraicas más complejas."
+  },
+  {
+    "intent_id": "concepto_binomio_error_comun",
+    "keywords": [
+      "error",
+      "binomio",
+      "termino",
+      "variable",
+      "operacion"
+    ],
+    "base_response": "Los errores comunes con binomios suelen surgir al combinar términos no semejantes o aplicar mal signos. Reconocer estos fallos permite mejorar la precisión y desarrollar confianza al resolver ejercicios. Practicar ayuda a evitar confusiones frecuentes en álgebra."
+  },
+  {
+    "intent_id": "significado_variables_literales",
+    "keywords": [
+      "variable",
+      "valor",
+      "incognita",
+      "expresion",
+      "algebra"
+    ],
+    "base_response": "Una variable literal representa un valor desconocido que puede cambiar según la situación. Permite expresar relaciones matemáticas de forma general y resolver problemas mediante operaciones. Ayuda a comprender cómo interactúan cantidades dentro de una expresión algebraica."
+  },
+  {
+    "intent_id": "representacion_cantidades_desconocidas",
+    "keywords": [
+      "cantidad",
+      "representacion",
+      "variable",
+      "incognita",
+      "calculo"
+    ],
+    "base_response": "Las variables permiten representar cantidades desconocidas sin necesidad de saber su valor exacto. Esto ayuda a analizar problemas y realizar cálculos paso a paso. Facilitan comprender cómo cambian las cantidades dentro de una expresión algebraica."
+  },
+  {
+    "intent_id": "relacion_entre_variables",
+    "keywords": [
+      "variable",
+      "relacion",
+      "expresion",
+      "funcion",
+      "calculo"
+    ],
+    "base_response": "Las variables pueden relacionarse entre sí dentro de una expresión o función, mostrando cómo cambia una cantidad respecto a otra. Analizar estas relaciones ayuda a comprender patrones y resolver problemas. Es fundamental para avanzar en el estudio del álgebra."
+  },
+  {
+    "intent_id": "variables_para_generalizar_patrones",
+    "keywords": [
+      "patron",
+      "variable",
+      "generalizacion",
+      "expresion",
+      "algebra"
+    ],
+    "base_response": "Las variables permiten generalizar patrones al representar cualquier número dentro de una regla. Esto ayuda a comprender cómo se forman las secuencias y facilita crear expresiones que describen comportamientos repetitivos. Es útil para desarrollar pensamiento matemático."
+  },
+  {
+    "intent_id": "variables_en_procesos_de_simplificacion",
+    "keywords": [
+      "simplificacion",
+      "variable",
+      "expresion",
+      "calculo",
+      "incognita"
+    ],
+    "base_response": "Simplificar expresiones con variables consiste en reducir términos para obtener una forma más clara. Este proceso ayuda a comprender la estructura de la expresión y facilita resolver ecuaciones. Es una habilidad importante en el estudio del álgebra."
+  },
+  {
+    "intent_id": "papel_constante_ecuaciones",
+    "keywords": [
+      "ecuacion",
+      "valor",
+      "calculo",
+      "variable",
+      "resultado"
+    ],
+    "base_response": "Una constante numérica fija actúa como un valor estable dentro de una ecuación. Permite controlar el comportamiento de las variables y facilita encontrar soluciones precisas. Su presencia ayuda a mantener coherencia en los pasos del procedimiento matemático."
+  },
+  {
+    "intent_id": "constante_como_referencia",
+    "keywords": [
+      "referencia",
+      "valor",
+      "numero",
+      "calculo",
+      "algebra"
+    ],
+    "base_response": "Una constante numérica fija funciona como punto de referencia en operaciones algebraicas. Su valor inmutable permite comparar resultados y entender cómo cambian las variables. Facilita la construcción de expresiones claras y ordenadas para resolver problemas."
+  },
+  {
+    "intent_id": "constantes_en_modelos",
+    "keywords": [
+      "modelo",
+      "valor",
+      "numero",
+      "representacion",
+      "calculo"
+    ],
+    "base_response": "Las constantes numéricas fijas se usan en modelos matemáticos para representar valores que permanecen iguales. Esto permite analizar situaciones reales con mayor precisión. Facilitan la creación de expresiones que describen fenómenos de manera clara y comprensible."
+  },
+  {
+    "intent_id": "constante_en_funciones",
+    "keywords": [
+      "funcion",
+      "valor",
+      "numero",
+      "calculo",
+      "algebra"
+    ],
+    "base_response": "Una constante numérica fija dentro de una función mantiene un valor estable que influye en su comportamiento. Permite analizar cómo cambian las variables dependientes. Facilita interpretar gráficos y comprender la estructura de diferentes tipos de funciones."
+  },
+  {
+    "intent_id": "constantes_en_expansion",
+    "keywords": [
+      "expansion",
+      "valor",
+      "numero",
+      "calculo",
+      "algebra"
+    ],
+    "base_response": "Las constantes numéricas fijas participan en la expansión de expresiones al mantener valores estables. Ayudan a distribuir términos y organizar los cálculos. Su presencia permite obtener resultados claros y comprender mejor la estructura algebraica involucrada."
+  },
+  {
+    "intent_id": "concepto_forma_general_polinomio",
+    "keywords": [
+      "polinomio",
+      "termino",
+      "variable",
+      "coeficiente",
+      "estructura"
+    ],
+    "base_response": "Un polinomio se entiende como una expresión formada por términos que combinan números y variables con exponentes enteros. Cada término incluye un coeficiente y una parte literal. Reconocer esta estructura ayuda a interpretar y manipular expresiones algebraicas con mayor seguridad."
+  },
+  {
+    "intent_id": "concepto_coeficientes_polinomio",
+    "keywords": [
+      "coeficiente",
+      "numero",
+      "termino",
+      "polinomio",
+      "valor"
+    ],
+    "base_response": "Los coeficientes son los números que acompañan a las variables en cada término del polinomio. Representan la cantidad que multiplica la parte literal. Identificar correctamente los coeficientes permite analizar la expresión y realizar operaciones con mayor precisión."
+  },
+  {
+    "intent_id": "concepto_producto_binomios",
+    "keywords": [
+      "producto",
+      "binomio",
+      "termino",
+      "variable",
+      "coeficiente"
+    ],
+    "base_response": "El producto de binomios se realiza multiplicando cada término del primer binomio por cada término del segundo. Luego se combinan términos semejantes. Este método ayuda a obtener polinomios más amplios y comprender cómo interactúan las expresiones algebraicas."
+  },
+  {
+    "intent_id": "concepto_factorizacion_basica",
+    "keywords": [
+      "factorizacion",
+      "termino",
+      "variable",
+      "coeficiente",
+      "producto"
+    ],
+    "base_response": "La factorización básica consiste en identificar un factor común en los términos de un polinomio y extraerlo. Este proceso simplifica la expresión y permite analizar su estructura. Es útil para resolver ecuaciones y comprender relaciones entre términos."
+  },
+  {
+    "intent_id": "concepto_valor_numerico",
+    "keywords": [
+      "valor",
+      "evaluacion",
+      "variable",
+      "numero",
+      "polinomio"
+    ],
+    "base_response": "El valor numérico de un polinomio se obtiene sustituyendo la variable por un número y realizando las operaciones. Este procedimiento permite verificar resultados y entender cómo cambia la expresión según diferentes valores asignados a la variable."
+  },
+  {
+    "intent_id": "concepto_simplificacion_polinomios",
+    "keywords": [
+      "simplificacion",
+      "termino",
+      "variable",
+      "coeficiente",
+      "polinomio"
+    ],
+    "base_response": "Simplificar polinomios consiste en combinar términos semejantes y reducir la expresión a su forma más clara. Este proceso permite trabajar con polinomios de manera más eficiente y comprender mejor su estructura y comportamiento en operaciones posteriores."
+  },
+  {
+    "intent_id": "concepto_binomios_trinomios",
+    "keywords": [
+      "binomio",
+      "trinomio",
+      "termino",
+      "variable",
+      "polinomio"
+    ],
+    "base_response": "Los binomios y trinomios son polinomios con dos o tres términos respectivamente. Reconocer estas formas permite clasificar expresiones y aplicar métodos adecuados para operar con ellas. Esta comprensión facilita resolver ejercicios y organizar cálculos algebraicos."
+  },
+  {
+    "intent_id": "parte_literal",
+    "keywords": [
+      "literal",
+      "variable",
+      "exponente",
+      "estructura",
+      "representacion"
+    ],
+    "base_response": "La parte literal de un monomio está formada por las variables y sus exponentes. Esta sección define la estructura algebraica y permite identificar cómo se relacionan las cantidades dentro de la expresión para resolver ejercicios."
+  },
+  {
+    "intent_id": "concepto_revision_signos",
+    "keywords": [
+      "signo",
+      "termino",
+      "producto",
+      "variable",
+      "factor"
+    ],
+    "base_response": "La revisión de signos implica analizar si los términos tienen signos positivos o negativos antes de factorizar. Esto evita errores y asegura una expresión correcta. Comprender la importancia de los signos mejora la precisión en cálculos algebraicos."
+  },
+  {
+    "intent_id": "concepto_comprobacion_factorizacion",
+    "keywords": [
+      "comprobacion",
+      "producto",
+      "termino",
+      "variable",
+      "expresion"
+    ],
+    "base_response": "La comprobación de la factorización consiste en multiplicar los factores obtenidos para verificar que coinciden con la expresión original. Este paso asegura que el proceso fue correcto y ayuda a reforzar la comprensión del método aplicado."
+  },
+  {
+    "intent_id": "importancia_agrupacion",
+    "keywords": [
+      "agrupacion",
+      "terminos",
+      "algebra",
+      "calculo",
+      "simplificacion"
+    ],
+    "base_response": "La agrupación de términos semejantes facilita la simplificación de expresiones y reduce errores al resolver ejercicios. Al combinar elementos iguales, se obtiene una forma más ordenada que permite avanzar con seguridad en operaciones posteriores dentro del álgebra escolar."
+  },
+  {
+    "intent_id": "variable_y_exponente",
+    "keywords": [
+      "variable",
+      "exponente",
+      "terminos",
+      "algebra",
+      "identificacion"
+    ],
+    "base_response": "Para reconocer términos semejantes, se debe observar si comparten la misma variable y el mismo exponente. Esta coincidencia determina si pueden combinarse. Comprender esta relación ayuda a simplificar expresiones y a desarrollar habilidades básicas de razonamiento algebraico."
+  },
+  {
+    "intent_id": "coeficiente_en_agrupacion",
+    "keywords": [
+      "coeficiente",
+      "terminos",
+      "suma",
+      "resta",
+      "algebra"
+    ],
+    "base_response": "El coeficiente indica cuántas veces aparece un término semejante. Al agrupar, se suman o restan coeficientes sin modificar la variable. Este proceso permite obtener expresiones más simples y comprensibles, esenciales para resolver ejercicios algebraicos correctamente."
+  },
+  {
+    "intent_id": "simplificacion_basica",
+    "keywords": [
+      "simplificacion",
+      "terminos",
+      "algebra",
+      "operacion",
+      "expresion"
+    ],
+    "base_response": "La simplificación consiste en combinar términos semejantes para reducir la expresión a una forma más corta. Este paso es fundamental en álgebra, pues facilita cálculos posteriores y ayuda a comprender mejor la estructura de cada ejercicio planteado en clase."
+  },
+  {
+    "intent_id": "uso_en_ecuaciones",
+    "keywords": [
+      "ecuaciones",
+      "terminos",
+      "agrupacion",
+      "algebra",
+      "resolucion"
+    ],
+    "base_response": "La agrupación de términos semejantes permite reorganizar ecuaciones antes de resolverlas. Al simplificar ambos lados, se obtiene una estructura más clara que facilita encontrar soluciones. Este proceso es esencial para avanzar en el estudio del álgebra escolar."
+  },
+  {
+    "intent_id": "orden_en_expresiones",
+    "keywords": [
+      "orden",
+      "expresiones",
+      "terminos",
+      "algebra",
+      "estructura"
+    ],
+    "base_response": "Mantener orden en una expresión algebraica implica agrupar términos semejantes y organizar los resultados. Esta práctica mejora la comprensión del problema y permite seguir procedimientos de manera más eficiente, fortaleciendo habilidades básicas de razonamiento matemático."
+  },
+  {
+    "intent_id": "identificacion_visual",
+    "keywords": [
+      "identificacion",
+      "terminos",
+      "variable",
+      "expresion",
+      "algebra"
+    ],
+    "base_response": "La identificación visual de términos semejantes se logra observando variables y exponentes iguales dentro de una expresión. Este reconocimiento rápido ayuda a simplificar con mayor facilidad y permite desarrollar confianza al trabajar con ejercicios algebraicos variados."
+  },
+  {
+    "intent_id": "agrupacion_en_polinomios",
+    "keywords": [
+      "polinomios",
+      "terminos",
+      "agrupacion",
+      "algebra",
+      "simplificacion"
+    ],
+    "base_response": "En polinomios, la agrupación de términos semejantes permite reducir la expresión a una forma más manejable. Al combinar elementos iguales, se facilita la resolución de operaciones posteriores y se mejora la comprensión de la estructura algebraica presentada."
+  },
+  {
+    "intent_id": "suma_terminos_semejantes",
+    "keywords": [
+      "suma",
+      "terminos",
+      "coeficiente",
+      "algebra",
+      "operacion"
+    ],
+    "base_response": "La suma de términos semejantes consiste en añadir sus coeficientes mientras la variable permanece igual. Este procedimiento básico permite simplificar expresiones y avanzar con seguridad en ejercicios más complejos, fortaleciendo habilidades esenciales del álgebra escolar."
+  },
+  {
+    "intent_id": "resta_terminos_semejantes",
+    "keywords": [
+      "resta",
+      "terminos",
+      "coeficiente",
+      "algebra",
+      "expresion"
+    ],
+    "base_response": "La resta de términos semejantes implica sustraer sus coeficientes sin modificar la variable. Este proceso ayuda a simplificar expresiones y a resolver problemas con mayor claridad, desarrollando habilidades fundamentales para el estudio del álgebra en secundaria."
+  },
+  {
+    "intent_id": "verificacion_agrupacion",
+    "keywords": [
+      "verificacion",
+      "terminos",
+      "variable",
+      "exponente",
+      "algebra"
+    ],
+    "base_response": "La verificación consiste en revisar si los términos agrupados comparten variable y exponente. Este control evita errores y asegura una simplificación correcta. Practicar esta revisión ayuda a desarrollar precisión y seguridad al trabajar con expresiones algebraicas."
+  },
+  {
+    "intent_id": "aplicacion_practica",
+    "keywords": [
+      "aplicacion",
+      "terminos",
+      "algebra",
+      "expresion",
+      "calculo"
+    ],
+    "base_response": "La aplicación práctica de agrupar términos semejantes aparece en ejercicios cotidianos de álgebra. Al dominar esta habilidad, los estudiantes pueden resolver expresiones con mayor rapidez y claridad, fortaleciendo su comprensión y confianza en el trabajo matemático."
+  },
+  {
+    "intent_id": "producto_binomio_numero",
+    "keywords": [
+      "producto",
+      "binomio",
+      "numero",
+      "variable",
+      "calculo"
+    ],
+    "base_response": "Multiplicar un binomio por un número significa aplicar ese valor a cada término. Este proceso permite escalar la expresión y comprender cómo cambian los coeficientes. Es una habilidad esencial para resolver ejercicios algebraicos más avanzados en clase."
+  },
+  {
+    "intent_id": "interpretacion_binomio",
+    "keywords": [
+      "interpretacion",
+      "binomio",
+      "variable",
+      "coeficiente",
+      "expresion"
+    ],
+    "base_response": "Interpretar un binomio significa comprender el significado de sus términos, variables y coeficientes. Esta habilidad permite analizar expresiones y resolver ejercicios con mayor claridad. Es esencial para desarrollar una base sólida en el aprendizaje del álgebra."
+  },
+  {
+    "intent_id": "uso_binomios_problemas",
+    "keywords": [
+      "binomio",
+      "problema",
+      "expresion",
+      "variable",
+      "calculo"
+    ],
+    "base_response": "Los binomios se utilizan para modelar situaciones que involucran dos cantidades relacionadas. Comprender su estructura permite plantear y resolver problemas de manera más organizada. Esta aplicación ayuda a conectar el álgebra con situaciones reales del entorno escolar."
+  },
+  {
+    "intent_id": "concepto_variable_indefinida",
+    "keywords": [
+      "variable",
+      "incognita",
+      "valor",
+      "expresion",
+      "calculo"
+    ],
+    "base_response": "Una variable funciona como una incógnita que representa un valor no determinado dentro de una expresión algebraica, permitiendo realizar cálculos y analizar relaciones matemáticas. Facilita generalizar situaciones y resolver problemas aplicando reglas básicas que ayudan a comprender mejor los procesos del álgebra."
+  },
+  {
+    "intent_id": "uso_simbolico_variable",
+    "keywords": [
+      "simbolo",
+      "variable",
+      "representacion",
+      "problema",
+      "operacion"
+    ],
+    "base_response": "Una variable es un símbolo que permite la representación de un número desconocido dentro de un problema, y al realizar cada operación con cuidado revela cómo se relacionan distintos valores, ayudando a comprender mejor la estructura matemática que se está estudiando."
+  },
+  {
+    "intent_id": "variable_en_ecuaciones",
+    "keywords": [
+      "ecuacion",
+      "variable",
+      "igualdad",
+      "solucion",
+      "procedimiento"
+    ],
+    "base_response": "Una ecuación emplea una variable para representar un valor desconocido dentro de una igualdad, y hallar su solución exige aplicar un procedimiento que permita transformar las expresiones involucradas hasta encontrar el número que hace verdadera la relación planteada."
+  },
+  {
+    "intent_id": "significado_incognita",
+    "keywords": [
+      "incognita",
+      "valor",
+      "busqueda",
+      "expresion",
+      "resultado"
+    ],
+    "base_response": "La incógnita es un valor desconocido dentro de una expresión cuya búsqueda permite analizar relaciones matemáticas y encontrar el resultado que completa correctamente el planteamiento realizado, ayudando a comprender cómo interactúan los números en distintos problemas."
+  },
+  {
+    "intent_id": "variables_en_problemas",
+    "keywords": [
+      "variable",
+      "problema",
+      "modelo",
+      "relacion",
+      "solucion"
+    ],
+    "base_response": "Una variable en un problema sirve para crear un modelo que representa una cantidad desconocida, permite analizar cómo cambia y muestra la relación entre los datos, facilitando encontrar una solución mediante procedimientos algebraicos que organizan la información de manera clara y útil."
+  },
+  {
+    "intent_id": "sustitucion_variable",
+    "keywords": [
+      "sustitucion",
+      "variable",
+      "numero",
+      "evaluacion",
+      "resultado"
+    ],
+    "base_response": "La sustitución es el proceso de reemplazar una variable por un número para facilitar la evaluación de una expresión y analizar cómo cambia. Esta técnica ayuda a comprobar un resultado y comprender mejor la relación entre los valores que forman parte de una expresión algebraica."
+  },
+  {
+    "intent_id": "variables_en_expresiones",
+    "keywords": [
+      "expresion",
+      "variable",
+      "termino",
+      "operacion",
+      "estructura"
+    ],
+    "base_response": "Una expresión algebraica combina números y alguna variable mediante una operación, formando una estructura que permite identificar cada término y comprender cómo se relacionan entre sí para resolver problemas y simplificar cálculos con mayor claridad."
+  },
+  {
+    "intent_id": "rol_variable_generalizacion",
+    "keywords": [
+      "variable",
+      "generalizacion",
+      "patron",
+      "modelo",
+      "calculo"
+    ],
+    "base_response": "Las variables permiten expresar una generalización que resume un patrón matemático y construye un modelo aplicable a múltiples situaciones, haciendo posible realizar cálculo de manera flexible para analizar cómo cambian las relaciones y reconocer comportamientos comunes en distintos contextos."
+  },
+  {
+    "intent_id": "variable_como_cantidad",
+    "keywords": [
+      "cantidad",
+      "variable",
+      "representacion",
+      "problema",
+      "calculo"
+    ],
+    "base_response": "Una variable es una representación de una cantidad que puede cambiar según el problema, permitiendo expresar relaciones y realizar cálculo de manera flexible; comprender cómo funciona facilita interpretar situaciones matemáticas y encontrar soluciones adecuadas dentro de distintos contextos."
+  },
+  {
+    "intent_id": "identificacion_variable",
+    "keywords": [
+      "identificacion",
+      "variable",
+      "expresion",
+      "termino",
+      "analisis"
+    ],
+    "base_response": "La identificación de la variable en una expresión permite comprender qué término representa el valor desconocido y orienta el análisis del problema. Reconocerla facilita organizar los pasos necesarios para resolver la situación planteada y aplicar estrategias adecuadas para obtener la solución."
+  },
+  {
+    "intent_id": "variables_en_modelos",
+    "keywords": [
+      "modelo",
+      "variable",
+      "relacion",
+      "funcion",
+      "calculo"
+    ],
+    "base_response": "En un modelo matemático, una variable representa una cantidad que puede cambiar y permite expresar la relación entre diferentes elementos, facilitando usar una función y realizar cálculo para comprender cómo se modifican los valores y resolver situaciones concretas."
+  },
+  {
+    "intent_id": "variable_en_contexto",
+    "keywords": [
+      "contexto",
+      "variable",
+      "situacion",
+      "cantidad",
+      "interpretacion"
+    ],
+    "base_response": "El contexto de una situación determina cómo se entiende una variable, pues cada problema asigna a la cantidad desconocida una interpretación precisa que orienta el razonamiento. Reconocer esa relación permite formular ecuaciones adecuadas y avanzar con mayor seguridad en la resolución de ejercicios."
+  },
+  {
+    "intent_id": "manipulacion_variable",
+    "keywords": [
+      "manipulacion",
+      "variable",
+      "operacion",
+      "transformacion",
+      "solucion"
+    ],
+    "base_response": "La manipulación de una variable consiste en aplicar una operación adecuada para lograr la transformación de una expresión y avanzar hacia una solución clara, fortaleciendo así la comprensión de los procedimientos algebraicos y la manera en que se relacionan distintos elementos matemáticos."
+  },
+  {
+    "intent_id": "variable_como_elemento",
+    "keywords": [
+      "elemento",
+      "variable",
+      "expresion",
+      "estructura",
+      "calculo"
+    ],
+    "base_response": "La variable funciona como un elemento esencial dentro de una expresión algebraica, pues ayuda a formar una estructura que representa valores desconocidos y permite realizar cálculo para analizar relaciones numéricas y encontrar soluciones de manera ordenada y comprensible."
+  },
+  {
+    "intent_id": "variables_en_situaciones",
+    "keywords": [
+      "situacion",
+      "variable",
+      "cantidad",
+      "modelo",
+      "analisis"
+    ],
+    "base_response": "Una variable representa una cantidad desconocida en una situación y permite construir un modelo que facilite el análisis del problema, ayudando a comprender cómo cambian los valores y a encontrar soluciones mediante procedimientos matemáticos adecuados."
+  },
+  {
+    "intent_id": "uso_constantes_en_ecuaciones",
+    "keywords": [
+      "ecuacion",
+      "valor",
+      "numero",
+      "calculo",
+      "resultado"
+    ],
+    "base_response": "Las constantes en una ecuación mantienen un valor numérico fijo que ordena el cálculo y permite observar cómo las variables cambian para obtener un resultado coherente, ayudando a comprender la relación entre elementos estables y aquellos que se modifican en distintos problemas matemáticos."
+  },
+  {
+    "intent_id": "constantes_como_referencia",
+    "keywords": [
+      "referencia",
+      "valor",
+      "numero",
+      "calculo",
+      "expresion"
+    ],
+    "base_response": "Las constantes actúan como una referencia dentro de una expresión algebraica, pues su valor fijo permite comparar resultados y facilita el cálculo al distinguir claramente entre un número estable y los elementos variables que pueden cambiar según las operaciones realizadas."
+  },
+  {
+    "intent_id": "diferencia_constante_variable",
+    "keywords": [
+      "diferencia",
+      "valor",
+      "numero",
+      "variable",
+      "calculo"
+    ],
+    "base_response": "Una constante representa un número cuyo valor permanece fijo, mientras que una variable puede modificarse según el cálculo requerido en cada situación; comprender esta diferencia ayuda a interpretar expresiones algebraicas y a anticipar cómo cambian los resultados cuando se ajustan distintos elementos."
+  },
+  {
+    "intent_id": "papel_constantes_en_modelos",
+    "keywords": [
+      "modelo",
+      "valor",
+      "numero",
+      "calculo",
+      "expresion"
+    ],
+    "base_response": "Las constantes numéricas permiten que un modelo mantenga un valor fijo dentro de una expresión, lo que facilita el cálculo y muestra cómo otros números pueden variar sin alterar ese punto estable, ayudando así a comprender mejor la relación entre los elementos representados."
+  },
+  {
+    "intent_id": "importancia_constantes_en_problemas",
+    "keywords": [
+      "problema",
+      "valor",
+      "numero",
+      "calculo",
+      "expresion"
+    ],
+    "base_response": "Las constantes en un problema algebraico ayudan a mantener un valor fijo que facilita el cálculo y permite interpretar cómo cambia una expresión. Gracias a estos números estables, es posible analizar relaciones con mayor precisión y resolver situaciones matemáticas de forma más clara."
+  },
+  {
+    "intent_id": "constantes_en_expansion_algebraica",
+    "keywords": [
+      "expansion",
+      "valor",
+      "numero",
+      "calculo",
+      "expresion"
+    ],
+    "base_response": "En una expansión algebraica, cada constante conserva su valor numérico y se integra de manera precisa en la expresión, facilitando el cálculo y permitiendo identificar cómo contribuye a la formación de los términos finales dentro del procedimiento."
+  },
+  {
+    "intent_id": "constantes_en_simplificacion",
+    "keywords": [
+      "simplificacion",
+      "valor",
+      "numero",
+      "calculo",
+      "expresion"
+    ],
+    "base_response": "En la simplificación algebraica, una constante mantiene su valor numérico y facilita el cálculo al combinar términos dentro de una expresión, permitiendo ordenar operaciones y obtener resultados coherentes sin modificar la estructura esencial del procedimiento."
+  },
+  {
+    "intent_id": "constantes_en_patrones",
+    "keywords": [
+      "patron",
+      "valor",
+      "numero",
+      "calculo",
+      "expresion"
+    ],
+    "base_response": "Las constantes numéricas actúan como un valor fijo dentro de un patrón, permitiendo analizar cómo cada número influye en el cálculo de una expresión y facilitando la identificación de regularidades que ayudan a comprender mejor la estructura algebraica."
+  },
+  {
+    "intent_id": "constantes_en_formulas",
+    "keywords": [
+      "formula",
+      "valor",
+      "numero",
+      "calculo",
+      "expresion"
+    ],
+    "base_response": "En una fórmula, una constante es un número fijo que mantiene su valor dentro del cálculo y ayuda a comprender cómo funciona la expresión completa, pues permite aplicar procedimientos de manera ordenada y obtener resultados coherentes en diferentes situaciones matemáticas."
+  },
+  {
+    "intent_id": "constantes_en_operaciones",
+    "keywords": [
+      "operacion",
+      "valor",
+      "numero",
+      "calculo",
+      "expresion"
+    ],
+    "base_response": "Las constantes en una operación mantienen siempre el mismo valor numérico, lo que permite realizar cada cálculo con orden y claridad dentro de una expresión algebraica, ayudando a identificar cómo se combinan los elementos y cómo influyen en el resultado final."
+  },
+  {
+    "intent_id": "constantes_en_contextos_reales",
+    "keywords": [
+      "contexto",
+      "valor",
+      "numero",
+      "calculo",
+      "expresion"
+    ],
+    "base_response": "Las constantes numéricas representan un valor fijo dentro de un contexto real, como un número asociado a un precio o una medida, y facilitan el cálculo al permitir que una expresión algebraica muestre con claridad cómo cambian otros elementos relacionados."
+  },
+  {
+    "intent_id": "terminos_polinomiales",
+    "keywords": [
+      "termino",
+      "polinomio",
+      "variable",
+      "coeficiente",
+      "operacion"
+    ],
+    "base_response": "Un término en un polinomio combina una variable y un coeficiente, permitiendo reconocer cómo cada parte influye en la expresión. Comprender esta relación facilita cualquier operación algebraica y ayuda a interpretar, organizar y transformar polinomios de manera correcta y eficiente."
+  },
+  {
+    "intent_id": "grado_de_polinomio",
+    "keywords": [
+      "grado",
+      "polinomio",
+      "exponente",
+      "variable",
+      "calculo"
+    ],
+    "base_response": "El grado de un polinomio corresponde al exponente más alto asociado a una variable dentro de la expresión, y reconocerlo facilita el cálculo al clasificar polinomios, anticipar su comportamiento y comparar distintas formas algebraicas de manera ordenada y comprensible."
+  },
+  {
+    "intent_id": "coeficientes_numericos",
+    "keywords": [
+      "coeficiente",
+      "numero",
+      "variable",
+      "multiplicacion",
+      "polinomio"
+    ],
+    "base_response": "El coeficiente es el número que acompaña a una variable y señala la multiplicación que realiza dentro de un polinomio, por lo que reconocerlo ayuda a interpretar mejor cada término y a organizar las expresiones algebraicas de manera clara y ordenada."
+  },
+  {
+    "intent_id": "variables_en_polinomios",
+    "keywords": [
+      "variable",
+      "simbolo",
+      "valor",
+      "polinomio",
+      "representacion"
+    ],
+    "base_response": "Una variable es un símbolo dentro de un polinomio que sirve como representación de un valor desconocido, y comprender su función permite analizar cómo cambian las expresiones algebraicas y aplicar estos cambios para resolver problemas y modelar situaciones de manera clara y útil."
+  },
+  {
+    "intent_id": "terminos_semejantes",
+    "keywords": [
+      "termino",
+      "semejante",
+      "variable",
+      "exponente",
+      "agrupacion"
+    ],
+    "base_response": "Un término semejante es aquel que comparte la misma variable y el mismo exponente, y su correcta agrupación permite simplificar expresiones algebraicas con mayor claridad. Reconocer estos elementos facilita organizar polinomios y realizar operaciones de manera más ordenada y eficiente."
+  },
+  {
+    "intent_id": "simplificacion_polinomial",
+    "keywords": [
+      "simplificacion",
+      "polinomio",
+      "termino",
+      "operacion",
+      "resultado"
+    ],
+    "base_response": "La simplificación de un polinomio es una operación que reúne cada término semejante para obtener un resultado más ordenado, permitiendo identificar con claridad la estructura algebraica y facilitando la resolución de ejercicios que requieren manipular expresiones de manera precisa."
+  },
+  {
+    "intent_id": "evaluacion_de_polinomios",
+    "keywords": [
+      "evaluacion",
+      "polinomio",
+      "valor",
+      "calculo",
+      "variable"
+    ],
+    "base_response": "La evaluación de un polinomio consiste en sustituir un valor específico en cada variable y realizar el cálculo correspondiente, lo que permite comprender cómo cambia la expresión y verificar resultados en distintos contextos matemáticos o situaciones prácticas donde intervienen polinomios."
+  },
+  {
+    "intent_id": "resta_de_polinomios",
+    "keywords": [
+      "resta",
+      "polinomio",
+      "termino",
+      "operacion",
+      "resultado"
+    ],
+    "base_response": "La resta de polinomios es una operación que consiste en identificar cada término semejante y sustraerlo para obtener un resultado claro. Al practicar este proceso, se fortalecen las habilidades necesarias para manipular expresiones algebraicas y comprender mejor cómo se relacionan sus componentes."
+  },
+  {
+    "intent_id": "multiplicacion_por_monomio_adicional",
+    "keywords": [
+      "multiplicacion",
+      "monomio",
+      "polinomio",
+      "exponente",
+      "variable"
+    ],
+    "base_response": "La multiplicación por monomio implica aplicar dicho monomio a cada término del polinomio, combinando el coeficiente con la variable y ajustando el exponente según las reglas algebraicas, lo que permite transformar expresiones y comprender mejor cómo se relacionan sus componentes."
+  },
+  {
+    "intent_id": "estructura_de_polinomio",
+    "keywords": [
+      "estructura",
+      "polinomio",
+      "termino",
+      "variable",
+      "orden"
+    ],
+    "base_response": "La estructura de un polinomio muestra cómo cada término se relaciona con su variable y coeficiente, permitiendo reconocer el orden interno de la expresión y facilitar operaciones básicas, lo que ayuda a desarrollar una comprensión más sólida del razonamiento algebraico."
+  },
+  {
+    "intent_id": "monomios_binomios_trinomios",
+    "keywords": [
+      "monomio",
+      "binomio",
+      "trinomio",
+      "polinomio",
+      "clasificacion"
+    ],
+    "base_response": "Un monomio, un binomio y un trinomio son tipos de polinomio que contienen uno, dos o tres términos, y su clasificación permite reconocer la estructura de cada expresión algebraica, facilitando el análisis y la resolución ordenada de distintos ejercicios."
+  },
+  {
+    "intent_id": "expresiones_equivalentes",
+    "keywords": [
+      "expresion",
+      "equivalente",
+      "polinomio",
+      "transformacion",
+      "termino"
+    ],
+    "base_response": "Una expresión equivalente es un polinomio que, mediante una transformación correcta de cada término, conserva exactamente el mismo valor aunque adopte una forma distinta; reconocer estas equivalencias facilita la verificación de resultados y fortalece la habilidad para manipular expresiones algebraicas."
+  },
+  {
+    "intent_id": "parte_literal_monomio",
+    "keywords": [
+      "variable",
+      "potencia",
+      "producto",
+      "simbolo",
+      "representacion"
+    ],
+    "base_response": "La parte literal de un monomio es la **representación** formada por cada **variable**, su **potencia** y el **símbolo** que indica su **producto**, permitiendo describir cantidades desconocidas y construir modelos algebraicos comprensibles para estudiantes que comienzan a explorar relaciones matemáticas más abstractas."
+  },
+  {
+    "intent_id": "grado_monomio",
+    "keywords": [
+      "grado",
+      "potencia",
+      "variable",
+      "suma",
+      "valor"
+    ],
+    "base_response": "El grado de un monomio es el valor que resulta de la suma de los exponentes de cada variable, y permite comprender cómo influye cada potencia en la expresión, facilitando la clasificación de monomios y el análisis de sus comportamientos dentro del álgebra básica."
+  },
+  {
+    "intent_id": "monomios_semejantes",
+    "keywords": [
+      "monomio",
+      "variable",
+      "potencia",
+      "igualdad",
+      "comparacion"
+    ],
+    "base_response": "Un monomio es semejante a otro cuando comparten la misma variable y potencia, de modo que existe igualdad en su parte literal; esta comparacion permite sumar o restar sus coeficientes con facilidad dentro de los ejercicios algebraicos escolares."
+  },
+  {
+    "intent_id": "multiplicacion_monomios",
+    "keywords": [
+      "producto",
+      "coeficiente",
+      "variable",
+      "potencia",
+      "resultado"
+    ],
+    "base_response": "La multiplicación de monomios se basa en obtener el producto de cada coeficiente y sumar los exponentes de toda variable repetida, lo que permite combinar potencias de manera ordenada y llegar a un resultado claro que facilita la simplificación de expresiones algebraicas."
+  },
+  {
+    "intent_id": "division_monomios",
+    "keywords": [
+      "division",
+      "coeficiente",
+      "variable",
+      "potencia",
+      "operacion"
+    ],
+    "base_response": "La división de monomios es una operación en la que se divide el coeficiente y se restan los exponentes de cada variable, lo que ayuda a simplificar expresiones y comprender cómo funciona la potencia cuando las variables iguales interactúan dentro de una misma estructura algebraica."
+  },
+  {
+    "intent_id": "monomio_constante",
+    "keywords": [
+      "numero",
+      "constante",
+      "valor",
+      "variable",
+      "expresion"
+    ],
+    "base_response": "Un monomio constante es un número que mantiene siempre el mismo valor dentro de una expresión algebraica, ya que no depende de ninguna variable, y sirve para representar cantidades fijas que se combinan con términos literales para formar expresiones más completas."
+  },
+  {
+    "intent_id": "estructura_literal",
+    "keywords": [
+      "variable",
+      "orden",
+      "potencia",
+      "simbolo",
+      "expresion"
+    ],
+    "base_response": "La estructura literal de un monomio organiza cada variable siguiendo un orden claro, asignando a cada símbolo la potencia correspondiente para formar una expresión coherente que facilite su interpretación y permita comparar y operar monomios con mayor precisión dentro del estudio básico del álgebra."
+  },
+  {
+    "intent_id": "monomio_univariable",
+    "keywords": [
+      "variable",
+      "potencia",
+      "coeficiente",
+      "expresion",
+      "producto"
+    ],
+    "base_response": "Un monomio univariable es una expresión formada por el producto de un coeficiente y una sola variable elevada a una potencia, lo que permite comprender cómo interactúan estos elementos y facilita el estudio inicial de relaciones algebraicas sencillas dentro de las matemáticas escolares."
+  },
+  {
+    "intent_id": "monomio_multivariable",
+    "keywords": [
+      "variable",
+      "producto",
+      "potencia",
+      "coeficiente",
+      "expresion"
+    ],
+    "base_response": "Un monomio multivariable es una expresión algebraica formada por el producto de varias variables, cada una con su propia potencia, acompañadas de un coeficiente que determina su valor numérico dentro del cálculo y permite analizar relaciones entre diferentes cantidades desconocidas."
+  },
+  {
+    "intent_id": "simplificacion_monomios",
+    "keywords": [
+      "simplificacion",
+      "variable",
+      "potencia",
+      "coeficiente",
+      "operacion"
+    ],
+    "base_response": "La simplificación de monomios es una operación que reúne variable, potencia y coeficiente para formar expresiones más ordenadas, aplicando reglas que permiten combinar elementos semejantes y obtener resultados claros que facilitan el desarrollo de procedimientos algebraicos posteriores."
+  },
+  {
+    "intent_id": "factorizacion_variables",
+    "keywords": [
+      "variable",
+      "exponente",
+      "producto",
+      "termino",
+      "algebra"
+    ],
+    "base_response": "La factorización de variables permite descomponer un término algebraico separando la variable y su exponente para expresar la expresión como un producto ordenado. Este proceso facilita reconocer patrones, simplificar operaciones y entender mejor cómo interactúan las partes de una expresión."
+  },
+  {
+    "intent_id": "importancia_factorizacion",
+    "keywords": [
+      "importancia",
+      "producto",
+      "termino",
+      "expresion",
+      "algebra"
+    ],
+    "base_response": "La importancia de la factorización surge al transformar una expresión en un producto de términos más simples, lo que permite analizar su estructura en el álgebra, resolver ecuaciones con mayor claridad y fortalecer habilidades esenciales para enfrentar problemas matemáticos de forma eficiente."
+  },
+  {
+    "intent_id": "uso_binomio_problemas",
+    "keywords": [
+      "binomio",
+      "problema",
+      "modelo",
+      "variable",
+      "calculo"
+    ],
+    "base_response": "Un binomio sirve para representar un problema como un modelo que relaciona dos cantidades, permitiendo analizar cómo cambia cada variable y facilitando el cálculo necesario para encontrar soluciones claras y útiles en diversas situaciones cotidianas."
+  },
+  {
+    "intent_id": "suma_binomios",
+    "keywords": [
+      "suma",
+      "binomio",
+      "termino",
+      "variable",
+      "calculo"
+    ],
+    "base_response": "La suma de binomios consiste en identificar cada término y observar qué variable comparten para realizar el cálculo adecuado, sumando los coeficientes correspondientes y obteniendo una expresión simplificada que facilita comprender procesos algebraicos más avanzados."
+  },
+  {
+    "intent_id": "resta_binomios",
+    "keywords": [
+      "resta",
+      "binomio",
+      "termino",
+      "variable",
+      "calculo"
+    ],
+    "base_response": "La resta de un binomio implica invertir el signo del segundo binomio y luego unir cada término semejante, permitiendo observar cómo se relaciona cada variable dentro del cálculo y fortaleciendo la comprensión de operaciones algebraicas básicas más seguras."
+  },
+  {
+    "intent_id": "comparacion_binomios",
+    "keywords": [
+      "comparacion",
+      "binomio",
+      "termino",
+      "variable",
+      "estructura"
+    ],
+    "base_response": "La comparación de un binomio con otro permite reconocer cómo cada término y variable se relaciona dentro de la estructura algebraica, facilitando la identificación de diferencias y patrones que ayudan a interpretar mejor las expresiones y a desarrollar habilidades para manipularlas correctamente."
+  },
+  {
+    "intent_id": "importancia_patrones_algebraicos",
+    "keywords": [
+      "importancia",
+      "patron",
+      "algebra",
+      "trinomio",
+      "cuadrado"
+    ],
+    "base_response": "La importancia de identificar un patrón algebra claro, como el trinomio cuadrado perfecto, ayuda a comprender cómo se organizan ciertas expresiones y fortalece la capacidad de resolver operaciones más complejas, permitiendo avanzar con seguridad en nuevos desafíos matemáticos."
+  },
+  {
+    "intent_id": "concepto_variable_desconocida",
+    "keywords": [
+      "variable",
+      "incognita",
+      "algebra",
+      "valor",
+      "calculo"
+    ],
+    "base_response": "Una variable es una incógnita del álgebra que representa un valor desconocido dentro de un cálculo, permitiendo describir situaciones numéricas de forma general y encontrar el número que hace verdadera una igualdad mediante procedimientos lógicos y ordenados."
+  },
+  {
+    "intent_id": "uso_simbolos_algebraicos",
+    "keywords": [
+      "simbolo",
+      "variable",
+      "expresion",
+      "algebra",
+      "representacion"
+    ],
+    "base_response": "Los símbolos del álgebra sirven para crear una representación clara de una expresión numérica, donde cada variable actúa como un valor desconocido que puede cambiar. Esta forma de simbolizar relaciones permite analizar situaciones y encontrar soluciones mediante operaciones ordenadas."
+  },
+  {
+    "intent_id": "interpretacion_incognitas",
+    "keywords": [
+      "incognita",
+      "valor",
+      "ecuacion",
+      "solucion",
+      "proceso"
+    ],
+    "base_response": "Una incógnita representa un valor desconocido dentro de una ecuación y se entiende como el elemento que debe hallarse siguiendo un proceso lógico. Al resolverla, se busca la solución que mantiene la coherencia entre las operaciones realizadas y el equilibrio matemático establecido."
+  },
+  {
+    "intent_id": "equilibrio_ecuaciones_simples",
+    "keywords": [
+      "ecuacion",
+      "equilibrio",
+      "variable",
+      "operacion",
+      "resultado"
+    ],
+    "base_response": "Una ecuación representa un equilibrio entre dos expresiones que incluyen una variable, y resolverla consiste en aplicar cada operación de forma coherente en ambos lados para mantener ese equilibrio y descubrir el resultado que hace verdadera la igualdad."
+  },
+  {
+    "intent_id": "sustitucion_valores_variables",
+    "keywords": [
+      "sustitucion",
+      "variable",
+      "numero",
+      "evaluacion",
+      "expresion"
+    ],
+    "base_response": "La sustitución es el proceso de cambiar una variable por un número para facilitar la evaluación de una expresión, permitiendo analizar cómo se modifica su resultado y comprender mejor la relación entre los valores elegidos y el comportamiento algebraico final."
+  },
+  {
+    "intent_id": "representacion_problemas_variables",
+    "keywords": [
+      "problema",
+      "variable",
+      "modelo",
+      "algebra",
+      "situacion"
+    ],
+    "base_response": "Una variable permite expresar una situación como un problema de álgebra, pues representa una cantidad desconocida dentro de un modelo que organiza la información y facilita crear ecuaciones que conduzcan a una solución clara y coherente."
+  },
+  {
+    "intent_id": "relacion_variables_operaciones",
+    "keywords": [
+      "variable",
+      "operacion",
+      "relacion",
+      "expresion",
+      "resultado"
+    ],
+    "base_response": "Una variable se combina con una operación para crear una expresión que muestra la relación entre sus valores y el resultado obtenido, permitiendo observar cómo una modificación en cualquiera de los elementos involucrados afecta directamente el comportamiento final del cálculo."
+  },
+  {
+    "intent_id": "identificacion_valor_faltante",
+    "keywords": [
+      "valor",
+      "variable",
+      "ecuacion",
+      "busqueda",
+      "solucion"
+    ],
+    "base_response": "Identificar el valor faltante implica una búsqueda para hallar el número que permite que una ecuación con variable mantenga su equilibrio, aplicando operaciones inversas hasta obtener la solución correcta que completa la igualdad de manera coherente y precisa."
+  },
+  {
+    "intent_id": "uso_letras_como_valores",
+    "keywords": [
+      "letra",
+      "variable",
+      "valor",
+      "expresion",
+      "algebra"
+    ],
+    "base_response": "Las letras funcionan como variables que representan un valor desconocido o que puede cambiar, permitiendo crear una expresión algebraica flexible. Gracias a este recurso, es posible analizar situaciones y resolver problemas sin necesitar desde el inicio números específicos."
+  },
+  {
+    "intent_id": "variables_en_patrones_numericos",
+    "keywords": [
+      "variable",
+      "patron",
+      "numero",
+      "regla",
+      "expresion"
+    ],
+    "base_response": "Una variable ayuda a representar un patrón numérico mediante una regla que muestra cómo cambia cada número de la secuencia, permitiendo construir una expresión general que sirve para calcular cualquier término y comprender mejor su crecimiento a lo largo del tiempo."
+  },
+  {
+    "intent_id": "formacion_ecuaciones_basicas",
+    "keywords": [
+      "ecuacion",
+      "variable",
+      "igualdad",
+      "numero",
+      "operacion"
+    ],
+    "base_response": "Formar una ecuación básica consiste en expresar una igualdad donde una variable se relaciona con algún número mediante una operación, permitiendo representar situaciones en las que se busca determinar un valor desconocido aplicando procedimientos que mantienen el equilibrio matemático."
+  },
+  {
+    "intent_id": "variables_en_problemas_aritmeticos",
+    "keywords": [
+      "variable",
+      "aritmetica",
+      "problema",
+      "cantidad",
+      "solucion"
+    ],
+    "base_response": "Una variable ayuda a expresar un problema aritmético cuando una cantidad es desconocida, permitiendo organizar los pasos para analizar la relación entre los datos y avanzar hacia una solución lógica que muestre con claridad el valor que se busca determinar."
+  },
+  {
+    "intent_id": "comprension_significado_variable",
+    "keywords": [
+      "variable",
+      "significado",
+      "valor",
+      "expresion",
+      "algebra"
+    ],
+    "base_response": "Comprender el significado de una variable implica reconocer que representa un valor cambiante dentro de una expresión algebraica, lo que permite analizar relaciones y resolver ecuaciones identificando el número que hace verdadera la igualdad planteada."
+  },
+  {
+    "intent_id": "variables_en_contextos_reales",
+    "keywords": [
+      "variable",
+      "contexto",
+      "cantidad",
+      "modelo",
+      "situacion"
+    ],
+    "base_response": "Una variable es un símbolo que representa una cantidad desconocida en un contexto específico. Utilizar variables permite crear modelos matemáticos que describen situaciones reales, facilitando la resolución de problemas mediante ecuaciones que ayudan a encontrar el valor de esa cantidad desconocida."
+  },
+  {
+    "intent_id": "analisis_cambios_valores",
+    "keywords": [
+      "variable",
+      "cambio",
+      "valor",
+      "expresion",
+      "resultado"
+    ],
+    "base_response": "Analizar cómo una variable provoca cambio en el valor de una expresión permite entender mejor la relación entre números y anticipar el resultado que se obtiene al modificar distintos valores dentro de una situación algebraica concreta."
+  },
+  {
+    "intent_id": "constantes_en_polinomios",
+    "keywords": [
+      "polinomio",
+      "valor",
+      "numero",
+      "termino",
+      "calculo"
+    ],
+    "base_response": "En un polinomio, una constante es un número fijo que aparece como término independiente y aporta un valor esencial al cálculo, pues influye en el resultado final y permite analizar cómo interactúan los demás términos dentro de la expresión algebraica."
+  },
+  {
+    "intent_id": "constantes_en_tablas",
+    "keywords": [
+      "tabla",
+      "valor",
+      "numero",
+      "registro",
+      "calculo"
+    ],
+    "base_response": "Una tabla puede incluir un número constante que actúa como valor fijo en cada registro, facilitando el cálculo y la comparación de datos, además de mostrar cómo cambian las variables mientras ese elemento permanece igual y sirve como referencia estable para interpretar patrones."
+  },
+  {
+    "intent_id": "constantes_en_graficos",
+    "keywords": [
+      "grafico",
+      "valor",
+      "numero",
+      "representacion",
+      "calculo"
+    ],
+    "base_response": "En un gráfico, un valor constante es un número que permanece igual y cuya representación aparece como una línea fija, lo que facilita el cálculo y permite distinguir cómo cambian las demás variables dentro de la relación mostrada."
+  },
+  {
+    "intent_id": "constantes_en_problemas_aplicados",
+    "keywords": [
+      "problema",
+      "valor",
+      "numero",
+      "calculo",
+      "situacion"
+    ],
+    "base_response": "En un problema aplicado, una constante es un valor numérico que permanece igual en toda la situación, lo cual facilita el cálculo y permite observar cómo cambian los resultados cuando las variables se modifican dentro del modelo matemático."
+  },
+  {
+    "intent_id": "importancia_constantes",
+    "keywords": [
+      "importancia",
+      "valor",
+      "numero",
+      "calculo",
+      "expresion"
+    ],
+    "base_response": "Las constantes tienen importancia porque ofrecen un valor numérico fijo dentro de cualquier cálculo, lo que permite interpretar una expresión con mayor claridad y entender cómo cambian los resultados cuando las variables se modifican, facilitando así el análisis ordenado de diferentes situaciones matemáticas."
+  },
+  {
+    "intent_id": "constantes_en_desigualdades",
+    "keywords": [
+      "desigualdad",
+      "valor",
+      "numero",
+      "calculo",
+      "expresion"
+    ],
+    "base_response": "En una desigualdad, cada número constante fija un valor que actúa como límite estable dentro del cálculo, permitiendo observar cómo la variable modifica la expresión y facilitando la comprensión de las relaciones matemáticas que surgen al comparar diferentes condiciones numéricas."
+  },
+  {
+    "intent_id": "identificacion_de_terminos",
+    "keywords": [
+      "termino",
+      "polinomio",
+      "variable",
+      "coeficiente",
+      "operacion"
+    ],
+    "base_response": "La identificación de términos en un polinomio permite reconocer cómo cada término combina variable, coeficiente y exponente, facilitando cualquier operación algebraica. Dominar esta distinción ayuda a simplificar expresiones y resolver ejercicios con mayor claridad y precisión."
+  },
+  {
+    "intent_id": "distribucion_en_polinomios",
+    "keywords": [
+      "distribucion",
+      "polinomio",
+      "multiplicacion",
+      "termino",
+      "variable"
+    ],
+    "base_response": "La distribución en un polinomio consiste en aplicar la multiplicación a cada término, permitiendo combinar números y variables de forma ordenada para simplificar expresiones. Este proceso ayuda a comprender cómo se expanden operaciones algebraicas y fortalece la habilidad de manipular polinomios correctamente."
+  },
+  {
+    "intent_id": "factorizacion_basica",
+    "keywords": [
+      "factorizacion",
+      "polinomio",
+      "termino",
+      "variable",
+      "expresion"
+    ],
+    "base_response": "La factorización básica permite descomponer un polinomio identificando el término común que comparten sus partes, reorganizando la expresión para mostrar cómo cada variable se relaciona dentro de la estructura algebraica y facilitando la resolución de ejercicios mediante una forma más clara y ordenada."
+  },
+  {
+    "intent_id": "simplificacion_de_expresiones",
+    "keywords": [
+      "simplificacion",
+      "expresion",
+      "polinomio",
+      "termino",
+      "variable"
+    ],
+    "base_response": "La simplificación de una expresión consiste en reorganizar un polinomio para unir cada término semejante y aclarar cómo interactúa cada variable, logrando una forma más ordenada que facilita comprender su estructura y resolver operaciones posteriores con mayor precisión y eficiencia."
+  },
+  {
+    "intent_id": "uso_letras_representacion",
+    "keywords": [
+      "letra",
+      "representacion",
+      "incognita",
+      "expresion",
+      "algebra"
+    ],
+    "base_response": "Las letras funcionan como una representación simbólica que permite expresar una incógnita dentro de una expresión de álgebra, ayudando a describir relaciones generales y resolver problemas cuando los valores numéricos aún no se conocen, facilitando así el razonamiento abstracto y la búsqueda de soluciones precisas."
+  },
+  {
+    "intent_id": "variable_cambio_valores",
+    "keywords": [
+      "variable",
+      "cambio",
+      "valores",
+      "situacion",
+      "algebra"
+    ],
+    "base_response": "Una variable representa un símbolo cuyo cambio de valores depende de la situación planteada, y esta flexibilidad permite describir procesos mediante el álgebra; comprender cómo varía facilita identificar patrones numéricos y entender mejor las operaciones que intervienen en cada problema."
+  },
+  {
+    "intent_id": "ecuacion_busqueda_incognita",
+    "keywords": [
+      "ecuacion",
+      "incognita",
+      "busqueda",
+      "valor",
+      "solucion"
+    ],
+    "base_response": "Una ecuación representa una relación que guía la búsqueda del valor de una incógnita, y al comprender sus elementos y aplicar operaciones adecuadas se obtiene la solución, fortaleciendo la capacidad de razonar con precisión y enfrentar desafíos matemáticos cada vez más exigentes."
+  },
+  {
+    "intent_id": "sustitucion_valor_variable",
+    "keywords": [
+      "sustitucion",
+      "valor",
+      "variable",
+      "calculo",
+      "resultado"
+    ],
+    "base_response": "La sustitución es un proceso de cálculo en el que se reemplaza una variable por un valor concreto para obtener un resultado claro, analizar expresiones algebraicas y comprobar posibles soluciones dentro de distintos contextos matemáticos."
+  },
+  {
+    "intent_id": "coeficiente_relacion_variable",
+    "keywords": [
+      "coeficiente",
+      "relacion",
+      "variable",
+      "multiplicacion",
+      "expresion"
+    ],
+    "base_response": "El coeficiente indica cuántas veces participa una variable en una expresión y muestra la relación de multiplicación entre ambos elementos, permitiendo comprender mejor cómo se forma cada término y facilitando la interpretación de ecuaciones y patrones numéricos dentro del álgebra escolar."
+  },
+  {
+    "intent_id": "modelo_variable_situacion",
+    "keywords": [
+      "modelo",
+      "variable",
+      "situacion",
+      "representacion",
+      "algebra"
+    ],
+    "base_response": "Un modelo algebraico usa una variable para describir una situación y construir una representación que permita analizarla con claridad, relacionando cantidades y cambios posibles para comprender mejor el problema y organizar la búsqueda de soluciones de manera lógica y estructurada."
+  },
+  {
+    "intent_id": "patron_variable_generalizacion",
+    "keywords": [
+      "patron",
+      "variable",
+      "generalizacion",
+      "expresion",
+      "algebra"
+    ],
+    "base_response": "Las variables permiten identificar un patrón y crear una expresión que represente su comportamiento, logrando una generalización útil para el álgebra escolar. Al comprender cómo cambia una variable dentro de una relación, es posible analizar situaciones diversas y resolver problemas con mayor claridad y precisión."
+  },
+  {
+    "intent_id": "despeje_variable_proceso",
+    "keywords": [
+      "despeje",
+      "variable",
+      "proceso",
+      "operacion",
+      "solucion"
+    ],
+    "base_response": "El despeje es un proceso que usa cada operación necesaria para aislar una variable y avanzar hacia la solución, manteniendo siempre la igualdad en cada paso aplicado, lo que ayuda a comprender mejor las ecuaciones y resolverlas con mayor seguridad y exactitud."
+  },
+  {
+    "intent_id": "interpretacion_variable_contexto",
+    "keywords": [
+      "interpretacion",
+      "variable",
+      "contexto",
+      "significado",
+      "problema"
+    ],
+    "base_response": "La interpretación de una variable consiste en identificar su significado dentro del problema y comprender cómo el contexto determina su función. Reconocer este vínculo permite analizar la situación con mayor precisión y utilizar la variable de manera adecuada para avanzar hacia la solución."
+  },
+  {
+    "intent_id": "constantes_en_expresiones",
+    "keywords": [
+      "expresion",
+      "numero",
+      "valor",
+      "operacion",
+      "calculo"
+    ],
+    "base_response": "En una expresión algebraica, una constante es un número con valor fijo que no cambia durante la operación, lo que facilita el cálculo y permite distinguir con claridad cómo las transformaciones afectan únicamente a las variables involucradas en la expresión."
+  },
+  {
+    "intent_id": "importancia_constantes_modelos",
+    "keywords": [
+      "modelo",
+      "numero",
+      "valor",
+      "representacion",
+      "calculo"
+    ],
+    "base_response": "Las constantes numéricas en un modelo representan un valor fijo que no cambia, lo cual permite construir una representación estable y comprensible; gracias a ello, el cálculo se vuelve más preciso y ayuda a interpretar situaciones reales con mayor claridad y coherencia."
+  },
+  {
+    "intent_id": "constantes_en_proporciones",
+    "keywords": [
+      "proporcion",
+      "numero",
+      "valor",
+      "relacion",
+      "calculo"
+    ],
+    "base_response": "Las constantes numéricas actúan como un número fijo que mantiene la proporción entre cada valor, facilitando el cálculo y mostrando cómo una relación se conserva incluso cuando otras variables cambian dentro de una expresión algebraica."
+  },
+  {
+    "intent_id": "concepto_distribucion_inversa",
+    "keywords": [
+      "distribucion",
+      "multiplicacion",
+      "termino",
+      "expresion",
+      "proceso"
+    ],
+    "base_response": "La distribución inversa es un proceso que permite transformar una multiplicación aplicada a más de un término en una sola expresión agrupada, ayudando a identificar patrones repetidos y facilitando la simplificación de operaciones algebraicas básicas que aparecen en situaciones escolares y cotidianas."
+  },
+  {
+    "intent_id": "concepto_binomios_simples",
+    "keywords": [
+      "binomio",
+      "producto",
+      "termino",
+      "variable",
+      "operacion"
+    ],
+    "base_response": "Un binomio es una expresión con dos términos que incluyen alguna variable, y comprender cómo se combinan mediante una operación permite convertirlos en un producto más sencillo. Dominar esta idea facilita resolver ejercicios básicos y reconocer patrones útiles en el álgebra."
+  },
+  {
+    "intent_id": "concepto_trinomio_basico",
+    "keywords": [
+      "trinomio",
+      "termino",
+      "producto",
+      "variable",
+      "factor"
+    ],
+    "base_response": "El trinomio es una expresión con tres términos que combina variables y números para formar un producto ordenado, donde cada término puede transformarse en un factor útil. Comprender esta estructura ayuda a simplificar operaciones y resolver ejercicios básicos de factorización con mayor claridad."
+  },
+  {
+    "intent_id": "concepto_patron_cuadratico",
+    "keywords": [
+      "patron",
+      "cuadratico",
+      "termino",
+      "variable",
+      "producto"
+    ],
+    "base_response": "El patrón cuadrático permite reconocer cuándo una variable aparece elevada al cuadrado y combinada con algún término adicional, facilitando la identificación de un producto que puede factorizarse para simplificar operaciones y fortalecer la comprensión de estructuras algebraicas fundamentales."
+  },
+  {
+    "intent_id": "concepto_productos_notables",
+    "keywords": [
+      "producto",
+      "binomio",
+      "termino",
+      "variable",
+      "patron"
+    ],
+    "base_response": "Los productos notables permiten identificar un patrón en la combinación de términos de un binomio, usando variables que se repiten para obtener resultados rápidos sin desarrollar todas las operaciones, lo que facilita comprender cómo se relacionan sus componentes dentro de expresiones algebraicas comunes."
+  },
+  {
+    "intent_id": "concepto_diferencia_cuadrados",
+    "keywords": [
+      "diferencia",
+      "cuadrados",
+      "producto",
+      "termino",
+      "variable"
+    ],
+    "base_response": "La diferencia de cuadrados permite convertir la resta entre dos términos elevados al cuadrado en un producto de binomios, facilitando el manejo de expresiones algebraicas. Al identificar esta estructura, es posible simplificar operaciones y comprender mejor cómo interactúan las variables dentro de una ecuación."
+  },
+  {
+    "intent_id": "concepto_agrupacion_terminos",
+    "keywords": [
+      "agrupacion",
+      "termino",
+      "producto",
+      "variable",
+      "factor"
+    ],
+    "base_response": "La **agrupación de términos** permite reorganizar una expresión para identificar un **factor** común en cada grupo, combinando **variables** y **productos** de manera ordenada; así se simplifica la expresión y se fortalecen las habilidades para reconocer patrones útiles en la factorización."
+  },
+  {
+    "intent_id": "concepto_factorizacion_directa",
+    "keywords": [
+      "factorizacion",
+      "termino",
+      "producto",
+      "variable",
+      "operacion"
+    ],
+    "base_response": "La factorización directa consiste en identificar un término común o un patrón sencillo dentro de una expresión para convertirla en un producto de factores, usando variables y operaciones básicas que permiten simplificar el procedimiento y resolver ejercicios escolares de manera clara y eficiente."
+  },
+  {
+    "intent_id": "concepto_coeficientes_simples",
+    "keywords": [
+      "coeficiente",
+      "termino",
+      "producto",
+      "variable",
+      "factor"
+    ],
+    "base_response": "Un coeficiente es el número que acompaña a una variable dentro de un término y muestra cuánto aporta en el producto total, permitiendo reconocerlo como factor útil para reorganizar o simplificar expresiones algebraicas básicas con mayor claridad y precisión."
+  },
+  {
+    "intent_id": "concepto_variables_comunes",
+    "keywords": [
+      "variable",
+      "termino",
+      "producto",
+      "factor",
+      "expresion"
+    ],
+    "base_response": "Las variables comunes permiten identificar una letra que aparece en más de un término y convertirla en un factor dentro de un producto, lo que simplifica la expresión y facilita comprender cómo se organizan los pasos básicos de la factorización escolar."
+  },
+  {
+    "intent_id": "concepto_reordenamiento_expresiones",
+    "keywords": [
+      "reordenamiento",
+      "termino",
+      "producto",
+      "variable",
+      "factor"
+    ],
+    "base_response": "El reordenamiento de una expresión implica colocar cada término en un orden que facilite identificar un producto con alguna variable repetida, permitiendo reconocer el factor adecuado para simplificar la operación y mejorar la comprensión del procedimiento algebraico en ejercicios de factorización."
+  },
+  {
+    "intent_id": "concepto_identificacion_patrones",
+    "keywords": [
+      "identificacion",
+      "patron",
+      "termino",
+      "producto",
+      "variable"
+    ],
+    "base_response": "La identificación de un patrón en una expresión algebraica ayuda a distinguir cómo cada término se relaciona mediante producto o variable, permitiendo reconocer estructuras repetidas que simplifican la factorización y mejoran la comprensión de los procedimientos matemáticos utilizados para resolver ejercicios con mayor eficacia."
+  },
+  {
+    "intent_id": "concepto_simplificacion_basica",
+    "keywords": [
+      "simplificacion",
+      "termino",
+      "producto",
+      "variable",
+      "factor"
+    ],
+    "base_response": "La simplificación básica permite transformar una expresión en un término más claro al identificar el producto de una variable y separar cada factor esencial, facilitando el manejo de operaciones y fortaleciendo la comprensión algebraica necesaria para avanzar hacia procedimientos de factorización más complejos."
+  },
+  {
+    "intent_id": "concepto_relacion_productos",
+    "keywords": [
+      "relacion",
+      "producto",
+      "termino",
+      "variable",
+      "factor"
+    ],
+    "base_response": "La relación entre productos explica cómo cada término con su variable puede combinarse como factor dentro de una expresión algebraica, permitiendo reorganizarla de manera más clara y eficiente para identificar patrones, simplificar procedimientos y resolver ejercicios con mayor precisión."
+  },
+  {
+    "intent_id": "identificacion_variables_comunes",
+    "keywords": [
+      "variables",
+      "comparacion",
+      "analisis",
+      "terminos",
+      "algebra"
+    ],
+    "base_response": "El análisis de términos en álgebra requiere una comparación cuidadosa de las variables y sus exponentes para reconocer cuáles comparten características esenciales. Esta identificación permite agrupar elementos semejantes y simplificar expresiones de manera ordenada, fortaleciendo la comprensión del funcionamiento algebraico."
+  },
+  {
+    "intent_id": "diferencia_entre_terminos",
+    "keywords": [
+      "terminos",
+      "variables",
+      "exponentes",
+      "comparacion",
+      "algebra"
+    ],
+    "base_response": "En álgebra, la comparación de términos exige revisar variables y exponentes para reconocer cuándo pueden agruparse; si alguno cambia, se consideran distintos, lo que ayuda a ordenar expresiones y evitar errores al resolver ejercicios con mayor claridad matemática."
+  },
+  {
+    "intent_id": "simplificacion_expresiones_basicas",
+    "keywords": [
+      "simplificacion",
+      "expresiones",
+      "terminos",
+      "algebra",
+      "operacion"
+    ],
+    "base_response": "La simplificación en álgebra es una operación que permite reducir expresiones combinando términos que comparten características, facilitando así el análisis de relaciones numéricas y el proceso de resolver ecuaciones, además de preparar al estudiante para manejar expresiones más avanzadas con seguridad y claridad."
+  },
+  {
+    "intent_id": "agrupacion_por_variable",
+    "keywords": [
+      "variable",
+      "agrupacion",
+      "terminos",
+      "algebra",
+      "clasificacion"
+    ],
+    "base_response": "La agrupación por variable en álgebra consiste en ordenar y clasificar los términos que comparten la misma letra y exponente, reuniéndolos para facilitar el análisis de la expresión y permitir operaciones posteriores más claras, evitando confusiones durante el proceso de resolución."
+  },
+  {
+    "intent_id": "ordenamiento_expresiones_algebraicas",
+    "keywords": [
+      "ordenamiento",
+      "expresiones",
+      "terminos",
+      "algebra",
+      "estructura"
+    ],
+    "base_response": "El ordenamiento de expresiones en álgebra permite reconocer con claridad los términos y comprender mejor su estructura, organizándolos de manera coherente para facilitar la agrupación y la simplificación, lo que contribuye a resolver procedimientos con mayor eficacia y seguridad."
+  },
+  {
+    "intent_id": "importancia_exponentes_en_terminos",
+    "keywords": [
+      "exponentes",
+      "terminos",
+      "variables",
+      "algebra",
+      "analisis"
+    ],
+    "base_response": "Los exponentes indican cuándo dos términos del álgebra pueden combinarse, pues incluso si comparten variables, un exponente diferente impide unirlos correctamente. Comprender esta relación facilita el análisis de expresiones y ayuda a evitar errores al identificar estructuras esenciales dentro de los términos."
+  },
+  {
+    "intent_id": "combinacion_terminos_simples",
+    "keywords": [
+      "combinacion",
+      "terminos",
+      "algebra",
+      "suma",
+      "resta"
+    ],
+    "base_response": "La combinación de términos simples en álgebra implica aplicar suma o resta a coeficientes de términos semejantes para obtener expresiones más ordenadas, facilitando la interpretación de sus partes y permitiendo avanzar con mayor claridad en la resolución de ejercicios y problemas matemáticos."
+  },
+  {
+    "intent_id": "errores_comunes_agrupacion",
+    "keywords": [
+      "errores",
+      "terminos",
+      "variables",
+      "algebra",
+      "revision"
+    ],
+    "base_response": "Los errores en álgebra suelen aparecer cuando se agrupan términos con variables distintas, lo que provoca resultados incorrectos; una revisión cuidadosa de cada expresión ayuda a identificar diferencias importantes y evita confusiones, fortaleciendo la comprensión del proceso de agrupación y mejorando la precisión en los cálculos."
+  },
+  {
+    "intent_id": "uso_parentesis_en_agrupacion",
+    "keywords": [
+      "parentesis",
+      "agrupacion",
+      "terminos",
+      "algebra",
+      "organizacion"
+    ],
+    "base_response": "Los paréntesis permiten una organización clara en la agrupación de términos dentro del álgebra, ayudando a identificar partes relacionadas y a manejar operaciones sin confusión. Al aplicarlos correctamente, se mejora la comprensión de la expresión y se facilita su simplificación de manera ordenada."
+  },
+  {
+    "intent_id": "representacion_visual_terminos",
+    "keywords": [
+      "representacion",
+      "visualizacion",
+      "terminos",
+      "algebra",
+      "diagramas"
+    ],
+    "base_response": "La representación de términos en álgebra mediante la visualización con colores o diagramas permite identificar rápidamente elementos semejantes, favoreciendo su agrupación y simplificación de manera más clara, intuitiva y accesible para estudiantes que comienzan a explorar cómo funcionan las expresiones algebraicas."
+  },
+  {
+    "intent_id": "aplicacion_en_problemas_reales",
+    "keywords": [
+      "aplicacion",
+      "problemas",
+      "terminos",
+      "algebra",
+      "situaciones"
+    ],
+    "base_response": "La aplicación de la agrupación de términos en álgebra ayuda a entender problemas donde se combinan cantidades similares, permitiendo analizar situaciones reales con mayor claridad y transformar información cotidiana en expresiones que facilitan su resolución de manera ordenada y lógica."
+  },
+  {
+    "intent_id": "relacion_entre_coeficiente_y_variable",
+    "keywords": [
+      "coeficiente",
+      "variable",
+      "terminos",
+      "algebra",
+      "relacion"
+    ],
+    "base_response": "La relación entre coeficiente y variable en álgebra permite entender cómo se forman los términos, pues el coeficiente expresa la cantidad y la variable indica el valor desconocido. Reconocer esta conexión facilita agrupar términos semejantes y simplificar expresiones de manera ordenada."
+  },
+  {
+    "intent_id": "practica_agrupacion_progresiva",
+    "keywords": [
+      "practica",
+      "agrupacion",
+      "terminos",
+      "algebra",
+      "ejercicios"
+    ],
+    "base_response": "La práctica de agrupación en álgebra ayuda a ordenar términos de manera progresiva, comenzando con ejercicios sencillos y avanzando hacia expresiones más complejas para mejorar precisión y confianza, permitiendo desarrollar habilidades esenciales que facilitan resolver operaciones y comprender estructuras algebraicas con mayor seguridad."
+  },
+  {
+    "intent_id": "uso_variables_problemas",
+    "keywords": [
+      "variable",
+      "problema",
+      "expresion",
+      "solucion",
+      "operacion"
+    ],
+    "base_response": "Una variable permite representar un dato faltante en un problema y construir una expresión que organice la información disponible; al aplicar cada operación necesaria, se avanza hacia la solución que determina el valor desconocido y completa correctamente la situación planteada."
+  },
+  {
+    "intent_id": "variables_como_incognitas",
+    "keywords": [
+      "incognita",
+      "variable",
+      "ecuacion",
+      "resultado",
+      "proceso"
+    ],
+    "base_response": "Una incógnita es una variable cuyo valor se busca mediante un proceso dentro de una ecuación, donde aparece combinada con números y operaciones, y cuyo resultado correcto permite verificar que la igualdad planteada se cumple de manera coherente y lógica."
+  },
+  {
+    "intent_id": "interpretacion_variables_contexto",
+    "keywords": [
+      "variable",
+      "contexto",
+      "significado",
+      "situacion",
+      "analisis"
+    ],
+    "base_response": "El significado de una variable surge del contexto de la situación que se analiza, pues puede representar datos como edad, distancia o precio; comprender ese entorno permite interpretar la variable con precisión y resolver el problema planteado de manera más clara."
+  },
+  {
+    "intent_id": "variables_en_ecuaciones_simples",
+    "keywords": [
+      "ecuacion",
+      "variable",
+      "igualdad",
+      "solucion",
+      "operacion"
+    ],
+    "base_response": "Una ecuación simple usa una variable para representar un valor desconocido dentro de una igualdad, y la solución se obtiene aplicando cada operación necesaria hasta descubrir el número que mantiene equilibrados ambos lados, garantizando que la igualdad planteada se cumpla correctamente."
+  },
+  {
+    "intent_id": "variables_para_generalizar",
+    "keywords": [
+      "generalizacion",
+      "variable",
+      "patron",
+      "modelo",
+      "representacion"
+    ],
+    "base_response": "Las variables ofrecen una representación flexible que permite la generalización de un patrón matemático, pues sustituyen números específicos por símbolos capaces de expresar cualquier valor y facilitan la construcción de modelos que describen relaciones repetitivas de manera clara y aplicable en distintas situaciones."
+  },
+  {
+    "intent_id": "variables_en_tablas",
+    "keywords": [
+      "tabla",
+      "variable",
+      "registro",
+      "valor",
+      "organizacion"
+    ],
+    "base_response": "Una tabla puede usar una variable en cada registro para mostrar cómo cambia un valor según distintas condiciones, facilitando la organización de datos, la detección de patrones y la comprensión de relaciones entre cantidades de manera clara y ordenada."
+  },
+  {
+    "intent_id": "variables_en_graficos",
+    "keywords": [
+      "grafico",
+      "variable",
+      "representacion",
+      "cambio",
+      "interpretacion"
+    ],
+    "base_response": "Un gráfico es una representación visual que muestra cómo una variable experimenta cambio a lo largo del tiempo, y su interpretación permite reconocer patrones, comparar valores y comprender de manera clara la relación entre las cantidades involucradas en diferentes situaciones."
+  },
+  {
+    "intent_id": "variables_para_formulas",
+    "keywords": [
+      "formula",
+      "variable",
+      "calculo",
+      "modelo",
+      "cantidad"
+    ],
+    "base_response": "Una fórmula emplea una variable para representar una cantidad que puede cambiar, permitiendo realizar cálculos adaptados a distintas situaciones y usando un modelo matemático flexible que facilita analizar problemas sin construir nuevas expresiones cada vez."
+  },
+  {
+    "intent_id": "variables_en_proporciones",
+    "keywords": [
+      "proporcion",
+      "variable",
+      "razon",
+      "relacion",
+      "calculo"
+    ],
+    "base_response": "En una proporción, cada variable expresa una cantidad vinculada por una razón que permanece constante, y comprender esta relación permite realizar el cálculo necesario para determinar cómo cambia una cantidad cuando la otra se modifica dentro del mismo contexto matemático."
+  },
+  {
+    "intent_id": "variables_para_describir_cambios",
+    "keywords": [
+      "cambio",
+      "variable",
+      "variacion",
+      "cantidad",
+      "analisis"
+    ],
+    "base_response": "Una variable representa una cantidad sujeta a cambio, y su uso facilita el análisis de cómo ocurre la variación en distintas situaciones. Al emplear símbolos para expresar estas transformaciones, es posible comprender con mayor claridad la evolución de valores que se modifican constantemente."
+  },
+  {
+    "intent_id": "variables_en_problemas_reales",
+    "keywords": [
+      "situacion",
+      "variable",
+      "cantidad",
+      "modelo",
+      "resolucion"
+    ],
+    "base_response": "Una variable representa una cantidad que puede cambiar según la situación, y al usarla en un modelo matemático es posible analizar datos, establecer relaciones y avanzar hacia la resolución de problemas reales mediante razonamiento claro y organizado."
+  },
+  {
+    "intent_id": "constantes_y_variables",
+    "keywords": [
+      "variable",
+      "numero",
+      "valor",
+      "calculo",
+      "expresion"
+    ],
+    "base_response": "Una variable representa un número cuyo valor puede cambiar durante un cálculo, mientras que una constante mantiene siempre el mismo valor; distinguir ambos elementos permite comprender mejor una expresión algebraica y entender cómo cada componente influye en el resultado final."
+  },
+  {
+    "intent_id": "constantes_y_simplificacion",
+    "keywords": [
+      "simplificacion",
+      "numero",
+      "valor",
+      "calculo",
+      "expresion"
+    ],
+    "base_response": "Las constantes son números con valor fijo que facilitan la simplificación de cualquier expresión algebraica, pues permanecen iguales durante el cálculo y permiten concentrarse en los elementos variables que modifican el resultado, haciendo más claro el proceso y reduciendo pasos innecesarios."
+  },
+  {
+    "intent_id": "constantes_en_problemas_reales",
+    "keywords": [
+      "problema",
+      "numero",
+      "valor",
+      "situacion",
+      "calculo"
+    ],
+    "base_response": "En un problema cotidiano, una constante es un número cuyo valor permanece fijo dentro de una situación específica, como un precio o una medida estable, y reconocerla facilita el cálculo necesario para interpretar y resolver correctamente diversos escenarios matemáticos reales."
+  },
+  {
+    "intent_id": "constantes_y_operaciones",
+    "keywords": [
+      "operacion",
+      "numero",
+      "valor",
+      "calculo",
+      "expresion"
+    ],
+    "base_response": "Las constantes son números con valor fijo que, al participar en una operación algebraica, permiten realizar un cálculo ordenado y comprender mejor cómo cada parte de la expresión se relaciona. Su presencia facilita analizar cambios cuando las variables modifican sus valores dentro del problema."
+  },
+  {
+    "intent_id": "constantes_y_estimaciones",
+    "keywords": [
+      "estimacion",
+      "numero",
+      "valor",
+      "calculo",
+      "expresion"
+    ],
+    "base_response": "Las constantes permiten una estimación clara porque cada número mantiene su valor sin variar, facilitando el cálculo aproximado dentro de una expresión algebraica y ayudando a comprender cómo los elementos estables influyen en los resultados obtenidos por los estudiantes."
+  },
+  {
+    "intent_id": "constantes_en_resolucion",
+    "keywords": [
+      "resolucion",
+      "numero",
+      "valor",
+      "calculo",
+      "expresion"
+    ],
+    "base_response": "Las constantes numéricas ayudan en la resolución porque mantienen su valor durante el cálculo, permitiendo identificar qué partes de una expresión permanecen fijas. Al distinguirlas de las variables, resulta más sencillo comprender cómo cada elemento influye en el resultado final."
+  },
+  {
+    "intent_id": "representacion_algebraica",
+    "keywords": [
+      "representacion",
+      "algebraica",
+      "polinomios",
+      "variables",
+      "terminos"
+    ],
+    "base_response": "La representación algebraica permite modelar situaciones numéricas mediante polinomios que combinan variables y términos, facilitando transformar problemas cotidianos en expresiones claras y manejables, fortaleciendo la comprensión del lenguaje matemático y preparando al estudiante para resolver ejercicios con mayor seguridad."
+  },
+  {
+    "intent_id": "interpretacion_monomio",
+    "keywords": [
+      "interpretacion",
+      "monomio",
+      "variable",
+      "coeficiente",
+      "algebra"
+    ],
+    "base_response": "La interpretación de un monomio implica comprender cómo su coeficiente y cada variable con su potencia representan cantidades dentro del álgebra, permitiendo conectar la expresión con situaciones numéricas concretas y facilitar la resolución de ejercicios que requieren manipular términos algebraicos de manera precisa."
+  },
+  {
+    "intent_id": "interpretacion_letras_algebraicas",
+    "keywords": [
+      "interpretacion",
+      "letra",
+      "variable",
+      "incognita",
+      "expresion"
+    ],
+    "base_response": "La interpretación de una letra en álgebra consiste en verla como una variable o incógnita que puede tomar distintos valores, permitiendo construir una expresión general que describa relaciones numéricas y facilite el análisis y la resolución de diversos problemas matemáticos."
+  },
+  {
+    "intent_id": "incognitas_para_modelar",
+    "keywords": [
+      "incognita",
+      "modelacion",
+      "variable",
+      "cantidad",
+      "expresion"
+    ],
+    "base_response": "Una incógnita es una variable que representa una cantidad desconocida y permite la modelación de problemas mediante una expresión algebraica; al usar letras para simbolizar datos faltantes, podemos analizar relaciones y determinar el valor que satisface las condiciones planteadas."
+  },
+  {
+    "intent_id": "constantes_en_contextos",
+    "keywords": [
+      "contexto",
+      "numero",
+      "valor",
+      "situacion",
+      "calculo"
+    ],
+    "base_response": "En cualquier contexto matemático, una constante es un número cuyo valor permanece estable dentro de una situación dada, lo que facilita el cálculo y ayuda a interpretar con precisión las relaciones que aparecen al analizar problemas y modelos numéricos diversos."
+  },
+  {
+    "intent_id": "identificacion_terminos_polinomiales",
+    "keywords": [
+      "termino",
+      "polinomio",
+      "variable",
+      "coeficiente",
+      "operacion"
+    ],
+    "base_response": "La identificación de cada término en un polinomio permite reconocer con precisión la variable, el coeficiente y la operación involucrada, ayudando a comprender cómo se estructura la expresión y facilitando la resolución de ejercicios básicos con mayor claridad y seguridad."
+  },
+  {
+    "intent_id": "resta_polinomios_similares",
+    "keywords": [
+      "resta",
+      "polinomio",
+      "termino",
+      "variable",
+      "coeficiente"
+    ],
+    "base_response": "La resta de un polinomio consiste en ubicar cada término con la misma variable y comparar sus coeficientes, de modo que puedan sustraerse correctamente para obtener una expresión más ordenada y coherente, facilitando así el manejo posterior de operaciones algebraicas."
+  },
+  {
+    "intent_id": "distribucion_polinomial",
+    "keywords": [
+      "distribucion",
+      "polinomio",
+      "termino",
+      "multiplicacion",
+      "variable"
+    ],
+    "base_response": "La distribución en un polinomio consiste en aplicar un término externo mediante una multiplicación a cada parte que lo compone, permitiendo combinar correctamente cada variable y simplificar la expresión resultante para obtener un desarrollo ordenado y coherente del procedimiento."
+  },
+  {
+    "intent_id": "evaluacion_polinomios_valores",
+    "keywords": [
+      "evaluacion",
+      "polinomio",
+      "valor",
+      "variable",
+      "resultado"
+    ],
+    "base_response": "La evaluación de un polinomio consiste en reemplazar la variable por un valor numérico y efectuar las operaciones indicadas para obtener un resultado claro, lo que permite analizar cómo cambia el polinomio y comprender mejor su comportamiento en distintas situaciones."
+  },
+  {
+    "intent_id": "simplificacion_polinomios",
+    "keywords": [
+      "simplificacion",
+      "polinomio",
+      "termino",
+      "coeficiente",
+      "variable"
+    ],
+    "base_response": "La simplificación de un polinomio implica reunir cada término que comparta variable y coeficiente compatible, ordenando la expresión para que resulte más clara y fácil de interpretar, lo cual permite comprender mejor su estructura y avanzar con seguridad en distintos procedimientos algebraicos."
+  },
+  {
+    "intent_id": "identificacion_coeficientes",
+    "keywords": [
+      "coeficiente",
+      "polinomio",
+      "termino",
+      "variable",
+      "valor"
+    ],
+    "base_response": "La identificación de coeficientes consiste en reconocer el valor que acompaña a cada variable dentro de un polinomio, permitiendo distinguir el término completo y comprender cómo se relacionan sus partes para analizar la expresión y efectuar operaciones algebraicas con mayor precisión."
+  },
+  {
+    "intent_id": "uso_parentesis_polinomios",
+    "keywords": [
+      "parentesis",
+      "polinomio",
+      "termino",
+      "operacion",
+      "variable"
+    ],
+    "base_response": "El uso de paréntesis en un polinomio permite identificar qué término u operación debe resolverse primero, organizando la expresión y evitando confusiones al combinar variables y números, lo que facilita trabajar con cálculos más complejos de manera clara y precisa."
+  },
+  {
+    "intent_id": "comparacion_polinomios",
+    "keywords": [
+      "comparacion",
+      "polinomio",
+      "termino",
+      "grado",
+      "coeficiente"
+    ],
+    "base_response": "La comparación de un polinomio consiste en observar cada término, su grado y coeficiente para identificar cómo se relaciona con otros polinomios. Este análisis ayuda a reconocer similitudes y diferencias esenciales al resolver ejercicios algebraicos de manera clara y ordenada."
+  },
+  {
+    "intent_id": "expansion_binomio_polinomio",
+    "keywords": [
+      "expansion",
+      "binomio",
+      "polinomio",
+      "termino",
+      "multiplicacion"
+    ],
+    "base_response": "La expansión de un binomio hacia un polinomio implica tomar cada término del binomio y realizar la multiplicación con cada término del polinomio, formando una expresión más extensa que luego puede organizarse y simplificarse para obtener un resultado algebraico claro."
+  },
+  {
+    "intent_id": "interpretacion_polinomios_contexto",
+    "keywords": [
+      "interpretacion",
+      "polinomio",
+      "variable",
+      "situacion",
+      "resultado"
+    ],
+    "base_response": "La interpretación de un polinomio en una situación concreta ayuda a entender cómo cada variable representa un elemento del contexto y cómo sus combinaciones permiten analizar cambios, anticipar comportamientos y obtener un resultado que describa o resuelva el problema planteado."
+  },
+  {
+    "intent_id": "evaluacion_monomio",
+    "keywords": [
+      "evaluacion",
+      "monomio",
+      "variable",
+      "valor",
+      "resultado"
+    ],
+    "base_response": "La evaluación de un monomio consiste en reemplazar cada variable por un valor numérico y obtener el resultado, lo que permite comprender cómo se modifican sus componentes y desarrollar habilidades para manipular expresiones algebraicas con mayor seguridad matemática."
+  },
+  {
+    "intent_id": "concepto_resta_terminos",
+    "keywords": [
+      "resta",
+      "terminos",
+      "algebra",
+      "agrupacion",
+      "operacion"
+    ],
+    "base_response": "La resta de términos en álgebra implica una operación de agrupación donde se disminuyen coeficientes de términos con igual parte literal, permitiendo simplificar expresiones y facilitar la resolución de problemas básicos mediante un manejo más claro de las relaciones entre componentes algebraicos."
+  },
+  {
+    "intent_id": "concepto_distribucion_terminos",
+    "keywords": [
+      "distribucion",
+      "terminos",
+      "algebra",
+      "agrupacion",
+      "operacion"
+    ],
+    "base_response": "La distribución de términos en álgebra es una operación que facilita la agrupación de partes de una expresión, permitiendo identificar elementos semejantes y combinarlos correctamente para simplificar el procedimiento. Al aplicar esta técnica, se ordenan los términos y se prepara la expresión para resolverla con mayor claridad."
+  },
+  {
+    "intent_id": "concepto_combinacion_literal",
+    "keywords": [
+      "variables",
+      "terminos",
+      "algebra",
+      "agrupacion",
+      "operacion"
+    ],
+    "base_response": "La combinación literal en álgebra consiste en identificar variables y exponentes iguales dentro de distintos términos para permitir su correcta agrupación y simplificación mediante una operación coherente, lo que ayuda a comprender mejor la estructura de las expresiones y resolver ejercicios con mayor claridad."
+  },
+  {
+    "intent_id": "concepto_error_comun",
+    "keywords": [
+      "errores",
+      "terminos",
+      "algebra",
+      "agrupacion",
+      "expresion"
+    ],
+    "base_response": "El error surge en álgebra cuando se realiza una agrupación incorrecta de términos que no comparten la misma parte literal, lo que provoca confusión al simplificar una expresión; identificar variables y exponentes adecuados evita estos errores y mejora la precisión del procedimiento."
+  },
+  {
+    "intent_id": "concepto_verificacion_resultados",
+    "keywords": [
+      "verificacion",
+      "terminos",
+      "algebra",
+      "agrupacion",
+      "operacion"
+    ],
+    "base_response": "La verificación en álgebra implica revisar que los términos estén correctamente organizados mediante una adecuada agrupación y que cada operación combine los coeficientes de forma precisa, permitiendo confirmar que el procedimiento seguido produce un resultado coherente y correctamente simplificado."
+  },
+  {
+    "intent_id": "concepto_binomio_clasificacion",
+    "keywords": [
+      "binomio",
+      "clasificacion",
+      "termino",
+      "variable",
+      "coeficiente"
+    ],
+    "base_response": "La clasificación de un binomio se basa en analizar cada término y la variable que contiene, reconociendo cómo el coeficiente y el exponente influyen en su forma. Comprender estas partes permite identificar patrones y simplificar expresiones con mayor seguridad y precisión."
+  },
+  {
+    "intent_id": "concepto_binomio_simplificacion",
+    "keywords": [
+      "simplificacion",
+      "binomio",
+      "termino",
+      "variable",
+      "operacion"
+    ],
+    "base_response": "La simplificación de un binomio implica unir cada término que comparta la misma variable mediante una operación adecuada, logrando una expresión más ordenada y fácil de interpretar para avanzar con seguridad en ejercicios algebraicos básicos."
+  },
+  {
+    "intent_id": "concepto_binomio_suma",
+    "keywords": [
+      "suma",
+      "binomio",
+      "termino",
+      "variable",
+      "coeficiente"
+    ],
+    "base_response": "La suma de un binomio consiste en combinar cada término con la variable correspondiente y sumar el coeficiente adecuado, logrando una expresión ordenada que facilita comprender cómo interactúan las partes de la operación y prepara para resolver procedimientos algebraicos más complejos."
+  },
+  {
+    "intent_id": "concepto_binomio_factorizacion",
+    "keywords": [
+      "factorizacion",
+      "binomio",
+      "termino",
+      "variable",
+      "operacion"
+    ],
+    "base_response": "La factorización de un binomio implica reconocer un término compartido entre variables para realizar una operación que permita reorganizar y simplificar la expresión, facilitando el manejo de estructuras algebraicas y fortaleciendo la comprensión de cómo se relacionan sus componentes fundamentales."
+  },
+  {
+    "intent_id": "concepto_binomio_combinacion",
+    "keywords": [
+      "combinacion",
+      "binomio",
+      "termino",
+      "variable",
+      "operacion"
+    ],
+    "base_response": "La combinación de un binomio implica reunir cada término con su variable correspondiente mediante una operación adecuada, organizando expresiones para obtener formas más claras y coherentes dentro del álgebra escolar, lo que facilita comprender cómo interactúan las partes de una expresión completa."
+  },
+  {
+    "intent_id": "concepto_binomio_equivalencia",
+    "keywords": [
+      "equivalencia",
+      "binomio",
+      "termino",
+      "variable",
+      "expresion"
+    ],
+    "base_response": "La equivalencia de un binomio se reconoce cuando cada expresión comparte el mismo valor al combinar términos y variables, permitiendo comparar su estructura. Analizar cómo se transforman estas expresiones facilita comprender relaciones algebraicas y aplicar procedimientos que fortalecen la resolución de ejercicios."
+  },
+  {
+    "intent_id": "concepto_binomio_modelacion",
+    "keywords": [
+      "modelacion",
+      "binomio",
+      "situacion",
+      "variable",
+      "expresion"
+    ],
+    "base_response": "La modelación con un binomio permite analizar una situación y transformarla en una expresión algebraica clara, donde cada variable representa un elemento relevante del problema, facilitando comprender relaciones y resolver desafíos cotidianos mediante herramientas matemáticas aplicadas de forma sencilla."
+  },
+  {
+    "intent_id": "concepto_binomio_aplicacion",
+    "keywords": [
+      "aplicacion",
+      "binomio",
+      "termino",
+      "variable",
+      "situacion"
+    ],
+    "base_response": "La aplicación de un binomio permite combinar un término y una variable para describir una situación concreta, expresar cambios y analizar relaciones numéricas, ayudando a comprender mejor problemas cotidianos y fortalecer el razonamiento algebraico de manera clara y útil."
+  },
+  {
+    "intent_id": "concepto_binomio_transformacion",
+    "keywords": [
+      "transformacion",
+      "binomio",
+      "termino",
+      "variable",
+      "expresion"
+    ],
+    "base_response": "La transformación de un binomio consiste en ajustar cada término y variable para obtener una expresión equivalente, ya sea cambiando signos, reorganizando componentes o aplicando propiedades básicas que permiten comprender mejor cómo se relacionan y modifican las estructuras algebraicas."
+  },
+  {
+    "intent_id": "interpretacion_simbolos_algebraicos",
+    "keywords": [
+      "simbolo",
+      "variable",
+      "algebra",
+      "incognita",
+      "expresion"
+    ],
+    "base_response": "Los símbolos del álgebra permiten representar una variable o incógnita dentro de una expresión, ayudando a describir relaciones numéricas y resolver situaciones matemáticas. Comprender cómo funciona cada símbolo facilita interpretar problemas y desarrollar un pensamiento algebraico más sólido y flexible."
+  },
+  {
+    "intent_id": "variables_en_expresiones_aritmeticas",
+    "keywords": [
+      "expresion",
+      "variable",
+      "aritmetica",
+      "calculo",
+      "incognita"
+    ],
+    "base_response": "Una expresión aritmética puede incluir una variable que actúa como incógnita y permite realizar cálculos sin conocer el valor exacto. Al manipular estas expresiones, se comprende mejor cómo cambian las cantidades y se desarrolla habilidad para enfrentar problemas algebraicos más complejos."
+  },
+  {
+    "intent_id": "identificacion_variable_en_problemas",
+    "keywords": [
+      "identificacion",
+      "variable",
+      "problema",
+      "incognita",
+      "calculo"
+    ],
+    "base_response": "La identificación de la variable en un problema consiste en determinar la incógnita que se desea resolver, lo cual facilita organizar los datos y orientar el cálculo necesario para obtener una respuesta coherente y precisa dentro de una situación matemática bien planteada."
+  },
+  {
+    "intent_id": "variables_en_modelos_matematicos",
+    "keywords": [
+      "modelo",
+      "variable",
+      "representacion",
+      "expresion",
+      "calculo"
+    ],
+    "base_response": "Un modelo matemático usa una variable como representación de una cantidad que puede cambiar, permitiendo crear una expresión que describa una situación y facilitar el cálculo necesario para analizarla, comprender sus relaciones internas y resolver problemas de manera ordenada y lógica."
+  },
+  {
+    "intent_id": "comprension_signo_igual_con_variables",
+    "keywords": [
+      "igualdad",
+      "variable",
+      "ecuacion",
+      "incognita",
+      "calculo"
+    ],
+    "base_response": "El signo igual expresa una **igualdad** entre dos expresiones y mantiene su sentido aunque incluyan una **variable**, lo que permite plantear una **ecuación**, identificar una **incógnita** y realizar el **cálculo** necesario para encontrar valores que hagan verdadera dicha relación."
+  },
+  {
+    "intent_id": "uso_variables_en_tablas",
+    "keywords": [
+      "tabla",
+      "variable",
+      "valor",
+      "patron",
+      "calculo"
+    ],
+    "base_response": "Una tabla puede usar una variable para representar un valor que cambia según el cálculo realizado, permitiendo observar cómo se forma un patrón entre diferentes casos y facilitando la comprensión de relaciones algebraicas al mostrar de manera ordenada la evolución de una incógnita."
+  },
+  {
+    "intent_id": "uso_constantes_problemas",
+    "keywords": [
+      "problema",
+      "valor",
+      "numero",
+      "calculo",
+      "algebra"
+    ],
+    "base_response": "Las constantes en un problema de álgebra ofrecen un valor numérico fijo que orienta cada cálculo, permite organizar la información y muestra cómo cambian las variables alrededor de un punto estable, facilitando así procedimientos más claros y resultados coherentes."
+  },
+  {
+    "intent_id": "concepto_terminos_semejantes_adicional",
+    "keywords": [
+      "termino",
+      "variable",
+      "exponente",
+      "igualdad",
+      "polinomio"
+    ],
+    "base_response": "Los términos semejantes aparecen cuando cada término tiene la misma variable y el mismo exponente, lo que establece una igualdad que permite sumarlos o restarlos sin complicaciones. Identificarlos facilita ordenar un polinomio y simplificar expresiones algebraicas de manera más clara y eficiente."
+  },
+  {
+    "intent_id": "concepto_producto_monomio_polinomio",
+    "keywords": [
+      "producto",
+      "monomio",
+      "variable",
+      "coeficiente",
+      "polinomio"
+    ],
+    "base_response": "Multiplicar un monomio por un polinomio implica aplicar el producto entre el monomio y cada término, combinando coeficientes y sumando los exponentes de cada variable para obtener nuevas expresiones que facilitan la expansión y el manejo posterior de distintos polinomios."
+  },
+  {
+    "intent_id": "concepto_ordenamiento_terminos",
+    "keywords": [
+      "ordenamiento",
+      "termino",
+      "grado",
+      "polinomio",
+      "estructura"
+    ],
+    "base_response": "El ordenamiento de los términos en un polinomio consiste en ubicarlos según su grado, formando una estructura clara que facilita comprender la expresión. Al organizar cada término de mayor a menor grado, se vuelve más sencillo analizar el polinomio y reconocer sus rasgos esenciales."
+  },
+  {
+    "intent_id": "monomio_variable",
+    "keywords": [
+      "monomio",
+      "variable",
+      "coeficiente",
+      "potencia",
+      "expresion"
+    ],
+    "base_response": "Un monomio con variable combina un coeficiente numérico y una letra elevada a cierta potencia, formando una expresión que representa cantidades cambiantes y permite modelar situaciones matemáticas diversas mediante relaciones claras entre sus elementos fundamentales."
+  },
+  {
+    "intent_id": "producto_monomio",
+    "keywords": [
+      "producto",
+      "multiplicacion",
+      "coeficiente",
+      "variable",
+      "potencia"
+    ],
+    "base_response": "El producto de un monomio se obtiene al realizar la multiplicación entre el coeficiente y la variable elevada a una potencia, creando una expresión algebraica que permite representar cantidades de manera ordenada y resolver operaciones básicas con claridad y precisión."
+  },
+  {
+    "intent_id": "comparacion_monomios",
+    "keywords": [
+      "comparacion",
+      "grado",
+      "variable",
+      "coeficiente",
+      "estructura"
+    ],
+    "base_response": "La comparación de monomios consiste en observar su grado, identificar cada variable y reconocer el coeficiente para distinguir cómo se relacionan entre sí dentro de una expresión. Este análisis permite comprender mejor su estructura y facilita la resolución de ejercicios algebraicos."
+  },
+  {
+    "intent_id": "simplificacion_monomio",
+    "keywords": [
+      "simplificacion",
+      "expresion",
+      "variable",
+      "potencia",
+      "coeficiente"
+    ],
+    "base_response": "La simplificación de un monomio consiste en reorganizar la expresión combinando su coeficiente, cada variable y la potencia correspondiente para obtener una forma más ordenada y fácil de interpretar, lo que permite realizar operaciones algebraicas con mayor claridad y precisión."
+  },
+  {
+    "intent_id": "monomio_homogeneo",
+    "keywords": [
+      "monomio",
+      "homogeneo",
+      "grado",
+      "variable",
+      "expresion"
+    ],
+    "base_response": "Un monomio homogéneo es una expresión algebraica en la que cada término posee el mismo grado, determinado por la suma de los exponentes de sus variables, lo que facilita comparar y combinar expresiones similares para resolver ejercicios con mayor claridad y precisión."
+  },
+  {
+    "intent_id": "uso_monomios",
+    "keywords": [
+      "monomio",
+      "representacion",
+      "cantidad",
+      "modelo",
+      "problema"
+    ],
+    "base_response": "Un monomio ofrece una representación clara de una cantidad y permite crear un modelo algebraico sencillo, facilitando el análisis de un problema escolar y ayudando a comprender cómo se relacionan las expresiones en diversas situaciones matemáticas cotidianas relevantes."
+  },
+  {
+    "intent_id": "concepto_patrones_factorizacion",
+    "keywords": [
+      "patron",
+      "factorizacion",
+      "producto",
+      "variable",
+      "termino"
+    ],
+    "base_response": "Los patrones de factorización muestran cómo un término y una variable pueden reorganizarse para formar un producto equivalente, permitiendo identificar estructuras útiles y transformar expresiones con mayor claridad, lo que facilita comprender la lógica algebraica y aplicar procedimientos de simplificación de manera más eficiente."
+  },
+  {
+    "intent_id": "concepto_reconocimiento_terminos",
+    "keywords": [
+      "termino",
+      "expresion",
+      "producto",
+      "variable",
+      "factor"
+    ],
+    "base_response": "El reconocimiento de términos consiste en distinguir cada término dentro de una expresión para entender cómo se relaciona mediante un producto, identificando la variable y el posible factor común, lo que facilita aplicar métodos de factorización y simplificar procedimientos algebraicos de manera más clara."
+  },
+  {
+    "intent_id": "concepto_simplificacion_previa",
+    "keywords": [
+      "simplificacion",
+      "expresion",
+      "termino",
+      "producto",
+      "variable"
+    ],
+    "base_response": "La simplificación previa permite transformar una expresión en una forma más clara al combinar términos y reorganizar su estructura, facilitando identificar el producto entre variables y otros elementos esenciales, lo que hace más accesible el proceso de factorización y fortalece la comprensión del razonamiento algebraico."
+  },
+  {
+    "intent_id": "agrupacion_en_problemas",
+    "keywords": [
+      "problemas",
+      "terminos",
+      "agrupacion",
+      "algebra",
+      "calculo"
+    ],
+    "base_response": "La agrupación de términos en problemas de álgebra ayuda a ordenar el cálculo, destacar relaciones importantes y simplificar operaciones, permitiendo avanzar con mayor claridad en cada paso y fortaleciendo la capacidad del estudiante para interpretar la información y resolver ejercicios de manera más segura."
+  },
+  {
+    "intent_id": "representacion_incognitas",
+    "keywords": [
+      "incognita",
+      "variable",
+      "ecuacion",
+      "calculo",
+      "solucion"
+    ],
+    "base_response": "Una incógnita es una variable que aparece en una ecuación como un valor desconocido y que debe hallarse mediante cálculos adecuados, buscando la solución que hace verdadera la igualdad planteada y permite comprender cómo se relacionan los números involucrados."
+  },
+  {
+    "intent_id": "interpretacion_letras_numericas",
+    "keywords": [
+      "letra",
+      "variable",
+      "numero",
+      "expresion",
+      "algebra"
+    ],
+    "base_response": "Una letra usada como variable representa un número desconocido dentro de una expresión algebraica, permitiendo organizar cálculos y relaciones de manera clara. Al manipular estas expresiones, es posible descubrir el valor que cada símbolo numérico indica mediante reglas matemáticas precisas."
+  },
+  {
+    "intent_id": "valor_variable_contexto",
+    "keywords": [
+      "variable",
+      "contexto",
+      "problema",
+      "calculo",
+      "solucion"
+    ],
+    "base_response": "El valor de una variable surge del contexto del problema y se obtiene mediante un cálculo que relaciona los datos disponibles con la condición planteada, permitiendo identificar la solución numérica que satisface exactamente lo que se pide."
+  }
+]
