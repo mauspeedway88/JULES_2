@@ -1,0 +1,1234 @@
+[
+    {
+        "intent_id": "adicion_matematica_basica",
+        "keywords": [
+            "suma",
+            "agregar",
+            "total",
+            "cantidades",
+            "juntar"
+        ],
+        "base_response": "La adición es una operación fundamental que consiste en combinar dos o más cantidades para obtener un total unificado. Este proceso aritmético resulta esencial porque permite calcular agregados totales, facilitando la comprensión básica del incremento de valores en contextos matemáticos cotidianos."
+    },
+    {
+        "intent_id": "sustraccion_de_cantidades",
+        "keywords": [
+            "restar",
+            "diferencia",
+            "quitar",
+            "disminuir",
+            "sobrante"
+        ],
+        "base_response": "La sustracción representa el proceso de eliminar una cantidad específica de otra mayor, calculando así la diferencia exacta. Esta operación aritmética inversa a la suma permite resolver problemas de disminución, determinando el valor restante tras reducir los elementos del conjunto inicial."
+    },
+    {
+        "intent_id": "producto_multiplicativo_entero",
+        "keywords": [
+            "multiplicacion",
+            "factores",
+            "repetir",
+            "producto",
+            "veces"
+        ],
+        "base_response": "La multiplicación consiste en sumar repetidamente una cantidad específica de acuerdo con el número de veces indicado por otro valor. Este método aritmético eficiente permite calcular totales rápidamente, operando sobre factores para generar un producto final exacto y completamente proporcional."
+    },
+    {
+        "intent_id": "cociente_divisorio_exacto",
+        "keywords": [
+            "division",
+            "repartir",
+            "fraccionar",
+            "cociente",
+            "partes"
+        ],
+        "base_response": "La división es la operación aritmética que permite repartir una cantidad total en partes iguales para determinar cuánto corresponde a cada fracción. Este cálculo esencial facilita comprender la fragmentación y distribución equitativa de valores enteros dentro del sistema numérico estandarizado."
+    },
+    {
+        "intent_id": "potenciacion_de_bases",
+        "keywords": [
+            "potencia",
+            "exponente",
+            "base",
+            "multiplicar",
+            "elevacion"
+        ],
+        "base_response": "La potenciación expresa la multiplicación reiterada de un mismo número, denominado base, tantas veces como indica su exponente. Esta operación aritmética condensada simplifica enormemente la notación matemática para cálculos extensos, permitiendo modelar crecimientos exponenciales y variaciones numéricas de gran magnitud."
+    },
+    {
+        "intent_id": "radicacion_numerica_basica",
+        "keywords": [
+            "raiz",
+            "indice",
+            "radicando",
+            "extraccion",
+            "origen"
+        ],
+        "base_response": "La radicación es la operación inversa de la potenciación que busca determinar la base original conociendo tanto el exponente como el resultado final. Este cálculo resulta fundamental para resolver ecuaciones algebraicas, permitiendo extraer raíces exactas o aproximadas de diversas magnitudes numéricas."
+    },
+    {
+        "intent_id": "jerarquia_de_operaciones",
+        "keywords": [
+            "orden",
+            "prioridad",
+            "reglas",
+            "secuencia",
+            "calculo"
+        ],
+        "base_response": "La jerarquía matemática establece el orden estricto para resolver expresiones complejas, comenzando siempre por agrupaciones, seguidas de potencias, productos y finalmente sumas. Seguir estas reglas resulta indispensable para garantizar que cualquier cálculo combinado arroje siempre un resultado unívoco y correcto."
+    },
+    {
+        "intent_id": "propiedad_conmutativa_matematica",
+        "keywords": [
+            "conmutar",
+            "orden",
+            "alterar",
+            "intercambio",
+            "resultado"
+        ],
+        "base_response": "La propiedad conmutativa establece firmemente que alterar el orden de los sumandos o factores nunca modifica el resultado final obtenido. Este principio aritmético básico simplifica los cálculos diarios, otorgando una gran flexibilidad al momento de estructurar y resolver operaciones numéricas fundamentales."
+    },
+    {
+        "intent_id": "propiedad_asociativa_grupal",
+        "keywords": [
+            "asociar",
+            "agrupar",
+            "parentesis",
+            "combinar",
+            "independencia"
+        ],
+        "base_response": "La propiedad asociativa indica que la manera de agrupar los términos involucrados no altera el producto ni la suma total resultante. Esta característica permite resolver operaciones combinadas mediante diferentes secuencias de cálculo, facilitando enormemente la manipulación de expresiones aritméticas más extensas."
+    },
+    {
+        "intent_id": "propiedad_distributiva_aplicada",
+        "keywords": [
+            "distribuir",
+            "repartir",
+            "multiplicacion",
+            "suma",
+            "desarrollo"
+        ],
+        "base_response": "La propiedad distributiva relaciona firmemente la multiplicación con la suma, permitiendo que un factor externo se aplique individualmente sobre cada sumando interno. Este mecanismo algebraico resulta sumamente útil para simplificar cálculos complejos, expandiendo expresiones agrupadas y facilitando la resolución de ecuaciones matemáticas."
+    },
+    {
+        "intent_id": "elemento_neutro_aditivo",
+        "keywords": [
+            "cero",
+            "neutro",
+            "sumar",
+            "identidad",
+            "inalterado"
+        ],
+        "base_response": "El elemento neutro de la adición, representado por el número cero, garantiza que al sumarse con cualquier cantidad el valor original permanezca idéntico. Esta propiedad estructural del sistema numérico resulta crucial para definir las identidades matemáticas y facilitar procesos algebraicos básicos."
+    },
+    {
+        "intent_id": "inverso_operativo_multiplicativo",
+        "keywords": [
+            "inverso",
+            "fraccion",
+            "multiplicar",
+            "identidad",
+            "reciproco"
+        ],
+        "base_response": "El inverso multiplicativo o recíproco de un número es aquel valor que, al multiplicarse por el original, da exactamente uno como resultado. Esta relación aritmética fundamental permite transformar divisiones en multiplicaciones equivalentes, simplificando notablemente la resolución analítica de fracciones complejas."
+    },
+    {
+        "intent_id": "uso_de_parentesis",
+        "keywords": [
+            "parentesis",
+            "agrupacion",
+            "prioridad",
+            "separacion",
+            "calculo"
+        ],
+        "base_response": "Los paréntesis son símbolos de agrupación imprescindibles que indican qué operaciones aritméticas deben resolverse primero dentro de cualquier expresión matemática combinada. Su correcta utilización previene ambigüedades interpretativas, asegurando el orden preciso de los cálculos y garantizando la exactitud del resultado numérico."
+    },
+    {
+        "intent_id": "corchetes_de_agrupacion",
+        "keywords": [
+            "corchetes",
+            "jerarquia",
+            "contencion",
+            "niveles",
+            "expresion"
+        ],
+        "base_response": "Los corchetes funcionan como signos de agrupación secundarios, utilizados matemáticamente para englobar operaciones que ya contienen paréntesis en su interior. Este recurso visual establece diferentes niveles de prioridad operativa, facilitando la lectura secuencial y la resolución ordenada de expresiones algebraicas complejas."
+    },
+    {
+        "intent_id": "llaves_de_contencion",
+        "keywords": [
+            "llaves",
+            "conjuntos",
+            "agrupamiento",
+            "exterior",
+            "estructura"
+        ],
+        "base_response": "Las llaves son signos de contención matemática de mayor jerarquía, empleados para agrupar expresiones complejas que ya incluyen tanto corchetes como paréntesis. Su uso sistemático organiza estructuradamente los diferentes niveles operativos, guiando el proceso resolutivo desde los cálculos más internos hacia los externos."
+    },
+    {
+        "intent_id": "algoritmo_divisor_euclidiano",
+        "keywords": [
+            "algoritmo",
+            "euclides",
+            "division",
+            "resto",
+            "metodo"
+        ],
+        "base_response": "El algoritmo de Euclides es un procedimiento matemático eficiente empleado para calcular el máximo común divisor entre dos números enteros positivos. Este método repetitivo de divisiones sucesivas resulta fundamental en aritmética modular, simplificando fracciones y resolviendo problemas de divisibilidad con gran rapidez."
+    },
+    {
+        "intent_id": "partes_del_dividendo",
+        "keywords": [
+            "dividendo",
+            "cantidad",
+            "reparto",
+            "fraccionar",
+            "totalidad"
+        ],
+        "base_response": "El dividendo representa siempre la cantidad total inicial que será sometida al proceso de partición durante cualquier operación matemática de división. Identificar correctamente este valor resulta esencial, ya que constituye la magnitud base sobre la cual operará el divisor para determinar fracciones."
+    },
+    {
+        "intent_id": "elemento_divisor_numerico",
+        "keywords": [
+            "divisor",
+            "partes",
+            "repartidor",
+            "magnitud",
+            "fracciones"
+        ],
+        "base_response": "El divisor es el elemento numérico que indica exactamente en cuántas partes iguales debe fragmentarse o repartirse el dividendo principal. Su función resulta indispensable para calcular el cociente, determinando el tamaño de cada agrupación durante los procesos aritméticos de distribución proporcional."
+    },
+    {
+        "intent_id": "residuo_matematico_sobrante",
+        "keywords": [
+            "residuo",
+            "resto",
+            "sobrante",
+            "inexacto",
+            "fraccion"
+        ],
+        "base_response": "El residuo matemático es aquella porción numérica sobrante que no puede ser dividida equitativamente mediante fracciones enteras durante una operación inexacta. Este valor complementario resulta sumamente importante para verificar cálculos, garantizando que la multiplicación del cociente más el resto reconstruya fielmente el dividendo."
+    },
+    {
+        "intent_id": "bases_numericas_inferiores",
+        "keywords": [
+            "base",
+            "multiplicacion",
+            "exponente",
+            "factor",
+            "raiz"
+        ],
+        "base_response": "La base numérica es el factor principal que será multiplicado por sí mismo la cantidad de veces que indique su exponente asociado. Comprender este concepto resulta esencial para dominar la potenciación, permitiendo modelar crecimientos acelerados dentro de múltiples ramas del cálculo matemático."
+    },
+    {
+        "intent_id": "exponentes_de_potencias",
+        "keywords": [
+            "exponente",
+            "indice",
+            "elevacion",
+            "potencia",
+            "veces"
+        ],
+        "base_response": "El exponente es el pequeño número superior que determina exactamente cuántas veces debe multiplicarse una base numérica por sí misma. Este indicador matemático abrevia multiplicaciones extensas, siendo una herramienta crucial para representar cantidades inmensas o variaciones exponenciales en diversas disciplinas científicas."
+    },
+    {
+        "intent_id": "indice_del_radical",
+        "keywords": [
+            "indice",
+            "radical",
+            "raiz",
+            "grado",
+            "extraccion"
+        ],
+        "base_response": "El índice del radical especifica el grado exacto de la raíz que se desea calcular sobre una magnitud numérica previamente determinada. Este indicador esencial define si la operación aritmética extraerá una raíz cuadrada, cúbica u otra superior, delimitando claramente el proceso matemático."
+    },
+    {
+        "intent_id": "radicando_bajo_raiz",
+        "keywords": [
+            "radicando",
+            "interior",
+            "raiz",
+            "base",
+            "extraccion"
+        ],
+        "base_response": "El radicando es el valor numérico específico que se encuentra debajo del símbolo radical y al cual se le extraerá la raíz. Este componente central define la magnitud sobre la que operará el índice, siendo indispensable para resolver cualquier cálculo de radicación."
+    },
+    {
+        "intent_id": "cuadrados_perfectos_enteros",
+        "keywords": [
+            "cuadrado",
+            "perfecto",
+            "multiplicacion",
+            "area",
+            "entero"
+        ],
+        "base_response": "Un cuadrado perfecto es el resultado numérico obtenido al multiplicar cualquier número entero directamente por sí mismo una única vez. Estos valores aritméticos poseen raíces cuadradas exactas, facilitando enormemente la resolución de problemas geométricos vinculados con el cálculo de superficies bidimensionales planas."
+    },
+    {
+        "intent_id": "cubos_perfectos_calculados",
+        "keywords": [
+            "cubo",
+            "perfecto",
+            "volumen",
+            "potencia",
+            "entero"
+        ],
+        "base_response": "Los cubos perfectos son aquellos resultados numéricos generados al elevar un número entero específicamente a la tercera potencia matemática. Estos valores especiales poseen raíces cúbicas absolutamente exactas, siendo fundamentales para resolver cálculos espaciales relacionados con la determinación de volúmenes geométricos tridimensionales."
+    },
+    {
+        "intent_id": "regla_de_signos",
+        "keywords": [
+            "signos",
+            "positivo",
+            "negativo",
+            "multiplicacion",
+            "regla"
+        ],
+        "base_response": "La regla de signos establece directrices claras para determinar la polaridad final al multiplicar o dividir diferentes números positivos y negativos. Su dominio estricto resulta imprescindible para evitar errores algorítmicos, asegurando resultados precisos al trabajar con conjuntos de números enteros o racionales."
+    },
+    {
+        "intent_id": "terminos_sumandos_agrupados",
+        "keywords": [
+            "sumandos",
+            "terminos",
+            "adicion",
+            "valores",
+            "agrupacion"
+        ],
+        "base_response": "Los sumandos son las cantidades individuales que se combinan o agrupan mutuamente durante la ejecución de una adición aritmética estándar. Identificar correctamente estos términos permite estructurar ecuaciones de manera lógica, facilitando la comprensión del proceso de incremento progresivo hasta obtener un total."
+    },
+    {
+        "intent_id": "minuendo_y_sustraendo",
+        "keywords": [
+            "minuendo",
+            "sustraendo",
+            "resta",
+            "diferencia",
+            "componentes"
+        ],
+        "base_response": "El minuendo es la cantidad original a disminuir, mientras que el sustraendo representa el valor que será restado de dicha totalidad. Reconocer la posición de cada componente resulta vital en la sustracción, pues su alteración modificaría drásticamente la diferencia matemática obtenida finalmente."
+    },
+    {
+        "intent_id": "factores_del_producto",
+        "keywords": [
+            "factores",
+            "multiplicacion",
+            "producto",
+            "terminos",
+            "operacion"
+        ],
+        "base_response": "Los factores representan aquellos valores numéricos que interactúan entre sí mediante la multiplicación para lograr constituir un producto matemático unificado. Estos componentes operativos pueden intercambiarse libremente gracias a propiedades conmutativas, brindando gran flexibilidad al resolver diferentes cálculos proporcionales en aritmética básica."
+    },
+    {
+        "intent_id": "comprobacion_de_resultados",
+        "keywords": [
+            "comprobar",
+            "verificacion",
+            "inversa",
+            "resultado",
+            "certeza"
+        ],
+        "base_response": "La comprobación matemática consiste en aplicar la operación aritmética inversa para certificar la precisión del resultado obtenido en un cálculo previo. Este proceso de validación garantiza la ausencia de errores operativos, fomentando un aprendizaje numérico más riguroso, reflexivo y altamente confiable."
+    },
+    {
+        "intent_id": "fracciones_propias_comunes",
+        "keywords": [
+            "fraccion",
+            "numerador",
+            "denominador",
+            "propia",
+            "menor"
+        ],
+        "base_response": "Una fracción propia es aquella expresión numérica donde el numerador es estrictamente menor que el denominador, representando valores inferiores a uno. Este concepto resulta fundamental para modelar porciones incompletas de un todo, siendo indispensable en cálculos matemáticos relacionados con repartos equitativos limitados."
+    },
+    {
+        "intent_id": "fracciones_impropias_mayores",
+        "keywords": [
+            "fraccion",
+            "impropia",
+            "mayor",
+            "numerador",
+            "exceso"
+        ],
+        "base_response": "Las fracciones impropias presentan un numerador igual o mayor que su denominador, lo cual indica valores matemáticos superiores a la unidad. Estas representaciones resultan clave para convertir magnitudes en números mixtos, facilitando el análisis aritmético de cantidades que exceden un único entero."
+    },
+    {
+        "intent_id": "numeros_mixtos_compuestos",
+        "keywords": [
+            "mixto",
+            "entero",
+            "fraccion",
+            "combinacion",
+            "composicion"
+        ],
+        "base_response": "Un número mixto combina de manera estructural un entero completo con una fracción propia, representando magnitudes superiores a la unidad básica. Esta notación matemática facilita la comprensión visual de cantidades repartidas, simplificando enormemente la lectura de resultados en problemas aritméticos cotidianos reales."
+    },
+    {
+        "intent_id": "minimo_comun_multiplo",
+        "keywords": [
+            "multiplo",
+            "minimo",
+            "comun",
+            "denominador",
+            "concurrencia"
+        ],
+        "base_response": "El mínimo común múltiplo es el menor número positivo que resulta divisible exactamente por dos o más cantidades matemáticas dadas simultáneamente. Su cálculo permite estandarizar denominadores diferentes, simplificando notablemente la resolución de sumas y restas algebraicas que involucran múltiples fracciones heterogéneas complejas."
+    },
+    {
+        "intent_id": "maximo_comun_divisor",
+        "keywords": [
+            "maximo",
+            "divisor",
+            "comun",
+            "simplificacion",
+            "mayor"
+        ],
+        "base_response": "El máximo común divisor representa el mayor número entero capaz de dividir exactamente a un conjunto específico de cifras sin dejar residuo. Esta herramienta aritmética resulta sumamente útil para simplificar fracciones complejas hasta su mínima expresión, facilitando la operatividad matemática de forma eficiente."
+    },
+    {
+        "intent_id": "fracciones_equivalentes_iguales",
+        "keywords": [
+            "equivalentes",
+            "igualdad",
+            "fraccion",
+            "valor",
+            "proporcion"
+        ],
+        "base_response": "Las fracciones equivalentes son aquellas expresiones que, aunque utilizan distintos numeradores y denominadores, representan matemáticamente exactamente la misma magnitud numérica. Reconocer estas igualdades proporcionales permite simplificar o amplificar cálculos aritméticos complejos, garantizando siempre la conservación precisa del valor original estipulado."
+    },
+    {
+        "intent_id": "simplificacion_de_fracciones",
+        "keywords": [
+            "simplificar",
+            "reducir",
+            "minima",
+            "expresion",
+            "division"
+        ],
+        "base_response": "La simplificación consiste en dividir paralelamente tanto el numerador como el denominador por un divisor común hasta alcanzar la mínima expresión posible. Este proceso matemático estiliza los resultados fraccionarios, volviendo mucho más manejables e interpretables los cálculos aritméticos posteriores en diferentes resoluciones analíticas."
+    },
+    {
+        "intent_id": "amplificacion_fraccionaria_directa",
+        "keywords": [
+            "amplificar",
+            "multiplicar",
+            "fraccion",
+            "equivalencia",
+            "aumento"
+        ],
+        "base_response": "La amplificación matemática ocurre al multiplicar simultáneamente numerador y denominador por un mismo número entero, generando una fracción completamente equivalente. Este método procedimental resulta necesario para igualar bases fraccionarias diferentes, permitiendo ejecutar sumas y restas complejas con una notación mucho más uniforme."
+    },
+    {
+        "intent_id": "numerador_de_fraccion",
+        "keywords": [
+            "numerador",
+            "partes",
+            "seleccion",
+            "superior",
+            "fraccion"
+        ],
+        "base_response": "El numerador es el valor numérico situado en la parte superior de una fracción, indicando cuántas partes específicas se están tomando. Este indicador aritmético resulta vital para cuantificar la selección realizada sobre la totalidad previamente fragmentada, determinando el peso de dicha fracción."
+    },
+    {
+        "intent_id": "denominador_de_fraccion",
+        "keywords": [
+            "denominador",
+            "inferior",
+            "division",
+            "totalidad",
+            "partes"
+        ],
+        "base_response": "El denominador representa el valor inferior en toda fracción matemática, señalando en cuántas partes iguales se ha dividido la unidad completa. Este componente estructural define el tamaño de cada porción fragmentada, resultando absolutamente indispensable para comprender la magnitud proporcional del conjunto analizado."
+    },
+    {
+        "intent_id": "numeros_primos_absolutos",
+        "keywords": [
+            "primo",
+            "divisibilidad",
+            "unidad",
+            "absoluto",
+            "factores"
+        ],
+        "base_response": "Los números primos son aquellas cantidades matemáticas enteras mayores que uno, divisibles únicamente por sí mismas y por la unidad exacta. Estos valores representan los bloques de construcción fundamentales en aritmética clásica, siendo cruciales para la factorización completa de múltiples expresiones numéricas."
+    },
+    {
+        "intent_id": "numeros_compuestos_divisibles",
+        "keywords": [
+            "compuesto",
+            "divisores",
+            "multiples",
+            "factores",
+            "descomposicion"
+        ],
+        "base_response": "Un número compuesto es toda aquella magnitud entera que posee divisores adicionales más allá de sí misma y de la unidad. Estos valores matemáticos permiten múltiples descomposiciones factoriales, facilitando la comprensión profunda de las estructuras multiplicativas internas en diferentes procedimientos algebraicos avanzados."
+    },
+    {
+        "intent_id": "descomposicion_en_factores",
+        "keywords": [
+            "descomponer",
+            "factorizar",
+            "primos",
+            "multiplicacion",
+            "origen"
+        ],
+        "base_response": "La descomposición factorial consiste en expresar un número compuesto puramente como el producto matemático de sus diversos factores primos correspondientes. Este análisis estructural resulta indispensable para hallar mínimos y máximos comunes, simplificando drásticamente operaciones complejas con diferentes raíces o expresiones fraccionarias."
+    },
+    {
+        "intent_id": "criterios_de_divisibilidad",
+        "keywords": [
+            "criterios",
+            "reglas",
+            "divisibilidad",
+            "exactitud",
+            "comprobacion"
+        ],
+        "base_response": "Los criterios de divisibilidad son reglas aritméticas prácticas que permiten determinar velozmente si un número es divisible por otro sin dividirlo. Conocer estas normativas acelera enormemente los cálculos mentales cotidianos, facilitando la simplificación analítica sin requerir comprobaciones matemáticas extensas ni procedimientos largos."
+    },
+    {
+        "intent_id": "numeros_pares_enteros",
+        "keywords": [
+            "par",
+            "divisible",
+            "mitad",
+            "entero",
+            "dos"
+        ],
+        "base_response": "Los números pares son todas aquellas magnitudes enteras que pueden dividirse exactamente entre dos sin generar ningún residuo matemático sobrante. Esta clasificación numérica resulta fundamental para agrupar elementos equitativamente, simplificando la comprensión de patrones secuenciales básicos en diferentes ramas del análisis algebraico."
+    },
+    {
+        "intent_id": "numeros_impares_enteros",
+        "keywords": [
+            "impar",
+            "indivisible",
+            "resto",
+            "mitad",
+            "entero"
+        ],
+        "base_response": "Los números impares comprenden aquellas cantidades matemáticas enteras que no son divisibles exactamente por dos, dejando siempre un residuo residual. Identificar esta propiedad estructural resulta muy útil para resolver algoritmos complejos, diferenciando comportamientos numéricos durante la ejecución iterativa de diversas operaciones aritméticas."
+    },
+    {
+        "intent_id": "valor_absoluto_numerico",
+        "keywords": [
+            "absoluto",
+            "distancia",
+            "magnitud",
+            "cero",
+            "positividad"
+        ],
+        "base_response": "El valor absoluto mide la distancia matemática exacta de cualquier número hasta el cero, ignorando completamente su signo positivo o negativo. Este concepto geométrico resulta indispensable para cuantificar magnitudes puras, garantizando mediciones consistentes en ecuaciones avanzadas que involucran intervalos o desplazamientos direccionales."
+    },
+    {
+        "intent_id": "inverso_aditivo_opuesto",
+        "keywords": [
+            "opuesto",
+            "aditivo",
+            "signo",
+            "cero",
+            "contrario"
+        ],
+        "base_response": "El inverso aditivo u opuesto es aquel número que, sumado al original correspondiente, da como resultado matemático exactamente un cero neutral. Comprender esta simetría numérica resulta vital para resolver ecuaciones algebraicas lineales, permitiendo despejar incógnitas mediante la cancelación directa de términos opuestos."
+    },
+    {
+        "intent_id": "progresion_aritmetica_basica",
+        "keywords": [
+            "progresion",
+            "secuencia",
+            "diferencia",
+            "sucesion",
+            "constante"
+        ],
+        "base_response": "Una progresión aritmética es toda sucesión matemática secuencial donde la diferencia numérica entre dos términos consecutivos permanece estrictamente constante e invariable. Este patrón predecible permite proyectar crecimientos escalonados, facilitando notablemente la resolución analítica de problemas enfocados en series temporales o cálculos secuenciales ordenados."
+    },
+    {
+        "intent_id": "progresion_geometrica_secuencial",
+        "keywords": [
+            "progresion",
+            "geometrica",
+            "razon",
+            "multiplicacion",
+            "secuencia"
+        ],
+        "base_response": "La progresión geométrica define una secuencia numérica progresiva donde cada término nuevo se obtiene multiplicando el anterior por una razón constante. Comprender este comportamiento resulta crucial para modelar matemáticamente fenómenos exponenciales reales, permitiendo extrapolar datos dinámicos mediante fórmulas algorítmicas altamente precisas y estructuradas."
+    },
+    {
+        "intent_id": "porcentaje_matematico_relativo",
+        "keywords": [
+            "porcentaje",
+            "cien",
+            "proporcion",
+            "relacion",
+            "fraccion"
+        ],
+        "base_response": "El porcentaje es una representación matemática específica que expresa cualquier cantidad fraccionaria tomando como base estandarizada el número cien absoluto. Este cálculo proporcional resulta fundamental para comparar magnitudes dispares, facilitando análisis estadísticos, rebajas comerciales y distribuciones porcentuales en diversos escenarios analíticos."
+    },
+    {
+        "intent_id": "regla_de_tres_simple",
+        "keywords": [
+            "regla",
+            "proporcion",
+            "incognita",
+            "relacion",
+            "calculo"
+        ],
+        "base_response": "La regla de tres simple es un procedimiento aritmético fundamental utilizado para descubrir un valor desconocido basándose en proporciones matemáticas comprobadas. Este método resolutivo resulta inmensamente práctico para solventar problemas cotidianos de conversiones directas, garantizando siempre resultados altamente confiables, rápidos y proporcionales."
+    },
+    {
+        "intent_id": "notacion_cientifica_abreviada",
+        "keywords": [
+            "notacion",
+            "cientifica",
+            "potencia",
+            "diez",
+            "abreviatura"
+        ],
+        "base_response": "La notación científica es un sistema matemático abreviado empleado para representar números extremadamente grandes o minúsculos utilizando potencias de base diez. Este método condensado facilita enormemente la manipulación de magnitudes cósmicas o microscópicas, estandarizando lecturas numéricas para evitar errores aritméticos por exceso de dígitos."
+    },
+    {
+        "intent_id": "estimacion_numerica_aproximada",
+        "keywords": [
+            "estimar",
+            "aproximar",
+            "redondeo",
+            "calculo",
+            "cercania"
+        ],
+        "base_response": "La estimación numérica es una técnica aritmética rápida que busca encontrar un valor aproximado bastante cercano al resultado matemático exacto final. Este proceso mental resulta invaluable para comprobar cálculos complejos preliminarmente, brindando gran agilidad resolutiva ante problemas que no exigen total precisión absoluta."
+    },
+    {
+        "intent_id": "redondeo_matematico_cifras",
+        "keywords": [
+            "redondear",
+            "cifras",
+            "simplificar",
+            "aproximacion",
+            "valor"
+        ],
+        "base_response": "El redondeo matemático consiste en reducir metódicamente la cantidad de cifras decimales de un número manteniendo un valor aproximado muy similar. Este procedimiento estandarizado facilita notablemente el manejo de magnitudes engorrosas, permitiendo expresar resultados prácticos sin sacrificar excesivamente la veracidad cuantitativa del cálculo original."
+    },
+    {
+        "intent_id": "sistemas_de_ecuaciones",
+        "keywords": [
+            "variables",
+            "incognitas",
+            "solucion",
+            "igualdad",
+            "metodo"
+        ],
+        "base_response": "Los sistemas de ecuaciones permiten analizar relaciones entre variables mediante igualdades simultáneas. Su resolucion implica encontrar valores que satisfacen todas las ecuaciones. Se aplican metodos como sustitucion, igualacion o reduccion para obtener soluciones coherentes y comprender mejor diversos problemas matematicos."
+    },
+    {
+        "intent_id": "numeros_irracionales",
+        "keywords": [
+            "irracionalidad",
+            "magnitud",
+            "raiz",
+            "decimal",
+            "continuidad"
+        ],
+        "base_response": "Los números irracionales representan valores cuya expresión decimal es infinita y no periódica. Surgen al analizar raíces no exactas y magnitudes imposibles de expresar como fracciones. Su estudio permite comprender la continuidad numérica y ampliar el sentido de cantidad en matemáticas."
+    },
+    {
+        "intent_id": "inecuaciones_matematicas",
+        "keywords": [
+            "inecuaciones",
+            "variables",
+            "intervalos",
+            "soluciones",
+            "comparaciones"
+        ],
+        "base_response": "Las inecuaciones matemáticas permiten comparar expresiones y determinar valores que satisfacen condiciones específicas. Su resolución implica analizar signos, operar con variables y representar soluciones en intervalos, facilitando la comprensión de restricciones y comportamientos dentro de distintos contextos algebraicos."
+    },
+    {
+        "intent_id": "fracciones_decimales",
+        "keywords": [
+            "fraccion",
+            "decimal",
+            "conversion",
+            "numerador",
+            "denominador"
+        ],
+        "base_response": "Las fracciones decimales representan partes de un entero mediante denominadores diez, cien o mil. Facilitan convertir valores a números decimales dividiendo el numerador entre el denominador. Comprender su estructura mejora cálculos, comparaciones y operaciones matemáticas cotidianas."
+    },
+    {
+        "intent_id": "ecuaciones_lineales",
+        "keywords": [
+            "variable",
+            "coeficiente",
+            "igualdad",
+            "resolver",
+            "sistema"
+        ],
+        "base_response": "Las ecuaciones lineales representan relaciones entre cantidades mediante expresiones de primer grado. Su estudio permite comprender cómo interactúan variables y coeficientes, facilitando la resolución de problemas cotidianos. Dominar estos métodos desarrolla pensamiento lógico y habilidades matemáticas fundamentales."
+    },
+    {
+        "intent_id": "numeros_reales",
+        "keywords": [
+            "conjunto",
+            "magnitud",
+            "continuidad",
+            "representacion",
+            "orden"
+        ],
+        "base_response": "Los números reales comprenden todos los valores que pueden ubicarse en una recta numérica, incluyendo racionales e irracionales. Permiten medir magnitudes continuas, comparar cantidades y describir fenómenos matemáticos con precisión, formando un sistema ordenado y completo."
+    },
+    {
+        "intent_id": "numeros_complejos",
+        "keywords": [
+            "magnitud",
+            "argumento",
+            "modulo",
+            "suma",
+            "producto"
+        ],
+        "base_response": "Los números complejos combinan una parte real y otra imaginaria para representar cantidades más amplias. Permiten resolver ecuaciones sin solución real y describen fenómenos oscilatorios. Su representación gráfica facilita comprender operaciones como suma, resta y multiplicación."
+    },
+    {
+        "intent_id": "numeros_imaginarios",
+        "keywords": [
+            "matematica",
+            "complejo",
+            "magnitud",
+            "calculo",
+            "transformacion"
+        ],
+        "base_response": "Los números imaginarios surgen al considerar la raíz cuadrada de valores negativos. Se representan mediante la unidad imaginaria i, que satisface i² = -1. Permiten ampliar el sistema numérico y resolver ecuaciones que no tienen solución real, enriqueciendo el análisis matemático."
+    },
+    {
+        "intent_id": "logaritmos_naturales",
+        "keywords": [
+            "logaritmo",
+            "exponente",
+            "funcion",
+            "crecimiento",
+            "derivacion"
+        ],
+        "base_response": "Los logaritmos naturales utilizan la base e para describir relaciones entre crecimiento continuo y exponentes. Facilitan resolver ecuaciones exponenciales, analizar variaciones y comprender procesos matemáticos fundamentales. Su aplicación aparece en cálculo, ciencias y modelos que requieren precisión analítica."
+    },
+    {
+        "intent_id": "funcion_exponencial",
+        "keywords": [
+            "crecimiento",
+            "variable",
+            "base",
+            "potencia",
+            "modelo"
+        ],
+        "base_response": "La función exponencial describe situaciones donde una cantidad crece o decrece proporcionalmente a su valor actual. Su forma general incluye una base positiva distinta de uno y una variable en el exponente, permitiendo modelar fenómenos naturales, financieros y tecnológicos con gran precisión."
+    },
+    {
+        "intent_id": "teorema_de_pitagoras",
+        "keywords": [
+            "triangulo",
+            "hipotenusa",
+            "cateto",
+            "longitud",
+            "calculo"
+        ],
+        "base_response": "El teorema de Pitágoras establece que en un triángulo rectángulo la suma de los cuadrados de los catetos equivale al cuadrado de la hipotenusa, permitiendo calcular longitudes desconocidas y comprender relaciones geométricas fundamentales mediante razonamientos matemáticos precisos."
+    },
+    {
+        "intent_id": "geometria_analitica",
+        "keywords": [
+            "coordenadas",
+            "rectas",
+            "distancia",
+            "pendiente",
+            "ecuaciones"
+        ],
+        "base_response": "La geometría analítica estudia figuras mediante coordenadas y ecuaciones, permitiendo describir rectas, calcular distancias y analizar pendientes. Facilita resolver problemas combinando conceptos algebraicos con representaciones gráficas para comprender relaciones espaciales de manera precisa y estructurada."
+    },
+    {
+        "intent_id": "matrices_numericas",
+        "keywords": [
+            "matriz",
+            "elementos",
+            "filas",
+            "columnas",
+            "operaciones"
+        ],
+        "base_response": "Las matrices numéricas organizan datos en filas y columnas, permitiendo representar sistemas y realizar operaciones como suma, producto y transposición. Facilitan resolver problemas complejos mediante estructuras ordenadas que muestran relaciones entre valores y apoyan cálculos eficientes en diversos contextos matemáticos."
+    },
+    {
+        "intent_id": "determinantes_calculados",
+        "keywords": [
+            "matriz",
+            "determinante",
+            "producto",
+            "regla",
+            "calculo"
+        ],
+        "base_response": "El determinante de una matriz resume propiedades esenciales mediante un valor único. Se calcula aplicando reglas específicas que combinan productos y sumas. Su resultado permite analizar invertibilidad, escalamiento y comportamiento de transformaciones lineales en diversos contextos matemáticos."
+    },
+    {
+        "intent_id": "vectores_espaciales",
+        "keywords": [
+            "vector",
+            "magnitud",
+            "direccion",
+            "espacio",
+            "componente"
+        ],
+        "base_response": "Los vectores espaciales representan magnitudes con dirección en tres dimensiones, permitiendo describir posiciones, desplazamientos y fuerzas. Se expresan mediante componentes y facilitan operaciones como suma, producto escalar y vectorial, esenciales para analizar fenómenos físicos y geométricos."
+    },
+    {
+        "intent_id": "probabilidad_basica",
+        "keywords": [
+            "probabilidad",
+            "evento",
+            "frecuencia",
+            "resultado",
+            "experimento"
+        ],
+        "base_response": "La probabilidad básica estudia la posibilidad de que ocurra un evento en un experimento aleatorio. Se calcula comparando resultados favorables con el total de resultados posibles. Permite analizar situaciones inciertas y tomar decisiones fundamentadas mediante estimaciones cuantitativas claras."
+    },
+    {
+        "intent_id": "permutaciones_matematicas",
+        "keywords": [
+            "permutacion",
+            "orden",
+            "elemento",
+            "combinatoria",
+            "conteo"
+        ],
+        "base_response": "Las permutaciones representan distintas formas de ordenar elementos en una secuencia. Cada variación depende del número total disponible y del orden específico. Comprenderlas permite resolver problemas de conteo, analizar posibilidades y desarrollar habilidades fundamentales en combinatoria y razonamiento matemático avanzado."
+    },
+    {
+        "intent_id": "variaciones_con_repeticion",
+        "keywords": [
+            "variaciones",
+            "repeticion",
+            "combinatoria",
+            "orden",
+            "calculo"
+        ],
+        "base_response": "Las variaciones con repetición permiten formar arreglos ordenados donde cada elemento puede repetirse. Se calculan elevando el número de opciones a la cantidad de posiciones. Facilitan analizar configuraciones posibles en contextos donde el orden influye directamente en el resultado final."
+    },
+    {
+        "intent_id": "estadistica_descriptiva",
+        "keywords": [
+            "datos",
+            "medidas",
+            "analisis",
+            "variabilidad",
+            "tendencias"
+        ],
+        "base_response": "La estadística descriptiva organiza y resume datos mediante medidas que muestran tendencias centrales y variabilidad. Facilita interpretar información, identificar patrones y comparar conjuntos. Incluye tablas, gráficos y cálculos que permiten comprender fenómenos y apoyar decisiones fundamentadas."
+    },
+    {
+        "intent_id": "mediana_estadistica",
+        "keywords": [
+            "mediana",
+            "datos",
+            "orden",
+            "valor",
+            "calculo"
+        ],
+        "base_response": "La mediana estadística representa el valor central de un conjunto de datos ordenados. Divide la distribución en dos partes iguales y ofrece una medida resistente a valores extremos. Su cálculo requiere organizar los datos y localizar el punto medio correspondiente."
+    },
+    {
+        "intent_id": "media_aritmetica",
+        "keywords": [
+            "promedio",
+            "calculo",
+            "datos",
+            "numeros",
+            "resultado"
+        ],
+        "base_response": "La media aritmética representa el valor central de un conjunto al sumar todos los datos y dividirlos entre la cantidad total. Facilita comparar grupos, identificar tendencias y comprender distribuciones numéricas en situaciones cotidianas y académicas con claridad y precisión."
+    },
+    {
+        "intent_id": "moda_de_datos",
+        "keywords": [
+            "frecuencia",
+            "valores",
+            "conteo",
+            "analisis",
+            "estadistica"
+        ],
+        "base_response": "La moda de un conjunto de datos es el valor que aparece con mayor frecuencia. Permite identificar tendencias y patrones relevantes. Es útil en distribuciones con repeticiones destacadas y complementa otras medidas como la media y la mediana para comprender mejor la información."
+    },
+    {
+        "intent_id": "varianza_poblacional",
+        "keywords": [
+            "varianza",
+            "poblacion",
+            "dispersion",
+            "datos",
+            "calculo"
+        ],
+        "base_response": "La varianza poblacional mide la dispersion de todos los datos respecto a la media. Se obtiene sumando las desviaciones cuadradas y dividiendolas entre el total de elementos. Ayuda a comprender la variabilidad completa dentro de una poblacion estadistica."
+    },
+    {
+        "intent_id": "desviacion_estandar",
+        "keywords": [
+            "variacion",
+            "datos",
+            "promedio",
+            "calculo",
+            "dispersion"
+        ],
+        "base_response": "La desviación estándar mide cuánto se alejan los datos del promedio, mostrando la dispersión dentro de un conjunto. Un valor alto indica gran variabilidad, mientras uno bajo refleja datos más agrupados. Es esencial para analizar estabilidad y comparar distribuciones."
+    },
+    {
+        "intent_id": "trigonometria_basica",
+        "keywords": [
+            "triangulo",
+            "angulo",
+            "seno",
+            "coseno",
+            "tangente"
+        ],
+        "base_response": "La trigonometría básica estudia relaciones entre ángulos y lados en triángulos rectángulos, utilizando razones como seno, coseno y tangente para resolver problemas. Facilita comprender medidas desconocidas mediante proporciones fundamentales aplicadas en múltiples contextos matemáticos y científicos."
+    },
+    {
+        "intent_id": "tangente_matematica",
+        "keywords": [
+            "recta",
+            "angulo",
+            "triangulo",
+            "razon",
+            "funcion"
+        ],
+        "base_response": "La tangente representa la razón entre el cateto opuesto y el adyacente en un triángulo rectángulo, y también describe la pendiente de una recta en el plano. Su función permite analizar variaciones, modelar fenómenos y comprender relaciones trigonométricas fundamentales."
+    },
+    {
+        "intent_id": "seno_de_angulo",
+        "keywords": [
+            "triangulo",
+            "razon",
+            "hipotenusa",
+            "cateto",
+            "funcion"
+        ],
+        "base_response": "El seno de un ángulo representa la razón entre el cateto opuesto y la hipotenusa en un triángulo rectángulo. Describe cómo varía la altura relativa según la apertura angular y se utiliza ampliamente para analizar fenómenos periódicos y resolver problemas trigonométricos."
+    },
+    {
+        "intent_id": "coseno_trigonometrico",
+        "keywords": [
+            "angulo",
+            "triangulo",
+            "razon",
+            "hipotenusa",
+            "cateto"
+        ],
+        "base_response": "El coseno trigonométrico relaciona la medida del ángulo con la razón entre el cateto adyacente y la hipotenusa. Permite analizar triángulos rectángulos, resolver problemas de longitud y comprender funciones periódicas fundamentales dentro del estudio matemático de fenómenos variados."
+    },
+    {
+        "intent_id": "identidades_trigonometricas",
+        "keywords": [
+            "trigonometria",
+            "funciones",
+            "razones",
+            "angulos",
+            "transformaciones"
+        ],
+        "base_response": "Las identidades trigonométricas permiten simplificar expresiones y resolver ecuaciones mediante relaciones fundamentales entre funciones. Facilitan transformar senos, cosenos y tangentes, optimizando cálculos y demostraciones. Comprenderlas fortalece habilidades analíticas y mejora la resolución de problemas matemáticos avanzados."
+    },
+    {
+        "intent_id": "integrales_definidas",
+        "keywords": [
+            "integracion",
+            "intervalo",
+            "area",
+            "funcion",
+            "calculo"
+        ],
+        "base_response": "Las integrales definidas permiten calcular el valor acumulado de una función dentro de un intervalo específico, representando áreas bajo curvas. Su evaluación utiliza antiderivadas y propiedades fundamentales que facilitan resolver problemas cuantitativos en diversos contextos matemáticos aplicados."
+    },
+    {
+        "intent_id": "calculo_diferencial",
+        "keywords": [
+            "derivada",
+            "funcion",
+            "limite",
+            "pendiente",
+            "variacion"
+        ],
+        "base_response": "El cálculo diferencial estudia cómo cambian las funciones al analizar sus derivadas, que describen tasas de variación instantáneas. Permite comprender la pendiente de curvas, optimizar procesos y modelar fenómenos dinámicos mediante herramientas matemáticas precisas y ampliamente aplicables."
+    },
+    {
+        "intent_id": "derivadas_parciales",
+        "keywords": [
+            "funcion",
+            "variable",
+            "cambio",
+            "gradiente",
+            "calculo"
+        ],
+        "base_response": "Las derivadas parciales describen cómo cambia una función multivariable al modificar solo una variable, manteniendo las demás constantes. Permiten analizar variaciones locales, construir aproximaciones lineales y comprender gradientes en contextos físicos, económicos y geométricos con precisión conceptual y operativa."
+    },
+    {
+        "intent_id": "combinatoria_simple",
+        "keywords": [
+            "conteo",
+            "permutacion",
+            "combinacion",
+            "variacion",
+            "elemento"
+        ],
+        "base_response": "La combinatoria simple estudia métodos de conteo para determinar cuántas configuraciones distintas pueden formarse con ciertos elementos. Incluye permutaciones, variaciones y combinaciones, cada una enfocada en diferentes criterios de orden y selección dentro de un conjunto dado."
+    },
+    {
+        "intent_id": "limites_matematicos",
+        "keywords": [
+            "limite",
+            "funcion",
+            "continuidad",
+            "derivacion",
+            "convergencia"
+        ],
+        "base_response": "Los límites matemáticos describen el comportamiento de una función cuando sus valores se aproximan a un punto específico, permitiendo analizar continuidad, variación y tendencias. Facilitan comprender cambios sutiles y fundamentan conceptos avanzados como derivadas y análisis de funciones complejas."
+    },
+    {
+        "intent_id": "sucesiones_numericas",
+        "keywords": [
+            "patron",
+            "termino",
+            "progreso",
+            "calculo",
+            "estructura"
+        ],
+        "base_response": "Las sucesiones numéricas son listas ordenadas de números que siguen un patrón definido. Cada término depende de una regla específica que permite comprender su comportamiento y predecir valores futuros. Estudiarlas desarrolla habilidades analíticas fundamentales en matemáticas."
+    },
+    {
+        "intent_id": "calculo_integral",
+        "keywords": [
+            "integral",
+            "derivacion",
+            "area",
+            "funcion",
+            "antiderivada"
+        ],
+        "base_response": "El cálculo integral estudia cómo obtener áreas bajo curvas mediante antiderivadas. Permite analizar acumulación, resolver problemas físicos y comprender variaciones continuas. Su aplicación incluye hallar volúmenes, longitudes y modelos que describen fenómenos naturales con precisión matemática."
+    },
+    {
+        "intent_id": "teoria_de_conjuntos",
+        "keywords": [
+            "conjunto",
+            "elemento",
+            "union",
+            "interseccion",
+            "pertenencia"
+        ],
+        "base_response": "La teoría de conjuntos estudia colecciones de objetos y sus relaciones. Define operaciones como unión e intersección, además de analizar pertenencia y subconjuntos. Proporciona una base formal para estructuras matemáticas y facilita el razonamiento lógico en diversos contextos."
+    },
+    {
+        "intent_id": "union_de_conjuntos",
+        "keywords": [
+            "conjuntos",
+            "elementos",
+            "union",
+            "operacion",
+            "matematica"
+        ],
+        "base_response": "La unión de conjuntos reúne todos los elementos presentes en cada conjunto involucrado, evitando repeticiones y formando un nuevo conjunto más amplio. Esta operación permite combinar información y analizar relaciones entre colecciones dentro de diversos contextos matemáticos."
+    },
+    {
+        "intent_id": "interseccion_de_conjuntos",
+        "keywords": [
+            "conjuntos",
+            "elementos",
+            "interseccion",
+            "comparacion",
+            "operacion"
+        ],
+        "base_response": "La intersección de conjuntos identifica los elementos comunes entre dos colecciones. Se representa con el símbolo ∩ y permite analizar coincidencias dentro de un universo dado. Comprenderla facilita resolver problemas de clasificación, conteo y relaciones entre grupos matemáticos."
+    },
+    {
+        "intent_id": "diferencia_de_conjuntos",
+        "keywords": [
+            "conjuntos",
+            "elementos",
+            "operacion",
+            "comparacion",
+            "resultado"
+        ],
+        "base_response": "La diferencia de conjuntos identifica elementos presentes en un conjunto y ausentes en otro, permitiendo analizar pertenencias específicas. Esta operación facilita comprender relaciones, eliminar coincidencias y destacar información relevante dentro de colecciones matemáticas definidas claramente."
+    },
+    {
+        "intent_id": "series_matematicas",
+        "keywords": [
+            "sucesiones",
+            "terminos",
+            "convergencia",
+            "sumatoria",
+            "analisis"
+        ],
+        "base_response": "Las series matemáticas permiten estudiar la suma infinita de términos ordenados, analizando su convergencia o divergencia mediante criterios específicos. Facilitan comprender comportamientos funcionales, aproximaciones numéricas y modelos que describen fenómenos complejos en diversos contextos científicos."
+    },
+    {
+        "intent_id": "diagramas_de_venn",
+        "keywords": [
+            "conjunto",
+            "interseccion",
+            "union",
+            "representacion",
+            "comparacion"
+        ],
+        "base_response": "Los diagramas de Venn permiten visualizar relaciones entre conjuntos mediante áreas superpuestas. Facilitan identificar elementos comunes y diferencias, apoyando el razonamiento lógico. Su uso favorece la comprensión de operaciones básicas y la organización clara de información compleja."
+    },
+    {
+        "intent_id": "complemento_matematico",
+        "keywords": [
+            "conjunto",
+            "elemento",
+            "operacion",
+            "relacion",
+            "estructura"
+        ],
+        "base_response": "El complemento matemático describe elementos que completan un conjunto según reglas definidas, facilitando análisis preciso. Permite identificar partes faltantes, establecer relaciones coherentes y fortalecer comprensión de estructuras. Es útil en problemas de lógica, álgebra y teoría de conjuntos."
+    },
+    {
+        "intent_id": "logica_proposicional",
+        "keywords": [
+            "proposicion",
+            "inferencias",
+            "deduccion",
+            "conectivos",
+            "razonamiento"
+        ],
+        "base_response": "La lógica proposicional estudia proposiciones y sus relaciones mediante conectivos formales. Permite analizar argumentos, verificar validez y construir inferencias correctas. Sus reglas precisas facilitan resolver problemas complejos y fortalecer el razonamiento matemático mediante estructuras claras y coherentes."
+    },
+    {
+        "intent_id": "proporcionalidad_directa",
+        "keywords": [
+            "relacion",
+            "magnitudes",
+            "razon",
+            "variacion",
+            "calculo"
+        ],
+        "base_response": "La proporcionalidad directa describe situaciones donde dos magnitudes aumentan o disminuyen simultáneamente manteniendo una razón constante. Permite resolver problemas cotidianos mediante cálculos sencillos que muestran cómo cambia una cantidad cuando la otra se modifica proporcionalmente."
+    },
+    {
+        "intent_id": "tautologias_logicas",
+        "keywords": [
+            "tautologia",
+            "proposicion",
+            "verdad",
+            "evaluacion",
+            "logica"
+        ],
+        "base_response": "Una tautología lógica es una proposición siempre verdadera, independientemente de la interpretación. Se construye mediante conectores que garantizan su validez universal. Su estudio permite verificar argumentos, identificar equivalencias y fortalecer el razonamiento formal en diversos contextos matemáticos."
+    },
+    {
+        "intent_id": "tablas_de_verdad",
+        "keywords": [
+            "logica",
+            "proposicion",
+            "evaluacion",
+            "resultado",
+            "operacion"
+        ],
+        "base_response": "Las tablas de verdad permiten analizar proposiciones lógicas evaluando sus posibles combinaciones. Cada fila muestra valores asignados y el resultado de la operación. Facilitan comprender conectores, verificar argumentos y estudiar relaciones entre enunciados dentro de sistemas formales."
+    },
+    {
+        "intent_id": "contradicciones_matematicas",
+        "keywords": [
+            "paradoja",
+            "inconsistencia",
+            "axioma",
+            "demostracion",
+            "logica"
+        ],
+        "base_response": "Las contradicciones matemáticas surgen cuando dos afirmaciones incompatibles se derivan de un mismo sistema. Su estudio permite detectar errores, revisar axiomas y fortalecer la coherencia interna. Analizar estas situaciones impulsa el desarrollo de teorías más rigurosas y confiables."
+    },
+    {
+        "intent_id": "falacias_estructurales",
+        "keywords": [
+            "razonamiento",
+            "argumento",
+            "estructura",
+            "error",
+            "analisis"
+        ],
+        "base_response": "Las falacias estructurales surgen cuando la forma del razonamiento presenta errores que invalidan conclusiones. Comprender su naturaleza permite identificar patrones defectuosos, fortalecer argumentos y desarrollar pensamiento crítico mediante el análisis cuidadoso de premisas y relaciones lógicas implicadas."
+    },
+    {
+        "intent_id": "proporcionalidad_inversa",
+        "keywords": [
+            "variable",
+            "relacion",
+            "magnitud",
+            "calculo",
+            "funcion"
+        ],
+        "base_response": "La proporcionalidad inversa describe situaciones donde una magnitud aumenta mientras la otra disminuye, manteniendo constante su producto. Permite analizar relaciones entre variables que cambian en sentido opuesto y facilita resolver problemas aplicando razonamiento matemático preciso."
+    },
+    {
+        "intent_id": "tasa_de_interes",
+        "keywords": [
+            "capital",
+            "prestamo",
+            "porcentaje",
+            "calculo",
+            "rendimiento"
+        ],
+        "base_response": "La tasa de interés expresa el costo del dinero en un periodo, indicando cuánto crece un capital prestado o invertido. Permite comparar opciones financieras y evaluar beneficios. Comprenderla facilita decisiones económicas informadas y responsables en diversas situaciones cotidianas."
+    },
+    {
+        "intent_id": "interes_simple",
+        "keywords": [
+            "capital",
+            "interes",
+            "tasa",
+            "calculo",
+            "periodo"
+        ],
+        "base_response": "El interés simple calcula ganancias aplicando una tasa fija sobre el capital inicial durante un periodo determinado. Su fórmula permite comprender cómo crece una inversión sin acumulación adicional, facilitando decisiones financieras básicas y comparaciones entre distintas opciones disponibles."
+    },
+    {
+        "intent_id": "interes_compuesto",
+        "keywords": [
+            "capital",
+            "crecimiento",
+            "inversion",
+            "rendimiento",
+            "acumulacion"
+        ],
+        "base_response": "El interés compuesto surge cuando los intereses generados se suman al capital inicial, permitiendo que cada periodo produzca nuevos intereses sobre una base mayor. Este mecanismo acelera el crecimiento financiero y favorece inversiones sostenidas a largo plazo."
+    },
+    {
+        "intent_id": "descuentos_porcentuales",
+        "keywords": [
+            "descuento",
+            "porcentaje",
+            "precio",
+            "calculo",
+            "rebaja"
+        ],
+        "base_response": "Un descuento porcentual reduce un precio original según un porcentaje establecido. Para calcularlo, se multiplica el precio por el porcentaje y se resta el resultado. Comprender este proceso permite analizar ofertas y tomar decisiones de compra informadas."
+    },
+    {
+        "intent_id": "teorema_de_tales",
+        "keywords": [
+            "triangulo",
+            "proporcion",
+            "segmento",
+            "recta",
+            "division"
+        ],
+        "base_response": "El teorema de Tales establece que, al trazar rectas paralelas que cortan los lados de un triángulo, se generan segmentos proporcionales. Esta propiedad permite resolver problemas de semejanza, escalas y medidas indirectas mediante relaciones matemáticas claras y coherentes."
+    },
+    {
+        "intent_id": "congruencia_geometrica",
+        "keywords": [
+            "figuras",
+            "transformaciones",
+            "igualdad",
+            "rotacion",
+            "traslacion"
+        ],
+        "base_response": "La congruencia geométrica describe figuras que conservan forma y tamaño mediante transformaciones rígidas. Dos figuras congruentes pueden superponerse exactamente. Este concepto permite analizar propiedades invariantes y resolver problemas que requieren comparar estructuras espaciales con precisión y coherencia."
+    },
+    {
+        "intent_id": "proporciones_geometricas",
+        "keywords": [
+            "proporcion",
+            "figura",
+            "dimension",
+            "semejanza",
+            "escala"
+        ],
+        "base_response": "Las proporciones geométricas describen relaciones entre dimensiones que mantienen coherencia estructural. Permiten comparar figuras, escalar modelos y analizar patrones. Comprenderlas facilita resolver problemas de semejanza, transformar objetos y aplicar principios matemáticos en contextos visuales y espaciales con precisión conceptual."
+    }
+]
