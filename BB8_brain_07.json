@@ -1,0 +1,1069 @@
+[
+  {
+    "intent_id": "triangulo_definicion",
+    "keywords": [
+      "triangulo",
+      "poligono",
+      "lados",
+      "vertices",
+      "geometria"
+    ],
+    "base_response": "Un triángulo es un polígono de tres lados que se forma al unir tres puntos no alineados mediante segmentos de recta. Es la figura geométrica más simple y estable que existe en el plano bidimensional."
+  },
+  {
+    "intent_id": "triangulo_equilatero",
+    "keywords": [
+      "triangulo",
+      "equilatero",
+      "lados",
+      "congruentes",
+      "geometria"
+    ],
+    "base_response": "El triángulo equilátero es una figura geométrica que tiene sus tres lados con la misma longitud. Debido a esta simetría, sus tres ángulos interiores también son completamente iguales y miden siempre sesenta grados. Este concepto escolar es de vital importancia para resolver."
+  },
+  {
+    "intent_id": "triangulo_isosceles",
+    "keywords": [
+      "triangulo",
+      "isosceles",
+      "lados",
+      "iguales",
+      "geometria"
+    ],
+    "base_response": "Un triángulo isósceles es aquel que posee dos lados de igual longitud y un tercer lado diferente llamado base. Los ángulos que se oponen a los lados congruentes también tienen la misma medida. Este concepto escolar es de vital importancia para resolver."
+  },
+  {
+    "intent_id": "triangulo_escaleno",
+    "keywords": [
+      "triangulo",
+      "escaleno",
+      "lados",
+      "diferentes",
+      "geometria"
+    ],
+    "base_response": "El triángulo escaleno se caracteriza por tener sus tres lados con medidas totalmente distintas. Como consecuencia directa de esta asimetría, sus tres ángulos internos también poseen valores diferentes en el plano. Este concepto escolar es de vital importancia para resolver problemas matemáticos."
+  },
+  {
+    "intent_id": "cuadrado_definicion",
+    "keywords": [
+      "cuadrado",
+      "poligono",
+      "regular",
+      "lados",
+      "geometria"
+    ],
+    "base_response": "Un cuadrado es un polígono regular de cuatro lados iguales que forman ángulos internos rectos de noventa grados. Posee una simetría plana perfecta con cuatro ejes de simetría que cruzan su centro geométrico. Este concepto escolar es de vital importancia para resolver."
+  },
+  {
+    "intent_id": "cuadrado_angulos",
+    "keywords": [
+      "cuadrado",
+      "angulos",
+      "internos",
+      "rectos",
+      "geometria"
+    ],
+    "base_response": "Los ángulos internos de un cuadrado son siempre cuatro y miden exactamente noventa grados cada uno, formando esquinas perpendiculares. La suma de estos ángulos interiores es igual a trescientos sesenta grados sexagesimales. Este concepto escolar es de vital importancia para resolver problemas."
+  },
+  {
+    "intent_id": "cuadrado_perimetro",
+    "keywords": [
+      "cuadrado",
+      "perimetro",
+      "lado",
+      "contorno",
+      "geometria"
+    ],
+    "base_response": "El perímetro de un cuadrado representa la longitud total de su contorno exterior. Se calcula multiplicando la medida de uno de sus lados por cuatro, ya que todos sus lados son congruentes. Este concepto escolar es de vital importancia para resolver problemas."
+  },
+  {
+    "intent_id": "cuadrado_area",
+    "keywords": [
+      "cuadrado",
+      "area",
+      "lado",
+      "superficie",
+      "geometria"
+    ],
+    "base_response": "El área de un cuadrado mide el espacio de la superficie que se encuentra dentro de sus límites. Se obtiene multiplicando la longitud de un lado por sí misma de forma directa. Este concepto escolar es de vital importancia para resolver problemas."
+  },
+  {
+    "intent_id": "poligono_cerrado_def",
+    "keywords": [
+      "poligono",
+      "plano",
+      "cerrado",
+      "lados",
+      "geometria"
+    ],
+    "base_response": "Un polígono plano cerrado es una figura bidimensional delimitada por un camino cerrado de segmentos rectos consecutivos. Estos segmentos se conectan en sus extremos de manera que no queda ninguna abertura. Este concepto escolar es de vital importancia para resolver problemas matemáticos."
+  },
+  {
+    "intent_id": "poligono_convexo",
+    "keywords": [
+      "poligono",
+      "convexo",
+      "angulos",
+      "internos",
+      "geometria"
+    ],
+    "base_response": "Un polígono convexo es aquel en el que todos sus ángulos internos miden menos de ciento ochenta grados. En estas figuras, cualquier segmento que una dos puntos interiores queda totalmente dentro del polígono. Este concepto escolar es de vital importancia para resolver."
+  },
+  {
+    "intent_id": "poligono_concavo",
+    "keywords": [
+      "poligono",
+      "concavo",
+      "angulo",
+      "interno",
+      "geometria"
+    ],
+    "base_response": "Un polígono cóncavo posee al menos un ángulo interior que mide más de ciento ochenta grados. Esto provoca que algunas líneas que unen puntos internos pasen por el exterior de la figura. Este concepto escolar es de vital importancia para resolver problemas."
+  },
+  {
+    "intent_id": "poligono_regular",
+    "keywords": [
+      "poligono",
+      "regular",
+      "lados",
+      "angulos",
+      "geometria"
+    ],
+    "base_response": "Un polígono regular es una figura plana que es equilátera y equiangular al mismo tiempo. Esto significa que todos sus lados tienen la misma medida y todos sus ángulos internos son congruentes. Este concepto escolar es de vital importancia para resolver problemas."
+  },
+  {
+    "intent_id": "perimetro_concepto",
+    "keywords": [
+      "perimetro",
+      "figura",
+      "longitud",
+      "contorno",
+      "geometria"
+    ],
+    "base_response": "El perímetro es la longitud total del contorno cerrado que limita a una figura geométrica plana. Se calcula sumando la medida de todos los lados individuales que componen el polígono en estudio. Este concepto escolar es de vital importancia para resolver problemas."
+  },
+  {
+    "intent_id": "perimetro_triangulo",
+    "keywords": [
+      "perimetro",
+      "triangulo",
+      "lados",
+      "suma",
+      "geometria"
+    ],
+    "base_response": "Para calcular el perímetro de cualquier triángulo, se debe sumar la longitud de sus tres lados individuales. Si el triángulo es equilátero, basta con multiplicar la longitud de un lado por tres. Este concepto escolar es de vital importancia para resolver problemas."
+  },
+  {
+    "intent_id": "perimetro_rectangulo",
+    "keywords": [
+      "perimetro",
+      "rectangulo",
+      "base",
+      "altura",
+      "geometria"
+    ],
+    "base_response": "El perímetro de un rectángulo se obtiene sumando el doble de su base más el doble de su altura. Esta operación permite conocer de forma rápida la longitud del borde de la figura. Este concepto escolar es de vital importancia para resolver."
+  },
+  {
+    "intent_id": "perimetro_regular",
+    "keywords": [
+      "perimetro",
+      "poligono",
+      "regular",
+      "lados",
+      "geometria"
+    ],
+    "base_response": "Para hallar el perímetro de un polígono regular, simplemente se multiplica la longitud de uno de sus lados por el número total de lados. Este método abrevia la suma de lados iguales. Este concepto escolar es de vital importancia para resolver problemas."
+  },
+  {
+    "intent_id": "area_concepto",
+    "keywords": [
+      "area",
+      "superficie",
+      "plana",
+      "unidades",
+      "geometria"
+    ],
+    "base_response": "El área representa la medida de la extensión de una superficie plana acotada por una figura geométrica. Esta magnitud se expresa siempre en unidades de medida al cuadrado como metros cuadrados. Este concepto escolar es de vital importancia para resolver problemas matemáticos."
+  },
+  {
+    "intent_id": "area_triangulo",
+    "keywords": [
+      "area",
+      "triangulo",
+      "base",
+      "altura",
+      "geometria"
+    ],
+    "base_response": "El área de un triángulo se calcula mediante una fórmula clásica muy sencilla. Se multiplica la longitud de la base por su altura correspondiente y se divide el resultado entre dos. Este concepto escolar es de vital importancia para resolver problemas matemáticos."
+  },
+  {
+    "intent_id": "area_rectangulo",
+    "keywords": [
+      "area",
+      "rectangulo",
+      "base",
+      "altura",
+      "geometria"
+    ],
+    "base_response": "Para determinar el área de cualquier rectángulo, se multiplica la medida de su base por su altura perpendicular. El resultado nos da la cantidad de unidades cuadradas de la superficie. Este concepto escolar es de vital importancia para resolver problemas matemáticos de."
+  },
+  {
+    "intent_id": "area_paralelogramo",
+    "keywords": [
+      "area",
+      "paralelogramo",
+      "base",
+      "altura",
+      "geometria"
+    ],
+    "base_response": "El área de un paralelogramo es igual al producto de la longitud de su base por la altura correspondiente. Esta fórmula es idéntica a la del rectángulo por descomposición geométrica. Este concepto escolar es de vital importancia para resolver problemas matemáticos de."
+  },
+  {
+    "intent_id": "angulo_concepto",
+    "keywords": [
+      "angulo",
+      "apertura",
+      "semirrectas",
+      "vertice",
+      "geometria"
+    ],
+    "base_response": "Un ángulo es la apertura o inclinación formada entre dos semirrectas que parten de un mismo punto origen llamado vértice. Su amplitud se mide utilizando la escala de grados sexagesimales. Este concepto escolar es de vital importancia para resolver problemas matemáticos de."
+  },
+  {
+    "intent_id": "grado_sexagesimal",
+    "keywords": [
+      "grado",
+      "angulo",
+      "unidad",
+      "medida",
+      "geometria"
+    ],
+    "base_response": "El grado sexagesimal es la unidad estándar que se utiliza para medir la amplitud de los ángulos. Representa una de las trescientas sesenta partes iguales en las que se divide un círculo. Este concepto escolar es de vital importancia para resolver problemas."
+  },
+  {
+    "intent_id": "transportador_angulos",
+    "keywords": [
+      "transportador",
+      "angulo",
+      "instrumento",
+      "medida",
+      "geometria"
+    ],
+    "base_response": "El transportador es un instrumento escolar graduado de forma semicircular que sirve para medir y trazar ángulos. Permite leer de forma directa los grados de inclinación entre dos segmentos. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera."
+  },
+  {
+    "intent_id": "medicion_proceso",
+    "keywords": [
+      "medicion",
+      "angulo",
+      "transportador",
+      "vertice",
+      "geometria"
+    ],
+    "base_response": "Para medir un ángulo, se coloca el centro del transportador sobre el vértice común de las líneas. Luego, se alinea la base con un lado y se lee la medida correspondiente. Este concepto escolar es de vital importancia para resolver problemas matemáticos."
+  },
+  {
+    "intent_id": "circunferencia_def",
+    "keywords": [
+      "circunferencia",
+      "curva",
+      "borde",
+      "centro",
+      "geometria"
+    ],
+    "base_response": "La circunferencia es una línea curva plana y cerrada cuyos puntos se encuentran todos a una distancia constante de un centro. Representa únicamente el borde o contorno exterior redondo. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera."
+  },
+  {
+    "intent_id": "circulo_def",
+    "keywords": [
+      "circulo",
+      "superficie",
+      "plana",
+      "borde",
+      "geometria"
+    ],
+    "base_response": "El círculo es la superficie plana delimitada y contenida dentro de una circunferencia de forma cerrada. Abarca tanto el borde curvo como todos los puntos que se localizan en su interior. Este concepto escolar es de vital importancia para resolver problemas matemáticos."
+  },
+  {
+    "intent_id": "diferencia_circulo_curva",
+    "keywords": [
+      "diferencia",
+      "circulo",
+      "circunferencia",
+      "borde",
+      "geometria"
+    ],
+    "base_response": "La diferencia fundamental es que la circunferencia es la línea curva que actúa como frontera, mientras que el círculo representa la región interior completa que se encuentra rodeada por esa línea. Este concepto escolar es de vital importancia para resolver problemas matemáticos."
+  },
+  {
+    "intent_id": "numero_pi",
+    "keywords": [
+      "numero",
+      "constante",
+      "circunferencia",
+      "diametro",
+      "geometria"
+    ],
+    "base_response": "El número pi es una constante matemática que resulta de dividir la longitud de cualquier circunferencia entre su diámetro. Su valor aproximado es de tres coma catorce y dieciséis centésimas. Este concepto escolar es de vital importancia para resolver problemas matemáticos de."
+  },
+  {
+    "intent_id": "rectas_paralelas",
+    "keywords": [
+      "rectas",
+      "paralelas",
+      "plano",
+      "distancia",
+      "geometria"
+    ],
+    "base_response": "Las rectas paralelas son aquellas líneas que se encuentran en el mismo plano y mantienen siempre la misma distancia entre sí. Por más que se prolonguen, nunca se cruzarán. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera."
+  },
+  {
+    "intent_id": "distancia_paralelas",
+    "keywords": [
+      "distancia",
+      "rectas",
+      "paralelas",
+      "perpendicular",
+      "geometria"
+    ],
+    "base_response": "La distancia entre dos rectas paralelas se mide trazando un segmento perpendicular que vaya de una línea a la otra. Esta separación se mantiene constante a lo largo de toda su extensión. Este concepto escolar es de vital importancia para resolver problemas."
+  },
+  {
+    "intent_id": "propiedad_paralelas",
+    "keywords": [
+      "rectas",
+      "paralelas",
+      "angulos",
+      "interseccion",
+      "geometria"
+    ],
+    "base_response": "Cuando una línea recta secante corta a dos rectas paralelas, se forman ángulos correspondientes que tienen exactamente la misma medida. Esta propiedad es clave para resolver problemas geométricos. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera correcta."
+  },
+  {
+    "intent_id": "rectas_perpendiculares",
+    "keywords": [
+      "rectas",
+      "perpendiculares",
+      "angulos",
+      "rectos",
+      "geometria"
+    ],
+    "base_response": "Las rectas perpendiculares son líneas que al cruzarse en un punto común forman cuatro ángulos rectos de noventa grados. Esta alineación perfecta es común en las esquinas de libros. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera."
+  },
+  {
+    "intent_id": "rectas_secantes",
+    "keywords": [
+      "rectas",
+      "secantes",
+      "punto",
+      "interseccion",
+      "geometria"
+    ],
+    "base_response": "Las rectas secantes son aquellas líneas que se cortan en un único punto del plano de forma obligatoria. Al cruzarse, dividen el plano en cuatro regiones con ángulos correspondientes. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera."
+  },
+  {
+    "intent_id": "interseccion_perpendiculares",
+    "keywords": [
+      "interseccion",
+      "rectas",
+      "perpendiculares",
+      "grados",
+      "geometria"
+    ],
+    "base_response": "La intersección de dos rectas perpendiculares produce una simetría de cuadrantes perfecta donde cada ángulo mide noventa grados. Es el principio del sistema de ejes cartesianos que estudiamos. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera correcta."
+  },
+  {
+    "intent_id": "vertice_def",
+    "keywords": [
+      "vertice",
+      "poligono",
+      "punto",
+      "lados",
+      "geometria"
+    ],
+    "base_response": "El vértice de un polígono es el punto exacto donde se intersectan y unen dos lados consecutivos de la figura. Es la esquina física donde se forma el ángulo interno. Este concepto escolar es de vital importancia para resolver problemas matemáticos de."
+  },
+  {
+    "intent_id": "cantidad_vertices",
+    "keywords": [
+      "vertices",
+      "poligono",
+      "lados",
+      "igualdad",
+      "geometria"
+    ],
+    "base_response": "En cualquier polígono cerrado, la cantidad de vértices es siempre igual al número de lados que posee la figura. Por ejemplo, un hexágono regular tiene seis lados y seis vértices. Este concepto escolar es de vital importancia para resolver problemas matemáticos de."
+  },
+  {
+    "intent_id": "vertice_angulo",
+    "keywords": [
+      "vertice",
+      "angulo",
+      "origen",
+      "semirrectas",
+      "geometria"
+    ],
+    "base_response": "El vértice de un ángulo es el punto de origen común del cual parten las dos semirrectas que forman la abertura. Es el elemento central para realizar su medición correcta. Este concepto escolar es de vital importancia para resolver problemas matemáticos de."
+  },
+  {
+    "intent_id": "lado_def",
+    "keywords": [
+      "lados",
+      "figura",
+      "segmentos",
+      "contorno",
+      "geometria"
+    ],
+    "base_response": "Los lados de una figura son los segmentos de línea recta que forman su contorno cerrado y delimitan su área. Cada lado conecta dos vértices consecutivos del polígono plano. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera."
+  },
+  {
+    "intent_id": "lados_congruentes",
+    "keywords": [
+      "lados",
+      "congruentes",
+      "medida",
+      "igualdad",
+      "geometria"
+    ],
+    "base_response": "En geometría, dos lados se denominan congruentes cuando tienen exactamente la misma longitud o medida lineal. Esta propiedad de igualdad lateral define la regularidad de los polígonos en clase. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera."
+  },
+  {
+    "intent_id": "lado_segmento",
+    "keywords": [
+      "lado",
+      "segmento",
+      "recta",
+      "vertices",
+      "geometria"
+    ],
+    "base_response": "Cada lado de un polígono es técnicamente un segmento de recta que tiene un principio y un fin en dos vértices adyacentes. Su longitud es una medida lineal estándar. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera."
+  },
+  {
+    "intent_id": "diagonal_def",
+    "keywords": [
+      "diagonal",
+      "segmento",
+      "vertices",
+      "opuestos",
+      "geometria"
+    ],
+    "base_response": "La diagonal de un cuadrilátero es el segmento de recta que conecta dos vértices que no son consecutivos en la figura. Todo cuadrilátero posee exactamente dos diagonales en su interior. Este concepto escolar es de vital importancia para resolver problemas matemáticos de."
+  },
+  {
+    "intent_id": "diagonales_cuadrilateros",
+    "keywords": [
+      "diagonales",
+      "cuadrilatero",
+      "longitud",
+      "interseccion",
+      "geometria"
+    ],
+    "base_response": "Las diagonales de un cuadrilátero se cruzan en un punto que puede ser el centro de la figura. En los paralelogramos, estas diagonales se cortan mutuamente en sus puntos medios. Este concepto escolar es de vital importancia para resolver problemas matemáticos de."
+  },
+  {
+    "intent_id": "interseccion_diagonales",
+    "keywords": [
+      "diagonales",
+      "interseccion",
+      "punto",
+      "angulos",
+      "geometria"
+    ],
+    "base_response": "El punto de intersección de las diagonales divide a la figura en triángulos que facilitan el estudio de sus propiedades. En el cuadrado y rombo, este cruce es perpendicular. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera."
+  },
+  {
+    "intent_id": "rectangulo_def",
+    "keywords": [
+      "rectangulo",
+      "paralelogramo",
+      "angulos",
+      "rectos",
+      "geometria"
+    ],
+    "base_response": "Un rectángulo es un paralelogramo que tiene sus cuatro ángulos internos rectos de noventa grados de forma exacta. Sus lados opuestos son paralelos y tienen la misma longitud lineal. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera."
+  },
+  {
+    "intent_id": "rectangulo_area",
+    "keywords": [
+      "rectangulo",
+      "area",
+      "base",
+      "altura",
+      "geometria"
+    ],
+    "base_response": "El área de un rectángulo representa la medida de su superficie interior plana. Se calcula multiplicando la medida de la base horizontal por la medida de su altura vertical. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera."
+  },
+  {
+    "intent_id": "rectangulo_perimetro",
+    "keywords": [
+      "rectangulo",
+      "perimetro",
+      "base",
+      "altura",
+      "geometria"
+    ],
+    "base_response": "Para hallar el perímetro de un rectángulo se debe sumar la longitud de sus cuatro lados. Esto equivale a calcular el doble de la base más el doble de su altura. Este concepto escolar es de vital importancia para resolver problemas matemáticos."
+  },
+  {
+    "intent_id": "rombo_def",
+    "keywords": [
+      "rombo",
+      "paralelogramo",
+      "lados",
+      "congruentes",
+      "geometria"
+    ],
+    "base_response": "El rombo es un paralelogramo que tiene sus cuatro lados de igual longitud pero sus ángulos no son rectos. Sus diagonales son perpendiculares entre sí y bisectrices de sus ángulos. Este concepto escolar es de vital importancia para resolver problemas matemáticos de."
+  },
+  {
+    "intent_id": "romboide_def",
+    "keywords": [
+      "romboide",
+      "paralelogramo",
+      "lados",
+      "angulos",
+      "geometria"
+    ],
+    "base_response": "El romboide es un paralelogramo que tiene lados opuestos iguales y ángulos opuestos iguales de forma simétrica. A diferencia del rombo, sus cuatro lados no miden lo mismo. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera correcta."
+  },
+  {
+    "intent_id": "diagonales_rombo",
+    "keywords": [
+      "rombo",
+      "diagonales",
+      "perpendiculares",
+      "centro",
+      "geometria"
+    ],
+    "base_response": "Las dos diagonales de un rombo, una mayor y otra menor, son perpendiculares entre sí de forma exacta. Se cruzan en su punto medio formando un ángulo de noventa grados. Este concepto escolar es de vital importancia para resolver problemas matemáticos de."
+  },
+  {
+    "intent_id": "trapecio_def",
+    "keywords": [
+      "trapecio",
+      "cuadrilatero",
+      "lados",
+      "paralelos",
+      "geometria"
+    ],
+    "base_response": "El trapecio es un cuadrilátero que tiene únicamente un par de lados opuestos paralelos llamados bases. La distancia perpendicular que separa a estas dos bases representa su altura. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera correcta."
+  },
+  {
+    "intent_id": "trapezoide_def",
+    "keywords": [
+      "trapezoide",
+      "cuadrilatero",
+      "lados",
+      "irregular",
+      "geometria"
+    ],
+    "base_response": "Un trapezoide es un cuadrilátero irregular en el cual ninguno de sus lados es paralelo a otro. Sus lados y ángulos internos suelen tener medidas totalmente diferentes entre sí. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera."
+  },
+  {
+    "intent_id": "bases_trapecio",
+    "keywords": [
+      "trapecio",
+      "bases",
+      "paralelos",
+      "lados",
+      "geometria"
+    ],
+    "base_response": "Las bases de un trapecio son los dos lados opuestos que son paralelos entre sí. Se denominan base mayor y base menor según la longitud lineal de cada segmento. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera."
+  },
+  {
+    "intent_id": "radio_def",
+    "keywords": [
+      "radio",
+      "circulo",
+      "centro",
+      "segmento",
+      "geometria"
+    ],
+    "base_response": "El radio de un círculo es el segmento de recta que une el centro con cualquier punto de la circunferencia exterior. Su valor es constante en cualquier dirección de la figura. Este concepto escolar es de vital importancia para resolver problemas matemáticos."
+  },
+  {
+    "intent_id": "radio_diametro_rel",
+    "keywords": [
+      "radio",
+      "diametro",
+      "circulo",
+      "mitad",
+      "geometria"
+    ],
+    "base_response": "La longitud del radio representa exactamente la mitad de la longitud del diámetro en una misma circunferencia. Si el diámetro mide diez centímetros, el radio medirá cinco centímetros. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera correcta."
+  },
+  {
+    "intent_id": "radio_segmento_prop",
+    "keywords": [
+      "radio",
+      "segmento",
+      "circunferencia",
+      "distancia",
+      "geometria"
+    ],
+    "base_response": "El radio funciona como un segmento de longitud fundamental para trazar círculos usando un compás escolar. Esta distancia constante asegura la redondez perfecta del contorno de la figura. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera correcta."
+  },
+  {
+    "intent_id": "diametro_def",
+    "keywords": [
+      "diametro",
+      "circunferencia",
+      "centro",
+      "segmento",
+      "geometria"
+    ],
+    "base_response": "El diámetro es el segmento de recta que une dos puntos de la circunferencia pasando exactamente por su centro. Es la cuerda de mayor longitud que se puede trazar. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera."
+  },
+  {
+    "intent_id": "diametro_simetria",
+    "keywords": [
+      "diametro",
+      "circunferencia",
+      "simetria",
+      "mitad",
+      "geometria"
+    ],
+    "base_response": "El diámetro actúa como una línea de simetría perfecta que divide a la circunferencia y al círculo en dos partes exactamente iguales llamadas semicircunferencias y semicírculos. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera correcta en el."
+  },
+  {
+    "intent_id": "diametro_calculo",
+    "keywords": [
+      "diametro",
+      "circunferencia",
+      "calculo",
+      "radio",
+      "geometria"
+    ],
+    "base_response": "Para calcular el diámetro de una circunferencia simplemente se debe multiplicar la longitud del radio por dos. Es una dimensión lineal clave para medir el ancho del círculo. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera correcta."
+  },
+  {
+    "intent_id": "cuerda_def",
+    "keywords": [
+      "cuerda",
+      "circunferencia",
+      "segmento",
+      "puntos",
+      "geometria"
+    ],
+    "base_response": "La cuerda es un segmento de recta que conecta dos puntos cualesquiera sobre la línea de la circunferencia. A diferencia del diámetro, no tiene la obligación de pasar por el centro. Este concepto escolar es de vital importancia para resolver problemas matemáticos."
+  },
+  {
+    "intent_id": "recta_secante_def",
+    "keywords": [
+      "secante",
+      "recta",
+      "circunferencia",
+      "puntos",
+      "geometria"
+    ],
+    "base_response": "Una recta secante es una línea que corta a la circunferencia en dos puntos comunes de forma obligatoria. Al atravesar la figura, una parte de ella queda como cuerda interna. Este concepto escolar es de vital importancia para resolver problemas matemáticos de."
+  },
+  {
+    "intent_id": "mayor_cuerda",
+    "keywords": [
+      "cuerda",
+      "mayor",
+      "diametro",
+      "centro",
+      "geometria"
+    ],
+    "base_response": "El diámetro de la circunferencia es considerado de forma matemática la mayor cuerda posible que se puede trazar. Cualquier otra cuerda que no pase por el centro será menor. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera."
+  },
+  {
+    "intent_id": "arco_def",
+    "keywords": [
+      "arco",
+      "circunferencia",
+      "curva",
+      "puntos",
+      "geometria"
+    ],
+    "base_response": "El arco de una circunferencia es una porción continua o segmento de la línea curva que conforma su contorno. Está delimitado por dos puntos pertenecientes a la circunferencia. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera correcta."
+  },
+  {
+    "intent_id": "longitud_arco",
+    "keywords": [
+      "arco",
+      "longitud",
+      "medida",
+      "angulo",
+      "geometria"
+    ],
+    "base_response": "La longitud de un arco es la medida lineal de esa parte curva y depende directamente del ángulo central. Se calcula proporcionalmente respecto a la longitud total de la circunferencia. Este concepto escolar es de vital importancia para resolver problemas matemáticos de."
+  },
+  {
+    "intent_id": "semicircunferencia_def",
+    "keywords": [
+      "semicircunferencia",
+      "arco",
+      "mitad",
+      "diametro",
+      "geometria"
+    ],
+    "base_response": "La semicircunferencia es un arco especial que equivale exactamente a la mitad del contorno de la circunferencia. Está delimitada por los dos puntos extremos de un diámetro. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera correcta en."
+  },
+  {
+    "intent_id": "tangente_def",
+    "keywords": [
+      "tangente",
+      "recta",
+      "circunferencia",
+      "contacto",
+      "geometria"
+    ],
+    "base_response": "Una recta tangente es una línea recta que toca a la circunferencia en un único punto común sin cruzarla. Se localiza completamente en la zona exterior del círculo plano. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera."
+  },
+  {
+    "intent_id": "punto_tangencia",
+    "keywords": [
+      "tangente",
+      "punto",
+      "contacto",
+      "recta",
+      "geometria"
+    ],
+    "base_response": "El punto de tangencia es el lugar geométrico exacto de contacto entre la recta tangente y la circunferencia curva. Es único y define la orientación de la línea perpendicular. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera."
+  },
+  {
+    "intent_id": "tangente_radio_perpendicular",
+    "keywords": [
+      "tangente",
+      "radio",
+      "perpendicular",
+      "angulo",
+      "geometria"
+    ],
+    "base_response": "El radio que va del centro de la circunferencia al punto de tangencia es siempre perpendicular a la recta tangente. Ambos forman un ángulo recto de noventa grados exactos. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera."
+  },
+  {
+    "intent_id": "angulo_agudo_def",
+    "keywords": [
+      "angulo",
+      "agudo",
+      "apertura",
+      "grados",
+      "geometria"
+    ],
+    "base_response": "Un ángulo agudo es una apertura que mide estrictamente más de cero grados y menos de noventa grados sexagesimales. Es una esquina cerrada típica de los triángulos equiláteros. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera correcta."
+  },
+  {
+    "intent_id": "angulo_agudo_triangulos",
+    "keywords": [
+      "angulo",
+      "agudo",
+      "triangulo",
+      "acutangulo",
+      "geometria"
+    ],
+    "base_response": "Los tres ángulos internos de un triángulo equilátero son agudos y miden sesenta grados cada uno de ellos. Su presencia define la clasificación de los triángulos acutángulos. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera correcta en."
+  },
+  {
+    "intent_id": "ejemplo_agudo",
+    "keywords": [
+      "angulo",
+      "agudo",
+      "apertura",
+      "reloj",
+      "geometria"
+    ],
+    "base_response": "Un ejemplo visual de ángulo agudo se observa en las manecillas de un reloj cuando marcan las dos en punto. Su apertura es estrecha y menor a una esquina recta. Este concepto escolar es de vital importancia para resolver problemas matemáticos de."
+  },
+  {
+    "intent_id": "angulo_obtuso_def",
+    "keywords": [
+      "angulo",
+      "obtuso",
+      "apertura",
+      "grados",
+      "geometria"
+    ],
+    "base_response": "Un ángulo obtuso es aquel cuya apertura mide más de noventa grados y menos de ciento ochenta grados sexagesimales. Representa una esquina abierta y roma en geometría plana. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera correcta."
+  },
+  {
+    "intent_id": "angulo_obtuso_triangulos",
+    "keywords": [
+      "angulo",
+      "obtuso",
+      "triangulo",
+      "obtusangulo",
+      "geometria"
+    ],
+    "base_response": "En un triángulo obtusángulo existe la obligación de tener exactamente un ángulo obtuso en su interior. Los otros dos ángulos restantes son necesariamente agudos de forma obligatoria. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera correcta en."
+  },
+  {
+    "intent_id": "ejemplo_obtuso",
+    "keywords": [
+      "angulo",
+      "obtuso",
+      "apertura",
+      "reloj",
+      "geometria"
+    ],
+    "base_response": "Un ejemplo práctico de ángulo obtuso ocurre en las manecillas de un reloj analógico a las cuatro en punto. Su abertura es notablemente mayor que la de una escuadra. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera."
+  },
+  {
+    "intent_id": "angulo_recto_def",
+    "keywords": [
+      "angulo",
+      "recto",
+      "exacto",
+      "grados",
+      "geometria"
+    ],
+    "base_response": "Un ángulo recto es una apertura que mide exactamente noventa grados sexagesimales en la geometría del plano. Se produce cuando dos líneas rectas se intersectan de forma perpendicular. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera correcta."
+  },
+  {
+    "intent_id": "perpendicular_recto",
+    "keywords": [
+      "rectas",
+      "perpendiculares",
+      "angulo",
+      "recto",
+      "geometria"
+    ],
+    "base_response": "La perpendicularidad entre dos segmentos de recta garantiza la formación de un ángulo recto de noventa grados. Este ángulo se representa gráficamente con un pequeño cuadrado en la esquina. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera."
+  },
+  {
+    "intent_id": "esquina_cuadrada",
+    "keywords": [
+      "angulo",
+      "recto",
+      "cuadrado",
+      "esquina",
+      "geometria"
+    ],
+    "base_response": "El ángulo recto es el elemento fundamental que define las esquinas perfectas de cuadrados, rectángulos y construcciones. Es la medida estándar de referencia en el dibujo técnico escolar. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera correcta."
+  },
+  {
+    "intent_id": "angulo_llano_def",
+    "keywords": [
+      "angulo",
+      "llano",
+      "medida",
+      "grados",
+      "geometria"
+    ],
+    "base_response": "Un ángulo llano es una apertura geométrica que mide exactamente ciento ochenta grados sexagesimales en el plano. Equivale visualmente a una línea recta continua con un vértice central. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera correcta."
+  },
+  {
+    "intent_id": "llano_medida_prop",
+    "keywords": [
+      "angulo",
+      "llano",
+      "rectos",
+      "mitad",
+      "geometria"
+    ],
+    "base_response": "El ángulo llano equivale exactamente a la suma de dos ángulos rectos adyacentes de noventa grados. Representa la mitad de una rotación o vuelta completa alrededor de un punto. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera."
+  },
+  {
+    "intent_id": "llano_recta_rel",
+    "keywords": [
+      "angulo",
+      "llano",
+      "recta",
+      "vertice",
+      "geometria"
+    ],
+    "base_response": "Cuando las manecillas de un reloj marcan las seis en punto se forma un ángulo llano perfecto de ciento ochenta grados. Las dos manecillas quedan perfectamente alineadas horizontalmente. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera correcta."
+  },
+  {
+    "intent_id": "bisectriz_def",
+    "keywords": [
+      "bisectriz",
+      "angulo",
+      "semirrecta",
+      "mitad",
+      "geometria"
+    ],
+    "base_response": "La bisectriz de un ángulo es la semirrecta que parte de su vértice y divide la apertura original en dos ángulos exactamente iguales. Funciona como eje de simetría. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera correcta."
+  },
+  {
+    "intent_id": "bisectriz_construccion",
+    "keywords": [
+      "bisectriz",
+      "construccion",
+      "regla",
+      "compas",
+      "geometria"
+    ],
+    "base_response": "Para trazar la bisectriz de un ángulo se utiliza un compás y una regla escolar graduada. Se dibujan arcos que determinan la línea media que divide la esquina. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera correcta."
+  },
+  {
+    "intent_id": "incentro_bisectrices",
+    "keywords": [
+      "incentro",
+      "bisectrices",
+      "triangulo",
+      "interseccion",
+      "geometria"
+    ],
+    "base_response": "Las tres bisectrices de los ángulos internos de un triángulo se cortan en un punto llamado incentro. Este punto es el centro de la circunferencia inscrita al triángulo. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera correcta."
+  },
+  {
+    "intent_id": "mediatriz_def",
+    "keywords": [
+      "mediatriz",
+      "segmento",
+      "recta",
+      "perpendicular",
+      "geometria"
+    ],
+    "base_response": "La mediatriz de un segmento es la recta perpendicular a dicho segmento que pasa exactamente por su punto medio. Divide al segmento en dos partes de igual medida. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera correcta."
+  },
+  {
+    "intent_id": "mediatriz_construccion",
+    "keywords": [
+      "mediatriz",
+      "construccion",
+      "regla",
+      "compas",
+      "geometria"
+    ],
+    "base_response": "Trazar la mediatriz requiere apoyar el compás en los extremos del segmento y dibujar arcos de igual radio. La línea que une sus intersecciones es la mediatriz. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera correcta en."
+  },
+  {
+    "intent_id": "circuncentro_mediatrices",
+    "keywords": [
+      "circuncentro",
+      "mediatrices",
+      "triangulo",
+      "interseccion",
+      "geometria"
+    ],
+    "base_response": "Las tres mediatrices de los lados de un triángulo se intersectan en un único punto llamado circuncentro. Es el centro de la circunferencia circunscrita que toca sus vértices. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera correcta."
+  },
+  {
+    "intent_id": "poligono_inscrito_def",
+    "keywords": [
+      "poligono",
+      "inscrito",
+      "circunferencia",
+      "vertices",
+      "geometria"
+    ],
+    "base_response": "Un polígono regular inscrito es una figura cuyos vértices se sitúan todos sobre la línea de una circunferencia. El polígono queda completamente resguardado en el interior del círculo. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera correcta."
+  },
+  {
+    "intent_id": "vertices_inscrito",
+    "keywords": [
+      "vertices",
+      "poligono",
+      "inscrito",
+      "circunferencia",
+      "geometria"
+    ],
+    "base_response": "Cada vértice del polígono inscrito toca la curva exterior de la circunferencia de manera exacta. Todos sus lados son segmentos que funcionan como cuerdas iguales del círculo. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera correcta en."
+  },
+  {
+    "intent_id": "hexagono_inscrito",
+    "keywords": [
+      "hexagono",
+      "inscrito",
+      "radio",
+      "circunferencia",
+      "geometria"
+    ],
+    "base_response": "Para inscribir un hexágono regular en una circunferencia se utiliza el radio como medida del lado del polígono. Marcando esta distancia sobre la curva se obtienen sus vértices. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera correcta."
+  },
+  {
+    "intent_id": "apotema_def",
+    "keywords": [
+      "apotema",
+      "poligono",
+      "centro",
+      "segmento",
+      "geometria"
+    ],
+    "base_response": "La apotema de un polígono regular es el segmento perpendicular que une el centro de la figura con el punto medio de cualquiera de sus lados de forma recta. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera."
+  },
+  {
+    "intent_id": "apotema_area_rel",
+    "keywords": [
+      "apotema",
+      "poligono",
+      "area",
+      "perimetro",
+      "geometria"
+    ],
+    "base_response": "La longitud de la apotema es clave para calcular el área de cualquier polígono regular. La fórmula establece multiplicar el perímetro por la apotema y dividir entre dos. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera correcta."
+  },
+  {
+    "intent_id": "apotema_regular_prop",
+    "keywords": [
+      "apotema",
+      "poligono",
+      "regular",
+      "radio",
+      "geometria"
+    ],
+    "base_response": "En un polígono regular, la apotema equivale al radio de la circunferencia inscrita en su interior. Es perpendicular a los lados y tiene un valor constante en la figura. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera."
+  },
+  {
+    "intent_id": "sector_circular_def",
+    "keywords": [
+      "sector",
+      "circular",
+      "circulo",
+      "radios",
+      "geometria"
+    ],
+    "base_response": "Un sector circular es la porción de círculo delimitada por dos radios y el arco de circunferencia comprendido entre ellos. Equivale visualmente a una porción de pizza redonda. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera correcta."
+  },
+  {
+    "intent_id": "sector_circular_area",
+    "keywords": [
+      "sector",
+      "circular",
+      "area",
+      "angulo",
+      "geometria"
+    ],
+    "base_response": "El área de un sector circular representa la superficie contenida entre sus límites curvos y rectos. Se calcula de forma proporcional al ángulo central respecto al círculo completo. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera correcta."
+  },
+  {
+    "intent_id": "sector_angulo_central",
+    "keywords": [
+      "sector",
+      "circular",
+      "angulo",
+      "central",
+      "geometria"
+    ],
+    "base_response": "El ángulo central es el que determina la apertura y tamaño del sector circular en el plano. A mayor ángulo de apertura, mayor será la superficie del sector circular. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera."
+  },
+  {
+    "intent_id": "corona_circular_def",
+    "keywords": [
+      "corona",
+      "circular",
+      "anillo",
+      "circunferencias",
+      "geometria"
+    ],
+    "base_response": "La corona circular es la región del plano comprendida entre dos circunferencias concéntricas que comparten el centro pero tienen diferentes radios. Tiene la forma de un anillo plano. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera correcta."
+  },
+  {
+    "intent_id": "corona_circular_area",
+    "keywords": [
+      "corona",
+      "circular",
+      "area",
+      "radios",
+      "geometria"
+    ],
+    "base_response": "El área de una corona circular se obtiene restando la superficie del círculo menor al círculo mayor. Se calcula multiplicando pi por la diferencia de los cuadrados de ambos radios. Este concepto escolar es de vital importancia para resolver problemas matemáticos de."
+  },
+  {
+    "intent_id": "corona_radios",
+    "keywords": [
+      "corona",
+      "circular",
+      "radios",
+      "centro",
+      "geometria"
+    ],
+    "base_response": "Una corona circular se caracteriza por poseer dos radios denominados radio interior y radio exterior. Ambos determinan el ancho del anillo plano formado sobre la superficie geométrica. Este concepto escolar es de vital importancia para resolver problemas matemáticos de manera correcta en."
+  }
+]
