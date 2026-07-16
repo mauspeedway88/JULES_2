@@ -1,0 +1,2231 @@
+[
+  {
+    "intent_id": "concepto_fraccion_propia",
+    "keywords": [
+      "fraccion",
+      "numerador",
+      "denominador",
+      "parte",
+      "entero"
+    ],
+    "base_response": "Una fracción propia es aquella en la que el numerador es menor que el denominador. Esto significa que representa una parte menor a un entero. Por ejemplo, 3/5 es una fracción propia, ya que 3 es menor que 5."
+  },
+  {
+    "intent_id": "calculo_suma_fracciones_propias",
+    "keywords": [
+      "suma",
+      "fracciones",
+      "comun",
+      "denominador",
+      "resultado"
+    ],
+    "base_response": "Para sumar fracciones propias, primero se busca un denominador común. Luego, se ajustan los numeradores según ese denominador y se suman. Finalmente, se simplifica la fracción resultante si es posible, manteniendo siempre la propiedad de ser propia."
+  },
+  {
+    "intent_id": "errores_suma_fracciones_propias",
+    "keywords": [
+      "error",
+      "denominador",
+      "numerador",
+      "suma",
+      "resultado"
+    ],
+    "base_response": "Un error común al sumar fracciones propias es no encontrar un denominador común, lo que lleva a resultados incorrectos. También se comete el error de sumar numeradores sin ajustar adecuadamente los valores, afectando la correcta representación de la fracción resultante."
+  },
+  {
+    "intent_id": "uso_fracciones_propias_cocina",
+    "keywords": [
+      "cocina",
+      "recetas",
+      "ingredientes",
+      "porciones",
+      "medidas"
+    ],
+    "base_response": "En cocina, las fracciones propias se utilizan para medir ingredientes en recetas. Por ejemplo, si una receta requiere 2/3 de taza de azúcar, esto indica que se necesita menos de una taza completa, facilitando la preparación de porciones adecuadas."
+  },
+  {
+    "intent_id": "entender_fracciones_impropias",
+    "keywords": [
+      "numerador",
+      "denominador",
+      "entero",
+      "division",
+      "conversion"
+    ],
+    "base_response": "Las fracciones impropias se caracterizan por tener un numerador mayor que el denominador. Para convertirlas en números mixtos, se divide el numerador por el denominador, obteniendo el entero y el residuo que forma la nueva fracción."
+  },
+  {
+    "intent_id": "errores_fracciones_impropias",
+    "keywords": [
+      "confusion",
+      "numerador",
+      "denominador",
+      "conversion",
+      "entero"
+    ],
+    "base_response": "Un error común al trabajar con fracciones impropias es confundir el numerador y el denominador, lo que lleva a interpretaciones incorrectas. También, al convertirlas a números mixtos, algunos estudiantes olvidan incluir el entero resultante en la respuesta."
+  },
+  {
+    "intent_id": "uso_fracciones_impropias",
+    "keywords": [
+      "recetas",
+      "medidas",
+      "cocina",
+      "porciones",
+      "divisiones"
+    ],
+    "base_response": "Las fracciones impropias son útiles en situaciones cotidianas, como en recetas de cocina. Al medir ingredientes, frecuentemente se requieren porciones que superan una unidad, facilitando así el cálculo y la mezcla de cantidades adecuadas. Este tema es fundamental para comprender las proporciones y las operaciones matemáticas básicas."
+  },
+  {
+    "intent_id": "calculo_fracciones_impropias",
+    "keywords": [
+      "suma",
+      "resta",
+      "multiplicacion",
+      "division",
+      "simplificacion"
+    ],
+    "base_response": "Para operar con fracciones impropias se aplican las mismas reglas que con fracciones comunes. Al sumar o restar, se busca un denominador común; al multiplicar, se multiplican numeradores y denominadores; y la división involucra invertir la segunda fracción."
+  },
+  {
+    "intent_id": "errores_fracciones_mixtas",
+    "keywords": [
+      "confusion",
+      "numerador",
+      "entero",
+      "suma",
+      "dividir"
+    ],
+    "base_response": "Un error común al trabajar con fracciones mixtas es confundir el numerador con el entero. Esto lleva a sumas incorrectas o a no dividir adecuadamente. Comprender la estructura de la fracción mixta es esencial para evitar estas fallas conceptuales."
+  },
+  {
+    "intent_id": "ejemplos_fracciones_mixtas",
+    "keywords": [
+      "cocina",
+      "medidas",
+      "recetas",
+      "porciones",
+      "calcular"
+    ],
+    "base_response": "Las fracciones mixtas son útiles en la cocina al medir ingredientes. Por ejemplo, si una receta requiere 2 ½ tazas de azúcar, es crucial saber cómo usar fracciones mixtas para calcular las porciones necesarias y ajustar las cantidades en función de las necesidades."
+  },
+  {
+    "intent_id": "conversion_fracciones_mixtas",
+    "keywords": [
+      "convertir",
+      "suma",
+      "multiplicar",
+      "fraccion",
+      "enteros"
+    ],
+    "base_response": "Para convertir fracciones mixtas en fracciones impropias, multiplica el entero por el denominador y suma el numerador. La fórmula es: (entero × denominador + numerador) / denominador. Esto simplifica operaciones matemáticas posteriores con fracciones. Este tema es fundamental para comprender las proporciones y las operaciones matemáticas básicas."
+  },
+  {
+    "intent_id": "tipos_fracciones_mixtas",
+    "keywords": [
+      "impropias",
+      "mixtas",
+      "simples",
+      "complejas",
+      "fracciones"
+    ],
+    "base_response": "Las fracciones mixtas se clasifican en fracciones impropias, que tienen un numerador mayor que el denominador, y fracciones mixtas, que combinan un entero con una fracción propia. Comprender estas variantes es esencial para aplicar correctamente las operaciones."
+  },
+  {
+    "intent_id": "uso_fracciones_cocina",
+    "keywords": [
+      "receta",
+      "ingrediente",
+      "porciones",
+      "cocina",
+      "mezcla"
+    ],
+    "base_response": "En la cocina, las fracciones se utilizan para medir ingredientes. Por ejemplo, si una receta requiere 1/2 taza de azúcar y deseas hacer la mitad, necesitarás 1/4 de taza. Esto muestra cómo las fracciones permiten ajustar porciones."
+  },
+  {
+    "intent_id": "conversion_fracciones_equivalentes",
+    "keywords": [
+      "fraccion",
+      "equivalente",
+      "multiplicar",
+      "denominador",
+      "numerador"
+    ],
+    "base_response": "Para convertir fracciones a equivalentes, multiplica o divide el numerador y el denominador por el mismo número. Por ejemplo, para convertir 1/2 en una fracción con denominador 4, multiplica por 2: (1x2)/(2x2) = 2/4. Este tema es fundamental para comprender las proporciones y las operaciones matemáticas básicas."
+  },
+  {
+    "intent_id": "tipos_fracciones_conversion",
+    "keywords": [
+      "fraccion",
+      "impropia",
+      "mixta",
+      "entera",
+      "propia"
+    ],
+    "base_response": "Las fracciones se clasifican en fracciones propias, impropias y mixtas. Las propias tienen un numerador menor que el denominador, las impropias son mayores, y las mixtas combinan un número entero con una fracción propia. Este tema es fundamental para comprender las proporciones y las operaciones matemáticas básicas."
+  },
+  {
+    "intent_id": "errores_fracciones_numerador",
+    "keywords": [
+      "numerador",
+      "denominador",
+      "suma",
+      "confusion",
+      "multiplicacion"
+    ],
+    "base_response": "Un mito común es que al sumar fracciones, se debe sumar solo los numeradores. Esto es incorrecto; al sumar fracciones con diferente denominador, primero se deben encontrar fracciones equivalentes que tengan el mismo denominador. Este tema es fundamental para comprender las proporciones y las operaciones matemáticas básicas."
+  },
+  {
+    "intent_id": "formula_suma_fracciones_homogeneas",
+    "keywords": [
+      "suma",
+      "fracciones",
+      "homogeneas",
+      "denominador",
+      "numerador"
+    ],
+    "base_response": "Para sumar fracciones homogéneas, se mantienen los denominadores iguales. Se suman los numeradores y se coloca el resultado sobre el denominador común. Por ejemplo, 2/5 + 3/5 = (2+3)/5 = 5/5. Este tema es fundamental para comprender las proporciones y las operaciones matemáticas básicas."
+  },
+  {
+    "intent_id": "tipos_fracciones_homogeneas",
+    "keywords": [
+      "fracciones",
+      "homogeneas",
+      "simples",
+      "compuestas",
+      "mixtas"
+    ],
+    "base_response": "Las fracciones homogéneas pueden clasificarse en simples, que tienen un numerador y un denominador, y compuestas, que incluyen una suma o resta en el numerador. Las mixtas combinan un entero con una fracción. Este tema es fundamental para comprender las proporciones y las operaciones matemáticas básicas."
+  },
+  {
+    "intent_id": "mito_sumar_fracciones_homogeneas",
+    "keywords": [
+      "sumar",
+      "fracciones",
+      "igual",
+      "denominador",
+      "error"
+    ],
+    "base_response": "Un mito común es que se pueden sumar fracciones homogéneas simplemente sumando los denominadores. Esto es incorrecto; solo los numeradores se suman, manteniendo el denominador igual para obtener el resultado correcto. Este tema es fundamental para comprender las proporciones y las operaciones matemáticas básicas."
+  },
+  {
+    "intent_id": "estructura_fraccion_homogenea",
+    "keywords": [
+      "fraccion",
+      "numerador",
+      "denominador",
+      "parte",
+      "total"
+    ],
+    "base_response": "Una fracción homogénea tiene el mismo denominador para todas sus partes. El numerador muestra cuántas partes se consideran, mientras que el denominador indica en cuántas partes se ha dividido el total, reflejando una relación constante."
+  },
+  {
+    "intent_id": "tipos_redondeo_decimal",
+    "keywords": [
+      "redondeo",
+      "decimal",
+      "arriba",
+      "abajo",
+      "cercano"
+    ],
+    "base_response": "Existen dos tipos principales de redondeo decimal: el redondeo hacia arriba, que se utiliza cuando el dígito siguiente es 5 o mayor, y el redondeo hacia abajo, que se aplica cuando es menor que 5, ajustando así el valor aproximado."
+  },
+  {
+    "intent_id": "errores_redondeo_decimal",
+    "keywords": [
+      "error",
+      "redondear",
+      "exactitud",
+      "decimales",
+      "confusion"
+    ],
+    "base_response": "Un mito común es que redondear siempre hace que el número sea más pequeño. Esto es incorrecto, ya que el redondeo puede aumentar o disminuir el valor dependiendo de los dígitos que se encuentren en la posición decimal siguiente."
+  },
+  {
+    "intent_id": "concepto_redondeo_decimal",
+    "keywords": [
+      "redondeo",
+      "decimal",
+      "diez",
+      "centena",
+      "valor"
+    ],
+    "base_response": "El redondeo decimal es el proceso de ajustar un número decimal a un valor más cercano según criterios específicos. Implica determinar la cifra que se mantendrá y decidir si se incrementa o no, según el dígito en la posición siguiente."
+  },
+  {
+    "intent_id": "procedimiento_redondeo_decimal",
+    "keywords": [
+      "paso",
+      "decimales",
+      "cifras",
+      "reglas",
+      "ajuste"
+    ],
+    "base_response": "Para redondear un número decimal, primero identifica el lugar donde deseas redondear. Observa el dígito a su derecha: si es 5 o mayor, aumenta el dígito en uno; si es menor, mantenlo igual. Esto te dará el número redondeado."
+  },
+  {
+    "intent_id": "mitos_numerador_fraccion",
+    "keywords": [
+      "numerador",
+      "parte",
+      "fraccion",
+      "entero",
+      "dividido"
+    ],
+    "base_response": "Un mito común es que el numerador siempre representa una parte mayor que el denominador. Esto es incorrecto; el numerador puede ser menor, igual o mayor, dependiendo de la fracción, lo que afecta su interpretación y comparación."
+  },
+  {
+    "intent_id": "definicion_numerador_fraccion",
+    "keywords": [
+      "numerador",
+      "parte",
+      "arriba",
+      "fraccion",
+      "cantidad"
+    ],
+    "base_response": "El numerador es el número que se encuentra en la parte superior de una fracción. Indica cuántas partes del total se están considerando. En una fracción como 3/4, el 3 es el numerador y representa tres partes de un total de cuatro."
+  },
+  {
+    "intent_id": "calculo_numerador_fraccion",
+    "keywords": [
+      "calculo",
+      "numerador",
+      "fraccion",
+      "suma",
+      "resta"
+    ],
+    "base_response": "Para calcular el numerador en operaciones con fracciones, suma o resta los numeradores según las reglas de operación. Por ejemplo, al sumar 1/4 y 2/4, sumas los numeradores: 1 + 2 = 3, manteniendo el mismo denominador."
+  },
+  {
+    "intent_id": "errores_numerador_fraccion",
+    "keywords": [
+      "errores",
+      "numerador",
+      "denominador",
+      "confusion",
+      "fraccion"
+    ],
+    "base_response": "Un error común es confundir el numerador con el denominador al realizar operaciones. Esto puede llevar a resultados incorrectos. Es fundamental recordar que el numerador indica las partes seleccionadas, mientras que el denominador representa el total de partes."
+  },
+  {
+    "intent_id": "concepto_denominador_fraccion",
+    "keywords": [
+      "denominador",
+      "parte",
+      "abajo",
+      "fraccion",
+      "divisiones"
+    ],
+    "base_response": "El denominador es el número ubicado debajo de la línea fraccionaria en una expresión. Indica en cuántas partes iguales se divide un entero, determinando el tamaño de cada parte en relación con el todo. Este tema es fundamental para comprender las proporciones y las operaciones matemáticas básicas."
+  },
+  {
+    "intent_id": "calculo_denominador_fraccion",
+    "keywords": [
+      "calculo",
+      "fraccion",
+      "multiplicacion",
+      "suma",
+      "simplificacion"
+    ],
+    "base_response": "Para calcular el denominador en operaciones con fracciones, se deben seguir pasos específicos. Al sumar o restar fracciones, se busca un denominador común, mientras que al multiplicar, se multiplican directamente los denominadores de las fracciones involucradas."
+  },
+  {
+    "intent_id": "errores_denominador_fraccion",
+    "keywords": [
+      "errores",
+      "confusion",
+      "suma",
+      "diferencias",
+      "fracciones"
+    ],
+    "base_response": "Un error común al trabajar con fracciones es olvidar ajustar el denominador al sumar o restar. Muchos estudiantes confunden la operación y mantienen denominadores diferentes, lo que lleva a resultados incorrectos y confusión en los cálculos."
+  },
+  {
+    "intent_id": "uso_denominador_vida_diaria",
+    "keywords": [
+      "cocina",
+      "medidas",
+      "porciones",
+      "recetas",
+      "fracciones"
+    ],
+    "base_response": "El denominador es esencial en la cocina al medir ingredientes. Por ejemplo, al preparar una receta, se utilizan fracciones para indicar porciones, donde el denominador refleja cuántas partes se han dividido las cantidades para facilitar la preparación."
+  },
+  {
+    "intent_id": "proceso_amplificacion_fraccion",
+    "keywords": [
+      "amplificacion",
+      "fraccion",
+      "numerador",
+      "denominador",
+      "multiplicacion"
+    ],
+    "base_response": "La amplificación de fracciones se realiza multiplicando tanto el numerador como el denominador por el mismo número entero. Esto permite obtener fracciones equivalentes, manteniendo la misma proporción entre las partes y el todo, sin alterar su valor original."
+  },
+  {
+    "intent_id": "errores_amplificacion_fraccion",
+    "keywords": [
+      "errores",
+      "comunes",
+      "confusion",
+      "amplificacion",
+      "fraccion"
+    ],
+    "base_response": "Un error común al trabajar con fracciones equivalentes por amplificación es multiplicar solo el numerador o el denominador, lo que altera el valor de la fracción. Esta confusión puede generar resultados incorrectos y malentendidos sobre la equivalencia."
+  },
+  {
+    "intent_id": "uso_fracciones_equivalentes",
+    "keywords": [
+      "cocina",
+      "recetas",
+      "porciones",
+      "fracciones",
+      "equivalentes"
+    ],
+    "base_response": "Las fracciones equivalentes son útiles en la cocina al ajustar recetas. Por ejemplo, si una receta requiere 1/2 taza de azúcar, puedes usar 2/4 de taza, lo que facilita la medición y mantiene la proporción adecuada de ingredientes en la preparación."
+  },
+  {
+    "intent_id": "formula_amplificacion_fraccion",
+    "keywords": [
+      "fraccion",
+      "equivalente",
+      "multiplicador",
+      "numerador",
+      "denominador"
+    ],
+    "base_response": "Para amplificar una fracción, se aplica la fórmula: a/b = (a*k)/(b*k), donde 'k' es el multiplicador elegido. Esta fórmula asegura que el valor de la fracción se mantenga constante mientras se cambian sus términos para obtener fracciones equivalentes."
+  },
+  {
+    "intent_id": "errores_simplificacion_fracciones",
+    "keywords": [
+      "errores",
+      "comunes",
+      "simplificacion",
+      "fracciones",
+      "incorrectas"
+    ],
+    "base_response": "Los errores comunes en la simplificación de fracciones incluyen dividir incorrectamente el numerador y el denominador, no buscar el máximo común divisor, y confundir fracciones equivalentes. Estos errores pueden llevar a respuestas incorrectas y a una comprensión errónea del concepto."
+  },
+  {
+    "intent_id": "uso_fracciones_simplificadas",
+    "keywords": [
+      "cocina",
+      "medidas",
+      "porciones",
+      "recetas",
+      "simplificacion"
+    ],
+    "base_response": "En la cocina, las fracciones simplificadas son cruciales para ajustar recetas. Por ejemplo, si una receta requiere 3/4 de taza y solo tienes 1/2, puedes simplificar y calcular la cantidad correcta para mantener las proporciones adecuadas en los ingredientes."
+  },
+  {
+    "intent_id": "metodo_simplificacion_fracciones",
+    "keywords": [
+      "maximo",
+      "comun",
+      "divisor",
+      "numerador",
+      "denominador"
+    ],
+    "base_response": "Para simplificar una fracción, se debe encontrar el máximo común divisor (MCD) del numerador y el denominador. Luego, se divide ambos términos por el MCD. Este proceso asegura que la fracción resultante sea irreducible y más fácil de trabajar."
+  },
+  {
+    "intent_id": "tipos_fracciones_irreducibles",
+    "keywords": [
+      "fracciones",
+      "irreducibles",
+      "simples",
+      "compuestas",
+      "equivalentes"
+    ],
+    "base_response": "Las fracciones irreducibles se clasifican en simples, que tienen numerador y denominador coprimos, y compuestas, que pueden ser expresadas como la suma de fracciones simples. Ambas formas son esenciales en diferentes contextos matemáticos y aplicaciones prácticas."
+  },
+  {
+    "intent_id": "uso_producto_cruzado_fracciones",
+    "keywords": [
+      "comparacion",
+      "proporciones",
+      "recetas",
+      "medidas",
+      "cocina"
+    ],
+    "base_response": "El producto cruzado se emplea para comparar fracciones en situaciones cotidianas, como ajustar recetas. Por ejemplo, al medir ingredientes, puedes decidir qué receta es más eficiente utilizando el producto cruzado para evaluar las proporciones. Este tema es fundamental para comprender las proporciones y las operaciones matemáticas básicas."
+  },
+  {
+    "intent_id": "metodo_producto_cruzado",
+    "keywords": [
+      "multiplicacion",
+      "fracciones",
+      "resultado",
+      "igualdad",
+      "operaciones"
+    ],
+    "base_response": "Para aplicar el producto cruzado, multiplicas el numerador de una fracción por el denominador de la otra. Así, si tienes dos fracciones, A/B y C/D, el resultado se compara mediante AD y BC para establecer igualdad o desigualdad."
+  },
+  {
+    "intent_id": "tipos_fracciones_producto_cruzado",
+    "keywords": [
+      "simples",
+      "compuestas",
+      "impropias",
+      "propias",
+      "clases"
+    ],
+    "base_response": "Las fracciones se clasifican en varias categorías: propias, impropias, simples y compuestas. El producto cruzado es aplicable a todas, permitiendo comparaciones efectivas entre estas diferentes clases de fracciones en diversos problemas matemáticos. Este tema es fundamental para comprender las proporciones y las operaciones matemáticas básicas."
+  },
+  {
+    "intent_id": "mitos_producto_cruzado",
+    "keywords": [
+      "confusion",
+      "fracciones",
+      "igualdad",
+      "errores",
+      "conceptos"
+    ],
+    "base_response": "Un mito común es que el producto cruzado solo funciona con fracciones equivalentes. En realidad, es una técnica válida para cualquier par de fracciones, y no depende de su equivalencia, lo que ayuda a resolver problemas de comparación de forma efectiva."
+  },
+  {
+    "intent_id": "formula_inverso_multiplicativo_fraccion",
+    "keywords": [
+      "inverso",
+      "multiplicativo",
+      "fraccion",
+      "producto",
+      "unidad"
+    ],
+    "base_response": "El inverso multiplicativo de una fracción se obtiene al intercambiar su numerador y denominador. Multiplicar una fracción por su inverso multiplicativo resultará en la unidad, es decir, el número uno, que es el elemento neutro en la multiplicación."
+  },
+  {
+    "intent_id": "tipos_inverso_multiplicativo_fracciones",
+    "keywords": [
+      "fraccion",
+      "entera",
+      "impropia",
+      "mixta",
+      "inversa"
+    ],
+    "base_response": "Las fracciones pueden clasificarse en varias categorías. El inverso multiplicativo aplica a fracciones propias, impropias, y mixtas, cada una con su particularidad, pero todas siguen la misma regla de inversión para encontrar su inverso. Este tema es fundamental para comprender las proporciones y las operaciones matemáticas básicas."
+  },
+  {
+    "intent_id": "errores_inverso_multiplicativo_fraccion",
+    "keywords": [
+      "confusion",
+      "fraccion",
+      "cero",
+      "inverso",
+      "multiplicacion"
+    ],
+    "base_response": "Un mito común es que el inverso multiplicativo de cero es indefinido. En realidad, ninguna fracción puede tener un inverso multiplicativo si su numerador es cero, ya que no se puede dividir entre cero, lo que genera confusión."
+  },
+  {
+    "intent_id": "definicion_inverso_multiplicativo_fraccion",
+    "keywords": [
+      "inverso",
+      "multiplicativo",
+      "fraccion",
+      "numerador",
+      "denominador"
+    ],
+    "base_response": "El inverso multiplicativo de una fracción es una nueva fracción obtenida al intercambiar su numerador y denominador. Este concepto es fundamental en álgebra y permite resolver ecuaciones que involucran multiplicación de fracciones. Este tema es fundamental para comprender las proporciones y las operaciones matemáticas básicas."
+  },
+  {
+    "intent_id": "tipos_fracciones_decimales",
+    "keywords": [
+      "fracciones",
+      "decimales",
+      "completos",
+      "mixtos",
+      "simples"
+    ],
+    "base_response": "Las fracciones decimales se clasifican en fracciones decimales completas, que terminan en cero, y fracciones decimales mixtas, que combinan una parte entera con una fracción. Las fracciones simples son aquellas cuyas partes son enteros. Este tema es fundamental para comprender las proporciones y las operaciones matemáticas básicas."
+  },
+  {
+    "intent_id": "errores_fracciones_decimales",
+    "keywords": [
+      "fracciones",
+      "decimales",
+      "iguales",
+      "diferentes",
+      "confusion"
+    ],
+    "base_response": "Un mito común es pensar que todas las fracciones decimales son iguales. Esto es incorrecto; aunque pueden representar cantidades similares, cada fracción tiene un valor único. Entender la diferencia es vital para las operaciones matemáticas."
+  },
+  {
+    "intent_id": "estructura_fraccion_decimal",
+    "keywords": [
+      "parte",
+      "decimal",
+      "numerador",
+      "denominador",
+      "separador"
+    ],
+    "base_response": "Una fracción decimal se estructura con un numerador y un denominador, donde el denominador indica la cantidad de partes iguales en las que se divide el entero. La parte decimal se separa con una coma o punto, representando fracciones del entero."
+  },
+  {
+    "intent_id": "calculo_fracciones_decimales",
+    "keywords": [
+      "conversion",
+      "suma",
+      "resta",
+      "multiplicacion",
+      "division"
+    ],
+    "base_response": "Para operar con fracciones decimales, primero conviértelos en fracciones comunes si es necesario. Luego, aplica las reglas de suma, resta, multiplicación o división. Asegúrate de simplificar el resultado cuando sea posible para obtener la forma más sencilla."
+  },
+  {
+    "intent_id": "mito_fracciones_decimales",
+    "keywords": [
+      "fraccion",
+      "decimal",
+      "igualdad",
+      "error",
+      "confusion"
+    ],
+    "base_response": "Un mito común es que las fracciones y los decimales son conceptos completamente diferentes. En realidad, una fracción decimal es una forma de representar la misma cantidad, solo que en notación distinta, lo que puede generar confusión entre los estudiantes."
+  },
+  {
+    "intent_id": "definicion_fraccion_decimal",
+    "keywords": [
+      "fraccion",
+      "decimal",
+      "parte",
+      "entero",
+      "representacion"
+    ],
+    "base_response": "Una fracción decimal es un número que puede expresarse como el cociente de dos enteros, donde el denominador es una potencia de diez. Se utiliza para representar cantidades que no son enteras pero que son exactas en formato decimal."
+  },
+  {
+    "intent_id": "proceso_conversion_fraccion_decimal",
+    "keywords": [
+      "conversion",
+      "multiplicacion",
+      "division",
+      "decimales",
+      "pasos"
+    ],
+    "base_response": "Para convertir una fracción a decimal, se divide el numerador entre el denominador. Por ejemplo, para convertir 3/4 a decimal, se realiza la operación 3 ÷ 4, lo que resulta en 0.75, representando la misma cantidad en formato decimal."
+  },
+  {
+    "intent_id": "errores_conversion_fraccion_decimal",
+    "keywords": [
+      "errores",
+      "confusion",
+      "decimales",
+      "fracciones",
+      "numeradores"
+    ],
+    "base_response": "Un error común al convertir fracciones a decimales es olvidar dividir correctamente, lo que puede llevar a resultados incorrectos. Además, algunos estudiantes confunden el numerador con el denominador, afectando la precisión del resultado final. Este tema es fundamental para comprender las proporciones y las operaciones matemáticas básicas."
+  },
+  {
+    "intent_id": "concepto_decimal_exacto",
+    "keywords": [
+      "decimal",
+      "exacto",
+      "parte",
+      "entera",
+      "fraccionario"
+    ],
+    "base_response": "Un número decimal exacto es aquel que tiene un número finito de cifras decimales. Se compone de una parte entera y una parte fraccionaria, donde la parte fraccionaria se expresa con decimales que terminan en un valor específico."
+  },
+  {
+    "intent_id": "proceso_suma_decimal",
+    "keywords": [
+      "suma",
+      "alinear",
+      "decimal",
+      "calcular",
+      "resultado"
+    ],
+    "base_response": "Para sumar números decimales exactos, alinea los puntos decimales verticalmente. Luego, suma cada columna comenzando desde la derecha hacia la izquierda, llevando si es necesario. Asegúrate de mantener el punto decimal en el resultado. Este tema es fundamental para comprender las proporciones y las operaciones matemáticas básicas."
+  },
+  {
+    "intent_id": "fallas_decimal_punto",
+    "keywords": [
+      "error",
+      "punto",
+      "decimal",
+      "olvidar",
+      "resultado"
+    ],
+    "base_response": "Un error común al trabajar con decimales es olvidar colocar el punto decimal en el resultado. Esto puede alterar significativamente el valor final. Es crucial verificar la posición del punto después de realizar operaciones. Este tema es fundamental para comprender las proporciones y las operaciones matemáticas básicas."
+  },
+  {
+    "intent_id": "uso_decimal_compras",
+    "keywords": [
+      "compras",
+      "precio",
+      "decimal",
+      "calculadora",
+      "total"
+    ],
+    "base_response": "En las compras, los precios se expresan en decimales exactos. Al sumar precios en una calculadora, el total reflejará correctamente el costo. Esto ayuda a entender el gasto y a administrar el dinero de manera efectiva."
+  },
+  {
+    "intent_id": "concepto_conversion_decimal_periodico",
+    "keywords": [
+      "decimal",
+      "periodico",
+      "conversion",
+      "fraccion",
+      "calculo"
+    ],
+    "base_response": "Para convertir un decimal periódico puro a fracción, se asigna una variable al decimal, se multiplica por 10 elevado al número de cifras que se repiten, y se restan las ecuaciones obtenidas para despejar la variable, obteniendo la fracción correspondiente."
+  },
+  {
+    "intent_id": "concepto_confusion_decimal_periodico",
+    "keywords": [
+      "error",
+      "confusion",
+      "decimal",
+      "periodico",
+      "diferenciacion"
+    ],
+    "base_response": "Un error común es confundir un decimal periódico puro con un decimal finito. Esto ocurre al no identificar que el decimal tiene una parte que se repite indefinidamente, lo que altera su correcta interpretación y conversión a fracción."
+  },
+  {
+    "intent_id": "concepto_decimal_periodico_vida_real",
+    "keywords": [
+      "decimal",
+      "periodico",
+      "moneda",
+      "calculadora",
+      "finanzas"
+    ],
+    "base_response": "Los decimales periódicos puros se utilizan en finanzas, como en tasas de interés que repiten un patrón. Por ejemplo, un interés del 3.333...% se presenta frecuentemente en cálculos de préstamos y ahorros, facilitando comparaciones y decisiones financieras."
+  },
+  {
+    "intent_id": "concepto_formula_decimal_periodico",
+    "keywords": [
+      "formula",
+      "decimal",
+      "periodico",
+      "fraccion",
+      "numerador"
+    ],
+    "base_response": "La fórmula para convertir un decimal periódico puro a fracción es: x = a.bc... (donde a es la parte entera y bc... es la parte periódica). Multiplicamos por potencias de 10 para eliminar el periodo y resolvemos para x, obteniendo la fracción."
+  },
+  {
+    "intent_id": "errores_decimales_periodicos",
+    "keywords": [
+      "errores",
+      "confusiones",
+      "redondeo",
+      "operaciones",
+      "decimales"
+    ],
+    "base_response": "Un error común al trabajar con decimales periódicos mixtos es confundir su representación. Algunos estudiantes redondean incorrectamente o no consideran la parte periódica, lo que afecta la precisión en operaciones de suma y resta. Este tema es fundamental para comprender las proporciones y las operaciones matemáticas básicas."
+  },
+  {
+    "intent_id": "uso_decimales_periodicos",
+    "keywords": [
+      "dinero",
+      "mediciones",
+      "compras",
+      "porcentajes",
+      "intereses"
+    ],
+    "base_response": "Los decimales periódicos mixtos aparecen en situaciones cotidianas, como en cálculos de intereses bancarios, precios en tiendas o mediciones. Comprenderlos permite realizar operaciones precisas en contextos financieros y de consumo diario. Este tema es fundamental para comprender las proporciones y las operaciones matemáticas básicas."
+  },
+  {
+    "intent_id": "conversion_decimales_periodicos",
+    "keywords": [
+      "conversion",
+      "fracciones",
+      "decimales",
+      "metodo",
+      "algoritmo"
+    ],
+    "base_response": "Para convertir un decimal periódico mixto a fracción, se utiliza un método que involucra multiplicar por potencias de 10. Se resta el valor de la parte no periódica, simplificando el resultado para obtener una fracción equivalente."
+  },
+  {
+    "intent_id": "tipos_decimales_periodicos",
+    "keywords": [
+      "decimales",
+      "periodicos",
+      "mixtos",
+      "simples",
+      "variantes"
+    ],
+    "base_response": "Los decimales periódicos se clasifican en simples y mixtos. Los simples tienen una parte decimal que se repite desde el inicio, mientras que los mixtos combinan una parte decimal no periódica seguida de una periódica, mostrando variaciones en su representación."
+  },
+  {
+    "intent_id": "uso_fraccion_generatriz",
+    "keywords": [
+      "decimales",
+      "fracciones",
+      "vida",
+      "dinero",
+      "medidas"
+    ],
+    "base_response": "Las fracciones generatrices se utilizan en situaciones cotidianas, como convertir precios en decimales o medir longitudes. Por ejemplo, al calcular descuentos, convertir 0.75 en 3/4 ayuda a entender mejor el valor real de una oferta."
+  },
+  {
+    "intent_id": "conversion_decimal_fraccion",
+    "keywords": [
+      "decimal",
+      "fraccion",
+      "numerador",
+      "denominador",
+      "division"
+    ],
+    "base_response": "Para convertir un decimal periódico en fracción generatriz, se establece una ecuación donde el decimal se multiplica por una potencia de 10. Luego, se resuelve la ecuación para obtener el numerador y el denominador de la fracción resultante."
+  },
+  {
+    "intent_id": "tipos_fracciones_generatrices",
+    "keywords": [
+      "periodico",
+      "terminado",
+      "fraccion",
+      "tipos",
+      "clases"
+    ],
+    "base_response": "Existen dos tipos principales de fracciones generatrices: las que corresponden a decimales terminados, como 0.5, y las que corresponden a decimales periódicos, como 0.333... que se convierte en 1/3, diferenciando su representación. Este tema es fundamental para comprender las proporciones y las operaciones matemáticas básicas."
+  },
+  {
+    "intent_id": "errores_fraccion_generatriz",
+    "keywords": [
+      "mito",
+      "decimal",
+      "fraccion",
+      "conversion",
+      "confusion"
+    ],
+    "base_response": "Un mito común es que todos los decimales pueden convertirse en fracciones generatrices. Sin embargo, los decimales no periódicos, como 0.123456..., no tienen una representación fraccionaria exacta, lo que puede confundir a muchos estudiantes. Este tema es fundamental para comprender las proporciones y las operaciones matemáticas básicas."
+  },
+  {
+    "intent_id": "lectura_decimas_conversion",
+    "keywords": [
+      "decimas",
+      "lectura",
+      "conversion",
+      "decimales",
+      "fracciones"
+    ],
+    "base_response": "Para convertir décimas a fracciones, se coloca el número en el numerador y 10 en el denominador. Por ejemplo, 0.7 se convierte en 7/10. La lectura de décimas es esencial para comprender su valor en diferentes contextos matemáticos."
+  },
+  {
+    "intent_id": "tipos_decimas",
+    "keywords": [
+      "decimas",
+      "exactas",
+      "periodicas",
+      "numeros",
+      "decimales"
+    ],
+    "base_response": "Las décimas se clasifican en exactas, como 0.5, y periódicas, como 0.333..., donde un dígito o grupo se repite infinitamente. Comprender estas variaciones ayuda a identificar patrones y realizar operaciones matemáticas adecuadas. Este tema es fundamental para comprender las proporciones y las operaciones matemáticas básicas."
+  },
+  {
+    "intent_id": "mitos_decimas",
+    "keywords": [
+      "decimas",
+      "valores",
+      "diferentes",
+      "confusion",
+      "numeros"
+    ],
+    "base_response": "Un mito común es que las décimas son siempre menores que los enteros. Esto es incorrecto, ya que una décima puede ser mayor que un número entero, como 1.5. Es importante aclarar conceptos para evitar confusiones en la lectura y comparación de números."
+  },
+  {
+    "intent_id": "estructura_decima",
+    "keywords": [
+      "decima",
+      "parte",
+      "decimal",
+      "unidad",
+      "valor"
+    ],
+    "base_response": "Una décima es una fracción que representa una parte de diez partes iguales de una unidad. Su valor está situado en la primera posición a la derecha del punto decimal, indicando un décimo de la unidad completa, fundamental en el sistema decimal."
+  },
+  {
+    "intent_id": "subtipos_centesimas_numericas",
+    "keywords": [
+      "decimales",
+      "fracciones",
+      "porcentajes",
+      "redondeo"
+    ],
+    "base_response": "Las centésimas numéricas incluyen decimales, que representan partes de cien; fracciones, que expresan proporciones; y porcentajes, que indican una parte de cien. Cada tipo tiene un uso específico en diferentes contextos matemáticos y cotidianos. Este tema es fundamental para comprender las proporciones y las operaciones matemáticas básicas."
+  },
+  {
+    "intent_id": "errores_centesimas_numericas",
+    "keywords": [
+      "confusion",
+      "decimales",
+      "fracciones",
+      "valor"
+    ],
+    "base_response": "Un mito común es que las centésimas numéricas son solo decimales. Muchos estudiantes confunden decimales y fracciones, creyendo que son intercambiables, cuando en realidad representan conceptos diferentes sobre la división de un entero. Este tema es fundamental para comprender las proporciones y las operaciones matemáticas básicas."
+  },
+  {
+    "intent_id": "estructura_centesimas_numericas",
+    "keywords": [
+      "unidad",
+      "diez",
+      "cien",
+      "posicion",
+      "valor"
+    ],
+    "base_response": "Las centésimas numéricas se estructuran en decimales, donde el primer número a la derecha del punto decimal es la décima y el segundo es la centésima. Cada posición tiene un valor específico que afecta el total de la cantidad representada."
+  },
+  {
+    "intent_id": "calculo_centesimas_numericas",
+    "keywords": [
+      "suma",
+      "resta",
+      "multiplicacion",
+      "division"
+    ],
+    "base_response": "Para escribir centésimas numéricas, primero identifica la unidad. Luego, usa los valores decimales y realiza operaciones como suma o multiplicación. Asegúrate de mantener la alineación correcta del punto decimal para obtener el resultado preciso. Este tema es fundamental para comprender las proporciones y las operaciones matemáticas básicas."
+  },
+  {
+    "intent_id": "mito_milesimas",
+    "keywords": [
+      "milesimas",
+      "decimal",
+      "confusion",
+      "parte",
+      "entero"
+    ],
+    "base_response": "Un mito común es que las milésimas son irrelevantes en las matemáticas. Sin embargo, son cruciales en medidas precisas y se utilizan en contextos como la geometría y la estadística, donde cada pequeña parte cuenta para obtener resultados exactos."
+  },
+  {
+    "intent_id": "definicion_milesimas",
+    "keywords": [
+      "milesimas",
+      "decimal",
+      "tercera",
+      "parte",
+      "unidad"
+    ],
+    "base_response": "Las milésimas son la tercera posición a la derecha del punto decimal en un número. Representan un milésimo de la unidad, indicando la división del entero en mil partes iguales, esencial para comprender números decimales y su precisión."
+  },
+  {
+    "intent_id": "calculo_milesimas",
+    "keywords": [
+      "calcular",
+      "milesimas",
+      "decimal",
+      "multiplicacion",
+      "unidad"
+    ],
+    "base_response": "Para calcular milésimas, se multiplica el número por mil. Por ejemplo, para convertir 0.003 a milésimas, se multiplica 0.003 por 1000, resultando en 3. Este proceso es fundamental para entender escalas y medidas en matemáticas."
+  },
+  {
+    "intent_id": "error_milesimas",
+    "keywords": [
+      "error",
+      "decimal",
+      "omitir",
+      "parte",
+      "calculo"
+    ],
+    "base_response": "Un error común al trabajar con milésimas es omitir la parte decimal o confundirla con centésimas. Este malentendido puede llevar a resultados incorrectos en cálculos, especialmente en situaciones donde la precisión es esencial, como en la ciencia."
+  },
+  {
+    "intent_id": "definicion_parte_entera_decimal",
+    "keywords": [
+      "parte",
+      "entera",
+      "decimal",
+      "numero",
+      "entero"
+    ],
+    "base_response": "La parte entera de un decimal es la porción completa que precede al punto decimal. Representa el número entero más cercano hacia abajo, sin incluir fracciones o decimales, y es esencial para comprender la magnitud del número."
+  },
+  {
+    "intent_id": "calculo_parte_entera_decimal",
+    "keywords": [
+      "calculo",
+      "parte",
+      "entera",
+      "decimal",
+      "redondear"
+    ],
+    "base_response": "Para calcular la parte entera de un decimal, se observa el número antes del punto decimal. Si es 3.75, la parte entera es 3. Ignora cualquier cifra después del punto, asegurando que solo se considera el valor completo del número."
+  },
+  {
+    "intent_id": "errores_parte_entera_decimal",
+    "keywords": [
+      "errores",
+      "comunes",
+      "confusion",
+      "decimal",
+      "entero"
+    ],
+    "base_response": "Un error común al trabajar con la parte entera del decimal es confundirla con el valor total del decimal. Muchos estudiantes creen que 4.8 tiene como parte entera 4.8, cuando en realidad es 4. Esto puede llevar a malentendidos en cálculos posteriores."
+  },
+  {
+    "intent_id": "aplicaciones_parte_entera_decimal",
+    "keywords": [
+      "vida",
+      "diaria",
+      "compras",
+      "dinero",
+      "presupuesto"
+    ],
+    "base_response": "La parte entera de un decimal se aplica en situaciones cotidianas, como en compras. Si un producto cuesta 19.99 dólares, al calcular el presupuesto, solo consideramos 19 dólares como la parte entera, facilitando el manejo del dinero en la vida diaria."
+  },
+  {
+    "intent_id": "entender_parte_fraccionaria",
+    "keywords": [
+      "parte",
+      "fraccion",
+      "calculo",
+      "division",
+      "unidad"
+    ],
+    "base_response": "La parte fraccionaria de un número se obtiene al dividir el entero en partes iguales. Por ejemplo, para hallar la fracción 3/4 de un número, se divide el número en 4 partes y se toman 3 de ellas, resultando en la cantidad buscada."
+  },
+  {
+    "intent_id": "errores_comunes_fraccion",
+    "keywords": [
+      "errores",
+      "confusion",
+      "numerador",
+      "denominador",
+      "significado"
+    ],
+    "base_response": "Un error común al trabajar con fracciones es confundir numerador y denominador. El numerador indica cuántas partes se toman, mientras que el denominador muestra en cuántas partes se divide la unidad. Esta confusión puede llevar a resultados incorrectos."
+  },
+  {
+    "intent_id": "uso_fracciones_vida_diaria",
+    "keywords": [
+      "cocina",
+      "porciones",
+      "medidas",
+      "dinero",
+      "reparto"
+    ],
+    "base_response": "Las fracciones se utilizan en la cocina para medir ingredientes, como 1/2 taza de azúcar. También son útiles al repartir dinero entre amigos o al calcular descuentos en tiendas, permitiendo entender mejor las proporciones y cantidades en situaciones cotidianas."
+  },
+  {
+    "intent_id": "formula_calculo_fraccion",
+    "keywords": [
+      "formula",
+      "multiplicacion",
+      "division",
+      "resultado",
+      "calculos"
+    ],
+    "base_response": "Para calcular la parte fraccionaria de un número, se utiliza la fórmula: parte fraccionaria = número * (numerador/denominador). Esto permite obtener de forma directa el resultado al multiplicar el número por la fracción correspondiente. Este tema es fundamental para comprender las proporciones y las operaciones matemáticas básicas."
+  },
+  {
+    "intent_id": "confusion_coma_punto_decimal",
+    "keywords": [
+      "coma",
+      "punto",
+      "decimal",
+      "errores",
+      "confusion"
+    ],
+    "base_response": "Un error común es confundir la coma con el punto decimal en las representaciones numéricas. En algunos países, se utiliza la coma para separar los decimales, mientras que en otros se emplea el punto, lo que puede llevar a confusiones en cálculos y lecturas."
+  },
+  {
+    "intent_id": "uso_decimal_vida_diaria",
+    "keywords": [
+      "precio",
+      "compras",
+      "medidas",
+      "decimal",
+      "cocina"
+    ],
+    "base_response": "Los puntos y comas decimales son esenciales en situaciones cotidianas como calcular precios en compras, medir ingredientes en recetas de cocina o expresar distancias. Comprender su uso permite realizar operaciones financieras y científicas de manera efectiva en la vida diaria."
+  },
+  {
+    "intent_id": "operaciones_decimal",
+    "keywords": [
+      "suma",
+      "resta",
+      "multiplicacion",
+      "division",
+      "decimal"
+    ],
+    "base_response": "Las operaciones con decimales requieren reglas específicas. Por ejemplo, al sumar o restar, se alinean los decimales. En multiplicación, se cuentan los lugares decimales en el resultado final. En división, se puede convertir el divisor en entero para facilitar el cálculo."
+  },
+  {
+    "intent_id": "tipos_decimal",
+    "keywords": [
+      "decimal",
+      "finito",
+      "periodico",
+      "mixto",
+      "clases"
+    ],
+    "base_response": "Los decimales se clasifican en finitos, que tienen un número limitado de cifras, y periódicos, que repiten un patrón indefinidamente. También existen decimales mixtos, que combinan una parte entera con una parte decimal, cada uno con características específicas."
+  },
+  {
+    "intent_id": "uso_sumar_decimales_compras",
+    "keywords": [
+      "compras",
+      "precios",
+      "total",
+      "decimales",
+      "suma"
+    ],
+    "base_response": "Al sumar precios decimales en una compra, es esencial alinear los valores correctamente. Esto garantiza que cada cifra ocupe su lugar correspondiente, facilitando el cálculo del total a pagar y evitando errores en las transacciones."
+  },
+  {
+    "intent_id": "metodo_alineacion_suma_decimales",
+    "keywords": [
+      "alineacion",
+      "suma",
+      "decimales",
+      "cifras",
+      "metodo"
+    ],
+    "base_response": "Para sumar decimales, se alinean las cifras por la coma decimal. Se deben agregar ceros si es necesario para igualar la longitud de los números. Luego, se suman de derecha a izquierda, llevando si es necesario, como en la suma tradicional."
+  },
+  {
+    "intent_id": "tipos_suma_decimales",
+    "keywords": [
+      "suma",
+      "decimales",
+      "tipo",
+      "entero",
+      "mixto"
+    ],
+    "base_response": "La suma de decimales puede clasificarse en tres tipos: suma de decimales puros, donde ambos números son decimales; suma de enteros con decimales, y suma de decimales mixtos, que involucra enteros y fracciones decimales. Este tema es fundamental para comprender las proporciones y las operaciones matemáticas básicas."
+  },
+  {
+    "intent_id": "errores_comunes_sumar_decimales",
+    "keywords": [
+      "errores",
+      "concepciones",
+      "decimales",
+      "suma",
+      "alineacion"
+    ],
+    "base_response": "Un mito común es que no es necesario alinear los decimales al sumar. Esto es incorrecto; la alineación es crucial para asegurar que cada cifra se sume correctamente, evitando errores en el resultado final. Este tema es fundamental para comprender las proporciones y las operaciones matemáticas básicas."
+  },
+  {
+    "intent_id": "multiplicacion_decimal_algoritmo",
+    "keywords": [
+      "multiplicacion",
+      "decimales",
+      "algoritmo",
+      "resultado",
+      "posiciones"
+    ],
+    "base_response": "Para multiplicar números con punto decimal, se ignoran los decimales y se multiplica como enteros. Luego, se cuenta el total de cifras decimales en los factores y se coloca el punto en el resultado, ajustando la posición adecuadamente."
+  },
+  {
+    "intent_id": "tipos_multiplicacion_decimal",
+    "keywords": [
+      "decimal",
+      "entero",
+      "porcentaje",
+      "fraccion",
+      "real"
+    ],
+    "base_response": "La multiplicación con punto decimal puede clasificarse en varios tipos: multiplicación de decimal por entero, decimal por decimal, decimal por porcentaje y decimal por fracción. Cada tipo utiliza propiedades diferentes de los números decimales y sus representaciones."
+  },
+  {
+    "intent_id": "errores_multiplicacion_decimal",
+    "keywords": [
+      "confusion",
+      "posiciones",
+      "cero",
+      "resultado",
+      "decimales"
+    ],
+    "base_response": "Un mito común es creer que al multiplicar por un decimal siempre se disminuye el tamaño del resultado. Esto no es cierto, ya que dependerá de los números involucrados; multiplicar por decimales menores a uno puede disminuir el resultado, pero no siempre."
+  },
+  {
+    "intent_id": "componentes_multiplicacion_decimal",
+    "keywords": [
+      "multiplicando",
+      "multiplicador",
+      "decimales",
+      "resultado",
+      "producto"
+    ],
+    "base_response": "En la multiplicación con punto decimal, se identifican dos componentes clave: el multiplicando, que es el número a multiplicar, y el multiplicador, que es el número que realiza la operación. El resultado se denomina producto y puede incluir decimales."
+  },
+  {
+    "intent_id": "tipos_division_decimal",
+    "keywords": [
+      "exacta",
+      "inexacta",
+      "mixta",
+      "decimal",
+      "resultado"
+    ],
+    "base_response": "La división con divisores decimales se clasifica en exactas, cuando el resultado es un número entero, e inexactas, cuando produce un decimal. También se considera la división mixta, que involucra tanto enteros como decimales en el divisor."
+  },
+  {
+    "intent_id": "errores_division_decimal",
+    "keywords": [
+      "dificultad",
+      "decimal",
+      "numeros",
+      "resultado",
+      "confusion"
+    ],
+    "base_response": "Un mito común es que dividir por un número decimal siempre es más difícil. En realidad, el proceso es similar a dividir por enteros, solo que se requiere mover el punto decimal, lo que puede causar confusión pero no aumenta la dificultad."
+  },
+  {
+    "intent_id": "estructura_division_decimal",
+    "keywords": [
+      "dividendo",
+      "divisor",
+      "cociente",
+      "decimal",
+      "punto"
+    ],
+    "base_response": "En la división con divisores decimales, el dividendo es el número que se divide y el divisor es el decimal. El resultado se llama cociente, que puede contener un punto decimal, dependiendo de la magnitud del divisor y la división realizada."
+  },
+  {
+    "intent_id": "proceso_division_decimal",
+    "keywords": [
+      "mover",
+      "decimal",
+      "dividir",
+      "multiplicar",
+      "resultado"
+    ],
+    "base_response": "Para dividir por un decimal, se mueve el punto decimal del divisor a la derecha hasta convertirlo en un entero. Se realiza la misma operación al dividendo. Luego, se efectúa la división normalmente, obteniendo el cociente con el punto decimal ajustado."
+  },
+  {
+    "intent_id": "mito_truncamiento_decimal",
+    "keywords": [
+      "truncamiento",
+      "decimal",
+      "redondeo",
+      "error",
+      "confusion"
+    ],
+    "base_response": "Un mito común es que truncar cifras decimales es lo mismo que redondear. Sin embargo, truncar significa cortar los decimales sin cambiar el último dígito, mientras que redondear ajusta el número según reglas específicas, lo que puede alterar el valor."
+  },
+  {
+    "intent_id": "definicion_truncamiento_decimal",
+    "keywords": [
+      "truncamiento",
+      "decimales",
+      "numero",
+      "parte",
+      "corte"
+    ],
+    "base_response": "El truncamiento de cifras decimales es el proceso de eliminar los dígitos a la derecha de un punto decimal, sin alterar el dígito que se encuentra en la posición de corte. Esto simplifica el número sin aproximarlo."
+  },
+  {
+    "intent_id": "pasos_truncamiento_decimal",
+    "keywords": [
+      "truncar",
+      "decimales",
+      "proceso",
+      "corte",
+      "numero"
+    ],
+    "base_response": "Para truncar un número decimal, identifica el dígito en la posición deseada y corta todos los dígitos a la derecha. Por ejemplo, truncar 3.456 a una cifra decimal resulta en 3.4, eliminando 5 y 6 sin redondear."
+  },
+  {
+    "intent_id": "errores_truncamiento_decimal",
+    "keywords": [
+      "error",
+      "truncar",
+      "redondear",
+      "confundir",
+      "valores"
+    ],
+    "base_response": "Un error frecuente es confundir truncamiento con redondeo. Al truncar, se pierden valores decimales sin ajustar el dígito anterior, lo que puede llevar a resultados incorrectos en cálculos que requieren precisión. Este tema es fundamental para comprender las proporciones y las operaciones matemáticas básicas."
+  },
+  {
+    "intent_id": "definicion_cifras_significativas",
+    "keywords": [
+      "cifra",
+      "significativa",
+      "numero",
+      "precision",
+      "medida"
+    ],
+    "base_response": "Las cifras significativas son los dígitos de un número que contribuyen a su precisión. Incluyen todos los dígitos diferentes de cero y los ceros que están entre ellos o a la derecha del último dígito significativo."
+  },
+  {
+    "intent_id": "calculo_cifras_significativas",
+    "keywords": [
+      "calculo",
+      "cifras",
+      "significativas",
+      "detectar",
+      "aplicar"
+    ],
+    "base_response": "Para calcular las cifras significativas, identifica todos los dígitos no cero, los ceros entre ellos y los ceros finales en un número decimal. Ignora los ceros a la izquierda. Aplica esta regla a distintos tipos de números para determinar su precisión."
+  },
+  {
+    "intent_id": "errores_cifras_significativas",
+    "keywords": [
+      "errores",
+      "comunes",
+      "cifras",
+      "significativas",
+      "confusion"
+    ],
+    "base_response": "Un error común es contar ceros iniciales como cifras significativas. También se confunden los ceros finales en números enteros. Estos errores pueden llevar a malinterpretaciones sobre la precisión de las medidas en experimentos y cálculos."
+  },
+  {
+    "intent_id": "aplicaciones_cifras_significativas",
+    "keywords": [
+      "mediciones",
+      "cientificas",
+      "resultados",
+      "informes",
+      "precision"
+    ],
+    "base_response": "En las ciencias, las cifras significativas son cruciales para reportar resultados de mediciones. Por ejemplo, en un experimento químico, la precisión de los resultados depende de cómo se expresan las cifras significativas en los informes finales."
+  },
+  {
+    "intent_id": "comparacion_fracciones_dinamica",
+    "keywords": [
+      "fracciones",
+      "comparar",
+      "numerador",
+      "denominador",
+      "mismo"
+    ],
+    "base_response": "Para comparar fracciones, primero se debe verificar si tienen el mismo denominador. Si es así, se comparan los numeradores. Si los denominadores son diferentes, se busca un común múltiplo y se ajustan las fracciones antes de comparar los nuevos numeradores."
+  },
+  {
+    "intent_id": "errores_comunes_fracciones",
+    "keywords": [
+      "confusion",
+      "denominador",
+      "numerador",
+      "comparar",
+      "equivalente"
+    ],
+    "base_response": "Un error común al comparar fracciones es confundir el numerador con el denominador. Muchos estudiantes piensan que una fracción con un numerador mayor siempre es mayor, sin considerar el denominador, lo que puede llevar a conclusiones incorrectas."
+  },
+  {
+    "intent_id": "fracciones_en_vida_diaria",
+    "keywords": [
+      "porciones",
+      "recetas",
+      "comida",
+      "grupo",
+      "repartir"
+    ],
+    "base_response": "Las fracciones se utilizan en la cocina al seguir recetas, donde se deben comparar porciones. Por ejemplo, al preparar un platillo para más personas, es necesario ajustar las cantidades, comparando las fracciones de ingredientes para garantizar la cantidad adecuada."
+  },
+  {
+    "intent_id": "formula_comparacion_fracciones",
+    "keywords": [
+      "cruz",
+      "multiplicacion",
+      "numerador",
+      "denominador",
+      "calculo"
+    ],
+    "base_response": "Para comparar fracciones como a/b y c/d, se utiliza la multiplicación cruzada: a*d y b*c. Si a*d > b*c, entonces a/b es mayor que c/d. Este método permite determinar rápidamente cuál fracción es mayor sin necesidad de convertirlas a un denominador común."
+  },
+  {
+    "intent_id": "errores_graficar_fracciones",
+    "keywords": [
+      "fracciones",
+      "grafico",
+      "errores",
+      "representacion",
+      "comun"
+    ],
+    "base_response": "Un error común al graficar fracciones es no representar adecuadamente el valor relativo. Por ejemplo, graficar 1/2 y 1/3 en la misma escala puede llevar a confusión, ya que 1/2 es mayor que 1/3. La precisión es crucial."
+  },
+  {
+    "intent_id": "uso_fracciones_graficas_diario",
+    "keywords": [
+      "fracciones",
+      "graficas",
+      "vida",
+      "real",
+      "ejemplos"
+    ],
+    "base_response": "Las fracciones se utilizan en la cocina al medir ingredientes. Por ejemplo, al hacer una pizza, si se corta en partes, la representación gráfica ayuda a entender cuántas porciones se tienen y cuántas se consumen, facilitando la planificación de comidas."
+  },
+  {
+    "intent_id": "calculo_porcentajes_fracciones",
+    "keywords": [
+      "porcentaje",
+      "fracciones",
+      "calculo",
+      "formulas",
+      "conversion"
+    ],
+    "base_response": "Para convertir una fracción a porcentaje, se multiplica por 100. Por ejemplo, la fracción 3/4 se convierte en 75% (3/4 * 100). Esta relación es fundamental para comprender proporciones y comparaciones en diferentes contextos. Este tema es fundamental para comprender las proporciones y las operaciones matemáticas básicas."
+  },
+  {
+    "intent_id": "tipos_fracciones_graficas",
+    "keywords": [
+      "fracciones",
+      "propias",
+      "impropias",
+      "mixtas",
+      "clases"
+    ],
+    "base_response": "Las fracciones se clasifican en propias, que son menores que 1, impropias, que son mayores o iguales a 1, y mixtas, que combinan un número entero con una fracción. Esta clasificación ayuda a entender su representación gráfica y su uso."
+  },
+  {
+    "intent_id": "suma_fracciones_recta",
+    "keywords": [
+      "suma",
+      "fracciones",
+      "recta",
+      "denominador",
+      "numerador"
+    ],
+    "base_response": "Para sumar fracciones en la recta numérica, se deben tener denominadores comunes. Se suman los numeradores y se mantiene el denominador, facilitando la representación visual del resultado en la recta entre las posiciones correspondientes. Este tema es fundamental para comprender las proporciones y las operaciones matemáticas básicas."
+  },
+  {
+    "intent_id": "tipos_fracciones_recta",
+    "keywords": [
+      "propias",
+      "impropias",
+      "mixtas",
+      "fracciones",
+      "tipos"
+    ],
+    "base_response": "Las fracciones se clasifican en propias, que son menores que uno; impropias, que son mayores o iguales a uno; y mixtas, que combinan un número entero y una fracción. Cada tipo tiene su representación en la recta numérica."
+  },
+  {
+    "intent_id": "mitos_fracciones_recta",
+    "keywords": [
+      "mito",
+      "fracciones",
+      "confusion",
+      "enteros",
+      "recta"
+    ],
+    "base_response": "Un mito común es que las fracciones siempre son menores que uno. Esto es incorrecto, ya que las fracciones impropias, como 5/3, son mayores que uno y su ubicación en la recta numérica refleja esto con claridad."
+  },
+  {
+    "intent_id": "algoritmo_minimo_comun_denominador",
+    "keywords": [
+      "fracciones",
+      "denominador",
+      "mcd",
+      "multiplicar",
+      "suma"
+    ],
+    "base_response": "Para encontrar el mínimo común denominador (MCD) de fracciones, se determina el mínimo común múltiplo (MCM) de los denominadores. Multiplica cada fracción por la fracción necesaria para convertir su denominador al MCD, facilitando así la suma o resta."
+  },
+  {
+    "intent_id": "tipos_minimo_comun_denominador",
+    "keywords": [
+      "fracciones",
+      "simples",
+      "compuestas",
+      "mixtas",
+      "decimales"
+    ],
+    "base_response": "Los tipos de fracciones que requieren un mínimo común denominador incluyen fracciones simples, compuestas y mixtas. También se consideran fracciones decimales, que pueden convertirse a fracciones comunes para aplicar el concepto del MCD en operaciones."
+  },
+  {
+    "intent_id": "errores_minimo_comun_denominador",
+    "keywords": [
+      "confusion",
+      "denominador",
+      "suma",
+      "multiplicacion",
+      "igual"
+    ],
+    "base_response": "Un mito común es que el mínimo común denominador solo se utiliza en la suma de fracciones. En realidad, es fundamental también para restar fracciones y asegurar que se operen correctamente en términos de igualdad y equivalencia."
+  },
+  {
+    "intent_id": "definicion_minimo_comun_denominador",
+    "keywords": [
+      "minimo",
+      "comun",
+      "denominador",
+      "fracciones",
+      "mcm"
+    ],
+    "base_response": "El mínimo común denominador es el menor múltiplo común de los denominadores de dos o más fracciones. Facilita la comparación, suma o resta de fracciones, permitiendo trabajar con un denominador equivalente en todas las fracciones involucradas."
+  },
+  {
+    "intent_id": "tipos_fracciones_heterogeneas",
+    "keywords": [
+      "fraccion",
+      "comun",
+      "diferente",
+      "denominador",
+      "tipos"
+    ],
+    "base_response": "Las fracciones heterogéneas son aquellas que tienen diferentes denominadores. Se clasifican en fracciones propias y fracciones impropias. Es fundamental identificar su tipo para realizar operaciones adecuadas, como la resta, que requiere un denominador común. Este tema es fundamental para comprender las proporciones y las operaciones matemáticas básicas."
+  },
+  {
+    "intent_id": "error_resta_fracciones_heterogeneas",
+    "keywords": [
+      "resta",
+      "igualar",
+      "denominador",
+      "confusion",
+      "concepto"
+    ],
+    "base_response": "Un mito común es pensar que se pueden restar fracciones heterogéneas directamente sin igualar los denominadores. Esto es incorrecto; se debe encontrar un denominador común para realizar la resta correctamente, garantizando la precisión del resultado."
+  },
+  {
+    "intent_id": "estructura_resta_fracciones",
+    "keywords": [
+      "numerador",
+      "denominador",
+      "fraccion",
+      "resultado",
+      "operacion"
+    ],
+    "base_response": "La resta de fracciones heterogéneas implica primero encontrar un denominador común. Luego, se ajustan los numeradores en función del nuevo denominador y se realiza la resta de los numeradores. Finalmente, se simplifica la fracción resultante si es posible."
+  },
+  {
+    "intent_id": "pasos_resta_fracciones_heterogeneas",
+    "keywords": [
+      "pasos",
+      "calculo",
+      "denominador",
+      "numerador",
+      "resultado"
+    ],
+    "base_response": "Para restar fracciones heterogéneas, sigue estos pasos: 1) Encuentra el mínimo común múltiplo de los denominadores. 2) Convierte cada fracción a un denominador común. 3) Resta los numeradores. 4) Simplifica el resultado si es necesario."
+  },
+  {
+    "intent_id": "mito_multiplicacion_numeradores",
+    "keywords": [
+      "multiplicacion",
+      "numeradores",
+      "resultado",
+      "fraccion",
+      "confusion"
+    ],
+    "base_response": "Un mito común es que al multiplicar fracciones, se debe sumar los numeradores. En realidad, se multiplican directamente los numeradores entre sí, lo que puede causar confusión en quienes no dominan la operación correcta. Este tema es fundamental para comprender las proporciones y las operaciones matemáticas básicas."
+  },
+  {
+    "intent_id": "definicion_multiplicacion_numeradores",
+    "keywords": [
+      "multiplicacion",
+      "numerador",
+      "fraccion",
+      "operacion",
+      "resultante"
+    ],
+    "base_response": "La multiplicación de numeradores es la operación que consiste en multiplicar los números que se encuentran en la parte superior de las fracciones. El resultado es el nuevo numerador de la fracción resultante, que se debe simplificar si es necesario."
+  },
+  {
+    "intent_id": "pasos_multiplicacion_numeradores",
+    "keywords": [
+      "multiplicacion",
+      "numerador",
+      "fraccion",
+      "calculo",
+      "paso"
+    ],
+    "base_response": "Para multiplicar numeradores, primero identifica los numeradores de las fracciones. Multiplica estos valores entre sí para obtener el nuevo numerador. Este proceso es fundamental en la multiplicación de fracciones y se aplica de manera sistemática."
+  },
+  {
+    "intent_id": "errores_multiplicacion_numeradores",
+    "keywords": [
+      "errores",
+      "numeradores",
+      "fraccion",
+      "resultado",
+      "confusion"
+    ],
+    "base_response": "Un error frecuente al multiplicar fracciones es olvidar multiplicar los numeradores y en su lugar sumar o restar. Esto lleva a resultados incorrectos y confusión, destacando la importancia de seguir el procedimiento correcto en cada operación."
+  },
+  {
+    "intent_id": "proceso_suma_fracciones_compuestas",
+    "keywords": [
+      "suma",
+      "fracciones",
+      "complejas",
+      "comun",
+      "denominadores"
+    ],
+    "base_response": "Para sumar fracciones compuestas, primero se debe encontrar un denominador común. Luego, se ajustan los numeradores de acuerdo al nuevo denominador y, finalmente, se suman los numeradores, simplificando el resultado si es necesario. Este tema es fundamental para comprender las proporciones y las operaciones matemáticas básicas."
+  },
+  {
+    "intent_id": "errores_multiplicacion_fracciones_compuestas",
+    "keywords": [
+      "multiplicacion",
+      "fracciones",
+      "complejas",
+      "comunes",
+      "errores"
+    ],
+    "base_response": "Un error común al multiplicar fracciones compuestas es olvidar simplificar antes de multiplicar. Esto puede llevar a respuestas incorrectas. También se tiende a confundir el orden de los numeradores y denominadores, afectando el resultado final."
+  },
+  {
+    "intent_id": "uso_fracciones_compuestas_cocina",
+    "keywords": [
+      "cocina",
+      "recetas",
+      "fracciones",
+      "ingredientes",
+      "porciones"
+    ],
+    "base_response": "Las fracciones compuestas se utilizan en la cocina al medir ingredientes. Por ejemplo, al mezclar 1/2 taza de azúcar con 1/3 de taza de miel, se aplican fracciones complejas para calcular la cantidad total de endulzante en una receta."
+  },
+  {
+    "intent_id": "formula_reduccion_fracciones_compuestas",
+    "keywords": [
+      "reduccion",
+      "fracciones",
+      "complejas",
+      "simplificacion",
+      "algoritmo"
+    ],
+    "base_response": "La fórmula para reducir fracciones compuestas implica encontrar el máximo común divisor (MCD) de los numeradores y denominadores. Dividiendo ambos por el MCD, se obtiene la forma simplificada, facilitando el cálculo y la comprensión. Este tema es fundamental para comprender las proporciones y las operaciones matemáticas básicas."
+  },
+  {
+    "intent_id": "uso_notacion_cientifica",
+    "keywords": [
+      "notacion",
+      "cientifica",
+      "mediciones",
+      "astronomia",
+      "ciencia"
+    ],
+    "base_response": "La notación científica se utiliza para expresar números muy grandes o muy pequeños, como las distancias en astronomía o el tamaño de microorganismos. Facilita la comprensión y manejo de cifras extremas en diferentes campos científicos y técnicos."
+  },
+  {
+    "intent_id": "conversion_notacion_cientifica",
+    "keywords": [
+      "conversion",
+      "numero",
+      "exponente",
+      "base",
+      "multiplicacion"
+    ],
+    "base_response": "Para convertir un número a notación científica, se expresa como un producto de un número entre 1 y 10, multiplicado por una potencia de 10. Por ejemplo, 3000 se convierte en 3 x 10^3, donde 3 es la base y 3 el exponente."
+  },
+  {
+    "intent_id": "tipos_notacion_cientifica",
+    "keywords": [
+      "tipos",
+      "notacion",
+      "cientifica",
+      "positiva",
+      "negativa"
+    ],
+    "base_response": "Existen dos tipos de notación científica: positiva y negativa. La notación positiva se usa para números grandes, mientras que la negativa se aplica a números pequeños. Ambas facilitan la representación y el cálculo de cifras extremas en matemáticas."
+  },
+  {
+    "intent_id": "errores_notacion_cientifica",
+    "keywords": [
+      "errores",
+      "mitos",
+      "notacion",
+      "cientifica",
+      "entender"
+    ],
+    "base_response": "Un mito común sobre la notación científica es que solo se usa en matemáticas avanzadas. En realidad, es una herramienta esencial desde niveles básicos, ayudando a entender y manejar grandes y pequeños números en diversas disciplinas desde la escuela."
+  },
+  {
+    "intent_id": "concepto_correspondencia_coma",
+    "keywords": [
+      "corrimiento",
+      "coma",
+      "decimales",
+      "multiplicacion",
+      "division"
+    ],
+    "base_response": "El corrimiento de la coma se utiliza para cambiar la posición de los decimales en un número, multiplicando o dividiendo por potencias de diez. Este proceso altera el valor del número, facilitando cálculos y comparaciones entre cantidades."
+  },
+  {
+    "intent_id": "tipos_corrimiento_coma",
+    "keywords": [
+      "derecha",
+      "izquierda",
+      "decimal",
+      "entero"
+    ],
+    "base_response": "Existen dos tipos de corrimiento de la coma: a la derecha, que aumenta el valor del número, y a la izquierda, que lo disminuye. Cada tipo tiene aplicaciones específicas en operaciones con números decimales y enteros."
+  },
+  {
+    "intent_id": "errores_corrimiento_coma",
+    "keywords": [
+      "confusion",
+      "valor",
+      "decimales",
+      "numeros",
+      "operaciones"
+    ],
+    "base_response": "Un mito común es que el corrimiento de la coma siempre produce un número mayor. En realidad, desplazar la coma a la izquierda disminuye el valor del número, lo que puede generar confusiones en operaciones matemáticas."
+  },
+  {
+    "intent_id": "concepto_cambio_coma",
+    "keywords": [
+      "coma",
+      "numeros",
+      "posicion",
+      "valores",
+      "decimales"
+    ],
+    "base_response": "El corrimiento de la coma implica mover la coma decimal en un número. Este desplazamiento afecta la posición de los dígitos, cambiando su valor relativo y, por ende, la magnitud del número representado en forma decimal."
+  },
+  {
+    "intent_id": "tipos_potencias_base_diez",
+    "keywords": [
+      "potencia",
+      "base",
+      "exponente",
+      "numero",
+      "clase"
+    ],
+    "base_response": "Las potencias de base diez se clasifican en potencias enteras, fraccionarias y negativas. Cada tipo tiene una representación específica: enteras multiplican la base, fraccionarias representan raíces y negativas indican divisiones del número uno entre la potencia positiva."
+  },
+  {
+    "intent_id": "errores_comunes_potencias",
+    "keywords": [
+      "confusion",
+      "multiplicacion",
+      "suma",
+      "potencia",
+      "base"
+    ],
+    "base_response": "Un mito común es pensar que al sumar exponentes se multiplican las potencias de diez. Esto es incorrecto; los exponentes solo se suman cuando las bases son iguales. La confusión puede llevar a errores en cálculos y resultados."
+  },
+  {
+    "intent_id": "concepto_potencia_base_diez",
+    "keywords": [
+      "potencia",
+      "base",
+      "exponente",
+      "resultado",
+      "multiplicacion"
+    ],
+    "base_response": "Una potencia de base diez se expresa como 10^n, donde 'n' es el exponente. Este exponente indica cuántas veces se multiplica la base por sí misma, siendo el resultado un número que representa una magnitud específica en el sistema decimal."
+  },
+  {
+    "intent_id": "calculo_potencias_base_diez",
+    "keywords": [
+      "calculo",
+      "multiplicacion",
+      "repetitiva",
+      "exponente",
+      "base"
+    ],
+    "base_response": "Para calcular potencias de base diez, se multiplica la base diez por sí misma tantas veces como indique el exponente. Por ejemplo, para 10^3, se multiplica 10 por 10 por 10, resultando en 1000, una forma de representar números grandes."
+  },
+  {
+    "intent_id": "fracciones_propias_cocina",
+    "keywords": [
+      "receta",
+      "porciones",
+      "ingredientes",
+      "medidas",
+      "cocina"
+    ],
+    "base_response": "En la cocina, las fracciones propias son útiles para medir ingredientes. Por ejemplo, si una receta requiere 2/3 de taza de azúcar, se utiliza esta fracción para representar la cantidad exacta necesaria, facilitando la preparación de alimentos y el control de porciones."
+  },
+  {
+    "intent_id": "definicion_fraccion_impropia",
+    "keywords": [
+      "numerador",
+      "denominador",
+      "fraccion",
+      "mayor",
+      "unidad"
+    ],
+    "base_response": "Una fracción impropia es aquella en la que el numerador es mayor que el denominador. Esto significa que la cantidad representada es igual o superior a una unidad. Por ejemplo, 7/4 indica que hay más de una unidad completa."
+  },
+  {
+    "intent_id": "conversion_fracciones_impropias",
+    "keywords": [
+      "convertir",
+      "mixto",
+      "entero",
+      "fraccion",
+      "suma"
+    ],
+    "base_response": "Para convertir una fracción impropia a un número mixto, divide el numerador por el denominador. El cociente es la parte entera y el residuo sobre el denominador forma la parte fraccionaria. Por ejemplo, 9/4 se convierte en 2 1/4."
+  },
+  {
+    "intent_id": "uso_fracciones_mixtas",
+    "keywords": [
+      "cocina",
+      "medidas",
+      "recetas",
+      "porciones",
+      "ingredientes"
+    ],
+    "base_response": "Las fracciones mixtas son útiles en la cocina, especialmente al medir ingredientes. Por ejemplo, una receta puede requerir 2 1/2 tazas de harina, lo que facilita la comprensión de cantidades en porciones más grandes y su utilización práctica."
+  },
+  {
+    "intent_id": "tipos_fracciones",
+    "keywords": [
+      "fraccion",
+      "propia",
+      "impropia",
+      "mixta",
+      "numerador"
+    ],
+    "base_response": "Las fracciones se clasifican en fracciones propias, donde el numerador es menor que el denominador; fracciones impropias, donde el numerador es mayor; y fracciones mixtas, que combinan un número entero y una fracción propia, representando cantidades mayores."
+  },
+  {
+    "intent_id": "errores_conversion_fracciones",
+    "keywords": [
+      "mito",
+      "parte",
+      "entero",
+      "equivalente",
+      "confusion"
+    ],
+    "base_response": "Un mito común es que las fracciones con diferentes denominadores no pueden ser comparadas. Esto es incorrecto. Todas las fracciones pueden ser convertidas a un denominador común, facilitando su comparación y comprensión, lo que es fundamental en matemáticas."
+  },
+  {
+    "intent_id": "metodo_calculo_redondeo",
+    "keywords": [
+      "decimales",
+      "cifras",
+      "umbral",
+      "ajuste",
+      "pasos"
+    ],
+    "base_response": "Para redondear un número decimal, identifica la cifra a redondear. Si la cifra siguiente es 5 o mayor, aumenta la cifra elegida en uno. Si es menor que 5, mantén la cifra. Elimina las cifras a la derecha del punto decimal."
+  },
+  {
+    "intent_id": "amplificacion_fracciones_equivalentes",
+    "keywords": [
+      "fraccion",
+      "amplificacion",
+      "numerador",
+      "denominador",
+      "multiplicacion"
+    ],
+    "base_response": "La amplificación de fracciones equivale a multiplicar tanto el numerador como el denominador por el mismo número entero. Este proceso mantiene el valor de la fracción, transformándola en una forma más sencilla o más comprensible según el contexto."
+  },
+  {
+    "intent_id": "errores_amplificacion_fracciones",
+    "keywords": [
+      "errores",
+      "fraccion",
+      "numerador",
+      "denominador",
+      "multiplicacion"
+    ],
+    "base_response": "Un error común al amplificar fracciones es no multiplicar ambos, numerador y denominador, por el mismo número. Esto resulta en una fracción que no es equivalente, alterando su valor original y generando confusión en su interpretación."
+  },
+  {
+    "intent_id": "formula_amplificacion_fracciones",
+    "keywords": [
+      "formula",
+      "fraccion",
+      "amplificacion",
+      "numerador",
+      "denominador"
+    ],
+    "base_response": "Para amplificar una fracción, se aplica la fórmula: a/b * c/c = (a*c)/(b*c). Aquí, 'a' y 'b' son el numerador y denominador originales, y 'c' es el número por el cual se amplifica, manteniendo la equivalencia."
+  },
+  {
+    "intent_id": "errores_comunes_simplificacion",
+    "keywords": [
+      "simplificacion",
+      "errores",
+      "confusiones",
+      "numerador",
+      "denominador"
+    ],
+    "base_response": "Un error común al simplificar fracciones es no dividir correctamente el numerador y el denominador por el mismo número. También, algunos estudiantes pueden confundir el proceso y no identificar correctamente los factores comunes, lo que lleva a simplificaciones incorrectas."
+  },
+  {
+    "intent_id": "fracciones_en_cocina",
+    "keywords": [
+      "recetas",
+      "cocina",
+      "proporciones",
+      "medidas",
+      "porciones"
+    ],
+    "base_response": "En la cocina, las fracciones se utilizan para ajustar recetas. Por ejemplo, si una receta requiere 3/4 de taza de azúcar y deseas hacer la mitad, simplificas a 3/8 de taza, facilitando la medición y asegurando el balance adecuado de ingredientes."
+  },
+  {
+    "intent_id": "algoritmo_simplificacion_fracciones",
+    "keywords": [
+      "fracciones",
+      "simplificacion",
+      "mcd",
+      "numerador",
+      "denominador"
+    ],
+    "base_response": "Para simplificar una fracción, se debe encontrar el máximo común divisor (MCD) del numerador y el denominador. Luego, se divide ambos por este número. Así, la fracción se reduce a su forma irreducible, manteniendo el mismo valor."
+  },
+  {
+    "intent_id": "conversion_fraccion_decimal",
+    "keywords": [
+      "convertir",
+      "fraccion",
+      "decimal",
+      "calcular",
+      "proceso"
+    ],
+    "base_response": "Para convertir una fracción en decimal, se divide el numerador entre el denominador. Este proceso implica realizar una división que puede resultar en un número finito o infinito, dependiendo de la naturaleza de la fracción original."
+  },
+  {
+    "intent_id": "calculo_decimal_exacto",
+    "keywords": [
+      "suma",
+      "resta",
+      "multiplicacion",
+      "division",
+      "operacion"
+    ],
+    "base_response": "Para operar con decimales exactos finitos, se alinean los puntos decimales y se realizan las operaciones como en números enteros. Se debe tener cuidado con la posición del punto decimal en el resultado final de cada operación matemática."
+  },
+  {
+    "intent_id": "fallas_decimal_exacto",
+    "keywords": [
+      "confusion",
+      "punto",
+      "alineacion",
+      "cifras",
+      "resultado"
+    ],
+    "base_response": "Un error común al trabajar con decimales exactos finitos es no alinear correctamente los puntos decimales durante la suma o resta. Esto puede llevar a resultados incorrectos, ya que la colocación incorrecta afecta la magnitud de los números involucrados."
+  },
+  {
+    "intent_id": "uso_decimal_exacto",
+    "keywords": [
+      "dinero",
+      "mediciones",
+      "cocina",
+      "compras",
+      "precio"
+    ],
+    "base_response": "En la vida diaria, los decimales exactos finitos se utilizan para expresar precios en compras, medir ingredientes en recetas de cocina y calcular distancias. Son esenciales para representar cantidades con precisión en diversas situaciones cotidianas."
+  },
+  {
+    "intent_id": "uso_fraccion_generatriz_decimales",
+    "keywords": [
+      "decimales",
+      "fraccion",
+      "dinero",
+      "medidas",
+      "cocina"
+    ],
+    "base_response": "Las fracciones generatrices de decimales son útiles en situaciones cotidianas como calcular precios al hacer compras, dividir ingredientes en recetas de cocina y medir distancias, facilitando la comprensión de proporciones y equivalencias en diferentes contextos."
+  },
+  {
+    "intent_id": "metodo_conversion_fraccion_decimal",
+    "keywords": [
+      "dividir",
+      "numerador",
+      "denominador",
+      "decimal",
+      "resultado"
+    ],
+    "base_response": "Para encontrar la fracción generatriz de un decimal periódico, se debe expresar el decimal como una fracción dividiendo el numerador (decimal sin punto) por el denominador (potencia de diez según la cantidad de cifras decimales)."
+  },
+  {
+    "intent_id": "malentendidos_fracciones_decimales",
+    "keywords": [
+      "confusion",
+      "fracciones",
+      "decimales",
+      "exactitud",
+      "concepto"
+    ],
+    "base_response": "Un mito común es que todos los decimales pueden representarse como fracciones simples. Sin embargo, solo los decimales finitos y periódicos tienen fracciones generatrices, mientras que los decimales no periódicos no pueden expresarse como tales."
+  },
+  {
+    "intent_id": "concepto_diecimas",
+    "keywords": [
+      "decima",
+      "parte",
+      "diez",
+      "fraccion",
+      "unidad"
+    ],
+    "base_response": "Una décima es una fracción que representa una parte de un entero dividido en diez partes iguales. En términos matemáticos, se expresa como 1/10, lo que significa que de una unidad se ha tomado una de esas diez partes."
+  },
+  {
+    "intent_id": "calculo_decimal_diecimas",
+    "keywords": [
+      "diez",
+      "decimal",
+      "conversion",
+      "fraccion",
+      "calculo"
+    ],
+    "base_response": "Para convertir décimas a decimales, se divide el numerador por diez. Por ejemplo, 3 décimas se convierte en 0.3 al dividir 3 entre 10, facilitando así su uso en operaciones matemáticas y comparaciones con otras fracciones."
+  },
+  {
+    "intent_id": "mito_diecimas",
+    "keywords": [
+      "mito",
+      "valor",
+      "entero",
+      "fraccion",
+      "malentendido"
+    ],
+    "base_response": "Un mito común sobre las décimas es que siempre representan un valor menor que uno. Sin embargo, una décima puede ser parte de una fracción mayor, como 15/10, que equivale a 1.5, mostrando que las décimas pueden superar la unidad."
+  },
+  {
+    "intent_id": "tipos_centesimas_numericas",
+    "keywords": [
+      "centesimas",
+      "decimales",
+      "fracciones",
+      "porcentajes",
+      "representaciones"
+    ],
+    "base_response": "Las centésimas numéricas se pueden clasificar en diferentes tipos: centésimas decimales, que se expresan con dos dígitos después del punto decimal; y centésimas fraccionarias, que representan una fracción de 100 partes iguales de un entero."
+  },
+  {
+    "intent_id": "errores_milesimas",
+    "keywords": [
+      "confundir",
+      "decimales",
+      "posiciones",
+      "errores",
+      "resultado"
+    ],
+    "base_response": "Un error común al trabajar con milésimas es confundirlas con décimas o centésimas. Esto puede llevar a resultados incorrectos en cálculos. Es vital prestar atención a la posición decimal para asegurar precisiones adecuadas en los resultados."
+  },
+  {
+    "intent_id": "definicion_parte_fraccionaria",
+    "keywords": [
+      "parte",
+      "fraccion",
+      "calculadora",
+      "dividir",
+      "entero"
+    ],
+    "base_response": "La parte fraccionaria de un número se obtiene dividiendo el número por su entero más cercano. Este proceso permite identificar la cantidad de fracciones que componen el número, facilitando su comprensión y aplicación en contextos matemáticos."
+  },
+  {
+    "intent_id": "ejemplo_fraccion_diario",
+    "keywords": [
+      "cocina",
+      "porciones",
+      "medidas",
+      "recetas",
+      "vida"
+    ],
+    "base_response": "En la cocina, las recetas a menudo requieren fracciones para medir ingredientes. Por ejemplo, si una receta pide 3/4 de taza de azúcar, entender la parte fraccionaria es esencial para preparar correctamente la comida y evitar errores en las medidas."
+  },
+  {
+    "intent_id": "errores_comunes_coma_punto_decimal",
+    "keywords": [
+      "confusion",
+      "coma",
+      "punto",
+      "decimal",
+      "errores"
+    ],
+    "base_response": "Un error común es confundir la coma con el punto decimal al escribir números. Esto puede llevar a interpretaciones incorrectas, como cambiar el valor de una cantidad. Es fundamental entender el contexto regional para evitar estos malentendidos."
+  },
+  {
+    "intent_id": "uso_coma_punto_decimal_vida_diaria",
+    "keywords": [
+      "dinero",
+      "mediciones",
+      "temperatura",
+      "cantidades",
+      "productos"
+    ],
+    "base_response": "La coma y el punto decimal se utilizan en situaciones cotidianas como precios en tiendas, mediciones de ingredientes en recetas o temperaturas. Comprender su uso es esencial para realizar compras, cocinar o interpretar datos en reportes."
+  },
+  {
+    "intent_id": "operaciones_con_coma_punto_decimal",
+    "keywords": [
+      "suma",
+      "resta",
+      "multiplicacion",
+      "division",
+      "decimales"
+    ],
+    "base_response": "Al realizar operaciones con números decimales, es crucial alinear correctamente los puntos o comas decimales. Esto asegura que las cifras se sumen, resten, multipliquen o dividan correctamente, manteniendo la precisión en los resultados. Este tema es fundamental para comprender las proporciones y las operaciones matemáticas básicas."
+  },
+  {
+    "intent_id": "tipos_de_comas_y_puntos_decimales",
+    "keywords": [
+      "decimal",
+      "fraccionario",
+      "finito",
+      "infinito",
+      "repetido"
+    ],
+    "base_response": "Los números decimales se clasifican en finitos, que tienen un número limitado de cifras, y en infinitos, que continúan indefinidamente. Además, los infinitos pueden ser repetidos, donde una secuencia de dígitos se repite, o no, con cifras únicas."
+  },
+  {
+    "intent_id": "comparacion_fracciones_basica",
+    "keywords": [
+      "fracciones",
+      "comparar",
+      "numerador",
+      "denominador",
+      "mismo"
+    ],
+    "base_response": "Para comparar fracciones, asegúrate de que tengan el mismo denominador. Si es así, compara los numeradores. La fracción con el numerador más grande es mayor. Si no tienen el mismo denominador, convierte las fracciones a un denominador común primero."
+  },
+  {
+    "intent_id": "calculo_denominador_comun",
+    "keywords": [
+      "denominador",
+      "comun",
+      "fracciones",
+      "multiplicar",
+      "simplificar"
+    ],
+    "base_response": "Para encontrar un denominador común, multiplica los denominadores de las fracciones. Luego, ajusta cada fracción multiplicando el numerador y el denominador por el mismo valor, asegurando que ambas fracciones sean comparables y se mantenga su valor."
+  },
+  {
+    "intent_id": "uso_fracciones_grafica",
+    "keywords": [
+      "fracciones",
+      "grafica",
+      "cocina",
+      "porciones",
+      "recetas"
+    ],
+    "base_response": "Las fracciones se utilizan en recetas de cocina para medir ingredientes. Por ejemplo, si una receta requiere 3/4 de taza de azúcar, graficar esta fracción ayuda a visualizar la cantidad necesaria en comparación con otras medidas, facilitando la preparación."
+  },
+  {
+    "intent_id": "calculos_graficar_fracciones",
+    "keywords": [
+      "graficar",
+      "fraccion",
+      "porcentaje",
+      "eje",
+      "puntos"
+    ],
+    "base_response": "Para graficar fracciones, se puede convertirlas a decimales. Por ejemplo, 1/2 es 0.5. Luego, se ubica el punto correspondiente en el eje de los números, utilizando una escala adecuada que represente las fracciones claramente en el gráfico."
+  },
+  {
+    "intent_id": "definicion_numerador_multiplicacion",
+    "keywords": [
+      "numerador",
+      "multiplicacion",
+      "parte",
+      "fraccion",
+      "resultado"
+    ],
+    "base_response": "El numerador en una fracción representa la cantidad de partes que se toman de un entero. En la multiplicación de fracciones, los numeradores se multiplican directamente, produciendo un nuevo numerador en el resultado final de la operación."
+  },
+  {
+    "intent_id": "proceso_multiplicacion_numeradores",
+    "keywords": [
+      "multiplicacion",
+      "operacion",
+      "pasos",
+      "numeradores",
+      "resultado"
+    ],
+    "base_response": "Para multiplicar fracciones, se sigue el siguiente proceso: primero, se multiplican los numeradores entre sí para obtener un nuevo numerador. Luego, se multiplican los denominadores entre sí. Finalmente, se simplifica la fracción resultante si es posible."
+  },
+  {
+    "intent_id": "errores_multiplicar_numeradores",
+    "keywords": [
+      "errores",
+      "comunes",
+      "confusion",
+      "operacion",
+      "numeradores"
+    ],
+    "base_response": "Un error común al multiplicar fracciones es confundir el proceso y sumar los numeradores en vez de multiplicarlos. Esto lleva a un resultado incorrecto. Es esencial recordar que la operación debe ser siempre multiplicativa en este contexto."
+  },
+  {
+    "intent_id": "errores_suma_fracciones_compuestas",
+    "keywords": [
+      "errores",
+      "numerador",
+      "denominador",
+      "comun",
+      "simplificacion"
+    ],
+    "base_response": "Un error común al sumar fracciones complejas es no encontrar el denominador común correcto. Esto puede llevar a resultados incorrectos. También se falla al simplificar la fracción final, omitiendo factores comunes entre numerador y denominador."
+  },
+  {
+    "intent_id": "uso_fracciones_compuestas_vida_diaria",
+    "keywords": [
+      "cocina",
+      "recetas",
+      "porciones",
+      "medidas",
+      "fracciones"
+    ],
+    "base_response": "Las fracciones compuestas son útiles al cocinar, donde se combinan ingredientes en diferentes proporciones. Por ejemplo, al mezclar 1/2 de taza de azúcar y 1/3 de taza de miel, se deben sumar las fracciones para obtener la cantidad total de edulcorante."
+  },
+  {
+    "intent_id": "formula_multiplicacion_fracciones_compuestas",
+    "keywords": [
+      "multiplicacion",
+      "fracciones",
+      "numerador",
+      "denominador",
+      "resultado"
+    ],
+    "base_response": "Para multiplicar fracciones compuestas, se multiplican los numeradores entre sí y los denominadores entre sí. El resultado es una nueva fracción que puede requerir simplificación, asegurando que se mantenga la relación proporcional entre las partes."
+  },
+  {
+    "intent_id": "operaciones_corrimiento_coma",
+    "keywords": [
+      "corrimiento",
+      "coma",
+      "decimales",
+      "multiplicacion",
+      "division"
+    ],
+    "base_response": "El corrimiento de la coma en números decimales implica mover la coma hacia la derecha o izquierda, lo que multiplica o divide el número por potencias de diez. Este concepto es fundamental para realizar operaciones con números decimales de manera eficiente."
+  },
+  {
+    "intent_id": "malentendidos_corrimiento_coma",
+    "keywords": [
+      "mover",
+      "coma",
+      "valor",
+      "cambiar",
+      "numero"
+    ],
+    "base_response": "Un mito común es pensar que mover la coma simplemente cambia el número sin afectar su valor. En realidad, el corrimiento altera significativamente el valor del número, ya que multiplica o divide por potencias de diez, alterando su magnitud."
+  },
+  {
+    "intent_id": "estructura_corrimiento_coma",
+    "keywords": [
+      "coma",
+      "decimales",
+      "posicion",
+      "numeros",
+      "movimiento"
+    ],
+    "base_response": "El corrimiento de la coma se refiere a la acción de desplazar la coma decimal en un número. Este movimiento cambia la posición de los dígitos, afectando su valor y transformando un número decimal en uno mayor o menor según la dirección del corrimiento."
+  },
+  {
+    "intent_id": "errores_multiplicacion_fracciones",
+    "keywords": [
+      "errores",
+      "multiplicacion",
+      "fracciones",
+      "confusion",
+      "numerador"
+    ],
+    "base_response": "Un error común al multiplicar fracciones es olvidar multiplicar ambos numeradores y denominadores. Esto provoca resultados incorrectos. Además, algunos estudiantes confunden la suma de fracciones con la multiplicación, generando fallas conceptuales importantes en su comprensión."
+  },
+  {
+    "intent_id": "uso_fracciones_recetas_cocina",
+    "keywords": [
+      "recetas",
+      "cocina",
+      "fracciones",
+      "medidas",
+      "ingredientes"
+    ],
+    "base_response": "Las fracciones se utilizan en recetas de cocina para medir ingredientes. Por ejemplo, si una receta requiere ¾ de taza de azúcar, se aplica la fracción para calcular la cantidad exacta, facilitando la preparación de alimentos y el entendimiento de proporciones en la cocina."
+  },
+  {
+    "intent_id": "formula_multiplicacion_fracciones",
+    "keywords": [
+      "multiplicacion",
+      "fracciones",
+      "numerador",
+      "denominador",
+      "producto"
+    ],
+    "base_response": "La multiplicación de fracciones se realiza multiplicando los numeradores entre sí y los denominadores entre sí. La fórmula es: a/b * c/d = (a*c)/(b*d). Esto asegura que el producto final se expresa como una nueva fracción simplificada."
+  },
+  {
+    "intent_id": "tipos_fracciones_operadores",
+    "keywords": [
+      "fracciones",
+      "propias",
+      "impropias",
+      "mixtas",
+      "operadores"
+    ],
+    "base_response": "Existen varios tipos de fracciones que operan como operadores: fracciones propias (menos de uno), impropias (uno o más) y mixtas (combinación de un entero y una fracción). Cada tipo se utiliza de manera diferente en cálculos y aplicaciones matemáticas."
+  }
+]
