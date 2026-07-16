@@ -1,0 +1,332 @@
+[
+    {
+        "intent_id": "conjunto_numeros_naturales",
+        "keywords": [
+            "numeros",
+            "naturales",
+            "conteo",
+            "conjunto",
+            "cantidades"
+        ],
+        "base_response": "El conjunto de los números naturales comprende aquellos valores enteros positivos que utilizamos diariamente para contar elementos aislados o definir el orden en diversas secuencias numéricas regulares. Este grupo fundamental comienza siempre desde el número uno y crece continuamente hacia el infinito."
+    },
+    {
+        "intent_id": "conjunto_numeros_enteros",
+        "keywords": [
+            "positivos",
+            "cero",
+            "conjunto",
+            "enteros",
+            "negativos"
+        ],
+        "base_response": "El conjunto de los números enteros incluye todos los valores naturales positivos, sus respectivos opuestos negativos y el número cero como elemento neutro central. Estos números resultan esenciales para representar matemáticamente conceptos como deudas económicas, temperaturas bajo cero o profundidades marítimas."
+    },
+    {
+        "intent_id": "conjunto_numeros_racionales",
+        "keywords": [
+            "racionales",
+            "fraccion",
+            "numerador",
+            "conjunto",
+            "denominador"
+        ],
+        "base_response": "Los números racionales son aquellos valores que pueden expresarse como una fracción exacta compuesta por dos números enteros, donde el denominador siempre debe ser estrictamente diferente de cero. Este sistema abarca todas las fracciones comunes y los números decimales exactos o periódicos."
+    },
+    {
+        "intent_id": "conjunto_numeros_irracionales",
+        "keywords": [
+            "raices",
+            "conjunto",
+            "irracionales",
+            "decimales",
+            "infinitos"
+        ],
+        "base_response": "El conjunto irracional está formado por valores matemáticos que poseen una expansión decimal completamente infinita y no periódica. Estos números jamás pueden escribirse como fracciones exactas, incluyendo ejemplos famosos como el valor de pi o las raíces cuadradas de números primos."
+    },
+    {
+        "intent_id": "sistema_numeros_reales",
+        "keywords": [
+            "union",
+            "racionales",
+            "sistema",
+            "irracionales",
+            "reales"
+        ],
+        "base_response": "El sistema de números reales constituye la estructura matemática formada mediante la unión completa del conjunto racional con el conjunto irracional. Esta agrupación infinita engloba absolutamente todos los puntos medibles que conforman la continuidad geométrica de la recta numérica unidimensional tradicional."
+    },
+    {
+        "intent_id": "concepto_numeros_imaginarios",
+        "keywords": [
+            "negativa",
+            "numeros",
+            "unidad",
+            "imaginarios",
+            "raiz"
+        ],
+        "base_response": "Los números imaginarios surgen matemáticamente para resolver ecuaciones cuadráticas que contienen raíces pares de cantidades estrictamente negativas. Su elemento principal es la unidad imaginaria básica, definida formalmente como aquella cantidad cuyo cuadrado resulta exactamente igual al número real negativo uno."
+    },
+    {
+        "intent_id": "formacion_de_subconjuntos",
+        "keywords": [
+            "inclusion",
+            "derivacion",
+            "subconjuntos",
+            "formacion",
+            "elementos"
+        ],
+        "base_response": "La formación de subconjuntos ocurre analíticamente cuando seleccionamos algunos elementos específicos desde una agrupación principal más grande. Decimos formalmente que una colección está completamente incluida dentro de otra si cada elemento integrante de la primera pertenece también al conjunto original base."
+    },
+    {
+        "intent_id": "diagramas_de_venn",
+        "keywords": [
+            "venn",
+            "circulos",
+            "representacion",
+            "diagramas",
+            "grafica"
+        ],
+        "base_response": "Los diagramas matemáticos diseñados por John Venn constituyen herramientas gráficas fundamentales que utilizan círculos superpuestos para mostrar visualmente relaciones lógicas entre distintas agrupaciones. Estas ilustraciones permiten comprender claramente las similitudes, diferencias y posibles combinaciones existentes entre los diversos elementos evaluados simultáneamente."
+    },
+    {
+        "intent_id": "interseccion_de_conjuntos",
+        "keywords": [
+            "operacion",
+            "interseccion",
+            "comunes",
+            "elementos",
+            "conjuntos"
+        ],
+        "base_response": "La intersección representa una operación matemática fundamental donde generamos una nueva colección compuesta exclusivamente por los elementos compartidos entre dos grupos originales. Visualmente, este resultado corresponde al área central exacta donde múltiples figuras geométricas superpuestas coinciden dentro del diagrama correspondiente."
+    },
+    {
+        "intent_id": "union_de_elementos",
+        "keywords": [
+            "union",
+            "totalidad",
+            "suma",
+            "elementos",
+            "agrupacion"
+        ],
+        "base_response": "La unión matemática entre distintos conjuntos consolida una estructura nueva que reúne absolutamente todos los elementos presentes en los grupos iniciales analizados. Durante este proceso organizativo, los valores que aparecen repetidos en varias agrupaciones originales se contabilizan únicamente una sola vez."
+    },
+    {
+        "intent_id": "diferencia_entre_conjuntos",
+        "keywords": [
+            "diferencia",
+            "separacion",
+            "conjuntos",
+            "resta",
+            "exclusivos"
+        ],
+        "base_response": "La diferencia matemática entre agrupaciones determina exactamente qué componentes pertenecen al primer grupo analizado sin formar parte del segundo. Esta operación selectiva actúa como una resta conceptual, eliminando cualquier valor compartido para aislar únicamente las características exclusivas del conjunto inicial principal."
+    },
+    {
+        "intent_id": "complemento_de_conjuntos",
+        "keywords": [
+            "universo",
+            "complemento",
+            "restantes",
+            "conjuntos",
+            "exclusion"
+        ],
+        "base_response": "El complemento abarca lógicamente todos los elementos existentes dentro del espacio universal definido que no figuran integrados en la agrupación analizada actualmente. Funciona como un reflejo inverso, revelando aquellos valores externos necesarios para completar íntegramente la totalidad del entorno general estudiado."
+    },
+    {
+        "intent_id": "pertenencia_de_elementos",
+        "keywords": [
+            "pertenencia",
+            "inclusion",
+            "relacion",
+            "simbolo",
+            "elementos"
+        ],
+        "base_response": "La relación de pertenencia vincula directamente un valor específico con la agrupación matemática que lo contiene estructuralmente. Utilizamos un símbolo especial para indicar afirmativamente esta integración, demostrando que dicho elemento individual forma parte constitutiva de las características formales del conjunto evaluado."
+    },
+    {
+        "intent_id": "notacion_por_comprension",
+        "keywords": [
+            "caracteristica",
+            "comprension",
+            "regla",
+            "propiedad",
+            "notacion"
+        ],
+        "base_response": "La notación por comprensión permite definir sistemáticamente un grupo matemático estableciendo una regla general aplicable a todos sus integrantes. Este método descriptivo enuncia formalmente las propiedades indispensables que cualquier componente debe cumplir estrictamente para considerarse miembro válido de la colección analizada."
+    },
+    {
+        "intent_id": "notacion_por_extension",
+        "keywords": [
+            "llaves",
+            "extension",
+            "enumeracion",
+            "notacion",
+            "listado"
+        ],
+        "base_response": "La representación por extensión consiste en nombrar explícitamente todos los valores individuales que conforman una agrupación matemática determinada. Cada elemento constitutivo se escribe separadamente mediante comas, encerrando finalmente el listado completo utilizando llaves ortográficas para delimitar visualmente los límites del conjunto."
+    },
+    {
+        "intent_id": "recta_numerica_real",
+        "keywords": [
+            "real",
+            "recta",
+            "orden",
+            "numerica",
+            "geometria"
+        ],
+        "base_response": "La recta real constituye un modelo geométrico bidireccional infinito utilizado para representar gráficamente todos los valores numéricos posibles. En esta línea continua, cada número particular ocupa exactamente una posición definida respecto al punto de origen, estableciendo un ordenamiento secuencial perfectamente estructurado."
+    },
+    {
+        "intent_id": "cardinalidad_del_conjunto",
+        "keywords": [
+            "cardinalidad",
+            "cantidad",
+            "conjunto",
+            "tamano",
+            "elementos"
+        ],
+        "base_response": "La cardinalidad representa el valor cuantitativo exacto que indica cuántos elementos distintos integran una agrupación matemática determinada. Esta medición formal permite comparar el tamaño relativo entre diferentes colecciones numéricas, independientemente de la naturaleza específica de los objetos agrupados en cada caso."
+    },
+    {
+        "intent_id": "conjunto_vacio_nulo",
+        "keywords": [
+            "vacio",
+            "conjunto",
+            "ausencia",
+            "elementos",
+            "nulo"
+        ],
+        "base_response": "El conjunto nulo es una entidad matemática singular caracterizada fundamentalmente por carecer absolutamente de cualquier elemento en su interior. Aunque parezca contradictorio, esta agrupación vacía resulta indispensable teóricamente, ya que funciona como un subconjunto válido presente dentro de todas las colecciones existentes."
+    },
+    {
+        "intent_id": "conjunto_universal_base",
+        "keywords": [
+            "totalidad",
+            "universal",
+            "conjunto",
+            "base",
+            "contexto"
+        ],
+        "base_response": "La agrupación universal constituye el espacio matemático de referencia máxima que engloba absolutamente todos los valores contemplados durante un análisis específico. Este marco global define rigurosamente los límites teóricos del contexto evaluado, asegurando que ninguna entidad pertinente quede fuera del estudio correspondiente."
+    },
+    {
+        "intent_id": "clasificacion_de_numeros",
+        "keywords": [
+            "numeros",
+            "jerarquia",
+            "tipos",
+            "categorias",
+            "clasificacion"
+        ],
+        "base_response": "La estructuración jerárquica de los valores numéricos permite organizarlos sistemáticamente dentro de categorías matemáticas cada vez más inclusivas. Este ordenamiento lógico comienza desde unidades simples utilizadas para contabilizar hasta llegar progresivamente a sistemas complejos necesarios para resolver variables abstractas sumamente avanzadas."
+    },
+    {
+        "intent_id": "propiedad_de_cerradura",
+        "keywords": [
+            "operacion",
+            "pertenencia",
+            "resultado",
+            "cerradura",
+            "propiedad"
+        ],
+        "base_response": "La característica de clausura garantiza formalmente que al operar matemáticamente dos elementos pertenecientes a un grupo específico, el resultado final obtenido permanecerá siempre dentro de esa misma colección inicial, sin generar nunca valores aislados ajenos a la estructura original previamente definida."
+    },
+    {
+        "intent_id": "elementos_pares_positivos",
+        "keywords": [
+            "mitades",
+            "multiplos",
+            "elementos",
+            "positivos",
+            "pares"
+        ],
+        "base_response": "Los números pares representan aquellos valores enteros mayores que cero que siempre pueden dividirse equitativamente en dos mitades absolutamente idénticas sin dejar residuos decimales. Estos elementos resultan esenciales para comprender patrones rítmicos, secuencias alternadas regulares y las propiedades básicas de multiplicidad fundamental."
+    },
+    {
+        "intent_id": "elementos_impares_positivos",
+        "keywords": [
+            "indivisibilidad",
+            "impares",
+            "resto",
+            "elementos",
+            "positivos"
+        ],
+        "base_response": "Las cantidades impares corresponden a los valores numéricos enteros positivos que jamás logran dividirse simétricamente en dos partes iguales perfectas, generando continuamente un residuo sobrante. Forman agrupaciones entrelazadas permanentemente con sus contrapartes pares, estructurando juntos la sucesión ordenada de cifras fundamentales cotidianas."
+    },
+    {
+        "intent_id": "multiplos_numericos_basicos",
+        "keywords": [
+            "multiplos",
+            "basicos",
+            "amplificacion",
+            "numericos",
+            "producto"
+        ],
+        "base_response": "El concepto multiplicativo surge al tomar un valor específico y aumentarlo repetidamente sumándolo consigo mismo diversas veces consecutivas. Estos resultados generados forman secuencias numéricas infinitas proporcionalmente espaciadas, facilitando enormemente cálculos posteriores sobre escalas, incrementos constantes y fenómenos periódicos matemáticos sumamente predecibles."
+    },
+    {
+        "intent_id": "divisores_numericos_exactos",
+        "keywords": [
+            "factores",
+            "fraccionamiento",
+            "exactos",
+            "numericos",
+            "divisores"
+        ],
+        "base_response": "Los factores divisorios constituyen las cantidades precisas capaces de fragmentar un número mayor en porciones completamente iguales sin producir ningún sobrante residual. Comprender adecuadamente estos valores resulta vital para simplificar expresiones fraccionarias complejas y resolver eficientemente problemas asociados al reparto equitativo proporcional."
+    },
+    {
+        "intent_id": "numeros_primos_fundamentales",
+        "keywords": [
+            "esencia",
+            "numeros",
+            "indivisibilidad",
+            "primos",
+            "fundamentales"
+        ],
+        "base_response": "Las cifras primas son entidades aritméticas extraordinarias que únicamente admiten división exacta entre ellas mismas y la unidad principal básica. Funcionan teóricamente como los bloques constructivos irreductibles del sistema matemático, posibilitando algoritmos modernos de criptografía digital avanzada mediante su factorización sumamente compleja."
+    },
+    {
+        "intent_id": "numeros_compuestos_divisibles",
+        "keywords": [
+            "numeros",
+            "divisibles",
+            "multiplicacion",
+            "compuestos",
+            "descomposicion"
+        ],
+        "base_response": "Las cantidades compuestas incluyen todos los valores enteros positivos que poseen más de dos factores divisorios completamente exactos verificables. Pueden descomponerse lógicamente expresándose como el producto secuencial de distintos elementos primos más pequeños multiplicados repetidamente hasta reconstruir exitosamente la cifra original analizada."
+    },
+    {
+        "intent_id": "criba_de_eratostenes",
+        "keywords": [
+            "criba",
+            "algoritmo",
+            "primos",
+            "eratostenes",
+            "filtro"
+        ],
+        "base_response": "Este ingenioso algoritmo antiguo facilita enormemente la identificación sistemática de todas las cifras primas ubicadas dentro de cierto límite numérico predefinido. Funciona tachando progresivamente los múltiplos sucesivos de cada valor analizado, dejando finalmente visibles solo aquellos números irreductibles que resistieron el filtro exhaustivo."
+    },
+    {
+        "intent_id": "valor_absoluto_numerico",
+        "keywords": [
+            "absoluto",
+            "magnitud",
+            "valor",
+            "distancia",
+            "numerico"
+        ],
+        "base_response": "La magnitud absoluta representa puramente la distancia geométrica real existente entre una cifra específica y el punto cero sobre la recta numérica continua. Este concepto desestima completamente cualquier signo positivo o negativo asociado, enfocándose exclusivamente en medir la extensión cuantitativa del desplazamiento evaluado."
+    },
+    {
+        "intent_id": "opuesto_aritmetico_aditivo",
+        "keywords": [
+            "inverso",
+            "aritmetico",
+            "opuesto",
+            "cancelacion",
+            "aditivo"
+        ],
+        "base_response": "El número inverso aditivo constituye aquella cantidad precisa que genera matemáticamente un resultado nulo exacto al sumarse directamente con su cifra original complementaria. Poseen magnitudes idénticas pero signos contrarios, ubicándose geométricamente a distancias perfectamente simétricas respecto del origen central en líneas de medición correspondientes."
+    }
+]
