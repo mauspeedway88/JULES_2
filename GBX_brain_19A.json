@@ -1,0 +1,1756 @@
+[
+  {
+    "intent_id": "definicion_frecuencia_oscilacion",
+    "keywords": [
+      "oscilacion",
+      "tiempo",
+      "medicion",
+      "vibracion",
+      "frecuencia"
+    ],
+    "base_response": "La frecuencia de oscilación temporal describe cuántas veces un sistema realiza un ciclo completo por segundo. Comprenderla permite analizar movimientos repetitivos y predecir comportamientos físicos. Se expresa en hertz y resulta esencial para estudiar ondas, péndulos y sistemas vibratorios."
+  },
+  {
+    "intent_id": "dinamica_oscilatoria_basica",
+    "keywords": [
+      "ritmo",
+      "oscilacion",
+      "energia",
+      "movimiento",
+      "vibracion"
+    ],
+    "base_response": "La dinámica de oscilación temporal explica cómo cambia la velocidad y la energía durante cada ciclo. Identificar estos patrones ayuda a entender sistemas que aceleran y desaceleran rítmicamente. Analizar estas variaciones permite anticipar comportamientos y mejorar modelos físicos escolares."
+  },
+  {
+    "intent_id": "materiales_influyen_frecuencia",
+    "keywords": [
+      "masa",
+      "rigidez",
+      "estructura",
+      "vibracion",
+      "material"
+    ],
+    "base_response": "Los materiales afectan la frecuencia de oscilación temporal mediante su masa y rigidez. Un objeto más rígido oscila más rápido, mientras uno más pesado lo hace más lento. Comprender estas propiedades permite diseñar estructuras seguras y predecir comportamientos vibratorios cotidianos."
+  },
+  {
+    "intent_id": "fallas_por_resonancia",
+    "keywords": [
+      "fallo",
+      "estructura",
+      "vibracion",
+      "frecuencia",
+      "resonancia"
+    ],
+    "base_response": "Cuando una estructura recibe vibraciones cercanas a su frecuencia natural, puede producirse resonancia y fallas graves. Estudiar este fenómeno permite evitar daños en puentes, edificios y máquinas. Comprender la resonancia ayuda a diseñar sistemas más seguros y resistentes ante vibraciones externas."
+  },
+  {
+    "intent_id": "historia_estudio_oscilaciones",
+    "keywords": [
+      "oscilacion",
+      "fisica",
+      "historia",
+      "investigacion",
+      "frecuencia"
+    ],
+    "base_response": "El estudio de las oscilaciones comenzó con péndulos analizados por científicos como Galileo. Con el tiempo, la comprensión de la frecuencia permitió avances en relojería, acústica y tecnología moderna. Este desarrollo histórico muestra cómo conceptos simples impulsan innovaciones científicas importantes."
+  },
+  {
+    "intent_id": "entorno_natural_oscilaciones",
+    "keywords": [
+      "naturaleza",
+      "ondas",
+      "movimiento",
+      "vibracion",
+      "frecuencia"
+    ],
+    "base_response": "En la naturaleza, la frecuencia de oscilación aparece en ondas del agua, vibraciones sísmicas y sonidos animales. Analizar estos fenómenos permite comprender mejor el entorno y predecir comportamientos naturales. Estudiar estas oscilaciones ayuda a conectar la física con experiencias cotidianas."
+  },
+  {
+    "intent_id": "aplicaciones_tecnologicas_frecuencia",
+    "keywords": [
+      "tecnologia",
+      "instrumentos",
+      "ondas",
+      "vibracion",
+      "frecuencia"
+    ],
+    "base_response": "La frecuencia de oscilación temporal se usa en relojes, radios, sensores y dispositivos médicos. Controlarla permite transmitir información, medir cambios y generar señales precisas. Comprender este concepto facilita entender cómo funcionan tecnologías esenciales en la vida diaria moderna."
+  },
+  {
+    "intent_id": "impacto_social_medicion_frecuencia",
+    "keywords": [
+      "tecnologia",
+      "sociedad",
+      "ondas",
+      "comunicacion",
+      "frecuencia"
+    ],
+    "base_response": "La medición de frecuencias permite comunicaciones rápidas, diagnósticos médicos confiables y dispositivos seguros. Su impacto social incluye mejorar la calidad de vida y facilitar acceso a información. Comprender este concepto ayuda a valorar tecnologías que dependen de oscilaciones controladas."
+  },
+  {
+    "intent_id": "ventajas_desventajas_oscilaciones",
+    "keywords": [
+      "oscilacion",
+      "desventaja",
+      "ventaja",
+      "sistema",
+      "frecuencia"
+    ],
+    "base_response": "Las oscilaciones ofrecen ventajas como medir tiempos y transmitir señales, pero también riesgos como resonancias peligrosas. Evaluar ambas perspectivas permite usar la frecuencia de manera segura y eficiente. Comprender estos aspectos ayuda a tomar decisiones informadas en proyectos escolares."
+  },
+  {
+    "intent_id": "calculos_basicos_frecuencia",
+    "keywords": [
+      "oscilacion",
+      "periodo",
+      "calculo",
+      "frecuencia",
+      "formula"
+    ],
+    "base_response": "Calcular la frecuencia requiere dividir uno entre el período de oscilación. Este procedimiento permite cuantificar cuántos ciclos ocurren cada segundo. Practicar estos cálculos fortalece habilidades matemáticas y facilita comprender fenómenos físicos que dependen de movimientos repetitivos."
+  },
+  {
+    "intent_id": "experimentos_escolares_oscilacion",
+    "keywords": [
+      "pendulo",
+      "experimento",
+      "medicion",
+      "vibracion",
+      "frecuencia"
+    ],
+    "base_response": "Un péndulo escolar permite observar cómo cambia la frecuencia según la longitud. Medir tiempos repetidos ayuda a obtener datos confiables y comprender relaciones físicas. Este experimento desarrolla pensamiento científico y muestra cómo pequeñas variaciones afectan movimientos oscilatorios."
+  },
+  {
+    "intent_id": "mitos_frecuencia_oscilacion",
+    "keywords": [
+      "oscilacion",
+      "creencia",
+      "vibracion",
+      "frecuencia",
+      "mito"
+    ],
+    "base_response": "Un mito común afirma que todas las oscilaciones son peligrosas, pero muchas son útiles y controladas. Comprender la frecuencia permite distinguir riesgos reales de ideas erróneas. Analizar estos mitos ayuda a desarrollar pensamiento crítico y confianza en conceptos científicos comprobados."
+  },
+  {
+    "intent_id": "definicion_amplitud_altura",
+    "keywords": [
+      "oscilacion",
+      "altura",
+      "amplitud",
+      "energia",
+      "movimiento"
+    ],
+    "base_response": "La amplitud de altura máxima describe la distancia vertical más grande alcanzada por un objeto en movimiento oscilatorio. Explica cuánta energía posee el sistema y permite comparar diferentes comportamientos físicos. Comprenderla facilita analizar fenómenos naturales y experimentos escolares con claridad."
+  },
+  {
+    "intent_id": "dinamica_altura_maxima",
+    "keywords": [
+      "trayectoria",
+      "fuerza",
+      "altura",
+      "oscilacion",
+      "dinamica"
+    ],
+    "base_response": "La dinámica de la altura máxima depende de fuerzas que impulsan y frenan el movimiento. Cuando la energía inicial es mayor, el objeto asciende más. Al llegar al punto más alto, la velocidad se vuelve cero antes de descender nuevamente. Este proceso se repite mientras exista energía disponible."
+  },
+  {
+    "intent_id": "materiales_influyen_altura",
+    "keywords": [
+      "materiales",
+      "masa",
+      "energia",
+      "elasticidad",
+      "movimiento"
+    ],
+    "base_response": "Los materiales influyen en la altura máxima porque su masa y elasticidad modifican la energía almacenada. Un objeto ligero puede alcanzar mayor altura con menos esfuerzo. Los materiales elásticos conservan energía y permiten oscilaciones más amplias. Analizar estas propiedades ayuda a diseñar experimentos eficientes."
+  },
+  {
+    "intent_id": "fallas_medicion_altura",
+    "keywords": [
+      "oscilacion",
+      "instrumentos",
+      "precision",
+      "fallas",
+      "medicion"
+    ],
+    "base_response": "Las fallas en medir la altura máxima ocurren por instrumentos imprecisos, mala alineación o cálculos incorrectos. Un error pequeño altera conclusiones importantes. Revisar el método, calibrar herramientas y repetir mediciones garantiza resultados confiables. La práctica constante mejora la habilidad para obtener datos correctos."
+  },
+  {
+    "intent_id": "historia_estudio_altura",
+    "keywords": [
+      "oscilacion",
+      "altura",
+      "experimento",
+      "historia",
+      "fisica"
+    ],
+    "base_response": "El estudio de la altura máxima comenzó con investigaciones sobre péndulos y resortes en la física clásica. Científicos como Galileo analizaron movimientos repetitivos para comprender leyes naturales. Estos trabajos permitieron desarrollar modelos matemáticos que hoy se aplican en ingeniería, astronomía y educación científica escolar."
+  },
+  {
+    "intent_id": "entorno_afecta_altura",
+    "keywords": [
+      "altura",
+      "movimiento",
+      "resistencia",
+      "entorno",
+      "gravedad"
+    ],
+    "base_response": "El entorno afecta la altura máxima porque la gravedad, la resistencia del aire y la superficie influyen en el movimiento. En lugares con menor gravedad, los objetos alcanzan alturas mayores. La resistencia del aire reduce la energía disponible. Comprender estas condiciones permite predecir comportamientos físicos variados."
+  },
+  {
+    "intent_id": "aplicaciones_altura_maxima",
+    "keywords": [
+      "aplicaciones",
+      "altura",
+      "ingenieria",
+      "energia",
+      "movimiento"
+    ],
+    "base_response": "La altura máxima se aplica en ingeniería para diseñar juegos mecánicos, amortiguadores y sistemas de seguridad. También ayuda a calcular trayectorias en deportes y evaluar saltos. Comprender este concepto permite crear dispositivos más eficientes y analizar movimientos cotidianos con fundamentos científicos sólidos."
+  },
+  {
+    "intent_id": "impacto_social_altura",
+    "keywords": [
+      "sociedad",
+      "altura",
+      "educacion",
+      "movimiento",
+      "impacto"
+    ],
+    "base_response": "El impacto social del estudio de la altura máxima aparece en la educación científica, donde fomenta pensamiento crítico. También influye en tecnologías que mejoran transporte y seguridad. Comprender este concepto ayuda a valorar la importancia de la física en decisiones cotidianas y en el desarrollo comunitario."
+  },
+  {
+    "intent_id": "ventajas_desventajas_altura",
+    "keywords": [
+      "altura",
+      "ventajas",
+      "energia",
+      "movimiento",
+      "desventajas"
+    ],
+    "base_response": "La altura máxima ofrece ventajas como facilitar cálculos energéticos y predecir movimientos. Sin embargo, puede ser difícil medirla con precisión en entornos reales. Requiere instrumentos adecuados y comprensión de factores externos. Aun así, sigue siendo una herramienta esencial para analizar sistemas físicos diversos."
+  },
+  {
+    "intent_id": "calculos_altura_maxima",
+    "keywords": [
+      "oscilacion",
+      "altura",
+      "calculos",
+      "energia",
+      "movimiento"
+    ],
+    "base_response": "Los cálculos de altura máxima usan fórmulas que relacionan energía, velocidad y posición. Al conocer la energía inicial, es posible determinar cuán alto llegará un objeto. Estos cálculos permiten resolver problemas escolares y comprender fenómenos naturales con mayor profundidad y precisión matemática."
+  },
+  {
+    "intent_id": "experimentos_altura_maxima",
+    "keywords": [
+      "oscilacion",
+      "altura",
+      "experimentos",
+      "medicion",
+      "energia"
+    ],
+    "base_response": "Los experimentos de altura máxima incluyen péndulos, resortes y objetos lanzados verticalmente. Medir la altura alcanzada permite analizar cómo cambia la energía en cada fase del movimiento. Estos ejercicios fortalecen habilidades científicas y ayudan a comprender conceptos abstractos mediante observación directa."
+  },
+  {
+    "intent_id": "mitos_altura_maxima",
+    "keywords": [
+      "oscilacion",
+      "altura",
+      "mitos",
+      "energia",
+      "movimiento"
+    ],
+    "base_response": "Existen mitos sobre la altura máxima, como creer que siempre depende solo de la fuerza aplicada. En realidad intervienen masa, gravedad y resistencia del aire. Comprender estos factores evita confusiones y permite interpretar correctamente fenómenos físicos que parecen simples pero requieren análisis cuidadoso."
+  },
+  {
+    "intent_id": "definicion_longitud_ciclo",
+    "keywords": [
+      "trayectoria",
+      "longitud",
+      "espacio",
+      "medicion",
+      "ciclo"
+    ],
+    "base_response": "La longitud espacial de ciclo describe la distancia completa que recorre una onda antes de repetirse. Comprenderla permite analizar patrones físicos y predecir comportamientos ondulatorios. Su estudio facilita interpretar fenómenos naturales y tecnológicos con precisión científica aplicable en múltiples contextos educativos."
+  },
+  {
+    "intent_id": "dinamica_formacion_ciclo",
+    "keywords": [
+      "propagacion",
+      "onda",
+      "movimiento",
+      "vibracion",
+      "frecuencia"
+    ],
+    "base_response": "La dinámica de formación de un ciclo depende de cómo se propaga una onda y de su frecuencia. Cada vibración genera un patrón repetitivo cuya distancia define la longitud espacial. Analizar esta dinámica ayuda a comprender variaciones energéticas y comportamientos físicos presentes en sistemas naturales y tecnológicos."
+  },
+  {
+    "intent_id": "materiales_influyen_ciclo",
+    "keywords": [
+      "material",
+      "onda",
+      "medio",
+      "interaccion",
+      "transmision"
+    ],
+    "base_response": "Los materiales influyen en la longitud espacial de ciclo porque cada medio modifica la velocidad de transmisión de la onda. La interacción entre onda y material determina cambios en distancia recorrida. Estudiar estos efectos permite comprender fenómenos acústicos, ópticos y mecánicos con mayor profundidad científica."
+  },
+  {
+    "intent_id": "fallas_medicion_ciclo",
+    "keywords": [
+      "onda",
+      "precision",
+      "medicion",
+      "instrumento",
+      "error"
+    ],
+    "base_response": "Las fallas en la medición de la longitud espacial de ciclo surgen por instrumentos mal calibrados o interpretaciones incorrectas. Una medición imprecisa afecta cálculos posteriores y conclusiones científicas. Corregir errores garantiza resultados confiables y fortalece habilidades experimentales en estudiantes de ciencias."
+  },
+  {
+    "intent_id": "historia_estudio_ciclo",
+    "keywords": [
+      "onda",
+      "descubrimiento",
+      "historia",
+      "investigacion",
+      "cientifico"
+    ],
+    "base_response": "La historia del estudio de la longitud espacial de ciclo se relaciona con investigaciones sobre ondas realizadas por científicos pioneros. Sus descubrimientos permitieron comprender fenómenos acústicos y electromagnéticos. Este desarrollo histórico muestra cómo la ciencia evoluciona mediante observación, experimentación y análisis riguroso."
+  },
+  {
+    "intent_id": "entorno_afecta_ciclo",
+    "keywords": [
+      "onda",
+      "densidad",
+      "entorno",
+      "temperatura",
+      "variacion"
+    ],
+    "base_response": "El entorno afecta la longitud espacial de ciclo porque factores como temperatura y densidad modifican la velocidad de propagación de la onda. Estas variaciones generan cambios en distancia recorrida. Comprender el entorno permite predecir comportamientos ondulatorios y mejorar análisis científicos en situaciones reales."
+  },
+  {
+    "intent_id": "aplicaciones_longitud_ciclo",
+    "keywords": [
+      "tecnologia",
+      "onda",
+      "aplicacion",
+      "comunicacion",
+      "analisis"
+    ],
+    "base_response": "La longitud espacial de ciclo tiene aplicaciones en tecnologías de comunicación, instrumentos musicales y sistemas ópticos. Conocerla permite diseñar dispositivos más eficientes y comprender fenómenos físicos complejos. Su estudio fortalece habilidades científicas y fomenta el pensamiento crítico en estudiantes interesados en la física."
+  },
+  {
+    "intent_id": "impacto_social_ciclo",
+    "keywords": [
+      "tecnologia",
+      "sociedad",
+      "onda",
+      "progreso",
+      "comunicacion"
+    ],
+    "base_response": "El impacto social de comprender la longitud espacial de ciclo se refleja en avances tecnológicos que mejoran comunicaciones y mediciones científicas. Este conocimiento impulsa el progreso y facilita innovaciones útiles para la vida cotidiana. Su enseñanza promueve interés por la ciencia y desarrollo intelectual juvenil."
+  },
+  {
+    "intent_id": "ventajas_desventajas_ciclo",
+    "keywords": [
+      "onda",
+      "desventaja",
+      "ventaja",
+      "medicion",
+      "analisis"
+    ],
+    "base_response": "Estudiar la longitud espacial de ciclo ofrece ventajas como mejorar análisis ondulatorios y diseñar tecnologías precisas. Sus desventajas incluyen dificultad conceptual inicial y necesidad de instrumentos adecuados. Superar estos retos fortalece comprensión científica y fomenta habilidades prácticas en estudiantes de diversas edades."
+  },
+  {
+    "intent_id": "calculos_longitud_ciclo",
+    "keywords": [
+      "onda",
+      "calculo",
+      "frecuencia",
+      "formula",
+      "velocidad"
+    ],
+    "base_response": "Los cálculos de longitud espacial de ciclo utilizan la relación entre velocidad de onda y frecuencia. Aplicar la fórmula permite obtener distancias precisas y analizar comportamientos físicos. Practicar estos cálculos desarrolla pensamiento lógico y comprensión profunda de fenómenos ondulatorios presentes en múltiples áreas científicas."
+  },
+  {
+    "intent_id": "experimentos_medicion_ciclo",
+    "keywords": [
+      "onda",
+      "experimento",
+      "medicion",
+      "observacion",
+      "resultado"
+    ],
+    "base_response": "Los experimentos de medición de longitud espacial de ciclo permiten observar directamente cómo se comportan las ondas. Utilizar instrumentos simples facilita obtener resultados claros y comprender conceptos abstractos. Estas prácticas fortalecen habilidades científicas y motivan a los estudiantes a explorar fenómenos físicos con curiosidad."
+  },
+  {
+    "intent_id": "impacto_ambiental_ciclo",
+    "keywords": [
+      "contaminacion",
+      "sonido",
+      "efecto",
+      "onda",
+      "ambiente"
+    ],
+    "base_response": "El impacto ambiental relacionado con la longitud espacial de ciclo aparece en estudios de contaminación sonora y propagación de ondas en ecosistemas. Analizar estos efectos ayuda a comprender cómo el sonido influye en seres vivos. Este conocimiento fomenta conciencia ambiental y responsabilidad científica en estudiantes."
+  },
+  {
+    "intent_id": "definicion_acustica_espacios",
+    "keywords": [
+      "sonido",
+      "absorcion",
+      "reflexion",
+      "espacio"
+    ],
+    "base_response": "La acústica de espacios cerrados estudia cómo el sonido se comporta dentro de recintos. Explica fenómenos como reflexión, absorción y reverberación. Permite diseñar lugares donde la audición sea clara, equilibrada y adecuada para actividades educativas, artísticas o comunicativas."
+  },
+  {
+    "intent_id": "dinamica_ondas_internas",
+    "keywords": [
+      "propagacion",
+      "interaccion",
+      "ondas",
+      "rebote"
+    ],
+    "base_response": "La dinámica del sonido en espacios cerrados depende de cómo las ondas se propagan y rebotan en superficies. Cada material modifica su energía, creando zonas claras o confusas. Comprender estas interacciones permite mejorar la calidad acústica en aulas y auditorios."
+  },
+  {
+    "intent_id": "materiales_control_acustico",
+    "keywords": [
+      "difusion",
+      "madera",
+      "espuma",
+      "paneles"
+    ],
+    "base_response": "Los materiales acústicos controlan la energía sonora mediante absorción o difusión. Paneles, espumas y maderas equilibran la reverberación y reducen ecos molestos. Su selección adecuada permite crear ambientes más cómodos para estudiar, conversar o realizar actividades musicales."
+  },
+  {
+    "intent_id": "fallas_acusticas_comunes",
+    "keywords": [
+      "ruido",
+      "eco",
+      "distorsion",
+      "reverberacion"
+    ],
+    "base_response": "Las fallas acústicas aparecen cuando el sonido rebota demasiado o se mezcla con ruido externo. El eco y la reverberación excesiva dificultan la comprensión del habla. Identificar estas fallas permite corregir diseños y mejorar la experiencia auditiva en espacios cerrados."
+  },
+  {
+    "intent_id": "historia_estudios_acusticos",
+    "keywords": [
+      "teoria",
+      "sonido",
+      "arquitectura",
+      "investigacion"
+    ],
+    "base_response": "La historia de la acústica en espacios cerrados surge de la arquitectura antigua, donde se buscaba amplificar voces en teatros. Con el tiempo, investigaciones científicas desarrollaron teorías que explican la propagación sonora. Hoy se aplican en escuelas, estudios y auditorios modernos."
+  },
+  {
+    "intent_id": "entorno_influencia_sonora",
+    "keywords": [
+      "geometria",
+      "comportamiento",
+      "superficie",
+      "volumen"
+    ],
+    "base_response": "El entorno físico influye en el comportamiento del sonido mediante su geometría, volumen y superficies internas. Cambios pequeños alteran la claridad auditiva. Analizar estos factores permite diseñar espacios donde la comunicación sea eficiente y la experiencia sonora resulte agradable."
+  },
+  {
+    "intent_id": "aplicaciones_acustica_practica",
+    "keywords": [
+      "aulas",
+      "grabacion",
+      "estudios",
+      "teatros"
+    ],
+    "base_response": "La acústica de espacios cerrados se aplica en teatros, aulas y estudios de grabación para mejorar la calidad del sonido. Permite que voces e instrumentos se escuchen con nitidez. Su uso adecuado facilita el aprendizaje, la producción musical y la comunicación cotidiana."
+  },
+  {
+    "intent_id": "impacto_social_sonido",
+    "keywords": [
+      "claridad",
+      "comunicacion",
+      "educacion",
+      "convivencia"
+    ],
+    "base_response": "El impacto social de una buena acústica se refleja en la comunicación clara y la convivencia armónica. Espacios bien diseñados favorecen el aprendizaje y reducen el estrés causado por ruido. Mejorar la calidad sonora beneficia directamente a comunidades escolares y culturales."
+  },
+  {
+    "intent_id": "ventajas_desventajas_acustica",
+    "keywords": [
+      "control",
+      "limitacion",
+      "diseno",
+      "beneficio"
+    ],
+    "base_response": "La acústica adecuada ofrece beneficios como claridad sonora y confort auditivo, pero requiere inversión y diseño cuidadoso. Las desventajas surgen cuando el control del sonido es insuficiente. Evaluar ambos aspectos permite crear espacios equilibrados y funcionales para diversas actividades."
+  },
+  {
+    "intent_id": "seguridad_niveles_sonoros",
+    "keywords": [
+      "proteccion",
+      "exposicion",
+      "medicion",
+      "intensidad"
+    ],
+    "base_response": "La seguridad acústica implica controlar la intensidad del sonido para evitar daños auditivos. Medir niveles y limitar exposiciones prolongadas protege a estudiantes y docentes. Mantener ambientes sonoros saludables favorece la concentración y reduce riesgos asociados al ruido excesivo."
+  },
+  {
+    "intent_id": "clasificacion_espacios_acusticos",
+    "keywords": [
+      "recintos",
+      "sonido",
+      "funcion",
+      "tipologia"
+    ],
+    "base_response": "Los espacios cerrados se clasifican según su función y comportamiento sonoro. Recintos para música requieren mayor control de reverberación, mientras aulas necesitan claridad del habla. Esta tipología permite diseñar soluciones acústicas específicas para cada actividad educativa o artística."
+  },
+  {
+    "intent_id": "experimentos_acusticos_basicos",
+    "keywords": [
+      "prueba",
+      "eco",
+      "frecuencia",
+      "medicion"
+    ],
+    "base_response": "Los experimentos acústicos permiten observar cómo cambia el sonido dentro de un recinto. Medir frecuencias, detectar ecos y realizar pruebas simples ayuda a comprender fenómenos reales. Estas actividades fomentan el aprendizaje práctico y desarrollan habilidades científicas en estudiantes jóvenes."
+  },
+  {
+    "intent_id": "definicion_decibelios",
+    "keywords": [
+      "sonido",
+      "intensidad",
+      "escala",
+      "medicion",
+      "percepcion"
+    ],
+    "base_response": "Los decibelios representan la unidad que mide la intensidad del sonido y permiten comparar niveles auditivos. Su escala logarítmica facilita describir variaciones grandes usando números pequeños. Comprenderlos ayuda a identificar sonidos seguros y evitar daños auditivos prolongados."
+  },
+  {
+    "intent_id": "dinamica_propagacion_sonido",
+    "keywords": [
+      "propagacion",
+      "audicion",
+      "energia",
+      "vibracion",
+      "frecuencia"
+    ],
+    "base_response": "El sonido surge de vibraciones que viajan como ondas y su intensidad determina los decibelios percibidos. A mayor energía, mayor volumen. La frecuencia influye en el tono, pero los decibelios indican cuán fuerte llega la onda al oído humano durante la audición cotidiana."
+  },
+  {
+    "intent_id": "materiales_aislamiento_acustico",
+    "keywords": [
+      "sonido",
+      "materiales",
+      "absorcion",
+      "control",
+      "aislamiento"
+    ],
+    "base_response": "Los materiales aislantes reducen decibelios al absorber o bloquear ondas sonoras. Espumas, paneles y fibras funcionan atrapando energía acústica. Su uso permite crear espacios más silenciosos, proteger la audición y mejorar la calidad sonora en ambientes educativos o domésticos."
+  },
+  {
+    "intent_id": "fallas_medicion_sonora",
+    "keywords": [
+      "sonido",
+      "medicion",
+      "instrumento",
+      "variacion",
+      "error"
+    ],
+    "base_response": "Las fallas en mediciones de decibelios ocurren por instrumentos mal calibrados, ruidos inesperados o posiciones incorrectas. Estas variaciones afectan la precisión al evaluar ambientes ruidosos. Corregir errores garantiza datos confiables para proteger la salud auditiva adecuadamente."
+  },
+  {
+    "intent_id": "historia_decibelio",
+    "keywords": [
+      "sonido",
+      "ingenieria",
+      "unidad",
+      "historia",
+      "comunicacion"
+    ],
+    "base_response": "El decibelio nació en ingeniería telefónica para medir pérdidas de señal. Con el tiempo se adoptó para describir intensidad sonora. Su desarrollo permitió estandarizar mediciones y mejorar tecnologías de comunicación, facilitando análisis precisos del comportamiento del sonido moderno."
+  },
+  {
+    "intent_id": "entorno_ruido_urbano",
+    "keywords": [
+      "ruido",
+      "sonido",
+      "trafico",
+      "exposicion",
+      "ciudad"
+    ],
+    "base_response": "El entorno urbano presenta niveles altos de decibelios por tráfico, obras y actividad humana. La exposición prolongada puede afectar concentración y salud auditiva. Medir estos niveles ayuda a diseñar políticas que reduzcan ruido y mejoren la calidad de vida comunitaria."
+  },
+  {
+    "intent_id": "aplicaciones_control_sonoro",
+    "keywords": [
+      "tecnologia",
+      "sonido",
+      "proteccion",
+      "medicion",
+      "control"
+    ],
+    "base_response": "Las aplicaciones del decibelio incluyen evaluar ruido laboral, diseñar sistemas de audio y crear dispositivos de protección auditiva. Su medición permite ajustar volúmenes adecuados y evitar daños. La tecnología moderna facilita monitorear ambientes sonoros con mayor precisión."
+  },
+  {
+    "intent_id": "impacto_social_ruido",
+    "keywords": [
+      "ruido",
+      "convivencia",
+      "estres",
+      "comunidad",
+      "salud"
+    ],
+    "base_response": "El exceso de decibelios afecta la convivencia social generando estrés, problemas de sueño y dificultades de comunicación. Controlar el ruido mejora bienestar colectivo. Las comunidades que regulan niveles sonoros promueven ambientes más saludables y relaciones sociales armoniosas."
+  },
+  {
+    "intent_id": "ventajas_desventajas_decibelio",
+    "keywords": [
+      "sonido",
+      "limitacion",
+      "precision",
+      "escala",
+      "medicion"
+    ],
+    "base_response": "La escala de decibelios ofrece precisión al describir intensidad sonora, pero puede resultar difícil de interpretar por su naturaleza logarítmica. Aun así, facilita comparar sonidos diversos y establecer límites seguros. Comprenderla permite usarla correctamente en situaciones cotidianas."
+  },
+  {
+    "intent_id": "seguridad_auditiva",
+    "keywords": [
+      "sonido",
+      "audicion",
+      "proteccion",
+      "exposicion",
+      "riesgo"
+    ],
+    "base_response": "La seguridad auditiva depende de limitar exposición a decibelios altos mediante protectores, descansos y control del volumen. Sonidos intensos dañan células sensoriales del oído. Adoptar hábitos seguros previene pérdidas auditivas y favorece una vida saludable con buena percepción sonora."
+  },
+  {
+    "intent_id": "clasificacion_niveles_sonoros",
+    "keywords": [
+      "sonido",
+      "intensidad",
+      "umbral",
+      "clasificacion",
+      "nivel"
+    ],
+    "base_response": "Los niveles sonoros se clasifican según intensidad: suaves, moderados y fuertes. El umbral de dolor ronda altos decibelios que pueden dañar la audición. Esta clasificación ayuda a identificar riesgos y establecer límites adecuados para proteger la salud auditiva en distintos entornos."
+  },
+  {
+    "intent_id": "calculos_logaritmicos_decibelios",
+    "keywords": [
+      "sonido",
+      "intensidad",
+      "logaritmo",
+      "calculo",
+      "formula"
+    ],
+    "base_response": "El cálculo de decibelios usa logaritmos para relacionar intensidad sonora con una referencia estándar. Esta fórmula permite expresar grandes variaciones de energía en valores manejables. Comprenderla facilita interpretar mediciones y aplicar conceptos matemáticos en fenómenos acústicos reales."
+  },
+  {
+    "intent_id": "definicion_onda_mecanica",
+    "keywords": [
+      "propagacion",
+      "onda",
+      "perturbacion",
+      "medio",
+      "vibracion"
+    ],
+    "base_response": "Una onda mecánica se define como una perturbación que viaja mediante vibraciones en un medio material. Explica cómo la energía se desplaza sin transportar materia. Comprender esta definición permite analizar fenómenos cotidianos como el sonido y las ondas en cuerdas."
+  },
+  {
+    "intent_id": "dinamica_transmision_energia",
+    "keywords": [
+      "transferencia",
+      "energia",
+      "movimiento",
+      "vibracion",
+      "interaccion"
+    ],
+    "base_response": "La dinámica de transmisión describe cómo la energía pasa entre partículas del medio mediante interacciones sucesivas. Cada partícula vibra y empuja a la siguiente, generando avance de la perturbación. Este proceso depende de la rigidez, densidad y estructura del material atravesado."
+  },
+  {
+    "intent_id": "materiales_propagacion",
+    "keywords": [
+      "medio",
+      "solido",
+      "liquido",
+      "gas",
+      "vibracion"
+    ],
+    "base_response": "Los materiales influyen en la velocidad y forma de propagación. En sólidos las partículas están más unidas, permitiendo transmisión rápida. En líquidos y gases la propagación es más lenta. Analizar estas diferencias ayuda a comprender fenómenos acústicos y vibraciones estructurales."
+  },
+  {
+    "intent_id": "fallas_propagacion",
+    "keywords": [
+      "obstaculo",
+      "distorsion",
+      "absorcion",
+      "disipacion",
+      "interferencia"
+    ],
+    "base_response": "Las fallas en la propagación ocurren cuando la onda pierde energía por absorción, encuentra obstáculos o sufre interferencias. Estos efectos pueden distorsionar la señal original. Comprenderlos permite mejorar diseños acústicos, estructuras resistentes y sistemas de comunicación mecánica."
+  },
+  {
+    "intent_id": "historia_estudio_ondas",
+    "keywords": [
+      "modelo",
+      "experimento",
+      "descubrimiento",
+      "investigacion",
+      "vibracion"
+    ],
+    "base_response": "La historia del estudio de ondas mecánicas incluye aportes de científicos que desarrollaron modelos para explicar vibraciones y propagación. Sus experimentos permitieron comprender el comportamiento del sonido y las oscilaciones, estableciendo bases para tecnologías modernas relacionadas con ondas."
+  },
+  {
+    "intent_id": "entorno_propagacion",
+    "keywords": [
+      "densidad",
+      "ambiente",
+      "temperatura",
+      "condicion",
+      "presion"
+    ],
+    "base_response": "El entorno modifica la propagación de perturbaciones mecánicas. Cambios en temperatura, presión o densidad alteran la velocidad y calidad de transmisión. Analizar estas condiciones permite predecir comportamientos de ondas en situaciones naturales como clima, océanos y estructuras terrestres."
+  },
+  {
+    "intent_id": "aplicaciones_ondas_mecanicas",
+    "keywords": [
+      "tecnologia",
+      "sonido",
+      "instrumento",
+      "vibracion",
+      "comunicacion"
+    ],
+    "base_response": "Las aplicaciones incluyen instrumentos musicales, sistemas de comunicación acústica y tecnologías que usan vibraciones para medir estructuras. Comprender la propagación permite diseñar dispositivos eficientes y seguros. Estas aplicaciones muestran cómo las ondas mecánicas influyen en múltiples áreas."
+  },
+  {
+    "intent_id": "seguridad_vibraciones",
+    "keywords": [
+      "proteccion",
+      "riesgo",
+      "estructura",
+      "vibracion",
+      "control"
+    ],
+    "base_response": "La seguridad ante vibraciones requiere identificar riesgos en estructuras y máquinas. Las ondas mecánicas pueden causar daños si no se controlan adecuadamente. Implementar medidas de protección garantiza funcionamiento estable y evita accidentes relacionados con resonancias o esfuerzos repetitivos."
+  },
+  {
+    "intent_id": "clasificacion_ondas_mecanicas",
+    "keywords": [
+      "oscilacion",
+      "medio",
+      "transversal",
+      "vibracion",
+      "longitudinal"
+    ],
+    "base_response": "La clasificación distingue ondas longitudinales y transversales según dirección de vibración. Esta diferencia permite analizar cómo se comportan en distintos medios. Comprender la clasificación facilita estudiar fenómenos como sonido, ondas en cuerdas y movimientos sísmicos naturales."
+  },
+  {
+    "intent_id": "calculos_velocidad_onda",
+    "keywords": [
+      "longitud",
+      "vibracion",
+      "frecuencia",
+      "formula",
+      "velocidad"
+    ],
+    "base_response": "Los cálculos de velocidad de onda usan la relación entre frecuencia y longitud de onda. Aplicar la fórmula permite predecir comportamientos en distintos materiales. Este análisis matemático ayuda a resolver problemas escolares y comprender fenómenos físicos cotidianos relacionados con vibraciones."
+  },
+  {
+    "intent_id": "experimentos_ondas",
+    "keywords": [
+      "cuerda",
+      "vibracion",
+      "frecuencia",
+      "observacion",
+      "resonancia"
+    ],
+    "base_response": "Los experimentos con cuerdas permiten observar ondas estacionarias, resonancia y efectos de frecuencia. Manipular tensión y longitud muestra cómo cambia la propagación. Estas prácticas desarrollan comprensión profunda y permiten visualizar conceptos fundamentales sobre perturbaciones mecánicas."
+  },
+  {
+    "intent_id": "impacto_social_desplazamiento",
+    "keywords": [
+      "transporte",
+      "seguridad",
+      "estructura",
+      "movimiento",
+      "control"
+    ],
+    "base_response": "El impacto social del desplazamiento transversal aparece en la seguridad del transporte y la estabilidad estructural. Su estudio permite diseñar sistemas más confiables que protegen a comunidades y mejoran infraestructuras sometidas a fuerzas laterales constantes."
+  },
+  {
+    "intent_id": "definicion_rapidez_sonora",
+    "keywords": [
+      "propagacion",
+      "sonido",
+      "rapidez",
+      "vibracion",
+      "transmision"
+    ],
+    "base_response": "La rapidez de transmisión sonora describe cuán velozmente viaja una onda sonora a través de un medio. Depende de la densidad y elasticidad del material. Comprenderla permite analizar fenómenos acústicos y mejorar tecnologías que usan sonido para comunicación eficiente."
+  },
+  {
+    "intent_id": "dinamica_propagacion_sonora",
+    "keywords": [
+      "propagacion",
+      "onda",
+      "medio",
+      "energia",
+      "vibracion"
+    ],
+    "base_response": "La dinámica de propagación sonora explica cómo las partículas del medio vibran y transfieren energía. La rapidez cambia según la rigidez y temperatura del entorno. Estudiarla ayuda a entender variaciones en la percepción auditiva y el comportamiento acústico."
+  },
+  {
+    "intent_id": "materiales_transmision_sonora",
+    "keywords": [
+      "sonido",
+      "densidad",
+      "elasticidad",
+      "material",
+      "velocidad"
+    ],
+    "base_response": "Los materiales influyen directamente en la rapidez del sonido. En sólidos viaja más rápido por su mayor rigidez, mientras en gases es más lento. Analizar estas diferencias permite diseñar estructuras con propiedades acústicas específicas y mejorar aplicaciones tecnológicas."
+  },
+  {
+    "intent_id": "fallas_transmision_sonora",
+    "keywords": [
+      "obstaculo",
+      "sonido",
+      "distorsion",
+      "absorcion",
+      "interferencia"
+    ],
+    "base_response": "Las fallas en la transmisión sonora ocurren cuando el sonido se atenúa, distorsiona o bloquea. Factores como obstáculos, absorción excesiva o interferencias modifican la rapidez percibida. Comprender estas fallas permite optimizar sistemas acústicos y mejorar la comunicación."
+  },
+  {
+    "intent_id": "historia_estudio_sonido",
+    "keywords": [
+      "sonido",
+      "experimento",
+      "medicion",
+      "investigacion",
+      "fisica"
+    ],
+    "base_response": "La historia del estudio del sonido incluye experimentos que revelaron su naturaleza ondulatoria y su rapidez variable. Científicos como Newton y Laplace aportaron modelos importantes. Estos avances permitieron desarrollar tecnologías acústicas modernas y comprender mejor la física."
+  },
+  {
+    "intent_id": "ventajas_desventajas_sonoras",
+    "keywords": [
+      "sonido",
+      "medio",
+      "eficiencia",
+      "limitacion",
+      "rapidez"
+    ],
+    "base_response": "La rapidez sonora ofrece ventajas como transmisión eficiente en sólidos, pero presenta desventajas en gases donde es menor. Estas diferencias condicionan aplicaciones tecnológicas y fenómenos naturales. Analizar ambas perspectivas permite elegir medios adecuados para cada uso."
+  },
+  {
+    "intent_id": "seguridad_transmision_sonora",
+    "keywords": [
+      "sonido",
+      "intensidad",
+      "proteccion",
+      "exposicion",
+      "riesgo"
+    ],
+    "base_response": "La seguridad en transmisión sonora implica controlar exposición a sonidos intensos. Aunque la rapidez no causa daño directo, influye en cómo se perciben señales fuertes. Enseñar prácticas de protección auditiva ayuda a prevenir lesiones y mantener ambientes acústicos saludables."
+  },
+  {
+    "intent_id": "calculos_rapidez_sonora",
+    "keywords": [
+      "sonido",
+      "medio",
+      "medicion",
+      "formula",
+      "velocidad"
+    ],
+    "base_response": "Los cálculos de rapidez sonora usan fórmulas que relacionan propiedades del medio como densidad y elasticidad. En aire se aproxima mediante temperatura. Dominar estos cálculos permite predecir comportamientos acústicos y resolver problemas prácticos en física escolar."
+  },
+  {
+    "intent_id": "definicion_cresta_perfil_superior",
+    "keywords": [
+      "superior",
+      "perfil",
+      "cresta",
+      "forma",
+      "estructura"
+    ],
+    "base_response": "La cresta del perfil superior describe el punto más alto de una onda o superficie aerodinámica. Comprender su ubicación permite analizar comportamientos físicos como presión, velocidad y estabilidad. Su estudio facilita interpretar fenómenos naturales y diseñar estructuras eficientes para distintos entornos educativos."
+  },
+  {
+    "intent_id": "dinamica_cresta_movimiento",
+    "keywords": [
+      "cresta",
+      "onda",
+      "energia",
+      "dinamica",
+      "movimiento"
+    ],
+    "base_response": "La dinámica de la cresta del perfil superior explica cómo se desplaza el punto máximo de una onda mientras transporta energía. Observar su avance ayuda a comprender vibraciones, propagación y cambios de amplitud. Este análisis permite predecir comportamientos físicos en sistemas simples y complejos."
+  },
+  {
+    "intent_id": "materiales_formacion_cresta",
+    "keywords": [
+      "materiales",
+      "cresta",
+      "propiedades",
+      "interaccion",
+      "superficie"
+    ],
+    "base_response": "Los materiales influyen en la formación de la cresta del perfil superior mediante sus propiedades de elasticidad, densidad y rigidez. Analizar estas características permite entender cómo distintas superficies generan ondas. Este enfoque facilita diseñar modelos escolares que representen fenómenos físicos reales."
+  },
+  {
+    "intent_id": "fallas_cresta_inestabilidad",
+    "keywords": [
+      "cresta",
+      "fallas",
+      "ruptura",
+      "vibracion",
+      "inestabilidad"
+    ],
+    "base_response": "Las fallas en la cresta del perfil superior ocurren cuando la estructura pierde estabilidad por exceso de vibración o tensión. Identificar estos puntos débiles permite prevenir rupturas y mejorar diseños. Este análisis enseña a reconocer límites físicos y aplicar soluciones seguras en proyectos escolares."
+  },
+  {
+    "intent_id": "historia_estudio_cresta",
+    "keywords": [
+      "cresta",
+      "ondas",
+      "investigacion",
+      "historia",
+      "estudio"
+    ],
+    "base_response": "La historia del estudio de la cresta del perfil superior surge con investigaciones sobre ondas realizadas por científicos clásicos. Sus descubrimientos permitieron comprender la propagación de energía y desarrollar modelos matemáticos. Este legado impulsa avances modernos en física aplicada y educación científica."
+  },
+  {
+    "intent_id": "entorno_cresta_contexto",
+    "keywords": [
+      "condiciones",
+      "cresta",
+      "contexto",
+      "entorno",
+      "superficie"
+    ],
+    "base_response": "El entorno influye en la cresta del perfil superior mediante condiciones como temperatura, presión y tipo de superficie. Analizar estos factores permite comprender variaciones en ondas naturales y artificiales. Este enfoque ayuda a relacionar fenómenos físicos con situaciones cotidianas observables por estudiantes."
+  },
+  {
+    "intent_id": "aplicaciones_cresta_tecnologia",
+    "keywords": [
+      "tecnologia",
+      "aplicaciones",
+      "cresta",
+      "ondas",
+      "modelos"
+    ],
+    "base_response": "Las aplicaciones de la cresta del perfil superior incluyen diseño de antenas, análisis de vibraciones y optimización de estructuras. Comprender su comportamiento permite crear modelos tecnológicos eficientes. Este conocimiento impulsa proyectos escolares que conectan teoría física con soluciones prácticas innovadoras."
+  },
+  {
+    "intent_id": "impacto_social_cresta",
+    "keywords": [
+      "social",
+      "cresta",
+      "educacion",
+      "comprension",
+      "impacto"
+    ],
+    "base_response": "El impacto social del estudio de la cresta del perfil superior se refleja en una mejor comprensión de fenómenos físicos presentes en tecnología y naturaleza. Promover este conocimiento fortalece la educación científica y motiva a jóvenes a explorar disciplinas relacionadas con ingeniería y física aplicada."
+  },
+  {
+    "intent_id": "ventajas_desventajas_cresta",
+    "keywords": [
+      "cresta",
+      "ventajas",
+      "ondas",
+      "desventajas",
+      "analisis"
+    ],
+    "base_response": "Analizar la cresta del perfil superior ofrece ventajas como comprender amplitud y energía de ondas, aunque presenta desventajas cuando las mediciones son complejas. Evaluar ambos aspectos permite desarrollar habilidades críticas y aplicar conceptos físicos con precisión en experimentos escolares variados."
+  },
+  {
+    "intent_id": "seguridad_cresta_experimentos",
+    "keywords": [
+      "cresta",
+      "seguridad",
+      "experimentos",
+      "ondas",
+      "superficie"
+    ],
+    "base_response": "La seguridad en experimentos sobre la cresta del perfil superior requiere controlar vibraciones, evitar superficies inestables y usar protección adecuada. Estas medidas garantizan prácticas responsables mientras se estudian ondas. Enseñar procedimientos seguros fomenta confianza y responsabilidad en actividades científicas escolares."
+  },
+  {
+    "intent_id": "clasificacion_cresta_ondas",
+    "keywords": [
+      "propagacion",
+      "tipos",
+      "cresta",
+      "clasificacion",
+      "ondas"
+    ],
+    "base_response": "La clasificación de crestas del perfil superior distingue ondas mecánicas, electromagnéticas y superficiales según su propagación. Comprender estas diferencias permite identificar comportamientos físicos diversos. Este análisis facilita relacionar conceptos teóricos con ejemplos cotidianos que fortalecen el aprendizaje científico."
+  },
+  {
+    "intent_id": "experimentos_cresta_observacion",
+    "keywords": [
+      "cresta",
+      "experimentos",
+      "ondas",
+      "observacion",
+      "superficie"
+    ],
+    "base_response": "Los experimentos sobre la cresta del perfil superior incluyen generar ondas en cuerdas o agua para observar su punto máximo. Estas prácticas permiten visualizar conceptos físicos y comprender cómo se transmite energía. Realizar actividades guiadas fortalece habilidades científicas en estudiantes de distintas edades."
+  },
+  {
+    "intent_id": "concepto_dinamica_ciclo",
+    "keywords": [
+      "frecuencia",
+      "movimiento",
+      "propagacion",
+      "onda",
+      "espacio"
+    ],
+    "base_response": "La dinámica de la longitud espacial de ciclo depende de cómo se propaga una onda y de su frecuencia. Al aumentar la frecuencia, la longitud disminuye, generando ciclos más compactos. Este comportamiento permite predecir cambios en sistemas vibratorios y analizar variaciones energéticas."
+  },
+  {
+    "intent_id": "concepto_materiales_ciclo",
+    "keywords": [
+      "material",
+      "medio",
+      "transmision",
+      "onda",
+      "vibracion"
+    ],
+    "base_response": "La longitud espacial de ciclo varía según el material donde viaja la onda. Cada medio modifica la velocidad de propagación, alterando la distancia recorrida por ciclo. Estudiar materiales permite comprender cómo se comportan ondas en sólidos, líquidos y gases, optimizando aplicaciones tecnológicas."
+  },
+  {
+    "intent_id": "concepto_fallas_ciclo",
+    "keywords": [
+      "instrumento",
+      "error",
+      "variacion",
+      "onda",
+      "medicion"
+    ],
+    "base_response": "Las fallas al medir longitud espacial de ciclo surgen por instrumentos imprecisos, interferencias o cambios inesperados en el medio. Identificar errores permite mejorar cálculos y evitar conclusiones incorrectas. La práctica constante ayuda a reconocer desviaciones y fortalecer habilidades experimentales confiables."
+  },
+  {
+    "intent_id": "concepto_historia_ciclo",
+    "keywords": [
+      "descubrimiento",
+      "fisica",
+      "investigacion",
+      "historia",
+      "onda"
+    ],
+    "base_response": "El estudio de la longitud espacial de ciclo nació con investigaciones sobre ondas y vibraciones. Científicos clásicos analizaron patrones periódicos para comprender sonido y luz. Estos avances permitieron desarrollar teorías modernas que explican fenómenos ondulatorios y fundamentan tecnologías actuales basadas en propagación."
+  },
+  {
+    "intent_id": "concepto_entorno_ciclo",
+    "keywords": [
+      "condicion",
+      "propagacion",
+      "entorno",
+      "medio",
+      "onda"
+    ],
+    "base_response": "El entorno influye directamente en la longitud espacial de ciclo porque temperatura, presión y densidad modifican la velocidad de propagación. Analizar condiciones ambientales permite predecir comportamientos ondulatorios y ajustar cálculos en experimentos escolares, garantizando resultados más precisos y coherentes."
+  },
+  {
+    "intent_id": "concepto_aplicaciones_ciclo",
+    "keywords": [
+      "frecuencia",
+      "tecnologia",
+      "aplicacion",
+      "onda",
+      "medicion"
+    ],
+    "base_response": "La longitud espacial de ciclo se aplica en telecomunicaciones, acústica y óptica. Permite diseñar antenas, ajustar instrumentos musicales y mejorar sistemas de iluminación. Comprenderla ayuda a resolver problemas reales donde ondas y frecuencias determinan funcionamiento eficiente de dispositivos modernos."
+  },
+  {
+    "intent_id": "concepto_impacto_social_ciclo",
+    "keywords": [
+      "impacto",
+      "comunicacion",
+      "sociedad",
+      "tecnologia",
+      "onda"
+    ],
+    "base_response": "El conocimiento de la longitud espacial de ciclo impulsa tecnologías que mejoran comunicación, educación y entretenimiento. Su comprensión permite desarrollar dispositivos más precisos y accesibles. Este impacto fortalece la interacción social y facilita el acceso a información mediante sistemas basados en ondas."
+  },
+  {
+    "intent_id": "concepto_seguridad_ciclo",
+    "keywords": [
+      "experimento",
+      "seguridad",
+      "equipo",
+      "onda",
+      "medicion"
+    ],
+    "base_response": "La seguridad al estudiar longitud espacial de ciclo exige usar equipos adecuados, evitar fuentes intensas de luz o sonido y seguir instrucciones docentes. Aplicar precauciones garantiza mediciones confiables y protege a estudiantes durante actividades experimentales relacionadas con ondas y vibraciones."
+  },
+  {
+    "intent_id": "concepto_experimentos_ciclo",
+    "keywords": [
+      "experimento",
+      "observacion",
+      "frecuencia",
+      "onda",
+      "medicion"
+    ],
+    "base_response": "Los experimentos sobre longitud espacial de ciclo incluyen observar ondas en cuerdas, medir patrones en agua o analizar sonido con aplicaciones digitales. Estas prácticas permiten visualizar ciclos completos, relacionar frecuencia y distancia, y desarrollar comprensión profunda mediante observación directa."
+  },
+  {
+    "intent_id": "concepto_impacto_ambiental_ciclo",
+    "keywords": [
+      "contaminacion",
+      "impacto",
+      "sonido",
+      "ambiente",
+      "onda"
+    ],
+    "base_response": "La longitud espacial de ciclo ayuda a estudiar contaminación sonora y su efecto ambiental. Comprender cómo se propagan ondas permite diseñar barreras acústicas y reducir impactos negativos. Aplicar este conocimiento favorece entornos más saludables y promueve conciencia sobre fenómenos ondulatorios."
+  },
+  {
+    "intent_id": "dinamica_propagacion_interior",
+    "keywords": [
+      "ondas",
+      "propagacion",
+      "rebote",
+      "superficie"
+    ],
+    "base_response": "La dinámica del sonido en espacios cerrados depende del rebote de ondas contra superficies. Cada choque modifica la energía y dirección del sonido. Analizar estos cambios permite controlar ecos, reverberación y claridad auditiva para mejorar la experiencia acústica en diferentes recintos."
+  },
+  {
+    "intent_id": "historia_estudio_acustico",
+    "keywords": [
+      "teatro",
+      "arquitectura",
+      "sonido",
+      "investigacion"
+    ],
+    "base_response": "La historia de la acústica en espacios cerrados surge en teatros antiguos donde se buscaba proyectar voz sin tecnología. Con el tiempo, la investigación científica permitió comprender mejor la propagación sonora y desarrollar técnicas modernas para diseñar recintos con excelente calidad auditiva."
+  },
+  {
+    "intent_id": "impacto_social_calidad_sonora",
+    "keywords": [
+      "convivencia",
+      "educacion",
+      "salud",
+      "comunicacion"
+    ],
+    "base_response": "La calidad acústica impacta la comunicación, la educación y la convivencia. Un espacio con mala acústica dificulta escuchar y genera cansancio. Mejorar el sonido favorece la participación, reduce estrés y permite ambientes más saludables donde las personas interactúan con mayor comodidad."
+  },
+  {
+    "intent_id": "clasificacion_tipos_espacios",
+    "keywords": [
+      "sala",
+      "auditorio",
+      "recinto",
+      "estudio"
+    ],
+    "base_response": "Los espacios cerrados se clasifican según su función: salas pequeñas, auditorios y estudios. Cada tipo requiere tratamiento acústico específico para controlar reverberación y claridad. Comprender estas diferencias permite diseñar ambientes adecuados para hablar, grabar o escuchar música."
+  },
+  {
+    "intent_id": "calculos_basicos_reverberacion",
+    "keywords": [
+      "formula",
+      "superficie",
+      "reverberacion",
+      "tiempo"
+    ],
+    "base_response": "Los cálculos de reverberación estiman cuánto tarda el sonido en disminuir dentro de un espacio. Usan fórmulas que consideran superficies y materiales. Conocer estos valores permite ajustar el diseño acústico para lograr ambientes donde el sonido se percibe claro y equilibrado."
+  },
+  {
+    "intent_id": "definicion_eco_rebote",
+    "keywords": [
+      "sonido",
+      "rebote",
+      "onda",
+      "eco",
+      "reflexion"
+    ],
+    "base_response": "El eco por rebote sonoro ocurre cuando una onda sonora choca contra una superficie y regresa al oyente. Comprender este fenómeno permite explicar cómo viaja el sonido, cómo se refleja y cómo puede medirse la distancia mediante tiempos de retorno."
+  },
+  {
+    "intent_id": "dinamica_propagacion_eco",
+    "keywords": [
+      "superficie",
+      "sonido",
+      "propagacion",
+      "rebote",
+      "eco"
+    ],
+    "base_response": "La dinámica del eco depende de la propagación del sonido y su interacción con superficies rígidas. Cuando la onda llega a un obstáculo, parte de su energía se refleja y vuelve. El tiempo entre emisión y retorno permite analizar distancia y velocidad."
+  },
+  {
+    "intent_id": "materiales_reflectores_sonoros",
+    "keywords": [
+      "superficie",
+      "sonido",
+      "material",
+      "rebote",
+      "eco"
+    ],
+    "base_response": "Los materiales influyen en la intensidad del eco. Superficies duras como metal, piedra o concreto reflejan mejor el sonido. En cambio, materiales blandos como telas o espuma absorben energía y reducen el rebote, modificando la claridad del eco."
+  },
+  {
+    "intent_id": "fallas_medicion_eco",
+    "keywords": [
+      "sonido",
+      "error",
+      "rebote",
+      "eco",
+      "medicion"
+    ],
+    "base_response": "Las fallas en la medición del eco surgen por ruido ambiental, superficies irregulares o mala sincronización del tiempo. Estos factores alteran el retorno de la onda y dificultan cálculos precisos, afectando experimentos escolares y aplicaciones tecnológicas."
+  },
+  {
+    "intent_id": "historia_estudio_eco",
+    "keywords": [
+      "acustica",
+      "sonido",
+      "historia",
+      "rebote",
+      "eco"
+    ],
+    "base_response": "El estudio del eco comenzó con observaciones antiguas sobre la acústica en cavernas y teatros. Con el tiempo, científicos desarrollaron teorías sobre reflexión sonora, permitiendo avances en arquitectura, navegación y medición de distancias mediante sonido."
+  },
+  {
+    "intent_id": "aplicaciones_eco_tecnologia",
+    "keywords": [
+      "sonido",
+      "rebote",
+      "tecnologia",
+      "eco",
+      "medicion"
+    ],
+    "base_response": "El eco se usa en tecnologías como sonar, ultrasonido y sistemas de mapeo. Estas herramientas envían ondas sonoras y analizan su retorno para detectar objetos, medir distancias o crear imágenes internas, demostrando la utilidad del rebote sonoro."
+  },
+  {
+    "intent_id": "calculos_distancia_eco",
+    "keywords": [
+      "calculo",
+      "distancia",
+      "sonido",
+      "rebote",
+      "eco"
+    ],
+    "base_response": "Los cálculos del eco se basan en medir el tiempo entre emisión y retorno de la onda. Multiplicando ese tiempo por la velocidad del sonido y dividiéndolo entre dos, se obtiene la distancia al obstáculo, aplicando principios físicos fundamentales."
+  },
+  {
+    "intent_id": "definicion_compresion_longitudinal",
+    "keywords": [
+      "particulas",
+      "propagacion",
+      "medio",
+      "compresion",
+      "ondas"
+    ],
+    "base_response": "La compresión longitudinal del medio ocurre cuando las partículas se acercan entre sí transmitiendo energía en la dirección de propagación. Explica cómo vibraciones ordenadas generan ondas sonoras y otros fenómenos similares en materiales sólidos, líquidos y gaseosos."
+  },
+  {
+    "intent_id": "dinamica_interaccion_particulas",
+    "keywords": [
+      "energia",
+      "movimiento",
+      "particulas",
+      "transmision",
+      "vibracion"
+    ],
+    "base_response": "La dinámica de la compresión longitudinal depende del movimiento coordinado de partículas que oscilan y empujan a sus vecinas. Comprender esta interacción permite analizar cómo se forman ondas y cómo viajan a través de distintos materiales."
+  },
+  {
+    "intent_id": "materiales_respuesta_compresiva",
+    "keywords": [
+      "materiales",
+      "elasticidad",
+      "densidad",
+      "respuesta",
+      "vibracion"
+    ],
+    "base_response": "Los materiales reaccionan de manera diferente a la compresión longitudinal según su elasticidad y densidad. Estudiar estas propiedades ayuda a predecir la velocidad de propagación de ondas y la eficiencia con la que transmiten energía."
+  },
+  {
+    "intent_id": "fallas_transmision_ondas",
+    "keywords": [
+      "fallas",
+      "energia",
+      "materiales",
+      "ondas",
+      "interrupcion"
+    ],
+    "base_response": "Las fallas en la transmisión de compresión longitudinal surgen cuando el material presenta irregularidades o pierde cohesión. Estas condiciones reducen la eficiencia del paso de energía y pueden distorsionar la forma de la onda generada."
+  },
+  {
+    "intent_id": "impacto_social_comunicacion",
+    "keywords": [
+      "impacto",
+      "sonido",
+      "comunicacion",
+      "sociedad",
+      "tecnologia"
+    ],
+    "base_response": "El impacto social de la compresión longitudinal se observa en tecnologías que permiten comunicarnos mediante sonido. Su estudio ha impulsado avances que mejoran la calidad de vida y facilitan el acceso a información en múltiples entornos."
+  },
+  {
+    "intent_id": "calculos_intensidad_compresion",
+    "keywords": [
+      "energia",
+      "intensidad",
+      "calculos",
+      "ondas",
+      "vibracion"
+    ],
+    "base_response": "Los cálculos de intensidad en compresión longitudinal permiten cuantificar la energía transmitida por una onda. Analizar estos valores ayuda a comprender la eficiencia del medio y a diseñar aplicaciones que aprovechen mejor las vibraciones generadas."
+  },
+  {
+    "intent_id": "dinamica_oscilatoria",
+    "keywords": [
+      "oscilacion",
+      "energia",
+      "movimiento",
+      "dinamica",
+      "variacion"
+    ],
+    "base_response": "La dinámica de la frecuencia de oscilación temporal explica cómo cambia la velocidad de los ciclos según fuerzas externas. Analizar estas variaciones permite comprender sistemas vibratorios complejos. Estudiar su comportamiento ayuda a anticipar respuestas y ajustar parámetros para lograr estabilidad funcional."
+  },
+  {
+    "intent_id": "materiales_resonantes",
+    "keywords": [
+      "resonancia",
+      "materiales",
+      "respuesta",
+      "estructura",
+      "vibracion"
+    ],
+    "base_response": "Los materiales influyen en la frecuencia de oscilación temporal porque cada estructura responde de manera distinta a vibraciones. Identificar sus propiedades permite seleccionar componentes adecuados para instrumentos y mecanismos. Comprender estas características facilita diseñar sistemas más eficientes y resistentes."
+  },
+  {
+    "intent_id": "fallas_oscilatorias",
+    "keywords": [
+      "fallas",
+      "frecuencia",
+      "ruptura",
+      "vibracion",
+      "desgaste"
+    ],
+    "base_response": "Las fallas relacionadas con la frecuencia de oscilación temporal ocurren cuando un sistema vibra fuera de su rango seguro. Detectarlas temprano evita daños mayores y pérdidas funcionales. Analizar patrones anómalos permite corregir problemas y mantener la estabilidad operativa en dispositivos sensibles."
+  },
+  {
+    "intent_id": "historia_estudio_oscilacion",
+    "keywords": [
+      "oscilacion",
+      "frecuencia",
+      "investigacion",
+      "historia",
+      "ciencia"
+    ],
+    "base_response": "El estudio de la frecuencia de oscilación temporal surgió con investigaciones sobre péndulos y vibraciones. Su desarrollo permitió comprender fenómenos periódicos y crear tecnologías basadas en ciclos repetitivos. Explorar su evolución histórica ayuda a valorar avances científicos fundamentales para la física moderna."
+  },
+  {
+    "intent_id": "entorno_oscilatorio",
+    "keywords": [
+      "frecuencia",
+      "condiciones",
+      "entorno",
+      "interaccion",
+      "vibracion"
+    ],
+    "base_response": "El entorno modifica la frecuencia de oscilación temporal mediante cambios de temperatura, presión o interferencias externas. Analizar estas influencias permite ajustar sistemas para mantener estabilidad. Comprender estas interacciones ayuda a diseñar dispositivos que funcionen correctamente en diversos ambientes."
+  },
+  {
+    "intent_id": "aplicaciones_frecuencia",
+    "keywords": [
+      "oscilacion",
+      "frecuencia",
+      "instrumentos",
+      "aplicaciones",
+      "tecnologia"
+    ],
+    "base_response": "La frecuencia de oscilación temporal se aplica en relojes, sensores, instrumentos musicales y comunicaciones. Comprenderla permite crear dispositivos precisos y confiables. Su uso facilita controlar vibraciones y transmitir información mediante señales periódicas que dependen de ciclos constantes."
+  },
+  {
+    "intent_id": "impacto_social_oscilacion",
+    "keywords": [
+      "frecuencia",
+      "impacto",
+      "sociedad",
+      "tecnologia",
+      "vibracion"
+    ],
+    "base_response": "La frecuencia de oscilación temporal influye en tecnologías que mejoran la vida diaria, como comunicaciones y mediciones precisas. Su comprensión permite desarrollar herramientas útiles para educación y salud. Analizar su impacto social ayuda a valorar la importancia de la física en soluciones modernas."
+  },
+  {
+    "intent_id": "ventajas_desventajas_oscilacion",
+    "keywords": [
+      "oscilacion",
+      "frecuencia",
+      "ventajas",
+      "desventajas",
+      "sistemas"
+    ],
+    "base_response": "La frecuencia de oscilación temporal ofrece ventajas como precisión y control, pero también presenta desventajas cuando genera vibraciones indeseadas. Evaluar ambos aspectos permite diseñar sistemas equilibrados. Comprender estos factores ayuda a optimizar dispositivos y evitar problemas funcionales."
+  },
+  {
+    "intent_id": "seguridad_oscilatoria",
+    "keywords": [
+      "seguridad",
+      "frecuencia",
+      "riesgos",
+      "control",
+      "vibracion"
+    ],
+    "base_response": "La seguridad en sistemas con frecuencia de oscilación temporal requiere controlar vibraciones para evitar daños. Supervisar parámetros críticos permite prevenir fallas peligrosas. Aplicar medidas adecuadas garantiza funcionamiento estable y protege estructuras sensibles ante variaciones inesperadas."
+  },
+  {
+    "intent_id": "clasificacion_oscilaciones",
+    "keywords": [
+      "oscilacion",
+      "frecuencia",
+      "clasificacion",
+      "tipos",
+      "sistemas"
+    ],
+    "base_response": "Las oscilaciones pueden clasificarse según su frecuencia en bajas, medias o altas. Esta organización facilita estudiar comportamientos vibratorios y seleccionar métodos de análisis adecuados. Comprender estas categorías permite identificar patrones y diseñar soluciones específicas para cada tipo."
+  },
+  {
+    "intent_id": "calculos_frecuencia_oscilacion",
+    "keywords": [
+      "periodo",
+      "oscilacion",
+      "frecuencia",
+      "calculos",
+      "formula"
+    ],
+    "base_response": "Calcular la frecuencia de oscilación temporal implica dividir uno entre el periodo del ciclo. Aplicar esta fórmula permite obtener valores precisos para analizar sistemas vibratorios. Comprender estos cálculos facilita interpretar datos y ajustar parámetros en experimentos escolares y proyectos científicos."
+  },
+  {
+    "intent_id": "concepto_definicion_periodo",
+    "keywords": [
+      "periodo",
+      "oscilacion",
+      "movimiento",
+      "duracion",
+      "tiempo"
+    ],
+    "base_response": "Comprende que el periodo de duración completa es el tiempo que tarda un sistema en realizar una oscilación completa. Identificar este intervalo permite analizar comportamientos repetitivos y predecir patrones físicos esenciales para estudiar fenómenos cíclicos en distintos contextos científicos."
+  },
+  {
+    "intent_id": "concepto_dinamica_periodo",
+    "keywords": [
+      "oscilacion",
+      "energia",
+      "movimiento",
+      "frecuencia",
+      "cambio"
+    ],
+    "base_response": "Explora cómo el periodo depende de la dinámica del sistema, incluyendo fuerzas internas y externas. Reconocer estas variaciones permite comprender la estabilidad del movimiento y anticipar ajustes necesarios para mantener comportamientos periódicos confiables en diversos dispositivos."
+  },
+  {
+    "intent_id": "concepto_materiales_periodo",
+    "keywords": [
+      "masa",
+      "oscilacion",
+      "material",
+      "elasticidad",
+      "estructura"
+    ],
+    "base_response": "Analiza cómo las propiedades de los materiales influyen en el periodo de duración completa. La masa, elasticidad y rigidez modifican la respuesta del sistema, permitiendo diseñar mecanismos que mantengan ciclos precisos y adecuados para aplicaciones escolares y tecnológicas."
+  },
+  {
+    "intent_id": "perfil_inferior_definicion",
+    "keywords": [
+      "perfil",
+      "inferior",
+      "analisis",
+      "estructura",
+      "valle"
+    ],
+    "base_response": "Comprende el valle del perfil inferior como una depresión característica dentro de un relieve físico. Explica su forma, origen y función en el paisaje. Reconoce cómo influye en el flujo de agua, la acumulación de sedimentos y la estabilidad general del terreno."
+  },
+  {
+    "intent_id": "perfil_inferior_dinamica",
+    "keywords": [
+      "perfil",
+      "erosion",
+      "sedimento",
+      "valle",
+      "flujo"
+    ],
+    "base_response": "Describe la dinámica del valle del perfil inferior analizando cómo el agua, el viento y la gravedad modifican su forma. Explica la interacción entre erosión y depósito, mostrando cómo estos procesos transforman gradualmente la estructura del valle."
+  },
+  {
+    "intent_id": "perfil_inferior_materiales",
+    "keywords": [
+      "perfil",
+      "suelo",
+      "roca",
+      "sedimento",
+      "valle"
+    ],
+    "base_response": "Explica los materiales presentes en el valle del perfil inferior, destacando rocas, suelos y sedimentos. Analiza cómo su composición determina la resistencia del valle, su capacidad de retener agua y su respuesta ante procesos erosivos naturales."
+  },
+  {
+    "intent_id": "perfil_inferior_fallas",
+    "keywords": [
+      "perfil",
+      "terreno",
+      "fractura",
+      "tension",
+      "valle"
+    ],
+    "base_response": "Analiza cómo fallas geológicas pueden influir en el valle del perfil inferior. Explica que fracturas profundas modifican su estabilidad, alteran el flujo de agua y generan cambios en la forma del relieve, afectando procesos naturales asociados."
+  },
+  {
+    "intent_id": "perfil_inferior_ciclos_energeticos",
+    "keywords": [
+      "energia",
+      "perfil",
+      "proceso",
+      "valle",
+      "flujo"
+    ],
+    "base_response": "Describe los ciclos energéticos presentes en el valle del perfil inferior explicando cómo la energía del agua y del viento transforma el relieve. Analiza la transferencia de energía que impulsa erosión, transporte y depósito de materiales."
+  },
+  {
+    "intent_id": "perfil_inferior_experimentos",
+    "keywords": [
+      "perfil",
+      "erosion",
+      "valle",
+      "modelo",
+      "simulacion"
+    ],
+    "base_response": "Propón experimentos simples para estudiar el valle del perfil inferior usando modelos de arena y agua. Explica cómo observar erosión, transporte y depósito ayuda a comprender procesos reales que moldean este tipo de relieve natural."
+  },
+  {
+    "intent_id": "definicion_nodo_estatico",
+    "keywords": [
+      "interferencia",
+      "superposicion",
+      "ondas",
+      "vibracion",
+      "patron"
+    ],
+    "base_response": "Un nodo estático de interferencia surge cuando dos ondas idénticas se superponen y generan un punto que permanece sin vibrar. Comprenderlo permite analizar fenómenos ondulatorios y explicar cómo se forman patrones estacionarios en cuerdas, superficies y diversos sistemas físicos."
+  },
+  {
+    "intent_id": "dinamica_formacion_nodo",
+    "keywords": [
+      "frecuencia",
+      "superposicion",
+      "amplitud",
+      "interaccion",
+      "ondas"
+    ],
+    "base_response": "La dinámica del nodo estático depende de la coincidencia entre ondas que viajan en sentidos opuestos. Cuando sus amplitudes se cancelan exactamente, el punto queda inmóvil. Estudiar esta condición ayuda a comprender cómo se estabilizan patrones estacionarios en distintos medios físicos."
+  },
+  {
+    "intent_id": "materiales_generan_nodos",
+    "keywords": [
+      "resonancia",
+      "cuerda",
+      "membrana",
+      "ondas",
+      "vibracion"
+    ],
+    "base_response": "Los nodos estáticos aparecen en materiales capaces de transmitir vibraciones, como cuerdas tensas, membranas elásticas o columnas de aire. Cada material produce patrones distintos según su rigidez, densidad y forma, permitiendo observar nodos en instrumentos musicales y dispositivos experimentales."
+  },
+  {
+    "intent_id": "fallas_identificacion_nodos",
+    "keywords": [
+      "observacion",
+      "error",
+      "vibracion",
+      "patron",
+      "medicion"
+    ],
+    "base_response": "Las fallas al identificar nodos estáticos suelen surgir por mediciones imprecisas o confusión entre zonas de mínima vibración y silencio aparente. Evitar errores requiere observar cuidadosamente el patrón completo y verificar que el punto realmente permanezca inmóvil durante la interferencia."
+  },
+  {
+    "intent_id": "historia_estudio_nodos",
+    "keywords": [
+      "experimento",
+      "resonancia",
+      "interferencia",
+      "ondas",
+      "vibracion"
+    ],
+    "base_response": "El estudio de nodos estáticos comenzó con investigaciones clásicas sobre ondas y resonancia. Científicos como Chladni y otros pioneros observaron patrones estacionarios en placas y cuerdas, estableciendo bases para comprender cómo la interferencia produce regiones inmóviles en sistemas vibratorios."
+  },
+  {
+    "intent_id": "entorno_formacion_nodos",
+    "keywords": [
+      "interferencia",
+      "condicion",
+      "medio",
+      "ondas",
+      "vibracion"
+    ],
+    "base_response": "El entorno influye en la formación de nodos estáticos porque cada medio transmite ondas de manera diferente. Factores como tensión, temperatura y densidad modifican la velocidad de propagación, afectando la ubicación de los nodos y la estabilidad del patrón estacionario generado."
+  },
+  {
+    "intent_id": "aplicaciones_nodos_estaticos",
+    "keywords": [
+      "resonancia",
+      "instrumento",
+      "ondas",
+      "vibracion",
+      "patron"
+    ],
+    "base_response": "Los nodos estáticos se aplican en instrumentos musicales, sistemas acústicos y tecnologías de control vibratorio. Comprenderlos permite diseñar estructuras que optimizan resonancia, reducen ruido o distribuyen energía de manera eficiente mediante la manipulación precisa de patrones estacionarios."
+  },
+  {
+    "intent_id": "impacto_social_nodos",
+    "keywords": [
+      "resonancia",
+      "ingenieria",
+      "acustica",
+      "ondas",
+      "vibracion"
+    ],
+    "base_response": "El impacto social de los nodos estáticos aparece en mejoras acústicas, diseño arquitectónico y reducción de vibraciones en maquinaria. Su estudio contribuye a espacios más confortables, instrumentos más precisos y tecnologías que protegen a las personas de efectos indeseados de resonancias intensas."
+  },
+  {
+    "intent_id": "ventajas_desventajas_nodos",
+    "keywords": [
+      "resonancia",
+      "interferencia",
+      "control",
+      "vibracion",
+      "patron"
+    ],
+    "base_response": "Los nodos estáticos ofrecen ventajas al permitir controlar vibraciones y diseñar sistemas eficientes. Sin embargo, pueden generar desventajas cuando aparecen en estructuras no deseadas, provocando resonancias peligrosas. Analizar ambos aspectos ayuda a gestionar mejor los efectos ondulatorios."
+  },
+  {
+    "intent_id": "seguridad_nodos_estaticos",
+    "keywords": [
+      "resonancia",
+      "ondas",
+      "estructura",
+      "control",
+      "vibracion"
+    ],
+    "base_response": "La seguridad relacionada con nodos estáticos implica evitar resonancias que dañen estructuras o equipos. Identificar patrones estacionarios permite anticipar puntos críticos y aplicar medidas de control vibratorio que protejan instalaciones, instrumentos y sistemas sometidos a ondas intensas."
+  },
+  {
+    "intent_id": "clasificacion_nodos_interferencia",
+    "keywords": [
+      "resonancia",
+      "superposicion",
+      "ondas",
+      "vibracion",
+      "patron"
+    ],
+    "base_response": "Los nodos estáticos pueden clasificarse según el tipo de onda, el medio y la geometría del sistema. Esta clasificación facilita comprender cómo se forman patrones estacionarios y permite predecir la ubicación de nodos en cuerdas, membranas, columnas de aire y superficies vibrantes."
+  },
+  {
+    "intent_id": "calculos_posicion_nodos",
+    "keywords": [
+      "resonancia",
+      "frecuencia",
+      "ondas",
+      "vibracion",
+      "longitud"
+    ],
+    "base_response": "Calcular la posición de nodos estáticos requiere relacionar frecuencia, longitud del medio y velocidad de propagación. Aplicar estas ecuaciones permite predecir dónde aparecerán puntos inmóviles y comprender cómo la interferencia produce patrones estacionarios en sistemas físicos diversos."
+  },
+  {
+    "intent_id": "definicion_medio_elastico",
+    "keywords": [
+      "energia",
+      "materiales",
+      "medio",
+      "transmision",
+      "vibracion"
+    ],
+    "base_response": "Un medio elástico de transmisión permite que una vibración viaje mediante deformaciones temporales. Comprender su comportamiento facilita explicar cómo se propagan ondas en sólidos, líquidos o gases. Su elasticidad determina velocidad, alcance y eficiencia del transporte energético."
+  },
+  {
+    "intent_id": "dinamica_propagacion",
+    "keywords": [
+      "propagacion",
+      "elasticidad",
+      "interaccion",
+      "ondas",
+      "vibracion"
+    ],
+    "base_response": "La dinámica de propagación en un medio elástico depende de cómo sus partículas recuperan su posición original. Analizar esta interacción revela por qué distintas ondas avanzan con velocidades específicas. Estudiar estas variaciones ayuda a predecir comportamientos físicos relevantes."
+  },
+  {
+    "intent_id": "materiales_elasticos",
+    "keywords": [
+      "liquidos",
+      "solidos",
+      "gases",
+      "elasticidad",
+      "vibracion"
+    ],
+    "base_response": "Los materiales elásticos pueden ser sólidos, líquidos o gases capaces de deformarse y volver a su estado inicial. Cada tipo presenta propiedades particulares que influyen en la transmisión de ondas. Explorar estas diferencias permite comprender fenómenos acústicos y mecánicos esenciales."
+  },
+  {
+    "intent_id": "fallas_transmision",
+    "keywords": [
+      "materiales",
+      "fractura",
+      "tension",
+      "ruptura",
+      "vibracion"
+    ],
+    "base_response": "Las fallas en la transmisión ocurren cuando el material no soporta tensiones generadas por vibraciones. Estas rupturas afectan la continuidad del movimiento ondulatorio. Evaluar límites estructurales permite anticipar problemas y diseñar sistemas más resistentes y seguros."
+  },
+  {
+    "intent_id": "historia_estudio",
+    "keywords": [
+      "investigacion",
+      "elasticidad",
+      "ondas",
+      "cientificos",
+      "vibracion"
+    ],
+    "base_response": "La historia del estudio de medios elásticos incluye aportes de científicos que analizaron vibraciones y elasticidad. Sus descubrimientos permitieron comprender cómo viajan las ondas en distintos materiales. Este desarrollo impulsó avances tecnológicos y métodos modernos de análisis."
+  },
+  {
+    "intent_id": "entorno_fisico",
+    "keywords": [
+      "ondas",
+      "materiales",
+      "interaccion",
+      "ambiente",
+      "vibracion"
+    ],
+    "base_response": "El entorno físico influye en la transmisión de ondas mediante variaciones de temperatura, presión y composición del material. Estas condiciones modifican la elasticidad y velocidad de propagación. Comprender estos factores permite predecir comportamientos en situaciones reales."
+  },
+  {
+    "intent_id": "ventajas_desventajas",
+    "keywords": [
+      "materiales",
+      "propagacion",
+      "elasticidad",
+      "ondas",
+      "vibracion"
+    ],
+    "base_response": "Las ventajas incluyen transmisión eficiente y adaptable en diversos materiales. Las desventajas aparecen cuando la elasticidad es insuficiente o variable, afectando velocidad y calidad de propagación. Evaluar ambos aspectos permite seleccionar medios adecuados para cada aplicación."
+  },
+  {
+    "intent_id": "seguridad_estructural",
+    "keywords": [
+      "seguridad",
+      "materiales",
+      "resistencia",
+      "ondas",
+      "vibracion"
+    ],
+    "base_response": "La seguridad estructural depende de comprender cómo vibraciones se transmiten en medios elásticos. Analizar límites de resistencia evita daños y fallas. Implementar controles adecuados garantiza estabilidad en construcciones, máquinas y dispositivos sometidos a ondas mecánicas."
+  },
+  {
+    "intent_id": "calculos_basicos",
+    "keywords": [
+      "materiales",
+      "elasticidad",
+      "ondas",
+      "vibracion",
+      "velocidad"
+    ],
+    "base_response": "Los cálculos básicos incluyen determinar velocidad de onda usando propiedades del material y su elasticidad. Aplicar fórmulas permite predecir cómo se transmitirá una vibración. Practicar estos procedimientos fortalece habilidades matemáticas aplicadas a fenómenos físicos reales."
+  }
+]
