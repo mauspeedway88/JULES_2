@@ -1,0 +1,4003 @@
+[
+  {
+    "intent_id": "esqueleto_dinamica_funcionamiento_fisico",
+    "keywords": [
+      "esqueleto",
+      "movimiento",
+      "palanca",
+      "articulacion",
+      "musculo",
+      "hueso"
+    ],
+    "base_response": "El esqueleto actúa como un sistema de palancas que los músculos mueven para generar desplazamiento. Las articulaciones permiten la flexión y rotación, mientras los huesos soportan el peso corporal. Esta estructura dinámica convierte la fuerza muscular en movimiento coordinado y estable."
+  },
+  {
+    "intent_id": "sistema_oseo_propiedades_chimicas",
+    "keywords": [
+      "hueso",
+      "calcio",
+      "fosfato",
+      "calcificar",
+      "minerales"
+    ],
+    "base_response": "El hueso es un tejido compuesto por una matriz orgánica de colágeno y una matriz inorgánica rica en hidroxilapatita, donde el calcio y el fosfato se disponen en cristales que le confieren resistencia y ligereza. Sus propiedades químicas permiten absorción de golpes y soporte estructural."
+  },
+  {
+    "intent_id": "sistema_oseo_errores_fallas_patologias",
+    "keywords": [
+      "fractura",
+      "osteoporosis",
+      "escoliosis",
+      "lesion",
+      "hueso",
+      "desgaste"
+    ],
+    "base_response": "Las fracturas son roturas en los huesos por golpes o caídas. La osteoporosis debilita los huesos haciéndolos quebradizos. La escoliosis curva la columna vertebral. Las lesiones comunes incluyen esguinces y luxaciones. El desgaste articular causa dolor al moverte. Protege tu esqueleto con calcio, vitamina D y ejercicio seguro."
+  },
+  {
+    "intent_id": "sistema_oseo_historia_origen_evolucion",
+    "keywords": [
+      "hueso",
+      "evolucion",
+      "vertebrado",
+      "estructura",
+      "origen"
+    ],
+    "base_response": "El sistema óseo surgió cuando los primeros vertebrados desarrollaron estructuras rígidas internas para sostener sus cuerpos. Con el tiempo, estas piezas evolucionaron hacia huesos complejos que permiten movimiento, protección y adaptación, formando el esqueleto moderno presente en diversas especies."
+  },
+  {
+    "intent_id": "sistema_oeso_aplicaciones_practicas",
+    "keywords": [
+      "esqueleto",
+      "hueso",
+      "protege",
+      "movimiento",
+      "protector"
+    ],
+    "base_response": "El sistema óseo sostiene el cuerpo, facilita el movimiento y protege órganos internos. En la vida real, se practica el análisis de fracturas y se mejoran prótesis. Los estudiantes usan simuladores para diseñar huesos artificiales que replican el soporte natural, guiando futuras prótesis avanzadas."
+  },
+  {
+    "intent_id": "sistema_oseo_impacto_social",
+    "keywords": [
+      "esqueleto",
+      "proteccion",
+      "movimiento",
+      "soporte",
+      "salud",
+      "comunidad"
+    ],
+    "base_response": "El sistema óseo sostiene tu cuerpo y protege órganos vitales como el cerebro y el corazón. Sin un esqueleto sano, no podrías caminar ni correr. Cuidarlo con calcio y ejercicio fortalece tu independencia y te permite participar activamente en tu comunidad, mejorando tu calidad de vida."
+  },
+  {
+    "intent_id": "sistema_oseo_ventajas_desventajas",
+    "keywords": [
+      "hueso",
+      "soporte",
+      "movimiento",
+      "proteccion",
+      "reparacion"
+    ],
+    "base_response": "El sistema óseo ofrece soporte firme y protección, pero limita flexibilidad y requiere energía para mantenerse sano. Sus huesos permiten movimiento coordinado con músculos, aunque pueden fracturarse y tardar en repararse. Comparar ventajas y desventajas ayuda a comprender su función integral."
+  },
+  {
+    "intent_id": "sistema_oseo_riesgos_seguridad",
+    "keywords": [
+      "hueso",
+      "impacto",
+      "caida",
+      "proteccion",
+      "cuidado"
+    ],
+    "base_response": "El sistema óseo puede sufrir daños por impactos fuertes, caídas o movimientos bruscos. Mantener posturas correctas, usar equipo de protección y evitar sobrecargas reduce riesgos. Reconocer señales de dolor y actuar pronto previene lesiones mayores y favorece un desarrollo corporal seguro."
+  },
+  {
+    "intent_id": "clasificacion_taxonomica_huesos",
+    "keywords": [
+      "huesos",
+      "clasificacion",
+      "largos",
+      "cortos",
+      "planos",
+      "irregulares"
+    ],
+    "base_response": "La clasificacion taxonomica del esqueleto divide los huesos segun su forma: largos, cortos, planos, irregulares y sesamoideos. Cada tipo cumple funciones especificas: los largos soportan peso, los planos protegen organos vitales. Esta organizacion es esencial para comprender la estructura osea."
+  },
+  {
+    "intent_id": "sistema_oseo_calculos_formulas",
+    "keywords": [
+      "hueso",
+      "calculo",
+      "formula",
+      "densidad",
+      "masa"
+    ],
+    "base_response": "El sistema óseo permite estimar longitudes y proporciones mediante fórmulas que relacionan diámetros, densidad y masa ósea. Estos cálculos ayudan a comprender crecimiento, resistencia y equilibrio estructural, facilitando análisis cuantitativos seguros para estudiar variaciones corporales en adolescentes."
+  },
+  {
+    "intent_id": "mitos_oseos_esqueleto_error",
+    "keywords": [
+      "huesos",
+      "esqueleto",
+      "mito",
+      "error",
+      "crecimiento",
+      "calcio"
+    ],
+    "base_response": "Los huesos no son sólidos ni inertes; son tejidos vivos y porosos. Comer más calcio no hace crecer más. El esqueleto no es solo sostén; produce glóbulos rojos y almacena minerales vitales. No todos los humanos tenemos 206 huesos: al nacer tenemos más de 270 que se fusionan."
+  },
+  {
+    "intent_id": "sistema_oseo_interaccion_simbiotica",
+    "keywords": [
+      "hueso",
+      "musculo",
+      "organo",
+      "soporte",
+      "conexion"
+    ],
+    "base_response": "El sistema óseo mantiene una relación simbiótica con otros sistemas al ofrecer soporte estructural, protección y puntos de unión. Sus huesos colaboran con músculos para generar movimiento y con órganos para resguardar funciones vitales, asegurando equilibrio corporal y eficiencia fisiológica continua."
+  },
+  {
+    "intent_id": "sistema_oseo_transformacion_energetica",
+    "keywords": [
+      "hueso",
+      "energia",
+      "ciclo",
+      "transformacion",
+      "tejido"
+    ],
+    "base_response": "El sistema óseo participa en ciclos energéticos mediante la renovación constante del tejido y el intercambio de minerales. Los huesos almacenan sustancias que liberan según necesidades corporales, transformando energía química en soporte estructural y facilitando funciones vitales coordinadas."
+  },
+  {
+    "intent_id": "sistema_oseo_experimentos_escolares",
+    "keywords": [
+      "huesos",
+      "esqueleto",
+      "calcio",
+      "resistencia",
+      "fosforo"
+    ],
+    "base_response": "Para demostrar la dureza ósea, sumerge un hueso de pollo en vinagre durante una semana. El ácido disuelve el calcio y el fósforo, volviéndolo flexible y gomoso. Este experimento revela cómo los minerales proporcionan rigidez al esqueleto humano."
+  },
+  {
+    "intent_id": "sistema_oseo_largo_plazo_consecuencias",
+    "keywords": [
+      "hueso",
+      "crecimiento",
+      "fractura",
+      "osteoporosis",
+      "remodelacion"
+    ],
+    "base_response": "El sistema óseo, al crecer, remodela constantemente; sin embargo, lesiones crónicas aumentan riesgo de osteoporosis y fracturas, reduciendo movilidad futura y calidad de vida; prevenir requiere revisión densidad ósea, ejercicio fortalece huesos y prolonga salud."
+  },
+  {
+    "intent_id": "sistema_osseo_impacto_ambiental",
+    "keywords": [
+      "esqueleto",
+      "osseo",
+      "carbono",
+      "reciclaje",
+      "sostenibilidad"
+    ],
+    "base_response": "El sistema óseo, al descomponerse, libera carbono que se transforma en efecto ambiental de sus residuos, afectando ecosistemas. Sus restos pueden reciclarse en biomateriales biodegradables, reduciendo la huella de carbono. Conocer este proceso ayuda a elegir prácticas más sostenibles."
+  },
+  {
+    "intent_id": "sistema_oseo_mantenimiento_prevencion",
+    "keywords": [
+      "huesos",
+      "calcio",
+      "ejercicio",
+      "postura",
+      "fracturas",
+      "prevencion"
+    ],
+    "base_response": "Para mantener tus huesos fuertes consume calcio y vitamina D, realiza ejercicio como correr o saltar, y evita caídas. Una mala postura puede dañar tu columna. La prevención diaria evita fracturas y enfermedades óseas futuras."
+  },
+  {
+    "intent_id": "sistema_oseo_proyecciones_tecnologia",
+    "keywords": [
+      "tecnologia",
+      "modelo",
+      "sensor",
+      "simulacion",
+      "diagnostico"
+    ],
+    "base_response": "Las futuras tecnologías permitirán estudiar el sistema óseo mediante modelos digitales avanzados que mostrarán crecimiento, resistencia y posibles lesiones. Sensores inteligentes y simulaciones predictivas ayudarán a comprender cambios estructurales, facilitando diagnósticos tempranos y prácticas educativas más precisas para estudiantes en formación."
+  },
+  {
+    "intent_id": "sistema_muscular_propiedades_materiales",
+    "keywords": [
+      "proteina",
+      "musculo",
+      "energia",
+      "contraccion",
+      "fibra"
+    ],
+    "base_response": "El sistema muscular de movimiento depende de proteínas especializadas capaces de generar fuerza mediante cambios químicos controlados. La interacción entre actina y miosina usa energía molecular para deslizar fibras, creando contracción precisa. Estos materiales biológicos mantienen estabilidad y respuesta eficiente."
+  },
+  {
+    "intent_id": "sistema_muscular_error_fallos_patrologias",
+    "keywords": [
+      "musculo",
+      "fallo",
+      "lesion",
+      "sobreuso",
+      "inflamacion"
+    ],
+    "base_response": "El sistema muscular de movimiento presenta fallos comunes como tendinitis, roturas de ligamento y debilidad en músculos de la cadera. Sobreuso frecuente causa fatiga crónica, mientras las lesiones de la rodilla limitan la flexibilidad. Reconocer síntomas temprano reduce complicaciones y mejora la recuperación."
+  },
+  {
+    "intent_id": "sistema_oseo_definicion_estructural",
+    "keywords": [
+      "hueso",
+      "esqueleto",
+      "estructura",
+      "soporte",
+      "proteccion"
+    ],
+    "base_response": "El sistema óseo del esqueleto se define como la estructura rígida formada por huesos interconectados que sostienen el cuerpo. Proporciona forma estable, protege órganos vitales y permite puntos de unión para músculos, facilitando movimientos coordinados y equilibrio corporal esencial."
+  },
+  {
+    "intent_id": "sistema_oseo_errores_patologias",
+    "keywords": [
+      "fractura",
+      "osteoporosis",
+      "escoliosis",
+      "desgaste",
+      "enfermedad"
+    ],
+    "base_response": "Las fracturas son roturas comunes por accidentes o caídas. La osteoporosis adelgaza los huesos y los vuelve frágiles. La escoliosis desvía la columna vertebral. Las infecciones óseas y el desgaste articular también afectan al esqueleto. Para prevenirlas, consume calcio y realiza actividad física moderada."
+  },
+  {
+    "intent_id": "sistema_oseo_historia_evolucion",
+    "keywords": [
+      "esqueleto",
+      "hueso",
+      "evolucion",
+      "estructura",
+      "funcion"
+    ],
+    "base_response": "El sistema óseo surgió cuando los primeros vertebrados necesitaron sostén interno para moverse eficazmente. Con el tiempo, los huesos evolucionaron desde tejidos simples hacia estructuras complejas que protegieron órganos, permitieron locomoción avanzada y facilitaron adaptaciones esenciales para la vida terrestre."
+  },
+  {
+    "intent_id": "sistema_oseo_contexto_ecologico",
+    "keywords": [
+      "hueso",
+      "esqueleto",
+      "entorno",
+      "adaptacion",
+      "soporte"
+    ],
+    "base_response": "El sistema óseo del esqueleto refleja cómo los organismos responden a su entorno ecológico. La forma y densidad de los huesos se ajustan a movimientos, clima y recursos disponibles, permitiendo estabilidad, protección y eficiencia funcional dentro de cada hábitat específico."
+  },
+  {
+    "intent_id": "esqueleto_aplicaciones_vida_real",
+    "keywords": [
+      "esqueleto",
+      "movimiento",
+      "proteccion",
+      "postura",
+      "deporte",
+      "salud"
+    ],
+    "base_response": "Los huesos forman un armazón que sostiene tu cuerpo y permite moverte. Protegen órganos vitales como el cerebro y el corazón. Practicar deporte fortalece el esqueleto. Mantener una buena postura evita lesiones. Conocer el sistema óseo te ayuda a cuidar tu salud fisica diaria."
+  },
+  {
+    "intent_id": "sistema_oseo_importancia_social",
+    "keywords": [
+      "sistema",
+      "hueso",
+      "movimiento",
+      "salud",
+      "comunidad"
+    ],
+    "base_response": "El sistema óseo del esqueleto sostiene actividades humanas esenciales y permite movilidad segura. Su cuidado colectivo reduce lesiones, favorece participación comunitaria y fortalece bienestar general. Comprender su importancia impulsa hábitos saludables que mejoran convivencia y promueven responsabilidad social compartida."
+  },
+  {
+    "intent_id": "esqueleto_ventajas_desventajas_comparativas",
+    "keywords": [
+      "esqueleto",
+      "hueso",
+      "soporte",
+      "movilidad",
+      "fragilidad",
+      "reparacion"
+    ],
+    "base_response": "El sistema óseo brinda soporte estructural, facilita el movimiento y protege órganos vitales, pero su densidad variable puede generar fragilidad al envejecir, y la alta rigidez de huesos rígidos dificulta reparaciones tempranas ante lesiones menores."
+  },
+  {
+    "intent_id": "riesgos_seguridad_sistema_oseo",
+    "keywords": [
+      "huesos",
+      "fracturas",
+      "postura",
+      "proteccion",
+      "caidas",
+      "prevencion"
+    ],
+    "base_response": "Los huesos pueden fracturarse por caídas o golpes fuertes. Para proteger tu esqueleto, mantén una postura correcta al sentarte y al cargar objetos. Usa equipo de protección en deportes. Consume calcio y vitamina D para fortalecerlos. Evita movimientos bruscos y riesgos innecesarios."
+  },
+  {
+    "intent_id": "sistema_osseo_clasificacion_taxonomica",
+    "keywords": [
+      "esqueleto",
+      "hueso",
+      "osteon",
+      "clasificacion",
+      "ubicacion"
+    ],
+    "base_response": "El sistema óseo se clasifica por su función y ubicación: esquelético axial (cráneo, columna y cintura pélvica) y apéndice (brazos y piernas). Cada hueso tiene tejido osteon, se renueva por osteocitos, y se organiza en grupos específicos que sostienen la estructura corporal."
+  },
+  {
+    "intent_id": "sistema_oseo_mitos_concepciones",
+    "keywords": [
+      "hueso",
+      "esqueleto",
+      "mito",
+      "cambio",
+      "crecimiento"
+    ],
+    "base_response": "Muchos estudiantes creen que los huesos son estructuras rígidas e inertes, pero en realidad están vivos y se renuevan constantemente. Otro mito común afirma que el esqueleto adulto no cambia, cuando sí responde al ejercicio, la nutrición y el crecimiento continuo."
+  },
+  {
+    "intent_id": "sistema_oseo_relacion_simbiotica",
+    "keywords": [
+      "hueso",
+      "musculo",
+      "organo",
+      "proteccion",
+      "colaboracion"
+    ],
+    "base_response": "El sistema óseo mantiene una relación simbiótica con músculos, nervios y órganos internos. Sus huesos protegen estructuras vitales, mientras colaboran con el sistema muscular para movimiento coordinado. Además, alojan médula ósea que produce células esenciales para funciones inmunológicas y circulatorias."
+  },
+  {
+    "intent_id": "sistema_oeso_transformacion_ciclos_energeticos",
+    "keywords": [
+      "esqueleto",
+      "mineralizacion",
+      "transformacion",
+      "energia",
+      "ciclo"
+    ],
+    "base_response": "El sistema óseo es una red que almacena minerales y transforma la energía de los alimentos en fuerzas que soportan el cuerpo. Cada hueso recicla calcio y fosfato, cerrando un proceso de energía continua y renovable dentro del cuerpo."
+  },
+  {
+    "intent_id": "sistema_osseo_experimentos_demostraciones",
+    "keywords": [
+      "esqueleto",
+      "experimento",
+      "demostracion",
+      "resistencia"
+    ],
+    "base_response": "En los experimentos escolares, los alumnos usan placas de carton, plasticos y huesos artificiales para observar la distribucion de cargas y la resistencia de los huesos. Siguiendo protocolos simples, se mide la fuerza necesaria para romper cada seccion y se compara con datos reales."
+  },
+  {
+    "intent_id": "sistema_oseo_consecuencias_largo_plazo",
+    "keywords": [
+      "esqueleto",
+      "huesos",
+      "crecimiento",
+      "postura",
+      "calcio"
+    ],
+    "base_response": "El sistema óseo sostiene tu cuerpo y protege órganos. Si no cuidas tu postura y consumes suficiente calcio ahora, podrías desarrollar osteoporosis o deformidades en la edad adulta. Los huesos se vuelven frágiles y se fracturan fácilmente. Fortalécelos con ejercicio y buena alimentación."
+  },
+  {
+    "intent_id": "sistema_oseo_impacto_ambiental",
+    "keywords": [
+      "esqueleto",
+      "huesos",
+      "calcio",
+      "reciclaje",
+      "ecosistema",
+      "nutrientes"
+    ],
+    "base_response": "Los huesos del esqueleto, al descomponerse, liberan calcio y fósforo al suelo. Estos minerales son reciclados por plantas y animales, cerrando un ciclo de nutrientes esencial para el ecosistema. Tu esqueleto, incluso después de la vida, contribuye al equilibrio ambiental del planeta."
+  },
+  {
+    "intent_id": "proyecciones_tecnologia_sistema_os",
+    "keywords": [
+      "tecnologia",
+      "futuro",
+      "biomaterial",
+      "sistema"
+    ],
+    "base_response": "Las futuras investigaciones en el sistema óseo prometen materiales inteligentes que estimulan la regeneración de hueso y reducen el riesgo de fracturas. Un sensor de fuerza integrado en prótesis podría ajustarse automáticamente al desgaste natural, garantizando al mismo tiempo movimiento ergonómico y biocompatibilidad."
+  },
+  {
+    "intent_id": "musculo_esqueletico_estructura_anatomica",
+    "keywords": [
+      "musculos",
+      "esqueletico",
+      "tendones",
+      "fibras",
+      "contraccion",
+      "movimiento"
+    ],
+    "base_response": "El sistema muscular de movimiento está compuesto por músculos esqueléticos fijados a los huesos mediante tendones. Cada músculo posee múltiples fibras musculares que se contraen al recibir señales nerviosas. Esta contracción acorta el músculo y tira del hueso, generando el movimiento corporal. Es la base estructural del aparato locomotor."
+  },
+  {
+    "intent_id": "sistema_oseo_aplicaciones_practicas",
+    "keywords": [
+      "hueso",
+      "movimiento",
+      "proteccion",
+      "ejercicio",
+      "postura"
+    ],
+    "base_response": "El sistema óseo permite movimientos seguros, protege órganos vitales y facilita actividades cotidianas como caminar, saltar y cargar objetos. Comprender su funcionamiento ayuda a prevenir lesiones, adoptar posturas adecuadas y fortalecer huesos mediante ejercicio regular y nutrición equilibrada."
+  },
+  {
+    "intent_id": "sistema_oseo_clasificacion_taxonomica",
+    "keywords": [
+      "hueso",
+      "clasificacion",
+      "taxonomia",
+      "esqueleto",
+      "forma"
+    ],
+    "base_response": "La clasificación taxonómica del sistema óseo organiza los huesos según su forma, función y ubicación dentro del esqueleto. Esta estructura permite identificar grupos como huesos largos, cortos, planos y irregulares, facilitando el estudio ordenado del cuerpo humano."
+  },
+  {
+    "intent_id": "sistema_oseo_dinamica_funcionamiento",
+    "keywords": [
+      "huesos",
+      "articulaciones",
+      "movimiento",
+      "palanca",
+      "soporte",
+      "proteccion"
+    ],
+    "base_response": "El esqueleto actúa como sistema de palancas óseas que, junto a las articulaciones, permite el movimiento corporal. Los músculos tiran de los huesos para generar acciones coordinadas. Además, protege órganos vitales y brinda soporte estructural. Cada hueso cumple una función específica en la dinámica física."
+  },
+  {
+    "intent_id": "sis_oso_importancia_impacto_social",
+    "keywords": [
+      "esqueleto",
+      "apoyo",
+      "movilizacion",
+      "salud",
+      "comunidad"
+    ],
+    "base_response": "El sistema óseo ofrece soporte estructural, protege órganos esenciales y facilita el movimiento, lo que permite participar activamente en deportes, trabajo y ocio. Su fortaleza laboral contribuye a la economía y ofrece roles de liderazgo en comunidades saludables y educadas."
+  },
+  {
+    "intent_id": "fallas_oseas_patologias_comunes",
+    "keywords": [
+      "hueso",
+      "fractura",
+      "escoliosis",
+      "osteoporosis",
+      "desgaste"
+    ],
+    "base_response": "El sistema oseo puede sufrir errores como fracturas por golpes o debilidad, patologias como escoliosis que desvia la columna, o desgaste articular. Tambien la osteoporosis vuelve los huesos fragiles. Es importante cuidar los huesos con calcio y ejercicio para prevenir estas fallas. Consulta al medico ante dolor o deformidad."
+  },
+  {
+    "intent_id": "musculo_esqueletico_definicion_estructural",
+    "keywords": [
+      "musculo",
+      "esqueleto",
+      "tendon",
+      "fibra",
+      "contraccion"
+    ],
+    "base_response": "El sistema muscular de movimiento se compone de músculos esqueléticos unidos a los huesos por tendones. Cada músculo está formado por fibras musculares que se contraen al recibir órdenes nerviosas. Esta estructura anatómica permite el movimiento voluntario al tirar de los huesos, generando palancas articulares."
+  },
+  {
+    "intent_id": "sistema_oseo_historia_origen",
+    "keywords": [
+      "hueso",
+      "evolucion",
+      "vertebrado",
+      "estructura",
+      "origen"
+    ],
+    "base_response": "El sistema óseo del esqueleto surgió cuando los primeros vertebrados desarrollaron estructuras rígidas para sostener su cuerpo. Con el tiempo, estas piezas evolucionaron desde cartílagos simples hasta huesos complejos, permitiendo mayor movilidad, protección interna y adaptación a diversos ambientes."
+  },
+  {
+    "intent_id": "mitos_huesos_crecimiento_errores",
+    "keywords": [
+      "huesos",
+      "mitos",
+      "crecimiento",
+      "esqueleto",
+      "calcio",
+      "leche"
+    ],
+    "base_response": "Beber leche no es la única forma de fortalecer los huesos, el ejercicio y el sol también son clave. Los huesos no son sólidos, tienen una estructura porosa que los hace ligeros. No todos los humanos tenemos 206 huesos, los recién nacidos tienen más que se fusionan al crecer."
+  },
+  {
+    "intent_id": "errores_patologias_musculares_comunes",
+    "keywords": [
+      "lesion",
+      "calambre",
+      "distension",
+      "contractura",
+      "atrofia"
+    ],
+    "base_response": "Los musculos pueden lesionarse por sobreesfuerzo, causando calambres, distensiones o desgarros. La falta de calentamiento produce contracturas dolorosas. La inactividad prolongada genera atrofia muscular. Conocer estos errores comunes permite prevenir lesiones y mantener un sistema muscular sano y fuerte."
+  },
+  {
+    "intent_id": "sistema_muscular_impacto_social",
+    "keywords": [
+      "musculo",
+      "movimiento",
+      "salud",
+      "actividad",
+      "comunidad"
+    ],
+    "base_response": "El sistema muscular permite acciones esenciales que sostienen la vida diaria y la participación social. Su funcionamiento adecuado favorece movilidad segura, autonomía personal y práctica deportiva. Cuando se cuida, fortalece la convivencia, impulsa hábitos saludables y mejora el bienestar colectivo en entornos escolares y comunitarios."
+  },
+  {
+    "intent_id": "sistema_muscular_movimiento_comparativa",
+    "keywords": [
+      "musculo",
+      "movimiento",
+      "fuerza",
+      "energia",
+      "coordinacion"
+    ],
+    "base_response": "El sistema muscular de movimiento ofrece fuerza precisa y coordinación adaptable, permitiendo acciones variadas y controladas. Sin embargo, requiere energía constante, puede fatigarse rápidamente y depende de señales nerviosas eficientes. Estas condiciones generan ventajas funcionales y limitaciones comparativas importantes."
+  },
+  {
+    "intent_id": "sistema_muscular_propiedades_quimicas",
+    "keywords": [
+      "musculo",
+      "contraccion",
+      "atp",
+      "calcio",
+      "actina",
+      "miosina"
+    ],
+    "base_response": "El musculo es un tejido con propiedades quimicas especiales: utiliza ATP como combustible y depende de iones de calcio para activar la contraccion. Las proteinas contractiles actina y miosina convierten energia quimica en movimiento. Este proceso es fundamental para la locomocion."
+  },
+  {
+    "intent_id": "sistema_muscular_evolucion_historia_origen",
+    "keywords": [
+      "musculo",
+      "evolucion",
+      "movimiento",
+      "origen",
+      "historia",
+      "celula"
+    ],
+    "base_response": "El sistema muscular surgió hace millones de años en organismos simples. Las primeras células contráctiles permitieron el movimiento. Con la evolución, los músculos se especializaron para correr, cazar y volar. Hoy, tu cuerpo hereda esa maquinaria biológica perfeccionada por la selección natural."
+  },
+  {
+    "intent_id": "sistema_muscular_simbiosis_organica",
+    "keywords": [
+      "musculo",
+      "esqueleto",
+      "nervio",
+      "sangre",
+      "movimiento",
+      "cooperacion"
+    ],
+    "base_response": "Los musculos trabajan en equipo con el esqueleto, los nervios y los vasos sanguineos. Los nervios ordenan la contraccion, los huesos sirven de palanca y la sangre aporta oxigeno. Sin esta cooperacion, el movimiento seria imposible."
+  },
+  {
+    "intent_id": "relacion_simbiotica_osea",
+    "keywords": [
+      "huesos",
+      "musculos",
+      "medula",
+      "proteccion",
+      "movimiento",
+      "cooperacion"
+    ],
+    "base_response": "El esqueleto humano colabora simbióticamente con otros sistemas. Los huesos dan soporte y protección a órganos vitales, mientras los músculos se insertan en ellos para generar movimiento. La médula ósea produce células sanguíneas esenciales, y recibe nutrientes del sistema circulatorio. Esta interdependencia mantiene el funcionamiento corporal equilibrado."
+  },
+  {
+    "intent_id": "sistema_muscular_experimentos",
+    "keywords": [
+      "musculo",
+      "contraccion",
+      "movimiento",
+      "experimento",
+      "demostracion"
+    ],
+    "base_response": "Los experimentos escolares sobre el sistema muscular permiten observar cómo la contracción genera movimiento visible. Al usar bandas elásticas y modelos simples, los estudiantes comprenden la relación entre fuerza, palanca y coordinación. Estas demostraciones fortalecen comprensión funcional mediante práctica controlada."
+  },
+  {
+    "intent_id": "clasificacion_taxonomica_muscular",
+    "keywords": [
+      "musculo",
+      "clasificacion",
+      "taxonomia",
+      "esqueletico",
+      "liso",
+      "cardiaco"
+    ],
+    "base_response": "El sistema muscular se clasifica taxonomicamente en tres tipos por su estructura y funcion. El musculo esqueletico, voluntario y estriado, mueve los huesos. El musculo liso, involuntario, controla organos internos. El musculo cardiaco, involuntario y estriado, bombea sangre sin descanso."
+  },
+  {
+    "intent_id": "esqueleto_calculos_formulas",
+    "keywords": [
+      "esqueleto",
+      "formulas",
+      "densidad",
+      "masa",
+      "equilibrio"
+    ],
+    "base_response": "Para evaluar la carga sobre los huesos se usa la fórmula F = m × a. La densidad ósea se estima con la relación masa/volumen. La resistencia mecánica se calcula con la ley de Hooke, d = σ/ε, donde σ es tensión."
+  },
+  {
+    "intent_id": "sistema_muscular_calculos_fuerza",
+    "keywords": [
+      "fuerza",
+      "brazo",
+      "palanca",
+      "musculo",
+      "calculo",
+      "formula"
+    ],
+    "base_response": "La fuerza muscular se calcula multiplicando el area del musculo por su tension maxima. Por ejemplo, el biceps aplica una fuerza de hasta 100 newtons. Usa la formula F = A x T, donde A es area en cm2 y T es tension en N/cm2."
+  },
+  {
+    "intent_id": "sistema_muscular_movimiento_impacto_ambiental",
+    "keywords": [
+      "musculo",
+      "movimiento",
+      "energia",
+      "impacto",
+      "ambiente"
+    ],
+    "base_response": "El sistema muscular de movimiento requiere energía que proviene de recursos naturales. Su estudio permite comprender cómo las actividades humanas que demandan esfuerzo físico influyen en el consumo energético. Analizar este vínculo ayuda a promover prácticas responsables que reduzcan impactos ambientales negativos."
+  },
+  {
+    "intent_id": "sistema_muscular_transformacion_energetica",
+    "keywords": [
+      "musculo",
+      "energia",
+      "contraccion",
+      "movimiento",
+      "ciclo"
+    ],
+    "base_response": "El sistema muscular transforma energía química en movimiento mediante ciclos continuos de contracción y relajación. Cada fibra muscular usa nutrientes para generar fuerza, liberando calor y manteniendo funciones vitales. Estos procesos energéticos sostienen acciones corporales coordinadas y eficientes."
+  },
+  {
+    "intent_id": "sistema_muscular_movimiento_aplicaciones",
+    "keywords": [
+      "musculo",
+      "movimiento",
+      "fuerza",
+      "estabilidad",
+      "coordinacion"
+    ],
+    "base_response": "El sistema muscular permite realizar acciones cotidianas como caminar, levantar objetos y mantener postura estable. Sus fibras generan fuerza controlada que facilita movimientos precisos. Comprender su funcionamiento ayuda a prevenir lesiones y mejorar rendimiento físico mediante prácticas seguras y conscientes."
+  },
+  {
+    "intent_id": "sistema_muscular_proyecciones_tecnologia",
+    "keywords": [
+      "musculo",
+      "tecnologia",
+      "sensor",
+      "movimiento",
+      "futuro"
+    ],
+    "base_response": "Las futuras tecnologías del sistema muscular de movimiento integrarán sensores biológicos avanzados y materiales inteligentes capaces de adaptarse al esfuerzo. Estas innovaciones permitirán monitorear actividad muscular, prevenir lesiones y optimizar entrenamiento mediante retroalimentación precisa y continua para mejorar rendimiento físico juvenil."
+  },
+  {
+    "intent_id": "sistema_muscular_consecuencias_largo_plazo",
+    "keywords": [
+      "musculo",
+      "movimiento",
+      "desgaste",
+      "resistencia",
+      "postura"
+    ],
+    "base_response": "A largo plazo, el sistema muscular de movimiento puede sufrir desgaste progresivo si se mantiene inactividad o sobreesfuerzo constante. Los músculos pierden fuerza, coordinación y resistencia, afectando la postura y la movilidad general. Un cuidado continuo previene deterioros funcionales significativos."
+  },
+  {
+    "intent_id": "sistema_muscular_riesgos_seguridad",
+    "keywords": [
+      "musculo",
+      "riesgo",
+      "movimiento",
+      "seguridad",
+      "lesion"
+    ],
+    "base_response": "El sistema muscular requiere cuidado constante para evitar lesiones durante movimientos intensos. Mantener postura correcta, calentar adecuadamente y respetar límites corporales reduce daños. Supervisar cargas, hidratarse y usar equipo apropiado protege fibras musculares y previene accidentes en actividades físicas."
+  },
+  {
+    "intent_id": "sistema_circulatorio_contexto_ecologico",
+    "keywords": [
+      "sangre",
+      "circulacion",
+      "ecosistema",
+      "organismo",
+      "transporte"
+    ],
+    "base_response": "El sistema circulatorio de sangre interactúa con el entorno ecológico al distribuir oxígeno y nutrientes esenciales que permiten la supervivencia de organismos en diversos hábitats. Su eficiencia influye en la adaptación biológica, regulando respuestas frente a temperatura, altitud y disponibilidad de recursos naturales."
+  },
+  {
+    "intent_id": "sangre_propiedades_quimicas",
+    "keywords": [
+      "sangre",
+      "hemoglobina",
+      "oxigeno",
+      "dioxidodecarbono",
+      "transporte",
+      "quimica"
+    ],
+    "base_response": "La sangre es una mezcla química que transporta oxígeno gracias a la hemoglobina, una proteína que contiene hierro. También lleva dióxido de carbono y nutrientes disueltos. Su pH es ligeramente básico, cercano a 7.4, esencial para la vida."
+  },
+  {
+    "intent_id": "sistema_muscular_dinamica_funcionamiento",
+    "keywords": [
+      "musculo",
+      "contraccion",
+      "movimiento",
+      "fuerza",
+      "tendon",
+      "articulacion"
+    ],
+    "base_response": "Los musculos se contraen y estiran para generar movimiento del cuerpo. Unidos a huesos por tendones, actuan como palancas. Al contraerse acortan su longitud, tirando del hueso y produciendo desplazamiento. Este mecanismo permite caminar, correr y saltar gracias a la accion coordinada de musculos antagonistas."
+  },
+  {
+    "intent_id": "musculos_no_se_encogen_sin_uso_total",
+    "keywords": [
+      "musculo",
+      "uso",
+      "mantenimiento",
+      "movimiento",
+      "atrofia",
+      "fortaleza"
+    ],
+    "base_response": "Los músculos no se convierten en grasa al dejar de usarse. La falta de ejercicio reduce su tamaño y fuerza, pero el tejido muscular y el tejido adiposo son diferentes. Mantener actividad física preserva la masa muscular y evita la acumulación de grasa."
+  },
+  {
+    "intent_id": "sistema_muscular_mantenimiento_prevencion",
+    "keywords": [
+      "musculo",
+      "movimiento",
+      "cuidado",
+      "fortalecimiento",
+      "prevencion"
+    ],
+    "base_response": "El sistema muscular requiere hábitos constantes para mantenerse sano. Realiza calentamientos antes de cualquier esfuerzo, hidrata el cuerpo y descansa adecuadamente. Evita sobrecargas y practica estiramientos regulares. Estas acciones previenen lesiones y conservan la capacidad de movimiento eficiente y estable."
+  },
+  {
+    "intent_id": "sistema_circulatorio_ventajas_desventajas",
+    "keywords": [
+      "circulacion",
+      "sangre",
+      "transporte",
+      "desecho",
+      "bloqueo"
+    ],
+    "base_response": "El sistema circulatorio presenta ventajas como transporte rápido de oxígeno y eliminación eficiente de desechos, pero también desventajas comparativas, como vulnerabilidad a bloqueos y dependencia de órganos específicos. Comprender estas diferencias ayuda a evaluar su funcionamiento integral."
+  },
+  {
+    "intent_id": "riesgos_medidas_seguridad_circulatorio",
+    "keywords": [
+      "riesgo",
+      "seguridad",
+      "circulacion",
+      "sangre",
+      "prevencion",
+      "cuidado"
+    ],
+    "base_response": "El sistema circulatorio puede sufrir obstrucciones, hipertensión o infecciones. Mídete la presión periódicamente, evita el tabaco, consume frutas y verduras, haz ejercicio diario. Estas medidas reducen riesgos graves como infartos y accidentes cerebrovasculares, protegiendo tu salud cardiovascular."
+  },
+  {
+    "intent_id": "sistema_muscular_entorno_ecologico",
+    "keywords": [
+      "musculo",
+      "movimiento",
+      "entorno",
+      "adaptacion",
+      "habitat",
+      "locomocion"
+    ],
+    "base_response": "El sistema muscular de movimiento se adapta al entorno ecológico. Los animales poseen fibras musculares especializadas según su hábitat: rápidas para cazar, lentas para migrar. El contexto ecológico determina la eficiencia muscular, optimizando la locomoción para la supervivencia en cada ecosistema."
+  },
+  {
+    "intent_id": "sistema_circulatorio_definicion_anatomica",
+    "keywords": [
+      "corazon",
+      "vasos",
+      "arterias",
+      "venas",
+      "capilares"
+    ],
+    "base_response": "El sistema circulatorio se compone de corazón, arterias, venas y capilares que forman una red compleja de vasos sanguíneos que transportan sangre rica en oxígeno y nutrientes para mantener las funciones vitales del cuerpo humano."
+  },
+  {
+    "intent_id": "sistema_circulatorio_simbiotico",
+    "keywords": [
+      "sistema",
+      "circulacion",
+      "intercambio",
+      "oxigeno",
+      "nutrientes"
+    ],
+    "base_response": "El sistema circulatorio mantiene una relación simbiótica con otros sistemas al transportar oxígeno, nutrientes y señales que permiten funciones coordinadas. Su interacción constante con sistemas respiratorio, digestivo y excretor asegura equilibrio interno, apoyo mutuo y respuesta eficiente ante cambios corporales."
+  },
+  {
+    "intent_id": "sistema_circulatorio_historia_origen_evolucion",
+    "keywords": [
+      "historia",
+      "origen",
+      "evolucion",
+      "sangre",
+      "circulacion"
+    ],
+    "base_response": "A lo largo de la historia, el estudio del sistema circulatorio evolucionó desde ideas antiguas hasta modelos científicos precisos. Investigadores descubrieron gradualmente el recorrido sanguíneo, comprendiendo su función vital. Este avance permitió explicar cómo la sangre transporta recursos esenciales mediante un circuito organizado."
+  },
+  {
+    "intent_id": "mitos_sistema_circulatorio",
+    "keywords": [
+      "sangre",
+      "circulacion",
+      "mito",
+      "confusion",
+      "oxigenacion"
+    ],
+    "base_response": "Muchos estudiantes creen que la sangre es siempre roja brillante y que circula sin control, pero esto es incorrecto. La sangre cambia tono según su oxigenación y sigue rutas precisas. Comprender estos hechos evita confusiones y mejora la comprensión del sistema circulatorio."
+  },
+  {
+    "intent_id": "gasto_cardiaco_formula_calculo",
+    "keywords": [
+      "gasto",
+      "cardiaco",
+      "formula",
+      "frecuencia",
+      "volumen",
+      "latido"
+    ],
+    "base_response": "El gasto cardiaco se calcula multiplicando la frecuencia cardiaca por el volumen sistolico. La formula es GC = FC x VS. Este calculo mide la cantidad de sangre que el corazon bombea por minuto, expresada en litros por minuto."
+  },
+  {
+    "intent_id": "sistema_circulatorio_consecuencias_largo_plazo",
+    "keywords": [
+      "sangre",
+      "circulacion",
+      "salud",
+      "riesgo",
+      "dano"
+    ],
+    "base_response": "El sistema circulatorio puede sufrir daños acumulados cuando enfrenta hábitos poco saludables. Con el tiempo, la sangre circula con menor eficiencia, aumentando riesgos de presión elevada, desgaste cardíaco y obstrucciones. Estos efectos prolongados comprometen la capacidad del cuerpo para sostener funciones vitales adecuadamente."
+  },
+  {
+    "intent_id": "sistema_circulatorio_aplicaciones_practicas",
+    "keywords": [
+      "circulacion",
+      "sangre",
+      "ejercicio",
+      "salud",
+      "prevencion"
+    ],
+    "base_response": "El sistema circulatorio permite aplicar conocimientos para cuidar la salud mediante ejercicio regular, hidratación adecuada y control de hábitos. Comprender su función ayuda a reconocer señales de fatiga, prevenir riesgos y mejorar el rendimiento físico en actividades cotidianas y deportivas."
+  },
+  {
+    "intent_id": "sistema_circulatorio_proyecciones_futuras",
+    "keywords": [
+      "tecnologia",
+      "sensores",
+      "nanorobots",
+      "monitoreo",
+      "prevencion"
+    ],
+    "base_response": "Las futuras tecnologías del sistema circulatorio integrarán sensores biológicos avanzados, nanorobots capaces de reparar tejidos y modelos predictivos que anticipen fallas. Estas innovaciones permitirán monitoreo continuo, intervenciones precisas y mayor prevención, fortaleciendo la salud cardiovascular desde edades tempranas."
+  },
+  {
+    "intent_id": "sistema_circulatorio_importancia_social",
+    "keywords": [
+      "sangre",
+      "circulacion",
+      "salud",
+      "comunidad",
+      "bienestar"
+    ],
+    "base_response": "El sistema circulatorio sostiene la vida al distribuir oxígeno y nutrientes esenciales, permitiendo actividad diaria segura. Su buen funcionamiento reduce enfermedades, mejora el rendimiento escolar y fortalece comunidades saludables. Comprenderlo impulsa hábitos responsables que benefician a toda la sociedad y promueven bienestar colectivo."
+  },
+  {
+    "intent_id": "dinamica_circulacion_sanguinea",
+    "keywords": [
+      "corazon",
+      "bombeo",
+      "sangre",
+      "circulacion",
+      "presion",
+      "flujo"
+    ],
+    "base_response": "El corazón funciona como una bomba muscular que impulsa la sangre mediante contracciones rítmicas. La presión generada en los ventrículos fuerza el flujo sanguíneo a través de arterias, venas y capilares. Este movimiento continuo distribuye oxígeno y nutrientes esenciales por todo el cuerpo."
+  },
+  {
+    "intent_id": "fallos_circulatorios_comunes",
+    "keywords": [
+      "aterosclerosis",
+      "hipertension",
+      "infarto",
+      "anemia",
+      "varices"
+    ],
+    "base_response": "El sistema circulatorio sufre fallos como aterosclerosis, que endurece arterias por grasa. La hipertension eleva presion arterial danando vasos. El infarto bloquea flujo al corazon. La anemia falta globulos rojos. Las varices dilatan venas. Conocer estas patologias ayuda a prevenirlas."
+  },
+  {
+    "intent_id": "sistema_respiratorio_oxigeno_dinamica",
+    "keywords": [
+      "oxigeno",
+      "respiracion",
+      "intercambio",
+      "alveolos",
+      "difusion"
+    ],
+    "base_response": "El sistema respiratorio moviliza oxígeno mediante movimientos coordinados que expanden y contraen los pulmones. El aire ingresa, alcanza los alveolos y permite el intercambio gaseoso por difusión. Esta dinámica física sostiene la energía celular y mantiene funciones vitales en todo el organismo."
+  },
+  {
+    "intent_id": "sistema_respiratorio_oxigeno_propiedades_materiales",
+    "keywords": [
+      "oxigeno",
+      "reactividad",
+      "difusion",
+      "intercambio",
+      "liberacion"
+    ],
+    "base_response": "El oxígeno presenta reactividad controlada que permite su unión temporal a moléculas transportadoras dentro del sistema respiratorio. Sus propiedades químicas facilitan difusión eficiente, intercambio gaseoso estable y liberación precisa, asegurando equilibrio material esencial para mantener funciones celulares."
+  },
+  {
+    "intent_id": "sistema_circulatorio_transformacion_energetica",
+    "keywords": [
+      "sangre",
+      "circulacion",
+      "energia",
+      "transformacion",
+      "oxigeno",
+      "nutrientes"
+    ],
+    "base_response": "El sistema circulatorio transporta oxigeno y nutrientes a las celulas. Alli, mediante respiracion celular, se transforman en energia utilizable (ATP). Este proceso libera dioxido de carbono que la sangre recoge y lleva a los pulmones. El ciclo sanguineo mantiene asi el flujo energetico."
+  },
+  {
+    "intent_id": "sistema_respiratorio_contexto_ecologico",
+    "keywords": [
+      "oxigeno",
+      "respiracion",
+      "entorno",
+      "ecosistema",
+      "intercambio"
+    ],
+    "base_response": "El sistema respiratorio de oxígeno interactúa con el entorno ecológico mediante el intercambio gaseoso que depende de la calidad del aire. Cambios ambientales como contaminación o deforestación alteran la disponibilidad de oxígeno, afectando la eficiencia respiratoria y la salud de los organismos."
+  },
+  {
+    "intent_id": "sistema_circulatorio_clasificacion_taxonomica",
+    "keywords": [
+      "clasificacion",
+      "sistema",
+      "circulacion",
+      "sangre",
+      "organismos"
+    ],
+    "base_response": "La clasificación taxonómica del sistema circulatorio de sangre organiza organismos según estructuras vasculares y modos de transporte interno. Distingue grupos con circuitos cerrados o abiertos, permitiendo comparar complejidad, eficiencia y adaptación evolutiva. Facilita entender cómo diferentes especies mantienen su equilibrio fisiológico."
+  },
+  {
+    "intent_id": "sistema_respiratorio_oxigeno_aplicaciones",
+    "keywords": [
+      "oxigeno",
+      "respiracion",
+      "ejercicio",
+      "pulmones",
+      "energia"
+    ],
+    "base_response": "El sistema respiratorio de oxígeno permite aplicar conocimientos para mejorar actividades cotidianas. Comprender la entrada y uso del oxígeno ayuda a optimizar ejercicio, reconocer señales de fatiga y adoptar hábitos saludables que fortalecen pulmones y favorecen decisiones responsables sobre cuidado corporal."
+  },
+  {
+    "intent_id": "sistema_respiratorio_oxigeno_riesgos_seguridad",
+    "keywords": [
+      "oxigeno",
+      "inhalacion",
+      "riesgo",
+      "seguridad",
+      "control"
+    ],
+    "base_response": "El manejo del oxígeno requiere evitar fugas, mantener ventilación adecuada y prevenir chispas que puedan generar incendios. Supervisar cilindros, revisar conexiones y usar protectores garantiza un entorno seguro. Comprender estos riesgos permite actuar con responsabilidad y proteger la salud durante actividades respiratorias."
+  },
+  {
+    "intent_id": "experimento_sistema_circulatorio_tecnicas",
+    "keywords": [
+      "sangre",
+      "circulacion",
+      "experimento",
+      "demostracion",
+      "cuerpo"
+    ],
+    "base_response": "El aula transforma el sistema circulatorio en un experimento interactivo: con látex y tubos, los alumnos visualizan la sangre fluyendo a través de arterias y venas, comprendiendo la presión, la respiración y la importancia del corazón como bomba vital."
+  },
+  {
+    "intent_id": "sistema_respiratorio_calculos",
+    "keywords": [
+      "oxigeno",
+      "calculo",
+      "formula",
+      "ventilacion",
+      "presion"
+    ],
+    "base_response": "El sistema respiratorio usa cálculos para estimar el intercambio de oxígeno. Se aplica la fórmula de volumen tidal multiplicado por frecuencia respiratoria para obtener ventilación por minuto. También se calcula la presión parcial de oxígeno para evaluar eficiencia pulmonar."
+  },
+  {
+    "intent_id": "sistema_respiratorio_clasificacion_taxonomica",
+    "keywords": [
+      "mamifero",
+      "pulmon",
+      "alveolo",
+      "diafragma",
+      "vertebrado",
+      "respiracion"
+    ],
+    "base_response": "El sistema respiratorio de oxígeno humano pertenece a la clase Mammalia del filo Chordata. Los mamíferos poseen pulmones con alvéolos para el intercambio gaseoso y un diafragma muscular que facilita la ventilación pulmonar activa y eficiente."
+  },
+  {
+    "intent_id": "sistema_respiratorio_relacion_simbiotica",
+    "keywords": [
+      "respiracion",
+      "oxigeno",
+      "circulacion",
+      "cooperacion",
+      "equilibrio"
+    ],
+    "base_response": "El sistema respiratorio de oxígeno coopera estrechamente con sistemas circulatorio y nervioso, asegurando intercambio eficiente de gases. Esta relación simbiótica mantiene equilibrio interno, regula respuestas corporales y sostiene energía vital necesaria para funciones celulares coordinadas en todo el organismo."
+  },
+  {
+    "intent_id": "sistema_respiratorio_oxigeno_estructura",
+    "keywords": [
+      "sistema",
+      "respiracion",
+      "oxigeno",
+      "pulmon",
+      "bronquio"
+    ],
+    "base_response": "El sistema respiratorio de oxígeno comprende estructuras especializadas que permiten captar aire y transferir oxígeno hacia la sangre. Incluye fosas nasales tráquea bronquios y pulmones organizados para conducir filtrar y alojar el intercambio gaseoso esencial para la vida."
+  },
+  {
+    "intent_id": "sistema_respiratorio_experimentos_escolares",
+    "keywords": [
+      "oxigeno",
+      "respiracion",
+      "intercambio",
+      "experimento",
+      "demostracion"
+    ],
+    "base_response": "Muestra cómo el oxígeno ingresa a los pulmones usando globos que simulan la expansión torácica. Explica que el aire contiene oxígeno esencial para las células. Demuestra el intercambio gaseoso con modelos simples que representan alvéolos y circulación, reforzando comprensión mediante observación directa."
+  },
+  {
+    "intent_id": "impacto_ambiental_circulacion_sanguinea",
+    "keywords": [
+      "sangre",
+      "contaminacion",
+      "ambiente",
+      "circulacion",
+      "salud"
+    ],
+    "base_response": "La contaminación del aire introduce partículas dañinas que entran a la sangre a través de los pulmones. Estas partículas viajan por el sistema circulatorio y afectan la salud del corazón y los vasos sanguíneos. Por eso, mantener un ambiente limpio es crucial para proteger tu circulación y tu vida."
+  },
+  {
+    "intent_id": "sistema_respiratorio_historia_origen",
+    "keywords": [
+      "respiracion",
+      "oxigeno",
+      "evolucion",
+      "organismo",
+      "energia"
+    ],
+    "base_response": "A lo largo de la historia, el estudio del sistema respiratorio de oxígeno surgió al observar cómo los seres vivos obtenían energía. Su origen científico se consolidó con investigaciones sobre intercambio gaseoso, evolucionando hacia modelos modernos que explican funciones vitales mediante procesos biológicos complejos."
+  },
+  {
+    "intent_id": "consecuencias_largo_plazo_respiracion_oxigeno",
+    "keywords": [
+      "oxigeno",
+      "respiracion",
+      "pulmones",
+      "salud",
+      "enfermedades",
+      "prevencion"
+    ],
+    "base_response": "La respiración constante de oxígeno mantiene tus células sanas. A largo plazo, una buena oxigenación previene enfermedades cardíacas y pulmonares. El tabaquismo o la contaminación dañan los pulmones, reduciendo su capacidad y causando enfermedades crónicas. Pulmones sanos son clave para una vida larga y activa."
+  },
+  {
+    "intent_id": "sistema_respiratorio_importancia_social",
+    "keywords": [
+      "oxigeno",
+      "respiracion",
+      "impacto",
+      "comunidad",
+      "salud"
+    ],
+    "base_response": "El sistema respiratorio de oxígeno sostiene actividades humanas esenciales y favorece comunidades saludables. Su funcionamiento adecuado permite aprendizaje, deporte y convivencia segura. Comprender su importancia impulsa responsabilidad ambiental y hábitos que protegen la calidad del aire, beneficiando bienestar colectivo y desarrollo social."
+  },
+  {
+    "intent_id": "sistema_respiratorio_oxigeno_ventajas_desventajas",
+    "keywords": [
+      "oxigeno",
+      "respiracion",
+      "energia",
+      "actividad",
+      "comparacion"
+    ],
+    "base_response": "El sistema respiratorio basado en oxígeno ofrece eficiencia energética superior, permitiendo mayor actividad sostenida. Sin embargo, depende de disponibilidad ambiental constante y puede fallar en entornos pobres en oxígeno. Comparar estas condiciones ayuda a comprender límites y fortalezas fisiológicas esenciales."
+  },
+  {
+    "intent_id": "sistema_respiratorio_mitos_oxigeno",
+    "keywords": [
+      "oxigeno",
+      "pulmon",
+      "respiracion",
+      "difusion",
+      "transporte"
+    ],
+    "base_response": "Muchos estudiantes creen que el oxígeno se almacena como reserva en los pulmones, pero el sistema respiratorio no funciona así. El oxígeno debe renovarse constantemente mediante inhalación, difusión y transporte sanguíneo. Sin este flujo continuo, el cuerpo pierde eficiencia vital."
+  },
+  {
+    "intent_id": "proyecciones_futuras_tecnologia_respiratoria",
+    "keywords": [
+      "respiracion",
+      "oxigeno",
+      "pulmones",
+      "tecnologia",
+      "futuro",
+      "dispositivos"
+    ],
+    "base_response": "La tecnologia futura permitira crear pulmones artificiales y dispositivos portatiles de oxigeno. Estos avances ayudaran a personas con enfermedades respiratorias a respirar mejor. Los cientificos disenan sensores inteligentes que monitorean la respiracion en tiempo real mejorando la calidad de vida y la salud pulmonar."
+  },
+  {
+    "intent_id": "digestion_mecanica_dinamica_funcionamiento",
+    "keywords": [
+      "digestion",
+      "estomago",
+      "intestino",
+      "contraccion",
+      "movimiento",
+      "absorcion"
+    ],
+    "base_response": "El sistema digestivo mueve los alimentos mediante contracciones musculares involuntarias. El estomago revuelve y mezcla con jugos gastricos. Luego, el intestino delgado impulsa el quimo mientras absorbe nutrientes. Finalmente, el intestino grueso compacta los desechos para su expulsion."
+  },
+  {
+    "intent_id": "sistema_digestivo_contexto_ecologico",
+    "keywords": [
+      "digestion",
+      "entorno",
+      "energia",
+      "nutrientes",
+      "especies"
+    ],
+    "base_response": "El sistema digestivo de alimentos interactúa con el entorno ecológico al transformar nutrientes que sostienen cadenas tróficas. Cada organismo depende de procesos digestivos adaptados a su ambiente, regulando energía disponible y manteniendo equilibrio entre especies recursos y condiciones ambientales cambiantes."
+  },
+  {
+    "intent_id": "sistema_digestivo_historia_origen_evolucion",
+    "keywords": [
+      "historia",
+      "origen",
+      "evolucion",
+      "digestion",
+      "alimento"
+    ],
+    "base_response": "El estudio del sistema digestivo de alimentos surgió cuando las primeras civilizaciones observaron cambios corporales tras comer. Con el tiempo, científicos desarrollaron modelos anatómicos y funciones específicas, mostrando una evolución conceptual que permitió comprender procesos internos esenciales para la nutrición humana."
+  },
+  {
+    "intent_id": "sistema_respiratorio_oxigeno_impacto_ambiental",
+    "keywords": [
+      "oxigeno",
+      "respiracion",
+      "ecosistema",
+      "contaminacion",
+      "equilibrio"
+    ],
+    "base_response": "El sistema respiratorio depende de oxígeno limpio, por lo que la contaminación ambiental afecta directamente su eficiencia. Cuando el aire contiene partículas dañinas, los organismos respiran con dificultad y los ecosistemas pierden equilibrio. Proteger la calidad del aire mantiene funciones vitales saludables."
+  },
+  {
+    "intent_id": "sistema_digestivo_estructura_tubo",
+    "keywords": [
+      "tubo",
+      "digestivo",
+      "organos",
+      "esofago",
+      "estomago",
+      "intestino"
+    ],
+    "base_response": "El sistema digestivo es una estructura anatómica en forma de tubo continuo que recorre el cuerpo desde la boca hasta el ano. Incluye órganos como esófago, estómago e intestinos, cada uno con capas musculares y mucosas especializadas para procesar alimentos y absorber nutrientes."
+  },
+  {
+    "intent_id": "sistema_digestivo_importancia_social",
+    "keywords": [
+      "sistema",
+      "digestion",
+      "salud",
+      "comunidad",
+      "alimento"
+    ],
+    "base_response": "El sistema digestivo influye directamente en la salud colectiva al asegurar aprovechamiento eficiente de alimentos. Su funcionamiento adecuado reduce enfermedades, mejora rendimiento escolar y fortalece comunidades. Comprenderlo promueve hábitos responsables que favorecen bienestar social sostenible y equitativo."
+  },
+  {
+    "intent_id": "circulacion_mantenimiento_prevencion",
+    "keywords": [
+      "sangre",
+      "circulacion",
+      "ejercicio",
+      "dieta",
+      "hidratacion"
+    ],
+    "base_response": "Conocer bien el sistema circulatorio ayuda a cuidarlo. Comer frutas y verduras, hacer ejercicio, mantenerse hidratado y evitar fumar mantiene la sangre limpia y el flujo saludable. Descansar lo suficiente evita la fatiga y asegura que el modulo circulatorio trabaje con energía."
+  },
+  {
+    "intent_id": "sistema_digestivo_aplicaciones_practicas",
+    "keywords": [
+      "digestivo",
+      "alimento",
+      "energia",
+      "proceso",
+      "nutriente"
+    ],
+    "base_response": "El sistema digestivo transforma alimentos en energía útil mediante procesos coordinados que permiten aprovechar nutrientes esenciales. Comprender su funcionamiento ayuda a elegir comidas equilibradas, prevenir malestares comunes y mejorar hábitos diarios, fortaleciendo bienestar general y rendimiento físico en actividades escolares y recreativas."
+  },
+  {
+    "intent_id": "sistema_digestivo_mitos_concepciones",
+    "keywords": [
+      "digestion",
+      "mito",
+      "alimento",
+      "proceso",
+      "energia"
+    ],
+    "base_response": "Muchos estudiantes creen mitos sobre la digestion, como que los alimentos se convierten en energia instantaneamente o que ciertos productos limpian el estomago. Estas ideas son erróneas porque el sistema digestivo sigue procesos complejos que requieren tiempo y funciones específicas."
+  },
+  {
+    "intent_id": "sistema_respiratorio_mantenimiento_prevencion",
+    "keywords": [
+      "respiracion",
+      "oxigeno",
+      "pulmones",
+      "mantenimiento",
+      "prevencion",
+      "salud"
+    ],
+    "base_response": "El mantenimiento del sistema respiratorio requiere ejercicio aeróbico regular para fortalecer los pulmones y mejorar la captación de oxígeno. La prevención incluye evitar ambientes contaminados y no exponerse al humo. Una dieta balanceada y la hidratación adecuada protegen las vías respiratorias. La respiración profunda diaria optimiza el intercambio de gases."
+  },
+  {
+    "intent_id": "sistema_digestivo_clasificacion_taxonomica",
+    "keywords": [
+      "digestion",
+      "organismo",
+      "clasificacion",
+      "especie",
+      "alimento"
+    ],
+    "base_response": "La clasificación taxonómica del sistema digestivo compara estructuras digestivas entre grupos biológicos, identificando similitudes evolutivas. Permite reconocer cómo distintos organismos procesan alimentos según su nivel de complejidad. Facilita comprender relaciones entre especies y patrones funcionales compartidos dentro del reino animal."
+  },
+  {
+    "intent_id": "sistema_digestivo_relacion_simbiotica",
+    "keywords": [
+      "sistema",
+      "digestion",
+      "nutrientes",
+      "circulacion",
+      "energia"
+    ],
+    "base_response": "El sistema digestivo mantiene una relación simbiótica con otros sistemas al transformar alimentos en nutrientes esenciales que circulan mediante la sangre, fortalecen tejidos y sostienen funciones vitales. Su cooperación constante asegura equilibrio corporal, energía adecuada y protección frente a desequilibrios internos."
+  },
+  {
+    "intent_id": "sistema_digestivo_impacto_ambiental",
+    "keywords": [
+      "sistema",
+      "digestion",
+      "impacto",
+      "ambiente",
+      "recursos"
+    ],
+    "base_response": "El sistema digestivo transforma alimentos en energía, pero su impacto ambiental depende de la producción y manejo de esos recursos. Procesos intensivos generan emisiones y residuos que afectan ecosistemas. Comprender esta relación permite decisiones responsables para reducir daños ambientales."
+  },
+  {
+    "intent_id": "sistema_digestivo_propiedades_quimicas",
+    "keywords": [
+      "digestion",
+      "enzima",
+      "reaccion",
+      "nutriente",
+      "molecula"
+    ],
+    "base_response": "Las propiedades químicas del sistema digestivo transforman alimentos mediante reacciones que descomponen moléculas complejas. Enzimas específicas actúan sobre nutrientes modificando su estructura para facilitar absorción. Estos procesos aseguran disponibilidad energética y mantienen equilibrio interno esencial para funciones vitales."
+  },
+  {
+    "intent_id": "sistema_digestivo_fallas_patologias",
+    "keywords": [
+      "digestivo",
+      "alimento",
+      "fallo",
+      "patologia",
+      "dano"
+    ],
+    "base_response": "El sistema digestivo puede presentar fallas cuando los alimentos no se descomponen correctamente, generando dolor, inflamación o infecciones. Problemas como gastritis, reflujo o intolerancias surgen por alteraciones en órganos clave, afectando la absorción adecuada y provocando síntomas que requieren atención médica oportuna."
+  },
+  {
+    "intent_id": "sistema_nervioso_control_dinamica",
+    "keywords": [
+      "sistema",
+      "neurona",
+      "impulso",
+      "senal",
+      "control"
+    ],
+    "base_response": "El sistema nervioso de control coordina respuestas corporales mediante señales eléctricas rápidas que viajan por neuronas. Estas señales permiten ajustar movimientos, reflejos y funciones internas. Su dinámica depende de impulsos precisos que mantienen equilibrio fisiológico y reaccionan ante cambios ambientales."
+  },
+  {
+    "intent_id": "sistema_nervioso_control_quimica",
+    "keywords": [
+      "neurona",
+      "sinapsis",
+      "neurotransmisor",
+      "reaccion",
+      "senal"
+    ],
+    "base_response": "El sistema nervioso de control utiliza sustancias químicas llamadas neurotransmisores para transmitir señales entre neuronas. Cada neurotransmisor posee propiedades específicas que determinan su velocidad, intensidad y duración, permitiendo coordinar respuestas precisas y mantener funciones corporales esenciales con gran eficiencia."
+  },
+  {
+    "intent_id": "sistema_digestivo_calculos_formulas",
+    "keywords": [
+      "calculo",
+      "formula",
+      "energia",
+      "digestion",
+      "absorcion"
+    ],
+    "base_response": "El sistema digestivo aplica cálculos precisos para estimar energía disponible mediante fórmulas que relacionan calorías, masa alimentaria y velocidad de absorción. Estas operaciones permiten comprender cómo el cuerpo transforma nutrientes en energía útil y cómo varían según composición ingerida."
+  },
+  {
+    "intent_id": "sistema_digestivo_ventajas_desventajas",
+    "keywords": [
+      "digestion",
+      "alimento",
+      "energia",
+      "absorcion",
+      "proceso"
+    ],
+    "base_response": "El sistema digestivo presenta ventajas como la rápida obtención de energía y la absorción eficiente de nutrientes, pero también muestra desventajas comparativas, incluyendo tiempos variables de descomposición y posibles dificultades para procesar ciertos alimentos que requieren adaptaciones fisiológicas específicas."
+  },
+  {
+    "intent_id": "sistema_nervioso_control_errores",
+    "keywords": [
+      "sistema",
+      "nervio",
+      "falla",
+      "patologia",
+      "senal"
+    ],
+    "base_response": "El sistema nervioso puede presentar errores cuando señales se confunden, generando fallas en reflejos y movimientos. Algunas patologías comunes incluyen neuropatías, convulsiones y inflamación que alteran la comunicación neuronal. Comprender estos problemas permite detectar síntomas tempranos y buscar atención adecuada."
+  },
+  {
+    "intent_id": "sistema_nervioso_control_aplicaciones",
+    "keywords": [
+      "sistema",
+      "nervio",
+      "control",
+      "respuesta",
+      "organismo"
+    ],
+    "base_response": "El sistema nervioso de control permite reaccionar rápidamente ante situaciones reales, como retirar la mano del calor o mantener el equilibrio al caminar. Coordina movimientos precisos, regula emociones y facilita decisiones rápidas que aseguran adaptación constante al entorno cotidiano."
+  },
+  {
+    "intent_id": "sistema_nervioso_control_ecologico",
+    "keywords": [
+      "sistema",
+      "control",
+      "ecosistema",
+      "adaptacion",
+      "entorno",
+      "respuesta"
+    ],
+    "base_response": "El sistema nervioso de control responde a señales ambientales que influyen en la supervivencia. Detecta cambios de temperatura, luz y presencia de depredadores, ajustando conductas esenciales. Esta interacción constante permite adaptaciones rápidas que mantienen equilibrio fisiológico dentro de ecosistemas variados."
+  },
+  {
+    "intent_id": "sistema_digestivo_consecuencias_largo_plazo",
+    "keywords": [
+      "digestivo",
+      "alimento",
+      "absorcion",
+      "energia",
+      "crecimiento"
+    ],
+    "base_response": "A largo plazo, el sistema digestivo puede sufrir daños si recibe alimentos desequilibrados. La absorción deficiente altera energía y crecimiento. Cambios persistentes en microbiota afectan defensas. Mantener hábitos saludables previene trastornos crónicos que comprometen bienestar general."
+  },
+  {
+    "intent_id": "sistema_digestivo_mantenimiento_prevencion",
+    "keywords": [
+      "sistema",
+      "digestion",
+      "cuidado",
+      "prevencion",
+      "salud"
+    ],
+    "base_response": "Mantener el sistema digestivo saludable requiere hábitos constantes que protejan sus órganos. Consumir alimentos variados, hidratarse adecuadamente y evitar excesos favorece procesos digestivos eficientes. La prevención incluye higiene, actividad física y atención temprana a molestias persistentes para evitar complicaciones mayores."
+  },
+  {
+    "intent_id": "sistema_digestivo_proyecciones_tecnologia",
+    "keywords": [
+      "alimentos",
+      "tecnologia",
+      "sensores",
+      "analisis",
+      "energia"
+    ],
+    "base_response": "Las futuras tecnologías digestivas permitirán analizar alimentos en tiempo real mediante sensores internos seguros. Estos sistemas proyectarán cómo cada componente influye en la energía corporal, optimizando hábitos alimentarios. La integración con inteligencia artificial facilitará decisiones nutricionales personalizadas y responsables."
+  },
+  {
+    "intent_id": "sistema_nervioso_control_definicion",
+    "keywords": [
+      "sistema",
+      "neurona",
+      "cerebro",
+      "nervio",
+      "estructura"
+    ],
+    "base_response": "El sistema nervioso de control se organiza mediante redes de neuronas conectadas que forman estructuras especializadas. Incluye cerebro, médula espinal y nervios periféricos, todos coordinados para recibir señales, procesarlas y dirigir respuestas corporales precisas mediante circuitos anatómicos definidos."
+  },
+  {
+    "intent_id": "sistema_digestivo_experimentos_escolares",
+    "keywords": [
+      "alimentos",
+      "digestion",
+      "experimento",
+      "mezcla",
+      "descomposicion"
+    ],
+    "base_response": "Un experimento escolar sobre el sistema digestivo permite observar como los alimentos se transforman mediante procesos físicos y químicos. Usando materiales simples, los estudiantes simulan trituración, mezcla y descomposición, comprendiendo funciones esenciales y relacionando cada etapa con órganos reales."
+  },
+  {
+    "intent_id": "sistema_nervioso_control_mitos",
+    "keywords": [
+      "sistema",
+      "nervio",
+      "control",
+      "mito",
+      "funcion"
+    ],
+    "base_response": "Muchos estudiantes creen que el sistema nervioso actúa como cables simples que transmiten órdenes directas, pero esta idea es errónea. El sistema nervioso integra señales, evalúa información y coordina respuestas complejas, evitando interpretaciones mágicas o simplistas sobre su funcionamiento real."
+  },
+  {
+    "intent_id": "sistema_nervioso_control_simbiotico",
+    "keywords": [
+      "sistema",
+      "nervio",
+      "coordinacion",
+      "equilibrio",
+      "adaptacion"
+    ],
+    "base_response": "El sistema nervioso mantiene una relación simbiótica con otros sistemas al coordinar funciones esenciales y ajustar respuestas internas. Intercambia señales que regulan respiración, circulación y digestión, asegurando equilibrio corporal. Esta cooperación constante permite adaptación eficiente ante cambios ambientales."
+  },
+  {
+    "intent_id": "sistema_nervioso_control_experimentos",
+    "keywords": [
+      "sistema",
+      "nervio",
+      "experimento",
+      "control",
+      "senal"
+    ],
+    "base_response": "Un experimento escolar sobre el sistema nervioso de control puede mostrar cómo los estímulos generan respuestas rápidas. Utiliza circuitos simples y sensores para imitar señales nerviosas. Observa cómo la información viaja y coordina acciones, destacando la importancia de la comunicación interna."
+  },
+  {
+    "intent_id": "sistema_nervioso_control_historia_evolucion",
+    "keywords": [
+      "sistema",
+      "nervio",
+      "evolucion",
+      "organismo",
+      "control"
+    ],
+    "base_response": "El sistema nervioso surgió en organismos simples como redes de células sensibles. Con el tiempo, estas redes evolucionaron hacia estructuras más complejas capaces de coordinar movimientos y respuestas. Su desarrollo permitió mayor adaptación, comunicación interna eficiente y control preciso del cuerpo en diversas especies."
+  },
+  {
+    "intent_id": "sistema_nervioso_control_consecuencias",
+    "keywords": [
+      "nervio",
+      "control",
+      "senal",
+      "adaptacion",
+      "memoria"
+    ],
+    "base_response": "A largo plazo, un sistema nervioso de control alterado puede generar respuestas corporales ineficientes, dificultar la coordinación y afectar la memoria. Cambios persistentes en señales nerviosas pueden modificar hábitos, reducir adaptabilidad y aumentar vulnerabilidad ante estresores ambientales."
+  },
+  {
+    "intent_id": "sistema_digestivo_riesgos_seguridad",
+    "keywords": [
+      "alimento",
+      "digestion",
+      "riesgo",
+      "higiene",
+      "control"
+    ],
+    "base_response": "Comprender los riesgos del sistema digestivo de alimentos exige identificar contaminantes, evitar utensilios sucios y controlar temperaturas. Mantener higiene constante previene daños internos y enfermedades. Aplicar medidas seguras garantiza procesos digestivos estables y protege la salud durante la transformación alimentaria."
+  },
+  {
+    "intent_id": "sistema_nervioso_control_ventajas_desventajas",
+    "keywords": [
+      "sistema",
+      "nervio",
+      "control",
+      "ventaja",
+      "desventaja"
+    ],
+    "base_response": "El sistema nervioso de control presenta ventajas como rapidez comunicativa y coordinación precisa, pero también desventajas comparativas como vulnerabilidad a daños y dependencia de señales continuas. Comprender estas diferencias permite evaluar su eficiencia frente a otros mecanismos biológicos reguladores."
+  },
+  {
+    "intent_id": "sistema_nervioso_control_mantenimiento_prevencion",
+    "keywords": [
+      "sistema",
+      "nervio",
+      "cuidado",
+      "prevencion",
+      "mantenimiento"
+    ],
+    "base_response": "El sistema nervioso de control requiere cuidados constantes para mantener su funcionamiento estable. Practicar descanso adecuado, reducir estrés, hidratarse bien y evitar sustancias dañinas protege conexiones neuronales, previene fallas comunicativas y sostiene respuestas corporales seguras ante cambios ambientales."
+  },
+  {
+    "intent_id": "sistema_nervioso_control_importancia",
+    "keywords": [
+      "sistema",
+      "control",
+      "respuesta",
+      "comunicacion",
+      "aprendizaje"
+    ],
+    "base_response": "El sistema nervioso de control influye directamente en la vida social al coordinar respuestas que permiten comunicación, aprendizaje y adaptación. Su funcionamiento adecuado favorece relaciones saludables, decisiones responsables y participación activa en comunidades, fortaleciendo bienestar colectivo y desarrollo humano sostenible."
+  },
+  {
+    "intent_id": "sistema_inmunologico_dinamica_funcionamiento",
+    "keywords": [
+      "sistema",
+      "defensa",
+      "celula",
+      "inflamacion",
+      "comunicacion"
+    ],
+    "base_response": "El sistema inmunológico actúa mediante células especializadas que patrullan tejidos y detectan amenazas. Cuando identifican agentes dañinos, coordinan respuestas rápidas como inflamación y destrucción celular. Su funcionamiento depende de movimientos constantes y comunicación precisa entre componentes defensivos."
+  },
+  {
+    "intent_id": "sistema_inmunologico_propiedades_quimicas",
+    "keywords": [
+      "sistema",
+      "defensa",
+      "moleculas",
+      "anticuerpos",
+      "enzimas"
+    ],
+    "base_response": "El sistema inmunológico utiliza sustancias químicas especializadas que reconocen y neutralizan agentes dañinos. Estas moléculas, como anticuerpos y enzimas, poseen estructuras específicas que permiten unirse a invasores y desactivarlos. Su composición determina eficacia, estabilidad y capacidad defensiva."
+  },
+  {
+    "intent_id": "sistema_nervioso_control_seguridad",
+    "keywords": [
+      "systema",
+      "nervio",
+      "riesgo",
+      "proteccion",
+      "seguridad"
+    ],
+    "base_response": "El sistema nervioso de control requiere proteger señales y estructuras para evitar daños por golpes, sustancias tóxicas o sobrecarga sensorial. Mantener posturas adecuadas, usar equipo protector y evitar estímulos extremos reduce riesgos y preserva funciones esenciales para respuestas coordinadas."
+  },
+  {
+    "intent_id": "sistema_nervioso_control_taxonomia",
+    "keywords": [
+      "sistema",
+      "nervio",
+      "organismo",
+      "clasificacion",
+      "control"
+    ],
+    "base_response": "La clasificación taxonómica del sistema nervioso organiza sus componentes según niveles biológicos, permitiendo identificar estructuras y funciones comunes entre especies. Este enfoque facilita comprender cómo distintos organismos desarrollan mecanismos de control internos para coordinar respuestas y mantener estabilidad fisiológica esencial."
+  },
+  {
+    "intent_id": "sistema_inmunologico_aplicaciones_practicas",
+    "keywords": [
+      "sistema",
+      "defensa",
+      "inmunidad",
+      "infeccion",
+      "microbio"
+    ],
+    "base_response": "El sistema inmunológico actúa como una red defensiva que identifica y neutraliza agentes dañinos. En la vida diaria, permite recuperarse de heridas, combatir infecciones comunes y adaptarse a nuevos microbios. Su funcionamiento adecuado mantiene equilibrio corporal y previene enfermedades frecuentes."
+  },
+  {
+    "intent_id": "sistema_nervioso_control_ciclos_energeticos",
+    "keywords": [
+      "energia",
+      "ciclo",
+      "senal",
+      "organismo",
+      "regulacion"
+    ],
+    "base_response": "El sistema nervioso de control coordina cómo el organismo transforma energía para sostener funciones vitales. Sus señales regulan ciclos energéticos que ajustan ritmo, intensidad y duración de procesos internos, garantizando equilibrio dinámico y respuesta eficiente ante cambios ambientales."
+  },
+  {
+    "intent_id": "sistema_nervioso_control_impacto_ambiental",
+    "keywords": [
+      "sistema",
+      "control",
+      "ambiente",
+      "organismo",
+      "regulacion"
+    ],
+    "base_response": "El sistema nervioso de control influye en respuestas ambientales mediante regulaciones internas que afectan consumo energético y adaptación. Cuando organismos enfrentan contaminación, su procesamiento neural puede alterarse, generando cambios conductuales que impactan ecosistemas y requieren equilibrio biológico para mantener estabilidad ambiental."
+  },
+  {
+    "intent_id": "sistema_nervioso_control_tecnologia_futura",
+    "keywords": [
+      "nervio",
+      "tecnologia",
+      "sensor",
+      "control",
+      "interfaz"
+    ],
+    "base_response": "El sistema nervioso de control evolucionará mediante tecnologías avanzadas que integrarán sensores biológicos y dispositivos inteligentes. Estas innovaciones permitirán monitorear señales neuronales en tiempo real, mejorar respuestas corporales y apoyar tratamientos personalizados mediante interfaces seguras entre cerebro y máquinas."
+  },
+  {
+    "intent_id": "sistema_inmunologico_errores_fallas",
+    "keywords": [
+      "inmunidad",
+      "alergia",
+      "autoinmunidad",
+      "infeccion",
+      "defensa"
+    ],
+    "base_response": "El sistema inmunológico puede presentar errores que provocan respuestas inadecuadas. Las alergias surgen cuando identifica sustancias inocuas como amenazas. Las enfermedades autoinmunes ocurren cuando ataca tejidos propios. Las inmunodeficiencias reducen defensas, facilitando infecciones frecuentes y complicaciones graves."
+  },
+  {
+    "intent_id": "sistema_inmunologico_contexto_ecologico",
+    "keywords": [
+      "sistema",
+      "defensa",
+      "organismo",
+      "entorno",
+      "adaptacion"
+    ],
+    "base_response": "El sistema inmunológico responde a señales del entorno ecológico, ajustando defensas según microorganismos presentes. Factores como clima, biodiversidad y hábitos influyen en su eficacia. Esta interacción constante permite al organismo reconocer amenazas, desarrollar memoria inmunitaria y mantener equilibrio frente a cambios ambientales."
+  },
+  {
+    "intent_id": "sistema_inmunologico_transformacion_energetica",
+    "keywords": [
+      "sistema",
+      "energia",
+      "defensa",
+      "celula",
+      "ciclo"
+    ],
+    "base_response": "El sistema inmunológico transforma energía química para activar defensas celulares que detectan y neutralizan agentes dañinos. Sus ciclos energéticos sostienen respuestas rápidas y adaptativas, permitiendo renovar células protectoras y mantener equilibrio vital mediante procesos continuos de activación y recuperación."
+  },
+  {
+    "intent_id": "sistema_inmunologico_ventajas_desventajas",
+    "keywords": [
+      "sistema",
+      "defensa",
+      "celulas",
+      "respuesta",
+      "equilibrio"
+    ],
+    "base_response": "El sistema inmunológico ofrece ventaja al detectar y eliminar microbios rápidamente, protegiendo tejidos vitales. Sin embargo, puede presentar desventajas cuando reacciona en exceso, causando alergias, o cuando falla en reconocer amenazas, permitiendo infecciones. Mantener equilibrio garantiza funcionamiento saludable y estable."
+  },
+  {
+    "intent_id": "sistema_inmunologico_riesgos_seguridad",
+    "keywords": [
+      "systema",
+      "inmunidad",
+      "riesgo",
+      "seguridad",
+      "higiene"
+    ],
+    "base_response": "El sistema inmunológico enfrenta riesgos cuando agentes dañinos superan sus barreras naturales. Mantener higiene adecuada, vacunarse y evitar exposición a contaminantes fortalece defensas. Practicar hábitos saludables reduce infecciones y protege células inmunitarias, asegurando respuesta eficiente ante amenazas ambientales."
+  },
+  {
+    "intent_id": "sistema_inmunologico_clasificacion_taxonomica",
+    "keywords": [
+      "inmunidad",
+      "organismo",
+      "clasificacion",
+      "defensa",
+      "celula"
+    ],
+    "base_response": "La clasificación taxonómica del sistema inmunológico organiza sus componentes según niveles biológicos, permitiendo identificar células y estructuras especializadas. Esta ordenación facilita comprender cómo cada grupo participa en la defensa del organismo y cómo interactúan para mantener equilibrio funcional."
+  },
+  {
+    "intent_id": "sistema_inmunologico_defensa_estructura",
+    "keywords": [
+      "sistema",
+      "linfonodos",
+      "ganglios",
+      "leucocitos",
+      "organos"
+    ],
+    "base_response": "El sistema inmunológico comprende órganos linfáticos, como los ganglios, y células calleadas leucocitos que viajan por la sangre y el fluido linfoide detectando agentes externos y coordinando la respuesta con estrategias anatómicas específicas en el cuerpo humano."
+  },
+  {
+    "intent_id": "sistema_inmunologico_consecuencias_largo_plazo",
+    "keywords": [
+      "sistema",
+      "inmunidad",
+      "defensa",
+      "celulas",
+      "memoria"
+    ],
+    "base_response": "El sistema inmunológico desarrolla memoria celular que influye en defensas futuras. Exposiciones repetidas fortalecen respuestas, pero desequilibrios prolongados pueden generar inflamación crónica. Estos efectos a largo plazo condicionan vulnerabilidad, eficiencia protectora y adaptación continua del organismo frente a amenazas biológicas diversas."
+  },
+  {
+    "intent_id": "sistema_inmune_evolucion_origen",
+    "keywords": [
+      "evolucion",
+      "inmunidad",
+      "origen",
+      "defensa",
+      "celulas"
+    ],
+    "base_response": "El sistema inmunologico de defensa tiene su origen en organismos unicelulares primitivos. A lo largo de la evolucion, desarrollo barreras fisicas y celulas especializadas. La inmunidad adaptativa, que recuerda patogenos, surgio en vertebrados. Esta historia de millones de anos nos protege de enfermedades constantemente."
+  },
+  {
+    "intent_id": "sistema_inmunologico_calculos_defensa",
+    "keywords": [
+      "sistema",
+      "inmunidad",
+      "calculo",
+      "formula",
+      "respuesta"
+    ],
+    "base_response": "El sistema inmunológico puede modelarse usando cálculos que estiman la velocidad de respuesta ante patógenos. Una fórmula simple relaciona cantidad de antígenos con producción de anticuerpos, permitiendo predecir eficiencia defensiva. Estos modelos ayudan a comprender cómo varía la protección según estímulos biológicos."
+  },
+  {
+    "intent_id": "experimentos_demostraciones_inmunologicas",
+    "keywords": [
+      "experimento",
+      "inmunidad",
+      "defensa",
+      "anticuerpo",
+      "simulacion",
+      "demostracion"
+    ],
+    "base_response": "Realiza un experimento escolar con dos frascos: uno con agua limpia y otro con agua turbia. Agrega un filtro de papel al primero. Al verter el agua turbia, el filtro retiene las impurezas. Esto simula como los anticuerpos atrapan microbios y defienden tu cuerpo."
+  },
+  {
+    "intent_id": "sistema_inmunologico_mitos_concepciones",
+    "keywords": [
+      "inmunidad",
+      "defensa",
+      "mito",
+      "enfermedad",
+      "cuerpo"
+    ],
+    "base_response": "Los mitos sobre el sistema inmunológico pueden confundir y generar prácticas dañinas. No existe una cura mágica que fortalezca instantáneamente las defensas. El cuerpo necesita hábitos constantes para funcionar bien. Comprender estos errores evita decisiones riesgosas y mejora la protección natural diaria."
+  },
+  {
+    "intent_id": "sistema_inmune_defensa_impacto_social",
+    "keywords": [
+      "inmunidad",
+      "defensa",
+      "vacunas",
+      "sociedad",
+      "salud",
+      "epidemias"
+    ],
+    "base_response": "El sistema inmunologico de defensa protege a la sociedad previniendo enfermedades infecciosas. Las vacunas fortalecen esta defensa generando inmunidad colectiva que reduce epidemias. Este impacto social mejora la calidad de vida global. Comprenderlo impulsa la colaboracion en salud publica y salva millones de vidas cada año."
+  },
+  {
+    "intent_id": "sistema_endocrino_contexto_ecologico",
+    "keywords": [
+      "hormonas",
+      "organismo",
+      "ambiente",
+      "regulacion",
+      "equilibrio"
+    ],
+    "base_response": "El sistema endocrino ajusta hormonas según cambios ambientales, como temperatura, luz o disponibilidad de recursos. Estas señales permiten que el organismo mantenga equilibrio interno y responda adecuadamente al entorno ecológico, favoreciendo adaptación, supervivencia y desarrollo saludable en distintos contextos naturales."
+  },
+  {
+    "intent_id": "sistema_inmune_relacion_simbiotica",
+    "keywords": [
+      "sistemainmune",
+      "defensa",
+      "simbiosis",
+      "organos",
+      "celulas",
+      "cooperacion"
+    ],
+    "base_response": "El sistema inmunológico de defensa trabaja en simbiosis con otros sistemas corporales. Por ejemplo, el sistema linfático transporta células defensivas, mientras que la piel y las mucosas forman barreras cooperativas. Esta relación permite una protección integral del organismo."
+  },
+  {
+    "intent_id": "endocrine_hormonas_definicion",
+    "keywords": [
+      "glandula",
+      "hormona",
+      "cuerpo",
+      "regulacion",
+      "estructura"
+    ],
+    "base_response": "El sistema endocrino de hormonas comprende un conjunto de glándulas distribuidas en el cuerpo que producen sustancias químicas reguladoras. Estas glándulas liberan hormonas directamente al torrente sanguíneo, permitiendo comunicación interna precisa y control estructural de múltiples funciones corporales esenciales."
+  },
+  {
+    "intent_id": "sistema_inmunologico_mantenimiento_prevencion",
+    "keywords": [
+      "sistema",
+      "defensa",
+      "prevencion",
+      "salud",
+      "cuidado"
+    ],
+    "base_response": "El sistema inmunológico requiere hábitos constantes para mantenerse fuerte y prevenir enfermedades. Una alimentación equilibrada, ejercicio regular, descanso adecuado y vacunación responsable permiten conservar defensas activas. Estas acciones reducen riesgos y fortalecen la respuesta ante agentes dañinos."
+  },
+  {
+    "intent_id": "sistema_endocrino_dinamica_funcionamiento",
+    "keywords": [
+      "hormona",
+      "cuerpo",
+      "regulacion",
+      "crecimiento",
+      "energia"
+    ],
+    "base_response": "El sistema endocrino regula procesos corporales mediante hormonas que viajan por la sangre. Cada hormona se libera en momentos precisos, ajustando crecimiento, energía y equilibrio interno. Su dinámica depende de señales constantes que mantienen funciones vitales coordinadas."
+  },
+  {
+    "intent_id": "sistema_endocrino_errores_patologias",
+    "keywords": [
+      "hormona",
+      "glandula",
+      "metabolismo",
+      "patologia",
+      "crecimiento"
+    ],
+    "base_response": "Las alteraciones hormonales ocurren cuando las glándulas producen demasiada o poca hormona, generando fallas en crecimiento, metabolismo y equilibrio interno. Patologías como hipotiroidismo, diabetes y síndrome de Cushing muestran cómo errores endocrinos afectan funciones vitales y requieren atención médica temprana."
+  },
+  {
+    "intent_id": "sistema_endocrino_propiedades_quimicas",
+    "keywords": [
+      "hormonas",
+      "estructura",
+      "solubilidad",
+      "membranas",
+      "proteinas"
+    ],
+    "base_response": "Las hormonas del sistema endocrino poseen estructuras químicas específicas que determinan su solubilidad y modo de acción. Algunas son moléculas lipídicas capaces de atravesar membranas, mientras otras son proteínas que requieren receptores especializados. Estas propiedades condicionan su estabilidad y función biológica."
+  },
+  {
+    "intent_id": "sistema_endocrino_mitos_concepciones",
+    "keywords": [
+      "hormona",
+      "glandula",
+      "cuerpo",
+      "funcion",
+      "regulacion"
+    ],
+    "base_response": "Muchos mitos afirman que las hormonas actúan como fuerzas impredecibles que controlan totalmente el comportamiento. En realidad, las hormonas regulan procesos específicos y no determinan emociones por sí solas. Comprender su función evita confusiones y promueve decisiones informadas sobre salud y desarrollo."
+  },
+  {
+    "intent_id": "sistema_endocrino_historia_origen_evolucion",
+    "keywords": [
+      "historia",
+      "origen",
+      "evolucion",
+      "hormona",
+      "glandula"
+    ],
+    "base_response": "A lo largo de la historia, el estudio del sistema endocrino surgió al observar efectos corporales inexplicables. Con el tiempo, científicos identificaron hormonas, describieron glándulas y comprendieron su evolución como red reguladora esencial. Este avance permitió explicar procesos vitales antes desconocidos."
+  },
+  {
+    "intent_id": "sistema_endocrino_aplicaciones_practicas",
+    "keywords": [
+      "hormonas",
+      "cuerpo",
+      "crecimiento",
+      "energia",
+      "emociones"
+    ],
+    "base_response": "Las hormonas permiten regular crecimiento, energía y emociones en situaciones cotidianas. Comprender su funcionamiento ayuda a reconocer cambios corporales, manejar estrés y adoptar hábitos saludables. Aplicar este conocimiento facilita decisiones informadas sobre actividad física, descanso y alimentación equilibrada."
+  },
+  {
+    "intent_id": "sistema_endocrino_consecuencias_largo_plazo",
+    "keywords": [
+      "hormonas",
+      "sistema",
+      "equilibrio",
+      "metabolismo",
+      "crecimiento"
+    ],
+    "base_response": "Las hormonas del sistema endocrino pueden generar efectos duraderos cuando sus niveles permanecen alterados. Cambios prolongados pueden afectar crecimiento, metabolismo y estado emocional. Comprender estas consecuencias permite anticipar riesgos y promover hábitos que mantengan equilibrio hormonal saludable durante la vida."
+  },
+  {
+    "intent_id": "sistema_endocrino_impacto_ambiental",
+    "keywords": [
+      "hormona",
+      "impacto",
+      "ambiente",
+      "contaminante",
+      "equilibrio"
+    ],
+    "base_response": "El sistema endocrino puede verse afectado por contaminantes ambientales que alteran la producción hormonal. Sustancias químicas industriales pueden imitar o bloquear hormonas naturales, generando desequilibrios en organismos y ecosistemas. Comprender estos efectos permite proteger la salud biológica y ambiental."
+  },
+  {
+    "intent_id": "sistema_endocrino_importancia_social",
+    "keywords": [
+      "hormonas",
+      "sistema",
+      "impacto",
+      "salud",
+      "sociedad"
+    ],
+    "base_response": "El sistema endocrino influye directamente en conductas, crecimiento y salud colectiva. Sus hormonas regulan energía, emociones y maduración, afectando decisiones cotidianas y bienestar comunitario. Comprender su función permite valorar hábitos saludables y prevenir problemas que impactan la vida social."
+  },
+  {
+    "intent_id": "sistema_endocrino_mantenimiento_prevencion",
+    "keywords": [
+      "hormonas",
+      "glandulas",
+      "equilibrio",
+      "prevencion",
+      "salud"
+    ],
+    "base_response": "El sistema endocrino requiere cuidado constante mediante hábitos saludables que estabilicen la producción hormonal. Mantener alimentación equilibrada, actividad física regular y descanso adecuado previene desequilibrios. Evitar sustancias nocivas protege glándulas sensibles, asegurando regulación interna estable y funcionamiento corporal seguro."
+  },
+  {
+    "intent_id": "sistema_endocrino_comparacion_hormonal",
+    "keywords": [
+      "hormona",
+      "glandula",
+      "senal",
+      "regulacion",
+      "efecto"
+    ],
+    "base_response": "El sistema endocrino ofrece ventajas como control prolongado y coordinación interna precisa, pero presenta desventajas como respuestas más lentas y menor especificidad inmediata. Comparar estos aspectos permite comprender cómo las hormonas equilibran funciones corporales esenciales frente a otros mecanismos de comunicación biológica."
+  },
+  {
+    "intent_id": "sistema_excretor_propiedades_materiales",
+    "keywords": [
+      "desecho",
+      "filtracion",
+      "compuesto",
+      "reaccion",
+      "eliminacion"
+    ],
+    "base_response": "El sistema excretor transforma desechos químicos en sustancias menos tóxicas mediante reacciones específicas. Sus órganos filtran compuestos solubles, separan materiales útiles y expulsan moléculas residuales. Esta dinámica depende de propiedades químicas que permiten identificar, modificar y liberar elementos perjudiciales para mantener equilibrio interno."
+  },
+  {
+    "intent_id": "sistema_endocrino_clasificacion_taxonomica",
+    "keywords": [
+      "hormona",
+      "glandula",
+      "organismo",
+      "funcion",
+      "secrecion"
+    ],
+    "base_response": "La clasificación taxonómica del sistema endocrino organiza hormonas según su origen glandular y su función reguladora en el organismo. Este enfoque permite identificar grupos hormonales relacionados, facilitando el estudio de sus efectos coordinados y su papel esencial en procesos de crecimiento, metabolismo y equilibrio interno."
+  },
+  {
+    "intent_id": "sistema_endocrino_relacion_simbiotica",
+    "keywords": [
+      "hormonas",
+      "sistema",
+      "regulacion",
+      "crecimiento",
+      "metabolismo"
+    ],
+    "base_response": "El sistema endocrino mantiene una relación simbiótica con otros sistemas al coordinar respuestas internas mediante hormonas. Estas señales regulan crecimiento, metabolismo y equilibrio corporal, permitiendo que órganos diversos trabajen juntos de forma armoniosa para sostener funciones vitales y adaptaciones esenciales."
+  },
+  {
+    "intent_id": "sistema_endocrino_calculos_hormonas",
+    "keywords": [
+      "calculo",
+      "hormona",
+      "concentracion",
+      "liberacion",
+      "regulacion"
+    ],
+    "base_response": "Los cálculos hormonales permiten estimar concentraciones, tasas de liberación y tiempos de acción dentro del sistema endocrino. Medir niveles plasmáticos y aplicar fórmulas de variación ayuda a comprender cómo cambian las respuestas corporales y cómo se regulan procesos esenciales para el equilibrio interno."
+  },
+  {
+    "intent_id": "sistema_endocrino_riesgos_seguridad",
+    "keywords": [
+      "hormona",
+      "riesgo",
+      "seguridad",
+      "equilibrio",
+      "cuidado"
+    ],
+    "base_response": "El sistema endocrino depende de hormonas que regulan funciones vitales, por lo que alterarlas implica riesgos importantes. Evita sustancias tóxicas, sigue indicaciones médicas y reconoce señales de desequilibrio. Mantener hábitos saludables protege la producción hormonal y previene daños."
+  },
+  {
+    "intent_id": "sistema_excretor_errores_fallas",
+    "keywords": [
+      "infeccion",
+      "calculo",
+      "inflamacion",
+      "obstruccion",
+      "desecho"
+    ],
+    "base_response": "Las fallas del sistema excretor incluyen infecciones urinarias, cálculos renales, inflamación vesical y obstrucciones que dificultan la eliminación de desechos. Estas patologías alteran el equilibrio interno, generan dolor y requieren atención temprana para evitar daños mayores en órganos sensibles."
+  },
+  {
+    "intent_id": "sistema_excretor_aplicaciones_practicas",
+    "keywords": [
+      "rinon",
+      "filtracion",
+      "desecho",
+      "equilibrio",
+      "salud"
+    ],
+    "base_response": "El sistema excretor permite aplicar hábitos diarios que protegen la salud, como beber suficiente agua, evitar exceso de sal y reconocer señales de deshidratación. Comprender su función ayuda a mantener equilibrio interno, prevenir acumulación de toxinas y favorecer decisiones responsables sobre bienestar corporal."
+  },
+  {
+    "intent_id": "sistema_endocrino_ciclos_energeticos",
+    "keywords": [
+      "hormonas",
+      "energia",
+      "metabolismo",
+      "crecimiento",
+      "regulacion"
+    ],
+    "base_response": "El sistema endocrino regula ciclos energéticos mediante hormonas que ajustan metabolismo, crecimiento y respuesta celular. Estas señales químicas coordinan cómo el cuerpo transforma nutrientes en energía utilizable, manteniendo equilibrio interno y asegurando procesos vitales durante cambios ambientales y demandas fisiológicas."
+  },
+  {
+    "intent_id": "sistema_endocrino_experimentos_escolares",
+    "keywords": [
+      "hormonas",
+      "glandulas",
+      "reaccion",
+      "observacion",
+      "experimento"
+    ],
+    "base_response": "Realiza demostraciones simples usando modelos de glándulas y soluciones coloreadas para representar hormonas. Observa cómo un estímulo simulado activa la liberación de una sustancia, mostrando la relación entre señal y respuesta. Explica que las hormonas viajan por la sangre y regulan funciones corporales esenciales."
+  },
+  {
+    "intent_id": "proyecciones_futuras_tecnologia_hormonas",
+    "keywords": [
+      "hormonas",
+      "sensores",
+      "aprendizaje",
+      "proyecciones",
+      "ciencia"
+    ],
+    "base_response": "Las nuevas tecnologías facilitarán el monitoreo en tiempo real de las hormonas, usando nanotecnología y sensores miniaturizados. Los estudiantes podrán observar la variación hormonal durante actividades físicas y aprenderán cómo el equilibrio hormonal afecta el rendimiento y la salud. Estas innovaciones transformarán la investigación endocrina."
+  },
+  {
+    "intent_id": "sistema_excretor_ventajas_desventajas",
+    "keywords": [
+      "systema",
+      "excrecion",
+      "ventaja",
+      "desventaja",
+      "organo"
+    ],
+    "base_response": "El sistema excretor presenta ventajas comparativas al eliminar sustancias tóxicas con eficiencia, manteniendo equilibrio interno. Sin embargo, muestra desventajas frente a otros sistemas porque depende de órganos sensibles y requiere condiciones estables para funcionar adecuadamente, afectando su rendimiento general."
+  },
+  {
+    "intent_id": "sistema_excretor_riesgos_seguridad",
+    "keywords": [
+      "rinon",
+      "seguridad",
+      "riesgo",
+      "higiene",
+      "toxina"
+    ],
+    "base_response": "El sistema excretor requiere cuidados para evitar daños por toxinas y deshidratación. Mantener higiene, beber agua suficiente y evitar sustancias peligrosas protege riñones y vías urinarias. Reconocer señales de malestar permite actuar temprano y reducir riesgos importantes."
+  },
+  {
+    "intent_id": "sistema_excretor_clasificacion_taxonomica",
+    "keywords": [
+      "sistema",
+      "excrecion",
+      "clasificacion",
+      "organismos",
+      "evolucion"
+    ],
+    "base_response": "La clasificación taxonómica del sistema excretor compara cómo distintos grupos de organismos eliminan desechos según su estructura biológica. Identifica variaciones entre invertebrados y vertebrados, destacando órganos especializados que reflejan adaptaciones evolutivas para mantener equilibrio interno y asegurar supervivencia."
+  },
+  {
+    "intent_id": "sistema_excretor_mitos_concepciones",
+    "keywords": [
+      "sistema",
+      "excrecion",
+      "desecho",
+      "toxina",
+      "filtracion"
+    ],
+    "base_response": "Muchos estudiantes creen que el sistema excretor elimina todas las sustancias dañinas, pero solo expulsa desechos específicos. No filtra toxinas de manera universal. Comprender esta función evita confusiones y promueve una visión científica correcta sobre cómo el cuerpo mantiene su equilibrio interno."
+  },
+  {
+    "intent_id": "sistema_excretor_ciclos_energeticos",
+    "keywords": [
+      "energia",
+      "desecho",
+      "filtracion",
+      "metabolismo",
+      "equilibrio"
+    ],
+    "base_response": "El sistema excretor participa en ciclos energéticos al eliminar desechos generados por reacciones metabólicas. Esta depuración mantiene el equilibrio interno, permitiendo que las células transformen energía de manera eficiente. Sin esta función, los residuos interferirían en procesos vitales y reducirían el rendimiento corporal."
+  },
+  {
+    "intent_id": "sistema_excretor_experimentos_escolares",
+    "keywords": [
+      "rinon",
+      "filtracion",
+      "desecho",
+      "experimento",
+      "demostracion"
+    ],
+    "base_response": "Modela la filtración renal usando un embudo con arena, carbón y algodón para simular capas que retienen impurezas. Observa cómo el agua turbia se aclara al pasar, representando la eliminación de desechos. Explica que el sistema excretor mantiene equilibrio interno mediante procesos físicos controlados."
+  },
+  {
+    "intent_id": "sistema_excretor_consecuencias_largo_plazo",
+    "keywords": [
+      "sistema",
+      "excrecion",
+      "toxinas",
+      "dano",
+      "organos"
+    ],
+    "base_response": "El sistema excretor, si funciona de manera deficiente durante largos periodos, puede acumular toxinas que dañan órganos vitales. Esta acumulación provoca fatiga persistente, alteraciones hormonales y mayor riesgo de enfermedades crónicas que afectan el bienestar general del organismo."
+  },
+  {
+    "intent_id": "sistema_excretor_estructural",
+    "keywords": [
+      "sistema",
+      "organos",
+      "filtracion",
+      "residuos",
+      "equilibrio"
+    ],
+    "base_response": "El sistema excretor de desechos se compone de órganos especializados que filtran sustancias nocivas y regulan líquidos corporales. Incluye riñones, uréteres, vejiga y uretra, estructuras que trabajan coordinadamente para mantener equilibrio interno mediante eliminación constante de residuos metabólicos."
+  },
+  {
+    "intent_id": "sistema_excretor_dinamica_funcionamiento",
+    "keywords": [
+      "rinon",
+      "filtracion",
+      "desecho",
+      "equilibrio",
+      "funcion"
+    ],
+    "base_response": "El sistema excretor opera mediante procesos físicos que filtran desechos y regulan líquidos corporales. Los riñones ajustan presiones internas para separar sustancias útiles y expulsar residuos. Esta dinámica mantiene equilibrio químico esencial y sostiene la estabilidad funcional del organismo en actividad constante."
+  },
+  {
+    "intent_id": "sistema_excretor_proyecciones_tecnologicas",
+    "keywords": [
+      "tecnologia",
+      "sensor",
+      "organismo",
+      "monitoreo",
+      "excrecion"
+    ],
+    "base_response": "Las futuras tecnologías del sistema excretor integrarán sensores avanzados capaces de monitorear desechos corporales en tiempo real. Estos dispositivos permitirán detectar alteraciones tempranas, optimizar tratamientos personalizados y mejorar la comprensión del organismo mediante análisis continuos seguros y precisos."
+  },
+  {
+    "intent_id": "sistema_excretor_historia_evolucion",
+    "keywords": [
+      "sistema",
+      "evolucion",
+      "organismo",
+      "desecho",
+      "funcion"
+    ],
+    "base_response": "El sistema excretor surgió cuando los primeros organismos necesitaban expulsar desechos tóxicos. Con el tiempo, estructuras simples evolucionaron hacia órganos especializados. Esta transformación permitió regular líquidos internos, mejorar la supervivencia y sostener funciones vitales en especies cada vez más complejas."
+  },
+  {
+    "intent_id": "sistema_reproductor_propiedades_quimicas",
+    "keywords": [
+      "hormona",
+      "membrana",
+      "fluido",
+      "material",
+      "fecundacion"
+    ],
+    "base_response": "El sistema reproductor utiliza sustancias químicas específicas que permiten la unión celular y el desarrollo inicial. Hormonas regulan procesos esenciales, mientras membranas y fluidos protegen materiales genéticos. Estas propiedades aseguran condiciones adecuadas para la fecundación y el inicio de nuevas estructuras biológicas."
+  },
+  {
+    "intent_id": "sistema_excretor_contexto_ecologico",
+    "keywords": [
+      "desecho",
+      "organismo",
+      "ambiente",
+      "equilibrio",
+      "funcion"
+    ],
+    "base_response": "El sistema excretor mantiene el equilibrio ecológico al liberar desechos que otros organismos transforman. Sus productos finales nutren suelos y permiten ciclos biológicos esenciales. Cuando funciona adecuadamente, sostiene relaciones naturales que conectan cuerpos vivos con procesos ambientales continuos y dependientes."
+  },
+  {
+    "intent_id": "sistema_excretor_importancia_social",
+    "keywords": [
+      "sistema",
+      "excrecion",
+      "salud",
+      "comunidad",
+      "impacto"
+    ],
+    "base_response": "El sistema excretor sostiene la salud colectiva al eliminar desechos que podrían causar enfermedades. Su buen funcionamiento reduce riesgos comunitarios, favorece ambientes limpios y promueve hábitos responsables. Comprenderlo impulsa acciones sociales que protegen bienestar y fortalecen convivencia saludable."
+  },
+  {
+    "intent_id": "sistema_reproductor_aplicaciones_practicas",
+    "keywords": [
+      "reproduccion",
+      "salud",
+      "cuidado",
+      "prevencion",
+      "bienestar"
+    ],
+    "base_response": "El sistema reproductor de procreación permite comprender decisiones responsables sobre salud sexual, cuidado corporal y prevención de riesgos. Aplicar este conocimiento facilita reconocer cambios puberales, respetar límites personales y buscar orientación profesional cuando surgen dudas, fortaleciendo bienestar integral cotidiano."
+  },
+  {
+    "intent_id": "sistema_excretor_relacion_simbiotica",
+    "keywords": [
+      "sistema",
+      "excrecion",
+      "circulacion",
+      "respiracion",
+      "equilibrio"
+    ],
+    "base_response": "El sistema excretor mantiene una relación simbiótica con sistemas circulatorio y respiratorio al filtrar desechos y equilibrar líquidos. Sus funciones dependen del transporte sanguíneo y del intercambio gaseoso, asegurando estabilidad interna. Esta cooperación sostiene procesos vitales y previene acumulaciones dañinas."
+  },
+  {
+    "intent_id": "sistema_reproductor_ambiente_ecologico",
+    "keywords": [
+      "reproductor",
+      "procreacion",
+      "ecosistema",
+      "influencia",
+      "entorno"
+    ],
+    "base_response": "El sistema reproductor de procreación responde al contexto ecológico, adaptándose a la disponibilidad de alimento, clima y hábitat. El entorno determina ciclos de apareamiento, longevidad y estrategias reproductivas que garantizan la supervivencia de la especie a largo plazo. Así, la interacción ambiental condiciona el éxito reproductivo."
+  },
+  {
+    "intent_id": "sistema_excretor_mantenimiento_prevencion",
+    "keywords": [
+      "rinon",
+      "excrecion",
+      "cuidado",
+      "hidratacion",
+      "prevencion"
+    ],
+    "base_response": "El sistema excretor requiere hábitos constantes para mantener su funcionamiento eficiente. Beber agua suficiente, evitar sustancias tóxicas y practicar higiene adecuada reduce riesgos de infección. La prevención incluye reconocer señales tempranas de malestar y buscar atención médica para proteger riñones y vías urinarias."
+  },
+  {
+    "intent_id": "sistema_reproductor_ventajas_desventajas",
+    "keywords": [
+      "reproduccion",
+      "organismo",
+      "comparacion",
+      "proceso",
+      "funcion"
+    ],
+    "base_response": "El sistema reproductor de procreación presenta ventajas como asegurar continuidad biológica y diversidad genética, pero también implica desventajas como alto gasto energético y vulnerabilidad a fallos. Comprender estas diferencias permite evaluar cómo cada organismo equilibra beneficios y costos para mantener su especie."
+  },
+  {
+    "intent_id": "sistema_excretor_impacto_ambiental",
+    "keywords": [
+      "desecho",
+      "organismo",
+      "contaminacion",
+      "ecosistema",
+      "degradacion"
+    ],
+    "base_response": "El sistema excretor humano produce desechos que, al liberarse sin tratamiento adecuado, contaminan agua y suelo. Estos residuos alteran ecosistemas, afectan especies sensibles y aceleran procesos de degradación ambiental. Comprender su manejo responsable reduce impactos negativos y promueve equilibrio ecológico sostenible."
+  },
+  {
+    "intent_id": "sistema_excretor_calculos_formulas",
+    "keywords": [
+      "urina",
+      "excretado",
+      "volumen",
+      "frecuencia",
+      "excrecion"
+    ],
+    "base_response": "El volumen de orina por hora se calcula dividiendo los mililitros recogidos entre el tiempo en horas. Se expresa en ml/h; al compararlo con el rango normal, se evalúa la función renal y se detectan posibles obstrucciones o deshidratación."
+  },
+  {
+    "intent_id": "sistema_reproductor_procreacion_estructura",
+    "keywords": [
+      "organos",
+      "funcion",
+      "reproduccion",
+      "tejido",
+      "desarrollo"
+    ],
+    "base_response": "El sistema reproductor de procreación es un conjunto organizado de órganos y tejidos especializados que permiten formar células reproductivas. Incluye estructuras internas y externas diseñadas para proteger, nutrir y transportar estas células, asegurando condiciones anatómicas adecuadas para la continuidad biológica de la especie."
+  },
+  {
+    "intent_id": "sistema_reproductor_dinamica_funcionamiento",
+    "keywords": [
+      "sistema",
+      "organos",
+      "celulas",
+      "hormonas",
+      "transporte"
+    ],
+    "base_response": "El sistema reproductor de procreación coordina órganos que producen células sexuales y permiten su encuentro. Sus estructuras funcionan mediante ciclos hormonales que regulan maduración, liberación y transporte. Esta dinámica física asegura condiciones internas precisas para iniciar el desarrollo de un nuevo organismo."
+  },
+  {
+    "intent_id": "sistema_reproductor_clasificacion_taxonomica",
+    "keywords": [
+      "taxonomia",
+      "clasificacion",
+      "especie",
+      "organo",
+      "reproduccion"
+    ],
+    "base_response": "La clasificación taxonómica del sistema reproductor de procreación permite comparar cómo distintos grupos de seres vivos organizan órganos y funciones reproductivas. Esta clasificación ordena especies según rasgos compartidos, facilitando entender similitudes evolutivas y diferencias estructurales entre animales y plantas."
+  },
+  {
+    "intent_id": "sistema_reproductor_transformacion_ciclos",
+    "keywords": [
+      "energia",
+      "ciclo",
+      "reproduccion",
+      "gameto",
+      "transformacion"
+    ],
+    "base_response": "El sistema reproductor de procreación utiliza energía celular para sostener procesos de formación y maduración de gametos. Cada ciclo transforma recursos bioquímicos en nuevas estructuras vivas, demostrando cómo la energía fluye y se renueva continuamente dentro del organismo durante la reproducción."
+  },
+  {
+    "intent_id": "sistema_reproductor_calculos_formulas",
+    "keywords": [
+      "reproduccion",
+      "calculo",
+      "fecundacion",
+      "fertilizacion",
+      "gestacion"
+    ],
+    "base_response": "El sistema reproductor de procreación puede analizarse mediante cálculos que estiman tasas de fecundación, probabilidad de fertilización y tiempos de gestación. Estas fórmulas permiten comprender variaciones biológicas y predecir resultados reproductivos con base en datos observados y patrones fisiológicos."
+  },
+  {
+    "intent_id": "sistema_reproductor_mantenimiento_prevencion",
+    "keywords": [
+      "reproduccion",
+      "higiene",
+      "prevencion",
+      "salud",
+      "cuidado"
+    ],
+    "base_response": "El sistema reproductor requiere cuidados constantes para prevenir infecciones y daños. Mantener higiene adecuada, evitar golpes, usar protección en actividades de riesgo y acudir a revisiones médicas permite conservar su funcionamiento saludable. Estas acciones fortalecen la prevención y promueven bienestar integral."
+  },
+  {
+    "intent_id": "sistema_reproductor_procreacion_fallas",
+    "keywords": [
+      "reproduccion",
+      "funcion",
+      "fallo",
+      "patologia",
+      "desarrollo"
+    ],
+    "base_response": "El sistema reproductor puede presentar fallas que afectan la procreación, como infecciones, alteraciones hormonales, obstrucciones o malformaciones. Estas condiciones dificultan la producción de células reproductivas, el transporte adecuado o la fecundación, generando problemas que requieren atención médica temprana y seguimiento especializado."
+  },
+  {
+    "intent_id": "sistema_reproductor_experimentos_escolares",
+    "keywords": [
+      "experimento",
+      "modelo",
+      "organo",
+      "funcion",
+      "fecundacion"
+    ],
+    "base_response": "Los experimentos escolares sobre el sistema reproductor de procreación emplean modelos simples que muestran órganos y funciones básicas. Mediante demostraciones controladas, los estudiantes observan procesos como fecundación y desarrollo inicial, comprendiendo relaciones biológicas esenciales sin manipular organismos reales."
+  },
+  {
+    "intent_id": "sistema_reproductor_historia_origen_evolucion",
+    "keywords": [
+      "origen",
+      "evolucion",
+      "reproduccion",
+      "historia",
+      "adaptacion"
+    ],
+    "base_response": "El sistema reproductor humano surgió mediante procesos evolutivos que permitieron la formación de células sexuales especializadas. Su historia biológica muestra adaptaciones progresivas para asegurar la fecundación y el desarrollo embrionario. Estas transformaciones consolidaron mecanismos eficientes de procreación en diversas especies."
+  },
+  {
+    "intent_id": "sistema_tegumentario_piel_definicion",
+    "keywords": [
+      "piel",
+      "tejido",
+      "epidermis",
+      "dermis",
+      "proteccion"
+    ],
+    "base_response": "El sistema tegumentario de la piel es una capa protectora formada por epidermis, dermis y tejido subcutáneo. Sus estructuras organizadas crean una barrera física que cubre todo el cuerpo y regula funciones esenciales mediante componentes celulares especializados."
+  },
+  {
+    "intent_id": "sistema_tegumentario_propiedades_quimicas",
+    "keywords": [
+      "piel",
+      "lipidos",
+      "proteinas",
+      "agua",
+      "materiales"
+    ],
+    "base_response": "La piel presenta propiedades químicas basadas en lípidos, proteínas y agua que permiten resistencia, flexibilidad y protección. Sus materiales interactúan con el entorno regulando humedad, pH y barreras contra sustancias dañinas, asegurando estabilidad funcional del sistema tegumentario."
+  },
+  {
+    "intent_id": "sistema_reproductor_importancia_impacto_social",
+    "keywords": [
+      "sistema",
+      "reproduccion",
+      "salud",
+      "comunidad",
+      "impacto"
+    ],
+    "base_response": "El sistema reproductor de procreación sostiene la continuidad humana y promueve responsabilidad social. Comprender su función ayuda a valorar la salud, prevenir riesgos y respetar decisiones reproductivas. Su impacto influye en bienestar comunitario, equidad y desarrollo sostenible mediante prácticas informadas y seguras."
+  },
+  {
+    "intent_id": "sistema_reproductor_riesgos_seguridad",
+    "keywords": [
+      "riesgos",
+      "seguridad",
+      "infeccion",
+      "higiene",
+      "salud"
+    ],
+    "base_response": "El sistema reproductor requiere cuidado responsable para evitar daños y enfermedades. Comprender riesgos como infecciones, lesiones y presión social permite actuar con seguridad. Aplicar higiene adecuada, límites personales firmes y orientación confiable protege la salud y favorece decisiones informadas."
+  },
+  {
+    "intent_id": "sistema_reproductor_simbiotico_funcion",
+    "keywords": [
+      "reproduccion",
+      "organismo",
+      "intercambio",
+      "coordinacion",
+      "desarrollo"
+    ],
+    "base_response": "El sistema reproductor mantiene una relación simbiótica con sistemas hormonales, circulatorios y nerviosos para asegurar la formación de nuevas vidas. Cada sistema aporta señales, transporte y control que permiten procesos coordinados esenciales para el desarrollo y la continuidad biológica."
+  },
+  {
+    "intent_id": "sistema_reproductor_impacto_ambiental",
+    "keywords": [
+      "reproduccion",
+      "organismo",
+      "energia",
+      "contaminacion",
+      "equilibrio"
+    ],
+    "base_response": "El sistema reproductor influye en el ambiente porque cada nuevo organismo requiere recursos y genera desechos. Cuando las poblaciones crecen sin control, aumenta la presión sobre agua, suelo y energía. Comprender este impacto permite promover prácticas responsables que protejan los ecosistemas."
+  },
+  {
+    "intent_id": "historia_sistema_tegumentario_piel",
+    "keywords": [
+      "piel",
+      "origen",
+      "evolucion",
+      "proteccion",
+      "regulacion"
+    ],
+    "base_response": "Los estudios paleoarqueológicos revelan que la piel humana se originó hace millones de años como una barrera protectora y reguladora, evolucionando gradualmente para resistir variaciones climáticas, desoxigenar, y filtrar desechos, restaurando el equilibrio adaptativo de la humanidad."
+  },
+  {
+    "intent_id": "sistema_tegumentario_importancia_social",
+    "keywords": [
+      "piel",
+      "proteccion",
+      "salud",
+      "higiene",
+      "comunidad"
+    ],
+    "base_response": "El sistema tegumentario de la piel influye directamente en la salud comunitaria al proteger contra infecciones y regular la temperatura. Su cuidado adecuado reduce enfermedades, promueve hábitos higiénicos y fortalece la responsabilidad social al mantener entornos seguros y saludables para todos."
+  },
+  {
+    "intent_id": "sistema_reproductor_consecuencias_largo_plazo",
+    "keywords": [
+      "reproduccion",
+      "desarrollo",
+      "salud",
+      "riesgo",
+      "cuidado"
+    ],
+    "base_response": "El sistema reproductor puede sufrir consecuencias a largo plazo si no se cuida adecuadamente, como alteraciones hormonales, daños en órganos internos y dificultades futuras para procrear. Mantener hábitos saludables y comprender su funcionamiento ayuda a prevenir problemas persistentes en la vida adulta."
+  },
+  {
+    "intent_id": "sistema_tegumentario_ventajas_desventajas",
+    "keywords": [
+      "piel",
+      "proteccion",
+      "infeccion",
+      "radiacion",
+      "cuidado"
+    ],
+    "base_response": "El sistema tegumentario presenta ventajas como protección contra impactos, regulación térmica y prevención de pérdida de agua. Sin embargo, muestra desventajas comparativas como vulnerabilidad a quemaduras, infecciones y daños por radiación solar, requiriendo cuidados constantes para mantener su integridad funcional."
+  },
+  {
+    "intent_id": "sistema_reproductor_proyecciones_tecnologicas",
+    "keywords": [
+      "reproduccion",
+      "tecnologia",
+      "investigacion",
+      "desarrollo",
+      "futuro"
+    ],
+    "base_response": "Las futuras tecnologías reproductivas permitirán estudiar células germinales con mayor precisión, crear modelos digitales del proceso de fecundación y mejorar tratamientos de fertilidad. Estas innovaciones facilitarán comprender mejor la reproducción humana y anticipar riesgos, optimizando decisiones médicas seguras y responsables."
+  },
+  {
+    "intent_id": "mitos_sistema_reproductivo_procreacion",
+    "keywords": [
+      "mito",
+      "procreacion",
+      "saber",
+      "desenmascarar",
+      "ciencia"
+    ],
+    "base_response": "El mito de que el embarazo se produce al tener sexo nocturno sin protección, sin considerar la ovulación, ignora el ciclo menstrual femenino. La concepción requiere que una óvulo fertilizable sea liberado en el momento correcto, y el espermatozoide suele sobrevivir solo unas horas."
+  },
+  {
+    "intent_id": "sistema_tegumentario_clasificacion_taxonomica",
+    "keywords": [
+      "piel",
+      "vertebrados",
+      "clasificacion",
+      "organo",
+      "evolucion"
+    ],
+    "base_response": "La piel pertenece al sistema tegumentario y se clasifica taxonómicamente como un órgano presente en todos los vertebrados. Su estructura refleja adaptaciones evolutivas que permiten protección, regulación térmica y percepción sensorial, diferenciándose según especie, hábitat y funciones biológicas."
+  },
+  {
+    "intent_id": "sistema_tegumentario_calculos_funcionales",
+    "keywords": [
+      "piel",
+      "calculo",
+      "formula",
+      "proteccion",
+      "regeneracion"
+    ],
+    "base_response": "El sistema tegumentario permite estimar grosor promedio de la piel usando medidas simples. Para calcular área cutánea aproximada se aplican proporciones corporales. Estas fórmulas ayudan a comprender distribución, protección y regeneración, facilitando análisis cuantitativos seguros para estudiantes en formación."
+  },
+  {
+    "intent_id": "sistema_tegumentario_piel_patologias",
+    "keywords": [
+      "piel",
+      "lesion",
+      "infeccion",
+      "irritacion",
+      "inflamacion"
+    ],
+    "base_response": "El sistema tegumentario puede presentar errores como exceso de grasa, sequedad extrema o irritación. También surgen fallas por infecciones que generan inflamación, enrojecimiento y picazón. Estas patologías afectan la protección natural, debilitando la barrera cutánea y facilitando daños ambientales."
+  },
+  {
+    "intent_id": "sistema_tegumentario_consecuencias_largo_plazo",
+    "keywords": [
+      "piel",
+      "proteccion",
+      "dano",
+      "regeneracion",
+      "envejecimiento"
+    ],
+    "base_response": "El sistema tegumentario puede sufrir daños acumulados que alteran su capacidad protectora. La exposición prolongada al sol, la contaminación y malos hábitos generan envejecimiento prematuro, menor regeneración celular y mayor riesgo de infecciones. Cuidar la piel desde temprano reduce impactos futuros significativos."
+  },
+  {
+    "intent_id": "sistema_tegumentario_experimentos_escolares",
+    "keywords": [
+      "piel",
+      "experimento",
+      "modelo",
+      "observacion",
+      "proteccion"
+    ],
+    "base_response": "Los experimentos escolares sobre el sistema tegumentario permiten observar funciones protectoras de la piel mediante modelos simples. Demostrar permeabilidad respuesta térmica y regeneración celular ayuda a comprender su estructura. Utilizar tintes seguros y fuentes de calor controladas facilita exploraciones científicas responsables."
+  },
+  {
+    "intent_id": "sistema_tegumentario_contexto_ecologico",
+    "keywords": [
+      "piel",
+      "entorno",
+      "ecosistema",
+      "proteccion",
+      "adaptacion"
+    ],
+    "base_response": "El sistema tegumentario de la piel interactúa con el entorno ecológico regulando temperatura, humedad y exposición solar. Sus capas responden a cambios ambientales, protegen contra microorganismos y permiten adaptación constante, favoreciendo equilibrio fisiológico en diversos ecosistemas naturales."
+  },
+  {
+    "intent_id": "sistema_tegumentario_tecnologia_futura",
+    "keywords": [
+      "tecnologia",
+      "piel",
+      "sensores",
+      "regeneracion",
+      "diagnostico"
+    ],
+    "base_response": "Las futuras tecnologías del sistema tegumentario explorarán sensores cutáneos avanzados capaces de monitorear hidratación, temperatura y daño celular. Integrarán materiales inteligentes que imitan funciones protectoras naturales, permitiendo diagnósticos rápidos y apoyo regenerativo mediante dispositivos portátiles adaptados al crecimiento juvenil."
+  },
+  {
+    "intent_id": "sistema_linfatico_fluido_estructura",
+    "keywords": [
+      "fluidos",
+      "sistema",
+      "vasos",
+      "ganglios",
+      "organos"
+    ],
+    "base_response": "El sistema linfático es una red anatómica formada por vasos, ganglios y órganos que transportan linfa. Sus estructuras conectadas permiten mover fluidos y células defensivas. Esta organización corporal sostiene equilibrio interno mediante canales especializados distribuidos por todo el cuerpo."
+  },
+  {
+    "intent_id": "sistema_tegumentario_aplicaciones_practicas",
+    "keywords": [
+      "piel",
+      "proteccion",
+      "higiene",
+      "cuidado",
+      "salud"
+    ],
+    "base_response": "El sistema tegumentario de la piel permite reconocer riesgos ambientales, regular temperatura corporal y proteger contra microbios. En la vida diaria facilita higiene adecuada, cuidado solar responsable y detección temprana de cambios cutáneos que indican posibles problemas de salud."
+  },
+  {
+    "intent_id": "sistema_linfatico_dinamica_funcionamiento",
+    "keywords": [
+      "linfa",
+      "flujo",
+      "transporte",
+      "defensa",
+      "equilibrio"
+    ],
+    "base_response": "El sistema linfático mueve linfa mediante impulsos rítmicos en vasos flexibles que se contraen suavemente. Esta dinámica permite transportar células defensivas y recoger desechos. Su flujo depende de movimientos corporales, asegurando circulación constante que mantiene equilibrio interno y apoyo inmunológico esencial."
+  },
+  {
+    "intent_id": "sistema_linfatico_propiedades_materiales",
+    "keywords": [
+      "fluido",
+      "transporte",
+      "proteina",
+      "filtracion",
+      "equilibrio"
+    ],
+    "base_response": "El sistema linfático utiliza un fluido compuesto por agua, sales y proteínas que permiten transportar sustancias esenciales. Sus propiedades químicas facilitan la filtración, la neutralización de agentes dañinos y el equilibrio interno, asegurando estabilidad material en tejidos corporales."
+  },
+  {
+    "intent_id": "sistema_tegumentario_riesgos_seguridad",
+    "keywords": [
+      "piel",
+      "riesgo",
+      "lesion",
+      "proteccion",
+      "cuidado"
+    ],
+    "base_response": "El sistema tegumentario enfrenta riesgos por quemaduras, cortes y radiación solar. Mantener higiene, usar bloqueador y evitar objetos punzantes reduce daños. Aplicar medidas de seguridad protege la piel, previene infecciones y conserva su función como barrera esencial para el organismo."
+  },
+  {
+    "intent_id": "sistema_tegumentario_transformacion_energetica",
+    "keywords": [
+      "piel",
+      "energia",
+      "ciclo",
+      "reparacion",
+      "defensa"
+    ],
+    "base_response": "La piel transforma energía solar en señales biológicas que regulan procesos celulares esenciales. Sus capas usan ciclos energéticos para reparar tejidos, mantener temperatura y activar defensas. Este sistema convierte estímulos ambientales en respuestas químicas que sostienen equilibrio corporal dinámico."
+  },
+  {
+    "intent_id": "mitos_sistema_tegumentario_piel",
+    "keywords": [
+      "piel",
+      "mito",
+      "creencia",
+      "cuidado",
+      "funcion"
+    ],
+    "base_response": "Muchos mitos sobre la piel confunden su funcionamiento real. La piel no respira aire, no elimina toxinas por sí sola y no cambia color por emociones mágicas. Comprender estos errores permite cuidar mejor el sistema tegumentario."
+  },
+  {
+    "intent_id": "sistema_linfatico_importancia_social",
+    "keywords": [
+      "sistema",
+      "linfa",
+      "salud",
+      "defensa",
+      "equilibrio"
+    ],
+    "base_response": "El sistema linfático de fluidos sostiene la salud comunitaria al defender el cuerpo contra infecciones y mantener equilibrio interno. Su buen funcionamiento reduce enfermedades, favorece bienestar colectivo y promueve hábitos responsables que fortalecen la convivencia y la participación activa en entornos escolares y familiares."
+  },
+  {
+    "intent_id": "sistema_linfatico_ventajas_desventajas",
+    "keywords": [
+      "sistema",
+      "linfa",
+      "transporte",
+      "defensa",
+      "drenaje"
+    ],
+    "base_response": "El sistema linfático de fluidos presenta ventajas como transporte eficiente de defensas y drenaje equilibrado, pero también desventajas comparativas por su lentitud relativa y vulnerabilidad a bloqueos. Comprender estas diferencias ayuda a evaluar su papel vital en la protección corporal."
+  },
+  {
+    "intent_id": "sistema_linfatico_riesgos_seguridad",
+    "keywords": [
+      "sistema",
+      "linfa",
+      "riesgo",
+      "manejo",
+      "proteccion"
+    ],
+    "base_response": "Comprender los riesgos del sistema linfático exige evitar golpes fuertes, infecciones y presión excesiva en zonas ganglionares. Mantener higiene adecuada, usar protección en actividades físicas y reportar inflamaciones ayuda a prevenir daños. Estas medidas fortalecen la seguridad corporal y reducen complicaciones."
+  },
+  {
+    "intent_id": "piel_dinamica_fisica_sistema_tegumentario",
+    "keywords": [
+      "piel",
+      "sudor",
+      "temperatura",
+      "vasos",
+      "epidermis"
+    ],
+    "base_response": "La piel regula la temperatura corporal mediante la producción y liberación de sudor, la dilatación o constricción de vasos sanguíneos y la textura de la epidermis. Estas respuestas físicas equilibran el calor, manteniendo el organismo estable durante actividades cotidianas."
+  },
+  {
+    "intent_id": "sistema_tegumentario_mantenimiento_prevencion",
+    "keywords": [
+      "piel",
+      "cuidado",
+      "higiene",
+      "proteccion",
+      "regeneracion"
+    ],
+    "base_response": "El sistema tegumentario requiere hábitos constantes de higiene, hidratación y protección solar para mantener su función defensiva. La piel se fortalece evitando lesiones, controlando infecciones y favoreciendo la regeneración celular mediante prácticas preventivas que aseguran estabilidad y salud estructural continua."
+  },
+  {
+    "intent_id": "sistema_linfatico_calculos_formulas",
+    "keywords": [
+      "calculo",
+      "formula",
+      "flujo",
+      "volumen",
+      "presion"
+    ],
+    "base_response": "Los cálculos del sistema linfático permiten estimar volumen de linfa, velocidad de flujo y presión interna. Usar fórmulas simples como flujo igual a volumen dividido por tiempo ayuda a comprender cómo se mueve el fluido y mantiene equilibrio corporal."
+  },
+  {
+    "intent_id": "sistema_tegumentario_impacto_ambiental",
+    "keywords": [
+      "piel",
+      "impacto",
+      "ambiente",
+      "contaminacion",
+      "recursos"
+    ],
+    "base_response": "El sistema tegumentario influye en el ambiente mediante procesos que requieren recursos naturales y generan residuos. La piel actúa como barrera protectora, pero su cuidado implica productos químicos que pueden contaminar agua y suelo si no se gestionan adecuadamente."
+  },
+  {
+    "intent_id": "sistema_linfatico_clasificacion_taxonomica",
+    "keywords": [
+      "linfa",
+      "celula",
+      "clasificacion",
+      "organismo",
+      "fluido"
+    ],
+    "base_response": "La clasificación taxonómica del sistema linfático de fluidos ubica sus componentes celulares dentro de grupos biológicos definidos. Linfocitos, macrófagos y células dendríticas se organizan según rasgos estructurales compartidos, facilitando comprensión científica ordenada y coherente para estudiar funciones inmunológicas esenciales."
+  },
+  {
+    "intent_id": "sistema_linfatico_experimentos_escolares",
+    "keywords": [
+      "fluido",
+      "sistema",
+      "linfa",
+      "experimento",
+      "demostracion"
+    ],
+    "base_response": "Realiza una demostración escolar usando agua coloreada para simular el movimiento de la linfa. Observa cómo fluye por tubos transparentes representando vasos linfáticos. Explica que este sistema transporta fluidos, filtra impurezas y apoya defensas corporales mediante circulación constante."
+  },
+  {
+    "intent_id": "sistema_linfatico_consecuencias_largo_plazo",
+    "keywords": [
+      "fluido",
+      "linfa",
+      "consecuencia",
+      "infeccion",
+      "crecimiento"
+    ],
+    "base_response": "Un desequilibrio prolongado en el sistema linfático puede generar acumulación crónica de fluidos, debilitamiento inmunológico y mayor susceptibilidad a infecciones. Con el tiempo, estos efectos afectan crecimiento, energía y recuperación, comprometiendo la capacidad del cuerpo para mantener estabilidad fisiológica."
+  },
+  {
+    "intent_id": "sistema_linfatico_errores_fallas",
+    "keywords": [
+      "linfa",
+      "bloqueo",
+      "infeccion",
+      "tumor",
+      "hinchazon"
+    ],
+    "base_response": "El sistema linfático puede presentar fallas cuando los vasos se bloquean, causando acumulación de líquido y hinchazón. Infecciones frecuentes surgen si los ganglios no filtran adecuadamente. Tumores linfáticos alteran el flujo y debilitan defensas, generando síntomas persistentes."
+  },
+  {
+    "intent_id": "mitos_sistema_oeso_educativo",
+    "keywords": [
+      "esqueleto",
+      "hueso",
+      "crecer",
+      "remodelar",
+      "actividad",
+      "hormona"
+    ],
+    "base_response": "El esqueleto no crece sin fin; los huesos se regeneran y remodelan. Muchos creen que después de la infancia se detiene, pero la cintura, la columna y los huesos largos siguen cambiando por actividad física, alimentación y hormonas. Así mantiene fuerza y flexibilidad."
+  },
+  {
+    "intent_id": "sistema_muscular_movimiento_estructura",
+    "keywords": [
+      "musculo",
+      "fibra",
+      "tejido",
+      "contraccion",
+      "movimiento"
+    ],
+    "base_response": "El sistema muscular de movimiento está formado por fibras organizadas en tejidos capaces de contraerse. Cada músculo posee una estructura definida que incluye fibras, tendones y capas protectoras. Esta organización permite generar fuerza y coordinar acciones corporales precisas mediante activación controlada."
+  },
+  {
+    "intent_id": "musculo_evolucion_historia",
+    "keywords": [
+      "musculo",
+      "evolucion",
+      "origen",
+      "vertebrados",
+      "contraccion"
+    ],
+    "base_response": "Los músculos tienen origen en la evolución de organismos unicelulares que desarrollaron fibras contráctiles. A medida que los vertebrados crecieron, surgieron músculos esqueléticos, cardíacos y lisos, permitiendo desplazamientos, funciones vitales y postura estable; evolución al siglo XXI."
+  },
+  {
+    "intent_id": "sistema_muscular_contexto_ecologico",
+    "keywords": [
+      "musculo",
+      "movimiento",
+      "entorno",
+      "energia",
+      "adaptacion"
+    ],
+    "base_response": "El sistema muscular interactúa con el entorno ecológico ajustando fuerza y coordinación según temperatura, terreno y disponibilidad de energía. Sus respuestas permiten movimientos eficientes que reducen desgaste corporal y favorecen la supervivencia en ambientes cambiantes y desafiantes."
+  },
+  {
+    "intent_id": "sistema_muscular_importancia_social",
+    "keywords": [
+      "musculo",
+      "movimiento",
+      "impacto",
+      "salud",
+      "comunidad"
+    ],
+    "base_response": "El sistema muscular de movimiento sostiene actividades esenciales que fortalecen la vida comunitaria. Su funcionamiento permite desplazarse, colaborar y participar en tareas colectivas. Comprender su importancia promueve hábitos saludables, previene lesiones y favorece la inclusión en deportes y actividades escolares."
+  },
+  {
+    "intent_id": "sistema_muscular_movimiento_errores",
+    "keywords": [
+      "musculo",
+      "movimiento",
+      "lesion",
+      "calambre",
+      "espasmo"
+    ],
+    "base_response": "El sistema muscular puede presentar errores cuando las fibras se lesionan, generando debilidad y dolor. Las fallas incluyen calambres por esfuerzo excesivo y descoordinación motora. Las patologías comunes abarcan distensiones, tendinitis y espasmos que limitan el movimiento eficiente."
+  },
+  {
+    "intent_id": "impacto_ambiental_sistema_oseo",
+    "keywords": [
+      "esqueleto",
+      "hueso",
+      "impacto",
+      "ambiente",
+      "degradacion"
+    ],
+    "base_response": "El estudio del sistema óseo permite comprender cómo la degradación ambiental afecta la salud estructural del cuerpo. Contaminantes y deficiencias nutricionales derivadas de ecosistemas dañados pueden debilitar huesos, alterar su crecimiento y reducir su capacidad de regeneración, comprometiendo funciones esenciales."
+  },
+  {
+    "intent_id": "sistema_muscular_relacion_simbiotica",
+    "keywords": [
+      "musculo",
+      "sistema",
+      "movimiento",
+      "relacion",
+      "cooperacion"
+    ],
+    "base_response": "El sistema muscular coopera estrechamente con sistemas óseo, nervioso y circulatorio para sostener movimiento coordinado. Sus fibras reciben señales nerviosas, obtienen oxígeno sanguíneo y dependen del esqueleto para anclaje, creando una relación simbiótica que mantiene estabilidad y eficiencia corporal."
+  },
+  {
+    "intent_id": "sistema_muscular_ventajas_desventajas",
+    "keywords": [
+      "musculo",
+      "movimiento",
+      "fuerza",
+      "velocidad",
+      "coordinacion"
+    ],
+    "base_response": "El sistema muscular de movimiento ofrece ventajas como fuerza, velocidad y coordinación, permitiendo actividades variadas y adaptaciones. Sin embargo, su alta demanda energética y susceptibilidad a lesiones, junto con la fatiga crónica, convierten la práctica intensiva en un riesgo de sobrecarga."
+  },
+  {
+    "intent_id": "sistema_muscular_proyecciones_tecnologicas",
+    "keywords": [
+      "musculo",
+      "tecnologia",
+      "sensor",
+      "algoritmo",
+      "robot"
+    ],
+    "base_response": "Las futuras tecnologías del sistema muscular integrarán sensores avanzados, materiales inteligentes y robots asistivos que ampliarán el movimiento humano. Estas innovaciones permitirán monitorear fuerza, prevenir lesiones y mejorar la movilidad mediante dispositivos adaptativos controlados por algoritmos precisos."
+  },
+  {
+    "intent_id": "sistema_circulatorio_dinamica_funcionamiento",
+    "keywords": [
+      "sangre",
+      "corazon",
+      "flujo",
+      "transporte",
+      "oxigeno"
+    ],
+    "base_response": "El sistema circulatorio mueve sangre mediante impulsos generados por el corazón, creando presión que empuja el flujo por vasos resistentes. Esta dinámica permite transportar oxígeno y nutrientes, mantener temperatura estable y retirar desechos, asegurando equilibrio funcional en todo el cuerpo."
+  },
+  {
+    "intent_id": "mitos_mecanismo_muscular_movimiento",
+    "keywords": [
+      "musculo",
+      "mover",
+      "contraccion",
+      "fuerza",
+      "entrenamiento"
+    ],
+    "base_response": "El mito de que el músculo crece únicamente con levantamiento intenso es falso; la síntesis proteica necesita descanso adecuado y alimentación equilibrada. El exceso de ejercicio provoca fatiga y lesiones. Variar los tipos de contracciones fortalece tendones y reduce desequilibrios sin sobrecargar el volumen."
+  },
+  {
+    "intent_id": "sistema_circulatorio_propiedades_materiales",
+    "keywords": [
+      "sangre",
+      "plasma",
+      "celulas",
+      "transporte",
+      "reaccion"
+    ],
+    "base_response": "La sangre presenta propiedades químicas esenciales que permiten transportar oxígeno, nutrientes y desechos. Su plasma contiene agua y proteínas que facilitan reacciones vitales. Las células sanguíneas poseen estructuras específicas que mantienen estabilidad, permiten intercambio molecular y aseguran funcionamiento eficiente del sistema circulatorio."
+  },
+  {
+    "intent_id": "sistema_muscular_clasificacion_taxonomica",
+    "keywords": [
+      "musculo",
+      "clasificacion",
+      "movimiento",
+      "estructura",
+      "funcion"
+    ],
+    "base_response": "La clasificación taxonómica del sistema muscular de movimiento organiza los músculos según su estructura, función y origen evolutivo. Esta clasificación permite comprender cómo distintos grupos musculares se relacionan entre sí y cómo contribuyen coordinadamente al desplazamiento eficiente del cuerpo humano."
+  },
+  {
+    "intent_id": "sistema_muscular_experimentos_escolares",
+    "keywords": [
+      "musculo",
+      "contraccion",
+      "fuerza",
+      "movimiento",
+      "demostracion"
+    ],
+    "base_response": "Los experimentos escolares sobre el sistema muscular de movimiento permiten observar cómo los músculos generan fuerza al contraerse. Mediante demostraciones con bandas elásticas y modelos simples, los estudiantes comprenden la relación entre contracción, palancas corporales y coordinación motora en acciones cotidianas."
+  },
+  {
+    "intent_id": "sistema_muscular_calculos_formulas",
+    "keywords": [
+      "musculo",
+      "calculo",
+      "fuerza",
+      "velocidad",
+      "trabajo"
+    ],
+    "base_response": "El sistema muscular de movimiento utiliza cálculos para estimar fuerza generada, velocidad de contracción y trabajo mecánico. Aplicar fórmulas como fuerza igual a masa por aceleración permite comprender cómo los músculos producen desplazamientos eficientes y seguros durante actividades físicas variadas."
+  },
+  {
+    "intent_id": "sistema_circulatorio_riesgos_seguridad",
+    "keywords": [
+      "sangre",
+      "circulacion",
+      "riesgo",
+      "cuidado",
+      "prevencion"
+    ],
+    "base_response": "Comprender el sistema circulatorio exige reconocer riesgos como heridas profundas, infecciones y pérdida excesiva de sangre. Mantén higiene rigurosa, evita objetos punzantes sin supervisión y actúa con calma ante emergencias. Estas medidas protegen la integridad corporal y reducen complicaciones graves."
+  },
+  {
+    "intent_id": "sistema_circulatorio_mantenimiento_prevencion",
+    "keywords": [
+      "sangre",
+      "circulacion",
+      "cuidado",
+      "ejercicio",
+      "prevencion"
+    ],
+    "base_response": "El sistema circulatorio requiere hábitos constantes que protejan vasos y corazón. Mantener actividad física regular, hidratación adecuada y alimentación equilibrada fortalece la circulación. Evitar sustancias dañinas y controlar estrés previene daños, asegurando transporte eficiente de sangre y oxígeno."
+  },
+  {
+    "intent_id": "sistema_circulatorio_patologias_comunes",
+    "keywords": [
+      "sangre",
+      "estenosis",
+      "hipertension",
+      "fallo",
+      "insuficiencia"
+    ],
+    "base_response": "El sistema circulatorio suele enfrentar fallos por estenosis arterial, hipertensión que aumenta la carga sobre el corazón, insuficiencia cardíaca que impide la presión adecuada y entumecimiento que resulta de bloqueos arteriales, afectando así la distribución de sangre."
+  },
+  {
+    "intent_id": "sistema_circulatorio_tecnologia_futura",
+    "keywords": [
+      "tecnologia",
+      "sensores",
+      "nanorobots",
+      "modelos",
+      "sangre"
+    ],
+    "base_response": "Las futuras tecnologías del sistema circulatorio integrarán sensores biológicos avanzados, nanorobots capaces de reparar tejidos y modelos predictivos que anticipen riesgos. Estas innovaciones permitirán monitorear la sangre en tiempo real y optimizar tratamientos personalizados con alta precisión."
+  },
+  {
+    "intent_id": "aplicaciones_sistema_circulatorio",
+    "keywords": [
+      "sangre",
+      "circulacion",
+      "transporte",
+      "oxigeno",
+      "salud"
+    ],
+    "base_response": "El sistema circulatorio permite aplicar conocimientos para cuidar la salud diaria. Comprender el transporte de sangre y oxígeno ayuda a regular actividad física, detectar señales de fatiga y adoptar hábitos que mantienen órganos funcionando correctamente mediante decisiones informadas."
+  },
+  {
+    "intent_id": "sistema_circulatorio_calculos_formulas",
+    "keywords": [
+      "sistema",
+      "calculo",
+      "flujo",
+      "presion",
+      "volumen"
+    ],
+    "base_response": "El sistema circulatorio utiliza cálculos para estimar volumen sanguíneo, velocidad de flujo y presión arterial. Estas magnitudes permiten comprender cómo la sangre se desplaza por vasos y órganos. Aplicar fórmulas básicas facilita analizar variaciones fisiológicas y detectar posibles alteraciones funcionales."
+  },
+  {
+    "intent_id": "sistema_circulatorio_mitos_concepciones",
+    "keywords": [
+      "sangre",
+      "circulacion",
+      "mito",
+      "percepcion",
+      "vena"
+    ],
+    "base_response": "Muchos estudiantes creen que la sangre es totalmente roja y circula siempre igual, pero su color y velocidad cambian según oxigenación y necesidades corporales. También es falso que las venas transporten sangre azul; la piel altera la percepción visual."
+  },
+  {
+    "intent_id": "sistema_respiratorio_oxigeno_comparativas",
+    "keywords": [
+      "oxigeno",
+      "intercambio",
+      "respiracion",
+      "ventaja",
+      "desventaja"
+    ],
+    "base_response": "El sistema respiratorio basado en oxígeno ofrece alta eficiencia energética y permite actividades prolongadas. Sin embargo, depende de un suministro constante y puede fallar ante contaminación o enfermedades. Comparar estas condiciones ayuda a comprender su fortaleza y vulnerabilidad en distintos entornos."
+  },
+  {
+    "intent_id": "sistema_circulatorio_impacto_ambiental",
+    "keywords": [
+      "sangre",
+      "circulacion",
+      "contaminacion",
+      "ecosistema",
+      "impacto"
+    ],
+    "base_response": "El sistema circulatorio depende de ambientes saludables para mantener la calidad de la sangre. La contaminación del aire y del agua introduce sustancias dañinas que pueden alterar funciones vitales. Proteger ecosistemas reduce riesgos fisiológicos y favorece un flujo sanguíneo estable en organismos vivos."
+  },
+  {
+    "intent_id": "sistema_respiratorio_calculos_oxigeno",
+    "keywords": [
+      "oxigeno",
+      "respiracion",
+      "volumen",
+      "intercambio",
+      "calculo"
+    ],
+    "base_response": "El sistema respiratorio usa cálculos para estimar cuánto oxígeno ingresa y se aprovecha. Se emplea volumen corriente, frecuencia respiratoria y capacidad pulmonar para obtener el flujo total de aire. Estas fórmulas permiten comprender eficiencia y detectar variaciones en la función respiratoria."
+  },
+  {
+    "intent_id": "sistema_respiratorio_oxigeno_anatomia",
+    "keywords": [
+      "sistema",
+      "respiracion",
+      "organo",
+      "intercambio",
+      "oxigeno"
+    ],
+    "base_response": "El sistema respiratorio de oxígeno comprende estructuras especializadas que permiten la entrada y conducción del aire hacia los pulmones. Incluye fosas nasales, tráquea, bronquios y alvéolos, organizados para facilitar el intercambio gaseoso esencial para mantener funciones vitales del organismo."
+  },
+  {
+    "intent_id": "oxigeno_dissolucion_alveolar",
+    "keywords": [
+      "oxigeno",
+      "disolver",
+      "hemoglobina",
+      "oxidacion",
+      "energia",
+      "metabolizacion"
+    ],
+    "base_response": "El oxígeno se disuelve en el líquido alveolar, atraviesa la membrana y se une a la hemoglobina dentro de los glóbulos rojos; al hacer reacciones químicas de oxidación, se libera energía que impulsa la metabolización celular."
+  },
+  {
+    "intent_id": "sistema_respiratorio_errores_patologias",
+    "keywords": [
+      "respiracion",
+      "oxigeno",
+      "falla",
+      "hipoxia",
+      "patologia"
+    ],
+    "base_response": "El sistema respiratorio puede presentar errores cuando el oxígeno no ingresa adecuadamente, generando fallas como hipoxia. Patologías comunes incluyen asma, bronquitis y neumonía, que dificultan el intercambio gaseoso y reducen la eficiencia pulmonar, afectando funciones vitales del organismo."
+  },
+  {
+    "intent_id": "sistema_respiratorio_experimentos",
+    "keywords": [
+      "respiracion",
+      "oxigeno",
+      "experimento",
+      "modelo",
+      "intercambio",
+      "energia"
+    ],
+    "base_response": "En experimentos escolares el sistema respiratorio de oxígeno se comprende observando cómo el aire ingresa circula y permite liberar energía. Mediante modelos simples los estudiantes visualizan el intercambio gaseoso y relacionan la función pulmonar con actividades físicas controladas."
+  },
+  {
+    "intent_id": "primers_vertebrados_evolucion_pulmones",
+    "keywords": [
+      "reto",
+      "pulmon",
+      "historia",
+      "fosil",
+      "carbono",
+      "oxigeno"
+    ],
+    "base_response": "Los primeros vertebrados que surgieron en la superficie desarrollaron pulmones que extraían oxígeno del aire; a lo largo de millones de años, estos pulmones se expandieron, cambiando la relación entre carbono y vida, tal como lo indican los fósiles."
+  },
+  {
+    "intent_id": "sistema_respiratorio_transformacion_energetica",
+    "keywords": [
+      "oxigeno",
+      "respiracion",
+      "energia",
+      "celula",
+      "intercambio"
+    ],
+    "base_response": "El sistema respiratorio aporta oxígeno que las células transforman en energía mediante procesos químicos cíclicos. Este oxígeno permite liberar energía útil y sostener funciones vitales. Sin este intercambio continuo, los ciclos energéticos celulares se detendrían y el organismo perdería capacidad funcional."
+  },
+  {
+    "intent_id": "sistema_digestivo_historia_origen",
+    "keywords": [
+      "historia",
+      "origen",
+      "evolucion",
+      "digestion",
+      "organismo"
+    ],
+    "base_response": "El sistema digestivo de alimentos surgió con organismos primitivos que necesitaban descomponer materia para obtener energía. Evolucionó desde cavidades simples hasta estructuras especializadas, permitiendo mayor eficiencia y diversidad alimentaria. Su historia refleja adaptación continua ante cambios ambientales."
+  },
+  {
+    "intent_id": "sistema_respiratorio_consecuencias_largo_plazo",
+    "keywords": [
+      "respiracion",
+      "oxigeno",
+      "tejido",
+      "intercambio",
+      "pulmon"
+    ],
+    "base_response": "Las alteraciones prolongadas en el sistema respiratorio de oxígeno pueden reducir la eficiencia pulmonar, afectar el intercambio gaseoso y debilitar tejidos. Con el tiempo, estas consecuencias dificultan la actividad física, incrementan la fatiga y elevan el riesgo de enfermedades respiratorias crónicas."
+  },
+  {
+    "intent_id": "impacto_oxigeno_sistema_respiratorio",
+    "keywords": [
+      "oxigeno",
+      "pulmones",
+      "contaminacion",
+      "energia",
+      "carbono",
+      "reciclaje"
+    ],
+    "base_response": "Cada inhalación del sistema respiratorio absorbe oxígeno, la molécula vital que alimenta a los seres vivos mediante reacciones oxidativas que liberan energía y expulsan dióxido de carbono, afectando el equilibrio atmosférico y probando la capacidad del planeta para regular gases de efecto invernadero."
+  },
+  {
+    "intent_id": "sistema_respiratorio_proyecciones_tecnologia",
+    "keywords": [
+      "oxigeno",
+      "sensor",
+      "tecnologia",
+      "monitoreo",
+      "respiracion"
+    ],
+    "base_response": "Las futuras tecnologías respiratorias integrarán sensores inteligentes capaces de medir oxígeno en tiempo real, optimizando inhalación y protección ambiental. Sistemas portátiles avanzados permitirán monitorear funciones pulmonares, anticipar riesgos y mejorar salud mediante análisis predictivos basados en datos biológicos."
+  },
+  {
+    "intent_id": "sistema_digestivo_estructural_anatomico",
+    "keywords": [
+      "organos",
+      "estructura",
+      "digestion",
+      "alimento",
+      "proceso"
+    ],
+    "base_response": "El sistema digestivo de alimentos es una estructura corporal formada por órganos conectados que transforman y desplazan sustancias ingeridas. Incluye boca, esófago, estómago e intestinos, cada uno con forma y tejido específicos que permiten procesar físicamente los alimentos."
+  },
+  {
+    "intent_id": "sistema_digestivo_dinamica_funcionamiento",
+    "keywords": [
+      "alimentos",
+      "digestion",
+      "movimiento",
+      "mezcla",
+      "absorcion"
+    ],
+    "base_response": "El sistema digestivo transforma alimentos mediante movimientos coordinados que los descomponen físicamente. La boca tritura, el estómago mezcla y el intestino impulsa. Esta dinámica asegura que cada fase avance con fuerza controlada, permitiendo la absorción eficiente de nutrientes esenciales."
+  },
+  {
+    "intent_id": "sistema_digestivo_proyecciones_futuras",
+    "keywords": [
+      "tecnologia",
+      "sensores",
+      "alimentos",
+      "metabolismo",
+      "proyeccion"
+    ],
+    "base_response": "Las futuras tecnologías del sistema digestivo permitirán monitorear en tiempo real la descomposición de alimentos mediante sensores internos avanzados. Estos dispositivos proyectarán datos precisos sobre absorción y metabolismo, facilitando intervenciones rápidas y personalizadas para mejorar salud nutrición y rendimiento corporal."
+  },
+  {
+    "intent_id": "sistema_nervioso_control_propiedades",
+    "keywords": [
+      "neuronas",
+      "neurotransmisores",
+      "senales",
+      "comunicacion",
+      "materiales"
+    ],
+    "base_response": "El sistema nervioso de control utiliza sustancias químicas especializadas que permiten transmitir señales entre neuronas. Estas moléculas llamadas neurotransmisores poseen propiedades materiales precisas que regulan velocidad intensidad y dirección de la comunicación asegurando respuestas corporales coordinadas y eficientes."
+  },
+  {
+    "intent_id": "digestivo_chem_propiedades",
+    "keywords": [
+      "energia",
+      "digesta",
+      "descomponer",
+      "agua",
+      "enzima"
+    ],
+    "base_response": "El sistema digestivo descompone alimentos mediante sustancias químicas que separan glucosa, lípidos y proteínas para su absorción. Las enzimas, ácidos y enzimas gastan energía, transforman moléculas y generan agua y dióxido, facilitando la absorción de nutrientes esenciales."
+  },
+  {
+    "intent_id": "sistema_nervioso_control_calculos",
+    "keywords": [
+      "sistema",
+      "nervio",
+      "calculo",
+      "impulso",
+      "formula"
+    ],
+    "base_response": "El sistema nervioso de control puede analizar señales mediante estimaciones numéricas que describen velocidad de transmisión, frecuencia de impulsos y tiempos de respuesta. Estas fórmulas permiten comprender cómo se coordinan acciones rápidas usando cálculos precisos que representan procesos eléctricos internos."
+  },
+  {
+    "intent_id": "sistema_nervioso_control_anatomico",
+    "keywords": [
+      "neurona",
+      "cerebro",
+      "medula",
+      "nervio",
+      "control"
+    ],
+    "base_response": "El sistema nervioso de control se compone de redes neuronales organizadas que conectan cerebro, médula espinal y nervios periféricos. Sus estructuras coordinan señales eléctricas para dirigir funciones corporales esenciales mediante circuitos especializados que permiten comunicación rápida y precisa entre órganos."
+  },
+  {
+    "intent_id": "sistema_nervioso_control_energia",
+    "keywords": [
+      "energia",
+      "ciclo",
+      "senal",
+      "organismo",
+      "regulacion"
+    ],
+    "base_response": "El sistema nervioso de control dirige la transformación energética corporal mediante señales que ajustan ciclos internos. Coordina cuándo activar o frenar procesos que consumen o liberan energía, asegurando equilibrio funcional. Esta regulación permite respuestas rápidas y mantiene estabilidad vital continua."
+  },
+  {
+    "intent_id": "sistema_nervioso_control_contexto_ecologico",
+    "keywords": [
+      "sistema",
+      "entorno",
+      "control",
+      "respuesta",
+      "adaptacion"
+    ],
+    "base_response": "El sistema nervioso de control interactúa con el entorno ecológico detectando cambios ambientales y ajustando respuestas corporales. Esta relación permite adaptaciones rápidas que mantienen equilibrio interno. Factores como temperatura, luz y presencia de depredadores influyen directamente en sus funciones reguladoras."
+  },
+  {
+    "intent_id": "sistema_nervioso_control_errores_fallas",
+    "keywords": [
+      "neurona",
+      "senal",
+      "fallo",
+      "lesion",
+      "coordinacion"
+    ],
+    "base_response": "El sistema nervioso puede presentar fallas cuando las neuronas no transmiten señales correctamente. Estos errores generan movimientos involuntarios, pérdida de sensibilidad o dificultades de coordinación. Algunas patologías surgen por lesiones, infecciones o desequilibrios químicos que alteran la comunicación interna del organismo."
+  },
+  {
+    "intent_id": "sistema_nervioso_control_historia",
+    "keywords": [
+      "sistema",
+      "nervio",
+      "evolucion",
+      "control",
+      "organismo"
+    ],
+    "base_response": "A lo largo de la historia, el concepto de sistema nervioso de control surgió al estudiar cómo los organismos coordinan respuestas. Su origen se relaciona con observaciones tempranas sobre impulsos y reflejos. Evolucionó mediante descubrimientos que revelaron redes neuronales especializadas regulando funciones vitales."
+  },
+  {
+    "intent_id": "sistema_inmunologico_historia_origen",
+    "keywords": [
+      "sistema",
+      "defensa",
+      "evolucion",
+      "organismo",
+      "respuesta"
+    ],
+    "base_response": "El sistema inmunológico surgió como una adaptación temprana en organismos primitivos, evolucionando desde defensas celulares simples hasta complejas redes coordinadas. Su historia muestra cómo diversas especies desarrollaron mecanismos especializados para reconocer amenazas, proteger tejidos y asegurar supervivencia mediante respuestas cada vez más eficientes."
+  },
+  {
+    "intent_id": "sistema_nervioso_control_clasificacion",
+    "keywords": [
+      "sistema",
+      "nervio",
+      "control",
+      "clasificacion",
+      "taxonomia"
+    ],
+    "base_response": "La clasificación taxonómica del sistema nervioso de control organiza los seres vivos según estructuras nerviosas compartidas. Esta clasificación permite comparar cómo distintos grupos animales procesan señales, coordinan respuestas y mantienen funciones vitales mediante redes neuronales especializadas."
+  },
+  {
+    "intent_id": "sistema_inmunologico_importancia_social",
+    "keywords": [
+      "sistema",
+      "defensa",
+      "salud",
+      "comunidad",
+      "prevencion"
+    ],
+    "base_response": "El sistema inmunológico influye en la salud colectiva al reducir contagios y fortalecer comunidades. Su buen funcionamiento permite prevenir brotes, proteger grupos vulnerables y mantener actividades sociales seguras. Comprenderlo impulsa responsabilidad compartida y promueve hábitos que sostienen bienestar comunitario sostenible."
+  },
+  {
+    "intent_id": "riesgos_medidas_sistema_nervioso_control",
+    "keywords": [
+      "riesgo",
+      "seguridad",
+      "nervio",
+      "control",
+      "proteccion"
+    ],
+    "base_response": "Al estudiar el sistema nervioso de control, se identifican riesgos como interferencias eléctricas y quemaduras; las medidas de seguridad incluyen usar guantes aislantes, revisar dispositivos apagados y mantener zonas libres de agua para evitar descargas."
+  },
+  {
+    "intent_id": "sistema_inmunologico_relacion_simbiotica",
+    "keywords": [
+      "sistema",
+      "defensa",
+      "organismo",
+      "interaccion",
+      "equilibrio"
+    ],
+    "base_response": "El sistema inmunológico coopera con otros sistemas para mantener equilibrio vital. Coordina señales con el sistema nervioso, apoya limpieza interna mediante el sistema linfático y trabaja junto al sistema circulatorio para transportar células defensivas que protegen tejidos y favorecen funciones esenciales del organismo."
+  },
+  {
+    "intent_id": "sistema_inmunologico_proyecciones_tecnologicas",
+    "keywords": [
+      "inmunidad",
+      "tecnologia",
+      "defensa",
+      "celulas",
+      "innovacion"
+    ],
+    "base_response": "El sistema inmunológico incorporará tecnologías capaces de detectar amenazas con precisión avanzada. Sensores biológicos y nanodispositivos permitirán respuestas más rápidas y personalizadas. Estas innovaciones facilitarán vigilancia continua, fortaleciendo defensas internas y anticipando riesgos mediante análisis predictivos que optimizan la protección del organismo."
+  },
+  {
+    "intent_id": "sistema_endocrino_hormonas_estructura",
+    "keywords": [
+      "hormona",
+      "glandula",
+      "tejido",
+      "secrecion",
+      "organismo"
+    ],
+    "base_response": "El sistema endocrino se compone de glándulas distribuidas en distintas zonas corporales que producen hormonas. Cada glándula posee estructuras especializadas capaces de liberar sustancias reguladoras directamente al torrente sanguíneo, permitiendo comunicación interna precisa entre tejidos y órganos del cuerpo humano."
+  },
+  {
+    "intent_id": "sistema_inmunologico_fallas_patologias",
+    "keywords": [
+      "inmunidad",
+      "celulas",
+      "infeccion",
+      "fallo",
+      "enfermedad"
+    ],
+    "base_response": "El sistema inmunológico puede fallar cuando sus células no reconocen amenazas reales o atacan tejidos propios. Estas fallas generan alergias, autoinmunidad o inmunodeficiencias, permitiendo infecciones frecuentes. Comprender estos errores ayuda a detectar señales tempranas y buscar atención adecuada."
+  },
+  {
+    "intent_id": "sistema_endocrino_historia_evolucion",
+    "keywords": [
+      "hormona",
+      "glandula",
+      "evolucion",
+      "organismo",
+      "secrecion"
+    ],
+    "base_response": "El estudio del sistema endocrino surgió al observar cómo ciertas sustancias internas influían en funciones corporales. Con el tiempo, científicos identificaron glándulas productoras de hormonas y comprendieron su evolución como mecanismo regulador esencial, permitiendo respuestas adaptativas que mejoraron la supervivencia de los organismos."
+  },
+  {
+    "intent_id": "sistema_inmunologico_ciclos_energeticos",
+    "keywords": [
+      "energia",
+      "defensa",
+      "celulas",
+      "metabolismo",
+      "transformacion"
+    ],
+    "base_response": "El sistema inmunológico utiliza energía para activar células defensivas que transforman recursos internos en respuestas protectoras. Cada ciclo energético sostiene procesos metabólicos que permiten identificar amenazas, generar anticuerpos y mantener vigilancia constante, garantizando equilibrio funcional y resistencia frente a agentes dañinos."
+  },
+  {
+    "intent_id": "sistema_endocrino_hormonas_dinamica",
+    "keywords": [
+      "hormonas",
+      "secrecion",
+      "flujo",
+      "efecto",
+      "regulacion"
+    ],
+    "base_response": "El sistema endocrino libera hormonas que viajan por la sangre y actuan en organos especificos, iniciando una cascada de respuestas. Los efectos dependen del tipo de celula receptora y del momento, permitiendo ajustar temperatura, energia y crecimiento con precision regulada."
+  },
+  {
+    "intent_id": "sistema_inmunologico_experimentos_escolares",
+    "keywords": [
+      "experimento",
+      "defensa",
+      "celula",
+      "patogeno",
+      "reaccion"
+    ],
+    "base_response": "Los experimentos escolares sobre el sistema inmunológico permiten observar cómo barreras y células defensivas reaccionan ante agentes simulados. Mediante modelos simples, los estudiantes comprenden respuestas inflamatorias, reconocimiento de patógenos y coordinación celular, fortaleciendo comprensión práctica del funcionamiento inmunitario."
+  },
+  {
+    "intent_id": "sistema_endocrino_calculos_hormonales",
+    "keywords": [
+      "hormona",
+      "calculo",
+      "formula",
+      "concentracion",
+      "liberacion"
+    ],
+    "base_response": "El sistema endocrino usa concentraciones hormonales que pueden estimarse mediante formulas simples. La tasa de liberación se calcula dividiendo cantidad secretada entre tiempo. La vida media hormonal se obtiene aplicando proporciones que muestran cuánto permanece activa una hormona en sangre."
+  },
+  {
+    "intent_id": "sistema_inmunologico_calculos_formulas",
+    "keywords": [
+      "sistema",
+      "inmunologico",
+      "calculo",
+      "formula",
+      "defensa"
+    ],
+    "base_response": "El sistema inmunológico usa cálculos para valorar la eficacia de las defensas. Se compara el número de anticuerpos creados con el número de patógenos invadidos, derivando fórmulas simples: cociente = anticuerpos/patógenos, y umbral de protección cuando >1."
+  },
+  {
+    "intent_id": "endocrine_importancia_impacto_social",
+    "keywords": [
+      "hormona",
+      "sistema",
+      "impacto",
+      "salud",
+      "comunidad"
+    ],
+    "base_response": "El sistema endocrino influye en conductas, crecimiento y bienestar colectivo mediante hormonas que regulan funciones esenciales. Comprender su impacto permite decisiones saludables, previene riesgos y fomenta entornos responsables donde la comunidad reconoce la importancia de equilibrar hábitos, emociones y desarrollo integral."
+  },
+  {
+    "intent_id": "sistema_endocrino_tecnologia_futura",
+    "keywords": [
+      "hormonas",
+      "sensores",
+      "tecnologia",
+      "diagnostico",
+      "prediccion"
+    ],
+    "base_response": "Las futuras tecnologías permitirán estudiar hormonas con sensores avanzados que detectan cambios rápidos en el cuerpo. Sistemas digitales modelarán respuestas endocrinas y ayudarán a predecir desequilibrios. Estas innovaciones facilitarán diagnósticos tempranos y comprensión profunda del funcionamiento hormonal."
+  },
+  {
+    "intent_id": "sistema_endocrino_ventajas_desventajas",
+    "keywords": [
+      "hormona",
+      "glandula",
+      "senal",
+      "regulacion",
+      "equilibrio"
+    ],
+    "base_response": "El sistema endocrino ofrece ventajas como control prolongado y coordinación interna precisa, pero presenta desventajas como respuestas más lentas y posibles desequilibrios hormonales. Estas diferencias comparativas influyen en cómo el cuerpo ajusta crecimiento, metabolismo y adaptación frente a cambios ambientales."
+  },
+  {
+    "intent_id": "sistema_endocrino_transformacion_energetica",
+    "keywords": [
+      "hormona",
+      "energia",
+      "metabolismo",
+      "ciclo",
+      "regulacion"
+    ],
+    "base_response": "El sistema endocrino regula ciclos energéticos mediante hormonas que ajustan metabolismo y uso de nutrientes. Estas señales químicas coordinan transformación de energía en calor, movimiento y crecimiento, asegurando equilibrio interno y respuesta eficiente ante cambios ambientales."
+  },
+  {
+    "intent_id": "sistema_endocrino_experimentos_hormonas",
+    "keywords": [
+      "hormona",
+      "glandula",
+      "experimento",
+      "demostracion",
+      "regulacion"
+    ],
+    "base_response": "Utiliza modelos simples para mostrar cómo las hormonas viajan por la sangre y activan respuestas específicas. Emplea líquidos coloreados para representar señales químicas y explicar cómo distintas glándulas coordinan funciones corporales. Observa cambios simulados para comprender procesos de regulación interna."
+  },
+  {
+    "intent_id": "sistema_endocrino_errores_fallas_patologias",
+    "keywords": [
+      "hormona",
+      "secrecion",
+      "deficiencia",
+      "exceso",
+      "patologia"
+    ],
+    "base_response": "Un error frecuente en el sistema endocrino es la deficiencia de una hormona, como la tiroides, que ralentiza el metabolismo y causa cansancio. El exceso, por otro lado, como el azucar en sangre, produce sintomas agudos y afecta la salud general."
+  },
+  {
+    "intent_id": "sistema_endocrino_hormonas_consecuencias_largo_plazo",
+    "keywords": [
+      "hormonas",
+      "metabolismo",
+      "crecimiento",
+      "salud",
+      "envejecimiento"
+    ],
+    "base_response": "El sistema endocrino regula hormonas que, con el tiempo, influyen en nuestro crecimiento, metabolismo, equilibrio energético y reprograman células, lo que puede provocar resistencia a la insulina, aumento de peso, cambios en la masa muscular y mayor riesgo de enfermedades cardiovasculares en edad adulta."
+  },
+  {
+    "intent_id": "sistema_excretor_errores_fallas_patologias",
+    "keywords": [
+      "rinon",
+      "desecho",
+      "infeccion",
+      "calculo",
+      "filtracion"
+    ],
+    "base_response": "El sistema excretor puede presentar errores que afectan la eliminación de desechos. Infecciones, cálculos y fallas en filtración generan acumulación tóxica. Estas patologías alteran riñones, uréteres y vejiga, provocando dolor, inflamación y riesgo de daño orgánico progresivo."
+  },
+  {
+    "intent_id": "sistema_excretor_propiedades_quimicas",
+    "keywords": [
+      "sistema",
+      "excrecion",
+      "filtracion",
+      "reaccion",
+      "compuesto"
+    ],
+    "base_response": "El sistema excretor utiliza materiales filtrantes especializados que separan sustancias químicas según su tamaño y solubilidad. Sus componentes emplean reacciones controladas para transformar desechos en compuestos menos tóxicos, asegurando equilibrio interno mediante procesos precisos de eliminación molecular."
+  },
+  {
+    "intent_id": "sistema_excretor_historia_origen_evolucion",
+    "keywords": [
+      "evolucion",
+      "organismo",
+      "desecho",
+      "funcion",
+      "sistema"
+    ],
+    "base_response": "El sistema excretor surgió en organismos primitivos como estructuras simples para expulsar desechos. Con el tiempo evolucionó hacia órganos especializados que mejoraron la filtración interna. Esta transformación permitió mayor complejidad biológica y aseguró equilibrio químico esencial para la supervivencia de especies diversas."
+  },
+  {
+    "intent_id": "sistema_excretor_tecnologia_futura",
+    "keywords": [
+      "tecnologia",
+      "sensor",
+      "nanodispositivo",
+      "monitoreo",
+      "desecho"
+    ],
+    "base_response": "Las futuras tecnologías del sistema excretor integrarán sensores biológicos avanzados y nanodispositivos capaces de monitorear desechos en tiempo real. Estas innovaciones permitirán detectar alteraciones tempranas, optimizar funciones renales y mejorar tratamientos mediante análisis automatizados precisos y seguros."
+  },
+  {
+    "intent_id": "sistema_excretor_transformacion_ciclos_energeticos",
+    "keywords": [
+      "excrecion",
+      "metabolismo",
+      "reciclaje",
+      "energia",
+      "nitrogeno"
+    ],
+    "base_response": "El sistema excretor transforma desechos metabólicos en compuestos que el cuerpo expulsa. Los nitratos y fosfatos liberados reencarnan como energía en ciclos de vida vegetal, favoreciendo la disponibilidad de nutrientes y manteniendo el equilibrio planetario."
+  },
+  {
+    "intent_id": "sistema_reproductor_historia_evolucion",
+    "keywords": [
+      "reproduccion",
+      "evolucion",
+      "organismo",
+      "adaptacion",
+      "supervivencia"
+    ],
+    "base_response": "El sistema reproductor surgió cuando los primeros organismos desarrollaron formas de copiarse para asegurar su supervivencia. Con el tiempo, la reproducción sexual apareció, mezclando información genética y generando mayor diversidad. Esta evolución permitió especies más resistentes y mejor adaptadas a cambios ambientales."
+  },
+  {
+    "intent_id": "sistema_reproductor_contexto_ecologico",
+    "keywords": [
+      "reproduccion",
+      "organismo",
+      "entorno",
+      "adaptacion",
+      "supervivencia"
+    ],
+    "base_response": "El sistema reproductor depende del entorno ecológico porque cada organismo ajusta sus estrategias para asegurar descendencia viable. Factores como clima, disponibilidad de recursos y presencia de depredadores influyen en cómo ocurre la reproducción y en la supervivencia de las crías dentro de su hábitat natural."
+  },
+  {
+    "intent_id": "sistema_reproductor_importancia_social",
+    "keywords": [
+      "reproduccion",
+      "salud",
+      "comunidad",
+      "educacion",
+      "responsabilidad"
+    ],
+    "base_response": "El sistema reproductor influye en la salud social porque permite comprender la continuidad de la vida y fomenta decisiones responsables. Su estudio fortalece el respeto corporal, previene riesgos y promueve comunidades informadas capaces de cuidar su bienestar y apoyar entornos seguros para todos."
+  },
+  {
+    "intent_id": "mitos_excretor_desechos",
+    "keywords": [
+      "excretor",
+      "mito",
+      "desecho",
+      "filtrar",
+      "rinon"
+    ],
+    "base_response": "El mito de que la orina aparece tan pronto como bebemos está equivocado; el proceso de filtración renal lleva varias horas antes de que el líquido llegue a la vejiga. Los riñones reúnen desechos, agua y sales, luego los eliminan gradualmente."
+  },
+  {
+    "intent_id": "sistema_reproductor_mitos_concepciones",
+    "keywords": [
+      "mitos",
+      "creencias",
+      "pubertad",
+      "fertilidad",
+      "conocimiento"
+    ],
+    "base_response": "Muchos mitos sobre el sistema reproductor confunden a estudiantes, como creer que la pubertad ocurre igual en todas las personas o que la fertilidad es inmediata. Comprender procesos reales evita temores, promueve decisiones informadas y corrige ideas sin fundamento."
+  },
+  {
+    "intent_id": "sistema_reproductor_procreacion_comparativa",
+    "keywords": [
+      "reproduccion",
+      "ventaja",
+      "desventaja",
+      "energia",
+      "enfermedad"
+    ],
+    "base_response": "El sistema reproductor de procreación presenta ventajas como asegurar continuidad genética y permitir diversidad biológica, pero también implica desventajas como vulnerabilidad a enfermedades, requerimiento de energía y dependencia de condiciones ambientales para lograr procesos exitosos de reproducción."
+  },
+  {
+    "intent_id": "sistema_excretor_experimentacion",
+    "keywords": [
+      "filtro",
+      "algas",
+      "columna",
+      "arena",
+      "rinones"
+    ],
+    "base_response": "En una experiencia sencilla, se estudia el filtro renal usando algas de agua y una columna de arena brillante. Observando la formación de filamentos, los estudiantes visualizan cómo los riñones eliminan toxinas, manteniendo el equilibrio hídrico y el flujo sanguíneo."
+  },
+  {
+    "intent_id": "sistema_reproductor_dinamica_fisica",
+    "keywords": [
+      "reproduccion",
+      "dinamica",
+      "proceso",
+      "contraccion",
+      "hormona"
+    ],
+    "base_response": "En el sistema reproductor, la dinámica física involucra ciclos hormonales y contracciones musculares que mueven los gametos. Los óvulos viajan por las trompas y el esperma se desplaza en el útero, donde la interacción permite la unión y fertilización."
+  },
+  {
+    "intent_id": "sistema_reproductor_calculos",
+    "keywords": [
+      "calculo",
+      "formula",
+      "ciclo",
+      "ovulacion",
+      "fecundacion"
+    ],
+    "base_response": "Los cálculos en el sistema reproductor permiten estimar ciclos fértiles mediante fórmulas basadas en intervalos hormonales. Al analizar duraciones promedio, se predicen ventanas de ovulación y probabilidad de fecundación, facilitando comprensión cuantitativa del proceso reproductivo en contextos educativos simples."
+  },
+  {
+    "intent_id": "sistema_tegumentario_dinamica_funcionamiento",
+    "keywords": [
+      "piel",
+      "proteccion",
+      "regulacion",
+      "sudor",
+      "queratina"
+    ],
+    "base_response": "La piel actúa como una barrera viva que regula temperatura, protege tejidos y mantiene equilibrio interno. Sus capas coordinan producción de queratina, sudor y sebo, permitiendo resistencia física, control térmico y respuesta rápida ante estímulos ambientales que afectan el cuerpo."
+  },
+  {
+    "intent_id": "sistema_tegumentario_errores_patologias",
+    "keywords": [
+      "piel",
+      "lesion",
+      "infeccion",
+      "regeneracion",
+      "dermatitis"
+    ],
+    "base_response": "Las fallas del sistema tegumentario incluyen infecciones, irritaciones y lesiones que alteran la protección cutánea. Errores en la regeneración celular pueden causar heridas persistentes. Patologías como dermatitis y acné muestran desequilibrios que afectan la función defensiva y la estabilidad estructural de la piel."
+  },
+  {
+    "intent_id": "sistema_tegumentario_historia_evolucion",
+    "keywords": [
+      "piel",
+      "evolucion",
+      "vertebrados",
+      "proteccion",
+      "adaptacion"
+    ],
+    "base_response": "El sistema tegumentario de la piel surgió en antiguos vertebrados como una capa protectora. Evolucionó gradualmente para regular temperatura, impedir pérdida de agua y defender contra amenazas. Su desarrollo refleja adaptaciones esenciales que permitieron la supervivencia en diversos ambientes terrestres."
+  },
+  {
+    "intent_id": "sistema_reproductor_simbiotico",
+    "keywords": [
+      "sistema",
+      "relacion",
+      "senal",
+      "desarrollo",
+      "funcion"
+    ],
+    "base_response": "El sistema reproductor mantiene una relación simbiótica con sistemas hormonales, circulatorios y nerviosos, coordinando señales que regulan desarrollo y función. Esta interacción asegura condiciones internas estables, permite respuestas adaptativas y sostiene procesos esenciales para la formación de nuevas vidas."
+  },
+  {
+    "intent_id": "sistema_reproductor_proyecciones_futuras",
+    "keywords": [
+      "tecnologia",
+      "reproduccion",
+      "futuro",
+      "investigacion",
+      "salud"
+    ],
+    "base_response": "Las futuras tecnologías del sistema reproductor de procreación explorarán métodos seguros para apoyar la fertilidad, mejorar diagnósticos tempranos y estudiar células reproductivas con precisión. Estas innovaciones permitirán comprender mejor el desarrollo humano y crear herramientas que protejan la salud reproductiva desde edades tempranas."
+  },
+  {
+    "intent_id": "piel_tegumentario_contexto_ecologico",
+    "keywords": [
+      "piel",
+      "clima",
+      "adaptacion",
+      "sebo",
+      "hidratacion"
+    ],
+    "base_response": "La piel actúa como barrera que protege al cuerpo de desórdenes ambientales, regulando temperatura y humedad. En entornos húmedos, las células aumentan la producción de sebo, mientras que en climas secos se desarrollan glándulas intercambiables para conservar agua. Este proceso funciona en simbiosis con el clima."
+  },
+  {
+    "intent_id": "sistema_tegumentario_calculos_piel",
+    "keywords": [
+      "piel",
+      "celula",
+      "medida",
+      "calculo",
+      "funcion"
+    ],
+    "base_response": "El sistema tegumentario permite estimar grosor promedio de la piel mediante fórmulas que relacionan área corporal y número de células epidérmicas. Estos cálculos ayudan a comprender protección, renovación y resistencia, mostrando cómo pequeñas variaciones influyen en funciones esenciales del organismo."
+  },
+  {
+    "intent_id": "sistema_linfatico_errores_patologias",
+    "keywords": [
+      "linfa",
+      "bloqueo",
+      "inflamacion",
+      "dolor",
+      "patologia"
+    ],
+    "base_response": "El sistema linfático puede presentar errores cuando los vasos se bloquean, causando acumulación de líquido. Las fallas en ganglios generan defensas débiles. Patologías como linfedema y infecciones producen inflamación persistente, dolor y movilidad limitada, afectando funciones esenciales del organismo."
+  },
+  {
+    "intent_id": "sistema_tegumentario_mitos_concepciones",
+    "keywords": [
+      "piel",
+      "mitos",
+      "funcion",
+      "proteccion",
+      "celulas"
+    ],
+    "base_response": "Muchos mitos sobre la piel confunden su función protectora. La piel no respira aire, ni las espinillas surgen por suciedad extrema. Su renovación celular es constante y no depende de frotar fuerte. Comprender estos hechos evita prácticas dañinas."
+  },
+  {
+    "intent_id": "sistema_linfatico_historia_evolucion",
+    "keywords": [
+      "sistema",
+      "linfa",
+      "defensa",
+      "evolucion",
+      "estudio"
+    ],
+    "base_response": "El estudio del sistema linfático de fluidos surgió cuando científicos antiguos observaron canales transparentes en el cuerpo. Con el tiempo, investigaciones detalladas revelaron su función defensiva. Su evolución conceptual permitió comprender mejor cómo transporta linfa y protege contra agentes dañinos."
+  },
+  {
+    "intent_id": "sistema_tegumentario_relacion_simbiotica",
+    "keywords": [
+      "piel",
+      "sistema",
+      "interaccion",
+      "proteccion",
+      "circulacion"
+    ],
+    "base_response": "El sistema tegumentario mantiene una relación simbiótica con otros sistemas al proteger órganos, regular temperatura y facilitar señales sensoriales. Su interacción con el sistema inmunitario y circulatorio asegura defensa coordinada, intercambio constante y equilibrio funcional que sostiene la vida diaria."
+  },
+  {
+    "intent_id": "sistema_linfatico_aplicaciones_practicas",
+    "keywords": [
+      "linfa",
+      "defensa",
+      "transporte",
+      "recuperacion",
+      "infeccion"
+    ],
+    "base_response": "El sistema linfático de fluidos ayuda a mantener defensas corporales mediante transporte de linfa que recoge desechos y microorganismos. En la vida diaria permite recuperación tras heridas, reduce inflamación, favorece equilibrio interno y apoya resistencia frente a infecciones comunes."
+  },
+  {
+    "intent_id": "sistema_linfatico_fluido_seguridad",
+    "keywords": [
+      "fluidos",
+      "riesgo",
+      "seguridad",
+      "infeccion",
+      "higiene"
+    ],
+    "base_response": "El sistema linfático maneja fluidos corporales que pueden contaminarse si se exponen a heridas o ambientes sucios. Mantén higiene constante, evita contacto con sustancias desconocidas y usa protección adecuada para prevenir infecciones que afecten nodos y vasos linfáticos."
+  },
+  {
+    "intent_id": "sistema_tegumentario_proyecciones_tecnologicas",
+    "keywords": [
+      "piel",
+      "tecnologia",
+      "sensores",
+      "regeneracion",
+      "monitoreo"
+    ],
+    "base_response": "Las futuras tecnologías del sistema tegumentario integrarán sensores avanzados capaces de monitorear hidratación, temperatura y regeneración celular. Estos desarrollos permitirán piel inteligente que detecta daños, activa respuestas protectoras y facilita tratamientos personalizados mediante dispositivos portátiles de alta precisión."
+  },
+  {
+    "intent_id": "piel_mantenimiento_prevencion",
+    "keywords": [
+      "piel",
+      "mantenimiento",
+      "higiene",
+      "proteccion",
+      "prevencion"
+    ],
+    "base_response": "La piel protege el cuerpo gracias a capas resistentes que forman un escudo natural. Mantenerla limpia y humectada, usar protector solar con al menos SPF 30, protegerla de quemaduras e irritaciones, y eliminar células muertas, previene problemas cutáneos y mantiene su salud óptima."
+  },
+  {
+    "intent_id": "sistema_linfatico_fluido_impacto_ambiental",
+    "keywords": [
+      "sistema",
+      "linfatico",
+      "fluidos",
+      "contaminacion",
+      "ecosistemas"
+    ],
+    "base_response": "El sistema linfático de fluidos influye en la salud ambiental porque depende de ecosistemas limpios para mantener su equilibrio. Contaminantes persistentes pueden alterar defensas internas y afectar organismos, mostrando cómo la degradación ambiental impacta funciones biológicas esenciales en diversas especies."
+  },
+  {
+    "intent_id": "sistema_linfatico_relacion_simbio",
+    "keywords": [
+      "linfa",
+      "filtro",
+      "inmunidad",
+      "circulacion",
+      "filtrado",
+      "colaboracion"
+    ],
+    "base_response": "El sistema linfático funciona como filtro inmunológico que recoge venas y regula fluidos, colaborando estrechamente con el sistema circulatorio y el de defensa, garantizando filtrado, circulación y protección, integrando señales que mantienen la homeostasis corporal."
+  },
+  {
+    "intent_id": "corazon_bombeador_definicion_estructural",
+    "keywords": [
+      "corazon",
+      "organo",
+      "estructura",
+      "cavidad",
+      "valvula"
+    ],
+    "base_response": "El corazón es un órgano muscular hueco formado por paredes resistentes y cavidades internas que permiten su función de bombeo. Su estructura incluye aurículas, ventrículos y válvulas que organizan el flujo sanguíneo. Su forma cónica facilita movimientos coordinados esenciales."
+  },
+  {
+    "intent_id": "sistema_linfatico_contexto_ecologico",
+    "keywords": [
+      "sistema",
+      "linfa",
+      "entorno",
+      "defensa",
+      "filtracion"
+    ],
+    "base_response": "El sistema linfático de fluidos interactúa con el entorno ecológico filtrando sustancias externas y equilibrando respuestas inmunes. Sus conductos y nodos reaccionan a cambios ambientales, regulando defensas y manteniendo estabilidad interna frente a microorganismos, toxinas y variaciones climáticas naturales."
+  },
+  {
+    "intent_id": "corazon_bombeador_errores_fallas",
+    "keywords": [
+      "corazon",
+      "arritmia",
+      "insuficiencia",
+      "fallo",
+      "patologia"
+    ],
+    "base_response": "Las fallas del corazón incluyen arritmias, insuficiencia y defectos estructurales que alteran su bombeo. Estas condiciones reducen oxígeno y nutrientes, provocan fatiga, mareos y riesgo de daño orgánico. Reconocer síntomas tempranos permite intervención médica oportuna y protección cardiovascular."
+  },
+  {
+    "intent_id": "corazon_bombeador_historia_origen",
+    "keywords": [
+      "corazon",
+      "origen",
+      "evolucion",
+      "circulacion",
+      "historia"
+    ],
+    "base_response": "A lo largo de la historia, el corazón fue interpretado como centro vital y emocional. Con avances científicos, se comprendió su origen evolutivo como bomba muscular especializada. Su estructura actual refleja millones de años de adaptación para sostener la circulación eficiente."
+  },
+  {
+    "intent_id": "corazon_bombeador_contexto_ecologico",
+    "keywords": [
+      "corazon",
+      "bombeo",
+      "organismo",
+      "entorno",
+      "equilibrio"
+    ],
+    "base_response": "El corazón mantiene el flujo vital que conecta al organismo con su entorno ecológico. Al bombear sangre, sostiene funciones que permiten responder a cambios ambientales, regulando temperatura, oxígeno y energía. Su actividad asegura equilibrio interno frente a variaciones externas constantes."
+  },
+  {
+    "intent_id": "sistema_linfatico_mitos",
+    "keywords": [
+      "linfa",
+      "fluido",
+      "defensa",
+      "circulacion",
+      "mito"
+    ],
+    "base_response": "Muchos estudiantes creen mitos sobre el sistema linfático, como pensar que sus fluidos son simples residuos o que circulan igual que la sangre. En realidad, transportan defensas esenciales y se mueven lentamente mediante presión muscular, evitando infecciones."
+  },
+  {
+    "intent_id": "sistema_linfatico_flujos_energeticos",
+    "keywords": [
+      "fluidos",
+      "energia",
+      "ciclo",
+      "linfa",
+      "transformacion"
+    ],
+    "base_response": "El sistema linfático de fluidos participa en la transformación energética al movilizar linfa que recoge desechos celulares. Este flujo sostiene ciclos internos donde nutrientes y defensas se redistribuyen, permitiendo que el cuerpo mantenga equilibrio dinámico y continuidad funcional."
+  },
+  {
+    "intent_id": "corazon_bombeador_aplicaciones_practicas",
+    "keywords": [
+      "corazon",
+      "bombeo",
+      "pulsaciones",
+      "ejercicio",
+      "salud"
+    ],
+    "base_response": "Comprender el corazón como bomba permite aplicar su funcionamiento en actividades cotidianas. Al monitorear pulsaciones durante ejercicio, evaluar esfuerzo y reconocer señales de fatiga, los estudiantes usan conocimiento cardiaco para cuidar salud, mejorar rendimiento y prevenir riesgos."
+  },
+  {
+    "intent_id": "sistema_linfatico_experimentos",
+    "keywords": [
+      "fluidos",
+      "experimento",
+      "demostracion",
+      "sistema",
+      "transporte"
+    ],
+    "base_response": "Realiza una demostración usando agua coloreada para simular el movimiento linfático. Observa cómo fluye lentamente por tubos transparentes, representando vasos linfáticos. Explica que este sistema transporta fluidos y células defensivas, mostrando su importancia mediante actividades prácticas seguras y controladas."
+  },
+  {
+    "intent_id": "sistema_linfatico_mantenimiento_prevencion",
+    "keywords": [
+      "sistema",
+      "linfa",
+      "prevencion",
+      "salud",
+      "cuidado"
+    ],
+    "base_response": "El sistema linfático requiere hábitos constantes para mantener su flujo equilibrado. Practicar actividad física, hidratarse adecuadamente y cuidar la piel favorecen su función. Evitar infecciones y atender señales de inflamación previene daños y fortalece la defensa corporal."
+  },
+  {
+    "intent_id": "sistema_linfatico_futuros_tecnologia",
+    "keywords": [
+      "fluidos",
+      "sensores",
+      "diagnosticos",
+      "modelos",
+      "tratamientos"
+    ],
+    "base_response": "Las futuras tecnologías permitirán estudiar el sistema linfático con sensores avanzados que seguirán el movimiento de fluidos en tiempo real. Estos dispositivos facilitarán diagnósticos tempranos, modelos predictivos y tratamientos personalizados, mejorando la comprensión y cuidado integral del organismo."
+  }
+]
