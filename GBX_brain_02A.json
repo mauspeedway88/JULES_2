@@ -1,0 +1,1828 @@
+[
+  {
+    "intent_id": "definicion_suma_aritmetica",
+    "keywords": [
+      "operacion",
+      "suma",
+      "basica",
+      "adicion",
+      "agregar"
+    ],
+    "base_response": "La suma es la operación matemática básica que consiste en reunir dos o más cantidades llamadas sumandos en una sola cantidad final denominada total. Es la base fundamental de toda la aritmética y sirve para cuantificar agrupaciones de elementos cotidianos de manera exacta."
+  },
+  {
+    "intent_id": "funcionamiento_suma_aritmetica",
+    "keywords": [
+      "adicion",
+      "proceso",
+      "sumandos",
+      "combinar",
+      "juntar"
+    ],
+    "base_response": "Para sumar alineamos los números según su valor posicional de derecha a izquierda combinando unidades decenas y centenas consecutivamente. Si la adición de una columna supera las nueve unidades trasladamos el valor excedente a la siguiente columna como una unidad de acarreo sistemático."
+  },
+  {
+    "intent_id": "errores_comunes_suma_aritmetica",
+    "keywords": [
+      "error",
+      "suma",
+      "llevar",
+      "acarreo",
+      "posicional"
+    ],
+    "base_response": "Un error común al sumar es olvidar sumar el número que llevamos o acarreamos a la siguiente columna de valor posicional. También ocurre con frecuencia que alineamos incorrectamente los sumandos por la izquierda en lugar de alinearlos perfectamente por las unidades decimales."
+  },
+  {
+    "intent_id": "historia_suma_aritmetica",
+    "keywords": [
+      "origen",
+      "suma",
+      "historia",
+      "abaco",
+      "antiguedad"
+    ],
+    "base_response": "La suma se originó en la prehistoria cuando los primeros humanos necesitaban contabilizar pertenencias alimentos y ganado usando dedos piedras o marcas en huesos. Posteriormente civilizaciones como la babilónica y egipcia desarrollaron métodos escritos complejos utilizando símbolos y el ábaco tradicional."
+  },
+  {
+    "intent_id": "aplicacion_vida_real_suma",
+    "keywords": [
+      "aplicacion",
+      "practica",
+      "suma",
+      "dinero",
+      "comprar"
+    ],
+    "base_response": "En la vida cotidiana sumamos constantemente al calcular el precio total de las compras en el supermercado o al medir ingredientes para cocinar. También sumamos minutos para determinar el tiempo restante de un viaje escolar o al contar los puntos en juegos deportivos."
+  },
+  {
+    "intent_id": "importancia_social_suma",
+    "keywords": [
+      "impacto",
+      "social",
+      "suma",
+      "comercio",
+      "contabilidad"
+    ],
+    "base_response": "La suma es crucial para la sociedad porque permite estructurar el comercio global regular los presupuestos públicos y llevar la contabilidad hogareña organizada. Sin la adición exacta sería imposible coordinar transacciones monetarias justas o planificar obras de infraestructura civil a gran escala."
+  },
+  {
+    "intent_id": "experimento_escolar_suma",
+    "keywords": [
+      "experimento",
+      "escuela",
+      "suma",
+      "canicas",
+      "agrupacion"
+    ],
+    "base_response": "En el aula podemos demostrar la suma agrupando físicamente objetos de colores como canicas frijoles o bloques plásticos en platos separados. Al contar cada grupo individualmente y luego juntarlos en un solo recipiente comprendemos de manera visual y táctil el concepto de adición."
+  },
+  {
+    "intent_id": "definicion_resta_sustraccion",
+    "keywords": [
+      "definicion",
+      "resta",
+      "sustraccion",
+      "minuendo",
+      "sustraendo"
+    ],
+    "base_response": "La resta es la operación aritmética inversa a la suma que consiste en quitar una cantidad llamada sustraendo de otra denominada minuendo. El resultado obtenido se conoce como diferencia y representa cuántas unidades le quedan al minuendo original tras la disminución."
+  },
+  {
+    "intent_id": "funcionamiento_resta_aritmetica",
+    "keywords": [
+      "proceso",
+      "resta",
+      "desagrupar",
+      "prestar",
+      "restar"
+    ],
+    "base_response": "Para restar alineamos minuendo y sustraendo según su valor posicional realizando la sustracción columna por columna empezando por las unidades. Si el dígito superior es menor que el inferior solicitamos una decena prestada a la columna de la izquierda para poder operar."
+  },
+  {
+    "intent_id": "errores_comunes_resta_aritmetica",
+    "keywords": [
+      "falla",
+      "resta",
+      "prestar",
+      "error",
+      "posicion"
+    ],
+    "base_response": "El error más frecuente en la sustracción es restar el dígito menor del mayor sin importar su posición como minuendo o sustraendo. Otro fallo común es olvidar restar la unidad que se prestó a la columna vecina de la izquierda durante el cálculo."
+  },
+  {
+    "intent_id": "historia_resta_aritmetica",
+    "keywords": [
+      "historia",
+      "resta",
+      "comercio",
+      "origen",
+      "contabilidad"
+    ],
+    "base_response": "La resta surgió ante la necesidad de registrar deudas pérdidas e intercambios de bienes en los inicios del comercio de las civilizaciones antiguas. Los egipcios idearon símbolos especiales para representar la sustracción de mercancías facilitando los inventarios reales de granos y ganado nacional."
+  },
+  {
+    "intent_id": "aplicacion_vida_real_resta",
+    "keywords": [
+      "vida",
+      "practica",
+      "resta",
+      "vuelto",
+      "dinero"
+    ],
+    "base_response": "Usamos la resta en nuestra vida cotidiana para calcular el cambio o vuelto de dinero que recibimos al comprar un juguete escolar. También la aplicamos para saber cuántas páginas nos faltan leer de un libro o cuántos días quedan para las vacaciones."
+  },
+  {
+    "intent_id": "experimento_escolar_resta",
+    "keywords": [
+      "experimento",
+      "demostracion",
+      "resta",
+      "globos",
+      "quitar"
+    ],
+    "base_response": "Un experimento sencillo para aprender la resta consiste en inflar diez globos de colores y pinchar algunos con una aguja pequeña. Al contar los globos que quedan inflados los estudiantes asimilan de forma divertida y práctica cómo la sustracción reduce la cantidad inicial."
+  },
+  {
+    "intent_id": "definicion_multiplicacion_matematica",
+    "keywords": [
+      "definicion",
+      "multiplicacion",
+      "factores",
+      "producto",
+      "sumar"
+    ],
+    "base_response": "La multiplicación es una operación matemática que consiste en sumar un número tantas veces como lo indica otro número denominado multiplicador. Los números que se multiplican se llaman factores y el resultado final de este proceso de suma abreviada se llama producto."
+  },
+  {
+    "intent_id": "funcionamiento_multiplicacion_matematica",
+    "keywords": [
+      "funcionamiento",
+      "algoritmo",
+      "multiplicacion",
+      "factores",
+      "llevar"
+    ],
+    "base_response": "Para multiplicar números de varias cifras multiplicamos cada dígito del multiplicador por el multiplicando de derecha a izquierda sumando los acarreos correspondientes. Al pasar al siguiente dígito dejamos un espacio en blanco a la derecha y finalmente sumamos todos los productos parciales obtenidos."
+  },
+  {
+    "intent_id": "errores_comunes_multiplicacion",
+    "keywords": [
+      "errores",
+      "comunes",
+      "multiplicacion",
+      "espacio",
+      "tablas"
+    ],
+    "base_response": "Un error clásico al multiplicar es no dejar el espacio vacío hacia la izquierda al calcular los productos parciales de las decenas. También ocurre con frecuencia que los estudiantes confunden los acarreos de la multiplicación con los de la suma al operar."
+  },
+  {
+    "intent_id": "historia_multiplicacion_matematica",
+    "keywords": [
+      "origen",
+      "historia",
+      "multiplicacion",
+      "babilonia",
+      "tablas"
+    ],
+    "base_response": "La multiplicación tiene sus raíces en las antiguas tablas de arcilla babilónicas de hace más de cuatro mil años donde calculaban áreas agrícolas. Posteriormente los griegos y los matemáticos de la India crearon métodos visuales que evolucionaron hasta el algoritmo actual que usamos hoy."
+  },
+  {
+    "intent_id": "aplicacion_vida_real_multiplicacion",
+    "keywords": [
+      "aplicacion",
+      "practica",
+      "multiplicacion",
+      "cajas",
+      "calcular"
+    ],
+    "base_response": "Aplicamos la multiplicación al calcular la cantidad total de refrescos si compramos cinco cajas escolares conteniendo doce botellas cada una de ellas. También es útil para calcular el costo total de varias entradas de cine iguales de forma veloz."
+  },
+  {
+    "intent_id": "experimento_escolar_multiplicacion",
+    "keywords": [
+      "experimento",
+      "escuela",
+      "multiplicacion",
+      "cuadricula",
+      "matriz"
+    ],
+    "base_response": "Para demostrar la multiplicación podemos utilizar papel cuadriculado y dibujar rectángulos con dimensiones específicas como un bloque de cinco por cuatro cuadritos. Al contar el total de cuadrados internos los alumnos visualizan que multiplicar es equivalente a calcular el área rectangular."
+  },
+  {
+    "intent_id": "definicion_division_exacta",
+    "keywords": [
+      "definicion",
+      "division",
+      "exacta",
+      "residuo",
+      "cero"
+    ],
+    "base_response": "La división exacta es la operación aritmética de reparto equitativo donde el dividendo se fragmenta en partes iguales indicadas por el divisor. En este tipo de división el residuo es estrictamente cero indicando que no sobra ninguna porción de la cantidad original repartida."
+  },
+  {
+    "intent_id": "funcionamiento_division_exacta",
+    "keywords": [
+      "funcionamiento",
+      "proceso",
+      "division",
+      "cociente",
+      "exacta"
+    ],
+    "base_response": "Para realizar una división exacta buscamos un número que multiplicado por el divisor dé como resultado exacto la cantidad del dividendo. Restamos este producto obtenido del dividendo original comprobando que la diferencia final es nula y que el cociente es entero."
+  },
+  {
+    "intent_id": "errores_comunes_division_exacta",
+    "keywords": [
+      "error",
+      "division",
+      "exacta",
+      "tablas",
+      "restar"
+    ],
+    "base_response": "Un error usual al realizar divisiones exactas es seleccionar un número incorrecto en el cociente que supera el valor parcial del dividendo. Otro fallo común es cometer equivocaciones en las restas intermedias o confundir el orden de bajada de los números."
+  },
+  {
+    "intent_id": "historia_division_exacta",
+    "keywords": [
+      "historia",
+      "division",
+      "reparto",
+      "origen",
+      "trueque"
+    ],
+    "base_response": "La división exacta surgió históricamente con la necesidad de distribuir alimentos tierras e ingresos de manera equitativa entre los miembros de clanes antiguos. El símbolo moderno de la división fue introducido en el siglo diecisiete para facilitar la escritura de fracciones matemáticas."
+  },
+  {
+    "intent_id": "aplicacion_vida_real_division_exacta",
+    "keywords": [
+      "aplicacion",
+      "division",
+      "exacta",
+      "repartir",
+      "dulces"
+    ],
+    "base_response": "Utilizamos la división exacta en la vida real al repartir veinte chocolates entre cuatro amigos de manera que cada uno reciba exactamente cinco piezas. También la usamos al dividir una cuenta de restaurante en partes idénticas entre los comensales presentes."
+  },
+  {
+    "intent_id": "experimento_escolar_division_exacta",
+    "keywords": [
+      "experimento",
+      "escuela",
+      "division",
+      "exacta",
+      "cartas"
+    ],
+    "base_response": "Podemos experimentar la división exacta en el aula repartiendo una baraja de veinticuatro cartas de manera uniforme entre tres alumnos colaboradores. Al verificar que cada estudiante recibe exactamente ocho cartas y no sobra ninguna se comprende la exactitud de esta operación matemática."
+  },
+  {
+    "intent_id": "definicion_potencias_numericas",
+    "keywords": [
+      "definicion",
+      "potencia",
+      "base",
+      "exponente",
+      "multiplicar"
+    ],
+    "base_response": "Una potencia es una operación matemática que representa la multiplicación abreviada de un número llamado base por sí mismo varias veces. La cantidad de veces que se repite este factor está determinada por un número pequeño superior llamado exponente."
+  },
+  {
+    "intent_id": "funcionamiento_potencias_numericas",
+    "keywords": [
+      "proceso",
+      "calcular",
+      "potencia",
+      "base",
+      "exponente"
+    ],
+    "base_response": "Para resolver una potencia tomamos el valor de la base and lo multiplicamos reiteradamente de acuerdo a lo que ordene el exponente. Por ejemplo para calcular cinco al cubo multiplicamos cinco por cinco por cinco obteniendo como resultado final ciento veinticinco unidades."
+  },
+  {
+    "intent_id": "errores_comunes_potencias",
+    "keywords": [
+      "error",
+      "potencia",
+      "base",
+      "multiplicar",
+      "exponente"
+    ],
+    "base_response": "El error más destructivo y común al resolver potencias es multiplicar directamente la base por el exponente como si fuera suma. Por ejemplo calcular dos a la cuarta como ocho en lugar de realizar la multiplicación correcta que es dieciséis."
+  },
+  {
+    "intent_id": "historia_potencias_numericas",
+    "keywords": [
+      "historia",
+      "potencia",
+      "origen",
+      "euclides",
+      "notacion"
+    ],
+    "base_response": "La noción de potencia fue utilizada por matemáticos antiguos como Euclides para describir áreas de cuadrados y volúmenes de cubos perfectos. Sin embargo la notación moderna con el exponente elevado fue diseñada por el pensador René Descartes en el siglo diecisiete."
+  },
+  {
+    "intent_id": "aplicacion_vida_real_potencias",
+    "keywords": [
+      "aplicacion",
+      "potencia",
+      "bacterias",
+      "crecimiento",
+      "virus"
+    ],
+    "base_response": "Las potencias se aplican en biología para modelar el crecimiento exponencial rápido de colonias de bacterias que se duplican cada hora. También se usan en informática para medir la capacidad de almacenamiento de los discos duros en bytes binarios."
+  },
+  {
+    "intent_id": "experimento_escolar_potencias",
+    "keywords": [
+      "experimento",
+      "potencia",
+      "doblar",
+      "papel",
+      "exponencial"
+    ],
+    "base_response": "Un experimento asombroso para comprender las potencias consiste en doblar una hoja de papel por la mitad de forma sucesiva en el aula. Cada doblez multiplica el número de capas por dos demostrando visualmente cómo la potencia aumenta de manera extremadamente acelerada."
+  },
+  {
+    "intent_id": "definicion_raices_cuadradas",
+    "keywords": [
+      "definicion",
+      "raiz",
+      "cuadrada",
+      "radicando",
+      "numero"
+    ],
+    "base_response": "La raíz cuadrada de un número es aquella cantidad que multiplicada por sí misma da como resultado el número original del radicando. Es la operación inversa a elevar un número al exponente dos permitiendo descomponer áreas cuadradas en la longitud de sus lados."
+  },
+  {
+    "intent_id": "funcionamiento_raices_cuadradas",
+    "keywords": [
+      "funcionamiento",
+      "calcular",
+      "raiz",
+      "cuadrada",
+      "exactas"
+    ],
+    "base_response": "Para calcular una raíz cuadrada exacta buscamos un número entero que al ser multiplicado por sí mismo iguale al valor del radicando. Por ejemplo la raíz cuadrada de sesenta y cuatro es ocho porque ocho por ocho es igual a sesenta y cuatro unidades."
+  },
+  {
+    "intent_id": "errores_comunes_raices_cuadradas",
+    "keywords": [
+      "error",
+      "raiz",
+      "cuadrada",
+      "dividir",
+      "mitad"
+    ],
+    "base_response": "Un error sumamente común entre los estudiantes es confundir la raíz cuadrada con dividir el número por la mitad de su valor. Por ejemplo responder que la raíz de dieciséis es ocho en lugar del valor real e idóneo que es cuatro."
+  },
+  {
+    "intent_id": "historia_raices_cuadradas",
+    "keywords": [
+      "historia",
+      "raiz",
+      "cuadrada",
+      "babilonia",
+      "geometria"
+    ],
+    "base_response": "Los antiguos matemáticos babilónicos desarrollaron métodos numéricos geniales para aproximar raíces cuadradas para resolver problemas de límites de terrenos agrícolas. Los matemáticos de la India crearon el símbolo que dio origen al signo de la raíz que usamos hoy."
+  },
+  {
+    "intent_id": "aplicacion_vida_real_raices",
+    "keywords": [
+      "aplicacion",
+      "raiz",
+      "cuadrada",
+      "terreno",
+      "area"
+    ],
+    "base_response": "En la vida real las raíces cuadradas se utilizan para determinar las dimensiones de un terreno de forma cuadrada si conocemos su área. También la aplican los ingenieros para diseñar estructuras estables calculando fuerzas físicas y distancias diagonales exactas."
+  },
+  {
+    "intent_id": "experimento_escolar_raices",
+    "keywords": [
+      "experimento",
+      "escuela",
+      "raiz",
+      "mosaicos",
+      "area"
+    ],
+    "base_response": "Podemos experimentar con raíces cuadradas ordenando treinta y seis mosaicos cuadrados idénticos hasta formar un cuadrado grande perfecto en el suelo escolar. Al contar cuántos mosaicos tiene cada lado los alumnos descubren físicamente que la raíz de treinta y seis es seis."
+  },
+  {
+    "intent_id": "definicion_jerarquia_operaciones",
+    "keywords": [
+      "definicion",
+      "jerarquia",
+      "operaciones",
+      "orden",
+      "resolucion"
+    ],
+    "base_response": "La jerarquía de operaciones es el conjunto de reglas matemáticas que determina el orden exacto en el que deben resolverse los cálculos combinados. Estas reglas universales aseguran que una misma expresión aritmética tenga únicamente un único resultado correcto en cualquier parte del mundo."
+  },
+  {
+    "intent_id": "funcionamiento_jerarquia_operaciones",
+    "keywords": [
+      "funcionamiento",
+      "orden",
+      "resolver",
+      "pemdas",
+      "parentesis"
+    ],
+    "base_response": "Para aplicar la jerarquía resolvemos primero los cálculos dentro de paréntesis luego las potencias y raíces después las multiplicaciones y divisiones. Finalmente realizamos las sumas y restas operando de izquierda a derecha de manera estrictamente ordenada para no alterar el resultado."
+  },
+  {
+    "intent_id": "errores_comunes_jerarquia",
+    "keywords": [
+      "error",
+      "jerarquia",
+      "izquierda",
+      "derecha",
+      "orden"
+    ],
+    "base_response": "El error más típico es realizar las sumas y restas antes que las multiplicaciones por el simple hecho de aparecer primero escritas. Otro error es operar de derecha a izquierda ignorando la regla de prioridad ante operaciones del mismo nivel aritmético."
+  },
+  {
+    "intent_id": "historia_jerarquia_operaciones",
+    "keywords": [
+      "historia",
+      "jerarquia",
+      "matematicos",
+      "algebra",
+      "origen"
+    ],
+    "base_response": "La jerarquía de operaciones se consolidó formalmente entre los siglos dieciséis y diecinueve a medida que el álgebra moderna se expandía mundialmente. Los matemáticos necesitaban un lenguaje estandarizado para evitar confusiones en publicaciones científicas y para simplificar ecuaciones complejas universales."
+  },
+  {
+    "intent_id": "aplicacion_vida_real_jerarquia",
+    "keywords": [
+      "aplicacion",
+      "jerarquia",
+      "programacion",
+      "codigo",
+      "finanzas"
+    ],
+    "base_response": "La jerarquía de operaciones es fundamental al escribir código de programación informática para que los videojuegos funcionen correctamente sin errores de física. También la usan los contadores al calcular presupuestos combinando ingresos gastos e impuestos mensuales."
+  },
+  {
+    "intent_id": "experimento_escolar_jerarquia",
+    "keywords": [
+      "experimento",
+      "escuela",
+      "calculadora",
+      "jerarquia",
+      "orden"
+    ],
+    "base_response": "Para experimentar la jerarquía podemos proponer a los estudiantes resolver un cálculo combinado usando una calculadora científica avanzada y una básica barata. Al observar los diferentes resultados obtenidos discutimos la importancia del orden establecido para procesar operaciones aritméticas complejas."
+  },
+  {
+    "intent_id": "definicion_conmutativa_adicion",
+    "keywords": [
+      "definicion",
+      "propiedad",
+      "conmutativa",
+      "adicion",
+      "orden"
+    ],
+    "base_response": "La propiedad conmutativa de la adición es una regla fundamental que establece que el orden de los sumandos no altera la suma final. Esto significa que podemos sumar cantidades en cualquier dirección y el resultado numérico obtenido seguirá siendo exactamente el mismo."
+  },
+  {
+    "intent_id": "funcionamiento_conmutativa_adicion",
+    "keywords": [
+      "proceso",
+      "conmutativa",
+      "sumar",
+      "conmutar",
+      "igual"
+    ],
+    "base_response": "Para comprobar el funcionamiento sumamos dos números como ocho más cinco obteniendo trece y luego invertimos el proceso sumando cinco más ocho. Al verificar que ambos cálculos dan como resultado trece demostramos que la alteración posicional no influye en el valor del total."
+  },
+  {
+    "intent_id": "errores_comunes_conmutativa_adicion",
+    "keywords": [
+      "error",
+      "propiedad",
+      "conmutativa",
+      "resta",
+      "division"
+    ],
+    "base_response": "Un error muy común es intentar aplicar incorrectamente la propiedad conmutativa a operaciones que no la poseen como la resta o la división. Por ejemplo asumir que de diez menos cuatro es igual que cuatro menos diez lo cual genera resultados erróneos."
+  },
+  {
+    "intent_id": "historia_conmutativa_adicion",
+    "keywords": [
+      "historia",
+      "conmutativa",
+      "euclides",
+      "antigua",
+      "grecia"
+    ],
+    "base_response": "La propiedad conmutativa de la adición fue documentada formalmente por primera vez por el matemático Euclides en sus famosos Elementos de geometría plana. Sin embargo el término específico conmutativa fue acuñado por el matemático francés François Servois a principios del siglo diecinueve."
+  },
+  {
+    "intent_id": "aplicacion_vida_real_conmutativa_adicion",
+    "keywords": [
+      "aplicacion",
+      "conmutativa",
+      "sumar",
+      "monedas",
+      "objetos"
+    ],
+    "base_response": "Usamos esta propiedad diariamente al contar monedas en nuestro bolsillo sin importar si comenzamos sumando las de mayor o menor valor monetario. También se aplica al organizar objetos en una caja facilitando inventarios rápidos sin alterar la cantidad existente."
+  },
+  {
+    "intent_id": "experimento_escolar_conmutativa_adicion",
+    "keywords": [
+      "experimento",
+      "escuela",
+      "conmutativa",
+      "bloques",
+      "colores"
+    ],
+    "base_response": "En el aula podemos realizar una demostración usando bloques de construcción de color rojo y azul ensamblados en una fila pequeña. Al rotar la barra de bloques comprobamos que la longitud total es idéntica si sumamos rojo más azul o azul más rojo."
+  },
+  {
+    "intent_id": "definicion_asociativa_producto",
+    "keywords": [
+      "definicion",
+      "propiedad",
+      "asociativa",
+      "producto",
+      "factores"
+    ],
+    "base_response": "La propiedad asociativa del producto establece que al multiplicar tres o más factores el orden de su agrupación no altera el resultado final. Esto nos permite agrupar los números de diferentes maneras según nos resulte más cómodo para agilizar los cálculos mentales."
+  },
+  {
+    "intent_id": "funcionamiento_asociativa_producto",
+    "keywords": [
+      "proceso",
+      "asociativa",
+      "agrupar",
+      "multiplicar",
+      "factores"
+    ],
+    "base_response": "Para operar multiplicamos primero dos factores asociados entre paréntesis y luego multiplicamos el producto obtenido por el tercer factor restante de la expresión. Por ejemplo agrupar dos por tres y multiplicar por cuatro da veinticuatro igual que multiplicar dos por el grupo de tres por cuatro."
+  },
+  {
+    "intent_id": "errores_comunes_asociativa_producto",
+    "keywords": [
+      "error",
+      "asociativa",
+      "agrupar",
+      "sumar",
+      "confundir"
+    ],
+    "base_response": "Un error común al aplicar esta propiedad es mezclar sumas con multiplicaciones dentro de las agrupaciones alterando las prioridades de cálculo aritmético. También se cometen fallas al intentar aplicar esta propiedad a la división donde la asociación sí cambia el resultado."
+  },
+  {
+    "intent_id": "historia_asociativa_producto",
+    "keywords": [
+      "historia",
+      "propiedad",
+      "asociativa",
+      "hamilton",
+      "algebra"
+    ],
+    "base_response": "El concepto de asociación en matemáticas fue desarrollado de forma intuitiva desde la antigüedad pero fue formalizado por el matemático William Hamilton en el siglo diecinueve. Su formalización permitió sentar las bases del álgebra moderna y el estudio avanzado de sistemas numéricos multidimensionales."
+  },
+  {
+    "intent_id": "aplicacion_vida_real_asociativa_producto",
+    "keywords": [
+      "aplicacion",
+      "asociativa",
+      "empaques",
+      "cajas",
+      "matematica"
+    ],
+    "base_response": "Aplicamos la propiedad asociativa al calcular el total de latas si compramos dos camiones que llevan tres tarimas con cuatro cajas de latas cada una. Podemos agrupar las cajas por tarimas o las tarimas por camión obteniendo siempre la misma cantidad."
+  },
+  {
+    "intent_id": "experimento_escolar_asociativa_producto",
+    "keywords": [
+      "experimento",
+      "escuela",
+      "asociativa",
+      "cubos",
+      "volumen"
+    ],
+    "base_response": "Podemos demostrar la propiedad asociativa en la escuela construyendo prismas rectangulares utilizando dados o pequeños cubos plásticos tridimensionales en equipos de trabajo. Al calcular el volumen agrupando filas columnas o capas de formas distintas comprobamos que el total de cubos es inalterable."
+  },
+  {
+    "intent_id": "definicion_propiedad_distributiva",
+    "keywords": [
+      "definicion",
+      "propiedad",
+      "distributiva",
+      "multiplicacion",
+      "suma"
+    ],
+    "base_response": "La propiedad distributiva establece que multiplicar un número por una suma es equivalente a multiplicar dicho número por cada sumando de forma individual y luego sumar los productos obtenidos. Es el puente matemático que conecta la multiplicación con la adición aritmética."
+  },
+  {
+    "intent_id": "funcionamiento_propiedad_distributiva",
+    "keywords": [
+      "funcionamiento",
+      "distributiva",
+      "repartir",
+      "factores",
+      "suma"
+    ],
+    "base_response": "Para aplicar esta propiedad tomamos el factor exterior y lo multiplicamos por cada uno de los términos que se encuentran dentro del paréntesis sumando los resultados. Por ejemplo tres multiplicado por la suma de cuatro más dos es igual a tres por cuatro más tres por dos."
+  },
+  {
+    "intent_id": "errores_comunes_distributiva",
+    "keywords": [
+      "error",
+      "distributiva",
+      "olvidar",
+      "factor",
+      "parentesis"
+    ],
+    "base_response": "El error más extendido es multiplicar el factor exterior únicamente por el primer término dentro del paréntesis olvidando distribuirlo con el segundo número. Esto genera un cálculo incorrecto que viola las leyes fundamentales del álgebra y la aritmética básica."
+  },
+  {
+    "intent_id": "historia_propiedad_distributiva",
+    "keywords": [
+      "historia",
+      "propiedad",
+      "distributiva",
+      "matematicos",
+      "algebra"
+    ],
+    "base_response": "La propiedad distributiva ha sido empleada implícitamente desde la época de los geómetras griegos al calcular áreas de rectángulos divididos en secciones. Su definición formal y nombre actual se establecieron en el siglo diecinueve gracias al avance de la notación simbólica algebraica."
+  },
+  {
+    "intent_id": "aplicacion_vida_real_distributiva",
+    "keywords": [
+      "aplicacion",
+      "distributiva",
+      "calculo",
+      "mental",
+      "compras"
+    ],
+    "base_response": "Usamos la propiedad distributiva para realizar cálculos mentales rápidos al comprar por ejemplo siete artículos que cuestan noventa y nueve centavos cada uno de ellos. Calculamos mentalmente siete por cien menos siete por uno facilitando enormemente la contabilidad diaria."
+  },
+  {
+    "intent_id": "experimento_escolar_distributiva",
+    "keywords": [
+      "experimento",
+      "escuela",
+      "distributiva",
+      "cuadricula",
+      "area"
+    ],
+    "base_response": "Para experimentar esta propiedad dibujamos un rectángulo grande en papel cuadriculado y lo dividimos verticalmente en dos secciones de colores diferentes. Al calcular el área total sumando las áreas individuales de los rectángulos pequeños los estudiantes comprenden visualmente la distribución."
+  },
+  {
+    "intent_id": "definicion_elemento_neutro_multiplicativo",
+    "keywords": [
+      "definicion",
+      "elemento",
+      "neutro",
+      "multiplicativo",
+      "uno"
+    ],
+    "base_response": "El elemento neutro multiplicativo es una propiedad de la aritmética que establece que cualquier número multiplicado por el número uno conserva intacto su valor original. El uno actúa como una identidad aritmética que no altera ni modifica la magnitud de la cifra operada."
+  },
+  {
+    "intent_id": "funcionamiento_neutro_multiplicativo",
+    "keywords": [
+      "funcionamiento",
+      "neutro",
+      "multiplicar",
+      "uno",
+      "identidad"
+    ],
+    "base_response": "El funcionamiento de esta propiedad es directo ya que al multiplicar cualquier cantidad por la unidad el resultado obtenido es la misma cantidad inicial. Por ejemplo setecientos cincuenta y cuatro multiplicado por uno da como resultado exactamente setecientos cincuenta y cuatro unidades."
+  },
+  {
+    "intent_id": "errores_comunes_neutro_multiplicativo",
+    "keywords": [
+      "error",
+      "elemento",
+      "neutro",
+      "multiplicar",
+      "cero"
+    ],
+    "base_response": "Un error común entre estudiantes es confundir el elemento neutro de la multiplicación con el elemento neutro de la suma que es el cero. Esto les lleva a afirmar erróneamente que multiplicar un número por uno da como resultado cero o viceversa."
+  },
+  {
+    "intent_id": "historia_neutro_multiplicativo",
+    "keywords": [
+      "historia",
+      "elemento",
+      "neutro",
+      "axioma",
+      "algebra"
+    ],
+    "base_response": "La noción de la unidad como identidad multiplicativa fue estudiada a fondo por filósofos griegos antiguos que consideraban al uno como el origen de los números. En la matemática moderna el elemento neutro se formalizó como un axioma esencial para definir estructuras de anillos."
+  },
+  {
+    "intent_id": "aplicacion_vida_real_neutro",
+    "keywords": [
+      "aplicacion",
+      "neutro",
+      "simplificar",
+      "fracciones",
+      "escalas"
+    ],
+    "base_response": "Utilizamos el elemento neutro multiplicativo al simplificar o amplificar fracciones matemáticas multiplicando el numerador y denominador por un mismo número equivalente a uno. Esto permite cambiar la representación visual de una porción o escala sin alterar su valor real."
+  },
+  {
+    "intent_id": "experimento_escolar_neutro",
+    "keywords": [
+      "experimento",
+      "escuela",
+      "neutro",
+      "espejos",
+      "grupos"
+    ],
+    "base_response": "En el aula podemos representar el elemento neutro pidiendo a un estudiante que se pare frente a un espejo plano y sostenga un cartel con un número. Al observar que el reflejo es idéntico explicamos que el uno actúa como un espejo matemático para los números."
+  },
+  {
+    "intent_id": "definicion_inverso_aditivo",
+    "keywords": [
+      "definicion",
+      "inverso",
+      "aditivo",
+      "opuesto",
+      "cero"
+    ],
+    "base_response": "El inverso aditivo también llamado número opuesto es aquella cantidad que sumada a un número original da como resultado exacto el elemento neutro de la suma que es cero. Cada número real posee un único inverso aditivo que tiene su misma magnitud pero signo contrario."
+  },
+  {
+    "intent_id": "funcionamiento_inverso_aditivo",
+    "keywords": [
+      "funcionamiento",
+      "inverso",
+      "aditivo",
+      "restar",
+      "cero"
+    ],
+    "base_response": "Para hallar el inverso aditivo de cualquier número simplemente cambiamos su signo aritmético positivo a negativo o viceversa para neutralizar el valor. Al sumar un número con su inverso aditivo las magnitudes se cancelan por completo dando como resultado final cero absoluto."
+  },
+  {
+    "intent_id": "errores_comunes_inverso_aditivo",
+    "keywords": [
+      "error",
+      "inverso",
+      "aditivo",
+      "reciproco",
+      "signo"
+    ],
+    "base_response": "Un error frecuente es confundir el inverso aditivo con el inverso multiplicativo o recíproco de un número determinado. Esto causa que los estudiantes respondan que el opuesto de cinco es un quinto en lugar del valor correcto que es menos cinco."
+  },
+  {
+    "intent_id": "historia_inverso_aditivo",
+    "keywords": [
+      "historia",
+      "inverso",
+      "aditivo",
+      "negativos",
+      "india"
+    ],
+    "base_response": "La idea del inverso aditivo surgió históricamente con la invención y aceptación formal de los números negativos en la matemática de la antigua India. Los sabios indios definieron las deudas como números opuestos que neutralizaban las riquezas positivas restableciendo el balance financiero."
+  },
+  {
+    "intent_id": "aplicacion_vida_real_inverso_aditivo",
+    "keywords": [
+      "aplicacion",
+      "inverso",
+      "aditivo",
+      "deudas",
+      "finanzas"
+    ],
+    "base_response": "El inverso aditivo se aplica diariamente en contabilidad para cancelar saldos y registrar pérdidas financieras compensando ingresos de forma exacta. También se utiliza en los sistemas de navegación para calcular descensos de altitud compensando subidas previas en la trayectoria."
+  },
+  {
+    "intent_id": "experimento_escolar_inverso_aditivo",
+    "keywords": [
+      "experimento",
+      "escuela",
+      "inverso",
+      "aditivo",
+      "termometro"
+    ],
+    "base_response": "Podemos experimentar el inverso aditivo utilizando un termómetro dibujado a gran escala en el pizarrón del salón de clases. Al movernos de cinco grados arriba del cero y luego de cinco grados abajo comprobamos que las posiciones opuestas neutralizan el desplazamiento regresando al origen."
+  },
+  {
+    "intent_id": "definicion_algoritmo_division",
+    "keywords": [
+      "definicion",
+      "algoritmo",
+      "division",
+      "procedimiento",
+      "dividendo"
+    ],
+    "base_response": "El algoritmo tradicional de la división es el procedimiento paso a paso utilizado para resolver la partición de un número grande entre otro más pequeño. Este método lógico estructurado permite descomponer un cálculo complejo en restas y multiplicaciones sucesivas más sencillas."
+  },
+  {
+    "intent_id": "funcionamiento_algoritmo_division",
+    "keywords": [
+      "funcionamiento",
+      "algoritmo",
+      "dividir",
+      "residuo",
+      "cociente"
+    ],
+    "base_response": "Para operar el algoritmo tomamos cifras del dividendo de izquierda a derecha buscando cuántas veces cabe el divisor en esa porción seleccionada. Escribimos el cociente multiplicamos restamos el resultado intermedio y bajamos la siguiente cifra del dividendo continuando el ciclo sistemáticamente."
+  },
+  {
+    "intent_id": "errores_comunes_algoritmo_division",
+    "keywords": [
+      "error",
+      "algoritmo",
+      "division",
+      "bajar",
+      "digitos"
+    ],
+    "base_response": "Un error sumamente común es olvidar colocar un cero en el cociente cuando la cifra bajada del dividendo es menor que el divisor aritmético. Esto provoca un desfase de valor posicional en el resultado final destruyendo la exactitud del cálculo."
+  },
+  {
+    "intent_id": "historia_algoritmo_division",
+    "keywords": [
+      "historia",
+      "algoritmo",
+      "division",
+      "galera",
+      "origen"
+    ],
+    "base_response": "El algoritmo de división que utilizamos hoy en las escuelas tiene su origen directo en las técnicas medievales de los matemáticos árabes e hindúes. Antes de este método se utilizaba el complejo algoritmo de la galera que requería borrar y tachar números constantemente."
+  },
+  {
+    "intent_id": "aplicacion_vida_real_algoritmo_division",
+    "keywords": [
+      "aplicacion",
+      "algoritmo",
+      "division",
+      "fabrica",
+      "empacar"
+    ],
+    "base_response": "Este algoritmo es vital en procesos de fabricación industrial para determinar cómo empaquetar miles de unidades de productos en cajas con capacidades fijas de almacenamiento. Permite optimizar la distribución logística minimizando las pérdidas y calculando las sobras exactas."
+  },
+  {
+    "intent_id": "experimento_escolar_algoritmo_division",
+    "keywords": [
+      "experimento",
+      "escuela",
+      "division",
+      "algoritmo",
+      "fichas"
+    ],
+    "base_response": "En el salón podemos practicar el algoritmo de división repartiendo un puñado grande de fichas plásticas en vasos rotulados con números posicionales. Al seguir el procedimiento de reparto de centenas decenas y unidades de forma ordenada los alumnos comprenden el origen lógico del algoritmo."
+  },
+  {
+    "intent_id": "definicion_dividendo_matematico",
+    "keywords": [
+      "definicion",
+      "dividendo",
+      "matematico",
+      "cantidad",
+      "partir"
+    ],
+    "base_response": "El dividendo es la parte de la división que representa la cantidad total de elementos u objetos que se desean repartir o fragmentar. Se sitúa tradicionalmente dentro de la galera de división y es la cifra que será sometida a la partición aritmética."
+  },
+  {
+    "intent_id": "funcionamiento_dividendo_matematico",
+    "keywords": [
+      "funcionamiento",
+      "dividendo",
+      "repartir",
+      "porcion",
+      "total"
+    ],
+    "base_response": "El dividendo actúa como el valor inicial que disminuye de forma fraccionada a lo largo del proceso del algoritmo de reparto. Su magnitud define el tamaño máximo del reparto determinando cuántas veces es posible sustraer el divisor antes de agotar la cantidad."
+  },
+  {
+    "intent_id": "errores_comunes_dividendo_matematico",
+    "keywords": [
+      "error",
+      "dividendo",
+      "confundir",
+      "divisor",
+      "posicion"
+    ],
+    "base_response": "Un error conceptual muy recurrente es confundir la posición del dividendo con la del divisor al transcribir una operación de forma horizontal a vertical. Esto resulta en una partición completamente invertida que cambia totalmente el cociente y el significado del reparto."
+  },
+  {
+    "intent_id": "historia_dividendo_matematico",
+    "keywords": [
+      "historia",
+      "dividendo",
+      "etimologia",
+      "latin",
+      "fraccionar"
+    ],
+    "base_response": "La palabra dividendo proviene del vocablo latín dividendum que significa literalmente cantidad que debe ser dividida o fraccionada en porciones iguales. Su uso formal en los textos de aritmética comercial se consolidó durante el renacimiento europeo para estandarizar los términos."
+  },
+  {
+    "intent_id": "aplicacion_vida_real_dividendo",
+    "keywords": [
+      "aplicacion",
+      "dividendo",
+      "presupuesto",
+      "herencia",
+      "dinero"
+    ],
+    "base_response": "Identificamos el dividendo en la vida real al definir la cantidad total de presupuesto asignado para un proyecto escolar que debe repartirse entre varios equipos. También representa el total de una herencia familiar o los metros de tela por cortar."
+  },
+  {
+    "intent_id": "experimento_escolar_dividendo",
+    "keywords": [
+      "experimento",
+      "escuela",
+      "dividendo",
+      "plastilina",
+      "dividir"
+    ],
+    "base_response": "Podemos experimentar con el concepto de dividendo utilizando una barra grande de plastilina de color que representará la masa total a repartir uniformemente. Al pesarla antes de realizar los cortes los estudiantes asimilan que el dividendo es la materia prima del reparto."
+  },
+  {
+    "intent_id": "definicion_divisor_aritmetico",
+    "keywords": [
+      "definicion",
+      "divisor",
+      "aritmetico",
+      "partes",
+      "repartir"
+    ],
+    "base_response": "El divisor es el elemento de la división que señala la cantidad exacta de partes iguales en las que se debe fragmentar el dividendo. Se ubica fuera de la galera de división y determina la magnitud de cada porción resultante en el reparto."
+  },
+  {
+    "intent_id": "funcionamiento_divisor_aritmetico",
+    "keywords": [
+      "funcionamiento",
+      "divisor",
+      "fraccionar",
+      "escala",
+      "partes"
+    ],
+    "base_response": "El divisor funciona como el factor que mide o escala al dividendo indicando el tamaño de los grupos que se van a conformar de manera equitativa. Su valor no puede ser nunca cero en la aritmética real ya que la división por cero es indefinida."
+  },
+  {
+    "intent_id": "errores_comunes_divisor_aritmetico",
+    "keywords": [
+      "error",
+      "divisor",
+      "cero",
+      "indefinido",
+      "division"
+    ],
+    "base_response": "El error conceptual más grave relacionado con el divisor es intentar realizar divisiones matemáticas colocando el valor de cero como divisor de una cantidad. Esta operación carece de sentido lógico y matemático arrojando errores en cualquier calculadora escolar."
+  },
+  {
+    "intent_id": "historia_divisor_aritmetico",
+    "keywords": [
+      "historia",
+      "divisor",
+      "latin",
+      "fraccionar",
+      "matematicos"
+    ],
+    "base_response": "El término divisor tiene raíces en el latín medieval para designar al agente que produce una separación o fraccionamiento físico de un todo homogéneo. Su papel cobró relevancia matemática al desarrollarse el estudio sistemático de los números primos y divisores comunes."
+  },
+  {
+    "intent_id": "aplicacion_vida_real_divisor",
+    "keywords": [
+      "aplicacion",
+      "divisor",
+      "grupos",
+      "organizar",
+      "personas"
+    ],
+    "base_response": "Encontramos el divisor en la vida diaria al determinar el número de grupos escolares en los que debemos organizar a los alumnos de un aula para un torneo de fútbol. También representa la cantidad de cajas disponibles para almacenar alimentos."
+  },
+  {
+    "intent_id": "experimento_escolar_divisor",
+    "keywords": [
+      "experimento",
+      "escuela",
+      "divisor",
+      "vasos",
+      "matematica"
+    ],
+    "base_response": "Una demostración escolar del divisor consiste en colocar varios vasos plásticos rotulados que servirán para recibir un lote de canicas de colores de forma equitativa. Los vasos representan físicamente al divisor demostrando cómo define el reparto total de la actividad."
+  },
+  {
+    "intent_id": "definicion_cociente_numerico",
+    "keywords": [
+      "definicion",
+      "cociente",
+      "numerico",
+      "resultado",
+      "division"
+    ],
+    "base_response": "El cociente es el resultado directo obtenido al realizar una operación matemática de división entre dos números reales cualesquiera. Representa la cantidad exacta que le corresponde a cada una de las partes en las que se dividió el dividendo original."
+  },
+  {
+    "intent_id": "funcionamiento_cociente_numerico",
+    "keywords": [
+      "funcionamiento",
+      "cociente",
+      "calcular",
+      "partes",
+      "entero"
+    ],
+    "base_response": "El cociente se ubica sobre la galera de la división e indica cuántas veces cabe de forma entera el divisor dentro de la cantidad del dividendo. Multiplicado por el divisor da como resultado el dividendo aproximado o exacto de la operación."
+  },
+  {
+    "intent_id": "errores_comunes_cociente_numerico",
+    "keywords": [
+      "error",
+      "cociente",
+      "decimal",
+      "estimacion",
+      "division"
+    ],
+    "base_response": "Un error frecuente al calcular el cociente es omitir los decimales necesarios en divisiones inexactas deteniendo el cálculo de forma prematura en el residuo entero. Esto provoca una pérdida notable de precisión matemática en problemas de medición escolar."
+  },
+  {
+    "intent_id": "historia_cociente_numerico",
+    "keywords": [
+      "historia",
+      "cociente",
+      "latin",
+      "proporcion",
+      "division"
+    ],
+    "base_response": "El término cociente proviene del latín quotiens que se traduce literalmente como cuántas veces se repite una cantidad con respecto a otra de referencia. Su adopción formal facilitó el análisis de razones geométricas y el desarrollo del cálculo infinitesimal."
+  },
+  {
+    "intent_id": "aplicacion_vida_real_cociente",
+    "keywords": [
+      "aplicacion",
+      "cociente",
+      "racion",
+      "comida",
+      "porcion"
+    ],
+    "base_response": "Usamos el cociente al calcular cuántas porciones individuales de pizza le tocan a cada invitado de un cumpleaños infantil escolar. También representa el costo de un paquete al comprar de venta al por mayor. Este valioso concepto matemático es fundamental para el desarrollo del razonamiento lógico de los estudiantes escolares."
+  },
+  {
+    "intent_id": "experimento_escolar_cociente",
+    "keywords": [
+      "experimento",
+      "escuela",
+      "cociente",
+      "galletas",
+      "platos"
+    ],
+    "base_response": "En el aula podemos representar el cociente repartiendo veinticuatro galletas de juguete en cuatro platos de plástico de forma equitativa y ordenada. Al contar las galletas de un solo plato los alumnos identifican que ese valor es el cociente matemático."
+  },
+  {
+    "intent_id": "definicion_residuo_division",
+    "keywords": [
+      "definicion",
+      "residuo",
+      "division",
+      "inexacta",
+      "sobrante"
+    ],
+    "base_response": "El residuo o resto es la cantidad sobrante que resulta de realizar una división matemática inexacta entre dos números enteros positivos. Representa la porción del dividendo que no pudo ser repartida equitativamente por ser menor que el divisor aritmético."
+  },
+  {
+    "intent_id": "funcionamiento_residuo_division",
+    "keywords": [
+      "funcionamiento",
+      "residuo",
+      "menor",
+      "divisor",
+      "sobras"
+    ],
+    "base_response": "El residuo se calcula restando el producto del cociente por el divisor al dividendo original durante el proceso del algoritmo de división. Su valor numérico debe ser estrictamente menor que el divisor para que la división se considere matemáticamente correcta."
+  },
+  {
+    "intent_id": "errores_comunes_residuo_division",
+    "keywords": [
+      "error",
+      "residuo",
+      "mayor",
+      "divisor",
+      "detener"
+    ],
+    "base_response": "Un error muy común es dar por terminada una división cuando el residuo obtenido es mayor o igual que el divisor aritmético de la operación. Esto indica que se pudo haber incrementado el cociente al menos una unidad más."
+  },
+  {
+    "intent_id": "historia_residuo_division",
+    "keywords": [
+      "historia",
+      "residuo",
+      "modulo",
+      "computacion",
+      "origen"
+    ],
+    "base_response": "El concepto de residuo ha sido estudiado desde la antigüedad por matemáticos que buscaban patrones numéricos en calendarios estacionales y ciclos astronómicos regulares. En la actualidad el residuo es la base de la aritmética modular usada en criptografía informática."
+  },
+  {
+    "intent_id": "aplicacion_vida_real_residuo",
+    "keywords": [
+      "aplicacion",
+      "residuo",
+      "sobras",
+      "cajas",
+      "empacar"
+    ],
+    "base_response": "En la vida cotidiana vemos el residuo al colocar quince manzanas en bolsas de cuatro unidades observando que nos sobran tres manzanas sueltas. Esas manzanas restantes representan físicamente el residuo inexacto que no completó una nueva bolsa."
+  },
+  {
+    "intent_id": "experimento_escolar_residuo",
+    "keywords": [
+      "experimento",
+      "escuela",
+      "residuo",
+      "canicas",
+      "grupos"
+    ],
+    "base_response": "Podemos experimentar con el residuo pidiendo a un grupo de trece estudiantes del salón que se organicen en parejas tomados de las manos. Al notar que un alumno se queda sin pareja visualizan físicamente que él representa el residuo de la división."
+  },
+  {
+    "intent_id": "definicion_base_potencia",
+    "keywords": [
+      "definicion",
+      "base",
+      "potencia",
+      "factor",
+      "repetir"
+    ],
+    "base_response": "La base de una potencia es el número fundamental que se multiplica por sí mismo de forma reiterada según lo indique el exponente. Representa el factor constante que se repite y sostiene toda la estructura de la expresión exponencial matemática."
+  },
+  {
+    "intent_id": "funcionamiento_base_potencia",
+    "keywords": [
+      "funcionamiento",
+      "base",
+      "multiplicar",
+      "exponencial",
+      "factor"
+    ],
+    "base_response": "La base funciona como el bloque de construcción numérico multiplicativo de la potencia cuya magnitud determina la tasa de crecimiento de la función. Puede ser cualquier número real positivo negativo fraccionario o decimal dentro del conjunto numérico universal."
+  },
+  {
+    "intent_id": "errores_comunes_base_potencia",
+    "keywords": [
+      "error",
+      "base",
+      "exponente",
+      "multiplicar",
+      "confundir"
+    ],
+    "base_response": "Un error frecuente al trabajar con bases negativas es no utilizar paréntesis al elevarlas a un exponente determinado en los cálculos escolares. Esto altera completamente el signo del resultado final debido a la prioridad de los signos aritméticos."
+  },
+  {
+    "intent_id": "historia_base_potencia",
+    "keywords": [
+      "historia",
+      "base",
+      "potencia",
+      "descartes",
+      "algebra"
+    ],
+    "base_response": "La designación del término base para referirse al factor repetido se popularizó con la sistematización de la notación exponencial realizada por matemáticos europeos coloniales. Descartes consolidó la disposición espacial colocando la base en tamaño grande y el exponente elevado."
+  },
+  {
+    "intent_id": "aplicacion_vida_real_base",
+    "keywords": [
+      "aplicacion",
+      "base",
+      "decimal",
+      "binario",
+      "sistemas"
+    ],
+    "base_response": "La base de potencia se aplica en los sistemas de numeración digital como el sistema binario de base dos que usan las computadoras. También la usamos en el sistema de numeración decimal de base diez para representar cantidades gigantescas."
+  },
+  {
+    "intent_id": "experimento_escolar_base",
+    "keywords": [
+      "experimento",
+      "escuela",
+      "base",
+      "cubos",
+      "volumen"
+    ],
+    "base_response": "En la escuela podemos demostrar el concepto de base utilizando cubos de madera apilables para formar cubos grandes de diferentes tamaños posicionales. Al variar el tamaño de la base de los cubos los alumnos observan cómo influye directamente en el volumen."
+  },
+  {
+    "intent_id": "definicion_exponente_potencia",
+    "keywords": [
+      "definicion",
+      "exponente",
+      "potencia",
+      "veces",
+      "factor"
+    ],
+    "base_response": "El exponente es el número pequeño que se coloca en la parte superior derecha de la base de una potencia matemática. Su función exclusiva es indicar la cantidad exacta de veces que la base debe multiplicarse por sí misma de manera sucesiva."
+  },
+  {
+    "intent_id": "funcionamiento_exponente_potencia",
+    "keywords": [
+      "funcionamiento",
+      "exponente",
+      "base",
+      "repetir",
+      "veces"
+    ],
+    "base_response": "El exponente funciona como un operador multiplicativo que dicta el número de repeticiones del factor base en el cálculo correspondiente de la potencia. Si el exponente es cero el resultado de la potencia es incondicionalmente uno según las leyes algebraicas."
+  },
+  {
+    "intent_id": "errores_comunes_exponente_potencia",
+    "keywords": [
+      "error",
+      "exponente",
+      "sumar",
+      "base",
+      "multiplicar"
+    ],
+    "base_response": "El error clásico consiste en sumar la base la cantidad de veces indicada por el exponente en lugar de multiplicar de forma consecutiva. Otro error es asumir que un exponente negativo hace que la potencia completa adquiera un valor negativo."
+  },
+  {
+    "intent_id": "historia_exponente_potencia",
+    "keywords": [
+      "historia",
+      "exponente",
+      "chuquet",
+      "descartes",
+      "notacion"
+    ],
+    "base_response": "Los primeros indicios de notación para exponentes se encuentran en los trabajos del matemático francés Nicolas Chuquet en el siglo quince de nuestra era. Posteriormente René Descartes simplificó la simbología dándole la apariencia estética moderna que se enseña hoy en día."
+  },
+  {
+    "intent_id": "aplicacion_vida_real_exponente",
+    "keywords": [
+      "aplicacion",
+      "exponente",
+      "terremotos",
+      "sismos",
+      "escala"
+    ],
+    "base_response": "Los exponentes se aplican en la vida real al medir la intensidad de los terremotos en la conocida escala logarítmica de Richter. Cada incremento entero en el exponente de la escala representa un aumento de diez veces en la energía liberada."
+  },
+  {
+    "intent_id": "experimento_escolar_exponente",
+    "keywords": [
+      "experimento",
+      "escuela",
+      "exponente",
+      "bacterias",
+      "doblar"
+    ],
+    "base_response": "Para experimentar con exponentes podemos usar una dinámica grupal de simulación de contagio o propagación de rumores usando tarjetas de colores en el salón. Al duplicar los participantes involucrados en cada etapa los estudiantes comprenden el poder exponencial del crecimiento rápido."
+  },
+  {
+    "intent_id": "definicion_indice_raiz",
+    "keywords": [
+      "definicion",
+      "indice",
+      "raiz",
+      "grado",
+      "radical"
+    ],
+    "base_response": "El índice es el número pequeño ubicado en la abertura del signo de radical que indica el grado de la raíz matemática. Determina cuántas veces se debe multiplicar por sí mismo un número para igualar al radicando de la operación."
+  },
+  {
+    "intent_id": "funcionamiento_indice_raiz",
+    "keywords": [
+      "funcionamiento",
+      "indice",
+      "radical",
+      "potencia",
+      "grado"
+    ],
+    "base_response": "El índice funciona como el inverso directo del exponente de una potencia aritmética permitir el conocimiento de la base original del cálculo realizado. Si el signo de radical no muestra un índice escrito de forma explícita se asume que es dos."
+  },
+  {
+    "intent_id": "errores_comunes_indice_raiz",
+    "keywords": [
+      "error",
+      "indice",
+      "omitir",
+      "cuadrado",
+      "dividir"
+    ],
+    "base_response": "Un error frecuente entre los alumnos es omitir el significado del índice operando todas las raíces como si fueran de grado cuadrado de manera sistemática. Esto les induce a resolver raíces cúbicas o cuartas obteniendo resultados completamente desfasados y erróneos."
+  },
+  {
+    "intent_id": "historia_indice_raiz",
+    "keywords": [
+      "historia",
+      "indice",
+      "raiz",
+      "ruffini",
+      "algebra"
+    ],
+    "base_response": "La necesidad de especificar el índice de una raíz surgió en el renacimiento al estudiar ecuaciones algebraicas de tercer y cuarto grado de dificultad. Matemáticos europeos idearon colocar números pequeños sobre el símbolo del radical para diferenciar las operaciones complejas."
+  },
+  {
+    "intent_id": "aplicacion_vida_real_indice",
+    "keywords": [
+      "aplicacion",
+      "indice",
+      "ingenieria",
+      "volumen",
+      "esferas"
+    ],
+    "base_response": "El índice se aplica en ingeniería acústica y termodinámica al calcular el enfriamiento de gases y la propagación de ondas de sonido complejas. También se utiliza en fórmulas físicas avanzadas para determinar la velocidad de escape en órbitas planetarias."
+  },
+  {
+    "intent_id": "experimento_escolar_indice",
+    "keywords": [
+      "experimento",
+      "escuela",
+      "indice",
+      "cubos",
+      "volumen"
+    ],
+    "base_response": "Podemos experimentar el índice cúbico pidiendo a los estudiantes construir cubos de volumen variable utilizando dados idénticos en el salón de clases. Al medir las aristas descubren cómo el índice tres asocia el volumen total con la longitud del lado."
+  },
+  {
+    "intent_id": "definicion_radicando_subradical",
+    "keywords": [
+      "definicion",
+      "radicando",
+      "subradical",
+      "cantidad",
+      "signo"
+    ],
+    "base_response": "El radicando o cantidad subradical es el número que se encuentra ubicado en el interior del símbolo de radical para ser operado. Representa el valor al cual se le calculará la raíz de grado especificado por el índice de la operación."
+  },
+  {
+    "intent_id": "funcionamiento_radicando_subradical",
+    "keywords": [
+      "funcionamiento",
+      "radicando",
+      "radical",
+      "buscar",
+      "base"
+    ],
+    "base_response": "El radicando funciona como el producto final obtenido de una potencia cuya base original es la cantidad desconocida que debemos hallar mediante el radical. Su valor numérico define las restricciones matemáticas de la operación según el índice sea par."
+  },
+  {
+    "intent_id": "errores_comunes_radicando_subradical",
+    "keywords": [
+      "error",
+      "radicando",
+      "negativo",
+      "par",
+      "imaginario"
+    ],
+    "base_response": "Un error común al calcular raíces es intentar operar un radicando con valor negativo cuando el índice de la raíz es par en aritmética. Esta operación no tiene solución real requiriendo el uso de números imaginarios complejos no escolares."
+  },
+  {
+    "intent_id": "historia_radicando_subradical",
+    "keywords": [
+      "historia",
+      "radicando",
+      "latin",
+      "raiz",
+      "arabes"
+    ],
+    "base_response": "La palabra radicando proviene del latín medieval y hace referencia directa a la base o raíz de una planta de cultivo según traducciones árabes. Los matemáticos de la época asociaban hallar la raíz con desenterrar el origen oculto bajo el símbolo."
+  },
+  {
+    "intent_id": "aplicacion_vida_real_radicando",
+    "keywords": [
+      "aplicacion",
+      "radicando",
+      "fisica",
+      "gravedad",
+      "velocidad"
+    ],
+    "base_response": "En la física el radicando se utiliza al calcular la velocidad de caída de un cuerpo bajo el efecto directo de la gravedad terrestre. El radicando de la fórmula física contiene el doble de la altura multiplicado por la aceleración gravitacional."
+  },
+  {
+    "intent_id": "experimento_escolar_radicando",
+    "keywords": [
+      "experimento",
+      "escuela",
+      "radicando",
+      "canicas",
+      "area"
+    ],
+    "base_response": "Podemos experimentar el concepto de radicando dibujando un cuadrado gigante con tiza de colores en el patio del colegio y llenándolo de canicas uniformes. Las canicas totales representan físicamente el radicando cuya raíz es el número de canicas de un lado."
+  },
+  {
+    "intent_id": "definicion_leyes_exponentes",
+    "keywords": [
+      "definicion",
+      "leyes",
+      "exponentes",
+      "reglas",
+      "potencias"
+    ],
+    "base_response": "Las leyes de los exponentes son el conjunto de reglas matemáticas fundamentales que dictan cómo simplificar operaciones que involucran potencias de igual base. Estas leyes universales permiten reducir cálculos de multiplicación división y elevación de potencias de forma rápida."
+  },
+  {
+    "intent_id": "funcionamiento_leyes_exponentes",
+    "keywords": [
+      "funcionamiento",
+      "leyes",
+      "exponentes",
+      "sumar",
+      "restar"
+    ],
+    "base_response": "Para aplicar las leyes sumamos los exponentes si las bases iguales se están multiplicando y los restamos si las bases se están dividiendo entre sí. Si elevamos una potencia a otro exponente multiplicamos directamente los exponentes involucrados conservando la base."
+  },
+  {
+    "intent_id": "errores_comunes_leyes_exponentes",
+    "keywords": [
+      "error",
+      "leyes",
+      "exponentes",
+      "bases",
+      "sumar"
+    ],
+    "base_response": "Un error sumamente destructivo es intentar sumar o restar las bases de las potencias al aplicar las leyes de multiplicación o división de exponentes. Otro fallo frecuente es multiplicar los exponentes al multiplicar potencias con la misma base aritmética."
+  },
+  {
+    "intent_id": "historia_leyes_exponentes",
+    "keywords": [
+      "historia",
+      "leyes",
+      "exponentes",
+      "euclides",
+      "descartes"
+    ],
+    "base_response": "El desarrollo sistemático de las leyes de los exponentes se consolidó a la par del perfeccionamiento de la notación algebraica entre los siglos dieciséis y diecisiete. Euclides enunció reglas geométricas precursoras y René Descartes las formalizó con la simbología actual."
+  },
+  {
+    "intent_id": "aplicacion_vida_real_leyes_exponentes",
+    "keywords": [
+      "aplicacion",
+      "leyes",
+      "exponentes",
+      "cientifica",
+      "computacion"
+    ],
+    "base_response": "Las leyes de los exponentes se aplican en la ciencia para realizar cálculos rápidos usando la notación científica al medir distancias astronómicas gigantescas. También las aplican los desarrolladores de microprocesadores informáticos para optimizar el procesamiento de datos digitales."
+  },
+  {
+    "intent_id": "experimento_escolar_leyes_exponentes",
+    "keywords": [
+      "experimento",
+      "escuela",
+      "leyes",
+      "tarjetas",
+      "potencias"
+    ],
+    "base_response": "En el aula podemos visualizar las leyes de los exponentes utilizando tarjetas de cartulina que muestren factores multiplicativos repetidos de un número. Al agrupar separar o apilar las tarjetas físicas los alumnos descubren de manera táctil el origen de las reglas matemáticas."
+  },
+  {
+    "intent_id": "ventajas_suma_aritmetica",
+    "keywords": [
+      "ventaja",
+      "suma",
+      "rapidez",
+      "adicion",
+      "beneficio"
+    ],
+    "base_response": "La principal ventaja de la suma es su extrema rapidez y simplicidad para acumular datos de forma exacta e intuitiva en cualquier situación cotidiana. Sin embargo su desventaja es que se vuelve ineficiente para manejar repeticiones masivas requiriendo de la multiplicación."
+  },
+  {
+    "intent_id": "ventajas_resta_aritmetica",
+    "keywords": [
+      "ventaja",
+      "resta",
+      "control",
+      "perdida",
+      "beneficio"
+    ],
+    "base_response": "La resta ofrece la ventaja inigualable de controlar el inventario y conocer con exactitud el desperdicio o pérdida de materiales en una obra civil. No obstante se dificulta cuando el sustraendo supera al minuendo requiriendo la introducción de números negativos."
+  },
+  {
+    "intent_id": "ventajas_multiplicacion_matematica",
+    "keywords": [
+      "ventaja",
+      "multiplicacion",
+      "velocidad",
+      "calculo",
+      "sumar"
+    ],
+    "base_response": "La multiplicación permite ahorrar una cantidad enorme de tiempo al calcular sumas repetidas de un mismo número de forma casi instantánea. La única desventaja radica en la necesidad de memorizar previamente las tablas de multiplicar para operar con fluidez."
+  },
+  {
+    "intent_id": "ventajas_division_exacta",
+    "keywords": [
+      "ventaja",
+      "division",
+      "equidad",
+      "justicia",
+      "reparto"
+    ],
+    "base_response": "La división exacta garantiza una equidad y justicia absoluta en los procesos de reparto social de bienes recursos o herencias familiares directas. Su desventaja práctica es que la mayoría de repartos cotidianos reales resultan inexactos requiriendo el uso complejo de decimales."
+  },
+  {
+    "intent_id": "ventajas_potencias_numericas",
+    "keywords": [
+      "ventaja",
+      "potencia",
+      "abreviar",
+      "espacio",
+      "multiplicar"
+    ],
+    "base_response": "Las potencias permiten representar números colosales de forma extremadamente compacta ahorrando espacio y esfuerzo de escritura en las pizarras científicas de todo el mundo. La desventaja es que un pequeño error en el exponente cambia radicalmente el resultado final."
+  },
+  {
+    "intent_id": "ventajas_raices_cuadradas",
+    "keywords": [
+      "ventaja",
+      "raiz",
+      "area",
+      "lado",
+      "dimension"
+    ],
+    "base_response": "La raíz cuadrada es una herramienta matemática sumamente valiosa para calcular instantáneamente el lado de cualquier superficie cuadrada si conocemos su área superficial. Su limitación principal es que calcular aproximaciones decimales manualmente resulta un proceso sumamente lento y tedioso."
+  },
+  {
+    "intent_id": "ventajas_jerarquia_operaciones",
+    "keywords": [
+      "ventaja",
+      "jerarquia",
+      "orden",
+      "consistencia",
+      "reglas"
+    ],
+    "base_response": "La jerarquía de operaciones brinda consistencia absoluta asegurando que una ecuación matemática sea interpretada de idéntica manera por cualquier científico o calculadora del planeta. La desventaja es que requiere el cumplimiento estricto y riguroso de reglas memorizadas sin excepción."
+  },
+  {
+    "intent_id": "ventajas_conmutativa_adicion",
+    "keywords": [
+      "ventaja",
+      "conmutativa",
+      "libertad",
+      "flexibilidad",
+      "orden"
+    ],
+    "base_response": "La conmutatividad de la adición da la libertad de sumar números en el orden que nos resulte más cómodo para el cálculo mental rápido. La desventaja es que puede confundir a estudiantes novatos al intentar aplicarla erróneamente a la sustracción."
+  },
+  {
+    "intent_id": "ventajas_asociativa_producto",
+    "keywords": [
+      "ventaja",
+      "asociativa",
+      "agrupar",
+      "facilidad",
+      "calculo"
+    ],
+    "base_response": "La propiedad asociativa del producto facilita enormemente la multiplicación mental de cifras grandes al permitirnos agrupar factores de forma que den decenas redondas. No obstante requiere comprender bien los paréntesis para no alterar el orden de otras operaciones."
+  },
+  {
+    "intent_id": "ventajas_propiedad_distributiva",
+    "keywords": [
+      "ventaja",
+      "distributiva",
+      "simplificar",
+      "algebra",
+      "parentesis"
+    ],
+    "base_response": "La propiedad distributiva simplifica la resolución de expresiones algebraicas complejas al eliminar paréntesis y permitir agrupar términos semejantes de manera idónea y ordenada. Su desventaja es la alta probabilidad de cometer errores de signos al distribuir factores negativos."
+  },
+  {
+    "intent_id": "ventajas_neutro_multiplicativo",
+    "keywords": [
+      "ventaja",
+      "elemento",
+      "neutro",
+      "simplificar",
+      "identidad"
+    ],
+    "base_response": "El elemento neutro multiplicativo facilita la resolución de ecuaciones algebraicas y la simplificación de fracciones al actuar como una identidad inalterable en aritmética avanzada. La desventaja es que suele omitirse en la escritura algebraica causando confusión en alumnos iniciales."
+  },
+  {
+    "intent_id": "ventajas_inverso_aditivo",
+    "keywords": [
+      "ventaja",
+      "inverso",
+      "cancelar",
+      "deudas",
+      "balance"
+    ],
+    "base_response": "El inverso aditivo permite balancear cuentas y cancelar deudas de manera sumamente precisa y exacta en cualquier sistema contable comercial e industrial moderno. La desventaja es que requiere el manejo sólido de los números negativos que suele dificultar el aprendizaje."
+  },
+  {
+    "intent_id": "ventajas_algoritmo_division",
+    "keywords": [
+      "ventaja",
+      "algoritmo",
+      "division",
+      "exactitud",
+      "proceso"
+    ],
+    "base_response": "El algoritmo tradicional de división ofrece un método sistemático altamente confiable para resolver repartos de números sumamente grandes sin necesidad de herramientas digitales avanzadas. La desventaja es que consta de múltiples pasos mecánicos que propician errores por distracción."
+  },
+  {
+    "intent_id": "ventajas_dividendo_matematico",
+    "keywords": [
+      "ventaja",
+      "dividendo",
+      "definido",
+      "precision",
+      "volumen"
+    ],
+    "base_response": "Tener un dividendo definido y preciso es la ventaja que nos permite planificar con total exactitud presupuestos y compras antes de realizar cualquier reparto físico. La desventaja es que si el dividendo es incorrecto todo el proceso de partición posterior resulta inservible."
+  },
+  {
+    "intent_id": "ventajas_divisor_aritmetico",
+    "keywords": [
+      "ventaja",
+      "divisor",
+      "organizar",
+      "grupos",
+      "control"
+    ],
+    "base_response": "El divisor proporciona la ventaja de conocer de antemano el tamaño de los grupos organizativos para optimizar recursos en cualquier evento o fábrica manufacturera. Su desventaja matemática es que limita la operación impidiendo tajantemente dividir por el valor de cero."
+  },
+  {
+    "intent_id": "ventajas_cociente_numerico",
+    "keywords": [
+      "ventaja",
+      "cociente",
+      "resultado",
+      "unitario",
+      "distribucion"
+    ],
+    "base_response": "La ventaja del cociente es que nos da el valor unitario exacto de cada porción en un reparto permitiendo una distribución justa y transparente de recursos. Su limitación es que en divisiones inexactas requiere de infinitos decimales para alcanzar una precisión absoluta."
+  },
+  {
+    "intent_id": "ventajas_residuo_division",
+    "keywords": [
+      "ventaja",
+      "residuo",
+      "sobras",
+      "control",
+      "optimizacion"
+    ],
+    "base_response": "El residuo nos permite conocer con exactitud el material restante que no completó un grupo ayudando a optimizar procesos de empaque industrial de forma inteligente. La desventaja es que representa un desperdicio o ineficiencia temporal en la distribución de recursos."
+  },
+  {
+    "intent_id": "ventajas_base_potencia",
+    "keywords": [
+      "ventaja",
+      "base",
+      "constante",
+      "estructura",
+      "calculo"
+    ],
+    "base_response": "La ventaja de definir una base constante es que simplifica notablemente el análisis de crecimientos progresivos en ciencias físicas químicas y biológicas de manera uniforme. No obstante su cálculo se dificulta de sobremanera si la base contiene decimales o fracciones complejas."
+  },
+  {
+    "intent_id": "ventajas_exponente_potencia",
+    "keywords": [
+      "ventaja",
+      "exponente",
+      "escala",
+      "magnitud",
+      "simplificacion"
+    ],
+    "base_response": "El exponente ofrece la gran ventaja de simplificar la representación de magnitudes astronómicas o microscópicas en una notación matemática sumamente compacta y elegante de leer. La desventaja es que pequeños cambios en el exponente alteran la cifra final de forma desmesurada."
+  },
+  {
+    "intent_id": "ventajas_indice_raiz",
+    "keywords": [
+      "ventaja",
+      "indice",
+      "dimension",
+      "grado",
+      "precision"
+    ],
+    "base_response": "El índice de la raíz permite cambiar con total flexibilidad la dimensión del cálculo pasando de áreas bidimensionales a volúmenes tridimensionales con gran facilidad y precisión. La limitación es que índices pares no admiten radicandos negativos dentro de la aritmética escolar."
+  },
+  {
+    "intent_id": "ventajas_radicando_subradical",
+    "keywords": [
+      "ventaja",
+      "radicando",
+      "origen",
+      "valor",
+      "descomposicion"
+    ],
+    "base_response": "La ventaja de conocer el radicando es que nos da el punto de partida exacto para hallar el origen o factor base que generó una potencia determinada. Su desventaja es que suele requerir métodos de factorización laboriosos si no es un cuadrado perfecto."
+  },
+  {
+    "intent_id": "ventajas_leyes_exponentes",
+    "keywords": [
+      "ventaja",
+      "leyes",
+      "simplificar",
+      "calculos",
+      "reglas"
+    ],
+    "base_response": "Las leyes de los exponentes tienen la enorme ventaja de simplificar ecuaciones complejas reduciendo operaciones de multiplicación a simples sumas y divisiones a restas de potencias. Su desventaja es que exige una memorización precisa de sus reglas para evitar confusiones."
+  },
+  {
+    "intent_id": "futuro_suma_aritmetica",
+    "keywords": [
+      "futuro",
+      "suma",
+      "computacion",
+      "hito",
+      "aritmetica"
+    ],
+    "base_response": "En el futuro de la informática cuántica la suma se realizará utilizando compuertas lógicas superpuestas que permitirán procesar miles de adiciones complejas simultáneamente a la velocidad de la luz. Esto revolucionará el desarrollo de simulaciones climáticas globales y la inteligencia artificial."
+  },
+  {
+    "intent_id": "futuro_resta_aritmetica",
+    "keywords": [
+      "futuro",
+      "resta",
+      "algoritmos",
+      "optimizacion",
+      "velocidad"
+    ],
+    "base_response": "Los futuros procesadores de silicio utilizarán algoritmos de sustracción optimizados a nivel molecular para calcular diferencias físicas con un menor consumo energético. Esto permitirá crear dispositivos electrónicos ultraeficientes que funcionarán de forma continua con baterías microscópicas de larga duración."
+  },
+  {
+    "intent_id": "futuro_multiplicacion_matematica",
+    "keywords": [
+      "futuro",
+      "multiplicacion",
+      "procesadores",
+      "graficos",
+      "velocidad"
+    ],
+    "base_response": "La multiplicación en el futuro se optimizará mediante coprocesadores ópticos que multiplicarán matrices de datos gigantescas usando rayos láser en lugar de impulsos eléctricos tradicionales. Esto permitirá acelerar drásticamente el renderizado de gráficos tridimensionales en realidad virtual inmersiva."
+  },
+  {
+    "intent_id": "futuro_division_exacta",
+    "keywords": [
+      "futuro",
+      "division",
+      "computo",
+      "exacto",
+      "cifrado"
+    ],
+    "base_response": "En el futuro de la ciberseguridad la división exacta se aplicará en algoritmos de cifrado postcuántico que protegerán las comunicaciones globales contra cualquier intento de hackeo informático. Estos sistemas se basarán en la partición exacta de números primos extremadamente grandes y complejos."
+  },
+  {
+    "intent_id": "futuro_potencias_numericas",
+    "keywords": [
+      "futuro",
+      "potencia",
+      "crecimiento",
+      "datos",
+      "almacenamiento"
+    ],
+    "base_response": "Las potencias se utilizarán en el futuro para medir el crecimiento exponencial de los datos mundiales que se almacenarán en dispositivos moleculares de ADN sintético. Esto permitirá albergar toda la información del planeta en un espacio físico no mayor al de una canica."
+  },
+  {
+    "intent_id": "futuro_raices_cuadradas",
+    "keywords": [
+      "futuro",
+      "raiz",
+      "modelado",
+      "holografico",
+      "ingenieria"
+    ],
+    "base_response": "Las raíces cuadradas serán procesadas instantáneamente por motores de cálculo holográfico para diseñar materiales de construcción con resistencias mecánicas perfectas y pesos ultraligeros. Esto facilitará la construcción de rascacielos curvos y hábitats espaciales estables en la Luna."
+  },
+  {
+    "intent_id": "futuro_jerarquia_operaciones",
+    "keywords": [
+      "futuro",
+      "jerarquia",
+      "compiladores",
+      "automatizacion",
+      "codigo"
+    ],
+    "base_response": "Los futuros compiladores basados en redes neuronales aplicarán de forma automática la jerarquía de operaciones optimizando el orden de ejecución de los programas para maximizar el rendimiento. Esto permitirá que el software de automóviles autónomos tome decisiones de seguridad en microsegundos."
+  },
+  {
+    "intent_id": "futuro_conmutativa_adicion",
+    "keywords": [
+      "futuro",
+      "conmutativa",
+      "bases",
+      "datos",
+      "distribuidas"
+    ],
+    "base_response": "La propiedad conmutativa se aplicará en el futuro para diseñar bases de datos distribuidas globalmente que sincronizarán transacciones financieras sin importar el orden de llegada de los paquetes de información. Esto eliminará las latencias de red en el comercio electrónico internacional."
+  },
+  {
+    "intent_id": "futuro_asociativa_producto",
+    "keywords": [
+      "futuro",
+      "asociativa",
+      "redes",
+      "computo",
+      "paralelo"
+    ],
+    "base_response": "En las futuras redes de computación en la nube la propiedad asociativa permitirá fragmentar y procesar tareas de multiplicación complejas en diferentes servidores alrededor del planeta de manera simultánea. Al unificar los resultados de forma flexible se acelerará el análisis científico."
+  },
+  {
+    "intent_id": "futuro_propiedad_distributiva",
+    "keywords": [
+      "futuro",
+      "distributiva",
+      "algoritmos",
+      "aprendizaje",
+      "maquinal"
+    ],
+    "base_response": "La propiedad distributiva será clave para acelerar el entrenamiento de modelos de aprendizaje profundo en chips de inteligencia artificial neuromórfica que imitarán el cerebro humano. Al distribuir cálculos de manera eficiente se reducirá el consumo eléctrico de los centros de cómputo."
+  },
+  {
+    "intent_id": "futuro_neutro_multiplicativo",
+    "keywords": [
+      "futuro",
+      "neutro",
+      "circuitos",
+      "logica",
+      "binaria"
+    ],
+    "base_response": "El elemento neutro multiplicativo se utilizará en el futuro para validar la integridad de señales en circuitos integrados de computación cuántica que operarán a temperaturas extremadamente bajas de cero absoluto. Esto garantizará la transmisión de datos sin errores de ruido ambiental."
+  }
+]
