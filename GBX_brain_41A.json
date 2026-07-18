@@ -1,0 +1,2134 @@
+[
+  {
+    "intent_id": "algoritmos_de_logica_computacional_definicion",
+    "keywords": [
+      "estructura",
+      "algoritmo",
+      "pasos",
+      "operadores"
+    ],
+    "base_response": "En la lógica computacional, un algoritmo se estructura como una secuencia ordenada de pasos, construida sobre operadores lógicos y condicionales, formando una jerarquía que facilita la representación y ejecución de procesos, y que descompone problemas complejos en operaciones simples y verificables."
+  },
+  {
+    "intent_id": "algoritmos_de_logica_computacional_dinamica",
+    "keywords": [
+      "puerta",
+      "senal",
+      "circuito",
+      "procesar"
+    ],
+    "base_response": "Imagina una pista de trenes donde cada carril representa una puerta lógica y las locomotoras son pulsos de energía; al mover las rieles, la señal decide si el tren avanza, detiene o cambia de lado, mostrando cómo los algoritmos usan lógica para guiar datos."
+  },
+  {
+    "intent_id": "algoritmos_de_logica_computacional_errores",
+    "keywords": [
+      "errores",
+      "variables",
+      "condiciones",
+      "depurar",
+      "bucle",
+      "desbordar"
+    ],
+    "base_response": "Los estudiantes deben comprender que los errores tipográficos, las variables mal nombradas y las condiciones sin cobertura provocan fallas lógicas. Identificando cuellos de botella, pruebas exhaustivas y depuradores, evitan patologías comunes como bucles infinitos y desbordamientos de pila, mejorando la confiabilidad de sus algoritmos."
+  },
+  {
+    "intent_id": "algoritmos_de_logica_computacional_historia",
+    "keywords": [
+      "logica",
+      "algoritmos",
+      "turing",
+      "godel"
+    ],
+    "base_response": "La historia de los algoritmos de lógica computacional surge con los trabajos de Gödel y Turing, quienes establecieron bases matemáticas para el razonamiento automático. Sus ideas inspiraron las primeras computadoras de propósito general y motivaron investigaciones sobre inteligencia artificial durante las décadas de 1950 y 1960."
+  },
+  {
+    "intent_id": "algoritmos_de_logica_computacional_contexto",
+    "keywords": [
+      "algoritmos",
+      "energia",
+      "sensores",
+      "modelado",
+      "ecologia",
+      "optimizar"
+    ],
+    "base_response": "En la actualidad, los algoritmos de lógica computacional se emplean para gestionar datos ambientales, optimizando el uso de energía y reduciendo la huella ecológica de los centros de datos, mientras evalúan impactos en ecosistemas mediante modelado predictivo y sensores distribuidos."
+  },
+  {
+    "intent_id": "algoritmos_de_logica_computacional_aplicaciones",
+    "keywords": [
+      "algoritmos",
+      "logica",
+      "computacion",
+      "resolucion",
+      "problemas"
+    ],
+    "base_response": "Los algoritmos de lógica computacional permiten organizar pasos claros para resolver tareas cotidianas, como planificar rutas eficientes, clasificar objetos según criterios o automatizar decisiones simples. Ayudan a comprender cómo estructurar procesos y optimizar acciones en situaciones reales."
+  },
+  {
+    "intent_id": "algoritmos_de_logica_computacional_importancia",
+    "keywords": [
+      "algoritmos",
+      "logica",
+      "impacto",
+      "sociedad",
+      "tecnologia"
+    ],
+    "base_response": "Los algoritmos basados en lógica computacional influyen directamente en decisiones sociales, desde la gestión de datos públicos hasta la automatización responsable. Su correcta aplicación favorece transparencia, equidad y eficiencia, evitando sesgos y fortaleciendo la confianza en sistemas digitales que afectan la vida cotidiana."
+  },
+  {
+    "intent_id": "algoritmos_de_logica_computacional_ventajas",
+    "keywords": [
+      "algoritmos",
+      "logica",
+      "ventajas",
+      "desventajas"
+    ],
+    "base_response": "Los algoritmos basados en lógica computacional ofrecen precisión y verificación formal, reduciendo errores de software, pero su elaboración compleja y requerimiento de conocimientos matemáticos pueden ralentizar el proceso de desarrollo, dificultando su uso con equipos principiantes."
+  },
+  {
+    "intent_id": "algoritmos_de_logica_computacional_riesgos",
+    "keywords": [
+      "algoritmos",
+      "seguridad",
+      "riesgos",
+      "proteccion",
+      "datos"
+    ],
+    "base_response": "Los algoritmos de lógica computacional pueden fallar si reciben datos manipulados, generando decisiones incorrectas. Es esencial enseñar a verificar entradas, evitar compartir información sensible y comprender cómo detectar comportamientos anómalos que indiquen riesgos de seguridad en sistemas automatizados."
+  },
+  {
+    "intent_id": "algoritmos_de_logica_computacional_clasificacion",
+    "keywords": [
+      "algoritmos",
+      "logica",
+      "clasificacion",
+      "taxonomia"
+    ],
+    "base_response": "En esta unidad, los alumnos exploran la taxonomía de algoritmos lógicos, distinguiendo entre aproximaciones proposicionales, de predicados y de inferencia automática, analizando sus estructuras, complejidades y aplicaciones en circuitos y programas, y luego clasifican ejemplos concretos en categorías."
+  },
+  {
+    "intent_id": "algoritmos_de_logica_computacional_calculos",
+    "keywords": [
+      "algoritmos",
+      "calculos",
+      "formulas",
+      "logica"
+    ],
+    "base_response": "Los algoritmos de lógica computacional emplean cálculos precisos para evaluar condiciones y transformar datos. Se usan fórmulas booleanas que combinan operadores como AND, OR y NOT, permitiendo determinar resultados numéricos y decisiones automáticas. Estos cálculos garantizan procesos coherentes y eficientes."
+  },
+  {
+    "intent_id": "algoritmos_de_logica_computacional_mitos",
+    "keywords": [
+      "algoritmos",
+      "logica",
+      "mito",
+      "programacion"
+    ],
+    "base_response": "Los niños a menudo creen que los algoritmos son máquinas mágicas que resuelven cualquier problema sin esfuerzo; en realidad, dependen de pasos lógicos claros. El mito de que la programación es solo escribir código y escapa de análisis exhaustivo es falso."
+  },
+  {
+    "intent_id": "algoritmos_de_logica_computacional_relacion",
+    "keywords": [
+      "algoritmos",
+      "logica",
+      "sistemas",
+      "interaccion"
+    ],
+    "base_response": "Los algoritmos de lógica computacional establecen una relación simbiótica con otros sistemas al intercambiar información, optimizar procesos y coordinar decisiones. Esta interacción permite que múltiples componentes tecnológicos colaboren, se adapten y evolucionen juntos, fortaleciendo la eficiencia global del entorno digital."
+  },
+  {
+    "intent_id": "algoritmos_de_logica_computacional_transformacion",
+    "keywords": [
+      "algoritmos",
+      "transformacion",
+      "ciclos",
+      "energia",
+      "procesos"
+    ],
+    "base_response": "Los algoritmos de lógica computacional pueden explicarse mediante la idea de transformación y ciclos energéticos, donde cada paso convierte datos en nuevos estados. Estos ciclos representan flujos constantes de información que se renueva, optimiza recursos y mantiene el sistema funcionando de manera estable."
+  },
+  {
+    "intent_id": "algoritmos_de_logica_computacional_experimentos",
+    "keywords": [
+      "experimentos",
+      "logica",
+      "algoritmos",
+      "demostraciones"
+    ],
+    "base_response": "Los niños constan de experimentos lúdicos donde combinan bloques de lógica para crear algoritmos sencillos, observan resultados y depuran errores, aprendiendo que cada paso lógica controla el flujo y la toma de decisiones dentro de un programa."
+  },
+  {
+    "intent_id": "algoritmos_de_logica_computacional_consecuencias",
+    "keywords": [
+      "algoritmos",
+      "logica",
+      "futuro",
+      "impacto"
+    ],
+    "base_response": "Comprender algoritmos de lógica computacional permite anticipar cómo decisiones tecnológicas actuales influirán en sistemas futuros. Un uso responsable favorece soluciones sostenibles, evita errores persistentes y promueve desarrollos éticos que afectarán la calidad de vida digital de próximas generaciones durante largos periodos."
+  },
+  {
+    "intent_id": "algoritmos_de_logica_computacional_impacto",
+    "keywords": [
+      "eficiencia",
+      "minimizar",
+      "huella",
+      "carbono",
+      "sostenibilidad"
+    ],
+    "base_response": "Al diseñar algoritmos lógicos, los estudiantes aprenden a minimizar ciclos redundantes, reduciendo el consumo energético y la huella de carbono del impacto ambiental de los servidores, promoviendo software más limpio y sostenible que favorece el planeta y el futuro educativo."
+  },
+  {
+    "intent_id": "algoritmos_de_logica_computacional_mantenimiento",
+    "keywords": [
+      "algoritmos",
+      "logica",
+      "prevencion",
+      "errores",
+      "verificacion"
+    ],
+    "base_response": "El mantenimiento en algoritmos de lógica computacional implica revisar pasos lógicos para evitar fallos, detectar inconsistencias y asegurar que las condiciones se cumplan siempre. La prevención se logra mediante pruebas periódicas, validación de entradas y corrección temprana de patrones que puedan generar errores futuros."
+  },
+  {
+    "intent_id": "algoritmos_de_logica_computacional_proyecciones",
+    "keywords": [
+      "algoritmos",
+      "logica",
+      "futuro",
+      "tecnologia"
+    ],
+    "base_response": "Los algoritmos de lógica computacional impulsarán tecnologías futuras capaces de anticipar escenarios complejos, optimizar decisiones y coordinar sistemas autónomos. Su evolución permitirá máquinas más inteligentes, capaces de aprender patrones, proyectar tendencias y colaborar con humanos en entornos digitales avanzados."
+  },
+  {
+    "intent_id": "codigo_fuente_de_programacion_definicion",
+    "keywords": [
+      "codigo",
+      "estructura",
+      "funciones",
+      "compilador",
+      "comentarios"
+    ],
+    "base_response": "El código fuente es la escritura humana de instrucciones que organiza la lógica de un programa; se compone de líneas, declaraciones, funciones y comentarios que, al compilar, se transforman en lenguaje máquina, representando la arquitectura mental del software."
+  },
+  {
+    "intent_id": "codigo_fuente_de_programacion_dinamica",
+    "keywords": [
+      "codigo",
+      "computadora",
+      "hardware",
+      "procesos",
+      "traduccion"
+    ],
+    "base_response": "El código fuente se transforma físicamente en señales eléctricas que recorren el hardware. Cada instrucción se convierte en impulsos que activan componentes internos, coordinando memoria, procesador y dispositivos. Esta dinámica permite que el texto escrito por el programador se vuelva acción real dentro de la máquina."
+  },
+  {
+    "intent_id": "codigo_fuente_de_programacion_errores",
+    "keywords": [
+      "errores",
+      "fallas",
+      "bugs",
+      "depuracion"
+    ],
+    "base_response": "Los errores en el código fuente suelen surgir por sintaxis incorrecta, variables mal definidas o lógica defectuosa. Estas fallas provocan comportamientos inesperados, bloqueos y resultados erróneos. Comprender su origen permite detectar patrones problemáticos y mejorar la calidad del programa mediante depuración constante."
+  },
+  {
+    "intent_id": "codigo_fuente_de_programacion_historia",
+    "keywords": [
+      "historia",
+      "origen",
+      "evolucion",
+      "programacion"
+    ],
+    "base_response": "El código fuente surgió con los primeros lenguajes de programación en los años cincuenta, cuando se buscaba una forma más comprensible de indicar instrucciones a las computadoras. Con el tiempo evolucionó desde lenguajes muy básicos hasta sistemas modernos que permiten crear software complejo y accesible."
+  },
+  {
+    "intent_id": "codigo_fuente_de_programacion_contexto",
+    "keywords": [
+      "codigo",
+      "fuente",
+      "ecosistema",
+      "impacto",
+      "recursos"
+    ],
+    "base_response": "El código fuente es la base de cualquier aplicación; su creación y uso influyen en el consumo de energía y la generación de residuos tecnológicos. Elegir lenguajes eficientes reduce la huella de carbono, mientras la colaboración abierta promueve prácticas sostenibles y reduce el desperdicio de recursos."
+  },
+  {
+    "intent_id": "codigo_fuente_de_programacion_aplicaciones",
+    "keywords": [
+      "programar",
+      "crear",
+      "ejecutar",
+      "compilar"
+    ],
+    "base_response": "Código fuente actúa como manual para las máquinas, transformándose en instrucciones que generan cosas como videojuegos, apps de clima, escáneres de alimentos o sistemas de ayuda a la movilidad, demostrando cómo la lógica ordenada alimenta soluciones cotidianas."
+  },
+  {
+    "intent_id": "codigo_fuente_de_programacion_importancia",
+    "keywords": [
+      "programar",
+      "comunidad",
+      "transparencia",
+      "empleo",
+      "innovacion"
+    ],
+    "base_response": "El código fuente conecta al joven con la lógica del mundo digital, creando empleo y fomentando la transparencia; su uso abierto inspira innovación social, permite desarrollos sostenibles y empodera a comunidades, demostrando cómo la programación puede cambiar vidas y fortalecer entornos."
+  },
+  {
+    "intent_id": "codigo_fuente_de_programacion_ventajas",
+    "keywords": [
+      "codigo",
+      "programacion",
+      "ventajas",
+      "desventajas",
+      "comparacion"
+    ],
+    "base_response": "El código fuente ofrece claridad para aprender, modificar y corregir programas, pero requiere tiempo y conocimientos para entenderlo. Facilita la colaboración y la creatividad, aunque puede generar errores si se escribe sin cuidado. Comparado con el código máquina, resulta más accesible pero menos eficiente."
+  },
+  {
+    "intent_id": "codigo_fuente_de_programacion_riesgos",
+    "keywords": [
+      "codigo",
+      "seguridad",
+      "riesgos",
+      "proteccion",
+      "acceso"
+    ],
+    "base_response": "Compartir código fuente sin cuidado puede exponer datos sensibles, permitir modificaciones maliciosas y facilitar ataques. Es esencial usar contraseñas seguras, controlar permisos, evitar descargas desconocidas y revisar siempre el origen del código para mantener la integridad y proteger la información personal."
+  },
+  {
+    "intent_id": "codigo_fuente_de_programacion_clasificacion",
+    "keywords": [
+      "lenguaje",
+      "paradigma",
+      "sintaxis",
+      "abstraccion"
+    ],
+    "base_response": "El código fuente se clasifica por su paradigma, sintaxis, y el nivel de abstracción, distinguiendo lenguaje de máquina, ensamblador, scripting y código escrito, lo que permite a los niños entender cómo se agrupan los programas y se organizan los componentes."
+  },
+  {
+    "intent_id": "codigo_fuente_de_programacion_calculos",
+    "keywords": [
+      "calculos",
+      "formulas",
+      "variables",
+      "operaciones"
+    ],
+    "base_response": "El código fuente permite crear cálculos usando variables y operadores que transforman datos. Los programas aplican fórmulas matemáticas para sumar, restar o combinar valores y producir resultados precisos. Comprender estas operaciones ayuda a construir algoritmos que resuelven problemas numéricos de manera eficiente."
+  },
+  {
+    "intent_id": "codigo_fuente_de_programacion_mitos",
+    "keywords": [
+      "codigo",
+      "programacion",
+      "mitos",
+      "errores",
+      "computadora"
+    ],
+    "base_response": "Muchos creen que el código fuente es mágico, que funciona solo o que cualquier error lo arruina por completo. También se piensa que todas las computadoras entienden directamente el código escrito por humanos. Estas ideas confunden el verdadero proceso de traducción y ejecución."
+  },
+  {
+    "intent_id": "codigo_fuente_de_programacion_relacion",
+    "keywords": [
+      "codigo",
+      "sistemas",
+      "interaccion",
+      "traduccion",
+      "computadora"
+    ],
+    "base_response": "El código fuente mantiene una relación simbiótica con otros sistemas porque depende de compiladores, intérpretes y hardware para transformarse y ejecutarse. Estos sistemas también requieren del código para funcionar, creando un ciclo colaborativo donde cada componente potencia las capacidades del otro."
+  },
+  {
+    "intent_id": "codigo_fuente_de_programacion_transformacion",
+    "keywords": [
+      "codigo",
+      "fuente",
+      "transformar",
+      "energia",
+      "ciclos"
+    ],
+    "base_response": "El código fuente es la receta que transforma pensamientos en instrucciones que la computadora procesa, consumiendo energía en cada ciclo de CPU; de esta manera, la máquina convierte la electricidad en órdenes concretas, respaldada por compiladores que convierten el lenguaje humano en código máquina."
+  },
+  {
+    "intent_id": "codigo_fuente_de_programacion_experimentos",
+    "keywords": [
+      "codigo",
+      "programacion",
+      "experimentos",
+      "demostraciones",
+      "computadora"
+    ],
+    "base_response": "Los estudiantes observan cómo un programa simple escrito en código fuente se transforma en acciones visibles. Se muestra el texto original, luego se compila y finalmente se ejecuta, permitiendo comparar cada etapa y comprender cómo la computadora interpreta instrucciones humanas mediante demostraciones prácticas."
+  },
+  {
+    "intent_id": "codigo_fuente_de_programacion_consecuencias",
+    "keywords": [
+      "codigo",
+      "programacion",
+      "impacto",
+      "futuro",
+      "responsabilidad"
+    ],
+    "base_response": "Comprender el código fuente permite anticipar consecuencias a largo plazo, como mantener programas seguros, evitar errores persistentes y asegurar compatibilidad futura. Un código bien escrito facilita actualizaciones, reduce costos y promueve software sostenible que puede adaptarse a nuevas necesidades tecnológicas sin perder estabilidad."
+  },
+  {
+    "intent_id": "codigo_fuente_de_programacion_impacto",
+    "keywords": [
+      "codigo",
+      "energia",
+      "eficiencia",
+      "sostenibilidad",
+      "software"
+    ],
+    "base_response": "El código fuente influye en el impacto ambiental porque programas mal optimizados consumen más energía y recursos. Un código eficiente reduce el uso del procesador, prolonga la vida útil de los dispositivos y disminuye la huella ecológica generada por centros de datos y equipos personales."
+  },
+  {
+    "intent_id": "codigo_fuente_de_programacion_mantenimiento",
+    "keywords": [
+      "mantenimiento",
+      "prevencion",
+      "errores",
+      "versionado",
+      "documentacion"
+    ],
+    "base_response": "El mantenimiento del código fuente requiere revisar funciones, eliminar errores y actualizar dependencias para evitar fallos futuros. Una buena prevención incluye documentar cada cambio, usar control de versiones y mantener una estructura clara que facilite la comprensión y la corrección continua del programa."
+  },
+  {
+    "intent_id": "codigo_fuente_de_programacion_proyecciones",
+    "keywords": [
+      "codigo",
+      "futuro",
+      "tecnologia",
+      "automatizacion",
+      "innovacion"
+    ],
+    "base_response": "El código fuente evolucionará hacia lenguajes más intuitivos y herramientas capaces de generar programas automáticamente mediante inteligencia artificial. Los jóvenes deberán comprender cómo estas tecnologías transformarán la creación de software, permitiendo desarrollar soluciones complejas con menos líneas y mayor precisión."
+  },
+  {
+    "intent_id": "variables_de_memoria_volatil_definicion",
+    "keywords": [
+      "memoria",
+      "ram",
+      "variables",
+      "celdas"
+    ],
+    "base_response": "Las variables de memoria volátil ocupan celdas en la RAM, la planta de la capa de registro del procesador, donde se guardan datos temporalmente durante la ejecución de programas; su estructura anatómica consiste en bits organizados en bloques de acceso."
+  },
+  {
+    "intent_id": "variables_de_memoria_volatil_dinamica",
+    "keywords": [
+      "memoria",
+      "variables",
+      "procesador",
+      "almacenamiento",
+      "circuitos"
+    ],
+    "base_response": "Las variables de memoria volátil existen físicamente como cargas eléctricas en circuitos que se activan mientras la computadora está encendida. El procesador las usa para guardar valores temporales, modificarlos rápidamente y liberarlos cuando ya no se necesitan, manteniendo el flujo de ejecución eficiente."
+  },
+  {
+    "intent_id": "variables_de_memoria_volatil_errores",
+    "keywords": [
+      "memoria",
+      "error",
+      "reset",
+      "ciclo"
+    ],
+    "base_response": "En la memoria volátil, variables pueden perder datos durante apagones, provocar errores de lectura/escritura o fugas cuando la conservación no se libera. Las fallas comunes incluyen corrupción de datos, ciclos de escritura infructuosos y saltos de pila que desestabilizan programas."
+  },
+  {
+    "intent_id": "variables_de_memoria_volatil_historia",
+    "keywords": [
+      "memoria",
+      "volatil",
+      "historia",
+      "evolucion"
+    ],
+    "base_response": "Los primeros equipos de la era de tubos de vacío usaban registros como variables volátiles; luego surgió la memoria de núcleo magnético en los años sesenta, seguida por la SRAM en los 70 y la DRAM en los 80, cada una mejorando velocidad y capacidad."
+  },
+  {
+    "intent_id": "variables_de_memoria_volatil_contexto",
+    "keywords": [
+      "memoria",
+      "energia",
+      "reciclaje",
+      "responsabilidad"
+    ],
+    "base_response": "Los datos almacenados en memoria RAM se borran al apagar el equipo; su uso intenso consume energía, generando calor y emisiones. Elegir dispositivos de bajo consumo y reciclar componentes reduce huella ecológica, enlazando tecnología y responsabilidad ambiental."
+  },
+  {
+    "intent_id": "lenguajes_de_sintaxis_informatica_definicion",
+    "keywords": [
+      "sintaxis",
+      "estructura",
+      "codigo",
+      "reglas",
+      "programacion"
+    ],
+    "base_response": "Los lenguajes de sintaxis informática poseen una estructura definida que organiza símbolos, palabras clave y reglas formales. Esta anatomía determina cómo se construyen instrucciones válidas, permitiendo que un programa sea interpretado correctamente por la máquina y mantenga coherencia lógica."
+  },
+  {
+    "intent_id": "lenguajes_de_sintaxis_informatica_dinamica",
+    "keywords": [
+      "sintaxis",
+      "compilador",
+      "memoria",
+      "hardware",
+      "pantalla"
+    ],
+    "base_response": "En los lenguajes de sintaxis informática, la dinámica física se manifiesta a través de la interacción entre el usuario y el compilador, generando cambios en la memoria y el procesador que se reflejan instantáneamente en la pantalla, demostrando la velocidad del hardware."
+  },
+  {
+    "intent_id": "lenguajes_de_sintaxis_informatica_aplicaciones",
+    "keywords": [
+      "programacion",
+      "automatizacion",
+      "robotica",
+      "simulacion",
+      "modelado"
+    ],
+    "base_response": "Los lenguajes de sintaxis informática permiten crear soluciones útiles como automatizar tareas cotidianas, programar robots escolares, diseñar simulaciones sencillas y desarrollar aplicaciones que resuelven problemas reales. Su uso práctico ayuda a comprender cómo funciona la tecnología que nos rodea."
+  },
+  {
+    "intent_id": "lenguajes_de_sintaxis_informatica_importancia",
+    "keywords": [
+      "sintaxis",
+      "programacion",
+      "alfabetizacion",
+      "digital"
+    ],
+    "base_response": "La sintaxis de lenguajes de programación no solo facilita la comunicación entre humanos y máquinas, sino que también democratiza la creación tecnológica, abre acceso a comunidades marginadas y potencia la alfabetización digital, fortaleciendo la economía creativa y reduciendo brechas cognitivas y sociales"
+  },
+  {
+    "intent_id": "lenguajes_de_sintaxis_informatica_errores",
+    "keywords": [
+      "errores",
+      "fallas",
+      "patologias",
+      "sintaxis",
+      "programacion"
+    ],
+    "base_response": "Los lenguajes de sintaxis informática presentan errores comunes como confundir símbolos, olvidar cierres de bloques o mezclar tipos de datos. Estas fallas generan comportamientos inesperados, bloqueos y resultados incorrectos que dificultan el aprendizaje y requieren atención constante para desarrollar hábitos de depuración adecuados."
+  },
+  {
+    "intent_id": "lenguajes_de_sintaxis_informatica_clasificacion",
+    "keywords": [
+      "clasificacion",
+      "lenguajes",
+      "sintaxis",
+      "tipos"
+    ],
+    "base_response": "Los lenguajes de sintaxis informática pueden clasificarse según su estructura formal, nivel de abstracción y reglas de formación. Esta taxonomía permite distinguir lenguajes declarativos, imperativos y funcionales, facilitando a los estudiantes comprender cómo se organizan y diferencian sus componentes esenciales."
+  },
+  {
+    "intent_id": "funciones_de_bloques_reutilizables_definicion",
+    "keywords": [
+      "funciones",
+      "bloques",
+      "reutilizacion",
+      "estructura",
+      "programacion"
+    ],
+    "base_response": "Las funciones de bloques reutilizables se estructuran como conjuntos definidos de instrucciones agrupadas en un bloque único. Cada bloque posee un nombre, parámetros opcionales y un cuerpo interno que ejecuta acciones específicas, permitiendo organizar y modularizar programas de manera clara."
+  },
+  {
+    "intent_id": "funciones_de_bloques_reutilizables_dinamica",
+    "keywords": [
+      "funciones",
+      "bloques",
+      "reutilizacion",
+      "programacion"
+    ],
+    "base_response": "Las funciones de bloques reutilizables operan como unidades físicas lógicas que agrupan instrucciones y se ejecutan cuando son llamadas. Su dinámica implica activar secuencias internas predefinidas, optimizando el flujo del programa y reduciendo repeticiones innecesarias en la estructura general."
+  },
+  {
+    "intent_id": "funciones_de_bloques_reutilizables_aplicaciones",
+    "keywords": [
+      "programacion",
+      "automatizacion",
+      "tareas",
+      "eficiencia"
+    ],
+    "base_response": "Las funciones de bloques reutilizables permiten resolver problemas cotidianos creando acciones que pueden repetirse sin rehacer todo el proceso. Por ejemplo, automatizar cálculos, clasificar información o controlar dispositivos simples, ayudando a comprender cómo se optimizan tareas reales mediante lógica organizada."
+  },
+  {
+    "intent_id": "funciones_de_bloques_reutilizables_importancia",
+    "keywords": [
+      "programacion",
+      "impacto",
+      "sociedad",
+      "automatizacion"
+    ],
+    "base_response": "Las funciones de bloques reutilizables fomentan proyectos más eficientes y colaborativos, permitiendo que los estudiantes creen soluciones tecnológicas que ahorran tiempo y recursos. Su uso impulsa la innovación social, facilita la resolución de problemas comunitarios y promueve una cultura digital responsable y sostenible."
+  },
+  {
+    "intent_id": "funciones_de_bloques_reutilizables_errores",
+    "keywords": [
+      "bloque",
+      "reutilizable",
+      "error",
+      "fallo",
+      "patologia",
+      "comun"
+    ],
+    "base_response": "Los niños suelen confundir la reutilización de bloques con la copia, provocando errores de lógica y datos duplicados. Las fallas comunes incluyen bucles infinitos, variables fuera de alcance y argumentos nulos, mientras que las patologías de diseño surgen de no crear módulos, creando código acoplado y difícil de mantener."
+  },
+  {
+    "intent_id": "funciones_de_bloques_reutilizables_clasificacion",
+    "keywords": [
+      "funciones",
+      "bloques",
+      "reutilizacion",
+      "clasificacion"
+    ],
+    "base_response": "La clasificación taxonómica de funciones de bloques reutilizables permite organizar sus tipos según propósito, complejidad y nivel de abstracción. Esta estructura ayuda a estudiantes a identificar patrones, agrupar comportamientos similares y comprender cómo se relacionan distintos bloques dentro de un proyecto computacional."
+  },
+  {
+    "intent_id": "depuracion_de_errores_de_codigo_definicion",
+    "keywords": [
+      "depuracion",
+      "errores",
+      "codigo",
+      "estructura"
+    ],
+    "base_response": "La depuración de errores de código se entiende como el análisis estructural de un programa para identificar fallas internas. Implica revisar componentes, relaciones lógicas y flujos de ejecución, detectando puntos donde la estructura no cumple su función prevista dentro del sistema."
+  },
+  {
+    "intent_id": "depuracion_de_errores_de_codigo_dinamica",
+    "keywords": [
+      "depuracion",
+      "procesos",
+      "hardware",
+      "ejecucion"
+    ],
+    "base_response": "La depuración de errores implica comprender cómo el código se ejecuta físicamente en el dispositivo, identificando fallos que afectan el flujo interno. Los estudiantes analizan señales, ciclos de procesamiento y respuestas del hardware para detectar comportamientos inesperados y corregir instrucciones defectuosas con precisión."
+  },
+  {
+    "intent_id": "depuracion_de_errores_de_codigo_aplicaciones",
+    "keywords": [
+      "depuracion",
+      "errores",
+      "codigo",
+      "aplicaciones",
+      "programacion"
+    ],
+    "base_response": "La depuración de errores de código permite resolver fallas en aplicaciones reales, como juegos, páginas web o robots educativos. Al identificar y corregir problemas, los estudiantes comprenden cómo mejorar funciones, evitar fallos inesperados y garantizar que sus proyectos tecnológicos funcionen correctamente en situaciones cotidianas."
+  },
+  {
+    "intent_id": "depuracion_de_errores_de_codigo_importancia",
+    "keywords": [
+      "depuracion",
+      "impacto",
+      "responsabilidad",
+      "comunidad"
+    ],
+    "base_response": "La depuración de errores de código fortalece la responsabilidad social al promover software confiable que protege datos y servicios esenciales. Cuando los jóvenes comprenden su impacto, contribuyen a comunidades digitales seguras, inclusivas y capaces de enfrentar desafíos tecnológicos con mayor confianza colectiva."
+  },
+  {
+    "intent_id": "depuracion_de_errores_de_codigo_errores",
+    "keywords": [
+      "errores",
+      "fallas",
+      "depuracion",
+      "codigo"
+    ],
+    "base_response": "La depuración de errores de código implica identificar fallas comunes como variables mal definidas, sintaxis incorrecta y bucles infinitos. Enseñar a los estudiantes a reconocer estas patologías mejora su comprensión y fortalece su capacidad para resolver problemas de programación."
+  },
+  {
+    "intent_id": "depuracion_de_errores_de_codigo_clasificacion",
+    "keywords": [
+      "errores",
+      "depuracion",
+      "tipos",
+      "analisis"
+    ],
+    "base_response": "La clasificación taxonómica en la depuración de errores de código permite organizar fallos según su naturaleza, como sintácticos, lógicos o de ejecución. Esta estructura ayuda a estudiantes a identificar patrones, comprender causas y aplicar estrategias específicas para resolver problemas de manera más eficiente."
+  },
+  {
+    "intent_id": "estructuras_de_control_condicionales_definicion",
+    "keywords": [
+      "condicionales",
+      "estructuras",
+      "comparacion",
+      "evaluacion"
+    ],
+    "base_response": "Las estructuras de control condicionales son componentes que permiten decidir qué instrucciones ejecutar según una condición evaluada. Se organizan en bloques que incluyen una expresión lógica y rutas alternativas de ejecución, como si y sino, para dirigir el flujo del programa."
+  },
+  {
+    "intent_id": "estructuras_de_control_condicionales_dinamica",
+    "keywords": [
+      "condicionales",
+      "comparacion",
+      "evaluacion",
+      "resultado"
+    ],
+    "base_response": "Las estructuras de control condicionales funcionan como interruptores que se activan según una evaluación física de datos. Detectan valores, comparan condiciones y dirigen el flujo del programa hacia diferentes acciones, igual que un circuito que decide qué camino seguir según la señal recibida."
+  },
+  {
+    "intent_id": "estructuras_de_control_condicionales_aplicaciones",
+    "keywords": [
+      "condicionales",
+      "programacion",
+      "decisiones",
+      "situaciones"
+    ],
+    "base_response": "Las estructuras de control condicionales permiten tomar decisiones según circunstancias reales, como elegir rutas seguras al caminar, decidir acciones ante cambios climáticos o ajustar hábitos según horarios. Ayudan a comprender cómo reaccionar lógicamente ante distintos escenarios cotidianos."
+  },
+  {
+    "intent_id": "estructuras_de_control_condicionales_importancia",
+    "keywords": [
+      "decisiones",
+      "logica",
+      "resolucion",
+      "participacion",
+      "civica"
+    ],
+    "base_response": "Las estructuras de control condicionales permiten a los niños comprender decisiones lógicas y desarrollar habilidades críticas, fomentando la resolución de problemas y la participación cívica digital, ya que enseñan a evaluar alternativas y respetar resultados, influenciando una ciudadanía responsable tecnológica."
+  },
+  {
+    "intent_id": "estructuras_de_control_condicionales_errores",
+    "keywords": [
+      "condicionales",
+      "comparaciones",
+      "errores",
+      "logica"
+    ],
+    "base_response": "Los estudiantes suelen confundir operadores de comparación, olvidar actualizar variables y crear condiciones imposibles que bloquean el flujo del programa. También es común usar estructuras condicionales redundantes o mal anidadas, generando comportamientos inesperados difíciles de depurar en proyectos simples."
+  },
+  {
+    "intent_id": "estructuras_de_control_condicionales_clasificacion",
+    "keywords": [
+      "condicionales",
+      "clasificacion",
+      "comparacion",
+      "evaluacion"
+    ],
+    "base_response": "Las estructuras de control condicionales pueden clasificarse según su forma de evaluar condiciones, distinguiendo entre simples, anidadas y múltiples. Esta clasificación permite comprender cómo cada tipo organiza decisiones y facilita seleccionar la opción adecuada para resolver problemas informáticos."
+  },
+  {
+    "intent_id": "tipos_de_datos_primitivos_definicion",
+    "keywords": [
+      "estructura",
+      "datos",
+      "tipos",
+      "variables"
+    ],
+    "base_response": "Los tipos de datos primitivos se describen por su estructura interna básica, formada por unidades mínimas que representan valores simples. Cada tipo posee un tamaño fijo y una forma específica de almacenamiento que determina cómo se interpreta la información."
+  },
+  {
+    "intent_id": "tipos_de_datos_primitivos_dinamica",
+    "keywords": [
+      "memoria",
+      "bits",
+      "hardware",
+      "senales"
+    ],
+    "base_response": "Los tipos de datos primitivos funcionan mediante patrones físicos de bits almacenados en memoria. Cada tipo ocupa espacio específico y se interpreta según reglas eléctricas internas. Su dinámica depende de cómo el hardware procesa señales binarias para representar valores."
+  },
+  {
+    "intent_id": "tipos_de_datos_primitivos_aplicaciones",
+    "keywords": [
+      "datos",
+      "flotantes",
+      "booleanos",
+      "caracteres",
+      "listados"
+    ],
+    "base_response": "Los tipos de datos primitivos, como enteros, flotantes, booleanos y caracteres, aparecen en situaciones cotidianas: contadores de usuarios, precios de productos, instrucciones sí/no, y etiquetas de texto en apps, permitiendo manejar cifras, textos y decisiones lógicas eficientemente."
+  },
+  {
+    "intent_id": "tipos_de_datos_primitivos_importancia",
+    "keywords": [
+      "programacion",
+      "sociedad",
+      "tecnologia",
+      "aprendizaje"
+    ],
+    "base_response": "Comprender los tipos de datos primitivos permite a los jóvenes interpretar cómo la información se organiza en sistemas digitales que influyen en la vida diaria. Esta base conceptual fortalece su participación crítica en una sociedad cada vez más tecnológica y dependiente del manejo responsable de datos."
+  },
+  {
+    "intent_id": "tipos_de_datos_primitivos_errores",
+    "keywords": [
+      "conversion",
+      "desbordamiento",
+      "interpretacion",
+      "formato"
+    ],
+    "base_response": "Los errores comunes incluyen confundir el tipo de dato al declarar variables, provocar desbordamientos por valores demasiado grandes, interpretar mal cadenas como números y usar formatos incompatibles. Estos fallos generan comportamientos inesperados y dificultan la comprensión del programa para estudiantes principiantes."
+  },
+  {
+    "intent_id": "tipos_de_datos_primitivos_clasificacion",
+    "keywords": [
+      "clasificacion",
+      "tipos",
+      "datos",
+      "primitivos"
+    ],
+    "base_response": "La clasificación taxonómica de los datos primitivos organiza elementos como enteros, caracteres y booleanos según sus propiedades esenciales. Esta estructura permite identificar similitudes y diferencias, facilitando el aprendizaje ordenado y la comprensión de cómo se relacionan dentro de un sistema informático."
+  },
+  {
+    "intent_id": "arreglos_de_multiples_valores_definicion",
+    "keywords": [
+      "arreglos",
+      "valores",
+      "estructura",
+      "programacion"
+    ],
+    "base_response": "Un arreglo de múltiples valores es una estructura ordenada que agrupa elementos relacionados dentro de una sola unidad. Cada valor ocupa una posición específica llamada índice, lo que permite organizar datos de forma clara y acceder a ellos de manera eficiente."
+  },
+  {
+    "intent_id": "arreglos_de_multiples_valores_dinamica",
+    "keywords": [
+      "arreglo",
+      "indice",
+      "expansion",
+      "flexibilidad"
+    ],
+    "base_response": "Los arreglos dinámicos trabajan como bloques de construcción que se expanden y contraen conforme al flujo de datos; sus índices marcan la posición y el referencial de cada elemento, permitiendo flexibilidad y eficiencia urgente en programación."
+  },
+  {
+    "intent_id": "arreglos_de_multiples_valores_aplicaciones",
+    "keywords": [
+      "arreglos",
+      "datos",
+      "organizacion",
+      "clasificacion"
+    ],
+    "base_response": "Los arreglos de múltiples valores permiten organizar datos como listas de compras, horarios escolares o registros deportivos. En la vida diaria ayudan a clasificar información, facilitar búsquedas rápidas y tomar decisiones basadas en conjuntos ordenados de elementos relacionados."
+  },
+  {
+    "intent_id": "arreglos_de_multiples_valores_importancia",
+    "keywords": [
+      "arreglos",
+      "programacion",
+      "pensamiento",
+      "colaboracion"
+    ],
+    "base_response": "Los arreglos de múltiples valores permiten a los jóvenes organizar y manipular información de manera lógica, fomentando habilidades de programación, pensamiento crítico y colaboración, lo que fortalece su participación en proyectos sociales, mejora la toma de decisiones y potencia la igualdad digital."
+  },
+  {
+    "intent_id": "arreglos_de_multiples_valores_errores",
+    "keywords": [
+      "indices",
+      "desbordamiento",
+      "confusion",
+      "asignacion"
+    ],
+    "base_response": "Los errores más comunes en arreglos de múltiples valores incluyen usar índices fuera del rango, confundir posiciones al recorrerlos, mezclar tipos de datos sin control y sobrescribir elementos accidentalmente. Estos fallos generan comportamientos inesperados que dificultan comprender y depurar el programa."
+  },
+  {
+    "intent_id": "arreglos_de_multiples_valores_clasificacion",
+    "keywords": [
+      "arreglo",
+      "clasificacion",
+      "valores",
+      "categorias"
+    ],
+    "base_response": "La clasificación taxonómica en arreglos de múltiples valores permite organizar elementos según categorías jerárquicas. Los estudiantes aprenden a identificar similitudes y diferencias, creando estructuras ordenadas que facilitan la comprensión y el análisis de datos dentro de programas sencillos."
+  },
+  {
+    "intent_id": "programacion_orientada_a_objetos_definicion",
+    "keywords": [
+      "clases",
+      "objetos",
+      "atributos",
+      "metodos"
+    ],
+    "base_response": "La programación orientada a objetos estructura el software como un conjunto de cuerpos llamados clases que determinan la forma y el comportamiento de sus instancias, objetos, con atributos que describen datos y métodos que definen acciones que los objetos pueden ejecutar."
+  },
+  {
+    "intent_id": "programacion_orientada_a_objetos_dinamica",
+    "keywords": [
+      "objetos",
+      "clases",
+      "interaccion",
+      "procesos"
+    ],
+    "base_response": "La programación orientada a objetos puede imaginarse como un conjunto de entidades que funcionan como piezas físicas. Cada objeto actúa con propiedades y comportamientos que se activan al interactuar entre sí, generando dinámicas similares a mecanismos que responden, cambian y ejecutan acciones coordinadas."
+  },
+  {
+    "intent_id": "programacion_orientada_a_objetos_aplicaciones",
+    "keywords": [
+      "objetos",
+      "clases",
+      "modelado",
+      "automatizacion"
+    ],
+    "base_response": "La programación orientada a objetos permite crear soluciones que imitan situaciones reales, como gestionar usuarios, controlar dispositivos inteligentes o organizar tareas escolares. Facilita construir aplicaciones que representan objetos del mundo cotidiano y simplifican procesos mediante estructuras claras y reutilizables."
+  },
+  {
+    "intent_id": "programacion_orientada_a_objetos_importancia",
+    "keywords": [
+      "programacion",
+      "impacto",
+      "sociedad",
+      "tecnologia",
+      "innovacion"
+    ],
+    "base_response": "La programación orientada a objetos impulsa soluciones tecnológicas que mejoran la vida diaria, fomentan la colaboración y permiten crear sistemas más seguros y eficientes. Su importancia social radica en facilitar herramientas digitales que apoyan la educación, la salud y la comunicación en comunidades diversas."
+  },
+  {
+    "intent_id": "programacion_orientada_a_objetos_errores",
+    "keywords": [
+      "encapsular",
+      "mutaciones",
+      "herencia",
+      "liskov"
+    ],
+    "base_response": "La programación orientada a objetos al principio parece simple, pero es frecuente cometer errores como olvidarse de encapsular atributos, crear mutación inesperada, usar herencia apropiadamente y no aplicar el principio de sustitución de Liskov, que causa fallas serias."
+  },
+  {
+    "intent_id": "programacion_orientada_a_objetos_clasificacion",
+    "keywords": [
+      "clases",
+      "objetos",
+      "atributos",
+      "jerarquias"
+    ],
+    "base_response": "La clasificación taxonómica en programación orientada a objetos organiza clases y objetos según sus características compartidas. Permite agrupar entidades por atributos y comportamientos, facilitando jerarquías claras que ayudan a los estudiantes a comprender relaciones estructuradas dentro de sistemas complejos."
+  },
+  {
+    "intent_id": "clases_de_objetos_informaticos_definicion",
+    "keywords": [
+      "estructura",
+      "componentes",
+      "funcionamiento",
+      "organizacion"
+    ],
+    "base_response": "Las clases de objetos informáticos se definen por su estructura interna, compuesta por atributos y métodos organizados de forma coherente. Cada clase establece un modelo anatómico que determina cómo se construyen sus objetos, qué información contienen y cómo interactúan dentro de un programa."
+  },
+  {
+    "intent_id": "clases_de_objetos_informaticos_dinamica",
+    "keywords": [
+      "hardware",
+      "sensores",
+      "movimiento",
+      "energia"
+    ],
+    "base_response": "Los objetos informáticos pueden clasificarse según cómo se mueven y reaccionan físicamente. Algunos integran sensores que detectan cambios, otros transforman energía para ejecutar acciones. Comprender su dinámica ayuda a visualizar cómo interactúan con el entorno y responden a estímulos."
+  },
+  {
+    "intent_id": "clases_de_objetos_informaticos_aplicaciones",
+    "keywords": [
+      "programacion",
+      "objetos",
+      "modelado",
+      "funciones"
+    ],
+    "base_response": "Las clases de objetos permiten crear modelos digitales que representan elementos reales, como sensores, vehículos o dispositivos. Los estudiantes pueden diseñar soluciones prácticas, automatizar tareas cotidianas y comprender cómo la tecnología organiza información para resolver problemas concretos en su entorno diario."
+  },
+  {
+    "intent_id": "clases_de_objetos_informaticos_importancia",
+    "keywords": [
+      "tecnologia",
+      "sociedad",
+      "impacto",
+      "aprendizaje"
+    ],
+    "base_response": "Las clases de objetos informáticos permiten comprender cómo la tecnología organiza funciones esenciales que influyen en la vida diaria. Su importancia social radica en facilitar soluciones, promover inclusión digital y fortalecer habilidades que preparan a los jóvenes para participar activamente en comunidades tecnológicas."
+  },
+  {
+    "intent_id": "clases_de_objetos_informaticos_errores",
+    "keywords": [
+      "fallas",
+      "bugs",
+      "corrupcion",
+      "diagnostico"
+    ],
+    "base_response": "Los objetos informáticos pueden presentar errores frecuentes como datos corruptos, comportamientos inesperados o fallas de comunicación entre componentes. Estas patologías suelen originarse por mala programación, incompatibilidades internas o uso inadecuado, afectando la estabilidad y funcionalidad del sistema para los estudiantes."
+  },
+  {
+    "intent_id": "clases_de_objetos_informaticos_clasificacion",
+    "keywords": [
+      "clases",
+      "herencia",
+      "composicion",
+      "patron",
+      "jerarquia"
+    ],
+    "base_response": "En la clasificación taxonómica de clases de objetos informáticos, los estudiantes identifican jerarquías según su funcionalidad: clases abstractas, base, derivadas y auxiliares, comprendiendo la herencia, la composición y la responsabilidad, y aplicando patrones de diseño como el patrón de fábrica."
+  },
+  {
+    "intent_id": "herencia_de_atributos_logicos_definicion",
+    "keywords": [
+      "herencia",
+      "atributos",
+      "logicos",
+      "estructura"
+    ],
+    "base_response": "La herencia de atributos lógicos se entiende como la transmisión estructural de propiedades internas entre entidades relacionadas. Cada entidad hija recibe una organización lógica definida por su antecesora, manteniendo una arquitectura coherente que permite comprender cómo se conectan y funcionan sus componentes esenciales."
+  },
+  {
+    "intent_id": "herencia_de_atributos_logicos_dinamica",
+    "keywords": [
+      "herencia",
+      "atributos",
+      "logicos",
+      "funcionamiento"
+    ],
+    "base_response": "La herencia de atributos lógicos influye en la dinámica física de un sistema al definir cómo se activan comportamientos internos. Estos atributos determinan respuestas automáticas, regulan procesos y permiten que un objeto mantenga coherencia funcional al interactuar con su entorno y otros elementos."
+  },
+  {
+    "intent_id": "herencia_de_atributos_logicos_aplicaciones",
+    "keywords": [
+      "programacion",
+      "clases",
+      "objetos",
+      "modelado"
+    ],
+    "base_response": "La herencia de atributos lógicos permite crear modelos que reutilizan comportamientos en aplicaciones reales, como sistemas de registro escolar o plataformas de juegos. Facilita organizar información, reducir errores y construir soluciones más eficientes basadas en estructuras previamente definidas."
+  },
+  {
+    "intent_id": "herencia_de_atributos_logicos_importancia",
+    "keywords": [
+      "herencia",
+      "atributos",
+      "logicos",
+      "impacto",
+      "sociedad"
+    ],
+    "base_response": "La herencia de atributos lógicos influye en cómo las comunidades comprenden y organizan información, fortaleciendo la capacidad colectiva para resolver problemas. Su impacto social radica en promover pensamiento estructurado, decisiones más justas y una cultura digital responsable que beneficia a todos."
+  },
+  {
+    "intent_id": "herencia_de_atributos_logicos_errores",
+    "keywords": [
+      "herencia",
+      "atributos",
+      "logica",
+      "fallas",
+      "patologias"
+    ],
+    "base_response": "La herencia de atributos lógicos suele presentar errores cuando los estudiantes confunden la transmisión de valores entre clases, provocando comportamientos inesperados. Es común olvidar redefinir atributos, generar dependencias rígidas o crear estructuras que producen fallas difíciles de rastrear en programas simples."
+  },
+  {
+    "intent_id": "herencia_de_atributos_logicos_clasificacion",
+    "keywords": [
+      "herencia",
+      "atributos",
+      "logicos",
+      "clasificacion",
+      "taxonomia"
+    ],
+    "base_response": "La herencia de atributos lógicos permite organizar elementos según características compartidas. En la clasificación taxonómica, los estudiantes identifican patrones y agrupan objetos siguiendo criterios coherentes, comprendiendo cómo se transmiten propiedades entre categorías superiores e inferiores dentro de una estructura jerárquica."
+  },
+  {
+    "intent_id": "polimorfismo_de_metodos_programados_definicion",
+    "keywords": [
+      "polimorfismo",
+      "metodos",
+      "clases",
+      "estructuras"
+    ],
+    "base_response": "El polimorfismo de métodos programados describe la estructura que permite a distintas clases definir métodos con el mismo nombre pero comportamientos propios. Anatómicamente se basa en firmas compartidas que organizan cómo se selecciona la versión adecuada según el objeto."
+  },
+  {
+    "intent_id": "polimorfismo_de_metodos_programados_dinamica",
+    "keywords": [
+      "polimorfismo",
+      "metodo",
+      "ejecucion",
+      "dinamico"
+    ],
+    "base_response": "El polimorfismo permite a las clases usar el mismo nombre de método con comportamientos distintos según el objeto, cambiando dinámicamente la ejecución a nivel físico, lo que facilita la reusabilidad de código y la adaptación del comportamiento en tiempo de ejecución."
+  },
+  {
+    "intent_id": "polimorfismo_de_metodos_programados_aplicaciones",
+    "keywords": [
+      "polimorfismo",
+      "aplicacion",
+      "interaccion",
+      "ejecutar"
+    ],
+    "base_response": "El polimorfismo permite que diferentes formas de un mismo método respondan a distintos contextos, como dispositivos conectados que ajustan funciones según el usuario, lo que facilita programación flexible en aplicaciones de domótica, juegos y robótica escolar."
+  },
+  {
+    "intent_id": "polimorfismo_de_metodos_programados_importancia",
+    "keywords": [
+      "polimorfismo",
+      "programacion",
+      "impacto",
+      "sociedad"
+    ],
+    "base_response": "El polimorfismo de métodos programados impulsa soluciones tecnológicas más flexibles y accesibles, favoreciendo herramientas que se adaptan a diversas necesidades sociales. Su correcta aplicación mejora servicios digitales, promueve inclusión y facilita innovaciones que benefician a comunidades con distintos contextos y capacidades."
+  },
+  {
+    "intent_id": "polimorfismo_de_metodos_programados_errores",
+    "keywords": [
+      "polimorfismo",
+      "errores",
+      "metodos",
+      "fallas"
+    ],
+    "base_response": "El polimorfismo de métodos programados suele generar errores cuando las firmas no coinciden, se confunden tipos de retorno o se ignoran reglas de sobreescritura. Estas fallas provocan comportamientos inesperados, bloqueos y dificultades para depurar programas en desarrollo."
+  },
+  {
+    "intent_id": "polimorfismo_de_metodos_programados_clasificacion",
+    "keywords": [
+      "polimorfismo",
+      "metodos",
+      "clases",
+      "jerarquias"
+    ],
+    "base_response": "El polimorfismo de métodos programados puede clasificarse según cómo las clases organizan y reutilizan comportamientos. Esta clasificación taxonómica distingue métodos sobrescritos, heredados y adaptados, permitiendo comprender cómo cada categoría modifica acciones dentro de una jerarquía orientada a objetos."
+  },
+  {
+    "intent_id": "encapsulamiento_de_datos_internos_definicion",
+    "keywords": [
+      "encapsulamiento",
+      "datos",
+      "estructura",
+      "clase",
+      "atributos"
+    ],
+    "base_response": "El encapsulamiento de datos internos es la organización estructural que mantiene los atributos de un objeto protegidos dentro de una clase. Esta disposición anatómica separa claramente la información interna de las acciones externas, asegurando control y orden en su uso."
+  },
+  {
+    "intent_id": "encapsulamiento_de_datos_internos_dinamica",
+    "keywords": [
+      "encapsulamiento",
+      "datos",
+      "memoria",
+      "flujo"
+    ],
+    "base_response": "El encapsulamiento de datos internos se relaciona con cómo la información se mantiene protegida dentro de estructuras que controlan su acceso. En términos físicos, implica gestionar el flujo interno de datos en memoria, evitando interferencias y asegurando operaciones ordenadas."
+  },
+  {
+    "intent_id": "encapsulamiento_de_datos_internos_aplicaciones",
+    "keywords": [
+      "proteccion",
+      "sensores",
+      "interaccion",
+      "seguridad"
+    ],
+    "base_response": "El encapsulamiento de datos se traduce en proteger la información del usuario en aplicaciones como los juegos móviles o las iniciadoras de casa inteligente, donde los dispositivos maneja sensores y reporta de forma segura, manteniendo la interacción simple y sin riesgo."
+  },
+  {
+    "intent_id": "encapsulamiento_de_datos_internos_importancia",
+    "keywords": [
+      "seguridad",
+      "privacidad",
+      "proteccion",
+      "informacion"
+    ],
+    "base_response": "El encapsulamiento de datos internos fortalece la seguridad digital y protege la información personal, lo que contribuye a una sociedad más confiable. Su correcta aplicación fomenta prácticas responsables en el desarrollo tecnológico y ayuda a prevenir usos indebidos que afectan a comunidades enteras."
+  },
+  {
+    "intent_id": "encapsulamiento_de_datos_internos_errores",
+    "keywords": [
+      "encapsulamiento",
+      "fallas",
+      "errores",
+      "patologias"
+    ],
+    "base_response": "El encapsulamiento puede fallar cuando se exponen variables internas sin control, generando errores difíciles de rastrear. También surgen patologías como accesos indebidos, modificaciones inesperadas y dependencias ocultas que provocan comportamientos confusos y fallas persistentes en programas educativos para jóvenes."
+  },
+  {
+    "intent_id": "encapsulamiento_de_datos_internos_clasificacion",
+    "keywords": [
+      "encapsulamiento",
+      "datos",
+      "clase",
+      "estructura",
+      "organizacion"
+    ],
+    "base_response": "El encapsulamiento de datos internos puede clasificarse taxonómicamente según el tipo de información protegida, su nivel de acceso y la función que cumple dentro de una clase. Esta clasificación ayuda a comprender cómo se organizan y resguardan los datos en programación orientada a objetos."
+  },
+  {
+    "intent_id": "compiladores_de_lenguaje_maquina_definicion",
+    "keywords": [
+      "compilador",
+      "etapas",
+      "arquitectura",
+      "lenguaje"
+    ],
+    "base_response": "Un compilador de lenguaje máquina convierte código fuente en instrucciones directa para la CPU, interactuando con su arquitectura interna. Sus etapas incluyen análisis léxico, sintáctico, semántico y generación de código, ajustándose a la estructura binaria que la máquina ejecuta."
+  },
+  {
+    "intent_id": "compiladores_de_lenguaje_maquina_dinamica",
+    "keywords": [
+      "compilacion",
+      "traduccion",
+      "instrucciones",
+      "hardware"
+    ],
+    "base_response": "Los compiladores de lenguaje máquina transforman código en instrucciones que el hardware ejecuta físicamente. Analizan, reorganizan y generan señales binarias que viajan por circuitos electrónicos. Su dinámica implica procesos secuenciales que garantizan precisión y velocidad al convertir órdenes humanas en operaciones concretas."
+  },
+  {
+    "intent_id": "compiladores_de_lenguaje_maquina_aplicaciones",
+    "keywords": [
+      "programacion",
+      "automatizacion",
+      "software",
+      "procesos"
+    ],
+    "base_response": "Los compiladores de lenguaje máquina permiten que programas creados por personas funcionen en dispositivos reales, desde teléfonos hasta robots educativos. Gracias a ellos, las aplicaciones pueden ejecutarse de forma rápida y segura, facilitando tareas cotidianas como estudiar, comunicarse y resolver problemas prácticos."
+  },
+  {
+    "intent_id": "compiladores_de_lenguaje_maquina_importancia",
+    "keywords": [
+      "compiladores",
+      "tecnologia",
+      "sociedad",
+      "automatizacion"
+    ],
+    "base_response": "Los compiladores de lenguaje máquina permiten que más personas accedan a la programación, impulsando la innovación tecnológica y la creación de soluciones útiles para la comunidad. Su impacto social se refleja en oportunidades educativas, desarrollo económico y herramientas que mejoran la vida cotidiana."
+  },
+  {
+    "intent_id": "compiladores_de_lenguaje_maquina_errores",
+    "keywords": [
+      "compilacion",
+      "errores",
+      "fallas",
+      "depuracion"
+    ],
+    "base_response": "Los compiladores de lenguaje máquina suelen enfrentar errores comunes como sintaxis incorrecta, símbolos desconocidos y conflictos de tipos. Estas fallas provocan programas defectuosos, bloqueos inesperados y dificultades de depuración, afectando el aprendizaje y la comprensión de los estudiantes jóvenes."
+  },
+  {
+    "intent_id": "compiladores_de_lenguaje_maquina_clasificacion",
+    "keywords": [
+      "compiladores",
+      "clasificacion",
+      "lenguaje",
+      "maquina"
+    ],
+    "base_response": "La clasificación taxonómica de los compiladores de lenguaje máquina organiza estos programas según su función, estructura y nivel de traducción. Esta clasificación ayuda a comprender cómo cada tipo transforma instrucciones humanas en código ejecutable eficiente para distintos sistemas informáticos."
+  },
+  {
+    "intent_id": "interpretes_de_codigo_dinamico_definicion",
+    "keywords": [
+      "interprete",
+      "codigo",
+      "ejecucion",
+      "analisis"
+    ],
+    "base_response": "Un intérprete de código dinámico es una estructura informática que lee instrucciones paso a paso, analiza su sintaxis y las ejecuta inmediatamente sin compilación previa. Su anatomía incluye módulos de lectura, análisis, gestión de memoria y ejecución directa del programa."
+  },
+  {
+    "intent_id": "interpretes_de_codigo_dinamico_dinamica",
+    "keywords": [
+      "interpretes",
+      "dinamico",
+      "ejecucion",
+      "memoria"
+    ],
+    "base_response": "Un intérprete de código dinámico traduce instrucciones de alto nivel al instante, usando un árbol de sintaxis y tablas de símbolos; su funcionamiento físico implica mover datos entre registros, memoria caché y CPU, optimizando cada paso mediante compilación Just‑in‑Time para mayor velocidad."
+  },
+  {
+    "intent_id": "interpretes_de_codigo_dinamico_aplicaciones",
+    "keywords": [
+      "programacion",
+      "automatizacion",
+      "aprendizaje",
+      "simulacion"
+    ],
+    "base_response": "Los intérpretes de código dinámico permiten crear herramientas que reaccionan en tiempo real, como juegos educativos, asistentes interactivos y simuladores escolares. Facilitan resolver problemas cotidianos, automatizar tareas simples y experimentar ideas rápidamente sin necesidad de compilar programas complejos."
+  },
+  {
+    "intent_id": "interpretes_de_codigo_dinamico_importancia",
+    "keywords": [
+      "interpretes",
+      "programacion",
+      "inclusion",
+      "comunidad"
+    ],
+    "base_response": "Los intérpretes de código dinámico influyen socialmente al facilitar el acceso temprano a la programación, permitiendo que más jóvenes experimenten y creen soluciones digitales. Su uso fomenta inclusión, creatividad y participación activa en comunidades tecnológicas que impulsan cambios positivos."
+  },
+  {
+    "intent_id": "interpretes_de_codigo_dinamico_errores",
+    "keywords": [
+      "error",
+      "interprete",
+      "variables",
+      "stacktrace"
+    ],
+    "base_response": "Los intérpretes dinámicos suelen mostrar errores de sintaxis, excepciones de tiempo de ejecución y fallas de rendimiento cuando el código cambia sobre la marcha, provocando que variables inesperadas sobreescriban valores, bloqueen bucles infinitos o produzcan mensajes de stacktrace incomprensibles."
+  },
+  {
+    "intent_id": "interpretes_de_codigo_dinamico_clasificacion",
+    "keywords": [
+      "interpretes",
+      "clasificacion",
+      "tipos",
+      "ejecucion"
+    ],
+    "base_response": "Los intérpretes de código dinámico pueden clasificarse según su método de ejecución, su nivel de interacción con el usuario y la forma en que analizan instrucciones. Esta clasificación permite comprender cómo diferentes intérpretes procesan código en tiempo real y adaptan su comportamiento."
+  },
+  {
+    "intent_id": "entornos_de_desarrollo_ide_definicion",
+    "keywords": [
+      "editor",
+      "compilador",
+      "depurador",
+      "consola"
+    ],
+    "base_response": "Un entorno de desarrollo integrado (IDE) es una ventana digital que reúne todas las herramientas de programar. Dentro de su estructura están el editor de código, el compilador, el depurador, la vista de proyecto y la consola, cada uno conectando en una única pantalla."
+  },
+  {
+    "intent_id": "entornos_de_desarrollo_ide_dinamica",
+    "keywords": [
+      "procesos",
+      "hardware",
+      "compilacion",
+      "ejecucion"
+    ],
+    "base_response": "Un IDE coordina procesos internos que usan memoria, procesador y almacenamiento para compilar y ejecutar programas. Gestiona tareas simultáneas, controla recursos físicos y organiza flujos de trabajo, permitiendo que el código se transforme en acciones reales dentro del equipo del estudiante."
+  },
+  {
+    "intent_id": "entornos_de_desarrollo_ide_aplicaciones",
+    "keywords": [
+      "programacion",
+      "proyectos",
+      "aprendizaje",
+      "software"
+    ],
+    "base_response": "Los entornos de desarrollo IDE permiten a los estudiantes crear aplicaciones útiles, como juegos simples, calculadoras o páginas web. Facilitan organizar código, detectar errores y probar ideas rápidamente, acercando la programación a situaciones reales que requieren soluciones prácticas y creativas."
+  },
+  {
+    "intent_id": "entornos_de_desarrollo_ide_importancia",
+    "keywords": [
+      "ide",
+      "programacion",
+      "colaboracion",
+      "creatividad"
+    ],
+    "base_response": "Los entornos de desarrollo integrados habilitan a jóvenes programadores para crear soluciones tecnológicas, fomentando la colaboración, la creatividad y la alfabetización digital; su uso democratiza el acceso a herramientas profesionales, promueve la desigualdad reducida y construye comunidades informáticas inclusivas."
+  },
+  {
+    "intent_id": "entornos_de_desarrollo_ide_errores",
+    "keywords": [
+      "errores",
+      "fallas",
+      "debug",
+      "compilacion"
+    ],
+    "base_response": "Los estudiantes suelen enfrentar errores de sintaxis, fallas al compilar y problemas al ejecutar programas en un IDE. También aparecen rutas mal configuradas, dependencias faltantes y confusiones al interpretar mensajes de error, lo que dificulta avanzar sin una guía clara."
+  },
+  {
+    "intent_id": "entornos_de_desarrollo_ide_clasificacion",
+    "keywords": [
+      "clasificacion",
+      "ide",
+      "tipos",
+      "programacion"
+    ],
+    "base_response": "Los entornos de desarrollo IDE pueden clasificarse según su complejidad, lenguaje soportado y nivel de integración. Algunos se enfocan en principiantes con interfaces simples, mientras otros ofrecen herramientas avanzadas para proyectos profesionales. Esta taxonomía ayuda a elegir el IDE adecuado."
+  },
+  {
+    "intent_id": "librerias_de_funciones_predefinidas_definicion",
+    "keywords": [
+      "biblioteca",
+      "funcion",
+      "modulo",
+      "interfaz",
+      "llamada"
+    ],
+    "base_response": "Una librería de funciones predefinidas es un grupo organizado de subrutinas útiles, cada una agrupada en módulos o paquetes, con interfaces claramente definidas, permitiendo al programador llamar a funciones sin detallar los algoritmos internos para la implementación de manera eficiente."
+  },
+  {
+    "intent_id": "librerias_de_funciones_predefinidas_dinamica",
+    "keywords": [
+      "funciones",
+      "librerias",
+      "procesos",
+      "ejecucion",
+      "computadora"
+    ],
+    "base_response": "Las librerías de funciones predefinidas operan físicamente como bloques de instrucciones almacenadas en la memoria. Cuando el programa las llama, el procesador ejecuta sus pasos internos sin reescribirlos, optimizando el uso de recursos y acelerando la dinámica de funcionamiento del sistema."
+  },
+  {
+    "intent_id": "librerias_de_funciones_predefinidas_aplicaciones",
+    "keywords": [
+      "programacion",
+      "automatizacion",
+      "tareas",
+      "funciones"
+    ],
+    "base_response": "Las librerías de funciones predefinidas permiten resolver tareas reales como calcular tiempos, procesar datos o manejar fechas sin crear todo desde cero. Facilitan desarrollar aplicaciones escolares, organizar actividades diarias y automatizar procesos sencillos que mejoran la vida cotidiana de los estudiantes."
+  },
+  {
+    "intent_id": "librerias_de_funciones_predefinidas_importancia",
+    "keywords": [
+      "programacion",
+      "automatizacion",
+      "colaboracion",
+      "aprendizaje"
+    ],
+    "base_response": "Las librerías de funciones predefinidas facilitan el acceso equitativo al conocimiento digital, permitiendo que más jóvenes participen en proyectos tecnológicos. Su uso impulsa la colaboración, reduce barreras técnicas y fomenta una comunidad capaz de crear soluciones con impacto social positivo."
+  },
+  {
+    "intent_id": "librerias_de_funciones_predefinidas_errores",
+    "keywords": [
+      "errores",
+      "funciones",
+      "librerias",
+      "fallas",
+      "patologias"
+    ],
+    "base_response": "Los estudiantes suelen enfrentar errores por usar funciones sin comprender sus parámetros, provocar fallas al mezclar tipos de datos incompatibles y generar patologías como depender excesivamente de librerías sin verificar su documentación. También es común confundir nombres similares y causar comportamientos inesperados."
+  },
+  {
+    "intent_id": "librerias_de_funciones_predefinidas_clasificacion",
+    "keywords": [
+      "clasificacion",
+      "librerias",
+      "funciones",
+      "jerarquia"
+    ],
+    "base_response": "La clasificación taxonómica de las librerías de funciones predefinidas organiza sus elementos según categorías jerárquicas, permitiendo identificar tipos de funciones, su propósito y relaciones internas. Esta estructura facilita comprender cómo se agrupan y se utilizan eficientemente."
+  },
+  {
+    "intent_id": "sistemas_de_versiones_git_definicion",
+    "keywords": [
+      "repositorio",
+      "versiones",
+      "commits",
+      "ramas",
+      "historial"
+    ],
+    "base_response": "Git es un sistema estructurado que organiza proyectos en repositorios, donde cada cambio se almacena como un commit. Su anatomía incluye ramas que permiten desarrollar ideas en paralelo y un historial que registra la evolución completa del código de manera ordenada."
+  },
+  {
+    "intent_id": "sistemas_de_versiones_git_dinamica",
+    "keywords": [
+      "repositorio",
+      "commits",
+      "ramas",
+      "sincronizacion"
+    ],
+    "base_response": "Git funciona mediante la creación y actualización de estructuras internas que registran cambios. Cada commit almacena estados del proyecto y las ramas organizan rutas de desarrollo. Su dinámica física implica gestionar archivos y metadatos para mantener versiones coherentes y seguras."
+  },
+  {
+    "intent_id": "sistemas_de_versiones_git_aplicaciones",
+    "keywords": [
+      "control",
+      "versiones",
+      "colaboracion",
+      "proyectos"
+    ],
+    "base_response": "Los sistemas de versiones git permiten a los estudiantes gestionar cambios en proyectos reales, colaborar con compañeros sin perder trabajo previo, recuperar versiones anteriores y organizar tareas de programación, lo que facilita prácticas seguras y ordenadas en actividades tecnológicas cotidianas."
+  },
+  {
+    "intent_id": "sistemas_de_versiones_git_importancia",
+    "keywords": [
+      "colaboracion",
+      "software",
+      "control",
+      "comunidad"
+    ],
+    "base_response": "Los sistemas de versiones como Git fortalecen la colaboración abierta, permiten que comunidades diversas construyan proyectos compartidos y fomentan la transparencia en el desarrollo. Su impacto social radica en facilitar aprendizajes colectivos, impulsar la innovación y promover la participación responsable en entornos digitales."
+  },
+  {
+    "intent_id": "sistemas_de_versiones_git_errores",
+    "keywords": [
+      "conflictos",
+      "commits",
+      "repositorios",
+      "versionado"
+    ],
+    "base_response": "Los errores comunes en git incluyen conflictos al combinar ramas, pérdida de cambios por commits mal realizados y confusión al manejar repositorios remotos. También aparecen fallas al no actualizar la versión local, provocando desincronización y dificultades para recuperar el historial correctamente."
+  },
+  {
+    "intent_id": "sistemas_de_versiones_git_clasificacion",
+    "keywords": [
+      "versiones",
+      "repositorios",
+      "commits",
+      "ramas",
+      "historial"
+    ],
+    "base_response": "La clasificación taxonómica en sistemas de versiones Git permite organizar conceptos como repositorios, ramas, commits y etiquetas en categorías jerárquicas. Esta estructura ayuda a estudiantes a comprender cómo se relacionan los elementos y cómo se agrupan para mantener proyectos ordenados y coherentes."
+  },
+  {
+    "intent_id": "diagramas_de_flujo_logicos_definicion",
+    "keywords": [
+      "estructura",
+      "secuencia",
+      "decision",
+      "proceso"
+    ],
+    "base_response": "Un diagrama de flujo lógico se compone de símbolos conectados que representan pasos ordenados, decisiones y rutas alternativas. Su anatomía incluye bloques de inicio, acciones, bifurcaciones y fin, organizados para mostrar claramente la estructura interna del razonamiento computacional."
+  },
+  {
+    "intent_id": "diagramas_de_flujo_logicos_aplicaciones",
+    "keywords": [
+      "diagramas",
+      "flujo",
+      "procesos",
+      "decisiones"
+    ],
+    "base_response": "Los diagramas de flujo lógicos permiten a los estudiantes aplicar pasos ordenados para resolver situaciones cotidianas, como planificar tareas, decidir rutas eficientes o organizar actividades. Facilitan comprender procesos reales y tomar decisiones claras mediante secuencias visuales simples y estructuradas."
+  },
+  {
+    "intent_id": "diagramas_de_flujo_logicos_importancia",
+    "keywords": [
+      "impacto",
+      "sociedad",
+      "organizacion",
+      "procesos"
+    ],
+    "base_response": "Los diagramas de flujo lógicos fortalecen la comprensión social al mostrar cómo se organizan procesos que influyen en la vida diaria. Facilitan decisiones colectivas más claras, promueven la transparencia y ayudan a que comunidades y organizaciones funcionen de manera eficiente y colaborativa."
+  },
+  {
+    "intent_id": "diagramas_de_flujo_logicos_errores",
+    "keywords": [
+      "errores",
+      "fallas",
+      "bucles",
+      "condiciones"
+    ],
+    "base_response": "Los diagramas de flujo lógicos suelen presentar errores frecuentes como decisiones mal conectadas, bucles infinitos y condiciones ambiguas. Estas fallas provocan rutas imposibles, confusión en la interpretación y resultados inesperados que dificultan el aprendizaje y la depuración en estudiantes jóvenes."
+  },
+  {
+    "intent_id": "diagramas_de_flujo_logicos_clasificacion",
+    "keywords": [
+      "diagramas",
+      "logica",
+      "clasificacion",
+      "procesos"
+    ],
+    "base_response": "La clasificación taxonómica de los diagramas de flujo lógicos organiza sus elementos según funciones específicas, como decisiones, procesos y conexiones. Esta estructura permite a los estudiantes identificar patrones, agrupar símbolos y comprender cómo cada categoría contribuye a la secuencia lógica completa."
+  },
+  {
+    "intent_id": "seudocodigo_de_diseno_previo_definicion",
+    "keywords": [
+      "seudocodigo",
+      "estructura",
+      "pasos",
+      "algoritmo"
+    ],
+    "base_response": "El seudocódigo de diseño previo se define como una representación estructurada que organiza claramente los pasos esenciales de un algoritmo. Su anatomía incluye secuencias ordenadas, decisiones y repeticiones, permitiendo visualizar la lógica antes de programar y facilitando la comprensión del proceso."
+  },
+  {
+    "intent_id": "seudocodigo_de_diseno_previo_dinamica",
+    "keywords": [
+      "pseudocodigo",
+      "flujo",
+      "logica",
+      "interaccion"
+    ],
+    "base_response": "El pseudocódigo de diseño previo representa la lógica del programa con instrucciones simples que muestran cómo se concreta el flujo de datos y acciones, ayudando a visualizar la evolución y la interacción entre componentes físicos del software."
+  },
+  {
+    "intent_id": "seudocodigo_de_diseno_previo_aplicaciones",
+    "keywords": [
+      "planificacion",
+      "algoritmos",
+      "procesos",
+      "soluciones"
+    ],
+    "base_response": "El seudocódigo de diseño previo permite organizar tareas reales como planear rutas, clasificar objetos o automatizar pasos repetitivos. Ayuda a que los estudiantes estructuren soluciones claras antes de programar, facilitando decisiones eficientes en actividades cotidianas y proyectos escolares."
+  },
+  {
+    "intent_id": "seudocodigo_de_diseno_previo_importancia",
+    "keywords": [
+      "planificacion",
+      "algoritmos",
+      "impacto",
+      "comunidad"
+    ],
+    "base_response": "El seudocódigo de diseño previo impulsa soluciones tecnológicas claras que benefician a la comunidad. Facilita la colaboración entre jóvenes, promueve la responsabilidad digital y ayuda a crear proyectos que atienden necesidades reales, fortaleciendo la participación social mediante herramientas informáticas comprensibles y bien estructuradas."
+  },
+  {
+    "intent_id": "seudocodigo_de_diseno_previo_errores",
+    "keywords": [
+      "errores",
+      "fallas",
+      "patologias",
+      "seudocodigo"
+    ],
+    "base_response": "El seudocódigo de diseño previo puede presentar errores comunes como pasos ambiguos, secuencias mal ordenadas y omisiones críticas. Estas fallas generan confusión al programar y dificultan la detección de problemas. Identificar patologías tempranas mejora la claridad y previene fallos posteriores."
+  },
+  {
+    "intent_id": "seudocodigo_de_diseno_previo_clasificacion",
+    "keywords": [
+      "seudocodigo",
+      "clasificacion",
+      "estructuras",
+      "procesos"
+    ],
+    "base_response": "La clasificación taxonómica en el diseño previo con seudocódigo permite ordenar pasos y estructuras según su función. Los estudiantes organizan acciones en categorías lógicas, facilitando la comprensión de procesos y la identificación de elementos esenciales antes de programar soluciones completas."
+  },
+  {
+    "intent_id": "comentarios_de_documentacion_interna_definicion",
+    "keywords": [
+      "comentarios",
+      "documentacion",
+      "estructura",
+      "codigo",
+      "anotaciones"
+    ],
+    "base_response": "Los comentarios de documentación interna son elementos textuales insertados dentro del código para describir su estructura. Funcionan como anotaciones que explican partes específicas, organizan secciones y permiten comprender la anatomía del programa sin alterar su funcionamiento."
+  },
+  {
+    "intent_id": "comentarios_de_documentacion_interna_dinamica",
+    "keywords": [
+      "comentarios",
+      "codigo",
+      "funcionamiento",
+      "estructura",
+      "procesos"
+    ],
+    "base_response": "Los comentarios de documentación interna ayudan a comprender cómo se mueve la información dentro del programa, describiendo el flujo de datos, la secuencia de acciones y la interacción entre módulos. Facilitan visualizar el comportamiento físico del sistema y anticipar posibles fallos o bloqueos."
+  },
+  {
+    "intent_id": "diagramas_de_flujo_logicos_dinamica",
+    "keywords": [
+      "procesos",
+      "secuencias",
+      "acciones",
+      "funcionamiento"
+    ],
+    "base_response": "Los diagramas de flujo lógicos pueden entenderse físicamente como rutas donde la información avanza siguiendo pasos definidos. Cada símbolo representa un punto de decisión o acción que guía el movimiento ordenado de datos, simulando un recorrido dinámico dentro de un sistema computacional."
+  },
+  {
+    "intent_id": "comentarios_de_documentacion_interna_aplicaciones",
+    "keywords": [
+      "documentacion",
+      "colaboracion",
+      "mantener",
+      "reuso"
+    ],
+    "base_response": "Los comentarios de documentación interna ayudan a los niños a entender cómo explicar su código, mejorar la colaboración con amigos y facilitar la solución de problemas. También sirven como notas para cuando vuelvan a su proyecto, evitando confusiones."
+  },
+  {
+    "intent_id": "comentarios_de_documentacion_interna_importancia",
+    "keywords": [
+      "documentacion",
+      "comentarios",
+      "impacto",
+      "comunidad",
+      "colaboracion"
+    ],
+    "base_response": "Los comentarios de documentación interna fortalecen la colaboración y permiten que más personas comprendan y mantengan proyectos tecnológicos. Su importancia social radica en crear comunidades inclusivas donde el conocimiento se comparte, se preserva y se transmite, impulsando la participación responsable en entornos digitales."
+  },
+  {
+    "intent_id": "comentarios_de_documentacion_interna_errores",
+    "keywords": [
+      "comentarios",
+      "codigo",
+      "errores",
+      "confusiones"
+    ],
+    "base_response": "Los comentarios de documentación interna pueden generar errores cuando son confusos, contradictorios o desactualizados. Muchos estudiantes confían demasiado en ellos y no verifican el código real, provocando fallas frecuentes. También ocurre que se añaden comentarios innecesarios que ocultan problemas importantes."
+  },
+  {
+    "intent_id": "comentarios_de_documentacion_interna_clasificacion",
+    "keywords": [
+      "comentarios",
+      "documentacion",
+      "clasificacion",
+      "codigo",
+      "etiquetas"
+    ],
+    "base_response": "Los comentarios de documentación interna pueden clasificarse según su función, como descripción, advertencia o guía. Esta clasificación ayuda a estudiantes a identificar rápidamente el propósito de cada comentario y a organizar mejor la información dentro del código, facilitando comprensión y mantenimiento."
+  },
+  {
+    "intent_id": "parametros_de_entrada_funcional_definicion",
+    "keywords": [
+      "parametros",
+      "entrada",
+      "funcional",
+      "variables",
+      "valores",
+      "funcion"
+    ],
+    "base_response": "En programación, los parámetros de entrada funcional son variables que reciben valores externos cuando se llama a una función, definiendo así su comportamiento y la forma en que se estructuran los datos que la función procesa."
+  },
+  {
+    "intent_id": "parametros_de_entrada_funcional_dinamica",
+    "keywords": [
+      "sensores",
+      "movimiento",
+      "captura",
+      "interaccion"
+    ],
+    "base_response": "Los parámetros de entrada funcional se relacionan con cómo un dispositivo detecta acciones físicas, como presión, movimiento o contacto. Estos parámetros permiten transformar gestos corporales en señales interpretables, asegurando una interacción precisa entre el usuario y el sistema tecnológico."
+  },
+  {
+    "intent_id": "parametros_de_entrada_funcional_aplicaciones",
+    "keywords": [
+      "programacion",
+      "funciones",
+      "entradas",
+      "datos"
+    ],
+    "base_response": "Los parámetros de entrada funcional permiten que los estudiantes comprendan cómo ajustar datos para obtener resultados útiles en situaciones reales, como calcular gastos, personalizar búsquedas digitales o configurar dispositivos. Facilitan decisiones informadas mediante información precisa adaptada a cada necesidad."
+  },
+  {
+    "intent_id": "parametros_de_entrada_funcional_importancia",
+    "keywords": [
+      "programacion",
+      "funciones",
+      "impacto",
+      "sociedad"
+    ],
+    "base_response": "Comprender los parámetros de entrada funcional permite a los jóvenes crear soluciones tecnológicas más precisas y responsables. Esta habilidad influye en cómo diseñan aplicaciones que atienden necesidades reales, fortalecen la participación social y promueven un uso consciente de la tecnología en su comunidad."
+  },
+  {
+    "intent_id": "parametros_de_entrada_funcional_errores",
+    "keywords": [
+      "errores",
+      "parametros",
+      "funciones",
+      "validacion"
+    ],
+    "base_response": "Los errores comunes en parámetros de entrada funcional incluyen valores fuera del rango esperado, tipos de datos incorrectos y ausencia de validación previa. Estas fallas provocan comportamientos inesperados, bloqueos y resultados erróneos que dificultan el aprendizaje y la comprensión del flujo lógico."
+  },
+  {
+    "intent_id": "parametros_de_entrada_funcional_clasificacion",
+    "keywords": [
+      "parametros",
+      "funciones",
+      "clasificacion",
+      "tipos",
+      "entrada"
+    ],
+    "base_response": "Los parámetros de entrada funcional pueden clasificarse taxonómicamente según su tipo de dato, su función dentro del algoritmo y su nivel de abstracción. Esta clasificación ayuda a que los estudiantes identifiquen cómo cada parámetro influye en el comportamiento y resultado de una función."
+  },
+  {
+    "intent_id": "retorno_de_valores_de_salida_definicion",
+    "keywords": [
+      "retorno",
+      "funcion",
+      "resultado",
+      "estructura"
+    ],
+    "base_response": "El retorno de valores de salida es la parte estructural de una función que entrega un resultado específico al finalizar su ejecución. Define cómo la función comunica información hacia el exterior mediante un valor concreto que puede usarse posteriormente."
+  },
+  {
+    "intent_id": "retorno_de_valores_de_salida_dinamica",
+    "keywords": [
+      "retorno",
+      "valores",
+      "procesos",
+      "circuitos"
+    ],
+    "base_response": "El retorno de valores de salida implica cómo los circuitos físicos procesan señales y las envían de vuelta al programa. Cada componente electrónico transforma impulsos eléctricos en datos interpretables, asegurando que las respuestas generadas reflejen con precisión el estado interno del sistema."
+  },
+  {
+    "intent_id": "retorno_de_valores_de_salida_aplicaciones",
+    "keywords": [
+      "valor",
+      "salida",
+      "funcion",
+      "automatizar",
+      "personalizar"
+    ],
+    "base_response": "El retorno de valores facilita la toma de decisiones en programas, permitiendo usar resultados de funciones para calcular precios, ajustar estrategias de juego, automatizar alarmas y personalizar experiencias de aprendizaje, implementando retroalimentación inteligente sin perder claridad y control."
+  },
+  {
+    "intent_id": "retorno_de_valores_de_salida_importancia",
+    "keywords": [
+      "programacion",
+      "impacto",
+      "sociedad",
+      "responsabilidad"
+    ],
+    "base_response": "Comprender el retorno de valores de salida permite a los estudiantes reconocer cómo las decisiones en un programa influyen en sistemas usados por muchas personas. Esta conciencia fomenta responsabilidad, promueve soluciones confiables y ayuda a construir tecnologías que generen beneficios reales para la comunidad."
+  },
+  {
+    "intent_id": "retorno_de_valores_de_salida_errores",
+    "keywords": [
+      "errores",
+      "retornos",
+      "funciones",
+      "debug"
+    ],
+    "base_response": "Los errores en el retorno de valores de salida suelen surgir cuando los estudiantes confunden tipos de datos, olvidan devolver resultados o mezclan rutas lógicas. Estas fallas provocan comportamientos inesperados y dificultan la depuración, generando frustración y pérdida de tiempo."
+  },
+  {
+    "intent_id": "retorno_de_valores_de_salida_clasificacion",
+    "keywords": [
+      "retorno",
+      "valores",
+      "funciones",
+      "clasificacion"
+    ],
+    "base_response": "La clasificación taxonómica del retorno de valores de salida permite organizar los tipos de datos que una función puede devolver. Esta estructura facilita comprender cómo se agrupan resultados numéricos, lógicos o textuales, ayudando a elegir el tipo adecuado según la tarea."
+  },
+  {
+    "intent_id": "operadores_matematicos_de_codigo_definicion",
+    "keywords": [
+      "operadores",
+      "codigo",
+      "estructura",
+      "matematicas"
+    ],
+    "base_response": "Los operadores matemáticos de código son componentes estructurales que actúan como símbolos funcionales dentro de un lenguaje de programación. Su anatomía se basa en signos que indican operaciones específicas, permitiendo construir cálculos precisos mediante reglas sintácticas claras."
+  },
+  {
+    "intent_id": "operadores_matematicos_de_codigo_dinamica",
+    "keywords": [
+      "operadores",
+      "calculo",
+      "procesos",
+      "funcionamiento"
+    ],
+    "base_response": "Los operadores matemáticos influyen en la dinámica física del procesamiento al determinar cómo se transforman los datos dentro del hardware. Cada operación activa circuitos específicos que realizan cálculos, generando cambios eléctricos que permiten resultados precisos y eficientes en la ejecución del código."
+  },
+  {
+    "intent_id": "operadores_matematicos_de_codigo_aplicaciones",
+    "keywords": [
+      "simulaciones",
+      "rutas",
+      "finanzas",
+      "crecimiento"
+    ],
+    "base_response": "Los operadores matemáticos de código permiten a los niños diseñar simulaciones de crecimiento de plantas, calcular rutas óptimas para juegos de ruta y evaluar finanzas básicas en ahorros escolares, convirtiendo fórmulas simples en herramientas útiles para tareas cotidianas y proyectos creativos."
+  },
+  {
+    "intent_id": "operadores_matematicos_de_codigo_importancia",
+    "keywords": [
+      "programacion",
+      "logica",
+      "computacion",
+      "aprendizaje"
+    ],
+    "base_response": "Los operadores matemáticos de código permiten comprender cómo la tecnología procesa cálculos esenciales, influyendo en decisiones sociales y científicas. Su dominio fomenta ciudadanía digital informada, impulsa innovación responsable y fortalece la participación juvenil en soluciones que mejoran comunidades y promueven equidad tecnológica."
+  },
+  {
+    "intent_id": "operadores_matematicos_de_codigo_errores",
+    "keywords": [
+      "errores",
+      "operadores",
+      "codigo",
+      "fallas"
+    ],
+    "base_response": "Los estudiantes suelen confundir operadores por símbolos similares, provocando cálculos incorrectos. También olvidan prioridades de operación, generando resultados inesperados. Es común usar tipos de datos incompatibles, causando fallas lógicas. Detectar estos errores tempranos mejora la comprensión y evita patologías persistentes."
+  },
+  {
+    "intent_id": "operadores_matematicos_de_codigo_clasificacion",
+    "keywords": [
+      "clasificacion",
+      "operadores",
+      "codigo",
+      "algoritmos"
+    ],
+    "base_response": "La clasificación taxonómica de operadores matemáticos de código organiza funciones según su propósito, complejidad y efecto en los datos. Esta estructura permite a estudiantes identificar, comparar y agrupar operadores para comprender mejor su uso en algoritmos y programas."
+  },
+  {
+    "intent_id": "operadores_logicos_de_comparacion_definicion",
+    "keywords": [
+      "operadores",
+      "comparacion",
+      "estructura",
+      "operandos",
+      "simbolos"
+    ],
+    "base_response": "Los operadores lógicos de comparación, como ==, !=, >, <, >= y <=, están compuestos por dos operandos numéricos o alfabéticos y un símbolo que conecta las partes. Su función es evaluar relaciones y generar resultados binarios para controlar el flujo del programa."
+  },
+  {
+    "intent_id": "operadores_logicos_de_comparacion_dinamica",
+    "keywords": [
+      "procesamiento",
+      "hardware",
+      "comparacion",
+      "bits"
+    ],
+    "base_response": "Los operadores lógicos de comparación se ejecutan físicamente mediante circuitos que analizan flujos de bits. Cada comparación activa compuertas electrónicas que determinan coincidencias o diferencias. Este proceso dinámico ocurre en nanosegundos y permite que el procesador tome decisiones rápidas y precisas."
+  },
+  {
+    "intent_id": "operadores_logicos_de_comparacion_aplicaciones",
+    "keywords": [
+      "comparacion",
+      "evaluacion",
+      "decision",
+      "programacion"
+    ],
+    "base_response": "Los operadores lógicos de comparación ayudan a decidir si algo cumple una condición, como verificar si un precio es menor que otro para elegir una compra, comparar edades para actividades adecuadas o revisar si una tarea está completa antes de pasar al siguiente paso."
+  },
+  {
+    "intent_id": "operadores_logicos_de_comparacion_importancia",
+    "keywords": [
+      "logica",
+      "decisiones",
+      "resolucion",
+      "alfabetizacion"
+    ],
+    "base_response": "Los operadores lógicos de comparación permiten que los niños comprendan la lógica condicional, promoviendo la toma de decisiones responsable; su dominio fomenta la resolución de problemas en entornos digitales, contribuyendo al desarrollo de habilidades críticas y la alfabetización digital, clave para una sociedad equitativa."
+  },
+  {
+    "intent_id": "operadores_logicos_de_comparacion_errores",
+    "keywords": [
+      "comparacion",
+      "errores",
+      "confusion",
+      "valores"
+    ],
+    "base_response": "Muchos estudiantes confunden operadores como igual y estrictamente igual, generando fallas al comparar números y cadenas. También suelen mezclar mayor que con mayor o igual, provocando resultados inesperados. Estas patologías afectan la lógica y dificultan depurar programas sencillos."
+  },
+  {
+    "intent_id": "operadores_logicos_de_comparacion_clasificacion",
+    "keywords": [
+      "comparacion",
+      "operadores",
+      "clasificacion",
+      "logica"
+    ],
+    "base_response": "La clasificación taxonómica de los operadores lógicos de comparación organiza símbolos como igual, distinto, mayor y menor según su función. Esta estructura permite a los estudiantes identificar relaciones entre valores y comprender cómo se agrupan para resolver problemas."
+  },
+  {
+    "intent_id": "sentencias_de_asignacion_simple_definicion",
+    "keywords": [
+      "asignacion",
+      "variable",
+      "operador",
+      "valor"
+    ],
+    "base_response": "Una sentencia de asignación simple asigna un valor a una variable mediante el operador =, donde el identificador precede, el operador sigue y el valor a asignar termina la expresión, formando un bloque de código ejecutable."
+  },
+  {
+    "intent_id": "sentencias_de_asignacion_simple_dinamica",
+    "keywords": [
+      "asignacion",
+      "variables",
+      "memoria",
+      "procesos"
+    ],
+    "base_response": "Una sentencia de asignación simple funciona moviendo físicamente datos dentro de la memoria del computador. El valor viaja desde una zona de almacenamiento hacia la variable indicada, actualizando su contenido. Este proceso ocurre mediante impulsos electrónicos que reorganizan bits en posiciones específicas."
+  },
+  {
+    "intent_id": "sentencias_de_asignacion_simple_aplicaciones",
+    "keywords": [
+      "asignacion",
+      "variables",
+      "programacion",
+      "calculo"
+    ],
+    "base_response": "Las sentencias de asignación simple permiten modelar situaciones reales, como guardar el precio de un producto, actualizar la cantidad de artículos en una lista o registrar el tiempo dedicado a una actividad. Facilitan organizar información y tomar decisiones basadas en datos concretos."
+  },
+  {
+    "intent_id": "sentencias_de_asignacion_simple_importancia",
+    "keywords": [
+      "asignacion",
+      "valor",
+      "logica",
+      "responsabilidad"
+    ],
+    "base_response": "Las sentencias de asignación simple enseñan a los niños a elegir y dar valores, fomentando la lógica y la responsabilidad en el código. Tal práctica potencia proyectos que benefician comunidades, promueve la colaboración digital y fortalece habilidades para participar activamente en la sociedad tecnológica."
+  },
+  {
+    "intent_id": "sentencias_de_asignacion_simple_errores",
+    "keywords": [
+      "asignacion",
+      "variables",
+      "errores",
+      "programacion"
+    ],
+    "base_response": "Los estudiantes suelen cometer errores al confundir el valor asignado con el nombre de la variable, usar símbolos incorrectos o repetir nombres sin intención. También aparecen fallas por olvidar actualizar valores, generando comportamientos inesperados y dificultando la comprensión del flujo del programa."
+  },
+  {
+    "intent_id": "sentencias_de_asignacion_simple_clasificacion",
+    "keywords": [
+      "asignacion",
+      "variables",
+      "programacion",
+      "operadores"
+    ],
+    "base_response": "La clasificación taxonómica de las sentencias de asignación simple permite organizar sus componentes según función y nivel de abstracción. Se distinguen variables, valores y operadores, facilitando que los estudiantes comprendan cómo se estructura y categoriza cada elemento dentro del proceso computacional."
+  },
+  {
+    "intent_id": "lenguajes_de_sintaxis_informatica_historia",
+    "keywords": [
+      "programacion",
+      "sintaxis",
+      "evolucion",
+      "computacion"
+    ],
+    "base_response": "Los lenguajes de sintaxis informática surgieron para facilitar la comunicación con las primeras computadoras. Evolucionaron desde códigos muy rígidos hasta sistemas más expresivos y accesibles. Su historia muestra cómo la tecnología avanzó para permitir que más personas pudieran crear programas de manera eficiente."
+  },
+  {
+    "intent_id": "lenguajes_de_sintaxis_informatica_contexto",
+    "keywords": [
+      "sintaxis",
+      "contexto",
+      "ecosistema",
+      "programacion"
+    ],
+    "base_response": "Los lenguajes de sintaxis informática se desarrollan dentro de ecosistemas digitales que influyen en su uso y evolución. Comprender su contexto ecológico permite a los estudiantes reconocer cómo herramientas, plataformas y comunidades moldean prácticas, necesidades y adaptaciones en programación."
+  },
+  {
+    "intent_id": "lenguajes_de_sintaxis_informatica_ventajas",
+    "keywords": [
+      "sintaxis",
+      "lenguajes",
+      "comparacion",
+      "ventajas"
+    ],
+    "base_response": "Los lenguajes de sintaxis informática ofrecen ventajas como claridad y estructura, pero también presentan desventajas al requerir mayor precisión y tiempo de aprendizaje. Compararlos permite entender cuál resulta más accesible para estudiantes y cuál exige habilidades más avanzadas según sus reglas."
+  },
+  {
+    "intent_id": "lenguajes_de_sintaxis_informatica_riesgos",
+    "keywords": [
+      "seguridad",
+      "codigo",
+      "riesgos",
+      "proteccion",
+      "errores"
+    ],
+    "base_response": "El uso de lenguajes de sintaxis informática puede implicar riesgos como ejecutar código malicioso o compartir datos sensibles sin querer. Para protegerse, los estudiantes deben verificar fuentes, evitar copiar código desconocido y comprender instrucciones antes de aplicarlas en cualquier entorno digital."
+  },
+  {
+    "intent_id": "lenguajes_de_sintaxis_informatica_calculos",
+    "keywords": [
+      "calculos",
+      "formulas",
+      "operaciones",
+      "variables"
+    ],
+    "base_response": "Los lenguajes de sintaxis informática permiten realizar cálculos precisos mediante fórmulas que combinan variables, operadores y reglas claras. Los estudiantes aprenden a estructurar expresiones matemáticas que la computadora interpreta para resolver problemas numéricos y automatizar procesos de manera confiable."
+  },
+  {
+    "intent_id": "lenguajes_de_sintaxis_informatica_mitos",
+    "keywords": [
+      "mitos",
+      "concepciones",
+      "lenguajes",
+      "sintaxis",
+      "programacion"
+    ],
+    "base_response": "Muchos estudiantes creen que todos los lenguajes de sintaxis informática funcionan igual, que uno es suficiente para programar cualquier cosa o que aprender sintaxis es memorizar reglas. Estos mitos dificultan comprender la diversidad, propósito y lógica detrás de cada lenguaje."
+  },
+  {
+    "intent_id": "lenguajes_de_sintaxis_informatica_relacion",
+    "keywords": [
+      "sintaxis",
+      "integracion",
+      "sistemas",
+      "interaccion"
+    ],
+    "base_response": "Los lenguajes de sintaxis informática establecen una relación simbiótica con otros sistemas al permitir que sus estructuras se adapten y colaboren con plataformas diversas. Esta interacción facilita flujos de información coherentes, mejora la interoperabilidad y potencia soluciones tecnológicas más eficientes."
+  },
+  {
+    "intent_id": "lenguajes_de_sintaxis_informatica_transformacion",
+    "keywords": [
+      "sintaxisinformatica",
+      "transformacionenergetica",
+      "ciclositeracion",
+      "aprendizajedigital",
+      "dinamica"
+    ],
+    "base_response": "En la enseñanza de la sintaxis informática para niños, la transformación energética se ve en los ciclos de iteración que reconfiguran datos, convirtiendo instrucciones sencillas en procesos dinámicos; así, el aprendizaje se vincula a la energía que fluye dentro del programa."
+  },
+  {
+    "intent_id": "lenguajes_de_sintaxis_informatica_experimentos",
+    "keywords": [
+      "animar",
+      "codigo",
+      "experimentar",
+      "depurar"
+    ],
+    "base_response": "En una aula, los estudiantes exploran lenguajes de sintaxis informática mediante experimentos prácticos, como crear scripts simples en Python y depurarlos en tiempo real; estas demostraciones lúdicas refuerzan la lógica, fomentan la curiosidad y desarrollan habilidades de resolución de problemas."
+  },
+  {
+    "intent_id": "lenguajes_de_sintaxis_informatica_consecuencias",
+    "keywords": [
+      "lenguaje",
+      "sintaxis",
+      "pensamiento",
+      "carrera"
+    ],
+    "base_response": "Conocer y dominar distintos lenguajes de sintaxis no solo facilita la creación de programas, sino que también refuerza habilidades de lógica, estructuración de ideas y resolución de problemas, lo que abre oportunidades académicas y profesionales en STEM, diseño y desarrollo digital en el futuro."
+  },
+  {
+    "intent_id": "lenguajes_de_sintaxis_informatica_impacto",
+    "keywords": [
+      "programacion",
+      "eficiencia",
+      "energia",
+      "sostenibilidad"
+    ],
+    "base_response": "Los lenguajes de sintaxis informática influyen en el impacto ambiental porque su eficiencia determina cuánta energía consumen los programas. Un código claro y optimizado reduce el uso de recursos, disminuye emisiones y fomenta prácticas digitales más responsables para el planeta."
+  },
+  {
+    "intent_id": "lenguajes_de_sintaxis_informatica_mantenimiento",
+    "keywords": [
+      "mantenimiento",
+      "prevencion",
+      "errores",
+      "sintaxis",
+      "seguridad"
+    ],
+    "base_response": "El mantenimiento en lenguajes de sintaxis informática implica revisar código para evitar errores, asegurar compatibilidad y prevenir fallos futuros. Los estudiantes deben aprender a documentar, actualizar versiones y aplicar buenas prácticas que reduzcan riesgos y mantengan proyectos estables y funcionales a largo plazo."
+  },
+  {
+    "intent_id": "lenguajes_de_sintaxis_informatica_proyecciones",
+    "keywords": [
+      "programacion",
+      "innovacion",
+      "automatizacion",
+      "tecnologia"
+    ],
+    "base_response": "Los lenguajes de sintaxis informática evolucionarán hacia estructuras más intuitivas y automatizadas, impulsadas por inteligencia artificial capaz de interpretar ideas y convertirlas en código funcional. Estas proyecciones permitirán que jóvenes desarrolladores creen soluciones complejas mediante interfaces más naturales y accesibles."
+  },
+  {
+    "intent_id": "funciones_de_bloques_reutilizables_historia",
+    "keywords": [
+      "programacion",
+      "bloques",
+      "funciones",
+      "evolucion"
+    ],
+    "base_response": "Las funciones de bloques reutilizables surgieron con lenguajes educativos como Logo y evolucionaron con entornos visuales como Scratch. Su historia refleja la necesidad de simplificar la programación para jóvenes, permitiendo crear acciones modulares que facilitan el aprendizaje y fomentan la creatividad computacional."
+  },
+  {
+    "intent_id": "funciones_de_bloques_reutilizables_contexto",
+    "keywords": [
+      "programacion",
+      "bloques",
+      "funciones",
+      "ecologia",
+      "entorno"
+    ],
+    "base_response": "Las funciones de bloques reutilizables pueden relacionarse con el entorno ecológico al mostrar cómo la reutilización reduce desperdicios digitales y promueve prácticas sostenibles. Los estudiantes comprenden que organizar código eficientemente refleja el cuidado del ambiente y fomenta hábitos responsables en proyectos tecnológicos."
+  },
+  {
+    "intent_id": "funciones_de_bloques_reutilizables_ventajas",
+    "keywords": [
+      "bloques",
+      "reutilizables",
+      "ventajas",
+      "desventajas",
+      "comparativa"
+    ],
+    "base_response": "El uso de funciones de bloques reutilizables simplifica la programación, fomentando modularidad y reducción de errores, pero su aprendizaje inicial puede ser complejo para niños, y el mantenimiento de bloques grandes puede llevar a dependencias difíciles de rastrear comparado con la codificación lineal sencilla."
+  },
+  {
+    "intent_id": "funciones_de_bloques_reutilizables_riesgos",
+    "keywords": [
+      "bloques",
+      "seguridad",
+      "pruebas",
+      "codificacion"
+    ],
+    "base_response": "Las funciones de bloques reutilizables facilitan el aprendizaje, pero los riesgos incluyen dependencia de la codificación por fuentes no seguras, fugas de datos y roturas de funcionalidad. Las medidas de seguridad consisten en revisiones de código, uso de bloqueadores de contenido y pruebas automatizadas."
+  },
+  {
+    "intent_id": "funciones_de_bloques_reutilizables_calculos",
+    "keywords": [
+      "funciones",
+      "calculos",
+      "formulas",
+      "reutilizacion"
+    ],
+    "base_response": "Las funciones de bloques reutilizables permiten organizar cálculos repetitivos mediante fórmulas claras que se ejecutan cada vez que se llama al bloque. Esto ayuda a simplificar operaciones numéricas, evitar errores y mantener procedimientos matemáticos consistentes dentro de proyectos digitales educativos."
+  },
+  {
+    "intent_id": "funciones_de_bloques_reutilizables_mitos",
+    "keywords": [
+      "funciones",
+      "bloques",
+      "reutilizacion",
+      "programacion"
+    ],
+    "base_response": "Muchos estudiantes creen que las funciones de bloques reutilizables solo sirven para ahorrar tiempo, pero también organizan mejor el código. Otro mito común es pensar que complican el programa, cuando en realidad facilitan la comprensión y reducen errores al reutilizar lógica clara."
+  },
+  {
+    "intent_id": "funciones_de_bloques_reutilizables_relacion",
+    "keywords": [
+      "funciones",
+      "bloques",
+      "reutilizacion",
+      "sistemas"
+    ],
+    "base_response": "Las funciones de bloques reutilizables fortalecen la relación simbiótica entre sistemas al permitir que diferentes módulos compartan lógica común. Esto facilita la cooperación, reduce duplicaciones y mejora la comunicación entre componentes, creando entornos más eficientes y adaptables para proyectos complejos."
+  }
+]
