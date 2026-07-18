@@ -1,0 +1,2105 @@
+[
+  {
+    "intent_id": "estructura_extension_navegador",
+    "keywords": [
+      "extension",
+      "navegar",
+      "modulo",
+      "integrar"
+    ],
+    "base_response": "Una extensión de navegador es un módulo añadido que se integra en la estructura interna del programa para ampliar funciones. Incluye componentes de código, interfaces y permisos que interactúan con el motor del navegador para modificar o mejorar tareas específicas del usuario."
+  },
+  {
+    "intent_id": "fallas_extensiones_navegador",
+    "keywords": [
+      "extension",
+      "fallar",
+      "navegador",
+      "interferir"
+    ],
+    "base_response": "Las extensiones pueden causar errores cuando consumen demasiados recursos, generan conflictos entre funciones o alteran procesos internos del navegador. Estos fallos provocan lentitud, cierres inesperados y comportamientos anómalos que afectan la estabilidad general del entorno de navegación."
+  },
+  {
+    "intent_id": "origen_evolucion_extensiones_navegador",
+    "keywords": [
+      "extension",
+      "navegar",
+      "software",
+      "integrar"
+    ],
+    "base_response": "Las extensiones surgieron para ampliar funciones básicas del navegador, evolucionando desde simples complementos hacia herramientas complejas. Su desarrollo creció con estándares web modernos, permitiendo mayor seguridad, compatibilidad y personalización para mejorar la experiencia de uso en distintos entornos digitales."
+  },
+  {
+    "intent_id": "impact_ecologico_extensiones",
+    "keywords": [
+      "extension",
+      "navegar",
+      "energia",
+      "optimizar"
+    ],
+    "base_response": "Las extensiones influyen en el consumo energetico del navegador al requerir procesos adicionales. Un uso responsable reduce carga computacional y favorece eficiencia. Comprender su impacto permite elegir herramientas que minimicen recursos y mejoren sostenibilidad digital."
+  },
+  {
+    "intent_id": "uso_extensiones_navegador",
+    "keywords": [
+      "extension",
+      "navegador",
+      "seguridad",
+      "optimizar"
+    ],
+    "base_response": "Las extensiones de navegador permiten agregar funciones útiles que mejoran tareas cotidianas, como organizar información, proteger datos personales y acelerar búsquedas. Su uso adecuado facilita estudiar, trabajar y navegar con mayor eficiencia en distintos entornos digitales."
+  },
+  {
+    "intent_id": "extensiones_navegador_importancia_social",
+    "keywords": [
+      "extensiones",
+      "navegador",
+      "influencia",
+      "seguridad",
+      "personalizacion",
+      "privacidad"
+    ],
+    "base_response": "Las extensiones de navegador permiten añadir funcionalidades que cambian la navegación, fomentan la personalización y al aumentar la interacción pueden comprometer la seguridad y la privacidad, generando debates sobre monopolios y control de datos, y transparencia."
+  },
+  {
+    "intent_id": "seguridad_extensiones_navegador",
+    "keywords": [
+      "extension",
+      "analizar",
+      "navegador",
+      "proteger"
+    ],
+    "base_response": "Las extensiones pueden recopilar datos sensibles si no provienen de fuentes confiables. Verificar permisos, actualizar versiones y usar tiendas oficiales reduce riesgos. Mantener solo extensiones necesarias limita vulnerabilidades y fortalece la seguridad general del navegador."
+  },
+  {
+    "intent_id": "extensiones_navegador_clasificacion_taxonomica",
+    "keywords": [
+      "funcionalidad",
+      "automatizacion",
+      "seguridad",
+      "organizador"
+    ],
+    "base_response": "Las extensiones de navegador web se pueden clasificar taxonómicamente en categorías según su función principal, como bloqueo de anuncios, gestión de contraseñas, mejora de productividad o acceso a redes sociales. Cada categoría agrupa extensiones que comparten características técnicas y objetivos comunes."
+  },
+  {
+    "intent_id": "mitos_extensiones_navegador",
+    "keywords": [
+      "extensiones",
+      "navegador",
+      "filtrar",
+      "seguridad",
+      "publicidad"
+    ],
+    "base_response": "Muchas extensiones de navegador pueden bloquear anuncios, pero no todas garantizan privacidad. Algunas filtran información personal, lo que genera preocupación. Los usuarios deben revisar permisos y fuentes confiables antes de instalarlas, porque errores pueden comprometer datos y rendimiento."
+  },
+  {
+    "intent_id": "extension_simbiosis_sistemas_web",
+    "keywords": [
+      "extension",
+      "integrar",
+      "navegador",
+      "optimizar"
+    ],
+    "base_response": "Las extensiones interactúan con servicios externos para ampliar funciones del navegador, creando una relación simbiótica donde ambos sistemas comparten datos y procesos. Esta cooperación permite mejorar rendimiento, seguridad y personalización sin alterar la estructura central del navegador."
+  },
+  {
+    "intent_id": "experimento_extension_bloqueo_anuncios",
+    "keywords": [
+      "extension",
+      "navegador",
+      "bloqueo",
+      "anuncios",
+      "experimento",
+      "demostracion"
+    ],
+    "base_response": "Instala una extension bloqueadora de anuncios en tu navegador. Compara el tiempo de carga y la cantidad de elementos visibles en una pagina web con y sin la extension activa. Observa como filtra contenido no deseado."
+  },
+  {
+    "intent_id": "impacto_extensiones_largo_plazo",
+    "keywords": [
+      "extension",
+      "modificar",
+      "navegador",
+      "analizar"
+    ],
+    "base_response": "Las extensiones pueden alterar hábitos digitales al agregar funciones que facilitan tareas, pero también pueden generar dependencia tecnológica. Su uso prolongado influye en la seguridad, el rendimiento del navegador y la capacidad del estudiante para evaluar herramientas digitales de manera crítica."
+  },
+  {
+    "intent_id": "comparacion_extensiones_navegador",
+    "keywords": [
+      "extension",
+      "analizar",
+      "navegador",
+      "optimizar"
+    ],
+    "base_response": "Las extensiones ofrecen funciones adicionales que mejoran la experiencia, pero pueden consumir recursos y afectar el rendimiento. Su utilidad depende del equilibrio entre beneficios concretos y posibles riesgos, como vulnerabilidades o incompatibilidades que requieren selección cuidadosa y actualización constante."
+  },
+  {
+    "intent_id": "demostracion_extension_navegador",
+    "keywords": [
+      "extension",
+      "analizar",
+      "navegador",
+      "modificar"
+    ],
+    "base_response": "Una demostración escolar puede mostrar cómo una extensión modifica páginas web en tiempo real. El alumnado observa cambios visibles al activar funciones que analizan contenido y aplican reglas simples. Esto permite comprender procesos internos del navegador mediante experimentos seguros y controlados."
+  },
+  {
+    "intent_id": "ecosistema_extensiones_navegador",
+    "keywords": [
+      "extension",
+      "navegar",
+      "ecosistema",
+      "interactuar"
+    ],
+    "base_response": "Las extensiones funcionan dentro del ecosistema del navegador, interactuando con servicios web y recursos locales. Su diseño influye en la eficiencia del entorno digital, afectando consumo energético, uso de datos y estabilidad general del sistema donde operan diariamente."
+  },
+  {
+    "intent_id": "extension_sistemas_interconexion",
+    "keywords": [
+      "extension",
+      "integrar",
+      "navegador",
+      "optimizar"
+    ],
+    "base_response": "Las extensiones dependen de servicios externos para funcionar y, a la vez, fortalecen la capacidad del navegador al conectar datos, procesos y funciones. Esta relación simbiótica permite mejorar seguridad, productividad y adaptación continua mediante comunicación constante entre sistemas digitales complementarios."
+  },
+  {
+    "intent_id": "estructura_diseno_responsivo",
+    "keywords": [
+      "interfaz",
+      "adaptar",
+      "contenido",
+      "ajustar"
+    ],
+    "base_response": "El diseño web responsivo movil se estructura mediante elementos flexibles que ajustan su tamaño y posicion segun el ancho disponible. Utiliza rejillas fluidas y reglas especificas que permiten reorganizar componentes para mantener legibilidad, navegacion clara y funcionalidad consistente en diferentes dispositivos."
+  },
+  {
+    "intent_id": "futuro_extensiones_navegador",
+    "keywords": [
+      "extension",
+      "navegar",
+      "inteligencia",
+      "predecir"
+    ],
+    "base_response": "Las extensiones de navegador evolucionarán hacia sistemas inteligentes capaces de anticipar necesidades, optimizar tareas y proteger datos mediante análisis contextual avanzado. Integrarán funciones autónomas que adaptarán la experiencia digital según hábitos, mejorando eficiencia y seguridad sin intervención constante del usuario."
+  },
+  {
+    "intent_id": "fallas_responsivo_movil",
+    "keywords": [
+      "pantalla",
+      "adaptar",
+      "estructura",
+      "optimizar"
+    ],
+    "base_response": "Los errores comunes en diseño web responsivo movil incluyen elementos que no se ajustan correctamente a distintas pantallas, menus inaccesibles y imagenes pesadas. Estas fallas dificultan la navegacion y requieren adaptar estructura y optimizar recursos para mejorar la experiencia."
+  },
+  {
+    "intent_id": "diseno_web_responsivo_fisiologia",
+    "keywords": [
+      "diseno",
+      "reflujo",
+      "respuesta",
+      "escala"
+    ],
+    "base_response": "La respuesta del navegador se adapta al tamaño del buscapixel gracias a unidades relativas como vw y vh, media queries y layouts flexibles, lo que permite que el contenido se reordene y redimensione dinámicamente sin recargar la página."
+  },
+  {
+    "intent_id": "uso_responsivo_movil",
+    "keywords": [
+      "sitio",
+      "adaptar",
+      "pantalla",
+      "optimizar"
+    ],
+    "base_response": "El diseño web responsivo móvil permite que un sitio se adapte automáticamente a distintas pantallas, mejorando la experiencia del usuario. En la vida real facilita leer noticias, comprar productos y usar servicios digitales sin problemas en teléfonos o tabletas."
+  },
+  {
+    "intent_id": "impacto_responsivo_movil",
+    "keywords": [
+      "tecnologia",
+      "acceso",
+      "comunidad",
+      "mejorar"
+    ],
+    "base_response": "El diseño web responsivo móvil facilita el acceso equitativo a información digital, fortaleciendo la participación social y educativa. Su adaptación a distintos dispositivos mejora la comunicación comunitaria, impulsa la inclusión tecnológica y permite que más personas interactúen eficazmente con servicios esenciales en línea."
+  },
+  {
+    "intent_id": "seguridad_diseno_responsivo",
+    "keywords": [
+      "dispositivo",
+      "navegar",
+      "usuario",
+      "proteger"
+    ],
+    "base_response": "El diseño web responsivo móvil puede exponer datos sensibles si no se aplican medidas adecuadas. Es esencial proteger formularios, cifrar conexiones y evitar permisos excesivos. Una estructura segura reduce riesgos y garantiza experiencias confiables para usuarios en diversos dispositivos."
+  },
+  {
+    "intent_id": "origen_extensiones_navegador",
+    "keywords": [
+      "extension",
+      "navegar",
+      "software",
+      "evolucionar"
+    ],
+    "base_response": "Las extensiones de navegador surgieron para ampliar funciones básicas y evolucionaron desde simples complementos hacia herramientas complejas. Su desarrollo comenzó con navegadores tempranos y creció al integrarse estándares abiertos que permitieron mayor compatibilidad, seguridad y personalización progresiva."
+  },
+  {
+    "intent_id": "responsive_web_design_energy_cycle",
+    "keywords": [
+      "diseno",
+      "mobile",
+      "responsivo",
+      "optimizar",
+      "energia",
+      "ciclo"
+    ],
+    "base_response": "La adaptación de diseños web responsivos a dispositivos móviles disminuye el consumo energético, optimizando la carga de recursos, reduciendo tiempos de procesamiento y limitando el uso de pantalla, lo que favorece ciclos de energía más sostenibles y prolongados."
+  },
+  {
+    "intent_id": "impacto_extensiones_navegador",
+    "keywords": [
+      "extension",
+      "navegador",
+      "energia",
+      "procesar",
+      "dato",
+      "consumir"
+    ],
+    "base_response": "Las extensiones de navegador pueden aumentar el consumo energético al requerir procesos adicionales que usan recursos del dispositivo. Este uso incrementado puede generar mayor demanda eléctrica y contribuir indirectamente a emisiones, haciendo relevante evaluar su eficiencia y necesidad antes de instalarlas."
+  },
+  {
+    "intent_id": "mantenimiento_extension_navegador",
+    "keywords": [
+      "extencion",
+      "actualizar",
+      "limpiar",
+      "seguridad",
+      "configurar"
+    ],
+    "base_response": "Las extensiones de navegador permiten personalizar el acceso a internet, pero requieren actualizaciones regulares para evitar vulnerabilidades. Realizar limpieza de caché y revisar permisos ayuda a prevenir ataques y a reducir consumo de memoria, manteniendo la velocidad y la privacidad."
+  },
+  {
+    "intent_id": "mitos_responsivo_movil",
+    "keywords": [
+      "diseno",
+      "adaptar",
+      "sitio",
+      "funcionar"
+    ],
+    "base_response": "Muchos creen que un sitio responsivo solo reduce su tamaño en pantallas móviles, pero realmente ajusta estructura, imágenes y controles. Este diseño evita errores de navegación y mejora la experiencia del usuario sin duplicar versiones ni sacrificar funciones esenciales."
+  },
+  {
+    "intent_id": "eficiencia_responsiva_ambiental",
+    "keywords": [
+      "energia",
+      "optimizar",
+      "servidor",
+      "reducir"
+    ],
+    "base_response": "El diseño web responsivo móvil disminuye el consumo energético al cargar sitios más ligeros y eficientes. Esto reduce la demanda de servidores y dispositivos, disminuyendo emisiones asociadas. Optimizar imágenes, código y recursos mejora la sostenibilidad digital y favorece un uso responsable del internet."
+  },
+  {
+    "intent_id": "impacto_social_extensiones",
+    "keywords": [
+      "extension",
+      "navegador",
+      "impacto",
+      "mejorar"
+    ],
+    "base_response": "Las extensiones de navegador influyen socialmente al facilitar acceso rápido a recursos, mejorar seguridad y promover inclusión digital. Su uso responsable fortalece habilidades tecnológicas, fomenta participación informada y reduce brechas, impactando positivamente la interacción comunitaria en entornos digitales cotidianos."
+  },
+  {
+    "intent_id": "mantenimiento_responsivo_movil",
+    "keywords": [
+      "estructura",
+      "optimizar",
+      "codigo",
+      "mantener"
+    ],
+    "base_response": "El mantenimiento en diseño web responsivo móvil requiere revisar estructura, optimizar código y asegurar compatibilidad continua. Prevenir fallos implica actualizar librerías, corregir errores y probar rendimiento en distintos dispositivos, garantizando estabilidad y experiencia uniforme para usuarios en entornos cambiantes."
+  },
+  {
+    "intent_id": "impacto_responsivo_entorno",
+    "keywords": [
+      "diseno",
+      "adaptar",
+      "entorno",
+      "optimizar"
+    ],
+    "base_response": "El diseño web responsivo influye en el entorno ecológico al reducir consumo energético mediante sitios eficientes que cargan rápido en dispositivos móviles. Esta optimización disminuye recursos usados en transmisión de datos y favorece prácticas tecnológicas sostenibles dentro del ecosistema digital."
+  },
+  {
+    "intent_id": "errores_alojamiento_web",
+    "keywords": [
+      "servidor",
+      "fallar",
+      "conexion",
+      "cargar"
+    ],
+    "base_response": "Los errores comunes en el alojamiento de páginas web incluyen fallas del servidor, problemas de conexión y configuraciones incorrectas que impiden cargar contenidos. Estas situaciones afectan la disponibilidad del sitio y requieren diagnóstico técnico para restaurar funcionamiento estable y seguro."
+  },
+  {
+    "intent_id": "hosting_pagina_web_fisica",
+    "keywords": [
+      "servidor",
+      "conectar",
+      "almacenar",
+      "consumir",
+      "modems"
+    ],
+    "base_response": "La física de un host web se basa en servidores que almacenan datos en discos, conectados a redes mediante cables y modems. El consumo eléctrico varía con la carga, y los sistemas utilizan refrigeración activa para evitar sobrecalentamiento."
+  },
+  {
+    "intent_id": "seguridad_alojamiento_web",
+    "keywords": [
+      "servidor",
+      "proteger",
+      "hosting",
+      "asegurar",
+      "riesgo",
+      "controlar"
+    ],
+    "base_response": "El alojamiento web implica riesgos como accesos no autorizados y malware. Para reducirlos, se aplican contraseñas robustas, actualizaciones constantes y cifrado. Estas medidas protegen datos sensibles y evitan interrupciones, garantizando un entorno digital confiable para usuarios y administradores."
+  },
+  {
+    "intent_id": "calculo_proporcion_responsiva",
+    "keywords": [
+      "proporcion",
+      "calcular",
+      "ancho",
+      "ajustar"
+    ],
+    "base_response": "El diseño responsivo móvil utiliza cálculos proporcionales para adaptar elementos al ancho disponible. Una fórmula común aplica porcentaje mediante valor_elemento dividido entre valor_contenedor multiplicado por cien, garantizando escalado fluido y coherente en distintas pantallas sin perder legibilidad ni funcionalidad esencial."
+  },
+  {
+    "intent_id": "impact_ecologico_alojamiento_web",
+    "keywords": [
+      "servidor",
+      "consumir",
+      "energia",
+      "alojar"
+    ],
+    "base_response": "El alojamiento web utiliza servidores que consumen energía y generan calor, afectando ecosistemas mediante emisiones asociadas. Optimizar centros de datos y emplear energías renovables reduce impactos ambientales. Comprender este contexto ayuda a valorar prácticas tecnológicas responsables y sostenibles."
+  },
+  {
+    "intent_id": "diseno_web_responsivo",
+    "keywords": [
+      "diseno",
+      "adaptar",
+      "sitio",
+      "optimizar"
+    ],
+    "base_response": "El diseño web responsivo móvil ofrece ventajas como mejor accesibilidad y experiencia uniforme en distintos dispositivos, pero también presenta desventajas como mayor complejidad técnica y necesidad de pruebas constantes para asegurar rendimiento adecuado en pantallas variadas."
+  },
+  {
+    "intent_id": "tipos_diseno_responsivo",
+    "keywords": [
+      "estructura",
+      "adaptar",
+      "interfaz",
+      "optimizar"
+    ],
+    "base_response": "La clasificación taxonómica del diseño web responsivo móvil organiza enfoques según cómo se ajustan los elementos visuales. Agrupa métodos que adaptan estructuras, priorizan contenidos y optimizan interfaces para distintos tamaños de pantalla, facilitando experiencias coherentes y funcionales en diversos dispositivos digitales."
+  },
+  {
+    "intent_id": "estructura_portal_cautivo",
+    "keywords": [
+      "portal",
+      "controlar",
+      "red",
+      "redirigir"
+    ],
+    "base_response": "Un portal de acceso cautivo posee una estructura que intercepta conexiones iniciales y redirige al usuario hacia una página de validación. Incluye componentes de red, servidores de autenticación y reglas que determinan cuándo permitir el acceso completo a Internet."
+  },
+  {
+    "intent_id": "funcionamiento_portal_cautivo",
+    "keywords": [
+      "sistema",
+      "capturar",
+      "usuario",
+      "autenticar"
+    ],
+    "base_response": "El portal de acceso cautivo funciona capturando la primera solicitud web del usuario y enviándola a una página de inicio de sesión. Tras verificar credenciales, libera el tráfico normal y permite navegar sin restricciones dentro de la red establecida."
+  },
+  {
+    "intent_id": "fallas_portal_cautivo",
+    "keywords": [
+      "conexion",
+      "interrumpir",
+      "servidor",
+      "fallar"
+    ],
+    "base_response": "Los portales de acceso cautivo pueden presentar fallas cuando el servidor no responde, la red está saturada o la redirección no se ejecuta correctamente. Estos problemas impiden la autenticación y bloquean el acceso a Internet temporalmente."
+  },
+  {
+    "intent_id": "historia_portal_cautivo",
+    "keywords": [
+      "tecnologia",
+      "evolucionar",
+      "wifi",
+      "expandir"
+    ],
+    "base_response": "Los portales de acceso cautivo surgieron con la expansión del WiFi público, evolucionando desde simples páginas de aviso hasta sistemas complejos de autenticación. Su desarrollo acompañó la necesidad creciente de controlar accesos en redes abiertas."
+  },
+  {
+    "intent_id": "entorno_portal_cautivo",
+    "keywords": [
+      "ecosistema",
+      "interactuar",
+      "router",
+      "gestionar"
+    ],
+    "base_response": "El portal de acceso cautivo opera dentro de un ecosistema de routers, puntos de acceso y servidores que gestionan tráfico. Su entorno incluye redes públicas en cafeterías, aeropuertos y escuelas donde se requiere control básico de usuarios."
+  },
+  {
+    "intent_id": "aplicaciones_portal_cautivo",
+    "keywords": [
+      "empresa",
+      "ofrecer",
+      "servicio",
+      "regular"
+    ],
+    "base_response": "Las aplicaciones del portal de acceso cautivo permiten a empresas ofrecer Internet controlado, regular tiempos de uso y mostrar información relevante. Facilitan la gestión de visitantes y aseguran que cada usuario cumpla requisitos de acceso."
+  },
+  {
+    "intent_id": "comparacion_portal_cautivo",
+    "keywords": [
+      "metodo",
+      "comparar",
+      "autenticacion",
+      "permitir"
+    ],
+    "base_response": "Comparado con otros métodos de autenticación, el portal de acceso cautivo permite control visual y directo del usuario. Su ventaja es la simplicidad, aunque puede ser menos seguro que sistemas avanzados basados en certificados o redes privadas."
+  },
+  {
+    "intent_id": "seguridad_portal_cautivo",
+    "keywords": [
+      "riesgo",
+      "proteger",
+      "usuario",
+      "navegar"
+    ],
+    "base_response": "El portal de acceso cautivo implica riesgos como interceptación de datos si la red no usa cifrado. Para proteger al usuario se recomienda navegar con HTTPS, evitar compartir información sensible y verificar la legitimidad del punto de acceso."
+  },
+  {
+    "intent_id": "estructura_banda_ancha",
+    "keywords": [
+      "cable",
+      "transmitir",
+      "fibra",
+      "conectar"
+    ],
+    "base_response": "La tecnología de banda ancha posee una estructura basada en cables o fibras que transportan datos a alta velocidad. Su arquitectura incluye módems, routers y nodos que permiten conexiones estables y continuas entre múltiples dispositivos digitales."
+  },
+  {
+    "intent_id": "fallas_comunes_banda_ancha",
+    "keywords": [
+      "interferencia",
+      "afectar",
+      "conexion",
+      "fallar"
+    ],
+    "base_response": "Las fallas en banda ancha suelen originarse por interferencias, daños en cables o saturación de redes. Estos problemas afectan la estabilidad de la conexión y pueden provocar lentitud, cortes temporales o pérdida completa del servicio en momentos críticos."
+  },
+  {
+    "intent_id": "historia_banda_ancha",
+    "keywords": [
+      "internet",
+      "evolucionar",
+      "fibra",
+      "expandir"
+    ],
+    "base_response": "La banda ancha surgió como evolución del acceso telefónico tradicional, avanzando hacia tecnologías más rápidas como la fibra óptica. Su desarrollo permitió expandir el uso de internet y mejorar la calidad de transmisión de datos globalmente."
+  },
+  {
+    "intent_id": "entorno_ecologico_banda_ancha",
+    "keywords": [
+      "infraestructura",
+      "interactuar",
+      "ecosistema",
+      "integrar"
+    ],
+    "base_response": "La banda ancha se integra en un ecosistema tecnológico que incluye infraestructura física, servicios digitales y dispositivos conectados. Su entorno depende de redes urbanas y rurales que interactúan para ofrecer acceso equilibrado y sostenible a la información."
+  },
+  {
+    "intent_id": "clasificacion_banda_ancha",
+    "keywords": [
+      "fibra",
+      "transmitir",
+      "satellite",
+      "conectar"
+    ],
+    "base_response": "La banda ancha se clasifica según el medio que utiliza para transmitir datos, incluyendo fibra óptica, cable coaxial, conexiones móviles y enlaces satelitales. Cada tipo ofrece características distintas que se adaptan a necesidades tecnológicas variadas."
+  },
+  {
+    "intent_id": "estructura_extension",
+    "keywords": [
+      "extension",
+      "navegar",
+      "codigo",
+      "funcionar"
+    ],
+    "base_response": "Una extensión de navegador posee una estructura formada por archivos de código, manifiestos y recursos visuales que se integran directamente en la interfaz del navegador. Esta organización permite ampliar funciones sin modificar el núcleo principal del programa."
+  },
+  {
+    "intent_id": "funcionamiento_extension",
+    "keywords": [
+      "extension",
+      "procesar",
+      "navegador",
+      "interactuar"
+    ],
+    "base_response": "Las extensiones funcionan interceptando datos del navegador y ejecutando procesos definidos por su código interno. Operan mediante eventos que responden a acciones del usuario, permitiendo modificar páginas, automatizar tareas y mejorar la experiencia de navegación."
+  },
+  {
+    "intent_id": "fallas_extension",
+    "keywords": [
+      "extension",
+      "fallar",
+      "navegador",
+      "bloquear"
+    ],
+    "base_response": "Las extensiones pueden presentar fallas cuando su código entra en conflicto con actualizaciones del navegador o con otras extensiones instaladas. Estos errores generan bloqueos, lentitud y comportamientos inesperados que afectan la estabilidad general del sistema."
+  },
+  {
+    "intent_id": "ecosistema_extension",
+    "keywords": [
+      "extension",
+      "convivir",
+      "navegador",
+      "complementar"
+    ],
+    "base_response": "Las extensiones existen dentro de un ecosistema donde interactúan con navegadores, sitios web y servicios en línea. Este entorno ecológico requiere equilibrio para evitar saturación, garantizando que cada extensión cumpla su función sin interferir con otras."
+  },
+  {
+    "intent_id": "estructura_vpn",
+    "keywords": [
+      "tunnel",
+      "cifrar",
+      "conexion",
+      "proteger"
+    ],
+    "base_response": "Una VPN posee una estructura formada por capas de cifrado que envuelven los datos, creando un túnel virtual seguro. Esta anatomía digital permite que la información viaje aislada del tráfico público, reduciendo riesgos y manteniendo la privacidad del usuario en redes diversas."
+  },
+  {
+    "intent_id": "funcionamiento_vpn",
+    "keywords": [
+      "paquete",
+      "viajar",
+      "servidor",
+      "cifrar"
+    ],
+    "base_response": "El funcionamiento físico de una VPN implica que cada paquete de datos viaje cifrado hacia un servidor remoto. Allí se descifra y se envía al destino final. Este proceso continuo crea un flujo protegido que evita que terceros intercepten o modifiquen la información transmitida."
+  },
+  {
+    "intent_id": "fallas_vpn",
+    "keywords": [
+      "conexion",
+      "interrumpir",
+      "servidor",
+      "fallar"
+    ],
+    "base_response": "Las VPN pueden presentar fallas como desconexiones repentinas, servidores saturados o configuraciones incorrectas. Estos problemas reducen la protección y pueden exponer datos temporalmente. Identificar errores comunes ayuda a mantener la estabilidad y seguridad del túnel virtual."
+  },
+  {
+    "intent_id": "historia_vpn",
+    "keywords": [
+      "tecnologia",
+      "evolucionar",
+      "internet",
+      "proteger"
+    ],
+    "base_response": "Las VPN surgieron en los años noventa para proteger comunicaciones empresariales. Con el crecimiento de Internet evolucionaron hacia herramientas accesibles para usuarios comunes. Su desarrollo ha seguido la necesidad de privacidad, incorporando mejores algoritmos y métodos de cifrado."
+  },
+  {
+    "intent_id": "ecosistema_vpn",
+    "keywords": [
+      "red",
+      "interactuar",
+      "dispositivo",
+      "comunicar"
+    ],
+    "base_response": "Las VPN existen dentro de un ecosistema digital donde interactúan con redes públicas, dispositivos personales y servicios en línea. Su entorno ecológico incluye múltiples capas de comunicación que requieren coordinación para mantener la seguridad y eficiencia del tráfico protegido."
+  },
+  {
+    "intent_id": "aplicaciones_vpn",
+    "keywords": [
+      "usuario",
+      "navegar",
+      "empresa",
+      "proteger"
+    ],
+    "base_response": "Las VPN se aplican en tareas cotidianas como navegar con privacidad, acceder a recursos escolares o conectarse a redes empresariales. Su uso permite proteger información sensible, evitar rastreo y mantener comunicaciones seguras en entornos variados, incluso cuando se usa Wi-Fi público."
+  },
+  {
+    "intent_id": "impacto_social_vpn",
+    "keywords": [
+      "privacidad",
+      "defender",
+      "comunidad",
+      "acceder"
+    ],
+    "base_response": "Las VPN impactan socialmente al defender la privacidad y permitir que comunidades accedan a información sin restricciones injustas. Facilitan la libertad digital y ayudan a crear entornos más seguros, donde los usuarios pueden comunicarse sin temor a vigilancia excesiva o intrusiva."
+  },
+  {
+    "intent_id": "comparacion_vpn",
+    "keywords": [
+      "cifrado",
+      "comparar",
+      "proxy",
+      "proteger"
+    ],
+    "base_response": "Las VPN ofrecen mayor protección que los servicios proxy porque cifran todo el tráfico. Sin embargo, pueden ser más lentas debido al procesamiento adicional. Comparar ambas tecnologías permite elegir la opción adecuada según la necesidad de seguridad, velocidad y privacidad del usuario."
+  },
+  {
+    "intent_id": "seguridad_vpn",
+    "keywords": [
+      "riesgo",
+      "mitigar",
+      "ataque",
+      "proteger"
+    ],
+    "base_response": "Usar una VPN implica riesgos como servidores inseguros o configuraciones débiles. Para mitigarlos se recomienda elegir proveedores confiables, activar cifrado fuerte y actualizar dispositivos. Estas medidas aseguran que el túnel virtual mantenga su capacidad de proteger datos sensibles."
+  },
+  {
+    "intent_id": "clasificacion_vpn",
+    "keywords": [
+      "protocolo",
+      "definir",
+      "conexion",
+      "cifrar"
+    ],
+    "base_response": "Las VPN pueden clasificarse según sus protocolos, como OpenVPN, IKEv2 o WireGuard. Cada uno define cómo se establece y cifra la conexión. Esta taxonomía ayuda a comprender diferencias técnicas y elegir el método más adecuado para lograr seguridad y rendimiento equilibrados."
+  },
+  {
+    "intent_id": "estructura_datos_celulares",
+    "keywords": [
+      "red",
+      "transmitir",
+      "torre",
+      "conectar"
+    ],
+    "base_response": "La conexión por datos celulares se estructura mediante antenas, bandas de frecuencia y módulos internos del dispositivo que permiten enviar y recibir información. Estos elementos trabajan coordinados para mantener comunicación estable entre usuarios y redes móviles."
+  },
+  {
+    "intent_id": "ventajas_desventajas_moviles",
+    "keywords": [
+      "velocidad",
+      "comparar",
+      "wifi",
+      "superar"
+    ],
+    "base_response": "Los datos celulares ofrecen movilidad y cobertura amplia, pero pueden ser más costosos y menos veloces que algunas redes WiFi. Su rendimiento depende de infraestructura disponible, lo que genera diferencias entre zonas urbanas y rurales."
+  },
+  {
+    "intent_id": "estructura_responsiva",
+    "keywords": [
+      "estructura",
+      "adaptar",
+      "pantalla",
+      "ajustar"
+    ],
+    "base_response": "El diseño web responsivo móvil posee una estructura flexible basada en rejillas y elementos fluidos que se ajustan automáticamente al tamaño de pantalla, permitiendo que cada componente conserve legibilidad, orden y funcionalidad sin importar el dispositivo utilizado por el usuario."
+  },
+  {
+    "intent_id": "funcionamiento_flexible",
+    "keywords": [
+      "codigo",
+      "responder",
+      "interfaz",
+      "optimizar"
+    ],
+    "base_response": "El funcionamiento físico del diseño responsivo móvil depende de reglas CSS que responden a cambios de resolución, reorganizando la interfaz y optimizando la experiencia. Estas reglas permiten que imágenes, textos y botones se adapten dinámicamente sin intervención manual."
+  },
+  {
+    "intent_id": "fallas_comunes_responsivo",
+    "keywords": [
+      "elemento",
+      "romper",
+      "maquetacion",
+      "fallar"
+    ],
+    "base_response": "Las fallas comunes incluyen elementos que se rompen al cambiar de tamaño, textos que se desbordan y botones difíciles de pulsar. Estos problemas surgen por configuraciones incorrectas, falta de pruebas y uso inadecuado de unidades relativas en la maquetación."
+  },
+  {
+    "intent_id": "origen_responsivo",
+    "keywords": [
+      "historia",
+      "evolucionar",
+      "tecnologia",
+      "crecer"
+    ],
+    "base_response": "El diseño responsivo móvil surgió cuando los teléfonos inteligentes comenzaron a crecer en uso. Su evolución se basó en la necesidad de mostrar sitios correctamente en pantallas pequeñas, impulsando técnicas flexibles que reemplazaron diseños fijos tradicionales."
+  },
+  {
+    "intent_id": "ecosistema_dispositivos",
+    "keywords": [
+      "ecosistema",
+      "interactuar",
+      "dispositivo",
+      "conectar"
+    ],
+    "base_response": "El diseño responsivo móvil vive dentro de un ecosistema de dispositivos variados que interactúan constantemente. Su entorno incluye teléfonos, tabletas y pantallas híbridas, obligando a crear interfaces capaces de conectarse y adaptarse a múltiples contextos digitales."
+  },
+  {
+    "intent_id": "impacto_social_responsivo",
+    "keywords": [
+      "acceso",
+      "mejorar",
+      "comunidad",
+      "interactuar"
+    ],
+    "base_response": "El diseño responsivo móvil mejora el acceso digital y permite que comunidades diversas interactúen con información sin barreras tecnológicas. Su impacto social radica en promover inclusión, reducir desigualdades y facilitar participación en entornos educativos y comunicativos."
+  },
+  {
+    "intent_id": "comparacion_enfoques",
+    "keywords": [
+      "tecnica",
+      "comparar",
+      "maquetacion",
+      "adaptar"
+    ],
+    "base_response": "Comparado con enfoques fijos, el diseño responsivo móvil ofrece mayor adaptabilidad y mejor experiencia. Sin embargo, puede requerir más planificación y pruebas. Su ventaja principal es ajustarse automáticamente, mientras que su desventaja es la complejidad técnica inicial."
+  },
+  {
+    "intent_id": "seguridad_responsiva",
+    "keywords": [
+      "riesgo",
+      "proteger",
+      "interfaz",
+      "asegurar"
+    ],
+    "base_response": "Los riesgos incluyen interfaces mal adaptadas que dificultan acciones seguras. Para mitigarlos, se deben proteger formularios, asegurar botones accesibles y verificar que elementos críticos funcionen correctamente en todas las resoluciones, evitando errores que afecten al usuario."
+  },
+  {
+    "intent_id": "estructura_indexacion",
+    "keywords": [
+      "motor",
+      "analizar",
+      "sitio",
+      "organizar"
+    ],
+    "base_response": "La indexación posee una estructura basada en motores que analizan páginas, extraen datos relevantes y organizan contenidos en bases accesibles. Esta arquitectura permite búsquedas rápidas y coherentes, facilitando que los usuarios encuentren información confiable dentro del vasto entorno digital."
+  },
+  {
+    "intent_id": "funcionamiento_rastreo",
+    "keywords": [
+      "rastreador",
+      "explorar",
+      "pagina",
+      "registrar"
+    ],
+    "base_response": "El funcionamiento físico de la indexación depende de rastreadores que exploran páginas y registran elementos clave. Estos procesos automáticos recorren enlaces, detectan actualizaciones y construyen índices eficientes que permiten localizar recursos con rapidez y precisión en buscadores modernos."
+  },
+  {
+    "intent_id": "fallas_indexacion",
+    "keywords": [
+      "error",
+      "bloquear",
+      "contenido",
+      "omitir"
+    ],
+    "base_response": "Las fallas comunes incluyen errores que bloquean el acceso del rastreador y provocan que contenido importante se omita. Problemas como enlaces rotos, configuraciones incorrectas o tiempos de carga excesivos afectan la calidad del índice y reducen la visibilidad del sitio en buscadores."
+  },
+  {
+    "intent_id": "historia_indexacion",
+    "keywords": [
+      "buscador",
+      "evolucionar",
+      "internet",
+      "catalogar"
+    ],
+    "base_response": "La historia de la indexación comenzó con buscadores simples que evolucionaron para catalogar millones de páginas. Con el crecimiento de Internet, surgieron algoritmos avanzados capaces de analizar estructuras complejas y ofrecer resultados más relevantes, transformando la forma en que se accede a información."
+  },
+  {
+    "intent_id": "ecosistema_web",
+    "keywords": [
+      "ecosistema",
+      "interactuar",
+      "sitio",
+      "competir"
+    ],
+    "base_response": "La indexación se desarrolla dentro de un ecosistema donde sitios interactúan y compiten por visibilidad. Factores como enlaces externos, calidad del contenido y frecuencia de actualización influyen en la posición dentro del índice, creando un entorno dinámico que favorece recursos útiles y confiables."
+  },
+  {
+    "intent_id": "aplicaciones_practicas",
+    "keywords": [
+      "empresa",
+      "optimizar",
+      "informacion",
+      "acceder"
+    ],
+    "base_response": "Las aplicaciones prácticas incluyen ayudar a empresas a optimizar presencia digital y permitir que estudiantes accedan rápidamente a información. La indexación facilita búsquedas educativas, comerciales y científicas, mejorando la eficiencia al localizar recursos relevantes dentro de grandes volúmenes de datos."
+  },
+  {
+    "intent_id": "impacto_social",
+    "keywords": [
+      "sociedad",
+      "consultar",
+      "contenido",
+      "difundir"
+    ],
+    "base_response": "La indexación tiene impacto social al permitir que la sociedad consulte contenido diverso y difunda conocimiento. Su eficiencia influye en educación, comunicación y participación ciudadana, ya que facilita el acceso equitativo a recursos informativos esenciales para decisiones informadas y aprendizaje continuo."
+  },
+  {
+    "intent_id": "ventajas_desventajas",
+    "keywords": [
+      "busqueda",
+      "comparar",
+      "resultado",
+      "priorizar"
+    ],
+    "base_response": "La indexación ofrece ventajas como búsquedas rápidas y resultados relevantes, pero también presenta desventajas cuando algoritmos priorizan contenido limitado. Comparar estos aspectos permite comprender cómo la calidad del índice influye en la experiencia del usuario y en la diversidad de información disponible."
+  },
+  {
+    "intent_id": "seguridad_indexacion",
+    "keywords": [
+      "riesgo",
+      "proteger",
+      "servidor",
+      "exponer"
+    ],
+    "base_response": "La indexación implica riesgos cuando servidores exponen datos sensibles. Medidas como proteger archivos, controlar accesos y revisar configuraciones evitan que rastreadores registren información privada. Una gestión adecuada garantiza seguridad y mantiene la integridad del contenido publicado en sitios web."
+  },
+  {
+    "intent_id": "clasificacion_contenido",
+    "keywords": [
+      "categoria",
+      "agrupar",
+      "pagina",
+      "identificar"
+    ],
+    "base_response": "La clasificación taxonómica organiza páginas en categorías que agrupan temas y permiten identificar patrones informativos. Esta estructura facilita búsquedas más precisas y ayuda a los motores a comprender relaciones entre contenidos, mejorando la calidad del índice y la relevancia de los resultados ofrecidos."
+  },
+  {
+    "intent_id": "ecosistema_extension_navegador",
+    "keywords": [
+      "ecosistema",
+      "interactuar",
+      "extension",
+      "navegador"
+    ],
+    "base_response": "Las extensiones viven dentro de un ecosistema digital donde interactúan con páginas, servicios web y configuraciones del navegador. Este entorno determina su rendimiento, alcance y estabilidad, influyendo directamente en la calidad de la experiencia del usuario."
+  },
+  {
+    "intent_id": "impacto_social_extension_navegador",
+    "keywords": [
+      "extension",
+      "transformar",
+      "comunidad",
+      "compartir"
+    ],
+    "base_response": "Las extensiones influyen en la sociedad al transformar la forma en que las personas acceden, comparten y organizan información. Su impacto favorece la inclusión digital, promueve la creatividad y facilita herramientas que enriquecen la participación en línea."
+  },
+  {
+    "intent_id": "estructura_red_celular",
+    "keywords": [
+      "antena",
+      "senal",
+      "dispositivo",
+      "transmitir"
+    ],
+    "base_response": "La conexión por datos celulares se basa en antenas distribuidas que enlazan dispositivos móviles mediante señales electromagnéticas. Cada celda cubre un área específica y coordina el tráfico para asegurar comunicación continua entre usuarios en movimiento dentro de la red."
+  },
+  {
+    "intent_id": "funcionamiento_transmision_radio",
+    "keywords": [
+      "frecuencia",
+      "onda",
+      "torre",
+      "comunicar"
+    ],
+    "base_response": "Los datos celulares viajan como ondas de radio que se desplazan entre torres y teléfonos. El sistema ajusta frecuencias para evitar interferencias y mantiene la comunicación estable. Este proceso físico permite enviar información rápidamente a largas distancias."
+  },
+  {
+    "intent_id": "fallas_interferencias_celulares",
+    "keywords": [
+      "interferencia",
+      "obstaculo",
+      "senal",
+      "fallar"
+    ],
+    "base_response": "Las conexiones celulares pueden fallar por interferencias causadas por edificios, clima o saturación de usuarios. Estos factores reducen la calidad de la señal y dificultan la transmisión de datos. La red intenta compensar ajustando potencia y rutas disponibles."
+  },
+  {
+    "intent_id": "origen_evolucion_datos_moviles",
+    "keywords": [
+      "tecnologia",
+      "red",
+      "telefono",
+      "evolucionar"
+    ],
+    "base_response": "La conexión por datos celulares surgió con las primeras redes móviles y evolucionó desde sistemas lentos hasta tecnologías rápidas como 4G y 5G. Cada generación mejoró velocidad, estabilidad y capacidad, permitiendo servicios avanzados en dispositivos portátiles."
+  },
+  {
+    "intent_id": "entorno_ecologico_infraestructura",
+    "keywords": [
+      "torre",
+      "ecosistema",
+      "energia",
+      "funcionar"
+    ],
+    "base_response": "Las redes celulares dependen de infraestructura que interactúa con el entorno ecológico. Las torres requieren energía y espacio, y deben ubicarse considerando impacto ambiental. Su funcionamiento influye en paisajes urbanos y rurales mediante cobertura constante."
+  },
+  {
+    "intent_id": "aplicaciones_vida_diaria",
+    "keywords": [
+      "telefono",
+      "navegar",
+      "aplicacion",
+      "conectar"
+    ],
+    "base_response": "La conexión por datos celulares permite usar aplicaciones, navegar en internet y comunicarse sin depender de redes locales. Facilita estudiar, trabajar y acceder a información en movimiento. Su disponibilidad mejora actividades cotidianas en múltiples situaciones."
+  },
+  {
+    "intent_id": "ventajas_desventajas_cobertura",
+    "keywords": [
+      "cobertura",
+      "velocidad",
+      "consumo",
+      "comparar"
+    ],
+    "base_response": "La conexión celular ofrece movilidad y amplia cobertura, pero puede tener menor velocidad que algunas redes fijas y consumir más energía. Comparar tecnologías ayuda a elegir opciones según necesidades de uso, disponibilidad y condiciones del entorno."
+  },
+  {
+    "intent_id": "estructura_ftp",
+    "keywords": [
+      "protocolo",
+      "transferir",
+      "archivo",
+      "conectar"
+    ],
+    "base_response": "El protocolo FTP posee una estructura basada en comandos y respuestas que organizan la transferencia de archivos. Utiliza canales separados para control y datos, permitiendo gestionar sesiones remotas con orden y claridad dentro de redes digitales complejas."
+  },
+  {
+    "intent_id": "funcionamiento_ftp",
+    "keywords": [
+      "servidor",
+      "enviar",
+      "cliente",
+      "recibir"
+    ],
+    "base_response": "El funcionamiento de FTP depende de la interacción entre cliente y servidor, donde se establecen conexiones para enviar y recibir archivos. La comunicación se realiza mediante comandos específicos que regulan cada acción dentro del proceso."
+  },
+  {
+    "intent_id": "entorno_ftp",
+    "keywords": [
+      "red",
+      "interactuar",
+      "servidor",
+      "almacenar"
+    ],
+    "base_response": "FTP opera dentro de un entorno donde múltiples servidores y dispositivos interactúan para almacenar y mover información. Su funcionamiento depende de la estabilidad de la red y de la correcta configuración de cada componente conectado."
+  },
+  {
+    "intent_id": "clasificacion_ftp",
+    "keywords": [
+      "protocolo",
+      "organizar",
+      "archivo",
+      "transferir"
+    ],
+    "base_response": "FTP se clasifica como un protocolo de transferencia de archivos dentro de la familia de servicios de red. Su función principal es organizar y mover datos entre sistemas, integrándose en categorías que facilitan su estudio y aplicación."
+  },
+  {
+    "intent_id": "estructura_plataformas_teletrabajo",
+    "keywords": [
+      "plataforma",
+      "organizar",
+      "interfaz",
+      "conectar"
+    ],
+    "base_response": "Las plataformas de teletrabajo poseen una estructura digital compuesta por módulos de comunicación, gestión de tareas y almacenamiento. Su arquitectura permite integrar herramientas diversas que facilitan la colaboración remota entre usuarios distribuidos en múltiples ubicaciones geográficas."
+  },
+  {
+    "intent_id": "origen_evolucion_teletrabajo",
+    "keywords": [
+      "internet",
+      "expandir",
+      "tecnologia",
+      "transformar"
+    ],
+    "base_response": "El teletrabajo surgió con la expansión del Internet y evolucionó gracias a tecnologías que transformaron la comunicación digital. Las primeras plataformas ofrecían funciones básicas, pero con el tiempo integraron videoconferencias, gestión de proyectos y automatización inteligente."
+  },
+  {
+    "intent_id": "entorno_ecologico_digital",
+    "keywords": [
+      "ecosistema",
+      "interactuar",
+      "usuario",
+      "colaborar"
+    ],
+    "base_response": "Las plataformas de teletrabajo forman parte de un ecosistema digital donde interactúan usuarios, aplicaciones y servicios en la nube. Este entorno favorece la colaboración continua y permite que múltiples herramientas funcionen de manera integrada y eficiente."
+  },
+  {
+    "intent_id": "seguridad_riesgos_teletrabajo",
+    "keywords": [
+      "dato",
+      "proteger",
+      "amenaza",
+      "prevenir"
+    ],
+    "base_response": "El teletrabajo implica riesgos como filtración de datos y accesos no autorizados. Para prevenir amenazas, se aplican medidas de seguridad como contraseñas robustas, cifrado de información y verificación constante de dispositivos conectados a la plataforma."
+  },
+  {
+    "intent_id": "funcionamiento_fisico_banda_ancha",
+    "keywords": [
+      "senal",
+      "viajar",
+      "frecuencia",
+      "modular"
+    ],
+    "base_response": "La banda ancha funciona mediante señales que viajan por distintos medios usando frecuencias específicas. Estas señales se modulan para transportar información digital con eficiencia. El proceso físico asegura velocidad constante y menor interferencia en la transmisión."
+  },
+  {
+    "intent_id": "comparacion_banda_ancha",
+    "keywords": [
+      "velocidad",
+      "superar",
+      "fibra",
+      "competir"
+    ],
+    "base_response": "La banda ancha ofrece ventajas como mayor velocidad y estabilidad frente a tecnologías antiguas, aunque puede competir con distintos tipos de fibra y cable. Sus desventajas incluyen costos de instalación y dependencia de infraestructura adecuada."
+  },
+  {
+    "intent_id": "seguridad_banda_ancha",
+    "keywords": [
+      "riesgo",
+      "proteger",
+      "datos",
+      "asegurar"
+    ],
+    "base_response": "La banda ancha implica riesgos como robo de datos y accesos no autorizados. Para proteger usuarios se aplican medidas como cifrado, contraseñas seguras y filtros de red que aseguran integridad y privacidad en la transmisión de información."
+  },
+  {
+    "intent_id": "estructura_basica_ftp",
+    "keywords": [
+      "protocolo",
+      "transferir",
+      "archivo",
+      "conectar"
+    ],
+    "base_response": "El protocolo FTP posee una estructura basada en comandos y respuestas que organizan la transferencia de archivos. Utiliza canales separados para control y datos, permitiendo gestionar sesiones remotas con orden y claridad dentro de redes digitales complejas."
+  },
+  {
+    "intent_id": "funcionamiento_fisico_ftp",
+    "keywords": [
+      "servidor",
+      "enviar",
+      "cliente",
+      "recibir"
+    ],
+    "base_response": "FTP funciona mediante la comunicación entre un cliente y un servidor que intercambian instrucciones y datos. El servidor abre puertos específicos para establecer conexiones, permitiendo mover archivos de manera continua y estable entre dispositivos conectados."
+  },
+  {
+    "intent_id": "origen_evolucion_ftp",
+    "keywords": [
+      "internet",
+      "crecer",
+      "protocolo",
+      "evolucionar"
+    ],
+    "base_response": "FTP nació en los primeros años de Internet como solución para compartir archivos entre computadoras remotas. Con el tiempo evolucionó hacia versiones más seguras y eficientes, adaptándose a nuevas necesidades tecnológicas y prácticas de comunicación digital."
+  },
+  {
+    "intent_id": "aplicaciones_reales_ftp",
+    "keywords": [
+      "usuario",
+      "subir",
+      "archivo",
+      "descargar"
+    ],
+    "base_response": "FTP se utiliza para actualizar sitios web, compartir proyectos escolares y mover grandes archivos entre computadoras. Su capacidad para gestionar carpetas remotas facilita tareas cotidianas que requieren organización y acceso rápido a información almacenada externamente."
+  },
+  {
+    "intent_id": "impacto_social_ftp",
+    "keywords": [
+      "comunidad",
+      "compartir",
+      "informacion",
+      "facilitar"
+    ],
+    "base_response": "FTP ha permitido que comunidades educativas y tecnológicas compartan información de manera eficiente. Su impacto social radica en facilitar la colaboración, el aprendizaje y el acceso a recursos digitales que fortalecen la comunicación global entre usuarios."
+  },
+  {
+    "intent_id": "ventajas_desventajas_ftp",
+    "keywords": [
+      "protocolo",
+      "comparar",
+      "seguridad",
+      "variar"
+    ],
+    "base_response": "FTP ofrece velocidad y simplicidad, pero presenta desventajas frente a protocolos más seguros como SFTP. Aunque resulta útil para tareas básicas, su falta de cifrado puede limitar su uso en entornos donde la protección de datos es fundamental."
+  },
+  {
+    "intent_id": "riesgos_seguridad_ftp",
+    "keywords": [
+      "dato",
+      "exponer",
+      "servidor",
+      "proteger"
+    ],
+    "base_response": "FTP puede exponer datos si no se configura correctamente, ya que transmite información sin cifrado. Para proteger archivos es necesario usar contraseñas fuertes, limitar accesos y preferir variantes seguras que reduzcan vulnerabilidades en la comunicación."
+  },
+  {
+    "intent_id": "estructura_blog_digital",
+    "keywords": [
+      "blog",
+      "publicar",
+      "contenido",
+      "organizar"
+    ],
+    "base_response": "Un blog de publicación digital posee una estructura formada por entradas, categorías, etiquetas y sistemas de navegación que permiten ordenar información. Esta anatomía facilita que lectores encuentren contenidos y que autores mantengan coherencia temática en cada sección del sitio."
+  },
+  {
+    "intent_id": "funcionamiento_blog_en_linea",
+    "keywords": [
+      "servidor",
+      "procesar",
+      "plataforma",
+      "almacenar"
+    ],
+    "base_response": "El funcionamiento físico de un blog depende de servidores que procesan solicitudes, almacenan datos y entregan páginas al navegador. Este ciclo ocurre en milisegundos y permite que usuarios accedan a textos, imágenes y comentarios sin interrupciones perceptibles."
+  },
+  {
+    "intent_id": "fallas_comunes_blog",
+    "keywords": [
+      "error",
+      "afectar",
+      "sistema",
+      "fallar"
+    ],
+    "base_response": "Los blogs pueden presentar fallas como enlaces rotos, tiempos de carga lentos, incompatibilidades de plugins y problemas de seguridad. Estas patologías afectan la experiencia del usuario y requieren mantenimiento técnico constante para asegurar estabilidad y accesibilidad."
+  },
+  {
+    "intent_id": "origen_blog_digital",
+    "keywords": [
+      "historia",
+      "evolucionar",
+      "internet",
+      "transformar"
+    ],
+    "base_response": "Los blogs surgieron en los años noventa como diarios personales en línea y evolucionaron hacia plataformas complejas de comunicación. Su desarrollo acompañó la expansión de Internet y transformó la manera en que las personas comparten ideas y conocimientos globalmente."
+  },
+  {
+    "intent_id": "ecosistema_blog_online",
+    "keywords": [
+      "ecosistema",
+      "interactuar",
+      "usuarios",
+      "participar"
+    ],
+    "base_response": "Los blogs existen dentro de un ecosistema digital donde interactúan con redes sociales, motores de búsqueda y comunidades de lectores. Este entorno ecológico influye en su visibilidad y en la forma en que los usuarios participan mediante comentarios y retroalimentación constante."
+  },
+  {
+    "intent_id": "aplicaciones_blog_vida",
+    "keywords": [
+      "educacion",
+      "informar",
+      "empresa",
+      "comunicar"
+    ],
+    "base_response": "Los blogs se aplican en educación, empresas y proyectos personales para comunicar información, enseñar conceptos y difundir noticias. Su versatilidad permite crear guías, tutoriales y análisis que apoyan actividades cotidianas y fomentan el aprendizaje autónomo."
+  },
+  {
+    "intent_id": "impacto_social_blog",
+    "keywords": [
+      "sociedad",
+      "influir",
+      "comunidad",
+      "compartir"
+    ],
+    "base_response": "Los blogs tienen impacto social al permitir que comunidades compartan experiencias, difundan causas y generen debate público. Su accesibilidad democratiza la expresión y facilita que voces diversas influyan en conversaciones globales sobre temas culturales, científicos y educativos."
+  },
+  {
+    "intent_id": "ventajas_desventajas_blog",
+    "keywords": [
+      "ventaja",
+      "comparar",
+      "desventaja",
+      "evaluar"
+    ],
+    "base_response": "Los blogs ofrecen ventajas como flexibilidad y bajo costo, pero presentan desventajas como saturación de contenido y necesidad de actualización constante. Comparar estas características ayuda a evaluar su utilidad frente a otras herramientas digitales de comunicación."
+  },
+  {
+    "intent_id": "seguridad_blog_digital",
+    "keywords": [
+      "riesgo",
+      "proteger",
+      "informacion",
+      "asegurar"
+    ],
+    "base_response": "Los blogs enfrentan riesgos como ataques informáticos, robo de datos y comentarios maliciosos. Implementar medidas de seguridad permite proteger información, asegurar integridad del contenido y mantener espacios confiables para lectores y autores dentro del entorno digital."
+  },
+  {
+    "intent_id": "clasificacion_blog",
+    "keywords": [
+      "categoria",
+      "agrupar",
+      "tema",
+      "definir"
+    ],
+    "base_response": "Los blogs pueden clasificarse según tema, propósito o audiencia, agrupando espacios dedicados a educación, tecnología, opinión o entretenimiento. Esta taxonomía ayuda a definir su función y facilita que lectores identifiquen rápidamente el tipo de contenido que buscan."
+  },
+  {
+    "intent_id": "estructura_comunidad_virtual",
+    "keywords": [
+      "comunidad",
+      "interactuar",
+      "usuario",
+      "conectar"
+    ],
+    "base_response": "Una comunidad virtual posee una estructura basada en nodos de usuarios interconectados mediante plataformas digitales que facilitan la comunicación continua. Su arquitectura depende de perfiles, canales temáticos y reglas compartidas que organizan la participación colectiva en entornos diversos."
+  },
+  {
+    "intent_id": "funcionamiento_interactivo_red",
+    "keywords": [
+      "plataforma",
+      "comunicar",
+      "usuario",
+      "participar"
+    ],
+    "base_response": "El funcionamiento de una comunidad virtual se basa en flujos de información que circulan entre usuarios mediante herramientas digitales. La interacción ocurre en tiempo real o diferido, permitiendo compartir contenidos, debatir ideas y construir vínculos mediante procesos colaborativos sostenidos."
+  },
+  {
+    "intent_id": "fallas_comunes_interaccion",
+    "keywords": [
+      "sistema",
+      "fallar",
+      "conexion",
+      "interrumpir"
+    ],
+    "base_response": "Las comunidades virtuales pueden presentar fallas como saturación de servidores, pérdida de mensajes o conflictos entre usuarios. Estos problemas afectan la experiencia colectiva y requieren moderación, mantenimiento técnico y normas claras para evitar dinámicas perjudiciales dentro del entorno digital."
+  },
+  {
+    "intent_id": "origen_evolucion_comunidades",
+    "keywords": [
+      "internet",
+      "crecer",
+      "foro",
+      "compartir"
+    ],
+    "base_response": "Las comunidades virtuales surgieron con los primeros foros en línea y evolucionaron hacia redes sociales complejas. Su desarrollo refleja avances tecnológicos y cambios culturales que impulsaron nuevas formas de comunicación, colaboración y construcción de identidad en espacios digitales globales."
+  },
+  {
+    "intent_id": "ecosistema_entorno_digital",
+    "keywords": [
+      "ecosistema",
+      "interactuar",
+      "usuario",
+      "crear"
+    ],
+    "base_response": "Las comunidades virtuales existen dentro de un ecosistema digital compuesto por plataformas, dispositivos y redes que sostienen la interacción. Este entorno influye en su crecimiento, diversidad y estabilidad, permitiendo que múltiples grupos se desarrollen simultáneamente en espacios compartidos."
+  },
+  {
+    "intent_id": "aplicaciones_practicas_comunidad",
+    "keywords": [
+      "grupo",
+      "colaborar",
+      "informacion",
+      "aprender"
+    ],
+    "base_response": "Las comunidades virtuales permiten resolver dudas, compartir recursos y coordinar proyectos educativos o creativos. Su utilidad práctica incluye tutorías, clubes de estudio y espacios de apoyo donde los participantes fortalecen habilidades mediante intercambio constante de conocimientos relevantes."
+  },
+  {
+    "intent_id": "impacto_social_interconexion",
+    "keywords": [
+      "sociedad",
+      "interactuar",
+      "informacion",
+      "transformar"
+    ],
+    "base_response": "Las comunidades virtuales transforman la sociedad al facilitar conexiones entre personas distantes y promover participación colectiva. Su impacto incluye nuevas formas de organización, difusión rápida de ideas y creación de redes de apoyo que fortalecen la comunicación global contemporánea."
+  },
+  {
+    "intent_id": "ventajas_desventajas_comunidad",
+    "keywords": [
+      "comunidad",
+      "comparar",
+      "usuario",
+      "evaluar"
+    ],
+    "base_response": "Las comunidades virtuales ofrecen ventajas como acceso rápido a información y diversidad de opiniones, pero también presentan desventajas como desinformación y conflictos. Evaluar estos aspectos permite comprender su valor y los desafíos que enfrentan en entornos digitales cambiantes."
+  },
+  {
+    "intent_id": "seguridad_riesgos_entorno",
+    "keywords": [
+      "seguridad",
+      "proteger",
+      "usuario",
+      "navegar"
+    ],
+    "base_response": "Las comunidades virtuales implican riesgos como exposición de datos o interacción con desconocidos. Para reducirlos, los usuarios deben aplicar medidas de seguridad, configurar privacidad y reconocer señales de peligro, garantizando experiencias digitales responsables y protegidas."
+  },
+  {
+    "intent_id": "clasificacion_comunidades_virtuales",
+    "keywords": [
+      "categoria",
+      "agrupar",
+      "comunidad",
+      "funcionar"
+    ],
+    "base_response": "Las comunidades virtuales pueden clasificarse según propósito, tamaño o tipo de interacción. Existen grupos educativos, recreativos, profesionales y de apoyo, cada uno con dinámicas particulares que organizan su funcionamiento y definen la manera en que los usuarios participan activamente."
+  },
+  {
+    "intent_id": "aplicaciones_practicas_responsivo",
+    "keywords": [
+      "usuario",
+      "navegar",
+      "contenido",
+      "visualizar"
+    ],
+    "base_response": "Las aplicaciones prácticas del diseño responsivo móvil permiten que los usuarios naveguen y visualicen contenido sin dificultades. Sitios educativos, tiendas en línea y plataformas sociales aprovechan esta técnica para garantizar accesibilidad y comodidad en cualquier situación cotidiana."
+  },
+  {
+    "intent_id": "ventajas_desventajas_responsivo",
+    "keywords": [
+      "tecnica",
+      "optimizar",
+      "experiencia",
+      "comparar"
+    ],
+    "base_response": "El diseño responsivo móvil ofrece ventajas como optimizar la experiencia del usuario y reducir mantenimiento, aunque puede compararse con soluciones específicas que requieren más control. Su equilibrio entre flexibilidad y simplicidad lo convierte en una opción ampliamente utilizada en proyectos modernos."
+  },
+  {
+    "intent_id": "clasificacion_responsiva",
+    "keywords": [
+      "metodo",
+      "organizar",
+      "estructura",
+      "adaptar"
+    ],
+    "base_response": "La clasificación del diseño responsivo móvil organiza métodos según cómo adaptan la estructura visual. Incluye enfoques basados en rejillas fluidas, puntos de quiebre y componentes flexibles, cada uno diseñado para responder eficientemente a variaciones en tamaños y orientaciones de pantalla."
+  },
+  {
+    "intent_id": "estructura_wiki",
+    "keywords": [
+      "wiki",
+      "colaborar",
+      "pagina",
+      "organizar"
+    ],
+    "base_response": "Una wiki posee una estructura modular basada en páginas enlazadas que permiten organizar información colaborativa. Sus componentes principales incluyen editores, historial de cambios y categorías que facilitan la navegación y el crecimiento ordenado del contenido compartido."
+  },
+  {
+    "intent_id": "funcionamiento_edicion",
+    "keywords": [
+      "usuario",
+      "editar",
+      "contenido",
+      "actualizar"
+    ],
+    "base_response": "El funcionamiento de una wiki depende de la edición continua realizada por múltiples usuarios. Cada modificación queda registrada, permitiendo actualizar datos rápidamente y mantener versiones previas accesibles para asegurar transparencia y control del proceso colaborativo."
+  },
+  {
+    "intent_id": "fallas_comunes",
+    "keywords": [
+      "informacion",
+      "corregir",
+      "error",
+      "verificar"
+    ],
+    "base_response": "Las wikis pueden presentar errores cuando la información no se verifica adecuadamente. Fallas comunes incluyen datos desactualizados, ediciones malintencionadas y falta de fuentes confiables, lo que exige supervisión constante para mantener la calidad del contenido colaborativo."
+  },
+  {
+    "intent_id": "origen_wikis",
+    "keywords": [
+      "sistema",
+      "crear",
+      "pagina",
+      "compartir"
+    ],
+    "base_response": "Las wikis surgieron en los años noventa como sistemas diseñados para crear y compartir información de manera rápida. Su evolución permitió desarrollar plataformas globales donde millones de personas colaboran, ampliando el acceso al conocimiento digital."
+  },
+  {
+    "intent_id": "estructura_servidor_web",
+    "keywords": [
+      "servidor",
+      "alojar",
+      "pagina",
+      "procesar"
+    ],
+    "base_response": "Un servidor web posee una estructura compuesta por hardware y software que almacena archivos, gestiona solicitudes y entrega contenido. Su arquitectura ordenada permite que las páginas funcionen correctamente y se mantengan accesibles para usuarios en distintos dispositivos conectados a Internet."
+  },
+  {
+    "intent_id": "funcionamiento_transferencia_datos",
+    "keywords": [
+      "transferencia",
+      "enviar",
+      "contenido",
+      "recibir"
+    ],
+    "base_response": "El alojamiento web funciona mediante la transferencia continua de datos entre servidor y navegador. Cuando un usuario solicita una página, el servidor procesa la petición y envía los archivos necesarios, asegurando que el contenido aparezca rápidamente y con estabilidad en la pantalla."
+  },
+  {
+    "intent_id": "fallas_comunes_hosting",
+    "keywords": [
+      "error",
+      "interrumpir",
+      "servidor",
+      "fallar"
+    ],
+    "base_response": "Las fallas en el alojamiento web incluyen caídas del servidor, lentitud por exceso de tráfico y configuraciones incorrectas. Estos problemas afectan la disponibilidad de las páginas y pueden impedir que los usuarios accedan al contenido, generando frustración y pérdida de confianza."
+  },
+  {
+    "intent_id": "origen_historia_hosting",
+    "keywords": [
+      "internet",
+      "evolucionar",
+      "servidor",
+      "crecer"
+    ],
+    "base_response": "El alojamiento web surgió con los primeros servidores de Internet, evolucionando desde sistemas simples hasta plataformas avanzadas. Su desarrollo permitió que millones de sitios existieran y crecieran, impulsando la expansión global de información accesible para estudiantes, empresas y comunidades."
+  },
+  {
+    "intent_id": "ecosistema_digital_hosting",
+    "keywords": [
+      "ecosistema",
+      "interactuar",
+      "pagina",
+      "conectar"
+    ],
+    "base_response": "El alojamiento web forma parte de un ecosistema digital donde servidores, redes y navegadores interactúan. Este entorno permite que las páginas se conecten con usuarios, aplicaciones y servicios, creando una red dinámica que sostiene la comunicación y el intercambio de información en línea."
+  },
+  {
+    "intent_id": "aplicaciones_practicas_hosting",
+    "keywords": [
+      "empresa",
+      "publicar",
+      "contenido",
+      "compartir"
+    ],
+    "base_response": "El alojamiento web permite que empresas, escuelas y personas publiquen contenido accesible desde cualquier lugar. Facilita tareas como compartir recursos educativos, mostrar proyectos, vender productos y ofrecer servicios digitales, convirtiéndose en una herramienta esencial para actividades cotidianas modernas."
+  },
+  {
+    "intent_id": "impacto_social_hosting",
+    "keywords": [
+      "comunidad",
+      "acceder",
+      "informacion",
+      "difundir"
+    ],
+    "base_response": "El alojamiento web impacta a la sociedad al permitir que comunidades accedan a información confiable y diversa. Facilita la difusión de conocimientos, promueve la comunicación global y ayuda a reducir barreras educativas, fortaleciendo la participación digital de personas de distintas edades."
+  },
+  {
+    "intent_id": "ventajas_desventajas_hosting",
+    "keywords": [
+      "servicio",
+      "comparar",
+      "rendimiento",
+      "variar"
+    ],
+    "base_response": "Los servicios de alojamiento web presentan ventajas como buen rendimiento y disponibilidad, pero también desventajas como costos elevados o limitaciones técnicas. Comparar opciones permite elegir soluciones adecuadas según necesidades, asegurando que las páginas funcionen correctamente y permanezcan accesibles."
+  },
+  {
+    "intent_id": "seguridad_hosting",
+    "keywords": [
+      "riesgo",
+      "proteger",
+      "servidor",
+      "asegurar"
+    ],
+    "base_response": "El alojamiento web implica riesgos como ataques informáticos y pérdida de datos. Para proteger los servidores se aplican medidas como copias de seguridad, cifrado y monitoreo constante. Estas acciones aseguran que las páginas permanezcan seguras y confiables para todos los usuarios."
+  },
+  {
+    "intent_id": "clasificacion_hosting",
+    "keywords": [
+      "categoria",
+      "organizar",
+      "servidor",
+      "alojar"
+    ],
+    "base_response": "El alojamiento web se clasifica en categorías como compartido, dedicado y en la nube. Cada tipo organiza recursos de manera distinta y ofrece niveles variados de control y potencia, permitiendo elegir la opción más adecuada para cada proyecto digital."
+  },
+  {
+    "intent_id": "historia_blog_digital",
+    "keywords": [
+      "internet",
+      "evolucionar",
+      "publicacion",
+      "crecer"
+    ],
+    "base_response": "Los blogs surgieron en los primeros años de Internet como diarios personales y evolucionaron hacia plataformas de comunicación global. Su crecimiento permitió que millones de personas compartieran ideas, noticias y proyectos mediante formatos accesibles y dinámicos."
+  },
+  {
+    "intent_id": "estructura_hosting",
+    "keywords": [
+      "servidor",
+      "almacenar",
+      "archivo",
+      "procesar"
+    ],
+    "base_response": "El alojamiento de páginas web se estructura mediante servidores que almacenan archivos y procesan solicitudes. Incluye hardware, software y protocolos que permiten entregar contenido a usuarios. Su arquitectura determina velocidad, estabilidad y capacidad de respuesta en entornos digitales modernos."
+  },
+  {
+    "intent_id": "funcionamiento_hosting",
+    "keywords": [
+      "servidor",
+      "transferir",
+      "dato",
+      "responder"
+    ],
+    "base_response": "El alojamiento funciona cuando un servidor recibe solicitudes y transfiere datos al navegador. Utiliza protocolos eficientes para responder rápidamente. La interacción entre hardware y software garantiza que cada página cargue correctamente y mantenga su disponibilidad durante todo el día."
+  },
+  {
+    "intent_id": "fallas_hosting",
+    "keywords": [
+      "servidor",
+      "fallar",
+      "conexion",
+      "interrumpir"
+    ],
+    "base_response": "Las fallas comunes incluyen servidores saturados, conexiones interrumpidas y errores de configuración. Estos problemas afectan la disponibilidad del sitio y generan experiencias negativas. Detectarlos temprano permite mantener estabilidad, mejorar rendimiento y asegurar que los usuarios accedan sin dificultades."
+  },
+  {
+    "intent_id": "historia_hosting",
+    "keywords": [
+      "internet",
+      "evolucionar",
+      "servidor",
+      "crecer"
+    ],
+    "base_response": "El alojamiento web surgió con los primeros servidores de Internet y evolucionó hacia plataformas globales. Su crecimiento permitió que millones de sitios existieran. La historia muestra avances constantes en velocidad, capacidad y accesibilidad para usuarios y creadores de contenido digital."
+  },
+  {
+    "intent_id": "ecosistema_hosting",
+    "keywords": [
+      "infraestructura",
+      "interactuar",
+      "red",
+      "conectar"
+    ],
+    "base_response": "El alojamiento vive dentro de un ecosistema digital donde infraestructuras interactúan con redes globales. Cada servidor se conecta con múltiples servicios que garantizan estabilidad. Este entorno permite que páginas funcionen correctamente y se integren con herramientas esenciales del mundo tecnológico."
+  },
+  {
+    "intent_id": "aplicaciones_hosting",
+    "keywords": [
+      "empresa",
+      "publicar",
+      "contenido",
+      "compartir"
+    ],
+    "base_response": "El alojamiento permite que empresas y personas publiquen contenido y compartan información. Facilita tiendas en línea, blogs educativos y plataformas interactivas. Su uso cotidiano demuestra cómo la tecnología habilita comunicación global y acceso rápido a recursos útiles para estudiantes y profesionales."
+  },
+  {
+    "intent_id": "impacto_hosting",
+    "keywords": [
+      "sociedad",
+      "transformar",
+      "informacion",
+      "acceder"
+    ],
+    "base_response": "El alojamiento transforma la sociedad al facilitar acceso inmediato a información. Permite educación digital, comercio electrónico y comunicación global. Su impacto se observa en la forma en que las personas aprenden, trabajan y se relacionan mediante plataformas disponibles en todo momento."
+  },
+  {
+    "intent_id": "comparacion_hosting",
+    "keywords": [
+      "servidor",
+      "comparar",
+      "capacidad",
+      "variar"
+    ],
+    "base_response": "Los tipos de alojamiento se comparan según capacidad, velocidad y control. Cada opción varía en recursos y costos. Elegir correctamente depende de necesidades específicas, como tráfico esperado o funciones avanzadas. Esta evaluación ayuda a optimizar rendimiento y experiencia del usuario."
+  },
+  {
+    "intent_id": "estructura_almacenamiento_remoto",
+    "keywords": [
+      "servidor",
+      "nodo",
+      "transferir",
+      "archivo",
+      "guardar",
+      "sincronizar"
+    ],
+    "base_response": "El almacenamiento remoto en línea se organiza mediante servidores distribuidos que guardan datos en múltiples nodos. Su estructura permite sincronizar archivos, equilibrar cargas y asegurar disponibilidad continua mediante redes redundantes que sostienen la integridad de la información almacenada."
+  },
+  {
+    "intent_id": "funcionamiento_fisico_nube",
+    "keywords": [
+      "servidor",
+      "procesar",
+      "dato",
+      "transmitir",
+      "paquete",
+      "almacenar"
+    ],
+    "base_response": "El funcionamiento físico del almacenamiento en línea depende de servidores que procesan datos y transmiten paquetes mediante redes globales. Cada solicitud viaja por rutas optimizadas, permitiendo almacenar información de forma remota con tiempos de respuesta controlados y mecanismos de verificación constantes."
+  },
+  {
+    "intent_id": "fallas_comunes_nube",
+    "keywords": [
+      "servidor",
+      "fallar",
+      "conexion",
+      "interrumpir",
+      "dato",
+      "corromper"
+    ],
+    "base_response": "Las fallas comunes incluyen servidores que dejan de responder, conexiones que se interrumpen y datos que pueden corromperse por errores de sincronización. Estos problemas suelen resolverse con copias redundantes, protocolos de recuperación y monitoreo continuo para evitar pérdidas significativas."
+  },
+  {
+    "intent_id": "origen_historia_nube",
+    "keywords": [
+      "computadora",
+      "evolucionar",
+      "red",
+      "expandir",
+      "servicio",
+      "crecer"
+    ],
+    "base_response": "El almacenamiento remoto surgió cuando computadoras evolucionaron hacia redes capaces de expandir servicios compartidos. Con el crecimiento de internet, las empresas desarrollaron sistemas distribuidos que permitieron guardar información fuera del dispositivo, creando la base de la computación en la nube moderna."
+  },
+  {
+    "intent_id": "entorno_ecologico_datos",
+    "keywords": [
+      "centro",
+      "consumir",
+      "energia",
+      "generar",
+      "calor",
+      "regular"
+    ],
+    "base_response": "Los centros de datos que sostienen el almacenamiento remoto consumen energía y generan calor, afectando su entorno ecológico. Para reducir impacto, se implementan sistemas de enfriamiento eficientes, uso de energías renovables y estrategias de regulación ambiental que disminuyen emisiones."
+  },
+  {
+    "intent_id": "aplicaciones_practicas_nube",
+    "keywords": [
+      "archivo",
+      "compartir",
+      "foto",
+      "guardar",
+      "documento",
+      "acceder"
+    ],
+    "base_response": "El almacenamiento remoto permite compartir archivos, guardar fotos y acceder a documentos desde cualquier dispositivo conectado. Facilita tareas escolares, proyectos colaborativos y respaldo automático, ofreciendo soluciones prácticas que mejoran la organización y disponibilidad de la información cotidiana."
+  },
+  {
+    "intent_id": "impacto_social_nube",
+    "keywords": [
+      "informacion",
+      "difundir",
+      "comunidad",
+      "colaborar",
+      "dato",
+      "acceder"
+    ],
+    "base_response": "El almacenamiento remoto transforma cómo las comunidades acceden y difunden información. Facilita colaboración global, reduce barreras tecnológicas y permite que más personas gestionen datos de manera segura. Su impacto social impulsa educación, comunicación y participación digital inclusiva."
+  },
+  {
+    "intent_id": "ventajas_desventajas_nube",
+    "keywords": [
+      "servicio",
+      "comparar",
+      "capacidad",
+      "variar",
+      "dato",
+      "mover"
+    ],
+    "base_response": "El almacenamiento remoto ofrece ventajas como capacidad flexible y acceso universal, pero también presenta desventajas como dependencia de conexión y posibles costos variables. Comparar servicios permite elegir opciones adecuadas según necesidades específicas y hábitos de manejo de datos."
+  },
+  {
+    "intent_id": "riesgos_seguridad_nube",
+    "keywords": [
+      "amenaza",
+      "proteger",
+      "dato",
+      "encriptar",
+      "acceso",
+      "controlar"
+    ],
+    "base_response": "Los riesgos incluyen amenazas que buscan acceder a datos sin autorización. Para proteger información, se aplican técnicas de encriptación, controles de acceso y verificación constante. Estas medidas reducen vulnerabilidades y fortalecen la seguridad del almacenamiento remoto en entornos digitales."
+  },
+  {
+    "intent_id": "clasificacion_servicios_nube",
+    "keywords": [
+      "plataforma",
+      "ofrecer",
+      "servicio",
+      "organizar",
+      "dato",
+      "almacenar"
+    ],
+    "base_response": "Los servicios de almacenamiento remoto se clasifican según plataforma, capacidad y funciones ofrecidas. Algunas opciones priorizan organización de datos, otras facilitan colaboración o respaldo automático. Esta clasificación ayuda a comprender diferencias y seleccionar soluciones adecuadas."
+  },
+  {
+    "intent_id": "estructura_aplicacion_web",
+    "keywords": [
+      "aplicacion",
+      "funcionar",
+      "servidor",
+      "procesar",
+      "usuario",
+      "interactuar"
+    ],
+    "base_response": "Una aplicación web posee estructura basada en servidor, navegador y protocolos que permiten intercambio ordenado de datos. Su arquitectura integra componentes que gestionan solicitudes, procesan información y entregan respuestas visuales accesibles desde cualquier dispositivo conectado."
+  },
+  {
+    "intent_id": "funcionamiento_aplicacion_web",
+    "keywords": [
+      "navegador",
+      "interpretar",
+      "codigo",
+      "transmitir",
+      "servidor",
+      "responder"
+    ],
+    "base_response": "El funcionamiento físico de una aplicación web depende del flujo continuo entre navegador y servidor. El navegador interpreta código, transmite solicitudes y recibe respuestas que se renderizan en pantalla. Este ciclo ocurre rápidamente gracias a protocolos optimizados."
+  },
+  {
+    "intent_id": "historia_aplicacion_web",
+    "keywords": [
+      "internet",
+      "evolucionar",
+      "navegador",
+      "permitir",
+      "aplicacion",
+      "crecer"
+    ],
+    "base_response": "Las aplicaciones web surgieron con los primeros navegadores y evolucionaron gracias a mejoras en lenguajes y protocolos. Su crecimiento permitió experiencias interactivas avanzadas que transformaron la forma en que las personas acceden a información y servicios digitales."
+  },
+  {
+    "intent_id": "impacto_social_aplicacion_web",
+    "keywords": [
+      "comunidad",
+      "interactuar",
+      "informacion",
+      "compartir",
+      "servicio",
+      "transformar"
+    ],
+    "base_response": "Las aplicaciones web impactan la sociedad al transformar la comunicación, el acceso a servicios y la forma de compartir información. Su presencia facilita interacción global y promueve inclusión digital, ampliando oportunidades educativas y sociales para diversas comunidades."
+  },
+  {
+    "intent_id": "comparacion_aplicacion_web",
+    "keywords": [
+      "aplicacion",
+      "comparar",
+      "software",
+      "funcionar",
+      "navegador",
+      "ejecutar"
+    ],
+    "base_response": "Las aplicaciones web ofrecen ventajas como acceso universal y actualizaciones automáticas, aunque pueden depender de conexión estable. Comparadas con software instalado, funcionan directamente en navegador y requieren menos recursos locales, pero pueden presentar limitaciones de rendimiento."
+  },
+  {
+    "intent_id": "seguridad_aplicacion_web",
+    "keywords": [
+      "usuario",
+      "proteger",
+      "dato",
+      "encriptar",
+      "servidor",
+      "verificar"
+    ],
+    "base_response": "Las aplicaciones web enfrentan riesgos como robo de datos o accesos no autorizados. Para proteger usuarios, emplean encriptación, verificación y protocolos seguros que reducen vulnerabilidades. La seguridad adecuada garantiza confianza y uso responsable de servicios digitales."
+  },
+  {
+    "intent_id": "estructura_banca_en_linea",
+    "keywords": [
+      "plataforma",
+      "operar",
+      "usuario",
+      "acceder"
+    ],
+    "base_response": "La banca electrónica en línea posee una estructura formada por servidores, interfaces y protocolos que permiten gestionar cuentas digitales. Su arquitectura organiza datos, autentica identidades y facilita operaciones seguras mediante componentes interconectados que funcionan coordinadamente para ofrecer servicios financieros confiables."
+  },
+  {
+    "intent_id": "funcionamiento_transacciones_digitales",
+    "keywords": [
+      "transaccion",
+      "procesar",
+      "sistema",
+      "validar"
+    ],
+    "base_response": "La banca electrónica en línea funciona mediante procesos que verifican datos, autorizan movimientos y transmiten información cifrada. Cada operación sigue rutas digitales que conectan bancos y usuarios, asegurando que los recursos se actualicen correctamente y que las acciones financieras se ejecuten con precisión."
+  },
+  {
+    "intent_id": "fallas_comunes_banca_en_linea",
+    "keywords": [
+      "servidor",
+      "fallar",
+      "conexion",
+      "interrumpir"
+    ],
+    "base_response": "Las fallas comunes incluyen caídas de servidores, lentitud en la conexión y errores de autenticación. Estos problemas pueden impedir transacciones, generar frustración y requerir mantenimiento técnico. Aunque suelen ser temporales, afectan la experiencia del usuario y demandan soluciones rápidas para restablecer el servicio."
+  },
+  {
+    "intent_id": "historia_banca_digital",
+    "keywords": [
+      "banco",
+      "evolucionar",
+      "internet",
+      "transformar"
+    ],
+    "base_response": "La banca electrónica surgió con la expansión de Internet y evolucionó desde simples consultas de saldo hasta complejos servicios financieros. Su desarrollo permitió mayor accesibilidad, integró nuevas tecnologías y transformó la relación entre usuarios y entidades bancarias mediante herramientas digitales cada vez más avanzadas."
+  },
+  {
+    "intent_id": "ecosistema_banca_en_linea",
+    "keywords": [
+      "entorno",
+      "interactuar",
+      "plataforma",
+      "conectar"
+    ],
+    "base_response": "La banca electrónica opera dentro de un ecosistema digital que incluye redes, dispositivos y servicios complementarios. Este entorno permite la interacción continua entre usuarios y bancos, facilitando operaciones remotas y creando un espacio tecnológico donde múltiples sistemas colaboran para mantener la actividad financiera."
+  },
+  {
+    "intent_id": "aplicaciones_practicas_banca",
+    "keywords": [
+      "pago",
+      "realizar",
+      "transferencia",
+      "gestionar"
+    ],
+    "base_response": "La banca electrónica ofrece aplicaciones prácticas como realizar pagos, gestionar cuentas y efectuar transferencias. Estas funciones permiten resolver necesidades cotidianas sin acudir físicamente al banco, agilizando trámites y brindando herramientas útiles para organizar recursos económicos de manera eficiente y accesible."
+  },
+  {
+    "intent_id": "impacto_social_banca_en_linea",
+    "keywords": [
+      "comunidad",
+      "utilizar",
+      "servicio",
+      "facilitar"
+    ],
+    "base_response": "La banca electrónica tiene impacto social al facilitar acceso financiero, reducir desplazamientos y promover inclusión digital. Su uso transforma hábitos económicos, impulsa nuevas formas de comercio y permite que más personas gestionen recursos con autonomía, fortaleciendo la participación en actividades tecnológicas modernas."
+  },
+  {
+    "intent_id": "ventajas_desventajas_banca",
+    "keywords": [
+      "beneficio",
+      "comparar",
+      "limitacion",
+      "evaluar"
+    ],
+    "base_response": "La banca electrónica presenta ventajas como rapidez y disponibilidad continua, pero también desventajas como dependencia tecnológica y posibles fallos. Comparar ambos aspectos permite comprender su utilidad real y evaluar cómo influye en la administración financiera cotidiana de distintos tipos de usuarios."
+  },
+  {
+    "intent_id": "seguridad_banca_en_linea",
+    "keywords": [
+      "riesgo",
+      "proteger",
+      "dato",
+      "cifrar"
+    ],
+    "base_response": "La banca electrónica implica riesgos como robo de datos, por lo que requiere medidas de seguridad basadas en cifrado, autenticación y vigilancia constante. Estas prácticas protegen información sensible y garantizan que las operaciones se realicen con integridad, evitando accesos no autorizados y fraudes digitales."
+  },
+  {
+    "intent_id": "clasificacion_servicios_banca",
+    "keywords": [
+      "categoria",
+      "organizar",
+      "funcion",
+      "ofrecer"
+    ],
+    "base_response": "Los servicios de banca electrónica pueden clasificarse según funciones como pagos, inversiones o consultas. Esta organización permite identificar categorías específicas y comprender cómo cada una ofrece soluciones distintas, facilitando el uso adecuado de herramientas digitales para diversas necesidades financieras personales."
+  },
+  {
+    "intent_id": "fallas_comunes_banca_online",
+    "keywords": [
+      "error",
+      "interrumpir",
+      "conexion",
+      "fallar"
+    ],
+    "base_response": "Las fallas comunes incluyen interrupciones de conexión, errores en servidores y bloqueos por intentos de acceso incorrectos. Estos problemas pueden impedir transacciones, generar retrasos y requerir verificaciones adicionales para asegurar que los movimientos financieros se mantengan íntegros y correctamente registrados."
+  },
+  {
+    "intent_id": "aplicaciones_practicas_banca_online",
+    "keywords": [
+      "pago",
+      "realizar",
+      "transferencia",
+      "gestionar"
+    ],
+    "base_response": "La banca electrónica facilita pagos, transferencias y gestión de cuentas desde cualquier dispositivo conectado. Sus aplicaciones prácticas permiten organizar finanzas personales, programar movimientos y acceder a información actualizada sin necesidad de acudir a una sucursal bancaria tradicional."
+  },
+  {
+    "intent_id": "ventajas_desventajas_banca_online",
+    "keywords": [
+      "beneficio",
+      "comparar",
+      "limitacion",
+      "evaluar"
+    ],
+    "base_response": "La banca electrónica ofrece beneficios como rapidez y disponibilidad continua, pero también presenta limitaciones relacionadas con conectividad y seguridad. Comparar ambos aspectos permite evaluar su utilidad y comprender cómo influye en la experiencia financiera de distintos tipos de usuarios."
+  },
+  {
+    "intent_id": "riesgos_seguridad_banca_en_linea",
+    "keywords": [
+      "riesgo",
+      "proteger",
+      "fraude",
+      "prevenir"
+    ],
+    "base_response": "La banca electrónica enfrenta riesgos como fraudes y accesos no autorizados, por lo que requiere medidas de protección robustas. La prevención incluye contraseñas seguras, autenticación múltiple y vigilancia constante para garantizar que las operaciones financieras permanezcan confiables y protegidas."
+  },
+  {
+    "intent_id": "clasificacion_servicios_banca_online",
+    "keywords": [
+      "servicio",
+      "organizar",
+      "categoria",
+      "ofrecer"
+    ],
+    "base_response": "Los servicios de banca electrónica pueden organizarse en categorías como consultas, pagos, inversiones y gestión avanzada. Esta clasificación ayuda a comprender la variedad de funciones ofrecidas y permite identificar cómo cada tipo de servicio satisface necesidades financieras específicas."
+  },
+  {
+    "intent_id": "funcionamiento_wiki",
+    "keywords": [
+      "sistema",
+      "actualizar",
+      "usuario",
+      "modificar",
+      "informacion"
+    ],
+    "base_response": "El funcionamiento de una wiki depende de usuarios que modifican contenido mediante ediciones sucesivas. El sistema registra cambios, permite revertir versiones y organiza aportes. Esta dinámica fomenta aprendizaje activo, cooperación y mejora continua del material disponible para estudiantes."
+  },
+  {
+    "intent_id": "fallas_comunes_wiki",
+    "keywords": [
+      "error",
+      "corregir",
+      "pagina",
+      "alterar",
+      "dato"
+    ],
+    "base_response": "Las wikis pueden presentar errores como datos alterados, páginas incompletas o ediciones malintencionadas. Estas fallas se corrigen mediante revisión constante, control de historial y participación responsable. La supervisión docente ayuda a mantener calidad y confiabilidad en contextos educativos."
+  },
+  {
+    "intent_id": "origen_wiki",
+    "keywords": [
+      "concepto",
+      "crear",
+      "software",
+      "evolucionar",
+      "colaboracion"
+    ],
+    "base_response": "Las wikis surgieron en los años noventa como software diseñado para colaboración abierta. Su evolución permitió integrar herramientas avanzadas, ampliar comunidades y fortalecer prácticas educativas. Hoy representan un hito histórico en la construcción colectiva del conocimiento digital."
+  },
+  {
+    "intent_id": "entorno_ecologico_wiki",
+    "keywords": [
+      "ecosistema",
+      "interactuar",
+      "plataforma",
+      "conectar",
+      "usuario"
+    ],
+    "base_response": "Las wikis existen dentro de un ecosistema digital donde interactúan con plataformas educativas, redes sociales y repositorios. Este entorno favorece conexiones entre usuarios, ampliación de recursos y circulación constante de información útil para procesos de aprendizaje escolar."
+  },
+  {
+    "intent_id": "aplicaciones_wiki",
+    "keywords": [
+      "estudiante",
+      "investigar",
+      "tema",
+      "compartir",
+      "contenido"
+    ],
+    "base_response": "Los estudiantes utilizan wikis para investigar temas, compartir contenido y construir proyectos colaborativos. Estas aplicaciones prácticas fortalecen habilidades de búsqueda, síntesis y comunicación. Además, permiten organizar información de manera clara y accesible para toda la comunidad escolar."
+  },
+  {
+    "intent_id": "impacto_social_wiki",
+    "keywords": [
+      "comunidad",
+      "crear",
+      "conocimiento",
+      "difundir",
+      "informacion"
+    ],
+    "base_response": "Las wikis generan impacto social al permitir que comunidades creen y difundan conocimiento de forma abierta. Este modelo democratiza la información, promueve participación activa y fomenta responsabilidad colectiva en la construcción de recursos educativos confiables."
+  },
+  {
+    "intent_id": "ventajas_desventajas_wiki",
+    "keywords": [
+      "herramienta",
+      "comparar",
+      "colaboracion",
+      "facilitar",
+      "contenido"
+    ],
+    "base_response": "Las wikis ofrecen ventajas como colaboración rápida y contenido actualizado, pero presentan desventajas relacionadas con calidad variable y necesidad de supervisión. Comparadas con documentos estáticos, facilitan aprendizaje activo aunque requieren mayor responsabilidad en su uso."
+  },
+  {
+    "intent_id": "seguridad_wiki",
+    "keywords": [
+      "riesgo",
+      "proteger",
+      "usuario",
+      "controlar",
+      "edicion"
+    ],
+    "base_response": "Las wikis implican riesgos como ediciones inapropiadas o información falsa. Para proteger usuarios, se aplican medidas de seguridad que controlan permisos, revisan historial y fomentan prácticas responsables. Estas acciones garantizan entornos confiables para actividades educativas."
+  },
+  {
+    "intent_id": "funcionamiento_sistemas_remotos",
+    "keywords": [
+      "sistema",
+      "procesar",
+      "servidor",
+      "transmitir"
+    ],
+    "base_response": "El funcionamiento de estas plataformas depende de servidores que procesan datos y transmiten información en tiempo real. Utilizan protocolos seguros para mantener la estabilidad de las conexiones y garantizar que los usuarios puedan interactuar sin interrupciones mientras realizan actividades laborales distribuidas."
+  },
+  {
+    "intent_id": "fallas_comunes_teletrabajo",
+    "keywords": [
+      "conexion",
+      "fallar",
+      "software",
+      "interrumpir"
+    ],
+    "base_response": "Las fallas más frecuentes incluyen problemas de conexión, errores de sincronización y bloqueos del software. Estas situaciones afectan la productividad y requieren soluciones rápidas, como reiniciar servicios, actualizar aplicaciones o verificar la estabilidad de la red utilizada por los trabajadores remotos."
+  },
+  {
+    "intent_id": "origen_evolucion_plataformas",
+    "keywords": [
+      "internet",
+      "crecer",
+      "herramienta",
+      "adaptar"
+    ],
+    "base_response": "Las plataformas de teletrabajo surgieron con la expansión de Internet y evolucionaron para adaptarse a nuevas necesidades laborales. Su desarrollo ha incorporado funciones avanzadas que permiten coordinar equipos globales y mejorar la eficiencia mediante herramientas colaborativas cada vez más sofisticadas."
+  },
+  {
+    "intent_id": "aplicaciones_practicas_teletrabajo",
+    "keywords": [
+      "trabajo",
+      "coordinar",
+      "tarea",
+      "colaborar"
+    ],
+    "base_response": "Las aplicaciones prácticas incluyen coordinar tareas, colaborar en documentos y realizar reuniones virtuales. Estas herramientas permiten que estudiantes, profesionales y organizaciones mantengan actividades productivas sin necesidad de presencia física, ampliando oportunidades laborales y educativas en diversos contextos."
+  },
+  {
+    "intent_id": "impacto_social_teletrabajo",
+    "keywords": [
+      "sociedad",
+      "transformar",
+      "empleo",
+      "facilitar"
+    ],
+    "base_response": "El teletrabajo ha transformado la sociedad al facilitar empleos flexibles y accesibles. Las plataformas permiten integrar personas de distintas regiones, reducen desplazamientos y fomentan nuevas dinámicas familiares y profesionales que influyen en la organización social contemporánea."
+  },
+  {
+    "intent_id": "ventajas_desventajas_plataformas",
+    "keywords": [
+      "herramienta",
+      "optimizar",
+      "productividad",
+      "limitar"
+    ],
+    "base_response": "Estas herramientas optimizan la productividad mediante funciones colaborativas, pero también pueden limitar la interacción humana y generar dependencia tecnológica. Evaluar sus ventajas y desventajas permite comprender cómo influyen en la calidad del trabajo y en la experiencia de los usuarios remotos."
+  },
+  {
+    "intent_id": "clasificacion_plataformas_teletrabajo",
+    "keywords": [
+      "categoria",
+      "agrupar",
+      "servicio",
+      "funcionar"
+    ],
+    "base_response": "Las plataformas pueden agruparse en categorías como gestión de proyectos, comunicación, almacenamiento y coordinación integral. Cada servicio funciona con objetivos específicos que permiten organizar el trabajo remoto según las necesidades de los equipos y las tareas que deben realizarse."
+  }
+]
