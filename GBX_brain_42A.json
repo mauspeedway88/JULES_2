@@ -1,0 +1,2956 @@
+[
+  {
+    "intent_id": "propiedades_materiales_aprendizaje_automatico",
+    "keywords": [
+      "sensor",
+      "material",
+      "conductividad",
+      "resistencia",
+      "deteccion"
+    ],
+    "base_response": "El aprendizaje automático analiza cómo sensores hechos de materiales específicos reaccionan ante cambios químicos. La conductividad y la resistencia permiten detectar variaciones en sustancias, generando datos útiles para entrenar modelos que reconocen patrones y predicen comportamientos en entornos controlados."
+  },
+  {
+    "intent_id": "contexto_entorno_ecologico",
+    "keywords": [
+      "ecosistema",
+      "impacto",
+      "energia",
+      "modelo",
+      "entrenamiento"
+    ],
+    "base_response": "El aprendizaje automático interactúa con ecosistemas digitales que requieren energía para entrenar modelos y procesar datos. La infraestructura influye en la eficiencia ambiental, ya que decisiones sobre hardware, ubicaciones y métodos de entrenamiento determinan el impacto ecológico general del sistema."
+  },
+  {
+    "intent_id": "definicion_anatomica_estructural_aprendizaje_automatico",
+    "keywords": [
+      "modelo",
+      "datos",
+      "algoritmo",
+      "entrada",
+      "salida"
+    ],
+    "base_response": "El aprendizaje automático es una estructura formada por datos de entrada, un algoritmo que procesa información y una salida que ofrece una respuesta. Su anatomía incluye variables, reglas internas y ajustes que permiten reconocer patrones y mejorar resultados con experiencia."
+  },
+  {
+    "intent_id": "aplicaciones_practicas_vida_real",
+    "keywords": [
+      "robotica",
+      "vision",
+      "clasificacion",
+      "prediccion",
+      "modelo"
+    ],
+    "base_response": "El aprendizaje automático impulsa sistemas que reconocen objetos en imágenes, predicen fallas en maquinaria industrial, recomiendan productos personalizados y optimizan rutas de transporte. Estas aplicaciones permiten decisiones rápidas basadas en datos y mejoran procesos cotidianos mediante modelos entrenados para tareas específicas."
+  },
+  {
+    "intent_id": "historia_origen_evolucion_aprendizaje_automatico",
+    "keywords": [
+      "aprendizaje",
+      "algoritmo",
+      "datos",
+      "patrones",
+      "evolucion"
+    ],
+    "base_response": "El aprendizaje automático surgió a partir de la inteligencia artificial y la estadística, cuando se buscó que las máquinas aprendieran de datos en lugar de seguir reglas fijas. Su evolución avanzó con más capacidad de cómputo, grandes bases de datos y mejores algoritmos."
+  },
+  {
+    "intent_id": "riesgos_y_medidas_seguridad_aprendizaje_automatico",
+    "keywords": [
+      "riesgo",
+      "sesgo",
+      "privacidad",
+      "seguridad",
+      "dato"
+    ],
+    "base_response": "El aprendizaje automático puede amplificar sesgos y exponer datos sensibles si no se controla adecuadamente. La protección exige revisar modelos, limitar accesos, verificar fuentes y aplicar técnicas que reduzcan errores. Estas medidas fortalecen la seguridad y disminuyen impactos negativos."
+  },
+  {
+    "intent_id": "clasificacion_taxonomica_aprendizaje_automatico",
+    "keywords": [
+      "modelo",
+      "categoria",
+      "dato",
+      "algoritmo",
+      "clasificacion"
+    ],
+    "base_response": "La clasificación taxonómica organiza datos en categorías definidas mediante modelos que aprenden patrones esenciales. Los algoritmos comparan características relevantes y asignan cada elemento a una clase específica, permitiendo identificar similitudes, reducir ambigüedades y mejorar la precisión en tareas automatizadas."
+  },
+  {
+    "intent_id": "ventajas_desventajas_aprendizaje_automatico_maquinas",
+    "keywords": [
+      "aprendizaje",
+      "ventajas",
+      "desventajas",
+      "datos",
+      "algoritmos"
+    ],
+    "base_response": "El aprendizaje automático permite procesar grandes cantidades de datos para mejorar decisiones y automatizar tareas. Sin embargo, depende de la calidad de los datos y puede generar sesgos o errores si no se supervisa adecuadamente, limitando su efectividad en ciertos contextos."
+  },
+  {
+    "intent_id": "impacto_social_aprendizaje_masivo",
+    "keywords": [
+      "discriminacion",
+      "empleabilidad",
+      "transparencia",
+      "automatizado",
+      "sesgo"
+    ],
+    "base_response": "El aprendizaje automático sufre una profunda influencia social, generando decisiones automatizadas que pueden reforzar sesgos, afectar empleabilidad y requerir transparencia para evitar discriminación. Su potencia impulsa economías digitales, plantea retos éticos urgentes y necesita regulación afin de proteger derechos."
+  },
+  {
+    "intent_id": "mitos_concepciones_erroneas_aprendizaje_automatico",
+    "keywords": [
+      "mitos",
+      "aprendizaje",
+      "datos",
+      "algoritmos"
+    ],
+    "base_response": "El aprendizaje automático no es magia ni infalible. No todos los datos son útiles ni garantizan mejores resultados. Los algoritmos no crean conocimiento por sí solos y no reemplazan la creatividad humana. Es un proceso que requiere supervisión y comprensión para evitar errores y sesgos."
+  },
+  {
+    "intent_id": "relacion_simbiotica_sistemas",
+    "keywords": [
+      "aprendizaje",
+      "sistema",
+      "datos",
+      "retroalimentacion",
+      "integracion"
+    ],
+    "base_response": "El aprendizaje automático funciona mejor cuando se integra con otros sistemas que le aportan datos, contexto y retroalimentación. Esos sistemas usan sus resultados para actuar, corregir errores y mejorar procesos, mientras el modelo aprende de nuevas situaciones y ajusta sus predicciones continuamente."
+  },
+  {
+    "intent_id": "experimentos_demostraciones_escolares",
+    "keywords": [
+      "modelo",
+      "datos",
+      "clasificacion",
+      "entrenamiento",
+      "evaluacion"
+    ],
+    "base_response": "Los estudiantes pueden entrenar modelos simples usando datos creados en clase para observar cómo la máquina aprende patrones. Actividades como clasificar dibujos o sonidos permiten experimentar con ajustes y evaluar resultados, comprendiendo mejor el proceso de entrenamiento y mejora continua."
+  },
+  {
+    "intent_id": "aprendizaje_automatico_transformacion_ciclos_energeticos",
+    "keywords": [
+      "aprendizaje",
+      "energia",
+      "transformacion",
+      "ciclos",
+      "optimizacion"
+    ],
+    "base_response": "El aprendizaje automático permite optimizar la transformación y el uso de la energía en sistemas tecnológicos. Analiza datos para mejorar la eficiencia en ciclos energéticos, reduciendo pérdidas y facilitando la gestión inteligente de recursos energéticos en máquinas y procesos."
+  },
+  {
+    "intent_id": "consecuencias_largo_plazo_aprendizaje_automatico",
+    "keywords": [
+      "impacto",
+      "sociedad",
+      "automatizacion",
+      "empleo",
+      "etica"
+    ],
+    "base_response": "El aprendizaje automático transformará industrias mediante automatización avanzada, modificando empleos y habilidades necesarias. La dependencia tecnológica exigirá regulaciones éticas sólidas para evitar sesgos persistentes. La evolución continua de los sistemas influirá en decisiones críticas y redefinirá responsabilidades humanas en entornos digitales."
+  },
+  {
+    "intent_id": "impacto_ambiental_aprendizaje_automatico_maquinas",
+    "keywords": [
+      "energia",
+      "agua",
+      "emisiones",
+      "datos",
+      "modelos"
+    ],
+    "base_response": "El aprendizaje automático consume grandes cantidades de energía y agua debido al entrenamiento de modelos con datos masivos. Esto genera emisiones de carbono que afectan el medio ambiente. Optimizar estos procesos es clave para reducir su impacto ambiental y promover la sostenibilidad."
+  },
+  {
+    "intent_id": "errores_fallas_patologias_comunes",
+    "keywords": [
+      "sesgo",
+      "sobreajuste",
+      "ruido",
+      "fallo",
+      "modelo"
+    ],
+    "base_response": "Los modelos pueden presentar sesgo al aprender patrones distorsionados, sobreajuste cuando memorizan datos sin generalizar, sensibilidad excesiva al ruido y fallos por datos insuficientes. Estas patologías afectan la precisión y requieren ajustes cuidadosos para mantener un rendimiento confiable."
+  },
+  {
+    "intent_id": "proyecciones_futuras_tecnologia",
+    "keywords": [
+      "robotica",
+      "modelo",
+      "dato",
+      "prediccion",
+      "sistema"
+    ],
+    "base_response": "El aprendizaje automático impulsará sistemas capaces de anticipar eventos complejos mediante modelos más precisos y veloces. La integración con robótica avanzada permitirá máquinas autónomas que optimicen procesos industriales, mejoren la seguridad y amplíen aplicaciones científicas en entornos dinámicos."
+  },
+  {
+    "intent_id": "dinamica_funcionamiento_fisico_red_neuronal",
+    "keywords": [
+      "capa",
+      "nodo",
+      "peso",
+      "activacion",
+      "proceso"
+    ],
+    "base_response": "Las redes neuronales profundas procesan señales mediante capas sucesivas donde cada nodo ajusta pesos y aplica funciones de activación. La información avanza transformándose físicamente en valores numéricos que representan características, permitiendo extraer patrones complejos mediante cálculos encadenados que refinan la salida final."
+  },
+  {
+    "intent_id": "dinamica_fisica_maquina_aprendizaje",
+    "keywords": [
+      "dinamica",
+      "fuerza",
+      "procesamiento",
+      "algoritmo",
+      "sensor"
+    ],
+    "base_response": "El aprendizaje automático en máquinas depende de la dinámica de transferencia de energía y la interacción de circuitos, donde los pesos se ajustan mediante gradientes que requieren componentes de alta frecuencia y memoria reducida para minimizar latencias, permitiendo procesos de aprendizaje en tiempo real."
+  },
+  {
+    "intent_id": "calculos_formulas_aprendizaje_automatico",
+    "keywords": [
+      "modelo",
+      "dato",
+      "calculo",
+      "funcion",
+      "error"
+    ],
+    "base_response": "Los modelos ajustan parámetros mediante funciones matemáticas que minimizan el error entre predicciones y datos reales. El cálculo del gradiente guía la actualización de pesos, mientras la tasa de aprendizaje controla la magnitud del cambio para mejorar el rendimiento del sistema."
+  },
+  {
+    "intent_id": "historia_origen_evolucion_redes_neuronales_profundas",
+    "keywords": [
+      "historia",
+      "origen",
+      "evolucion",
+      "neuronas",
+      "aprendizaje"
+    ],
+    "base_response": "Las redes neuronales profundas surgieron al combinar ideas de neuronas artificiales con más capas de procesamiento. Su evolución fue lenta al principio por la falta de datos y potencia de cómputo, pero avanzó con mejores algoritmos, grandes bases de datos y hardware especializado."
+  },
+  {
+    "intent_id": "contexto_entorno_ecologico_redes_neuronales_artificiales_profundas",
+    "keywords": [
+      "energia",
+      "consumo",
+      "datos",
+      "impacto",
+      "residuos"
+    ],
+    "base_response": "Las redes neuronales artificiales profundas requieren grandes cantidades de energía para procesar datos, lo que genera un impacto ambiental significativo. El consumo eléctrico elevado y la producción de residuos electrónicos afectan el entorno ecológico, por lo que es vital optimizar su uso y eficiencia."
+  },
+  {
+    "intent_id": "propiedades_quimicas_redes_neuronales_profundas",
+    "keywords": [
+      "materiales",
+      "conectividad",
+      "densidad",
+      "conductividad",
+      "electromagnetismo"
+    ],
+    "base_response": "Los chips de redes neuronales profundas emplean silicio dopado, grafeno para redes de conectividad y electrodos de óxido de indio-galio para acelerar la propagación de impulsos, mejorando la densidad energética y reduciendo disipación térmica en dispositivos de IA."
+  },
+  {
+    "intent_id": "aplicaciones_practicas_redes_neuronales_artificiales_profundas",
+    "keywords": [
+      "vision",
+      "reconocimiento",
+      "datos",
+      "automatizacion",
+      "salud"
+    ],
+    "base_response": "Las redes neuronales profundas se usan en reconocimiento facial, análisis de imágenes médicas, traducción automática y detección de fraudes. Procesan grandes datos para automatizar tareas complejas, mejorando la precisión y eficiencia en sectores como la salud, seguridad y tecnología."
+  },
+  {
+    "intent_id": "ventajas_desventajas_redes_profundas",
+    "keywords": [
+      "modelo",
+      "capa",
+      "dato",
+      "entrenamiento",
+      "precision"
+    ],
+    "base_response": "Las redes neuronales profundas ofrecen alta precisión al procesar grandes volúmenes de datos y detectar patrones complejos. Sin embargo, requieren mucho tiempo de entrenamiento, consumen recursos elevados y pueden generar resultados difíciles de interpretar, lo que complica su uso en aplicaciones sensibles."
+  },
+  {
+    "intent_id": "mantenimiento_prevencion_aprendizaje_automatico",
+    "keywords": [
+      "monitorizacion",
+      "diagnostico",
+      "reparacion",
+      "actualizacion",
+      "seguridad"
+    ],
+    "base_response": "Para garantizar la operatividad del aprendizaje automático, se requiere monitorizar continuamente los datos, diagnosticar desviaciones, reparar falencias, actualizar modelos y fortalecer la seguridad, asegurando así la estabilidad y la exactitud del sistema sin interrupciones inesperadas."
+  },
+  {
+    "intent_id": "definicion_anatomica_redes_neuronales_profundas",
+    "keywords": [
+      "red",
+      "neurona",
+      "capa",
+      "conexion",
+      "estructura"
+    ],
+    "base_response": "Las redes neuronales artificiales profundas están formadas por múltiples capas de neuronas artificiales conectadas entre sí. Cada capa procesa información y la transmite a la siguiente, creando una estructura jerárquica que permite el aprendizaje complejo y la representación de datos."
+  },
+  {
+    "intent_id": "calculos_formulas_redes_neuronales_artificiales_profundas",
+    "keywords": [
+      "calculo",
+      "formulas",
+      "redes",
+      "neuronales"
+    ],
+    "base_response": "Las redes neuronales profundas utilizan cálculos basados en multiplicaciones matriciales para procesar datos. Cada neurona aplica una función de activación a la suma ponderada de entradas. El aprendizaje se optimiza mediante el algoritmo de retropropagación que ajusta pesos usando derivadas parciales."
+  },
+  {
+    "intent_id": "mitos_concepciones_erroneas_redes_neuronales_profundas",
+    "keywords": [
+      "redes",
+      "mitos",
+      "inteligencia",
+      "aprendizaje"
+    ],
+    "base_response": "Las redes neuronales profundas no funcionan igual que el cerebro humano, sino que usan cálculos matemáticos. No son conscientes ni tienen emociones. Tampoco aprenden por sí solas sin datos ni supervisión, y no siempre garantizan resultados perfectos o infalibles."
+  },
+  {
+    "intent_id": "errores_fallas_patologias_comunes_redes_neuronales_profundas",
+    "keywords": [
+      "errores",
+      "fallas",
+      "patologias",
+      "redes"
+    ],
+    "base_response": "Las redes neuronales profundas pueden sufrir sobreajuste, donde aprenden demasiado los datos de entrenamiento y fallan en generalizar. También presentan problemas de desvanecimiento o explosión del gradiente, que dificultan el aprendizaje efectivo en capas profundas. Estas fallas afectan la precisión y estabilidad del modelo."
+  },
+  {
+    "intent_id": "transformacion_ciclos_energeticos_redes_profundas",
+    "keywords": [
+      "energia",
+      "proceso",
+      "capa",
+      "activacion",
+      "computo"
+    ],
+    "base_response": "Las redes neuronales profundas transforman datos mediante ciclos energéticos que fluyen entre capas sucesivas. Cada activación requiere computo que consume energía y genera calor, por lo que la eficiencia depende de optimizar operaciones internas para reducir gasto y mantener estabilidad durante el procesamiento continuo."
+  },
+  {
+    "intent_id": "consecuencias_largo_plazo_redes_profundas",
+    "keywords": [
+      "impacto",
+      "riesgo",
+      "automatizacion",
+      "sesgo",
+      "privacidad"
+    ],
+    "base_response": "Las redes neuronales profundas pueden transformar industrias mediante automatización avanzada, pero también generan riesgos persistentes como sesgos amplificados, pérdida de privacidad y dependencia tecnológica. Su expansión exige vigilancia constante para equilibrar beneficios sociales y posibles efectos negativos acumulativos."
+  },
+  {
+    "intent_id": "clasificacion_taxonomica_redes_neuronales",
+    "keywords": [
+      "neuronas",
+      "capa",
+      "clasificacion",
+      "entrenamiento",
+      "profundidad"
+    ],
+    "base_response": "Las redes neuronales profundas se clasifican por número de capas, función de activación y arquitectura; por ejemplo, perceptrón multicapa, redes convolucionales o recurrentes. El esquema taxonómico facilita comprender cómo cada capa transforma la información y permite la adaptación automática al problema."
+  },
+  {
+    "intent_id": "mantenimiento_prevencion_redes_neuronales_profundas",
+    "keywords": [
+      "mantenimiento",
+      "prevencion",
+      "monitoreo",
+      "errores",
+      "actualizacion"
+    ],
+    "base_response": "El mantenimiento de redes neuronales profundas exige monitorear su rendimiento, revisar sesgos y detectar degradación por cambios en los datos. También conviene actualizar modelos, validar entradas y protegerlos frente a errores, sobreajuste y ataques, para conservar precisión y estabilidad."
+  },
+  {
+    "intent_id": "estructura_automatizacion_cognitiva",
+    "keywords": [
+      "proceso",
+      "modelo",
+      "sistema",
+      "tarea",
+      "computacion"
+    ],
+    "base_response": "La automatización de tareas cognitivas se organiza mediante modelos computacionales que descomponen procesos mentales en pasos estructurados. Estos sistemas representan información, ejecutan operaciones lógicas y coordinan módulos especializados para imitar funciones como clasificación, memoria operativa y toma de decisiones."
+  },
+  {
+    "intent_id": "importancia_impacto_social_redes_neuronales_profundas",
+    "keywords": [
+      "aprendizaje",
+      "salud",
+      "educacion",
+      "empleo",
+      "sesgo"
+    ],
+    "base_response": "Las redes neuronales profundas influyen en la salud, la educación y el trabajo porque detectan patrones complejos y automatizan decisiones. Su impacto social exige supervisión humana, ya que pueden mejorar servicios, pero también amplificar sesgos, afectar empleos y aumentar desigualdades."
+  },
+  {
+    "intent_id": "dinamica_funcionamiento_fisico",
+    "keywords": [
+      "sensor",
+      "proceso",
+      "modelo",
+      "calculo",
+      "sistema"
+    ],
+    "base_response": "La automatización de tareas cognitivas depende de sensores que capturan señales, procesadores que ejecutan cálculos y modelos que transforman datos en decisiones. La dinámica física integra energía, flujo de información y estabilidad mecánica para sostener operaciones continuas y precisas."
+  },
+  {
+    "intent_id": "automatizacion_tareas_cognitivas_materiales",
+    "keywords": [
+      "material",
+      "sensor",
+      "estructura",
+      "conductividad",
+      "durabilidad"
+    ],
+    "base_response": "La automatización cognitiva depende de materiales capaces de transmitir señales con alta precisión. La conductividad adecuada permite procesar información rápidamente, mientras que la durabilidad y estabilidad química aseguran que los sensores funcionen correctamente bajo diversas condiciones sin degradación significativa."
+  },
+  {
+    "intent_id": "historia_origen_evolucion_automatizacion",
+    "keywords": [
+      "automatizacion",
+      "tarea",
+      "cognicion",
+      "robotica",
+      "software"
+    ],
+    "base_response": "La automatización de tareas cognitivas surgió con los primeros intentos de crear máquinas capaces de razonar. Su evolución avanzó desde cálculos mecánicos hasta sistemas modernos que procesan lenguaje, reconocen patrones y ejecutan decisiones complejas mediante algoritmos cada vez más sofisticados."
+  },
+  {
+    "intent_id": "automatizacion_tareas_cognitivas_contexto_ecologico",
+    "keywords": [
+      "ecosistema",
+      "interaccion",
+      "tecnologia",
+      "impacto",
+      "adaptacion"
+    ],
+    "base_response": "La automatización de tareas cognitivas transforma ecosistemas educativos al modificar cómo interactúan estudiantes y tecnologías. Este proceso influye en dinámicas de aprendizaje, exige adaptación constante y redefine la relación entre recursos digitales, ambientes escolares y actividades mentales cotidianas."
+  },
+  {
+    "intent_id": "errores_fallas_patologias_automatizacion_cognitiva",
+    "keywords": [
+      "automatizacion",
+      "errores",
+      "fallas",
+      "patologias",
+      "tareas",
+      "cognitivas"
+    ],
+    "base_response": "La automatización de tareas cognitivas puede presentar errores por falta de datos adecuados, fallas en algoritmos y sesgos en el diseño. Estas patologías afectan la precisión y confiabilidad, generando resultados incorrectos o decisiones erróneas en sistemas automatizados."
+  },
+  {
+    "intent_id": "automatizacion_tareas_cognitivas_aplicaciones_practicas",
+    "keywords": [
+      "automatizacion",
+      "tareas",
+      "decisiones",
+      "datos",
+      "procesos"
+    ],
+    "base_response": "La automatización de tareas cognitivas utiliza inteligencia artificial para realizar procesos complejos como análisis de datos y toma de decisiones. Esto reduce errores humanos y optimiza actividades en sectores como finanzas, salud y administración, mejorando la eficiencia diaria."
+  },
+  {
+    "intent_id": "importancia_impacto_social_automatizacion_tareas_cognitivas",
+    "keywords": [
+      "automatizacion",
+      "tareas",
+      "cognitivas",
+      "impacto",
+      "social"
+    ],
+    "base_response": "La automatización de tareas cognitivas transforma la sociedad al liberar a las personas de trabajos repetitivos y complejos, permitiendo mayor creatividad y bienestar. También plantea desafíos éticos y laborales que requieren adaptación y regulación para un impacto positivo."
+  },
+  {
+    "intent_id": "riesgos_medidas_seguridad_redes_neuronales_artificiales_profundas",
+    "keywords": [
+      "riesgos",
+      "seguridad",
+      "datos",
+      "privacidad",
+      "ataques"
+    ],
+    "base_response": "Las redes neuronales profundas enfrentan riesgos como sesgos en datos, vulnerabilidades a ataques cibernéticos y pérdida de privacidad. Es crucial implementar medidas de seguridad como cifrado, control de acceso y auditorías constantes para proteger la integridad y confidencialidad de la información procesada."
+  },
+  {
+    "intent_id": "clasificacion_taxonomica_cognitiva",
+    "keywords": [
+      "categoria",
+      "clase",
+      "agrupacion",
+      "criterio",
+      "analisis"
+    ],
+    "base_response": "La clasificación taxonómica organiza tareas cognitivas según criterios funcionales que permiten agrupar procesos similares. Esta estructura facilita identificar niveles de complejidad, distinguir funciones específicas y comprender cómo los sistemas automatizados procesan información para resolver problemas de manera eficiente."
+  },
+  {
+    "intent_id": "proyecciones_futuras_tecnologia_redes_neuronales",
+    "keywords": [
+      "redes",
+      "aprendizaje",
+      "modelo",
+      "innovacion",
+      "inversion"
+    ],
+    "base_response": "El crecimiento de las redes neuronales profundas impulsará la innovación en procesamiento de lenguaje natural, visión computacional y diagnóstico médico, gracias a arquitecturas más eficientes, mayor paralelismo y componentes neuromorficos que reducirán consumo energético y ampliarán su aplicación global."
+  },
+  {
+    "intent_id": "ventajas_desventajas_comparativas",
+    "keywords": [
+      "automatizacion",
+      "eficiencia",
+      "errores",
+      "coste",
+      "supervision"
+    ],
+    "base_response": "La automatización de tareas cognitivas aumenta la eficiencia, reduce errores repetitivos y libera tiempo para actividades creativas o complejas. Sin embargo, puede disminuir el juicio humano en decisiones delicadas, generar dependencia tecnológica y desplazar ciertos trabajos que requieren supervisión constante."
+  },
+  {
+    "intent_id": "mitos_concepciones_erroneas_automatizacion_tareas_cognitivas",
+    "keywords": [
+      "automatizacion",
+      "tareas",
+      "cognitivas",
+      "inteligencia"
+    ],
+    "base_response": "La automatización de tareas cognitivas no implica que la inteligencia artificial tenga conciencia ni emociones. Tampoco puede resolver problemas nuevos como un humano ni sustituir completamente el juicio o la creatividad, solo facilita tareas repetitivas y específicas."
+  },
+  {
+    "intent_id": "automatizacion_tareas_cognitivas_transformacion_ciclos_energeticos",
+    "keywords": [
+      "automatizacion",
+      "tareas",
+      "cognitivas",
+      "transformacion",
+      "energia",
+      "ciclos"
+    ],
+    "base_response": "La automatización de tareas cognitivas implica transformar energía para que sistemas inteligentes realicen procesos mentales. Estos procesos siguen ciclos energéticos donde la energía se convierte y se reutiliza, optimizando el funcionamiento y reduciendo el esfuerzo humano en actividades intelectuales repetitivas."
+  },
+  {
+    "intent_id": "automatizacion_tareas_cognitivas_experimentos",
+    "keywords": [
+      "robotica",
+      "modelo",
+      "clasificacion",
+      "simulacion",
+      "proceso"
+    ],
+    "base_response": "La automatización cognitiva puede demostrarse creando modelos simples que clasifiquen imágenes escolares, simulando decisiones basadas en reglas y comparando resultados con acciones humanas. Estos experimentos permiten observar cómo los sistemas procesan información y ejecutan tareas mentales básicas de manera repetible."
+  },
+  {
+    "intent_id": "impacto_ambiental_automatizacion_cognitiva",
+    "keywords": [
+      "energia",
+      "servidores",
+      "emisiones",
+      "consumo",
+      "residuos"
+    ],
+    "base_response": "La automatización de tareas cognitivas puede aumentar el consumo eléctrico por el uso continuo de servidores y centros de datos. También genera más emisiones si la energía proviene de combustibles fósiles y más residuos electrónicos cuando se renuevan equipos y componentes."
+  },
+  {
+    "intent_id": "impacto_ambiental_redes_neuronales_artificiales_profundas",
+    "keywords": [
+      "energia",
+      "computacion",
+      "emisiones",
+      "recursos",
+      "eficiencia"
+    ],
+    "base_response": "Las redes neuronales profundas requieren gran cantidad de energía para su entrenamiento, lo que genera emisiones de carbono significativas. Su uso intensivo demanda recursos computacionales elevados, afectando el medio ambiente. Mejorar la eficiencia energetica es clave para reducir su impacto ambiental."
+  },
+  {
+    "intent_id": "mantenimiento_prevencion_automatizacion_cognitiva",
+    "keywords": [
+      "monitoreo",
+      "errores",
+      "actualizacion",
+      "diagnostico",
+      "alerta"
+    ],
+    "base_response": "La automatización de tareas cognitivas requiere monitoreo continuo para detectar errores, sesgos y fallos de funcionamiento. También necesita actualizaciones periódicas, pruebas de calidad y alertas tempranas que permitan corregir problemas antes de que afecten decisiones, seguridad o rendimiento del sistema."
+  },
+  {
+    "intent_id": "proyecciones_futuras_tecnologia_automatizacion_cognitiva",
+    "keywords": [
+      "automatizacion",
+      "inteligencia",
+      "procesos",
+      "productividad"
+    ],
+    "base_response": "La automatización de tareas cognitivas con inteligencia artificial permitirá optimizar procesos complejos y aumentar la productividad. Se proyecta que estas tecnologías transformarán el trabajo, facilitando decisiones rápidas y precisas mediante sistemas inteligentes cada vez más avanzados."
+  },
+  {
+    "intent_id": "automatizacion_tareas_cognitivas_calculos_formulas",
+    "keywords": [
+      "cognitivo",
+      "calculacion",
+      "formula",
+      "automatizacion",
+      "prediccion"
+    ],
+    "base_response": "En la automatización de tareas cognitivas, las fórmulas matemáticas como el modelo de regresión lineal y la teoría de la complejidad permiten optimizar la toma de decisiones, reduciendo tiempo de procesamiento y mejorando la precisión de resultados en procesos complejos."
+  },
+  {
+    "intent_id": "definicion_anatomica_conjuntos_datos_entrenamiento",
+    "keywords": [
+      "conjunto",
+      "datos",
+      "estructura",
+      "ejemplos",
+      "informacion"
+    ],
+    "base_response": "Un conjunto de datos de entrenamiento es una colección estructurada de ejemplos e información que se utiliza para enseñar a un modelo de inteligencia artificial. Su anatomía incluye datos organizados, etiquetados y representativos que permiten al modelo aprender patrones y tomar decisiones precisas."
+  },
+  {
+    "intent_id": "riesgos_medidas_seguridad_automatizacion",
+    "keywords": [
+      "riesgo",
+      "sesgo",
+      "privacidad",
+      "control",
+      "supervision"
+    ],
+    "base_response": "La automatización cognitiva puede amplificar sesgos, exponer datos sensibles y ejecutar acciones sin supervisión adecuada. Implementar controles estrictos, revisar modelos periódicamente y limitar accesos reduce vulnerabilidades. La supervisión humana constante garantiza decisiones seguras y evita consecuencias imprevistas."
+  },
+  {
+    "intent_id": "dinamica_funcionamiento_fisico_datos_entrenamiento",
+    "keywords": [
+      "datos",
+      "entrenamiento",
+      "modelo",
+      "algoritmo",
+      "procesamiento"
+    ],
+    "base_response": "Los conjuntos de datos de entrenamiento contienen ejemplos físicos que permiten a los modelos aprender patrones reales. Su dinámica incluye la variabilidad y calidad de datos, que influyen en el funcionamiento físico del algoritmo para mejorar su precisión y adaptabilidad."
+  },
+  {
+    "intent_id": "aplicaciones_practicas_conjuntos_entrenamiento",
+    "keywords": [
+      "modelo",
+      "dato",
+      "entrenamiento",
+      "clasificacion",
+      "prediccion"
+    ],
+    "base_response": "Los conjuntos de datos de entrenamiento permiten que sistemas de inteligencia artificial reconozcan objetos en fotos, detecten fraudes bancarios, sugieran rutas eficientes y mejoren diagnósticos médicos. Su calidad influye directamente en la precisión y utilidad de las soluciones aplicadas en situaciones reales."
+  },
+  {
+    "intent_id": "propiedades_quimicas_materiales",
+    "keywords": [
+      "reactividad",
+      "estructura",
+      "densidad",
+      "conductividad",
+      "solubilidad"
+    ],
+    "base_response": "Los conjuntos de datos de entrenamiento pueden incluir propiedades químicas que describen cómo reaccionan los materiales, su estructura interna, su densidad y su conductividad. Estos datos permiten a los modelos predecir comportamientos y seleccionar materiales adecuados para diversas aplicaciones tecnológicas."
+  },
+  {
+    "intent_id": "ventajas_desventajas_conjuntos_datos_entrenamiento",
+    "keywords": [
+      "datos",
+      "entrenamiento",
+      "modelo",
+      "precision",
+      "sesgo"
+    ],
+    "base_response": "Los conjuntos de datos de entrenamiento permiten que los modelos de inteligencia artificial aprendan y mejoren su precisión. Sin embargo, pueden contener sesgos o ser insuficientes, lo que afecta la calidad del aprendizaje y limita la capacidad del modelo para generalizar a situaciones nuevas."
+  },
+  {
+    "intent_id": "riesgos_medidas_seguridad_datasets",
+    "keywords": [
+      "privacidad",
+      "sesgo",
+      "contenido",
+      "verificacion",
+      "calidad"
+    ],
+    "base_response": "El uso de conjuntos de datos de entrenamiento conlleva riesgos de sesgo, privacidad y calidad, así como la propagación de contenido inapropiado. Para mitigarlos, se deben aplicar filtros automáticos, anonimizar identificadores, comprobar la representatividad y revisar manualmente los casos críticos."
+  },
+  {
+    "intent_id": "errores_fallas_patologias_datos_entrenamiento",
+    "keywords": [
+      "sesgo",
+      "ruido",
+      "duplicado",
+      "contaminacion",
+      "desbalance"
+    ],
+    "base_response": "Los conjuntos de datos pueden presentar sesgos que distorsionan resultados, ruido que confunde patrones, duplicados que inflan correlaciones, contaminación que mezcla información irrelevante y desbalance que reduce precisión. Estas fallas generan modelos menos confiables y dificultan decisiones automatizadas."
+  },
+  {
+    "intent_id": "clasificacion_taxonomica_datos_entrenamiento",
+    "keywords": [
+      "taxonomia",
+      "etiquetas",
+      "categorias",
+      "jerarquia",
+      "clasificacion"
+    ],
+    "base_response": "La clasificación taxonómica organiza los conjuntos de datos de entrenamiento en categorías jerárquicas, desde clases generales hasta subclases más específicas. Esta estructura ayuda a etiquetar ejemplos de forma consistente, reduce ambigüedades y mejora la capacidad del modelo para distinguir relaciones entre grupos similares."
+  },
+  {
+    "intent_id": "calculos_formulas_datos_entrenamiento",
+    "keywords": [
+      "muestra",
+      "promedio",
+      "porcentaje",
+      "error",
+      "varianza"
+    ],
+    "base_response": "Para evaluar un conjunto de datos de entrenamiento, calcula el promedio de cada variable, el porcentaje de clases y la varianza para medir dispersión. También compara el error entre predicciones y valores reales para ajustar el modelo y detectar sesgos."
+  },
+  {
+    "intent_id": "relacion_simbiotica_conjuntos_datos_entrenamiento",
+    "keywords": [
+      "datos",
+      "sistemas",
+      "inteligencia",
+      "aprendizaje",
+      "interaccion"
+    ],
+    "base_response": "Los conjuntos de datos de entrenamiento y otros sistemas tecnológicos mantienen una relación simbiótica donde se retroalimentan. Los datos mejoran la inteligencia artificial, mientras que los sistemas optimizan la calidad y diversidad de los datos para un aprendizaje más efectivo."
+  },
+  {
+    "intent_id": "transformacion_ciclos_energeticos",
+    "keywords": [
+      "energia",
+      "ciclo",
+      "transformacion",
+      "dato",
+      "proceso"
+    ],
+    "base_response": "Los conjuntos de datos de entrenamiento pueden representar cómo la energía cambia de forma en distintos ciclos naturales. Estos datos permiten identificar patrones de transformación, evaluar procesos energéticos y comprender variaciones que influyen en sistemas biológicos y tecnológicos, mejorando modelos que simulan dinámicas complejas."
+  },
+  {
+    "intent_id": "historia_origen_evolucion_conjuntos_datos_entrenamiento",
+    "keywords": [
+      "datos",
+      "entrenamiento",
+      "inteligencia",
+      "evolucion"
+    ],
+    "base_response": "Los conjuntos de datos de entrenamiento surgieron con los primeros sistemas de inteligencia artificial en los años cincuenta. Su evolución ha sido clave para mejorar la precisión de los modelos, pasando de datos simples a grandes volúmenes complejos y etiquetados cuidadosamente."
+  },
+  {
+    "intent_id": "conjuntos_datos_entrenamiento_experimentos_escolares",
+    "keywords": [
+      "datos",
+      "entrenamiento",
+      "experimentos",
+      "demostraciones",
+      "inteligencia"
+    ],
+    "base_response": "Los conjuntos de datos de entrenamiento en experimentos escolares permiten a los estudiantes comprender cómo la inteligencia artificial aprende a partir de ejemplos. Se usan datos reales o simulados para crear modelos que predicen o clasifican información, facilitando la experimentación práctica y el aprendizaje activo."
+  },
+  {
+    "intent_id": "mitos_conjuntos_datos_entrenamiento",
+    "keywords": [
+      "mitos",
+      "entrenamiento",
+      "datos",
+      "conjunto",
+      "falsedades",
+      "prejuicio"
+    ],
+    "base_response": "Los datos de entrenamiento provienen de múltiples fuentes; sin embargo, cada conjunto refleja sesgos humanos. Los estudiantes deben reconocer que no todos los datos son representativos, que la calidad afecta el resultado y que la selección consciente evita la discriminación y errores. Entender este proceso garantiza modelos justos."
+  },
+  {
+    "intent_id": "impacto_ambiental_conjuntos_entrenamiento",
+    "keywords": [
+      "energia",
+      "servidor",
+      "consumo",
+      "carbono",
+      "residuo"
+    ],
+    "base_response": "El uso de grandes conjuntos de entrenamiento exige servidores que consumen mucha energía y generan emisiones de carbono. La producción y almacenamiento de datos también implica residuos electrónicos. Comprender estos efectos permite diseñar prácticas más responsables y reducir el impacto ambiental."
+  },
+  {
+    "intent_id": "mantenimiento_prevencion_datos_entrenamiento",
+    "keywords": [
+      "limpieza",
+      "verificacion",
+      "actualizacion",
+      "control",
+      "calidad"
+    ],
+    "base_response": "El mantenimiento de conjuntos de datos exige limpieza constante, verificación de errores y actualización periódica para evitar sesgos. La prevención de fallos requiere controles de calidad que detecten duplicados, valores atípicos y registros obsoletos, garantizando así modelos más confiables y seguros."
+  },
+  {
+    "intent_id": "conjuntos_datos_entrenamiento_contexto_entorno_ecologico",
+    "keywords": [
+      "datos",
+      "entrenamiento",
+      "entorno",
+      "ecologico",
+      "impacto"
+    ],
+    "base_response": "Los conjuntos de datos de entrenamiento deben reflejar el contexto ecológico para que los modelos de inteligencia artificial comprendan y respeten el entorno natural. Esto ayuda a minimizar impactos ambientales negativos y promueve un uso responsable y sostenible de la tecnología."
+  },
+  {
+    "intent_id": "importancia_impacto_social_conjuntos_datos_entrenamiento",
+    "keywords": [
+      "datos",
+      "entrenamiento",
+      "impacto",
+      "social",
+      "calidad"
+    ],
+    "base_response": "Los conjuntos de datos de entrenamiento son esenciales para que los sistemas de inteligencia artificial funcionen correctamente. Su calidad y diversidad afectan la equidad y la inclusión social, evitando sesgos que pueden perjudicar a grupos vulnerables y promoviendo decisiones justas y responsables."
+  },
+  {
+    "intent_id": "historia_origen_evolucion_ia",
+    "keywords": [
+      "sistema",
+      "inteligencia",
+      "modelo",
+      "proceso",
+      "calculo"
+    ],
+    "base_response": "La historia de la inteligencia artificial inicia con teorías matemáticas que buscaban imitar el razonamiento humano. Su evolución avanzó desde máquinas capaces de resolver problemas simples hasta modelos complejos entrenados con grandes volúmenes de datos, permitiendo sistemas más precisos y adaptables."
+  },
+  {
+    "intent_id": "errores_fallas_patologias_comunes_sistemas_inteligencia_artificial",
+    "keywords": [
+      "error",
+      "fallo",
+      "sesgo",
+      "algoritmo",
+      "datos"
+    ],
+    "base_response": "Los sistemas de inteligencia artificial pueden presentar errores por fallos en algoritmos, sesgos en los datos de entrenamiento, sobreajuste y mala interpretación de información. Estas patologías afectan la precisión y confiabilidad, requiriendo supervisión y corrección constante para evitar resultados erróneos."
+  },
+  {
+    "intent_id": "importancia_impacto_social_ia",
+    "keywords": [
+      "tecnologia",
+      "sociedad",
+      "impacto",
+      "etica",
+      "privacidad"
+    ],
+    "base_response": "Los sistemas de inteligencia artificial influyen en decisiones que afectan comunidades enteras, desde servicios públicos hasta seguridad. Su uso responsable exige proteger la privacidad, reducir sesgos y garantizar beneficios equitativos para evitar desigualdades y fortalecer la confianza social en estas tecnologías."
+  },
+  {
+    "intent_id": "riesgos_medidas_seguridad_sistemas_inteligencia_artificial",
+    "keywords": [
+      "riesgos",
+      "seguridad",
+      "vulnerabilidades",
+      "ataques",
+      "proteccion"
+    ],
+    "base_response": "Los sistemas de inteligencia artificial enfrentan riesgos como ataques cibernéticos, vulnerabilidades en sus algoritmos y manipulación de datos. Es fundamental implementar medidas de seguridad como pruebas de penetración, control de acceso y monitoreo constante para proteger la integridad y confidencialidad de la información."
+  },
+  {
+    "intent_id": "consecuencias_largo_plazo_datos_entrenamiento",
+    "keywords": [
+      "sesgo",
+      "privacidad",
+      "actualizacion",
+      "desempeno",
+      "equidad"
+    ],
+    "base_response": "Los conjuntos de datos de entrenamiento influyen durante años en la calidad y la equidad de un sistema de inteligencia artificial. Si contienen sesgos o errores, esos problemas se repiten en nuevas versiones, afectan decisiones futuras y pueden reducir la confianza de las personas."
+  },
+  {
+    "intent_id": "aplicaciones_practicas_ia",
+    "keywords": [
+      "diagnostico",
+      "conduccion",
+      "agricultura",
+      "banca",
+      "educacion"
+    ],
+    "base_response": "La inteligencia artificial aplica en la medicina para diagnosticar enfermedades con mayor rapidez, en la conducción autónoma mejorando la seguridad vial, en la agricultura optimizando riego, en la banca detectando fraudes y en la educación personalizando contenidos según el ritmo del estudiante."
+  },
+  {
+    "intent_id": "definicion_anatomica_estructural_sistemas_inteligencia_artificial",
+    "keywords": [
+      "estructura",
+      "componentes",
+      "modelo",
+      "funcionamiento",
+      "datos"
+    ],
+    "base_response": "Los sistemas de inteligencia artificial están compuestos por componentes estructurales como sensores, procesadores, algoritmos y bases de datos. Estos elementos trabajan en conjunto para procesar información, aprender de los datos y tomar decisiones automatizadas de forma eficiente y adaptativa."
+  },
+  {
+    "intent_id": "transformacion_ciclos_energia",
+    "keywords": [
+      "transformacion",
+      "energia",
+      "ciclos",
+      "eficiencia",
+      "calor"
+    ],
+    "base_response": "Los sistemas de IA convierten energía eléctrica en procesos lógicos, circulando calor que debe disiparse; optimizan consumo mediante microservicios, reducen ciclos de encendido, y calibran requerimientos energéticos según cargas inteligentes, prolongando la vida útil de hardware."
+  },
+  {
+    "intent_id": "experimentos_demostraciones_ia",
+    "keywords": [
+      "robotica",
+      "sensor",
+      "clasificacion",
+      "modelo",
+      "simulacion"
+    ],
+    "base_response": "Los experimentos escolares con inteligencia artificial permiten observar cómo un modelo clasifica datos simples mediante sensores y simulaciones controladas. Estas demostraciones muestran procesos internos como ajuste de parámetros, detección de patrones y respuesta automática ante variaciones en el entorno."
+  },
+  {
+    "intent_id": "clasificacion_taxonomica_ia",
+    "keywords": [
+      "categoria",
+      "sistema",
+      "modelo",
+      "proceso",
+      "analisis"
+    ],
+    "base_response": "La clasificación taxonómica organiza sistemas de inteligencia artificial según su estructura y función, permitiendo distinguir modelos reactivos, con memoria limitada y de teoría de la mente. Esta organización facilita analizar capacidades, comprender procesos internos y comparar enfoques tecnológicos de manera precisa."
+  },
+  {
+    "intent_id": "mantenimiento_prevencion_ia",
+    "keywords": [
+      "mantenimiento",
+      "prevencion",
+      "seguridad",
+      "actualizacion",
+      "diagnostico"
+    ],
+    "base_response": "El mantenimiento en sistemas de inteligencia artificial requiere revisar componentes, actualizar modelos y detectar fallos tempranos. La prevención incluye monitorear rendimiento, aplicar parches de seguridad y asegurar integridad de datos para evitar riesgos y garantizar funcionamiento confiable en entornos cambiantes."
+  },
+  {
+    "intent_id": "historia_origen_evolucion",
+    "keywords": [
+      "algoritmo",
+      "modelo",
+      "dato",
+      "proceso",
+      "entrenamiento"
+    ],
+    "base_response": "El aprendizaje automático surgió con investigaciones tempranas sobre algoritmos capaces de mejorar mediante experiencia. Su evolución avanzó desde modelos simples hasta redes profundas impulsadas por mayor potencia computacional y grandes volúmenes de datos, permitiendo sistemas más precisos y adaptables en diversas tareas."
+  },
+  {
+    "intent_id": "impacto_social_aprendizaje_automatico",
+    "keywords": [
+      "aprendizaje",
+      "datos",
+      "decisiones",
+      "sesgo",
+      "empleo"
+    ],
+    "base_response": "El aprendizaje automático influye en la sociedad porque ayuda a tomar decisiones más rápidas en salud, transporte y educación, pero también puede reproducir sesgos si los datos son injustos. Su uso responsable exige supervisión humana, transparencia y protección de la privacidad."
+  },
+  {
+    "intent_id": "aplicaciones_practicas_aprendizaje_automatico_maquinas",
+    "keywords": [
+      "aprendizaje",
+      "datos",
+      "prediccion",
+      "reconocimiento"
+    ],
+    "base_response": "El aprendizaje automático permite que las máquinas analicen datos para predecir resultados y reconocer patrones. Se usa en reconocimiento de voz, recomendaciones personalizadas, detección de fraudes y automatización de tareas, mejorando la eficiencia en diversas áreas cotidianas."
+  },
+  {
+    "intent_id": "errores_fallas_patologias_comunes_aprendizaje_automatico_maquinas",
+    "keywords": [
+      "error",
+      "fallas",
+      "sobreajuste",
+      "subajuste",
+      "datos",
+      "modelo"
+    ],
+    "base_response": "Los errores comunes en aprendizaje automático incluyen sobreajuste, cuando el modelo aprende demasiado los datos de entrenamiento, y subajuste, cuando no aprende lo suficiente. También ocurren fallas por datos insuficientes o incorrectos, y problemas en la generalización del modelo a nuevos datos."
+  },
+  {
+    "intent_id": "mitos_y_concepciones_erroneas",
+    "keywords": [
+      "modelo",
+      "dato",
+      "sesgo",
+      "prediccion",
+      "entrenamiento"
+    ],
+    "base_response": "Muchos creen que el aprendizaje automático funciona como magia, pero depende estrictamente de datos y modelos entrenados. No piensa por sí mismo, puede equivocarse y reproducir sesgos. Requiere supervisión humana constante para evitar interpretaciones erróneas y resultados engañosos."
+  },
+  {
+    "intent_id": "riesgos_medidas_seguridad_aprendizaje_automatico_maquinas",
+    "keywords": [
+      "riesgos",
+      "seguridad",
+      "datos",
+      "ataques",
+      "modelos"
+    ],
+    "base_response": "El aprendizaje automático enfrenta riesgos como ataques adversarios y robo de datos. Para protegerse, se deben implementar medidas como la validación continua de modelos, el cifrado de información y la detección temprana de anomalías para evitar vulnerabilidades y asegurar la integridad del sistema."
+  },
+  {
+    "intent_id": "calculos_formulas_aprendizaje_automatico_maquinas",
+    "keywords": [
+      "algoritmo",
+      "modelo",
+      "datos",
+      "funcion",
+      "error",
+      "optimizacion"
+    ],
+    "base_response": "El aprendizaje automático utiliza formulas para ajustar modelos matematicos que predicen resultados. Se calcula el error entre predicciones y datos reales, y se optimizan funciones de costo para minimizar ese error, mejorando asi la precision del algoritmo con cada iteracion."
+  },
+  {
+    "intent_id": "relacion_simbiotica_aprendizaje_automatico_sistemas",
+    "keywords": [
+      "aprendizaje",
+      "sistemas",
+      "interaccion",
+      "datos"
+    ],
+    "base_response": "El aprendizaje automático establece una relación simbiótica con otros sistemas al intercambiar datos y mejorar mutuamente sus capacidades. Esta interacción permite optimizar procesos, adaptarse a cambios y potenciar la eficiencia en tareas complejas mediante colaboración continua."
+  },
+  {
+    "intent_id": "definicion_anatomica_aprendizaje_automatico_maquinas",
+    "keywords": [
+      "algoritmo",
+      "datos",
+      "modelo",
+      "patron",
+      "red",
+      "neuronal"
+    ],
+    "base_response": "El aprendizaje automático se basa en estructuras llamadas modelos que procesan datos mediante algoritmos para identificar patrones. Estas estructuras pueden incluir redes neuronales, que simulan conexiones similares a las del cerebro para mejorar el reconocimiento y la predicción."
+  },
+  {
+    "intent_id": "mantenimiento_prevencion_aprendizaje_automatico_maquinas",
+    "keywords": [
+      "mantenimiento",
+      "prevencion",
+      "fallas",
+      "datos",
+      "modelos"
+    ],
+    "base_response": "El aprendizaje automático permite predecir fallas en máquinas mediante el análisis de datos históricos. Esto facilita el mantenimiento preventivo, evitando averías costosas y prolongando la vida útil de los equipos con intervenciones oportunas y planificadas."
+  },
+  {
+    "intent_id": "definicion_anatomica_redes_neuronales_artificiales_profundas",
+    "keywords": [
+      "red",
+      "neurona",
+      "capa",
+      "conexion",
+      "modelo"
+    ],
+    "base_response": "Las redes neuronales artificiales profundas están formadas por múltiples capas de neuronas artificiales interconectadas. Cada neurona recibe señales, las procesa y transmite resultados a la siguiente capa, formando una estructura jerárquica que permite el aprendizaje y reconocimiento de patrones complejos."
+  },
+  {
+    "intent_id": "errores_fallas_patologias_redes_profundas",
+    "keywords": [
+      "sobreajuste",
+      "sesgo",
+      "ruido",
+      "colapso",
+      "saturacion"
+    ],
+    "base_response": "Las redes profundas pueden sufrir sobreajuste por datos insuficientes, sesgo al aprender patrones distorsionados, ruido que altera la estabilidad, colapso de gradientes que impide el aprendizaje y saturación en capas que reduce la capacidad de adaptación ante variaciones complejas."
+  },
+  {
+    "intent_id": "propiedades_quimicas_materiales_redes_neuronales_artificiales_profundas",
+    "keywords": [
+      "materiales",
+      "conductividad",
+      "semiconductores",
+      "nanomateriales",
+      "sensores"
+    ],
+    "base_response": "Las redes neuronales artificiales profundas utilizan materiales semiconductores y nanomateriales con propiedades químicas específicas que permiten la conductividad eléctrica y la sensibilidad necesaria para procesar información. Estos materiales son clave para el desarrollo de sensores y dispositivos eficientes."
+  },
+  {
+    "intent_id": "proyecciones_futuras_tecnologia_ml",
+    "keywords": [
+      "aprendizaje",
+      "futuro",
+      "tecnologia",
+      "modelo",
+      "rendimiento"
+    ],
+    "base_response": "El aprendizaje automático orientará la economía mediante modelos predictivos que anticipan demanda y optimizan la producción en industrias. Al reducir desperdicio y aumentar eficiencia, la IA fomentará crecimiento sostenible y nuevas oportunidades laborales, reforzando la competitividad global."
+  },
+  {
+    "intent_id": "contexto_entorno_ecologico_redes_neuronales_profundas",
+    "keywords": [
+      "energia",
+      "consumo",
+      "impacto",
+      "sostenibilidad",
+      "tecnologia"
+    ],
+    "base_response": "Las redes neuronales profundas requieren gran cantidad de energía para su entrenamiento, lo que puede aumentar el consumo eléctrico y la huella de carbono. Es fundamental desarrollar tecnologias mas sostenibles que reduzcan su impacto ambiental y promuevan un uso responsable."
+  },
+  {
+    "intent_id": "impacto_ambiental_aprendizaje_automatico",
+    "keywords": [
+      "energia",
+      "servidores",
+      "emisiones",
+      "datos",
+      "eficiencia"
+    ],
+    "base_response": "El aprendizaje automático consume energía en el entrenamiento y uso de modelos, sobre todo en servidores y centros de datos. Para reducir su impacto ambiental, conviene optimizar algoritmos, usar menos datos innecesarios y elegir infraestructuras eficientes que disminuyan emisiones."
+  },
+  {
+    "intent_id": "riesgos_medidas_seguridad_redes_profundas",
+    "keywords": [
+      "riesgo",
+      "sesgo",
+      "dato",
+      "proteccion",
+      "control"
+    ],
+    "base_response": "Las redes neuronales profundas pueden amplificar sesgos y exponer datos sensibles si no se gestionan adecuadamente. Implementar controles estrictos, revisar conjuntos de datos y monitorear decisiones reduce vulnerabilidades. Aplicar protección continua evita filtraciones y garantiza un funcionamiento responsable del sistema."
+  },
+  {
+    "intent_id": "importancia_impacto_redes_neuronales",
+    "keywords": [
+      "sociedad",
+      "diagnostico",
+      "logistica",
+      "educacion",
+      "responsabilidad"
+    ],
+    "base_response": "Las redes neuronales profundas transforman la sociedad al acelerar diagnósticos médicos, optimizar la logística y fortalecer la educación personalizada, mientras generan debate sobre la equidad algorítmica y la responsabilidad de la inteligencia artificial en la toma de decisiones públicas."
+  },
+  {
+    "intent_id": "mitos_y_errores_redes_profundas",
+    "keywords": [
+      "modelo",
+      "dato",
+      "proceso",
+      "calculo",
+      "resultado"
+    ],
+    "base_response": "Las redes neuronales profundas no piensan ni comprenden como humanos. Funcionan mediante cálculos estadísticos que dependen totalmente de los datos usados. No generan decisiones autónomas mágicas y tampoco garantizan resultados perfectos, pues pueden equivocarse si el entrenamiento es limitado o sesgado."
+  },
+  {
+    "intent_id": "aplicaciones_practicas_redes_profundas",
+    "keywords": [
+      "vision",
+      "robotica",
+      "clasificacion",
+      "prediccion",
+      "procesamiento"
+    ],
+    "base_response": "Las redes neuronales profundas permiten reconocer objetos en imágenes, mejorar diagnósticos médicos, optimizar rutas de transporte, detectar fraudes financieros y potenciar asistentes virtuales mediante análisis avanzado de datos. Su capacidad de aprender patrones complejos impulsa soluciones eficientes en múltiples actividades cotidianas."
+  },
+  {
+    "intent_id": "impacto_ambiental_redes_profundas",
+    "keywords": [
+      "energia",
+      "carbono",
+      "servidor",
+      "entrenamiento",
+      "modelo"
+    ],
+    "base_response": "El entrenamiento de redes neuronales profundas exige gran consumo de energía en centros de datos, generando emisiones de carbono significativas. La complejidad de los modelos incrementa el uso de servidores y recursos, impulsando la necesidad de prácticas más eficientes para reducir impactos ambientales."
+  },
+  {
+    "intent_id": "redes_neuronales_simbiosis_otros_sistemas",
+    "keywords": [
+      "neurona",
+      "intercambio",
+      "apoyo",
+      "dinamica",
+      "robustez"
+    ],
+    "base_response": "Las redes neuronales profundas se integran con sensores, bases de datos y sistemas de control, creando una interacción donde cada componente refuerza al otro; esta simbiosis aumenta precisión, reducción de errores, y permite adaptaciones en tiempo real para procesos críticos."
+  },
+  {
+    "intent_id": "ventajas_desventajas_redes_neuronales_artificiales_profundas",
+    "keywords": [
+      "aprendizaje",
+      "datos",
+      "prediccion",
+      "complejidad",
+      "entrenamiento"
+    ],
+    "base_response": "Las redes neuronales profundas permiten aprender patrones complejos y manejar grandes volúmenes de datos no estructurados. Sin embargo, requieren mucho entrenamiento, consumen recursos elevados y pueden ser difíciles de interpretar o ajustar, lo que limita su transparencia y control."
+  },
+  {
+    "intent_id": "automatizacion_tareas_cognitivas_dinamica_fisica",
+    "keywords": [
+      "sensor",
+      "motor",
+      "proceso",
+      "calculo",
+      "sistema"
+    ],
+    "base_response": "La automatización de tareas cognitivas depende de sensores que capturan información física, motores que ejecutan acciones precisas y sistemas que procesan datos mediante cálculos rápidos. Esta dinámica integra hardware y software para transformar señales en decisiones operativas eficientes."
+  },
+  {
+    "intent_id": "experimentos_demostraciones_escolares_redes_neuronales_artificiales_profundas",
+    "keywords": [
+      "experimentos",
+      "demostraciones",
+      "redes",
+      "aprendizaje",
+      "profundo"
+    ],
+    "base_response": "Los experimentos escolares con redes neuronales profundas permiten observar cómo estas aprenden a reconocer patrones complejos mediante capas múltiples. Se pueden usar datos simples para entrenar modelos que clasifiquen imágenes o sonidos, demostrando el funcionamiento básico del aprendizaje profundo."
+  },
+  {
+    "intent_id": "errores_fallas_patologias_comunes_automatizacion_tareas_cognitivas",
+    "keywords": [
+      "errores",
+      "fallas",
+      "automatizacion",
+      "tareas",
+      "cognitivas",
+      "inteligencia"
+    ],
+    "base_response": "La automatización de tareas cognitivas puede presentar errores por sesgos en los datos, fallas en algoritmos y limitaciones técnicas. Estas fallas generan resultados incorrectos o imprecisos, afectando la confiabilidad y causando patologías como la dependencia excesiva o la atrofia cognitiva."
+  },
+  {
+    "intent_id": "propiedades_automatizacion_cognitiva",
+    "keywords": [
+      "material",
+      "conductor",
+      "resina",
+      "polimero",
+      "cobre"
+    ],
+    "base_response": "La automatización de tareas cognitivas requiere materiales con propiedades específicas, como conductividad eléctrica, estabilidad térmica y biocompatibilidad. Los polímeros conductores, las resinas fotopoliméricas y los contactos de cobre nanométrico posibilitan sensores y actuadores que interpretan señales, acortando tiempos de respuesta y reduciendo consumo energético."
+  },
+  {
+    "intent_id": "ventajas_desventajas_automatizacion",
+    "keywords": [
+      "automatizacion",
+      "tarea",
+      "proceso",
+      "eficiencia",
+      "riesgo"
+    ],
+    "base_response": "La automatización de tareas cognitivas ofrece eficiencia al procesar información rápidamente y reducir errores humanos. También permite liberar tiempo para actividades creativas. Sin embargo, puede generar dependencia tecnológica, disminuir habilidades prácticas y provocar desplazamientos laborales en funciones repetitivas."
+  },
+  {
+    "intent_id": "importancia_impacto_social_automatizacion_cognitiva",
+    "keywords": [
+      "automatizacion",
+      "tareas",
+      "cognitivas",
+      "impacto",
+      "social"
+    ],
+    "base_response": "La automatización de tareas cognitivas mejora la eficiencia y reduce errores en actividades mentales repetitivas. Esto libera tiempo para actividades creativas y sociales, pero también genera desafíos en empleo y requiere adaptación social para aprovechar sus beneficios equitativamente."
+  },
+  {
+    "intent_id": "clasificacion_taxonomica_automatizacion_cognitiva",
+    "keywords": [
+      "clasificacion",
+      "taxonomia",
+      "jerarquia",
+      "categoria",
+      "subtipo"
+    ],
+    "base_response": "La clasificación taxonómica organiza la automatización de tareas cognitivas en niveles y categorías según su complejidad, autonomía y tipo de proceso mental. Distingue sistemas que reconocen, comparan, predicen o deciden, facilitando analizar sus capacidades, límites y aplicaciones educativas."
+  },
+  {
+    "intent_id": "riesgos_medidas_automatizacion_cognitiva",
+    "keywords": [
+      "riesgo",
+      "seguridad",
+      "auditoria",
+      "automatizacion",
+      "validacion",
+      "cognitiva"
+    ],
+    "base_response": "La automatización cognitiva puede introducir sesgos, pérdida de control y sobreconfianza de sistemas. Realizar auditorías mensuales regulares, aplicar controles de acceso estrictos y validación humana garantiza seguridad, precisión y cumplimiento ético en entornos escolares y laborales."
+  },
+  {
+    "intent_id": "definicion_anatomica_estructural_automatizacion_tareas_cognitivas",
+    "keywords": [
+      "automatizacion",
+      "cognicion",
+      "sistema",
+      "proceso",
+      "estructura"
+    ],
+    "base_response": "La automatización de tareas cognitivas es la organización de componentes de software y datos para imitar funciones mentales como clasificar, reconocer, decidir o responder. Su estructura suele incluir entrada de información, procesamiento por reglas o modelos, memoria de datos y salida de resultados."
+  },
+  {
+    "intent_id": "automatizacion_simbiotica_sistemas",
+    "keywords": [
+      "interaccion",
+      "sistema",
+      "robotica",
+      "procesamiento",
+      "colaboracion"
+    ],
+    "base_response": "La automatización cognitiva establece vínculos estrechos entre sistemas que combinan análisis inteligente y ejecución física. Esta relación simbiótica permite intercambiar información en tiempo real, ajustar decisiones y coordinar acciones complejas, fortaleciendo la eficiencia conjunta sin reemplazar capacidades humanas esenciales."
+  },
+  {
+    "intent_id": "experimentos_automatizacion_cognitiva",
+    "keywords": [
+      "robot",
+      "modelo",
+      "clasificacion",
+      "simulacion",
+      "proceso"
+    ],
+    "base_response": "La automatizacion cognitiva puede demostrarse creando modelos simples que clasifiquen objetos escolares mediante reglas claras. Estudiantes prueban variaciones y observan como el sistema ajusta decisiones. La actividad revela limites, errores y mejoras posibles en procesos automatizados de razonamiento."
+  },
+  {
+    "intent_id": "automatizacion_tareas_cognitivas_contexto_entorno_ecologico",
+    "keywords": [
+      "automatizacion",
+      "tareas",
+      "cognitivas",
+      "entorno",
+      "ecologico"
+    ],
+    "base_response": "La automatización de tareas cognitivas en el contexto ecológico busca optimizar procesos respetando el medio ambiente. Se integran tecnologías que reducen el consumo energético y minimizan residuos, promoviendo un equilibrio sostenible entre innovación tecnológica y conservación ambiental."
+  },
+  {
+    "intent_id": "automatizacion_mantenimiento_prevencion",
+    "keywords": [
+      "sistema",
+      "revision",
+      "diagnostico",
+      "alerta",
+      "fallo"
+    ],
+    "base_response": "La automatización de tareas cognitivas permite supervisar sistemas mediante diagnósticos continuos que detectan fallos antes de afectar el rendimiento. Algoritmos analizan patrones, generan alertas tempranas y facilitan intervenciones preventivas que prolongan la vida útil de equipos y procesos tecnológicos."
+  },
+  {
+    "intent_id": "mitos_concepciones_erroneas_automatizacion_cognitiva",
+    "keywords": [
+      "mito",
+      "error",
+      "automatizacion",
+      "pensamiento",
+      "decision"
+    ],
+    "base_response": "La automatización de tareas cognitivas no reemplaza por completo el pensamiento humano ni garantiza decisiones correctas. Estos sistemas pueden cometer errores si los datos son sesgados o incompletos, por eso requieren supervisión, verificación y criterio humano para usarse de forma responsable."
+  },
+  {
+    "intent_id": "definicion_anatomica_estructural_conjuntos_datos_entrenamiento",
+    "keywords": [
+      "muestra",
+      "etiqueta",
+      "registro",
+      "atributo",
+      "estructura"
+    ],
+    "base_response": "Un conjunto de datos de entrenamiento es una coleccion organizada de ejemplos, donde cada registro contiene atributos y, a veces, una etiqueta. Su estructura suele dividirse en filas y columnas para que el modelo aprenda relaciones entre entradas y resultados."
+  },
+  {
+    "intent_id": "dinamica_funcionamiento_fisico_datos",
+    "keywords": [
+      "sensor",
+      "captura",
+      "proceso",
+      "registro",
+      "medicion"
+    ],
+    "base_response": "Los conjuntos de datos de entrenamiento pueden originarse mediante sensores que capturan señales físicas. Cada medición se registra siguiendo procesos controlados que aseguran estabilidad. La dinámica depende de cómo se obtiene, organiza y verifica cada dato para representar fenómenos reales con precisión."
+  },
+  {
+    "intent_id": "consecuencias_largo_plazo_automatizacion_cognitiva",
+    "keywords": [
+      "automatizacion",
+      "tarea",
+      "trabajo",
+      "futuro",
+      "impacto"
+    ],
+    "base_response": "La automatización de tareas cognitivas puede transformar profesiones, desplazando actividades rutinarias y creando nuevos roles centrados en supervisión y creatividad. A largo plazo modifica habilidades demandadas, exige educación continua y plantea riesgos de dependencia tecnológica y pérdida de pensamiento crítico en parte de la población."
+  },
+  {
+    "intent_id": "aplicaciones_practicas_datos_entrenamiento",
+    "keywords": [
+      "salud",
+      "transporte",
+      "recomendacion",
+      "deteccion",
+      "prediccion"
+    ],
+    "base_response": "Los conjuntos de datos de entrenamiento se usan para enseñar a la inteligencia artificial a reconocer patrones en situaciones reales, como detectar enfermedades, recomendar contenidos, predecir tráfico o filtrar spam. Su calidad determina si el sistema acierta, falla o reproduce errores en decisiones cotidianas."
+  },
+  {
+    "intent_id": "impacto_social_conjuntos_entrenamiento",
+    "keywords": [
+      "datos",
+      "sesgo",
+      "privacidad",
+      "equidad",
+      "impacto"
+    ],
+    "base_response": "Los conjuntos de datos de entrenamiento influyen directamente en decisiones automatizadas que afectan comunidades. Su calidad determina si los sistemas reproducen sesgos, respetan la privacidad y promueven equidad. Una selección responsable reduce riesgos sociales y fortalece la confianza en la tecnología."
+  },
+  {
+    "intent_id": "impacto_ambiental_automatizacion_tareas_cognitivas",
+    "keywords": [
+      "automatizacion",
+      "energia",
+      "recursos",
+      "emisiones",
+      "eficiencia"
+    ],
+    "base_response": "La automatización de tareas cognitivas puede reducir el consumo de energía y optimizar el uso de recursos naturales. Esto disminuye las emisiones contaminantes y la generación de residuos, contribuyendo a un menor impacto ambiental y promoviendo procesos más sostenibles y eficientes."
+  },
+  {
+    "intent_id": "calculos_formulas_conjuntos_datos_entrenamiento",
+    "keywords": [
+      "datos",
+      "entrenamiento",
+      "modelo",
+      "error",
+      "precision"
+    ],
+    "base_response": "Los conjuntos de datos de entrenamiento se utilizan para ajustar modelos mediante cálculos como la función de pérdida, que mide el error entre predicciones y valores reales. La optimización busca minimizar este error para mejorar la precisión del modelo."
+  },
+  {
+    "intent_id": "historia_origen_evolucion_datos_entrenamiento",
+    "keywords": [
+      "dataset",
+      "entrenamiento",
+      "modelo",
+      "recoleccion",
+      "proceso"
+    ],
+    "base_response": "Los conjuntos de datos de entrenamiento surgieron con los primeros sistemas computacionales que requerían ejemplos para aprender. Su evolución avanzó desde colecciones pequeñas y manuales hacia enormes repositorios digitales, impulsados por internet y sensores, permitiendo entrenar modelos cada vez más complejos y precisos."
+  },
+  {
+    "intent_id": "riesgos_medidas_seguridad_conjuntos_datos_entrenamiento",
+    "keywords": [
+      "riesgos",
+      "seguridad",
+      "datos",
+      "entrenamiento",
+      "ciberataques"
+    ],
+    "base_response": "Los conjuntos de datos de entrenamiento pueden ser vulnerables a ciberataques, manipulación y sesgos que afectan la calidad del modelo. Es fundamental implementar medidas de seguridad como el control de acceso, la encriptación y la auditoría continua para proteger la integridad y privacidad de los datos."
+  },
+  {
+    "intent_id": "clasificacion_taxonomica_datos",
+    "keywords": [
+      "categoria",
+      "etiqueta",
+      "clase",
+      "organizacion",
+      "modelo"
+    ],
+    "base_response": "La clasificación taxonómica organiza datos de entrenamiento en categorías jerárquicas que permiten a los modelos identificar relaciones entre clases. Esta estructura facilita distinguir niveles de detalle, mejora la precisión en tareas complejas y optimiza la comprensión automática del contenido analizado."
+  },
+  {
+    "intent_id": "consecuencias_largo_plazo_conjuntos_datos_entrenamiento",
+    "keywords": [
+      "sesgo",
+      "privacidad",
+      "impacto",
+      "transparencia",
+      "sostenibilidad"
+    ],
+    "base_response": "Los conjuntos de datos de entrenamiento pueden generar sesgos que afectan decisiones futuras, comprometer la privacidad y reducir la transparencia de los sistemas. A largo plazo, estos problemas pueden limitar la confianza y la sostenibilidad de la inteligencia artificial en la sociedad."
+  },
+  {
+    "intent_id": "mitos_concepciones_erroneas_conjuntos_datos_entrenamiento",
+    "keywords": [
+      "datos",
+      "entrenamiento",
+      "sesgo",
+      "calidad",
+      "modelo"
+    ],
+    "base_response": "No todos los conjuntos de datos de entrenamiento son neutrales ni perfectos. Un mito común es pensar que más datos siempre mejoran el modelo, cuando en realidad la calidad y diversidad son clave para evitar sesgos y errores en la inteligencia artificial."
+  },
+  {
+    "intent_id": "conjuntos_entrenamiento_sistemas_simbioticos",
+    "keywords": [
+      "interaccion",
+      "sistema",
+      "modelo",
+      "retroalimentacion",
+      "informacion"
+    ],
+    "base_response": "Los conjuntos de datos de entrenamiento mantienen una relacion simbiótica con otros sistemas al intercambiar información que mejora su precision. Esta colaboracion permite ajustar modelos, optimizar procesos y generar respuestas mas coherentes mediante ciclos continuos de retroalimentacion entre componentes interdependientes."
+  },
+  {
+    "intent_id": "transformacion_ciclos_energeticos_datos",
+    "keywords": [
+      "energia",
+      "ciclo",
+      "transformacion",
+      "proceso",
+      "sistema"
+    ],
+    "base_response": "Los conjuntos de datos de entrenamiento pueden representar procesos donde la energía cambia de forma y se mueve entre sistemas. Estos datos permiten modelar ciclos energéticos completos, identificando variaciones, flujos y transformaciones que ayudan a predecir comportamientos y optimizar recursos en entornos tecnológicos."
+  },
+  {
+    "intent_id": "conjuntos_datos_entrenamiento_experimentos_demostraciones_escolares",
+    "keywords": [
+      "entrenamiento",
+      "experimentos",
+      "demostracion",
+      "colectar",
+      "analizar"
+    ],
+    "base_response": "Los estudiantes recogen y etiquetan ejemplos de texto o imágenes, entrenando modelos que clasifican nuevas entradas; los profesores demuestran gráficas resultantes, comparan confidenciales, y ajustan parámetros en tiempo real, fomentando comprensión práctica de cómo los datos moldean inteligencias artificiales."
+  },
+  {
+    "intent_id": "definicion_anatomica_sistemas_ai",
+    "keywords": [
+      "capa",
+      "neuronas",
+      "algoritmo",
+      "pesos",
+      "activacion",
+      "entrada"
+    ],
+    "base_response": "Un sistema de inteligencia artificial se compone de capas de unidades de procesamiento, cada una poblada por neuronas artificiales con pesos ajustables que reciben señales de entrada, transforman la información mediante funciones de activación y generan salidas que se actualizan en ciclos de entrenamiento continuo."
+  },
+  {
+    "intent_id": "sistemas_inteligencia_artificial_dinamica_funcionamiento_fisico",
+    "keywords": [
+      "sensores",
+      "actuadores",
+      "procesamiento",
+      "datos",
+      "retroalimentacion"
+    ],
+    "base_response": "Los sistemas de inteligencia artificial físicos integran sensores para captar datos del entorno y actuadores para interactuar con él. El procesamiento continuo de información y la retroalimentación permiten ajustar comportamientos en tiempo real, logrando respuestas adaptativas y dinámicas eficientes."
+  },
+  {
+    "intent_id": "propiedades_materiales_ia",
+    "keywords": [
+      "sensor",
+      "material",
+      "conductividad",
+      "resistencia",
+      "estructura"
+    ],
+    "base_response": "Los sistemas de inteligencia artificial dependen de materiales con alta conductividad y resistencia térmica para procesar datos eficientemente. La estructura interna de semiconductores y sensores determina la velocidad de transmisión eléctrica y la estabilidad química necesaria para soportar cargas intensivas sin degradación."
+  },
+  {
+    "intent_id": "ventajas_desventajas_sistemas_inteligencia_artificial",
+    "keywords": [
+      "autonomia",
+      "eficiencia",
+      "sesgo",
+      "transparencia",
+      "regulacion"
+    ],
+    "base_response": "Los sistemas de inteligencia artificial ofrecen mayores rendimientos, reducen tareas repetitivas y potencian la toma de decisiones; sin embargo, presentan riesgos de sesgo, falta de transparencia y dificultad para regular su uso, creando incertidumbre sobre responsabilidad y protección de datos."
+  },
+  {
+    "intent_id": "clasificacion_taxonomica_sistemas_ia",
+    "keywords": [
+      "taxonomia",
+      "clasificacion",
+      "aprendizaje",
+      "razonamiento",
+      "autonomia"
+    ],
+    "base_response": "Los sistemas de inteligencia artificial se clasifican según su capacidad, su funcionamiento y su alcance. Pueden ser reactivos, con memoria limitada, de teoría de la mente o autoconscientes. También se distinguen por aprendizaje supervisado, no supervisado y por refuerzo, según cómo procesan datos y toman decisiones."
+  },
+  {
+    "intent_id": "calculos_formulas_inteligencia_artificial",
+    "keywords": [
+      "calculo",
+      "modelo",
+      "vector",
+      "matriz",
+      "entrenamiento"
+    ],
+    "base_response": "Los sistemas de inteligencia artificial emplean operaciones con vectores y matrices para ajustar modelos mediante cálculos de gradiente. La retropropagación utiliza derivadas parciales que permiten minimizar errores y optimizar parámetros, garantizando un aprendizaje más preciso en tareas complejas."
+  },
+  {
+    "intent_id": "mitos_concepciones_erroneas_ia",
+    "keywords": [
+      "inteligencia",
+      "sistema",
+      "creencia",
+      "riesgo",
+      "control"
+    ],
+    "base_response": "Muchos estudiantes creen que los sistemas de inteligencia artificial piensan como humanos, pero solo procesan datos siguiendo reglas matemáticas. Otros imaginan que actúan sin control, aunque siempre dependen de instrucciones humanas. Estas ideas generan temores infundados y dificultan comprender su funcionamiento real."
+  },
+  {
+    "intent_id": "sistemas_inteligencia_artificial_transformacion_ciclos_energeticos",
+    "keywords": [
+      "inteligencia",
+      "energia",
+      "transformacion",
+      "ciclos",
+      "algoritmos"
+    ],
+    "base_response": "Los sistemas de inteligencia artificial optimizan la transformación y gestión de ciclos energéticos mediante algoritmos que analizan datos para equilibrar la oferta y demanda. Esto mejora la eficiencia, reduce pérdidas y contribuye a sistemas energéticos más sostenibles y resilientes."
+  },
+  {
+    "intent_id": "contexto_entorno_ecologico_ia",
+    "keywords": [
+      "ecosistema",
+      "interaccion",
+      "energia",
+      "impacto",
+      "adaptacion"
+    ],
+    "base_response": "Los sistemas de inteligencia artificial dependen de entornos donde circulan datos, energía y recursos tecnológicos. Su funcionamiento influye en redes digitales y físicas, modificando dinámicas ecológicas al requerir infraestructura, generar residuos electrónicos y adaptarse a condiciones ambientales cambiantes."
+  },
+  {
+    "intent_id": "consecuencias_largo_plazo_sistemas_inteligencia_artificial",
+    "keywords": [
+      "impacto",
+      "empleo",
+      "privacidad",
+      "dependencia",
+      "sesgo"
+    ],
+    "base_response": "Los sistemas de inteligencia artificial pueden generar cambios profundos en el empleo, aumentando la automatización y desplazando trabajos. También afectan la privacidad y pueden crear dependencia tecnológica. A largo plazo, es vital gestionar sesgos para evitar desigualdades sociales y éticas."
+  },
+  {
+    "intent_id": "impacto_ambiental_sistemas_ia",
+    "keywords": [
+      "energia",
+      "recurso",
+      "emision",
+      "servidor",
+      "enfriamiento"
+    ],
+    "base_response": "El funcionamiento de sistemas de inteligencia artificial exige grandes centros de datos que consumen mucha energía y requieren enfriamiento constante. Este proceso incrementa emisiones y demanda recursos hídricos, impulsando la necesidad de tecnologías más eficientes para reducir impactos ambientales significativos."
+  },
+  {
+    "intent_id": "estructura_algoritmos_predictivos",
+    "keywords": [
+      "modelo",
+      "dato",
+      "patron",
+      "clasificacion",
+      "prediccion"
+    ],
+    "base_response": "Un algoritmo predictivo de comportamiento se organiza como una secuencia estructurada de pasos que transforma datos en estimaciones. Su anatomía incluye modelos matemáticos, funciones de clasificación y mecanismos internos que detectan patrones para anticipar acciones futuras con coherencia sistemática."
+  },
+  {
+    "intent_id": "dinamica_funcionamiento_fisico_algoritmos_predictivos_comportamiento",
+    "keywords": [
+      "algoritmo",
+      "datos",
+      "modelo",
+      "prediccion",
+      "comportamiento"
+    ],
+    "base_response": "Los algoritmos predictivos funcionan mediante modelos matemáticos que procesan datos históricos para anticipar comportamientos futuros. Su dinámica física implica la ejecución secuencial de instrucciones en hardware, donde la velocidad y capacidad de procesamiento afectan la precisión y rapidez de las predicciones."
+  },
+  {
+    "intent_id": "riesgos_y_medidas_de_seguridad_ia",
+    "keywords": [
+      "riesgo",
+      "seguridad",
+      "dato",
+      "control",
+      "evaluacion"
+    ],
+    "base_response": "Los sistemas de inteligencia artificial pueden generar riesgos como filtraciones de datos, decisiones sesgadas y fallos operativos. Para reducirlos se aplican controles de acceso, evaluaciones constantes, protocolos de seguridad y supervisión humana que garantizan un funcionamiento responsable y confiable."
+  },
+  {
+    "intent_id": "algoritmos_predictivos_comportamiento_errores",
+    "keywords": [
+      "sesgo",
+      "sobreajuste",
+      "filtro",
+      "error",
+      "viabilidad",
+      "privacidad"
+    ],
+    "base_response": "Los algoritmos predictivos de comportamiento pueden incurrir en sesgo por datos históricos, sobreajuste, fallo de generalización y vulnerabilidad a ataques de adversario, provocando interpretaciones erróneas y decisiones sesgadas que comprometen la confianza y la equidad en la tecnología."
+  },
+  {
+    "intent_id": "historia_algoritmos_predictivos_comportamiento",
+    "keywords": [
+      "historia",
+      "origen",
+      "evolucion",
+      "datos",
+      "prediccion"
+    ],
+    "base_response": "Los algoritmos predictivos de comportamiento surgieron con la estadística y la informática, cuando se empezaron a analizar grandes conjuntos de datos para anticipar acciones humanas. Su evolución incorporó aprendizaje automático, redes sociales y comercio digital, aumentando la precisión, pero también los debates sobre privacidad y sesgos."
+  },
+  {
+    "intent_id": "mantenimiento_prevencion_sistemas_ia",
+    "keywords": [
+      "mantenimiento",
+      "prevencion",
+      "fallos",
+      "actualizacion",
+      "monitoreo"
+    ],
+    "base_response": "El mantenimiento de sistemas de inteligencia artificial exige revisar datos, modelos y resultados para detectar errores, sesgos o degradación del rendimiento. La prevención incluye actualizar algoritmos, proteger la información y probar el sistema con casos nuevos antes de usarlo en situaciones reales."
+  },
+  {
+    "intent_id": "aplicaciones_practicas_comportamiento",
+    "keywords": [
+      "prediccion",
+      "dato",
+      "modelo",
+      "comportamiento",
+      "usuario"
+    ],
+    "base_response": "Los algoritmos predictivos analizan datos históricos para anticipar acciones de usuarios en situaciones cotidianas. Estos sistemas permiten recomendar contenidos, ajustar rutas de transporte y optimizar compras digitales mediante modelos que identifican patrones de comportamiento con alta precisión en tiempo real."
+  },
+  {
+    "intent_id": "sistema_ai_relacion_simbiotica",
+    "keywords": [
+      "interoperabilidad",
+      "integracion",
+      "colaboracion",
+      "sinergia"
+    ],
+    "base_response": "Los sistemas de IA dependen de la interoperabilidad con hardware, bases de datos y otros algoritmos para potenciar la toma de decisiones. Al integrarse, comparten datos, mejoran la precisión y reducen redundancias, creando sinergias que elevan tanto rendimiento como confiabilidad en entornos complejos."
+  },
+  {
+    "intent_id": "algoritmos_predictivos_propiedades_quimicas_materiales",
+    "keywords": [
+      "algoritmo",
+      "prediccion",
+      "material",
+      "propiedad",
+      "quimica"
+    ],
+    "base_response": "Los algoritmos predictivos analizan datos para anticipar propiedades químicas y físicas de materiales. Esto permite diseñar materiales con características específicas, optimizando su uso en tecnología y mejorando su rendimiento mediante simulaciones y modelos computacionales avanzados."
+  },
+  {
+    "intent_id": "mitos_concepciones_erroneas_algoritmos_predictivos_comportamiento",
+    "keywords": [
+      "prediccion",
+      "sesgo",
+      "datos",
+      "perfil",
+      "riesgo"
+    ],
+    "base_response": "Los algoritmos predictivos no leen la mente ni adivinan el futuro; estiman probabilidades a partir de datos previos. También pueden equivocarse si los datos son incompletos o sesgados, por eso sus resultados deben interpretarse como apoyos, no como verdades absolutas."
+  },
+  {
+    "intent_id": "calculos_formulas_algoritmos_predictivos_comportamiento",
+    "keywords": [
+      "algoritmo",
+      "modelo",
+      "prediccion",
+      "regresion",
+      "probabilidad"
+    ],
+    "base_response": "Los algoritmos predictivos de comportamiento utilizan cálculos basados en modelos estadísticos como la regresión lineal y logística. Estos modelos calculan probabilidades y tendencias a partir de datos históricos para anticipar comportamientos futuros mediante fórmulas matemáticas específicas."
+  },
+  {
+    "intent_id": "algoritmos_predictivos_comportamiento",
+    "keywords": [
+      "prediccion",
+      "patrones",
+      "energia",
+      "consumo",
+      "ciclo"
+    ],
+    "base_response": "Los algoritmos predictivos de comportamiento analizan patrones de uso para estimar cuándo una persona o un sistema consumirá más energía. Así ayudan a ajustar procesos, reducir desperdicios y organizar ciclos energéticos más eficientes en hogares, ciudades y dispositivos inteligentes."
+  },
+  {
+    "intent_id": "algoritmos_predictivos_importancia_impacto_social",
+    "keywords": [
+      "prediccion",
+      "comportamiento",
+      "sociedad",
+      "privacidad",
+      "equidad",
+      "transparencia"
+    ],
+    "base_response": "Los algoritmos predictivos de comportamiento transforman procesos sociales al anticipar preferencias y decisiones humanas, generando eficiencias en servicios públicos y personalización de ofertas. Sin embargo, su uso viola la privacidad, amplifica sesgos existentes y plantea riesgos de discriminación, exigiendo mayor regulación y educación digital."
+  },
+  {
+    "intent_id": "experimentos_demostraciones_algoritmos_predictivos_comportamiento",
+    "keywords": [
+      "algoritmos",
+      "prediccion",
+      "datos",
+      "comportamiento",
+      "experimentos"
+    ],
+    "base_response": "Los experimentos escolares con algoritmos predictivos permiten observar cómo se analizan datos para anticipar comportamientos futuros. Se pueden usar simulaciones sencillas para demostrar cómo los patrones detectados influyen en decisiones automatizadas y en la predicción de resultados."
+  },
+  {
+    "intent_id": "ventajas_desventajas_algoritmos_predictivos_comportamiento",
+    "keywords": [
+      "algoritmos",
+      "prediccion",
+      "comportamiento",
+      "datos",
+      "decision"
+    ],
+    "base_response": "Los algoritmos predictivos permiten anticipar comportamientos mediante el análisis de datos, mejorando la toma de decisiones y personalización. Sin embargo, pueden generar sesgos, depender de datos incompletos y afectar la privacidad, lo que limita su precisión y ética en ciertos contextos."
+  },
+  {
+    "intent_id": "algoritmos_predictivos_mantenimiento_prevencion",
+    "keywords": [
+      "modelo",
+      "riesgo",
+      "dato",
+      "proceso",
+      "evaluacion"
+    ],
+    "base_response": "Los algoritmos predictivos de comportamiento permiten anticipar fallas mediante el análisis continuo de datos relevantes. La detección temprana de patrones de riesgo facilita intervenciones preventivas que reducen daños, optimizan recursos y mantienen sistemas funcionando de manera segura y estable."
+  },
+  {
+    "intent_id": "estructura_procesamiento_lenguaje",
+    "keywords": [
+      "modelo",
+      "token",
+      "vector",
+      "analisis",
+      "clasificacion"
+    ],
+    "base_response": "El procesamiento de lenguaje natural organiza el texto en tokens que se transforman en vectores numericos. Estos vectores permiten a los modelos identificar estructuras internas, relacionar significados y clasificar elementos lingüísticos mediante capas que procesan patrones cada vez más complejos."
+  },
+  {
+    "intent_id": "impacto_ambiental_algoritmos_predictivos",
+    "keywords": [
+      "consumo",
+      "energia",
+      "calor",
+      "generacion",
+      "datos",
+      "emisiones"
+    ],
+    "base_response": "Los algoritmos predictivos de comportamiento consumen grandes cantidades de energía eléctrica, generando tanto calor como emisiones de CO2. Su entrenamiento requiere servidores con refrigeración constante, aumentando la huella ecológica; además, la transferencia masiva de datos contribuye al consumo adicional y al desgaste de infraestructuras."
+  },
+  {
+    "intent_id": "riesgos_medidas_seguridad_algoritmos_predictivos_comportamiento",
+    "keywords": [
+      "algoritmos",
+      "riesgos",
+      "seguridad",
+      "datos",
+      "sesgos"
+    ],
+    "base_response": "Los algoritmos predictivos pueden presentar riesgos como sesgos en los datos que afectan decisiones y vulnerabilidades que comprometen la privacidad. Es esencial implementar medidas de seguridad como la revisión constante, anonimización de datos y transparencia en su uso para proteger a los usuarios."
+  },
+  {
+    "intent_id": "errores_fallas_patologias_pln",
+    "keywords": [
+      "sesgo",
+      "ambiguedad",
+      "clasificacion",
+      "interpretacion",
+      "tokenizacion"
+    ],
+    "base_response": "Los modelos de lenguaje pueden generar respuestas sesgadas, confundir significados por ambigüedad, clasificar textos de forma incorrecta y fallar al interpretar ironías. También presentan errores al tokenizar palabras complejas, afectando la coherencia y precisión del procesamiento lingüístico."
+  },
+  {
+    "intent_id": "propiedades_quimicas_materiales_procesamiento_lenguaje_natural",
+    "keywords": [
+      "materiales",
+      "sensores",
+      "microfonos",
+      "componentes",
+      "electronica"
+    ],
+    "base_response": "El procesamiento de lenguaje natural depende de materiales específicos en sensores y micrófonos que capturan el sonido. Estos componentes electrónicos requieren propiedades químicas que aseguren sensibilidad, durabilidad y resistencia a interferencias para interpretar correctamente el lenguaje humano."
+  },
+  {
+    "intent_id": "procesamiento_lenguaje_natural_contexto_entorno_ecologico",
+    "keywords": [
+      "procesamiento",
+      "lenguaje",
+      "natural",
+      "entorno",
+      "ecologico"
+    ],
+    "base_response": "El procesamiento de lenguaje natural permite analizar textos relacionados con el entorno ecológico para identificar patrones, tendencias y problemas ambientales. Facilita la comprensión de datos complejos sobre ecosistemas, apoyando la toma de decisiones para la conservación y el desarrollo sostenible."
+  },
+  {
+    "intent_id": "aplicaciones_practicas_lenguaje_natural",
+    "keywords": [
+      "chatbot",
+      "analisis",
+      "texto",
+      "clasificacion",
+      "asistente"
+    ],
+    "base_response": "El procesamiento de lenguaje natural permite crear asistentes que comprenden texto y ofrecen respuestas útiles. Facilita clasificar mensajes, detectar intenciones y apoyar tareas cotidianas como resolver dudas, guiar procesos digitales y mejorar la comunicación entre usuarios y sistemas automatizados."
+  },
+  {
+    "intent_id": "algoritmos_predictivos_comportamiento_relacion_simbiotica",
+    "keywords": [
+      "algoritmos",
+      "prediccion",
+      "sistemas",
+      "datos",
+      "interaccion"
+    ],
+    "base_response": "Los algoritmos predictivos de comportamiento trabajan en conjunto con otros sistemas para compartir datos y mejorar resultados. Esta relación simbiótica permite que ambos sistemas aprendan y se adapten, optimizando procesos y anticipando acciones futuras de manera eficiente."
+  },
+  {
+    "intent_id": "historia_origen_evolucion_pnl",
+    "keywords": [
+      "fundamento",
+      "pionero",
+      "modelo",
+      "transformacion",
+      "aprendizaje"
+    ],
+    "base_response": "Desde los primeros sistemas de reconocimiento simbólico en los años sesenta hasta los modelos neuronales tridimensionales actuales, el procesamiento del lenguaje natural ha transitado de reglas lingüísticas prescriptivas a aprendizaje profundo, ampliando la interacción humana con la tecnología."
+  },
+  {
+    "intent_id": "riesgos_seguridad_pln",
+    "keywords": [
+      "sesgo",
+      "privacidad",
+      "control",
+      "dato",
+      "evaluacion"
+    ],
+    "base_response": "El procesamiento de lenguaje natural puede generar riesgos al exponer datos sensibles, amplificar sesgos y permitir usos maliciosos. La seguridad requiere controles estrictos, evaluaciones continuas y protección de privacidad para evitar daños y asegurar un funcionamiento responsable del sistema."
+  },
+  {
+    "intent_id": "consecuencias_largo_plazo_algoritmos_predictivos_comportamiento",
+    "keywords": [
+      "algoritmos",
+      "prediccion",
+      "comportamiento",
+      "impacto",
+      "sociedad"
+    ],
+    "base_response": "Los algoritmos predictivos pueden influir en decisiones sociales y personales a largo plazo, generando efectos acumulativos que afectan la privacidad, la equidad y la autonomía. Su uso indiscriminado puede perpetuar sesgos y limitar oportunidades futuras en distintos ámbitos."
+  },
+  {
+    "intent_id": "calculos_formulas_pln",
+    "keywords": [
+      "vector",
+      "token",
+      "modelo",
+      "calculo",
+      "frecuencia"
+    ],
+    "base_response": "El procesamiento de lenguaje natural emplea vectores para representar tokens y utiliza cálculos basados en frecuencia y probabilidad. Las fórmulas de similitud permiten comparar significados, mientras que los modelos aplican operaciones matemáticas para transformar secuencias y generar predicciones coherentes."
+  },
+  {
+    "intent_id": "procesamiento_lenguaje_natural_dinamica_fisica",
+    "keywords": [
+      "modelo",
+      "token",
+      "vector",
+      "computadora",
+      "procesamiento"
+    ],
+    "base_response": "El procesamiento de lenguaje natural transforma palabras en tokens que la computadora convierte en vectores numericos. Estos vectores circulan por capas internas donde se combinan y ajustan pesos, permitiendo que el modelo interprete significado mediante operaciones matematicas ejecutadas en hardware especializado."
+  },
+  {
+    "intent_id": "ventajas_desventajas_comparativas_pnl",
+    "keywords": [
+      "precision",
+      "eficiencia",
+      "coste",
+      "sesgo",
+      "aprendizaje"
+    ],
+    "base_response": "El procesamiento de lenguaje natural ofrece ventajas como mayor precisión en la interpretación automática de textos y mayor eficiencia al reducir costes humanos, pero también presenta desventajas comparativas, como la dificultad de capturar matices culturales y el riesgo de amplificar sesgos presentes en los datos de entrenamiento."
+  },
+  {
+    "intent_id": "impacto_social_procesamiento_lenguaje_natural",
+    "keywords": [
+      "comunicacion",
+      "acceso",
+      "inclusion",
+      "sesgo",
+      "privacidad"
+    ],
+    "base_response": "El procesamiento de lenguaje natural mejora la comunicación entre personas y máquinas, facilita el acceso a información y apoya la inclusión de quienes tienen dificultades para leer o escribir. También puede amplificar sesgos y afectar la privacidad, por eso requiere uso responsable."
+  },
+  {
+    "intent_id": "clasificacion_taxonomica_procesamiento_lenguaje_natural",
+    "keywords": [
+      "procesamiento",
+      "lenguaje",
+      "natural",
+      "clasificacion",
+      "taxonomia"
+    ],
+    "base_response": "La clasificación taxonómica en procesamiento de lenguaje natural organiza conceptos y datos en categorías jerárquicas. Esto facilita la comprensión y análisis automático del lenguaje, permitiendo que los sistemas identifiquen relaciones y agrupen información según su significado y función."
+  },
+  {
+    "intent_id": "consecuencias_largo_plazo_pln",
+    "keywords": [
+      "automatizacion",
+      "datos",
+      "modelo",
+      "impacto",
+      "etica"
+    ],
+    "base_response": "El procesamiento de lenguaje natural transformará la comunicacion humana mediante sistemas capaces de interpretar contextos complejos. A largo plazo influirá en empleos, privacidad y toma de decisiones, exigiendo regulaciones claras para equilibrar beneficios tecnologicos y riesgos sociales crecientes."
+  },
+  {
+    "intent_id": "mitos_procesamiento_lenguaje_natural",
+    "keywords": [
+      "lenguaje",
+      "error",
+      "modelo",
+      "sesgo",
+      "inteligencia"
+    ],
+    "base_response": "El mito más frecuente es que los modelos de procesamiento de lenguaje natural comprenden el contenido como los humanos; en realidad, solo extrapolan patrones estadísticos, no poseen entendimiento semántico ni emociones. Este error lleva a sobreestimar su capacidad de razonamiento."
+  },
+  {
+    "intent_id": "mantenimiento_prevencion_pln",
+    "keywords": [
+      "cuidado",
+      "prevencion",
+      "modelo",
+      "dato",
+      "revision"
+    ],
+    "base_response": "El mantenimiento en procesamiento de lenguaje natural requiere revisar modelos regularmente, detectar errores tempranos y actualizar datos para evitar degradaciones. La prevención incluye monitorear sesgos, controlar variaciones en el lenguaje y aplicar pruebas constantes que aseguren estabilidad y rendimiento confiable."
+  },
+  {
+    "intent_id": "relacion_simbiotica_procesamiento_lenguaje_natural",
+    "keywords": [
+      "procesamiento",
+      "lenguaje",
+      "sistemas",
+      "integracion",
+      "inteligencia"
+    ],
+    "base_response": "El procesamiento de lenguaje natural se integra con otros sistemas inteligentes para mejorar la comprensión y generación de texto. Esta relación simbiótica permite combinar capacidades, optimizando tareas como traducción, análisis de sentimientos y asistencia virtual con mayor precisión y eficiencia."
+  },
+  {
+    "intent_id": "vision_por_computadora_definicion_anatomica",
+    "keywords": [
+      "vision",
+      "computadora",
+      "sistema",
+      "sensor",
+      "procesamiento"
+    ],
+    "base_response": "La visión por computadora es un sistema estructurado que incluye sensores ópticos, dispositivos de captura de imagen y unidades de procesamiento. Estos componentes trabajan juntos para adquirir, transformar y analizar datos visuales, imitando la percepción visual humana mediante algoritmos especializados."
+  },
+  {
+    "intent_id": "proyecciones_futuras_tecnologia_nlp",
+    "keywords": [
+      "procesamiento",
+      "lenguaje",
+      "avances",
+      "infraestructura",
+      "interfaces",
+      "personalizacion"
+    ],
+    "base_response": "Las próximas décadas transformarían la interacción humano‑máquina, integrando modelos lingüísticos cada vez más eficientes que supervisan el flujo de datos y adaptan la respuesta al contexto social y cultural, lo que exige infraestructuras de entrenamiento masivas y generación de interfaces conversacionales intuitivas."
+  },
+  {
+    "intent_id": "procesamiento_lenguaje_transformacion_energetica",
+    "keywords": [
+      "energia",
+      "ciclo",
+      "modelo",
+      "token",
+      "proceso"
+    ],
+    "base_response": "El procesamiento de lenguaje natural transforma secuencias de tokens mediante ciclos energéticos internos que ajustan pesos en modelos. Cada iteración redistribuye energía computacional para refinar representaciones, permitiendo interpretar significados y generar respuestas coherentes con eficiencia creciente."
+  },
+  {
+    "intent_id": "vision_por_computadora_fisica",
+    "keywords": [
+      "camara",
+      "sensor",
+      "luz",
+      "pixeles",
+      "procesamiento"
+    ],
+    "base_response": "La visión por computadora transforma la luz captada por una cámara en píxeles digitales que un sistema analiza. Los sensores convierten la imagen física en datos, y los algoritmos detectan bordes, formas y movimientos para reconocer objetos y escenas."
+  },
+  {
+    "intent_id": "vision_por_computadora_contexto_entorno_ecologico",
+    "keywords": [
+      "vision",
+      "computadora",
+      "entorno",
+      "ecologico",
+      "datos",
+      "analisis"
+    ],
+    "base_response": "La visión por computadora en el contexto ecológico permite analizar imágenes y videos para monitorear ecosistemas, detectar cambios ambientales y proteger la biodiversidad. Facilita la recolección automática de datos visuales que ayudan a comprender y conservar el entorno natural de forma eficiente."
+  },
+  {
+    "intent_id": "importancia_impacto_social_vision_computadora",
+    "keywords": [
+      "vision",
+      "computadora",
+      "impacto",
+      "privacidad",
+      "seguridad"
+    ],
+    "base_response": "La visión por computadora artificial transforma sectores como salud, seguridad y transporte al automatizar el análisis de imágenes. Permite detectar enfermedades, mejorar la vigilancia y optimizar el tráfico, pero plantea riesgos de sesgos, vigilancia masiva y pérdida de privacidad que requieren regulación responsable."
+  },
+  {
+    "intent_id": "impacto_ambiental_nlp",
+    "keywords": [
+      "energia",
+      "datos",
+      "carga",
+      "refrigeracion",
+      "emisiones"
+    ],
+    "base_response": "Los modelos de procesamiento de lenguaje natural consumen grandes cantidades de energía eléctrica, generando emisiones de carbono. Los centros de datos que los alojan requieren refrigeración constante y hardware intensivo, aumentando la huella ecológica del desarrollo tecnológico y la expansión del aprendizaje automático."
+  },
+  {
+    "intent_id": "clasificacion_taxonomica_vision_computadora",
+    "keywords": [
+      "imagen",
+      "pixel",
+      "categoria",
+      "modelo",
+      "deteccion"
+    ],
+    "base_response": "La clasificación taxonómica en visión por computadora organiza imágenes según niveles jerárquicos que agrupan características visuales compartidas. Este proceso permite identificar categorías precisas mediante modelos entrenados para reconocer patrones, facilitando análisis estructurados y comparaciones entre distintos tipos de objetos."
+  },
+  {
+    "intent_id": "propiedades_quimicas_materiales_vision_computadora",
+    "keywords": [
+      "materiales",
+      "superficie",
+      "analisis",
+      "composicion",
+      "deteccion"
+    ],
+    "base_response": "La visión por computadora utiliza sensores y algoritmos para analizar propiedades químicas y materiales, detectando características como textura, brillo y composición superficial. Esto permite identificar materiales y evaluar su estado sin contacto físico, facilitando procesos industriales y científicos."
+  },
+  {
+    "intent_id": "mitos_concepciones_erroneas_vision_computadora",
+    "keywords": [
+      "vision",
+      "computadora",
+      "mitos",
+      "errores",
+      "tecnologia"
+    ],
+    "base_response": "La visión por computadora no es infalible ni tiene percepción humana. No entiende imágenes como las personas, sino que procesa datos visuales mediante algoritmos. No es magia ni conciencia, sino tecnología basada en patrones y entrenamiento con datos, susceptible a errores y sesgos."
+  },
+  {
+    "intent_id": "vision_simbiotica_sistemas",
+    "keywords": [
+      "sensor",
+      "robot",
+      "fusion",
+      "procesamiento",
+      "clasificacion"
+    ],
+    "base_response": "La visión por computadora se integra con robots y sensores para intercambiar datos en tiempo real, fortaleciendo decisiones automatizadas. Esta relacion simbiótica permite fusionar información, mejorar la clasificación de objetos y optimizar tareas complejas mediante retroalimentacion continua entre sistemas interconectados."
+  },
+  {
+    "intent_id": "historia_origen_evolucion_vision_computadora",
+    "keywords": [
+      "camara",
+      "imagen",
+      "procesamiento",
+      "algoritmo",
+      "deteccion"
+    ],
+    "base_response": "La visión por computadora surgió con experimentos iniciales de procesamiento de imagen en los años sesenta y evolucionó gracias a algoritmos capaces de interpretar escenas. Su desarrollo se acelero con redes neuronales profundas, permitiendo sistemas que reconocen objetos y patrones con alta precision."
+  },
+  {
+    "intent_id": "vision_computadora_transformacion_ciclos_energeticos",
+    "keywords": [
+      "transformacion",
+      "energia",
+      "imagen",
+      "deteccion"
+    ],
+    "base_response": "La visión por computadora transforma imágenes en representaciones útiles, optimizando ciclos energéticos mediante algoritmos eficientes; cada operación de detección reduce consumo, y el uso de hardware neuromórfico aumenta la tasa de transformación por segundo, equilibrando potencia y precisión en tiempo real."
+  },
+  {
+    "intent_id": "experimentos_demostraciones_vision_por_computadora",
+    "keywords": [
+      "vision",
+      "computadora",
+      "experimentos",
+      "demostraciones",
+      "imagenes"
+    ],
+    "base_response": "Los experimentos escolares en visión por computadora permiten a los estudiantes comprender cómo las máquinas procesan y analizan imágenes. Se pueden realizar demostraciones simples con cámaras y software para detectar objetos, reconocer patrones y entender algoritmos básicos de inteligencia artificial visual."
+  },
+  {
+    "intent_id": "impacto_ambiental_vision_por_computadora",
+    "keywords": [
+      "energia",
+      "residuos",
+      "emisiones",
+      "clasificacion",
+      "eficiencia"
+    ],
+    "base_response": "La visión por computadora consume energía significativa en centros de datos, generando emisiones contaminantes. Sin embargo, mejora la clasificación de residuos y optimiza procesos industriales, lo que puede reducir el desperdicio y minimizar el impacto ambiental si se usa responsablemente."
+  },
+  {
+    "intent_id": "aplicaciones_practicas_vision_computadora",
+    "keywords": [
+      "vision",
+      "imagen",
+      "deteccion",
+      "reconocimiento",
+      "automatizacion"
+    ],
+    "base_response": "La visión por computadora se usa para reconocer rostros, leer matrículas, detectar objetos y revisar productos en fábricas. También ayuda en medicina al analizar radiografías y en vehículos autónomos al interpretar el entorno, mejorando rapidez, precisión y seguridad en tareas cotidianas."
+  },
+  {
+    "intent_id": "mantenimiento_prevencion_vision_por_computadora",
+    "keywords": [
+      "cuidado",
+      "soporte",
+      "calibracion",
+      "limpieza",
+      "seguridad"
+    ],
+    "base_response": "El mantenimiento en visión por computadora requiere limpieza frecuente de lentes, calibración precisa de cámaras, actualizaciones de software y verificación de datos. Estas acciones previenen fallos, reducen sesgos en la detección, evitan sobrecalentamiento de equipos y fortalecen la seguridad ante ataques o manipulaciones."
+  },
+  {
+    "intent_id": "proyecciones_futuras_vision_computadora",
+    "keywords": [
+      "vision",
+      "computadora",
+      "inteligencia",
+      "tecnologia"
+    ],
+    "base_response": "La visión por computadora avanzara integrandose con robótica y realidad aumentada, mejorando la capacidad de las máquinas para interpretar el entorno. Se espera que esta tecnología transforme sectores como la medicina, la industria y la seguridad, aumentando eficiencia y precision."
+  },
+  {
+    "intent_id": "definicion_anatomica_reconocimiento_facial",
+    "keywords": [
+      "rostro",
+      "imagen",
+      "caracteristicas",
+      "estructura",
+      "comparacion"
+    ],
+    "base_response": "El reconocimiento facial analiza la estructura del rostro mediante la identificación de características anatómicas como ojos, nariz y boca. Estas se extraen de imágenes digitales para compararlas y verificar la identidad de una persona con precisión y rapidez."
+  },
+  {
+    "intent_id": "reconocimiento_facial_imagenes_dinamica_funcionamiento_fisico",
+    "keywords": [
+      "camara",
+      "sensor",
+      "pixeles",
+      "iluminacion",
+      "procesamiento"
+    ],
+    "base_response": "La cámara capta la imagen y el sensor la convierte en señales eléctricas que representan píxeles. Luego, el sistema ajusta brillo, contraste y posición del rostro para extraer rasgos físicos como ojos, nariz y contorno, comparándolos con modelos almacenados."
+  },
+  {
+    "intent_id": "propiedades_quimicas_materiales_reconocimiento_facial",
+    "keywords": [
+      "materiales",
+      "sensores",
+      "imagenes",
+      "fotones",
+      "superficies"
+    ],
+    "base_response": "El reconocimiento facial utiliza materiales sensibles a la luz, como sensores de imagen que capturan fotones reflejados en superficies faciales. Las propiedades químicas de estos materiales afectan la precisión y calidad de las imágenes, influyendo en la detección y análisis de rasgos faciales."
+  },
+  {
+    "intent_id": "errores_fallas_patologias_reconocimiento_facial",
+    "keywords": [
+      "errores",
+      "fallas",
+      "sesgos",
+      "imagenes",
+      "algoritmos"
+    ],
+    "base_response": "El reconocimiento facial puede fallar por mala calidad de imagen, ángulos inadecuados o iluminación deficiente. Los algoritmos presentan sesgos que afectan la precisión, especialmente en rostros con características poco representadas en los datos de entrenamiento."
+  },
+  {
+    "intent_id": "riesgos_medidas_seguridad_vision_computadora",
+    "keywords": [
+      "vision",
+      "computadora",
+      "riesgos",
+      "seguridad",
+      "datos"
+    ],
+    "base_response": "La visión por computadora puede presentar riesgos como la vulnerabilidad a ataques cibernéticos y el mal uso de datos personales. Es fundamental implementar medidas de seguridad como el cifrado, control de acceso y auditorías constantes para proteger la privacidad y la integridad del sistema."
+  },
+  {
+    "intent_id": "aplicaciones_practicas_reconocimiento_facial",
+    "keywords": [
+      "seguridad",
+      "imagen",
+      "identidad",
+      "acceso",
+      "verificacion"
+    ],
+    "base_response": "El reconocimiento facial permite identificar personas en tiempo real mediante análisis de rasgos visuales. Su uso facilita accesos seguros, organiza fotografias en dispositivos y agiliza procesos de verificacion en aeropuertos, comercios y servicios digitales, mejorando eficiencia y reduciendo errores humanos."
+  },
+  {
+    "intent_id": "historia_origen_evolucion_reconocimiento_facial",
+    "keywords": [
+      "rostro",
+      "biometria",
+      "algoritmo",
+      "vision",
+      "evolucion"
+    ],
+    "base_response": "El reconocimiento facial surgió a partir de la biometría y la visión por computadora, primero con métodos manuales y luego con algoritmos capaces de detectar rasgos del rostro. Su evolución aceleró con bases de datos grandes, redes neuronales y cámaras digitales más precisas."
+  },
+  {
+    "intent_id": "importancia_impacto_social_reconocimiento_facial",
+    "keywords": [
+      "identificacion",
+      "privacidad",
+      "seguridad",
+      "vigilancia",
+      "discriminacion"
+    ],
+    "base_response": "El reconocimiento facial tiene un impacto social significativo al facilitar la identificación rápida y mejorar la seguridad, pero también plantea riesgos importantes para la privacidad y puede generar discriminación y vigilancia masiva sin control adecuado."
+  },
+  {
+    "intent_id": "calculos_formulas_vision_computadora",
+    "keywords": [
+      "pixel",
+      "matriz",
+      "filtro",
+      "gradiente",
+      "deteccion"
+    ],
+    "base_response": "La visión por computadora aplica convoluciones para transformar matrices de píxeles mediante filtros que resaltan bordes. El cálculo del gradiente evalúa cambios de intensidad y permite detectar formas. Estas operaciones combinadas generan representaciones numéricas útiles para interpretar imágenes con precisión."
+  },
+  {
+    "intent_id": "calculos_formulas_reconocimiento_facial",
+    "keywords": [
+      "calculo",
+      "vector",
+      "distancia",
+      "rostro",
+      "algoritmo"
+    ],
+    "base_response": "El reconocimiento facial utiliza vectores matemáticos para medir distancias entre puntos clave. La fórmula euclidiana calcula similitud comparando coordenadas. Los algoritmos aplican normalización y ponderación para reducir errores. Estos cálculos permiten identificar rostros con precisión en diversas condiciones."
+  },
+  {
+    "intent_id": "mitos_concepciones_erroneas_reconocimiento_facial",
+    "keywords": [
+      "reconocimiento",
+      "facial",
+      "mitos",
+      "tecnologia",
+      "sesgos"
+    ],
+    "base_response": "El reconocimiento facial no es infalible ni siempre preciso. No todos los sistemas funcionan igual, y pueden presentar sesgos raciales o de genero. Tampoco es un sistema de vigilancia omnipresente ni reemplaza la necesidad de consentimiento y regulaciones claras."
+  },
+  {
+    "intent_id": "reconocimiento_facial_ecologico",
+    "keywords": [
+      "clima",
+      "habitat",
+      "humedad",
+      "flora",
+      "fauna"
+    ],
+    "base_response": "El reconocimiento facial en imágenes vincula ciencia y ecología, mostrando cómo algoritmos detectan rasgos humanos sin afectar el medio natural. Al analizar fotos de animales o paisajes, se pueden mapear cambios climáticos y conservar la biodiversidad, integrando tecnología y responsabilidad ambiental."
+  },
+  {
+    "intent_id": "ventajas_desventajas_reconocimiento_facial",
+    "keywords": [
+      "imagen",
+      "modelo",
+      "precision",
+      "riesgo",
+      "privacidad"
+    ],
+    "base_response": "El reconocimiento facial agiliza identificaciones y mejora la seguridad mediante modelos precisos. Sin embargo, puede generar riesgos por errores en condiciones variables y afectar la privacidad al almacenar rostros sin consentimiento, creando tensiones entre eficiencia tecnológica y proteccion individual."
+  },
+  {
+    "intent_id": "experimentos_demostraciones_reconocimiento_facial_imagenes",
+    "keywords": [
+      "reconocimiento",
+      "facial",
+      "imagenes",
+      "experimentos",
+      "demostraciones"
+    ],
+    "base_response": "Para realizar experimentos escolares de reconocimiento facial se pueden usar imágenes para comparar rasgos y verificar coincidencias. Se recomienda utilizar software sencillo que permita observar cómo se identifican patrones faciales y entender el proceso de análisis y comparación de datos visuales."
+  },
+  {
+    "intent_id": "reconocimiento_facial_relacion_simbiotica",
+    "keywords": [
+      "deteccion",
+      "automatizacion",
+      "tecnologia",
+      "seguridad",
+      "interoperabilidad"
+    ],
+    "base_response": "El reconocimiento facial se integra con sistemas de autenticación, redes de sensores y análisis de comportamiento, creando flujos de datos que optimizan la seguridad, la experiencia de usuario y la toma de decisiones automatizada, y mejora la eficiencia operativa en entornos conectados."
+  },
+  {
+    "intent_id": "riesgos_medidas_seguridad_reconocimiento_facial",
+    "keywords": [
+      "privacidad",
+      "sesgo",
+      "proteccion",
+      "verificacion",
+      "control"
+    ],
+    "base_response": "El reconocimiento facial puede exponer datos sensibles y generar sesgos que afecten a ciertos grupos. Las medidas de seguridad incluyen limitar el acceso, verificar identidades con varios pasos, proteger bases de datos y supervisar algoritmos para reducir errores y usos indebidos."
+  },
+  {
+    "intent_id": "mantenimiento_prevencion_reconocimiento_facial",
+    "keywords": [
+      "sensor",
+      "imagen",
+      "calibracion",
+      "seguridad",
+      "actualizacion"
+    ],
+    "base_response": "El mantenimiento del reconocimiento facial exige revisar sensores, limpiar lentes y calibrar algoritmos para evitar errores. La prevención incluye actualizar software, reforzar seguridad y monitorear variaciones ambientales que afecten la calidad de las imágenes procesadas por el sistema."
+  },
+  {
+    "intent_id": "impacto_ambiental_reconocimiento_facial_imagenes",
+    "keywords": [
+      "energia",
+      "servidores",
+      "datos",
+      "procesamiento",
+      "emisiones"
+    ],
+    "base_response": "El reconocimiento facial requiere grandes centros de datos y servidores que consumen mucha energía. Este consumo genera emisiones de carbono que afectan el medio ambiente. Optimizar algoritmos y usar energías renovables puede reducir este impacto ambiental negativo."
+  },
+  {
+    "intent_id": "sintesis_voz_estructura",
+    "keywords": [
+      "sistema",
+      "modulo",
+      "proceso",
+      "audio",
+      "modelo"
+    ],
+    "base_response": "La síntesis de voz generada se organiza en módulos que transforman texto en señales acústicas. Un sistema típico integra un modelo lingüístico, un generador espectral y un vocoder que produce ondas sonoras. Cada componente cumple funciones específicas para crear voces claras y coherentes."
+  },
+  {
+    "intent_id": "dinamica_funcionamiento_fisico_sintesis_voz",
+    "keywords": [
+      "voz",
+      "sintesis",
+      "vibracion",
+      "frecuencia",
+      "amplitud"
+    ],
+    "base_response": "La síntesis de voz generada transforma texto en sonido mediante modelos digitales que imitan vibraciones de cuerdas vocales y resonancia en cavidades. El sistema ajusta frecuencia, amplitud y timbre para producir ondas acústicas coherentes que el altavoz convierte en presión sonora audible."
+  },
+  {
+    "intent_id": "errores_fallas_patologias_sintesis_voz",
+    "keywords": [
+      "sintesis",
+      "voz",
+      "errores",
+      "fallas",
+      "patologias"
+    ],
+    "base_response": "La síntesis de voz generada puede presentar errores como pronunciación incorrecta, entonación artificial, pausas inadecuadas y distorsiones. Estas fallas afectan la naturalidad y comprensión, siendo comunes en sistemas con datos limitados o modelos mal entrenados."
+  },
+  {
+    "intent_id": "historia_origen_evolucion_sintesis_voz",
+    "keywords": [
+      "sintesis",
+      "voz",
+      "computadora",
+      "algoritmo",
+      "audio"
+    ],
+    "base_response": "La síntesis de voz surgió en laboratorios de telecomunicaciones del siglo XX, usando circuitos electrónicos para imitar el habla humana. Con la llegada de las computadoras digitales y los algoritmos estadísticos, evolucionó hacia sistemas más naturales, integrando modelos neuronales y grandes bases de datos acústicos."
+  },
+  {
+    "intent_id": "clasificacion_taxonomica_reconocimiento_facial",
+    "keywords": [
+      "rostro",
+      "categoria",
+      "imagen",
+      "modelo",
+      "clasificacion"
+    ],
+    "base_response": "La clasificación taxonómica en reconocimiento facial organiza rostros según categorías definidas por rasgos medibles. Los modelos analizan estructuras faciales para asignar cada imagen a grupos específicos, facilitando comparaciones sistemáticas y mejorando la precisión en tareas de identificación automatizada."
+  },
+  {
+    "intent_id": "aplicaciones_practicas_voz_generada",
+    "keywords": [
+      "asistentes",
+      "accesibilidad",
+      "narracion",
+      "educacion",
+      "entretenimiento"
+    ],
+    "base_response": "La síntesis de voz generada se usa en asistentes virtuales, lectores de pantalla y sistemas de navegación para ayudar a personas con discapacidad visual o dificultades de lectura. También crea narraciones para videos, audiolibros y videojuegos, facilitando el acceso rápido a información y contenidos digitales."
+  },
+  {
+    "intent_id": "aprendizaje_automatico_materiales",
+    "keywords": [
+      "material",
+      "sensor",
+      "dato",
+      "modelo",
+      "medicion"
+    ],
+    "base_response": "El aprendizaje automático analiza cómo distintos materiales reaccionan químicamente ante estímulos registrados por sensores. Los modelos procesan datos de conductividad, corrosión y estabilidad para predecir comportamientos y optimizar componentes usados en dispositivos inteligentes que requieren resistencia y eficiencia en diversas condiciones."
+  },
+  {
+    "intent_id": "aplicaciones_practicas_aprendizaje_automatico",
+    "keywords": [
+      "robot",
+      "dato",
+      "modelo",
+      "clasificacion",
+      "prediccion"
+    ],
+    "base_response": "El aprendizaje automático permite que sistemas digitales analicen datos reales para tomar decisiones útiles en situaciones cotidianas. Estos modelos identifican patrones y predicen resultados, facilitando tareas como recomendar música, detectar fraudes, optimizar rutas y mejorar diagnósticos médicos con rapidez."
+  },
+  {
+    "intent_id": "riesgos_medidas_seguridad_aprendizaje_automatico",
+    "keywords": [
+      "riesgo",
+      "seguridad",
+      "datos",
+      "sesgo",
+      "privacidad"
+    ],
+    "base_response": "El aprendizaje automático puede fallar si usa datos incompletos, sesgados o manipulados. Para reducir riesgos, revisa la calidad de los datos, protege la privacidad, limita accesos, prueba el sistema con casos diversos y supervisa sus decisiones con personas responsables."
+  },
+  {
+    "intent_id": "importancia_impacto_social",
+    "keywords": [
+      "aprendizaje",
+      "datos",
+      "patron",
+      "decisiones",
+      "sociedad"
+    ],
+    "base_response": "El aprendizaje automático transforma servicios de salud, transporte y educación al detectar patrones en grandes datos y apoyar decisiones más rápidas. También puede mejorar la seguridad y la eficiencia, pero exige supervisión humana para evitar errores, sesgos y efectos injustos en la sociedad."
+  },
+  {
+    "intent_id": "errores_fallas_patologias_ml",
+    "keywords": [
+      "error",
+      "falla",
+      "patologia",
+      "modelo",
+      "datos"
+    ],
+    "base_response": "Los errores más frecuentes incluyen sobreajuste, subajuste, sesgo de datos, contaminación de datos, falta de generalización y mala elección de hiperparámetros, que provocan que el modelo sea poco fiable y su desempeño varíe drásticamente en el mundo real."
+  },
+  {
+    "intent_id": "calculos_y_formulas_aprendizaje_automatico",
+    "keywords": [
+      "calculo",
+      "modelo",
+      "funcion",
+      "dato",
+      "entrenamiento"
+    ],
+    "base_response": "El aprendizaje automático utiliza cálculos para ajustar parámetros mediante funciones de costo que miden errores. Los modelos aplican derivadas y gradientes para actualizar pesos, optimizando predicciones con datos. Estos procesos permiten mejorar el rendimiento matemático del sistema durante el entrenamiento."
+  },
+  {
+    "intent_id": "consecuencias_largo_plazo_aprendizaje_maquinas",
+    "keywords": [
+      "impacto",
+      "dato",
+      "modelo",
+      "decision",
+      "sistema"
+    ],
+    "base_response": "El aprendizaje automático influirá en cómo las sociedades organizan decisiones críticas, ya que los sistemas podrán operar de manera autónoma durante largos periodos. La acumulación de datos y modelos complejos transformará empleos, estructuras económicas y procesos educativos con efectos que persistirán por generaciones."
+  },
+  {
+    "intent_id": "experimentos_demostraciones_escolares_aprendizaje_automatico_maquinas",
+    "keywords": [
+      "experimentos",
+      "demostraciones",
+      "datos",
+      "modelo",
+      "computadora"
+    ],
+    "base_response": "Los experimentos escolares en aprendizaje automático permiten que los estudiantes comprendan cómo las computadoras analizan datos para crear modelos que predicen resultados. Estas demostraciones prácticas facilitan la comprensión de conceptos complejos mediante la observación directa del proceso de aprendizaje de las máquinas."
+  },
+  {
+    "intent_id": "definicion_estructural_aprendizaje_automatico",
+    "keywords": [
+      "modelo",
+      "datos",
+      "algoritmo",
+      "entrenamiento",
+      "prediccion"
+    ],
+    "base_response": "El aprendizaje automático es una rama de la inteligencia artificial en la que un modelo recibe datos, detecta patrones y ajusta sus parámetros durante el entrenamiento. Así aprende a predecir o clasificar información nueva sin seguir reglas escritas una por una."
+  },
+  {
+    "intent_id": "historia_origen_evolucion_redes_profundas",
+    "keywords": [
+      "red",
+      "capa",
+      "modelo",
+      "entrenamiento",
+      "computacion"
+    ],
+    "base_response": "Las redes neuronales profundas surgieron tras décadas de investigación que buscaban imitar procesos cerebrales. Su origen se relaciona con modelos iniciales de neuronas artificiales y evolucionó gracias a mejoras en algoritmos, datos y potencia de cómputo que permitieron arquitecturas más complejas."
+  },
+  {
+    "intent_id": "mitos_conceptos_ml",
+    "keywords": [
+      "mito",
+      "concepto",
+      "realidad",
+      "aprendizaje",
+      "comportamiento"
+    ],
+    "base_response": "El aprendizaje automático se percibe a menudo como una tecnología autónoma que sustituye la inteligencia humana, cuando en realidad requiere datos, programación y supervisión humana continua para evitar sesgos y garantizar resultados fiables típicamente rápidos."
+  },
+  {
+    "intent_id": "clasificacion_taxonomica_redes_neuronales_artificiales_profundas",
+    "keywords": [
+      "red",
+      "neurona",
+      "capa",
+      "modelo",
+      "datos"
+    ],
+    "base_response": "Las redes neuronales artificiales profundas se clasifican según su arquitectura, número de capas y tipo de conexiones. Incluyen redes feedforward, convolucionales y recurrentes, cada una diseñada para procesar datos específicos y resolver problemas distintos en inteligencia artificial."
+  },
+  {
+    "intent_id": "calculos_y_formulas_asociadas_redes_neuronales_artificiales_profundas",
+    "keywords": [
+      "funcion",
+      "capa",
+      "peso",
+      "error",
+      "gradiente"
+    ],
+    "base_response": "Las redes neuronales profundas calculan salidas mediante funciones de activacion que transforman sumas ponderadas de entradas. El aprendizaje ajusta pesos minimizando el error usando el gradiente descendente y la retropropagación para optimizar el modelo iterativamente."
+  },
+  {
+    "intent_id": "redes_neuronales_impacto_social",
+    "keywords": [
+      "sociedad",
+      "economia",
+      "salud",
+      "empleo",
+      "etica",
+      "seguridad"
+    ],
+    "base_response": "Las redes neuronales profundas redefinen la sociedad al automatizar diagnósticos médicos, mejorar la eficiencia energética y optimizar la cadena logística, lo que conduce a una mayor accesibilidad, mayor productividad y nuevas oportunidades laborales, pero también plantea desafíos éticos y de privacidad."
+  },
+  {
+    "intent_id": "neuronas_redes_consecuencias_largo_plazo",
+    "keywords": [
+      "neuronas",
+      "costo",
+      "desempleo",
+      "innovacion",
+      "economia"
+    ],
+    "base_response": "Las redes neuronales profundas pueden automatizar profesiones, reduciendo empleos y alterando mercados laborales. Su consumo energético incrementa la huella ambiental, mientras modelos sesgados perpetúan desigualdad social. Paralelamente impulsan avances científicos, pero también aumentan vulnerabilidad ante ciberataques, exigiendo regulaciones futuras."
+  },
+  {
+    "intent_id": "dinamica_funcionamiento_fisico_redes_neuronales_artificiales_profundas",
+    "keywords": [
+      "neurona",
+      "capa",
+      "conexion",
+      "senal",
+      "peso",
+      "activacion"
+    ],
+    "base_response": "Las redes neuronales artificiales profundas funcionan mediante capas de neuronas conectadas. Cada conexión tiene un peso que modula la señal transmitida. La activación de neuronas depende de la suma ponderada de entradas, generando una dinámica que permite el procesamiento y aprendizaje de datos complejos."
+  },
+  {
+    "intent_id": "mantenimiento_prevencion_redes_profundas",
+    "keywords": [
+      "mantenimiento",
+      "prevencion",
+      "entrenamiento",
+      "dato",
+      "verificacion"
+    ],
+    "base_response": "El mantenimiento en redes neuronales profundas requiere revisar datos de entrenamiento, verificar integridad de parámetros y prevenir fallos mediante pruebas periódicas. La prevención incluye monitorear el rendimiento, detectar anomalías tempranas y ajustar procesos para evitar degradación en modelos complejos."
+  },
+  {
+    "intent_id": "redes_neuronales_profundas_estructura",
+    "keywords": [
+      "neurona",
+      "capa",
+      "conexion",
+      "entrada",
+      "salida"
+    ],
+    "base_response": "Una red neuronal profunda está formada por capas de neuronas artificiales conectadas entre sí. La capa de entrada recibe datos, las capas ocultas los transforman y la capa de salida produce el resultado. Cada conexión ajusta su peso para mejorar el procesamiento."
+  },
+  {
+    "intent_id": "automatizacion_tareas_cognitivas_definicion_anatomica_estructural",
+    "keywords": [
+      "automatizacion",
+      "tareas",
+      "cognicion",
+      "procesos",
+      "sistemas"
+    ],
+    "base_response": "La automatización de tareas cognitivas se refiere a la estructuración de procesos y sistemas que permiten a máquinas o programas ejecutar funciones mentales repetitivas o complejas sin intervención humana directa, replicando patrones de pensamiento y análisis de datos."
+  },
+  {
+    "intent_id": "automatizacion_tareas_cognitivas_fisico",
+    "keywords": [
+      "robotica",
+      "sensores",
+      "automatizacion",
+      "programacion",
+      "control"
+    ],
+    "base_response": "El motor de una máquina de IA gestiona tareas cognitivas integrando sensores y actuadores, ejecutando algoritmos que transforman datos en acciones físicas de forma secuencial y simultánea, aprovechando retroalimentación para ajustes finos y aprendizaje autónomo."
+  },
+  {
+    "intent_id": "automatizacion_tareas_cognitivas",
+    "keywords": [
+      "asistente",
+      "clasificar",
+      "resumir",
+      "traducir",
+      "planificar"
+    ],
+    "base_response": "La automatización de tareas cognitivas se usa en asistentes virtuales, filtros de correo, traducción automática y sistemas que resumen textos. También ayuda a clasificar información, organizar agendas y detectar patrones en datos, liberando tiempo para actividades que requieren juicio humano."
+  },
+  {
+    "intent_id": "mitos_redes_neuronales",
+    "keywords": [
+      "red",
+      "neuron",
+      "aprendizaje",
+      "prediccion",
+      "automatizacion"
+    ],
+    "base_response": "Contrario a la creencia popular, las redes neuronales profundas no aprenden de forma autónoma ni poseen intención; simplemente ajustan pesos mediante retropropagación controlada por entrenadores humanos. El mito de su inteligencia propia surge de la confusión entre estadísticas y razonamiento real."
+  },
+  {
+    "intent_id": "relacion_simbiotica_redes_neuronales_sistemas",
+    "keywords": [
+      "redes",
+      "neuronas",
+      "sistemas",
+      "interaccion",
+      "datos"
+    ],
+    "base_response": "Las redes neuronales artificiales profundas interactúan simbióticamente con otros sistemas al procesar grandes volúmenes de datos y mejorar su rendimiento. Esta colaboración permite optimizar funciones complejas, integrando información y adaptándose dinámicamente para potenciar capacidades tecnológicas y científicas."
+  },
+  {
+    "intent_id": "experimentos_demostraciones_redes_profundas",
+    "keywords": [
+      "entrenamiento",
+      "red",
+      "capa",
+      "modelo",
+      "clasificacion"
+    ],
+    "base_response": "Los estudiantes pueden entrenar una red profunda sencilla usando datos escolares y observar cómo cada capa transforma la información. La demostración incluye ajustar parámetros, visualizar activaciones y comparar resultados de clasificación para comprender mejor el funcionamiento interno del modelo."
+  },
+  {
+    "intent_id": "mitos_automatizacion_cognitiva",
+    "keywords": [
+      "tarea",
+      "proceso",
+      "dato",
+      "modelo",
+      "sistema"
+    ],
+    "base_response": "La automatización cognitiva suele confundirse con máquinas capaces de pensar como humanos, pero en realidad solo ejecuta procesos definidos. Muchos creen que reemplaza el razonamiento, aunque depende estrictamente de datos y modelos entrenados sin comprender significados profundos."
+  },
+  {
+    "intent_id": "clasificacion_taxonomia_automatizacion_tareas_cognitivas",
+    "keywords": [
+      "automatizacion",
+      "categoria",
+      "nivel",
+      "complejidad",
+      "cognicion"
+    ],
+    "base_response": "El esquema taxonómico distingue tareas cognitivas automatizables por su nivel de complejidad operativa, subrutina estructural y necesidad de juicio, clasificándolas en dominios: percepción, razonamiento, resolución y creatividad, permitiendo diseñar algoritmos que simuladas adaptan con granularidad controlable."
+  },
+  {
+    "intent_id": "consecuencias_largo_plazo_automatizacion_tareas_cognitivas",
+    "keywords": [
+      "automatizacion",
+      "tareas",
+      "cognicion",
+      "impacto",
+      "habilidades"
+    ],
+    "base_response": "La automatización de tareas cognitivas puede reducir el desarrollo de habilidades mentales complejas y afectar la resiliencia cerebral. A largo plazo, esto podría generar dependencia tecnológica y cambios en la forma en que las personas aprenden y resuelven problemas, modificando la estructura del trabajo y la educación."
+  },
+  {
+    "intent_id": "automatizacion_tareas_cognitivas_propiedades_quimicas_materiales",
+    "keywords": [
+      "automatizacion",
+      "tareas",
+      "quimica",
+      "materiales",
+      "inteligencia"
+    ],
+    "base_response": "La automatización de tareas cognitivas en química y materiales utiliza sensores y materiales inteligentes que responden a estímulos químicos para optimizar procesos. Estos materiales permiten que sistemas automáticos realicen análisis y ajustes precisos sin intervención humana directa."
+  },
+  {
+    "intent_id": "experimentos_demostraciones_automatizacion_cognitiva",
+    "keywords": [
+      "automatizacion",
+      "demostracion",
+      "neurociencia",
+      "aprendizaje",
+      "interaccion"
+    ],
+    "base_response": "En el aula se pueden montar experimentos que muestran cómo un algoritmo clasifica textos automáticamente, reduciendo la carga cognitiva de los estudiantes. Al observar la diferencia entre análisis manual y automatizado, se fomenta la comprensión de los procesos internos del aprendizaje automático, reforzando la curiosidad, la intención y la autonomía."
+  },
+  {
+    "intent_id": "automatizacion_tareas_cognitivas_impacto_ambiental",
+    "keywords": [
+      "automatizacion",
+      "energia",
+      "datos",
+      "procesos",
+      "eficiencia"
+    ],
+    "base_response": "La automatización de tareas cognitivas puede reducir el consumo energético al optimizar procesos y minimizar errores. Sin embargo, el aumento en el uso de datos y sistemas requiere energía para su funcionamiento, lo que genera un impacto ambiental que debe gestionarse con tecnologías limpias y eficientes."
+  },
+  {
+    "intent_id": "errores_fallas_patologias_automatizacion_tareas_cognitivas",
+    "keywords": [
+      "automatizacion",
+      "errores",
+      "fallas",
+      "tareas",
+      "cognicion",
+      "sistemas"
+    ],
+    "base_response": "La automatización de tareas cognitivas puede presentar errores como fallas en el reconocimiento de patrones, sesgos en los datos, y errores de interpretación. Estas fallas afectan la precisión y confiabilidad del sistema, generando resultados incorrectos o decisiones inadecuadas en procesos automatizados."
+  },
+  {
+    "intent_id": "automatizacion_tareas_cognitivas_importancia_impacto_social",
+    "keywords": [
+      "automatizacion",
+      "tareas",
+      "impacto",
+      "sociedad",
+      "trabajo"
+    ],
+    "base_response": "La automatización de tareas cognitivas transforma la sociedad al liberar a las personas de labores repetitivas, permitiendo mayor creatividad y eficiencia. Esto genera cambios en el empleo, la educación y la interacción social, exigiendo adaptación y nuevas habilidades para enfrentar el futuro laboral."
+  },
+  {
+    "intent_id": "ventajas_desventajas_automatizacion_cognitiva",
+    "keywords": [
+      "automatizacion",
+      "tarea",
+      "proceso",
+      "decision",
+      "evaluacion"
+    ],
+    "base_response": "La automatización de tareas cognitivas agiliza procesos complejos y reduce errores humanos, pero también puede limitar la creatividad y generar dependencia tecnológica. Su uso exige evaluar cuidadosamente beneficios y riesgos para equilibrar eficiencia, control y desarrollo de habilidades en entornos educativos y laborales."
+  },
+  {
+    "intent_id": "riesgos_medidas_seguridad",
+    "keywords": [
+      "riesgo",
+      "dato",
+      "control",
+      "proceso",
+      "evaluacion"
+    ],
+    "base_response": "La automatización de tareas cognitivas puede exponer datos sensibles si los sistemas fallan o son manipulados. La supervisión humana constante y la evaluación periódica reducen vulnerabilidades. Implementar controles claros y limitar accesos evita daños y mantiene la seguridad operativa en entornos educativos y tecnológicos."
+  },
+  {
+    "intent_id": "automatizacion_tareas_cognitivas_calculos",
+    "keywords": [
+      "calculo",
+      "formula",
+      "proceso",
+      "dato",
+      "operacion"
+    ],
+    "base_response": "La automatización de tareas cognitivas utiliza cálculos precisos para transformar datos en resultados útiles mediante fórmulas estructuradas. Estos procesos permiten resolver operaciones complejas rápidamente, optimizar decisiones y reducir errores humanos al aplicar reglas matemáticas definidas en sistemas inteligentes."
+  },
+  {
+    "intent_id": "conjuntos_entrenamiento_experimentos_escolares",
+    "keywords": [
+      "dato",
+      "modelo",
+      "recoleccion",
+      "clasificacion",
+      "entrenamiento"
+    ],
+    "base_response": "Los estudiantes pueden crear pequeños conjuntos de datos recolectando imágenes, sonidos o textos y luego entrenar modelos simples para clasificar elementos. Estas actividades permiten observar cómo cambia el rendimiento según la calidad de los datos y comprender mejor el proceso de aprendizaje automático."
+  },
+  {
+    "intent_id": "conjuntos_datos_entrenamiento_dinamica_funcionamiento_fisico",
+    "keywords": [
+      "datos",
+      "entrenamiento",
+      "modelo",
+      "sensor",
+      "procesamiento"
+    ],
+    "base_response": "Los conjuntos de datos de entrenamiento se obtienen mediante sensores físicos que capturan información del entorno. Estos datos reflejan dinámicas reales y permiten que los modelos aprendan patrones físicos y comportamientos para funcionar correctamente en situaciones reales."
+  },
+  {
+    "intent_id": "impacto_ambiental_datos_entrenamiento",
+    "keywords": [
+      "recoleccion",
+      "energia",
+      "procesamiento",
+      "almacenamiento",
+      "entrenamiento"
+    ],
+    "base_response": "La creación de conjuntos de datos de entrenamiento exige recolección masiva de información que consume energía y recursos. El procesamiento continuo genera emisiones y requiere infraestructura que impacta ecosistemas. Reducir duplicaciones y optimizar almacenamiento disminuye la huella ambiental asociada al desarrollo de modelos de inteligencia artificial."
+  },
+  {
+    "intent_id": "conjuntos_datos_consecuencias_largo_plazo",
+    "keywords": [
+      "conjunto",
+      "datos",
+      "entrenamiento",
+      "ajuste",
+      "comportamiento"
+    ],
+    "base_response": "El uso de conjuntos de datos de entrenamiento insuficientes o sesgados produce trazas a largo plazo como la marginación digital, la pérdida de oportunidades laborales, la amplificación de prejuicios sociales y la disminución de confianza en las tecnologías emergentes, influyendo en la educación futura."
+  },
+  {
+    "intent_id": "definicion_anatomica_sistemas_inteligencia_artificial",
+    "keywords": [
+      "sistema",
+      "datos",
+      "algoritmo",
+      "modelo",
+      "procesamiento"
+    ],
+    "base_response": "Los sistemas de inteligencia artificial están compuestos por algoritmos y modelos que procesan grandes cantidades de datos. Su estructura incluye componentes como sensores, unidades de procesamiento y bases de datos que trabajan conjuntamente para imitar funciones cognitivas humanas."
+  },
+  {
+    "intent_id": "historia_conjuntos_datos",
+    "keywords": [
+      "datos",
+      "entrenamiento",
+      "historia",
+      "origen",
+      "evolucion",
+      "conjunto"
+    ],
+    "base_response": "Los conjuntos de datos de entrenamiento surgieron en los años ochenta con la adopción de redes neuronales artificiales y han evolucionado hasta la actualidad, donde la ingeniería de datos y la ética guían la selección, anonimización, señales y balanceo para evitar sesgos y mejorar la generalización."
+  },
+  {
+    "intent_id": "errores_fallas_patologias",
+    "keywords": [
+      "error",
+      "fallo",
+      "sesgo",
+      "dato",
+      "proceso"
+    ],
+    "base_response": "Los sistemas de inteligencia artificial pueden presentar errores por datos mal procesados, fallas en la interpretación de patrones y sesgos que distorsionan resultados. Estas patologías surgen cuando el modelo aprende relaciones incorrectas, generando decisiones inesperadas que afectan su confiabilidad operativa."
+  }
+]
