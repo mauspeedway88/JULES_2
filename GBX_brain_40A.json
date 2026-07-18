@@ -1,0 +1,2337 @@
+[
+  {
+    "intent_id": "concepto_navegador_estructura",
+    "keywords": [
+      "navegador",
+      "estructura",
+      "anatomia",
+      "componentes",
+      "funcionamiento"
+    ],
+    "base_response": "Un navegador web se compone de una barra de direcciones, pestañas, historial, caché y un motor de renderizado que interpreta HTML, CSS y JavaScript. Estas piezas trabajan juntas para cargar, mostrar y almacenar páginas, permitiendo una navegación rápida y segura."
+  },
+  {
+    "intent_id": "navegadores_web_dinamica_funcionamiento",
+    "keywords": [
+      "procesos",
+      "renderizado",
+      "codigo",
+      "motor",
+      "ejecucion"
+    ],
+    "base_response": "Un navegador interpreta código recibido desde servidores y lo transforma en elementos visuales mediante motores de renderizado. Gestiona procesos internos que organizan memoria, ejecutan scripts y actualizan la pantalla. Coordina recursos físicos del dispositivo para mostrar contenido de forma continua y estable."
+  },
+  {
+    "intent_id": "fallas_navegadores_web",
+    "keywords": [
+      "errores",
+      "fallas",
+      "patologias",
+      "navegadores",
+      "procesos"
+    ],
+    "base_response": "Los navegadores pueden presentar bloqueos, lentitud, cierres inesperados y errores de carga por extensiones dañadas, caché corrupta o incompatibilidades. Estas fallas afectan la navegación segura y requieren diagnóstico básico para identificar causas y aplicar soluciones efectivas sin comprometer la experiencia del usuario."
+  },
+  {
+    "intent_id": "historia_navegadores_web",
+    "keywords": [
+      "navegadores",
+      "internet",
+      "evolucion",
+      "software",
+      "desarrollo"
+    ],
+    "base_response": "Los navegadores web surgieron con el inicio de la World Wide Web y evolucionaron desde interfaces simples hasta plataformas avanzadas. Su desarrollo integró estándares, mayor velocidad y funciones de seguridad que transformaron la forma en que los usuarios acceden y exploran información digital."
+  },
+  {
+    "intent_id": "navegadores_aplicaciones_practicas",
+    "keywords": [
+      "navegar",
+      "buscar",
+      "comunicar",
+      "aprender",
+      "crear"
+    ],
+    "base_response": "Los estudiantes usan navegadores para buscar información, participar en foros, descargar material didáctico y programar pequeñas aplicaciones. También facilita la comunicación con compañeros mediante chats y videollamadas, y permite gestionar recursos educativos en línea adaptados a su edad."
+  },
+  {
+    "intent_id": "impact_social_navegadores_web",
+    "keywords": [
+      "navegadores",
+      "comunicacion",
+      "informacion",
+      "interaccion",
+      "aprendizaje"
+    ],
+    "base_response": "Los navegadores web permiten acceso rápido y seguro a información global, fortalecen la comunicación digital y facilitan la participación social. Su uso adecuado impulsa el aprendizaje, promueve la inclusión tecnológica y mejora la interacción entre comunidades diversas en entornos educativos y cotidianos."
+  },
+  {
+    "intent_id": "comparativa_navegadores_web",
+    "keywords": [
+      "navegadores",
+      "rendimiento",
+      "seguridad",
+      "compatibilidad",
+      "velocidad"
+    ],
+    "base_response": "Los navegadores web ofrecen ventajas como rapidez, seguridad y compatibilidad con diversos sitios, aunque presentan desventajas como consumo elevado de recursos, diferencias en extensiones y variaciones en estabilidad. Comprender estas comparaciones permite elegir opciones adecuadas para cada necesidad."
+  },
+  {
+    "intent_id": "seguridad_navegadores_web",
+    "keywords": [
+      "navegadores",
+      "riesgos",
+      "seguridad",
+      "proteccion",
+      "datos"
+    ],
+    "base_response": "Comprende que los navegadores pueden exponer datos personales si no se configuran adecuadamente. Aplica contraseñas seguras, bloquea rastreadores, evita descargas sospechosas y revisa permisos. Mantén el navegador actualizado para reducir vulnerabilidades y fortalecer la protección general."
+  },
+  {
+    "intent_id": "clasificacion_taxonomica_navegadores",
+    "keywords": [
+      "navegadores",
+      "clasificacion",
+      "privacidad",
+      "rendimiento",
+      "accesibilidad"
+    ],
+    "base_response": "Los navegadores web se clasifican taxonómicamente según su motor de renderizado, grado de privacidad, compatibilidad con estándares, uso de recursos y disponibilidad para sistemas operativos. Esta división ayuda a elegirles con base a necesidades de rendimiento, seguridad y accesibilidad."
+  },
+  {
+    "intent_id": "intent_calculos_navegador_web",
+    "keywords": [
+      "navegadores",
+      "calculo",
+      "cargar",
+      "rendimiento",
+      "capa"
+    ],
+    "base_response": "Las cifras de tamaño de página, velocidad de internet, y tiempo de carga se relacionan mediante fórmulas simples: tiempo = tamaño ÷ velocidad; pixelpx = píxeles ÷ densidad; memoria = tamaño ÷ compresión, ilustrando la ciencia de los navegadores."
+  },
+  {
+    "intent_id": "educacion_tecnologia_navegadores_mitos",
+    "keywords": [
+      "navegador",
+      "mito",
+      "seguridad",
+      "velocidad",
+      "personalizacion"
+    ],
+    "base_response": "Los estudiantes a menudo creen que los navegadores pueden leer sus pensamientos, que el uso exclusivo de un navegador garantiza mejor rendimiento o que la frecuencia de actualización detiene malware. En realidad, la seguridad depende de configuraciones, el rendimiento varía por dispositivo y la actualización mejora protección y velocidad."
+  },
+  {
+    "intent_id": "navegadores_relacion_simbiotica",
+    "keywords": [
+      "navegadores",
+      "sistemas",
+      "comunicacion",
+      "integracion",
+      "datos"
+    ],
+    "base_response": "Los navegadores mantienen una relación simbiótica con otros sistemas al coordinar protocolos, gestionar datos y facilitar integraciones que permiten experiencias digitales fluidas. Su funcionamiento depende de servicios externos que amplían capacidades y aseguran comunicación eficiente entre plataformas conectadas."
+  },
+  {
+    "intent_id": "navegadores_transformacion_energia",
+    "keywords": [
+      "navegador",
+      "consumo",
+      "energia",
+      "ciclo",
+      "optimizar"
+    ],
+    "base_response": "Los navegadores convierten peticiones en datos visualizados, usando la CPU y memoria. Cada proceso consume energía, contribuyendo al ciclo energético total del dispositivo; optimizar sus configuraciones reduce el consumo y favorece la eficiencia en el uso de recursos."
+  },
+  {
+    "intent_id": "experimentos_navegadores_web",
+    "keywords": [
+      "navegadores",
+      "busquedas",
+      "cookies",
+      "renderizado",
+      "pruebas"
+    ],
+    "base_response": "Realiza comparaciones entre distintos navegadores midiendo velocidad de carga, manejo de cookies y precisión de renderizado. Observa cómo cada navegador procesa una misma página y registra diferencias. Analiza resultados para comprender el funcionamiento interno y su impacto en la experiencia digital."
+  },
+  {
+    "intent_id": "impacto_largo_plazo_navegadores",
+    "keywords": [
+      "navegadores",
+      "privacidad",
+      "datos",
+      "rastreo",
+      "seguridad"
+    ],
+    "base_response": "El uso prolongado de navegadores influye en la acumulación de datos personales, la formación de perfiles digitales y la exposición continua a rastreadores. Estas prácticas pueden afectar la privacidad futura, modificar hábitos de navegación y aumentar riesgos de seguridad tecnológica a largo plazo."
+  },
+  {
+    "intent_id": "educacion_tecnologica_navegadores_mantenimiento",
+    "keywords": [
+      "navegar",
+      "actualizar",
+      "seguridad",
+      "prevencion",
+      "configurar",
+      "tecnologia"
+    ],
+    "base_response": "Mantener actualizado el navegador elimina vulnerabilidades, mejorar la configuración de privacidad protege datos personales y activa la navegación segura. Realizar estos pasos evita hackeos y garantiza una experiencia de aprendizaje confiable para alumnos de 9 a 15 años."
+  },
+  {
+    "intent_id": "futuro_navegadores_web",
+    "keywords": [
+      "navegadores",
+      "tecnologia",
+      "innovacion",
+      "inteligencia",
+      "procesamiento"
+    ],
+    "base_response": "Los navegadores integrarán inteligencia avanzada para anticipar necesidades, optimizar búsquedas y proteger datos. Incorporarán realidad aumentada y funciones predictivas que transformarán la interacción digital. Su evolución permitirá experiencias más rápidas, seguras y personalizadas para los usuarios."
+  },
+  {
+    "intent_id": "estructura_motores_busqueda",
+    "keywords": [
+      "busqueda",
+      "indice",
+      "algoritmo",
+      "pagina",
+      "consulta"
+    ],
+    "base_response": "Un motor de búsqueda se organiza mediante índices, algoritmos y módulos que rastrean páginas, procesan consultas y ordenan resultados. Su estructura integra componentes que analizan contenido, relacionan términos y generan respuestas eficientes para el usuario."
+  },
+  {
+    "intent_id": "motores_busqueda_errores_patologias",
+    "keywords": [
+      "sesgo",
+      "indexacion",
+      "relevancia",
+      "saturacion",
+      "fallas"
+    ],
+    "base_response": "Los motores de búsqueda pueden presentar errores como resultados irrelevantes, saturación de información, fallas de indexación y sesgos algorítmicos. Estas patologías afectan la precisión y confiabilidad de las consultas, dificultando la comprensión y el uso adecuado de la información encontrada."
+  },
+  {
+    "intent_id": "historia_motores_busqueda",
+    "keywords": [
+      "motores",
+      "busqueda",
+      "internet",
+      "evolucion",
+      "algoritmos"
+    ],
+    "base_response": "Los primeros motores de búsqueda surgieron en los años noventa para organizar información creciente en Internet. Evolucionaron desde simples directorios hasta sistemas avanzados basados en algoritmos complejos capaces de rastrear, indexar y clasificar millones de páginas con mayor precisión."
+  },
+  {
+    "intent_id": "buscadores_aplicaciones_vida_real",
+    "keywords": [
+      "buscar",
+      "informar",
+      "planificar",
+      "organizar",
+      "decidir"
+    ],
+    "base_response": "Los motores de búsqueda te permiten localizar información relevante en segundos, optimizar la búsqueda de recursos educativos, planificar proyectos investigativos y decidir entre distintas fuentes; siempre evalúa la fiabilidad de los resultados y ajusta los filtros para obtener datos precisos."
+  },
+  {
+    "intent_id": "impact_social_motores_busqueda",
+    "keywords": [
+      "informacion",
+      "acceso",
+      "comunicacion",
+      "aprendizaje",
+      "participacion"
+    ],
+    "base_response": "Los motores de búsqueda influyen en cómo las personas acceden a información, participan en comunidades y toman decisiones. Su impacto social define oportunidades educativas, promueve la comunicación global y transforma la forma en que las sociedades comprenden y comparten conocimiento de manera rápida y confiable."
+  },
+  {
+    "intent_id": "comparativa_motores_busqueda",
+    "keywords": [
+      "busqueda",
+      "informacion",
+      "acceso",
+      "precision",
+      "evaluacion"
+    ],
+    "base_response": "Los motores de búsqueda ofrecen acceso rápido y amplio a información variada, facilitando tareas escolares y exploración digital. Sin embargo, pueden mostrar resultados imprecisos, sesgados o irrelevantes, requiriendo análisis crítico constante para seleccionar fuentes confiables y evitar confusiones frecuentes."
+  },
+  {
+    "intent_id": "riesgos_motores_busqueda_online",
+    "keywords": [
+      "privacidad",
+      "datos",
+      "exposicion",
+      "filtrado",
+      "seguridad"
+    ],
+    "base_response": "Comprender los riesgos de los motores de búsqueda permite evitar exposición innecesaria. Verificar fuentes, filtrar resultados y proteger datos personales reduce amenazas. Aplicar configuraciones seguras y evitar descargas sospechosas fortalece la seguridad digital y previene incidentes perjudiciales."
+  },
+  {
+    "intent_id": "clasificacion_motores_busqueda",
+    "keywords": [
+      "motores",
+      "busqueda",
+      "clasificacion",
+      "funciones",
+      "procesamiento"
+    ],
+    "base_response": "La clasificación taxonómica de motores de búsqueda organiza sus funciones según cómo procesan, indexan y recuperan información. Esta estructura permite comprender diferencias entre rastreadores, directorios y metabuscadores, facilitando el análisis técnico y el uso adecuado en actividades digitales."
+  },
+  {
+    "intent_id": "calculos_busqueda_online",
+    "keywords": [
+      "algoritmos",
+      "ranking",
+      "calculo",
+      "relevancia",
+      "indexacion"
+    ],
+    "base_response": "Los motores de búsqueda aplican fórmulas que ponderan relevancia, frecuencia y calidad de contenido. Estos cálculos combinan pesos numéricos para ordenar resultados y estimar coincidencias. Comprender estas operaciones permite analizar cómo se determina la posición de cada página."
+  },
+  {
+    "intent_id": "motores_buscador_mitos",
+    "keywords": [
+      "busqueda",
+      "informacion",
+      "mitos",
+      "confianza",
+      "automatizacion"
+    ],
+    "base_response": "Los motores de búsqueda no 'eligen' resultados; ordenan según algoritmos que utilizan palabras clave y autoridad web. Los alumnos pueden creer que personalizan demasiado, pero la personalización es mínima y se basa en datos públicos, no en privacidad total."
+  },
+  {
+    "intent_id": "motoresbusquedas_simbiosis_relacion",
+    "keywords": [
+      "busqueda",
+      "indexacion",
+      "interaccion",
+      "sistema",
+      "contenido"
+    ],
+    "base_response": "Los motores de búsqueda funcionan en simbiosis con servidores web, algoritmos de indexación y sistemas de análisis, donde la disponibilidad y calidad del contenido aumentan su relevancia, mientras que los usuarios obtienen resultados más precisos y contextuales gracias a esta relación recíproca."
+  },
+  {
+    "intent_id": "motores_busqueda_transformacion_ciclos_energeticos",
+    "keywords": [
+      "busqueda",
+      "transformar",
+      "energia",
+      "ciclos",
+      "informa"
+    ],
+    "base_response": "Un motor de búsqueda transforma peticiones de los usuarios en resultados relevantes, lo que implica ciclos energéticos de servidores y centros de datos. Cada consulta consume energía eléctrica, se refresca datos y se gestionan redes, impactando la huella ecológica del internet."
+  },
+  {
+    "intent_id": "motoresbusqueda_experimentos_demostraciones",
+    "keywords": [
+      "buscar",
+      "indexar",
+      "clasificar",
+      "relevancia",
+      "demostrar"
+    ],
+    "base_response": "El profesor guía a los alumnos a configurar un pequeño motor de búsqueda que rastrea una colección de páginas educativas, indexa palabras clave y genera resultados. Los estudiantes prueban modificaciones en los factores de ponderación, observando cómo cambian la relevancia y las posiciones de los enlaces."
+  },
+  {
+    "intent_id": "impacto_motores_busqueda",
+    "keywords": [
+      "motores",
+      "busqueda",
+      "informacion",
+      "privacidad",
+      "dependencia"
+    ],
+    "base_response": "El uso constante de motores de búsqueda puede generar dependencia informativa, reducir habilidades de análisis profundo y moldear percepciones a largo plazo. También influye en la privacidad digital, ya que los historiales pueden perfilar hábitos y preferencias futuras."
+  },
+  {
+    "intent_id": "motores_busqueda_impacto_ambiental",
+    "keywords": [
+      "energia",
+      "servidores",
+      "consumo",
+      "procesamiento",
+      "emisiones"
+    ],
+    "base_response": "Los motores de búsqueda requieren grandes centros de datos que consumen mucha energía. Cada consulta implica procesamiento intensivo que genera emisiones. Comprender este impacto permite promover hábitos digitales responsables y valorar tecnologías que optimicen recursos para reducir la huella ambiental global."
+  },
+  {
+    "intent_id": "motores_busqueda_mantenimiento_prevencion",
+    "keywords": [
+      "seguridad",
+      "privacidad",
+      "configuracion",
+      "proteccion",
+      "actualizacion"
+    ],
+    "base_response": "Comprueba periódicamente la configuración del buscador para mantener la seguridad. Evita enlaces sospechosos y actualiza el navegador para prevenir riesgos. Usa filtros de contenido y herramientas de protección que reduzcan la exposición a sitios dañinos y mejoren la experiencia digital segura."
+  },
+  {
+    "intent_id": "proyecciones_tecnologia_motores",
+    "keywords": [
+      "busqueda",
+      "inteligencia",
+      "aprendizaje",
+      "privacidad",
+      "futuro"
+    ],
+    "base_response": "Las próximas generaciones de motores de búsqueda integrarán inteligencia artificial fundamental para comprender el contexto, optimizar resultados por relevancia, asegurar privacidad mediante encriptado autónomo, y usar realidad aumentada para búsquedas visuales, ofreciendo experiencias interactivas y personalizadas."
+  },
+  {
+    "intent_id": "estructura_url",
+    "keywords": [
+      "url",
+      "estructura",
+      "protocolo",
+      "dominio",
+      "parametros"
+    ],
+    "base_response": "Una dirección URL posee una estructura anatómica compuesta por protocolo, dominio, ruta y parámetros. Cada segmento cumple una función específica que organiza el acceso a recursos digitales y permite identificar con precisión la ubicación de un sitio web."
+  },
+  {
+    "intent_id": "urls_errores_fallas",
+    "keywords": [
+      "error",
+      "falla",
+      "patologia",
+      "url",
+      "navegador"
+    ],
+    "base_response": "Los errores más frecuentes al escribir una dirección URL incluyen la omisión de “https://”, la presencia de espacios o caracteres ilegales, la ausencia de la barra inclinada al final, y la confusión entre nombres de dominio y subdominios, provocando páginas 404."
+  },
+  {
+    "intent_id": "historia_url_sitios",
+    "keywords": [
+      "origen",
+      "evolucion",
+      "protocolos",
+      "navegacion",
+      "identificacion"
+    ],
+    "base_response": "Las direcciones URL surgieron con el desarrollo de la World Wide Web para identificar recursos en línea. Evolucionaron desde estructuras simples basadas en protocolos hasta formatos más complejos que permiten navegación segura, organización jerárquica y acceso eficiente a información distribuida globalmente."
+  },
+  {
+    "intent_id": "uso_practico_urls",
+    "keywords": [
+      "navegacion",
+      "identificacion",
+      "busqueda",
+      "acceso",
+      "seguridad"
+    ],
+    "base_response": "Comprender las direcciones URL permite acceder con precisión a recursos digitales, verificar la autenticidad de sitios y evitar riesgos en línea. Facilita la búsqueda eficiente de información, el uso correcto de plataformas educativas y la navegación segura en servicios cotidianos como banca, compras y comunicación."
+  },
+  {
+    "intent_id": "educacion_tecnologia_url_importancia_social",
+    "keywords": [
+      "url",
+      "acceso",
+      "comunidad",
+      "seguridad",
+      "privacidad"
+    ],
+    "base_response": "Las direcciones URL son el puente que conecta navegadores con servidores, permitiendo el flujo de información. Su correcta gestión garantiza accesibilidad, protege la privacidad y fomenta la colaboración en comunidades digitales, reduciendo brechas y empoderando a usuarios jóvenes en entornos mediados por tecnología."
+  },
+  {
+    "intent_id": "comparacion_direcciones_url",
+    "keywords": [
+      "url",
+      "sitios",
+      "navegacion",
+      "seguridad",
+      "acceso"
+    ],
+    "base_response": "Comparar direcciones URL permite evaluar rapidez de acceso, claridad de estructura y nivel de seguridad. Algunas URL ofrecen mayor confianza y otras pueden generar riesgos por su complejidad o procedencia. Analizar ventajas y desventajas mejora decisiones de navegación responsable."
+  },
+  {
+    "intent_id": "seguridad_direcciones_url",
+    "keywords": [
+      "riesgos",
+      "fraude",
+      "phishing",
+      "navegacion",
+      "proteccion"
+    ],
+    "base_response": "Comprender las direcciones URL permite identificar señales de fraude y evitar sitios falsos que buscan robar datos. Verificar dominios, evitar enlaces sospechosos y usar conexiones seguras reduce riesgos. Enseñar estas prácticas fortalece la protección digital de los estudiantes."
+  },
+  {
+    "intent_id": "clasificacion_url_taxonomia",
+    "keywords": [
+      "url",
+      "componente",
+      "clasificar",
+      "estructura",
+      "ruta"
+    ],
+    "base_response": "Los estudiantes analizan la estructura de una URL, separando su esquema, dominio, ruta y parámetros; luego clasifican cada elemento en categorías jerárquicas, comprendiendo la relación entre nivel superior y subnivel, promoviendo la comprensión de la arquitectura web."
+  },
+  {
+    "intent_id": "mitos_url_sitios",
+    "keywords": [
+      "url",
+      "sitios",
+      "mitos",
+      "confusiones",
+      "seguridad"
+    ],
+    "base_response": "Muchos estudiantes creen que todas las direcciones URL seguras comienzan siempre con https o que un dominio famoso garantiza autenticidad. Estas ideas generan confianza excesiva y riesgos. Comprender la estructura real de una URL evita errores y mejora la navegación responsable."
+  },
+  {
+    "intent_id": "url_rela_simbio",
+    "keywords": [
+      "url",
+      "dns",
+      "dominio",
+      "cliente",
+      "servidor"
+    ],
+    "base_response": "Las direcciones URL actúan como puente entre navegadores y servidores, integrándose con DNS, protocolos HTTP y sistemas de gestión de contenido para asegurar comunicación fiable y auténtica; su funcionalidad exige cooperación constante y actualización tecnológica."
+  },
+  {
+    "intent_id": "exploracion_direcciones_url",
+    "keywords": [
+      "navegacion",
+      "busqueda",
+      "identificacion",
+      "analisis",
+      "experimentacion"
+    ],
+    "base_response": "Realiza pruebas controladas ingresando distintas direcciones URL en navegadores escolares para observar cómo cambian los resultados. Analiza la estructura de cada URL y compara efectos al modificar elementos clave. Registra hallazgos y discute patrones detectados durante la demostración."
+  },
+  {
+    "intent_id": "fallas_navegadores_web_navegadores_web_de_internet",
+    "keywords": [
+      "errores",
+      "fallas",
+      "patologias",
+      "navegadores",
+      "funcionamiento"
+    ],
+    "base_response": "Los navegadores pueden presentar bloqueos, lentitud, incompatibilidades y cierres inesperados por extensiones dañadas, caché corrupta o versiones obsoletas. Identificar estas fallas permite corregir problemas y mantener una experiencia de navegación estable y segura para los estudiantes."
+  },
+  {
+    "intent_id": "historia_navegadores_web_navegadores_web_de_internet",
+    "keywords": [
+      "navegadores",
+      "internet",
+      "origen",
+      "evolucion",
+      "software"
+    ],
+    "base_response": "Los navegadores web surgieron con el primer acceso público a la World Wide Web en los años noventa. Evolucionaron desde interfaces simples basadas en texto hasta herramientas gráficas avanzadas. Su desarrollo impulsó la navegación global y transformó la interacción digital moderna."
+  },
+  {
+    "intent_id": "navegadores_web_funcionamiento_fisico",
+    "keywords": [
+      "procesos",
+      "renderizado",
+      "codigo",
+      "motor",
+      "interaccion"
+    ],
+    "base_response": "Un navegador ejecuta procesos internos que interpretan código y renderizan elementos visuales. Su motor organiza datos, gestiona memoria y coordina la interacción física entre hardware y software para mostrar páginas con precisión y estabilidad en cada dispositivo."
+  },
+  {
+    "intent_id": "uso_navegadores_web",
+    "keywords": [
+      "busqueda",
+      "informacion",
+      "navegacion",
+      "seguridad",
+      "comunicacion"
+    ],
+    "base_response": "Los navegadores permiten acceder rápidamente a información útil, realizar trámites digitales, comunicarse mediante plataformas en línea y gestionar recursos educativos. Facilitan tareas cotidianas como buscar direcciones, consultar servicios públicos, organizar actividades escolares y participar en espacios colaborativos seguros."
+  },
+  {
+    "intent_id": "estructura_navegador_web",
+    "keywords": [
+      "software",
+      "interfaz",
+      "modulo",
+      "renderizado",
+      "navegacion"
+    ],
+    "base_response": "Un navegador web posee una estructura formada por motor de renderizado, gestor de red, intérprete de scripts, interfaz gráfica y módulos de seguridad. Cada componente coopera para procesar código, mostrar contenido y permitir interacción confiable con sitios en línea."
+  },
+  {
+    "intent_id": "impact_social_navegadores_web_navegadores_web_de_internet",
+    "keywords": [
+      "navegadores",
+      "comunicacion",
+      "informacion",
+      "interaccion",
+      "aprendizaje"
+    ],
+    "base_response": "Los navegadores web permiten acceder a información global y facilitan la comunicación digital, influyendo en cómo las personas aprenden, trabajan y participan en la sociedad. Su uso responsable fortalece la inclusión, promueve la colaboración y amplía oportunidades educativas y comunitarias."
+  },
+  {
+    "intent_id": "comparativa_navegadores_web_navegadores_web_de_internet",
+    "keywords": [
+      "navegadores",
+      "rendimiento",
+      "seguridad",
+      "compatibilidad",
+      "actualizacion"
+    ],
+    "base_response": "Los navegadores web ofrecen ventajas como velocidad, seguridad y compatibilidad, pero también presentan desventajas como consumo elevado de recursos, diferencias en extensiones y variaciones en estabilidad. Comprender estas comparaciones permite elegir herramientas adecuadas para necesidades digitales específicas."
+  },
+  {
+    "intent_id": "mitos_navegadores_web",
+    "keywords": [
+      "navegadores",
+      "mitos",
+      "seguridad",
+      "velocidad",
+      "privacidad"
+    ],
+    "base_response": "Muchos estudiantes creen que todos los navegadores funcionan igual, que uno siempre es más seguro o que la velocidad depende solo del programa. Estas ideas son erróneas. Cada navegador usa tecnologías distintas y su rendimiento depende de múltiples factores técnicos."
+  },
+  {
+    "intent_id": "navegadores_web_contexto_ecologico",
+    "keywords": [
+      "navegador",
+      "edad",
+      "energia",
+      "sostenibilidad",
+      "data"
+    ],
+    "base_response": "Los navegadores web consumen energía al procesar datos y mantener servidores que almacenan contenido. Su uso frecuente influye en la huella de carbono, por lo que es vital escoger versiones eficientes y apagar dispositivos cuando no se usan."
+  },
+  {
+    "intent_id": "clasificacion_taxonomica_navegadores_navegadores_web_de_internet",
+    "keywords": [
+      "navegadores",
+      "clasificacion",
+      "privacidad",
+      "rendimiento",
+      "accesibilidad"
+    ],
+    "base_response": "Los navegadores web se clasifican taxonómicamente según su motor de renderizado, grado de privacidad, compatibilidad con estándares, uso de recursos y disponibilidad para sistemas operativos. Esta división ayuda a elegirles con base a necesidades de rendimiento, seguridad y accesibilidad."
+  },
+  {
+    "intent_id": "impacto_navegadores_largo_plazo",
+    "keywords": [
+      "navegadores",
+      "privacidad",
+      "datos",
+      "rastreo",
+      "seguridad"
+    ],
+    "base_response": "El uso continuo de navegadores influye en la acumulación de datos personales, afectando la privacidad futura. Las decisiones sobre configuraciones y hábitos de navegación pueden determinar riesgos de seguridad, exposición prolongada y perfiles digitales permanentes que influyen en experiencias tecnológicas posteriores."
+  },
+  {
+    "intent_id": "navegadores_web_relacion_simbiosis",
+    "keywords": [
+      "navegar",
+      "interaccionar",
+      "integrar",
+      "recibir",
+      "proveer"
+    ],
+    "base_response": "Los navegadores web interactúan de forma simbiótica con los servidores, sistemas operativos y extensiones, compartiendo datos, protocolos y recursos para entregar contenido dinámico, optimizar rendimiento y garantizar seguridad, creando un ecosistema interconectado donde cada elemento potencia al otro."
+  },
+  {
+    "intent_id": "navegadores_web_futuro_tecnologico",
+    "keywords": [
+      "navegadores",
+      "algoritmos",
+      "inteligencia",
+      "exploracion",
+      "innovacion"
+    ],
+    "base_response": "Los navegadores integrarán inteligencia avanzada para anticipar necesidades, optimizar búsquedas y proteger datos con mayor precisión. Su evolución permitirá experiencias inmersivas, interacción más natural y acceso dinámico a contenidos personalizados mediante tecnologías predictivas y entornos digitales cada vez más sofisticados."
+  },
+  {
+    "intent_id": "navegadores_transformacion_energia_navegadores_web_de_internet",
+    "keywords": [
+      "navegador",
+      "consumo",
+      "energia",
+      "ciclo",
+      "optimizar"
+    ],
+    "base_response": "Los navegadores convierten peticiones en datos visualizados, usando la CPU y memoria. Cada proceso consume energía, contribuyendo al ciclo energético total del dispositivo; optimizar sus configuraciones reduce el consumo y favorece la eficiencia en el uso de recursos."
+  },
+  {
+    "intent_id": "experimentos_navegadores_web_navegadores_web_de_internet",
+    "keywords": [
+      "navegador",
+      "busqueda",
+      "renderizado",
+      "codigo",
+      "prueba"
+    ],
+    "base_response": "Realiza una demostración comparando cómo distintos navegadores procesan la misma página. Observa tiempos de carga, diferencias de renderizado y manejo de scripts. Registra resultados y analiza por qué cada navegador responde de manera distinta según su motor interno."
+  },
+  {
+    "intent_id": "educacion_tecnologica_navegadores_mantenimiento_navegadores_web_de_internet",
+    "keywords": [
+      "navegar",
+      "actualizar",
+      "seguridad",
+      "prevencion",
+      "configurar",
+      "tecnologia"
+    ],
+    "base_response": "Mantener actualizado el navegador elimina vulnerabilidades, mejorar la configuración de privacidad protege datos personales y activa la navegación segura. Realizar estos pasos evita hackeos y garantiza una experiencia de aprendizaje confiable para alumnos de 9 a 15 años."
+  },
+  {
+    "intent_id": "motores_busquedas_definicion_estructural",
+    "keywords": [
+      "indexar",
+      "evaluar",
+      "rankear",
+      "mostrar",
+      "documentar"
+    ],
+    "base_response": "Los motores de búsqueda online funcionan mediante la recolección de páginas web, su almacenamiento estructurado en índices, la evaluación de relevancia y el ranking de resultados, y la presentación de los enlaces mediante una interfaz fácil de usar."
+  },
+  {
+    "intent_id": "buscadores_aplicaciones_vida_real_motores_de_b_squeda_online",
+    "keywords": [
+      "buscar",
+      "informar",
+      "planificar",
+      "organizar",
+      "decidir"
+    ],
+    "base_response": "Los motores de búsqueda te permiten localizar información relevante en segundos, optimizar la búsqueda de recursos educativos, planificar proyectos investigativos y decidir entre distintas fuentes; siempre evalúa la fiabilidad de los resultados y ajusta los filtros para obtener datos precisos."
+  },
+  {
+    "intent_id": "motores_busqueda_ventajas_desventajas",
+    "keywords": [
+      "buscar",
+      "ordenar",
+      "filtrar",
+      "datos",
+      "decidir"
+    ],
+    "base_response": "Las ventajas de los motores de búsqueda online son rapidez, accesibilidad y variedad de resultados, mientras que las desventajas incluyen saturación de anuncios, privacidad comprometida y una dependencia que a veces favorece información parcial activa."
+  },
+  {
+    "intent_id": "motores_busqueda_errores_fallas",
+    "keywords": [
+      "sesgo",
+      "indexacion",
+      "algoritmo",
+      "spam",
+      "consulta"
+    ],
+    "base_response": "Los motores de búsqueda pueden fallar por sesgos algorítmicos, indexación incompleta, spam mal filtrado y consultas mal interpretadas. Estas fallas generan resultados confusos, pérdida de precisión y exposición a contenido no deseado, afectando la comprensión y la seguridad digital del estudiante."
+  },
+  {
+    "intent_id": "historia_motores_busqueda_motores_de_b_squeda_online",
+    "keywords": [
+      "motores",
+      "busqueda",
+      "internet",
+      "evolucion",
+      "tecnologia"
+    ],
+    "base_response": "Los primeros motores de búsqueda surgieron en los años noventa para organizar información creciente en Internet. Su evolución integró algoritmos más precisos, indexación avanzada y análisis de datos. Estos avances permitieron localizar contenidos rápidamente y mejorar la experiencia de navegación global."
+  },
+  {
+    "intent_id": "motores_busqueda_online_riesgos_seguridad",
+    "keywords": [
+      "busqueda",
+      "privacidad",
+      "filtrado",
+      "proteccion",
+      "anonimato"
+    ],
+    "base_response": "Los motores de búsqueda recopilan datos personales y pueden mostrar contenido no adecuado para menores; es esencial usar filtros de búsqueda, configurar ajustes de privacidad y enseñar la evaluación crítica de los resultados para proteger la información y la seguridad online."
+  },
+  {
+    "intent_id": "motores_buscador_mitos_motores_de_b_squeda_online",
+    "keywords": [
+      "busqueda",
+      "informacion",
+      "mitos",
+      "confianza",
+      "automatizacion"
+    ],
+    "base_response": "Los motores de búsqueda no 'eligen' resultados; ordenan según algoritmos que utilizan palabras clave y autoridad web. Los alumnos pueden creer que personalizan demasiado, pero la personalización es mínima y se basa en datos públicos, no en privacidad total."
+  },
+  {
+    "intent_id": "motores_busqueda_contexto_ecologico",
+    "keywords": [
+      "busqueda",
+      "energia",
+      "carbono",
+      "datos",
+      "infraestructura"
+    ],
+    "base_response": "Los motores de búsqueda usan gigantescos centros de datos que consumen mucha energía, afectando la huella de carbono global. Entender su impacto ecológico ayuda a los estudiantes a elegir prácticas sostenibles y valorar la eficiencia energética en la ciencia digital."
+  },
+  {
+    "intent_id": "impact_social_motores_busqueda_motores_de_b_squeda_online",
+    "keywords": [
+      "informacion",
+      "acceso",
+      "usuarios",
+      "consulta",
+      "impacto"
+    ],
+    "base_response": "Los motores de búsqueda influyen en cómo las personas acceden a información y participan en la vida digital. Su impacto social define hábitos de consulta, decisiones informadas y comprensión colectiva, moldeando la interacción entre comunidades y conocimiento disponible en línea."
+  },
+  {
+    "intent_id": "clasificacion_motores_busqueda_motores_de_b_squeda_online",
+    "keywords": [
+      "motor",
+      "busqueda",
+      "indexacion",
+      "rastreo",
+      "consulta"
+    ],
+    "base_response": "La clasificación taxonómica de motores de búsqueda organiza estos sistemas según su método de rastreo, forma de indexación y tipo de consulta. Esta estructura permite comprender cómo procesan información, responden preguntas y optimizan resultados para distintos usuarios."
+  },
+  {
+    "intent_id": "impact_largo_plazo_motores_busqueda",
+    "keywords": [
+      "motores",
+      "busqueda",
+      "informacion",
+      "dependencia",
+      "aprendizaje"
+    ],
+    "base_response": "El uso constante de motores de búsqueda puede generar dependencia informativa, reducir la memoria a largo plazo y limitar el pensamiento crítico. Comprender estas consecuencias permite desarrollar hábitos digitales más conscientes y fortalecer habilidades cognitivas esenciales para el futuro académico y personal."
+  },
+  {
+    "intent_id": "motores_busqueda_calculados",
+    "keywords": [
+      "busqueda",
+      "calculo",
+      "rank",
+      "formula",
+      "relevancia"
+    ],
+    "base_response": "En los motores de búsqueda se utilizan fórmulas como PageRank y TF‑IDF para valorar la relevancia de las páginas, cálculos que suman pesos de enlaces y palabras clave, determinando así el orden de los resultados mostrados al usuario."
+  },
+  {
+    "intent_id": "motoresbusquedas_simbiosis_relacion_motores_de_b_squeda_online",
+    "keywords": [
+      "busqueda",
+      "indexacion",
+      "interaccion",
+      "sistema",
+      "contenido"
+    ],
+    "base_response": "Los motores de búsqueda funcionan en simbiosis con servidores web, algoritmos de indexación y sistemas de análisis, donde la disponibilidad y calidad del contenido aumentan su relevancia, mientras que los usuarios obtienen resultados más precisos y contextuales gracias a esta relación recíproca."
+  },
+  {
+    "intent_id": "proyecciones_tecnologia_motores_motores_de_b_squeda_online",
+    "keywords": [
+      "busqueda",
+      "inteligencia",
+      "aprendizaje",
+      "privacidad",
+      "futuro"
+    ],
+    "base_response": "Las próximas generaciones de motores de búsqueda integrarán inteligencia artificial fundamental para comprender el contexto, optimizar resultados por relevancia, asegurar privacidad mediante encriptado autónomo, y usar realidad aumentada para búsquedas visuales, ofreciendo experiencias interactivas y personalizadas."
+  },
+  {
+    "intent_id": "estructura_navegadores_web",
+    "keywords": [
+      "interfaz",
+      "busqueda",
+      "historial",
+      "pestanas",
+      "configuracion"
+    ],
+    "base_response": "Un navegador web es una aplicación con estructura definida: barra de direcciones para ingresar sitios, área de visualización de páginas, pestañas para organizar contenidos, historial que registra visitas y menú de configuración para ajustar funciones. Su anatomía facilita explorar información en línea."
+  },
+  {
+    "intent_id": "errores_navegadores_web",
+    "keywords": [
+      "navegador",
+      "fallas",
+      "cookies",
+      "extensiones",
+      "actualizacion"
+    ],
+    "base_response": "Los navegadores pueden presentar errores por extensiones dañadas, caché saturada, cookies corruptas o falta de actualización. También fallan al cargar páginas por mala conexión o configuraciones inseguras. Detectar estos problemas ayuda a mantener una navegación estable y proteger la información personal."
+  },
+  {
+    "intent_id": "uso_navegadores_web_navegadores_web_de_internet",
+    "keywords": [
+      "navegador",
+      "busqueda",
+      "historial",
+      "seguridad",
+      "privacidad"
+    ],
+    "base_response": "Los navegadores web permiten buscar información, acceder a plataformas educativas y realizar tareas escolares en línea. Facilitan investigar temas, guardar sitios útiles y mantener seguridad mediante configuraciones adecuadas. Son herramientas esenciales para aprender y participar activamente en actividades digitales cotidianas."
+  },
+  {
+    "intent_id": "impact_navegadores_web",
+    "keywords": [
+      "navegadores",
+      "internet",
+      "acceso",
+      "informacion",
+      "comunicacion"
+    ],
+    "base_response": "Los navegadores web permiten acceder a información global y facilitan la comunicación digital. Su impacto social es enorme porque conectan comunidades, impulsan el aprendizaje y fomentan la participación en espacios virtuales. Son herramientas esenciales para comprender y desenvolverse en el mundo actual."
+  },
+  {
+    "intent_id": "riesgos_navegadores_web",
+    "keywords": [
+      "navegador",
+      "seguridad",
+      "malware",
+      "privacidad",
+      "configuracion"
+    ],
+    "base_response": "Los navegadores pueden exponer a riesgos como malware, rastreo excesivo y páginas falsas. Es esencial activar bloqueadores, revisar permisos, actualizar el software y evitar descargas desconocidas. Enseñar a los estudiantes a reconocer señales de peligro fortalece su navegación segura."
+  },
+  {
+    "intent_id": "clasificacion_navegadores_web",
+    "keywords": [
+      "navegadores",
+      "internet",
+      "clasificacion",
+      "motores",
+      "seguridad"
+    ],
+    "base_response": "Los navegadores web pueden clasificarse según su motor de renderizado, compatibilidad, seguridad y enfoque de uso. Esta taxonomía ayuda a comprender cómo funcionan, qué recursos emplean y qué ventajas ofrecen para facilitar la navegación eficiente en internet."
+  },
+  {
+    "intent_id": "mitos_navegadores_web_navegadores_web_de_internet",
+    "keywords": [
+      "navegadores",
+      "internet",
+      "seguridad",
+      "busqueda",
+      "privacidad"
+    ],
+    "base_response": "Muchos estudiantes creen que todos los navegadores funcionan igual, pero cada uno maneja la seguridad y la privacidad de manera distinta. También es falso que un navegador haga más rápida la conexión por sí solo; depende de la red y del dispositivo utilizado."
+  },
+  {
+    "intent_id": "conexion_sistemas_web",
+    "keywords": [
+      "navegadores",
+      "protocolos",
+      "servidores",
+      "extensiones",
+      "interaccion"
+    ],
+    "base_response": "Los navegadores mantienen una relación simbiótica con otros sistemas al interpretar protocolos, comunicarse con servidores y aprovechar extensiones que amplían funciones. Esta cooperación permite experiencias digitales fluidas, seguras y adaptadas a las necesidades de usuarios jóvenes en entornos educativos."
+  },
+  {
+    "intent_id": "navegador_energia",
+    "keywords": [
+      "navegadores",
+      "cargar",
+      "poder",
+      "electricidad",
+      "dispositivo"
+    ],
+    "base_response": "Los navegadores usan electricidad para mostrar contenido, transformando energía eléctrica en señales digitales que se visualizan en la pantalla; cada carga de página genera un pequeño ciclo de consumo y descarga, impactando el ahorro energético y la eficiencia de dispositivos."
+  },
+  {
+    "intent_id": "navegadores_web_experimentos",
+    "keywords": [
+      "navegador",
+      "prueba",
+      "velocidad",
+      "paginas",
+      "recursos"
+    ],
+    "base_response": "Los estudiantes pueden comparar navegadores observando velocidad, carga de páginas y consumo de recursos. Un experimento sencillo consiste en medir tiempos de respuesta usando sitios seguros y registrar resultados para analizar diferencias y comprender cómo influyen en la experiencia de navegación."
+  },
+  {
+    "intent_id": "impacto_navegadores_largo_plazo_navegadores_web_de_internet",
+    "keywords": [
+      "navegacion",
+      "privacidad",
+      "seguridad",
+      "habitos",
+      "exposicion"
+    ],
+    "base_response": "El uso prolongado de navegadores web puede influir en hábitos digitales, seguridad personal y capacidad crítica. A largo plazo, una navegación irresponsable incrementa riesgos de privacidad y exposición a contenidos dañinos, afectando desarrollo tecnológico responsable en jóvenes."
+  },
+  {
+    "intent_id": "impacto_navegadores_web",
+    "keywords": [
+      "navegadores",
+      "energia",
+      "consumo",
+      "emisiones",
+      "dispositivos"
+    ],
+    "base_response": "Los navegadores web influyen en el impacto ambiental mediante su eficiencia energética. Un navegador optimizado reduce el consumo de recursos y prolonga la vida útil de los dispositivos. Elegir opciones ligeras ayuda a disminuir emisiones y fomentar prácticas digitales responsables."
+  },
+  {
+    "intent_id": "mantenimiento_navegadores_web",
+    "keywords": [
+      "navegador",
+      "actualizacion",
+      "seguridad",
+      "limpieza",
+      "configuracion"
+    ],
+    "base_response": "Mantener el navegador actualizado previene fallos y mejora la seguridad. Limpiar caché y cookies regularmente evita lentitud y protege datos. Revisar extensiones instaladas reduce riesgos. Activar funciones de privacidad fortalece la navegación y ayuda a prevenir problemas futuros."
+  },
+  {
+    "intent_id": "proyecciones_navegadores_web",
+    "keywords": [
+      "navegadores",
+      "futuro",
+      "tecnologia",
+      "inteligencia",
+      "seguridad"
+    ],
+    "base_response": "Los navegadores web evolucionarán hacia experiencias más inmersivas, integrando inteligencia artificial avanzada, interfaces de voz y mayor personalización. Su desarrollo permitirá explorar contenidos con mayor seguridad, rapidez y adaptabilidad, facilitando el aprendizaje digital para estudiantes en entornos cada vez más conectados."
+  },
+  {
+    "intent_id": "estructura_motores_busqueda_motores_de_b_squeda_online",
+    "keywords": [
+      "rastreo",
+      "indexacion",
+      "algoritmos",
+      "consultas",
+      "datos"
+    ],
+    "base_response": "Un motor de búsqueda online es una herramienta digital organizada en módulos que rastrean, indexan y clasifican información web. Su estructura combina algoritmos, bases de datos y filtros que permiten localizar contenidos relevantes mediante consultas escritas por usuarios."
+  },
+  {
+    "intent_id": "dinamica_funcionamiento_busqueda",
+    "keywords": [
+      "servidores",
+      "indexacion",
+      "rastreo",
+      "algoritmos",
+      "datos"
+    ],
+    "base_response": "Los motores de búsqueda funcionan mediante enormes servidores que almacenan índices de páginas. Robots rastrean sitios y organizan datos. Cuando un usuario consulta, algoritmos analizan la información y entregan resultados relevantes en milisegundos, aprovechando infraestructura física distribuida."
+  },
+  {
+    "intent_id": "busqueda_errores_educacion",
+    "keywords": [
+      "busqueda",
+      "errores",
+      "patologias",
+      "filtrado",
+      "algoritmos"
+    ],
+    "base_response": "Los estudiantes suelen confiar en la primera página de resultados, olvidar corregir errores ortográficos o reformular sus líneas clave, y restar importancia a los filtros avanzados. Estas fallas generan malentendidos y la propagación de información poco fiable."
+  },
+  {
+    "intent_id": "impacto_ecologico_busquedas",
+    "keywords": [
+      "energia",
+      "servidores",
+      "consumo",
+      "sostenibilidad",
+      "internet"
+    ],
+    "base_response": "Los motores de búsqueda dependen de enormes centros de datos que consumen energía y generan huella ambiental. Comprender este entorno ecológico ayuda a valorar prácticas digitales responsables, como reducir búsquedas innecesarias y preferir servicios con políticas claras de sostenibilidad tecnológica."
+  },
+  {
+    "intent_id": "busqueda_online_aplicaciones",
+    "keywords": [
+      "busqueda",
+      "informacion",
+      "navegacion",
+      "evaluacion",
+      "aprendizaje"
+    ],
+    "base_response": "Los motores de búsqueda permiten encontrar información confiable para tareas escolares, investigar temas de interés y resolver dudas cotidianas. Ayudan a comparar datos, localizar recursos útiles y desarrollar habilidades críticas para seleccionar contenidos adecuados en entornos digitales cada vez más complejos."
+  },
+  {
+    "intent_id": "impact_motores_busqueda",
+    "keywords": [
+      "busqueda",
+      "informacion",
+      "internet",
+      "usuarios",
+      "privacidad"
+    ],
+    "base_response": "Los motores de búsqueda influyen en cómo las personas acceden a información y forman opiniones. Su impacto social incluye facilitar aprendizajes, pero también riesgos como desinformación y pérdida de privacidad. Comprender su funcionamiento ayuda a usar Internet de manera crítica y responsable."
+  },
+  {
+    "intent_id": "ventajas_desventajas_buscadores",
+    "keywords": [
+      "busqueda",
+      "informacion",
+      "resultados",
+      "privacidad",
+      "filtros"
+    ],
+    "base_response": "Los motores de búsqueda ofrecen acceso rápido a información variada y actualizada, facilitando el aprendizaje autónomo. Sin embargo, pueden mostrar resultados poco fiables, publicidad invasiva y riesgos para la privacidad. Comparar opciones ayuda a elegir herramientas más seguras y adecuadas para estudiantes."
+  },
+  {
+    "intent_id": "seguridad_en_motores_busqueda",
+    "keywords": [
+      "buscador",
+      "filtrado",
+      "privacidad",
+      "datos",
+      "filial"
+    ],
+    "base_response": "Los niños deben comprender que los motores de búsqueda exponen datos de manera pública y pueden enlazar contenido inapropiado. Usar filtros de contenido, proteger datos y consultar siempre fuentes confiables reduce riesgos y promueve la navegación segura."
+  },
+  {
+    "intent_id": "mitos_busqueda_online",
+    "keywords": [
+      "resultados",
+      "algoritmos",
+      "informacion",
+      "verificacion",
+      "privacidad"
+    ],
+    "base_response": "Muchos estudiantes creen que los motores de búsqueda muestran siempre la verdad, pero sus resultados dependen de algoritmos y popularidad. También piensan que todos los datos son seguros o privados, lo cual es falso. Verificar fuentes y comprender cómo funcionan evita confusiones frecuentes."
+  },
+  {
+    "intent_id": "busqueda_sistemas_simbiosis",
+    "keywords": [
+      "motores",
+      "busqueda",
+      "algoritmos",
+      "plataformas",
+      "sistemas"
+    ],
+    "base_response": "Los motores de búsqueda funcionan en conjunto con algoritmos, plataformas y servicios digitales, creando una relación simbiótica que mejora la precisión de resultados. Esta interacción permite integrar datos, optimizar procesos y ofrecer experiencias más eficientes para estudiantes en entornos tecnológicos."
+  },
+  {
+    "intent_id": "intent_motores_busqueda_demo",
+    "keywords": [
+      "busqueda",
+      "experimento",
+      "demostracion",
+      "algoritmo",
+      "datos"
+    ],
+    "base_response": "Con simples fórmulas y filtros, los estudiantes comparan resultados de distintos buscadores. El experimento muestra cómo los algoritmos priorizan palabras clave, historial y enlaces, mientras la demostración fiel transforma la búsqueda en diagnóstico y aprendizaje activo."
+  },
+  {
+    "intent_id": "impact_largo_plazo_busquedas",
+    "keywords": [
+      "informacion",
+      "privacidad",
+      "rastreo",
+      "habitos",
+      "dependencia"
+    ],
+    "base_response": "El uso constante de motores de búsqueda puede moldear la forma en que los jóvenes acceden y procesan información, generando dependencia tecnológica. A largo plazo, influye en sus hábitos de investigación, su privacidad digital y su capacidad para evaluar fuentes con criterio propio."
+  },
+  {
+    "intent_id": "impacto_busquedas_online",
+    "keywords": [
+      "energia",
+      "servidores",
+      "consumo",
+      "datos",
+      "internet"
+    ],
+    "base_response": "Los motores de búsqueda requieren enormes centros de datos que consumen mucha energía para procesar consultas y almacenar información. Su uso constante incrementa la huella de carbono digital. Adoptar búsquedas responsables y reducir consultas innecesarias ayuda a disminuir el impacto ambiental asociado."
+  },
+  {
+    "intent_id": "proyecciones_busqueda_online",
+    "keywords": [
+      "algoritmos",
+      "indexacion",
+      "personalizacion",
+      "automatizacion",
+      "innovacion"
+    ],
+    "base_response": "Los motores de búsqueda evolucionarán hacia sistemas más inteligentes capaces de interpretar contexto, anticipar necesidades y ofrecer resultados altamente personalizados. Integrarán inteligencia artificial avanzada, análisis predictivo y experiencias inmersivas que facilitarán el aprendizaje autónomo en estudiantes de 9 a 15 años."
+  },
+  {
+    "intent_id": "estructura_url_basica",
+    "keywords": [
+      "direccion",
+      "sitio",
+      "navegador",
+      "protocolo",
+      "dominio"
+    ],
+    "base_response": "Una dirección URL es la estructura que permite localizar recursos en la web. Incluye protocolo, dominio y ruta, organizados para que el navegador identifique el sitio correcto. Cada parte cumple una función específica que guía el acceso ordenado a páginas y servicios digitales."
+  },
+  {
+    "intent_id": "errores_url_sitios",
+    "keywords": [
+      "confusion",
+      "tecleo",
+      "omision",
+      "redireccion",
+      "seguridad"
+    ],
+    "base_response": "Los estudiantes suelen cometer errores al escribir direcciones URL, como omitir puntos, confundir barras o agregar espacios. Estas fallas provocan páginas inexistentes, redirecciones inesperadas o riesgos de seguridad. Practicar la estructura correcta ayuda a evitar problemas frecuentes."
+  },
+  {
+    "intent_id": "historia_url_web",
+    "keywords": [
+      "origen",
+      "historia",
+      "web",
+      "protocolos",
+      "dominios"
+    ],
+    "base_response": "Las direcciones URL surgieron con el desarrollo de la World Wide Web en los años noventa. Su origen se basa en la necesidad de identificar recursos en línea. Con el tiempo evolucionaron para incluir protocolos, dominios y rutas más complejas."
+  },
+  {
+    "intent_id": "guidelines_url_eco",
+    "keywords": [
+      "url",
+      "sitio",
+      "ecologia",
+      "entorno",
+      "navegacion"
+    ],
+    "base_response": "En el contexto ecológico, las URLs de sitios deben reflejar prácticas sostenibles: uso responsable del ancho de banda, respeto por la conservación de datos y diseño amigable a la comunidad de usuarios que valoran la interacción respetuosa con el entorno digital."
+  },
+  {
+    "intent_id": "uso_practico_urls_direcciones_url_de_sitios",
+    "keywords": [
+      "navegacion",
+      "busqueda",
+      "sitios",
+      "acceso",
+      "aprendizaje"
+    ],
+    "base_response": "Las direcciones URL permiten acceder rápidamente a sitios confiables, evitar páginas falsas y compartir recursos útiles. Comprender su estructura ayuda a identificar contenidos seguros, mejorar la búsqueda de información y desarrollar hábitos digitales responsables en actividades escolares y proyectos personales."
+  },
+  {
+    "intent_id": "impact_url_sociedad",
+    "keywords": [
+      "navegacion",
+      "informacion",
+      "seguridad",
+      "identidad",
+      "comunicacion"
+    ],
+    "base_response": "Las direcciones URL influyen en cómo accedemos a información confiable y segura. Comprender su estructura ayuda a evitar riesgos digitales y fomenta una participación responsable en línea. Su uso adecuado fortalece la comunicación, la identidad digital y el acceso equitativo al conocimiento."
+  },
+  {
+    "intent_id": "comparativa_urls",
+    "keywords": [
+      "navegacion",
+      "sitios",
+      "seguridad",
+      "acceso",
+      "informacion"
+    ],
+    "base_response": "Las direcciones URL facilitan el acceso rápido a sitios confiables y permiten identificar su seguridad mediante elementos visibles. Sin embargo, pueden ser largas, confusas y llevar a páginas riesgosas si se escriben mal. Compararlas ayuda a elegir opciones más claras, seguras y adecuadas para estudiantes."
+  },
+  {
+    "intent_id": "riesgos_url_seguras",
+    "keywords": [
+      "navegacion",
+      "enlaces",
+      "phishing",
+      "verificacion",
+      "proteccion"
+    ],
+    "base_response": "Las direcciones URL pueden ocultar riesgos como páginas falsas o descargas maliciosas. Es esencial verificar cada enlace antes de abrirlo, evitar acortar direcciones desconocidas y usar protección del navegador. Enseñar a identificar señales sospechosas reduce significativamente posibles daños."
+  },
+  {
+    "intent_id": "clasificacion_urls_educativa",
+    "keywords": [
+      "direccion",
+      "sitio",
+      "categoria",
+      "analisis",
+      "estructura"
+    ],
+    "base_response": "Las direcciones URL pueden clasificarse según su función y estructura, permitiendo identificar tipos de sitios y propósitos. Esta taxonomía ayuda a estudiantes a reconocer dominios, rutas y recursos, facilitando una comprensión organizada del contenido disponible en la web."
+  },
+  {
+    "intent_id": "mitos_url_seguras",
+    "keywords": [
+      "url",
+      "riesgos",
+      "suplantaciones",
+      "enlace",
+      "seguridad"
+    ],
+    "base_response": "Muchos estudiantes creen que todas las direcciones URL son seguras y verificadas, pero esto es falso. Una URL puede ocultar riesgos, suplantaciones o contenido malicioso. Es esencial analizar cada enlace y reconocer señales sospechosas antes de acceder."
+  },
+  {
+    "intent_id": "url_sitios_simbiosis",
+    "keywords": [
+      "navegacion",
+      "servidores",
+      "protocolos",
+      "interaccion",
+      "sistemas"
+    ],
+    "base_response": "Las direcciones URL funcionan como puentes que permiten a distintos sistemas comunicarse y compartir recursos. Al acceder a un sitio, el navegador coordina protocolos y servidores para entregar información precisa, creando una relación simbiótica que sostiene la experiencia digital del estudiante."
+  },
+  {
+    "intent_id": "impact_urls_largo_plazo",
+    "keywords": [
+      "navegacion",
+      "privacidad",
+      "historial",
+      "rastreo",
+      "seguridad"
+    ],
+    "base_response": "El uso descuidado de direcciones URL puede generar riesgos futuros, como exposición de datos, rastreo no deseado y creación de historiales difíciles de borrar. Comprender cómo funcionan las URL ayuda a proteger la privacidad y evitar consecuencias digitales que afectan la seguridad a largo plazo."
+  },
+  {
+    "intent_id": "cuidado_urls_seguras",
+    "keywords": [
+      "verificacion",
+      "navegacion",
+      "seguridad",
+      "proteccion",
+      "prevencion"
+    ],
+    "base_response": "Las direcciones URL deben revisarse con frecuencia para evitar riesgos. Verificar que el enlace sea legítimo ayuda a prevenir accesos a sitios falsos y proteger la información personal. Mantener hábitos de comprobación reduce errores y fortalece la seguridad digital cotidiana."
+  },
+  {
+    "intent_id": "edu_url_futuro_tecnologia",
+    "keywords": [
+      "url",
+      "futuro",
+      "tecnologia",
+      "aprender",
+      "recursos"
+    ],
+    "base_response": "Las URLs futuras incluirán etiquetas semánticas que mejorarán la accesibilidad, tecnologías de realidad aumentada para explorar sitios, y algoritmos de personalización que adapten recursos educativos según el nivel del alumno, anticipando una experiencia más inmersiva y colaborativa."
+  },
+  {
+    "intent_id": "estructura_servidores_web",
+    "keywords": [
+      "servidor",
+      "hardware",
+      "procesamiento",
+      "almacenamiento",
+      "red"
+    ],
+    "base_response": "Un servidor de alojamiento web es una máquina física o virtual que integra procesador, memoria, almacenamiento y conexiones de red. Su estructura permite recibir solicitudes, procesar datos y entregar páginas web a los navegadores de los usuarios de manera constante."
+  },
+  {
+    "intent_id": "servidores_alojamiento_web_dinamica",
+    "keywords": [
+      "servidor",
+      "hardware",
+      "procesamiento",
+      "almacenamiento",
+      "transferencia"
+    ],
+    "base_response": "Un servidor de alojamiento web funciona como una computadora potente que almacena archivos y procesa solicitudes. Sus componentes físicos, como procesador, memoria y discos, permiten enviar datos rápidamente a los navegadores. La infraestructura mantiene sitios accesibles y operativos en todo momento."
+  },
+  {
+    "intent_id": "errores_servidores_web",
+    "keywords": [
+      "servidor",
+      "fallas",
+      "latencia",
+      "sobrecarga",
+      "configuracion"
+    ],
+    "base_response": "Los servidores de alojamiento web pueden fallar por sobrecarga, mala configuración o problemas de hardware. Estos errores provocan lentitud, interrupciones y pérdida de datos. Detectar síntomas como alta latencia o reinicios frecuentes ayuda a prevenir daños mayores y mantener el servicio estable."
+  },
+  {
+    "intent_id": "historia_servidores_web",
+    "keywords": [
+      "servidores",
+      "alojamiento",
+      "internet",
+      "evolucion",
+      "infraestructura"
+    ],
+    "base_response": "Los servidores de alojamiento web surgieron con los primeros sitios de Internet en los años noventa. Su evolución permitió pasar de máquinas simples a centros de datos globales capaces de manejar millones de solicitudes, impulsando el crecimiento de servicios digitales modernos."
+  },
+  {
+    "intent_id": "servidores_ecologia_contexto",
+    "keywords": [
+      "servidores",
+      "alojamiento",
+      "energia",
+      "sostenibilidad",
+      "infraestructura"
+    ],
+    "base_response": "Los servidores de alojamiento web consumen energía constante y requieren sistemas de enfriamiento que impactan el entorno. Comprender su huella ecológica permite valorar prácticas sostenibles, como centros de datos eficientes y uso responsable de recursos digitales para reducir efectos ambientales."
+  },
+  {
+    "intent_id": "servidores_aplicaciones_reales",
+    "keywords": [
+      "servidores",
+      "alojamiento",
+      "web",
+      "sitios",
+      "aplicaciones"
+    ],
+    "base_response": "Los servidores de alojamiento web permiten que páginas y aplicaciones estén disponibles para cualquier persona en línea. En la vida real se usan para tiendas digitales, blogs escolares, juegos multijugador y plataformas educativas que necesitan funcionar de manera segura, rápida y accesible desde cualquier dispositivo."
+  },
+  {
+    "intent_id": "webhosting_social_impact",
+    "keywords": [
+      "servidor",
+      "alojamiento",
+      "web",
+      "programacion",
+      "inclusion"
+    ],
+    "base_response": "Los servidores de alojamiento web permiten a los estudiantes crear sitios, aprender programación básica y comprendan cómo se comparte información en línea. Este conocimiento abre oportunidades laborales y fomenta la colaboración global, mejorando la inclusión digital y la alfabetización tecnológica."
+  },
+  {
+    "intent_id": "analisis_servidores_web",
+    "keywords": [
+      "servidores",
+      "alojamiento",
+      "comparacion",
+      "rendimiento",
+      "seguridad"
+    ],
+    "base_response": "Comparar servidores de alojamiento web permite entender sus beneficios y limitaciones. Algunos ofrecen mayor velocidad y seguridad, mientras otros destacan por costos reducidos y flexibilidad. Evaluar estas diferencias ayuda a elegir opciones adecuadas para proyectos educativos y tecnológicos."
+  },
+  {
+    "intent_id": "riesgos_servidores_alojamiento_web",
+    "keywords": [
+      "servidores",
+      "alojamiento",
+      "seguridad",
+      "riesgos",
+      "proteccion"
+    ],
+    "base_response": "Los servidores de alojamiento web pueden sufrir ataques que comprometan datos y funcionamiento. Es esencial usar contraseñas seguras, actualizar software, activar copias de seguridad y limitar accesos. Estas medidas reducen vulnerabilidades y mantienen la información protegida ante posibles amenazas."
+  },
+  {
+    "intent_id": "clasificacion_servidores_web",
+    "keywords": [
+      "servidores",
+      "alojamiento",
+      "hardware",
+      "virtualizacion",
+      "escalabilidad"
+    ],
+    "base_response": "Los servidores de alojamiento web pueden clasificarse según su estructura y recursos. Existen servidores compartidos, dedicados, virtuales y en la nube. Cada tipo ofrece capacidades distintas para manejar tráfico, seguridad y rendimiento, adaptándose a necesidades educativas y tecnológicas diversas."
+  },
+  {
+    "intent_id": "calculos_servidores_web",
+    "keywords": [
+      "servidores",
+      "alojamiento",
+      "anchobanda",
+      "transferencia",
+      "capacidad"
+    ],
+    "base_response": "Los servidores de alojamiento requieren cálculos para estimar ancho de banda, capacidad de almacenamiento y transferencia mensual. Estos valores permiten prever cuántos usuarios pueden acceder simultáneamente sin afectar el rendimiento y ayudan a planificar recursos tecnológicos de manera eficiente."
+  },
+  {
+    "intent_id": "mitos_servidores_alojamiento",
+    "keywords": [
+      "servidores",
+      "alojamiento",
+      "web",
+      "mitos",
+      "seguridad"
+    ],
+    "base_response": "Muchos creen que los servidores de alojamiento web son ilimitados, siempre seguros y capaces de acelerar cualquier página por sí solos. En realidad, dependen de recursos finitos, requieren configuraciones adecuadas y no garantizan velocidad sin una buena optimización del sitio."
+  },
+  {
+    "intent_id": "servidores_alojamiento_sistemas",
+    "keywords": [
+      "servidores",
+      "alojamiento",
+      "integracion",
+      "plataformas",
+      "comunicacion"
+    ],
+    "base_response": "Los servidores de alojamiento web dependen de bases de datos, redes y aplicaciones para funcionar correctamente, mientras estos sistemas requieren servidores estables para ofrecer servicios digitales. Esta relación simbiótica garantiza rendimiento, seguridad y disponibilidad continua en proyectos tecnológicos escolares y juveniles."
+  },
+  {
+    "intent_id": "servidores_web_campos",
+    "keywords": [
+      "servidor",
+      "energia",
+      "conversion",
+      "calor",
+      "ciclo",
+      "rendimiento"
+    ],
+    "base_response": "Los servidores de alojamiento web transforman la energía eléctrica en procesamiento y calor, formando parte de un ciclo energético continuo. El consumo energético repercute en la demanda de refrigeración, generación de calor y, a largo plazo, en la eficiencia energética del centro de datos."
+  },
+  {
+    "intent_id": "demo_servidores_web",
+    "keywords": [
+      "servidor",
+      "alojamiento",
+      "sitio",
+      "conexion",
+      "transferencia"
+    ],
+    "base_response": "Un experimento escolar útil consiste en montar un servidor local con una computadora y mostrar cómo aloja un sitio sencillo. Los estudiantes observan la transferencia de archivos, prueban accesos desde otros dispositivos y comprenden cómo funciona el alojamiento web en situaciones reales."
+  },
+  {
+    "intent_id": "impacto_servidores_largo_plazo",
+    "keywords": [
+      "servidores",
+      "alojamiento",
+      "escalabilidad",
+      "seguridad",
+      "sostenibilidad"
+    ],
+    "base_response": "Los servidores de alojamiento web influyen en la estabilidad futura de proyectos digitales. Elegir opciones seguras y escalables reduce riesgos y facilita el crecimiento. Una infraestructura sostenible disminuye costos y mejora el rendimiento a largo plazo, favoreciendo experiencias confiables para usuarios jóvenes y adultos."
+  },
+  {
+    "intent_id": "impacto_ambiental_servidores",
+    "keywords": [
+      "servidores",
+      "energia",
+      "consumo",
+      "refrigeracion",
+      "emisiones"
+    ],
+    "base_response": "Los servidores de alojamiento web requieren mucha energía para funcionar y mantenerse fríos, lo que incrementa su impacto ambiental. Un uso eficiente, centros de datos verdes y energías renovables ayudan a reducir emisiones y minimizar el daño ecológico asociado a su operación continua."
+  },
+  {
+    "intent_id": "mantenimiento_servidores_web",
+    "keywords": [
+      "servidor",
+      "alojamiento",
+      "mantenimiento",
+      "seguridad",
+      "actualizacion"
+    ],
+    "base_response": "El mantenimiento de servidores de alojamiento web requiere revisar rendimiento, aplicar actualizaciones y monitorear seguridad. Es esencial prevenir fallos mediante copias de seguridad frecuentes, control de tráfico y verificación de hardware. Una gestión constante evita interrupciones y garantiza experiencias confiables para los usuarios."
+  },
+  {
+    "intent_id": "futuro_servidores_web",
+    "keywords": [
+      "servidores",
+      "alojamiento",
+      "escalabilidad",
+      "automatizacion",
+      "virtualizacion"
+    ],
+    "base_response": "Los servidores de alojamiento web evolucionarán hacia infraestructuras más automatizadas, rápidas y eficientes. La virtualización avanzada permitirá escalar recursos dinámicamente, mientras tecnologías emergentes impulsarán mayor seguridad y menor consumo energético. Estas mejoras facilitarán experiencias digitales más estables y accesibles para estudiantes y creadores."
+  },
+  {
+    "intent_id": "wifi_redes_estructura",
+    "keywords": [
+      "router",
+      "antena",
+      "frecuencia",
+      "transmision",
+      "señal"
+    ],
+    "base_response": "Una red inalámbrica de wifi se compone de un router con antenas que emiten señales por frecuencias específicas. Estas señales viajan por el aire y permiten conectar dispositivos sin cables. Su estructura incluye canales, protocolos y mecanismos de seguridad integrados."
+  },
+  {
+    "intent_id": "wifi_dinamica_funcionamiento",
+    "keywords": [
+      "ondas",
+      "frecuencia",
+      "router",
+      "transmision",
+      "señal"
+    ],
+    "base_response": "Las redes inalámbricas de wifi funcionan mediante ondas electromagnéticas que viajan por el aire desde el router hacia los dispositivos. La señal se mueve en frecuencias específicas y puede debilitarse por distancia, obstáculos físicos o interferencias de otros aparatos electrónicos."
+  },
+  {
+    "intent_id": "errores_wifi_escolar",
+    "keywords": [
+      "interferencias",
+      "congestion",
+      "distancia",
+      "obstaculos",
+      "configuracion"
+    ],
+    "base_response": "Las redes inalámbricas de wifi suelen fallar por interferencias, congestión de dispositivos, distancia excesiva al punto de acceso y obstáculos físicos que debilitan la señal. También ocurren errores por configuraciones incorrectas, contraseñas mal ingresadas o equipos que no soportan estándares modernos."
+  },
+  {
+    "intent_id": "historia_wifi_redes",
+    "keywords": [
+      "wifi",
+      "redes",
+      "origen",
+      "evolucion",
+      "tecnologia"
+    ],
+    "base_response": "Las redes inalámbricas WiFi surgieron en los años noventa, basadas en avances previos de comunicación por radio. Su evolución permitió mayor velocidad, estabilidad y alcance. Con cada estándar nuevo, el WiFi se volvió más seguro y eficiente, transformando la forma en que dispositivos se conectan diariamente."
+  },
+  {
+    "intent_id": "intent_redes_wifi_eco",
+    "keywords": [
+      "redes",
+      "wifi",
+      "interferencia",
+      "consumo",
+      "energia"
+    ],
+    "base_response": "Las redes wifi usan energía eléctrica, generando calor y emisiones indirectas. Su propagación se ve afectada por edificios, árboles y fenómenos atmosféricos, influyendo en la calidad del aire y la salud de ecosistemas urbanos, lo que exige medidas de sostenibilidad."
+  },
+  {
+    "intent_id": "wifi_aplicaciones_real_jovenes",
+    "keywords": [
+      "conexiones",
+      "internet",
+      "equipos",
+      "seguridad",
+      "diagnostico"
+    ],
+    "base_response": "Los alumnos de 9 a 15 años aprenden a usar redes wifi, configurando routers, gestionando privilegios y protegiendo la seguridad. Conectarse, migrar y diagnosticar fallos ayuda a obtener éxito en sus proyectos escolares, mejorando su autonomía y manejo de la información digital."
+  },
+  {
+    "intent_id": "impact_wifi_social",
+    "keywords": [
+      "wifi",
+      "comunicacion",
+      "acceso",
+      "educacion",
+      "comunidad"
+    ],
+    "base_response": "Las redes inalámbricas de wifi facilitan el acceso rápido a información y recursos digitales, impulsando la educación y la comunicación. Su disponibilidad fortalece la participación social, reduce brechas tecnológicas y permite que más personas se integren activamente en actividades comunitarias y proyectos colaborativos."
+  },
+  {
+    "intent_id": "wifi_redes_ventajas_desventajas",
+    "keywords": [
+      "wifi",
+      "velocidad",
+      "interferencia",
+      "movilidad",
+      "seguridad"
+    ],
+    "base_response": "Las redes inalámbricas de wifi ofrecen movilidad y facilidad de instalación, permitiendo conectar varios dispositivos sin cables. Sin embargo, pueden sufrir interferencias, menor velocidad que conexiones cableadas y riesgos de seguridad si no se configuran adecuadamente, afectando la estabilidad y el rendimiento general."
+  },
+  {
+    "intent_id": "riesgos_wifi_seguridad",
+    "keywords": [
+      "wifi",
+      "riesgos",
+      "contraseñas",
+      "proteccion",
+      "dispositivos"
+    ],
+    "base_response": "Las redes inalámbricas de wifi pueden exponer datos personales si no se protegen adecuadamente. Es esencial usar contraseñas fuertes, evitar conexiones públicas inseguras y mantener los dispositivos actualizados. Configurar cifrado y desactivar funciones innecesarias reduce riesgos y mejora la seguridad general."
+  },
+  {
+    "intent_id": "clasificacion_redes_wifi",
+    "keywords": [
+      "wifi",
+      "frecuencias",
+      "protocolos",
+      "routers",
+      "cobertura"
+    ],
+    "base_response": "Las redes inalámbricas de wifi pueden clasificarse según estándares, bandas de frecuencia y alcance. Esta taxonomía permite distinguir versiones como Wi‑Fi 4, 5 y 6, cada una con mejoras en velocidad, eficiencia y estabilidad para distintos entornos educativos y domésticos."
+  },
+  {
+    "intent_id": "wifi_calculos_formula",
+    "keywords": [
+      "potencia",
+      "perdida",
+      "tasa",
+      "capacidad",
+      "trayectoria"
+    ],
+    "base_response": "Para estimar el alcance de una red wifi y su rendimiento se utilizan fórmulas como la ecuación de Friis y el teorema de Shannon. Estas calculan la potencia recibida, la pérdida de trayectoria y la tasa de datos máxima posible."
+  },
+  {
+    "intent_id": "mitos_wifi_inalambrico",
+    "keywords": [
+      "wifi",
+      "ondas",
+      "salud",
+      "velocidad",
+      "interferencia"
+    ],
+    "base_response": "Muchos estudiantes creen que el wifi puede causar daños físicos o que las ondas atraviesan cualquier material sin límites. También piensan que más antenas siempre significan mayor velocidad. En realidad, las redes inalámbricas tienen restricciones físicas y no representan riesgos para la salud cuando se usan adecuadamente."
+  },
+  {
+    "intent_id": "wifi_sistemas_simbiosis",
+    "keywords": [
+      "wifi",
+      "routers",
+      "sensores",
+      "comunicacion",
+      "interaccion"
+    ],
+    "base_response": "Las redes inalámbricas de wifi funcionan en conjunto con dispositivos y sistemas digitales, creando una relación simbiótica que permite intercambiar datos de manera continua. Esta interacción mejora la eficiencia de sensores, aplicaciones y servicios conectados, facilitando experiencias tecnológicas más fluidas y dinámicas."
+  },
+  {
+    "intent_id": "experimentos_wifi_escolar",
+    "keywords": [
+      "wifi",
+      "senal",
+      "obstaculos",
+      "medicion",
+      "redes"
+    ],
+    "base_response": "Un experimento escolar útil consiste en medir la intensidad de la señal wifi usando diferentes obstáculos y distancias. El alumnado observa cómo paredes, muebles y materiales afectan la transmisión inalámbrica, comprendiendo mejor el comportamiento real de las redes en su entorno."
+  },
+  {
+    "intent_id": "consecuencias_wifi_largo_plazo",
+    "keywords": [
+      "seguridad",
+      "dispositivos",
+      "dependencia",
+      "riesgos",
+      "datos"
+    ],
+    "base_response": "Las redes inalámbricas de wifi pueden generar consecuencias a largo plazo relacionadas con la seguridad digital, la exposición prolongada a dispositivos conectados y la dependencia tecnológica. Es esencial enseñar prácticas responsables para proteger datos, reducir riesgos y fomentar un uso equilibrado."
+  },
+  {
+    "intent_id": "impacto_wifi_ambiental",
+    "keywords": [
+      "radiacion",
+      "energia",
+      "infraestructura",
+      "consumo",
+      "dispositivos"
+    ],
+    "base_response": "Las redes inalámbricas de wifi generan un impacto ambiental moderado debido al consumo energético constante de routers y dispositivos conectados. Aunque su radiación es baja, la producción y desecho de equipos electrónicos contribuyen a la contaminación y requieren prácticas responsables de reciclaje."
+  },
+  {
+    "intent_id": "wifi_mantenimiento_prevencion",
+    "keywords": [
+      "router",
+      "actualizacion",
+      "seguridad",
+      "limpieza",
+      "reinicio"
+    ],
+    "base_response": "El mantenimiento del wifi requiere revisar el router, actualizar su firmware, limpiar físicamente el equipo y reiniciarlo periódicamente. También es importante cambiar contraseñas y evitar sobrecargas de dispositivos. Estas acciones previenen fallas y mejoran la estabilidad de la red inalámbrica."
+  },
+  {
+    "intent_id": "futuras_redes_wifi",
+    "keywords": [
+      "wifi",
+      "redes",
+      "sensores",
+      "automatizacion",
+      "velocidad"
+    ],
+    "base_response": "Las redes inalámbricas evolucionarán hacia conexiones más rápidas, seguras y eficientes, integrando sensores inteligentes y automatización avanzada. La expansión del wifi permitirá gestionar dispositivos domésticos y escolares con menor consumo energético y mayor estabilidad, impulsando experiencias digitales más fluidas para estudiantes."
+  },
+  {
+    "intent_id": "estructura_fibra_optica",
+    "keywords": [
+      "fibra",
+      "cable",
+      "nucleo",
+      "revestimiento",
+      "transmision"
+    ],
+    "base_response": "Un cable de fibra óptica está formado por un núcleo que guía la luz, un revestimiento que mantiene su trayectoria y una cubierta protectora. Su estructura permite transmitir datos a gran velocidad mediante pulsos luminosos que viajan sin interferencias."
+  },
+  {
+    "intent_id": "fibra_optica_dinamica_funcionamiento",
+    "keywords": [
+      "luz",
+      "transmision",
+      "fibra",
+      "reflexion",
+      "datos"
+    ],
+    "base_response": "Los cables de fibra óptica funcionan guiando pulsos de luz que viajan por núcleos transparentes. La luz rebota internamente gracias a la reflexión total, permitiendo transmitir datos rápidamente sin interferencias. Su dinámica depende de materiales precisos y un control óptico estable."
+  },
+  {
+    "intent_id": "fibra_optica_materiales",
+    "keywords": [
+      "vidrio",
+      "silice",
+      "polimero",
+      "transmision",
+      "flexibilidad"
+    ],
+    "base_response": "Los cables de fibra óptica se fabrican principalmente con sílice purificada y recubrimientos poliméricos que protegen su estructura. Estos materiales permiten una transmisión estable de luz, alta resistencia química y notable flexibilidad, esenciales para comunicaciones rápidas y seguras en entornos educativos tecnológicos."
+  },
+  {
+    "intent_id": "fibra_optica_errores_fallas",
+    "keywords": [
+      "roturas",
+      "microcurvaturas",
+      "contaminacion",
+      "atenuacion",
+      "conectores"
+    ],
+    "base_response": "Los cables de fibra óptica pueden fallar por microcurvaturas, roturas, conectores dañados o contaminación en las superficies de unión. Estos problemas generan pérdida de señal, atenuación excesiva y cortes intermitentes que afectan la transmisión. Revisar y limpiar adecuadamente evita la mayoría de estas fallas."
+  },
+  {
+    "intent_id": "historia_fibra_optica",
+    "keywords": [
+      "fibra",
+      "transmision",
+      "luz",
+      "comunicacion",
+      "tecnologia"
+    ],
+    "base_response": "Los cables de fibra óptica surgieron en el siglo XX gracias a avances en transmisión de luz. Su evolución permitió enviar datos a gran velocidad mediante hilos de vidrio muy finos. Con el tiempo se volvieron esenciales para comunicaciones modernas y redes globales."
+  },
+  {
+    "intent_id": "fibra_optica_ecologia",
+    "keywords": [
+      "materiales",
+      "instalacion",
+      "energia",
+      "produccion",
+      "recursos"
+    ],
+    "base_response": "Los cables de fibra óptica influyen en el entorno ecológico al requerir materiales específicos y procesos de instalación que afectan el suelo. Su eficiencia energética reduce impactos ambientales, pero su producción demanda recursos que deben gestionarse responsablemente para minimizar daños ecológicos."
+  },
+  {
+    "intent_id": "fibra_optica_aplicaciones",
+    "keywords": [
+      "fibra",
+      "cables",
+      "internet",
+      "transmision",
+      "comunicacion"
+    ],
+    "base_response": "Los cables de fibra óptica permiten transmitir datos a gran velocidad y se usan en conexiones de internet, redes escolares y servicios de streaming. Su capacidad para enviar información con precisión mejora la comunicación diaria y facilita actividades educativas modernas."
+  },
+  {
+    "intent_id": "impact_fibra_optica",
+    "keywords": [
+      "comunicacion",
+      "transmision",
+      "infraestructura",
+      "tecnologia",
+      "sociedad"
+    ],
+    "base_response": "Los cables de fibra óptica permiten comunicaciones rápidas y seguras, impulsando el acceso a información y servicios esenciales. Su uso fortalece la educación, la salud y la economía, reduciendo brechas digitales y mejorando la calidad de vida en comunidades diversas."
+  },
+  {
+    "intent_id": "fibra_optica_ventajas_desventajas",
+    "keywords": [
+      "transmision",
+      "velocidad",
+      "latencia",
+      "instalacion",
+      "costo"
+    ],
+    "base_response": "Los cables de fibra óptica ofrecen gran velocidad, baja latencia y resistencia a interferencias. Sin embargo, su instalación puede ser más compleja y costosa que otras opciones. Son ideales para conexiones estables y rápidas, aunque requieren infraestructura especializada."
+  },
+  {
+    "intent_id": "riesgos_fibra_optica",
+    "keywords": [
+      "fibra",
+      "cables",
+      "seguridad",
+      "riesgos",
+      "proteccion"
+    ],
+    "base_response": "Los cables de fibra óptica pueden causar lesiones si se manipulan sin cuidado, especialmente por fragmentos de vidrio y luz láser. Es esencial usar protección ocular, evitar doblar los cables y mantener herramientas adecuadas. Supervisar siempre a menores durante cualquier actividad técnica."
+  },
+  {
+    "intent_id": "clasificacion_fibra_optica",
+    "keywords": [
+      "fibra",
+      "cables",
+      "transmision",
+      "luz",
+      "materiales"
+    ],
+    "base_response": "Los cables de fibra óptica pueden clasificarse según su modo de transmisión, distinguiendo entre monomodo y multimodo. También se organizan por tipo de revestimiento y estructura interna, lo que determina su alcance, velocidad y aplicaciones en redes educativas y tecnológicas."
+  },
+  {
+    "intent_id": "calculos_fibra_optica",
+    "keywords": [
+      "fibra",
+      "cables",
+      "velocidad",
+      "transmision",
+      "longitud"
+    ],
+    "base_response": "Los cálculos en cables de fibra óptica suelen relacionar velocidad de transmisión, longitud del cable y atenuación. Para estimar pérdidas, se multiplica la atenuación por kilómetro por la distancia total. También se calcula el tiempo de viaje usando la velocidad de la luz dividida entre el índice de refracción."
+  },
+  {
+    "intent_id": "cables_fibra_mitos",
+    "keywords": [
+      "fibra",
+      "cable",
+      "velocidad",
+      "conexion",
+      "inteligencia"
+    ],
+    "base_response": "El mito que la fibra óptica es demasiado frágil suele impedir su uso práctico. En realidad, la estructura cerámica ofrece gran resistencia mecánica y no requiere convertidores costosos; además, su alta banda ancha permite redes escolares confiables sin interrupciones de señal."
+  },
+  {
+    "intent_id": "fibra_optica_sistemas_relacion",
+    "keywords": [
+      "transmision",
+      "datos",
+      "infraestructura",
+      "redes",
+      "comunicacion"
+    ],
+    "base_response": "Los cables de fibra óptica funcionan en conjunto con servidores, routers y centros de datos, creando una red eficiente que transporta información a gran velocidad. Esta relación permite que múltiples sistemas tecnológicos operen de manera coordinada y estable, favoreciendo servicios digitales confiables."
+  },
+  {
+    "intent_id": "fibra_optica_experimentos",
+    "keywords": [
+      "fibra",
+      "luz",
+      "transmision",
+      "materiales",
+      "experimento"
+    ],
+    "base_response": "Los estudiantes pueden observar cómo la luz viaja por un cable transparente usando agua, botellas y punteros láser seguros. Este experimento demuestra la reflexión interna y permite comprender el principio básico de la fibra óptica mediante una actividad sencilla y visualmente atractiva."
+  },
+  {
+    "intent_id": "impact_fibra_optica_largo_plazo",
+    "keywords": [
+      "fibra",
+      "transmision",
+      "infraestructura",
+      "comunicacion",
+      "tecnologia"
+    ],
+    "base_response": "La expansión de cables de fibra óptica generará redes más rápidas y estables, impulsando educación, salud y economía. A largo plazo, permitirá mayor acceso digital, reducirá brechas tecnológicas y fomentará innovación continua en comunidades que dependen de conectividad confiable."
+  },
+  {
+    "intent_id": "impacto_fibra_optica_ambiental",
+    "keywords": [
+      "fibra",
+      "cables",
+      "materiales",
+      "reciclaje",
+      "residuos"
+    ],
+    "base_response": "Los cables de fibra óptica generan menor impacto ambiental que otros sistemas porque requieren menos energía y producen menos emisiones. Sin embargo, su fabricación usa materiales difíciles de reciclar, y el desecho tecnológico aumenta si no se gestionan adecuadamente durante renovaciones o reemplazos."
+  },
+  {
+    "intent_id": "mantenimiento_fibra_optica",
+    "keywords": [
+      "fibra",
+      "cable",
+      "limpieza",
+      "inspeccion",
+      "proteccion"
+    ],
+    "base_response": "El mantenimiento de cables de fibra óptica requiere limpieza cuidadosa, inspección periódica y protección contra humedad y dobleces. Es esencial evitar tirones y mantener las conexiones seguras para prevenir daños. Una revisión regular garantiza transmisión estable y reduce fallas futuras."
+  },
+  {
+    "intent_id": "futuro_fibra_optica",
+    "keywords": [
+      "fibra",
+      "optica",
+      "transmision",
+      "velocidad",
+      "innovacion"
+    ],
+    "base_response": "La fibra óptica seguirá avanzando con mayores velocidades, menor latencia y materiales más eficientes. Permitirá conexiones más estables para videojuegos, realidad aumentada y aprendizaje remoto. Su evolución impulsará redes inteligentes capaces de adaptarse a las necesidades tecnológicas de estudiantes y creadores jóvenes."
+  },
+  {
+    "intent_id": "estructura_hipertexto_digital",
+    "keywords": [
+      "hipervinculo",
+      "navegacion",
+      "ancla",
+      "destino",
+      "referencia"
+    ],
+    "base_response": "Un enlace de hipertexto digital es una estructura que conecta un elemento visible con una dirección específica dentro o fuera de un documento. Su anatomía incluye un texto ancla, una URL destino y un mecanismo que permite saltar entre contenidos relacionados."
+  },
+  {
+    "intent_id": "hipertexto_dinamica_fisica",
+    "keywords": [
+      "hipervinculo",
+      "navegacion",
+      "clic",
+      "interaccion",
+      "estructura"
+    ],
+    "base_response": "Los enlaces de hipertexto funcionan al detectar un clic y dirigir al usuario hacia otro recurso digital. Su dinámica depende de una estructura interna que relaciona nodos de información, permitiendo saltos rápidos entre contenidos y facilitando la exploración organizada dentro de un entorno digital."
+  },
+  {
+    "intent_id": "errores_hipertexto_digital",
+    "keywords": [
+      "hipervinculos",
+      "navegacion",
+      "errores",
+      "clics",
+      "confusiones"
+    ],
+    "base_response": "Los enlaces de hipertexto digital pueden fallar por direcciones mal escritas, páginas eliminadas o rutas cambiadas. También generan confusión cuando el texto ancla es ambiguo o repetitivo. Estos problemas afectan la navegación y dificultan que los estudiantes encuentren información confiable."
+  },
+  {
+    "intent_id": "hipertexto_historia_origen",
+    "keywords": [
+      "hipertexto",
+      "navegacion",
+      "documentos",
+      "internet",
+      "tecnologia"
+    ],
+    "base_response": "Los enlaces de hipertexto surgieron en los años sesenta como una idea para conectar información de manera dinámica. Con la llegada de la Web en los noventa, evolucionaron hasta convertirse en la base de la navegación digital moderna, permitiendo explorar contenidos relacionados con rapidez y facilidad."
+  },
+  {
+    "intent_id": "hipertexto_aplicaciones_reales",
+    "keywords": [
+      "hipertexto",
+      "navegacion",
+      "informacion",
+      "aprendizaje",
+      "busqueda"
+    ],
+    "base_response": "Los enlaces de hipertexto digital permiten acceder rápidamente a recursos útiles en tareas escolares, tutoriales y plataformas educativas. Facilitan la exploración de contenidos relacionados, mejoran la comprensión y ayudan a desarrollar habilidades de investigación esenciales para resolver problemas cotidianos con mayor autonomía."
+  },
+  {
+    "intent_id": "impact_hipertexto_digital",
+    "keywords": [
+      "hipertexto",
+      "navegacion",
+      "informacion",
+      "interaccion",
+      "comunidad"
+    ],
+    "base_response": "Los enlaces de hipertexto digital facilitan el acceso rápido a información diversa y fomentan la participación activa en comunidades en línea. Su impacto social incluye mayor colaboración, difusión de conocimientos y construcción de redes que fortalecen el aprendizaje y la comunicación entre jóvenes."
+  },
+  {
+    "intent_id": "ventajas_hipertexto_digital",
+    "keywords": [
+      "hipertexto",
+      "navegacion",
+      "informacion",
+      "acceso",
+      "estructura"
+    ],
+    "base_response": "Los enlaces de hipertexto digital facilitan la navegación rápida y el acceso organizado a información diversa. Permiten explorar contenidos relacionados y profundizar en temas. Sin embargo, pueden generar distracciones, pérdida de foco y dependencia de rutas externas que no siempre garantizan calidad o coherencia educativa."
+  },
+  {
+    "intent_id": "riesgos_hipertexto_digital",
+    "keywords": [
+      "enlaces",
+      "clics",
+      "malware",
+      "phishing",
+      "proteccion"
+    ],
+    "base_response": "Los enlaces de hipertexto pueden llevar a sitios inseguros que intenten robar datos o instalar malware. Es esencial verificar la fuente antes de hacer clic, usar filtros de contenido y mantener dispositivos actualizados para reducir riesgos y navegar con mayor seguridad."
+  },
+  {
+    "intent_id": "clasificacion_hipertexto_digital",
+    "keywords": [
+      "enlaces",
+      "hipertexto",
+      "clasificacion",
+      "estructura",
+      "navegacion"
+    ],
+    "base_response": "Los enlaces de hipertexto digital pueden clasificarse según su función, destino y estructura. Esta taxonomía permite identificar enlaces internos, externos, contextuales y jerárquicos, facilitando la comprensión de cómo conectan información y mejoran la navegación en entornos digitales educativos."
+  },
+  {
+    "intent_id": "mitos_hipertexto_digital",
+    "keywords": [
+      "hipervinculo",
+      "navegacion",
+      "informacion",
+      "seguridad",
+      "acceso"
+    ],
+    "base_response": "Muchos estudiantes creen que todos los enlaces son seguros o que siempre llevan a información confiable. También piensan que un hipervínculo funciona igual en cualquier dispositivo. Estas ideas generan riesgos y dificultan una comprensión crítica del uso responsable de enlaces digitales."
+  },
+  {
+    "intent_id": "hipertexto_simbiosis_sistemas",
+    "keywords": [
+      "enlaces",
+      "navegacion",
+      "sistemas",
+      "interaccion",
+      "contenido"
+    ],
+    "base_response": "Los enlaces de hipertexto digital funcionan como puentes que conectan información y servicios, creando una relación simbiótica con otros sistemas. Facilitan la navegación, integran recursos diversos y permiten que plataformas distintas colaboren para ofrecer experiencias más completas y dinámicas."
+  },
+  {
+    "intent_id": "explora_enlaces_digital",
+    "keywords": [
+      "crea",
+      "enlaza",
+      "interactua",
+      "verifica",
+      "documenta"
+    ],
+    "base_response": "Un laboratorio sencillo permite a los estudiantes crear una página con varios enlaces, probar la navegación, documentar cómo funcionan los hipervínculos y presentar resultados. Esta actividad refuerza comprensión de la estructura web y despierta curiosidad tecnológica inmediata."
+  },
+  {
+    "intent_id": "impacto_hipertexto_digital",
+    "keywords": [
+      "hipertexto",
+      "navegacion",
+      "informacion",
+      "aprendizaje",
+      "lectura"
+    ],
+    "base_response": "El uso constante de enlaces de hipertexto digital puede moldear la forma en que los estudiantes procesan información, favoreciendo saltos rápidos entre contenidos. A largo plazo, esto influye en su capacidad de concentración, en la evaluación crítica de fuentes y en la construcción de aprendizajes más profundos."
+  },
+  {
+    "intent_id": "hipertexto_mantenimiento_prevencion",
+    "keywords": [
+      "hipervinculos",
+      "revision",
+      "actualizacion",
+      "seguridad",
+      "navegacion"
+    ],
+    "base_response": "Los enlaces de hipertexto requieren revisión periódica para evitar direcciones rotas y asegurar una navegación confiable. Es importante actualizar vínculos antiguos, verificar su seguridad y prevenir accesos a sitios dañinos que puedan afectar la experiencia digital de estudiantes entre nueve y quince años."
+  },
+  {
+    "intent_id": "hipertexto_futuro_tecnologia",
+    "keywords": [
+      "hipertexto",
+      "navegacion",
+      "interaccion",
+      "realidad",
+      "innovacion"
+    ],
+    "base_response": "Los enlaces de hipertexto digital evolucionarán hacia formatos más inteligentes, capaces de anticipar necesidades y conectar recursos inmersivos. Su integración con realidad aumentada y sistemas adaptativos permitirá experiencias educativas más dinámicas, personalizadas y profundamente interactivas para estudiantes."
+  },
+  {
+    "intent_id": "protocolo_http_estructura",
+    "keywords": [
+      "protocolo",
+      "transferencia",
+      "cliente",
+      "servidor",
+      "peticion"
+    ],
+    "base_response": "El protocolo HTTP organiza la comunicación entre cliente y servidor mediante mensajes estructurados. Incluye métodos, encabezados y cuerpo para definir qué se solicita y cómo se envía. Su arquitectura basada en solicitudes y respuestas permite transmitir información de forma clara y ordenada."
+  },
+  {
+    "intent_id": "http_transfer_dinamica",
+    "keywords": [
+      "protocolo",
+      "transferencia",
+      "cliente",
+      "servidor",
+      "paquetes"
+    ],
+    "base_response": "El protocolo HTTP funciona enviando solicitudes desde un cliente hacia un servidor mediante paquetes de datos. Cada paquete viaja por cables o señales inalámbricas, siguiendo rutas físicas en la red. El servidor responde con información estructurada que el navegador interpreta para mostrar contenido."
+  },
+  {
+    "intent_id": "exploracion_http_protocolo",
+    "keywords": [
+      "peticiones",
+      "codigos",
+      "timeouts",
+      "caching",
+      "caminos"
+    ],
+    "base_response": "El protocolo HTTP puede presentar errores en la respuesta de un servidor, como códigos 404 o 500, pero también fallas intermedias, como timeouts o problemas de caché, que provocan retrasos y desconexiones inesperadas de red."
+  },
+  {
+    "intent_id": "historia_http",
+    "keywords": [
+      "protocolo",
+      "transferencia",
+      "internet",
+      "comunicacion",
+      "servidor"
+    ],
+    "base_response": "El protocolo HTTP surgió a comienzos de los años noventa como parte del proyecto World Wide Web. Su evolución ha permitido mejorar la velocidad, seguridad y eficiencia en la comunicación entre navegadores y servidores, pasando de versiones simples a estándares modernos ampliamente utilizados."
+  },
+  {
+    "intent_id": "http_transfer_aplicaciones",
+    "keywords": [
+      "navegacion",
+      "servidor",
+      "solicitud",
+      "respuesta",
+      "datos"
+    ],
+    "base_response": "El protocolo HTTP permite que navegadores y servidores intercambien datos para mostrar páginas, reproducir videos y cargar formularios. Cada vez que un estudiante busca información, envía una solicitud y recibe una respuesta que hace posible la experiencia digital cotidiana."
+  },
+  {
+    "intent_id": "impact_http_transfer",
+    "keywords": [
+      "protocolo",
+      "transferencia",
+      "comunicacion",
+      "servidor",
+      "navegador"
+    ],
+    "base_response": "El protocolo HTTP es esencial para que navegadores y servidores intercambien información de forma rápida y segura. Su impacto social es enorme porque permite acceder a recursos educativos, comunicarse globalmente y participar en comunidades digitales que fortalecen el aprendizaje y la colaboración en línea."
+  },
+  {
+    "intent_id": "protocolo_http_ventajas_desventajas",
+    "keywords": [
+      "transferencia",
+      "recurso",
+      "conexion",
+      "seguridad",
+      "rendimiento"
+    ],
+    "base_response": "El protocolo HTTP facilita la comunicación entre clientes y servidores mediante peticiones sencillas, pero su naturaleza sin estado y la falta de cifrado en versiones antiguas introducen limitaciones de seguridad y emplean ancho de banda más alto a intervalos cortos, generando errores de código."
+  },
+  {
+    "intent_id": "riesgos_http_seguridad",
+    "keywords": [
+      "http",
+      "riesgos",
+      "intercepcion",
+      "seguridad",
+      "proteccion"
+    ],
+    "base_response": "El uso de HTTP puede exponer datos a intercepciones y manipulaciones, especialmente en redes públicas. Para reducir riesgos, es esencial emplear HTTPS, verificar certificados, evitar compartir información sensible y utilizar contraseñas seguras. Estas medidas fortalecen la protección durante la navegación."
+  },
+  {
+    "intent_id": "protocolo_http_clasificacion",
+    "keywords": [
+      "protocolo",
+      "transferencia",
+      "metodos",
+      "comunicacion",
+      "servidor"
+    ],
+    "base_response": "El protocolo HTTP se clasifica según los métodos que utiliza para solicitar y enviar información entre cliente y servidor. Cada método cumple una función específica que organiza cómo se transfieren datos, permitiendo estructurar las acciones y mantener una comunicación clara y eficiente."
+  },
+  {
+    "intent_id": "mitos_http_transferencia",
+    "keywords": [
+      "http",
+      "protocolo",
+      "transferencia",
+      "servidor",
+      "cliente"
+    ],
+    "base_response": "Muchos creen que HTTP es un programa o una aplicación, pero en realidad es un protocolo que organiza cómo viajan los datos entre cliente y servidor. También se piensa que garantiza seguridad total, aunque por sí solo no cifra la información ni evita ataques."
+  },
+  {
+    "intent_id": "http_simbiosis",
+    "keywords": [
+      "http",
+      "navegadores",
+      "servidores",
+      "apis",
+      "comunicacion"
+    ],
+    "base_response": "El protocolo HTTP funciona en estrecha colaboración con navegadores, servidores y APIs, permitiendo el intercambio ordenado de datos. Su diseño facilita que múltiples sistemas cooperen, asegurando comunicación estable y eficiente en entornos digitales educativos y aplicaciones tecnológicas diversas."
+  },
+  {
+    "intent_id": "protocolo_transferencia_http_demo",
+    "keywords": [
+      "http",
+      "servidor",
+      "cliente",
+      "peticion",
+      "respuesta"
+    ],
+    "base_response": "Un experimento escolar útil consiste en observar cómo un navegador envía peticiones HTTP y recibe respuestas del servidor. Los estudiantes pueden usar herramientas simples para ver encabezados, códigos de estado y contenido, comprendiendo mejor el proceso de transferencia de información en la web."
+  },
+  {
+    "intent_id": "impacto_http_largo_plazo",
+    "keywords": [
+      "seguridad",
+      "privacidad",
+      "estandarizacion",
+      "comunicacion",
+      "eficiencia"
+    ],
+    "base_response": "El uso continuo del protocolo HTTP influirá en la seguridad digital, la privacidad y la eficiencia de la comunicación en línea. A largo plazo, su evolución determinará cómo se protegen los datos, cómo interactúan los servicios web y qué estándares tecnológicos adoptarán futuras generaciones."
+  },
+  {
+    "intent_id": "impacto_http_ambiental",
+    "keywords": [
+      "transferencia",
+      "energia",
+      "servidores",
+      "redes",
+      "emisiones"
+    ],
+    "base_response": "El protocolo HTTP influye en el impacto ambiental porque cada transferencia de datos consume energía en servidores y redes. Optimizar solicitudes y reducir contenido innecesario disminuye el uso de recursos, ayudando a minimizar emisiones asociadas al tráfico digital global."
+  },
+  {
+    "intent_id": "http_mantenimiento_prevencion",
+    "keywords": [
+      "mantenimiento",
+      "seguridad",
+      "servidores",
+      "configuraciones",
+      "supervisar"
+    ],
+    "base_response": "El protocolo HTTP requiere prácticas de mantenimiento para evitar fallos y vulnerabilidades. Supervisar configuraciones, actualizar servidores y aplicar medidas de seguridad ayuda a prevenir interrupciones y asegurar transferencias estables. Enseñar estos cuidados fomenta hábitos tecnológicos responsables en estudiantes jóvenes."
+  },
+  {
+    "intent_id": "futuro_http_tecnologia",
+    "keywords": [
+      "http",
+      "transferencia",
+      "protocolo",
+      "innovacion",
+      "tecnologia"
+    ],
+    "base_response": "El protocolo HTTP seguirá avanzando mediante versiones más seguras y rápidas, integrando cifrado automático y optimización para dispositivos móviles. Su futuro incluirá mayor eficiencia energética, soporte para aplicaciones inmersivas y adaptación constante a nuevas demandas tecnológicas globales."
+  },
+  {
+    "intent_id": "dns_estructura_basica",
+    "keywords": [
+      "dominio",
+      "servidor",
+      "consulta",
+      "registro",
+      "resolucion"
+    ],
+    "base_response": "El sistema de dominios DNS se organiza en niveles jerárquicos que incluyen dominios raíz, dominios de nivel superior y subdominios. Cada parte almacena registros que permiten traducir nombres legibles en direcciones IP, facilitando la comunicación entre dispositivos conectados a Internet."
+  },
+  {
+    "intent_id": "dns_dinamica_fisica",
+    "keywords": [
+      "dominios",
+      "servidores",
+      "consulta",
+      "resolucion",
+      "direccion"
+    ],
+    "base_response": "El sistema DNS funciona como una red de servidores que responden consultas para traducir nombres de dominio en direcciones IP. Cada petición viaja entre equipos distribuidos que almacenan registros y devuelven información precisa, permitiendo que los dispositivos encuentren recursos en Internet de manera eficiente."
+  },
+  {
+    "intent_id": "dns_errores_comunes",
+    "keywords": [
+      "dns",
+      "fallas",
+      "resolucion",
+      "servidores",
+      "conexiones"
+    ],
+    "base_response": "Los errores en DNS suelen incluir fallas de resolución, servidores inaccesibles y configuraciones incorrectas que impiden localizar sitios web. También aparecen problemas por caché desactualizada o interrupciones en conexiones. Estos fallos afectan la navegación y requieren verificación técnica cuidadosa."
+  },
+  {
+    "intent_id": "dns_historia_origen",
+    "keywords": [
+      "dominios",
+      "internet",
+      "servidores",
+      "nombres",
+      "protocolos"
+    ],
+    "base_response": "El sistema de dominios DNS surgió en los años ochenta para reemplazar listas manuales de direcciones. Su creación permitió organizar nombres y direcciones de manera jerárquica, facilitando el crecimiento de Internet. Con el tiempo evolucionó para mejorar seguridad, velocidad y estabilidad global."
+  },
+  {
+    "intent_id": "dns_aplicaciones_reales",
+    "keywords": [
+      "dominios",
+      "servidores",
+      "navegacion",
+      "internet",
+      "busquedas"
+    ],
+    "base_response": "El sistema de dominios DNS permite que cualquier persona acceda a sitios web usando nombres fáciles de recordar. Facilita la navegación diaria, desde buscar información escolar hasta usar aplicaciones en línea, traduciendo nombres en direcciones que las computadoras pueden entender rápidamente."
+  },
+  {
+    "intent_id": "dns_importancia_social",
+    "keywords": [
+      "dominios",
+      "internet",
+      "navegacion",
+      "comunicacion",
+      "seguridad"
+    ],
+    "base_response": "El sistema de dominios DNS es esencial para que las personas accedan fácilmente a sitios web, ya que convierte nombres en direcciones comprensibles. Su impacto social incluye facilitar la comunicación, el aprendizaje y la participación digital segura en comunidades conectadas."
+  },
+  {
+    "intent_id": "dns_ventajas_desventajas",
+    "keywords": [
+      "dominios",
+      "servidores",
+      "resolucion",
+      "consultas",
+      "seguridad"
+    ],
+    "base_response": "El sistema DNS facilita la navegación al traducir nombres en direcciones, mejora la organización y acelera el acceso a sitios. Sin embargo, puede presentar vulnerabilidades, depender de servidores externos y generar fallos si alguna parte de la cadena de resolución se interrumpe."
+  },
+  {
+    "intent_id": "riesgo_dns",
+    "keywords": [
+      "seguridad",
+      "ataques",
+      "dominios",
+      "proteccion",
+      "navegacion"
+    ],
+    "base_response": "El sistema de dominios DNS puede ser vulnerable a ataques que redirigen tráfico hacia sitios falsos, exponiendo datos personales. Es esencial usar conexiones seguras, verificar certificados y mantener dispositivos actualizados para reducir riesgos y proteger la navegación en línea."
+  }
+]
