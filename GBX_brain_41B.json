@@ -1,0 +1,2862 @@
+[
+    {
+        "intent_id": "constantes_de_valor_inmutable_definicion_anatomica_o_estructural",
+        "keywords": [
+            "identificador",
+            "constante",
+            "definida",
+            "haciendo",
+            "directiva"
+        ],
+        "base_response": "El identificador de una constante definida haciendo uso de la directiva define será una cadena de caracteres que deberá cumplir los mismos requisitos que el de una variable (sin espacios en blanco, no empezar por un dígito numérico, etc.)."
+    },
+    {
+        "intent_id": "constantes_de_valor_inmutable_dinamica_y_funcionamiento_fisico",
+        "keywords": [
+            "lenguaje",
+            "constantes",
+            "pueden",
+            "establecidas",
+            "parametros"
+        ],
+        "base_response": "En este lenguaje, las constantes pueden ser establecidas en parámetros de cualquier tipo (cadena o numéricos) sin presentar errores y al igual que en C se permite que las constantes realicen cálculos antes de ser utilizadas."
+    },
+    {
+        "intent_id": "manejo_de_excepciones_logicas_definicion_anatomica_o_estructural",
+        "keywords": [
+            "excepciones",
+            "dividen",
+            "verificadas",
+            "importante",
+            "division"
+        ],
+        "base_response": "Las excepciones se dividen en verificadas y no verificadas. Es importante esta división porque el traductor implementa requerimientos de atrapar o declarar para las verificadas lo que hará que se detecten las excepciones automáticamente y de acuerdo al lenguaje de programación utilizado se utilizará un método para corregirlas."
+    },
+    {
+        "intent_id": "manejo_de_excepciones_logicas_dinamica_y_funcionamiento_fisico",
+        "keywords": [
+            "ocasiones",
+            "lanza",
+            "excepcion",
+            "atrapa",
+            "enlace"
+        ],
+        "base_response": "En ocasiones cuando se lanza una excepción, pero no se atrapa en un enlace específico, la pila de llamadas se limpia y el programa intenta volverlo a atrapar en el siguiente bloque, esto se conoce como limpieza de pila."
+    },
+    {
+        "intent_id": "manejo_de_excepciones_logicas_errores_fallas_y_patologias_comunes",
+        "keywords": [
+            "caracteristicas",
+            "utilizadas",
+            "programadores",
+            "hacer",
+            "analisis"
+        ],
+        "base_response": "Estas características son utilizadas por los programadores para hacer un análisis de lo esperado del programa antes y después de su ejecución. Son importantes porque gracias a ellas se pueden detectar posibles fallas en el programa y corregirlas."
+    },
+    {
+        "intent_id": "interfaces_de_programacion_api_definicion_anatomica_o_estructural",
+        "keywords": [
+            "ingles",
+            "application",
+            "programming",
+            "interface",
+            "espanol"
+        ],
+        "base_response": "Una API (del inglés, application programming interface, en español, interfaz de programación de aplicaciones) es una pieza de código que permite a dos aplicaciones comunicarse entre sí para compartir información y funcionalidades. Se usan generalmente en bibliotecas de programación."
+    },
+    {
+        "intent_id": "diseno_funcional_de_orden_definicion_anatomica_o_estructural",
+        "keywords": [
+            "lenguajes",
+            "funcionales",
+            "buscan",
+            "eliminar",
+            "mutabilidad"
+        ],
+        "base_response": "Algunos lenguajes funcionales también buscan eliminar la mutabilidad o efectos secundarios; en contraste con la programación imperativa, que se basa en los cambios de estado mediante la mutación de variables. En programación funcional pura, si dos expresiones son sintácticamente iguales entonces siempre devolverán el mismo resultado."
+    },
+    {
+        "intent_id": "diseno_funcional_de_orden_dinamica_y_funcionamiento_fisico",
+        "keywords": [
+            "otros",
+            "lenguajes",
+            "programacion",
+            "estan",
+            "disenados"
+        ],
+        "base_response": "Otros lenguajes de programación no están diseñados específicamente para seguir un estilo funcional, sin embargo lo ofrecen como alternativa. Por ejemplo, Perl, JavaScript y Python fueron diseñados con capacidades de programación funcional, además de incorporar otros modelos."
+    },
+    {
+        "intent_id": "diseno_funcional_de_orden_errores_fallas_y_patologias_comunes",
+        "keywords": [
+            "objetivo",
+            "conseguir",
+            "lenguajes",
+            "expresivos",
+            "matematicamente"
+        ],
+        "base_response": "El objetivo es conseguir lenguajes expresivos y matemáticamente elegantes, en los que no sea necesario bajar al nivel de la máquina para describir el proceso llevado a cabo por el programa, y evitar el concepto de estado del cómputo."
+    },
+    {
+        "intent_id": "diseno_funcional_de_orden_historia_origen_y_evolucion",
+        "keywords": [
+            "caracteristicas",
+            "propias",
+            "lenguajes",
+            "existencia",
+            "asignaciones"
+        ],
+        "base_response": "Otras características propias de estos lenguajes son la no existencia de asignaciones de variables y la falta de construcciones estructuradas como la secuencia o la iteración (lo que obliga en la práctica a que todas las repeticiones de instrucciones se lleven a cabo por medio de funciones recursivas)."
+    },
+    {
+        "intent_id": "diseno_funcional_de_orden_contexto_y_entorno_ecologico",
+        "keywords": [
+            "existen",
+            "grandes",
+            "categorias",
+            "lenguajes",
+            "funcionales"
+        ],
+        "base_response": "Existen dos grandes categorías de lenguajes funcionales: los funcionales puros y los híbridos. La diferencia entre ambos estriba en que los lenguajes funcionales híbridos son menos dogmáticos que los puros, al admitir conceptos tomados de los lenguajes imperativos, como las secuencias de instrucciones o la asignación de variables."
+    },
+    {
+        "intent_id": "diseno_funcional_de_orden_aplicaciones_practicas_en_la_vida_real",
+        "keywords": [
+            "funciones",
+            "orden",
+            "superior",
+            "pueden",
+            "tomar"
+        ],
+        "base_response": "Funciones de orden superior son funciones que pueden tomar otras funciones como argumentos o devolverlos como resultados. En cálculo , un ejemplo de una función de orden superior es el operador diferencial d / dx , que devuelve la derivada de una función f ."
+    },
+    {
+        "intent_id": "diseno_funcional_de_orden_importancia_e_impacto_social",
+        "keywords": [
+            "funciones",
+            "orden",
+            "superior",
+            "estan",
+            "estrechamente"
+        ],
+        "base_response": "Las funciones de orden superior están estrechamente relacionadas con las funciones de primera clase en las cuales las funciones de orden superior y las funciones de primera clase pueden recibir como argumentos y resultados otras funciones."
+    },
+    {
+        "intent_id": "diseno_funcional_de_orden_ventajas_y_desventajas_comparativas",
+        "keywords": [
+            "funciones",
+            "orden",
+            "superior",
+            "permiten",
+            "aplicacion"
+        ],
+        "base_response": "Las funciones de orden superior permiten la aplicación parcial y la currificación, una técnica en la que se aplica una función a sus argumentos uno a la vez, con cada aplicación devolver una nueva función que acepta el siguiente argumento."
+    },
+    {
+        "intent_id": "diseno_funcional_de_orden_riesgos_y_medidas_de_seguridad",
+        "keywords": [
+            "mayoria",
+            "compiladores",
+            "lenguajes",
+            "imperativos",
+            "detectan"
+        ],
+        "base_response": "La mayoría de los traductores de lenguajes imperativos detectan funciones puras automáticamente y realizan la eliminación de subexpresiones comunes. Sin embargo no siempre es posible detectarlo en bibliotecas pre-compiladas, porque por norma general no dan esta información."
+    },
+    {
+        "intent_id": "diseno_funcional_de_orden_clasificacion_taxonomica",
+        "keywords": [
+            "iterar",
+            "lenguajes",
+            "funcionales",
+            "normalmente",
+            "llevado"
+        ],
+        "base_response": "Iterar en los lenguajes funcionales es normalmente llevado a cabo mediante recursividad. Las funciones recursivas se invocan a sí mismas, permitiendo que una operación se realice una y otra vez hasta alcanzar el caso base."
+    },
+    {
+        "intent_id": "diseno_funcional_de_orden_mitos_y_concepciones_erroneas",
+        "keywords": [
+            "lenguajes",
+            "funcionales",
+            "pueden",
+            "clasificados",
+            "hecho"
+        ],
+        "base_response": "Los lenguajes funcionales pueden ser clasificados por el hecho de usar evaluación estricta(eager) o no estricta(lazy), conceptos que hacen referencia a cómo los argumentos de las funciones son procesados cuando una expresión está siendo evaluada."
+    },
+    {
+        "intent_id": "diseno_funcional_de_orden_mantenimiento_y_prevencion",
+        "keywords": [
+            "implementacion",
+            "estrategia",
+            "comun",
+            "evaluacion",
+            "estricta"
+        ],
+        "base_response": "La implementación de la estrategia común para evaluación no estricta en los lenguajes funcionales es la de reducción mediante un grafo. La evaluación no estricta es utilizada por defecto en multitud de lenguajes funcionales puros, incluidos Miranda, Clean y Haskell."
+    },
+    {
+        "intent_id": "diseno_funcional_de_orden_proyecciones_futuras_y_tecnologia",
+        "keywords": [
+            "hughes",
+            "defendia",
+            "evaluacion",
+            "estricta",
+            "mecanismo"
+        ],
+        "base_response": "Hughes (1984) defendía la evaluación no estricta como un mecanismo para mejorar la modularidad de los programas a través de la separación de tareas, a partir de la implementación de productores y consumidores de flujos de datos de forma fácil e independiente."
+    },
+    {
+        "intent_id": "punteros_de_memoria_fisica_definicion_anatomica_o_estructural",
+        "keywords": [
+            "ciencias",
+            "computacion",
+            "puntero",
+            "objeto",
+            "lenguaje"
+        ],
+        "base_response": "En ciencias de la computación, un puntero es un objeto del lenguaje de programación, cuyo valor se refiere a (o \"apunta a\") otro valor almacenado en otra parte de la memoria del ordenador utilizando su dirección."
+    },
+    {
+        "intent_id": "punteros_de_memoria_fisica_dinamica_y_funcionamiento_fisico",
+        "keywords": [
+            "punteros",
+            "utilizan",
+            "mantener",
+            "direcciones",
+            "puntos"
+        ],
+        "base_response": "Los punteros también se utilizan para mantener las direcciones de los puntos de entrada para las subrutinas para llamadas en programación por procedimientos y enlaces para vincular a las bibliotecas de enlace dinámico (DLL) en tiempo de ejecución."
+    },
+    {
+        "intent_id": "punteros_de_memoria_fisica_errores_fallas_y_patologias_comunes",
+        "keywords": [
+            "primitivo",
+            "simplemente",
+            "cualquier",
+            "leido",
+            "escrito"
+        ],
+        "base_response": "Un dato primitivo (o simplemente primitivo) es cualquier dato que puede ser leído o escrito en la memoria del ordenador usando un acceso de memoria (por ejemplo, tanto un byte como una palabra son primitivas)."
+    },
+    {
+        "intent_id": "punteros_de_memoria_fisica_historia_origen_y_evolucion",
+        "keywords": [
+            "general",
+            "puntero",
+            "referencia",
+            "almacenado",
+            "algun"
+        ],
+        "base_response": "Más en general, un puntero es un tipo de referencia, y se dice que un puntero referencia a un dato almacenado en algún lugar de la memoria; para obtener ese dato se desreferencia el puntero."
+    },
+    {
+        "intent_id": "punteros_de_memoria_fisica_contexto_y_entorno_ecologico",
+        "keywords": [
+            "configuren",
+            "estructuras",
+            "datos",
+            "listas",
+            "colas"
+        ],
+        "base_response": "Cuando se configuren estructuras de datos como listas, colas y árboles, es necesario contar con indicadores para ayudar a controlar cómo se implementa y controla la estructura. Ejemplos típicos de punteros son los de inicio, los punteros finales y los punteros de pila."
+    },
+    {
+        "intent_id": "punteros_de_memoria_fisica_aplicaciones_practicas_en_la_vida_real",
+        "keywords": [
+            "direcciones",
+            "relativas",
+            "forma",
+            "segmentacion",
+            "memoria"
+        ],
+        "base_response": "Las direcciones relativas son una forma de segmentación de memoria manual, y comparten muchas de sus ventajas y desventajas. Una compensación de dos bytes, que contiene un entero sin signo de 16 bits, se puede utilizar para proporcionar direccionamiento relativo de hasta 64 kilobytes de una estructura de datos."
+    },
+    {
+        "intent_id": "punteros_de_memoria_fisica_importancia_e_impacto_social",
+        "keywords": [
+            "desplazamiento",
+            "valor",
+            "ascii",
+            "hexadecimal",
+            "caracter"
+        ],
+        "base_response": "Un desplazamiento de un byte, tal como el valor ASCII hexadecimal de un carácter (por ejemplo, X'29') se puede utilizar para apuntar a un valor alternativo entero (o índice) en una matriz (por ejemplo, X'01')."
+    },
+    {
+        "intent_id": "punteros_de_memoria_fisica_ventajas_y_desventajas_comparativas",
+        "keywords": [
+            "parte",
+            "sistemas",
+            "tienen",
+            "unidades",
+            "memoria"
+        ],
+        "base_response": "Por otra parte, algunos sistemas tienen más unidades de memoria que no son direcciones. En este caso, se emplea un esquema más complejo, tal como la segmentación de memoria o de paginación a utilizar diferentes partes de la memoria en diferentes momentos."
+    },
+    {
+        "intent_id": "punteros_de_memoria_fisica_riesgos_y_medidas_de_seguridad",
+        "keywords": [
+            "proporcionar",
+            "interfaz",
+            "consistente",
+            "algunas",
+            "arquitecturas"
+        ],
+        "base_response": "Con el fin de proporcionar una interfaz consistente, algunas arquitecturas proporcionan E/S mapeada en memoria, lo que permite a algunas direcciones que se refieren a las unidades de memoria, mientras que otros se refieren a los registros de dispositivos de otros dispositivos en el ordenador."
+    },
+    {
+        "intent_id": "punteros_de_memoria_fisica_clasificacion_taxonomica",
+        "keywords": [
+            "punteros",
+            "utilizan",
+            "pasar",
+            "parametros",
+            "referencia"
+        ],
+        "base_response": "Los punteros se utilizan para pasar parámetros por referencia. Esto es útil si el programador quiere modificaciones de una función a un parámetro sea visible para llamador de la función de la función. Esto también es útil para devolver varios valores de una función."
+    },
+    {
+        "intent_id": "punteros_de_memoria_fisica_mitos_y_concepciones_erroneas",
+        "keywords": [
+            "desreferenciar",
+            "puntero",
+            "produce",
+            "comportamiento",
+            "indefinido"
+        ],
+        "base_response": "Desreferenciar un puntero nulo en C produce un comportamiento indefinido, que podría ser catastrófico. Sin embargo, la mayoría de las implementaciones , simplemente detienen la ejecución del programa en cuestión, usualmente con un fallo de segmentación."
+    },
+    {
+        "intent_id": "punteros_de_memoria_fisica_mantenimiento_y_prevencion",
+        "keywords": [
+            "asigna",
+            "valor",
+            "direccion",
+            "ejemplo",
+            "almacenado"
+        ],
+        "base_response": "Esto asigna el valor de la dirección de a a ptr. Por ejemplo, si a está almacenado en la ubicación de memoria de 0x8130 entonces el valor de ptr será 0x8130 después de la asignación. Para eliminar la referencia al puntero, se utiliza de nuevo el asterisco:"
+    },
+    {
+        "intent_id": "punteros_de_memoria_fisica_proyecciones_futuras_y_tecnologia",
+        "keywords": [
+            "mayoria",
+            "operadores",
+            "matrices",
+            "punteros",
+            "equivalentes"
+        ],
+        "base_response": "Aunque la mayoría de los operadores sobre matrices y punteros sean equivalentes, es importante tener en cuenta que el operador sizeof será diferente. En este ejemplo, sizeof (array) evaluará a 5*sizeof(int) (el tamaño de la matriz), mientras que sizeof(ptr) evaluará sizeof (int*), el tamaño del propio puntero."
+    },
+    {
+        "intent_id": "bases_de_datos_relacionales_definicion_anatomica_o_estructural",
+        "keywords": [
+            "sistema",
+            "software",
+            "utilizado",
+            "mantener",
+            "bases"
+        ],
+        "base_response": "Un sistema de software utilizado para mantener las bases de datos relacionales es un relational database management system (RDBMS) o sistema de gestión de bases de datos relacionales. Virtualmente, todos los sistemas de bases de datos relacionales utilizan SQL (Structured Query Language) para consultar y mantener la base de datos."
+    },
+    {
+        "intent_id": "bases_de_datos_relacionales_dinamica_y_funcionamiento_fisico",
+        "keywords": [
+            "relaciones",
+            "almacenan",
+            "datos",
+            "calculadas",
+            "aplicar"
+        ],
+        "base_response": "Otras relaciones no almacenan datos, pero son calculadas al aplicar operaciones relacionales. Estas relaciones son llamadas relaciones derivadas y su implementación es llamada \"vista\" o \"consulta\". Las relaciones derivadas son convenientes, ya que expresan información de varias relaciones actuando como si fuera una sola tabla."
+    },
+    {
+        "intent_id": "bases_de_datos_relacionales_errores_fallas_y_patologias_comunes",
+        "keywords": [
+            "algunas",
+            "determinadas",
+            "usuarios",
+            "inherentemente",
+            "definidas"
+        ],
+        "base_response": "Algunas no son determinadas por los usuarios, sino que son inherentemente definidas por el simple hecho de que la BD sea relacional. Algunas otras restricciones las puede definir el usuario, por ejemplo, usar un campo con valores enteros entre 1 y 10."
+    },
+    {
+        "intent_id": "bases_de_datos_relacionales_historia_origen_y_evolucion",
+        "keywords": [
+            "dominio",
+            "describe",
+            "conjunto",
+            "posibles",
+            "valores"
+        ],
+        "base_response": "Un dominio describe un conjunto de posibles valores para cierto atributo. Como un dominio restringe los valores del atributo, puede ser considerado como una restricción. Matemáticamente, atribuir un dominio a un atributo significa \"cualquier valor de este atributo debe ser elemento del conjunto especificado\"."
+    },
+    {
+        "intent_id": "bases_de_datos_relacionales_contexto_y_entorno_ecologico",
+        "keywords": [
+            "tabla",
+            "tener",
+            "campos",
+            "cuyos",
+            "valores"
+        ],
+        "base_response": "Cada tabla puede tener uno o más campos cuyos valores identifican de forma única cada registro de dicha tabla, es decir, no pueden existir dos o más registros diferentes cuyos valores en dichos campos sean idénticos. Este conjunto de campos se llama clave única."
+    },
+    {
+        "intent_id": "bases_de_datos_relacionales_aplicaciones_practicas_en_la_vida_real",
+        "keywords": [
+            "clave",
+            "primaria",
+            "unica",
+            "estar",
+            "conformada"
+        ],
+        "base_response": "Una clave primaria es una clave única (puede estar conformada por uno o más campos de la tabla) elegida entre todas las candidatas que define unívocamente a todos los demás atributos de la tabla para especificar los datos que serán relacionados con las demás tablas."
+    },
+    {
+        "intent_id": "bases_de_datos_relacionales_importancia_e_impacto_social",
+        "keywords": [
+            "clave",
+            "foranea",
+            "referencia",
+            "tabla",
+            "determina"
+        ],
+        "base_response": "Una clave foránea es una referencia a una clave en otra tabla, determina la relación existente en dos tablas. Las claves foráneas no necesitan ser claves únicas en la tabla donde están y sí a donde están referenciadas."
+    },
+    {
+        "intent_id": "bases_de_datos_relacionales_ventajas_y_desventajas_comparativas",
+        "keywords": [
+            "ejemplo",
+            "codigo",
+            "departamento",
+            "clave",
+            "foranea"
+        ],
+        "base_response": "Por ejemplo, el código de departamento puede ser una clave foránea en la tabla de empleados. Se permite que haya varios empleados en un mismo departamento, pero habrá uno y solo un departamento por cada clave distinta de departamento en la tabla de departamentos."
+    },
+    {
+        "intent_id": "bases_de_datos_relacionales_riesgos_y_medidas_de_seguridad",
+        "keywords": [
+            "indices",
+            "generalmente",
+            "consideran",
+            "parte",
+            "datos"
+        ],
+        "base_response": "Los índices generalmente no se consideran parte de la base de datos, pues son un detalle agregado. Sin embargo, las claves índices son desarrolladas por el mismo grupo de programadores que las otras partes de la base de datos."
+    },
+    {
+        "intent_id": "bases_de_datos_relacionales_clasificacion_taxonomica",
+        "keywords": [
+            "procedimiento",
+            "almacenado",
+            "codigo",
+            "ejecutable",
+            "asocia"
+        ],
+        "base_response": "Un procedimiento almacenado es código ejecutable que se asocia y se almacena con la base de datos. Los procedimientos almacenados usualmente recogen y personalizan operaciones comunes, como insertar un registro dentro de una tabla, recopilar información estadística, o encapsular cálculos complejos."
+    },
+    {
+        "intent_id": "bases_de_datos_relacionales_mitos_y_concepciones_erroneas",
+        "keywords": [
+            "bases",
+            "datos",
+            "relacionales",
+            "pasan",
+            "proceso"
+        ],
+        "base_response": "Las bases de datos relacionales pasan por un proceso al que se le conoce como normalización de una base de datos. Dicho proceso se basa principalmente en el concepto de dependencia funcional es un esquema que permite que la base de datos sea usada de manera óptima."
+    },
+    {
+        "intent_id": "bases_de_datos_relacionales_mantenimiento_y_prevencion",
+        "keywords": [
+            "manipular",
+            "informacion",
+            "utilizamos",
+            "lenguaje",
+            "relacional"
+        ],
+        "base_response": "Para manipular la información utilizamos un lenguaje relacional, actualmente se cuenta con dos lenguajes formales el álgebra relacional y el cálculo relacional. El álgebra relacional permite describir la forma de realizar una consulta, en cambio, el cálculo relacional solo indica lo que se desea devolver."
+    },
+    {
+        "intent_id": "bases_de_datos_relacionales_proyecciones_futuras_y_tecnologia",
+        "keywords": [
+            "lenguaje",
+            "comun",
+            "construir",
+            "consultas",
+            "bases"
+        ],
+        "base_response": "El lenguaje más común para construir las consultas a bases de datos relacionales es el SQL (Structured Query Language), un estándar implementado por los principales motores o sistemas de gestión de bases de datos relacionales integradas."
+    },
+    {
+        "intent_id": "consultas_estructuradas_de_sql_definicion_anatomica_o_estructural",
+        "keywords": [
+            "siglas",
+            "ingles",
+            "structured",
+            "query",
+            "language"
+        ],
+        "base_response": "SQL (por sus siglas en inglés Structured Query Language; en español lenguaje de consulta estructurada) es un lenguaje específico de dominio, diseñado para administrar, y recuperar información de sistemas de gestión de bases de datos relacionales."
+    },
+    {
+        "intent_id": "consultas_estructuradas_de_sql_dinamica_y_funcionamiento_fisico",
+        "keywords": [
+            "primeros",
+            "lenguajes",
+            "comerciales",
+            "modelo",
+            "relacional"
+        ],
+        "base_response": "SQL fue uno de los primeros lenguajes comerciales para el modelo relacional de Edgar Frank Codd como se describió en su artículo de investigación de 1970 El modelo relacional de datos para grandes bancos de datos compartidos."
+    },
+    {
+        "intent_id": "consultas_estructuradas_de_sql_errores_fallas_y_patologias_comunes",
+        "keywords": [
+            "estandar",
+            "instituto",
+            "nacional",
+            "estadounidense",
+            "estandares"
+        ],
+        "base_response": "SQL pasó a ser el estándar del Instituto Nacional Estadounidense de Estándares (ANSI) en 1986 y de la Organización Internacional de Normalización (ISO) en 1987. Desde entonces, el estándar ha sido revisado para incluir más características."
+    },
+    {
+        "intent_id": "consultas_estructuradas_de_sql_historia_origen_y_evolucion",
+        "keywords": [
+            "origenes",
+            "estan",
+            "ligados",
+            "bases",
+            "datos"
+        ],
+        "base_response": "Los orígenes de SQL están ligados a las bases de datos relacionales, específicamente las que residían en máquinas IBM bajo el sistema de gestión System R, desarrollado por un grupo de la IBM en San José, California."
+    },
+    {
+        "intent_id": "consultas_estructuradas_de_sql_contexto_y_entorno_ecologico",
+        "keywords": [
+            "originalmente",
+            "acronimo",
+            "lenguaje",
+            "consulta",
+            "estructurado"
+        ],
+        "base_response": "Originalmente un acrónimo de \"Lenguaje de consulta estructurado\" (\"Structured Query Language”), fue creado por IBM como un lenguaje unificado para definir, consultar, modificar y controlar los datos en una base de datos relacional. Su nombre se pronuncia oficialmente \"ess-cue-ell\" (según el American National Standards Institute)."
+    },
+    {
+        "intent_id": "consultas_estructuradas_de_sql_aplicaciones_practicas_en_la_vida_real",
+        "keywords": [
+            "modelo",
+            "relacional",
+            "gestion",
+            "bases",
+            "datos"
+        ],
+        "base_response": "El modelo relacional de gestión de bases de datos fue propuesto en 1970 por el Dr. E. F. Codd en el Laboratorio de Investigación de IBM en San José, California, y se desarrolló durante la década siguiente en universidades y laboratorios de investigación."
+    },
+    {
+        "intent_id": "consultas_estructuradas_de_sql_importancia_e_impacto_social",
+        "keywords": [
+            "embargo",
+            "primer",
+            "estandar",
+            "cubria",
+            "necesidades"
+        ],
+        "base_response": "Sin embargo, este primer estándar no cubría todas las necesidades de los desarrolladores e incluía funcionalidades de definición de almacenamiento que se consideró suprimirlas. Así que, en 1992, se lanzó un nuevo estándar ampliado y revisado de SQL llamado \"SQL-92\" o \"SQL2\"."
+    },
+    {
+        "intent_id": "consultas_estructuradas_de_sql_ventajas_y_desventajas_comparativas",
+        "keywords": [
+            "actualidad",
+            "estandar",
+            "facto",
+            "inmensa",
+            "mayoria"
+        ],
+        "base_response": "En la actualidad SQL es el estándar de facto de la inmensa mayoría de los SGBD comerciales. Y, aunque la diversidad de añadidos particulares que incluyen las distintas implementaciones comerciales del lenguaje es amplia, el soporte al estándar SQL-92 es general y muy amplio."
+    },
+    {
+        "intent_id": "consultas_estructuradas_de_sql_riesgos_y_medidas_de_seguridad",
+        "keywords": [
+            "lenguaje",
+            "declarativo",
+            "nivel",
+            "procedimiento",
+            "gracias"
+        ],
+        "base_response": "Es un lenguaje declarativo de \"alto nivel\" o \"de no procedimiento\" que, gracias a su fuerte base teórica y su orientación al manejo de conjuntos de registros —y no a registros individuales— permite una alta productividad en codificación y la orientación a objetos."
+    },
+    {
+        "intent_id": "consultas_estructuradas_de_sql_clasificacion_taxonomica",
+        "keywords": [
+            "sistemas",
+            "bases",
+            "datos",
+            "modernos",
+            "poseen"
+        ],
+        "base_response": "Los sistemas de bases de datos modernos poseen un componente llamado optimizador de consultas. Este realiza un detallado análisis de los posibles planes de ejecución de una consulta SQL y elige aquel que sea más eficiente para llevar adelante la misma."
+    },
+    {
+        "intent_id": "consultas_estructuradas_de_sql_mitos_y_concepciones_erroneas",
+        "keywords": [
+            "existe",
+            "ampliacion",
+            "conocida",
+            "fuzzy",
+            "difuso"
+        ],
+        "base_response": "Existe una ampliación de SQL conocida como FSQL (Fuzzy SQL, SQL difuso) que permite el acceso a bases de datos difusas, usando la lógica difusa. Este lenguaje ha sido implementado a nivel experimental y está evolucionando rápidamente."
+    },
+    {
+        "intent_id": "consultas_estructuradas_de_sql_mantenimiento_y_prevencion",
+        "keywords": [
+            "comando",
+            "elimina",
+            "objeto",
+            "datos",
+            "tabla"
+        ],
+        "base_response": "Este comando elimina un objeto de la base de datos. Puede ser una tabla, vista, índice, trigger, función, procedimiento o cualquier objeto que el motor de la base de datos soporte. Se puede combinar con la sentencia ALTER."
+    },
+    {
+        "intent_id": "consultas_estructuradas_de_sql_proyecciones_futuras_y_tecnologia",
+        "keywords": [
+            "comando",
+            "aplica",
+            "tablas",
+            "funcion",
+            "borrar"
+        ],
+        "base_response": "Este comando solo aplica a tablas y su función es borrar el contenido completo de la tabla especificada. La ventaja sobre el comando DELETE, es que si se quiere borrar todo el contenido de la tabla, es mucho más rápido, especialmente si la tabla es muy grande."
+    },
+    {
+        "intent_id": "desarrollo_del_lado_cliente_definicion_anatomica_o_estructural",
+        "keywords": [
+            "expresion",
+            "frontend",
+            "tiene",
+            "origen",
+            "principio"
+        ],
+        "base_response": "La expresión \"front-end\" tiene su origen en el principio de separación de preocupaciones, el cual aboga por establecer una clara distinción entre la interfaz de usuario (front-end) y la lógica del servidor (back-end) en una aplicación. Esta separación facilita la creación de un código más modular y fácil de mantener."
+    },
+    {
+        "intent_id": "desarrollo_del_lado_cliente_dinamica_y_funcionamiento_fisico",
+        "keywords": [
+            "siglas",
+            "ingles",
+            "hyper",
+            "markup",
+            "language"
+        ],
+        "base_response": "HTML, siglas en inglés de Hyper Text Markup Language (lenguaje de marcas de hipertexto), es la columna vertebral de cualquier proceso de desarrollo web, sin el cual las páginas web no existirían. Hipertexto significa que el texto tiene enlaces, denominados hipervínculos, incrustados en el mismo."
+    },
+    {
+        "intent_id": "desarrollo_del_lado_cliente_errores_fallas_y_patologias_comunes",
+        "keywords": [
+            "utilizando",
+            "tecnica",
+            "llamada",
+            "codigo",
+            "javascript"
+        ],
+        "base_response": "Utilizando una técnica llamada AJAX, el código JavaScript también puede recoger contenido activamente de la web (independientemente de la página HTML original recibida), y además reacciona ante eventos del lado del servidor, dotando de una naturaleza realmente dinámica a la experiencia de la página web."
+    },
+    {
+        "intent_id": "desarrollo_del_lado_cliente_historia_origen_y_evolucion",
+        "keywords": [
+            "enfoque",
+            "facilita",
+            "creacion",
+            "aplicaciones",
+            "pagina"
+        ],
+        "base_response": "Este enfoque facilita la creación de Aplicaciones de Página Única (SPA), donde la navegación es fluida y no requiere recargar el sitio completo, mejorando la experiencia de usuario y la mantenibilidad del código en proyectos grandes."
+    },
+    {
+        "intent_id": "desarrollo_del_lado_cliente_contexto_y_entorno_ecologico",
+        "keywords": [
+            "continuo",
+            "desarrollo",
+            "dispositivos",
+            "moviles",
+            "telefonos"
+        ],
+        "base_response": "Para el continuo desarrollo para dispositivos móviles, como los teléfonos inteligentes y tabletas, los diseñadores necesitan asegurar que sus sitios web se muestran correctamente en los navegadores de todos los dispositivos. Esto puede conseguirse creando un diseño web adaptable en las hojas de estilo CSS."
+    },
+    {
+        "intent_id": "programacion_del_lado_servidor_definicion_anatomica_o_estructural",
+        "keywords": [
+            "programacion",
+            "servidor",
+            "tecnologia",
+            "consiste",
+            "procesamiento"
+        ],
+        "base_response": "La programación del lado del servidor es una tecnología que consiste en el procesamiento de una petición de un usuario mediante la interpretación de un script en el servidor web para generar dinámicamente páginas HTML como respuesta."
+    },
+    {
+        "intent_id": "programacion_del_lado_servidor_dinamica_y_funcionamiento_fisico",
+        "keywords": [
+            "resolver",
+            "problemas",
+            "busco",
+            "desarrollar",
+            "tecnologia"
+        ],
+        "base_response": "Para resolver estos problemas, se buscó desarrollar una tecnología que permitiera ejecutar, en un único proceso del servidor, todos los pedidos de ejecución de código sin importar la cantidad de clientes que se conectaban concurrentemente."
+    },
+    {
+        "intent_id": "programacion_del_lado_servidor_errores_fallas_y_patologias_comunes",
+        "keywords": [
+            "lenguajes",
+            "scrip",
+            "servidor",
+            "ejecutan",
+            "utilizan"
+        ],
+        "base_response": "Lenguajes de scrip de servidor son los lenguajes que se ejecutan en el lado del servidor, como PHP, ASP, etc. Estos lenguajes se utilizan para generar páginas dinámicas, facilitando el acceso a las bases de datos."
+    },
+    {
+        "intent_id": "programacion_del_lado_servidor_historia_origen_y_evolucion",
+        "keywords": [
+            "utilizacion",
+            "tecnologia",
+            "buscaba",
+            "desarrollar",
+            "aptitudes"
+        ],
+        "base_response": "Con la utilización de esta tecnología se buscaba, también, desarrollar aptitudes de diseñador web en los programadores y de programador en los diseñadores (se esperaba con ello el hacer más fácil y veloz el desarrollo de scripts del lado del servidor)."
+    },
+    {
+        "intent_id": "despliegue_de_aplicaciones_web_definicion_anatomica_o_estructural",
+        "keywords": [
+            "proceso",
+            "implantacion",
+            "general",
+            "consiste",
+            "varias"
+        ],
+        "base_response": "El proceso de implantación general consiste en varias actividades interrelacionadas con posibles transiciones entre ellas. Estas actividades pueden ocurrir en el lado del desarrollador de software o en el lado del consumidor o en ambos."
+    },
+    {
+        "intent_id": "despliegue_de_aplicaciones_web_dinamica_y_funcionamiento_fisico",
+        "keywords": [
+            "computadoras",
+            "extremadamente",
+            "grandes",
+            "caras",
+            "voluminosas"
+        ],
+        "base_response": "Cuando las computadoras eran extremadamente grandes, caras y voluminosas (mainframes y minicomputadoras), los fabricantes a menudo combinaban el software con el hardware. Si fuera necesario instalar software empresarial en una computadora existente, esto podría requerir una visita costosa por parte de un arquitecto de sistemas o un consultor."
+    },
+    {
+        "intent_id": "despliegue_de_aplicaciones_web_errores_fallas_y_patologias_comunes",
+        "keywords": [
+            "implementaciones",
+            "software",
+            "previas",
+            "internet",
+            "primo"
+        ],
+        "base_response": "En las implementaciones de software previas a Internet, las implementaciones (y su primo estrechamente relacionado, las nuevas versiones de software) eran necesariamente costosas, poco frecuentes y voluminosas. Por lo tanto, es razonable considerar que la difusión de Internet hizo posible el desarrollo ágil de extremo a extremo del software."
+    },
+    {
+        "intent_id": "pruebas_unitarias_de_software_definicion_anatomica_o_estructural",
+        "keywords": [
+            "escribir",
+            "casos",
+            "prueba",
+            "funcion",
+            "trivial"
+        ],
+        "base_response": "La idea es escribir casos de prueba para cada función no trivial o método en el módulo, de forma que cada caso sea independiente del resto. Luego, con las Pruebas de Integración, se podrá asegurar el correcto funcionamiento del sistema o subsistema en cuestión."
+    },
+    {
+        "intent_id": "pruebas_unitarias_de_software_dinamica_y_funcionamiento_fisico",
+        "keywords": [
+            "objetivo",
+            "pruebas",
+            "unitarias",
+            "aislar",
+            "parte"
+        ],
+        "base_response": "El objetivo de las pruebas unitarias es aislar cada parte del programa y mostrar que las partes individuales son correctas. Proporcionan un contrato escrito que el trozo de código debe satisfacer. Estas pruebas aisladas proporcionan cinco ventajas básicas:"
+    },
+    {
+        "intent_id": "pruebas_unitarias_de_software_errores_fallas_y_patologias_comunes",
+        "keywords": [
+            "importante",
+            "darse",
+            "cuenta",
+            "pruebas",
+            "unitarias"
+        ],
+        "base_response": "Es importante darse cuenta de que las pruebas unitarias no descubrirán todos los errores del código. Algunos enfoques se basan en la generación aleatoria de objetos para amplificar el alcance de las pruebas de unidad. Esta técnica se conoce como testing aleatorio (RT, por random testing)."
+    },
+    {
+        "intent_id": "integracion_continua_de_codigo_definicion_anatomica_o_estructural",
+        "keywords": [
+            "integracion",
+            "continua",
+            "continuous",
+            "integration",
+            "ingles"
+        ],
+        "base_response": "La integración continua (continuous integration en inglés) es una práctica de ingeniería de software que consiste en hacer integraciones automáticas de un proyecto lo más a menudo posible para así poder detectar fallos cuanto antes. Entendemos por integración la compilación y ejecución de pruebas de todo un proyecto."
+    },
+    {
+        "intent_id": "integracion_continua_de_codigo_dinamica_y_funcionamiento_fisico",
+        "keywords": [
+            "grady",
+            "booch",
+            "frase",
+            "integracion",
+            "continua"
+        ],
+        "base_response": "En 1994, Grady Booch uso la frase integración continua en Análisis y diseño orientado a objetos con aplicaciones (2.ª edición) para explicar como, cuando se desarrolla utilizando micro procesos, \"liberaciones internas representan una forma continua de integración del sistema, y existe para forzar a dar cierre a los micro procesos\"."
+    },
+    {
+        "intent_id": "integracion_continua_de_codigo_errores_fallas_y_patologias_comunes",
+        "keywords": [
+            "jeffries",
+            "definieron",
+            "concepto",
+            "extreme",
+            "programming"
+        ],
+        "base_response": "En 1997, Kent Beck y Ron Jeffries definieron el concepto de Extreme Programming (XP) mientras trabajaban en el Chrysler Comprehensive Compensation System project, incluyendo integración continua. Beck publicó sobre integración continua en 1998, haciendo énfasis en la importancia de la comunicación cara a cara sobre la asistida por tecnología."
+    },
+    {
+        "intent_id": "repositorios_remotos_de_desarrollo_definicion_anatomica_o_estructural",
+        "keywords": [
+            "origen",
+            "palabra",
+            "espanola",
+            "repositorio",
+            "deriva"
+        ],
+        "base_response": "El origen de la palabra española «repositorio» deriva del latín «repositorium», que significa armario o alacena. Este término está recogido en el Diccionario de la Real Academia donde se define como el «lugar donde se guarda algo»."
+    },
+    {
+        "intent_id": "repositorios_remotos_de_desarrollo_dinamica_y_funcionamiento_fisico",
+        "keywords": [
+            "datos",
+            "almacenados",
+            "repositorio",
+            "pueden",
+            "distribuirse"
+        ],
+        "base_response": "Los datos almacenados en un repositorio pueden distribuirse a través de una red informática, como Internet, o de un medio físico, como un disco compacto. Pueden ser de acceso público o estar protegidos y necesitar de una autenticación previa. Los repositorios más conocidos son los de carácter académico e institucional."
+    },
+    {
+        "intent_id": "repositorios_remotos_de_desarrollo_errores_fallas_y_patologias_comunes",
+        "keywords": [
+            "algunas",
+            "instituciones",
+            "promueven",
+            "repositorios",
+            "servicio"
+        ],
+        "base_response": "Algunas instituciones promueven el uso de sus repositorios como un servicio adicional para el investigador. Otras instituciones poseen mandatos propios que obligan a los autores o investigadores a depositar sus publicaciones (o determinados tipos, como por ej. tesis doctorales) en el repositorio institucional, con fines de visibilidad, impacto y preservación."
+    },
+    {
+        "intent_id": "repositorios_remotos_de_desarrollo_historia_origen_y_evolucion",
+        "keywords": [
+            "eleccion",
+            "software",
+            "cuestion",
+            "crucial",
+            "implementacion"
+        ],
+        "base_response": "La elección del software es una cuestión crucial para la implementación de un depósito de objetos digitales. Existen distintos modelos de tecnología según su origen y forma de adquisición: gratuito o comercial, software propietario o de código abierto, modelo de servicio de software."
+    },
+    {
+        "intent_id": "repositorios_remotos_de_desarrollo_contexto_y_entorno_ecologico",
+        "keywords": [
+            "obras",
+            "incluidas",
+            "repositorio",
+            "deben",
+            "cumplir"
+        ],
+        "base_response": "Las obras incluidas en un repositorio deben cumplir con las leyes vigentes sobre los derechos que los creadores tienen de su obra. Se consideran dos tipos de derechos: morales y patrimoniales. Los derechos morales son permanentes, irrenunciables, inexpropiables y no prescriben."
+    },
+    {
+        "intent_id": "repositorios_remotos_de_desarrollo_aplicaciones_practicas_en_la_vida_real",
+        "keywords": [
+            "muchos",
+            "autores",
+            "ceden",
+            "derechos",
+            "editoriales"
+        ],
+        "base_response": "Muchos autores ceden todos los derechos a las editoriales que publican sus trabajos. Esto significa que este pierde la propiedad de explotación hasta la conclusión del contrato firmado (excepcionalmente el autor podría utilizarlo con fines didácticos o para uso personal)."
+    },
+    {
+        "intent_id": "repositorios_remotos_de_desarrollo_importancia_e_impacto_social",
+        "keywords": [
+            "pubmed",
+            "central",
+            "trata",
+            "repositorio",
+            "tematico"
+        ],
+        "base_response": "PubMed Central: Se trata de un repositorio temático con un enorme éxito lo cual ha dado pie a que se haya creado una red llamada PMI International con el objeto de establecer archivos abiertos en colaboración con instituciones locales de cada país. Se encuentra especializado en Medicina."
+    },
+    {
+        "intent_id": "repositorios_remotos_de_desarrollo_ventajas_y_desventajas_comparativas",
+        "keywords": [
+            "dspacecambridge",
+            "trata",
+            "servicio",
+            "universidad",
+            "cambridge"
+        ],
+        "base_response": "DSpace@Cambridge: Se trata de un servicio de la Universidad de Cambridge gestionado por la biblioteca y el servicio de informática. Ofrece artículos, tesis e informes técnicos en diferentes formatos. Su objetivo es preservar y difundir los materiales digitales relacionados con la Universidad."
+    },
+    {
+        "intent_id": "repositorios_remotos_de_desarrollo_riesgos_y_medidas_de_seguridad",
+        "keywords": [
+            "social",
+            "science",
+            "research",
+            "network",
+            "trata"
+        ],
+        "base_response": "Social Science Research Network (SSRN): se trata de un repositorio en línea de investigación académica dentro de las Ciencias Sociales y Humanidades. Permite compartir de una forma rápida y eficaz los trabajos entre autores y lectores. Su objetivo es difundir la investigación en Ciencias Sociales."
+    },
+    {
+        "intent_id": "repositorios_remotos_de_desarrollo_clasificacion_taxonomica",
+        "keywords": [
+            "aquatic",
+            "commons",
+            "trata",
+            "repositorio",
+            "digital"
+        ],
+        "base_response": "AQUATIC COMMONS: se trata de un repositorio digital que cubre temas ambientes marinos naturales, estuarios de agua salobre y de agua fresca. Incluye todos los aspectos de la ciencia, tecnología, administración y conservación de estos ambientes, sus organismos y recursos, y los aspectos económicos, sociológicos y legales."
+    },
+    {
+        "intent_id": "repositorios_remotos_de_desarrollo_mitos_y_concepciones_erroneas",
+        "keywords": [
+            "redib",
+            "iberoamericana",
+            "innovacion",
+            "conocimiento",
+            "cientifico"
+        ],
+        "base_response": "REDIB: es una red iberoamericana para la innovación y el conocimiento científico. Agrega documentos científicos y académicos en formato digital del ámbito iberoamericano. Facilita el acceso y la difusión de la producción científica en los idiomas de su ámbito."
+    },
+    {
+        "intent_id": "repositorios_remotos_de_desarrollo_mantenimiento_y_prevencion",
+        "keywords": [
+            "argentina",
+            "cuenta",
+            "sistema",
+            "nacional",
+            "repositorios"
+        ],
+        "base_response": "La Argentina cuenta con un Sistema Nacional de Repositorios Digitales creado por el Ministerio de Ciencia, Tecnología e Innovación conjuntamente con el Consejo Interinstitucional de Ciencia y Tecnología (CICyT) a través de sus representantes en el Consejo Asesor de la Biblioteca Electrónica de Ciencia y Tecnología. Comprende 43 repositorios institucionales."
+    },
+    {
+        "intent_id": "repositorios_remotos_de_desarrollo_proyecciones_futuras_y_tecnologia",
+        "keywords": [
+            "filodigital",
+            "brinda",
+            "comunidad",
+            "posibilidad",
+            "visibilidad"
+        ],
+        "base_response": "FILO:Digital brinda a la comunidad la posibilidad de dar visibilidad y difusión a las publicaciones generadas, por un lado, y colaborar en la construcción de su memoria académica e institucional, por el otro FILO: Digital se encuentra adherido al Sistema Nacional de Repositorios Digitales."
+    },
+    {
+        "intent_id": "ramas_de_trabajo_paralelo_definicion_anatomica_o_estructural",
+        "keywords": [
+            "ejemplos",
+            "bifurcaciones",
+            "software",
+            "enciclopedia",
+            "libre"
+        ],
+        "base_response": "Ejemplos de bifurcaciones de software son la Enciclopedia Libre (escindida de la Wikipedia en español), los sistemas operativos Android, Debian y Ubuntu (derivados de GNU Linux), las suites de ofimática de código abierto LibreOffice y AndrOpen Office (basadas en OpenOffice)."
+    },
+    {
+        "intent_id": "ramas_de_trabajo_paralelo_dinamica_y_funcionamiento_fisico",
+        "keywords": [
+            "bifurcaciones",
+            "proyectos",
+            "software",
+            "libre",
+            "pueden"
+        ],
+        "base_response": "Las bifurcaciones de proyectos de software libre pueden surgir de un cisma en los objetivos o un choque de personalidades. En una bifurcación, ambos lados asumen derechos de autor idénticos pero típicamente solo el grupo de mayor tamaño, o el que contiene al arquitecto original, retendrá el nombre original completo."
+    },
+    {
+        "intent_id": "ramas_de_trabajo_paralelo_errores_fallas_y_patologias_comunes",
+        "keywords": [
+            "contexto",
+            "criptomonedas",
+            "termino",
+            "bifurcacion",
+            "significar"
+        ],
+        "base_response": "En el contexto de las criptomonedas el término bifurcación puede significar varias cosas, aunque por lo general, refiere a eventos que implican ajustes de las reglas de consenso de la red peer-to-peer de una cadena de bloques, en los cuales es posible que se produzcan divisiones de dichas redes."
+    },
+    {
+        "intent_id": "fusion_de_ramas_git_definicion_anatomica_o_estructural",
+        "keywords": [
+            "sistema",
+            "online",
+            "system",
+            "presentado",
+            "madre"
+        ],
+        "base_response": "En 1968, el sistema NLS (oN-Line System) presentado en «la madre de todas las demos», desarrollado por Douglas Engelbart, introdujo mecanismos tempranos de gestión de documentos digitales, incluyendo el registro y modificación estructurada de cambios, considerados antecedentes directos de los sistemas modernos de control de versiones."
+    },
+    {
+        "intent_id": "fusion_de_ramas_git_dinamica_y_funcionamiento_fisico",
+        "keywords": [
+            "sistema",
+            "control",
+            "versiones",
+            "realizarse",
+            "forma"
+        ],
+        "base_response": "Aunque un sistema de control de versiones puede realizarse de forma manual, es muy aconsejable disponer de herramientas que faciliten esta gestión dando lugar a los llamados sistemas de control de versiones o VCS (del inglés Version Control System)."
+    },
+    {
+        "intent_id": "fusion_de_ramas_git_errores_fallas_y_patologias_comunes",
+        "keywords": [
+            "repositorio",
+            "lugar",
+            "almacenan",
+            "datos",
+            "actualizados"
+        ],
+        "base_response": "El repositorio es el lugar en el que se almacenan los datos actualizados e históricos de cambios, a menudo en un servidor. A veces se le denomina depósito o depot. Puede ser un sistema de archivos en un disco duro, un banco de datos, etc.."
+    },
+    {
+        "intent_id": "fusion_de_ramas_git_historia_origen_y_evolucion",
+        "keywords": [
+            "revision",
+            "version",
+            "determinada",
+            "informacion",
+            "gestiona"
+        ],
+        "base_response": "Una revisión es una versión determinada de la información que se gestiona. Hay sistemas que identifican las revisiones con un contador (Ej. subversion). Hay otros sistemas que identifican las revisiones mediante un código de detección de modificaciones (Ej. Git usa SHA1)."
+    },
+    {
+        "intent_id": "fusion_de_ramas_git_contexto_y_entorno_ecologico",
+        "keywords": [
+            "darle",
+            "alguna",
+            "version",
+            "ficheros",
+            "modulo"
+        ],
+        "base_response": "Darle a alguna versión de cada uno de los ficheros del módulo en desarrollo en un momento preciso un nombre común (\"etiqueta\" o \"rótulo\") para asegurarse de reencontrar ese estado de desarrollo posteriormente bajo ese nombre. En la práctica se rotulan todos los archivos en un momento determinado."
+    },
+    {
+        "intent_id": "fusion_de_ramas_git_aplicaciones_practicas_en_la_vida_real",
+        "keywords": [
+            "modulo",
+            "branched",
+            "bifurcado",
+            "instante",
+            "tiempo"
+        ],
+        "base_response": "Un módulo puede ser branched o bifurcado en un instante de tiempo de forma que, desde ese momento en adelante se tienen dos copias (ramas) que evolucionan de forma independiente siguiendo su propia línea de desarrollo. El módulo tiene entonces 2 (o más) \"ramas\"."
+    },
+    {
+        "intent_id": "fusion_de_ramas_git_importancia_e_impacto_social",
+        "keywords": [
+            "exportacion",
+            "similar",
+            "checkout",
+            "salvo",
+            "arbol"
+        ],
+        "base_response": "Una exportación es similar a un check-out, salvo porque crea un árbol de directorios limpio sin los metadatos de control de versiones presentes en la copia de trabajo. Se utiliza a menudo de forma previa a la publicación de los contenidos."
+    },
+    {
+        "intent_id": "fusion_de_ramas_git_ventajas_y_desventajas_comparativas",
+        "keywords": [
+            "copia",
+            "trabajo",
+            "local",
+            "ficheros",
+            "repositorio"
+        ],
+        "base_response": "La copia de trabajo es la copia local de los ficheros de un repositorio, en un momento del tiempo o revisión específicos. Todo el trabajo realizado sobre los ficheros en un repositorio se realiza inicialmente sobre una copia de trabajo, de ahí su nombre."
+    },
+    {
+        "intent_id": "fusion_de_ramas_git_riesgos_y_medidas_de_seguridad",
+        "keywords": [
+            "colaborar",
+            "proyecto",
+            "usando",
+            "sistema",
+            "control"
+        ],
+        "base_response": "Para colaborar en un proyecto usando un sistema de control de versiones lo primero que hay que hacer es crearse una copia local obteniendo información del repositorio. A continuación el usuario puede modificar la copia. Existen dos esquemas básicos de funcionamiento para que los usuarios puedan ir aportando sus modificaciones:"
+    },
+    {
+        "intent_id": "fusion_de_ramas_git_clasificacion_taxonomica",
+        "keywords": [
+            "flujo",
+            "trabajo",
+            "centralizado",
+            "ingles",
+            "centralized"
+        ],
+        "base_response": "En el flujo de trabajo centralizado (en inglés Centralized Workflow) cada desarrollador es un nodo de trabajo. Por otro lado hay un repositorio remoto central que funciona a modo de punto de sincronización. Todos los nodos de trabajo operan en pie de igualdad sobre el repositorio remoto central."
+    },
+    {
+        "intent_id": "fusion_de_ramas_git_mitos_y_concepciones_erroneas",
+        "keywords": [
+            "flujo",
+            "trabajo",
+            "gestor",
+            "integraciones",
+            "ingles"
+        ],
+        "base_response": "En el flujo de trabajo con un Gestor de Integraciones (en inglés Integration-Manager Workflow) en el que cada desarrollador tiene acceso de escritura a un repositorio propio público y acceso de lectura a los repositorios públicos de todos los demás usuarios."
+    },
+    {
+        "intent_id": "fusion_de_ramas_git_mantenimiento_y_prevencion",
+        "keywords": [
+            "contribuir",
+            "proyectos",
+            "desarrollador",
+            "propio",
+            "publico"
+        ],
+        "base_response": "Para contribuir en estos proyectos cada desarrollador crea su propio clon público del repositorio canónico y envía sus cambios (realizados en un repositorio privado) a él. Para 'subir' sus cambios al repositorio canónico cada desarrollador tiene que realizar una petición a la persona gestora del mismo."
+    },
+    {
+        "intent_id": "fusion_de_ramas_git_proyecciones_futuras_y_tecnologia",
+        "keywords": [
+            "flujo",
+            "trabajo",
+            "dictador",
+            "tenientes",
+            "ingles"
+        ],
+        "base_response": "El flujo de trabajo con Dictador y Tenientes (en inglés Dictator and Lieutenants Workflow) es una ampliación del flujo de trabajo con gestor de integraciones. Es utilizado en proyectos muy grandes, con cientos de colaboradores, como el núcleo Linux."
+    },
+    {
+        "intent_id": "optimizacion_de_rendimiento_logico_definicion_anatomica_o_estructural",
+        "keywords": [
+            "palabra",
+            "optimizacion",
+            "comparte",
+            "misma",
+            "optimo"
+        ],
+        "base_response": "La palabra \"optimización\", comparte la misma raíz que \"óptimo\", es raro que el proceso de optimización produzca un sistema verdaderamente óptimo. El sistema optimizado típicamente sólo será óptimo en una aplicación o para una audiencia."
+    },
+    {
+        "intent_id": "optimizacion_de_rendimiento_logico_dinamica_y_funcionamiento_fisico",
+        "keywords": [
+            "optimizacion",
+            "general",
+            "centra",
+            "mejora",
+            "aspectos"
+        ],
+        "base_response": "La optimización general se centra en la mejora de uno o dos aspectos del rendimiento: el tiempo de ejecución, uso de memoria, espacio en disco, ancho de banda, el consumo de energía o algún otro recurso."
+    },
+    {
+        "intent_id": "optimizacion_de_rendimiento_logico_errores_fallas_y_patologias_comunes",
+        "keywords": [
+            "ciencias",
+            "computacion",
+            "principio",
+            "pareto",
+            "aplicar"
+        ],
+        "base_response": "En ciencias de la computación el principio de Pareto se puede aplicar a la optimización de recursos observando que el 80% de los recursos son típicamente usados por el 20% de las operaciones en promedio."
+    },
+    {
+        "intent_id": "optimizacion_de_rendimiento_logico_historia_origen_y_evolucion",
+        "keywords": [
+            "casos",
+            "agregar",
+            "memoria",
+            "ayudar",
+            "hacer"
+        ],
+        "base_response": "En algunos casos, agregar más memoria puede ayudar a hacer que un programa se ejecute más rápido. Por ejemplo un programa de filtrado leerá comúnmente cada línea, la filtrará y mostrará esa línea inmediatamente. Esto solo usa suficiente memoria para una línea, pero el rendimiento es típicamente muy pobre."
+    },
+    {
+        "intent_id": "optimizacion_de_rendimiento_logico_contexto_y_entorno_ecologico",
+        "keywords": [
+            "tareas",
+            "calculo",
+            "realizar",
+            "varias",
+            "formas"
+        ],
+        "base_response": "Las tareas de cálculo se puede realizar de varias formas diferentes con diferentes eficiencia. Por ejemplo, considere el siguiente fragmento de código en C cuya intención es obtener la suma de todos los números enteros de 1 a N:"
+    },
+    {
+        "intent_id": "optimizacion_de_rendimiento_logico_aplicaciones_practicas_en_la_vida_real",
+        "keywords": [
+            "optimizacion",
+            "veces",
+            "realiza",
+            "automaticamente",
+            "compilador"
+        ],
+        "base_response": "La optimización, a veces se realiza automáticamente por un traductor de optimización, es seleccionar un método (algoritmo) que sea informáticamente más eficiente, manteniendo la misma funcionalidad. Sin embargo, una mejora significativa en el rendimiento a menudo se puede lograr mediante la eliminación de alguna funcionalidad extraña."
+    },
+    {
+        "intent_id": "optimizacion_de_rendimiento_logico_importancia_e_impacto_social",
+        "keywords": [
+            "muchos",
+            "lenguajes",
+            "programacion",
+            "funcionales",
+            "macros"
+        ],
+        "base_response": "En muchos lenguajes de programación funcionales las macros se implementan utilizando sustitución en tiempo de parseado durante el parseo del árbol de escritura abstracta , la cual se afirma que los hace más seguros de usar."
+    },
+    {
+        "intent_id": "optimizacion_de_rendimiento_logico_ventajas_y_desventajas_comparativas",
+        "keywords": [
+            "optimizacion",
+            "automatizada",
+            "compiladores",
+            "realizadas",
+            "programadores"
+        ],
+        "base_response": "La optimización puede ser automatizada por traductores o realizadas por los programadores. Las ganancias se limitan generalmente para la optimización local, y mayor para las optimizaciones globales. Por lo general, la optimización más potente es encontrar un algoritmo superior."
+    },
+    {
+        "intent_id": "optimizacion_de_rendimiento_logico_riesgos_y_medidas_de_seguridad",
+        "keywords": [
+            "optimizacion",
+            "sistema",
+            "conjunto",
+            "suele",
+            "realizar"
+        ],
+        "base_response": "La optimización de un sistema en su conjunto se suele realizar por los programadores, ya que es demasiado complejo para los optimizadores automatizados. En esta situación, los programadores o administradores del sistema explícitamente cambian el código de manera que el sistema en general tenga un mejor rendimiento."
+    },
+    {
+        "intent_id": "optimizacion_de_rendimiento_logico_clasificacion_taxonomica",
+        "keywords": [
+            "suelen",
+            "utilizar",
+            "profilers",
+            "encontrar",
+            "secciones"
+        ],
+        "base_response": "Se suelen utilizar profilers para encontrar las secciones del programa que está tomando la mayor cantidad de recursos - el cuello de botella. Ocasionalmente se puede creer en dónde está el cuello de botella, pero esta intuición no siempre es correcta."
+    },
+    {
+        "intent_id": "optimizacion_de_rendimiento_logico_mitos_y_concepciones_erroneas",
+        "keywords": [
+            "cuello",
+            "botella",
+            "localizado",
+            "optimizacion",
+            "general"
+        ],
+        "base_response": "Cuando el cuello de botella es localizado, la optimización general comienza con un replanteamiento del algoritmo utilizado en el programa. A menudo, un algoritmo particular se puede adaptar específicamente a un problema particular, para proporcionar un mejor rendimiento que un algoritmo genérico."
+    },
+    {
+        "intent_id": "optimizacion_de_rendimiento_logico_mantenimiento_y_prevencion",
+        "keywords": [
+            "optimizacion",
+            "veces",
+            "tiene",
+            "efecto",
+            "secundario"
+        ],
+        "base_response": "La optimización a veces tiene el efecto secundario de socavar la legibilidad. Así, las optimizaciones de código deben ser cuidadosamente documentadas (preferentemente con comentarios en línea), y debe evaluarse su efecto sobre el desarrollo futuro."
+    },
+    {
+        "intent_id": "optimizacion_de_rendimiento_logico_proyecciones_futuras_y_tecnologia",
+        "keywords": [
+            "optimizar",
+            "codigo",
+            "existente",
+            "agrega",
+            "nuevas"
+        ],
+        "base_response": "Optimizar un código existente no agrega nuevas características, y peor, puede llegar a agregar bugs en código que previamente no los tenía. Debido a que la optimización manual a veces hace el código menos claro que el código no optimizado, la optimización puede impactar en la compatibilidad como consecuencia."
+    },
+    {
+        "intent_id": "limpieza_de_codigo_refactorizacion_definicion_anatomica_o_estructural",
+        "keywords": [
+            "refactorizacion",
+            "parte",
+            "mantenimiento",
+            "codigo",
+            "arregla"
+        ],
+        "base_response": "La refactorización es la parte del mantenimiento del código que no arregla errores ni añade funcionalidad. El objetivo, por el contrario, es mejorar la facilidad de comprensión del código o cambiar su estructura y diseño y eliminar código muerto, para facilitar el mantenimiento en el futuro."
+    },
+    {
+        "intent_id": "limpieza_de_codigo_refactorizacion_dinamica_y_funcionamiento_fisico",
+        "keywords": [
+            "ejemplo",
+            "refactorizacion",
+            "trivial",
+            "cambiar",
+            "nombre"
+        ],
+        "base_response": "Un ejemplo de una refactorización trivial es cambiar el nombre de una variable para que sea más significativo, como una sola letra 't' a 'tiempo'. Una refactorización más compleja es transformar el trozo dentro de un bloque en una subrutina."
+    },
+    {
+        "intent_id": "limpieza_de_codigo_refactorizacion_errores_fallas_y_patologias_comunes",
+        "keywords": [
+            "libro",
+            "martin",
+            "fowler",
+            "refactoring",
+            "referencia"
+        ],
+        "base_response": "El libro de Martin Fowler Refactoring es la referencia clásica. Aunque la refactorización de código se ha llevado a cabo de manera informal durante años, la tesis doctoral de William F. Opdyke (1993) es el primer trabajo conocido que examina específicamente esta técnica."
+    },
+    {
+        "intent_id": "matrices_multidimensionales_de_datos_definicion_anatomica_o_estructural",
+        "keywords": [
+            "programacion",
+            "denomina",
+            "vector",
+            "formacion",
+            "matriz"
+        ],
+        "base_response": "En programación, se le denomina vector, formación, matriz (en inglés array, del cual surge la mala traducción arreglo), a una zona de almacenamiento contiguo que contiene una serie de elementos del mismo tipo, los elementos de la matriz."
+    },
+    {
+        "intent_id": "matrices_multidimensionales_de_datos_dinamica_y_funcionamiento_fisico",
+        "keywords": [
+            "vector",
+            "matriz",
+            "coleccion",
+            "ordenada",
+            "datos"
+        ],
+        "base_response": "Un vector (matriz) es una colección ordenada de datos (tanto primitivos u objetos dependiendo del lenguaje). Los vectores (matrices) se emplean para almacenar múltiples valores en una sola variable, frente a las variables que sólo pueden almacenar un valor (por cada variable)."
+    },
+    {
+        "intent_id": "matrices_multidimensionales_de_datos_errores_fallas_y_patologias_comunes",
+        "keywords": [
+            "vector",
+            "compone",
+            "determinado",
+            "numero",
+            "elementos"
+        ],
+        "base_response": "Todo vector se compone de un determinado número de elementos, lo cual lo hace que sea una estructura estática. Cada elemento es referenciado por la posición que ocupa dentro del vector. Dichas posiciones son llamadas índice y siempre son correlativos. Existen tres formas de indexar los elementos de una matriz:"
+    },
+    {
+        "intent_id": "matrices_multidimensionales_de_datos_historia_origen_y_evolucion",
+        "keywords": [
+            "muchas",
+            "veces",
+            "pseudocodigo",
+            "libros",
+            "matematica"
+        ],
+        "base_response": "Aunque muchas veces en pseudocódigo y en libros de matemática se representan como letras acompañadas de un subíndice numérico que indica la posición a la que se quiere acceder. Por ejemplo, para un vector \"A\":"
+    },
+    {
+        "intent_id": "matrices_multidimensionales_de_datos_contexto_y_entorno_ecologico",
+        "keywords": [
+            "vectores",
+            "dinamicos",
+            "requiere",
+            "realizar",
+            "apropiada"
+        ],
+        "base_response": "El uso de vectores dinámicos requiere realizar una apropiada gestión de memoria dinámica. Un uso incorrecto de los vectores dinámicos, o mejor dicho, una mala gestión de la memoria dinámica, puede conducir a una fuga de memoria."
+    },
+    {
+        "intent_id": "matrices_multidimensionales_de_datos_aplicaciones_practicas_en_la_vida_real",
+        "keywords": [
+            "lenguajes",
+            "modernos",
+            "nivel",
+            "cuentan",
+            "mecanismo"
+        ],
+        "base_response": "Lenguajes más modernos y de más alto nivel, cuentan con un mecanismo denominado recolector de basura (como es el caso de Java) que permiten que el programa decida si debe liberar el espacio basándose en si se va a utilizar en el futuro o no un determinado objeto."
+    },
+    {
+        "intent_id": "matrices_multidimensionales_de_datos_importancia_e_impacto_social",
+        "keywords": [
+            "ejemplo",
+            "vector",
+            "tiene",
+            "elementos",
+            "calcula"
+        ],
+        "base_response": "Por ejemplo, el vector v(4,1) tiene 10 elementos, y se calcula del siguiente modo: (0-4) * (0-1). La primera dimensión del vector contiene 5 elementos que van del '0' al '4', y la 2.ª dimensión tiene 2 elementos que van del '0' al '1'."
+    },
+    {
+        "intent_id": "eventos_de_interaccion_grafica_definicion_anatomica_o_estructural",
+        "keywords": [
+            "programacion",
+            "dirigida",
+            "eventos",
+            "paradigma",
+            "estructura"
+        ],
+        "base_response": "La programación dirigida por eventos es un modelo de programación en el que tanto la estructura como la ejecución de los programas van determinados por los sucesos que ocurran en el sistema, definidos por el usuario o que ellos mismos provoquen."
+    },
+    {
+        "intent_id": "eventos_de_interaccion_grafica_dinamica_y_funcionamiento_fisico",
+        "keywords": [
+            "creador",
+            "programa",
+            "dirigido",
+            "eventos",
+            "definir"
+        ],
+        "base_response": "El creador de un programa dirigido por eventos debe definir los eventos que manejarán su programa y las acciones que se realizarán al producirse cada uno de ellos, lo que se conoce como el administrador de evento."
+    },
+    {
+        "intent_id": "eventos_de_interaccion_grafica_errores_fallas_y_patologias_comunes",
+        "keywords": [
+            "programacion",
+            "dirigida",
+            "eventos",
+            "comenzar",
+            "ejecucion"
+        ],
+        "base_response": "En la programación dirigida por eventos, al comenzar la ejecución del programa se llevarán a cabo las inicializaciones y demás código inicial y a continuación el programa quedará bloqueado hasta que se produzca algún evento."
+    },
+    {
+        "intent_id": "eventos_de_interaccion_grafica_historia_origen_y_evolucion",
+        "keywords": [
+            "primeros",
+            "tiempos",
+            "computacion",
+            "programas",
+            "secuenciales"
+        ],
+        "base_response": "En los primeros tiempos de la computación, los programas eran secuenciales, también llamados Batch. Un programa secuencial arranca, lee parámetros de entrada, procesa estos parámetros, y produce un resultado, todo de manera lineal y sin intervención del usuario mientras se ejecuta."
+    },
+    {
+        "intent_id": "eventos_de_interaccion_grafica_contexto_y_entorno_ecologico",
+        "keywords": [
+            "pongamos",
+            "ejemplo",
+            "problematica",
+            "existente",
+            "botones"
+        ],
+        "base_response": "Pongamos como ejemplo de la problemática existente, un menú con dos botones, botón 1 y botón 2. Cuando el usuario pulsa botón 1, el programa se encarga de recoger ciertos parámetros que están almacenados en un fichero y calcular algunas variables."
+    },
+    {
+        "intent_id": "eventos_de_interaccion_grafica_aplicaciones_practicas_en_la_vida_real",
+        "keywords": [
+            "evolucion",
+            "lenguajes",
+            "orientados",
+            "eventos",
+            "interaccion"
+        ],
+        "base_response": "Con la evolución de los lenguajes orientados a eventos, la interacción del software con el usuario ha mejorado enormemente permitiendo la aparición de interfaces que, aparte de ser la vía de comunicación del programa con el usuario, son la propia apariencia del mismo."
+    },
+    {
+        "intent_id": "eventos_de_interaccion_grafica_importancia_e_impacto_social",
+        "keywords": [
+            "perifericos",
+            "cobrado",
+            "mayor",
+            "importancia",
+            "aparicion"
+        ],
+        "base_response": "Uno de los periféricos que ha cobrado mayor importancia tras la aparición de los programas orientados a eventos ha sido el ratón, gracias también en parte a la aparición de los sistemas operativos modernos con sus interfaces gráficas. Estas suelen dirigir directamente al controlador interior que va entrelazado al algoritmo."
+    },
+    {
+        "intent_id": "interfaces_graficas_de_usuario_definicion_anatomica_o_estructural",
+        "keywords": [
+            "interfaz",
+            "grafica",
+            "usuario",
+            "conocida",
+            "ingles"
+        ],
+        "base_response": "La interfaz gráfica de usuario, conocida también como GUI (del inglés: graphical user interface), es un programa informático que actúa de interfaz de usuario, usando un conjunto de imágenes y objetos gráficos para representar la información y acciones disponibles en la interfaz."
+    },
+    {
+        "intent_id": "interfaces_graficas_de_usuario_dinamica_y_funcionamiento_fisico",
+        "keywords": [
+            "habitualmente",
+            "acciones",
+            "realizan",
+            "manipulacion",
+            "directa"
+        ],
+        "base_response": "Habitualmente las acciones se realizan mediante manipulación directa, para facilitar la interacción del usuario con la computadora. Surge como evolución de las interfaces de línea de comandos que se usaban para operar los primeros sistemas operativos y es pieza fundamental en un entorno gráfico."
+    },
+    {
+        "intent_id": "interfaces_graficas_de_usuario_errores_fallas_y_patologias_comunes",
+        "keywords": [
+            "contexto",
+            "proceso",
+            "interaccion",
+            "personacomputadora",
+            "interfaz"
+        ],
+        "base_response": "En el contexto del proceso de interacción persona-computadora, la interfaz gráfica de usuario es el artefacto tecnológico de un sistema interactivo que posibilita, a través del uso y la representación del lenguaje visual, una interacción amigable con un sistema informático."
+    },
+    {
+        "intent_id": "interfaces_graficas_de_usuario_historia_origen_y_evolucion",
+        "keywords": [
+            "caracteristicas",
+            "visibles",
+            "interfaz",
+            "grafica",
+            "aplicacion"
+        ],
+        "base_response": "Las características visibles de la interfaz gráfica de una aplicación a veces se llaman cromo o GUI. Normalmente, los usuarios interactúan con la información mediante la manipulación visual de widgets que permitan interacciones adecuadas al tipo de datos que tienen."
+    },
+    {
+        "intent_id": "interfaces_graficas_de_usuario_contexto_y_entorno_ecologico",
+        "keywords": [
+            "telefonos",
+            "celulares",
+            "sistemas",
+            "videojuegos",
+            "portatiles"
+        ],
+        "base_response": "Los teléfonos celulares y los sistemas de videojuegos portátiles también utilizan el GUI de pantalla táctil específicas de aplicaciones. Los automóviles más novedosos utilizan el GUI en sus sistemas de navegación y centros multimedia, o combinaciones de centros multimedia de navegación."
+    },
+    {
+        "intent_id": "interfaces_graficas_de_usuario_aplicaciones_practicas_en_la_vida_real",
+        "keywords": [
+            "investigadores",
+            "stanford",
+            "research",
+            "institute",
+            "liderados"
+        ],
+        "base_response": "Los investigadores del Stanford Research Institute liderados por Douglas Engelbart, desarrollaron una interfaz de hipervínculos en modo texto gobernada por un ratón, que también inventaron. Este concepto fue ampliado y trasladado al entorno gráfico por los investigadores del Xerox PARC en la ciudad estadounidense de Palo Alto."
+    },
+    {
+        "intent_id": "interfaces_graficas_de_usuario_importancia_e_impacto_social",
+        "keywords": [
+            "visita",
+            "xerox",
+            "equipo",
+            "apple",
+            "encabezado"
+        ],
+        "base_response": "Tras una visita al Xerox PARC en 1979, el equipo de Apple encabezado por Jef Raskin se concentra en diseñar un entorno gráfico para su nueva generación de 16 bits, que se verá plasmado en el Apple Lisa en 1983."
+    },
+    {
+        "intent_id": "interfaces_graficas_de_usuario_ventajas_y_desventajas_comparativas",
+        "keywords": [
+            "commodore",
+            "sucesor",
+            "desarrollo",
+            "entorno",
+            "grafico"
+        ],
+        "base_response": "Para el Commodore 64 y su sucesor el Commodore 128 se desarrolló el entorno gráfico GEOS en 1986. Este entorno se portó al IBM PC, fue utilizado en varias PDA y Nokia lo usó como base de su actual sistema operativo."
+    },
+    {
+        "intent_id": "interfaces_graficas_de_usuario_riesgos_y_medidas_de_seguridad",
+        "keywords": [
+            "graphical",
+            "environment",
+            "manager",
+            "disenado",
+            "digital"
+        ],
+        "base_response": "GEM (Graphical Environment Manager) es un GUI diseñado por Digital Research en 1985 para ejecutarse sobre varios sistemas operativos de línea de comandos del IBM PC y compatibles: funciona tanto sobre IBM DOS /MS-DOS como sobre CP/M 86."
+    },
+    {
+        "intent_id": "interfaces_graficas_de_usuario_clasificacion_taxonomica",
+        "keywords": [
+            "atari",
+            "sucesores",
+            "convertira",
+            "entorno",
+            "grafico"
+        ],
+        "base_response": "Pero será en los Atari ST y sucesores donde se convertirá en el entorno gráfico oficial de la plataforma, alcanzando gran popularidad, tanto por ser en principio una alternativa barata al MAC en autoedición, como por hacerse con el nicho de mercado de la música profesional."
+    },
+    {
+        "intent_id": "interfaces_graficas_de_usuario_mitos_y_concepciones_erroneas",
+        "keywords": [
+            "apple",
+            "habia",
+            "comenzado",
+            "microempresa",
+            "formada"
+        ],
+        "base_response": "En 1982, Apple había comenzado como una microempresa formada por dos empleados, Steve Jobs y Steve Wozniak, y había crecido hasta convertirse en una empresa de 300 millones de dólares. En 1983, ya se había convertido en una empresa de 1000 millones de dólares, el mismo valor que IBM."
+    },
+    {
+        "intent_id": "interfaces_graficas_de_usuario_mantenimiento_y_prevencion",
+        "keywords": [
+            "obligada",
+            "entrar",
+            "mercado",
+            "computadoras",
+            "personales"
+        ],
+        "base_response": "En 1987 IBM se vio obligada a entrar en el mercado de las computadoras personales con entorno gráfico con su modelo IBM Personal System/2 (PS/2), aliándose con Bill Gates (Microsoft), que había desarrollado el OS/2. La interfaz gráfica de este sistema operativo era muy similar a la de Apple."
+    },
+    {
+        "intent_id": "interfaces_graficas_de_usuario_proyecciones_futuras_y_tecnologia",
+        "keywords": [
+            "sculley",
+            "director",
+            "apple",
+            "revelo",
+            "compania"
+        ],
+        "base_response": "En 1991, John Sculley, director de Apple, reveló que la compañía estaba considerando competir contra Microsoft en el campo del software vendiendo su sistema operativo a terceros. Apple reveló que estaba manteniendo conversaciones con su antiguo rival, IBM, destinadas a compartir tecnologías."
+    },
+    {
+        "intent_id": "marcos_de_trabajo_frameworks_definicion_anatomica_o_estructural",
+        "keywords": [
+            "entorno",
+            "trabajo",
+            "ingles",
+            "framework",
+            "marco"
+        ],
+        "base_response": "Un entorno de trabajo (del inglés framework) o marco de trabajo es un conjunto estandarizado de conceptos, prácticas y criterios para enfocar un tipo de problemática particular que sirve como referencia, para enfrentar y resolver nuevos problemas de índole similar."
+    },
+    {
+        "intent_id": "marcos_de_trabajo_frameworks_dinamica_y_funcionamiento_fisico",
+        "keywords": [
+            "desarrollo",
+            "software",
+            "entorno",
+            "trabajo",
+            "estructura"
+        ],
+        "base_response": "En el desarrollo de software, un entorno de trabajo es una estructura conceptual y tecnológica de asistencia definida, normalmente, con artefactos o módulos concretos de software, que puede servir de base para la organización y desarrollo de software."
+    },
+    {
+        "intent_id": "marcos_de_trabajo_frameworks_errores_fallas_y_patologias_comunes",
+        "keywords": [
+            "programacion",
+            "atiende",
+            "descendientes",
+            "manejado",
+            "forma"
+        ],
+        "base_response": "No es más que una base de programación que atiende a sus descendientes (manejado de una forma estructural o en cascada), posibilitando cualquier respuesta ante las necesidades de sus miembros, o en secciones de una aplicación (web), satisfaciendo así las necesidades más comunes del programador."
+    },
+    {
+        "intent_id": "marcos_de_trabajo_frameworks_historia_origen_y_evolucion",
+        "keywords": [
+            "modelo",
+            "igual",
+            "controlador",
+            "vista",
+            "maneja"
+        ],
+        "base_response": "El modelo, al igual que el controlador y la vista, maneja todos los datos que se relacionen consigo (solo es el proceso medio de la separación por capas que ofrece la arquitectura MVC). Y solo la vista, puede demostrar dicha información."
+    },
+    {
+        "intent_id": "dependencias_de_proyectos_informaticos_definicion_anatomica_o_estructural",
+        "keywords": [
+            "comun",
+            "administrador",
+            "instale",
+            "software",
+            "disponible"
+        ],
+        "base_response": "Es común que un administrador instale software que no está disponible en los repositorios provistos. Algunos ejemplos pueden ser una nueva versión de una aplicación que todavía no está disponible en la distribución o una alternativa distinta de la elegida por la distribución."
+    },
+    {
+        "intent_id": "dependencias_de_proyectos_informaticos_dinamica_y_funcionamiento_fisico",
+        "keywords": [
+            "herramientas",
+            "encargan",
+            "asegurar",
+            "paquetes",
+            "compilados"
+        ],
+        "base_response": "Hay herramientas que se encargan de asegurar que los paquetes compilados localmente están integrados con el sistema de gestión de paquetes. En distribuciones basadas en paquetes .deb y .rpm, al igual que en Slackware, encontramos checkinstall."
+    },
+    {
+        "intent_id": "ciclo_de_vida_del_software_definicion_anatomica_o_estructural",
+        "keywords": [
+            "cantidad",
+            "organizaciones",
+            "desarrollo",
+            "software",
+            "implementan"
+        ],
+        "base_response": "La gran cantidad de organizaciones de desarrollo de software implementan metodologías para el proceso de desarrollo. Muchas de estas organizaciones pertenecen a la industria armamentística, que en los Estados Unidos necesita un certificado basado en su modelo de procesos para poder obtener un contrato."
+    },
+    {
+        "intent_id": "ciclo_de_vida_del_software_dinamica_y_funcionamiento_fisico",
+        "keywords": [
+            "decadas",
+            "perseguido",
+            "encontrar",
+            "procesos",
+            "reproducibles"
+        ],
+        "base_response": "Durante décadas se ha perseguido la meta de encontrar procesos reproducibles y predecibles que mejoren la productividad y la calidad. Algunas de estas soluciones intentan sistematizar o formalizar la aparentemente desorganizada tarea de desarrollar software. Otros aplican técnicas de gestión de proyectos para la creación del software."
+    },
+    {
+        "intent_id": "ciclo_de_vida_del_software_errores_fallas_y_patologias_comunes",
+        "keywords": [
+            "importante",
+            "tarea",
+            "crear",
+            "producto",
+            "software"
+        ],
+        "base_response": "La importante tarea a la hora de crear un producto de software es obtener los requisitos o el análisis de los requisitos. Los clientes suelen tener una idea más bien abstracta del resultado final, pero no sobre las funciones que debería cumplir el software."
+    },
+    {
+        "intent_id": "ciclo_de_vida_del_software_historia_origen_y_evolucion",
+        "keywords": [
+            "implementacion",
+            "parte",
+            "proceso",
+            "ingenieros",
+            "software"
+        ],
+        "base_response": "La implementación es parte del proceso en el que los ingenieros de software programan el código para el proyecto de trabajo que está en relación de las demandas del software, en esta etapa se realizan las pruebas de caja blanca y caja negra."
+    },
+    {
+        "intent_id": "ciclo_de_vida_del_software_contexto_y_entorno_ecologico",
+        "keywords": [
+            "documentacion",
+            "diseno",
+            "interno",
+            "software",
+            "objetivo"
+        ],
+        "base_response": "La documentación del diseño interno del software con el objetivo de facilitar su mejora y su mantenimiento se realiza a lo largo del proyecto. Esto puede incluir la documentación de un API, tanto interior como exterior. Prácticamente es como una receta de cocina"
+    },
+    {
+        "intent_id": "ciclo_de_vida_del_software_aplicaciones_practicas_en_la_vida_real",
+        "keywords": [
+            "entrenamiento",
+            "soporte",
+            "software",
+            "importancia",
+            "muchos"
+        ],
+        "base_response": "Entrenamiento y soporte para el software es de suma importancia y algo que muchos desarrolladores de software descuidan. Los usuarios, por naturaleza, se oponen al cambio porque conlleva una cierta inseguridad, es por ello que es fundamental instruir de forma adecuada a los futuros usuarios del software."
+    },
+    {
+        "intent_id": "ciclo_de_vida_del_software_importancia_e_impacto_social",
+        "keywords": [
+            "mantenimiento",
+            "mejora",
+            "software",
+            "problemas",
+            "recientemente"
+        ],
+        "base_response": "El mantenimiento o mejora de un software con problemas recientemente desplegado, puede requerir más tiempo que el desarrollo inicial del software. Es posible que haya que incorporar código que no se ajusta al diseño original con el objetivo de solucionar un problema o ampliar la funcionalidad para un cliente."
+    },
+    {
+        "intent_id": "ciclo_de_vida_del_software_ventajas_y_desventajas_comparativas",
+        "keywords": [
+            "modelos",
+            "desarrollo",
+            "software",
+            "representacion",
+            "abstracta"
+        ],
+        "base_response": "Los modelos de desarrollo de software son una representación abstracta de una manera en particular. Realmente no representa cómo se debe desarrollar el software, sino de un enfoque común. Puede ser modificado y adaptado de acuerdo a las necesidades del software en proceso de desarrollo."
+    },
+    {
+        "intent_id": "ciclo_de_vida_del_software_riesgos_y_medidas_de_seguridad",
+        "keywords": [
+            "paradigmas",
+            "antiguo",
+            "invento",
+            "creacion",
+            "metodo"
+        ],
+        "base_response": "Es uno de los modelos más antiguo, se inventó durante la creación del método estructurado. Si se elige un proyecto, el método varia en etapas. Como todo modelo, existen sus pros y contras al usar este modelo:"
+    },
+    {
+        "intent_id": "ciclo_de_vida_del_software_clasificacion_taxonomica",
+        "keywords": [
+            "aplica",
+            "paradigma",
+            "principales",
+            "problemas",
+            "etapas"
+        ],
+        "base_response": "Si se aplica este modelo, unos de los principales problemas , es que las etapas realizadas no son autónomas de las siguientes, creando una dependencia estructural y en el caso de un error atrasaría todo el proyecto."
+    },
+    {
+        "intent_id": "ciclo_de_vida_del_software_mitos_y_concepciones_erroneas",
+        "keywords": [
+            "actividades",
+            "modelo",
+            "consisten",
+            "conformacion",
+            "espiral"
+        ],
+        "base_response": "Las actividades de este modelo consisten en la conformación de una espiral, en la que cada bucle o iteración representa un conjunto de actividades. Las actividades no están fijadas a ninguna prioridad, sino que las siguientes se eligen en función del análisis de riesgo, comenzando por el bucle interior."
+    },
+    {
+        "intent_id": "ciclo_de_vida_del_software_mantenimiento_y_prevencion",
+        "keywords": [
+            "modelo",
+            "desarrollo",
+            "basado",
+            "conjuntos",
+            "tareas"
+        ],
+        "base_response": "Este modelo de desarrollo, basado en conjuntos de tareas agrupadas en breves etapas repetitivas (iteraciones), se ha consolidado como uno de los más extendidos actualmente, su integración con estrategias innovadoras y con la programación extrema, permite que sea implementado con éxito en diversas metodologías de trabajo."
+    },
+    {
+        "intent_id": "ciclo_de_vida_del_software_proyecciones_futuras_y_tecnologia",
+        "keywords": [
+            "desarrollo",
+            "software",
+            "practicas",
+            "agiles",
+            "veces"
+        ],
+        "base_response": "En el desarrollo de software, las prácticas ágiles (a veces denominadas \"Agile\") consisten en la mejora de requisitos, investigación y soluciones mediante el esfuerzo colaborativo de equipos autoorganizados y multifuncionales junto con sus clientes/usuarios finales."
+    },
+    {
+        "intent_id": "metodologias_agiles_de_desarrollo_definicion_anatomica_o_estructural",
+        "keywords": [
+            "muchas",
+            "evidencias",
+            "anecdoticas",
+            "adopcion",
+            "practicas"
+        ],
+        "base_response": "Aunque hay muchas evidencias anecdóticas de que la adopción de prácticas y valores ágiles mejora la eficacia de los profesionales del software, así como de los equipos y las organizaciones, las pruebas empíricas son dispares y difíciles de encontrar."
+    },
+    {
+        "intent_id": "metodologias_agiles_de_desarrollo_dinamica_y_funcionamiento_fisico",
+        "keywords": [
+            "decada",
+            "surgieron",
+            "serie",
+            "metodos",
+            "ligeros"
+        ],
+        "base_response": "Durante la década de 1990, surgieron una serie de métodos ligeros de desarrollo de software como reacción a los métodos pesados predominantes (a menudo denominados en conjunto cascada) que los críticos describían como excesivamente regulados, planificados y microgestionados."
+    },
+    {
+        "intent_id": "metodologias_agiles_de_desarrollo_errores_fallas_y_patologias_comunes",
+        "keywords": [
+            "diecisiete",
+            "desarrolladores",
+            "software",
+            "reunieron",
+            "complejo"
+        ],
+        "base_response": "En 2001, diecisiete desarrolladores de software se reunieron en un complejo turístico de Snowbird (Utah) para debatir métodos de desarrollo ligero. Eran: Kent Beck (Extreme Programming), Ward Cunningham (Extreme Programming), Dave Thomas (PragProg, Ruby), Jeff Sutherland (Scrum), Ken Schwaber (Scrum), Jim Highsmith (Adaptive Software Development), Alistair Cockburn (Crystal), Robert C."
+    },
+    {
+        "intent_id": "metodologias_agiles_de_desarrollo_historia_origen_y_evolucion",
+        "keywords": [
+            "grupo",
+            "encabezado",
+            "cockburn",
+            "highsmith",
+            "redacto"
+        ],
+        "base_response": "En 2005, un grupo encabezado por Cockburn y Highsmith redactó un apéndice de principios de gestión de proyectos, la Declaración de Interdependencia del PM, para orientar la gestión de proyectos de software según los métodos ágiles de desarrollo de software."
+    },
+    {
+        "intent_id": "metodologias_agiles_de_desarrollo_contexto_y_entorno_ecologico",
+        "keywords": [
+            "grupo",
+            "trabajaba",
+            "martin",
+            "redacto",
+            "ampliacion"
+        ],
+        "base_response": "En 2009, un grupo que trabajaba con Martin redactó una ampliación de los principios de desarrollo de software, el Manifiesto de la Artesanía del Software, para guiar el desarrollo ágil de software de acuerdo con la conducta y el dominio profesionales."
+    },
+    {
+        "intent_id": "metodologias_agiles_de_desarrollo_aplicaciones_practicas_en_la_vida_real",
+        "keywords": [
+            "agile",
+            "alliance",
+            "practicas",
+            "agiles",
+            "rebautizada"
+        ],
+        "base_response": "En 2011, la Agile Alliance creó la Guía de Prácticas Ágiles (rebautizada como Glosario Agile en 2016), un compendio de código abierto en evolución de las definiciones funcionales de las prácticas, términos y elementos ágiles, junto con interpretaciones y directrices sobre experiencias de la comunidad mundial de profesionales de Agile."
+    },
+    {
+        "intent_id": "algoritmosinformaticos_definicion_anatomica_o_estructural",
+        "keywords": [
+            "matematicas",
+            "logica",
+            "ciencias",
+            "computacion",
+            "disciplinas"
+        ],
+        "base_response": "En matemáticas, lógica, ciencias de la computación y disciplinas relacionadas, un algoritmo es un conjunto finito y ordenado de instrucciones o reglas precisas y no ambiguas que, aplicadas de manera lógica, permiten resolver un problema, realizar un cálculo, procesar datos o ejecutar diversas tareas."
+    },
+    {
+        "intent_id": "algoritmosinformaticos_dinamica_y_funcionamiento_fisico",
+        "keywords": [
+            "cotidiana",
+            "emplean",
+            "algoritmos",
+            "frecuentemente",
+            "resolver"
+        ],
+        "base_response": "En la vida cotidiana, se emplean algoritmos frecuentemente para resolver problemas determinados. Algunos ejemplos son los manuales de usuario, que muestran algoritmos para usar un aparato, o las instrucciones que recibe un trabajador de su patrón."
+    },
+    {
+        "intent_id": "algoritmosinformaticos_errores_fallas_y_patologias_comunes",
+        "keywords": [
+            "contraste",
+            "heuristica",
+            "enfoque",
+            "utilizado",
+            "resolver"
+        ],
+        "base_response": "En contraste, una búsqueda es un enfoque utilizado para resolver problemas cuando no existe una solución exacta o cuando encontrar la solución óptima sería demasiado complejo o costoso en tiempo. En lugar de garantizar un resultado perfecto, las búsquedas buscan soluciones suficientemente buenas en un tiempo razonable."
+    },
+    {
+        "intent_id": "algoritmosinformaticos_historia_origen_y_evolucion",
+        "keywords": [
+            "ultimos",
+            "tiempos",
+            "debido",
+            "desarrollo",
+            "inteligencia"
+        ],
+        "base_response": "En los últimos tiempos, debido al auge y desarrollo de la inteligencia artificial y a que los algoritmos son capitales para su funcionamiento, se vienen utilizando con cierta sinonimia la expresión «inteligencia artificial» y el término «algoritmo» en el lenguaje común o atécnico."
+    },
+    {
+        "intent_id": "algoritmosinformaticos_contexto_y_entorno_ecologico",
+        "keywords": [
+            "palabra",
+            "castellana",
+            "algoritmo",
+            "deriva",
+            "latin"
+        ],
+        "base_response": "La palabra castellana algoritmo deriva del latín algorithmus, que se acuñaría en el siglo XV a partir del latín algorismus, con influencia del griego arithmos, que significa «número», o de la latinización del apellido del matemático persa Al-Juarismi."
+    },
+    {
+        "intent_id": "algoritmosinformaticos_aplicaciones_practicas_en_la_vida_real",
+        "keywords": [
+            "general",
+            "existe",
+            "ningun",
+            "consenso",
+            "definitivo"
+        ],
+        "base_response": "En general, no existe ningún consenso definitivo en cuanto a la definición formal de algoritmo. Muchos autores los señalan como listas de instrucciones para resolver un cálculo o un problema abstracto, es decir, que un número finito de pasos convierten los datos de un problema (entrada) en una solución (salida)."
+    },
+    {
+        "intent_id": "algoritmosinformaticos_importancia_e_impacto_social",
+        "keywords": [
+            "resumen",
+            "algoritmo",
+            "cualquier",
+            "funcione",
+            "pueda"
+        ],
+        "base_response": "En resumen, un algoritmo es cualquier cosa que funcione paso a paso, donde cada paso se pueda describir sin ambigüedad y sin hacer referencia a una computadora en particular, y además tiene un límite fijo en cuanto a la cantidad de datos que se pueden leer/escribir en un solo paso."
+    },
+    {
+        "intent_id": "algoritmosinformaticos_ventajas_y_desventajas_comparativas",
+        "keywords": [
+            "pseudocodigo",
+            "falso",
+            "lenguaje",
+            "prefijo",
+            "pseudo"
+        ],
+        "base_response": "El pseudocódigo (falso lenguaje, el prefijo pseudo significa falso) es una descripción de alto nivel de un algoritmo que emplea una mezcla de lenguaje natural con algunas convenciones sintácticas propias de lenguajes de programación, como asignaciones, ciclos y condicionales, aunque no está regido por ningún estándar."
+    },
+    {
+        "intent_id": "algoritmosinformaticos_riesgos_y_medidas_de_seguridad",
+        "keywords": [
+            "pseudocodigo",
+            "pensado",
+            "facilitar",
+            "personas",
+            "entendimiento"
+        ],
+        "base_response": "El pseudocódigo está pensado para facilitar a las personas el entendimiento de un algoritmo y, por lo tanto, puede omitir detalles irrelevantes que son necesarios en una implementación. Programadores diferentes suelen utilizar convenciones distintas, que pueden estar basadas en la escritura de lenguajes de programación concretos."
+    },
+    {
+        "intent_id": "algoritmosinformaticos_clasificacion_taxonomica",
+        "keywords": [
+            "muchos",
+            "algoritmos",
+            "ideado",
+            "implementarse",
+            "programa"
+        ],
+        "base_response": "Muchos algoritmos se han ideado para implementarse en un programa. No obstante, los algoritmos pueden ser implementados en otros medios, como una red neuronal, un circuito eléctrico o un aparato mecánico y eléctrico. Algunos algoritmos incluso se diseñan especialmente para implementarse usando lápiz y papel."
+    },
+    {
+        "intent_id": "algoritmosinformaticos_mitos_y_concepciones_erroneas",
+        "keywords": [
+            "estructura",
+            "secuencial",
+            "aquella",
+            "accion",
+            "sigue"
+        ],
+        "base_response": "La estructura secuencial es aquella en la que una acción sigue a otra en secuencia. Las operaciones se suceden de tal modo que la salida de una es la entrada de la siguiente y así sucesivamente hasta el fin del proceso."
+    },
+    {
+        "intent_id": "algoritmosinformaticos_mantenimiento_y_prevencion",
+        "keywords": [
+            "algoritmo",
+            "concebir",
+            "funcion",
+            "transforma",
+            "datos"
+        ],
+        "base_response": "Un algoritmo se puede concebir como una función que transforma los datos de un problema (entrada) en los datos de una solución (salida). Más aún, los datos se pueden representar a su vez como secuencias de bits, y en general, de símbolos cualesquiera."
+    },
+    {
+        "intent_id": "algoritmosinformaticos_proyecciones_futuras_y_tecnologia",
+        "keywords": [
+            "ocasiones",
+            "algoritmos",
+            "susceptibles",
+            "terminar",
+            "ejemplo"
+        ],
+        "base_response": "En ocasiones los algoritmos son susceptibles de nunca terminar, por ejemplo, cuando entran a un bucle infinito. Cuando esto ocurre, el algoritmo nunca devuelve ningún valor de salida, y podemos decir que la función queda indefinida para ese valor de entrada."
+    },
+    {
+        "intent_id": "redesdecomputadoras_definicion_anatomica_o_estructural",
+        "keywords": [
+            "computadoras",
+            "denominada",
+            "informatica",
+            "ordenadores",
+            "definirse"
+        ],
+        "base_response": "Una red de computadoras -también denominada red informática o red de ordenadores- puede definirse como un sistema conformado por dispositivos, nodos y elementos de software interconectados con el fin de intercambiar datos mediante diversos medios de transmisión, tanto físicos como inalámbricos."
+    },
+    {
+        "intent_id": "redesdecomputadoras_dinamica_y_funcionamiento_fisico",
+        "keywords": [
+            "estructura",
+            "funcionamiento",
+            "redes",
+            "informaticas",
+            "actuales"
+        ],
+        "base_response": "La estructura y el modo de funcionamiento de las redes informáticas actuales están definidos en varios estándares, siendo el más importante y extendido de todos ellos el modelo TCP/IP utilizado como base para el modelo de referencia OSI."
+    },
+    {
+        "intent_id": "redesdecomputadoras_errores_fallas_y_patologias_comunes",
+        "keywords": [
+            "palabra",
+            "viene",
+            "latin",
+            "retis",
+            "malla"
+        ],
+        "base_response": "La palabra red viene del latín rete, retis, (malla de hilo para pescar). En informática es el calco del inglés net (malla), para referirse a los cables, alambres y otros conductos que sirven para la comunicación electrónica entre computadoras."
+    },
+    {
+        "intent_id": "redesdecomputadoras_historia_origen_y_evolucion",
+        "keywords": [
+            "primer",
+            "indicio",
+            "redes",
+            "comunicacion",
+            "tecnologia"
+        ],
+        "base_response": "El primer indicio de redes de comunicación fue de tecnología telefónica y telegráfica. En 1940 se transmitieron datos desde la Universidad de Darmouth, en Nuevo Hampshire, a Nueva York. A finales de la década de 1960 y en los posteriores 70 fueron creados los minicomputadoress."
+    },
+    {
+        "intent_id": "redesdecomputadoras_contexto_y_entorno_ecologico",
+        "keywords": [
+            "protocolos",
+            "concepto",
+            "similar",
+            "idiomas",
+            "personas"
+        ],
+        "base_response": "Los protocolos son un concepto muy similar al de los idiomas de las personas. Si dos personas hablan el mismo idioma, y respetan ciertas reglas (tales como hablar y escucharse por turnos), es posible comunicarse y transmitir ideas/ información."
+    },
+    {
+        "intent_id": "redesdecomputadoras_aplicaciones_practicas_en_la_vida_real",
+        "keywords": [
+            "razon",
+            "importante",
+            "quiza",
+            "unica",
+            "existe"
+        ],
+        "base_response": "La razón más importante (quizá la única) sobre por qué existe diferenciación entre la capa física y la lógica es sencilla: cuando existe una división entre ambas, es posible utilizar un número casi infinito de protocolos distintos, lo que facilita la actualización y migración entre distintas tecnologías."
+    },
+    {
+        "intent_id": "redesdecomputadoras_importancia_e_impacto_social",
+        "keywords": [
+            "trabajo",
+            "adaptador",
+            "convertir",
+            "senales",
+            "electricas"
+        ],
+        "base_response": "El trabajo del adaptador de red es el de convertir las señales eléctricas que viajan por el cable (p. ejemplo: red Ethernet) o las ondas de radio (p. ejemplo: red Wi-Fi) en una señal que pueda interpretar la computadora."
+    },
+    {
+        "intent_id": "redesdecomputadoras_ventajas_y_desventajas_comparativas",
+        "keywords": [
+            "redes",
+            "medianas",
+            "grandes",
+            "almacenamiento",
+            "datos"
+        ],
+        "base_response": "En las redes medianas y grandes el almacenamiento de datos principal no se produce en los propios servidores sino que se utilizan dispositivos externos, conocidos como disk arrays (matrices de discos) o RAIDs interconectados, normalmente por redes tipo SAN o Network-Attached Storage (NAS)."
+    },
+    {
+        "intent_id": "ciberseguridadeducativa_definicion_anatomica_o_estructural",
+        "keywords": [
+            "definicion",
+            "seguridad",
+            "informacion",
+            "confundida",
+            "informatica"
+        ],
+        "base_response": "La definición de seguridad de la información no debe ser confundida con la de «seguridad informática», esta última solamente se encarga de la seguridad en el medio informático, pero por cierto, la información puede encontrarse en diferentes medios o formas, y no exclusivamente en medios informáticos."
+    },
+    {
+        "intent_id": "ciberseguridadeducativa_dinamica_y_funcionamiento_fisico",
+        "keywords": [
+            "seguridad",
+            "informacion",
+            "habla",
+            "metodos",
+            "procesos"
+        ],
+        "base_response": "La seguridad de la información nos habla sobre métodos y procesos que procuran proteger los archivos de información en sus diferentes formas y estados, mientras que la seguridad informática nos habla sobre métodos y procesos técnicos para la protección de la confidencialidad, disponibilidad e integridad de la información."
+    },
+    {
+        "intent_id": "ciberseguridadeducativa_errores_fallas_y_patologias_comunes",
+        "keywords": [
+            "resumen",
+            "seguridad",
+            "ambiente",
+            "habilidad",
+            "identificar"
+        ],
+        "base_response": "En resumen, la seguridad en un ambiente de red es la habilidad de identificar y eliminar vulnerabilidades. Una definición general de seguridad debe también poner atención a la necesidad de salvaguardar la ventaja organizacional, incluyendo información y equipos físicos, tales como los mismos computadores."
+    },
+    {
+        "intent_id": "ciberseguridadeducativa_historia_origen_y_evolucion",
+        "keywords": [
+            "ciberseguridad",
+            "tradicional",
+            "modelo",
+            "proteccion",
+            "triada"
+        ],
+        "base_response": "Mientras que en la ciberseguridad tradicional (IT) el modelo de protección se basa en la tríada CID (Confidencialidad, Integridad y Disponibilidad), en los sistemas de control industrial y sistemas en tiempo real (OT), las prioridades se invierten a menudo hacia el modelo AIC (Disponibilidad, Integridad y Confidencialidad)."
+    },
+    {
+        "intent_id": "ciberseguridadeducativa_contexto_y_entorno_ecologico",
+        "keywords": [
+            "roles",
+            "denominado",
+            "responsable",
+            "sistema",
+            "informacion"
+        ],
+        "base_response": "Uno de estos roles es el denominado Responsable del Sistema de Información, cuya responsabilidad puede estar ubicada dentro de la propia organización o compartimentada entre la organización y terceros, ya sean proveedores de servicios públicos o privados, en el caso de sistemas de información externalizados."
+    },
+    {
+        "intent_id": "ciberseguridadeducativa_aplicaciones_practicas_en_la_vida_real",
+        "keywords": [
+            "importante",
+            "destacar",
+            "competencias",
+            "responsabilidades",
+            "roles"
+        ],
+        "base_response": "Es importante destacar que las competencias y responsabilidades de los roles mencionados pueden variar según la organización y su contexto específico. Sin embargo, es fundamental que estos roles estén claramente definidos y que exista una coordinación efectiva entre ellos para asegurar una gestión integral de la seguridad de la información."
+    },
+    {
+        "intent_id": "ciberseguridadeducativa_importancia_e_impacto_social",
+        "keywords": [
+            "solamente",
+            "amenazas",
+            "surgen",
+            "programacion",
+            "funcionamiento"
+        ],
+        "base_response": "No solamente las amenazas que surgen de la programación y el funcionamiento de un dispositivo de almacenamiento, transmisión o proceso deben ser consideradas, también hay otras circunstancias no informáticas que deben ser tomadas en cuenta."
+    },
+    {
+        "intent_id": "ciberseguridadeducativa_ventajas_y_desventajas_comparativas",
+        "keywords": [
+            "otorga",
+            "contenidos",
+            "significados",
+            "manera",
+            "pueden"
+        ],
+        "base_response": "Se dice que “la Web 3.0 otorga contenidos y significados de manera tal que pueden ser comprendidos por las computadoras, las cuales -por medio de técnicas de inteligencia artificial- son capaces de emular y mejorar la obtención de conocimiento, hasta el momento reservada a las personas”."
+    },
+    {
+        "intent_id": "ciberseguridadeducativa_riesgos_y_medidas_de_seguridad",
+        "keywords": [
+            "sentido",
+            "amenazas",
+            "informaticas",
+            "viene",
+            "futuro"
+        ],
+        "base_response": "En este sentido, las amenazas informáticas que viene en el futuro ya no son con la inclusión de troyanos en los sistemas o softwares espías, sino con el hecho de que los ataques se han profesionalizado y manipulan el significado del contenido virtual."
+    },
+    {
+        "intent_id": "ciberseguridadeducativa_clasificacion_taxonomica",
+        "keywords": [
+            "teniendo",
+            "cuenta",
+            "explotacion",
+            "riesgo",
+            "causaria"
+        ],
+        "base_response": "Teniendo en cuenta que la explotación de un riesgo causaría daños o pérdidas financieras o administrativas a una empresa u organización, se tiene la necesidad de poder estimar la magnitud del impacto del riesgo a que se encuentra expuesta mediante la aplicación de controles."
+    },
+    {
+        "intent_id": "ciberseguridadeducativa_mitos_y_concepciones_erroneas",
+        "keywords": [
+            "proceso",
+            "analisis",
+            "riesgo",
+            "genera",
+            "habitualmente"
+        ],
+        "base_response": "El proceso de análisis de riesgo genera habitualmente un documento al cual se le conoce como matriz de riesgo. En este documento se muestran los elementos identificados, la manera en que se relacionan y los cálculos realizados. Este análisis de riesgo es indispensable para lograr una correcta administración del riesgo."
+    },
+    {
+        "intent_id": "ciberseguridadeducativa_mantenimiento_y_prevencion",
+        "keywords": [
+            "mecanismo",
+            "seguridad",
+            "llamado",
+            "herramienta",
+            "control"
+        ],
+        "base_response": "Un mecanismo de seguridad (también llamado herramienta de seguridad o control) es una técnica que se utiliza para implementar un servicio, es decir, es aquel mecanismo que está diseñado para detectar, prevenir o recobrarse de un ataque de seguridad."
+    },
+    {
+        "intent_id": "ciberseguridadeducativa_proyecciones_futuras_y_tecnologia",
+        "keywords": [
+            "dentro",
+            "diferentes",
+            "categorias",
+            "mecanismos",
+            "seguridad"
+        ],
+        "base_response": "Dentro de las diferentes categorías de mecanismos de seguridad, uno de los aspectos relevantes es la ciberseguridad perimetral. La ciberseguridad perimetral se enfoca en proteger el perímetro de una red contra amenazas y ataques cibernéticos."
+    },
+    {
+        "intent_id": "inteligenciaartificial_definicion_anatomica_o_estructural",
+        "keywords": [
+            "tecnologias",
+            "permiten",
+            "maquinas",
+            "aprendan",
+            "experiencia"
+        ],
+        "base_response": "Estas tecnologías permiten que las máquinas aprendan de la experiencia, se adapten a nuevas entradas y realicen tareas humanas como el reconocimiento de voz, la toma de decisiones, la traducción de idiomas o la visión por computadora."
+    },
+    {
+        "intent_id": "inteligenciaartificial_dinamica_y_funcionamiento_fisico",
+        "keywords": [
+            "clasificacion",
+            "tradicionalmente",
+            "divide",
+            "inteligencia",
+            "artificial"
+        ],
+        "base_response": "En cuanto a su clasificación, tradicionalmente se divide a la inteligencia artificial en inteligencia artificial débil, la cual es la única que existe en la actualidad y que se ocupa de realizar tareas específicas, e inteligencia artificial general, que sería una IA que excediese las capacidades humanas."
+    },
+    {
+        "intent_id": "inteligenciaartificial_errores_fallas_y_patologias_comunes",
+        "keywords": [
+            "ejemplo",
+            "reconocimiento",
+            "optico",
+            "caracteres",
+            "percibe"
+        ],
+        "base_response": "Por ejemplo, el reconocimiento óptico de caracteres ya no se percibe como un ejemplo de la «inteligencia artificial», habiéndose convertido en una tecnología común. Avances tecnológicos todavía clasificados como inteligencia artificial son los sistemas de conducción autónomos o los capaces de jugar al ajedrez o Go."
+    },
+    {
+        "intent_id": "inteligenciaartificial_historia_origen_y_evolucion",
+        "keywords": [
+            "inteligencia",
+            "artificial",
+            "nueva",
+            "forma",
+            "resolver"
+        ],
+        "base_response": "La inteligencia artificial es una nueva forma de resolver problemas dentro de los cuales se incluyen los sistemas expertos, el manejo y control de robots y los procesadores, que intenta integrar el conocimiento en tales sistemas; en otras palabras, un sistema inteligente capaz de escribir su propio programa."
+    },
+    {
+        "intent_id": "inteligenciaartificial_contexto_y_entorno_ecologico",
+        "keywords": [
+            "takeyas",
+            "ciencias",
+            "computacionales",
+            "encargada",
+            "estudiar"
+        ],
+        "base_response": "Según Takeyas (2007), la IA es una rama de las ciencias informáticaes encargada de estudiar modelos de cómputo capaces de realizar actividades propias de los seres humanos con base en dos de sus características primordiales: el razonamiento y la conducta."
+    },
+    {
+        "intent_id": "inteligenciaartificial_aplicaciones_practicas_en_la_vida_real",
+        "keywords": [
+            "existen",
+            "distintos",
+            "tipos",
+            "percepciones",
+            "acciones"
+        ],
+        "base_response": "También existen distintos tipos de percepciones y acciones, que pueden ser obtenidas y producidas, respectivamente, por sensores físicos y sensores mecánicos en máquinas, pulsos eléctricos u ópticos en computadoras, tanto como por entradas y salidas de bits de un software y su entorno hardware."
+    },
+    {
+        "intent_id": "inteligenciaartificial_importancia_e_impacto_social",
+        "keywords": [
+            "varios",
+            "ejemplos",
+            "encuentran",
+            "control",
+            "sistemas"
+        ],
+        "base_response": "Varios ejemplos se encuentran en el área de control de sistemas, planificación automática, la capacidad de responder a diagnósticos y a consultas de los consumidores, reconocimiento de escritura, reconocimiento del habla y reconocimiento de patrones."
+    },
+    {
+        "intent_id": "inteligenciaartificial_ventajas_y_desventajas_comparativas",
+        "keywords": [
+            "inteligencia",
+            "artificial",
+            "fuerte",
+            "hipotetico",
+            "iguala"
+        ],
+        "base_response": "La Inteligencia artificial fuerte (IGA) es un tipo hipotético de inteligencia artificial que iguala o excede la inteligencia humana promedio. Si se hiciera realidad, una IGA podría aprender a realizar cualquier tarea intelectual que los seres humanos o los animales puedan llevar a cabo."
+    },
+    {
+        "intent_id": "inteligenciaartificial_riesgos_y_medidas_de_seguridad",
+        "keywords": [
+            "inteligencia",
+            "artificial",
+            "explicable",
+            "refiere",
+            "metodos"
+        ],
+        "base_response": "La inteligencia artificial explicable se refiere a métodos y técnicas en la aplicación de tecnología de inteligencia artificial por los que el ser humano es capaz de comprender las decisiones y predicciones realizadas por la inteligencia artificial."
+    },
+    {
+        "intent_id": "inteligenciaartificial_clasificacion_taxonomica",
+        "keywords": [
+            "inteligencia",
+            "artificial",
+            "amigable",
+            "fuerte",
+            "hipotetica"
+        ],
+        "base_response": "La inteligencia artificial amigable es una IA fuerte e hipotética que puede tener un efecto positivo más que uno negativo sobre la humanidad. «Amigable» es usado en este contexto como terminología técnica y escoge agentes que son seguros y útiles, no necesariamente aquellos que son «amigables» en el sentido coloquial."
+    },
+    {
+        "intent_id": "inteligenciaartificial_mitos_y_concepciones_erroneas",
+        "keywords": [
+            "inteligencia",
+            "artificial",
+            "multimodal",
+            "procesar",
+            "integrar"
+        ],
+        "base_response": "La inteligencia artificial multimodal es un tipo de inteligencia artificial que puede procesar e integrar datos de diferentes modalidades, como texto, imágenes, audio y video, para obtener una comprensión más completa y contextualizada de una situación."
+    },
+    {
+        "intent_id": "inteligenciaartificial_mantenimiento_y_prevencion",
+        "keywords": [
+            "inteligencia",
+            "artificial",
+            "cuantica",
+            "campo",
+            "interdisciplinar"
+        ],
+        "base_response": "La inteligencia artificial cuántica es un campo interdisciplinar que se enfoca en construir algoritmos cuánticos para mejorar las tareas informáticaes dentro de la IA, incluyendo subcampos como el aprendizaje automático. Existen evidencias que muestran una posible ventaja cuadrática cuántica en operaciones fundamentales de la IA."
+    },
+    {
+        "intent_id": "inteligenciaartificial_proyecciones_futuras_y_tecnologia",
+        "keywords": [
+            "inteligencia",
+            "computacional",
+            "tiene",
+            "doble",
+            "finalidad"
+        ],
+        "base_response": "La inteligencia informática tiene una doble finalidad. Por un lado, su objetivo científico es comprender los principios que posibilitan el comportamiento inteligente (ya sea en sistemas naturales o artificiales) y, por otro, su objetivo tecnológico consiste en especificar los métodos para diseñar sistemas inteligentes."
+    },
+    {
+        "intent_id": "hardwarebasico_definicion_anatomica_o_estructural",
+        "keywords": [
+            "termino",
+            "propio",
+            "idioma",
+            "ingles",
+            "traduccion"
+        ],
+        "base_response": "El término es propio del idioma inglés, y su traducción al español no tiene un significado acorde, por tal motivo se lo ha adoptado tal cual es y suena. La Real Academia Española lo define como «Conjunto de los componentes que integran la parte material de una computadora»."
+    },
+    {
+        "intent_id": "hardwarebasico_dinamica_y_funcionamiento_fisico",
+        "keywords": [
+            "otros",
+            "ejemplos",
+            "aplica",
+            "termino",
+            "hardware"
+        ],
+        "base_response": "Otros ejemplos donde se aplica el término hardware son, en relación con los robots, así como en relación con los teléfonos móviles, las cámaras fotográficas, los reproductores digitales, o cualquier otro dispositivo electrónico. Cuando dichos dispositivos también procesan datos, poseen firmware y software además de hardware."
+    },
+    {
+        "intent_id": "hardwarebasico_errores_fallas_y_patologias_comunes",
+        "keywords": [
+            "clasificacion",
+            "evolucionista",
+            "hardware",
+            "computador",
+            "electronico"
+        ],
+        "base_response": "La clasificación evolucionista del hardware del computador electrónico está dividida en generaciones, donde cada una supone un cambio tecnológico notable. El origen de las primeras es sencillo de establecer, ya que en ellas el hardware fue sufriendo cambios radicales."
+    },
+    {
+        "intent_id": "hardwarebasico_historia_origen_y_evolucion",
+        "keywords": [
+            "aparicion",
+            "microprocesador",
+            "marca",
+            "relevancia",
+            "muchos"
+        ],
+        "base_response": "La aparición del microprocesador marca un hito de relevancia, y para muchos autores constituye el inicio de la cuarta generación. A diferencia de los cambios tecnológicos anteriores, su invención no supuso la desaparición radical de los computadores que no lo utilizaban."
+    },
+    {
+        "intent_id": "hardwarebasico_contexto_y_entorno_ecologico",
+        "keywords": [
+            "computadoras",
+            "aparatos",
+            "electronicos",
+            "capaces",
+            "interpretar"
+        ],
+        "base_response": "Las computadoras son aparatos electrónicos capaces de interpretar y ejecutar instrucciones programadas y almacenadas en su memoria; consisten básicamente en operaciones aritmético-lógicas y de entrada/salida. Se reciben las entradas (datos), se las procesa y almacena (procesamiento), y finalmente se producen las salidas (resultados del procesamiento)."
+    },
+    {
+        "intent_id": "hardwarebasico_aplicaciones_practicas_en_la_vida_real",
+        "keywords": [
+            "periferico",
+            "mixto",
+            "aquel",
+            "cumplir",
+            "funciones"
+        ],
+        "base_response": "Un periférico mixto es aquel que puede cumplir funciones tanto de entrada como de salida; el ejemplo más típico es el disco rígido o bien de estado sólido SSD (ya que en él se lee y se graba información y datos)."
+    },
+    {
+        "intent_id": "hardwarebasico_importancia_e_impacto_social",
+        "keywords": [
+            "unidad",
+            "central",
+            "procesamiento",
+            "conocida",
+            "siglas"
+        ],
+        "base_response": "La Unidad Central de Procesamiento, conocida por las siglas en inglés CPU, es el componente fundamental de la computadora, encargado de interpretar y ejecutar instrucciones y de procesar datos. En computadores modernos, la función de la CPU la realiza uno o más microprocesadores."
+    },
+    {
+        "intent_id": "hardwarebasico_ventajas_y_desventajas_comparativas",
+        "keywords": [
+            "servidor",
+            "maquina",
+            "calculo",
+            "rendimiento",
+            "supercomputacion"
+        ],
+        "base_response": "Un servidor de red o una máquina de cálculo de alto rendimiento (supercomputación), puede tener varios, incluso miles de microprocesadores trabajando simultáneamente o en paralelo (multiprocesamiento); en este caso, todo ese conjunto conforma la CPU de la máquina."
+    },
+    {
+        "intent_id": "hardwarebasico_riesgos_y_medidas_de_seguridad",
+        "keywords": [
+            "equipos",
+            "rendimiento",
+            "adicionalmente",
+            "disipador",
+            "acopla"
+        ],
+        "base_response": "En equipos de alto rendimiento, adicionalmente, sobre el disipador se acopla uno o dos ventiladores (raramente más), destinados a forzar la circulación de aire para extraer más rápidamente el calor acumulado por el disipador y originado en el microprocesador."
+    },
+    {
+        "intent_id": "hardwarebasico_clasificacion_taxonomica",
+        "keywords": [
+            "tendencia",
+            "integracion",
+            "hecho",
+            "placa",
+            "convierta"
+        ],
+        "base_response": "La tendencia de integración ha hecho que la placa base se convierta en un elemento que incluye a la mayoría de las funciones básicas (vídeo, audio, red, puertos de varios tipos), funciones que antes se realizaban con tarjetas de expansión."
+    },
+    {
+        "intent_id": "hardwarebasico_mitos_y_concepciones_erroneas",
+        "keywords": [
+            "sigla",
+            "ingles",
+            "random",
+            "access",
+            "memory"
+        ],
+        "base_response": "La sigla RAM, del inglés Random Access Memory, literalmente significa memoria de acceso aleatorio. El término tiene relación con la característica de presentar iguales tiempos de acceso a cualquiera de sus posiciones (ya sea para lectura o para escritura)."
+    },
+    {
+        "intent_id": "hardwarebasico_mantenimiento_y_prevencion",
+        "keywords": [
+            "memoria",
+            "utilizada",
+            "computadora",
+            "almacenamiento",
+            "transitorio"
+        ],
+        "base_response": "La RAM es la memoria utilizada en una computadora para el almacenamiento transitorio y de trabajo (no masivo). En la RAM se almacena temporalmente la información, datos y programas que la Unidad de Procesamiento (CPU) lee, procesa y ejecuta."
+    },
+    {
+        "intent_id": "hardwarebasico_proyecciones_futuras_y_tecnologia",
+        "keywords": [
+            "presentacion",
+            "comun",
+            "computadores",
+            "modernos",
+            "computador"
+        ],
+        "base_response": "Es la presentación más común en computadores modernos (computador personal, servidor); son tarjetas de circuito impreso que tienen soldados circuitos integrados de memoria por una o ambas caras, además de otros elementos, tales como resistores y condensadores."
+    },
+    {
+        "intent_id": "softwarelibre_definicion_anatomica_o_estructural",
+        "keywords": [
+            "definicion",
+            "software",
+            "libre",
+            "vinculada",
+            "surgimiento"
+        ],
+        "base_response": "La definición de «software libre» está vinculada al surgimiento del movimiento de software libre, encabezado por el activista informático estadounidense Richard Stallman y la fundación que presidía en 1985, la Free Software Foundation, una organización sin ánimo de lucro que establece la libertad del usuario informático como propósito ético fundamental."
+    },
+    {
+        "intent_id": "softwarelibre_dinamica_y_funcionamiento_fisico",
+        "keywords": [
+            "tampoco",
+            "confundirse",
+            "software",
+            "libre",
+            "dominio"
+        ],
+        "base_response": "Tampoco debe confundirse el «software libre» con «software de dominio público». Este último no requiere licencia, ya que sus derechos de explotación están disponibles para toda la humanidad, permitiendo el acceso y uso por igual. Cualquiera puede utilizarlo, siempre que se reconozca la autoría original."
+    },
+    {
+        "intent_id": "softwarelibre_errores_fallas_y_patologias_comunes",
+        "keywords": [
+            "llegada",
+            "decada",
+            "situacion",
+            "comenzo",
+            "cambiar"
+        ],
+        "base_response": "Con la llegada de la década de 1980, la situación comenzó a cambiar. Las computadoras más modernas empezaron a incorporar sistemas operativos privativos, lo que obligaba a los usuarios a aceptar condiciones restrictivas que les impedían intercambiar, compartir o realizar modificaciones a dicho software."
+    },
+    {
+        "intent_id": "softwarelibre_historia_origen_y_evolucion",
+        "keywords": [
+            "estadounidense",
+            "richard",
+            "matthew",
+            "stallman",
+            "estudiante"
+        ],
+        "base_response": "En 1971, el estadounidense Richard Matthew Stallman, estudiante de Física de la Universidad de Harvard, se incorporó como hacker del Laboratorio de Inteligencia Artificial del Instituto Tecnológico de Massachusetts (MIT por sus siglas en inglés)."
+    },
+    {
+        "intent_id": "softwarelibre_contexto_y_entorno_ecologico",
+        "keywords": [
+            "stallman",
+            "conto",
+            "laboratorio",
+            "trabajaba",
+            "habian"
+        ],
+        "base_response": "Stallman contó, años después, que por aquellos años, en el laboratorio donde trabajaba, habían recibido una impresora donada por una empresa externa. El dispositivo, que era utilizado en red por todos los trabajadores, parecía no funcionar a la perfección, dado que cada cierto tiempo el papel se atascaba."
+    },
+    {
+        "intent_id": "softwarelibre_aplicaciones_practicas_en_la_vida_real",
+        "keywords": [
+            "perdida",
+            "tiempo",
+            "constante",
+            "ocasiones",
+            "trabajadores"
+        ],
+        "base_response": "La pérdida de tiempo era constante, ya que en ocasiones, los trabajadores enviaban por red sus trabajos a imprimir y al ir a buscarlos se encontraban la impresora atascada y una cola enorme de trabajos pendientes."
+    },
+    {
+        "intent_id": "softwarelibre_importancia_e_impacto_social",
+        "keywords": [
+            "software",
+            "foundation",
+            "mantiene",
+            "listado",
+            "licencias"
+        ],
+        "base_response": "La Free Software Foundation, mantiene un listado de las licencias que cumplen la definición de «software libre». Por su parte la Open Source Initiative mantiene su listado de licencias que cumplen la definición de código abierto."
+    },
+    {
+        "intent_id": "softwarelibre_ventajas_y_desventajas_comparativas",
+        "keywords": [
+            "ciertos",
+            "teoricos",
+            "libertad",
+            "justificar",
+            "caracteristica"
+        ],
+        "base_response": "Ciertos teóricos usan la libertad 3 para justificar la característica de la licencia GNU GPL que impide privatizar el software libre, frente a otras licencias de software libre como la licencia MIT que permiten la privatización."
+    },
+    {
+        "intent_id": "softwarelibre_riesgos_y_medidas_de_seguridad",
+        "keywords": [
+            "definicion",
+            "software",
+            "libre",
+            "contempla",
+            "cuestion"
+        ],
+        "base_response": "La definición de software libre no contempla la cuestión del precio, ya que el software libre puede ser comercial y de pago, siempre que se respeten las cuatro libertades. Por ejemplo, antes era habitual la venta CD de software libre como distribuciones Linux."
+    },
+    {
+        "intent_id": "softwarelibre_clasificacion_taxonomica",
+        "keywords": [
+            "algunas",
+            "licencias",
+            "software",
+            "libre",
+            "incluyen"
+        ],
+        "base_response": "Algunas licencias de software libre incluyen copyleft, que exige que todas las versiones derivadas sean también distribuidas con estas libertades. Otras licencias de software \"permisivas\" consisten en unas pocas líneas que explicitan la cesión de derechos y una garantía de renuncia."
+    },
+    {
+        "intent_id": "softwarelibre_mitos_y_concepciones_erroneas",
+        "keywords": [
+            "hacer",
+            "constar",
+            "titular",
+            "derechos",
+            "autor"
+        ],
+        "base_response": "Hay que hacer constar que el titular de los derechos de autor (copyright) de un software bajo licencia copyleft puede también realizar una versión modificada bajo su copyright original, y venderla bajo cualquier licencia que desee, además de distribuir la versión original como software libre."
+    },
+    {
+        "intent_id": "softwarelibre_mantenimiento_y_prevencion",
+        "keywords": [
+            "practica",
+            "software",
+            "codigo",
+            "abierto",
+            "libre"
+        ],
+        "base_response": "Aunque en la práctica el software de código abierto y el software libre comparten muchas de sus licencias, la Free Software Foundation opina que el movimiento del software de código abierto es filosóficamente diferente del movimiento del software libre."
+    },
+    {
+        "intent_id": "softwarelibre_proyecciones_futuras_y_tecnologia",
+        "keywords": [
+            "puesto",
+            "aprueba",
+            "licencias",
+            "ajustan",
+            "source"
+        ],
+        "base_response": "Puesto que la OSI solo aprueba las licencias que se ajustan a la Open Source Definition (definición de código abierto), la mayoría de la gente lo interpreta como un esquema de distribución, e intercambia libremente los términos \"código abierto\" y \"software libre\"."
+    },
+    {
+        "intent_id": "sistemasoperativos_definicion_anatomica_o_estructural",
+        "keywords": [
+            "sistema",
+            "operativo",
+            "conjunto",
+            "programas",
+            "informatico"
+        ],
+        "base_response": "Un sistema operativo (SO) es el conjunto de programas de un sistema informático que gestiona los recursos del hardware y provee servicios a los programas de aplicación de software. Estos programas se ejecutan en modo privilegiado respecto de los restantes."
+    },
+    {
+        "intent_id": "sistemasoperativos_dinamica_y_funcionamiento_fisico",
+        "keywords": [
+            "propositos",
+            "sistema",
+            "operativo",
+            "gestiona",
+            "nucleo"
+        ],
+        "base_response": "Uno de los propósitos del sistema operativo que gestiona el núcleo intermediario consiste en gestionar los recursos de localización y protección de acceso del hardware, hecho que alivia a los programadores de aplicaciones de tener que tratar con estos detalles."
+    },
+    {
+        "intent_id": "sistemasoperativos_errores_fallas_y_patologias_comunes",
+        "keywords": [
+            "sistema",
+            "operativo",
+            "escritorio",
+            "dominante",
+            "microsoft"
+        ],
+        "base_response": "El sistema operativo de escritorio dominante es Microsoft Windows con una cuota de mercado de alrededor del 68,28%. MacOS de Apple Inc. ocupa el segundo lugar (18,71%) y las variedades de GNU/Linux están colectivamente en tercer lugar (3,01%)."
+    },
+    {
+        "intent_id": "sistemasoperativos_historia_origen_y_evolucion",
+        "keywords": [
+            "problema",
+            "principal",
+            "primeras",
+            "computadoras",
+            "utilizacion"
+        ],
+        "base_response": "El problema principal de las primeras computadoras era su baja utilización, la primera solución fue poner un operador profesional que lo manejase, con lo que se eliminaron las hojas de reserva, se ahorró tiempo y se aumentó la velocidad."
+    },
+    {
+        "intent_id": "sistemasoperativos_contexto_y_entorno_ecologico",
+        "keywords": [
+            "avanzando",
+            "complejidad",
+            "programas",
+            "necesario",
+            "implementar"
+        ],
+        "base_response": "Según fue avanzando la complejidad de los programas, fue necesario implementar soluciones que automatizaran la organización de tareas sin necesidad de un operador. Debido a ello se crearon los monitores residentes: programas que residían en memoria y que gestionaban la ejecución de una cola de trabajos."
+    },
+    {
+        "intent_id": "sistemasoperativos_aplicaciones_practicas_en_la_vida_real",
+        "keywords": [
+            "avances",
+            "hardware",
+            "crearon",
+            "soporte",
+            "interrupciones"
+        ],
+        "base_response": "Los avances en el hardware crearon el soporte de interrupciones y posteriormente se llevó a cabo un intento de solución más avanzado: solapar la E/S de un trabajo con sus propios cálculos, por lo que se creó el sistema de búfers con el siguiente funcionamiento:"
+    },
+    {
+        "intent_id": "sistemasoperativos_importancia_e_impacto_social",
+        "keywords": [
+            "problemas",
+            "surgen",
+            "muchas",
+            "operaciones",
+            "calculo"
+        ],
+        "base_response": "Los problemas surgen si hay muchas más operaciones de cálculo que de E/S (limitado por la CPU) o si por el contrario hay muchas más operaciones de E/S que de cálculo (limitado por la E/S)."
+    },
+    {
+        "intent_id": "sistemasoperativos_ventajas_y_desventajas_comparativas",
+        "keywords": [
+            "aparicion",
+            "disco",
+            "magnetico",
+            "surgen",
+            "nuevas"
+        ],
+        "base_response": "Hace aparición el disco magnético con lo que surgen nuevas soluciones a los problemas de rendimiento. Se eliminan las cintas magnéticas para el volcado previo de los datos de dispositivos lentos y se sustituyen por discos (un disco puede simular varias cintas)."
+    },
+    {
+        "intent_id": "sistemasoperativos_riesgos_y_medidas_de_seguridad",
+        "keywords": [
+            "implementa",
+            "conjunto",
+            "propio",
+            "llamadas",
+            "sistema"
+        ],
+        "base_response": "Cada SO implementa un conjunto propio de llamadas al sistema. Ese conjunto de llamadas es la interfaz del SO frente a las aplicaciones. Constituyen el lenguaje que deben usar las aplicaciones para comunicarse con el SO."
+    },
+    {
+        "intent_id": "sistemasoperativos_clasificacion_taxonomica",
+        "keywords": [
+            "aplicaciones",
+            "deben",
+            "poder",
+            "instrucciones",
+            "obstante"
+        ],
+        "base_response": "Las aplicaciones no deben poder usar todas las instrucciones de la CPU. No obstante el Sistema Operativo, tiene que poder utilizar todo el conjunto de instrucciones del CPU. Por ello, una CPU debe tener (al menos) dos modos de operación diferentes:"
+    },
+    {
+        "intent_id": "sistemasoperativos_mitos_y_concepciones_erroneas",
+        "keywords": [
+            "aplicacion",
+            "normalmente",
+            "situada",
+            "rutina",
+            "servicio"
+        ],
+        "base_response": "Una aplicación, normalmente no sabe dónde está situada la rutina de servicio de la llamada. Por lo que si esta se codifica como una llamada de función, cualquier cambio en el S.O. haría necesario reconstruir la aplicación."
+    },
+    {
+        "intent_id": "sistemasoperativos_mantenimiento_y_prevencion",
+        "keywords": [
+            "llamadas",
+            "sistema",
+            "tienen",
+            "expresion",
+            "sencilla"
+        ],
+        "base_response": "Las llamadas al sistema no siempre tienen una expresión sencilla en los lenguajes de alto nivel, por ello se crean las bibliotecas de interfaz, que son bibliotecas de funciones que pueden usarse para efectuar llamadas al sistema. Las hay para distintos lenguajes de programación."
+    },
+    {
+        "intent_id": "sistemasoperativos_proyecciones_futuras_y_tecnologia",
+        "keywords": [
+            "ocupa",
+            "posicion",
+            "intermedia",
+            "programas",
+            "aplicacion"
+        ],
+        "base_response": "El SO ocupa una posición intermedia entre los programas de aplicación y el hardware. No se limita a utilizar el hardware a petición de las aplicaciones ya que hay situaciones en las que es el hardware el que necesita que se ejecute código del SO."
+    },
+    {
+        "intent_id": "nubecomputacional_definicion_anatomica_o_estructural",
+        "keywords": [
+            "computacion",
+            "disponibilidad",
+            "pedido",
+            "recursos",
+            "sistema"
+        ],
+        "base_response": "La computación en la nube es la disponibilidad a pedido de los recursos del sistema informático, especialmente el almacenamiento de datos y la capacidad de cómputo, sin una gestión activa directa por parte del usuario."
+    }
+]
