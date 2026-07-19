@@ -1,0 +1,3002 @@
+[
+    {
+        "intent_id": "estructura_suspension_vehicular",
+        "keywords": [
+            "amortiguadores",
+            "resortes",
+            "cilindro",
+            "piston",
+            "fluido"
+        ],
+        "base_response": "Los amortiguadores y resortes forman un conjunto estructural que controla el movimiento vertical del vehiculo. El amortiguador contiene un cilindro con piston y fluido, mientras el resorte almacena energia elastica para mantener estabilidad y soporte durante la conduccion."
+    },
+    {
+        "intent_id": "dinamica_amortiguadores",
+        "keywords": [
+            "amortiguadores",
+            "resortes",
+            "energia",
+            "movimiento",
+            "vehiculo"
+        ],
+        "base_response": "Los amortiguadores y resortes trabajan juntos para controlar la energia del movimiento vertical del vehiculo. Al comprimirse y expandirse regulan vibraciones, estabilizan la carroceria y mantienen contacto constante entre las ruedas y el suelo, asegurando respuesta dinamica equilibrada."
+    },
+    {
+        "intent_id": "patologias_suspension_vehicular",
+        "keywords": [
+            "falla",
+            "fuga",
+            "desgaste",
+            "vibracion",
+            "control"
+        ],
+        "base_response": "Las fallas comunes en amortiguadores y resortes incluyen fugas de aceite, desgaste irregular, oxidacion y deformaciones que reducen la estabilidad del vehiculo. Estos errores provocan vibraciones excesivas, perdida de control y mayor distancia de frenado, afectando la seguridad general."
+    },
+    {
+        "intent_id": "revision_sostenible_suspension",
+        "keywords": [
+            "revision",
+            "amortiguadores",
+            "resortes",
+            "impacto",
+            "entorno"
+        ],
+        "base_response": "La revision de amortiguadores y resortes permite evaluar su impacto ambiental, pues un desgaste excesivo aumenta vibraciones y consumo energetico. Mantenerlos en buen estado reduce emisiones indirectas y favorece un entorno vehicular sostenible al minimizar esfuerzos mecanicos innecesarios."
+    },
+    {
+        "intent_id": "conceptualventajasdesventajas",
+        "keywords": [
+            "revision",
+            "amortiguadores",
+            "resortes",
+            "desgaste",
+            "estabilidad"
+        ],
+        "base_response": "La revision de amortiguadores y resortes permite detectar desgaste que reduce estabilidad, ofreciendo ventajas como mayor seguridad y confort. Sin embargo, implica costos adicionales y posibles reemplazos frecuentes, lo que representa desventajas comparativas frente a componentes menos susceptibles al deterioro."
+    },
+    {
+        "intent_id": "clasificacion_componentes_suspension",
+        "keywords": [
+            "clasificacion",
+            "amortiguadores",
+            "resortes",
+            "estructura",
+            "funcion"
+        ],
+        "base_response": "La clasificacion taxonomica de amortiguadores y resortes organiza estos componentes segun su estructura, funcion y comportamiento mecanico, permitiendo distinguir tipos hidraulicos, neumaticos y helicoidales, facilitando evaluaciones precisas durante la revision vehicular y mejorando la comprension de su desempeno."
+    },
+    {
+        "intent_id": "concepto_simbiosis_suspension",
+        "keywords": [
+            "amortiguadores",
+            "resortes",
+            "frenos",
+            "direccion",
+            "neumaticos"
+        ],
+        "base_response": "Los amortiguadores y resortes interactúan simbioticamente con frenos, dirección y neumáticos, equilibrando fuerzas y reduciendo vibraciones. Esta relación asegura estabilidad, mejora la adherencia y optimiza la respuesta del vehículo, permitiendo que cada sistema funcione eficientemente bajo diversas condiciones de manejo."
+    },
+    {
+        "intent_id": "transformacion_ciclos_amortiguacion",
+        "keywords": [
+            "energia",
+            "cinetica",
+            "vehiculo",
+            "transformacion",
+            "ciclos",
+            "absorcion"
+        ],
+        "base_response": "En la revisión de amortiguadores y resortes se analiza cómo la energía cinética del vehículo se transforma en energía potencial y térmica, regulando ciclos de absorción y liberación que estabilizan el movimiento y aseguran un desempeño seguro durante variaciones constantes del terreno."
+    },
+    {
+        "intent_id": "impacto_largo_plazo_suspension",
+        "keywords": [
+            "desgaste",
+            "amortiguadores",
+            "resortes",
+            "estabilidad",
+            "vibraciones"
+        ],
+        "base_response": "El desgaste prolongado de amortiguadores y resortes reduce la estabilidad vehicular, incrementa vibraciones y acelera la fatiga estructural. Con el tiempo, estas fallas comprometen la seguridad, aumentan el consumo de energia mecanica y generan daños acumulativos en componentes asociados."
+    },
+    {
+        "intent_id": "mantenimiento_amortiguadores_resortes",
+        "keywords": [
+            "amortiguador",
+            "resorte",
+            "desgaste",
+            "inspeccion",
+            "prevenir"
+        ],
+        "base_response": "La revisión periódica de amortiguadores y resortes permite detectar desgaste que reduce estabilidad. Un mantenimiento preventivo evita fallas al identificar fugas, deformaciones o pérdida de tensión, garantizando una respuesta adecuada del sistema de suspensión y mayor seguridad en cada recorrido del vehículo."
+    },
+    {
+        "intent_id": "tecnologia_suspension_futura",
+        "keywords": [
+            "amortiguadores",
+            "resortes",
+            "sensores",
+            "actuadores",
+            "diagnosticos"
+        ],
+        "base_response": "Los amortiguadores y resortes evolucionarán hacia sistemas inteligentes capaces de ajustar su rigidez mediante sensores y actuadores electromagneticos, mejorando estabilidad y confort. Estas tecnologias permitirán diagnosticos predictivos y optimizaran el rendimiento en tiempo real vehicular."
+    },
+    {
+        "intent_id": "dinamica_brazos_viraje",
+        "keywords": [
+            "inspeccion",
+            "brazos",
+            "viraje",
+            "fuerzas",
+            "rigidez"
+        ],
+        "base_response": "La inspección de brazos de viraje analiza cómo transmiten fuerzas durante el giro, evaluando su rigidez, desgaste y capacidad para mantener la geometría. Su funcionamiento depende de la interacción entre torsión, carga lateral y movimiento articulado que asegura estabilidad vehicular."
+    },
+    {
+        "intent_id": "inspeccion_brazos_viraje_materiales",
+        "keywords": [
+            "resistencia",
+            "acero",
+            "corrosion",
+            "oxidos",
+            "recubrimiento"
+        ],
+        "base_response": "La inspección de brazos de viraje considera la resistencia química del acero frente a la corrosión, evaluando la presencia de óxidos y la estabilidad del recubrimiento protector. Estos factores determinan la durabilidad del componente y su capacidad para soportar ambientes agresivos."
+    },
+    {
+        "intent_id": "patologias_brazos_viraje",
+        "keywords": [
+            "inspeccion",
+            "brazos",
+            "viraje",
+            "fallas",
+            "desgaste"
+        ],
+        "base_response": "La inspección de brazos de viraje revela fallas como desgaste excesivo, grietas estructurales, holguras peligrosas y deformaciones por impactos. Estos errores generan vibraciones perdida de control y deterioro progresivo que compromete la seguridad vehicular durante maniobras exigentes."
+    },
+    {
+        "intent_id": "concepto_inspeccion_brazos_viraje",
+        "keywords": [
+            "inspeccion",
+            "brazos",
+            "viraje",
+            "detectar",
+            "desgaste",
+            "prevenir"
+        ],
+        "base_response": "La inspección de brazos de viraje permite detectar desgaste que afecta la direccion del vehiculo, ayudando a prevenir fallas en maniobras cotidianas. Aplicar este procedimiento garantiza trayectos seguros, mejora la respuesta en curvas y reduce riesgos en situaciones reales."
+    },
+    {
+        "intent_id": "taxonomia_brazos_viraje",
+        "keywords": [
+            "clasificacion",
+            "inspeccion",
+            "brazo",
+            "viraje",
+            "estructura",
+            "funcion"
+        ],
+        "base_response": "La inspeccion de brazos de viraje puede organizarse mediante una clasificacion taxonomica que distingue componentes segun su estructura, funcion y nivel de desgaste, permitiendo agruparlos en categorias mecanicas coherentes para facilitar su evaluacion sistematica y comparativa en procesos de mantenimiento vehicular."
+    },
+    {
+        "intent_id": "simbiotica_sistemas_viraje",
+        "keywords": [
+            "inspeccion",
+            "brazos",
+            "viraje",
+            "relacion",
+            "direccion",
+            "suspension"
+        ],
+        "base_response": "La inspección de brazos de viraje revela su relacion simbiótica con la dirección y la suspensión, pues su integridad asegura comunicación precisa entre ruedas y chasis, permitiendo que ambos sistemas colaboren para mantener estabilidad, respuesta y seguridad vehicular."
+    },
+    {
+        "intent_id": "inspeccion_brazos_viraje_energia",
+        "keywords": [
+            "inspeccion",
+            "brazo",
+            "viraje",
+            "energia",
+            "friccion",
+            "movimiento"
+        ],
+        "base_response": "La inspeccion de brazos de viraje revela como la energia mecanica se transforma en calor por friccion y en desplazamiento controlado. Estos ciclos energeticos permiten que el sistema direccional mantenga estabilidad, asegurando que cada giro aproveche eficientemente la energia transferida entre componentes."
+    },
+    {
+        "intent_id": "impacto_prolongado_brazos_viraje",
+        "keywords": [
+            "inspeccion",
+            "brazos",
+            "viraje",
+            "desgaste",
+            "vibraciones",
+            "estabilidad"
+        ],
+        "base_response": "La inspección constante de los brazos de viraje previene deformaciones progresivas que alteran la geometría direccional. Ignorar su desgaste genera vibraciones crónicas, aumento de esfuerzo mecánico y fallas acumulativas que comprometen estabilidad, seguridad y vida útil del sistema de suspensión."
+    },
+    {
+        "intent_id": "inspeccion_brazos_viraje_mantenimiento",
+        "keywords": [
+            "inspeccion",
+            "brazos",
+            "viraje",
+            "mantenimiento",
+            "prevencion"
+        ],
+        "base_response": "El concepto destaca que revisar periodicamente los brazos de viraje evita desgaste prematuro, detecta holguras y previene fallas en la direccion. Un mantenimiento preventivo garantiza estabilidad vehicular, reduce riesgos y prolonga la vida util del sistema."
+    },
+    {
+        "intent_id": "concepto_inmovilizador_materiales",
+        "keywords": [
+            "materiales",
+            "resistencia",
+            "corrosion",
+            "desgaste",
+            "aleaciones",
+            "polimeros"
+        ],
+        "base_response": "El inmovilizador de parqueo depende de materiales con resistencia química que evitan corrosión y desgaste. Aleaciones y polímeros estables aseguran que los sensores y mecanismos mantengan su integridad, permitiendo un ajuste confiable incluso ante variaciones ambientales y exposición a sustancias agresivas."
+    },
+    {
+        "intent_id": "origen_inmovilizador_parqueo",
+        "keywords": [
+            "inmovilizador",
+            "parqueo",
+            "historia",
+            "origen",
+            "evolucion",
+            "seguridad"
+        ],
+        "base_response": "El inmovilizador de parqueo surgio con los primeros sistemas de seguridad vehicular en la decada de 1980, evolucionando desde mecanismos mecanicos simples hasta dispositivos electronicos programables que bloquean el movimiento del vehiculo y mejoran la proteccion contra robos mediante codificacion avanzada."
+    },
+    {
+        "intent_id": "ecologia_inmovilizador_parqueo",
+        "keywords": [
+            "sistema",
+            "inmovilizador",
+            "energia",
+            "entorno",
+            "vehiculo",
+            "reducir"
+        ],
+        "base_response": "El ajuste del inmovilizador de parqueo puede optimizar el consumo energetico del vehiculo al minimizar activaciones innecesarias, reduciendo emisiones indirectas y favoreciendo un entorno mas limpio mediante menor demanda de recursos en situaciones de estacionamiento prolongado."
+    },
+    {
+        "intent_id": "aplicacion_inmovilizador_parqueo",
+        "keywords": [
+            "ajuste",
+            "inmovilizador",
+            "parqueo",
+            "vehiculo",
+            "calibracion"
+        ],
+        "base_response": "El ajuste del inmovilizador de parqueo permite asegurar que el vehiculo permanezca estable en pendientes y superficies irregulares, facilitando maniobras seguras al estacionar. Su correcta calibracion ayuda a prevenir desplazamientos inesperados y mejora la confianza del conductor en situaciones cotidianas."
+    },
+    {
+        "intent_id": "seguridad_ajuste_inmovilizador",
+        "keywords": [
+            "ajuste",
+            "inmovilizador",
+            "parqueo",
+            "riesgos",
+            "seguridad"
+        ],
+        "base_response": "El ajuste del inmovilizador de parqueo exige identificar riesgos como activaciones inesperadas fallas de sensores y bloqueo accidental del vehiculo. Las medidas de seguridad incluyen verificar conexiones usar herramientas aisladas y mantener distancia para evitar lesiones durante la calibracion."
+    },
+    {
+        "intent_id": "impacto_prolongado_inmovilizador",
+        "keywords": [
+            "ajuste",
+            "inmovilizador",
+            "parqueo",
+            "desgaste",
+            "sistemas",
+            "sensores"
+        ],
+        "base_response": "El ajuste incorrecto del inmovilizador de parqueo puede generar desgaste prematuro en sistemas electrónicos, fallas recurrentes de seguridad y pérdida progresiva de precisión en sensores, afectando la confiabilidad del vehículo y aumentando riesgos operativos con el paso del tiempo."
+    },
+    {
+        "intent_id": "materiales_iluminacion_vehicular",
+        "keywords": [
+            "verificacion",
+            "iluminacion",
+            "materiales",
+            "resistencia",
+            "recubrimientos"
+        ],
+        "base_response": "La verificación de la iluminación exterior vehicular implica analizar materiales como vidrios templados y policarbonatos, cuya resistencia química evita degradación por radiación UV. También se evalúan recubrimientos protectores que mantienen transparencia y durabilidad, asegurando funcionamiento seguro bajo diversas condiciones ambientales."
+    },
+    {
+        "intent_id": "iluminacion_exterior_fallas",
+        "keywords": [
+            "fallas",
+            "iluminacion",
+            "vehiculo",
+            "bombillas",
+            "conexiones",
+            "fusibles"
+        ],
+        "base_response": "Las fallas comunes en la iluminación exterior vehicular incluyen bombillas quemadas, conexiones sulfatadas, fusibles dañados y lentes opacos. Estos errores reducen la visibilidad, alteran la señalización y generan riesgos de seguridad al impedir una correcta comunicación luminosa con otros conductores."
+    },
+    {
+        "intent_id": "origen_evolucion_luces_vehiculares",
+        "keywords": [
+            "comprobacion",
+            "iluminacion",
+            "vehiculo",
+            "faros",
+            "evolucion",
+            "seguridad"
+        ],
+        "base_response": "La comprobación de iluminación exterior vehicular surgió con los primeros faros de acetileno, evolucionó hacia sistemas eléctricos y luego tecnologías halógenas, LED y láser. Su historia refleja avances destinados a mejorar seguridad, visibilidad y verificación técnica constante."
+    },
+    {
+        "intent_id": "analisis_comparativo_luces",
+        "keywords": [
+            "comprobacion",
+            "iluminacion",
+            "seguridad",
+            "visibilidad",
+            "desgaste"
+        ],
+        "base_response": "La comprobación de iluminación exterior vehicular permite comparar ventajas como mayor seguridad y visibilidad frente a fallas, y desventajas como tiempo invertido y desgaste de componentes. Este análisis ayuda a decidir mantenimientos oportunos y prevenir riesgos en diferentes condiciones de uso."
+    },
+    {
+        "intent_id": "seguridad_luminica_vehicular",
+        "keywords": [
+            "riesgo",
+            "falla",
+            "inspeccion",
+            "prevenir",
+            "accidente",
+            "conducir"
+        ],
+        "base_response": "La comprobación de iluminación exterior vehicular previene riesgos al evitar fallas que reducen la visibilidad. Verificar focos, conexiones y funcionamiento disminuye accidentes, especialmente en condiciones adversas. Una revisión sistemática garantiza seguridad para el conductor y otros usuarios de la vía."
+    },
+    {
+        "intent_id": "clasificacion_iluminacion_vehicular",
+        "keywords": [
+            "comprobacion",
+            "iluminacion",
+            "exterior",
+            "vehiculo",
+            "clasificacion",
+            "agrupar"
+        ],
+        "base_response": "La comprobación de iluminación exterior vehicular puede organizarse mediante una clasificación taxonómica que agrupa faros, luces direccionales, luces de freno y luces de posición según función, ubicación y emisión luminosa, facilitando evaluaciones sistemáticas de seguridad."
+    },
+    {
+        "intent_id": "mitos_iluminacion_exterior",
+        "keywords": [
+            "luces",
+            "fallan",
+            "suciedad",
+            "conexiones",
+            "fusibles"
+        ],
+        "base_response": "Muchos creen que las luces exteriores solo fallan por bombillas quemadas, pero es un mito. La suciedad, conexiones flojas y fusibles dañados también afectan su funcionamiento. Ignorar estas causas genera errores al evaluar la seguridad luminosa del vehiculo."
+    },
+    {
+        "intent_id": "simbiotica_iluminacion_vehicular",
+        "keywords": [
+            "comprobacion",
+            "iluminacion",
+            "sistema",
+            "sensor",
+            "freno"
+        ],
+        "base_response": "La comprobacion de la iluminacion exterior vehicular interactua simbioticamente con sistemas de sensores, frenos y direccion, asegurando que la informacion visual coincida con las respuestas mecanicas. Esta relacion optimiza seguridad, comunica intenciones y mantiene coherencia operativa entre componentes."
+    },
+    {
+        "intent_id": "ciclos_energeticos_iluminacion",
+        "keywords": [
+            "energia",
+            "transformar",
+            "luz",
+            "flujo",
+            "conversion"
+        ],
+        "base_response": "La comprobacion de la iluminacion exterior vehicular revela como la energia electrica se transforma en luz mediante ciclos de flujo y conversion. Este proceso asegura que los sistemas mantengan eficiencia energetica, permitiendo visibilidad constante y reduciendo perdidas durante el funcionamiento vehicular."
+    },
+    {
+        "intent_id": "comprobacion_iluminacion_experimento",
+        "keywords": [
+            "experimento",
+            "circuito",
+            "bombillas",
+            "bateria",
+            "corriente"
+        ],
+        "base_response": "Un experimento escolar consiste en construir un circuito simple con bombillas vehiculares y una batería para demostrar cómo la corriente fluye y revela fallas de iluminación exterior. Los estudiantes observan variaciones de brillo y comprenden principios eléctricos básicos aplicados al automóvil."
+    },
+    {
+        "intent_id": "impacto_luminico_vehicular",
+        "keywords": [
+            "verificacion",
+            "luces",
+            "emisiones",
+            "consumo",
+            "eficiencia",
+            "recursos"
+        ],
+        "base_response": "La verificación periódica de luces exteriores reduce emisiones indirectas al evitar recorridos innecesarios por fallas, disminuye consumo energético de componentes defectuosos y promueve eficiencia lumínica, contribuyendo a minimizar la huella ambiental del vehículo mediante un uso responsable de recursos."
+    },
+    {
+        "intent_id": "concepto_mantenimiento_iluminacion",
+        "keywords": [
+            "comprobacion",
+            "iluminacion",
+            "vehiculo",
+            "mantenimiento",
+            "prevencion"
+        ],
+        "base_response": "La comprobación de iluminación exterior vehicular permite anticipar fallas mediante inspecciones regulares que detectan desgaste humedad o conexiones deficientes evitando accidentes y asegurando visibilidad constante. Este mantenimiento preventivo prolonga la vida útil de los sistemas lumínicos."
+    },
+    {
+        "intent_id": "iluminacion_exterior_futuro",
+        "keywords": [
+            "comprobacion",
+            "iluminacion",
+            "vehiculo",
+            "sensor",
+            "diagnostico"
+        ],
+        "base_response": "La comprobación futura de iluminación exterior vehicular integrará sensores inteligentes, diagnostico autonomo y proyecciones holograficas que evaluarán intensidad, direccion y eficiencia, permitiendo sistemas predictivos capaces de ajustar fallas antes de ocurrir y mejorar seguridad vial avanzada."
+    },
+    {
+        "intent_id": "quimica_material_limpiador_cristal",
+        "keywords": [
+            "mezcla",
+            "reaccion",
+            "solvente",
+            "vidrio",
+            "evaporacion"
+        ],
+        "base_response": "El limpiador de cristales utiliza solventes que disuelven grasa y suciedad mediante interacciones químicas con las moléculas del vidrio. Su composición incluye agentes volátiles que evaporan rápido, evitando residuos y permitiendo una superficie transparente y estable para una visión segura durante la conducción."
+    },
+    {
+        "intent_id": "fallas_relleno_limpiador_cristales",
+        "keywords": [
+            "fallas",
+            "rellenar",
+            "liquidos",
+            "deposito",
+            "obstrucciones"
+        ],
+        "base_response": "Las fallas comunes al rellenar el limpiador de cristales incluyen mezclar liquidos incompatibles, introducir aire en el deposito, usar agua sucia, exceder la capacidad y olvidar cerrar la tapa, provocando obstrucciones, salpicaduras y reduccion de eficiencia del sistema."
+    },
+    {
+        "intent_id": "origen_evolucion_limpiacristales",
+        "keywords": [
+            "historia",
+            "origen",
+            "desarrollo",
+            "vidrio",
+            "automovil",
+            "limpiar"
+        ],
+        "base_response": "El rellenado de limpiador de cristales surgio cuando los primeros automoviles incorporaron parabrisas y sistemas manuales de limpieza. Con el tiempo evoluciono hacia depositos sellados y liquidos especializados que mejoraron la visibilidad y seguridad, adaptandose a climas diversos mediante formulaciones avanzadas."
+    },
+    {
+        "intent_id": "impact_ecologico_relleno_limpiador",
+        "keywords": [
+            "relleno",
+            "limpiador",
+            "cristales",
+            "entorno",
+            "ecologico"
+        ],
+        "base_response": "El relleno de limpiador de cristales influye en el entorno ecologico al requerir soluciones biodegradables que reduzcan contaminantes Su uso responsable evita descargas toxicas en suelos y aguas promoviendo practicas automotrices sostenibles y protegiendo ecosistemas vulnerables mediante menor impacto quimico."
+    },
+    {
+        "intent_id": "aplicacion_practica_relleno_limpiador",
+        "keywords": [
+            "relleno",
+            "limpiador",
+            "cristales",
+            "deposito",
+            "mezcla",
+            "verter"
+        ],
+        "base_response": "El relleno de limpiador de cristales permite aplicar soluciones que eliminan suciedad y mejoran la visibilidad. En la vida real se usa al verter mezclas adecuadas en el depósito del vehículo, asegurando un funcionamiento eficiente del sistema y una conducción más segura en diversas condiciones ambientales."
+    },
+    {
+        "intent_id": "seguridad_relleno_limpiador",
+        "keywords": [
+            "relleno",
+            "limpiador",
+            "cristales",
+            "riesgos",
+            "seguridad",
+            "guantes"
+        ],
+        "base_response": "El relleno del limpiador de cristales implica riesgos por contacto con sustancias químicas irritantes y posibles derrames. Es esencial usar guantes, evitar inhalar vapores y mantener el envase cerrado. Supervisar el proceso reduce accidentes y protege la salud del estudiante."
+    },
+    {
+        "intent_id": "calculo_relleno_limpiador",
+        "keywords": [
+            "relleno",
+            "calculo",
+            "proporcion",
+            "volumen",
+            "mezcla",
+            "rendimiento"
+        ],
+        "base_response": "El relleno del limpiador de cristales requiere calcular la proporción adecuada entre agua y solución concentrada, usando la fórmula volumen final igual a volumen de agua más volumen de concentrado, garantizando mezcla uniforme y rendimiento óptimo en sistemas automotrices."
+    },
+    {
+        "intent_id": "simbiotica_sistemas_visibilidad",
+        "keywords": [
+            "relleno",
+            "limpiador",
+            "cristales",
+            "sistema",
+            "visibilidad"
+        ],
+        "base_response": "El relleno de limpiador de cristales interactúa simbióticamente con el sistema de visibilidad vehicular, apoyando sensores ópticos y cámaras que requieren superficies limpias. Esta cooperación mejora la detección ambiental, optimiza respuestas automatizadas y mantiene la seguridad operativa en diversas condiciones climáticas."
+    },
+    {
+        "intent_id": "ciclo_energetico_limpiador",
+        "keywords": [
+            "liquido",
+            "ciclo",
+            "energia",
+            "bomba",
+            "movimiento",
+            "mezcla"
+        ],
+        "base_response": "Al rellenar el limpiador de cristales, el liquido participa en un ciclo energetico donde la bomba transforma energia electrica en movimiento, impulsando la mezcla que cambia de estado dinamico al dispersarse, permitiendo que la energia se recicle en forma de limpieza eficiente."
+    },
+    {
+        "intent_id": "impact_limpia_cristales_largo_plazo",
+        "keywords": [
+            "relleno",
+            "limpiador",
+            "cristales",
+            "sistema",
+            "desgaste",
+            "acumulacion"
+        ],
+        "base_response": "El uso constante de un relleno de limpiador de cristales inadecuado puede generar acumulación de residuos, desgaste prematuro de bombas y boquillas, reducción de eficiencia en la limpieza y posibles daños químicos en mangueras, afectando la visibilidad y seguridad del vehículo a largo plazo."
+    },
+    {
+        "intent_id": "mantenimiento_relleno_limpiador_cristales",
+        "keywords": [
+            "deposito",
+            "limpiador",
+            "cristales",
+            "revisar",
+            "mezcla",
+            "prevenir"
+        ],
+        "base_response": "Mantener el depósito de limpiador de cristales correctamente lleno previene desgaste prematuro del sistema, evita obstrucciones en boquillas y asegura una limpieza eficiente. Revisar niveles y usar mezcla adecuada reduce fallas y mejora la visibilidad en condiciones cambiantes."
+    },
+    {
+        "intent_id": "tecnologia_futura_limpiador",
+        "keywords": [
+            "relleno",
+            "limpiador",
+            "cristales",
+            "sistemas",
+            "sensores",
+            "algoritmos"
+        ],
+        "base_response": "El relleno de limpiador de cristales evolucionara hacia sistemas inteligentes capaces de ajustar composiciones nanotecnologicas, reciclar liquidos y autogestionar niveles mediante sensores avanzados, integrando algoritmos predictivos que optimicen consumo y reduzcan impacto ambiental en vehiculos futuros."
+    },
+    {
+        "intent_id": "estructura_plumas_barrido",
+        "keywords": [
+            "pluma",
+            "barrido",
+            "sustitucion",
+            "estructura",
+            "goma",
+            "soporte"
+        ],
+        "base_response": "La pluma de barrido es un ensamblaje estructural compuesto por un soporte rígido y una tira de goma flexible que contacta el parabrisas. Su sustitución implica retirar el conjunto antiguo y colocar uno nuevo que mantenga la integridad anatómica del brazo limpiador para asegurar un barrido uniforme."
+    },
+    {
+        "intent_id": "ecologia_sustitucion_plumas",
+        "keywords": [
+            "sustitucion",
+            "plumas",
+            "entorno",
+            "residuos",
+            "materiales",
+            "procesos"
+        ],
+        "base_response": "La sustitución de plumas de barrido influye en el entorno ecológico al reducir residuos plásticos y mejorar la eficiencia del limpiaparabrisas, disminuyendo el consumo energético vehicular. Elegir materiales reciclables y procesos responsables favorece la conservación ambiental y promueve practicas sostenibles."
+    },
+    {
+        "intent_id": "sustitucion_plumas_barrido_aplicacion",
+        "keywords": [
+            "sustitucion",
+            "plumas",
+            "barrido",
+            "reemplazo",
+            "visibilidad",
+            "seguridad"
+        ],
+        "base_response": "La sustitución de plumas de barrido permite mantener la visibilidad en lluvia mediante el reemplazo oportuno de elementos desgastados. En la vida real aplicar este procedimiento evita accidentes, mejora la seguridad vial y prolonga la eficiencia del sistema de limpieza del parabrisas."
+    },
+    {
+        "intent_id": "ventajas_desventajas_plumas_barrido",
+        "keywords": [
+            "sustitucion",
+            "plumas",
+            "barrido",
+            "visibilidad",
+            "desgaste"
+        ],
+        "base_response": "La sustitución de plumas de barrido ofrece ventajas como mejor visibilidad y menor desgaste del parabrisas pero implica costos adicionales y variaciones en la durabilidad según materiales. Comparar opciones permite equilibrar rendimiento precio y frecuencia de mantenimiento."
+    },
+    {
+        "intent_id": "seguridad_sustitucion_plumas",
+        "keywords": [
+            "sustitucion",
+            "plumas",
+            "barrido",
+            "riesgos",
+            "cortes"
+        ],
+        "base_response": "La sustitución de plumas de barrido exige controlar riesgos como cortes, tensión del brazo metálico y exposición a químicos. Es vital usar guantes, asegurar el brazo del limpiaparabrisas y evitar activar el sistema para prevenir lesiones y daños."
+    },
+    {
+        "intent_id": "experimento_sustitucion_plumas_barrido",
+        "keywords": [
+            "estudiantes",
+            "plumas",
+            "parabrisas",
+            "friccion",
+            "elasticidad",
+            "medir"
+        ],
+        "base_response": "En una demostración escolar los estudiantes comparan plumas nuevas y desgastadas midiendo la claridad del parabrisas con luz dirigida. Observan cómo la fricción y la elasticidad influyen en el barrido comprendiendo la importancia de reemplazar plumas para mantener seguridad vehicular."
+    },
+    {
+        "intent_id": "mantenimiento_plumas_barrido",
+        "keywords": [
+            "sustitucion",
+            "plumas",
+            "barrido",
+            "mantenimiento",
+            "prevenir",
+            "desgaste"
+        ],
+        "base_response": "La sustitucion de plumas de barrido garantiza una visibilidad segura al prevenir desgaste excesivo Cambiarlas regularmente evita rayas en el parabrisas reduce esfuerzo del motor del limpiaparabrisas y mantiene la eficiencia del sistema asegurando condiciones optimas durante lluvia o suciedad."
+    },
+    {
+        "intent_id": "deteccion_goteos_estructura",
+        "keywords": [
+            "deteccion",
+            "goteos",
+            "liquidos",
+            "estructura",
+            "sistema"
+        ],
+        "base_response": "La detección de goteos de líquidos se basa en la estructura del sistema vehicular, donde conductos, juntas y depósitos forman rutas específicas. Analizar su anatomía permite identificar puntos vulnerables donde el líquido puede escapar y generar señales visibles."
+    },
+    {
+        "intent_id": "deteccion_goteos_fallas",
+        "keywords": [
+            "fallas",
+            "deteccion",
+            "goteos",
+            "fugas",
+            "conexiones"
+        ],
+        "base_response": "Las fallas comunes en la detección de goteos incluyen confundir residuos con fugas reales, ignorar cambios de color en el liquido, no revisar conexiones flojas y pasar por alto pequeñas filtraciones que evolucionan en daños mayores, afectando seguridad y rendimiento vehicular."
+    },
+    {
+        "intent_id": "origen_tecnicas_goteos",
+        "keywords": [
+            "deteccion",
+            "goteo",
+            "liquido",
+            "historia",
+            "evolucion",
+            "mecanica"
+        ],
+        "base_response": "La detección de goteos de líquidos surgió con las primeras máquinas automotrices, cuando los mecánicos observaban manchas en el suelo. Con el tiempo evolucionó hacia métodos sistemáticos, incorporando bandejas, colorantes y sensores que permitieron identificar fugas con mayor precisión científica."
+    },
+    {
+        "intent_id": "impacto_social_goteos",
+        "keywords": [
+            "deteccion",
+            "goteos",
+            "liquidos",
+            "impacto",
+            "sociedad",
+            "seguridad"
+        ],
+        "base_response": "La deteccion de goteos de liquidos influye socialmente al prevenir riesgos ambientales, reducir costos comunitarios y fomentar responsabilidad ciudadana. Su aplicacion cientifica fortalece la seguridad vial y promueve conductas colectivas orientadas al cuidado del entorno y la movilidad sostenible urbana."
+    },
+    {
+        "intent_id": "seguridad_goteos_liquidos",
+        "keywords": [
+            "deteccion",
+            "goteos",
+            "liquidos",
+            "riesgos",
+            "incendios"
+        ],
+        "base_response": "La detección de goteos de líquidos exige reconocer riesgos como incendios, corrosión y fallas mecánicas. Observar colores y olores permite actuar con rapidez. Usar guantes, evitar fuentes de calor y reportar fugas protege al estudiante y al vehículo."
+    },
+    {
+        "intent_id": "taxonomia_goteos_liquidos",
+        "keywords": [
+            "clasificacion",
+            "goteos",
+            "liquidos",
+            "organiza",
+            "identificar"
+        ],
+        "base_response": "La clasificacion taxonomica de goteos de liquidos organiza las fugas segun origen, composicion y comportamiento, permitiendo identificar patrones de escape. Esta estructura cientifica facilita distinguir tipos de fluidos y relacionarlos con sistemas vehiculares para diagnosticos precisos."
+    },
+    {
+        "intent_id": "calculo_goteo_liquidos",
+        "keywords": [
+            "deteccion",
+            "goteos",
+            "volumen",
+            "tiempo",
+            "caudal"
+        ],
+        "base_response": "La detección de goteos puede estimarse midiendo el volumen recolectado en un intervalo y aplicando la fórmula caudal igual a volumen dividido entre tiempo, permitiendo calcular tasas de fuga y comparar variaciones para identificar anomalías en sistemas automotrices."
+    },
+    {
+        "intent_id": "simbiosis_sistemas_goteos",
+        "keywords": [
+            "deteccion",
+            "goteos",
+            "liquidos",
+            "sensores",
+            "sistemas"
+        ],
+        "base_response": "La detección de goteos de líquidos interactúa simbióticamente con sistemas de refrigeración, frenos y lubricación, permitiendo que sensores compartidos identifiquen variaciones anómalas. Esta cooperación mejora la respuesta mecánica y previene fallas al integrar datos en tiempo real."
+    },
+    {
+        "intent_id": "ciclos_energeticos_goteos",
+        "keywords": [
+            "deteccion",
+            "goteos",
+            "liquidos",
+            "transformaciones",
+            "energia",
+            "flujo"
+        ],
+        "base_response": "La detección de goteos de líquidos revela transformaciones energeticas cuando el fluido pierde presión y calor, alterando su ciclo interno. Este proceso muestra como la energia se dispersa, afectando el rendimiento del sistema y evidenciando fallas en la continuidad del flujo."
+    },
+    {
+        "intent_id": "deteccion_futura_liquidos",
+        "keywords": [
+            "deteccion",
+            "goteos",
+            "sensores",
+            "redes",
+            "mantenimiento"
+        ],
+        "base_response": "La detección futura de goteos empleará sensores inteligentes capaces de analizar patrones microscópicos, integrando redes neuronales vehiculares que anticipen fugas antes de ocurrir. Sistemas autónomos ajustarán parámetros en tiempo real para prevenir daños y optimizar mantenimiento predictivo."
+    },
+    {
+        "intent_id": "estructura_clima_automotriz",
+        "keywords": [
+            "sistema",
+            "aire",
+            "conducto",
+            "compresor",
+            "flujo",
+            "regular"
+        ],
+        "base_response": "El mantenimiento del clima artificial automotriz se basa en una estructura que integra compresor, evaporador, condensador y conductos, donde cada componente regula el flujo térmico y la distribución del aire para conservar una temperatura interna estable y funcional en el vehículo."
+    },
+    {
+        "intent_id": "clima_eco_automotriz",
+        "keywords": [
+            "mantenimiento",
+            "clima",
+            "entorno",
+            "refrigerantes",
+            "energia"
+        ],
+        "base_response": "El mantenimiento del clima artificial automotriz influye en el entorno ecológico al optimizar el uso de refrigerantes y energía, reduciendo emisiones y minimizando el impacto ambiental. Comprender estos procesos fomenta prácticas responsables que protegen ecosistemas sensibles."
+    },
+    {
+        "intent_id": "clima_automotriz_practico",
+        "keywords": [
+            "mantenimiento",
+            "clima",
+            "automotriz",
+            "filtros",
+            "refrigerante"
+        ],
+        "base_response": "El mantenimiento del clima artificial automotriz permite conservar filtros limpios, asegurar refrigerante adecuado y optimizar ventiladores, garantizando confort térmico constante. Estas acciones mejoran la eficiencia energética, reducen fallas y prolongan la vida útil del sistema en condiciones reales."
+    },
+    {
+        "intent_id": "impacto_climatico_social",
+        "keywords": [
+            "mantenimiento",
+            "clima",
+            "salud",
+            "movilidad",
+            "comunidad"
+        ],
+        "base_response": "El mantenimiento del clima artificial automotriz influye en la salud colectiva al garantizar aire limpio y temperaturas seguras, promoviendo bienestar urbano y reduciendo riesgos en poblaciones vulnerables, lo que fortalece la movilidad social y mejora la calidad de vida comunitaria."
+    },
+    {
+        "intent_id": "seguridad_clima_automotriz",
+        "keywords": [
+            "sistema",
+            "clima",
+            "riesgo",
+            "fuga",
+            "gas",
+            "revisar"
+        ],
+        "base_response": "El mantenimiento del clima artificial automotriz implica riesgos por fugas de refrigerante y presión elevada. Es esencial usar protección adecuada, evitar manipular componentes presurizados sin capacitación y revisar conexiones para prevenir accidentes que afecten la salud y el funcionamiento seguro del vehículo."
+    },
+    {
+        "intent_id": "taxonomia_clima_automotriz",
+        "keywords": [
+            "clasificacion",
+            "taxonomia",
+            "mantenimiento",
+            "clima",
+            "sistema"
+        ],
+        "base_response": "La clasificación taxonómica del mantenimiento del clima artificial automotriz organiza los componentes según funciones térmicas, mecánicas y electrónicas, permitiendo identificar sistemas de refrigeración, calefacción y filtración como categorías jerárquicas que facilitan diagnósticos precisos y procedimientos de conservación eficientes."
+    },
+    {
+        "intent_id": "concepto_clima_automotriz",
+        "keywords": [
+            "calculo",
+            "rendimiento",
+            "climatizador",
+            "energia",
+            "flujo",
+            "refrigerante"
+        ],
+        "base_response": "El calculo del rendimiento del climatizador automotriz se basa en la formula Q igual a m por Cp por delta T, permitiendo estimar la energia requerida para enfriar el habitaculo y ajustar el flujo de refrigerante para mantener estabilidad termica."
+    },
+    {
+        "intent_id": "ciclos_energeticos_clima_automotriz",
+        "keywords": [
+            "sistema",
+            "clima",
+            "energia",
+            "ciclos",
+            "compresion",
+            "expansion"
+        ],
+        "base_response": "El sistema de clima artificial automotriz transforma energia mecanica en ciclos termicos mediante compresion y expansion del refrigerante, permitiendo transferir calor y mantener condiciones internas estables. Estos procesos optimizan el rendimiento energetico y aseguran confort continuo durante la conduccion."
+    },
+    {
+        "intent_id": "impacto_sistema_climatico",
+        "keywords": [
+            "mantenimiento",
+            "clima",
+            "automotriz",
+            "generar",
+            "acumulacion",
+            "humedad"
+        ],
+        "base_response": "El mantenimiento deficiente del clima artificial automotriz puede generar acumulacion de humedad deterioro de componentes internos y disminucion de eficiencia energetica A largo plazo estas fallas incrementan costos reducen confort y afectan la durabilidad del sistema."
+    },
+    {
+        "intent_id": "origen_evolucion_refrigerante",
+        "keywords": [
+            "recarga",
+            "gas",
+            "refrigerante",
+            "vehiculo",
+            "evolucion"
+        ],
+        "base_response": "La recarga de gas refrigerante vehicular surgio con los primeros sistemas de aire acondicionado en autos de mediados del siglo XX, evolucionando desde gases como el R12 hacia compuestos mas seguros y eficientes, impulsando tecnicas modernas de mantenimiento."
+    },
+    {
+        "intent_id": "impacto_social_refrigerante",
+        "keywords": [
+            "recarga",
+            "gas",
+            "refrigerante",
+            "vehiculo",
+            "seguridad",
+            "comunidad"
+        ],
+        "base_response": "La recarga de gas refrigerante vehicular influye en la seguridad comunitaria al mantener sistemas de climatizacion eficientes, reduciendo fallas que afectan la salud y el confort. Su correcta gestion disminuye emisiones contaminantes y promueve responsabilidad ambiental colectiva."
+    },
+    {
+        "intent_id": "impacto_recarga_refrigerante",
+        "keywords": [
+            "recarga",
+            "gas",
+            "desgaste",
+            "fugas",
+            "eficiencia"
+        ],
+        "base_response": "La recarga incorrecta de gas refrigerante vehicular puede generar desgaste progresivo del compresor, fugas persistentes y aumento del consumo energetico. Con el tiempo, estos efectos reducen la eficiencia del sistema de climatizacion y elevan costos de mantenimiento."
+    },
+    {
+        "intent_id": "proyeccion_tecnologica_refrigerante",
+        "keywords": [
+            "recarga",
+            "gas",
+            "refrigerante",
+            "vehiculo",
+            "tecnologia"
+        ],
+        "base_response": "La recarga de gas refrigerante vehicular evolucionará hacia sistemas inteligentes que monitorean fugas, ajustan presiones y emplean refrigerantes ecológicos. Sensores avanzados y algoritmos predictivos permitirán mantenimiento autónomo, mayor eficiencia y reducción de impacto ambiental en vehículos modernos."
+    },
+    {
+        "intent_id": "saneamiento_intercambiador_cabina_materiales",
+        "keywords": [
+            "intercambiador",
+            "cabina",
+            "saneamiento",
+            "material",
+            "reaccion",
+            "limpieza"
+        ],
+        "base_response": "El saneamiento del intercambiador de cabina depende de materiales resistentes a agentes químicos que eliminan residuos sin degradarse. Los limpiadores reaccionan con depósitos orgánicos, disolviéndolos mientras el metal o polímero del intercambiador mantiene estabilidad estructural y evita corrosión durante el proceso."
+    },
+    {
+        "intent_id": "patologias_intercambiador_cabina",
+        "keywords": [
+            "intercambiador",
+            "cabina",
+            "saneamiento",
+            "obstruccion",
+            "humedad",
+            "corrosion"
+        ],
+        "base_response": "La falta de saneamiento del intercambiador de cabina provoca obstrucciones por polvo, acumulación de humedad que genera moho, corrosión en aletas y reducción del flujo de aire. Estos errores causan malos olores, menor eficiencia térmica y desgaste prematuro del sistema."
+    },
+    {
+        "intent_id": "origen_saneamiento_intercambiador",
+        "keywords": [
+            "intercambiador",
+            "cabina",
+            "saneamiento",
+            "historia",
+            "evolucion",
+            "vehiculo"
+        ],
+        "base_response": "El saneamiento del intercambiador de cabina surgio con los primeros sistemas de climatizacion automotriz, evolucionando desde simples filtros mecanicos hasta procesos avanzados de limpieza química y desinfeccion. Su desarrollo respondio a la necesidad creciente de mejorar la calidad del aire interior en los vehiculos modernos."
+    },
+    {
+        "intent_id": "ecologia_saneamiento_intercambiador",
+        "keywords": [
+            "saneamiento",
+            "intercambiador",
+            "cabina",
+            "procesos",
+            "contaminantes"
+        ],
+        "base_response": "El saneamiento del intercambiador de cabina integra procesos que reducen contaminantes ambientales, promoviendo aire limpio y menor impacto ecológico. Su mantenimiento adecuado disminuye residuos, optimiza eficiencia energética y favorece ecosistemas urbanos saludables mediante prácticas responsables de higiene vehicular."
+    },
+    {
+        "intent_id": "saneamiento_intercambiador_cabina_aplicaciones",
+        "keywords": [
+            "saneamiento",
+            "intercambiador",
+            "cabina",
+            "aire",
+            "eliminar",
+            "prolongar"
+        ],
+        "base_response": "El saneamiento del intercambiador de cabina permite mantener aire limpio al eliminar polvo y microorganismos, mejorando la salud de los ocupantes. En la vida diaria reduce alergias, evita malos olores y prolonga la eficiencia del sistema de climatizacion vehicular."
+    },
+    {
+        "intent_id": "impacto_social_saneamiento_intercambiador",
+        "keywords": [
+            "saneamiento",
+            "intercambiador",
+            "cabina",
+            "salud",
+            "reducir"
+        ],
+        "base_response": "El saneamiento del intercambiador de cabina mejora la salud colectiva al reducir contaminantes internos, favoreciendo ambientes seguros en transporte y espacios compartidos. Su mantenimiento responsable impulsa comunidades mas conscientes, disminuye enfermedades respiratorias y promueve bienestar social sostenible."
+    },
+    {
+        "intent_id": "seguridad_saneamiento_intercambiador",
+        "keywords": [
+            "saneamiento",
+            "intercambiador",
+            "cabina",
+            "riesgos",
+            "inhalacion"
+        ],
+        "base_response": "El saneamiento del intercambiador de cabina implica riesgos por inhalacion de vapores y contacto con residuos contaminantes. Es esencial usar guantes, mascarilla y ventilacion adecuada para evitar lesiones, intoxicaciones y fallas en componentes sensibles durante el proceso de limpieza."
+    },
+    {
+        "intent_id": "taxonomia_saneamiento_intercambiador",
+        "keywords": [
+            "saneamiento",
+            "intercambiador",
+            "cabina",
+            "clasificacion",
+            "microorganismo",
+            "eliminar"
+        ],
+        "base_response": "La clasificacion taxonomica aplicada al saneamiento del intercambiador de cabina organiza los microorganismos presentes en categorias precisas, permitiendo identificar grupos dominantes y orientar procesos de eliminacion segun su estructura biologica para mejorar la higiene interna del sistema vehicular."
+    },
+    {
+        "intent_id": "ciclo_termico_intercambiador",
+        "keywords": [
+            "intercambiador",
+            "energia",
+            "flujo",
+            "aire",
+            "limpieza",
+            "transformar"
+        ],
+        "base_response": "El saneamiento del intercambiador de cabina optimiza la transferencia de energia al permitir que el aire circule sin obstrucciones, reduciendo perdidas termicas y favoreciendo ciclos de transformacion donde el calor se mueve eficientemente entre superficies limpias y funcionales dentro del sistema vehicular."
+    },
+    {
+        "intent_id": "impact_prolongado_intercambiador",
+        "keywords": [
+            "saneamiento",
+            "intercambiador",
+            "cabina",
+            "contaminacion",
+            "desgaste",
+            "eficiencia"
+        ],
+        "base_response": "El saneamiento deficiente del intercambiador de cabina provoca acumulacion persistente de particulas que reducen la eficiencia termica, incrementan el desgaste de componentes y favorecen la proliferacion microbiana, generando riesgos respiratorios y fallas mecanicas progresivas que afectan la seguridad y durabilidad del vehiculo a largo plazo."
+    },
+    {
+        "intent_id": "impacto_saneamiento_intercambiador",
+        "keywords": [
+            "saneamiento",
+            "intercambiador",
+            "cabina",
+            "emisiones",
+            "residuos"
+        ],
+        "base_response": "El saneamiento del intercambiador de cabina reduce emisiones indirectas al mejorar la eficiencia del sistema de climatizacion disminuye residuos de filtros contaminados y promueve un uso responsable de productos de limpieza mitigando impactos negativos en ecosistemas urbanos y calidad del aire."
+    },
+    {
+        "intent_id": "tecnologia_saneamiento_intercambiador",
+        "keywords": [
+            "saneamiento",
+            "intercambiador",
+            "nanorobots",
+            "sensores",
+            "optimizar"
+        ],
+        "base_response": "El saneamiento del intercambiador de cabina evolucionara mediante nanorobots limpiadores y sensores inteligentes capaces de detectar impurezas en tiempo real, aplicando microdescargas esterilizantes y optimizando flujos de aire para garantizar ambientes vehiculares mas seguros y eficientes en el futuro."
+    },
+    {
+        "intent_id": "estructura_faja_automotriz",
+        "keywords": [
+            "comprobacion",
+            "tension",
+            "faja",
+            "estructura",
+            "polea"
+        ],
+        "base_response": "La comprobación de tensión de fajas se basa en analizar su estructura flexible, formada por caucho reforzado y fibras internas. Esta anatomía permite transmitir movimiento entre poleas, por lo que su tensión adecuada garantiza estabilidad mecánica y evita deslizamientos perjudiciales."
+    },
+    {
+        "intent_id": "tension_fajas_materiales",
+        "keywords": [
+            "comprobacion",
+            "tension",
+            "fajas",
+            "resistencia",
+            "caucho",
+            "elasticidad"
+        ],
+        "base_response": "La comprobacion de tension de fajas depende de la resistencia molecular del caucho, cuya elasticidad se altera por oxidacion y fatiga termica. Estos cambios quimicos modifican la rigidez del material, afectando su capacidad para mantener la fuerza adecuada."
+    },
+    {
+        "intent_id": "tension_fajas_patologias",
+        "keywords": [
+            "comprobacion",
+            "tension",
+            "fajas",
+            "deslizamiento",
+            "desgaste"
+        ],
+        "base_response": "La comprobacion de tension de fajas revela patologias como deslizamiento, desgaste irregular y vibraciones excesivas. Errores comunes incluyen medir sin carga, ignorar ruidos y ajustar en exceso, provocando fallas en poleas y perdida de eficiencia mecanica."
+    },
+    {
+        "intent_id": "historia_tension_fajas",
+        "keywords": [
+            "comprobacion",
+            "tension",
+            "fajas",
+            "motores",
+            "evolucionar"
+        ],
+        "base_response": "La comprobacion de tension de fajas surgio con los primeros motores industriales, evolucionando desde inspecciones visuales rudimentarias hasta metodos mecanicos precisos. Con el avance automotriz, se integraron herramientas calibradas que mejoraron la seguridad y eficiencia del mantenimiento vehicular."
+    },
+    {
+        "intent_id": "tension_fajas_aplicacion_real",
+        "keywords": [
+            "comprobacion",
+            "tension",
+            "fajas",
+            "sistemas",
+            "alternadores",
+            "bombas"
+        ],
+        "base_response": "La comprobación de tensión de fajas permite asegurar que sistemas como alternadores y bombas funcionen eficientemente. En la vida real, verificar la tensión evita fallas mecánicas, reduce desgaste y mejora la seguridad vehicular al mantener componentes operando con estabilidad y precisión."
+    },
+    {
+        "intent_id": "tension_fajas_comparativa",
+        "keywords": [
+            "evaluar",
+            "tension",
+            "fajas",
+            "ventajas",
+            "desventajas"
+        ],
+        "base_response": "Evaluar la tension de fajas ofrece ventajas como mayor eficiencia mecanica y menor desgaste, pero tambien presenta desventajas al requerir herramientas precisas y riesgo de ajustes incorrectos que pueden generar vibraciones, ruido o fallas prematuras en sistemas automotrices."
+    },
+    {
+        "intent_id": "mitos_tension_fajas",
+        "keywords": [
+            "creer",
+            "faja",
+            "tension",
+            "mito",
+            "desgaste"
+        ],
+        "base_response": "Muchos creen que una faja demasiado tensa mejora el rendimiento, pero este mito provoca desgaste prematuro y fallas. Otros piensan que la tensión se verifica solo visualmente, ignorando que requiere mediciones precisas para evitar daños en componentes esenciales."
+    },
+    {
+        "intent_id": "tension_fajas_simbiotica",
+        "keywords": [
+            "comprobacion",
+            "tension",
+            "fajas",
+            "sincronizacion",
+            "transmision"
+        ],
+        "base_response": "La comprobacion de tension de fajas influye en la sincronizacion entre el sistema de transmision y componentes auxiliares, permitiendo que bombas, alternadores y ventiladores funcionen eficientemente. Una tension adecuada evita sobrecargas y mantiene la armonia mecanica general."
+    },
+    {
+        "intent_id": "concepto_tension_fajas",
+        "keywords": [
+            "tension",
+            "fajas",
+            "energia",
+            "ciclo",
+            "motor",
+            "transformar"
+        ],
+        "base_response": "La tension adecuada de las fajas permite transformar energia mecanica en movimiento continuo, evitando perdidas por friccion excesiva. Al mantener el ciclo energetico estable, el sistema transmite fuerza de manera eficiente y protege componentes esenciales del motor."
+    },
+    {
+        "intent_id": "comprobacion_tension_fajas_consecuencias",
+        "keywords": [
+            "comprobacion",
+            "tension",
+            "fajas",
+            "desgaste",
+            "vibraciones"
+        ],
+        "base_response": "La comprobación constante de la tensión de fajas evita desgaste prematuro, reduce vibraciones persistentes y previene fallas progresivas en componentes críticos. A largo plazo, mantener la tensión adecuada prolonga la vida útil del sistema y disminuye costos de reparaciones mayores."
+    },
+    {
+        "intent_id": "estructura_protectores_ejes",
+        "keywords": [
+            "protectores",
+            "ejes",
+            "estructuras",
+            "carcasa",
+            "anclaje"
+        ],
+        "base_response": "Los protectores de ejes son estructuras metálicas o plásticas que cubren y resguardan el eje vehicular. Su anatomía incluye una carcasa rígida, puntos de anclaje y superficies de absorción que reducen impactos y evitan deformaciones en componentes rotatorios sensibles."
+    },
+    {
+        "intent_id": "revision_protectores_ejes_ecologia",
+        "keywords": [
+            "revision",
+            "protectores",
+            "ejes",
+            "ambiente",
+            "contaminacion",
+            "mantenimiento"
+        ],
+        "base_response": "La revision de protectores de ejes considera impactos ambientales al evaluar desgaste, filtraciones y materiales. Un protector en buen estado reduce contaminacion del suelo, evita dispersion de lubricantes y favorece practicas de mantenimiento sostenible dentro de ecosistemas sensibles."
+    },
+    {
+        "intent_id": "revision_protectores_ejes_aplicacion",
+        "keywords": [
+            "revision",
+            "protectores",
+            "ejes",
+            "identificar",
+            "desgaste",
+            "asegurar"
+        ],
+        "base_response": "La revision de protectores de ejes permite identificar desgaste y asegurar funcionamiento seguro en vehiculos cotidianos. Al verificar su integridad se evita contaminacion de componentes y se prolonga la vida util del sistema, reduciendo costos y fallas inesperadas."
+    },
+    {
+        "intent_id": "concepto_calculo_protectores_ejes",
+        "keywords": [
+            "revision",
+            "protectores",
+            "ejes",
+            "calcular",
+            "espesor"
+        ],
+        "base_response": "La revision de protectores de ejes requiere calcular el espesor minimo mediante la formula t=F/(2A), donde F es la fuerza aplicada y A el area de soporte, asegurando resistencia adecuada y evitando deformaciones que comprometan la seguridad vehicular."
+    },
+    {
+        "intent_id": "simbiotica_protectores_ejes",
+        "keywords": [
+            "protectores",
+            "ejes",
+            "sistemas",
+            "suspension",
+            "transmision",
+            "friccion"
+        ],
+        "base_response": "Los protectores de ejes interactúan simbioticamente con sistemas de suspensión y transmisión, reduciendo fricción y vibraciones. Esta cooperación mejora estabilidad, prolonga vida útil de componentes y optimiza el rendimiento general del vehículo al mantener condiciones operativas equilibradas y seguras."
+    },
+    {
+        "intent_id": "transformacion_ciclos_energeticos_ejes",
+        "keywords": [
+            "revision",
+            "protectores",
+            "ejes",
+            "energia",
+            "transformar",
+            "ciclos"
+        ],
+        "base_response": "La revision de protectores de ejes permite comprender como la energia mecanica se transforma en calor por friccion. Estos ciclos energeticos muestran que un protector en mal estado altera la transferencia eficiente, afectando el rendimiento y la durabilidad del sistema vehicular."
+    },
+    {
+        "intent_id": "concepto_experimentos_protectores_ejes",
+        "keywords": [
+            "experimento",
+            "protector",
+            "eje",
+            "maqueta",
+            "rueda"
+        ],
+        "base_response": "Un experimento escolar consiste en comparar protectores de ejes usando maquetas con ruedas, aplicando cargas iguales y observando deformaciones. Los estudiantes miden resistencia, registran datos y analizan cómo distintos materiales influyen en la protección del eje durante el movimiento."
+    },
+    {
+        "intent_id": "consecuencias_revision_protectores_ejes",
+        "keywords": [
+            "revision",
+            "protectores",
+            "ejes",
+            "desgaste",
+            "vibraciones"
+        ],
+        "base_response": "La revision constante de protectores de ejes evita desgaste progresivo, reduce vibraciones acumuladas y previene deformaciones internas. A largo plazo, mantener estos componentes en buen estado prolonga la vida util del sistema de transmision y disminuye fallas costosas."
+    },
+    {
+        "intent_id": "proyeccion_tecnologica_ejes",
+        "keywords": [
+            "protector",
+            "eje",
+            "sensor",
+            "material",
+            "evolucion",
+            "integrar"
+        ],
+        "base_response": "Los protectores de ejes incorporarán sensores inteligentes capaces de monitorear desgaste en tiempo real y ajustar su rigidez mediante materiales activos. Estas tecnologías proyectan sistemas automotrices más seguros, con mantenimiento predictivo y adaptaciones automáticas ante condiciones cambiantes del camino."
+    },
+    {
+        "intent_id": "conceptualubricacionbisagras",
+        "keywords": [
+            "aceite",
+            "molecula",
+            "friccion",
+            "corrosion",
+            "metal"
+        ],
+        "base_response": "La lubricación de bisagras depende de aceites con estabilidad química que resisten oxidación y humedad. Sus moléculas forman una película protectora que reduce fricción y evita corrosión, asegurando movimiento suave y prolongando la vida útil del material metálico."
+    },
+    {
+        "intent_id": "historia_lubricacion_bisagras",
+        "keywords": [
+            "lubricacion",
+            "bisagras",
+            "puertas",
+            "evolucion",
+            "aceites"
+        ],
+        "base_response": "La lubricacion de bisagras de puertas surgio con los primeros vehiculos, cuando el metal desnudo generaba friccion excesiva. Con el tiempo evolucionaron aceites y grasas especificas que mejoraron durabilidad, redujeron ruido y permitieron mecanismos mas resistentes en automoviles modernos."
+    },
+    {
+        "intent_id": "ecologia_lubricacion_bisagras",
+        "keywords": [
+            "lubricacion",
+            "bisagras",
+            "puertas",
+            "aceites",
+            "entorno"
+        ],
+        "base_response": "La lubricación de bisagras de puertas puede integrarse en prácticas ecologicas mediante el uso de aceites biodegradables que reducen contaminacion, prolongan la vida util de componentes y disminuyen residuos, favoreciendo un entorno sostenible y responsable con recursos naturales."
+    },
+    {
+        "intent_id": "impacto_social_lubricacion_bisagras",
+        "keywords": [
+            "lubricacion",
+            "bisagras",
+            "puertas",
+            "accesibilidad",
+            "convivencia"
+        ],
+        "base_response": "La lubricación de bisagras de puertas favorece la accesibilidad segura, reduce el desgaste estructural y evita ruidos que afectan la convivencia. Su mantenimiento constante promueve movilidad inclusiva, prolonga la vida útil de espacios comunitarios y contribuye al bienestar colectivo."
+    },
+    {
+        "intent_id": "ventajas_desventajas_lubricacion_bisagras",
+        "keywords": [
+            "lubricacion",
+            "bisagras",
+            "puertas",
+            "friccion",
+            "desgaste"
+        ],
+        "base_response": "La lubricación de bisagras de puertas ofrece menor fricción, movimiento suave y reducción de desgaste, pero puede atraer polvo, requerir mantenimiento frecuente y generar acumulación si se usa lubricante inadecuado, afectando la eficiencia comparativa frente a sistemas sellados."
+    },
+    {
+        "intent_id": "seguridad_lubricacion_bisagras",
+        "keywords": [
+            "lubricar",
+            "bisagras",
+            "riesgos",
+            "contacto",
+            "aceites",
+            "guantes"
+        ],
+        "base_response": "Lubricar bisagras implica riesgos por contacto con aceites y atrapamiento de dedos. Es esencial usar guantes, aplicar pequeñas cantidades y evitar movimientos bruscos. Mantener limpieza previene deslizamientos y reduce accidentes durante el mantenimiento vehicular regular."
+    },
+    {
+        "intent_id": "sinergia_lubricacion_bisagras",
+        "keywords": [
+            "lubricacion",
+            "bisagras",
+            "puertas",
+            "sistemas",
+            "friccion"
+        ],
+        "base_response": "La lubricación de bisagras de puertas interactúa con sistemas de cierre y sellado, reduciendo fricción y vibraciones que afectan sensores y mecanismos eléctricos. Esta sinergia mantiene alineación estructural, mejora eficiencia operativa y prolonga la vida útil de componentes interdependientes."
+    },
+    {
+        "intent_id": "ciclo_termico_bisagras",
+        "keywords": [
+            "lubricacion",
+            "bisagras",
+            "energia",
+            "friccion",
+            "transformacion"
+        ],
+        "base_response": "La lubricación de bisagras transforma la energía mecánica en calor al reducir la fricción. Este proceso altera el ciclo energético del movimiento, evitando pérdidas innecesarias y permitiendo que la puerta conserve eficiencia al convertir menos energía en calor durante cada apertura y cierre."
+    },
+    {
+        "intent_id": "lubricacion_bisagras_experimentos",
+        "keywords": [
+            "experimento",
+            "bisagras",
+            "lubricante",
+            "aceite",
+            "friccion"
+        ],
+        "base_response": "Un experimento escolar consiste en comparar bisagras sin lubricante y bisagras lubricadas con aceite mineral, midiendo la fuerza necesaria para moverlas mediante una balanza de resorte. Los estudiantes observan la reducción de fricción y analizan cambios en el sonido."
+    },
+    {
+        "intent_id": "impacto_lubricacion_bisagras",
+        "keywords": [
+            "lubricacion",
+            "bisagras",
+            "desgaste",
+            "friccion",
+            "seguridad"
+        ],
+        "base_response": "La falta de lubricación en bisagras de puertas provoca desgaste progresivo, aumento de fricción y deformaciones internas que reducen la estabilidad estructural. Con el tiempo, esto genera ruidos persistentes, fallos de cierre y posibles fracturas que comprometen la seguridad vehicular."
+    },
+    {
+        "intent_id": "lubricacion_bisagras_impacto_ambiental",
+        "keywords": [
+            "lubricacion",
+            "bisagras",
+            "impacto",
+            "residuos",
+            "lubricantes"
+        ],
+        "base_response": "La lubricación de bisagras de puertas influye en el impacto ambiental al evitar desgaste prematuro y reducir residuos metálicos. Usar lubricantes biodegradables disminuye contaminantes y promueve prácticas sostenibles que protegen ecosistemas y mejoran la eficiencia del mantenimiento vehicular."
+    },
+    {
+        "intent_id": "lubricacion_bisagras_mantenimiento",
+        "keywords": [
+            "lubricacion",
+            "bisagras",
+            "puertas",
+            "friccion",
+            "desgaste",
+            "prevenir"
+        ],
+        "base_response": "La lubricación de bisagras de puertas reduce la fricción y evita desgaste prematuro. Aplicar lubricante adecuado forma una película protectora que previene oxidación y ruidos, asegurando movimiento suave y prolongando la vida útil del mecanismo mediante mantenimiento periódico y control preventivo del entorno operativo."
+    },
+    {
+        "intent_id": "tecnologia_lubricacion_bisagras_futura",
+        "keywords": [
+            "lubricacion",
+            "bisagras",
+            "sistemas",
+            "nanolubricantes",
+            "sensores",
+            "algoritmos"
+        ],
+        "base_response": "La lubricacion de bisagras de puertas evolucionara hacia sistemas inteligentes que integren nanolubricantes autoreparables y sensores predictivos, permitiendo reducir friccion, prolongar vida util y optimizar mantenimiento mediante algoritmos que ajusten viscosidad segun condiciones ambientales y uso vehicular."
+    },
+    {
+        "intent_id": "dinamica_ajuste_rodamientos",
+        "keywords": [
+            "ajuste",
+            "rodamientos",
+            "friccion",
+            "giro",
+            "fuerzas"
+        ],
+        "base_response": "El ajuste de rodamientos de masa regula la fricción interna y estabiliza el giro del conjunto, permitiendo una transferencia equilibrada de fuerzas. Al controlar la presión y el contacto, se optimiza la dinámica rotacional y se evita la deformación por cargas variables."
+    },
+    {
+        "intent_id": "ajuste_rodamientos_materiales",
+        "keywords": [
+            "ajuste",
+            "rodamientos",
+            "masa",
+            "resistencia",
+            "acero"
+        ],
+        "base_response": "El ajuste de rodamientos de masa depende de la resistencia química del acero y la estabilidad de sus aleaciones, que evitan corrosión y deformaciones. Estas propiedades materiales garantizan un contacto uniforme, reduciendo desgaste y asegurando funcionamiento seguro en sistemas automotrices."
+    },
+    {
+        "intent_id": "ecologia_ajuste_rodamientos_masa",
+        "keywords": [
+            "ajuste",
+            "rodamientos",
+            "masa",
+            "eficiencia",
+            "vehiculo"
+        ],
+        "base_response": "El ajuste de rodamientos de masa influye en la eficiencia energetica del vehiculo, reduciendo friccion y desgaste. Un mantenimiento adecuado disminuye emisiones indirectas al optimizar el consumo de recursos y prolongar la vida util de componentes mecanicos."
+    },
+    {
+        "intent_id": "concepto_aplicado_rodamientos_masa",
+        "keywords": [
+            "rodamientos",
+            "ajuste",
+            "friccion",
+            "estabilidad",
+            "vehiculo",
+            "prevenir"
+        ],
+        "base_response": "El ajuste de rodamientos de masa permite reducir fricción y mantener estabilidad en ruedas, asegurando desplazamientos seguros. En la vida real se aplica al revisar bicicletas y automóviles, evitando desgaste prematuro y fallas que afectan la conducción diaria y la durabilidad de los sistemas mecanicos."
+    },
+    {
+        "intent_id": "concepto_importancia_impacto",
+        "keywords": [
+            "ajuste",
+            "rodamientos",
+            "masa",
+            "seguridad",
+            "movilidad"
+        ],
+        "base_response": "El ajuste de rodamientos de masa influye en la seguridad vehicular y reduce accidentes, fortaleciendo la confianza comunitaria. Su correcta regulación disminuye costos sociales asociados a fallas mecanicas y promueve movilidad responsable, beneficiando directamente a familias y servicios esenciales."
+    },
+    {
+        "intent_id": "ventajas_desventajas_ajuste_rodamientos_masa",
+        "keywords": [
+            "ajuste",
+            "rodamientos",
+            "masa",
+            "estabilidad",
+            "desgaste"
+        ],
+        "base_response": "El ajuste de rodamientos de masa ofrece mayor estabilidad y menor desgaste, pero requiere precision y mantenimiento frecuente. Comparado con sistemas menos ajustados, mejora la eficiencia, aunque puede aumentar costos iniciales y demanda de habilidad tecnica especializada."
+    },
+    {
+        "intent_id": "seguridad_ajuste_rodamientos_masa",
+        "keywords": [
+            "rodamientos",
+            "ajuste",
+            "riesgo",
+            "herramienta",
+            "proteccion",
+            "inspeccion"
+        ],
+        "base_response": "El ajuste de rodamientos de masa implica riesgo de atrapamiento y quemaduras por friccion. Es esencial usar proteccion adecuada, asegurar la estabilidad del vehiculo y evitar herramientas defectuosas. Una inspeccion previa reduce fallas inesperadas y previene lesiones durante el procedimiento."
+    },
+    {
+        "intent_id": "concepto_ajuste_rodamientos_masa",
+        "keywords": [
+            "ajuste",
+            "rodamientos",
+            "masa",
+            "calcular",
+            "precarga"
+        ],
+        "base_response": "El ajuste de rodamientos de masa requiere calcular la precarga mediante la formula F=k·Δ, donde k representa la rigidez del conjunto y Δ el desplazamiento permitido. Este calculo asegura estabilidad, reduce friccion y evita desgaste prematuro en sistemas automotrices."
+    },
+    {
+        "intent_id": "mitos_ajuste_rodamientos_masa",
+        "keywords": [
+            "rodamientos",
+            "ajuste",
+            "torque",
+            "desgaste",
+            "fallas"
+        ],
+        "base_response": "Muchos creen que ajustar rodamientos de masa solo requiere apretar tornillos, pero este mito ignora la importancia del torque adecuado. Otros piensan que un ajuste excesivo mejora el rendimiento, cuando en realidad provoca desgaste prematuro y fallas peligrosas."
+    },
+    {
+        "intent_id": "sinergia_mecanica_rodamientos",
+        "keywords": [
+            "ajuste",
+            "rodamientos",
+            "masa",
+            "frenos",
+            "suspension"
+        ],
+        "base_response": "El ajuste de rodamientos de masa interactua simbioticamente con frenos, suspension y transmision, porque su precision reduce friccion, estabiliza cargas y mejora la respuesta mecanica. Esta relacion asegura funcionamiento coordinado, prolonga vida util y optimiza seguridad vehicular."
+    },
+    {
+        "intent_id": "concepto_ajuste_rodamientos_experimentos",
+        "keywords": [
+            "experimento",
+            "ajuste",
+            "rodamientos",
+            "friccion",
+            "movimiento"
+        ],
+        "base_response": "Un experimento escolar permite observar el ajuste de rodamientos de masa usando maquetas con ruedas desmontables. Los estudiantes miden fricción antes y despues de ajustar tuercas, comprobando como la precision influye en el movimiento y estabilidad del sistema mecanico."
+    },
+    {
+        "intent_id": "impacto_largo_plazo_rodamientos",
+        "keywords": [
+            "ajuste",
+            "rodamientos",
+            "masa",
+            "desgaste",
+            "friccion"
+        ],
+        "base_response": "Un ajuste incorrecto de rodamientos de masa provoca desgaste progresivo, aumento de friccion y perdida de estabilidad vehicular. Con el tiempo, estas fallas generan vibraciones persistentes, daños en componentes cercanos y riesgo elevado de fallos mecanicos que comprometen la seguridad."
+    },
+    {
+        "intent_id": "proyeccion_tecnologica_rodamientos_masa",
+        "keywords": [
+            "ajuste",
+            "rodamientos",
+            "masa",
+            "sensores",
+            "algoritmos"
+        ],
+        "base_response": "El ajuste de rodamientos de masa evolucionará mediante sensores inteligentes y algoritmos predictivos que optimizarán tolerancias en tiempo real. La integración de materiales autoadaptables permitirá sistemas más seguros, reduciendo desgaste y anticipando fallas mediante modelos digitales avanzados."
+    },
+    {
+        "intent_id": "estructura_fluido_viraje",
+        "keywords": [
+            "inspeccion",
+            "fluido",
+            "viraje",
+            "estructura",
+            "sistema"
+        ],
+        "base_response": "La inspección del fluido de viraje se centra en la estructura del sistema hidráulico, donde el depósito, las mangueras y la bomba conforman un circuito cerrado que almacena, conduce y presuriza el fluido necesario para facilitar el movimiento direccional del vehículo."
+    },
+    {
+        "intent_id": "dinamica_fluido_viraje",
+        "keywords": [
+            "fluido",
+            "viraje",
+            "fuerza",
+            "mecanismo",
+            "direccion"
+        ],
+        "base_response": "El fluido de viraje transmite fuerza hidráulica desde la bomba hacia el mecanismo de dirección, permitiendo convertir energía mecánica en movimiento asistido. Su inspección verifica viscosidad y presión, asegurando respuesta estable y evitando fallas por cavitación o resistencia excesiva."
+    },
+    {
+        "intent_id": "ecologia_fluido_viraje",
+        "keywords": [
+            "inspeccion",
+            "fluido",
+            "viraje",
+            "impacto",
+            "ambiente"
+        ],
+        "base_response": "La inspeccion del fluido de viraje considera su impacto ambiental, pues fugas pueden contaminar suelo y agua. Evaluar niveles y estado permite prevenir derrames, reducir residuos y promover practicas responsables que protegen ecosistemas cercanos durante el mantenimiento vehicular."
+    },
+    {
+        "intent_id": "analisis_comparativo_fluido_viraje",
+        "keywords": [
+            "inspeccion",
+            "fluido",
+            "viraje",
+            "comparar",
+            "rendimiento"
+        ],
+        "base_response": "La inspección del fluido de viraje permite comparar ventajas como respuesta precisa y menor desgaste frente a desventajas como posibles fugas y variaciones de viscosidad. Evaluar estos factores ayuda a mantener estabilidad, prevenir fallas y optimizar el rendimiento del sistema hidráulico."
+    },
+    {
+        "intent_id": "seguridad_fluido_viraje",
+        "keywords": [
+            "inspeccion",
+            "fluido",
+            "viraje",
+            "riesgos",
+            "fugas"
+        ],
+        "base_response": "La inspección del fluido de viraje implica riesgos por fugas que reducen el control del volante. Es esencial evitar contacto con la piel, revisar el nivel con el motor apagado y usar guantes para prevenir accidentes y daños mecánicos."
+    },
+    {
+        "intent_id": "mitos_fluido_viraje",
+        "keywords": [
+            "fluido",
+            "viraje",
+            "revision",
+            "mito",
+            "degradacion"
+        ],
+        "base_response": "Muchos creen que el fluido de viraje nunca necesita revisión, pero este mito ignora su degradación natural. Otros piensan que cualquier líquido sirve, lo cual es falso y puede dañar componentes. Comprender estas ideas evita fallas y promueve mantenimiento responsable."
+    },
+    {
+        "intent_id": "fluido_viraje_ciclos_energeticos",
+        "keywords": [
+            "inspeccion",
+            "fluido",
+            "viraje",
+            "energia",
+            "ciclos",
+            "transformar"
+        ],
+        "base_response": "La inspección del fluido de viraje revela como la energia mecanica se transforma en movimiento asistido mediante ciclos hidraulicos internos, donde la presion del fluido transmite fuerza continua y mantiene la eficiencia del sistema durante variaciones dinamicas de direccion."
+    },
+    {
+        "intent_id": "impacto_largo_plazo_fluido_viraje",
+        "keywords": [
+            "falta",
+            "inspeccion",
+            "fluido",
+            "viraje",
+            "desgaste"
+        ],
+        "base_response": "La falta de inspeccion del fluido de viraje provoca desgaste progresivo en la bomba y direccion, generando perdida de precision, aumento de esfuerzo al girar y posibles fallas estructurales que comprometen la seguridad vehicular con efectos acumulativos difíciles de revertir."
+    },
+    {
+        "intent_id": "impacto_ambiental_fluido_viraje",
+        "keywords": [
+            "inspeccion",
+            "fluido",
+            "viraje",
+            "fugas",
+            "contaminar"
+        ],
+        "base_response": "La inspeccion del fluido de viraje permite detectar fugas que pueden contaminar suelo y agua. Un fluido degradado aumenta emisiones indirectas por mayor esfuerzo mecanico. Revisarlo regularmente reduce residuos toxicos y protege ecosistemas sensibles locales."
+    },
+    {
+        "intent_id": "estructura_lubricante_engranajes",
+        "keywords": [
+            "renovacion",
+            "lubricante",
+            "engranajes",
+            "estructura",
+            "pelicula"
+        ],
+        "base_response": "La renovación del lubricante de engranajes implica sustituir el fluido que circula entre dientes y superficies internas, cuya estructura viscosa forma una película protectora. Esta película reduce fricción, dispersa calor y mantiene la integridad mecánica del conjunto."
+    },
+    {
+        "intent_id": "renovacion_lubricante_dinamica",
+        "keywords": [
+            "lubricante",
+            "engranaje",
+            "friccion",
+            "transferencia",
+            "energia",
+            "rotacion"
+        ],
+        "base_response": "La renovacion del lubricante de engranajes mantiene la pelicula fluida que reduce friccion y calor, permitiendo una transferencia de energia estable. Al reemplazar el fluido degradado, se conserva la rotacion eficiente y se evita la perdida de fuerza por desgaste interno en el sistema mecanico."
+    },
+    {
+        "intent_id": "patologias_lubricante_engranajes",
+        "keywords": [
+            "lubricante",
+            "engranajes",
+            "contaminacion",
+            "desgaste",
+            "fugas",
+            "degradacion"
+        ],
+        "base_response": "La renovacion tardia del lubricante de engranajes provoca contaminacion por particulas, aumento de temperatura, desgaste acelerado de dientes, formacion de lodos y fugas por sellos dañados, generando vibraciones anormales y fallas prematuras en el sistema de transmision."
+    },
+    {
+        "intent_id": "renovacion_lubricante_historia",
+        "keywords": [
+            "renovacion",
+            "lubricante",
+            "engranajes",
+            "historia",
+            "evolucion"
+        ],
+        "base_response": "La renovacion del lubricante de engranajes surgio con las primeras maquinas industriales, evolucionando desde aceites animales hasta formulaciones sinteticas modernas. Su desarrollo historico respondio a la necesidad de reducir desgaste, mejorar eficiencia y prolongar la vida util de los sistemas mecanicos."
+    },
+    {
+        "intent_id": "ecologia_lubricante_engranajes",
+        "keywords": [
+            "renovacion",
+            "lubricante",
+            "engranajes",
+            "residuos",
+            "ecosistemas"
+        ],
+        "base_response": "La renovacion del lubricante de engranajes influye en la salud ambiental al reducir residuos toxicos y minimizar fugas que contaminan suelos y agua. Un mantenimiento adecuado disminuye emisiones indirectas y favorece practicas responsables dentro de ecosistemas industriales sensibles."
+    },
+    {
+        "intent_id": "comparacion_lubricante_engranajes",
+        "keywords": [
+            "lubricante",
+            "engranajes",
+            "renovacion",
+            "ventaja",
+            "desventaja",
+            "comparar"
+        ],
+        "base_response": "La renovacion del lubricante de engranajes ofrece ventajas como menor desgaste y mejor eficiencia, pero implica desventajas como costo adicional y tiempo de mantenimiento. Comparar ambos aspectos permite decidir si la mejora en rendimiento justifica los recursos invertidos en cada ciclo de servicio."
+    },
+    {
+        "intent_id": "clasificacion_lubricante_engranajes",
+        "keywords": [
+            "clasificacion",
+            "lubricante",
+            "engranajes",
+            "organizar",
+            "mantenimiento"
+        ],
+        "base_response": "La clasificación taxonómica en la renovación de lubricante de engranajes organiza los lubricantes según su composición base, viscosidad y aditivos, permitiendo identificar categorías funcionales que facilitan seleccionar el reemplazo adecuado y asegurar el rendimiento mecánico durante el mantenimiento programado."
+    },
+    {
+        "intent_id": "concepto_transformacion_ciclos",
+        "keywords": [
+            "lubricante",
+            "engranajes",
+            "energia",
+            "transformar",
+            "ciclos"
+        ],
+        "base_response": "La renovación del lubricante de engranajes implica transformar la energía térmica acumulada en el sistema al reemplazar fluidos degradados, permitiendo ciclos energéticos más eficientes donde la fricción disminuye, el calor se redistribuye y el movimiento mecánico conserva su rendimiento estable."
+    },
+    {
+        "intent_id": "renovacion_lubricante_experimento",
+        "keywords": [
+            "experimento",
+            "lubricante",
+            "engranajes",
+            "arena",
+            "friccion"
+        ],
+        "base_response": "Un experimento escolar puede mostrar como el lubricante de engranajes pierde eficacia al mezclar arena fina en un engranaje transparente, permitiendo observar aumento de friccion, calor y desgaste, destacando la importancia de renovar el lubricante regularmente."
+    },
+    {
+        "intent_id": "proyeccion_tecnologica_lubricantes",
+        "keywords": [
+            "renovacion",
+            "lubricante",
+            "engranajes",
+            "sistemas",
+            "nanomateriales"
+        ],
+        "base_response": "La renovacion de lubricante de engranajes evolucionara mediante sistemas inteligentes capaces de analizar desgaste en tiempo real, empleando nanomateriales autoreparables y sensores avanzados que optimizan ciclos de sustitucion, reducen contaminacion y prolongan la vida util de mecanismos complejos."
+    },
+    {
+        "intent_id": "propiedades_quimicas_transferencia",
+        "keywords": [
+            "liquido",
+            "transferencia",
+            "estabilidad",
+            "resistencia",
+            "oxidacion",
+            "lubricacion"
+        ],
+        "base_response": "El liquido de transferencia depende de su estabilidad termica y resistencia a la oxidacion, pues estos factores determinan su capacidad para mantener la lubricacion adecuada. Durante el reemplazo, conservar estas propiedades garantiza un funcionamiento seguro y prolongado del sistema."
+    },
+    {
+        "intent_id": "patologias_reemplazo_transferencia",
+        "keywords": [
+            "errores",
+            "reemplazar",
+            "liquido",
+            "transferencia",
+            "fallas"
+        ],
+        "base_response": "Los errores comunes al reemplazar el líquido de transferencia incluyen usar fluidos incompatibles, ignorar fugas previas, contaminar el sistema con residuos y no ajustar niveles correctamente. Estas fallas generan sobrecalentamiento, desgaste acelerado y vibraciones que afectan el rendimiento del tren motriz."
+    },
+    {
+        "intent_id": "historia_liquido_transferencia",
+        "keywords": [
+            "reemplazo",
+            "liquido",
+            "transferencia",
+            "historia",
+            "evolucion"
+        ],
+        "base_response": "El reemplazo del liquido de transferencia surgio cuando los primeros sistemas de traccion integral requerian lubricacion confiable, evolucionando desde mezclas rudimentarias hasta fluidos especializados que mejoraron durabilidad, redujeron desgaste y permitieron avances en transmisiones modernas."
+    },
+    {
+        "intent_id": "taxonomia_liquido_transferencia",
+        "keywords": [
+            "sistema",
+            "vehiculo",
+            "liquido",
+            "transferencia",
+            "clasificacion",
+            "reemplazo"
+        ],
+        "base_response": "La clasificacion taxonomica del reemplazo de liquido de transferencia organiza los componentes segun su funcion, agrupando bombas, engranajes y conductos como elementos interdependientes. Esta estructura permite comprender jerarquias mecanicas y facilita identificar el tipo de fluido adecuado para cada subsistema vehicular."
+    },
+    {
+        "intent_id": "fluido_transferencia_ciclos_energia",
+        "keywords": [
+            "reemplazo",
+            "liquido",
+            "transferencia",
+            "energia",
+            "ciclos"
+        ],
+        "base_response": "El reemplazo del liquido de transferencia permite mantener la eficiencia en la transformacion de energia mecanica, asegurando ciclos energeticos estables dentro del sistema de transmision, donde el fluido renovado reduce perdidas, mejora la transferencia de torque y sostiene el rendimiento vehicular."
+    },
+    {
+        "intent_id": "impacto_largo_plazo_transferencia",
+        "keywords": [
+            "liquido",
+            "transferencia",
+            "desgaste",
+            "engranajes",
+            "friccion"
+        ],
+        "base_response": "La falta de reemplazo del líquido de transferencia provoca desgaste progresivo en engranajes y rodamientos, aumentando fricción, calor y contaminación interna. Con el tiempo surge pérdida de tracción, fallas mecánicas costosas y reducción significativa de la vida útil del sistema."
+    },
+    {
+        "intent_id": "proyeccion_tecnologica_transferencia",
+        "keywords": [
+            "sensor",
+            "algoritmo",
+            "monitoreo",
+            "liquido",
+            "transferencia"
+        ],
+        "base_response": "El reemplazo de líquido de transferencia evolucionará hacia sistemas autónomos que usarán sensores inteligentes y algoritmos predictivos para evaluar la degradación en tiempo real, activando cambios automáticos y optimizando la eficiencia mecánica mediante diagnósticos avanzados integrados en plataformas vehiculares futuras."
+    },
+    {
+        "intent_id": "hermeticidad_ciclos_energeticos",
+        "keywords": [
+            "prueba",
+            "hermeticidad",
+            "cilindros",
+            "energia",
+            "transformar",
+            "ciclo"
+        ],
+        "base_response": "La prueba de hermeticidad de cilindros revela como la energia del aire comprimido se transforma al ingresar al cilindro, permitiendo identificar perdidas que alteran el ciclo energetico del motor y reducen la eficiencia en la conversion de presion en trabajo."
+    },
+    {
+        "intent_id": "concepto_hermeticidad_mantenimiento",
+        "keywords": [
+            "prueba",
+            "hermeticidad",
+            "cilindros",
+            "mantenimiento",
+            "fugas"
+        ],
+        "base_response": "La prueba de hermeticidad de cilindros permite detectar fugas internas que afectan el rendimiento En mantenimiento preventivo este procedimiento ayuda a anticipar desgaste en anillos y válvulas evitando fallas mayores y asegurando funcionamiento eficiente del motor durante su vida útil."
+    },
+    {
+        "intent_id": "definicion_anatomica_precalentamiento",
+        "keywords": [
+            "sistema",
+            "precalentamiento",
+            "componentes",
+            "bujias",
+            "sensores"
+        ],
+        "base_response": "El sistema de precalentamiento comprende componentes como bujías incandescentes, relés, cableado y sensores térmicos, organizados para elevar la temperatura inicial del motor diésel. Su estructura permite activar elementos calefactores que facilitan la combustión en arranques en frío."
+    },
+    {
+        "intent_id": "historia_precalentamiento_motor",
+        "keywords": [
+            "sistema",
+            "precalentamiento",
+            "motores",
+            "evolucion",
+            "bujias"
+        ],
+        "base_response": "El sistema de precalentamiento surgio con los primeros motores diesel, evolucionando desde bujias rudimentarias hasta dispositivos electronicos avanzados. Su desarrollo historico permitio mejorar el arranque en frio y optimizar la eficiencia termica en diversas condiciones ambientales."
+    },
+    {
+        "intent_id": "impacto_social_precalentamiento",
+        "keywords": [
+            "revision",
+            "sistema",
+            "precalentamiento",
+            "comunidad",
+            "seguridad",
+            "energia"
+        ],
+        "base_response": "La revisión del sistema de precalentamiento favorece comunidades al reducir fallas en motores diésel, evitando retrasos en transporte público y mercancías. Su mantenimiento responsable impulsa seguridad, eficiencia energética y continuidad laboral, fortaleciendo la movilidad social y el bienestar colectivo diario."
+    },
+    {
+        "intent_id": "concepto_precalentamiento",
+        "keywords": [
+            "revision",
+            "sistema",
+            "precalentamiento",
+            "comparar",
+            "ventajas"
+        ],
+        "base_response": "La revisión del sistema de precalentamiento permite comparar ventajas como arranques más rápidos y menor desgaste, frente a desventajas como consumo energético adicional y posibles fallas en bujías incandescentes, facilitando decisiones técnicas equilibradas para mantener eficiencia y confiabilidad mecánica."
+    },
+    {
+        "intent_id": "mitos_precalentamiento_motor",
+        "keywords": [
+            "sistema",
+            "precalentamiento",
+            "revision",
+            "fallas",
+            "diagnosticos"
+        ],
+        "base_response": "Muchos creen que el sistema de precalentamiento solo sirve en climas extremos, pero esta idea es incorrecta. Su revision evita fallas de arranque, protege componentes y asegura combustion adecuada. Ignorar su importancia genera diagnosticos equivocados y reparaciones innecesarias."
+    },
+    {
+        "intent_id": "ciclo_termico_precalentamiento",
+        "keywords": [
+            "energia",
+            "transformacion",
+            "calor",
+            "bateria",
+            "resistencia",
+            "flujo"
+        ],
+        "base_response": "El sistema de precalentamiento transforma energia electrica en calor mediante resistencias que elevan la temperatura inicial del motor. Este proceso optimiza el ciclo energetico al reducir el esfuerzo de arranque y mejorar la eficiencia en la combustion durante los primeros segundos."
+    },
+    {
+        "intent_id": "concepto_experimental_precalentamiento",
+        "keywords": [
+            "bujia",
+            "incandescente",
+            "energia",
+            "precalentamiento",
+            "medir"
+        ],
+        "base_response": "En el aula se puede demostrar el funcionamiento del sistema de precalentamiento usando una bujía incandescente conectada a una fuente segura, observando su calentamiento progresivo y midiendo el tiempo necesario para alcanzar temperatura, relacionando la energía aplicada con su eficiencia."
+    },
+    {
+        "intent_id": "impacto_largo_plazo_precalentamiento",
+        "keywords": [
+            "falta",
+            "revision",
+            "sistema",
+            "precalentamiento",
+            "desgaste"
+        ],
+        "base_response": "La falta de revision del sistema de precalentamiento puede generar desgaste prematuro en bujias incandescentes, aumento de emisiones y fallos repetidos de arranque. Con el tiempo, estos problemas afectan la eficiencia del motor y elevan costos de mantenimiento."
+    },
+    {
+        "intent_id": "impacto_precalentamiento_ambiental",
+        "keywords": [
+            "revision",
+            "sistema",
+            "precalentamiento",
+            "emisiones",
+            "encendido"
+        ],
+        "base_response": "La revisión del sistema de precalentamiento reduce emisiones al asegurar un encendido eficiente, evitando combustión incompleta y exceso de partículas. Un mantenimiento adecuado disminuye consumo de combustible y contribuye a menor contaminación atmosférica, favoreciendo prácticas automotrices responsables con el entorno."
+    },
+    {
+        "intent_id": "revision_sistema_precalentamiento_mantenimiento",
+        "keywords": [
+            "revision",
+            "sistema",
+            "precalentamiento",
+            "mantenimiento",
+            "prevencion",
+            "motor"
+        ],
+        "base_response": "La revisión del sistema de precalentamiento permite detectar desgaste en bujías incandescentes y conexiones, evitando fallas de arranque. Un mantenimiento preventivo asegura calentamiento uniforme, reduce consumo energético y prolonga la vida útil del motor en condiciones de baja temperatura."
+    },
+    {
+        "intent_id": "estructura_chispa_arranque",
+        "keywords": [
+            "calibracion",
+            "chispa",
+            "arranque",
+            "ajuste",
+            "espacio",
+            "electrodo"
+        ],
+        "base_response": "La calibración de chispa de arranque se entiende como el ajuste estructural del espacio entre electrodo central y masa en la bujía, cuya anatomía determina la formación inicial del arco eléctrico responsable de encender la mezcla aire combustible."
+    },
+    {
+        "intent_id": "calibracion_chispa_ecologia",
+        "keywords": [
+            "calibracion",
+            "chispa",
+            "arranque",
+            "eficiencia",
+            "emisiones",
+            "ecosistemas"
+        ],
+        "base_response": "La calibracion de la chispa de arranque influye en la eficiencia del motor y reduce emisiones contaminantes. Ajustar el tiempo de encendido minimiza combustibles sin quemar, protege ecosistemas cercanos y favorece practicas automotrices responsables que disminuyen impacto ambiental general."
+    },
+    {
+        "intent_id": "calibracion_chispa_aplicaciones",
+        "keywords": [
+            "calibracion",
+            "chispa",
+            "arranque",
+            "motor",
+            "consumo"
+        ],
+        "base_response": "La calibración de la chispa de arranque permite ajustar el momento exacto en que se enciende la mezcla, optimizando el rendimiento del motor. En la vida real mejora el consumo, reduce fallas y facilita diagnósticos precisos en vehículos cotidianos."
+    },
+    {
+        "intent_id": "impacto_social_chispa_arranque",
+        "keywords": [
+            "calibracion",
+            "chispa",
+            "arranque",
+            "eficiencia",
+            "emisiones",
+            "transporte"
+        ],
+        "base_response": "La calibración de la chispa de arranque influye en la eficiencia energética vehicular, reduciendo emisiones y costos operativos. Su correcta aplicación favorece la movilidad segura, disminuye fallas mecánicas y contribuye al bienestar comunitario al promover transporte confiable y sostenible."
+    },
+    {
+        "intent_id": "ventajas_desventajas_chispa_arranque",
+        "keywords": [
+            "calibracion",
+            "chispa",
+            "arranque",
+            "eficiencia",
+            "desgaste",
+            "comparar"
+        ],
+        "base_response": "La calibracion de la chispa de arranque ofrece mayor eficiencia energetica y arranques mas estables, pero puede generar desgaste prematuro si se ajusta incorrectamente. Comparar configuraciones permite equilibrar rendimiento y durabilidad, optimizando el funcionamiento del sistema de encendido."
+    },
+    {
+        "intent_id": "calibracion_chispa_calculos",
+        "keywords": [
+            "calculo",
+            "formula",
+            "distancia",
+            "velocidad",
+            "chispa"
+        ],
+        "base_response": "La calibración de la chispa de arranque requiere calcular el tiempo de encendido usando la formula t = d/v, donde d es la distancia del electrodo y v la velocidad de propagación. Ajustar este valor garantiza una chispa precisa y eficiente."
+    },
+    {
+        "intent_id": "ciclo_energetico_chispa",
+        "keywords": [
+            "calibracion",
+            "chispa",
+            "arranque",
+            "transformacion",
+            "energia"
+        ],
+        "base_response": "La calibracion de la chispa de arranque regula la transformacion energetica inicial, asegurando que la energia electrica se convierta en calor y movimiento. Este ajuste controla ciclos energeticos precisos que permiten una combustion eficiente y estable dentro del motor."
+    },
+    {
+        "intent_id": "impacto_largo_plazo_chispa",
+        "keywords": [
+            "calibracion",
+            "chispa",
+            "arranque",
+            "desgaste",
+            "bujias"
+        ],
+        "base_response": "Una calibración incorrecta de la chispa de arranque puede generar desgaste progresivo en bujías y bobinas, aumentar el consumo de combustible y provocar fallas repetidas en el encendido, afectando la eficiencia del motor y reduciendo su vida útil con el tiempo."
+    },
+    {
+        "intent_id": "impacto_chispa_arranque",
+        "keywords": [
+            "calibracion",
+            "chispa",
+            "arranque",
+            "emisiones",
+            "combustion"
+        ],
+        "base_response": "La calibración precisa de la chispa de arranque reduce emisiones contaminantes al optimizar la combustión inicial. Un encendido mal ajustado provoca residuos tóxicos y mayor consumo de combustible, incrementando la huella ambiental del motor y afectando la calidad del aire."
+    },
+    {
+        "intent_id": "proyeccion_tecnologica_chispa",
+        "keywords": [
+            "calibracion",
+            "chispa",
+            "arranque",
+            "sensores",
+            "algoritmos"
+        ],
+        "base_response": "La calibración de chispa de arranque evolucionará mediante sensores cuánticos capaces de ajustar microtiempos en tiempo real, integrando algoritmos predictivos y materiales inteligentes que optimizarán la ignición, reduciendo fallos y permitiendo motores más eficientes y adaptativos en entornos cambiantes."
+    },
+    {
+        "intent_id": "inspeccion_lineas_alimentacion_fallas",
+        "keywords": [
+            "lineas",
+            "alimentacion",
+            "obstrucciones",
+            "grietas",
+            "fugas"
+        ],
+        "base_response": "Las líneas de alimentación pueden presentar obstrucciones por sedimentos, grietas que generan fugas, conexiones flojas que reducen presión y deformaciones por calor. Estas fallas provocan suministro irregular de combustible, pérdida de potencia y riesgo de daños mayores en el sistema."
+    },
+    {
+        "intent_id": "inspeccion_ecologica_lineas",
+        "keywords": [
+            "inspeccion",
+            "lineas",
+            "alimentacion",
+            "entorno",
+            "ecologico"
+        ],
+        "base_response": "La inspeccion de lineas de alimentacion considera el entorno ecologico al evaluar fugas que puedan liberar combustibles y afectar suelos y fauna, promoviendo practicas de mantenimiento que reduzcan contaminacion y garanticen sistemas seguros dentro de ecosistemas sensibles."
+    },
+    {
+        "intent_id": "analisis_comparativo_inspeccion",
+        "keywords": [
+            "inspeccion",
+            "lineas",
+            "alimentacion",
+            "comparar",
+            "ventajas",
+            "desventajas"
+        ],
+        "base_response": "La inspección de líneas de alimentación permite comparar ventajas como detección temprana de fugas y eficiencia del flujo frente a desventajas como tiempo de revisión y posibles interrupciones operativas, ofreciendo una evaluación equilibrada para mantener sistemas seguros y funcionales."
+    },
+    {
+        "intent_id": "seguridad_inspeccion_lineas",
+        "keywords": [
+            "inspeccion",
+            "lineas",
+            "alimentacion",
+            "riesgos",
+            "seguridad"
+        ],
+        "base_response": "La inspección de líneas de alimentación exige identificar fugas, corrosión y presión irregular para evitar incendios o intoxicaciones. El riesgo aumenta con conexiones dañadas, por lo que se deben usar guantes aislantes, apagar el sistema y mantener distancia segura."
+    },
+    {
+        "intent_id": "clasificacion_taxonomica_lineas",
+        "keywords": [
+            "inspeccion",
+            "lineas",
+            "alimentacion",
+            "clasificacion",
+            "taxonomica",
+            "agrupar"
+        ],
+        "base_response": "La inspeccion de lineas de alimentacion puede organizarse mediante una clasificacion taxonomica que agrupa conductos conexiones y materiales segun su funcion riesgo y estado. Esta estructura permite identificar categorias precisas para evaluar fallas y priorizar acciones tecnicas."
+    },
+    {
+        "intent_id": "inspeccion_transformacion_ciclos",
+        "keywords": [
+            "inspeccion",
+            "lineas",
+            "alimentacion",
+            "flujo",
+            "energia"
+        ],
+        "base_response": "La inspeccion de lineas de alimentacion permite comprender como el flujo de combustible sostiene la transformacion energetica del motor, asegurando ciclos continuos donde la energia quimica se convierte en energia mecanica mediante procesos seguros y eficientes."
+    },
+    {
+        "intent_id": "experimento_inspeccion_lineas",
+        "keywords": [
+            "experimento",
+            "estudiantes",
+            "tubos",
+            "agua",
+            "fugas"
+        ],
+        "base_response": "En un experimento escolar los estudiantes pueden usar tubos transparentes y agua coloreada para simular líneas de alimentación observando fugas obstrucciones y presión. Esta demostración permite comprender visualmente cómo se comportan los fluidos y la importancia de revisar conexiones."
+    },
+    {
+        "intent_id": "impact_prolongado_lineas_alimentacion",
+        "keywords": [
+            "inspeccion",
+            "deterioro",
+            "fugas",
+            "corrosiones",
+            "fallas"
+        ],
+        "base_response": "La falta de inspeccion prolongada en las lineas de alimentacion puede generar acumulacion de deterioro, fugas persistentes y corrosiones internas que comprometen el rendimiento del motor. Con el tiempo, estos daños incrementan el riesgo de fallas graves y reducen significativamente la vida util del sistema vehicular."
+    },
+    {
+        "intent_id": "inspeccion_mantenimiento_preventivo",
+        "keywords": [
+            "inspeccion",
+            "lineas",
+            "mantenimiento",
+            "revisar",
+            "detectar"
+        ],
+        "base_response": "La inspeccion de lineas de alimentacion en mantenimiento preventivo implica revisar conexiones, detectar desgaste y eliminar obstrucciones para evitar fugas y asegurar flujo estable. Este proceso reduce fallas, prolonga la vida util y mantiene el rendimiento del sistema vehicular."
+    },
+    {
+        "intent_id": "estructura_anclajes_antivibracion",
+        "keywords": [
+            "anclajes",
+            "antivibracion",
+            "vehiculos",
+            "materiales",
+            "soportes"
+        ],
+        "base_response": "Los anclajes antivibración vehiculares son componentes estructurales que integran materiales elastoméricos y soportes metálicos, diseñados para unir el motor y la carrocería. Su anatomía combina capas flexibles y núcleos rígidos que absorben vibraciones y estabilizan el conjunto mecánico."
+    },
+    {
+        "intent_id": "origen_evolucion_anclajes_antivibracion",
+        "keywords": [
+            "anclajes",
+            "antivibracion",
+            "motores",
+            "evolucion",
+            "soportes"
+        ],
+        "base_response": "Los anclajes antivibracion surgieron con los primeros motores automotrices, evolucionando desde simples soportes metalicos hasta sistemas elastomericos avanzados. Su desarrollo historico respondio a la necesidad de reducir vibraciones, mejorar confort y proteger componentes mecanicos en vehiculos modernos."
+    },
+    {
+        "intent_id": "ecologia_anclajes_antivibracion",
+        "keywords": [
+            "revision",
+            "anclajes",
+            "vibracion",
+            "entorno",
+            "movilidad"
+        ],
+        "base_response": "La revision de anclajes antivibracion vehiculares permite identificar desgaste que incrementa vibraciones y emisiones indirectas. Al mantener estos componentes en buen estado se reduce el consumo energetico y se protege el entorno favoreciendo practicas de movilidad sostenible."
+    },
+    {
+        "intent_id": "seguridad_anclajes_antivibracion",
+        "keywords": [
+            "revision",
+            "anclajes",
+            "desgaste",
+            "riesgos",
+            "inspeccion"
+        ],
+        "base_response": "La revisión de anclajes antivibración vehiculares implica identificar desgaste que pueda causar fallas estructurales. Ignorar estos elementos aumenta riesgos de desprendimiento y pérdida de control. Se deben aplicar inspecciones periódicas, uso de herramientas adecuadas y reemplazo inmediato ante daños."
+    },
+    {
+        "intent_id": "concepto_calculo_anclajes",
+        "keywords": [
+            "calculo",
+            "rigidez",
+            "anclajes",
+            "vibracion",
+            "fuerza",
+            "masa"
+        ],
+        "base_response": "El calculo de la rigidez en anclajes antivibracion vehiculares usa k igual a fuerza dividida por desplazamiento, permitiendo estimar la frecuencia natural mediante f igual a uno sobre dos pi por la raiz de k sobre masa, asegurando control vibratorio."
+    },
+    {
+        "intent_id": "simbiotica_sistemas_anclajes",
+        "keywords": [
+            "anclajes",
+            "antivibracion",
+            "vehiculos",
+            "suspension",
+            "motor",
+            "carroceria"
+        ],
+        "base_response": "Los anclajes antivibracion vehiculares interactuan de forma simbiotica con la suspension, el motor y la carroceria, absorbiendo vibraciones que protegen componentes y optimizan estabilidad. Su revision garantiza armonia mecanica y previene fallas que afectan rendimiento general del vehiculo."
+    },
+    {
+        "intent_id": "anclajes_antivibracion_ciclos_energia",
+        "keywords": [
+            "anclajes",
+            "energia",
+            "transformacion",
+            "vibraciones",
+            "revision"
+        ],
+        "base_response": "Los anclajes antivibración vehiculares transforman energia mecanica en calor mediante deformacion controlada, reduciendo vibraciones y protegiendo componentes. Su revision permite asegurar ciclos energeticos eficientes, evitando perdidas y garantizando estabilidad estructural durante variaciones dinamicas del motor."
+    },
+    {
+        "intent_id": "experimento_anclajes_antivibracion",
+        "keywords": [
+            "experimento",
+            "soporte",
+            "anclajes",
+            "vibracion",
+            "medir"
+        ],
+        "base_response": "Un experimento escolar consiste en montar un pequeño soporte con anclajes antivibración y aplicar diferentes fuerzas usando masas colgantes. Los estudiantes observan como la goma reduce la vibración y comparan resultados midiendo desplazamientos con reglas para comprender su eficacia."
+    },
+    {
+        "intent_id": "mantenimiento_anclajes_antivibracion",
+        "keywords": [
+            "anclaje",
+            "vibracion",
+            "inspeccion",
+            "desgaste",
+            "prevenir",
+            "asegurar"
+        ],
+        "base_response": "La revision periodica de anclajes antivibracion vehiculares permite detectar desgaste temprano, evitar holguras y mantener la estabilidad estructural. Un mantenimiento preventivo adecuado reduce fallas, prolonga la vida util de componentes y asegura un funcionamiento seguro del sistema mecanico del vehiculo."
+    },
+    {
+        "intent_id": "anclajes_antivibracion_futuro",
+        "keywords": [
+            "anclaje",
+            "tecnologia",
+            "sensor",
+            "vehiculo",
+            "control"
+        ],
+        "base_response": "Los anclajes antivibración evolucionarán hacia sistemas inteligentes con sensores integrados capaces de ajustar su rigidez en tiempo real. Esta tecnología permitirá anticipar vibraciones mediante algoritmos predictivos, optimizando la estabilidad vehicular y reduciendo desgaste estructural para mejorar seguridad y eficiencia futura."
+    },
+    {
+        "intent_id": "concepto_lavado_inferior_estructural",
+        "keywords": [
+            "lavado",
+            "estructura",
+            "inferior",
+            "limpieza",
+            "componentes",
+            "chasis"
+        ],
+        "base_response": "El lavado profundo de la estructura inferior se define como la limpieza dirigida a componentes anatómicos del chasis, incluyendo travesaños, soportes y cavidades metálicas, donde se acumulan residuos que afectan la integridad estructural del vehículo."
+    },
+    {
+        "intent_id": "lavado_profundo_propiedades_materiales",
+        "keywords": [
+            "lavado",
+            "estructura",
+            "agentes",
+            "tensioactividad",
+            "enlaces"
+        ],
+        "base_response": "El lavado profundo de la estructura inferior utiliza agentes con tensioactividad capaz de romper enlaces superficiales en lodos y sales, permitiendo desprender contaminantes adheridos al metal. Estos compuestos evitan corrosión al estabilizar reacciones químicas indeseadas."
+    },
+    {
+        "intent_id": "riesgos_seguridad_lavado_inferior",
+        "keywords": [
+            "lavado",
+            "estructura",
+            "inferior",
+            "presion",
+            "agua",
+            "seguridad"
+        ],
+        "base_response": "El lavado profundo de la estructura inferior exige controlar la presión del agua para evitar daños, usar soportes estables que impidan caídas, proteger cables expuestos y emplear equipo de protección personal que reduzca lesiones por químicos o impactos."
+    },
+    {
+        "intent_id": "ciclo_transformacion_inferior",
+        "keywords": [
+            "lavado",
+            "energia",
+            "flujo",
+            "particula",
+            "transformacion"
+        ],
+        "base_response": "El lavado profundo de la estructura inferior puede entenderse como un ciclo energetico donde el flujo de agua transfiere energia mecanica, desprende particulas adheridas y transforma la superficie al redistribuir calor, friccion y movimiento en un proceso continuo de renovacion."
+    },
+    {
+        "intent_id": "concepto_lavado_profundo",
+        "keywords": [
+            "experimento",
+            "chasis",
+            "tubos",
+            "agua",
+            "sedimentos"
+        ],
+        "base_response": "Un experimento escolar consiste en construir un modelo de chasis con tubos transparentes y aplicar chorros de agua coloreada para observar la eliminación de sedimentos. Los estudiantes analizan flujo, presión y zonas de acumulación, comprendiendo principios de limpieza vehicular."
+    },
+    {
+        "intent_id": "mantenimiento_preventivo_inferior",
+        "keywords": [
+            "lavado",
+            "estructura",
+            "inferior",
+            "prevencion",
+            "mantenimiento",
+            "limpieza"
+        ],
+        "base_response": "El lavado profundo de la estructura inferior previene acumulaciones corrosivas al eliminar sedimentos y humedad que deterioran componentes metálicos. Este proceso mantiene la integridad del chasis, reduce fallas prematuras y prolonga la vida útil del vehículo mediante limpieza sistemática."
+    },
+    {
+        "intent_id": "lavado_profundo_futuro_tecnologia",
+        "keywords": [
+            "lavado",
+            "estructura",
+            "robots",
+            "sensores",
+            "tecnologia"
+        ],
+        "base_response": "El lavado profundo de la estructura inferior evolucionará mediante robots inteligentes capaces de mapear superficies ocultas aplicar microchorros dirigidos y usar sensores predictivos que anticipen corrosión. Estas tecnologías permitirán mantenimiento preventivo automatizado y mayor seguridad vehicular."
+    },
+    {
+        "intent_id": "estructura_valvula_presurizada",
+        "keywords": [
+            "valvula",
+            "presion",
+            "culata",
+            "cuerpo",
+            "resorte",
+            "controlar"
+        ],
+        "base_response": "La válvula presurizada superior se ubica en la culata y presenta un cuerpo metálico cilíndrico, un resorte de retención y un sello que controla el flujo. Su reemplazo exige comprender su estructura interna para asegurar funcionamiento preciso del motor."
+    },
+    {
+        "intent_id": "propiedades_materiales_valvula_presurizada",
+        "keywords": [
+            "valvula",
+            "presion",
+            "material",
+            "corrosion",
+            "aleacion"
+        ],
+        "base_response": "La válvula presurizada superior requiere materiales resistentes a la corrosión y altas temperaturas, como aleaciones de acero con tratamiento térmico. Su reemplazo implica evaluar reactividad, estabilidad química y compatibilidad con lubricantes para asegurar funcionamiento seguro y prolongado del sistema."
+    },
+    {
+        "intent_id": "fallas_valvula_presurizada_superior",
+        "keywords": [
+            "reemplazo",
+            "valvula",
+            "presion",
+            "error",
+            "fuga",
+            "desgaste"
+        ],
+        "base_response": "Durante el reemplazo de la válvula presurizada superior, errores comunes incluyen instalar sellos dañados, aplicar torque incorrecto, contaminar superficies internas y usar componentes incompatibles. Estas fallas generan fugas, sobrepresión y desgaste prematuro que comprometen el rendimiento del sistema."
+    },
+    {
+        "intent_id": "origen_evolucion_valvula_superior",
+        "keywords": [
+            "valvula",
+            "motor",
+            "presion",
+            "reemplazo",
+            "historia",
+            "evolucion"
+        ],
+        "base_response": "El reemplazo de la valvula presurizada superior surgio cuando los primeros motores exigieron mecanismos mas resistentes. Con el tiempo evoluciono desde diseños simples de metal hasta sistemas precisos capaces de soportar mayores presiones, mejorando la eficiencia y confiabilidad del funcionamiento automotriz."
+    },
+    {
+        "intent_id": "ecologia_valvula_presurizada",
+        "keywords": [
+            "reemplazo",
+            "valvula",
+            "presurizada",
+            "fugas",
+            "ecosistemas"
+        ],
+        "base_response": "El reemplazo de una válvula presurizada superior puede reducir fugas contaminantes, evitando emisiones nocivas hacia ecosistemas cercanos. Este proceso promueve un mantenimiento responsable que disminuye residuos, protege la calidad del aire y favorece prácticas automotrices sostenibles en entornos naturales."
+    },
+    {
+        "intent_id": "impacto_social_valvula_presurizada",
+        "keywords": [
+            "reemplazo",
+            "valvula",
+            "presion",
+            "seguridad",
+            "transporte",
+            "comunidad"
+        ],
+        "base_response": "El reemplazo de la válvula presurizada superior influye socialmente al mejorar la seguridad vehicular, reduciendo accidentes y costos comunitarios. Su mantenimiento adecuado fortalece la confianza pública en el transporte, promueve responsabilidad técnica y contribuye al bienestar colectivo mediante movilidad confiable."
+    },
+    {
+        "intent_id": "concepto_valvula_presurizada",
+        "keywords": [
+            "reemplazo",
+            "valvula",
+            "control",
+            "flujo",
+            "eficiencia"
+        ],
+        "base_response": "El reemplazo de una válvula presurizada superior ofrece mayor control del flujo y eficiencia operativa, pero implica costos elevados, riesgo de incompatibilidad y necesidad de herramientas especializadas, generando una comparativa entre rendimiento mejorado y complejidad técnica en su instalacion."
+    },
+    {
+        "intent_id": "sinergia_valvula_presurizada",
+        "keywords": [
+            "valvula",
+            "reemplazo",
+            "sistema",
+            "lubricacion",
+            "flujo",
+            "motor"
+        ],
+        "base_response": "El reemplazo de la válvula presurizada superior mantiene una interacción equilibrada con el sistema de lubricación y el circuito térmico, asegurando flujo estable, disipación eficiente y sincronización mecánica que protege componentes adyacentes y optimiza la respuesta conjunta del motor."
+    },
+    {
+        "intent_id": "ciclo_transformacion_valvula_superior",
+        "keywords": [
+            "energia",
+            "presion",
+            "flujo",
+            "combustion",
+            "reemplazo"
+        ],
+        "base_response": "La sustitucion de una valvula presurizada superior modifica el ciclo energetico del motor al optimizar la transferencia de energia desde la combustion hacia el escape, transformando presion en movimiento continuo y asegurando que cada fase mantenga eficiencia termica estable durante el funcionamiento vehicular."
+    },
+    {
+        "intent_id": "proyeccion_tecnologica_valvula_superior",
+        "keywords": [
+            "soluciones",
+            "reemplazo",
+            "valvula",
+            "sensores",
+            "robots"
+        ],
+        "base_response": "Las futuras soluciones para el reemplazo de la válvula presurizada superior integrarán sensores inteligentes, materiales autorreparables y robots compactos capaces de ejecutar ajustes precisos, optimizando seguridad y eficiencia mientras anticipan fallas mediante analítica avanzada y comunicación vehicular continua."
+    },
+    {
+        "intent_id": "estructura_hermetica_tanque",
+        "keywords": [
+            "hermetismo",
+            "tanque",
+            "estructura",
+            "paredes",
+            "juntas",
+            "tapa"
+        ],
+        "base_response": "El hermetismo del tanque se define por la integridad física de sus paredes, juntas y tapa, formando una estructura cerrada que impide fugas. Incluye conexiones selladas y materiales resistentes que mantienen la contención interna sin permitir intercambio con el exterior."
+    },
+    {
+        "intent_id": "hermetismo_tanque_fallas",
+        "keywords": [
+            "falla",
+            "comprobacion",
+            "hermetismo",
+            "tanque",
+            "fuga",
+            "junta"
+        ],
+        "base_response": "Las fallas comunes en la comprobacion de hermetismo del tanque incluyen fugas por juntas deterioradas, tapas mal ajustadas, grietas invisibles y sensores defectuosos que falsean lecturas. Estos errores provocan perdida de presion, emisiones no controladas y riesgo de contaminacion ambiental."
+    },
+    {
+        "intent_id": "impacto_hermetismo_tanque",
+        "keywords": [
+            "comprobacion",
+            "hermetismo",
+            "tanque",
+            "fugas",
+            "comunidades"
+        ],
+        "base_response": "La comprobacion de hermetismo del tanque garantiza evitar fugas que contaminan comunidades, protege recursos compartidos y reduce riesgos de salud. Su aplicacion responsable fortalece la confianza social en sistemas de transporte y promueve conductas preventivas que benefician a todos."
+    },
+    {
+        "intent_id": "seguridad_hermetismo_tanque",
+        "keywords": [
+            "comprobacion",
+            "hermetismo",
+            "tanque",
+            "riesgos",
+            "fugas"
+        ],
+        "base_response": "La comprobacion de hermetismo del tanque implica riesgos por posibles fugas de vapores inflamables, que pueden causar incendios o intoxicaciones. Es esencial usar equipo de proteccion, evitar fuentes de calor y verificar conexiones para garantizar seguridad total."
+    },
+    {
+        "intent_id": "calculo_hermetismo_tanque",
+        "keywords": [
+            "hermetismo",
+            "tanque",
+            "presion",
+            "calcular",
+            "fuga"
+        ],
+        "base_response": "El hermetismo del tanque puede evaluarse midiendo la variacion de presion interna mediante la formula P1V1=P2V2, comparando valores iniciales y finales. Una disminucion significativa indica fuga y permite calcular el caudal perdido usando Q=ΔV/Δt aproximado."
+    },
+    {
+        "intent_id": "mitos_hermetismo_tanque",
+        "keywords": [
+            "tanque",
+            "hermetismo",
+            "mito",
+            "fugas",
+            "seguridad"
+        ],
+        "base_response": "Muchos creen que un tanque hermetico solo necesita verse limpio, pero este mito ignora fugas invisibles que afectan seguridad. Otros piensan que cualquier tapa ajustada garantiza sellado, confundiendo apariencia con verificacion tecnica precisa del hermetismo real."
+    },
+    {
+        "intent_id": "hermetismo_simbiosis_sistemas",
+        "keywords": [
+            "comprobacion",
+            "hermetismo",
+            "tanque",
+            "sistemas",
+            "alimentacion"
+        ],
+        "base_response": "La comprobación de hermetismo del tanque interactúa simbióticamente con sistemas de alimentación y emisiones, asegurando flujo estable y detección precisa de fugas. Esta relación permite ajustes coordinados que optimizan rendimiento, reducen contaminantes y mantienen integridad operativa del vehículo."
+    },
+    {
+        "intent_id": "hermetismo_tanque_experimento_escolar",
+        "keywords": [
+            "experimento",
+            "tanque",
+            "bomba",
+            "agua",
+            "burbujas"
+        ],
+        "base_response": "Un experimento escolar consiste en presurizar suavemente un tanque transparente usando una bomba manual y aplicar agua jabonosa en sus uniones, observando si aparecen burbujas que indiquen fugas y permitiendo comprender visualmente el hermetismo en sistemas automotrices."
+    },
+    {
+        "intent_id": "concepto_estructural_friccion",
+        "keywords": [
+            "medicion",
+            "grosor",
+            "friccion",
+            "estructura",
+            "material"
+        ],
+        "base_response": "La medición del grosor de fricción describe la estructura física del material de freno, enfocándose en la capa activa que contacta el rotor. Esta dimensión identifica la profundidad útil del compuesto y su desgaste progresivo dentro del sistema automotriz."
+    },
+    {
+        "intent_id": "grosor_friccion_dinamica",
+        "keywords": [
+            "grosor",
+            "friccion",
+            "medir",
+            "presion",
+            "movimiento"
+        ],
+        "base_response": "El grosor de fricción determina la capacidad del material para resistir fuerzas dinámicas; su medición permite evaluar cómo la presión y el movimiento generan desgaste, afectando la transferencia de energía y la estabilidad del sistema durante el funcionamiento continuo."
+    },
+    {
+        "intent_id": "grosor_friccion_materiales",
+        "keywords": [
+            "medicion",
+            "grosor",
+            "friccion",
+            "material",
+            "composicion",
+            "reaccion"
+        ],
+        "base_response": "La medicion del grosor de friccion depende de la resistencia quimica del material, donde la composicion influye en la degradacion y estabilidad. Evaluar reacciones con calor y contaminantes permite determinar si el compuesto mantiene su espesor funcional bajo condiciones extremas."
+    },
+    {
+        "intent_id": "patologias_medicion_friccion",
+        "keywords": [
+            "medicion",
+            "grosor",
+            "friccion",
+            "desgaste",
+            "suciedad"
+        ],
+        "base_response": "La medicion del grosor de friccion puede fallar por desgaste irregular, acumulacion de suciedad, uso de herramientas descalibradas, interpretacion incorrecta de valores y omision de zonas criticas, generando diagnosticos imprecisos y riesgos en el rendimiento vehicular."
+    },
+    {
+        "intent_id": "historia_medicion_friccion",
+        "keywords": [
+            "medicion",
+            "grosor",
+            "friccion",
+            "origen",
+            "evolucion"
+        ],
+        "base_response": "La medicion del grosor de friccion surgio con los primeros sistemas de frenos mecanicos, evolucionando desde inspecciones visuales rudimentarias hasta herramientas calibradas modernas que permiten evaluar desgaste con precision, reflejando avances historicos en seguridad vehicular y control tecnico."
+    },
+    {
+        "intent_id": "medicion_ecologica_friccion",
+        "keywords": [
+            "medir",
+            "grosor",
+            "friccion",
+            "evaluar",
+            "desgaste",
+            "reducir"
+        ],
+        "base_response": "Medir el grosor de friccion permite evaluar desgaste responsable y reducir residuos automotrices. Al controlar este parametro se evita reemplazar piezas prematuramente, disminuyendo impacto ambiental y promoviendo mantenimiento sostenible que protege ecosistemas al minimizar contaminacion derivada de materiales de friccion."
+    },
+    {
+        "intent_id": "medicion_grosor_friccion_aplicacion_real",
+        "keywords": [
+            "medir",
+            "grosor",
+            "friccion",
+            "evaluar",
+            "desgaste",
+            "planificar"
+        ],
+        "base_response": "Medir el grosor de fricción permite evaluar desgaste en pastillas de freno, asegurando frenadas seguras en vehículos. Esta práctica ayuda a planificar mantenimientos, prevenir fallas y optimizar el rendimiento automotriz al identificar reducciones críticas antes de afectar la conducción diaria."
+    },
+    {
+        "intent_id": "seguridad_medicion_friccion",
+        "keywords": [
+            "medir",
+            "grosor",
+            "friccion",
+            "contacto",
+            "componentes",
+            "asegurar"
+        ],
+        "base_response": "Medir el grosor de fricción exige evitar contacto directo con componentes calientes y asegurar el vehículo inmovilizado. Un error en la medición puede ocultar desgaste crítico, aumentando riesgo de fallas. Utilizar guantes y herramientas calibradas garantiza seguridad."
+    },
+    {
+        "intent_id": "clasificacion_friccion_material",
+        "keywords": [
+            "clasificacion",
+            "friccion",
+            "grosor",
+            "medir",
+            "desgaste"
+        ],
+        "base_response": "La clasificación taxonómica del grosor de fricción organiza niveles de desgaste en categorías jerárquicas basadas en patrones medibles. Esta estructura permite identificar variaciones, comparar estados y establecer criterios científicos para evaluar la evolución del material sometido a fricción."
+    },
+    {
+        "intent_id": "sinergia_sistemas_friccion",
+        "keywords": [
+            "medicion",
+            "grosor",
+            "friccion",
+            "sistemas",
+            "control"
+        ],
+        "base_response": "La medicion del grosor de friccion interactua con sistemas de suspension y control, permitiendo ajustes coordinados que optimizan estabilidad vehicular. Al integrar datos compartidos, se favorece una respuesta equilibrada entre desgaste, adherencia y eficiencia operativa en condiciones variables."
+    },
+    {
+        "intent_id": "transformacion_ciclos_friccion",
+        "keywords": [
+            "medir",
+            "grosor",
+            "friccion",
+            "energia",
+            "transformar"
+        ],
+        "base_response": "Medir el grosor de friccion permite comprender como la energia mecanica se transforma en calor durante el desgaste. Al disminuir el material el ciclo energetico del sistema cambia afectando la eficiencia y revelando la relacion entre friccion transferencia y perdida energetica."
+    },
+    {
+        "intent_id": "impacto_prolongado_friccion",
+        "keywords": [
+            "medicion",
+            "grosor",
+            "friccion",
+            "desgaste",
+            "seguridad"
+        ],
+        "base_response": "La medicion del grosor de friccion permite anticipar desgaste progresivo que ignorado genera fallas mecanicas acumulativas. A largo plazo la reduccion constante del material compromete seguridad aumenta costos de reparacion y acelera daños estructurales en sistemas automotrices."
+    },
+    {
+        "intent_id": "impacto_ambiental_grosor_friccion",
+        "keywords": [
+            "medicion",
+            "grosor",
+            "friccion",
+            "emisiones",
+            "resistencia",
+            "consumo"
+        ],
+        "base_response": "La medicion del grosor de friccion permite anticipar desgaste que incrementa emisiones contaminantes, pues superficies deterioradas generan mayor resistencia y consumo energetico. Controlar este grosor reduce particulas liberadas y favorece practicas automotrices sostenibles al minimizar impactos ambientales."
+    },
+    {
+        "intent_id": "control_preventivo_friccion",
+        "keywords": [
+            "medicion",
+            "grosor",
+            "friccion",
+            "desgaste",
+            "mantenimiento",
+            "prevenir"
+        ],
+        "base_response": "La medicion del grosor de friccion permite anticipar desgaste en componentes clave, evitando fallas inesperadas. Al controlar regularmente este grosor se garantiza un mantenimiento preventivo eficaz, prolongando la vida util del sistema y reduciendo riesgos en condiciones de uso exigentes."
+    },
+    {
+        "intent_id": "quimica_desinfeccion_cabina",
+        "keywords": [
+            "desinfeccion",
+            "compuestos",
+            "romper",
+            "interactuar",
+            "inhibir"
+        ],
+        "base_response": "La desinfeccion interior de cabina automotriz depende de compuestos capaces de romper estructuras microbianas. Los desinfectantes basados en amonio cuaternario interactuan con membranas celulares, mientras materiales polimericos tratados incorporan agentes activos que inhiben microorganismos y mantienen superficies seguras."
+    },
+    {
+        "intent_id": "patologias_desinfeccion_cabina",
+        "keywords": [
+            "desinfeccion",
+            "cabina",
+            "error",
+            "residuo",
+            "humedad",
+            "proliferacion"
+        ],
+        "base_response": "La desinfección interior puede fallar cuando se aplican productos incompatibles que dejan residuos, generan humedad atrapada y favorecen la proliferación microbiana. También ocurre cuando se omiten superficies críticas, provocando contaminación persistente y olores que indican una desinfección deficiente."
+    },
+    {
+        "intent_id": "desinfeccion_cabina_aplicaciones_reales",
+        "keywords": [
+            "desinfeccion",
+            "cabina",
+            "aplicacion",
+            "superficie",
+            "higiene"
+        ],
+        "base_response": "La desinfección interior de cabina automotriz permite aplicar soluciones antimicrobianas en superficies de contacto diario, reduciendo microorganismos y mejorando la higiene. En la vida real ayuda a prevenir enfermedades, mantener ambientes seguros y prolongar la limpieza en vehículos compartidos."
+    },
+    {
+        "intent_id": "taxonomia_microbiana_cabina",
+        "keywords": [
+            "clasificacion",
+            "microorganismo",
+            "superficie",
+            "desinfeccion",
+            "eliminar"
+        ],
+        "base_response": "La desinfeccion interior de cabina puede estudiarse mediante la clasificacion taxonomica de microorganismos presentes, identificando bacterias, hongos y virus segun sus familias y generos, lo que permite seleccionar agentes eliminadores adecuados y comprender cientificamente su comportamiento en superficies automotrices."
+    },
+    {
+        "intent_id": "calculo_desinfeccion_cabina",
+        "keywords": [
+            "calculo",
+            "concentracion",
+            "desinfectante",
+            "cabina",
+            "volumen"
+        ],
+        "base_response": "El calculo de concentracion de desinfectante en cabina se obtiene dividiendo la masa aplicada entre el volumen interior, permitiendo estimar la dosis optima. La formula C igual a m sobre V ayuda a garantizar una desinfeccion segura y eficiente."
+    },
+    {
+        "intent_id": "ciclos_energeticos_desinfeccion_cabina",
+        "keywords": [
+            "energia",
+            "proceso",
+            "reaccion",
+            "ciclo",
+            "conversion"
+        ],
+        "base_response": "La desinfección interior de cabina automotriz implica transformar energia quimica en procesos activos que degradan microorganismos, generando ciclos energeticos donde reacciones controladas liberan calor y radicales que modifican estructuras biologicas, asegurando ambientes seguros mediante conversiones continuas."
+    },
+    {
+        "intent_id": "impacto_prolongado_desinfeccion_cabina",
+        "keywords": [
+            "desinfeccion",
+            "interior",
+            "efectos",
+            "deterioro",
+            "materiales"
+        ],
+        "base_response": "La desinfeccion interior constante puede generar efectos prolongados, como deterioro de materiales sensibles, acumulacion de residuos quimicos y alteraciones en la calidad del aire. Estos cambios afectan la durabilidad del habitaculo y requieren mantenimiento preventivo continuo."
+    },
+    {
+        "intent_id": "concepto_desinfeccion_mantenimiento",
+        "keywords": [
+            "desinfeccion",
+            "cabina",
+            "mantenimiento",
+            "prevencion",
+            "microorganismos"
+        ],
+        "base_response": "La desinfección interior de cabina automotriz, como práctica de mantenimiento y prevención, reduce microorganismos que deterioran superficies y sistemas de ventilación. Aplicar agentes adecuados y rutinas periódicas evita olores, alergias y prolonga la vida útil de materiales internos."
+    },
+    {
+        "intent_id": "futuro_desinfeccion_cabina",
+        "keywords": [
+            "desinfeccion",
+            "sensores",
+            "luz",
+            "nanorobots",
+            "cabina"
+        ],
+        "base_response": "La desinfección interior futura integrará sensores inteligentes, luz ultravioleta adaptable y nanorobots capaces de eliminar microorganismos en segundos, creando cabinas automotrices autosanitarias que ajustan procesos según ocupantes y condiciones ambientales para maximizar seguridad y eficiencia."
+    },
+    {
+        "intent_id": "dinamica_valoracion_pintura",
+        "keywords": [
+            "valoracion",
+            "pintura",
+            "carroceria",
+            "energia",
+            "impacto"
+        ],
+        "base_response": "La valoración de pintura y carrocería considera cómo la energía cinética de impactos menores altera la deformación superficial, evaluando resistencia, elasticidad y propagación de vibraciones que afectan la integridad física del recubrimiento y su capacidad para mantener estabilidad estructural."
+    },
+    {
+        "intent_id": "valoracion_material_quimico",
+        "keywords": [
+            "valoracion",
+            "pintura",
+            "carroceria",
+            "resistencia",
+            "recubrimiento"
+        ],
+        "base_response": "La valoración de pintura y carrocería considera la resistencia química del recubrimiento, analizando cómo los pigmentos y polímeros reaccionan ante oxidación, radiación ultravioleta y contaminantes. Este estudio permite determinar durabilidad, estabilidad y posibles deterioros en la superficie vehicular."
+    },
+    {
+        "intent_id": "historia_pintura_carroceria",
+        "keywords": [
+            "valoracion",
+            "pintura",
+            "carroceria",
+            "origen",
+            "evolucion"
+        ],
+        "base_response": "La valoración de pintura y carrocería surgió cuando los primeros automóviles exigieron evaluar daños superficiales. Con el tiempo evolucionó integrando técnicas de inspección visual, mediciones precisas y criterios estandarizados que permiten comprender la calidad histórica de materiales y procesos aplicados."
+    },
+    {
+        "intent_id": "valoracion_ecologica_pintura_carroceria",
+        "keywords": [
+            "valoracion",
+            "pintura",
+            "carroceria",
+            "entorno",
+            "degradacion"
+        ],
+        "base_response": "La valoración de pintura y carrocería considera el impacto ecológico del entorno, evaluando cómo contaminantes atmosféricos, radiación solar y humedad aceleran la degradación superficial. Este análisis permite comprender procesos químicos ambientales que afectan la integridad del acabado vehicular."
+    },
+    {
+        "intent_id": "analisis_comparativo_pintura_carroceria",
+        "keywords": [
+            "valoracion",
+            "pintura",
+            "carroceria",
+            "comparar",
+            "resistencia",
+            "brillo"
+        ],
+        "base_response": "La valoración de pintura y carrocería compara resistencia, brillo y uniformidad para identificar ventajas como mayor durabilidad y estética, frente a desventajas como desgaste acelerado, variaciones cromáticas y vulnerabilidad ambiental, permitiendo decisiones técnicas equilibradas en mantenimiento vehicular."
+    },
+    {
+        "intent_id": "seguridad_valoracion_pintura_carroceria",
+        "keywords": [
+            "valoracion",
+            "pintura",
+            "carroceria",
+            "riesgos",
+            "seguridad"
+        ],
+        "base_response": "La valoración de pintura y carrocería exige identificar riesgos como vapores tóxicos, partículas metálicas y superficies calientes. Se aplican medidas de seguridad mediante ventilación adecuada, uso de mascarillas, guantes y protección ocular para prevenir daños respiratorios, cutáneos y térmicos."
+    },
+    {
+        "intent_id": "calculo_valoracion_pintura_carroceria",
+        "keywords": [
+            "calculo",
+            "pintura",
+            "carroceria",
+            "area",
+            "costo",
+            "evaluar"
+        ],
+        "base_response": "La valoracion de pintura y carroceria puede estimarse calculando el area afectada mediante la formula area igual largo por ancho y multiplicando el resultado por el costo unitario de reparacion, permitiendo evaluar con precision el presupuesto necesario para restaurar la superficie dañada."
+    },
+    {
+        "intent_id": "simbiotica_valoracion_pintura",
+        "keywords": [
+            "valoracion",
+            "pintura",
+            "carroceria",
+            "sistemas",
+            "cooperacion"
+        ],
+        "base_response": "La valoración de pintura y carrocería analiza cómo la capa protectora coopera con sistemas como aerodinámica, sensores y estructura metálica, generando una interacción que optimiza resistencia, detección y durabilidad vehicular mediante procesos compartidos que dependen mutuamente para mantener el rendimiento integral."
+    },
+    {
+        "intent_id": "valoracion_pintura_experimento_escolar",
+        "keywords": [
+            "pintura",
+            "carroceria",
+            "luz",
+            "observar",
+            "medir",
+            "reaccion"
+        ],
+        "base_response": "Un experimento escolar consiste en aplicar luz intensa sobre diferentes zonas de la carroceria para observar variaciones en brillo y color. Los estudiantes miden cambios usando tarjetas de contraste, demostrando como la pintura refleja o absorbe luz segun su estado superficial."
+    },
+    {
+        "intent_id": "impacto_ambiental_pintura_carroceria",
+        "keywords": [
+            "valoracion",
+            "pintura",
+            "carroceria",
+            "compuestos",
+            "emisiones"
+        ],
+        "base_response": "La valoración de pintura y carrocería considera cómo los compuestos químicos liberados durante reparaciones afectan el aire y el suelo. Evaluar daños permite elegir procesos menos contaminantes, reducir emisiones y promover materiales sostenibles que disminuyan la huella ecológica del vehículo."
+    },
+    {
+        "intent_id": "valoracion_pintura_carroceria_mantenimiento",
+        "keywords": [
+            "valoracion",
+            "pintura",
+            "carroceria",
+            "mantenimiento",
+            "prevencion"
+        ],
+        "base_response": "La valoración de pintura y carrocería en mantenimiento y prevención implica analizar desgaste, corrosión y microfisuras para anticipar daños mayores. Este concepto permite aplicar recubrimientos protectores y limpieza adecuada, prolongando la vida útil del vehículo y evitando reparaciones costosas."
+    }
+]
