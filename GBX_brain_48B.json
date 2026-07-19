@@ -1,0 +1,3061 @@
+[
+  {
+    "intent_id": "bomba_aceite_estructura_anatomica",
+    "keywords": [
+      "bomba",
+      "aceite",
+      "carter",
+      "engranaje",
+      "rotor"
+    ],
+    "base_response": "La bomba de aceite es un conjunto mecánico ubicado en el cárter del motor. Integra engranajes o un rotor interno que giran impulsados por el cigüeñal. Su estructura permite succionar el aceite y enviarlo presurizado hacia los conductos que lubrican las partes móviles del motor."
+  },
+  {
+    "intent_id": "bomba_aceite_dinamica_funcionamiento",
+    "keywords": [
+      "bomba",
+      "aceite",
+      "presion",
+      "flujo",
+      "engranaje"
+    ],
+    "base_response": "La bomba de aceite transforma el movimiento del cigüeñal en presión hidráulica que impulsa el lubricante por conductos internos. Sus engranajes giran y succionan el aceite, generando un flujo continuo que mantiene la película lubricante estable y reduce la fricción entre superficies móviles del motor."
+  },
+  {
+    "intent_id": "bomba_aceite_propiedades_materiales",
+    "keywords": [
+      "bomba",
+      "aceite",
+      "metal",
+      "resistencia",
+      "lubricar"
+    ],
+    "base_response": "La bomba de aceite requiere materiales metálicos con alta resistencia química para soportar la interacción constante con aceites calientes. Sus superficies deben evitar la corrosión y mantener estabilidad estructural, garantizando que el lubricante conserve sus propiedades sin contaminarse durante el funcionamiento prolongado del motor."
+  },
+  {
+    "intent_id": "bomba_aceite_fallas_comunes",
+    "keywords": [
+      "bomba",
+      "aceite",
+      "motor",
+      "desgaste",
+      "obstruccion"
+    ],
+    "base_response": "La bomba de aceite puede fallar por desgaste interno, obstrucción del tamiz o pérdida de presión. Estas fallas provocan lubricación insuficiente, aumento de fricción y daños severos en componentes móviles. Detectarlas temprano evita sobrecalentamiento y averías costosas en el motor."
+  },
+  {
+    "intent_id": "bomba_aceite_historia_evolucion",
+    "keywords": [
+      "bomba",
+      "aceite",
+      "motor",
+      "engranaje",
+      "lubricar"
+    ],
+    "base_response": "La bomba de aceite surgió con los primeros motores de combustión interna para asegurar lubricación constante. Evolucionó desde diseños simples de engranajes externos hasta sistemas más precisos y eficientes, capaces de mantener presión estable incluso en motores modernos de altas revoluciones y mayores exigencias mecánicas."
+  },
+  {
+    "intent_id": "bomba_aceite_contexto_ecologico",
+    "keywords": [
+      "motor",
+      "bomba",
+      "aceite",
+      "ecosistema",
+      "contaminar"
+    ],
+    "base_response": "La bomba de aceite influye en el entorno ecológico porque su buen funcionamiento evita fugas que contaminan suelos y agua. Un sistema eficiente reduce residuos y emisiones, favoreciendo prácticas automotrices responsables que protegen ecosistemas y disminuyen impactos ambientales derivados del mantenimiento del motor."
+  },
+  {
+    "intent_id": "bomba_aceite_aplicaciones_practicas",
+    "keywords": [
+      "motor",
+      "bomba",
+      "aceite",
+      "lubricar",
+      "friccion"
+    ],
+    "base_response": "La bomba de aceite permite que el motor funcione con menor desgaste al mantener la lubricación constante. Su acción asegura que los componentes internos reciban aceite suficiente durante arranques, aceleraciones y recorridos largos, evitando daños costosos y prolongando la vida útil del vehículo."
+  },
+  {
+    "intent_id": "bomba_aceite_importancia_impacto_social",
+    "keywords": [
+      "motor",
+      "bomba",
+      "aceite",
+      "lubricar",
+      "seguridad"
+    ],
+    "base_response": "La bomba de aceite sostiene la seguridad vial al mantener el motor lubricado y funcional. Su correcto desempeño reduce fallas mecánicas que pueden causar accidentes, protege la inversión familiar en transporte y favorece la movilidad comunitaria confiable, impactando directamente en la calidad de vida colectiva."
+  },
+  {
+    "intent_id": "bomba_aceite_ventajas_desventajas_comparativas",
+    "keywords": [
+      "bomba",
+      "aceite",
+      "motor",
+      "presion",
+      "lubricar"
+    ],
+    "base_response": "La bomba de aceite ofrece ventaja al mantener presión estable y lubricación continua, reduciendo desgaste interno. Sin embargo, su desventaja surge cuando falla, pues disminuye la presión y provoca daños rápidos. Comparada con sistemas pasivos, resulta más eficiente pero depende totalmente de su integridad mecánica."
+  },
+  {
+    "intent_id": "bomba_aceite_riesgos_seguridad",
+    "keywords": [
+      "bomba",
+      "aceite",
+      "motor",
+      "fuga",
+      "sobrecalentar"
+    ],
+    "base_response": "La bomba de aceite puede fallar y provocar sobrecalentamiento del motor, generando daños graves. Verificar fugas, evitar obstrucciones y mantener niveles adecuados reduce riesgos. Manipular componentes calientes exige protección y evitar contacto directo para prevenir quemaduras y accidentes durante cualquier revisión."
+  },
+  {
+    "intent_id": "bomba_aceite_clasificacion_taxonomica",
+    "keywords": [
+      "bomba",
+      "aceite",
+      "motor",
+      "engranaje",
+      "rotor"
+    ],
+    "base_response": "La bomba de aceite se clasifica taxonómicamente según su mecanismo interno de accionamiento. Puede pertenecer al grupo de bombas de engranajes, de paletas o de rotores, cada una definida por la forma en que desplaza el lubricante y mantiene la presión necesaria dentro del motor."
+  },
+  {
+    "intent_id": "bomba_aceite_calculos_flujo_presion",
+    "keywords": [
+      "bomba",
+      "aceite",
+      "flujo",
+      "presion",
+      "volumen"
+    ],
+    "base_response": "El cálculo del flujo de la bomba de aceite se obtiene multiplicando el volumen desplazado por la velocidad de giro. La presión generada depende de la resistencia del circuito y del caudal entregado. Estas relaciones permiten estimar desempeño y detectar variaciones anómalas en el sistema."
+  },
+  {
+    "intent_id": "bomba_aceite_mitos_concepciones_erroneas",
+    "keywords": [
+      "bomba",
+      "aceite",
+      "motor",
+      "lubricar",
+      "friccion"
+    ],
+    "base_response": "Muchos creen que la bomba de aceite solo funciona cuando el motor está frío o que puede compensar cualquier falta de lubricante. En realidad, su desempeño depende del nivel adecuado de aceite y no puede evitar daños si el motor opera con lubricación insuficiente."
+  },
+  {
+    "intent_id": "bomba_aceite_relacion_simbiotica_sistemas",
+    "keywords": [
+      "bomba",
+      "aceite",
+      "motor",
+      "lubricar",
+      "friccion"
+    ],
+    "base_response": "La bomba de aceite mantiene una relación simbiótica con el sistema de lubricación y el sistema de enfriamiento del motor. Su acción asegura que las piezas móviles reciban aceite suficiente para reducir fricción, disipar calor y permitir que otros mecanismos funcionen con eficiencia y estabilidad prolongada."
+  },
+  {
+    "intent_id": "bomba_aceite_transformacion_ciclos_energeticos",
+    "keywords": [
+      "motor",
+      "bomba",
+      "aceite",
+      "energia",
+      "friccion"
+    ],
+    "base_response": "La bomba de aceite transforma energía mecánica del cigüeñal en energía hidráulica que impulsa el lubricante. Este ciclo energético mantiene el flujo constante de aceite, reduce la fricción y permite que las piezas del motor conserven eficiencia térmica durante su funcionamiento continuo."
+  },
+  {
+    "intent_id": "bomba_aceite_experimentos_escolares",
+    "keywords": [
+      "bomba",
+      "aceite",
+      "motor",
+      "flujo",
+      "demostrar"
+    ],
+    "base_response": "La bomba de aceite puede explicarse usando una jeringa llena de aceite que impulse el fluido hacia un pequeño circuito transparente. Esta demostración permite observar cómo el movimiento genera presión y mantiene el flujo continuo, imitando el funcionamiento real dentro del motor en condiciones controladas."
+  },
+  {
+    "intent_id": "bomba_aceite_consecuencias_largo_plazo",
+    "keywords": [
+      "motor",
+      "bomba",
+      "aceite",
+      "desgaste",
+      "friccion"
+    ],
+    "base_response": "El mal funcionamiento prolongado de la bomba de aceite provoca desgaste acelerado en piezas internas del motor. La falta de lubricación constante incrementa la fricción, genera daños irreversibles en cojinetes y cilindros y reduce significativamente la vida útil del sistema, ocasionando fallas costosas y pérdida total del rendimiento."
+  },
+  {
+    "intent_id": "bomba_aceite_impacto_ambiental",
+    "keywords": [
+      "bomba",
+      "aceite",
+      "motor",
+      "contaminacion",
+      "filtrar"
+    ],
+    "base_response": "La bomba de aceite influye en el impacto ambiental del motor al asegurar una lubricación adecuada que reduce emisiones por fricción excesiva. Cuando falla, puede provocar fugas de aceite que contaminan suelo y agua, afectando ecosistemas y aumentando riesgos para la salud humana."
+  },
+  {
+    "intent_id": "bomba_aceite_mantenimiento_prevencion",
+    "keywords": [
+      "bomba",
+      "aceite",
+      "motor",
+      "lubricar",
+      "desgaste"
+    ],
+    "base_response": "La bomba de aceite requiere revisiones periódicas para asegurar un flujo adecuado de lubricante. Mantener el nivel y la calidad del aceite evita obstrucciones internas y reduce el desgaste del motor. Un mantenimiento preventivo oportuno prolonga la vida útil de los componentes y mejora su funcionamiento general."
+  },
+  {
+    "intent_id": "bomba_aceite_proyecciones_futuras_tecnologia",
+    "keywords": [
+      "bomba",
+      "aceite",
+      "motor",
+      "sensor",
+      "innovacion"
+    ],
+    "base_response": "La bomba de aceite evolucionará hacia sistemas inteligentes capaces de ajustar el flujo según las necesidades del motor. Integrará sensores avanzados, materiales ultraligeros y control electrónico predictivo que optimizará la lubricación, reducirá el desgaste y mejorará la eficiencia energética en futuros vehículos."
+  },
+  {
+    "intent_id": "sensor_oxigeno_definicion_estructural",
+    "keywords": [
+      "sensor",
+      "oxigeno",
+      "escape",
+      "ceramica",
+      "electrodo"
+    ],
+    "base_response": "El sensor de oxígeno es un componente ubicado en el sistema de escape que contiene un cuerpo cerámico y electrodos internos. Su estructura permite detectar la concentración de oxígeno en los gases expulsados, generando una señal eléctrica que ayuda a regular la mezcla aire‑combustible del motor."
+  },
+  {
+    "intent_id": "sensor_oxigeno_dinamica_funcionamiento",
+    "keywords": [
+      "sensor",
+      "oxigeno",
+      "motor",
+      "combustion",
+      "medir"
+    ],
+    "base_response": "El sensor de oxígeno analiza la cantidad de oxígeno presente en los gases de escape para medir la eficiencia de combustión. Su elemento interno genera una señal eléctrica según la diferencia de oxígeno, permitiendo ajustar la mezcla aire‑combustible y mantener un funcionamiento estable del motor."
+  },
+  {
+    "intent_id": "sensor_oxigeno_propiedades_materiales",
+    "keywords": [
+      "sensor",
+      "oxigeno",
+      "ceramica",
+      "electrodo",
+      "combustion"
+    ],
+    "base_response": "El sensor de oxígeno utiliza cerámica de óxido de circonio que cambia su conductividad según la concentración de oxígeno. Sus electrodos de platino permiten reacciones químicas controladas que generan una señal eléctrica. Esta combinación de materiales garantiza resistencia térmica y estabilidad durante la combustión del motor."
+  },
+  {
+    "intent_id": "sensor_oxigeno_fallas_comunes",
+    "keywords": [
+      "sensor",
+      "oxigeno",
+      "motor",
+      "combustion",
+      "diagnosticar"
+    ],
+    "base_response": "El sensor de oxígeno puede fallar por acumulación de residuos, envejecimiento del elemento interno o daños en el cableado. Estas fallas provocan lecturas incorrectas que alteran la mezcla aire‑combustible, generan pérdida de potencia, aumentan el consumo y activan códigos de diagnóstico en la unidad electrónica."
+  },
+  {
+    "intent_id": "sensor_oxigeno_historia_evolucion",
+    "keywords": [
+      "sensor",
+      "oxigeno",
+      "motor",
+      "combustion",
+      "tecnologia"
+    ],
+    "base_response": "El sensor de oxígeno surgió en la década de 1970 para mejorar el control de la combustión. Su desarrollo avanzó con la introducción de sistemas de inyección electrónica y normas ambientales más estrictas. Con el tiempo evolucionó hacia diseños más precisos que optimizan emisiones y eficiencia del motor."
+  },
+  {
+    "intent_id": "sensor_oxigeno_contexto_ecologico",
+    "keywords": [
+      "sensor",
+      "oxigeno",
+      "emision",
+      "combustion",
+      "contaminacion"
+    ],
+    "base_response": "El sensor de oxígeno influye directamente en la reducción de contaminación al permitir que el motor ajuste la combustión y disminuya emisiones dañinas. Su funcionamiento adecuado ayuda a proteger el aire, reducir impactos ambientales y mantener condiciones más saludables en el entorno urbano y natural."
+  },
+  {
+    "intent_id": "sensor_oxigeno_aplicaciones_practicas",
+    "keywords": [
+      "sensor",
+      "oxigeno",
+      "motor",
+      "combustion",
+      "emision"
+    ],
+    "base_response": "El sensor de oxígeno permite que el motor ajuste la mezcla de aire y combustible para mejorar el rendimiento diario. Su funcionamiento ayuda a reducir emisiones contaminantes, ahorrar combustible en recorridos urbanos y mantener una aceleración estable durante trayectos largos en carretera."
+  },
+  {
+    "intent_id": "sensor_oxigeno_importancia_impacto_social",
+    "keywords": [
+      "sensor",
+      "oxigeno",
+      "motor",
+      "combustion",
+      "emision"
+    ],
+    "base_response": "El sensor de oxígeno influye directamente en la calidad del aire al regular emisiones contaminantes del motor. Su funcionamiento adecuado reduce daños ambientales, protege la salud pública y contribuye a ciudades más limpias. Su impacto social destaca al promover movilidad responsable y conciencia ecológica comunitaria."
+  },
+  {
+    "intent_id": "sensor_oxigeno_ventajas_desventajas_comparativas",
+    "keywords": [
+      "sensor",
+      "oxigeno",
+      "motor",
+      "combustion",
+      "medicion"
+    ],
+    "base_response": "El sensor de oxígeno ofrece ventaja al mejorar la mezcla aire‑combustible y reducir emisiones, pero puede fallar por desgaste y generar consumo elevado. Su precisión favorece el rendimiento, aunque su sensibilidad a contaminantes implica reemplazos frecuentes y costos adicionales en mantenimiento del motor."
+  },
+  {
+    "intent_id": "sensor_oxigeno_riesgos_seguridad",
+    "keywords": [
+      "sensor",
+      "oxigeno",
+      "motor",
+      "calor",
+      "manipular"
+    ],
+    "base_response": "El sensor de oxígeno puede alcanzar temperaturas muy altas durante el funcionamiento del motor, generando riesgo de quemaduras al manipularlo sin protección. Se debe esperar su enfriamiento, usar guantes adecuados y evitar golpes que dañen su estructura y provoquen fallas peligrosas en el sistema."
+  },
+  {
+    "intent_id": "sensor_oxigeno_clasificacion_taxonomica",
+    "keywords": [
+      "sensor",
+      "oxigeno",
+      "motor",
+      "combustion",
+      "medicion"
+    ],
+    "base_response": "El sensor de oxígeno se clasifica taxonómicamente como un transductor electroquímico dentro del sistema de control del motor. Pertenece al grupo de dispositivos que convierten variaciones químicas en señales eléctricas, permitiendo evaluar la mezcla aire‑combustible y ajustar la combustión con precisión."
+  },
+  {
+    "intent_id": "sensor_oxigeno_calculos_formula",
+    "keywords": [
+      "sensor",
+      "oxigeno",
+      "voltaje",
+      "mezcla",
+      "combustion"
+    ],
+    "base_response": "El sensor de oxígeno genera un voltaje proporcional a la mezcla aire‑combustible. El cálculo básico usa la relación V = f(lambda), donde lambda indica la proporción real frente a la ideal. Interpretar variaciones de voltaje permite estimar eficiencia de combustión y ajustar parámetros del motor."
+  },
+  {
+    "intent_id": "sensor_oxigeno_mitos_concepciones_erroneas",
+    "keywords": [
+      "sensor",
+      "oxigeno",
+      "motor",
+      "combustion",
+      "diagnostico"
+    ],
+    "base_response": "Muchos creen que el sensor de oxígeno solo mide aire, pero realmente analiza los gases de combustión. También se piensa que falla por suciedad mínima, cuando su deterioro suele deberse a mezclas incorrectas. Otro mito afirma que desconectarlo mejora potencia, pero provoca consumo excesivo."
+  },
+  {
+    "intent_id": "sensor_oxigeno_interaccion_sistemas",
+    "keywords": [
+      "sensor",
+      "oxigeno",
+      "motor",
+      "combustion",
+      "mezcla"
+    ],
+    "base_response": "El sensor de oxígeno mantiene una relación simbiótica con la inyección y el escape al informar la cantidad de oxígeno presente. Su señal permite ajustar la mezcla aire‑combustible y optimizar la combustión, favoreciendo un funcionamiento equilibrado entre eficiencia, potencia y control de emisiones."
+  },
+  {
+    "intent_id": "sensor_oxigeno_transformacion_ciclos_energeticos",
+    "keywords": [
+      "sensor",
+      "oxigeno",
+      "combustion",
+      "energia",
+      "motor"
+    ],
+    "base_response": "El sensor de oxígeno influye en la transformación energética del motor al medir la proporción de oxígeno en los gases de escape. Esta información ajusta la mezcla aire‑combustible, optimizando la combustión y asegurando ciclos energéticos más eficientes que reducen pérdidas y mejoran el rendimiento general."
+  },
+  {
+    "intent_id": "sensor_oxigeno_experimentos_escolares",
+    "keywords": [
+      "sensor",
+      "oxigeno",
+      "motor",
+      "combustion",
+      "medicion"
+    ],
+    "base_response": "El sensor de oxígeno puede explorarse mediante una demostración que compare combustión rica y pobre usando llamas controladas y detectores simples. Los estudiantes observan cómo varía la medición de oxígeno y relacionan esos cambios con la mezcla que el motor necesita para funcionar eficientemente."
+  },
+  {
+    "intent_id": "sensor_oxigeno_consecuencias_largo_plazo",
+    "keywords": [
+      "sensor",
+      "oxigeno",
+      "motor",
+      "combustion",
+      "emision"
+    ],
+    "base_response": "Un sensor de oxígeno deteriorado provoca mezclas de combustible incorrectas durante largos periodos, aumentando el desgaste interno del motor. Esta falla incrementa emisiones contaminantes, reduce eficiencia energética y acelera daños en el catalizador, generando reparaciones costosas y menor vida útil del sistema completo."
+  },
+  {
+    "intent_id": "sensor_oxigeno_motor_impacto_ambiental",
+    "keywords": [
+      "sensor",
+      "oxigeno",
+      "combustion",
+      "emision",
+      "contaminacion"
+    ],
+    "base_response": "El sensor de oxígeno permite ajustar la combustión para reducir emisiones contaminantes. Cuando funciona correctamente, disminuye la liberación de gases dañinos y mejora la eficiencia del motor. Su falla incrementa la contaminación atmosférica y afecta negativamente la calidad del aire en zonas urbanas."
+  },
+  {
+    "intent_id": "sensor_oxigeno_mantenimiento_prevencion",
+    "keywords": [
+      "sensor",
+      "oxigeno",
+      "motor",
+      "combustion",
+      "diagnostico"
+    ],
+    "base_response": "El sensor de oxígeno requiere revisiones periódicas para evitar fallas en la mezcla de combustión. Su limpieza y sustitución oportuna previenen daños en el motor y reducen emisiones. Mantenerlo en buen estado asegura lecturas precisas que permiten un diagnóstico eficiente del sistema."
+  },
+  {
+    "intent_id": "sensor_oxigeno_proyecciones_tecnologicas",
+    "keywords": [
+      "sensor",
+      "oxigeno",
+      "motor",
+      "tecnologia",
+      "innovacion"
+    ],
+    "base_response": "Los sensores de oxígeno evolucionarán hacia versiones inteligentes capaces de analizar mezclas en tiempo real con mayor precisión. Integrarán materiales avanzados y algoritmos predictivos que optimizarán la combustión, reducirán emisiones y permitirán motores más eficientes compatibles con sistemas energéticos futuros."
+  },
+  {
+    "intent_id": "catalizador_gases_definicion_estructural",
+    "keywords": [
+      "catalizador",
+      "gases",
+      "motor",
+      "estructura",
+      "metal"
+    ],
+    "base_response": "El catalizador de gases es un componente metálico ubicado en el sistema de escape del motor. Contiene una estructura interna con canales cerámicos recubiertos de metales especiales que facilitan reacciones químicas. Su diseño permite transformar gases contaminantes en emisiones menos dañinas."
+  },
+  {
+    "intent_id": "catalizador_gases_dinamica_funcionamiento",
+    "keywords": [
+      "catalizador",
+      "gases",
+      "motor",
+      "reaccion",
+      "conversion"
+    ],
+    "base_response": "El catalizador de gases transforma químicamente los compuestos tóxicos mediante reacciones internas activadas por altas temperaturas. Su estructura con materiales activos acelera la conversión de gases nocivos en sustancias menos dañinas, aprovechando el flujo continuo del escape para mantener su funcionamiento eficiente."
+  },
+  {
+    "intent_id": "catalizador_gases_propiedades_materiales",
+    "keywords": [
+      "catalizador",
+      "metales",
+      "superficie",
+      "reaccion",
+      "gases"
+    ],
+    "base_response": "El catalizador de gases utiliza metales especiales con superficies activas capaces de acelerar reacciones químicas. Estos materiales resisten altas temperaturas y transforman gases tóxicos en compuestos menos dañinos mediante procesos de oxidación y reducción controlados dentro del sistema de escape del motor."
+  },
+  {
+    "intent_id": "catalizador_gases_fallas_comunes",
+    "keywords": [
+      "catalizador",
+      "gases",
+      "motor",
+      "obstruccion",
+      "contaminacion"
+    ],
+    "base_response": "El catalizador puede fallar por obstrucción interna causada por residuos del motor, generando pérdida de potencia y aumento de emisiones. También sufre daños por sobrecalentamiento cuando hay combustión irregular, provocando fisuras en su estructura cerámica y reduciendo su capacidad de transformar gases tóxicos."
+  },
+  {
+    "intent_id": "catalizador_gases_historia_origen_evolucion",
+    "keywords": [
+      "catalizador",
+      "gases",
+      "motor",
+      "combustion",
+      "purificar"
+    ],
+    "base_response": "El catalizador de gases surgió en la década de 1950 como respuesta a la creciente contaminación generada por motores de combustión. Evolucionó desde diseños simples de metales reactivos hasta estructuras cerámicas avanzadas capaces de purificar emisiones, marcando un progreso decisivo en la reducción de impactos ambientales."
+  },
+  {
+    "intent_id": "catalizador_gases_contexto_ecologico",
+    "keywords": [
+      "catalizador",
+      "gases",
+      "motor",
+      "contaminacion",
+      "ambiente"
+    ],
+    "base_response": "El catalizador de gases del motor reduce sustancias contaminantes antes de liberarlas al ambiente. Su funcionamiento disminuye la carga tóxica que afecta aire, suelo y seres vivos, favoreciendo ecosistemas más saludables y mitigando impactos negativos derivados del uso cotidiano de vehículos motorizados."
+  },
+  {
+    "intent_id": "catalizador_gases_aplicaciones_practicas",
+    "keywords": [
+      "catalizador",
+      "gases",
+      "motor",
+      "combustion",
+      "purificar"
+    ],
+    "base_response": "El catalizador de gases del motor reduce contaminantes transformándolos en compuestos menos dañinos antes de salir al ambiente. Su aplicación práctica permite circular con menor impacto ambiental, cumplir normas de emisiones y mantener el vehículo funcionando de manera más limpia y responsable en la vida diaria."
+  },
+  {
+    "intent_id": "catalizador_gases_importancia_impacto_social",
+    "keywords": [
+      "catalizador",
+      "gases",
+      "motor",
+      "contaminacion",
+      "ambiente"
+    ],
+    "base_response": "El catalizador de gases del motor reduce emisiones dañinas que afectan la salud pública y el ambiente. Su funcionamiento disminuye la contaminación urbana, mejora la calidad del aire y contribuye al bienestar colectivo, mostrando cómo la tecnología automotriz influye directamente en la vida social moderna."
+  },
+  {
+    "intent_id": "catalizador_gases_ventajas_desventajas_comparativas",
+    "keywords": [
+      "catalizador",
+      "gases",
+      "motor",
+      "emision",
+      "contaminacion"
+    ],
+    "base_response": "El catalizador de gases reduce significativamente la contaminación al transformar emisiones tóxicas en compuestos menos dañinos. Su ventaja principal es mejorar la calidad del aire, mientras su desventaja radica en el costo elevado y la posible pérdida ligera de rendimiento del motor en ciertas condiciones."
+  },
+  {
+    "intent_id": "catalizador_gases_riesgos_seguridad",
+    "keywords": [
+      "catalizador",
+      "gases",
+      "temperatura",
+      "quemadura",
+      "manipular"
+    ],
+    "base_response": "El catalizador alcanza temperaturas muy altas que pueden causar quemaduras graves si se manipula sin protección. Evita tocarlo tras usar el motor, emplea guantes resistentes al calor y asegúrate de trabajar en un área ventilada para reducir la exposición a gases peligrosos liberados accidentalmente."
+  },
+  {
+    "intent_id": "catalizador_gases_clasificacion_taxonomica",
+    "keywords": [
+      "catalizador",
+      "gases",
+      "motor",
+      "metales",
+      "conversion"
+    ],
+    "base_response": "El catalizador de gases del motor se clasifica taxonómicamente según los metales activos que integran su estructura. Estos metales, como platino, paladio o rodio, determinan su capacidad para convertir contaminantes en compuestos menos dañinos mediante reacciones químicas controladas."
+  },
+  {
+    "intent_id": "catalizador_gases_calculos_conversion",
+    "keywords": [
+      "catalizador",
+      "gases",
+      "motor",
+      "conversion",
+      "temperatura"
+    ],
+    "base_response": "El catalizador permite estimar la conversión de gases usando la fórmula de eficiencia, calculada como diferencia entre concentraciones de entrada y salida dividida por la concentración inicial. También se relaciona con la temperatura del flujo, que influye directamente en la velocidad de reacción y el rendimiento químico."
+  },
+  {
+    "intent_id": "catalizador_gases_mitos_concepciones_erroneas",
+    "keywords": [
+      "catalizador",
+      "gases",
+      "motor",
+      "combustion",
+      "contaminacion"
+    ],
+    "base_response": "Muchos creen que el catalizador aumenta la potencia del motor o elimina totalmente la contaminación, pero ambos mitos son incorrectos. El catalizador solo transforma gases dañinos en compuestos menos tóxicos y no modifica la fuerza del motor ni vuelve inocuas todas las emisiones."
+  },
+  {
+    "intent_id": "catalizador_gases_interaccion_sistemas",
+    "keywords": [
+      "catalizador",
+      "gases",
+      "motor",
+      "combustion",
+      "purificar"
+    ],
+    "base_response": "El catalizador mantiene una relación simbiótica con el sistema de escape y el motor, transformando gases nocivos generados durante la combustión en compuestos menos dañinos. Su eficiencia depende del flujo adecuado de gases y de la mezcla aire‑combustible regulada por sensores y la electrónica del vehículo."
+  },
+  {
+    "intent_id": "catalizador_gases_transformacion_energetica",
+    "keywords": [
+      "catalizador",
+      "gases",
+      "energia",
+      "combustion",
+      "conversion"
+    ],
+    "base_response": "El catalizador transforma la energía química contenida en los gases del motor mediante reacciones que convierten sustancias tóxicas en compuestos menos dañinos. Este proceso aprovecha el calor generado por la combustión para activar cambios moleculares que mantienen eficiente el ciclo energético del vehículo."
+  },
+  {
+    "intent_id": "catalizador_gases_experimentos_escolares",
+    "keywords": [
+      "catalizador",
+      "gases",
+      "motor",
+      "reaccion",
+      "temperatura"
+    ],
+    "base_response": "El catalizador de gases puede demostrarse usando una maqueta que simule la reacción química. Emplea recipientes seguros con materiales que cambien de color al aumentar la temperatura, mostrando cómo un catalizador acelera la transformación de gases contaminantes en compuestos menos dañinos."
+  },
+  {
+    "intent_id": "catalizador_gases_consecuencias_largo_plazo",
+    "keywords": [
+      "catalizador",
+      "gases",
+      "motor",
+      "contaminacion",
+      "funcionamiento"
+    ],
+    "base_response": "El catalizador de gases influye en la calidad del aire a largo plazo. Cuando funciona correctamente reduce contaminantes que dañan ecosistemas y salud humana. Si se deteriora, aumenta emisiones nocivas y acelera el desgaste del motor, generando impactos ambientales persistentes y mayores costos de mantenimiento futuro."
+  },
+  {
+    "intent_id": "catalizador_gases_impacto_ambiental",
+    "keywords": [
+      "catalizador",
+      "gases",
+      "motor",
+      "contaminacion",
+      "conversion"
+    ],
+    "base_response": "El catalizador de gases del motor reduce significativamente la contaminación al transformar compuestos tóxicos en emisiones menos dañinas. Su acción química disminuye la liberación de óxidos nocivos y partículas peligrosas, contribuyendo a mejorar la calidad del aire y mitigar efectos negativos sobre ecosistemas urbanos y naturales."
+  },
+  {
+    "intent_id": "catalizador_gases_mantenimiento_prevencion",
+    "keywords": [
+      "catalizador",
+      "gases",
+      "motor",
+      "mantenimiento",
+      "limpieza"
+    ],
+    "base_response": "El catalizador requiere revisiones periódicas para evitar obstrucciones que reduzcan su eficiencia. Mantener el motor bien afinado disminuye la acumulación de residuos y prolonga la vida útil del componente. Verificar fugas y asegurar combustión adecuada previene daños costosos y fallas ambientales."
+  },
+  {
+    "intent_id": "catalizador_gases_proyecciones_tecnologicas",
+    "keywords": [
+      "catalizador",
+      "gases",
+      "motor",
+      "tecnologia",
+      "innovacion"
+    ],
+    "base_response": "Los catalizadores futuros integrarán materiales avanzados capaces de transformar gases con mayor eficiencia. Incorporarán sensores inteligentes que ajustarán su actividad en tiempo real y sistemas de autolimpieza que prolongarán su vida útil, impulsando motores más limpios y sostenibles en diversas condiciones operativas."
+  },
+  {
+    "intent_id": "silenciador_ruidos_motor_definicion_estructural",
+    "keywords": [
+      "silenciador",
+      "motor",
+      "escape",
+      "camara",
+      "tubo"
+    ],
+    "base_response": "El silenciador es un componente tubular del sistema de escape que contiene cámaras internas diseñadas para dispersar y atenuar las ondas sonoras generadas por el motor. Su estructura metálica incluye conductos y deflectores que redirigen los gases, reduciendo la intensidad del ruido emitido al exterior."
+  },
+  {
+    "intent_id": "silenciador_ruidos_dinamica_funcionamiento",
+    "keywords": [
+      "silenciador",
+      "motor",
+      "escape",
+      "vibracion",
+      "amortiguar"
+    ],
+    "base_response": "El silenciador reduce el ruido del motor controlando la dinámica de los gases de escape. Sus cámaras internas amortiguan vibraciones y dispersan ondas sonoras, disminuyendo su intensidad. Este proceso aprovecha cambios de presión y dirección para transformar energía acústica en calor y movimiento menos perceptible."
+  },
+  {
+    "intent_id": "silenciador_ruidos_motor_propiedades_materiales",
+    "keywords": [
+      "silenciador",
+      "metal",
+      "corrosion",
+      "temperatura",
+      "resistencia"
+    ],
+    "base_response": "El silenciador utiliza metales resistentes a la corrosión y altas temperaturas para soportar gases calientes del motor. Sus materiales deben mantener estabilidad química, evitar reacciones dañinas y conservar rigidez estructural, garantizando una reducción eficaz del ruido sin degradarse rápidamente durante el funcionamiento continuo."
+  },
+  {
+    "intent_id": "silenciador_ruidos_motor_fallas_comunes",
+    "keywords": [
+      "silenciador",
+      "motor",
+      "corrosion",
+      "vibracion",
+      "obstruccion"
+    ],
+    "base_response": "El silenciador puede presentar corrosión por humedad, obstrucción interna por hollín, vibración excesiva por sujeciones flojas y fugas que alteran la presión de escape. Estas fallas generan ruidos anormales, pérdida de eficiencia y mayor desgaste en componentes cercanos del sistema de escape."
+  },
+  {
+    "intent_id": "silenciador_ruidos_motor_historia_origen_evolucion",
+    "keywords": [
+      "motor",
+      "escape",
+      "silenciador",
+      "ruido",
+      "tubo"
+    ],
+    "base_response": "El silenciador surgió a inicios del siglo XX para reducir el ruido del escape en motores crecientes en potencia. Su diseño evolucionó desde simples cámaras metálicas hasta sistemas internos más complejos que combinan deflectores y materiales absorbentes, mejorando la eficiencia acústica y adaptándose a nuevas tecnologías automotrices."
+  },
+  {
+    "intent_id": "silenciador_ruidos_motor_contexto_ecologico",
+    "keywords": [
+      "silenciador",
+      "motor",
+      "emision",
+      "contaminacion",
+      "ecosistema"
+    ],
+    "base_response": "El silenciador reduce el ruido del motor para disminuir la contaminación acústica que afecta a personas y animales. Su función contribuye a mantener ecosistemas urbanos más saludables, evitando estrés en la fauna y mejorando la calidad ambiental en zonas donde circulan numerosos vehículos."
+  },
+  {
+    "intent_id": "silenciador_ruidos_motor_aplicaciones_practicas",
+    "keywords": [
+      "silenciador",
+      "motor",
+      "escape",
+      "ruido",
+      "funcionar"
+    ],
+    "base_response": "El silenciador reduce el ruido del motor para permitir una conducción más cómoda y segura. Su diseño controla vibraciones y gases del escape, ayudando a cumplir normas de sonido en la vía pública. Esta función mejora la convivencia urbana y evita molestias en espacios residenciales."
+  },
+  {
+    "intent_id": "silenciador_ruidos_motor_importancia_impacto_social",
+    "keywords": [
+      "silenciador",
+      "ruido",
+      "motor",
+      "contaminacion",
+      "comunidad"
+    ],
+    "base_response": "El silenciador reduce el ruido del motor y mejora la convivencia urbana. Su funcionamiento disminuye la contaminación acústica, protege la salud auditiva y favorece la concentración escolar. También contribuye a una movilidad más respetuosa, fortaleciendo la calidad de vida en comunidades densamente pobladas."
+  },
+  {
+    "intent_id": "silenciador_ruidos_motor_ventajas_desventajas",
+    "keywords": [
+      "silenciador",
+      "ruido",
+      "motor",
+      "escape",
+      "funcionar"
+    ],
+    "base_response": "El silenciador reduce notablemente el ruido del motor y mejora la comodidad auditiva del conductor. Sin embargo, puede generar ligera pérdida de potencia y requerir mantenimiento periódico. Su diseño equilibra eficiencia acústica y rendimiento, ofreciendo beneficios claros pero con compromisos mecánicos inevitables."
+  },
+  {
+    "intent_id": "silenciador_ruidos_motor_riesgos_seguridad",
+    "keywords": [
+      "silenciador",
+      "motor",
+      "escape",
+      "ruido",
+      "seguridad"
+    ],
+    "base_response": "El silenciador del motor puede calentarse intensamente y liberar gases peligrosos. Manipularlo sin protección provoca quemaduras y exposición a sustancias tóxicas. Verificar su fijación evita desprendimientos durante la marcha. Usar guantes, mantener distancia y revisar fugas garantiza una intervención segura en el sistema de escape."
+  },
+  {
+    "intent_id": "silenciador_ruidos_motor_clasificacion_taxonomica",
+    "keywords": [
+      "silenciador",
+      "escape",
+      "motor",
+      "ruido",
+      "absorcion"
+    ],
+    "base_response": "El silenciador de ruidos del motor se clasifica taxonómicamente como un componente del sistema de escape. Agrupa dispositivos diseñados para atenuar vibraciones y ondas sonoras mediante cámaras internas y materiales de absorción, organizándose según su estructura, función acústica y nivel de reducción sonora."
+  },
+  {
+    "intent_id": "silenciador_ruidos_motor_calculos_acusticos",
+    "keywords": [
+      "silenciador",
+      "motor",
+      "presion",
+      "flujo",
+      "sonido"
+    ],
+    "base_response": "El silenciador reduce el ruido del motor aplicando cálculos de presión y flujo de gases. Se emplea la fórmula de atenuación acústica A=10·log(P1/P2) para estimar cuánto disminuye la energía sonora entre la entrada y la salida, optimizando el diseño interno del conducto."
+  },
+  {
+    "intent_id": "silenciador_ruidos_motor_mitos_concepciones_erroneas",
+    "keywords": [
+      "motor",
+      "silenciador",
+      "ruido",
+      "escape",
+      "funcionar"
+    ],
+    "base_response": "Muchos creen que el silenciador elimina totalmente el ruido del motor, pero solo reduce vibraciones y ondas sonoras. También se piensa que aumenta la potencia, cuando en realidad su función principal es controlar el sonido sin afectar significativamente el rendimiento general del sistema de escape."
+  },
+  {
+    "intent_id": "silenciador_ruidos_interaccion_sistemas",
+    "keywords": [
+      "silenciador",
+      "motor",
+      "escape",
+      "vibracion",
+      "flujo"
+    ],
+    "base_response": "El silenciador trabaja en simbiosis con el sistema de escape y el motor al regular el flujo de gases y disminuir vibraciones. Esta relación permite mantener estabilidad acústica, mejorar la eficiencia del escape y proteger componentes cercanos que dependen de un ambiente controlado para funcionar correctamente."
+  },
+  {
+    "intent_id": "silenciador_ruidos_transformacion_energetica",
+    "keywords": [
+      "motor",
+      "energia",
+      "combustion",
+      "gases",
+      "amortiguar"
+    ],
+    "base_response": "El silenciador transforma parte de la energía sonora generada por los gases de combustión en vibraciones controladas que se dispersan dentro de cámaras internas. Este proceso reduce el ruido al amortiguar ondas energéticas, permitiendo que el ciclo del motor mantenga su eficiencia sin liberar sonido excesivo al exterior."
+  },
+  {
+    "intent_id": "silenciador_ruidos_experimentos_escolares",
+    "keywords": [
+      "silenciador",
+      "ruido",
+      "motor",
+      "tubo",
+      "vibracion"
+    ],
+    "base_response": "El silenciador puede demostrarse usando un tubo con orificios y materiales absorbentes que atenúan vibraciones. Los estudiantes comparan el sonido del aire al pasar por un tubo vacío y otro con relleno, observando cómo la estructura interna reduce la intensidad del ruido generado por el flujo."
+  },
+  {
+    "intent_id": "silenciador_ruidos_motor_consecuencias_largo_plazo",
+    "keywords": [
+      "silenciador",
+      "ruido",
+      "motor",
+      "corrosion",
+      "desgaste"
+    ],
+    "base_response": "El silenciador deteriorado incrementa vibraciones y ruidos que afectan la estabilidad mecánica del motor. Con el tiempo, la corrosión interna reduce su capacidad de amortiguación, generando mayor desgaste en conexiones y soportes, lo que puede provocar fallas estructurales y costos elevados de reparación."
+  },
+  {
+    "intent_id": "silenciador_ruidos_motor_impacto_ambiental",
+    "keywords": [
+      "silenciador",
+      "motor",
+      "emision",
+      "contaminacion",
+      "ruido"
+    ],
+    "base_response": "El silenciador reduce el ruido del motor y contribuye a disminuir la contaminación acústica en zonas urbanas. Al controlar vibraciones y ondas sonoras, evita estrés en la fauna cercana y mejora la calidad ambiental. Su mantenimiento adecuado asegura menor impacto negativo en el entorno."
+  },
+  {
+    "intent_id": "silenciador_ruidos_mantenimiento_prevencion",
+    "keywords": [
+      "silenciador",
+      "motor",
+      "ruido",
+      "corrosion",
+      "limpiar"
+    ],
+    "base_response": "El silenciador del motor requiere revisiones periódicas para evitar corrosión y acumulación de residuos que aumentan el ruido. Mantener sus uniones firmes y limpiar conductos reduce vibraciones y fugas. Un cuidado constante prolonga su vida útil y previene fallas que afectan el rendimiento general."
+  },
+  {
+    "intent_id": "silenciador_ruidos_motor_proyecciones_tecnologicas",
+    "keywords": [
+      "silenciador",
+      "motor",
+      "tecnologia",
+      "innovacion",
+      "sonido"
+    ],
+    "base_response": "Los silenciadores futuros integrarán materiales inteligentes y sistemas activos capaces de ajustar el sonido del motor en tiempo real. Estas tecnologías permitirán reducir emisiones acústicas, mejorar eficiencia energética y ofrecer configuraciones personalizadas que optimicen la experiencia de conducción mediante control digital avanzado."
+  },
+  {
+    "intent_id": "sensor_detonacion_definicion_estructural",
+    "keywords": [
+      "sensor",
+      "detonacion",
+      "motor",
+      "vibracion",
+      "estructura"
+    ],
+    "base_response": "El sensor de detonación es un componente compacto fijado al bloque del motor que contiene un elemento piezoeléctrico sensible a vibraciones. Su estructura metálica protege el cristal interno que transforma las ondas de choque en señales eléctricas para alertar sobre combustiones anómalas."
+  },
+  {
+    "intent_id": "sensor_detonacion_dinamica_funcionamiento",
+    "keywords": [
+      "sensor",
+      "detonacion",
+      "vibracion",
+      "motor",
+      "senal"
+    ],
+    "base_response": "El sensor de detonación detecta vibraciones anómalas generadas por combustiones irregulares dentro del motor. Su elemento piezoeléctrico convierte esas vibraciones en una señal eléctrica que la unidad de control interpreta para ajustar el encendido y evitar daños internos."
+  },
+  {
+    "intent_id": "sensor_detonacion_propiedades_materiales",
+    "keywords": [
+      "sensor",
+      "detonacion",
+      "ceramica",
+      "vibracion",
+      "material"
+    ],
+    "base_response": "El sensor de detonación utiliza un elemento cerámico piezoeléctrico cuya estructura química permite transformar vibraciones en señales eléctricas. Su material interno responde a cambios bruscos de presión generados por combustión irregular, garantizando resistencia térmica y estabilidad funcional dentro del entorno del motor."
+  },
+  {
+    "intent_id": "sensor_detonacion_fallas_comunes",
+    "keywords": [
+      "sensor",
+      "detonacion",
+      "motor",
+      "vibracion",
+      "fallas"
+    ],
+    "base_response": "El sensor de detonación puede fallar por envejecimiento, suciedad o daños en su cableado. Estas fallas provocan lecturas incorrectas que confunden a la unidad de control, generando pérdida de potencia, aumento del consumo y riesgo de golpeteo interno que afecta la salud del motor."
+  },
+  {
+    "intent_id": "sensor_detonacion_historia_evolucion",
+    "keywords": [
+      "sensor",
+      "detonacion",
+      "motor",
+      "tecnologia",
+      "vibracion"
+    ],
+    "base_response": "El sensor de detonación surgió cuando los motores modernos exigieron controlar golpes internos dañinos. Inicialmente se usaron métodos acústicos simples, pero la evolución tecnológica permitió sensores piezoeléctricos capaces de detectar vibraciones precisas. Su desarrollo mejoró la eficiencia y protección del motor contemporáneo."
+  },
+  {
+    "intent_id": "sensor_detonacion_contexto_ecologico",
+    "keywords": [
+      "sensor",
+      "detonacion",
+      "motor",
+      "combustion",
+      "emision"
+    ],
+    "base_response": "El sensor de detonación contribuye al cuidado ambiental al permitir que el motor ajuste la combustión y evite explosiones internas que generan emisiones contaminantes adicionales. Su función ayuda a mantener una operación más limpia, eficiente y estable dentro del entorno ecológico vehicular."
+  },
+  {
+    "intent_id": "sensor_detonacion_aplicaciones_practicas",
+    "keywords": [
+      "sensor",
+      "detonacion",
+      "motor",
+      "vibracion",
+      "control"
+    ],
+    "base_response": "El sensor de detonación permite que el motor ajuste automáticamente la chispa cuando detecta vibraciones anómalas. Esta aplicación práctica evita daños internos, mejora la eficiencia en carretera, reduce el consumo de combustible y mantiene un funcionamiento estable incluso bajo cargas exigentes o combustibles de menor calidad."
+  },
+  {
+    "intent_id": "sensor_detonacion_importancia_impacto_social",
+    "keywords": [
+      "sensor",
+      "detonacion",
+      "motor",
+      "seguridad",
+      "funcionamiento"
+    ],
+    "base_response": "El sensor de detonación influye directamente en la seguridad vial al evitar daños graves en el motor. Su correcto funcionamiento reduce fallas inesperadas, disminuye costos de reparación y favorece la movilidad confiable, impactando positivamente a familias, servicios públicos y actividades productivas que dependen del transporte diario."
+  },
+  {
+    "intent_id": "sensor_detonacion_ventajas_desventajas",
+    "keywords": [
+      "sensor",
+      "detonacion",
+      "motor",
+      "control",
+      "combustion"
+    ],
+    "base_response": "El sensor de detonación ofrece ventaja al proteger el motor ajustando la combustión ante golpes indeseados. Sin embargo, puede presentar desventajas como fallas que alteran el control del encendido. Comparado con sistemas sin sensor, mejora eficiencia pero añade complejidad y posibles costos adicionales."
+  },
+  {
+    "intent_id": "sensor_detonacion_riesgos_seguridad",
+    "keywords": [
+      "sensor",
+      "detonacion",
+      "motor",
+      "vibracion",
+      "fallo"
+    ],
+    "base_response": "El sensor de detonación puede fallar y permitir golpes internos peligrosos en el motor. Para evitar daños, se debe revisar su conexión, evitar cables sueltos y mantener el componente limpio. Una detección incorrecta puede generar sobrecalentamiento y comprometer la seguridad del vehículo."
+  },
+  {
+    "intent_id": "sensor_detonacion_clasificacion_taxonomica",
+    "keywords": [
+      "sensor",
+      "detonacion",
+      "motor",
+      "vibracion",
+      "deteccion"
+    ],
+    "base_response": "El sensor de detonación se clasifica taxonómicamente como un transductor piezoeléctrico especializado. Convierte vibraciones mecánicas del motor en señales eléctricas que permiten identificar detonaciones anómalas. Su estructura funcional lo ubica dentro de los dispositivos de detección vibratoria automotriz."
+  },
+  {
+    "intent_id": "sensor_detonacion_calculos_frecuencia",
+    "keywords": [
+      "sensor",
+      "detonacion",
+      "motor",
+      "frecuencia",
+      "vibracion"
+    ],
+    "base_response": "El cálculo de la detonación usa la frecuencia de vibración del bloque del motor. Se aplica la fórmula f = 1/T, donde T es el periodo de la señal captada. Al comparar esta frecuencia con el rango típico de golpeteo, la unidad de control determina si ocurre detonación."
+  },
+  {
+    "intent_id": "sensor_detonacion_mitos_concepciones_erroneas",
+    "keywords": [
+      "sensor",
+      "detonacion",
+      "motor",
+      "vibracion",
+      "diagnosticar"
+    ],
+    "base_response": "Muchos creen que el sensor de detonación solo detecta golpes fuertes, pero realmente identifica vibraciones específicas que indican combustión anómala. También es falso pensar que falla por cualquier ruido externo; su calibración distingue señales reales para diagnosticar problemas internos del motor con precisión."
+  },
+  {
+    "intent_id": "sensor_detonacion_relacion_simbiotica_sistemas",
+    "keywords": [
+      "sensor",
+      "detonacion",
+      "motor",
+      "combustion",
+      "sincronizar"
+    ],
+    "base_response": "El sensor de detonación mantiene una relación simbiótica con la unidad de control del motor al detectar vibraciones anómalas y permitir ajustes inmediatos en la combustión. Esta interacción asegura sincronización precisa, evita daños internos y optimiza el rendimiento general del sistema automotriz."
+  },
+  {
+    "intent_id": "sensor_detonacion_transformacion_energetica",
+    "keywords": [
+      "sensor",
+      "detonacion",
+      "energia",
+      "combustion",
+      "vibracion"
+    ],
+    "base_response": "El sensor de detonación permite identificar explosiones anómalas que alteran la transformación de energía dentro del motor. Al detectar vibraciones intensas, ayuda a ajustar la combustión para mantener un ciclo energético estable, evitando pérdidas de potencia y mejorando la eficiencia del proceso térmico."
+  },
+  {
+    "intent_id": "sensor_detonacion_experimentos_escolares",
+    "keywords": [
+      "sensor",
+      "detonacion",
+      "motor",
+      "vibracion",
+      "medicion"
+    ],
+    "base_response": "El sensor de detonación puede explorarse mediante una demostración que simule vibraciones en un motor escolar. Usar un pequeño generador de vibración y un micrófono piezoeléctrico permite observar cómo las señales cambian cuando aumenta la intensidad, explicando la detección de golpes internos."
+  },
+  {
+    "intent_id": "sensor_detonacion_consecuencias_largo_plazo",
+    "keywords": [
+      "sensor",
+      "detonacion",
+      "motor",
+      "fallo",
+      "desgaste"
+    ],
+    "base_response": "El fallo prolongado del sensor de detonación provoca golpes internos constantes que aceleran el desgaste del motor. Con el tiempo, las piezas móviles pierden precisión, aumenta la temperatura operativa y se reduce la eficiencia general, generando daños costosos y disminuyendo significativamente la vida útil del sistema."
+  },
+  {
+    "intent_id": "sensor_detonacion_impacto_ambiental",
+    "keywords": [
+      "sensor",
+      "detonacion",
+      "motor",
+      "emision",
+      "combustion"
+    ],
+    "base_response": "El sensor de detonación ayuda a reducir emisiones contaminantes al permitir una combustión más controlada. Al detectar golpes internos, ajusta el encendido y evita mezclas ineficientes que generan más gases nocivos. Su funcionamiento contribuye a disminuir la huella ambiental del motor en uso cotidiano."
+  },
+  {
+    "intent_id": "sensor_detonacion_mantenimiento_prevencion",
+    "keywords": [
+      "sensor",
+      "detonacion",
+      "motor",
+      "vibracion",
+      "diagnostico"
+    ],
+    "base_response": "El sensor de detonación requiere inspección periódica para evitar fallas que alteren la combustión. Revisar su conexión, limpiar residuos y verificar señales de vibración permite prevenir daños mayores en el motor. Un diagnóstico temprano asegura funcionamiento estable y reduce riesgos de averías costosas."
+  },
+  {
+    "intent_id": "sensor_detonacion_proyecciones_tecnologicas",
+    "keywords": [
+      "sensor",
+      "detonacion",
+      "motor",
+      "tecnologia",
+      "innovacion"
+    ],
+    "base_response": "Los sensores de detonación evolucionarán hacia sistemas inteligentes capaces de anticipar vibraciones anómalas mediante algoritmos avanzados. Integrarán materiales piezoeléctricos más sensibles y comunicación directa con unidades de control predictivas, optimizando la combustión y reduciendo fallas mediante análisis continuo del comportamiento del motor."
+  },
+  {
+    "intent_id": "valvula_pcv_definicion_estructural",
+    "keywords": [
+      "valvula",
+      "motor",
+      "gases",
+      "carcasa",
+      "flujo"
+    ],
+    "base_response": "La válvula PCV es un componente pequeño ubicado en la tapa de válvulas del motor. Posee un cuerpo metálico o plástico con un conducto interno que regula el flujo de gases del cárter hacia la admisión. Su estructura permite controlar presión y evitar acumulaciones dañinas."
+  },
+  {
+    "intent_id": "valvula_pcv_dinamica_funcionamiento_fisico",
+    "keywords": [
+      "valvula",
+      "motor",
+      "presion",
+      "gases",
+      "flujo"
+    ],
+    "base_response": "La válvula PCV regula el flujo de gases desde el cárter hacia la admisión usando diferencias de presión. Su mecanismo interno abre o cierra según el vacío generado por el motor, controlando la recirculación y evitando acumulación excesiva de vapores que alteren el equilibrio físico del sistema."
+  },
+  {
+    "intent_id": "valvula_pcv_propiedades_materiales",
+    "keywords": [
+      "valvula",
+      "pcv",
+      "material",
+      "corrosion",
+      "temperatura"
+    ],
+    "base_response": "La válvula PCV utiliza materiales resistentes a la corrosión y a temperaturas elevadas para soportar vapores químicos del cárter. Su cuerpo suele fabricarse en polímeros o metales tratados que evitan degradación, mientras el resorte interno mantiene estabilidad química frente a hidrocarburos y ácidos presentes en los gases del motor."
+  },
+  {
+    "intent_id": "valvula_pcv_fallas_comunes",
+    "keywords": [
+      "valvula",
+      "pcv",
+      "motor",
+      "obstruccion",
+      "presion"
+    ],
+    "base_response": "La válvula PCV puede fallar por obstrucción interna, generando aumento de presión en el cárter y fugas de aceite. También puede trabarse abierta, provocando mezcla de aire no controlada, ralentí inestable y mayor consumo. Estas fallas afectan la ventilación adecuada de gases del motor."
+  },
+  {
+    "intent_id": "valvula_pcv_historia_origen_evolucion",
+    "keywords": [
+      "valvula",
+      "motor",
+      "ventilacion",
+      "emision",
+      "combustion"
+    ],
+    "base_response": "La válvula PCV surgió en los años sesenta para controlar vapores internos del motor. Su origen responde a la necesidad de reducir emisiones contaminantes. Con el tiempo evolucionó hacia diseños más eficientes que mejoran la ventilación del cárter y contribuyen al rendimiento general del motor automotriz."
+  },
+  {
+    "intent_id": "valvula_pcv_contexto_ecologico",
+    "keywords": [
+      "valvula",
+      "pcv",
+      "motor",
+      "emision",
+      "contaminacion"
+    ],
+    "base_response": "La válvula PCV reduce emisiones nocivas al recircular vapores internos del motor hacia la combustión. Este proceso disminuye la liberación de hidrocarburos al ambiente, mejora la calidad del aire y contribuye a un funcionamiento más limpio del vehículo dentro de su entorno ecológico."
+  },
+  {
+    "intent_id": "valvula_pcv_aplicaciones_practicas",
+    "keywords": [
+      "valvula",
+      "pcv",
+      "motor",
+      "gases",
+      "funcionar"
+    ],
+    "base_response": "La válvula PCV permite que los gases internos del motor regresen al sistema de admisión, evitando acumulaciones dañinas. Su funcionamiento correcto reduce emisiones, mejora el rendimiento y prolonga la vida útil del aceite, haciendo que el vehículo opere de manera más limpia y eficiente en el uso cotidiano."
+  },
+  {
+    "intent_id": "valvula_pcv_importancia_impacto_social",
+    "keywords": [
+      "valvula",
+      "motor",
+      "emision",
+      "contaminacion",
+      "funcion"
+    ],
+    "base_response": "La válvula PCV contribuye a reducir emisiones dañinas al controlar vapores internos del motor. Su correcto funcionamiento disminuye contaminación ambiental, mejora la salud comunitaria y promueve prácticas responsables en el mantenimiento vehicular, fortaleciendo la conciencia social sobre el cuidado del aire y la calidad de vida urbana."
+  },
+  {
+    "intent_id": "valvula_pcv_ventajas_desventajas_comparativas",
+    "keywords": [
+      "valvula",
+      "motor",
+      "ventilacion",
+      "gases",
+      "funcionar"
+    ],
+    "base_response": "La válvula PCV ofrece ventaja al controlar gases internos y mejorar la eficiencia del motor. Reduce emisiones y evita acumulación dañina. Como desventaja, puede obstruirse con residuos, generar fallas de funcionamiento y provocar pérdida de rendimiento si no recibe mantenimiento adecuado."
+  },
+  {
+    "intent_id": "valvula_pcv_riesgos_seguridad",
+    "keywords": [
+      "valvula",
+      "pcv",
+      "motor",
+      "vapores",
+      "mantenimiento"
+    ],
+    "base_response": "La válvula PCV puede generar riesgos si se obstruye, pues aumenta la presión interna del motor y libera vapores dañinos. Revisa su estado con frecuencia, evita manipularla con el motor caliente y utiliza guantes para prevenir quemaduras y exposición a residuos tóxicos."
+  },
+  {
+    "intent_id": "valvula_pcv_clasificacion_taxonomica",
+    "keywords": [
+      "valvula",
+      "pcv",
+      "motor",
+      "emision",
+      "ventilacion"
+    ],
+    "base_response": "La válvula PCV se clasifica como un componente del sistema de ventilación positiva del cárter dentro del motor automotriz. Pertenece al conjunto de dispositivos de control de emisiones, encargados de regular el flujo de gases internos y mantener condiciones adecuadas de funcionamiento mecánico."
+  },
+  {
+    "intent_id": "valvula_pcv_calculos_flujo_gases",
+    "keywords": [
+      "valvula",
+      "pcv",
+      "flujo",
+      "presion",
+      "gases"
+    ],
+    "base_response": "La válvula PCV regula el flujo de gases según la diferencia de presiones entre el cárter y la admisión. El cálculo básico emplea Q = k·ΔP, donde Q representa el caudal, k la constante de paso y ΔP la variación de presión que impulsa el movimiento interno."
+  },
+  {
+    "intent_id": "valvula_pcv_mitos_concepciones_erroneas",
+    "keywords": [
+      "valvula",
+      "pcv",
+      "motor",
+      "gases",
+      "funcionar"
+    ],
+    "base_response": "Muchos creen que la válvula PCV solo sirve para ventilar el motor, pero su función es controlar gases internos y evitar daños. También se piensa que puede eliminarse sin consecuencias, cuando en realidad su ausencia provoca acumulación de presión y contaminación del aceite, afectando el rendimiento general."
+  },
+  {
+    "intent_id": "valvula_pcv_interaccion_sistemas_motor",
+    "keywords": [
+      "valvula",
+      "pcv",
+      "motor",
+      "gases",
+      "recircular"
+    ],
+    "base_response": "La válvula PCV mantiene una relación simbiótica con el sistema de admisión y el sistema de emisiones al controlar el flujo de gases del cárter. Su acción coordinada reduce la presión interna, mejora la combustión y disminuye contaminantes, asegurando equilibrio funcional entre los subsistemas del motor."
+  },
+  {
+    "intent_id": "valvula_pcv_transformacion_ciclos_energeticos",
+    "keywords": [
+      "valvula",
+      "pcv",
+      "motor",
+      "gases",
+      "recircular"
+    ],
+    "base_response": "La válvula PCV participa en la transformación energética del motor al recircular gases del cárter hacia la admisión. Este proceso evita pérdidas de energía, estabiliza la combustión y mantiene un ciclo interno más eficiente, aprovechando residuos gaseosos que aún contienen potencial energético aprovechable."
+  },
+  {
+    "intent_id": "valvula_pcv_experimentos_demostraciones",
+    "keywords": [
+      "valvula",
+      "pcv",
+      "motor",
+      "vacio",
+      "flujo"
+    ],
+    "base_response": "La válvula PCV puede demostrarse usando una manguera conectada a una fuente de vacío escolar. Al acercar un pequeño trozo de papel a la entrada, los estudiantes observan cómo el flujo cambia al abrir o bloquear la válvula, evidenciando su función de controlar gases internos del motor."
+  },
+  {
+    "intent_id": "valvula_pcv_consecuencias_largo_plazo",
+    "keywords": [
+      "valvula",
+      "pcv",
+      "motor",
+      "aceite",
+      "carbon"
+    ],
+    "base_response": "La válvula PCV deteriorada provoca acumulación progresiva de carbonillas y humedad dentro del motor, generando lodos que reducen la lubricación. Con el tiempo, aumenta el desgaste de pistones y anillos, eleva el consumo de aceite y acelera fallas internas costosas en el sistema de combustión."
+  },
+  {
+    "intent_id": "valvula_pcv_impacto_ambiental",
+    "keywords": [
+      "valvula",
+      "pcv",
+      "emision",
+      "contaminante",
+      "combustion"
+    ],
+    "base_response": "La válvula PCV reduce emisiones contaminantes al evitar que vapores dañinos escapen al ambiente. Recircula gases del cárter hacia la combustión, disminuyendo hidrocarburos nocivos y mejorando la eficiencia del motor. Su funcionamiento adecuado contribuye a minimizar la huella ambiental del vehículo."
+  },
+  {
+    "intent_id": "valvula_pcv_mantenimiento_preventivo",
+    "keywords": [
+      "valvula",
+      "pcv",
+      "motor",
+      "carbonizacion",
+      "obstruccion"
+    ],
+    "base_response": "La válvula PCV requiere revisiones periódicas para evitar obstrucciones que aumenten la presión interna del motor. Su limpieza o reemplazo oportuno previene fugas, reduce la carbonización y mantiene la ventilación adecuada del cárter, asegurando un funcionamiento estable y prolongando la vida útil del motor."
+  },
+  {
+    "intent_id": "valvula_pcv_proyecciones_tecnologicas",
+    "keywords": [
+      "valvula",
+      "pcv",
+      "sensor",
+      "emision",
+      "motor"
+    ],
+    "base_response": "La válvula PCV evolucionará hacia sistemas inteligentes capaces de medir flujo y calidad de gases internos del motor. Integrará sensores avanzados y algoritmos predictivos que ajustarán su funcionamiento en tiempo real, mejorando eficiencia, reduciendo emisiones y prolongando la vida útil del conjunto mecánico."
+  },
+  {
+    "intent_id": "tapa_valvulas_definicion_estructural",
+    "keywords": [
+      "tapa",
+      "valvulas",
+      "motor",
+      "sellado",
+      "superficie"
+    ],
+    "base_response": "La tapa de válvulas es una cubierta rígida situada sobre la culata del motor. Protege el conjunto de válvulas y balancines, mantiene el aceite contenido y evita fugas. Su estructura suele ser metálica o plástica, diseñada para asegurar un sellado firme y resistente al calor."
+  },
+  {
+    "intent_id": "tapa_valvulas_dinamica_funcionamiento",
+    "keywords": [
+      "motor",
+      "valvula",
+      "sellado",
+      "aceite",
+      "vibracion"
+    ],
+    "base_response": "La tapa de válvulas controla el entorno físico donde operan las válvulas, manteniendo el aceite contenido mientras el motor vibra y cambia de temperatura. Su estructura evita fugas y permite que la presión interna se distribuya de forma estable durante el funcionamiento continuo del sistema."
+  },
+  {
+    "intent_id": "tapa_valvulas_propiedades_materiales",
+    "keywords": [
+      "metal",
+      "aleacion",
+      "resistencia",
+      "corrosion",
+      "temperatura"
+    ],
+    "base_response": "La tapa de válvulas utiliza aleaciones metálicas capaces de resistir altas temperaturas y evitar la corrosión generada por vapores del aceite. Sus materiales mantienen estabilidad química, impiden reacciones indeseadas y aseguran un sello confiable que protege el interior del motor durante su funcionamiento continuo."
+  },
+  {
+    "intent_id": "tapa_valvulas_fallas_comunes",
+    "keywords": [
+      "tapa",
+      "valvulas",
+      "motor",
+      "aceite",
+      "sellar"
+    ],
+    "base_response": "La tapa de válvulas puede presentar fugas de aceite cuando su junta se endurece o se rompe. También puede deformarse por exceso de temperatura, causando pérdida de sellado. Estos problemas generan suciedad, olor a quemado y disminución del rendimiento del motor al afectar la lubricación interna."
+  },
+  {
+    "intent_id": "tapa_valvulas_historia_origen_evolucion",
+    "keywords": [
+      "motor",
+      "valvula",
+      "cubierta",
+      "metal",
+      "sellar"
+    ],
+    "base_response": "La tapa de válvulas surgió como una cubierta metálica simple destinada a proteger el tren de válvulas. Con el avance del diseño automotriz, evolucionó hacia estructuras más resistentes y selladas que incorporan materiales ligeros y juntas mejoradas para controlar fugas y reducir la contaminación del aceite."
+  },
+  {
+    "intent_id": "tapa_valvulas_contexto_ecologico",
+    "keywords": [
+      "motor",
+      "tapa",
+      "valvulas",
+      "aceite",
+      "contaminacion"
+    ],
+    "base_response": "La tapa de válvulas contribuye al entorno ecológico al evitar fugas de aceite que contaminan suelo y agua. Su sellado adecuado reduce emisiones evaporativas y mantiene el motor limpio, disminuyendo residuos peligrosos y favoreciendo prácticas automotrices más responsables con el ambiente."
+  },
+  {
+    "intent_id": "tapa_valvulas_aplicaciones_practicas",
+    "keywords": [
+      "motor",
+      "tapa",
+      "valvulas",
+      "sellado",
+      "aceite"
+    ],
+    "base_response": "La tapa de válvulas protege el sistema superior del motor y evita fugas de aceite durante el funcionamiento. Su correcto sellado mantiene limpio el compartimiento, reduce riesgos de incendio y facilita el mantenimiento cotidiano al permitir revisar componentes sin contaminación externa."
+  },
+  {
+    "intent_id": "tapa_valvulas_importancia_social",
+    "keywords": [
+      "motor",
+      "valvula",
+      "seguridad",
+      "mantenimiento",
+      "contaminacion"
+    ],
+    "base_response": "La tapa de válvulas protege el motor y evita fugas que afectan la seguridad vial. Su buen estado reduce contaminación y promueve prácticas responsables de mantenimiento. Contribuye al funcionamiento confiable del vehículo, impactando directamente la movilidad cotidiana y el bienestar comunitario."
+  },
+  {
+    "intent_id": "tapa_valvulas_ventajas_desventajas_comparativas",
+    "keywords": [
+      "tapa",
+      "valvulas",
+      "motor",
+      "sellado",
+      "fugas"
+    ],
+    "base_response": "La tapa de válvulas ofrece ventaja al proteger el tren de válvulas y mantener el sellado del aceite, reduciendo fugas. Sin embargo, puede presentar desventajas cuando su material se deforma o su junta envejece, generando escapes de lubricante y pérdida de eficiencia en el funcionamiento del motor."
+  },
+  {
+    "intent_id": "tapa_valvulas_riesgos_seguridad",
+    "keywords": [
+      "tapa",
+      "valvulas",
+      "motor",
+      "aceite",
+      "manipular"
+    ],
+    "base_response": "La tapa de válvulas puede alcanzar altas temperaturas y liberar vapores de aceite al retirarse. Manipularla sin protección provoca quemaduras y exposición a sustancias irritantes. Usar guantes térmicos, evitar abrir con el motor caliente y mantener herramientas limpias reduce riesgos inmediatos durante el mantenimiento."
+  },
+  {
+    "intent_id": "tapa_valvulas_motor_clasificacion_taxonomica",
+    "keywords": [
+      "tapa",
+      "valvulas",
+      "motor",
+      "cubierta",
+      "sellado"
+    ],
+    "base_response": "La tapa de válvulas se clasifica como un componente estructural del sistema de culata. Pertenece al conjunto de cubiertas protectoras que aíslan mecanismos internos, asegurando sellado y contención del aceite. Su función taxonómica se ubica dentro de elementos de protección superior del motor."
+  },
+  {
+    "intent_id": "tapa_valvulas_calculo_presion_interna",
+    "keywords": [
+      "tapa",
+      "valvulas",
+      "motor",
+      "presion",
+      "sellado"
+    ],
+    "base_response": "La tapa de válvulas mantiene una presión interna que puede estimarse aplicando la fórmula P = F/A, donde la fuerza proviene de los gases en movimiento. Este cálculo permite verificar el sellado adecuado y evitar fugas que alteren la lubricación y el funcionamiento del motor."
+  },
+  {
+    "intent_id": "tapa_valvulas_mitos_concepciones_erroneas",
+    "keywords": [
+      "tapa",
+      "valvulas",
+      "motor",
+      "aceite",
+      "sellado"
+    ],
+    "base_response": "Muchos creen que la tapa de válvulas solo cubre piezas sin función técnica, pero realmente evita fugas de aceite y protege el tren de válvulas. También se piensa que cualquier tapa sirve, cuando su diseño y sellado específico son esenciales para mantener el motor limpio y eficiente."
+  },
+  {
+    "intent_id": "tapa_valvulas_interaccion_sistemas_motor",
+    "keywords": [
+      "tapa",
+      "valvulas",
+      "motor",
+      "aceite",
+      "sellado"
+    ],
+    "base_response": "La tapa de válvulas mantiene una relación simbiótica con el sistema de lubricación al resguardar el aceite que circula sobre el tren de válvulas. Su sellado adecuado evita fugas y permite que otros componentes funcionen con la lubricación correcta, asegurando estabilidad operativa conjunta."
+  },
+  {
+    "intent_id": "tapa_valvulas_transformacion_energetica",
+    "keywords": [
+      "motor",
+      "combustion",
+      "energia",
+      "ciclo",
+      "lubricacion"
+    ],
+    "base_response": "La tapa de válvulas contribuye a mantener estable el ciclo energético del motor al sellar la zona donde ocurre la transformación de energía química en movimiento. Controla fugas de aceite y gases, asegurando que la lubricación y la combustión funcionen de manera eficiente durante cada ciclo."
+  },
+  {
+    "intent_id": "tapa_valvulas_experimento_sello_hermetico",
+    "keywords": [
+      "tapa",
+      "valvulas",
+      "motor",
+      "sellado",
+      "aceite"
+    ],
+    "base_response": "La tapa de válvulas permite demostrar el concepto de sellado hermético usando un modelo escolar. Al cubrir una superficie con una lámina flexible y presionarla, los estudiantes observan cómo se evita la fuga de aceite simulado, comprendiendo la importancia del cierre adecuado en el motor."
+  },
+  {
+    "intent_id": "tapa_valvulas_consecuencias_largo_plazo",
+    "keywords": [
+      "motor",
+      "valvula",
+      "aceite",
+      "sellado",
+      "desgaste"
+    ],
+    "base_response": "La tapa de válvulas deteriorada provoca fugas de aceite que, con el tiempo, reducen la lubricación interna del motor. Esta pérdida constante incrementa el desgaste de componentes críticos, eleva la temperatura de operación y puede generar fallas permanentes que disminuyen la vida útil del sistema completo."
+  },
+  {
+    "intent_id": "tapa_valvulas_motor_impacto_ambiental",
+    "keywords": [
+      "motor",
+      "valvula",
+      "aceite",
+      "fuga",
+      "contaminacion"
+    ],
+    "base_response": "La tapa de válvulas evita fugas de aceite que pueden contaminar suelo y agua. Un sellado defectuoso permite que el lubricante escape y genere residuos peligrosos. Mantenerla en buen estado reduce emisiones evaporativas y disminuye la liberación de compuestos dañinos al ambiente."
+  },
+  {
+    "intent_id": "tapa_valvulas_mantenimiento_prevencion",
+    "keywords": [
+      "tapa",
+      "valvulas",
+      "motor",
+      "sellado",
+      "aceite"
+    ],
+    "base_response": "La tapa de válvulas requiere inspección periódica para evitar fugas de aceite que afecten el rendimiento del motor. Verificar el estado del empaque y ajustar los tornillos mantiene el sellado adecuado. Un mantenimiento preventivo evita acumulación de suciedad y daños en componentes internos."
+  },
+  {
+    "intent_id": "tapa_valvulas_proyecciones_tecnologicas",
+    "keywords": [
+      "motor",
+      "valvula",
+      "sensor",
+      "material",
+      "innovacion"
+    ],
+    "base_response": "La tapa de válvulas evolucionará hacia diseños inteligentes con sensores integrados capaces de monitorear fugas y temperatura. Incorporará materiales avanzados que reducirán peso y mejorarán resistencia. Estas mejoras permitirán motores más eficientes, limpios y adaptados a sistemas de diagnóstico automatizado en tiempo real."
+  },
+  {
+    "intent_id": "soporte_motor_definicion_estructural",
+    "keywords": [
+      "motor",
+      "soporte",
+      "estructura",
+      "chasis",
+      "vibracion"
+    ],
+    "base_response": "El soporte estructural del motor es un conjunto de piezas metálicas fijadas al chasis que sostienen el bloque y controlan la vibración. Su diseño integra bases rígidas y elementos amortiguadores que mantienen el motor alineado, estable y protegido frente a movimientos bruscos durante la operación vehicular."
+  },
+  {
+    "intent_id": "soporte_motor_dinamica_funcionamiento",
+    "keywords": [
+      "motor",
+      "vibracion",
+      "chasis",
+      "transmision",
+      "energia"
+    ],
+    "base_response": "El soporte estructural del motor estabiliza la masa del conjunto frente a vibraciones y fuerzas generadas durante la combustión. Controla el movimiento relativo entre motor y chasis, permitiendo una transferencia de energía más eficiente hacia la transmisión y evitando desplazamientos que afecten el funcionamiento físico del vehículo."
+  },
+  {
+    "intent_id": "soporte_motor_propiedades_materiales",
+    "keywords": [
+      "motor",
+      "soporte",
+      "acero",
+      "resistencia",
+      "corrosion"
+    ],
+    "base_response": "El soporte estructural del motor utiliza materiales con alta resistencia química para evitar corrosión y deformaciones. El acero y las aleaciones especiales mantienen estabilidad frente al calor, la humedad y los compuestos del combustible, asegurando que el motor permanezca firmemente sujeto durante su funcionamiento continuo."
+  },
+  {
+    "intent_id": "soporte_motor_fallas_estructurales",
+    "keywords": [
+      "motor",
+      "soporte",
+      "vibracion",
+      "fisura",
+      "desgaste"
+    ],
+    "base_response": "El soporte estructural del motor puede presentar fallas por desgaste excesivo, fisuras en sus bases o deformaciones por vibración continua. Estos problemas generan movimientos anormales del motor, ruidos fuertes y pérdida de estabilidad, afectando la seguridad y el rendimiento general del vehículo."
+  },
+  {
+    "intent_id": "soporte_motor_historia_evolucion",
+    "keywords": [
+      "motor",
+      "estructura",
+      "soporte",
+      "chasis",
+      "metal"
+    ],
+    "base_response": "El soporte estructural del motor surgió cuando los primeros vehículos necesitaban fijar el motor al chasis para evitar vibraciones peligrosas. Con el tiempo evolucionó desde simples placas metálicas hasta sistemas reforzados que integran materiales avanzados y diseños que mejoran estabilidad, seguridad y durabilidad vehicular."
+  },
+  {
+    "intent_id": "soporte_motor_contexto_ecologico",
+    "keywords": [
+      "motor",
+      "estructura",
+      "vibracion",
+      "material",
+      "contaminacion"
+    ],
+    "base_response": "El soporte estructural del motor influye en la reducción de vibraciones que afectan el entorno. Su diseño con materiales reciclables y procesos de fabricación limpios disminuye la contaminación. Una estructura eficiente contribuye a un funcionamiento estable que reduce emisiones y favorece prácticas automotrices más responsables."
+  },
+  {
+    "intent_id": "soporte_estructural_motor_aplicaciones_practicas",
+    "keywords": [
+      "motor",
+      "soporte",
+      "vibracion",
+      "chasis",
+      "estabilidad"
+    ],
+    "base_response": "El soporte estructural del motor mantiene la estabilidad del vehículo al absorber vibraciones y cargas durante el movimiento. Su función práctica permite que el motor opere sin desplazamientos bruscos, protege el chasis y asegura una conducción más segura en diferentes condiciones de uso cotidiano."
+  },
+  {
+    "intent_id": "soporte_motor_importancia_social",
+    "keywords": [
+      "motor",
+      "soporte",
+      "estructura",
+      "seguridad",
+      "funcionar"
+    ],
+    "base_response": "El soporte estructural del motor garantiza estabilidad y seguridad en la movilidad cotidiana. Su correcto funcionamiento reduce accidentes, facilita el transporte de personas y bienes, impulsa la actividad económica y mejora la calidad de vida al asegurar vehículos confiables para diversas necesidades comunitarias."
+  },
+  {
+    "intent_id": "soporte_motor_ventajas_desventajas",
+    "keywords": [
+      "motor",
+      "soporte",
+      "estructura",
+      "vibracion",
+      "estabilidad"
+    ],
+    "base_response": "El soporte estructural del motor ofrece estabilidad y reduce vibraciones, mejorando la comodidad y protegiendo componentes. Sin embargo, puede añadir peso y requerir materiales resistentes que elevan costos. Su diseño influye en la facilidad de mantenimiento y en la durabilidad general del conjunto mecanico."
+  },
+  {
+    "intent_id": "soporte_motor_riesgos_seguridad",
+    "keywords": [
+      "motor",
+      "soporte",
+      "estructura",
+      "vibracion",
+      "inspeccionar"
+    ],
+    "base_response": "El soporte estructural del motor exige revisar fijaciones y aislamientos para evitar desprendimientos peligrosos. Una vibración excesiva puede dañar componentes y generar accidentes. Inspeccionar tornillos, bases y gomas reduce riesgos y garantiza estabilidad durante el funcionamiento vehicular."
+  },
+  {
+    "intent_id": "soporte_motor_clasificacion_taxonomica",
+    "keywords": [
+      "motor",
+      "soporte",
+      "estructura",
+      "chasis",
+      "vibracion"
+    ],
+    "base_response": "El soporte estructural del motor se clasifica taxonómicamente según su función mecánica. Incluye elementos que fijan el motor al chasis, controlan vibraciones y distribuyen cargas. Esta clasificación permite identificar componentes esenciales y comprender cómo interactúan para mantener estabilidad y eficiencia operativa."
+  },
+  {
+    "intent_id": "soporte_motor_calculos_estructurales",
+    "keywords": [
+      "motor",
+      "soporte",
+      "carga",
+      "fuerza",
+      "estructura"
+    ],
+    "base_response": "El soporte estructural del motor requiere calcular la carga distribuida usando la fórmula carga igual peso dividido entre puntos de apoyo. También se aplica fuerza igual masa por aceleración para estimar esfuerzos dinámicos. Estos cálculos permiten dimensionar materiales que resistan vibraciones y movimientos constantes."
+  },
+  {
+    "intent_id": "soporte_motor_mitos_concepciones_erroneas",
+    "keywords": [
+      "motor",
+      "soporte",
+      "estructura",
+      "vibracion",
+      "funcion"
+    ],
+    "base_response": "Muchos creen que el soporte estructural del motor solo evita caídas, pero su función real incluye controlar vibraciones y mantener la alineación mecánica. Otro mito común afirma que cualquier soporte sirve, cuando en realidad cada diseño responde a cargas específicas y condiciones dinámicas del vehículo."
+  },
+  {
+    "intent_id": "soporte_motor_interaccion_sistemas",
+    "keywords": [
+      "motor",
+      "chasis",
+      "vibracion",
+      "transmision",
+      "estabilidad"
+    ],
+    "base_response": "El soporte estructural del motor mantiene una relación simbiótica con otros sistemas al absorber vibraciones y estabilizar el conjunto mecánico. Su función asegura que la transmisión opere con precisión y que el chasis conserve rigidez, permitiendo un desempeño equilibrado y seguro durante el movimiento vehicular."
+  },
+  {
+    "intent_id": "soporte_motor_transformacion_energetica",
+    "keywords": [
+      "motor",
+      "soporte",
+      "energia",
+      "vibracion",
+      "transferencia"
+    ],
+    "base_response": "El soporte estructural del motor influye en la transformación energética al mantener estable el bloque durante la conversión de energía química en movimiento. Su diseño controla vibraciones y asegura una transferencia eficiente de fuerzas, permitiendo que los ciclos energéticos del motor ocurran con estabilidad y menor pérdida mecánica."
+  },
+  {
+    "intent_id": "soporte_motor_experimentos_escolares",
+    "keywords": [
+      "motor",
+      "soporte",
+      "estructura",
+      "vibracion",
+      "estabilidad"
+    ],
+    "base_response": "El soporte estructural del motor puede demostrarse usando maquetas simples que simulen vibraciones. Los estudiantes observan cómo una base rígida mantiene la estabilidad del motor mientras una base débil provoca movimientos excesivos. Este experimento evidencia la importancia del soporte para evitar daños internos."
+  },
+  {
+    "intent_id": "soporte_motor_consecuencias_largo_plazo",
+    "keywords": [
+      "motor",
+      "soporte",
+      "estructura",
+      "vibracion",
+      "desgaste"
+    ],
+    "base_response": "El soporte estructural del motor influye directamente en la durabilidad del vehículo. Un soporte debilitado genera vibraciones constantes que aceleran el desgaste de componentes internos, provoca desalineaciones progresivas y aumenta la probabilidad de fallas mecánicas acumulativas que reducen significativamente la vida útil del sistema completo."
+  },
+  {
+    "intent_id": "soporte_motor_impacto_ambiental",
+    "keywords": [
+      "motor",
+      "soporte",
+      "estructura",
+      "vibracion",
+      "contaminacion"
+    ],
+    "base_response": "El soporte estructural del motor influye en la reducción de vibraciones que pueden aumentar el desgaste y el consumo energético. Un soporte eficiente disminuye emisiones indirectas al mejorar la estabilidad mecánica, favoreciendo un funcionamiento más limpio y reduciendo la generación de contaminantes asociados al esfuerzo excesivo del motor."
+  },
+  {
+    "intent_id": "soporte_motor_mantenimiento_preventivo",
+    "keywords": [
+      "motor",
+      "soporte",
+      "vibracion",
+      "corrosion",
+      "inspeccionar"
+    ],
+    "base_response": "El soporte estructural del motor requiere inspección periódica para evitar vibraciones excesivas y daños por corrosión. Verificar fijaciones, revisar desgaste de bujes y asegurar alineación correcta previene fallas mayores y mantiene la estabilidad del conjunto durante el funcionamiento vehicular."
+  },
+  {
+    "intent_id": "soporte_motor_proyecciones_tecnologicas",
+    "keywords": [
+      "motor",
+      "estructura",
+      "sensor",
+      "material",
+      "innovacion"
+    ],
+    "base_response": "El soporte estructural del motor evolucionará mediante materiales inteligentes capaces de adaptarse a vibraciones y cargas variables. Integrará sensores avanzados que monitorean tensiones en tiempo real, permitiendo ajustes automáticos y mayor durabilidad. Estas mejoras impulsarán motores más ligeros, eficientes y seguros."
+  },
+  {
+    "intent_id": "anillos_compresion_definicion_estructural",
+    "keywords": [
+      "anillo",
+      "piston",
+      "cilindro",
+      "sellado",
+      "friccion"
+    ],
+    "base_response": "Los anillos de compresión son aros metálicos instalados en las ranuras del pistón. Forman una barrera ajustada contra las paredes del cilindro, asegurando el sellado de la cámara de combustión. Su estructura rígida controla la fricción y mantiene la presión interna del motor."
+  },
+  {
+    "intent_id": "anillos_compresion_dinamica_funcionamiento",
+    "keywords": [
+      "anillo",
+      "compresion",
+      "cilindro",
+      "sellado",
+      "friccion"
+    ],
+    "base_response": "Los anillos de compresión mantienen el sellado entre pistón y cilindro, controlando la presión generada en cada combustión. Su ajuste limita fugas de gases y reduce la fricción, permitiendo que la energía liberada impulse el pistón con eficiencia y estabilidad durante el ciclo del motor."
+  },
+  {
+    "intent_id": "anillos_compresion_propiedades_materiales",
+    "keywords": [
+      "anillo",
+      "metal",
+      "resistencia",
+      "temperatura",
+      "friccion"
+    ],
+    "base_response": "Los anillos de compresión se fabrican con metales capaces de resistir altas temperaturas y fricción constante. Su composición química incluye aleaciones que mantienen dureza y estabilidad, evitando deformaciones. Estas propiedades permiten sellar eficazmente la cámara de combustión y conservar el rendimiento del motor."
+  },
+  {
+    "intent_id": "anillos_compresion_fallas_patologias",
+    "keywords": [
+      "anillos",
+      "compresion",
+      "desgaste",
+      "friccion",
+      "combustion"
+    ],
+    "base_response": "Los anillos de compresión pueden fallar por desgaste excesivo, acumulación de residuos o deformaciones causadas por fricción intensa. Estas fallas reducen la estanqueidad, permiten fugas de gases de combustión y disminuyen la potencia del motor, generando humo, pérdida de eficiencia y daños internos progresivos."
+  },
+  {
+    "intent_id": "anillos_compresion_historia_evolucion",
+    "keywords": [
+      "motor",
+      "anillo",
+      "compresion",
+      "metal",
+      "sellado"
+    ],
+    "base_response": "Los anillos de compresión surgieron con los primeros motores de combustión para mejorar el sellado entre pistón y cilindro. Su evolución incluyó metales más resistentes, diseños segmentados y tratamientos superficiales que aumentaron la eficiencia, redujeron fugas y permitieron mayores presiones internas en motores modernos."
+  },
+  {
+    "intent_id": "anillos_compresion_contexto_ecologico",
+    "keywords": [
+      "motor",
+      "combustion",
+      "anillo",
+      "desgaste",
+      "emision"
+    ],
+    "base_response": "Los anillos de compresión influyen en la eficiencia ambiental del motor al asegurar un sellado adecuado que reduce emisiones contaminantes. Cuando presentan desgaste, aumenta la fuga de gases y el consumo de aceite, generando mayor contaminación atmosférica y afectando negativamente los ecosistemas cercanos."
+  },
+  {
+    "intent_id": "anillos_compresion_aplicaciones_practicas",
+    "keywords": [
+      "motor",
+      "cilindro",
+      "sellado",
+      "combustion",
+      "presion"
+    ],
+    "base_response": "Los anillos de compresión permiten que el motor mantenga la presión adecuada dentro del cilindro, asegurando una combustión eficiente. Su correcto funcionamiento mejora la potencia del vehículo, reduce el consumo de combustible y evita fallas comunes que afectan el rendimiento diario del automóvil."
+  },
+  {
+    "intent_id": "anillos_compresion_importancia_impacto_social",
+    "keywords": [
+      "motor",
+      "anillo",
+      "compresion",
+      "combustion",
+      "eficiencia"
+    ],
+    "base_response": "Los anillos de compresión influyen en la eficiencia del motor y en la reducción de emisiones contaminantes. Su correcto funcionamiento favorece un consumo responsable de combustible, disminuye la contaminación ambiental y contribuye al bienestar social al mejorar la calidad del aire en comunidades urbanas y rurales."
+  },
+  {
+    "intent_id": "anillos_compresion_ventajas_desventajas",
+    "keywords": [
+      "anillo",
+      "compresion",
+      "motor",
+      "sellado",
+      "friccion"
+    ],
+    "base_response": "Los anillos de compresión ofrecen buen sellado y mejor eficiencia al mantener la presión interna del motor. Sin embargo, generan fricción adicional y desgaste si no están bien lubricados. Su diseño equilibrado permite un funcionamiento estable, aunque requiere mantenimiento cuidadoso para evitar pérdidas de rendimiento."
+  },
+  {
+    "intent_id": "anillos_compresion_motor_riesgos_seguridad",
+    "keywords": [
+      "anillos",
+      "compresion",
+      "motor",
+      "riesgo",
+      "seguridad"
+    ],
+    "base_response": "Los anillos de compresión pueden generar riesgos al manipular el motor debido a su alta temperatura y posible expulsión de gases. Mantener herramientas adecuadas, usar guantes resistentes y asegurar el motor apagado evita lesiones y garantiza una intervención segura en el sistema."
+  },
+  {
+    "intent_id": "anillos_compresion_calculos_presion",
+    "keywords": [
+      "motor",
+      "anillo",
+      "compresion",
+      "cilindro",
+      "sellar"
+    ],
+    "base_response": "Los anillos de compresión permiten estimar la presión efectiva del cilindro usando la relación P = F/A. La fuerza proviene del gas en combustión y el área corresponde al diámetro interno del cilindro. Estos cálculos ayudan a verificar sellado, eficiencia y pérdidas por fuga."
+  },
+  {
+    "intent_id": "anillos_compresion_mitos_concepciones_erroneas",
+    "keywords": [
+      "anillos",
+      "compresion",
+      "motor",
+      "friccion",
+      "sellado"
+    ],
+    "base_response": "Muchos creen que los anillos de compresión solo evitan fugas de aceite, pero su función principal es sellar la cámara de combustión. También se piensa que duran toda la vida del motor, cuando en realidad pueden desgastarse por fricción y perder eficiencia si no se mantiene una lubricación adecuada."
+  },
+  {
+    "intent_id": "anillos_compresion_relacion_simbiotica_sistemas",
+    "keywords": [
+      "anillo",
+      "piston",
+      "cilindro",
+      "sellar",
+      "combustion"
+    ],
+    "base_response": "Los anillos de compresión mantienen una relación simbiótica con el pistón, el cilindro y el sistema de combustión. Al sellar la cámara, permiten que la presión se distribuya correctamente, favoreciendo la eficiencia térmica y la coordinación entre lubricación, potencia y control de gases internos del motor."
+  },
+  {
+    "intent_id": "anillos_compresion_transformacion_energetica",
+    "keywords": [
+      "motor",
+      "combustion",
+      "energia",
+      "compresion",
+      "sellado"
+    ],
+    "base_response": "Los anillos de compresión permiten que la energía química del combustible se transforme en energía mecánica útil. Al asegurar un sellado firme en el cilindro, mantienen la presión necesaria para que la combustión genere un ciclo energético eficiente y estable dentro del motor."
+  },
+  {
+    "intent_id": "anillos_compresion_experimentos_escolares",
+    "keywords": [
+      "anillo",
+      "compresion",
+      "cilindro",
+      "sellado",
+      "friccion"
+    ],
+    "base_response": "Los anillos de compresión pueden demostrarse usando un tubo transparente, un pistón plástico y agua coloreada. Al mover el pistón con y sin una banda elástica simulando el anillo, los estudiantes observan cómo cambia el sellado y la presión interna, comprendiendo su función en el motor."
+  },
+  {
+    "intent_id": "anillos_compresion_consecuencias_largo_plazo",
+    "keywords": [
+      "motor",
+      "anillo",
+      "compresion",
+      "desgaste",
+      "combustion"
+    ],
+    "base_response": "El desgaste prolongado de los anillos de compresión reduce la eficiencia del motor, incrementa el consumo de aceite y provoca pérdida de potencia. Con el tiempo, la combustión se vuelve inestable, aumentando residuos internos y acelerando daños en cilindros que comprometen seriamente la vida útil del conjunto mecanico."
+  },
+  {
+    "intent_id": "anillos_compresion_impacto_ambiental",
+    "keywords": [
+      "motor",
+      "combustion",
+      "emision",
+      "desgaste",
+      "contaminacion"
+    ],
+    "base_response": "Los anillos de compresión influyen en la calidad de la combustión al sellar adecuadamente los gases. Cuando se desgastan, permiten fugas que incrementan emisiones contaminantes y consumo de aceite. Este deterioro eleva partículas nocivas liberadas al ambiente y reduce la eficiencia energética del motor."
+  },
+  {
+    "intent_id": "anillos_compresion_mantenimiento_prevencion",
+    "keywords": [
+      "anillo",
+      "compresion",
+      "motor",
+      "desgaste",
+      "lubricar"
+    ],
+    "base_response": "Los anillos de compresión requieren inspección periódica para evitar fugas de gases y pérdida de potencia. Mantener el motor bien lubricado reduce su desgaste y prolonga su vida útil. Revisar consumo de aceite y ruidos anormales permite detectar fallas tempranas y prevenir daños mayores."
+  },
+  {
+    "intent_id": "anillos_compresion_proyecciones_tecnologicas",
+    "keywords": [
+      "motor",
+      "anillos",
+      "compresion",
+      "materiales",
+      "innovacion"
+    ],
+    "base_response": "Los anillos de compresión evolucionarán mediante materiales avanzados y recubrimientos inteligentes capaces de reducir fricción y adaptarse a temperaturas extremas. La integración de sensores permitirá monitorear desgaste en tiempo real, optimizando eficiencia y prolongando la vida útil del motor con mayor precisión tecnológica."
+  },
+  {
+    "intent_id": "casquillos_bancada_definicion_estructural",
+    "keywords": [
+      "casquillo",
+      "bancada",
+      "motor",
+      "friccion",
+      "lubricacion"
+    ],
+    "base_response": "Los casquillos de bancada son piezas semicirculares metálicas instaladas entre el cigüeñal y el bloque del motor. Forman una superficie de apoyo que controla el movimiento rotatorio del cigüeñal, distribuye cargas y mantiene un espacio preciso para la lubricación que reduce la fricción interna."
+  },
+  {
+    "intent_id": "casquillos_bancada_dinamica_funcionamiento",
+    "keywords": [
+      "motor",
+      "friccion",
+      "rotacion",
+      "lubricacion",
+      "ciguenal"
+    ],
+    "base_response": "Los casquillos de bancada permiten que el cigüeñal gire suavemente dentro del motor. Su función física se basa en reducir la fricción mediante una película de lubricación que soporta cargas dinámicas. Mantienen la alineación del cigüeñal y aseguran un movimiento rotacional estable bajo esfuerzo continuo."
+  },
+  {
+    "intent_id": "casquillos_bancada_propiedades_materiales",
+    "keywords": [
+      "casquillo",
+      "bancada",
+      "metal",
+      "aleacion",
+      "resistencia"
+    ],
+    "base_response": "Los casquillos de bancada emplean aleaciones metálicas diseñadas para resistir altas temperaturas, presiones y reacciones químicas del aceite. Su composición controla la dureza, la resistencia al desgaste y la estabilidad frente a la corrosión, garantizando un soporte confiable para el cigüeñal en funcionamiento continuo."
+  },
+  {
+    "intent_id": "casquillos_bancada_fallas_comunes",
+    "keywords": [
+      "casquillo",
+      "bancada",
+      "desgaste",
+      "friccion",
+      "lubricacion"
+    ],
+    "base_response": "Los casquillos de bancada pueden fallar por desgaste excesivo causado por fricción continua, lubricación deficiente o contaminación del aceite. Estas fallas generan holguras anormales, pérdida de presión y daños en el cigüeñal. Detectarlas temprano evita averías mayores y mantiene la estabilidad del motor."
+  },
+  {
+    "intent_id": "casquillos_bancada_historia_evolucion",
+    "keywords": [
+      "motor",
+      "casquillo",
+      "friccion",
+      "lubricacion",
+      "metal"
+    ],
+    "base_response": "Los casquillos de bancada surgieron cuando los primeros motores exigieron soportes confiables para el cigüeñal. Evolucionaron desde simples piezas metálicas hasta diseños con aleaciones avanzadas que mejoraron la lubricación y redujeron la fricción, permitiendo motores más potentes y duraderos en la industria automotriz."
+  },
+  {
+    "intent_id": "casquillos_bancada_contexto_ecologico",
+    "keywords": [
+      "motor",
+      "casquillos",
+      "friccion",
+      "materiales",
+      "reciclaje"
+    ],
+    "base_response": "Los casquillos de bancada influyen en el entorno ecológico mediante la reducción de fricción y consumo energético. Su fabricación con materiales reciclables disminuye residuos industriales. Un diseño eficiente prolonga la vida del motor y reduce emisiones contaminantes asociadas al desgaste prematuro de componentes internos."
+  },
+  {
+    "intent_id": "casquillos_bancada_aplicaciones_practicas",
+    "keywords": [
+      "motor",
+      "casquillos",
+      "friccion",
+      "lubricacion",
+      "giro"
+    ],
+    "base_response": "Los casquillos de bancada permiten que el cigüeñal gire suavemente dentro del motor, asegurando funcionamiento estable en autos reales. Su acción reduce la fricción, evita daños internos y mantiene la eficiencia del vehículo durante recorridos diarios, aceleraciones constantes y uso prolongado en distintas condiciones de manejo."
+  },
+  {
+    "intent_id": "casquillos_bancada_importancia_impacto_social",
+    "keywords": [
+      "motor",
+      "casquillos",
+      "friccion",
+      "seguridad",
+      "funcionar"
+    ],
+    "base_response": "Los casquillos de bancada sostienen el cigüeñal y permiten su giro estable, garantizando motores confiables. Su correcto funcionamiento reduce fallas mecánicas, mejora la seguridad vial y favorece el transporte cotidiano, impactando directamente en la movilidad social y en la continuidad de servicios esenciales."
+  },
+  {
+    "intent_id": "casquillos_bancada_ventajas_desventajas_comparativas",
+    "keywords": [
+      "motor",
+      "casquillo",
+      "friccion",
+      "lubricacion",
+      "desgaste"
+    ],
+    "base_response": "Los casquillos de bancada ofrecen menor fricción y buena estabilidad del cigüeñal, favoreciendo la lubricación y la vida útil del motor. Sin embargo, pueden desgastarse rápidamente si el aceite es insuficiente y requieren reemplazos precisos para evitar daños mayores en el conjunto mecánico."
+  },
+  {
+    "intent_id": "casquillos_bancada_riesgos_seguridad",
+    "keywords": [
+      "motor",
+      "casquillo",
+      "friccion",
+      "aceite",
+      "desgaste"
+    ],
+    "base_response": "Los casquillos de bancada requieren estricta atención porque su desgaste puede generar fricción excesiva y fallas graves en el motor. Se debe evitar trabajar con el motor caliente, usar guantes resistentes, mantener el área limpia y asegurar una correcta lubricación para prevenir accidentes y daños mecánicos."
+  },
+  {
+    "intent_id": "casquillos_bancada_clasificacion_taxonomica",
+    "keywords": [
+      "motor",
+      "casquillo",
+      "bancada",
+      "friccion",
+      "lubricar"
+    ],
+    "base_response": "Los casquillos de bancada se clasifican taxonómicamente según su función dentro del motor, diferenciándose por su capacidad de carga, tipo de material y diseño interno. Esta clasificación permite identificar variantes específicas que aseguran estabilidad, reducen fricción y mantienen una lubricación adecuada en el cigüeñal."
+  },
+  {
+    "intent_id": "casquillos_bancada_calculos_cargas",
+    "keywords": [
+      "casquillos",
+      "bancada",
+      "motor",
+      "friccion",
+      "presion"
+    ],
+    "base_response": "El cálculo de carga en los casquillos de bancada se obtiene dividiendo la fuerza aplicada por el área de contacto. La presión resultante permite estimar la película de lubricante necesaria. También se usa la fórmula de fricción dinámica para evaluar el comportamiento del casquillo bajo distintas velocidades del cigüeñal."
+  },
+  {
+    "intent_id": "casquillos_bancada_mitos_concepciones_erroneas",
+    "keywords": [
+      "casquillos",
+      "bancada",
+      "motor",
+      "friccion",
+      "lubricacion"
+    ],
+    "base_response": "Muchos creen que los casquillos de bancada duran toda la vida del motor, pero su desgaste es real y progresivo. También se piensa que cualquier aceite evita daños, cuando la lubricación incorrecta acelera fallas. Estas ideas confunden el mantenimiento adecuado y generan riesgos mecánicos innecesarios."
+  },
+  {
+    "intent_id": "casquillos_bancada_interaccion_sistemas",
+    "keywords": [
+      "motor",
+      "friccion",
+      "aceite",
+      "rotacion",
+      "soporte"
+    ],
+    "base_response": "Los casquillos de bancada mantienen una relación simbiótica con el cigüeñal y el sistema de lubricación. Su función de soporte y reducción de fricción depende del flujo constante de aceite, permitiendo una rotación estable que protege otros componentes y asegura la sincronización interna del motor."
+  },
+  {
+    "intent_id": "casquillos_bancada_transformacion_energetica",
+    "keywords": [
+      "motor",
+      "casquillo",
+      "friccion",
+      "energia",
+      "movimiento"
+    ],
+    "base_response": "Los casquillos de bancada permiten transformar la energía química del combustible en movimiento útil al reducir la fricción entre el cigüeñal y el bloque del motor. Su función asegura ciclos energéticos eficientes, evitando pérdidas de energía y manteniendo estable la rotación interna del sistema."
+  },
+  {
+    "intent_id": "casquillos_bancada_experimentos_escolares",
+    "keywords": [
+      "motor",
+      "casquillo",
+      "friccion",
+      "lubricacion",
+      "rotacion"
+    ],
+    "base_response": "Los casquillos de bancada pueden demostrarse usando un eje pequeño apoyado en superficies lisas. Al aplicar lubricante y girar el eje, los estudiantes observan cómo disminuye la fricción. Comparar giros con y sin lubricación permite comprender la función protectora de estos componentes en el motor."
+  },
+  {
+    "intent_id": "casquillos_bancada_consecuencias_largo_plazo",
+    "keywords": [
+      "motor",
+      "desgaste",
+      "friccion",
+      "lubricacion",
+      "temperatura"
+    ],
+    "base_response": "El deterioro prolongado de los casquillos de bancada incrementa la fricción interna, eleva la temperatura del motor y acelera el desgaste de componentes críticos. Con el tiempo, esta degradación puede provocar pérdida de potencia, fallas estructurales y daños irreversibles en el cigüeñal y el bloque del motor."
+  },
+  {
+    "intent_id": "casquillos_bancada_impacto_ambiental",
+    "keywords": [
+      "motor",
+      "casquillos",
+      "friccion",
+      "aceite",
+      "desgaste"
+    ],
+    "base_response": "Los casquillos de bancada influyen en el impacto ambiental al regular la fricción interna del motor. Un desgaste excesivo aumenta el consumo de aceite y combustible, generando más emisiones contaminantes. Un mantenimiento adecuado reduce residuos, mejora la eficiencia y disminuye la huella ambiental del funcionamiento vehicular."
+  },
+  {
+    "intent_id": "casquillos_bancada_mantenimiento_prevencion",
+    "keywords": [
+      "casquillo",
+      "bancada",
+      "motor",
+      "lubricacion",
+      "desgaste"
+    ],
+    "base_response": "Los casquillos de bancada requieren lubricación constante y revisión periódica para evitar desgaste prematuro. Un mantenimiento adecuado incluye verificar presión de aceite, controlar holguras y reemplazar piezas dañadas. Estas acciones previenen fallas graves en el motor y aseguran funcionamiento estable y duradero."
+  },
+  {
+    "intent_id": "casquillos_bancada_innovacion_tecnologica",
+    "keywords": [
+      "motor",
+      "casquillo",
+      "friccion",
+      "material",
+      "tecnologia"
+    ],
+    "base_response": "Los casquillos de bancada evolucionarán hacia materiales inteligentes capaces de autorregular la fricción y monitorear su desgaste en tiempo real. Integrarán sensores miniaturizados y recubrimientos avanzados que optimizarán la eficiencia del motor, prolongarán la vida útil y permitirán mantenimiento predictivo altamente preciso."
+  },
+  {
+    "intent_id": "arbol_equilibrado_motor_definicion_estructural",
+    "keywords": [
+      "arbol",
+      "motor",
+      "contrapeso",
+      "rotacion",
+      "vibracion"
+    ],
+    "base_response": "El árbol de equilibrado es un eje metálico con contrapesos calibrados que gira sincronizado con el cigüeñal. Su estructura incluye soportes y engranajes que permiten contrarrestar vibraciones internas del motor, estabilizando el movimiento y reduciendo esfuerzos en los componentes móviles."
+  },
+  {
+    "intent_id": "arbol_equilibrado_dinamica_funcionamiento",
+    "keywords": [
+      "arbol",
+      "equilibrado",
+      "vibracion",
+      "rotacion",
+      "contrapeso"
+    ],
+    "base_response": "El árbol de equilibrado reduce vibraciones generadas por el movimiento rotatorio del motor. Utiliza contrapesos sincronizados que giran a velocidad precisa para contrarrestar fuerzas internas. Su acción estabiliza el conjunto mecánico y mejora la suavidad operativa durante distintos regímenes de funcionamiento."
+  },
+  {
+    "intent_id": "arbol_equilibrado_propiedades_materiales",
+    "keywords": [
+      "arbol",
+      "metal",
+      "resistencia",
+      "vibracion",
+      "torque"
+    ],
+    "base_response": "El árbol de equilibrado requiere materiales metálicos con alta resistencia para soportar vibraciones intensas. Su composición debe mantener estabilidad térmica y evitar deformaciones bajo torque elevado. La selección del metal influye directamente en la durabilidad y el desempeño del sistema de equilibrado del motor."
+  },
+  {
+    "intent_id": "arbol_equilibrado_fallas_funcionales",
+    "keywords": [
+      "arbol",
+      "motor",
+      "vibracion",
+      "desgaste",
+      "alinear"
+    ],
+    "base_response": "El árbol de equilibrado puede presentar vibración excesiva cuando pierde alineación o sufre desgaste en sus cojinetes. Estas fallas generan ruidos anómalos, pérdida de suavidad y daños progresivos en el motor. Un montaje incorrecto provoca desbalance que afecta la estabilidad y durabilidad del conjunto."
+  },
+  {
+    "intent_id": "arbol_equilibrado_historia_evolucion",
+    "keywords": [
+      "motor",
+      "vibracion",
+      "equilibrar",
+      "tecnologia",
+      "ingenieria"
+    ],
+    "base_response": "El árbol de equilibrado surgió cuando los primeros motores mostraban vibraciones excesivas que afectaban su durabilidad. Ingenieros del siglo XX desarrollaron ejes contrarrotantes para compensar fuerzas internas. Con el tiempo, la tecnología refinó materiales y diseños, logrando motores más suaves y eficientes."
+  },
+  {
+    "intent_id": "arbol_equilibrado_contexto_ecologico",
+    "keywords": [
+      "motor",
+      "vibracion",
+      "energia",
+      "material",
+      "contaminacion"
+    ],
+    "base_response": "El árbol de equilibrado reduce vibraciones del motor y contribuye a un funcionamiento más eficiente. Al disminuir pérdidas de energía y desgaste, favorece menor consumo de combustible y menor contaminación. Su diseño considera materiales duraderos que disminuyen residuos y mejoran el impacto ambiental del vehículo."
+  },
+  {
+    "intent_id": "arbol_equilibrado_motor_aplicaciones_practicas",
+    "keywords": [
+      "motor",
+      "vibracion",
+      "rotacion",
+      "estabilidad",
+      "equilibrar"
+    ],
+    "base_response": "El árbol de equilibrado reduce vibraciones del motor durante la rotación, mejorando la estabilidad del vehículo en uso cotidiano. Su acción permite una conducción más cómoda, protege componentes internos y disminuye el desgaste, haciendo más segura y eficiente la operación diaria del automóvil."
+  },
+  {
+    "intent_id": "arbol_equilibrado_importancia_social",
+    "keywords": [
+      "motor",
+      "vibracion",
+      "seguridad",
+      "transporte",
+      "comunidad"
+    ],
+    "base_response": "El árbol de equilibrado reduce vibraciones del motor y mejora la seguridad del transporte. Su funcionamiento estable favorece desplazamientos confiables, apoyando actividades escolares, laborales y familiares. Este componente fortalece la movilidad comunitaria y contribuye al bienestar social mediante viajes más cómodos y eficientes."
+  },
+  {
+    "intent_id": "arbol_equilibrado_ventajas_desventajas",
+    "keywords": [
+      "motor",
+      "vibracion",
+      "estabilidad",
+      "componentes",
+      "rotacion"
+    ],
+    "base_response": "El árbol de equilibrado reduce vibraciones y mejora la estabilidad del motor, ofreciendo funcionamiento más suave. Sin embargo, añade componentes que incrementan complejidad, peso y posibles puntos de desgaste. Su rotación adicional puede disminuir ligeramente la eficiencia mecánica en ciertos diseños."
+  },
+  {
+    "intent_id": "arbol_equilibrado_motor_riesgos_seguridad",
+    "keywords": [
+      "arbol",
+      "equilibrado",
+      "motor",
+      "vibracion",
+      "rotacion"
+    ],
+    "base_response": "El árbol de equilibrado gira a alta velocidad y puede generar vibración peligrosa si está dañado. Manipularlo sin bloqueo adecuado expone a atrapamientos y golpes. Verificar su alineación, usar protección personal y evitar acercar manos a piezas en rotación reduce accidentes graves."
+  },
+  {
+    "intent_id": "arbol_equilibrado_motor_clasificacion_taxonomica",
+    "keywords": [
+      "motor",
+      "arbol",
+      "equilibrado",
+      "vibracion",
+      "rotacion"
+    ],
+    "base_response": "El árbol de equilibrado del motor se clasifica taxonómicamente como un componente rotativo diseñado para contrarrestar vibraciones internas. Pertenece al conjunto de elementos mecánicos que estabilizan el movimiento del cigüeñal mediante masas sincronizadas, garantizando funcionamiento uniforme y reduciendo esfuerzos estructurales en el bloque del motor."
+  },
+  {
+    "intent_id": "arbol_equilibrado_motor_calculos_formulas",
+    "keywords": [
+      "motor",
+      "arbol",
+      "equilibrado",
+      "vibracion",
+      "rotacion"
+    ],
+    "base_response": "El árbol de equilibrado requiere calcular la frecuencia de vibración usando f = rpm/60 y determinar la fuerza centrífuga mediante F = m·r·ω². Estos valores permiten ajustar masas y posiciones para contrarrestar desequilibrios y asegurar una rotación estable del conjunto mecánico."
+  },
+  {
+    "intent_id": "arbol_equilibrado_mitos_concepciones_erroneas",
+    "keywords": [
+      "motor",
+      "vibracion",
+      "arbol",
+      "equilibrado",
+      "rotacion"
+    ],
+    "base_response": "Muchos creen que el árbol de equilibrado elimina totalmente la vibración del motor, pero solo la reduce. También se piensa que todos los motores lo necesitan, cuando depende del diseño. Otra idea errónea afirma que aumenta la potencia, aunque su función es estabilizar la rotación interna."
+  },
+  {
+    "intent_id": "arbol_equilibrado_motor_relacion_simbiotica_sistemas",
+    "keywords": [
+      "motor",
+      "arbol",
+      "equilibrado",
+      "vibracion",
+      "transmision"
+    ],
+    "base_response": "El árbol de equilibrado coopera con el cigüeñal y el sistema de transmisión para reducir vibraciones internas. Su sincronización precisa permite que ambos mecanismos compartan cargas dinámicas, estabilizando el movimiento rotacional y mejorando la eficiencia general del conjunto mecánico durante el funcionamiento del motor."
+  },
+  {
+    "intent_id": "arbol_equilibrado_transformacion_energetica",
+    "keywords": [
+      "motor",
+      "vibracion",
+      "rotacion",
+      "energia",
+      "equilibrar"
+    ],
+    "base_response": "El árbol de equilibrado transforma la energía rotacional del motor en un movimiento compensado que reduce vibraciones internas. Su acción estabiliza los ciclos energéticos al distribuir fuerzas opuestas, permitiendo que la potencia generada fluya con mayor eficiencia y menor desgaste en los componentes mecanizados."
+  },
+  {
+    "intent_id": "arbol_equilibrado_experimentos_escolares",
+    "keywords": [
+      "motor",
+      "arbol",
+      "equilibrio",
+      "vibracion",
+      "rotacion"
+    ],
+    "base_response": "Un experimento escolar útil consiste en usar una varilla con pequeñas masas ajustables para simular el árbol de equilibrado. Al girarla con un taladro, los estudiantes observan cómo la distribución de peso reduce vibraciones, comprendiendo la función de equilibrar fuerzas internas en un motor real."
+  },
+  {
+    "intent_id": "arbol_equilibrado_consecuencias_largo_plazo",
+    "keywords": [
+      "motor",
+      "vibracion",
+      "desgaste",
+      "equilibrar",
+      "componentes"
+    ],
+    "base_response": "El árbol de equilibrado reduce vibraciones que, mantenidas por años, generan desgaste acelerado en componentes internos. Su mal funcionamiento provoca holguras, pérdida de eficiencia y fallas prematuras en el motor, afectando la durabilidad general y aumentando costos de reparación a largo plazo."
+  },
+  {
+    "intent_id": "arbol_equilibrado_motor_impacto_ambiental",
+    "keywords": [
+      "motor",
+      "vibracion",
+      "energia",
+      "emision",
+      "combustion"
+    ],
+    "base_response": "El árbol de equilibrado reduce vibraciones que obligan al motor a gastar más energía y combustible. Al disminuir ese esfuerzo adicional, baja la generación de emisiones contaminantes. Su funcionamiento estable contribuye a un proceso de combustión más eficiente y menos perjudicial para el ambiente."
+  },
+  {
+    "intent_id": "arbol_equilibrado_mantenimiento_prevencion",
+    "keywords": [
+      "motor",
+      "arbol",
+      "vibracion",
+      "lubricacion",
+      "desgaste"
+    ],
+    "base_response": "El árbol de equilibrado requiere lubricación adecuada y revisiones periódicas para evitar vibraciones excesivas. Mantener el aceite limpio y verificar el estado de sus cojinetes reduce el desgaste y previene fallas que afectan la estabilidad del motor durante su funcionamiento continuo."
+  },
+  {
+    "intent_id": "arbol_equilibrado_motor_proyecciones_tecnologicas",
+    "keywords": [
+      "motor",
+      "equilibrio",
+      "vibracion",
+      "sensor",
+      "innovacion"
+    ],
+    "base_response": "El árbol de equilibrado evolucionará mediante sensores inteligentes y materiales ultraligeros que ajustarán el equilibrio en tiempo real. Estas mejoras permitirán motores más silenciosos, eficientes y duraderos, integrando algoritmos predictivos capaces de anticipar vibraciones y corregirlas antes de que afecten el rendimiento."
+  },
+  {
+    "intent_id": "valvula_egr_definicion_estructural",
+    "keywords": [
+      "valvula",
+      "egr",
+      "gases",
+      "recircular",
+      "motor"
+    ],
+    "base_response": "La válvula EGR es un componente metálico instalado en el sistema de admisión del motor. Posee un conducto interno y un mecanismo de apertura que permite el paso controlado de gases de escape hacia la admisión. Su estructura integra sensores y conexiones que aseguran funcionamiento preciso."
+  },
+  {
+    "intent_id": "valvula_egr_dinamica_funcionamiento_fisico",
+    "keywords": [
+      "valvula",
+      "gases",
+      "recirculacion",
+      "combustion",
+      "flujo"
+    ],
+    "base_response": "La válvula EGR regula el flujo de gases de escape hacia la admisión, modificando la dinámica interna del motor. Su apertura permite recircular parte de los gases, reduciendo la temperatura de combustión y controlando la formación de óxidos nocivos mediante un equilibrio físico entre presión y movimiento gaseoso."
+  },
+  {
+    "intent_id": "valvula_egr_propiedades_materiales",
+    "keywords": [
+      "valvula",
+      "egr",
+      "corrosion",
+      "acero",
+      "temperatura"
+    ],
+    "base_response": "La válvula EGR utiliza materiales resistentes a la corrosión y altas temperaturas, como acero inoxidable y aleaciones especiales. Estos materiales soportan gases de escape cargados de compuestos reactivos, evitando degradación prematura y garantizando un funcionamiento estable dentro del sistema de recirculación del motor."
+  },
+  {
+    "intent_id": "valvula_egr_fallas_comunes",
+    "keywords": [
+      "valvula",
+      "egr",
+      "carbonilla",
+      "obstruccion",
+      "motor"
+    ],
+    "base_response": "La válvula EGR suele fallar por acumulación de carbonilla que provoca obstrucción interna. Esta condición genera pérdida de potencia, aumento de emisiones y funcionamiento irregular del motor. También pueden presentarse fallas electrónicas en el actuador que impiden su apertura o cierre adecuados."
+  },
+  {
+    "intent_id": "valvula_egr_historia_origen_evolucion",
+    "keywords": [
+      "valvula",
+      "egr",
+      "motor",
+      "emision",
+      "control"
+    ],
+    "base_response": "La válvula EGR surgió en la década de 1960 como respuesta a crecientes emisiones contaminantes. Su desarrollo avanzó desde sistemas mecánicos simples hasta controles electrónicos precisos que optimizan la recirculación de gases, mejoran la eficiencia del motor y cumplen normas ambientales cada vez más estrictas."
+  },
+  {
+    "intent_id": "valvula_egr_contexto_ecologico",
+    "keywords": [
+      "valvula",
+      "egr",
+      "motor",
+      "emision",
+      "contaminacion"
+    ],
+    "base_response": "La válvula EGR reduce la contaminación al recircular gases de escape hacia el motor, disminuyendo emisiones nocivas que afectan el entorno. Su funcionamiento contribuye a mejorar la calidad del aire urbano y a mitigar impactos ambientales derivados del uso cotidiano de vehículos automotrices."
+  },
+  {
+    "intent_id": "valvula_egr_aplicaciones_practicas",
+    "keywords": [
+      "valvula",
+      "motor",
+      "gases",
+      "recircular",
+      "combustion"
+    ],
+    "base_response": "La válvula EGR se usa para recircular gases y reducir contaminantes en motores modernos. Su aplicación práctica permite disminuir emisiones, mejorar la eficiencia en recorridos urbanos y cumplir normas ambientales. También ayuda a mantener una combustión más controlada en diversas condiciones de manejo."
+  },
+  {
+    "intent_id": "valvula_egr_importancia_impacto_social",
+    "keywords": [
+      "valvula",
+      "emision",
+      "motor",
+      "contaminacion",
+      "recircular"
+    ],
+    "base_response": "La válvula EGR reduce emisiones dañinas al recircular gases del motor, disminuyendo la contaminación ambiental. Su funcionamiento contribuye a mejorar la calidad del aire en comunidades urbanas y rurales, favoreciendo la salud pública y promoviendo prácticas automotrices responsables con el entorno social."
+  },
+  {
+    "intent_id": "valvula_egr_ventajas_desventajas_comparativas",
+    "keywords": [
+      "valvula",
+      "egr",
+      "motor",
+      "emision",
+      "recircular"
+    ],
+    "base_response": "La válvula EGR reduce emisiones al recircular gases y mejorar la eficiencia ambiental del motor. Sin embargo, puede generar acumulación de residuos, pérdida de potencia y mayores necesidades de mantenimiento. Su uso implica equilibrar beneficios ecológicos con posibles efectos en el rendimiento general."
+  },
+  {
+    "intent_id": "valvula_egr_riesgos_seguridad",
+    "keywords": [
+      "valvula",
+      "egr",
+      "hollin",
+      "motor",
+      "limpiar"
+    ],
+    "base_response": "La válvula EGR puede acumular hollín que dificulta su funcionamiento y provoca sobrecalentamiento del motor. Para evitar riesgos, se debe limpiar la pieza con herramientas adecuadas, usar guantes resistentes, trabajar con el motor frío y asegurar una correcta desconexión de componentes eléctricos."
+  },
+  {
+    "intent_id": "valvula_egr_clasificacion_taxonomica",
+    "keywords": [
+      "valvula",
+      "egr",
+      "motor",
+      "emision",
+      "recircular"
+    ],
+    "base_response": "La válvula EGR se clasifica taxonómicamente como un componente del sistema de control de emisiones del motor. Pertenece al grupo de dispositivos de recirculación de gases, diferenciándose por su función de devolver parte de los gases de escape hacia la admisión para reducir contaminantes."
+  },
+  {
+    "intent_id": "valvula_egr_calculos_flujo_gases",
+    "keywords": [
+      "valvula",
+      "egr",
+      "gases",
+      "flujo",
+      "motor"
+    ],
+    "base_response": "La válvula EGR permite estimar el caudal de gases recirculados usando Q = A × v, donde A representa el área de apertura y v la velocidad del gas. También se calcula la reducción térmica aproximando la mezcla mediante proporciones de masa y variaciones de temperatura en el colector."
+  },
+  {
+    "intent_id": "valvula_egr_mitos_concepciones_erroneas",
+    "keywords": [
+      "valvula",
+      "egr",
+      "motor",
+      "gases",
+      "recircular"
+    ],
+    "base_response": "Muchos creen que la válvula EGR solo causa fallas, pero su función es reducir emisiones y proteger el motor. Otro mito común afirma que anularla mejora la potencia, cuando realmente puede generar daños internos y aumentar contaminantes. Comprender su propósito evita decisiones equivocadas."
+  },
+  {
+    "intent_id": "valvula_egr_relacion_simbiotica_sistemas",
+    "keywords": [
+      "valvula",
+      "egr",
+      "motor",
+      "combustion",
+      "emision"
+    ],
+    "base_response": "La válvula EGR coopera con el sistema de admisión y el sistema de combustión para reducir emisiones. Recircula gases quemados hacia la mezcla fresca, equilibrando temperatura interna y disminuyendo óxidos nocivos. Su funcionamiento depende de sensores que coordinan apertura y flujo adecuado."
+  },
+  {
+    "intent_id": "valvula_egr_transformacion_ciclos_energeticos",
+    "keywords": [
+      "valvula",
+      "egr",
+      "gases",
+      "motor",
+      "recircular"
+    ],
+    "base_response": "La válvula EGR participa en la transformación energética del motor al reintroducir gases de escape en la cámara de combustión. Esta recirculación modifica el ciclo térmico interno, reduciendo temperaturas máximas y favoreciendo un uso más eficiente de la energía liberada durante la combustión."
+  },
+  {
+    "intent_id": "valvula_egr_experimentos_escolares",
+    "keywords": [
+      "valvula",
+      "egr",
+      "motor",
+      "gases",
+      "recircular"
+    ],
+    "base_response": "La válvula EGR puede demostrarse usando una maqueta transparente que simule el flujo de gases. Los estudiantes observan cómo una corriente coloreada regresa hacia la cámara de combustión, comprobando visualmente la recirculación y entendiendo su efecto en la reducción de temperatura y emisiones."
+  },
+  {
+    "intent_id": "valvula_egr_consecuencias_largo_plazo",
+    "keywords": [
+      "valvula",
+      "egr",
+      "carbonizacion",
+      "motor",
+      "desgaste"
+    ],
+    "base_response": "La acumulación prolongada de residuos en la válvula EGR reduce su capacidad de recirculación y provoca fallas persistentes en el motor. Con el tiempo, aumenta el desgaste interno, disminuye la eficiencia térmica y se elevan las emisiones contaminantes, afectando la durabilidad general del sistema de combustión."
+  },
+  {
+    "intent_id": "valvula_egr_impacto_ambiental",
+    "keywords": [
+      "valvula",
+      "egr",
+      "emision",
+      "combustion",
+      "contaminacion"
+    ],
+    "base_response": "La válvula EGR reduce la contaminación al recircular gases de combustión hacia el motor, disminuyendo la formación de óxidos de nitrógeno. Este proceso ayuda a mejorar la calidad del aire y contribuye a cumplir normas ambientales que buscan limitar emisiones dañinas en zonas urbanas."
+  },
+  {
+    "intent_id": "valvula_egr_mantenimiento_preventivo",
+    "keywords": [
+      "valvula",
+      "egr",
+      "carbonilla",
+      "motor",
+      "limpiar"
+    ],
+    "base_response": "La válvula EGR requiere limpieza periódica para evitar acumulación de carbonilla que afecte el rendimiento del motor. Un mantenimiento preventivo adecuado reduce fallas, mejora la eficiencia y prolonga la vida útil del sistema, asegurando una recirculación de gases estable y segura."
+  },
+  {
+    "intent_id": "valvula_egr_tecnologia_futura",
+    "keywords": [
+      "valvula",
+      "egr",
+      "motor",
+      "sensor",
+      "emision"
+    ],
+    "base_response": "La válvula EGR evolucionará hacia sistemas inteligentes capaces de autorregular el flujo de gases mediante sensores avanzados. Integrará materiales resistentes a altas temperaturas y algoritmos predictivos que optimizarán emisiones, mejorarán la eficiencia del motor y permitirán diagnósticos automáticos en tiempo real."
+  },
+  {
+    "intent_id": "mariposa_aceleracion_definicion_estructural",
+    "keywords": [
+      "mariposa",
+      "aceleracion",
+      "valvula",
+      "aire",
+      "motor"
+    ],
+    "base_response": "La mariposa de aceleración es una válvula circular ubicada en el cuerpo de admisión del motor. Su estructura metálica gira sobre un eje para regular la cantidad de aire que ingresa al sistema, controlando así la respuesta del motor ante la demanda del conductor."
+  },
+  {
+    "intent_id": "mariposa_aceleracion_dinamica_funcionamiento",
+    "keywords": [
+      "mariposa",
+      "aceleracion",
+      "aire",
+      "motor",
+      "abrir",
+      "cerrar"
+    ],
+    "base_response": "La mariposa de aceleración regula físicamente el flujo de aire que ingresa al motor. Al abrirse, permite mayor entrada de aire y aumenta la velocidad de combustión. Al cerrarse, reduce el flujo y disminuye la potencia. Su movimiento controla directamente la respuesta dinámica del motor."
+  },
+  {
+    "intent_id": "mariposa_aceleracion_propiedades_materiales",
+    "keywords": [
+      "mariposa",
+      "aceleracion",
+      "aluminio",
+      "corrosion",
+      "resistencia"
+    ],
+    "base_response": "La mariposa de aceleración utiliza materiales como aluminio o acero para asegurar resistencia química frente a combustión y humedad. Estos materiales evitan corrosión, mantienen estabilidad estructural y permiten un movimiento preciso del componente, garantizando una respuesta confiable del sistema de admisión del motor."
+  },
+  {
+    "intent_id": "mariposa_aceleracion_fallas_comunes",
+    "keywords": [
+      "mariposa",
+      "aceleracion",
+      "sensor",
+      "carbon",
+      "obstruccion"
+    ],
+    "base_response": "La mariposa de aceleración puede presentar fallas por acumulación de carbón, desgaste del eje o daño en el sensor de posición. Estos problemas generan inestabilidad en el ralentí, pérdida de potencia y respuestas tardías al acelerar, afectando el control del flujo de aire hacia el motor."
+  },
+  {
+    "intent_id": "mariposa_aceleracion_historia_evolucion",
+    "keywords": [
+      "mariposa",
+      "aceleracion",
+      "motor",
+      "control",
+      "evolucion"
+    ],
+    "base_response": "La mariposa de aceleración surgió en los primeros motores de combustión como una válvula simple para regular el aire. Con el tiempo evolucionó hacia mecanismos más precisos, incorporando sensores electrónicos que mejoraron la respuesta del motor y permitieron sistemas de gestión más eficientes."
+  },
+  {
+    "intent_id": "mariposa_aceleracion_contexto_ecologico",
+    "keywords": [
+      "mariposa",
+      "aceleracion",
+      "motor",
+      "combustion",
+      "emision"
+    ],
+    "base_response": "La mariposa de aceleración influye en la cantidad de aire que ingresa al motor, afectando directamente la combustión y las emisiones. Un control adecuado reduce contaminantes, mejora la eficiencia energética y disminuye el impacto ambiental del vehículo en entornos urbanos y naturales."
+  },
+  {
+    "intent_id": "mariposa_aceleracion_aplicaciones_practicas",
+    "keywords": [
+      "mariposa",
+      "aceleracion",
+      "motor",
+      "control",
+      "combustion"
+    ],
+    "base_response": "La mariposa de aceleración permite regular la entrada de aire al motor, facilitando respuestas rápidas al presionar el pedal. Su funcionamiento mejora la conducción en pendientes, maniobras urbanas y adelantamientos, asegurando un control preciso de la potencia disponible en situaciones cotidianas de manejo."
+  },
+  {
+    "intent_id": "mariposa_aceleracion_importancia_impacto_social",
+    "keywords": [
+      "motor",
+      "mariposa",
+      "aceleracion",
+      "control",
+      "seguridad"
+    ],
+    "base_response": "La mariposa de aceleración influye directamente en la seguridad y eficiencia del transporte al regular la entrada de aire al motor. Su funcionamiento adecuado permite reducir emisiones, optimizar consumo y mejorar la respuesta del vehículo, favoreciendo desplazamientos más seguros y responsables dentro de la comunidad."
+  },
+  {
+    "intent_id": "mariposa_aceleracion_ventajas_desventajas",
+    "keywords": [
+      "mariposa",
+      "aceleracion",
+      "motor",
+      "flujo",
+      "control"
+    ],
+    "base_response": "La mariposa de aceleración ofrece respuesta rápida y control preciso del flujo de aire, mejorando la eficiencia del motor. Sin embargo, puede generar desgaste en su mecanismo y variaciones en la mezcla aire-combustible, afectando el rendimiento cuando presenta suciedad o fallas en su posición."
+  },
+  {
+    "intent_id": "mariposa_aceleracion_riesgos_seguridad",
+    "keywords": [
+      "mariposa",
+      "aceleracion",
+      "motor",
+      "obstruccion",
+      "manipular"
+    ],
+    "base_response": "La mariposa de aceleración puede generar riesgos si se manipula sin cuidado, pues su obstrucción o daño altera el flujo de aire del motor. Es esencial evitar introducir objetos, usar herramientas adecuadas y mantener las manos alejadas de partes móviles para prevenir accidentes mecánicos."
+  },
+  {
+    "intent_id": "mariposa_aceleracion_calculos_flujo_aire",
+    "keywords": [
+      "mariposa",
+      "aceleracion",
+      "motor",
+      "flujo",
+      "calcular"
+    ],
+    "base_response": "La mariposa de aceleración permite estimar el flujo de aire usando el área efectiva abierta. El cálculo aplica A = pi·r²·k, donde r es el radio del conducto y k el porcentaje de apertura. Con el flujo resultante se determina la masa de aire ingresada al motor."
+  },
+  {
+    "intent_id": "mariposa_aceleracion_mitos_concepciones_erroneas",
+    "keywords": [
+      "mariposa",
+      "aceleracion",
+      "motor",
+      "aire",
+      "combustion"
+    ],
+    "base_response": "Muchos creen que la mariposa de aceleración añade potencia por sí sola, pero solo regula el flujo de aire hacia el motor. También se piensa que abrirla totalmente siempre mejora el rendimiento, aunque una apertura incorrecta puede causar mezcla inadecuada y pérdida de eficiencia."
+  },
+  {
+    "intent_id": "mariposa_aceleracion_interaccion_sistemas",
+    "keywords": [
+      "mariposa",
+      "aceleracion",
+      "sensor",
+      "motor",
+      "combustion"
+    ],
+    "base_response": "La mariposa de aceleración coordina su apertura con sensores y módulos del motor para regular el flujo de aire. Esta interacción permite ajustar la mezcla aire‑combustible, estabilizar el ralentí y sincronizar la respuesta del acelerador con sistemas electrónicos que optimizan la combustión y el rendimiento general."
+  },
+  {
+    "intent_id": "mariposa_aceleracion_transformacion_energetica",
+    "keywords": [
+      "mariposa",
+      "aceleracion",
+      "motor",
+      "combustion",
+      "energia"
+    ],
+    "base_response": "La mariposa de aceleración regula la entrada de aire al motor, controlando la transformación de energía química en energía mecánica. Al abrirse, permite mayor mezcla aire‑combustible, intensificando el ciclo energético que impulsa los pistones y genera movimiento vehicular."
+  },
+  {
+    "intent_id": "mariposa_aceleracion_experimentos_escolares",
+    "keywords": [
+      "mariposa",
+      "aceleracion",
+      "motor",
+      "aire",
+      "control"
+    ],
+    "base_response": "La mariposa de aceleración puede demostrarse usando un tubo transparente y una válvula móvil que simule su apertura. Al mover la válvula, los estudiantes observan cómo varía el flujo de aire, comprendiendo la relación entre apertura, entrada de aire y respuesta del motor en condiciones controladas."
+  },
+  {
+    "intent_id": "mariposa_aceleracion_consecuencias_largo_plazo",
+    "keywords": [
+      "mariposa",
+      "aceleracion",
+      "motor",
+      "carbonizacion",
+      "desgaste"
+    ],
+    "base_response": "La mariposa de aceleración sufre acumulación de residuos que reducen su movilidad y precisión. Con el tiempo, esta carbonización provoca fallas de mezcla aire‑combustible, pérdida de potencia y mayor desgaste interno del motor, afectando su eficiencia y elevando el riesgo de averías costosas."
+  },
+  {
+    "intent_id": "mariposa_aceleracion_impacto_ambiental",
+    "keywords": [
+      "mariposa",
+      "aceleracion",
+      "combustion",
+      "emision",
+      "contaminacion"
+    ],
+    "base_response": "La mariposa de aceleración influye en la cantidad de aire que ingresa al motor, afectando la eficiencia de combustión. Un control inadecuado provoca mezclas pobres o ricas que incrementan emisiones contaminantes. Un funcionamiento óptimo reduce gases nocivos y contribuye a un menor impacto ambiental."
+  },
+  {
+    "intent_id": "mariposa_aceleracion_mantenimiento_prevencion",
+    "keywords": [
+      "mariposa",
+      "aceleracion",
+      "motor",
+      "carbon",
+      "limpiar"
+    ],
+    "base_response": "La mariposa de aceleración requiere limpieza periódica para evitar acumulación de carbón que afecte el flujo de aire. Mantenerla libre de residuos mejora la respuesta del motor, reduce fallas de ralentí y prolonga la vida útil del sistema de admisión mediante prevención constante."
+  },
+  {
+    "intent_id": "mariposa_aceleracion_proyecciones_tecnologicas",
+    "keywords": [
+      "mariposa",
+      "aceleracion",
+      "sensor",
+      "motor",
+      "innovacion"
+    ],
+    "base_response": "La mariposa de aceleración evolucionará hacia sistemas totalmente electrónicos con sensores avanzados capaces de ajustar el flujo de aire en tiempo real. Estas tecnologías permitirán motores más eficientes, respuestas más precisas y una integración profunda con plataformas inteligentes de control vehicular."
+  },
+  {
+    "intent_id": "sensor_temperatura_motor_definicion_estructural",
+    "keywords": [
+      "sensor",
+      "temperatura",
+      "motor",
+      "resistencia",
+      "circuito"
+    ],
+    "base_response": "El sensor de temperatura del motor es un componente electrónico pequeño formado por una cápsula metálica que protege un elemento de resistencia interna. Este elemento cambia su valor según el calor del refrigerante y envía señales eléctricas al sistema de control para interpretar la condición térmica del motor."
+  },
+  {
+    "intent_id": "sensor_temperatura_motor_dinamica_funcionamiento",
+    "keywords": [
+      "sensor",
+      "temperatura",
+      "motor",
+      "resistencia",
+      "calor"
+    ],
+    "base_response": "El sensor de temperatura del motor funciona modificando su resistencia interna según el calor recibido. Cuando el motor se calienta, la resistencia disminuye y genera una señal eléctrica proporcional. Esta señal permite calcular la temperatura real y ajustar procesos esenciales del funcionamiento."
+  },
+  {
+    "intent_id": "sensor_temperatura_motor_propiedades_materiales",
+    "keywords": [
+      "sensor",
+      "temperatura",
+      "material",
+      "resistencia",
+      "calor"
+    ],
+    "base_response": "El sensor de temperatura del motor utiliza materiales con resistencia eléctrica sensible al calor. Estos materiales cambian su conductividad según la temperatura, permitiendo detectar variaciones térmicas. Su composición química debe soportar altas temperaturas y evitar degradación para mantener mediciones precisas y estables."
+  },
+  {
+    "intent_id": "sensor_temperatura_motor_fallas_comunes",
+    "keywords": [
+      "sensor",
+      "temperatura",
+      "motor",
+      "corrosion",
+      "lectura"
+    ],
+    "base_response": "El sensor de temperatura del motor puede fallar por corrosión interna, daños en el cableado o lecturas erróneas causadas por acumulación de suciedad. Estas fallas provocan señales incorrectas hacia la unidad de control, generando sobrecalentamiento, consumo elevado y pérdida de rendimiento general del motor."
+  },
+  {
+    "intent_id": "sensor_temperatura_motor_historia_evolucion",
+    "keywords": [
+      "sensor",
+      "motor",
+      "temperatura",
+      "tecnologia",
+      "medicion"
+    ],
+    "base_response": "El sensor de temperatura del motor surgió con los primeros sistemas de enfriamiento controlado. Evolucionó desde simples bulbos térmicos hasta dispositivos electrónicos precisos que permiten monitorear el calor del motor. Su desarrollo mejoró la eficiencia, seguridad y rendimiento en vehículos modernos."
+  },
+  {
+    "intent_id": "sensor_temperatura_motor_contexto_ecologico",
+    "keywords": [
+      "sensor",
+      "temperatura",
+      "motor",
+      "ecosistema",
+      "energia"
+    ],
+    "base_response": "El sensor de temperatura del motor contribuye al cuidado ambiental al permitir un control térmico eficiente que reduce emisiones contaminantes. Su funcionamiento adecuado evita sobrecalentamientos que incrementan consumo de energía y favorecen un uso responsable de recursos dentro del ecosistema automotriz."
+  },
+  {
+    "intent_id": "sensor_temperatura_motor_aplicaciones_practicas",
+    "keywords": [
+      "sensor",
+      "temperatura",
+      "motor",
+      "calentamiento",
+      "funcionamiento"
+    ],
+    "base_response": "El sensor de temperatura del motor permite controlar el calentamiento real del vehículo. Su señal ayuda a ajustar la mezcla de combustible, activar el ventilador y evitar daños internos. Gracias a este componente, el motor mantiene un funcionamiento estable en distintas condiciones de uso cotidiano."
+  },
+  {
+    "intent_id": "sensor_temperatura_motor_importancia_social",
+    "keywords": [
+      "sensor",
+      "motor",
+      "temperatura",
+      "seguridad",
+      "funcionamiento"
+    ],
+    "base_response": "El sensor de temperatura del motor contribuye a la seguridad vial al evitar sobrecalentamientos que pueden causar fallas graves. Su correcto funcionamiento reduce accidentes, disminuye costos de mantenimiento y favorece un uso responsable de recursos, impactando positivamente en la movilidad y el bienestar comunitario."
+  },
+  {
+    "intent_id": "sensor_temperatura_motor_ventajas_desventajas",
+    "keywords": [
+      "sensor",
+      "temperatura",
+      "motor",
+      "medicion",
+      "control"
+    ],
+    "base_response": "El sensor de temperatura del motor ofrece medición precisa y respuesta rápida, mejorando el control del sistema. Sin embargo, puede fallar por suciedad o desgaste y requiere reemplazo periódico. Su eficiencia supera métodos antiguos, aunque depende totalmente de la electrónica del vehículo."
+  },
+  {
+    "intent_id": "sensor_temperatura_motor_riesgos_seguridad",
+    "keywords": [
+      "sensor",
+      "temperatura",
+      "motor",
+      "calentamiento",
+      "manipular"
+    ],
+    "base_response": "El sensor de temperatura del motor puede dañarse si se manipula con el motor caliente, generando quemaduras y fallas graves. Antes de tocarlo, se debe apagar el vehículo, esperar su enfriamiento y usar guantes aislantes para evitar lesiones y proteger el sistema de control térmico."
+  },
+  {
+    "intent_id": "sensor_temperatura_motor_clasificacion_taxonomica",
+    "keywords": [
+      "sensor",
+      "temperatura",
+      "motor",
+      "termistor",
+      "resistencia"
+    ],
+    "base_response": "El sensor de temperatura del motor se clasifica taxonómicamente como un dispositivo termoeléctrico basado en termistores. Estos elementos modifican su resistencia eléctrica según la temperatura, permitiendo identificar variaciones térmicas del motor mediante señales precisas que el sistema de control interpreta para ajustar su funcionamiento."
+  },
+  {
+    "intent_id": "sensor_temperatura_motor_calculos_termicos",
+    "keywords": [
+      "sensor",
+      "temperatura",
+      "motor",
+      "resistencia",
+      "voltaje"
+    ],
+    "base_response": "El sensor de temperatura del motor utiliza la variación de resistencia para calcular la temperatura mediante la ecuación R=R0·e^(β(1/T−1/T0)). La unidad de control convierte ese cambio en voltaje y aplica tablas de calibración para determinar con precisión el valor térmico del motor."
+  },
+  {
+    "intent_id": "sensor_temperatura_motor_mitos_concepciones_erroneas",
+    "keywords": [
+      "sensor",
+      "temperatura",
+      "motor",
+      "fallo",
+      "lectura"
+    ],
+    "base_response": "Muchos creen que el sensor de temperatura solo sirve para mostrar datos en el tablero, pero realmente regula funciones críticas del motor. También es falso pensar que cualquier fallo proviene del sensor, pues problemas de refrigeración pueden generar lecturas incorrectas sin que el componente esté dañado."
+  },
+  {
+    "intent_id": "sensor_temperatura_motor_interaccion_sistemas",
+    "keywords": [
+      "sensor",
+      "temperatura",
+      "motor",
+      "refrigerante",
+      "combustion"
+    ],
+    "base_response": "El sensor de temperatura del motor establece una relación simbiótica con sistemas que dependen de datos térmicos precisos. Su lectura ajusta la mezcla de combustión, regula el flujo del refrigerante y coordina la operación del ventilador, garantizando equilibrio funcional y protección térmica integral."
+  },
+  {
+    "intent_id": "sensor_temperatura_motor_transformacion_energetica",
+    "keywords": [
+      "motor",
+      "sensor",
+      "temperatura",
+      "energia",
+      "combustion"
+    ],
+    "base_response": "El sensor de temperatura del motor permite controlar la transformación energética dentro del ciclo de combustión. Al medir el calor generado, ayuda a regular la mezcla y evitar pérdidas de energía, asegurando que cada fase del proceso mantenga eficiencia térmica y estabilidad operativa."
+  },
+  {
+    "intent_id": "sensor_temperatura_motor_experimentos_escolares",
+    "keywords": [
+      "sensor",
+      "temperatura",
+      "motor",
+      "circuito",
+      "medicion"
+    ],
+    "base_response": "El sensor de temperatura del motor puede demostrarse usando un termistor conectado a un circuito simple. Al calentar el termistor con una fuente controlada, los estudiantes observan cómo cambia la resistencia y cómo ese cambio se convierte en una señal que representa la temperatura del motor."
+  },
+  {
+    "intent_id": "sensor_temperatura_motor_consecuencias_largo_plazo",
+    "keywords": [
+      "sensor",
+      "temperatura",
+      "motor",
+      "fallo",
+      "desgaste"
+    ],
+    "base_response": "El mal funcionamiento del sensor de temperatura del motor provoca lecturas incorrectas que alteran la mezcla de combustible y la refrigeración. Con el tiempo, estas fallas generan sobrecalentamiento, mayor desgaste interno, reducción de eficiencia y posibles daños permanentes en componentes críticos del sistema."
+  },
+  {
+    "intent_id": "sensor_temperatura_motor_impacto_ambiental",
+    "keywords": [
+      "sensor",
+      "temperatura",
+      "motor",
+      "combustion",
+      "emision"
+    ],
+    "base_response": "El sensor de temperatura del motor permite ajustar la combustión para reducir emisiones contaminantes. Al detectar variaciones térmicas, optimiza el uso de combustible y disminuye la generación de gases nocivos. Su funcionamiento adecuado contribuye directamente a un menor impacto ambiental durante la operación vehicular."
+  },
+  {
+    "intent_id": "sensor_temperatura_mantenimiento_prevencion",
+    "keywords": [
+      "sensor",
+      "motor",
+      "temperatura",
+      "mantenimiento",
+      "fallo"
+    ],
+    "base_response": "El sensor de temperatura del motor requiere revisiones periódicas para evitar lecturas incorrectas que afecten el rendimiento. Mantener sus conexiones limpias y verificar su estado permite prevenir sobrecalentamientos, reducir daños internos y asegurar un funcionamiento estable en diversas condiciones de uso."
+  },
+  {
+    "intent_id": "sensor_temperatura_motor_proyecciones_tecnologicas",
+    "keywords": [
+      "sensor",
+      "temperatura",
+      "motor",
+      "innovacion",
+      "algoritmo"
+    ],
+    "base_response": "Los sensores de temperatura del motor evolucionarán hacia dispositivos inteligentes capaces de predecir fallas mediante algoritmos avanzados. Integrarán materiales más resistentes y comunicación inalámbrica para mejorar el control térmico. Su precisión permitirá sistemas automotrices autónomos con mayor eficiencia y seguridad operativa."
+  }
+]
