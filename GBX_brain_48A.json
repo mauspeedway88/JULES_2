@@ -1,0 +1,2312 @@
+[
+  {
+    "intent_id": "clasificacion_taxonomica_turbocompresor",
+    "keywords": [
+      "turbocompresor",
+      "clasificacion",
+      "componentes",
+      "rotor",
+      "carcasa"
+    ],
+    "base_response": "La clasificación taxonómica del turbocompresor organiza sus partes y funciones en categorías técnicas, permitiendo identificar componentes como carcasa, rotor y válvula. Esta estructura facilita comprender cómo cada elemento contribuye al aumento de presión y eficiencia del motor."
+  },
+  {
+    "intent_id": "calculos_junta_culata",
+    "keywords": [
+      "calculos",
+      "presion",
+      "torque",
+      "fuerza",
+      "area"
+    ],
+    "base_response": "La junta de culata requiere cálculos precisos de presión, torque y área para asegurar el sellado del motor. Los estudiantes aplican fórmulas como presión igual a fuerza sobre área y torque igual a fuerza por distancia para comprender su funcionamiento."
+  },
+  {
+    "intent_id": "estructura_bujias_encendido",
+    "keywords": [
+      "bujia",
+      "electrodo",
+      "cilindro",
+      "combustion",
+      "motor"
+    ],
+    "base_response": "Las bujías son componentes metálicos pequeños que se enroscan en la culata del motor y contienen un electrodo central y otro lateral. Su estructura permite generar una chispa eléctrica precisa dentro del cilindro, iniciando la combustión que pone en marcha el funcionamiento interno del motor."
+  },
+  {
+    "intent_id": "estructura_sistema_refrigeracion_motor",
+    "keywords": [
+      "motor",
+      "radiador",
+      "bomba",
+      "termostato",
+      "refrigerante"
+    ],
+    "base_response": "El sistema de refrigeración del motor es una estructura que integra radiador, bomba, termostato y conductos para mover refrigerante. Su función anatómica es mantener la temperatura adecuada del motor evitando daños por calor excesivo mediante la circulación continua del fluido."
+  },
+  {
+    "intent_id": "riesgos_seguridad_multiple_escape",
+    "keywords": [
+      "motor",
+      "escape",
+      "temperatura",
+      "seguridad",
+      "proteccion"
+    ],
+    "base_response": "El múltiple de escape puede alcanzar temperaturas extremas y liberar gases tóxicos; tocarlo o manipularlo sin protección provoca quemaduras y daños respiratorios. Se debe evitar acercarse cuando el motor está caliente, usar guantes resistentes y revisar fugas para prevenir accidentes graves."
+  },
+  {
+    "intent_id": "impacto_ambiental_aceite_lubricante",
+    "keywords": [
+      "aceite",
+      "motor",
+      "contaminacion",
+      "ecosistemas",
+      "reciclaje"
+    ],
+    "base_response": "El aceite lubricante interno del motor puede contaminar suelos y agua cuando se desecha incorrectamente. Sus componentes químicos afectan ecosistemas y requieren procesos de reciclaje adecuados. Comprender su impacto ambiental ayuda a reducir riesgos y promover prácticas responsables en el mantenimiento vehicular."
+  },
+  {
+    "intent_id": "historia_origen_evolucion_radiador",
+    "keywords": [
+      "radiador",
+      "motor",
+      "historia",
+      "evolucion",
+      "enfriamiento"
+    ],
+    "base_response": "El radiador del motor surgió a finales del siglo XIX para enfriar motores tempranos. Su diseño evolucionó desde simples tubos metálicos hasta sistemas de aluminio con aletas y ventiladores, mejorando la disipación térmica y permitiendo motores más potentes y eficientes."
+  },
+  {
+    "intent_id": "riesgos_seguridad_junta_culata",
+    "keywords": [
+      "motor",
+      "junta",
+      "seguridad",
+      "riesgos",
+      "manipular"
+    ],
+    "base_response": "La junta de culata debe manipularse con cuidado porque su falla puede causar fugas peligrosas y sobrecalentamiento. Es esencial evitar tocar superficies calientes, usar guantes resistentes y seguir procedimientos mecánicos seguros para prevenir accidentes durante la revisión o sustitución del componente."
+  },
+  {
+    "intent_id": "impacto_ecologico_arbol_levas",
+    "keywords": [
+      "motor",
+      "eficiencia",
+      "emisiones",
+      "combustion",
+      "tecnologias"
+    ],
+    "base_response": "El árbol de levas influye en la eficiencia del motor y, por ende, en su impacto ambiental. Comprender su función permite valorar tecnologías que reducen emisiones, optimizan combustión y favorecen prácticas automotrices responsables dentro de un entorno ecológico sostenible."
+  },
+  {
+    "intent_id": "propiedades_materiales_valvulas_escape",
+    "keywords": [
+      "materiales",
+      "corrosion",
+      "aleaciones",
+      "acero",
+      "resistencia"
+    ],
+    "base_response": "Las válvulas de escape requieren materiales resistentes al calor extremo y a la corrosión, como aleaciones de acero y níquel. Su composición química evita deformaciones, mantiene la estanqueidad y soporta gases calientes, garantizando durabilidad y funcionamiento seguro del motor."
+  },
+  {
+    "intent_id": "historia_origen_evolucion_escape",
+    "keywords": [
+      "escape",
+      "motor",
+      "historia",
+      "evolucion",
+      "ingenieria"
+    ],
+    "base_response": "El múltiple de escape surgió en los primeros motores de combustión para canalizar gases y evolucionó desde diseños simples de hierro fundido hasta configuraciones optimizadas que mejoran flujo y eficiencia, reflejando avances históricos en ingeniería automotriz y materiales."
+  },
+  {
+    "intent_id": "impacto_ecologico_carter_inferior",
+    "keywords": [
+      "carter",
+      "motor",
+      "ecosistema",
+      "contaminacion",
+      "mantenimiento"
+    ],
+    "base_response": "El cárter inferior del motor vehicular influye en el entorno ecológico porque contiene y protege el aceite, evitando fugas que contaminan suelos y agua. Su buen mantenimiento reduce emisiones indirectas y promueve prácticas automotrices responsables que ayudan a conservar ecosistemas locales."
+  },
+  {
+    "intent_id": "impacto_ambiental_valvulas_escape",
+    "keywords": [
+      "valvulas",
+      "escape",
+      "emisiones",
+      "contaminantes",
+      "combustion"
+    ],
+    "base_response": "Las válvulas de escape influyen en el impacto ambiental al liberar gases quemados; su eficiencia reduce emisiones nocivas, mejora la combustión y disminuye contaminantes atmosféricos. Un diseño adecuado contribuye a motores más limpios y menor huella ecológica."
+  },
+  {
+    "intent_id": "mantenimiento_preventivo_biela_conexion",
+    "keywords": [
+      "biela",
+      "conexion",
+      "lubricacion",
+      "inspeccion",
+      "desgaste"
+    ],
+    "base_response": "La biela de conexión requiere inspecciones periódicas para evitar desgaste, holguras y fallas graves. Revisar lubricación, ruidos anómalos y alineación ayuda a mantener el motor estable. Un mantenimiento preventivo adecuado prolonga la vida útil y reduce reparaciones costosas en sistemas automotrices."
+  },
+  {
+    "intent_id": "mitos_turbocompresor_aire_motor",
+    "keywords": [
+      "turbocompresor",
+      "motor",
+      "aire",
+      "mitos",
+      "rendimiento"
+    ],
+    "base_response": "Muchos creen que el turbocompresor da potencia ilimitada o que siempre daña el motor, pero en realidad funciona comprimiendo aire de forma controlada. Los mitos surgen por confundir mal uso, falta de mantenimiento y expectativas irreales sobre su capacidad real en el rendimiento automotriz."
+  },
+  {
+    "intent_id": "mantenimiento_pistones_moviles",
+    "keywords": [
+      "pistones",
+      "mantenimiento",
+      "lubricacion",
+      "desgaste",
+      "prevencion"
+    ],
+    "base_response": "El mantenimiento de pistones móviles exige revisar desgaste, lubricación y limpieza para evitar fallas graves. Supervisar holguras, reemplazar anillos dañados y usar aceite adecuado prolonga la vida del motor y previene sobrecalentamientos que afectan su rendimiento."
+  },
+  {
+    "intent_id": "experimentos_pistones_moviles",
+    "keywords": [
+      "pistones",
+      "motor",
+      "energia",
+      "compresion",
+      "expansion"
+    ],
+    "base_response": "Los estudiantes pueden observar cómo los pistones móviles transforman la energía del combustible en movimiento mediante modelos transparentes y experimentos simples. Usando jeringas y cilindros, pueden simular la compresión y expansión, comprendiendo visualmente el ciclo básico dentro del motor."
+  },
+  {
+    "intent_id": "estructura_valvulas_admision",
+    "keywords": [
+      "valvula",
+      "cilindro",
+      "culata",
+      "tallo",
+      "motor"
+    ],
+    "base_response": "Las válvulas de admisión son piezas metálicas ubicadas en la culata del motor que abren y cierran el paso del aire hacia los cilindros. Tienen forma de tallo con cabeza circular y funcionan mediante un árbol de levas que controla su movimiento preciso."
+  },
+  {
+    "intent_id": "mantenimiento_preventivo_inyectores_combustible",
+    "keywords": [
+      "inyectores",
+      "combustible",
+      "mantenimiento",
+      "limpieza",
+      "obstrucciones"
+    ],
+    "base_response": "Los inyectores de combustible requieren limpieza periódica y revisión para evitar obstrucciones que afecten el rendimiento del motor. Un mantenimiento adecuado previene fallas, reduce consumo excesivo y asegura una combustión eficiente, prolongando la vida útil del sistema y mejorando la seguridad del vehículo."
+  },
+  {
+    "intent_id": "impacto_ecologico_cadena_tiempo",
+    "keywords": [
+      "cadena",
+      "motor",
+      "energia",
+      "emisiones",
+      "mantenimiento"
+    ],
+    "base_response": "La cadena de tiempo influye en el consumo energético del motor y, por ende, en su impacto ambiental. Un mantenimiento adecuado reduce emisiones, mejora la eficiencia y prolonga la vida útil del vehículo, contribuyendo a un entorno ecológico más equilibrado y sostenible."
+  },
+  {
+    "intent_id": "historia_origen_evolucion_culata_superior",
+    "keywords": [
+      "culata",
+      "motor",
+      "combustion",
+      "evolucion",
+      "ingenieria"
+    ],
+    "base_response": "La culata superior surgió en los primeros motores de combustión del siglo XIX y evolucionó para alojar válvulas y mejorar la eficiencia. Su diseño pasó de piezas simples de hierro a configuraciones avanzadas de aluminio que optimizan la combustión y soportan mayores presiones en motores modernos."
+  },
+  {
+    "intent_id": "relacion_simbiotica_inyectores_sistemas_motor",
+    "keywords": [
+      "inyectores",
+      "combustible",
+      "suministro",
+      "sensores",
+      "admision"
+    ],
+    "base_response": "Los inyectores de combustible trabajan en simbiosis con la bomba, el riel y la electrónica del motor, asegurando suministro preciso. Su coordinación permite mezclas óptimas, evita fallas y mantiene eficiencia al interactuar estrechamente con sensores, válvulas y el sistema de admisión."
+  },
+  {
+    "intent_id": "importancia_social_valvulas_admision",
+    "keywords": [
+      "valvulas",
+      "motor",
+      "eficiencia",
+      "movilidad",
+      "impacto"
+    ],
+    "base_response": "Las válvulas de admisión influyen en la eficiencia del motor, reduciendo consumo y emisiones. Su buen funcionamiento favorece la movilidad segura y accesible, impactando la calidad de vida y apoyando prácticas automotrices responsables que contribuyen al bienestar social y al cuidado ambiental."
+  },
+  {
+    "intent_id": "clasificacion_volante_inercia_motor",
+    "keywords": [
+      "volante",
+      "inercia",
+      "energia",
+      "motor",
+      "rotacion"
+    ],
+    "base_response": "El volante de inercia del motor se clasifica taxonómicamente como un componente mecánico rotacional que almacena energía cinética. Pertenece al sistema de transmisión, donde su función principal es estabilizar el giro del cigüeñal y facilitar la continuidad del movimiento en motores de combustión interna."
+  },
+  {
+    "intent_id": "fallas_comunes_bujias_motor",
+    "keywords": [
+      "bujia",
+      "encendido",
+      "hollin",
+      "sobrecalentamiento",
+      "instalacion"
+    ],
+    "base_response": "Las bujías pueden fallar por desgaste del electrodo, acumulación de hollín, sobrecalentamiento o mala instalación. Estos errores provocan encendido irregular, pérdida de potencia y mayor consumo de combustible. Detectar síntomas como tirones o arranques difíciles ayuda a prevenir daños mayores en el motor."
+  },
+  {
+    "intent_id": "dinamica_fisica_culata_motor",
+    "keywords": [
+      "culata",
+      "valvulas",
+      "combustion",
+      "presion",
+      "sincronizacion"
+    ],
+    "base_response": "La culata superior dirige el flujo de gases y aloja válvulas que abren y cierran según la presión interna. Su forma controla la combustión, permitiendo que el motor convierta energía térmica en movimiento. La dinámica depende del sellado, la temperatura y la sincronización mecánica."
+  },
+  {
+    "intent_id": "riesgos_biela_conexion",
+    "keywords": [
+      "biela",
+      "conexion",
+      "riesgos",
+      "seguridad",
+      "inspeccion"
+    ],
+    "base_response": "La biela de conexión implica riesgos como desgaste, fracturas y fallas que pueden causar daños graves al motor. Es esencial revisar su estado, usar herramientas adecuadas, seguir procedimientos seguros y evitar manipular piezas calientes o en movimiento para prevenir accidentes."
+  },
+  {
+    "intent_id": "calculos_mecanicos_multiple_escape",
+    "keywords": [
+      "presion",
+      "flujo",
+      "temperatura",
+      "calculo",
+      "rendimiento"
+    ],
+    "base_response": "El múltiple de escape requiere cálculos de presión, velocidad de flujo y temperatura para optimizar la expulsión de gases. Se aplican fórmulas como Q=v·A y relaciones térmicas para estimar pérdidas energéticas y mejorar el rendimiento del motor mediante análisis cuantitativos precisos."
+  },
+  {
+    "intent_id": "propiedades_materiales_inyectores_combustible",
+    "keywords": [
+      "acero",
+      "aleacion",
+      "corrosion",
+      "combustible",
+      "atomizacion"
+    ],
+    "base_response": "Los inyectores de combustible usan materiales resistentes a la corrosión y altas temperaturas, como aceros especiales y aleaciones, que soportan reacciones químicas del combustible. Estas propiedades garantizan una atomización estable y evitan daños internos, asegurando un rendimiento eficiente del motor."
+  },
+  {
+    "intent_id": "transformacion_ciclos_energeticos_bloque_motor",
+    "keywords": [
+      "combustion",
+      "energia",
+      "cilindros",
+      "pistones",
+      "movimiento"
+    ],
+    "base_response": "El bloque central del motor convierte la energía química del combustible en movimiento mediante ciclos térmicos. Sus cilindros alojan pistones que transforman la combustión en fuerza mecánica continua, permitiendo que la energía fluya y se renueve en cada ciclo para impulsar el vehículo eficientemente."
+  },
+  {
+    "intent_id": "transformacion_ciclos_energeticos_volante_inercia",
+    "keywords": [
+      "energia",
+      "motor",
+      "rotacion",
+      "almacenamiento",
+      "estabilidad"
+    ],
+    "base_response": "El volante de inercia almacena energía mecánica del motor durante su giro, estabilizando el ciclo de combustión y permitiendo una transferencia continua de energía. Su masa y velocidad ayudan a transformar impulsos irregulares en movimiento uniforme, optimizando la eficiencia energética del sistema automotriz."
+  },
+  {
+    "intent_id": "mantenimiento_multiple_admision",
+    "keywords": [
+      "admision",
+      "motor",
+      "mantenimiento",
+      "limpieza",
+      "flujo"
+    ],
+    "base_response": "El múltiple de admisión requiere limpieza periódica para evitar obstrucciones que reduzcan el flujo de aire hacia el motor. Revisar sellos, eliminar depósitos de carbón y asegurar un ajuste correcto previene fallas, mejora la combustión y prolonga la vida útil del sistema de admisión."
+  },
+  {
+    "intent_id": "aplicaciones_practicas_junta_culata",
+    "keywords": [
+      "motor",
+      "junta",
+      "compresion",
+      "sellado",
+      "funcionamiento"
+    ],
+    "base_response": "La junta de culata permite que el motor funcione sin fugas, asegurando compresión y evitando mezclas peligrosas. En la vida diaria garantiza que autos, motocicletas y maquinaria operen con eficiencia, reduzcan averías y mantengan un rendimiento seguro en desplazamientos, trabajos mecánicos y transporte cotidiano."
+  },
+  {
+    "intent_id": "impacto_ecologico_multiple_escape",
+    "keywords": [
+      "escape",
+      "motor",
+      "emisiones",
+      "ecosistema",
+      "contaminacion"
+    ],
+    "base_response": "El múltiple de escape influye en la calidad del aire al guiar gases contaminantes hacia sistemas que reducen emisiones. Su diseño adecuado disminuye partículas dañinas y contribuye a proteger ecosistemas, promoviendo prácticas automotrices responsables y mayor conciencia ambiental en el uso cotidiano de vehículos."
+  },
+  {
+    "intent_id": "definicion_estructura_pistones_moviles",
+    "keywords": [
+      "piston",
+      "cilindro",
+      "combustion",
+      "presion",
+      "movimiento"
+    ],
+    "base_response": "Los pistones móviles son piezas cilíndricas que se desplazan dentro de los cilindros del motor. Su estructura incluye una cabeza sólida, anillos de sellado y un faldón que guía el movimiento. Esta anatomía permite transformar la presión generada por la combustión en movimiento mecánico útil."
+  },
+  {
+    "intent_id": "definicion_estructura_intercooler",
+    "keywords": [
+      "intercooler",
+      "motor",
+      "enfriamiento",
+      "aire",
+      "estructura"
+    ],
+    "base_response": "El intercooler es un componente estructural del sistema automotriz que enfría el aire comprimido antes de entrar al motor. Su diseño incluye conductos internos y aletas metálicas que facilitan la disipación térmica, mejorando la eficiencia y reduciendo el estrés térmico en la mecánica del vehículo."
+  },
+  {
+    "intent_id": "mantenimiento_preventivo_junta_culata",
+    "keywords": [
+      "junta",
+      "culata",
+      "mantenimiento",
+      "inspeccion",
+      "sellado"
+    ],
+    "base_response": "La junta de culata requiere inspección periódica para evitar fugas que dañen el motor. Revisar su estado, controlar el torque de los pernos y atender sobrecalentamientos previene fallas mayores. Un mantenimiento oportuno asegura sellado correcto y prolonga la vida útil del sistema."
+  },
+  {
+    "intent_id": "experimentos_cadena_tiempo_motor",
+    "keywords": [
+      "cadena",
+      "motor",
+      "engranajes",
+      "sincronizacion",
+      "demostracion"
+    ],
+    "base_response": "Los estudiantes pueden construir un modelo simple de cadena de tiempo usando bandas elásticas y engranajes plásticos, observando cómo sincroniza el movimiento entre cigüeñal y árbol de levas. La demostración permite visualizar tensión, alineación y efectos de desajustes controlados."
+  },
+  {
+    "intent_id": "impacto_ambiental_turbocompresor",
+    "keywords": [
+      "turbocompresor",
+      "emisiones",
+      "combustible",
+      "contaminacion",
+      "eficiencia"
+    ],
+    "base_response": "El turbocompresor influye en el impacto ambiental al mejorar la eficiencia del motor, reduciendo emisiones y consumo de combustible. Al aprovechar mejor la energía de los gases de escape, disminuye la contaminación atmosférica y contribuye a un uso más responsable de los recursos energéticos."
+  },
+  {
+    "intent_id": "propiedades_materiales_culata_superior",
+    "keywords": [
+      "materiales",
+      "corrosion",
+      "aleaciones",
+      "aluminio",
+      "combustion"
+    ],
+    "base_response": "La culata superior del bloque motor utiliza materiales resistentes al calor y la corrosión, como aleaciones de aluminio o hierro fundido. Sus propiedades químicas permiten soportar altas temperaturas, evitar reacciones indeseadas y mantener la estabilidad estructural durante la combustión."
+  },
+  {
+    "intent_id": "ventajas_desventajas_culata_superior",
+    "keywords": [
+      "culata",
+      "bloque",
+      "motor",
+      "eficiencia",
+      "rendimiento"
+    ],
+    "base_response": "La culata superior del bloque motor ofrece ventajas como mejor sellado y eficiencia térmica, pero también presenta desventajas como mayor complejidad, costos elevados y necesidad de mantenimiento preciso. Comparar estos aspectos ayuda a entender su impacto en el rendimiento automotriz."
+  },
+  {
+    "intent_id": "riesgos_seguridad_radiador_motor",
+    "keywords": [
+      "radiador",
+      "motor",
+      "seguridad",
+      "riesgo",
+      "temperatura"
+    ],
+    "base_response": "El radiador del motor puede causar quemaduras graves si se abre caliente; siempre espera a que enfríe, usa guantes resistentes y evita tocar mangueras presurizadas. Mantén distancia al revisar fugas y reporta cualquier sobrecalentamiento para prevenir accidentes y daños mayores."
+  },
+  {
+    "intent_id": "clasificacion_taxonomica_bomba_agua_motor",
+    "keywords": [
+      "bomba",
+      "motor",
+      "refrigerante",
+      "circulacion",
+      "sistema"
+    ],
+    "base_response": "La bomba de agua del motor se clasifica taxonómicamente como un componente mecánico dentro del sistema de refrigeración automotriz, perteneciente al conjunto de dispositivos hidráulicos que permiten la circulación del refrigerante, integrándose funcionalmente en la categoría de elementos auxiliares del motor."
+  },
+  {
+    "intent_id": "propiedades_quimicas_refrigeracion_motor",
+    "keywords": [
+      "anticongelante",
+      "glicol",
+      "corrosion",
+      "materiales",
+      "transferencia"
+    ],
+    "base_response": "El sistema de refrigeración usa anticongelantes con glicoles y aditivos que resisten la corrosión, estabilizan el pH y mejoran la transferencia térmica. Estos compuestos protegen metales como aluminio y hierro, evitando reacciones químicas que dañan conductos y garantizando un funcionamiento seguro del motor."
+  },
+  {
+    "intent_id": "calculos_filtro_aire_motor",
+    "keywords": [
+      "flujo",
+      "densidad",
+      "volumen",
+      "presion",
+      "eficiencia"
+    ],
+    "base_response": "El filtro de aire influye en la mezcla aire‑combustible, cuya relación se calcula usando la fórmula masa del aire igual a densidad por volumen. Un filtro obstruido reduce el caudal, afectando el cálculo del flujo volumétrico y la eficiencia del motor mediante variaciones en presión y velocidad."
+  },
+  {
+    "intent_id": "impacto_social_filtro_aire_motor",
+    "keywords": [
+      "motor",
+      "filtro",
+      "emisiones",
+      "contaminacion",
+      "movilidad"
+    ],
+    "base_response": "El filtro de aire del motor influye en la calidad del aire y en la salud pública al reducir emisiones contaminantes. Su buen funcionamiento disminuye impactos ambientales, mejora la eficiencia vehicular y contribuye a una movilidad más segura y responsable dentro de las comunidades."
+  },
+  {
+    "intent_id": "transformacion_ciclos_energeticos_culata",
+    "keywords": [
+      "culata",
+      "combustion",
+      "energia",
+      "ciclo",
+      "flujo"
+    ],
+    "base_response": "La culata superior del bloque motor dirige la transformación energética al controlar la mezcla aire‑combustible, permitir la combustión y guiar los ciclos térmicos que impulsan el movimiento. Sus cámaras y conductos optimizan el flujo, asegurando eficiencia en cada fase del proceso mecánico."
+  },
+  {
+    "intent_id": "demostraciones_aceite_lubricante",
+    "keywords": [
+      "aceite",
+      "lubricante",
+      "friccion",
+      "motor",
+      "experimento"
+    ],
+    "base_response": "Los estudiantes pueden observar cómo el aceite lubricante reduce la fricción usando modelos simples de piezas móviles comparando movimientos con y sin aceite midiendo temperatura generada y analizando desgaste Estas demostraciones permiten comprender su función interna en el motor mediante experimentos seguros y controlados."
+  },
+  {
+    "intent_id": "experimentos_sistema_refrigeracion_motor",
+    "keywords": [
+      "motor",
+      "refrigeracion",
+      "radiador",
+      "experimento",
+      "temperatura"
+    ],
+    "base_response": "Los estudiantes pueden observar cómo el motor pierde eficiencia al calentarse mediante maquetas simples, midiendo temperaturas con sensores escolares y comparando el flujo de agua en circuitos cerrados. Experimentos con radiadores pequeños muestran cómo la transferencia de calor mantiene estable el funcionamiento del motor."
+  },
+  {
+    "intent_id": "cuidado_sistema_refrigeracion_motor",
+    "keywords": [
+      "refrigerante",
+      "radiador",
+      "mantenimiento",
+      "mangueras",
+      "prevencion"
+    ],
+    "base_response": "El sistema de refrigeración requiere revisar periódicamente el nivel del refrigerante, limpiar el radiador y asegurar el buen estado de mangueras y termostato. Estas acciones previenen sobrecalentamientos, reducen daños internos y prolongan la vida útil del motor mediante un mantenimiento constante y responsable."
+  },
+  {
+    "intent_id": "experimentos_inyectores_combustible",
+    "keywords": [
+      "atomizacion",
+      "inyector",
+      "combustible",
+      "flujo",
+      "demostracion"
+    ],
+    "base_response": "Los estudiantes pueden observar cómo un inyector de combustible atomiza agua coloreada usando una bomba manual, comparando patrones de rociado y presión. Esta demostración permite entender la distribución del combustible y evaluar efectos de obstrucciones simuladas en el flujo del motor."
+  },
+  {
+    "intent_id": "impacto_largo_plazo_turbocompresor",
+    "keywords": [
+      "turbocompresor",
+      "motor",
+      "desgaste",
+      "temperatura",
+      "mantenimiento"
+    ],
+    "base_response": "El uso prolongado de turbocompresores puede generar mayor desgaste del motor, incremento de temperatura interna y necesidad de mantenimiento especializado. A largo plazo, influye en la vida útil del vehículo y exige prácticas de conducción responsables para evitar fallas costosas y reducir riesgos mecánicos."
+  },
+  {
+    "intent_id": "impacto_social_valvulas_escape",
+    "keywords": [
+      "valvulas",
+      "escape",
+      "motor",
+      "emisiones",
+      "transporte"
+    ],
+    "base_response": "Las válvulas de escape influyen en la eficiencia del motor y en la reducción de emisiones, lo que impacta directamente en la calidad del aire y la salud pública. Su buen funcionamiento favorece prácticas automotrices responsables y contribuye al bienestar social mediante transporte más limpio y seguro."
+  },
+  {
+    "intent_id": "ventajas_desventajas_turbocompresor",
+    "keywords": [
+      "potencia",
+      "eficiencia",
+      "calor",
+      "mantenimiento",
+      "comparacion"
+    ],
+    "base_response": "El turbocompresor ofrece mayor potencia y eficiencia al aprovechar gases de escape, pero puede generar más calor, exigir mantenimiento especializado y aumentar el riesgo de fallas. Comparar sus ventajas y desventajas ayuda a decidir su uso adecuado en motores modernos."
+  },
+  {
+    "intent_id": "riesgos_sistema_refrigeracion_motor",
+    "keywords": [
+      "motor",
+      "refrigeracion",
+      "seguridad",
+      "riesgos",
+      "radiador"
+    ],
+    "base_response": "El sistema de refrigeración del motor implica riesgos como quemaduras por líquido caliente y daños por presión. Para evitar accidentes se debe esperar a que el motor enfríe, usar guantes, revisar fugas y manipular el radiador con precaución."
+  },
+  {
+    "intent_id": "riesgos_seguridad_valvulas_escape",
+    "keywords": [
+      "valvula",
+      "escape",
+      "riesgo",
+      "seguridad",
+      "proteccion"
+    ],
+    "base_response": "Las válvulas de escape pueden generar quemaduras y daños auditivos si se manipulan sin cuidado. Es esencial evitar tocar componentes calientes, usar guantes resistentes al calor y protección auditiva, y mantener distancia cuando el motor está en funcionamiento para prevenir accidentes graves."
+  },
+  {
+    "intent_id": "riesgos_seguridad_volante_inercia",
+    "keywords": [
+      "volante",
+      "inercia",
+      "riesgos",
+      "seguridad",
+      "proteccion"
+    ],
+    "base_response": "El volante de inercia del motor puede causar lesiones graves si se manipula sin cuidado. Su rotación rápida exige evitar acercar manos u objetos y usar protección adecuada. Antes de cualquier revisión, el motor debe estar apagado y frío para reducir riesgos mecánicos y térmicos."
+  },
+  {
+    "intent_id": "experimentos_biela_conexion_motor",
+    "keywords": [
+      "biela",
+      "conexion",
+      "piston",
+      "rotacion",
+      "modelo"
+    ],
+    "base_response": "La biela de conexión puede explorarse mediante modelos articulados hechos con cartón y varillas, mostrando cómo transforma el movimiento lineal en rotación. Los estudiantes pueden construir un mecanismo simple y observar su función al mover manualmente el pistón simulado."
+  },
+  {
+    "intent_id": "impacto_ambiental_inyectores_combustible",
+    "keywords": [
+      "combustible",
+      "inyeccion",
+      "emisiones",
+      "contaminacion",
+      "combustion"
+    ],
+    "base_response": "Los inyectores de combustible influyen en el impacto ambiental al regular la cantidad de gasolina que entra al motor, reduciendo emisiones contaminantes cuando funcionan correctamente. Un mal estado aumenta humo tóxico, desperdicio de energía y contribuye al calentamiento global por combustión ineficiente."
+  },
+  {
+    "intent_id": "impacto_ambiental_pistones_moviles",
+    "keywords": [
+      "piston",
+      "friccion",
+      "combustible",
+      "emisiones",
+      "contaminacion"
+    ],
+    "base_response": "Los pistones móviles influyen en el impacto ambiental del motor porque su fricción y peso afectan la eficiencia energética. Un diseño optimizado reduce emisiones, mejora el uso del combustible y disminuye la contaminación atmosférica generada por vehículos en funcionamiento cotidiano."
+  },
+  {
+    "intent_id": "historia_origen_evolucion_arbol_levas",
+    "keywords": [
+      "arbol",
+      "mecanismos",
+      "evolucion",
+      "motores",
+      "valvulas"
+    ],
+    "base_response": "El árbol de levas surgió en mecanismos antiguos como relojes medievales, evolucionó con los primeros motores de combustión para controlar válvulas con precisión, y se perfeccionó mediante diseños más ligeros y rápidos que mejoraron eficiencia, potencia y confiabilidad en la historia automotriz."
+  },
+  {
+    "intent_id": "calculos_aceite_lubricante_motor",
+    "keywords": [
+      "viscosidad",
+      "calculo",
+      "friccion",
+      "flujo",
+      "presion"
+    ],
+    "base_response": "Los cálculos del aceite lubricante interno del motor incluyen estimar viscosidad dinámica, volumen requerido y presión de flujo. Se aplican fórmulas como μ=τ/γ y Q=(ΔP·π·r⁴)/(8·μ·L) para comprender cómo el aceite reduce fricción y mantiene eficiencia."
+  },
+  {
+    "intent_id": "mitos_valvulas_escape_motor",
+    "keywords": [
+      "valvula",
+      "escape",
+      "motor",
+      "gases",
+      "sincronizacion"
+    ],
+    "base_response": "Muchos estudiantes creen que las válvulas de escape solo liberan humo o que funcionan igual que las de admisión. En realidad, regulan la salida de gases calientes y requieren sincronización precisa. Pensar que fallan solo por suciedad es otro mito común que confunde su verdadero papel mecánico."
+  },
+  {
+    "intent_id": "impacto_ambiental_volante_inercia_motor",
+    "keywords": [
+      "volante",
+      "inercia",
+      "motor",
+      "emisiones",
+      "eficiencia"
+    ],
+    "base_response": "El volante de inercia influye en el impacto ambiental al mejorar la eficiencia del motor, reduciendo vibraciones y consumo de combustible. Su funcionamiento estable disminuye emisiones contaminantes y contribuye a un uso energético más responsable en vehículos automotrices modernos."
+  },
+  {
+    "intent_id": "mitos_carter_inferior_motor",
+    "keywords": [
+      "carter",
+      "motor",
+      "lubricacion",
+      "proteccion",
+      "mantenimiento"
+    ],
+    "base_response": "Muchos estudiantes creen que el cárter inferior solo almacena aceite y no influye en el funcionamiento del motor. En realidad, su diseño evita fugas, mantiene la lubricación estable y protege componentes internos. Pensar que es una pieza simple genera errores al interpretar fallas mecánicas."
+  },
+  {
+    "intent_id": "ventajas_desventajas_multiple_escape",
+    "keywords": [
+      "escape",
+      "motor",
+      "gases",
+      "flujo",
+      "eficiencia"
+    ],
+    "base_response": "El múltiple de escape influye en el rendimiento del motor al optimizar la salida de gases. Sus ventajas incluyen mejor flujo y eficiencia, mientras que sus desventajas pueden ser mayor costo, peso y complejidad. Comparar diseños ayuda a elegir soluciones equilibradas según necesidades mecánicas."
+  },
+  {
+    "intent_id": "importancia_impacto_social_bloque_motor",
+    "keywords": [
+      "motor",
+      "bloque",
+      "impacto",
+      "movilidad",
+      "transporte"
+    ],
+    "base_response": "El bloque central del motor influye en la movilidad social al permitir transporte seguro y eficiente, facilitando acceso a educación, salud y trabajo. Su fiabilidad reduce costos comunitarios y promueve desarrollo económico, mejorando la calidad de vida colectiva."
+  },
+  {
+    "intent_id": "calculos_bomba_agua_motor",
+    "keywords": [
+      "bomba",
+      "motor",
+      "calculo",
+      "presion",
+      "potencia"
+    ],
+    "base_response": "La bomba de agua del motor requiere cálculos de caudal usando Q = A × v, estimación de presión mediante P = F ÷ A y análisis de potencia con la fórmula P = Q × Δp. Estos valores permiten verificar eficiencia, evitar sobrecalentamiento y asegurar circulación estable del refrigerante."
+  },
+  {
+    "intent_id": "historia_origen_evolucion_carter_inferior",
+    "keywords": [
+      "carter",
+      "motor",
+      "lubricante",
+      "evolucion",
+      "estructura"
+    ],
+    "base_response": "El cárter inferior del motor surgió como una solución temprana para contener y proteger el aceite lubricante. Su diseño evolucionó desde simples bandejas metálicas hasta estructuras más resistentes y selladas, adaptándose a motores más potentes y a mayores exigencias de durabilidad."
+  },
+  {
+    "intent_id": "proyecciones_futuras_arbol_levas",
+    "keywords": [
+      "tecnologia",
+      "sensores",
+      "algoritmos",
+      "eficiencia",
+      "actuadores"
+    ],
+    "base_response": "El árbol de levas evolucionará hacia sistemas electrónicos inteligentes capaces de ajustar perfiles y tiempos en tiempo real, integrándose con sensores avanzados y algoritmos predictivos para optimizar eficiencia, reducir emisiones y adaptarse a motores híbridos y eléctricos mediante control dinámico de actuadores precisos."
+  },
+  {
+    "intent_id": "interaccion_ciguenal_sistemas_motor",
+    "keywords": [
+      "ciguenal",
+      "pistones",
+      "bielas",
+      "lubricacion",
+      "transmision"
+    ],
+    "base_response": "El cigüeñal principal funciona en simbiosis con pistones, bielas y el sistema de lubricación, convirtiendo la energía lineal en rotación estable. Su coordinación asegura potencia continua, reduce desgaste y mantiene la sincronía con la transmisión y el sistema de enfriamiento del motor."
+  },
+  {
+    "intent_id": "cuidado_volante_inercia_motor",
+    "keywords": [
+      "volante",
+      "inercia",
+      "mantenimiento",
+      "revision",
+      "transmision"
+    ],
+    "base_response": "El volante de inercia requiere revisiones periódicas para evitar desgaste, vibraciones y fallas en el arranque. Mantenerlo limpio, alineado y sin grietas asegura un funcionamiento estable del motor y previene daños mayores en el sistema de transmisión."
+  },
+  {
+    "intent_id": "impacto_largo_plazo_pistones_moviles",
+    "keywords": [
+      "piston",
+      "motor",
+      "desgaste",
+      "eficiencia",
+      "mantenimiento"
+    ],
+    "base_response": "Los pistones móviles, al operar continuamente, generan desgaste que afecta la eficiencia del motor. A largo plazo, un mantenimiento deficiente provoca pérdida de potencia, mayor consumo de combustible y posibles fallas estructurales que reducen la vida útil del vehículo y elevan costos de reparación."
+  },
+  {
+    "intent_id": "impacto_social_termostato_motor",
+    "keywords": [
+      "motor",
+      "termostato",
+      "temperatura",
+      "movilidad",
+      "emisiones"
+    ],
+    "base_response": "El termostato del motor mantiene la temperatura óptima, evitando fallas que afectan la movilidad comunitaria. Su buen funcionamiento reduce emisiones, mejora la eficiencia energética y contribuye a un transporte más seguro y sostenible, impactando directamente la calidad de vida y el entorno social."
+  },
+  {
+    "intent_id": "ventajas_desventajas_bujias_motor",
+    "keywords": [
+      "bujias",
+      "encendido",
+      "durabilidad",
+      "rendimiento",
+      "costo"
+    ],
+    "base_response": "Las bujías ofrecen encendido confiable y mejor eficiencia, pero pueden desgastarse rápido según el material. Compararlas permite entender su durabilidad, costo y rendimiento, ayudando a elegir opciones adecuadas para distintos motores y condiciones de uso."
+  },
+  {
+    "intent_id": "calculos_funcion_cadena_tiempo",
+    "keywords": [
+      "angulo",
+      "rotacion",
+      "valvula",
+      "sincronizacion",
+      "engranes"
+    ],
+    "base_response": "La cadena de tiempo exige cálculos precisos del ángulo de apertura y cierre de válvulas, usando relaciones entre rotación del cigüeñal y del árbol de levas. Fórmulas como ángulo_valvula = rotación_cigüeñal ÷ relación_engranes permiten verificar sincronización y evitar fallos mecánicos."
+  },
+  {
+    "intent_id": "pistones_moviles_relacion_simbiotica_sistemas",
+    "keywords": [
+      "piston",
+      "motor",
+      "energia",
+      "movimiento",
+      "combustion"
+    ],
+    "base_response": "Los pistones móviles trabajan en simbiosis con sistemas como el cigüeñal, las válvulas y la lubricación, transformando la energía de combustión en movimiento coordinado. Su interacción precisa garantiza eficiencia, evita daños y mantiene el motor funcionando de forma estable y equilibrada."
+  },
+  {
+    "intent_id": "fallas_ciguenal_motor",
+    "keywords": [
+      "ciguenal",
+      "desgaste",
+      "vibracion",
+      "corrosion",
+      "alineacion"
+    ],
+    "base_response": "El cigüeñal principal puede sufrir desgaste por lubricación insuficiente, grietas por esfuerzos excesivos, desalineación por montaje incorrecto, deformaciones térmicas y corrosión interna, provocando vibraciones, pérdida de potencia y fallas graves que afectan la estabilidad y seguridad del motor."
+  },
+  {
+    "intent_id": "impacto_ecologico_cilindros_motor",
+    "keywords": [
+      "cilindros",
+      "motor",
+      "combustible",
+      "emisiones",
+      "tecnologia"
+    ],
+    "base_response": "Los cilindros del bloque del motor influyen en el consumo de combustible y emisiones, pues su diseño afecta la eficiencia energética. Comprender su función permite evaluar cómo los motores modernos reducen impacto ambiental mediante materiales optimizados y tecnologías que disminuyen contaminación y uso de recursos naturales."
+  },
+  {
+    "intent_id": "fallas_comunes_filtro_aire_motor",
+    "keywords": [
+      "filtro",
+      "motor",
+      "obstruccion",
+      "desgaste",
+      "mantenimiento"
+    ],
+    "base_response": "El filtro de aire del motor puede fallar por obstrucción, roturas o mala instalación. Estos errores reducen el flujo de aire, provocan pérdida de potencia, consumo excesivo de combustible y desgaste interno. Ignorar su mantenimiento favorece daños costosos y disminuye la eficiencia general del vehículo."
+  },
+  {
+    "intent_id": "experimentos_termico_termostato_motor",
+    "keywords": [
+      "motor",
+      "temperatura",
+      "experimento",
+      "medicion",
+      "termometro"
+    ],
+    "base_response": "Los estudiantes pueden observar cómo el termostato regula la temperatura del motor mediante experimentos con agua caliente y fría, simulando su apertura y cierre. Con materiales escolares, pueden medir cambios térmicos y comprender su función esencial en la eficiencia y protección del sistema automotriz."
+  },
+  {
+    "intent_id": "historia_filtro_aire_motor",
+    "keywords": [
+      "filtro",
+      "motor",
+      "historia",
+      "evolucion",
+      "materiales"
+    ],
+    "base_response": "El filtro de aire del motor surgió con los primeros automóviles para proteger el motor de impurezas. Evolucionó desde simples telas hasta sistemas avanzados de papel y materiales sintéticos, mejorando la eficiencia, durabilidad y rendimiento a lo largo del tiempo."
+  },
+  {
+    "intent_id": "fallas_comunes_culata_superior",
+    "keywords": [
+      "culata",
+      "grietas",
+      "fugas",
+      "compresion",
+      "sobrecalentamiento"
+    ],
+    "base_response": "La culata superior puede presentar grietas, deformaciones y fugas que afectan la compresión. También surgen fallas por sobrecalentamiento, desgaste de juntas y acumulación de residuos que bloquean conductos. Detectar estos problemas temprano evita daños mayores en el motor y reduce costos de reparación."
+  },
+  {
+    "intent_id": "impacto_ecologico_valvulas_escape",
+    "keywords": [
+      "valvulas",
+      "escape",
+      "emisiones",
+      "ecosistemas",
+      "transporte"
+    ],
+    "base_response": "Las válvulas de escape influyen en la calidad del aire porque liberan gases quemados del motor. Su buen funcionamiento reduce emisiones contaminantes y ayuda a proteger ecosistemas cercanos. Comprender su papel permite valorar tecnologías que disminuyen el impacto ambiental del transporte."
+  },
+  {
+    "intent_id": "experimentos_cilindros_bloque_motor",
+    "keywords": [
+      "cilindros",
+      "piston",
+      "compresion",
+      "presion",
+      "fuerza"
+    ],
+    "base_response": "Los cilindros del bloque del motor pueden explorarse creando modelos transparentes donde los estudiantes observen el movimiento simulado del pistón. Con jeringas y tubos, pueden reproducir la compresión del aire y analizar cómo la presión influye en la fuerza generada dentro del cilindro."
+  },
+  {
+    "intent_id": "calculos_cilindros_bloque_motor",
+    "keywords": [
+      "cilindros",
+      "calculo",
+      "volumen",
+      "formula",
+      "motor"
+    ],
+    "base_response": "Los cilindros del bloque del motor permiten calcular el volumen desplazado aplicando la fórmula V = π × r² × carrera. Comprender estas relaciones ayuda a estimar potencia, eficiencia y rendimiento, vinculando medidas geométricas con resultados mecánicos fundamentales en motores automotrices."
+  },
+  {
+    "intent_id": "ventajas_desventajas_arbol_levas",
+    "keywords": [
+      "arbol",
+      "motor",
+      "valvulas",
+      "rendimiento",
+      "mantenimiento"
+    ],
+    "base_response": "El árbol de levas ofrece precisión en la apertura de válvulas y mejora el rendimiento, pero puede generar mayor desgaste y requerir ajustes complejos. Su diseño influye en la eficiencia del motor, comparando ventajas como control exacto y desventajas como mantenimiento especializado."
+  },
+  {
+    "intent_id": "mitos_termostato_motor",
+    "keywords": [
+      "termostato",
+      "motor",
+      "temperatura",
+      "regulacion",
+      "mitos"
+    ],
+    "base_response": "Muchos estudiantes creen que el termostato solo enfría el motor, pero su función real es regular la temperatura óptima. Otro mito común es pensar que retirarlo mejora el rendimiento, cuando en realidad provoca fallas, desgaste y consumo excesivo de combustible."
+  },
+  {
+    "intent_id": "propiedades_materiales_radiador",
+    "keywords": [
+      "materiales",
+      "aluminio",
+      "cobre",
+      "corrosion",
+      "conductividad"
+    ],
+    "base_response": "El radiador utiliza materiales metálicos con alta conductividad térmica, como aluminio o cobre, que permiten transferir calor del refrigerante al aire. Sus propiedades químicas incluyen resistencia a la corrosión y estabilidad frente a temperaturas elevadas para asegurar un funcionamiento eficiente."
+  },
+  {
+    "intent_id": "riesgos_seguridad_bloque_motor",
+    "keywords": [
+      "motor",
+      "bloque",
+      "seguridad",
+      "riesgos",
+      "proteccion"
+    ],
+    "base_response": "El bloque central del motor exige reconocer riesgos como quemaduras, atrapamientos y exposición a piezas calientes. La seguridad requiere apagar el vehículo, usar guantes resistentes, evitar ropa suelta y mantener distancia de componentes en movimiento para prevenir accidentes durante cualquier revisión básica."
+  },
+  {
+    "intent_id": "historia_origen_evolucion_volante_inercia",
+    "keywords": [
+      "inercia",
+      "motor",
+      "historia",
+      "evolucion",
+      "tecnologia"
+    ],
+    "base_response": "El volante de inercia surgió en los primeros motores industriales del siglo XIX, evolucionando desde discos simples hasta diseños más ligeros y resistentes. Su desarrollo acompañó la mejora de materiales y tecnologías, permitiendo motores más estables, eficientes y confiables."
+  },
+  {
+    "intent_id": "importancia_social_ciguenal_principal",
+    "keywords": [
+      "motor",
+      "transporte",
+      "movilidad",
+      "comercio",
+      "impacto"
+    ],
+    "base_response": "El cigüeñal principal influye en la movilidad social al permitir motores confiables que sostienen transporte seguro, comercio eficiente y acceso a servicios esenciales. Su funcionamiento adecuado impacta directamente en la calidad de vida, favoreciendo comunidades conectadas y economías más dinámicas."
+  },
+  {
+    "intent_id": "impacto_social_carter_inferior",
+    "keywords": [
+      "carter",
+      "motor",
+      "aceite",
+      "seguridad",
+      "movilidad"
+    ],
+    "base_response": "El cárter inferior del motor vehicular influye en la seguridad y eficiencia del transporte al proteger y almacenar el aceite esencial. Su buen estado reduce fallas mecánicas, favorece la movilidad cotidiana y contribuye al bienestar social mediante desplazamientos confiables y sostenibles."
+  },
+  {
+    "intent_id": "definicion_estructural_inyectores_combustible",
+    "keywords": [
+      "inyector",
+      "combustible",
+      "motor",
+      "estructura",
+      "boquilla"
+    ],
+    "base_response": "Los inyectores de combustible son dispositivos precisos ubicados en el sistema de admisión del motor, diseñados para pulverizar gasolina o diésel en gotas finas. Su estructura incluye una boquilla, un cuerpo metálico y un mecanismo interno que controla el flujo."
+  },
+  {
+    "intent_id": "demostraciones_valvulas_escape",
+    "keywords": [
+      "valvula",
+      "escape",
+      "motor",
+      "experimento",
+      "gases"
+    ],
+    "base_response": "Los estudiantes pueden observar cómo una válvula de escape abre y cierra usando un modelo simple de cartón y resortes, demostrando el flujo de gases. Un experimento con una bomba manual permite visualizar la presión que impulsa la expulsión en motores reales."
+  },
+  {
+    "intent_id": "clasificacion_taxonomica_biela_conexion",
+    "keywords": [
+      "biela",
+      "motor",
+      "mecanismo",
+      "transmision",
+      "estructura"
+    ],
+    "base_response": "La biela de conexión del motor se clasifica taxonómicamente como un componente mecánico dentro del sistema de transmisión de fuerza, perteneciente al conjunto móvil del motor. Su función y diseño permiten ubicarla en categorías según tipo, material y aplicación técnica."
+  },
+  {
+    "intent_id": "importancia_social_bujias_encendido",
+    "keywords": [
+      "motor",
+      "bujia",
+      "emisiones",
+      "movilidad",
+      "impacto"
+    ],
+    "base_response": "Las bujías influyen en la eficiencia del motor, reduciendo emisiones y consumo. Su buen funcionamiento contribuye a una movilidad más limpia y segura, impactando positivamente la salud pública y el ambiente. Mantenerlas en buen estado favorece prácticas responsables y mejora la calidad de vida comunitaria."
+  },
+  {
+    "intent_id": "experimentos_radiador_motor",
+    "keywords": [
+      "radiador",
+      "motor",
+      "experimento",
+      "temperatura",
+      "ventilador"
+    ],
+    "base_response": "Los estudiantes pueden explorar cómo el radiador disipa calor construyendo modelos simples con botellas, agua caliente y ventiladores. Comparan temperaturas antes y después del flujo de aire, observan transferencia térmica y discuten cómo estos principios mantienen estable la temperatura del motor."
+  },
+  {
+    "intent_id": "mitos_bomba_agua_motor",
+    "keywords": [
+      "bomba",
+      "motor",
+      "refrigerante",
+      "flujo",
+      "corrosion"
+    ],
+    "base_response": "Muchos estudiantes creen que la bomba de agua solo enfría el motor, pero también mantiene el flujo constante del refrigerante. Otro mito común es pensar que falla por falta de agua, cuando en realidad suele dañarse por desgaste, corrosión o problemas en el sistema de refrigeración."
+  },
+  {
+    "intent_id": "consecuencias_largo_plazo_junta_culata",
+    "keywords": [
+      "motor",
+      "junta",
+      "sobrecalentamiento",
+      "desgaste",
+      "fallas"
+    ],
+    "base_response": "La junta de culata dañada puede causar sobrecalentamiento continuo, pérdida de potencia y desgaste interno del motor. A largo plazo, estos efectos reducen su vida útil, incrementan costos de reparación y pueden llevar a fallas completas que obligan a reemplazar componentes esenciales del vehículo."
+  },
+  {
+    "intent_id": "impacto_largo_plazo_valvulas_admision",
+    "keywords": [
+      "valvula",
+      "motor",
+      "desgaste",
+      "mantenimiento",
+      "eficiencia"
+    ],
+    "base_response": "Las válvulas de admisión influyen en la eficiencia futura del motor; si fallan, aumentan el desgaste interno, reducen la potencia y elevan el consumo. Su mantenimiento adecuado previene daños costosos y prolonga la vida útil del vehículo, asegurando un funcionamiento estable durante años."
+  },
+  {
+    "intent_id": "ventajas_desventajas_carter_inferior",
+    "keywords": [
+      "carter",
+      "aceite",
+      "proteccion",
+      "impactos",
+      "lubricacion"
+    ],
+    "base_response": "El cárter inferior ofrece protección y almacenamiento de aceite, destacando su bajo costo y fácil mantenimiento; sin embargo, puede ser vulnerable a impactos y fugas. Comparar sus ventajas y desventajas permite entender su importancia en la lubricación y durabilidad del motor vehicular."
+  },
+  {
+    "intent_id": "aplicaciones_practicas_valvulas_escape",
+    "keywords": [
+      "valvula",
+      "escape",
+      "motor",
+      "gases",
+      "rendimiento"
+    ],
+    "base_response": "Las válvulas de escape permiten liberar gases quemados del motor, asegurando eficiencia y evitando daños. En la vida diaria, su funcionamiento correcto mejora el rendimiento del automóvil, reduce emisiones y contribuye a un uso más seguro y responsable del vehículo."
+  },
+  {
+    "intent_id": "transformacion_ciclos_energeticos_carter_inferior",
+    "keywords": [
+      "carter",
+      "aceite",
+      "lubricacion",
+      "energia",
+      "movimiento"
+    ],
+    "base_response": "El cárter inferior del motor vehicular almacena y enfría el aceite que lubrica piezas móviles, permitiendo transformar energía química en movimiento. Su función sostiene ciclos energéticos eficientes al mantener la temperatura adecuada y asegurar la continuidad del flujo lubricante durante el funcionamiento mecánico."
+  },
+  {
+    "intent_id": "historia_origen_evolucion_correas_distribucion",
+    "keywords": [
+      "correa",
+      "motor",
+      "sincronizacion",
+      "evolucion",
+      "materiales"
+    ],
+    "base_response": "Las correas de distribución surgieron a mediados del siglo XX para sincronizar cigüeñal y árbol de levas. Su evolución pasó de materiales de caucho simple a compuestos resistentes que mejoraron durabilidad y precisión. Con el tiempo, su diseño permitió motores más eficientes y confiables en diversas aplicaciones automotrices."
+  },
+  {
+    "intent_id": "ventajas_desventajas_bloque_motor",
+    "keywords": [
+      "bloque",
+      "motor",
+      "estructura",
+      "rigidez",
+      "durabilidad"
+    ],
+    "base_response": "El bloque central del motor ofrece rigidez y buena disipación térmica, pero puede aumentar peso y complejidad. Sus ventajas incluyen estabilidad estructural y durabilidad; sus desventajas abarcan costos mayores y menor eficiencia en diseños que requieren materiales más ligeros para optimizar rendimiento general."
+  },
+  {
+    "intent_id": "demostracion_junta_culata_motor",
+    "keywords": [
+      "motor",
+      "junta",
+      "sellado",
+      "presion",
+      "experimento"
+    ],
+    "base_response": "La junta de culata puede explorarse en clase mediante maquetas simples que simulen el sellado entre bloque y culata. Un experimento útil consiste en usar placas transparentes y agua coloreada para mostrar fugas, permitiendo observar cómo un sellado defectuoso afecta la presión y el funcionamiento del motor."
+  },
+  {
+    "intent_id": "comparacion_ventajas_desventajas_cilindros",
+    "keywords": [
+      "cilindros",
+      "potencia",
+      "eficiencia",
+      "consumo",
+      "rendimiento"
+    ],
+    "base_response": "Los cilindros del bloque del motor ofrecen ventajas como mayor potencia y eficiencia cuando son numerosos, pero también presentan desventajas como mayor consumo, peso y complejidad mecánica. Compararlos permite entender cómo influyen en el rendimiento y mantenimiento vehicular."
+  },
+  {
+    "intent_id": "definicion_estructural_cilindros_motor",
+    "keywords": [
+      "cilindros",
+      "bloque",
+      "pistones",
+      "combustion",
+      "estructura"
+    ],
+    "base_response": "Los cilindros del bloque del motor son cavidades metálicas perfectamente alineadas donde se desplazan los pistones. Su forma tubular y su superficie lisa permiten el movimiento vertical, guiando la combustión y asegurando la estructura interna que sostiene el funcionamiento mecánico del motor."
+  },
+  {
+    "intent_id": "proyecciones_tecnologicas_multiple_admision",
+    "keywords": [
+      "sensores",
+      "materiales",
+      "geometrias",
+      "eficiencia",
+      "combustion"
+    ],
+    "base_response": "El múltiple de admisión evolucionará hacia diseños inteligentes capaces de ajustar el flujo de aire en tiempo real mediante sensores avanzados, materiales ligeros y geometrías activas, optimizando eficiencia, reduciendo emisiones y preparando motores para integrarse con sistemas híbridos y tecnologías de combustión más limpias."
+  },
+  {
+    "intent_id": "consecuencias_largo_plazo_aceite_motor",
+    "keywords": [
+      "aceite",
+      "lubricante",
+      "motor",
+      "desgaste",
+      "friccion"
+    ],
+    "base_response": "El aceite lubricante interno del motor influye en la durabilidad mecánica; si se descuida, aumenta el desgaste, la fricción y la acumulación de residuos. A largo plazo, esto provoca fallas costosas, menor eficiencia y reducción significativa de la vida útil del vehículo."
+  },
+  {
+    "intent_id": "experimentos_bloque_motor",
+    "keywords": [
+      "motor",
+      "bloque",
+      "cilindros",
+      "estructura",
+      "demostracion"
+    ],
+    "base_response": "Los estudiantes pueden explorar el bloque central del motor mediante modelos desmontables y pruebas simples que muestran cómo se alojan cilindros y conductos. Demostraciones con materiales escolares permiten visualizar la estructura interna y comprender su función mecánica básica."
+  },
+  {
+    "intent_id": "clasificacion_cadena_tiempo_motor",
+    "keywords": [
+      "sincronizacion",
+      "motor",
+      "transmision",
+      "coordinacion",
+      "mecanismo"
+    ],
+    "base_response": "La cadena de tiempo del motor se clasifica taxonómicamente como un componente mecánico de sincronización, agrupado dentro de sistemas de transmisión interna. Su función esencial es coordinar el movimiento entre cigüeñal y árbol de levas, asegurando precisión operativa."
+  },
+  {
+    "intent_id": "fallas_comunes_radiador_motor",
+    "keywords": [
+      "radiador",
+      "corrosion",
+      "refrigerante",
+      "ventilador",
+      "fugas"
+    ],
+    "base_response": "El radiador puede fallar por fugas, obstrucciones internas, corrosión, ventiladores defectuosos o uso de refrigerante inadecuado. Estos problemas reducen la disipación térmica, provocan sobrecalentamiento del motor y daños progresivos en piezas cercanas si no se atienden oportunamente."
+  },
+  {
+    "intent_id": "clasificacion_taxonomica_intercooler",
+    "keywords": [
+      "intercooler",
+      "motor",
+      "enfriamiento",
+      "clasificacion",
+      "sistema"
+    ],
+    "base_response": "Un intercooler se clasifica taxonómicamente como un componente del sistema de inducción forzada. Pertenece a los dispositivos de transferencia térmica que enfrían el aire comprimido antes de entrar al motor, organizándose según su método de enfriamiento y su integración en el conjunto automotriz."
+  },
+  {
+    "intent_id": "aplicaciones_practicas_carter_inferior",
+    "keywords": [
+      "carter",
+      "motor",
+      "aceite",
+      "lubricacion",
+      "seguridad"
+    ],
+    "base_response": "El cárter inferior del motor vehicular protege y almacena el aceite que lubrica las piezas móviles. En la vida real, su buen estado evita fugas, mantiene la eficiencia del motor y reduce averías, lo que ayuda a prolongar la vida útil del vehículo y mejorar la seguridad diaria."
+  },
+  {
+    "intent_id": "definicion_estructural_ciguenal_principal",
+    "keywords": [
+      "ciguenal",
+      "piston",
+      "rotacion",
+      "estructura",
+      "motor"
+    ],
+    "base_response": "El cigüeñal principal es un eje metálico con muñones y contrapesos que transforma el movimiento lineal de los pistones en rotación. Su estructura incluye brazos, apoyos y superficies de giro que permiten transmitir fuerza y mantener la estabilidad interna del motor automotriz."
+  },
+  {
+    "intent_id": "transformacion_ciclos_energeticos_pistones",
+    "keywords": [
+      "pistones",
+      "energia",
+      "combustion",
+      "movimiento",
+      "presion"
+    ],
+    "base_response": "Pistones móviles dentro del motor convierten energía química del combustible en movimiento mecánico mediante ciclos de combustión. Su desplazamiento transforma presión en fuerza útil, impulsando el cigüeñal y permitiendo la transferencia continua de energía durante cada fase del ciclo termodinámico."
+  },
+  {
+    "intent_id": "proyecciones_tecnologia_filtro_aire_motor",
+    "keywords": [
+      "sensores",
+      "materiales",
+      "nanoporos",
+      "combustion",
+      "emisiones"
+    ],
+    "base_response": "Los filtros de aire del motor evolucionarán hacia sistemas inteligentes capaces de autodiagnóstico, adaptación al entorno y mayor eficiencia. Integrarán sensores avanzados, materiales nanoporosos y conexión con la electrónica del vehículo para optimizar la combustión y reducir emisiones mediante control predictivo."
+  },
+  {
+    "intent_id": "riesgos_seguridad_ciguenal_motor",
+    "keywords": [
+      "seguridad",
+      "riesgos",
+      "motor",
+      "proteccion",
+      "mantenimiento"
+    ],
+    "base_response": "El cigüeñal principal implica riesgos por piezas giratorias, calor y presión. Es esencial evitar ropa suelta, mantener distancia, usar guantes y gafas, y seguir procedimientos de apagado. Estas medidas reducen accidentes y protegen a quienes observan o trabajan cerca del motor automotriz."
+  },
+  {
+    "intent_id": "impacto_ambiental_cilindros_bloque_motor",
+    "keywords": [
+      "cilindros",
+      "combustion",
+      "emisiones",
+      "materiales",
+      "eficiencia"
+    ],
+    "base_response": "Los cilindros del bloque influyen en el impacto ambiental porque su diseño afecta la eficiencia de combustión, el consumo de combustible y la emisión de gases contaminantes. Mejorar su geometría y materiales reduce residuos, disminuye emisiones y contribuye a motores más limpios y sostenibles."
+  },
+  {
+    "intent_id": "proyecciones_tecnologicas_biela_conexion",
+    "keywords": [
+      "materiales",
+      "sensores",
+      "diseno",
+      "motores",
+      "rendimiento"
+    ],
+    "base_response": "La biela de conexión evolucionará mediante materiales ultraligeros, sensores integrados y diseños inteligentes que optimicen resistencia y eficiencia. Su futuro se vincula a motores híbridos y sistemas automatizados capaces de monitorear desgaste, reducir vibraciones y mejorar el rendimiento energético en vehículos avanzados."
+  },
+  {
+    "intent_id": "impacto_ecologico_junta_culata",
+    "keywords": [
+      "motor",
+      "junta",
+      "sellado",
+      "emisiones",
+      "combustion"
+    ],
+    "base_response": "La junta de culata influye en la eficiencia ecológica del motor al asegurar un sellado adecuado que evita fugas contaminantes. Su buen estado reduce emisiones, mejora la combustión y contribuye a un entorno más limpio al disminuir el impacto ambiental del funcionamiento automotriz."
+  },
+  {
+    "intent_id": "estructura_carter_inferior",
+    "keywords": [
+      "carter",
+      "motor",
+      "aceite",
+      "cubierta",
+      "lubricacion"
+    ],
+    "base_response": "El cárter inferior del motor es una cubierta metálica situada bajo el bloque que resguarda el aceite lubricante. Su forma sellada evita fugas y protege componentes internos. Además, sirve como depósito donde el aceite se acumula antes de ser bombeado nuevamente al sistema."
+  },
+  {
+    "intent_id": "fallas_comunes_cadena_tiempo",
+    "keywords": [
+      "cadena",
+      "tension",
+      "lubricacion",
+      "sincronizacion",
+      "vibracion"
+    ],
+    "base_response": "La cadena de tiempo puede fallar por desgaste, tensión incorrecta o lubricación deficiente. Estos errores provocan ruidos metálicos, desajustes en la sincronización y daños internos. Detectar vibraciones anómalas y pérdida de potencia ayuda a prevenir roturas graves en el motor."
+  },
+  {
+    "intent_id": "definicion_estructural_bloque_motor",
+    "keywords": [
+      "bloque",
+      "motor",
+      "estructura",
+      "cilindros",
+      "pistones"
+    ],
+    "base_response": "El bloque central del motor es la estructura rígida que sostiene cilindros, conductos internos y soportes esenciales. Funciona como base anatómica donde se integran pistones, cigüeñal y sistemas de lubricación, garantizando alineación, estabilidad y resistencia térmica durante el funcionamiento mecánico."
+  },
+  {
+    "intent_id": "aplicaciones_reales_intercooler_automotriz",
+    "keywords": [
+      "intercooler",
+      "motor",
+      "enfriamiento",
+      "rendimiento",
+      "vehiculos"
+    ],
+    "base_response": "El intercooler enfría el aire comprimido antes de entrar al motor, mejorando su rendimiento en autos reales. Su uso permite acelerar con mayor eficiencia, reducir desgaste y mantener estabilidad térmica en vehículos que requieren potencia constante, como camiones de carga y autos deportivos modernos."
+  },
+  {
+    "intent_id": "impacto_ecologico_aceite_motor",
+    "keywords": [
+      "aceite",
+      "motor",
+      "contaminacion",
+      "reciclaje",
+      "ecosistemas"
+    ],
+    "base_response": "El aceite lubricante interno del motor influye en el entorno ecológico porque su producción, uso y desecho pueden generar contaminación. Comprender su ciclo de vida permite reducir impactos ambientales mediante reciclaje adecuado, menor consumo y elección de formulaciones menos dañinas para los ecosistemas."
+  },
+  {
+    "intent_id": "impacto_ecologico_termostato_motor",
+    "keywords": [
+      "termostato",
+      "motor",
+      "temperatura",
+      "eficiencia",
+      "emisiones"
+    ],
+    "base_response": "El termostato del motor ayuda a mantener una temperatura estable que reduce emisiones y consumo. Al funcionar correctamente, evita sobrecalentamientos que dañan componentes y generan residuos. Su regulación térmica contribuye a un entorno más limpio al optimizar la eficiencia energética del vehículo."
+  },
+  {
+    "intent_id": "clasificacion_taxonomica_culata_superior",
+    "keywords": [
+      "culata",
+      "bloque",
+      "motor",
+      "clasificacion",
+      "estructura"
+    ],
+    "base_response": "La culata superior del bloque motor se clasifica taxonómicamente como un componente estructural esencial del sistema de combustión interna. Su función y diseño permiten agruparla dentro de los elementos mecánicos que alojan válvulas y cámaras, facilitando la organización técnica del conjunto automotriz."
+  },
+  {
+    "intent_id": "dinamica_volante_inercia_motor",
+    "keywords": [
+      "energia",
+      "rotacion",
+      "motor",
+      "masa",
+      "estabilidad"
+    ],
+    "base_response": "El volante de inercia almacena energía rotacional del motor, estabiliza su velocidad y suaviza vibraciones. Su masa y forma permiten mantener el giro entre combustiones, asegurando continuidad dinámica. Funciona como un regulador físico que equilibra fuerzas internas y mejora la eficiencia mecánica general."
+  },
+  {
+    "intent_id": "proyecciones_futuras_intercooler_tecnologia",
+    "keywords": [
+      "intercooler",
+      "tecnologia",
+      "motor",
+      "eficiencia",
+      "enfriamiento"
+    ],
+    "base_response": "Los intercoolers futuros integrarán materiales avanzados y sensores inteligentes que optimizarán el enfriamiento del motor, permitiendo mayor eficiencia energética. Su evolución incluirá sistemas activos capaces de adaptarse a distintas condiciones, mejorando el rendimiento y reduciendo emisiones mediante control térmico predictivo."
+  },
+  {
+    "intent_id": "importancia_social_correas_distribucion",
+    "keywords": [
+      "seguridad",
+      "mantenimiento",
+      "transporte",
+      "impacto",
+      "movilidad"
+    ],
+    "base_response": "Las correas de distribución influyen en la seguridad vial y en la confiabilidad del transporte, evitando fallas que afectan a familias y servicios públicos. Su mantenimiento adecuado reduce accidentes, costos sociales y emisiones, apoyando comunidades más seguras y movilidad sostenible."
+  },
+  {
+    "intent_id": "calculos_ciguenal_motor",
+    "keywords": [
+      "torque",
+      "rotacion",
+      "esfuerzo",
+      "carga",
+      "resistencia"
+    ],
+    "base_response": "El cigüeñal principal requiere cálculos de torque, velocidad angular y esfuerzo cortante. Se aplican fórmulas como T = F × r y ω = 2π × rpm/60 para estimar cargas dinámicas. Estos valores permiten evaluar resistencia, deformaciones y desempeño mecánico seguro del motor."
+  },
+  {
+    "intent_id": "propiedades_materiales_junta_culata",
+    "keywords": [
+      "materiales",
+      "corrosion",
+      "sellado",
+      "compuestos",
+      "presion"
+    ],
+    "base_response": "La junta de culata usa materiales resistentes al calor y a la corrosión, como compuestos metálicos y elastómeros, que mantienen el sellado químico entre bloque y culata. Sus propiedades evitan reacciones indeseadas y soportan presiones extremas del motor sin degradarse rápidamente."
+  },
+  {
+    "intent_id": "dinamica_fisica_bujias_encendido",
+    "keywords": [
+      "chispa",
+      "combustion",
+      "electrodos",
+      "motor",
+      "energia"
+    ],
+    "base_response": "Las bujías generan una chispa eléctrica que enciende la mezcla aire‑combustible dentro del cilindro. Su funcionamiento depende de un arco eléctrico que salta entre electrodos, creando calor suficiente para iniciar la combustión y sostener la dinámica interna del motor durante cada ciclo de encendido."
+  },
+  {
+    "intent_id": "mitos_pistones_moviles_motor",
+    "keywords": [
+      "piston",
+      "motor",
+      "lubricacion",
+      "mitos",
+      "funcionamiento"
+    ],
+    "base_response": "Muchos estudiantes creen que los pistones pueden romperse fácilmente o que funcionan igual sin lubricación. En realidad, los pistones requieren aceite constante y precisión mecánica para evitar daños. También es falso que su tamaño determine toda la potencia del motor."
+  },
+  {
+    "intent_id": "historia_origen_evolucion_junta_culata",
+    "keywords": [
+      "motor",
+      "junta",
+      "culata",
+      "combustion",
+      "evolucion"
+    ],
+    "base_response": "La junta de culata surgió con los primeros motores de combustión interna para sellar la unión entre bloque y culata. Su evolución incluyó materiales como cobre, amianto y compuestos multicapa, mejorando resistencia al calor y presión para garantizar mayor eficiencia y durabilidad en los motores modernos."
+  },
+  {
+    "intent_id": "fallas_comunes_biela_motor",
+    "keywords": [
+      "biela",
+      "lubricacion",
+      "desgaste",
+      "vibracion",
+      "sobrecalentamiento"
+    ],
+    "base_response": "La biela de conexión puede sufrir desgaste por falta de lubricación, deformaciones por sobrecalentamiento y grietas por esfuerzos excesivos. Estos problemas generan vibraciones, pérdida de potencia y daños mayores en el motor si no se detectan y corrigen a tiempo."
+  },
+  {
+    "intent_id": "dinamica_funcionamiento_junta_culata",
+    "keywords": [
+      "motor",
+      "junta",
+      "presion",
+      "combustion",
+      "sellado"
+    ],
+    "base_response": "La junta de culata sella el bloque y la culata, evitando fugas de gases y líquidos. Su función física mantiene la presión interna del motor, soporta altas temperaturas y distribuye fuerzas para asegurar una combustión estable y eficiente durante el funcionamiento dinámico del motor."
+  },
+  {
+    "intent_id": "clasificacion_taxonomica_aceite_lubricante",
+    "keywords": [
+      "aceite",
+      "lubricante",
+      "motor",
+      "clasificacion",
+      "categoria"
+    ],
+    "base_response": "La clasificación taxonómica del aceite lubricante interno del motor organiza sus tipos según origen, composición y función, permitiendo identificar aceites minerales, sintéticos y semisintéticos. Esta estructura facilita comprender cómo cada categoría influye en la protección y rendimiento del motor."
+  },
+  {
+    "intent_id": "interaccion_aceite_sistemas_motor",
+    "keywords": [
+      "aceite",
+      "lubricacion",
+      "friccion",
+      "refrigeracion",
+      "sistemas"
+    ],
+    "base_response": "El aceite lubricante interno del motor coopera con sistemas como la bomba, el filtro y el circuito de refrigeración, reduciendo fricción, disipando calor y asegurando que las piezas móviles funcionen armónicamente para evitar desgaste, mantener eficiencia y prolongar la vida útil del conjunto mecánico."
+  },
+  {
+    "intent_id": "mantenimiento_intercooler_prevencion",
+    "keywords": [
+      "intercooler",
+      "mantenimiento",
+      "enfriamiento",
+      "fugas",
+      "rendimiento"
+    ],
+    "base_response": "El intercooler requiere mantenimiento regular para asegurar un enfriamiento eficiente del motor, evitando sobrecalentamientos y daños. Revisar conexiones, limpiar superficies y detectar fugas ayuda a prevenir fallas y prolongar la vida útil del sistema, garantizando un rendimiento seguro y estable."
+  },
+  {
+    "intent_id": "experimentos_valvulas_admision",
+    "keywords": [
+      "valvula",
+      "admision",
+      "motor",
+      "presion",
+      "flujo"
+    ],
+    "base_response": "Los estudiantes pueden observar cómo una válvula de admisión abre y cierra usando una maqueta simple con una tapa móvil. Al aplicar aire con una bomba manual, verán cómo la presión impulsa la apertura, demostrando el flujo de mezcla hacia el cilindro y su sincronización mecánica."
+  },
+  {
+    "intent_id": "clasificacion_taxonomica_correas_distribucion",
+    "keywords": [
+      "correa",
+      "motor",
+      "clasificacion",
+      "material",
+      "diseno"
+    ],
+    "base_response": "Las correas de distribución del motor se clasifican taxonómicamente según su función mecánica, materiales de fabricación y diseño estructural. Esta clasificación permite identificar variantes como correas dentadas, trapezoidales o sincronizadas, facilitando su estudio y diferenciación dentro del sistema automotriz."
+  },
+  {
+    "intent_id": "proyecciones_tecnologicas_termostato_motor",
+    "keywords": [
+      "termostato",
+      "sensores",
+      "algoritmos",
+      "materiales",
+      "eficiencia"
+    ],
+    "base_response": "El termostato del motor evolucionará hacia sistemas inteligentes capaces de ajustar la temperatura en tiempo real mediante sensores avanzados, algoritmos predictivos y materiales adaptativos, optimizando eficiencia, reduciendo emisiones y preparándose para integrar tecnologías híbridas y eléctricas con control térmico de alta precisión."
+  },
+  {
+    "intent_id": "proyecciones_futuras_tecnologia_ciguenal",
+    "keywords": [
+      "ciguenal",
+      "sensores",
+      "materiales",
+      "tecnologia",
+      "motores"
+    ],
+    "base_response": "El cigüeñal principal evolucionará mediante materiales ultraligeros, sensores integrados y sistemas de monitoreo inteligente que optimizarán la eficiencia. Su diseño permitirá motores híbridos avanzados, menor desgaste y adaptación automática, impulsando tecnologías automotrices más limpias y precisas."
+  },
+  {
+    "intent_id": "propiedades_materiales_correas_distribucion",
+    "keywords": [
+      "caucho",
+      "fibras",
+      "friccion",
+      "calor",
+      "materiales"
+    ],
+    "base_response": "Las correas de distribución usan materiales como caucho sintético y fibras resistentes que soportan calor, fricción y agentes químicos del motor. Su composición evita degradación prematura, mantiene flexibilidad y asegura transmisión estable del movimiento entre cigüeñal y árbol de levas."
+  },
+  {
+    "intent_id": "mitos_concepciones_erroneas_multiple_admision",
+    "keywords": [
+      "motor",
+      "admision",
+      "flujo",
+      "mezcla",
+      "eficiencia"
+    ],
+    "base_response": "Muchos estudiantes creen que el múltiple de admisión solo 'mete aire' al motor, pero también distribuye el flujo de manera equilibrada. Otro mito común es pensar que su forma no influye en el rendimiento, cuando en realidad afecta la mezcla aire‑combustible y la eficiencia general."
+  },
+  {
+    "intent_id": "experimentos_correa_distribucion",
+    "keywords": [
+      "correa",
+      "motor",
+      "sincronizacion",
+      "valvulas",
+      "pistones"
+    ],
+    "base_response": "Los estudiantes pueden observar cómo una maqueta de motor usa una correa de distribución para sincronizar válvulas y pistones. Con materiales simples, pueden simular tensiones, medir desplazamientos y comparar efectos al alterar la tensión, comprendiendo su importancia mecánica."
+  },
+  {
+    "intent_id": "mantenimiento_arbol_levas",
+    "keywords": [
+      "arbol",
+      "levas",
+      "mantenimiento",
+      "lubricacion",
+      "desgaste"
+    ],
+    "base_response": "El árbol de levas requiere mantenimiento periódico para evitar desgaste y fallas en la sincronización del motor. Revisar lubricación, holguras y ruidos anómalos ayuda a prevenir daños mayores y asegurar un funcionamiento eficiente y seguro en vehículos escolares."
+  },
+  {
+    "intent_id": "mantenimiento_cilindros_bloque_motor",
+    "keywords": [
+      "cilindros",
+      "mantenimiento",
+      "lubricacion",
+      "limpieza",
+      "prevencion"
+    ],
+    "base_response": "Los cilindros del bloque del motor requieren limpieza periódica, revisión de desgaste y control de lubricación para evitar daños. Mantener superficies libres de residuos y verificar la alineación ayuda a prevenir fallas, asegurar rendimiento estable y prolongar la vida útil del motor."
+  },
+  {
+    "intent_id": "aplicaciones_practicas_valvulas_admision",
+    "keywords": [
+      "aire",
+      "motor",
+      "valvulas",
+      "combustion",
+      "rendimiento"
+    ],
+    "base_response": "Las válvulas de admisión permiten que el aire entre al motor, haciendo posible la combustión que impulsa autos y motocicletas. Su funcionamiento influye en la eficiencia, potencia y consumo, mostrando cómo decisiones mecánicas afectan directamente el rendimiento cotidiano de los vehículos."
+  },
+  {
+    "intent_id": "fallas_comunes_intercooler_motor",
+    "keywords": [
+      "fugas",
+      "obstrucciones",
+      "corrosion",
+      "sobrecalentamiento",
+      "aceleracion"
+    ],
+    "base_response": "El intercooler puede fallar por fugas, obstrucciones o suciedad que reducen el flujo de aire. También sufre daños por golpes o corrosión, causando pérdida de potencia y sobrecalentamiento. Detectar ruidos extraños, humo o baja aceleración ayuda a identificar estas patologías tempranas."
+  },
+  {
+    "intent_id": "aplicaciones_practicas_bloque_motor",
+    "keywords": [
+      "motor",
+      "combustion",
+      "cilindros",
+      "energia",
+      "maquinaria"
+    ],
+    "base_response": "El bloque central del motor sostiene cilindros y conductos donde ocurre la combustión, permitiendo transformar energía en movimiento. En la vida diaria, su buen estado garantiza que autos, motocicletas y maquinaria funcionen con fuerza, eficiencia y menor desgaste, asegurando desplazamientos seguros y confiables."
+  },
+  {
+    "intent_id": "impacto_ecologico_sistema_refrigeracion",
+    "keywords": [
+      "motor",
+      "refrigeracion",
+      "ecosistema",
+      "emisiones",
+      "consumo"
+    ],
+    "base_response": "El sistema de refrigeración del motor influye en el entorno ecológico al controlar la temperatura y reducir emisiones contaminantes. Un mantenimiento adecuado evita fugas de refrigerante tóxico, disminuye el consumo energético y contribuye a prácticas automotrices responsables que protegen ecosistemas y recursos naturales."
+  },
+  {
+    "intent_id": "relacion_simbiotica_filtro_aire_motor",
+    "keywords": [
+      "filtro",
+      "motor",
+      "combustion",
+      "admision",
+      "proteccion"
+    ],
+    "base_response": "El filtro de aire del motor coopera con la admisión y la combustión al asegurar aire limpio, protegiendo sensores y válvulas. Su eficiencia mantiene la mezcla adecuada y evita daños, permitiendo que otros sistemas funcionen equilibrados y prolongando el rendimiento general del vehículo."
+  },
+  {
+    "intent_id": "aplicaciones_practicas_biela_conexion",
+    "keywords": [
+      "biela",
+      "motor",
+      "piston",
+      "rotacion",
+      "transmision"
+    ],
+    "base_response": "La biela de conexión transforma el movimiento del pistón en rotación útil del cigüeñal, permitiendo que motores de autos, motocicletas y maquinaria funcionen. Su resistencia y precisión influyen en la potencia, eficiencia y durabilidad de vehículos usados diariamente en transporte, trabajo y actividades cotidianas."
+  },
+  {
+    "intent_id": "propiedades_materiales_bomba_agua",
+    "keywords": [
+      "aluminio",
+      "corrosion",
+      "refrigerante",
+      "materiales",
+      "durabilidad"
+    ],
+    "base_response": "La bomba de agua del motor utiliza materiales resistentes a la corrosión, como aleaciones de aluminio y sellos de goma sintética, que soportan el contacto continuo con refrigerantes. Estas propiedades químicas garantizan durabilidad, evitan reacciones dañinas y mantienen un flujo estable para controlar la temperatura del motor."
+  },
+  {
+    "intent_id": "aplicaciones_practicas_cadena_tiempo",
+    "keywords": [
+      "sincronizacion",
+      "motor",
+      "valvulas",
+      "rendimiento",
+      "seguridad"
+    ],
+    "base_response": "La cadena de tiempo sincroniza cigüeñal y árbol de levas, permitiendo que las válvulas abran y cierren en el momento exacto. En la vida real, su buen estado evita fallas graves, mejora el rendimiento del motor y garantiza desplazamientos seguros en autos de uso cotidiano."
+  },
+  {
+    "intent_id": "interaccion_simbiotica_culata_sistemas_motor",
+    "keywords": [
+      "culata",
+      "motor",
+      "valvulas",
+      "combustion",
+      "sistema"
+    ],
+    "base_response": "La culata superior del bloque motor coordina válvulas, combustión y flujo de gases, trabajando en simbiosis con el sistema de lubricación, refrigeración y admisión para mantener eficiencia, evitar sobrecalentamientos y asegurar que cada ciclo del motor funcione estable y equilibrado."
+  },
+  {
+    "intent_id": "mantenimiento_preventivo_correas_distribucion",
+    "keywords": [
+      "correa",
+      "motor",
+      "mantenimiento",
+      "sincronizacion",
+      "reemplazo"
+    ],
+    "base_response": "Las correas de distribución requieren revisiones periódicas para evitar fallas graves del motor. Su desgaste puede causar desajustes en la sincronización interna, por lo que reemplazarlas según el kilometraje recomendado previene daños costosos y mantiene el funcionamiento seguro del vehículo."
+  },
+  {
+    "intent_id": "mantenimiento_preventivo_valvulas_escape",
+    "keywords": [
+      "valvulas",
+      "escape",
+      "mantenimiento",
+      "lubricacion",
+      "revision"
+    ],
+    "base_response": "Las válvulas de escape requieren limpieza periódica, revisión de holguras y lubricación adecuada para evitar desgaste y fugas. Un mantenimiento preventivo reduce fallos, mejora la expulsión de gases y prolonga la vida del motor, asegurando un funcionamiento seguro y eficiente en vehículos de uso cotidiano."
+  },
+  {
+    "intent_id": "fallas_comunes_aceite_lubricante_motor",
+    "keywords": [
+      "aceite",
+      "lubricante",
+      "contaminacion",
+      "viscosidad",
+      "desgaste"
+    ],
+    "base_response": "El aceite lubricante puede fallar por contaminación, pérdida de viscosidad o uso inadecuado. Estos errores provocan desgaste acelerado, sobrecalentamiento y ruidos internos. Ignorar cambios periódicos causa depósitos que bloquean conductos y reducen la protección del motor, generando daños costosos y evitables."
+  },
+  {
+    "intent_id": "mitos_cadena_tiempo_motor",
+    "keywords": [
+      "cadena",
+      "motor",
+      "sincronizacion",
+      "desgaste",
+      "mantenimiento"
+    ],
+    "base_response": "Muchos estudiantes creen que la cadena de tiempo del motor nunca falla o que solo sirve para sincronizar piezas simples. En realidad, su desgaste altera la precisión del motor y puede causar daños graves. También es falso que todas las cadenas duren toda la vida útil del vehículo."
+  },
+  {
+    "intent_id": "dinamica_funcionamiento_bomba_agua",
+    "keywords": [
+      "bomba",
+      "rotor",
+      "flujo",
+      "refrigerante",
+      "motor"
+    ],
+    "base_response": "La bomba de agua del motor impulsa el refrigerante mediante un rotor que gira por acción mecánica, creando flujo continuo. Esta dinámica mantiene la temperatura estable al transferir calor desde el bloque del motor hacia el radiador, asegurando un funcionamiento térmico eficiente y evitando sobrecalentamientos."
+  },
+  {
+    "intent_id": "transformacion_ciclos_energeticos_filtro_aire",
+    "keywords": [
+      "aire",
+      "motor",
+      "combustion",
+      "energia",
+      "ciclo"
+    ],
+    "base_response": "El filtro de aire del motor regula la entrada de oxígeno limpio, permitiendo una combustión eficiente que transforma la energía química del combustible en energía mecánica. Su función mantiene ciclos energéticos estables y evita pérdidas de rendimiento en el proceso automotriz."
+  },
+  {
+    "intent_id": "dinamica_funcionamiento_filtro_aire",
+    "keywords": [
+      "filtro",
+      "aire",
+      "combustion",
+      "presion",
+      "rendimiento"
+    ],
+    "base_response": "El filtro de aire del motor regula el flujo de aire limpio hacia la cámara de combustión, evitando partículas que alteran la mezcla aire‑combustible. Su estructura porosa crea resistencia controlada, estabilizando la presión y asegurando una combustión eficiente que mantiene el rendimiento físico del motor."
+  },
+  {
+    "intent_id": "clasificacion_taxonomica_bujias_motor",
+    "keywords": [
+      "bujia",
+      "encendido",
+      "motor",
+      "materiales",
+      "clasificacion"
+    ],
+    "base_response": "Las bujías se clasifican taxonómicamente según su diseño, materiales y función. Esta clasificación organiza tipos como bujías de cobre, platino o iridio, permitiendo identificar sus características técnicas y su adaptación al sistema de encendido del motor en distintos vehículos."
+  },
+  {
+    "intent_id": "propiedades_materiales_arbol_levas",
+    "keywords": [
+      "acero",
+      "friccion",
+      "calor",
+      "materiales",
+      "estabilidad"
+    ],
+    "base_response": "El árbol de levas del motor requiere materiales resistentes como acero aleado o hierro fundido, capaces de soportar fricción, calor y desgaste. Sus propiedades químicas, como dureza y estabilidad térmica, garantizan un funcionamiento preciso y duradero en la apertura y cierre de válvulas."
+  },
+  {
+    "intent_id": "dinamica_funcionamiento_cilindros_motor",
+    "keywords": [
+      "cilindros",
+      "pistones",
+      "combustion",
+      "presion",
+      "potencia"
+    ],
+    "base_response": "Los cilindros del bloque del motor guían el movimiento vertical de los pistones, convirtiendo la energía de la combustión en fuerza mecánica. Su forma y alineación permiten un desplazamiento suave, controlado y repetitivo, asegurando la transferencia eficiente de presión hacia el cigüeñal para generar potencia."
+  },
+  {
+    "intent_id": "mitos_inyectores_combustible",
+    "keywords": [
+      "inyector",
+      "motor",
+      "combustible",
+      "presion",
+      "calibracion"
+    ],
+    "base_response": "Muchos estudiantes creen que los inyectores fallan solo por suciedad o que aumentar su tamaño siempre mejora la potencia. En realidad, su desempeño depende de presión, calibración y electrónica. Estos mitos generan diagnósticos equivocados y reparaciones innecesarias en motores modernos."
+  },
+  {
+    "intent_id": "ventajas_desventajas_junta_culata",
+    "keywords": [
+      "motor",
+      "sellado",
+      "materiales",
+      "mantenimiento",
+      "desgaste"
+    ],
+    "base_response": "La junta de culata ofrece ventajas como sellado eficiente y resistencia térmica, pero puede presentar desventajas como desgaste acelerado, fallas por sobrecalentamiento y costos de reemplazo. Comparar materiales y mantenimiento permite elegir opciones más duraderas y adecuadas para distintos motores."
+  },
+  {
+    "intent_id": "mantenimiento_aceite_lubricante_motor",
+    "keywords": [
+      "aceite",
+      "lubricante",
+      "motor",
+      "mantenimiento",
+      "prevencion"
+    ],
+    "base_response": "El aceite lubricante interno del motor reduce la fricción, evita el desgaste y mantiene las piezas limpias. Revisarlo y cambiarlo periódicamente previene daños costosos, mejora el rendimiento y prolonga la vida útil del vehículo, asegurando un funcionamiento seguro y eficiente."
+  },
+  {
+    "intent_id": "impacto_social_arbol_levas",
+    "keywords": [
+      "motor",
+      "transporte",
+      "movilidad",
+      "emisiones",
+      "eficiencia"
+    ],
+    "base_response": "El árbol de levas influye en la eficiencia del motor, favoreciendo transporte seguro y confiable. Su precisión mejora el rendimiento vehicular, apoyando actividades cotidianas y productivas. Un funcionamiento adecuado reduce emisiones, contribuyendo al bienestar social y a la movilidad sostenible en comunidades urbanas y rurales."
+  },
+  {
+    "intent_id": "fallas_comunes_pistones_moviles",
+    "keywords": [
+      "piston",
+      "desgaste",
+      "carbonilla",
+      "compresion",
+      "sobrecalentamiento"
+    ],
+    "base_response": "Los pistones móviles pueden sufrir desgaste, grietas y acumulación de carbonilla que reducen su eficiencia. También presentan deformaciones por sobrecalentamiento y fallas en los anillos, causando pérdida de compresión. Detectar estos problemas temprano evita daños mayores en el motor y mejora su rendimiento."
+  },
+  {
+    "intent_id": "proyecciones_futuras_sistema_refrigeracion",
+    "keywords": [
+      "refrigeracion",
+      "sensores",
+      "materiales",
+      "eficiencia",
+      "tecnologia"
+    ],
+    "base_response": "El sistema de refrigeración del motor evolucionará hacia soluciones inteligentes que integren sensores avanzados, materiales autorregulables y refrigerantes ecológicos. Estas tecnologías permitirán mayor eficiencia térmica, diagnósticos predictivos y adaptación automática a distintas condiciones, optimizando el rendimiento y reduciendo el impacto ambiental."
+  },
+  {
+    "intent_id": "impacto_ambiental_valvulas_admision",
+    "keywords": [
+      "valvulas",
+      "admision",
+      "combustion",
+      "emisiones",
+      "motor"
+    ],
+    "base_response": "Las válvulas de admisión influyen en el impacto ambiental porque regulan la entrada de aire al motor, afectando la eficiencia de combustión y las emisiones. Un diseño adecuado reduce contaminantes, mejora el rendimiento y disminuye el consumo de combustible, contribuyendo a una operación más limpia."
+  },
+  {
+    "intent_id": "definicion_estructural_arbol_levas",
+    "keywords": [
+      "arbol",
+      "levas",
+      "motor",
+      "valvulas",
+      "combustion"
+    ],
+    "base_response": "El árbol de levas es un eje metálico con salientes llamados levas que coordinan la apertura y cierre de las válvulas del motor. Su forma y posición determinan el movimiento preciso dentro del sistema mecánico que regula la combustión."
+  },
+  {
+    "intent_id": "clasificacion_taxonomica_sistema_refrigeracion",
+    "keywords": [
+      "refrigeracion",
+      "motor",
+      "clasificacion",
+      "sistema",
+      "temperatura"
+    ],
+    "base_response": "El sistema de refrigeración del motor se clasifica taxonómicamente según el medio empleado para disipar calor, distinguiéndose en sistemas por aire y por líquido. Esta clasificación organiza sus componentes y funciones, facilitando comprender cómo cada tipo mantiene la temperatura operativa del motor."
+  },
+  {
+    "intent_id": "mitos_valvulas_admision_motor",
+    "keywords": [
+      "valvulas",
+      "admision",
+      "motor",
+      "mitos",
+      "sincronizacion"
+    ],
+    "base_response": "Muchos estudiantes creen que las válvulas de admisión solo 'abren y cierran', pero su sincronización es crítica. Un mito común afirma que más aperturas generan más potencia, cuando en realidad un mal ajuste reduce eficiencia, mezcla aire‑combustible y rendimiento general del motor."
+  },
+  {
+    "intent_id": "experimentos_multiples_admision_motor",
+    "keywords": [
+      "motor",
+      "admision",
+      "flujo",
+      "presion",
+      "experimento"
+    ],
+    "base_response": "El múltiple de admisión distribuye aire a los cilindros. En clase, los estudiantes pueden observar cómo cambia el flujo usando una bomba manual y tubos transparentes, comparando presión y velocidad. Este experimento demuestra la importancia del diseño del conducto en el rendimiento del motor."
+  },
+  {
+    "intent_id": "aplicaciones_practicas_multiple_admision",
+    "keywords": [
+      "motor",
+      "admision",
+      "aire",
+      "cilindros",
+      "rendimiento"
+    ],
+    "base_response": "El múltiple de admisión distribuye aire a los cilindros, permitiendo que el motor funcione de forma eficiente. En la vida diaria mejora el rendimiento del automóvil, reduce el consumo de combustible y ayuda a que el vehículo responda mejor al acelerar, especialmente en trayectos urbanos y carreteras."
+  },
+  {
+    "intent_id": "fallas_comunes_carter_inferior",
+    "keywords": [
+      "carter",
+      "fugas",
+      "golpes",
+      "lubricacion",
+      "fisuras"
+    ],
+    "base_response": "El cárter inferior puede presentar fugas por juntas dañadas, golpes que deforman su estructura, acumulación de lodos que obstruyen el retorno del aceite y fisuras por sobrecalentamiento. Estos problemas reducen la lubricación, provocan desgaste acelerado y posibles fallas graves en el motor."
+  },
+  {
+    "intent_id": "definicion_estructura_radiador_automotriz",
+    "keywords": [
+      "radiador",
+      "motor",
+      "refrigerante",
+      "estructura",
+      "tubos"
+    ],
+    "base_response": "El radiador es un conjunto metálico con tubos y aletas que recibe el calor del refrigerante del motor. Su estructura permite que el aire enfríe el líquido circulante, disipando energía térmica y manteniendo la temperatura operativa adecuada del sistema automotriz."
+  },
+  {
+    "intent_id": "dinamica_funcionamiento_multiple_admision",
+    "keywords": [
+      "flujo",
+      "presion",
+      "cilindros",
+      "combustion",
+      "conductos"
+    ],
+    "base_response": "El múltiple de admisión guía el aire hacia los cilindros, equilibrando su distribución mediante conductos que aprovechan la presión y la velocidad del flujo. Su forma influye en la eficiencia, permitiendo que el motor respire mejor y mejore la combustión bajo distintas condiciones de funcionamiento."
+  },
+  {
+    "intent_id": "historia_origen_evolucion_intercooler",
+    "keywords": [
+      "intercooler",
+      "motor",
+      "historia",
+      "evolucion",
+      "tecnologia"
+    ],
+    "base_response": "El intercooler surgió en motores turboalimentados de mediados del siglo XX para mejorar la eficiencia térmica. Su origen se relaciona con la necesidad de enfriar el aire comprimido. Con el tiempo evolucionó hacia diseños más ligeros, eficientes y adaptados a diversas aplicaciones automotrices."
+  },
+  {
+    "intent_id": "impacto_ambiental_termostato_motor",
+    "keywords": [
+      "termostato",
+      "motor",
+      "emisiones",
+      "temperatura",
+      "contaminacion"
+    ],
+    "base_response": "El termostato del motor influye en el impacto ambiental al mantener la temperatura óptima, reduciendo emisiones y consumo de combustible. Un funcionamiento ineficiente provoca mayor contaminación y desgaste, afectando la calidad del aire y el uso responsable de recursos."
+  },
+  {
+    "intent_id": "contexto_ecologico_bujias",
+    "keywords": [
+      "combustion",
+      "emisiones",
+      "residuos",
+      "energia",
+      "sostenibilidad"
+    ],
+    "base_response": "Las bujías influyen en el impacto ecológico del motor al asegurar una combustión eficiente que reduce emisiones contaminantes. Su mantenimiento adecuado disminuye residuos y mejora el rendimiento energético, contribuyendo a un entorno más limpio y sostenible en el uso cotidiano de vehículos."
+  },
+  {
+    "intent_id": "propiedades_materiales_cadena_tiempo",
+    "keywords": [
+      "acero",
+      "friccion",
+      "corrosion",
+      "recubrimiento",
+      "durabilidad"
+    ],
+    "base_response": "La cadena de tiempo del motor utiliza materiales resistentes a la fricción y a la corrosión, como aceros aleados y recubrimientos protectores, que mantienen su estabilidad química bajo altas temperaturas, asegurando durabilidad, precisión mecánica y funcionamiento confiable en sistemas automotrices modernos."
+  },
+  {
+    "intent_id": "fallas_comunes_arbol_levas",
+    "keywords": [
+      "desgaste",
+      "lubricacion",
+      "rotura",
+      "alineacion",
+      "valvulas"
+    ],
+    "base_response": "El árbol de levas puede presentar desgaste en sus lóbulos, desalineación, lubricación insuficiente y roturas por fatiga. Estos problemas generan fallas en la apertura de válvulas, pérdida de potencia, ruidos anómalos y daños mayores si no se detectan y corrigen a tiempo."
+  },
+  {
+    "intent_id": "fallas_volante_inercia_motor",
+    "keywords": [
+      "volante",
+      "inercia",
+      "desgaste",
+      "vibracion",
+      "arranque"
+    ],
+    "base_response": "El volante de inercia puede presentar desgaste por fricción, grietas por sobrecalentamiento, deformaciones que causan vibraciones y fallas en los dientes que impiden el arranque. Estos problemas suelen originarse por uso excesivo, mala alineación o golpes internos del motor."
+  },
+  {
+    "intent_id": "dinamica_funcionamiento_multiple_escape",
+    "keywords": [
+      "gases",
+      "cilindros",
+      "presion",
+      "flujo",
+      "potencia"
+    ],
+    "base_response": "El múltiple de escape guía los gases calientes desde los cilindros hacia el sistema de salida, aprovechando su presión y velocidad. Su forma influye en el flujo, reduciendo resistencia y mejorando la expulsión. Esta dinámica favorece eficiencia térmica, potencia y funcionamiento estable del motor."
+  },
+  {
+    "intent_id": "ventajas_desventajas_bomba_agua",
+    "keywords": [
+      "bomba",
+      "motor",
+      "enfriamiento",
+      "flujo",
+      "eficiencia"
+    ],
+    "base_response": "La bomba de agua del motor ofrece ventajas como enfriamiento constante y eficiencia térmica, pero puede presentar desventajas como desgaste de piezas y fallas por fugas. Compararla con sistemas eléctricos revela mayor fiabilidad mecánica, aunque menor precisión en control de flujo."
+  },
+  {
+    "intent_id": "proyecciones_futuras_tecnologia_cadena_tiempo",
+    "keywords": [
+      "motor",
+      "sincronizacion",
+      "sensores",
+      "algoritmos",
+      "materiales"
+    ],
+    "base_response": "La cadena de tiempo del motor evolucionará hacia sistemas inteligentes capaces de autodiagnóstico, sincronización predictiva y materiales avanzados que reduzcan desgaste. Su integración con sensores y algoritmos permitirá mayor eficiencia, menor mantenimiento y adaptación automática a condiciones variables en futuros motores automotrices."
+  },
+  {
+    "intent_id": "impacto_ecologico_pistones_moviles",
+    "keywords": [
+      "piston",
+      "motor",
+      "combustion",
+      "friccion",
+      "emisiones"
+    ],
+    "base_response": "Los pistones móviles influyen en el consumo de combustible y emisiones, pues su movimiento constante determina la eficiencia del motor. Comprender su función permite valorar tecnologías que reducen fricción, mejoran la combustión y disminuyen el impacto ambiental en el entorno automotriz moderno."
+  },
+  {
+    "intent_id": "propiedades_materiales_carter_inferior",
+    "keywords": [
+      "aluminio",
+      "acero",
+      "corrosion",
+      "lubricante",
+      "temperatura"
+    ],
+    "base_response": "El cárter inferior del motor se fabrica con materiales resistentes a la corrosión, como aluminio o acero, que soportan altas temperaturas y contacto constante con aceite. Sus propiedades químicas garantizan durabilidad, estabilidad estructural y protección frente a reacciones que puedan degradar el lubricante."
+  },
+  {
+    "intent_id": "propiedades_materiales_bujias_motor",
+    "keywords": [
+      "ceramica",
+      "aleacion",
+      "iridio",
+      "corrosion",
+      "oxidacion"
+    ],
+    "base_response": "Las bujías usan materiales como cerámica y aleaciones de níquel o iridio que resisten altas temperaturas y corrosión. Su composición química permite aislar la corriente, soportar oxidación y mantener un arco eléctrico estable para encender la mezcla de aire y combustible dentro del motor."
+  },
+  {
+    "intent_id": "calculos_culata_superior_bloque_motor",
+    "keywords": [
+      "volumen",
+      "calculo",
+      "compresion",
+      "valvulas",
+      "cilindrada"
+    ],
+    "base_response": "La culata superior exige cálculos de volumen de cámara, relación de compresión y área de válvulas. Se aplican fórmulas como volumen total igual a cilindrada más cámara y compresión igual a volumen máximo dividido entre volumen mínimo, esenciales para estimar eficiencia y desempeño del motor."
+  },
+  {
+    "intent_id": "proyecciones_futuras_pistones_moviles",
+    "keywords": [
+      "pistones",
+      "sensores",
+      "combustion",
+      "eficiencia",
+      "tecnologia"
+    ],
+    "base_response": "Los pistones móviles evolucionarán mediante materiales ultraligeros y sensores inteligentes que optimizarán la combustión. Su integración con sistemas híbridos y eléctricos permitirá mayor eficiencia, menor desgaste y control predictivo, impulsando motores más limpios y adaptados a futuras demandas tecnológicas."
+  },
+  {
+    "intent_id": "definicion_estructural_valvulas_escape",
+    "keywords": [
+      "valvula",
+      "motor",
+      "escape",
+      "estructura",
+      "gases"
+    ],
+    "base_response": "Las válvulas de escape son piezas metálicas ubicadas en la culata del motor que abren y cierran el conducto por donde salen los gases quemados. Su estructura incluye cabeza, vástago y guía, diseñadas para resistir altas temperaturas y asegurar un flujo eficiente."
+  },
+  {
+    "intent_id": "dinamica_funcionamiento_cadena_tiempo",
+    "keywords": [
+      "sincronizacion",
+      "ciguenal",
+      "valvulas",
+      "tension",
+      "movimiento"
+    ],
+    "base_response": "La cadena de tiempo sincroniza físicamente el cigüeñal y el árbol de levas, asegurando que las válvulas abran y cierren en el instante correcto. Su tensión y movimiento coordinado permiten mantener la dinámica interna del motor estable y evitar fallos mecánicos críticos."
+  },
+  {
+    "intent_id": "transformacion_ciclos_energeticos_arbol_levas",
+    "keywords": [
+      "arbol",
+      "energia",
+      "ciguenal",
+      "valvulas",
+      "movimiento"
+    ],
+    "base_response": "El árbol de levas transforma la energía mecánica del cigüeñal en ciclos precisos de apertura y cierre de válvulas, regulando la entrada de mezcla y la expulsión de gases. Su sincronización asegura que el motor convierta eficientemente la energía del combustible en movimiento útil."
+  },
+  {
+    "intent_id": "mitos_intercooler_motor",
+    "keywords": [
+      "intercooler",
+      "motor",
+      "enfriamiento",
+      "mitos",
+      "eficiencia"
+    ],
+    "base_response": "Muchos estudiantes creen que el intercooler enfría directamente el motor, pero en realidad solo reduce la temperatura del aire comprimido. También existe el mito de que aumenta la velocidad por sí solo, cuando su función es mejorar la eficiencia del sistema."
+  },
+  {
+    "intent_id": "impacto_largo_plazo_bujias_encendido",
+    "keywords": [
+      "motor",
+      "bujias",
+      "desgaste",
+      "combustible",
+      "emisiones"
+    ],
+    "base_response": "Las bujías influyen en la vida útil del motor: si fallan, aumentan el desgaste interno, el consumo de combustible y las emisiones. Mantenerlas en buen estado evita daños costosos y prolonga el rendimiento del vehículo durante muchos años."
+  },
+  {
+    "intent_id": "dinamica_fisica_radiador_motor",
+    "keywords": [
+      "radiador",
+      "refrigerante",
+      "conduccion",
+      "enfriamiento",
+      "motor"
+    ],
+    "base_response": "El radiador usa tubos y aletas metálicas para transferir calor del refrigerante al aire. Su dinámica depende del flujo constante del líquido, la conducción térmica del metal y la circulación de aire que enfría el motor, evitando sobrecalentamientos durante el funcionamiento vehicular."
+  },
+  {
+    "intent_id": "mantenimiento_carter_inferior",
+    "keywords": [
+      "carter",
+      "mantenimiento",
+      "lubricante",
+      "limpieza",
+      "prevencion"
+    ],
+    "base_response": "El cárter inferior requiere revisiones periódicas para evitar fugas de aceite y daños internos. Mantener su limpieza, verificar el nivel de lubricante y asegurar el apriete correcto de tornillos ayuda a prevenir sobrecalentamientos y fallas mecánicas que afectan el rendimiento general del motor vehicular."
+  },
+  {
+    "intent_id": "ciclos_energeticos_cilindros_motor",
+    "keywords": [
+      "energia",
+      "combustion",
+      "piston",
+      "cilindro",
+      "transformacion"
+    ],
+    "base_response": "Los cilindros del bloque del motor transforman la energía química del combustible en energía mecánica mediante ciclos de combustión. Cada pistón comprime, enciende y libera energía en movimientos repetitivos que impulsan el vehículo, mostrando cómo la energía cambia de forma para producir trabajo útil."
+  },
+  {
+    "intent_id": "clasificacion_taxonomica_filtro_aire_motor",
+    "keywords": [
+      "filtro",
+      "aire",
+      "motor",
+      "clasificacion",
+      "material"
+    ],
+    "base_response": "El filtro de aire del motor se clasifica taxonómicamente según su estructura, material y método de filtración, permitiendo distinguir tipos como filtros de papel, espuma o algodón. Esta clasificación facilita identificar su función específica y su eficiencia en la protección del motor."
+  },
+  {
+    "intent_id": "ventajas_desventajas_termostato_motor",
+    "keywords": [
+      "termostato",
+      "motor",
+      "temperatura",
+      "eficiencia",
+      "sobrecalentamiento"
+    ],
+    "base_response": "El termostato del motor ofrece ventajas como mantener la temperatura óptima y mejorar la eficiencia, pero también presenta desventajas cuando falla, provocando sobrecalentamiento o bajo rendimiento. Comparar sus efectos ayuda a comprender su importancia en el sistema automotriz."
+  }
+]
