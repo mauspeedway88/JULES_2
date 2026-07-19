@@ -1,0 +1,3043 @@
+[
+  {
+    "intent_id": "cambio_aceite_definicion_anatomica",
+    "keywords": [
+      "desgaste",
+      "viscosidad",
+      "motor",
+      "friccion",
+      "lubricante"
+    ],
+    "base_response": "El aceite lubricante circula por conductos internos del motor formando una capa protectora sobre metales móviles. Su estructura fluida reduce la fricción, controla el desgaste y mantiene la viscosidad adecuada para asegurar el funcionamiento estable de las piezas durante el uso continuo del vehículo."
+  },
+  {
+    "intent_id": "cambio_aceite_dinamica_funcionamiento_fisico",
+    "keywords": [
+      "flujo",
+      "calentamiento",
+      "motor",
+      "friccion",
+      "aceite",
+      "lubricacion"
+    ],
+    "base_response": "El cambio preventivo de aceite mantiene un flujo adecuado que reduce la fricción entre piezas móviles. Al circular, el lubricante absorbe calor y evita desgaste excesivo. Un aceite limpio conserva la dinámica interna del motor y asegura un funcionamiento físico estable y eficiente."
+  },
+  {
+    "intent_id": "cambio_aceite_propiedades_quimicas_materiales",
+    "keywords": [
+      "impurezas",
+      "viscosidad",
+      "proteccion",
+      "lubricante",
+      "oxidacion"
+    ],
+    "base_response": "El aceite lubricante posee propiedades químicas que determinan su capacidad para resistir oxidación, mantener viscosidad estable y atrapar impurezas. Un cambio preventivo asegura que estos atributos se conserven, protegiendo las superficies metálicas del motor y evitando daños por fricción prolongada."
+  },
+  {
+    "intent_id": "cambio_aceite_errores_fallas_patologias",
+    "keywords": [
+      "desgaste",
+      "motor",
+      "aceite",
+      "mantenimiento",
+      "contaminacion"
+    ],
+    "base_response": "Un cambio de aceite tardío provoca acumulación de residuos que aumentan la fricción interna. El uso de lubricante incorrecto genera pérdida de viscosidad y sobrecalentamiento. Ignorar fugas causa niveles insuficientes que aceleran el desgaste y pueden producir fallas graves en el motor."
+  },
+  {
+    "intent_id": "cambio_aceite_historia_origen_evolucion",
+    "keywords": [
+      "motor",
+      "historia",
+      "aceite",
+      "mantenimiento",
+      "evolucion"
+    ],
+    "base_response": "El cambio de aceite surgió cuando los primeros motores necesitaban reducir fricción y calor. Con el tiempo, los aceites evolucionaron desde mezclas simples hasta fórmulas sintéticas avanzadas que prolongan la vida del motor y permiten intervalos de mantenimiento más seguros y eficientes."
+  },
+  {
+    "intent_id": "cambio_aceite_contexto_ecologico",
+    "keywords": [
+      "motor",
+      "aceite",
+      "mantenimiento",
+      "contaminacion",
+      "reciclaje"
+    ],
+    "base_response": "El cambio preventivo de aceite ayuda a evitar fugas y residuos que contaminan suelo y agua. Un manejo adecuado del aceite usado permite reciclarlo y reducir impactos ambientales. Mantener el motor en buen estado disminuye emisiones y favorece un entorno ecológico responsable."
+  },
+  {
+    "intent_id": "cambio_aceite_aplicaciones_practicas",
+    "keywords": [
+      "motor",
+      "cambio",
+      "aceite",
+      "prevencion",
+      "mantenimiento"
+    ],
+    "base_response": "Realizar el cambio preventivo de aceite mantiene el motor limpio y reduce el desgaste. En la vida diaria implica revisar el nivel, identificar fugas y programar reemplazos regulares. Esta práctica mejora el rendimiento del vehículo y evita reparaciones costosas por falta de lubricación adecuada."
+  },
+  {
+    "intent_id": "cambio_aceite_importancia_impacto_social",
+    "keywords": [
+      "motor",
+      "aceite",
+      "prevencion",
+      "mantenimiento",
+      "seguridad"
+    ],
+    "base_response": "El cambio preventivo de aceite mantiene el motor en buen estado y reduce fallas inesperadas. Su práctica constante mejora la seguridad vial, disminuye costos de reparación y contribuye a una movilidad responsable que beneficia a familias, comunidades y al entorno urbano."
+  },
+  {
+    "intent_id": "cambio_aceite_ventajas_desventajas_comparativas",
+    "keywords": [
+      "motor",
+      "prevencion",
+      "lubricante",
+      "mantenimiento",
+      "rendimiento"
+    ],
+    "base_response": "El cambio preventivo de aceite ofrece mayor protección del motor y mejor rendimiento, evitando desgaste prematuro. Sin embargo, implica costo periódico y requiere elegir lubricante adecuado. Comparar marcas y frecuencias permite equilibrar beneficios de prevención con posibles gastos y tiempos de servicio."
+  },
+  {
+    "intent_id": "cambio_aceite_riesgos_medidas_seguridad",
+    "keywords": [
+      "herramienta",
+      "riesgo",
+      "motor",
+      "aceite",
+      "seguridad"
+    ],
+    "base_response": "El cambio de aceite implica riesgos como quemaduras por temperatura del motor y derrames que generan deslizamientos. Para trabajar seguro, se debe esperar el enfriamiento, usar guantes resistentes, asegurar el vehículo con soportes firmes y manejar las herramientas con atención constante."
+  },
+  {
+    "intent_id": "cambio_aceite_clasificacion_taxonomica",
+    "keywords": [
+      "viscosidad",
+      "motor",
+      "aceite",
+      "mantenimiento",
+      "clasificacion"
+    ],
+    "base_response": "El cambio preventivo de aceite requiere conocer la clasificación del lubricante según su viscosidad y tipo de base. Esta clasificación permite seleccionar el aceite adecuado para proteger el motor, reducir el desgaste y asegurar un funcionamiento estable en distintas condiciones de uso."
+  },
+  {
+    "intent_id": "cambio_aceite_calculos_formulas",
+    "keywords": [
+      "viscosidad",
+      "motor",
+      "lubricante",
+      "rendimiento",
+      "kilometraje"
+    ],
+    "base_response": "El cambio preventivo de aceite requiere calcular el kilometraje recorrido y verificar la viscosidad adecuada. La fórmula básica relaciona distancia y periodo de servicio para anticipar desgaste. Estos cálculos ayudan a mantener el rendimiento del motor y evitar fallas costosas."
+  },
+  {
+    "intent_id": "cambio_aceite_mitos_concepciones_erroneas",
+    "keywords": [
+      "desgaste",
+      "motor",
+      "aceite",
+      "mantenimiento",
+      "mito"
+    ],
+    "base_response": "Muchos creen que el aceite solo debe cambiarse cuando el motor falla, pero esperar provoca desgaste acelerado. Otro mito afirma que cualquier aceite sirve, ignorando la importancia de la viscosidad adecuada. Un cambio preventivo mantiene la lubricación correcta y evita daños costosos en el vehículo."
+  },
+  {
+    "intent_id": "cambio_aceite_relacion_simbiotica_sistemas",
+    "keywords": [
+      "motor",
+      "funcionamiento",
+      "prevencion",
+      "lubricante",
+      "sistema"
+    ],
+    "base_response": "El cambio preventivo de aceite mantiene una interacción equilibrada entre motor, sistema de enfriamiento y filtro, permitiendo que cada componente funcione sin sobrecargas. Esta relación favorece menor fricción, mejor disipación de calor y mayor estabilidad operativa en recorridos prolongados."
+  },
+  {
+    "intent_id": "cambio_aceite_transformacion_ciclos_energeticos",
+    "keywords": [
+      "motor",
+      "friccion",
+      "lubricante",
+      "mantenimiento",
+      "energia"
+    ],
+    "base_response": "El cambio preventivo de aceite permite que el motor transforme la energía del combustible de manera eficiente. El lubricante reduce la fricción, evita pérdidas de calor innecesarias y mantiene estable el ciclo energético interno, asegurando un funcionamiento seguro y prolongado del vehículo."
+  },
+  {
+    "intent_id": "cambio_aceite_experimentos_demostraciones",
+    "keywords": [
+      "experimento",
+      "motor",
+      "aceite",
+      "mantenimiento",
+      "lubricacion"
+    ],
+    "base_response": "Los estudiantes observan cómo el aceite limpio fluye mejor que uno usado comparando ambos en recipientes transparentes. Analizan color, viscosidad y residuos para comprender la importancia del cambio preventivo. Concluyen cómo un lubricante adecuado protege el motor y evita daños costosos."
+  },
+  {
+    "intent_id": "cambio_aceite_consecuencias_largo_plazo",
+    "keywords": [
+      "desgaste",
+      "motor",
+      "lubricante",
+      "mantenimiento",
+      "rendimiento"
+    ],
+    "base_response": "Un cambio de aceite preventivo mantiene el lubricante limpio y evita que el motor trabaje con impurezas. A largo plazo reduce el desgaste interno, mejora el rendimiento general y disminuye fallas costosas, prolongando la vida útil del vehículo y asegurando un funcionamiento confiable."
+  },
+  {
+    "intent_id": "cambio_aceite_impacto_ambiental",
+    "keywords": [
+      "motor",
+      "aceite",
+      "mantenimiento",
+      "contaminacion",
+      "reciclaje"
+    ],
+    "base_response": "El cambio preventivo de aceite reduce fugas y evita que residuos dañinos lleguen al suelo o al agua. Un manejo adecuado del aceite usado disminuye la contaminación, promueve el reciclaje responsable y ayuda a conservar ecosistemas afectados por prácticas de mantenimiento descuidadas."
+  },
+  {
+    "intent_id": "cambio_aceite_mantenimiento_prevencion",
+    "keywords": [
+      "motor",
+      "aceite",
+      "prevencion",
+      "mantenimiento",
+      "lubricacion"
+    ],
+    "base_response": "El cambio preventivo de aceite mantiene la lubricación adecuada del motor y evita daños por fricción. Realizarlo según el kilometraje recomendado prolonga la vida útil del vehículo, mejora el rendimiento y reduce fallas costosas que pueden aparecer por descuidos prolongados."
+  },
+  {
+    "intent_id": "cambio_aceite_proyecciones_futuras_tecnologia",
+    "keywords": [
+      "motor",
+      "sensor",
+      "lubricante",
+      "diagnostico",
+      "mantenimiento"
+    ],
+    "base_response": "El cambio de aceite preventivo evolucionará mediante sensores inteligentes capaces de analizar la calidad del lubricante en tiempo real. Estos sistemas permitirán diagnósticos precisos, alertas automáticas y ajustes predictivos que optimizarán el rendimiento del motor y reducirán fallas inesperadas."
+  },
+  {
+    "intent_id": "sustitucion_filtros_definicion_anatomica",
+    "keywords": [
+      "filtro",
+      "combustible",
+      "aire",
+      "motor",
+      "mantenimiento"
+    ],
+    "base_response": "Los filtros son componentes diseñados para retener impurezas que circulan hacia el motor. Su estructura porosa permite el paso controlado de aire o combustible limpio, evitando daños internos. Sustituirlos periódicamente mantiene el flujo adecuado y protege las partes móviles del sistema automotriz."
+  },
+  {
+    "intent_id": "sustitucion_filtros_dinamica_funcionamiento_fisico",
+    "keywords": [
+      "flujo",
+      "filtro",
+      "aire",
+      "motor",
+      "particula"
+    ],
+    "base_response": "Los filtros regulan el flujo de aire y retienen partículas que podrían afectar el motor. Al sustituirlos, se mantiene una circulación adecuada que favorece la combustión y evita obstrucciones. Un filtro limpio permite que el sistema funcione con mayor eficiencia y reduzca el desgaste interno."
+  },
+  {
+    "intent_id": "sustitucion_filtros_propiedades_materiales",
+    "keywords": [
+      "material",
+      "filtro",
+      "retencion",
+      "contaminante",
+      "porosidad"
+    ],
+    "base_response": "Los filtros automotrices funcionan gracias a materiales con porosidad específica que atrapan contaminantes. Sus fibras poseen propiedades químicas que permiten retener partículas sin degradarse rápidamente, asegurando un flujo adecuado y protegiendo componentes esenciales del motor durante el mantenimiento periódico."
+  },
+  {
+    "intent_id": "sustitucion_filtros_errores_fallas_patologias",
+    "keywords": [
+      "filtro",
+      "obstruccion",
+      "reemplazo",
+      "sintoma",
+      "mantenimiento"
+    ],
+    "base_response": "La sustitución de filtros puede fallar por obstrucción, instalación incorrecta o uso de piezas inadecuadas. Estos errores generan pérdida de rendimiento, ruidos anómalos y mayor consumo. Identificar síntomas tempranos y aplicar reemplazos adecuados evita daños costosos y prolonga la vida útil del vehículo."
+  },
+  {
+    "intent_id": "sustitucion_filtros_historia_origen_evolucion",
+    "keywords": [
+      "filtro",
+      "motor",
+      "sustitucion",
+      "impureza",
+      "mantenimiento"
+    ],
+    "base_response": "Los primeros filtros surgieron con los motores iniciales para evitar daños por impurezas. Con el avance automotriz, su diseño evolucionó hacia materiales más resistentes y eficientes. La sustitución periódica se volvió esencial para proteger componentes y asegurar un funcionamiento estable del vehículo."
+  },
+  {
+    "intent_id": "sustitucion_filtros_contexto_ecologico",
+    "keywords": [
+      "filtro",
+      "contaminante",
+      "mantenimiento",
+      "residuo",
+      "reciclaje"
+    ],
+    "base_response": "La sustitución de filtros evita que contaminantes lleguen al entorno y reduce el impacto ambiental del vehículo. Un filtro usado debe manejarse como residuo controlado y enviarse a reciclaje cuando sea posible, promoviendo prácticas de mantenimiento responsables y sostenibles."
+  },
+  {
+    "intent_id": "sustitucion_filtros_aplicaciones_practicas",
+    "keywords": [
+      "filtro",
+      "motor",
+      "sustitucion",
+      "funcionamiento",
+      "mantenimiento"
+    ],
+    "base_response": "La sustitución de filtros mantiene el motor limpio y eficiente al evitar que impurezas entren en componentes clave. Aplicar este procedimiento en la vida real ayuda a prolongar la vida útil del vehículo, mejorar el rendimiento y reducir fallas inesperadas durante el uso cotidiano."
+  },
+  {
+    "intent_id": "sustitucion_filtros_importancia_impacto_social",
+    "keywords": [
+      "filtro",
+      "vehiculo",
+      "sustitucion",
+      "mantenimiento",
+      "contaminacion",
+      "seguridad"
+    ],
+    "base_response": "La sustitución de filtros en un vehículo reduce la contaminación, mejora la seguridad y evita fallas que afectan a la comunidad. Un mantenimiento adecuado disminuye emisiones dañinas y promueve un entorno más limpio, responsable y seguro para todos los usuarios de la vía."
+  },
+  {
+    "intent_id": "sustitucion_filtros_ventajas_desventajas",
+    "keywords": [
+      "filtro",
+      "motor",
+      "cambio",
+      "mantenimiento",
+      "rendimiento"
+    ],
+    "base_response": "La sustitución de filtros mejora el rendimiento del motor y prolonga su vida útil, pero implica costos periódicos y requiere atención técnica. Comparar ventajas y desventajas ayuda a decidir el momento adecuado para reemplazarlos y evitar fallas que afecten la seguridad y eficiencia del vehículo."
+  },
+  {
+    "intent_id": "sustitucion_filtros_riesgos_seguridad",
+    "keywords": [
+      "filtro",
+      "riesgo",
+      "proteccion",
+      "sustitucion",
+      "mantenimiento"
+    ],
+    "base_response": "La sustitución de filtros exige identificar riesgos como quemaduras, cortes y exposición a residuos. Es esencial usar guantes, gafas y herramientas adecuadas, asegurar el vehículo y evitar superficies calientes. Estas medidas protegen al estudiante y garantizan un mantenimiento seguro y responsable."
+  },
+  {
+    "intent_id": "sustitucion_filtros_clasificacion_taxonomica",
+    "keywords": [
+      "filtro",
+      "combustible",
+      "aire",
+      "sustitucion",
+      "aceite"
+    ],
+    "base_response": "La clasificación de filtros de mantenimiento permite identificar filtros de aire, aceite y combustible según su función. Comprender estas categorías facilita elegir el reemplazo adecuado, asegurar el flujo correcto de cada sistema y mantener el rendimiento óptimo del vehículo durante su uso cotidiano."
+  },
+  {
+    "intent_id": "sustitucion_filtros_calculos_formulas",
+    "keywords": [
+      "flujo",
+      "filtro",
+      "sustitucion",
+      "mantenimiento",
+      "presion"
+    ],
+    "base_response": "El cálculo del flujo de aire o aceite permite determinar cuándo un filtro pierde eficiencia. La fórmula basica relaciona presión diferencial y caudal para identificar obstrucciones. Comprender estos valores ayuda a decidir la sustitución oportuna y mantener el rendimiento adecuado del sistema automotriz."
+  },
+  {
+    "intent_id": "sustitucion_filtros_mitos_concepciones_erroneas",
+    "keywords": [
+      "filtro",
+      "motor",
+      "sustitucion",
+      "mantenimiento",
+      "funcion",
+      "rendimiento"
+    ],
+    "base_response": "Muchos creen que los filtros solo se cambian cuando fallan, pero su desgaste progresivo afecta el rendimiento del motor. Otro mito común afirma que cualquier filtro sirve, ignorando que materiales y especificaciones influyen directamente en la protección y eficiencia del vehículo."
+  },
+  {
+    "intent_id": "sustitucion_filtros_relacion_simbiotica_sistemas",
+    "keywords": [
+      "filtro",
+      "aire",
+      "motor",
+      "combustion",
+      "rendimiento"
+    ],
+    "base_response": "La sustitución de filtros mantiene una relación simbiótica con otros sistemas del vehículo, ya que un filtro limpio permite que el motor respire adecuadamente, mejora la combustión y sostiene el rendimiento general. Cuando los filtros funcionan bien, todos los sistemas operan con mayor eficiencia y estabilidad."
+  },
+  {
+    "intent_id": "sustitucion_filtros_transformacion_ciclos_energeticos",
+    "keywords": [
+      "flujo",
+      "filtro",
+      "motor",
+      "mantenimiento",
+      "energia"
+    ],
+    "base_response": "La sustitución de filtros permite que el motor mantenga un flujo limpio de aire y combustible, optimizando la transformación de energía en movimiento. Al renovar estos componentes se evita la acumulación de impurezas que reduce eficiencia y altera los ciclos energéticos del vehículo."
+  },
+  {
+    "intent_id": "sustitucion_filtros_experimentos_demostraciones",
+    "keywords": [
+      "filtro",
+      "aire",
+      "motor",
+      "sustitucion",
+      "demostracion"
+    ],
+    "base_response": "Los estudiantes observan un filtro usado y otro nuevo para identificar suciedad acumulada. Luego realizan una demostración segura retirando un filtro de aire de maqueta y colocando uno limpio, comprobando cómo mejora el flujo y entendiendo la importancia del mantenimiento preventivo en vehículos."
+  },
+  {
+    "intent_id": "sustitucion_filtros_consecuencias_largo_plazo",
+    "keywords": [
+      "filtro",
+      "desgaste",
+      "motor",
+      "mantenimiento",
+      "rendimiento"
+    ],
+    "base_response": "La sustitución periódica de filtros evita que impurezas dañen el motor y otros sistemas, reduciendo el desgaste acumulado. Mantener filtros limpios mejora el rendimiento general del vehículo y previene fallas costosas que pueden aparecer tras largos periodos sin mantenimiento adecuado."
+  },
+  {
+    "intent_id": "sustitucion_filtros_impacto_ambiental",
+    "keywords": [
+      "filtro",
+      "sustitucion",
+      "residuo",
+      "reciclaje",
+      "contaminacion"
+    ],
+    "base_response": "La sustitución adecuada de filtros reduce residuos contaminantes y evita que partículas dañinas lleguen al ambiente. Un manejo responsable incluye revisar su estado, cambiarlos cuando corresponde y llevar los filtros usados a centros de reciclaje autorizados para minimizar el impacto ambiental."
+  },
+  {
+    "intent_id": "sustitucion_filtros_mantenimiento_prevencion",
+    "keywords": [
+      "filtro",
+      "motor",
+      "sustitucion",
+      "prevencion",
+      "mantenimiento"
+    ],
+    "base_response": "La sustitución periódica de filtros mantiene el motor limpio y evita daños costosos. Cambiar filtros de aire, aceite y combustible reduce impurezas, mejora el rendimiento y prolonga la vida útil del vehículo mediante prácticas preventivas que aseguran funcionamiento estable y seguro."
+  },
+  {
+    "intent_id": "sustitucion_filtros_proyecciones_futuras_tecnologia",
+    "keywords": [
+      "filtro",
+      "sensor",
+      "diagnostico",
+      "mantenimiento",
+      "innovacion"
+    ],
+    "base_response": "La sustitución de filtros evolucionará mediante sensores inteligentes capaces de medir saturación y rendimiento en tiempo real. Estos sistemas permitirán diagnósticos automáticos y reemplazos predictivos, optimizando el mantenimiento automotriz y reduciendo fallas inesperadas mediante tecnologías avanzadas integradas en vehículos modernos."
+  },
+  {
+    "intent_id": "revision_frenos_definicion_anatomica",
+    "keywords": [
+      "pastilla",
+      "freno",
+      "disco",
+      "presion",
+      "seguridad"
+    ],
+    "base_response": "El sistema de frenos se compone de discos, pastillas y conductos que transmiten presión hidráulica. Al activarse, las pastillas presionan el disco para reducir la velocidad del vehículo. Esta estructura permite un control seguro durante la conducción diaria."
+  },
+  {
+    "intent_id": "revision_frenos_dinamica_funcionamiento_fisico",
+    "keywords": [
+      "friccion",
+      "freno",
+      "mantenimiento",
+      "energia",
+      "seguridad"
+    ],
+    "base_response": "El sistema de frenos transforma la energía del movimiento en fricción controlada para detener el vehículo. Una revisión periódica verifica desgaste, presión hidráulica y respuesta mecánica, asegurando funcionamiento estable y reduciendo riesgos durante maniobras que exigen precisión y seguridad constante."
+  },
+  {
+    "intent_id": "revision_frenos_propiedades_materiales",
+    "keywords": [
+      "material",
+      "pastilla",
+      "desgaste",
+      "friccion",
+      "freno"
+    ],
+    "base_response": "Las pastillas de freno funcionan gracias a materiales capaces de generar fricción estable sin degradarse rápidamente. Sus compuestos resisten altas temperaturas y mantienen propiedades químicas que aseguran frenadas seguras. Revisarlas periódicamente evita fallas y conserva el rendimiento del sistema vehicular."
+  },
+  {
+    "intent_id": "revision_frenos_errores_fallas_patologias",
+    "keywords": [
+      "desgaste",
+      "ruido",
+      "freno",
+      "vibracion",
+      "inspeccion"
+    ],
+    "base_response": "La revisión periódica de frenos permite detectar desgaste irregular, ruidos anormales y vibraciones que indican fallas comunes. Identificar estas señales evita daños mayores en pastillas, discos y componentes hidráulicos, garantizando un frenado seguro y prolongando la vida útil del sistema vehicular."
+  },
+  {
+    "intent_id": "revision_frenos_historia_origen_evolucion",
+    "keywords": [
+      "revision",
+      "freno",
+      "mantenimiento",
+      "tecnologia",
+      "seguridad"
+    ],
+    "base_response": "La revisión de frenos surgió cuando los primeros vehículos incorporaron sistemas mecánicos básicos que requerían ajustes frecuentes. Con el tiempo evolucionaron hacia mecanismos hidráulicos y electrónicos que exigen controles periódicos para asegurar su funcionamiento adecuado y mantener la seguridad en distintas condiciones de manejo."
+  },
+  {
+    "intent_id": "revision_frenos_contexto_ecologico",
+    "keywords": [
+      "revision",
+      "freno",
+      "mantenimiento",
+      "contaminacion",
+      "seguridad"
+    ],
+    "base_response": "La revisión periódica de frenos reduce riesgos y evita desgaste excesivo que genera residuos contaminantes. Un sistema de frenos en buen estado disminuye emisiones indirectas al mejorar la eficiencia del vehículo y contribuye a un entorno más limpio mediante prácticas responsables de mantenimiento automotriz."
+  },
+  {
+    "intent_id": "revision_frenos_aplicaciones_practicas",
+    "keywords": [
+      "desgaste",
+      "freno",
+      "mantenimiento",
+      "inspeccion",
+      "seguridad"
+    ],
+    "base_response": "La revisión periódica de frenos permite detectar desgaste en pastillas y discos, asegurando una respuesta adecuada al detener el vehículo. Aplicar este hábito en la vida diaria reduce riesgos, mejora la seguridad y prolonga la eficiencia del sistema de frenado."
+  },
+  {
+    "intent_id": "revision_frenos_importancia_impacto_social",
+    "keywords": [
+      "vehiculo",
+      "revision",
+      "freno",
+      "prevencion",
+      "seguridad"
+    ],
+    "base_response": "La revisión periódica de frenos garantiza seguridad vial y reduce accidentes. Un sistema de frenado en buen estado protege a pasajeros y peatones, disminuye costos por daños y fortalece la responsabilidad comunitaria. Mantener frenos funcionales contribuye a una movilidad más segura y consciente."
+  },
+  {
+    "intent_id": "revision_frenos_ventajas_desventajas_comparativas",
+    "keywords": [
+      "desgaste",
+      "revision",
+      "freno",
+      "rendimiento",
+      "seguridad"
+    ],
+    "base_response": "La revisión periódica de frenos ofrece mayor seguridad y mejor rendimiento al detectar desgaste temprano. Sin embargo, requiere tiempo y costo adicional. Comparar estados y componentes permite decidir reemplazos oportunos, evitando fallas graves y manteniendo el control adecuado del vehículo en distintas condiciones."
+  },
+  {
+    "intent_id": "revision_frenos_riesgos_medidas_seguridad",
+    "keywords": [
+      "riesgo",
+      "desgaste",
+      "freno",
+      "mantenimiento",
+      "inspeccion",
+      "seguridad"
+    ],
+    "base_response": "La revisión periódica de frenos reduce riesgos al detectar desgaste, fugas o fallas en componentes críticos. Verificar pastillas, discos y nivel de líquido garantiza frenadas seguras. Aplicar mantenimiento preventivo evita accidentes y asegura que el vehículo responda adecuadamente ante situaciones de emergencia."
+  },
+  {
+    "intent_id": "revision_frenos_calculos_formula",
+    "keywords": [
+      "desgaste",
+      "freno",
+      "presion",
+      "medicion",
+      "distancia"
+    ],
+    "base_response": "La revisión de frenos incluye calcular la distancia de frenado usando velocidad y tiempo de reacción. También se estima la presión hidráulica necesaria para detener el vehículo y se mide el desgaste de pastillas mediante valores mínimos permitidos que garantizan un frenado seguro y eficiente."
+  },
+  {
+    "intent_id": "revision_frenos_mitos_errores",
+    "keywords": [
+      "desgaste",
+      "mitos",
+      "revision",
+      "frenos",
+      "seguridad"
+    ],
+    "base_response": "Un mito común es que los frenos solo necesitan revisión cuando hacen ruido. En realidad, deben inspeccionarse regularmente para asegurar su funcionamiento óptimo. El desgaste no siempre es audible, y un mantenimiento periódico garantiza la seguridad del vehículo."
+  },
+  {
+    "intent_id": "revision_frenos_relacion_simbiotica_sistemas",
+    "keywords": [
+      "desgaste",
+      "hidraulica",
+      "freno",
+      "sistema",
+      "seguridad"
+    ],
+    "base_response": "La revisión periódica de frenos depende de la interacción con sistemas hidráulicos, neumáticos y de suspensión. Cada componente influye en la eficiencia del frenado, evitando desgaste excesivo y manteniendo la estabilidad del vehículo. Un mantenimiento coordinado garantiza seguridad y respuesta adecuada en distintas condiciones."
+  },
+  {
+    "intent_id": "revision_frenos_transformacion_ciclos_energeticos",
+    "keywords": [
+      "calor",
+      "friccion",
+      "freno",
+      "mantenimiento",
+      "energia"
+    ],
+    "base_response": "La revisión de frenos permite comprender cómo la energía cinética del vehículo se transforma en calor mediante fricción. Evaluar pastillas y discos asegura ciclos eficientes de disipación térmica, evitando fallas y garantizando un frenado estable durante diferentes condiciones de uso vehicular."
+  },
+  {
+    "intent_id": "revision_frenos_experimentos_demostraciones",
+    "keywords": [
+      "funcionamiento",
+      "freno",
+      "presion",
+      "inspeccion",
+      "seguridad"
+    ],
+    "base_response": "Los estudiantes observan el funcionamiento de frenos utilizando una rueda pequeña y un sistema manual de presión. Aplican fuerza controlada, miden la distancia de detención y comparan resultados para identificar desgaste. Analizan cómo la fricción y la presión influyen en la eficacia del frenado vehicular."
+  },
+  {
+    "intent_id": "revision_frenos_consecuencias_largo_plazo",
+    "keywords": [
+      "desgaste",
+      "seguridad",
+      "revision",
+      "freno",
+      "accidente"
+    ],
+    "base_response": "La revisión periódica de frenos evita desgaste excesivo y fallas críticas que comprometen la seguridad. Ignorar este mantenimiento provoca daños costosos, menor control del vehículo y mayor riesgo de accidentes, afectando la durabilidad mecánica y la protección de quienes viajan a largo plazo."
+  },
+  {
+    "intent_id": "revision_frenos_impacto_ambiental",
+    "keywords": [
+      "freno",
+      "mantenimiento",
+      "particula",
+      "contaminacion",
+      "seguridad"
+    ],
+    "base_response": "La revisión periódica de frenos reduce la liberación de partículas provenientes del desgaste de pastillas y discos. Un sistema bien ajustado disminuye emisiones contaminantes, mejora la eficiencia del vehículo y contribuye a una movilidad más responsable con el entorno."
+  },
+  {
+    "intent_id": "revision_frenos_mantenimiento_prevencion",
+    "keywords": [
+      "desgaste",
+      "freno",
+      "mantenimiento",
+      "inspeccion",
+      "seguridad"
+    ],
+    "base_response": "La revisión periódica de frenos permite detectar desgaste en pastillas y discos, asegurando una respuesta adecuada al frenar. Verificar niveles de líquido, ruidos anormales y vibraciones ayuda a prevenir fallas graves y mantener la seguridad del vehículo en diferentes condiciones de uso."
+  },
+  {
+    "intent_id": "revision_frenos_proyecciones_futuras_tecnologia",
+    "keywords": [
+      "sensor",
+      "freno",
+      "diagnostico",
+      "mantenimiento",
+      "seguridad"
+    ],
+    "base_response": "La revisión futura de frenos integrará sensores avanzados capaces de medir desgaste en tiempo real y enviar alertas automáticas. Estos sistemas permitirán diagnósticos predictivos que anticipen fallas, mejoren la seguridad y optimicen el mantenimiento mediante tecnologías inteligentes aplicadas al funcionamiento vehicular."
+  },
+  {
+    "intent_id": "rotacion_llantas_definicion_anatomica",
+    "keywords": [
+      "estructura",
+      "desgaste",
+      "rodamiento",
+      "rotacion",
+      "llanta"
+    ],
+    "base_response": "La rotación de llantas se basa en la estructura del conjunto neumático-rin, donde el rodamiento y la superficie de contacto experimentan desgaste desigual. Comprender esta anatomía permite distribuir cargas y fricción, prolongando la vida útil y manteniendo un desempeño vehicular seguro y estable."
+  },
+  {
+    "intent_id": "rotacion_llantas_dinamica_funcionamiento_fisico",
+    "keywords": [
+      "equilibrio",
+      "desgaste",
+      "rotacion",
+      "llanta",
+      "traccion"
+    ],
+    "base_response": "La rotación de llantas distribuye el desgaste generado por la fricción constante con el pavimento. Al cambiar su posición se mantiene una tracción equilibrada, se mejora la estabilidad del vehículo y se prolonga la vida útil del conjunto, asegurando un funcionamiento físico más uniforme."
+  },
+  {
+    "intent_id": "rotacion_llantas_historia_origen_evolucion",
+    "keywords": [
+      "desgaste",
+      "rotacion",
+      "mantenimiento",
+      "llanta",
+      "seguridad"
+    ],
+    "base_response": "La rotación de llantas surgió cuando los primeros automóviles mostraron desgaste desigual en sus ruedas. Con el tiempo, los mecánicos establecieron patrones de rotación para equilibrar la fricción y mejorar la seguridad. Su evolución permitió prolongar la vida útil y optimizar el rendimiento vehicular."
+  },
+  {
+    "intent_id": "rotacion_llantas_contexto_ecologico",
+    "keywords": [
+      "entorno",
+      "desgaste",
+      "impacto",
+      "rotacion",
+      "llanta",
+      "seguridad"
+    ],
+    "base_response": "La rotación de llantas distribuye el desgaste y mejora la seguridad, reduciendo reemplazos frecuentes. Esta práctica disminuye residuos y consumo de recursos, favoreciendo un entorno más sostenible. Comprender su impacto ecológico ayuda a valorar el mantenimiento responsable del vehículo."
+  },
+  {
+    "intent_id": "rotacion_llantas_aplicaciones_practicas",
+    "keywords": [
+      "desgaste",
+      "rotacion",
+      "mantenimiento",
+      "llanta",
+      "seguridad"
+    ],
+    "base_response": "La rotación de llantas distribuye el desgaste de manera uniforme para mantener estabilidad y seguridad. Aplicarla periódicamente prolonga la vida útil del vehículo y mejora el control en distintas superficies, ayudando a prevenir fallas inesperadas durante recorridos diarios o viajes largos."
+  },
+  {
+    "intent_id": "rotacion_llantas_importancia_impacto_social",
+    "keywords": [
+      "prevencion",
+      "mantenimiento",
+      "estabilidad",
+      "llanta",
+      "seguridad"
+    ],
+    "base_response": "La rotación de llantas mantiene la estabilidad del vehículo y reduce riesgos en carretera. Su práctica constante disminuye accidentes, promueve responsabilidad comunitaria y fomenta hábitos de prevención que protegen a familias y conductores en entornos urbanos y rurales."
+  },
+  {
+    "intent_id": "rotacion_llantas_ventajas_desventajas_comparativas",
+    "keywords": [
+      "desgaste",
+      "rotacion",
+      "llanta",
+      "rendimiento",
+      "seguridad"
+    ],
+    "base_response": "La rotación de llantas distribuye el desgaste y mejora la seguridad, pero requiere tiempo y seguimiento adecuado. Comparar sus ventajas y desventajas permite entender cómo influye en el rendimiento del vehículo y en la durabilidad del juego completo de llantas."
+  },
+  {
+    "intent_id": "rotacion_llantas_riesgos_seguridad",
+    "keywords": [
+      "herramienta",
+      "superficie",
+      "riesgo",
+      "sujecion",
+      "llanta"
+    ],
+    "base_response": "La rotación de llantas exige revisar la estabilidad del vehículo, asegurar una superficie firme y usar herramientas adecuadas. Un mal levantamiento puede causar caídas peligrosas. Mantener las manos alejadas de puntos de presión y verificar la sujeción evita lesiones durante el proceso."
+  },
+  {
+    "intent_id": "rotacion_llantas_calculos_formulas",
+    "keywords": [
+      "desgaste",
+      "revision",
+      "rotacion",
+      "llanta",
+      "kilometraje"
+    ],
+    "base_response": "La rotación de llantas requiere calcular el kilometraje recorrido para determinar el momento adecuado. Se estima un intervalo promedio de cinco mil a ocho mil kilómetros. Registrar cada revisión permite mantener un patrón uniforme de desgaste y mejorar la estabilidad general del vehículo."
+  },
+  {
+    "intent_id": "rotacion_llantas_mitos_concepciones_erroneas",
+    "keywords": [
+      "desgaste",
+      "seguridad",
+      "rotacion",
+      "mantenimiento",
+      "llantas"
+    ],
+    "base_response": "Muchos creen que la rotación de llantas es innecesaria o solo mejora la apariencia, pero este proceso evita desgaste irregular y mantiene la estabilidad del vehículo. Ignorar la rotación reduce la vida útil de las llantas y compromete la seguridad en carretera."
+  },
+  {
+    "intent_id": "rotacion_llantas_relacion_simbiotica_sistemas",
+    "keywords": [
+      "desgaste",
+      "rotacion",
+      "estabilidad",
+      "llanta",
+      "traccion"
+    ],
+    "base_response": "La rotación de llantas interactúa de forma simbiótica con la suspensión y la dirección, equilibrando el desgaste y manteniendo la tracción uniforme. Esta práctica reduce esfuerzos innecesarios en frenos y amortiguadores, prolongando su vida útil y asegurando un desempeño vehicular estable y seguro."
+  },
+  {
+    "intent_id": "rotacion_llantas_experimentos_demostraciones",
+    "keywords": [
+      "equilibrio",
+      "desgaste",
+      "rotacion",
+      "llanta",
+      "seguridad"
+    ],
+    "base_response": "La rotación de llantas puede demostrarse usando dos ruedas marcadas y un recorrido corto. Al intercambiar sus posiciones, los estudiantes observan cómo cambia el desgaste y comprenden la importancia del equilibrio para mantener la seguridad y prolongar la vida útil del vehículo."
+  },
+  {
+    "intent_id": "rotacion_llantas_consecuencias_largo_plazo",
+    "keywords": [
+      "desgaste",
+      "rotacion",
+      "estabilidad",
+      "llanta",
+      "seguridad"
+    ],
+    "base_response": "La rotación periódica de llantas evita desgaste irregular y mantiene la estabilidad del vehículo. Con el tiempo, esta práctica reduce fallas inesperadas, mejora la seguridad en carretera y prolonga la vida útil del juego completo, disminuyendo costos futuros de mantenimiento."
+  },
+  {
+    "intent_id": "rotacion_llantas_impacto_ambiental",
+    "keywords": [
+      "desgaste",
+      "residuos",
+      "rotacion",
+      "sostenibilidad",
+      "llantas"
+    ],
+    "base_response": "La rotación de llantas distribuye el desgaste y prolonga su vida útil, reduciendo la generación de residuos y la necesidad de fabricar reemplazos. Este hábito disminuye el consumo de recursos y contribuye a una movilidad más sostenible al minimizar el impacto ambiental del mantenimiento vehicular."
+  },
+  {
+    "intent_id": "rotacion_llantas_mantenimiento_prevencion",
+    "keywords": [
+      "desgaste",
+      "revision",
+      "rotacion",
+      "llanta",
+      "seguridad"
+    ],
+    "base_response": "La rotación de llantas distribuye el desgaste de manera uniforme y mantiene la estabilidad del vehículo. Este procedimiento preventivo mejora la seguridad, prolonga la vida útil del neumático y permite detectar daños tempranos que requieren atención para evitar fallas durante la conducción."
+  },
+  {
+    "intent_id": "rotacion_llantas_proyecciones_futuras_tecnologia",
+    "keywords": [
+      "automatizacion",
+      "sensor",
+      "rotacion",
+      "diagnostico",
+      "llanta"
+    ],
+    "base_response": "La rotación de llantas evolucionará mediante sensores inteligentes capaces de analizar desgaste en tiempo real y sistemas automatizados que programarán intervenciones precisas. Estas tecnologías permitirán mantenimiento predictivo, mayor seguridad y optimización del rendimiento vehicular sin depender exclusivamente de revisiones manuales tradicionales."
+  },
+  {
+    "intent_id": "diagnostico_fallas_definicion_anatomica",
+    "keywords": [
+      "componente",
+      "motor",
+      "sensor",
+      "diagnostico",
+      "sistema"
+    ],
+    "base_response": "El diagnóstico de fallas se basa en comprender la estructura interna del vehículo, donde cada sistema integra componentes y sensores que interactúan. Analizar la disposición del motor, transmisión y circuitos permite identificar anomalías físicas que afectan el funcionamiento general y orientan la reparación adecuada."
+  },
+  {
+    "intent_id": "diagnostico_general_fallas_dinamica_funcionamiento_fisico",
+    "keywords": [
+      "motor",
+      "sensor",
+      "temperatura",
+      "diagnostico",
+      "vibracion"
+    ],
+    "base_response": "El diagnóstico de fallas analiza cómo se comportan físicamente los sistemas del vehículo. Se observan vibraciones, variaciones de temperatura y señales de sensores para identificar anomalías. Comprender estas dinámicas permite detectar problemas antes de que afecten el rendimiento general del automóvil."
+  },
+  {
+    "intent_id": "diagnostico_general_fallas_propiedades_materiales",
+    "keywords": [
+      "corrosion",
+      "oxidacion",
+      "lubricacion",
+      "conductividad",
+      "aislamiento"
+    ],
+    "base_response": "El diagnóstico de fallas considera cómo las propiedades químicas y materiales influyen en el rendimiento automotriz. La corrosión, la oxidación y la pérdida de conductividad pueden alterar conexiones y componentes, mientras el aislamiento y la lubricación adecuada previenen daños y facilitan una evaluación precisa del sistema."
+  },
+  {
+    "intent_id": "diagnostico_general_fallas_errores_fallas_patologias_comunes",
+    "keywords": [
+      "motor",
+      "revision",
+      "funcionamiento",
+      "diagnostico",
+      "sistema",
+      "fallas"
+    ],
+    "base_response": "El diagnóstico de fallas automotrices identifica errores frecuentes en el funcionamiento del motor y sistemas asociados. Incluye revisar ruidos anómalos, pérdidas de potencia, vibraciones y fugas. Comprender estos síntomas permite detectar problemas comunes y aplicar soluciones básicas antes de daños mayores."
+  },
+  {
+    "intent_id": "diagnostico_general_fallas_historia_origen_evolucion",
+    "keywords": [
+      "herramienta",
+      "vehiculo",
+      "diagnostico",
+      "mecanica",
+      "evolucion"
+    ],
+    "base_response": "El diagnóstico de fallas automotrices surgió con los primeros vehículos, cuando los mecánicos dependían de la observación directa. Con el tiempo evolucionó hacia herramientas especializadas y sistemas electrónicos que permiten identificar fallas con mayor precisión, facilitando reparaciones seguras y eficientes."
+  },
+  {
+    "intent_id": "diagnostico_fallas_contexto_ecologico",
+    "keywords": [
+      "emision",
+      "diagnostico",
+      "mantenimiento",
+      "sistema",
+      "contaminacion"
+    ],
+    "base_response": "El diagnóstico de fallas permite identificar problemas que incrementan emisiones y consumo. Revisar sistemas de combustión, filtración y escape ayuda a reducir contaminación. Un mantenimiento adecuado disminuye impactos ambientales y favorece un uso responsable del vehículo dentro de su entorno ecológico."
+  },
+  {
+    "intent_id": "diagnostico_general_fallas_aplicaciones_practicas",
+    "keywords": [
+      "vehiculo",
+      "revision",
+      "diagnostico",
+      "sistema",
+      "fallas"
+    ],
+    "base_response": "El diagnóstico de fallas permite identificar problemas comunes en un vehículo mediante la revisión de sistemas básicos. Los estudiantes pueden aplicar este proceso evaluando sonidos, luces de advertencia y comportamientos anormales, desarrollando habilidades prácticas para reconocer situaciones que requieren atención mecánica inmediata."
+  },
+  {
+    "intent_id": "diagnostico_general_fallas_importancia_impacto_social",
+    "keywords": [
+      "vehiculo",
+      "comunidad",
+      "diagnostico",
+      "fallas",
+      "seguridad"
+    ],
+    "base_response": "El diagnóstico oportuno de fallas automotrices fortalece la seguridad vial y reduce accidentes. Comprender problemas mecánicos permite mantener vehículos confiables, disminuir costos y proteger a la comunidad. Una revisión adecuada contribuye al bienestar social al evitar riesgos y mejorar la movilidad diaria."
+  },
+  {
+    "intent_id": "diagnostico_general_fallas_ventajas_desventajas",
+    "keywords": [
+      "tiempo",
+      "diagnostico",
+      "sistema",
+      "fallas",
+      "precision"
+    ],
+    "base_response": "El diagnóstico general de fallas permite identificar problemas con mayor precisión y reducir tiempos de reparación, aunque puede requerir herramientas especializadas y conocimientos técnicos. Comparar métodos ayuda a elegir procedimientos más rápidos, económicos y confiables según la complejidad del sistema automotriz evaluado."
+  },
+  {
+    "intent_id": "diagnostico_general_fallas_riesgos_seguridad",
+    "keywords": [
+      "herramienta",
+      "riesgo",
+      "motor",
+      "proteccion",
+      "inspeccion"
+    ],
+    "base_response": "El diagnóstico de fallas exige revisar el motor y sus sistemas usando herramientas adecuadas. Antes de inspeccionar, se deben identificar riesgos como piezas calientes o cables dañados. Utilizar guantes, gafas y desconectar la batería reduce accidentes y garantiza un entorno seguro durante el mantenimiento."
+  },
+  {
+    "intent_id": "diagnostico_general_fallas_clasificacion_taxonomica",
+    "keywords": [
+      "componente",
+      "diagnostico",
+      "sistema",
+      "funcion",
+      "fallas"
+    ],
+    "base_response": "El diagnóstico de fallas se organiza clasificando sistemas y componentes según su función. Esta clasificación permite identificar patrones de fallas y relacionarlos con áreas específicas del vehículo, facilitando la búsqueda de causas y la selección de procedimientos adecuados para resolver problemas automotrices."
+  },
+  {
+    "intent_id": "diagnostico_fallas_calculos_formulas",
+    "keywords": [
+      "corriente",
+      "sensor",
+      "resistencia",
+      "medicion",
+      "voltaje"
+    ],
+    "base_response": "El diagnóstico de fallas requiere calcular voltaje, corriente y resistencia para verificar el funcionamiento de sensores. Aplicar la ley de Ohm permite identificar variaciones anómalas en circuitos automotrices y determinar si un componente eléctrico opera dentro de los rangos establecidos por el fabricante."
+  },
+  {
+    "intent_id": "diagnostico_general_fallas_mitos_concepciones_erroneas",
+    "keywords": [
+      "falla",
+      "motor",
+      "sensor",
+      "revision",
+      "diagnostico"
+    ],
+    "base_response": "Muchos creen que una falla siempre proviene del motor, pero diversos sistemas pueden causar el problema. También es erróneo pensar que un solo sensor confirma el diagnóstico. Un análisis adecuado requiere revisar conexiones, historial de uso y síntomas antes de decidir cualquier reparación."
+  },
+  {
+    "intent_id": "diagnostico_general_fallas_relacion_simbiotica_sistemas",
+    "keywords": [
+      "conexion",
+      "motor",
+      "sensor",
+      "funcionamiento",
+      "diagnostico"
+    ],
+    "base_response": "El diagnóstico de fallas considera cómo los sistemas del vehículo interactúan entre sí, ya que una falla en sensores o conexiones puede afectar el funcionamiento del motor. Comprender estas relaciones permite identificar causas reales y evitar reparaciones innecesarias que no resuelven el problema principal."
+  },
+  {
+    "intent_id": "diagnostico_fallas_transformacion_ciclos_energeticos",
+    "keywords": [
+      "motor",
+      "diagnostico",
+      "sistema",
+      "energia",
+      "transformacion"
+    ],
+    "base_response": "El diagnóstico de fallas analiza cómo la energía se transforma y circula dentro del motor y sus sistemas. Identificar interrupciones en estos ciclos permite detectar fallas comunes, evaluar el rendimiento y aplicar correcciones que aseguren un flujo energético estable y eficiente en el vehículo."
+  },
+  {
+    "intent_id": "diagnostico_general_fallas_experimentos_demostraciones",
+    "keywords": [
+      "prueba",
+      "motor",
+      "sensor",
+      "diagnostico",
+      "fallas"
+    ],
+    "base_response": "Los estudiantes realizan pruebas simples en un modelo automotriz escolar para identificar fallas comunes. Observan sonidos, revisan conexiones y simulan lecturas de sensores. Comparan resultados y explican cómo cada indicio ayuda a diagnosticar problemas básicos antes de una reparación profesional."
+  },
+  {
+    "intent_id": "diagnostico_general_fallas_consecuencias_largo_plazo",
+    "keywords": [
+      "falla",
+      "prevencion",
+      "diagnostico",
+      "mantenimiento",
+      "sistema"
+    ],
+    "base_response": "Un diagnóstico general de fallas permite identificar problemas antes de que afecten sistemas críticos. Ignorar estas señales provoca daños acumulativos, incrementa costos futuros y reduce la vida útil del vehículo, afectando seguridad, rendimiento y confiabilidad a largo plazo."
+  },
+  {
+    "intent_id": "diagnostico_fallas_impacto_ambiental",
+    "keywords": [
+      "emisiones",
+      "diagnostico",
+      "mantenimiento",
+      "contaminacion",
+      "fallas"
+    ],
+    "base_response": "El diagnóstico oportuno de fallas reduce emisiones contaminantes al identificar problemas que incrementan el consumo de combustible. Un mantenimiento adecuado evita fugas, optimiza la combustión y disminuye residuos tóxicos, contribuyendo directamente a un uso responsable del vehículo y a la protección ambiental."
+  },
+  {
+    "intent_id": "diagnostico_general_fallas_mantenimiento_prevencion",
+    "keywords": [
+      "vehiculo",
+      "revision",
+      "diagnostico",
+      "sistema",
+      "fallas"
+    ],
+    "base_response": "El diagnóstico general de fallas permite identificar problemas en sistemas clave del vehículo mediante revisiones básicas. Este proceso ayuda a prevenir daños mayores, mejorar la seguridad y mantener el funcionamiento adecuado mediante la detección temprana de ruidos, fugas, vibraciones o comportamientos anómalos."
+  },
+  {
+    "intent_id": "diagnostico_general_fallas_proyecciones_futuras_tecnologia",
+    "keywords": [
+      "vehiculo",
+      "sensor",
+      "diagnostico",
+      "mantenimiento",
+      "software"
+    ],
+    "base_response": "La detección de fallas evoluciona hacia sistemas inteligentes capaces de analizar datos en tiempo real. Los vehículos integrarán sensores avanzados y software predictivo que anticipará averías, permitiendo mantenimiento automatizado y decisiones rápidas para conservar el rendimiento y la seguridad en distintos entornos de uso."
+  },
+  {
+    "intent_id": "escaner_codigos_vehiculares_definicion_anatomica",
+    "keywords": [
+      "modulo",
+      "lectura",
+      "sensor",
+      "diagnostico",
+      "conector"
+    ],
+    "base_response": "El escáner electrónico de códigos vehiculares es un dispositivo compuesto por un conector OBD, un módulo de procesamiento y una pantalla de lectura. Su estructura permite recibir señales del vehículo, interpretarlas y mostrar fallas registradas en los sistemas electrónicos internos."
+  },
+  {
+    "intent_id": "escaner_electronico_dinamica_funcionamiento_fisico",
+    "keywords": [
+      "lectura",
+      "sensor",
+      "diagnostico",
+      "sistema",
+      "codigo"
+    ],
+    "base_response": "El escáner electrónico interpreta señales físicas enviadas por sensores del vehículo y las convierte en códigos de diagnóstico. Su circuito interno procesa variaciones eléctricas generadas por fallas mecánicas, permitiendo identificar rápidamente problemas mediante la lectura estructurada del sistema automotriz."
+  },
+  {
+    "intent_id": "escaner_electronico_propiedades_materiales",
+    "keywords": [
+      "material",
+      "sensor",
+      "circuito",
+      "resistencia",
+      "conductividad"
+    ],
+    "base_response": "El escáner electrónico utiliza sensores y circuitos fabricados con materiales de alta conductividad y resistencia térmica. Estos componentes permiten interpretar señales químicas y eléctricas del vehículo, asegurando lecturas precisas de fallas almacenadas en la computadora automotriz."
+  },
+  {
+    "intent_id": "escaner_electronico_codigos_vehiculares_errores_fallas_patologias",
+    "keywords": [
+      "codigo",
+      "motor",
+      "sensor",
+      "diagnostico",
+      "sistema",
+      "fallo"
+    ],
+    "base_response": "El escáner electrónico identifica fallos comunes leyendo códigos generados por sensores del vehículo. Estos códigos señalan problemas en el motor, el sistema eléctrico o la emisión. Comprenderlos permite detectar errores frecuentes y prevenir daños mayores mediante un mantenimiento oportuno y preciso."
+  },
+  {
+    "intent_id": "escaner_codigos_historia_origen_evolucion",
+    "keywords": [
+      "vehiculo",
+      "sensor",
+      "diagnostico",
+      "tecnologia",
+      "codigo"
+    ],
+    "base_response": "El escáner electrónico surgió cuando los vehículos incorporaron sistemas computarizados para controlar funciones del motor. Su evolución comenzó con códigos simples en los años ochenta y avanzó hacia herramientas capaces de interpretar datos complejos, permitiendo diagnósticos rápidos y precisos en talleres modernos."
+  },
+  {
+    "intent_id": "escaner_electronico_aplicaciones_practicas",
+    "keywords": [
+      "vehiculo",
+      "lectura",
+      "sensor",
+      "diagnostico",
+      "fallas"
+    ],
+    "base_response": "El escáner electrónico permite identificar fallas reales en un vehículo mediante la lectura de códigos almacenados en sus sistemas. Su uso facilita decisiones rápidas, evita reparaciones innecesarias y ayuda a comprender cómo interactúan los sensores para mantener el funcionamiento seguro del automóvil."
+  },
+  {
+    "intent_id": "escaner_electronico_importancia_impacto_social",
+    "keywords": [
+      "vehiculo",
+      "diagnostico",
+      "mantenimiento",
+      "tecnologia",
+      "seguridad"
+    ],
+    "base_response": "El escáner electrónico permite identificar fallas del vehículo con rapidez, mejorando la seguridad vial y reduciendo accidentes. Su uso responsable facilita un mantenimiento preventivo accesible, disminuye costos y contribuye a una movilidad más eficiente que beneficia a toda la comunidad."
+  },
+  {
+    "intent_id": "escaner_electronico_codigos_vehiculares_ventajas_desventajas_comparativas",
+    "keywords": [
+      "lectura",
+      "sensor",
+      "diagnostico",
+      "fallas",
+      "precision"
+    ],
+    "base_response": "El escáner electrónico permite identificar fallas con rapidez y precisión, facilitando decisiones de mantenimiento. Su ventaja principal es la lectura inmediata de códigos, mientras que su desventaja radica en la dependencia tecnológica y la necesidad de interpretar correctamente la información para evitar errores costosos."
+  },
+  {
+    "intent_id": "escaner_codigos_riesgos_seguridad",
+    "keywords": [
+      "riesgo",
+      "conexion",
+      "proteccion",
+      "escaneo",
+      "diagnostico"
+    ],
+    "base_response": "El uso del escáner electrónico exige verificar conexiones seguras y evitar manipular cables con el motor encendido. Mantener distancia de partes móviles y emplear protección adecuada reduce riesgos eléctricos y mecánicos. Seguir instrucciones del fabricante garantiza un diagnóstico seguro y confiable."
+  },
+  {
+    "intent_id": "escaner_codigos_clasificacion_taxonomica",
+    "keywords": [
+      "lectura",
+      "sensor",
+      "diagnostico",
+      "sistema",
+      "codigo"
+    ],
+    "base_response": "El escáner electrónico clasifica los códigos vehiculares según el sistema que reporta la falla, agrupando motor, transmisión, frenos y otros módulos. Esta clasificación permite identificar rápidamente el origen del problema y organizar el diagnóstico para un mantenimiento seguro y eficiente."
+  },
+  {
+    "intent_id": "escaner_codigos_calculos_formulas",
+    "keywords": [
+      "corriente",
+      "lectura",
+      "sensor",
+      "diagnostico",
+      "voltaje"
+    ],
+    "base_response": "El escáner interpreta variaciones de voltaje y corriente provenientes de sensores. Estos valores permiten calcular parámetros como mezcla de aire y combustible mediante relaciones entre señales eléctricas. El análisis matemático ayuda a confirmar fallas y validar la coherencia de los datos registrados por la computadora vehicular."
+  },
+  {
+    "intent_id": "escaner_electronico_mitos_concepciones_erroneas",
+    "keywords": [
+      "codigo",
+      "lectura",
+      "sensor",
+      "diagnostico",
+      "fallo"
+    ],
+    "base_response": "Muchos creen que el escáner electrónico repara fallas por sí solo, pero solo interpreta códigos generados por los sensores. También es falso que siempre indique la pieza exacta dañada; algunos códigos señalan sistemas completos que requieren verificación manual para confirmar el problema real."
+  },
+  {
+    "intent_id": "escaner_codigos_relacion_simbiotica_sistemas",
+    "keywords": [
+      "comunicacion",
+      "sensor",
+      "funcionamiento",
+      "diagnostico",
+      "sistema"
+    ],
+    "base_response": "El escáner electrónico interpreta datos enviados por múltiples sistemas del vehículo, creando una relación simbiótica que permite detectar fallas con precisión. Esta interacción mejora el funcionamiento general al coordinar información entre sensores, módulos de control y procesos de diagnóstico en tiempo real."
+  },
+  {
+    "intent_id": "escaner_electronico_codigos_vehiculares_experimentos_demostraciones",
+    "keywords": [
+      "conexion",
+      "sensor",
+      "escaneo",
+      "diagnostico",
+      "fallas"
+    ],
+    "base_response": "El escáner electrónico permite observar códigos de fallas mediante la conexión al sistema del vehículo. Los estudiantes pueden experimentar conectando el dispositivo a un módulo educativo, leyendo datos simulados y analizando cómo cada código representa un problema específico dentro del funcionamiento automotriz."
+  },
+  {
+    "intent_id": "escaner_codigos_consecuencias_largo_plazo",
+    "keywords": [
+      "sensor",
+      "prevencion",
+      "diagnostico",
+      "mantenimiento",
+      "fallas"
+    ],
+    "base_response": "El uso constante del escáner de códigos vehiculares permite detectar fallas tempranas y evitar daños mayores. Comprender sus lecturas fomenta decisiones de mantenimiento oportunas, prolonga la vida útil del vehículo y reduce costos futuros al prevenir averías que podrían volverse críticas con el tiempo."
+  },
+  {
+    "intent_id": "escaner_codigos_impacto_ambiental",
+    "keywords": [
+      "sensor",
+      "emisiones",
+      "diagnostico",
+      "contaminacion",
+      "fallas"
+    ],
+    "base_response": "El escáner electrónico permite identificar fallas que incrementan emisiones contaminantes, ayudando a reparar el vehículo antes de que genere daños ambientales. Su uso frecuente mejora la eficiencia del motor, reduce consumo de combustible y disminuye la liberación de gases perjudiciales para el entorno."
+  },
+  {
+    "intent_id": "escaner_codigos_mantenimiento_prevencion",
+    "keywords": [
+      "lectura",
+      "sensor",
+      "diagnostico",
+      "sistema",
+      "fallas"
+    ],
+    "base_response": "El escáner electrónico permite identificar fallas internas mediante la lectura de códigos generados por los sensores del vehículo. Su uso regular facilita el mantenimiento preventivo, anticipa averías y ayuda a conservar el funcionamiento seguro del sistema automotriz en distintas condiciones de manejo."
+  },
+  {
+    "intent_id": "escaner_electronico_proyecciones_futuras_tecnologia",
+    "keywords": [
+      "vehiculo",
+      "sensor",
+      "diagnostico",
+      "actualizacion",
+      "software"
+    ],
+    "base_response": "El escáner electrónico evolucionará hacia sistemas predictivos capaces de anticipar fallas mediante análisis avanzado. Integrará inteligencia artificial, conectividad remota y actualizaciones automáticas que permitirán diagnósticos más precisos, rápidos y seguros para mantener el rendimiento óptimo del vehículo."
+  },
+  {
+    "intent_id": "alineacion_computarizada_definicion_anatomica",
+    "keywords": [
+      "alineacion",
+      "sensor",
+      "rueda",
+      "angulo",
+      "chasis"
+    ],
+    "base_response": "La alineación computarizada analiza la posición estructural de cada rueda mediante sensores que miden ángulos clave respecto al chasis. Estos valores permiten identificar desviaciones en la geometría vehicular y ajustar la orientación correcta para asegurar estabilidad, control preciso y desgaste uniforme en el sistema de rodamiento."
+  },
+  {
+    "intent_id": "alineacion_computarizada_dinamica_funcionamiento_fisico",
+    "keywords": [
+      "ajuste",
+      "alineacion",
+      "sensor",
+      "rueda",
+      "angulo"
+    ],
+    "base_response": "La alineación computarizada analiza los ángulos de las ruedas mediante sensores que detectan variaciones mínimas. El sistema compara los datos con valores de fábrica y guía ajustes precisos. Una correcta alineación mejora la estabilidad, reduce el desgaste y optimiza el comportamiento físico del vehículo en movimiento."
+  },
+  {
+    "intent_id": "alineacion_computarizada_errores_fallas_patologias",
+    "keywords": [
+      "alineacion",
+      "desgaste",
+      "direccion",
+      "sensor",
+      "vibracion"
+    ],
+    "base_response": "La alineación computarizada puede fallar por sensores sucios, piezas desgastadas o configuraciones incorrectas. Estos errores generan vibración, desvío en la dirección y desgaste irregular de las llantas. Detectarlos temprano evita daños mayores y mejora la seguridad del vehículo."
+  },
+  {
+    "intent_id": "alineacion_computarizada_historia_origen_evolucion",
+    "keywords": [
+      "alineacion",
+      "computadora",
+      "rueda",
+      "diagnostico",
+      "precision"
+    ],
+    "base_response": "La alineación computarizada surgió cuando los talleres adoptaron sensores electrónicos para medir ángulos de ruedas con mayor precisión. Con el tiempo evolucionó hacia sistemas digitales capaces de analizar datos en segundos, mejorando la seguridad vehicular y reduciendo el desgaste irregular de los neumáticos."
+  },
+  {
+    "intent_id": "alineacion_computarizada_contexto_ecologico",
+    "keywords": [
+      "alineacion",
+      "desgaste",
+      "rueda",
+      "energia",
+      "contaminacion"
+    ],
+    "base_response": "La alineación computarizada optimiza el ángulo de las ruedas para reducir el desgaste irregular y disminuir el consumo de energía. Un vehículo bien alineado genera menos contaminación, prolonga la vida útil de las llantas y contribuye a un entorno ecológico más equilibrado."
+  },
+  {
+    "intent_id": "alineacion_computarizada_aplicaciones_practicas",
+    "keywords": [
+      "alineacion",
+      "sensor",
+      "rueda",
+      "seguridad",
+      "precision"
+    ],
+    "base_response": "La alineación computarizada ajusta el ángulo de las ruedas mediante sensores que analizan su posición real. Este proceso mejora la estabilidad del vehículo, reduce el desgaste de llantas y aumenta la seguridad al mantener una trayectoria correcta durante recorridos urbanos y viajes prolongados."
+  },
+  {
+    "intent_id": "alineacion_computarizada_importancia_impacto_social",
+    "keywords": [
+      "alineacion",
+      "vehiculo",
+      "estabilidad",
+      "seguridad",
+      "precision"
+    ],
+    "base_response": "La alineación computarizada mejora la estabilidad del vehículo y reduce accidentes al asegurar que las ruedas mantengan su trayectoria correcta. Su precisión disminuye el desgaste de llantas, optimiza el consumo de combustible y contribuye al bienestar social al promover desplazamientos seguros y eficientes."
+  },
+  {
+    "intent_id": "alineacion_computarizada_ventajas_desventajas_comparativas",
+    "keywords": [
+      "alineacion",
+      "desgaste",
+      "sensor",
+      "rueda",
+      "precision"
+    ],
+    "base_response": "La alineación computarizada ofrece mayor precisión gracias a sensores avanzados que detectan ángulos exactos, mejorando la estabilidad y reduciendo el desgaste. Sin embargo, requiere equipos costosos y personal capacitado, lo que puede aumentar el tiempo y el precio del servicio en talleres pequeños."
+  },
+  {
+    "intent_id": "alineacion_computarizada_riesgos_medidas_seguridad",
+    "keywords": [
+      "alineacion",
+      "riesgo",
+      "rueda",
+      "equipo",
+      "operacion",
+      "seguridad"
+    ],
+    "base_response": "La alineación computarizada exige controlar riesgos como atrapamientos y golpes durante la operación. El estudiante debe asegurar el vehículo, evitar acercar manos a componentes móviles, verificar el estado del equipo y seguir instrucciones técnicas para prevenir accidentes y mantener un entorno de trabajo seguro."
+  },
+  {
+    "intent_id": "alineacion_computarizada_clasificacion_taxonomica",
+    "keywords": [
+      "alineacion",
+      "sensor",
+      "rueda",
+      "diagnostico",
+      "angulo"
+    ],
+    "base_response": "La alineación computarizada clasifica los ángulos de las ruedas según parámetros como convergencia, caída y avance. Esta clasificación permite identificar desviaciones específicas mediante sensores digitales, facilitando un diagnóstico preciso que mejora la estabilidad vehicular y prolonga la vida útil de los componentes de suspensión."
+  },
+  {
+    "intent_id": "alineacion_computarizada_calculos_formulas",
+    "keywords": [
+      "ajuste",
+      "alineacion",
+      "rueda",
+      "angulo",
+      "medicion"
+    ],
+    "base_response": "La alineación computarizada usa cálculos de ángulos para evaluar la posición de cada rueda. Se determinan valores de convergencia, caída y avance mediante sensores que comparan la geometría real con parámetros ideales, permitiendo ajustar la dirección y mejorar la estabilidad vehicular."
+  },
+  {
+    "intent_id": "alineacion_computarizada_mitos_concepciones_erroneas",
+    "keywords": [
+      "alineacion",
+      "sensor",
+      "rueda",
+      "diagnostico",
+      "precision"
+    ],
+    "base_response": "La alineación computarizada no corrige daños estructurales ni reemplaza el mantenimiento mecánico básico. Algunos creen que solo ajusta ángulos menores, pero realmente evalúa con sensores la posición exacta de cada rueda y detecta problemas que afectan la estabilidad y el desgaste prematuro."
+  },
+  {
+    "intent_id": "alineacion_computarizada_relacion_simbiotica_sistemas",
+    "keywords": [
+      "alineacion",
+      "direccion",
+      "sensor",
+      "rueda",
+      "suspension"
+    ],
+    "base_response": "La alineación computarizada funciona en conjunto con la suspensión y la dirección, usando sensores para medir ángulos precisos. Esta relación permite que cada sistema apoye al otro, asegurando estabilidad, menor desgaste y una respuesta vehicular segura durante diferentes condiciones de manejo."
+  },
+  {
+    "intent_id": "alineacion_computarizada_experimentos_demostraciones",
+    "keywords": [
+      "ajuste",
+      "alineacion",
+      "sensor",
+      "rueda",
+      "medicion"
+    ],
+    "base_response": "Los estudiantes observan cómo un sistema computarizado mide ángulos de ruedas usando sensores. Comparan lecturas antes y después de un ajuste simulado, analizando cómo pequeñas variaciones afectan la estabilidad vehicular. El ejercicio demuestra la importancia de una alineación precisa para seguridad y desempeño."
+  },
+  {
+    "intent_id": "alineacion_computarizada_consecuencias_largo_plazo",
+    "keywords": [
+      "alineacion",
+      "desgaste",
+      "rueda",
+      "estabilidad",
+      "seguridad"
+    ],
+    "base_response": "La alineación computarizada mantiene las ruedas en el ángulo correcto y evita desgaste irregular. A largo plazo mejora la estabilidad del vehículo, reduce fallas en suspensión y aumenta la seguridad. Ignorarla provoca vibraciones constantes y daños costosos en componentes esenciales."
+  },
+  {
+    "intent_id": "alineacion_computarizada_impacto_ambiental",
+    "keywords": [
+      "alineacion",
+      "desgaste",
+      "rueda",
+      "energia",
+      "contaminacion"
+    ],
+    "base_response": "La alineación computarizada reduce el desgaste irregular de las ruedas y evita que el vehículo consuma energía adicional. Un sistema bien calibrado disminuye emisiones contaminantes, prolonga la vida útil de los componentes y contribuye a un uso más responsable de los recursos ambientales."
+  },
+  {
+    "intent_id": "alineacion_computarizada_mantenimiento_prevencion",
+    "keywords": [
+      "alineacion",
+      "sensor",
+      "rueda",
+      "seguridad",
+      "precision"
+    ],
+    "base_response": "La alineación computarizada ajusta los ángulos de las ruedas mediante sensores que garantizan precisión. Un mantenimiento adecuado previene desgaste irregular, mejora la estabilidad del vehículo y aumenta la seguridad. Revisar periódicamente la alineación evita fallas y prolonga la vida útil de los componentes."
+  },
+  {
+    "intent_id": "alineacion_computarizada_proyecciones_futuras_tecnologia",
+    "keywords": [
+      "alineacion",
+      "vehiculo",
+      "sensor",
+      "diagnostico",
+      "software"
+    ],
+    "base_response": "La alineación computarizada evolucionará mediante sensores avanzados y software predictivo capaces de analizar desgaste y anticipar fallas. Estos sistemas permitirán diagnósticos más precisos, ajustes automáticos y mantenimiento preventivo que optimizará la seguridad y el rendimiento vehicular en entornos cada vez más digitalizados."
+  },
+  {
+    "intent_id": "balanceo_dinamico_neumaticos_definicion_anatomica",
+    "keywords": [
+      "equilibrio",
+      "masa",
+      "neumatico",
+      "rueda",
+      "rotacion"
+    ],
+    "base_response": "El balanceo dinámico se basa en la estructura de la rueda y el neumático, donde la masa debe distribuirse de forma uniforme. Cuando la rotación presenta desequilibrios, se corrigen añadiendo contrapesos que estabilizan el conjunto y evitan vibraciones."
+  },
+  {
+    "intent_id": "balanceo_dinamico_neumaticos_dinamica_funcionamiento_fisico",
+    "keywords": [
+      "equilibrio",
+      "masa",
+      "neumatico",
+      "rotacion",
+      "vibracion"
+    ],
+    "base_response": "El balanceo dinámico ajusta la distribución de masa del neumático durante su rotación para evitar vibraciones. Este proceso corrige desequilibrios que afectan la estabilidad del vehículo y mejora el contacto uniforme con el pavimento, garantizando un funcionamiento seguro y eficiente en distintas velocidades."
+  },
+  {
+    "intent_id": "balanceo_dinamico_neumaticos_errores_fallas_patologias",
+    "keywords": [
+      "desgaste",
+      "neumatico",
+      "balanceo",
+      "vibracion",
+      "seguridad"
+    ],
+    "base_response": "El balanceo dinámico incorrecto provoca vibraciones que afectan la estabilidad del vehículo. Un neumático mal equilibrado genera desgaste irregular, reduce la vida útil de la suspensión y puede causar pérdida de control. Detectar estas fallas permite mantener una conducción segura y prevenir daños mayores."
+  },
+  {
+    "intent_id": "balanceo_dinamico_historia_origen_evolucion",
+    "keywords": [
+      "maquina",
+      "neumatico",
+      "rotacion",
+      "balanceo",
+      "vibracion"
+    ],
+    "base_response": "El balanceo dinámico surgió cuando los vehículos alcanzaron mayores velocidades y las vibraciones se volvieron críticas. Su evolución incluyó máquinas más precisas capaces de medir desequilibrios en rotación, permitiendo ajustar pesos y mejorar estabilidad, seguridad y durabilidad en los neumáticos modernos."
+  },
+  {
+    "intent_id": "balanceo_dinamico_contexto_ecologico",
+    "keywords": [
+      "desgaste",
+      "neumatico",
+      "eficiencia",
+      "balanceo",
+      "residuo"
+    ],
+    "base_response": "El balanceo dinámico reduce el desgaste irregular del neumático y disminuye la generación de residuos que afectan al entorno. Un neumático bien balanceado mejora la eficiencia del vehículo, disminuye el consumo de combustible y contribuye a un uso responsable de los recursos naturales."
+  },
+  {
+    "intent_id": "balanceo_dinamico_aplicaciones_practicas",
+    "keywords": [
+      "rodaje",
+      "neumatico",
+      "balanceo",
+      "vibracion",
+      "seguridad"
+    ],
+    "base_response": "El balanceo dinámico reduce vibraciones al girar los neumáticos, mejorando la estabilidad del vehículo. Aplicarlo en talleres permite detectar desequilibrios y corregirlos con precisión, logrando un rodaje más seguro, cómodo y eficiente durante recorridos urbanos y viajes prolongados."
+  },
+  {
+    "intent_id": "balanceo_dinamico_neumaticos_importancia_impacto_social",
+    "keywords": [
+      "neumatico",
+      "balanceo",
+      "estabilidad",
+      "vibracion",
+      "transporte",
+      "seguridad"
+    ],
+    "base_response": "El balanceo dinámico de neumáticos mejora la estabilidad del vehículo y reduce vibraciones que afectan la seguridad vial. Su correcta aplicación disminuye accidentes, optimiza el transporte comunitario y contribuye al bienestar social al asegurar desplazamientos más confiables y eficientes para todos."
+  },
+  {
+    "intent_id": "balanceo_dinamico_neumaticos_ventajas_desventajas",
+    "keywords": [
+      "neumatico",
+      "balanceo",
+      "vibracion",
+      "seguridad",
+      "precision"
+    ],
+    "base_response": "El balanceo dinámico reduce vibraciones y mejora la seguridad al mantener estabilidad en marcha. Sin embargo, requiere equipos precisos y puede ser más costoso que métodos simples. Su aplicación correcta prolonga la vida del neumático y optimiza el desempeño general del vehículo."
+  },
+  {
+    "intent_id": "balanceo_dinamico_neumaticos_riesgos_seguridad",
+    "keywords": [
+      "herramienta",
+      "neumatico",
+      "balanceo",
+      "vibracion",
+      "seguridad"
+    ],
+    "base_response": "El balanceo dinámico exige controlar vibraciones y usar herramientas calibradas para evitar daños. Se deben asegurar los neumáticos correctamente, mantener distancia de giro y verificar que la máquina esté estable. Estas medidas reducen riesgos de atrapamiento y fallas durante el proceso."
+  },
+  {
+    "intent_id": "balanceo_dinamico_clasificacion_taxonomica",
+    "keywords": [
+      "masa",
+      "neumatico",
+      "rotacion",
+      "balanceo",
+      "vibracion"
+    ],
+    "base_response": "El balanceo dinámico clasifica los tipos de desequilibrio que aparecen en un neumático durante su rotación. Esta clasificación permite identificar variaciones de masa que generan vibraciones, facilitando ajustes precisos para mejorar la estabilidad vehicular y prolongar la vida útil del conjunto."
+  },
+  {
+    "intent_id": "balanceo_dinamico_calculos_formulas",
+    "keywords": [
+      "masa",
+      "neumatico",
+      "rotacion",
+      "balanceo",
+      "vibracion"
+    ],
+    "base_response": "El balanceo dinámico usa cálculos para determinar la masa necesaria que corrige vibraciones durante la rotación del neumático. Se aplica la fórmula momento igual a masa por distancia, ajustando pesos en el aro para lograr estabilidad y reducir desgaste en conducción."
+  },
+  {
+    "intent_id": "balanceo_dinamico_neumaticos_mitos_concepciones_erroneas",
+    "keywords": [
+      "neumatico",
+      "mantenimiento",
+      "balanceo",
+      "vibracion",
+      "seguridad"
+    ],
+    "base_response": "Muchos creen que el balanceo dinamico solo elimina vibraciones menores, pero también previene desgaste irregular y mejora la seguridad. Otro mito común afirma que solo se necesita una vez, cuando en realidad debe realizarse cada cambio de neumáticos o ante vibraciones persistentes."
+  },
+  {
+    "intent_id": "balanceo_dinamico_neumaticos_relacion_simbiotica_sistemas",
+    "keywords": [
+      "neumatico",
+      "balanceo",
+      "estabilidad",
+      "vibracion",
+      "suspension"
+    ],
+    "base_response": "El balanceo dinámico interactúa de forma coordinada con la suspensión y la dirección, reduciendo vibraciones que afectan la estabilidad del vehículo. Esta relación permite que los neumáticos giren con precisión, mejorando el control y evitando esfuerzos innecesarios en otros componentes automotrices."
+  },
+  {
+    "intent_id": "balanceo_dinamico_experimentos_demostraciones",
+    "keywords": [
+      "equilibrio",
+      "neumatico",
+      "rotacion",
+      "balanceo",
+      "vibracion"
+    ],
+    "base_response": "El balanceo dinámico se demuestra haciendo girar un neumático y observando vibraciones causadas por masas desiguales. Los estudiantes pueden añadir pequeñas pesas y medir cambios en la estabilidad, comprendiendo cómo el equilibrio correcto mejora la conducción y reduce el desgaste vehicular."
+  },
+  {
+    "intent_id": "balanceo_dinamico_consecuencias_largo_plazo",
+    "keywords": [
+      "desgaste",
+      "neumatico",
+      "estabilidad",
+      "vibracion",
+      "seguridad"
+    ],
+    "base_response": "El balanceo dinámico adecuado evita vibraciones que generan desgaste irregular y reducen la estabilidad del vehículo. Mantener este proceso a largo plazo mejora la seguridad, prolonga la vida útil de los neumáticos y disminuye el riesgo de daños en componentes sensibles de la suspensión."
+  },
+  {
+    "intent_id": "balanceo_dinamico_neumaticos_impacto_ambiental",
+    "keywords": [
+      "desgaste",
+      "neumatico",
+      "balanceo",
+      "vibracion",
+      "contaminacion"
+    ],
+    "base_response": "El balanceo dinámico reduce vibraciones que aceleran el desgaste del neumático y aumentan residuos contaminantes. Un neumático bien balanceado mejora la eficiencia del vehículo, disminuye el consumo de combustible y contribuye a reducir la liberación de partículas que afectan la calidad ambiental."
+  },
+  {
+    "intent_id": "balanceo_dinamico_neumaticos_mantenimiento_prevencion",
+    "keywords": [
+      "neumatico",
+      "rotacion",
+      "balanceo",
+      "vibracion",
+      "seguridad"
+    ],
+    "base_response": "El balanceo dinámico corrige desequilibrios en los neumáticos para evitar vibraciones y desgaste irregular. Este proceso mantiene la estabilidad del vehículo, mejora la seguridad y prolonga la vida útil de las ruedas. Revisarlo periódicamente previene fallas y asegura un manejo más eficiente."
+  },
+  {
+    "intent_id": "balanceo_dinamico_proyecciones_futuras_tecnologia",
+    "keywords": [
+      "sensor",
+      "neumatico",
+      "balanceo",
+      "vibracion",
+      "algoritmo"
+    ],
+    "base_response": "El balanceo dinámico evolucionará mediante sensores inteligentes y algoritmos capaces de ajustar la distribución de masa en tiempo real. Estas tecnologías reducirán vibraciones, mejorarán la estabilidad vehicular y permitirán sistemas automotrices más seguros y eficientes para futuras generaciones de conductores."
+  },
+  {
+    "intent_id": "calibracion_llantas_definicion_anatomica",
+    "keywords": [
+      "estructura",
+      "aire",
+      "presion",
+      "llanta",
+      "seguridad"
+    ],
+    "base_response": "La llanta posee una cavidad interna que almacena aire y mantiene su forma estructural. La presión adecuada permite que la superficie de contacto funcione correctamente, evitando deformaciones que afectan la estabilidad, la tracción y la seguridad durante el desplazamiento del vehículo."
+  },
+  {
+    "intent_id": "calibracion_presion_llantas_dinamica_funcionamiento_fisico",
+    "keywords": [
+      "aire",
+      "friccion",
+      "estabilidad",
+      "presion",
+      "llanta"
+    ],
+    "base_response": "La presión adecuada en las llantas regula cómo el aire interno soporta el peso del vehículo y distribuye la fricción con el suelo. Una calibración correcta mejora la estabilidad, reduce el desgaste y optimiza el funcionamiento físico durante el movimiento continuo."
+  },
+  {
+    "intent_id": "calibracion_presion_llantas_propiedades_materiales",
+    "keywords": [
+      "goma",
+      "aire",
+      "elasticidad",
+      "presion",
+      "seguridad"
+    ],
+    "base_response": "La presión adecuada depende de las propiedades del aire y la elasticidad de la goma. Al calibrar, el aire comprimido mantiene la forma del neumático y evita deformaciones que reducen seguridad. Una presión correcta mejora estabilidad, desgaste y eficiencia del vehículo."
+  },
+  {
+    "intent_id": "calibracion_presion_llantas_errores_fallas_patologias",
+    "keywords": [
+      "desgaste",
+      "calibracion",
+      "presion",
+      "llanta",
+      "seguridad"
+    ],
+    "base_response": "Una presión incorrecta provoca desgaste irregular, menor agarre y riesgo de daños internos. Inflar en exceso endurece la llanta y reduce tracción, mientras que una presión baja genera calentamiento y posibles deformaciones. Verificar con manómetro confiable evita fallas comunes y mejora la seguridad vehicular."
+  },
+  {
+    "intent_id": "calibracion_presion_llantas_historia_origen_evolucion",
+    "keywords": [
+      "calibracion",
+      "presion",
+      "evolucion",
+      "llanta",
+      "seguridad"
+    ],
+    "base_response": "La calibración de presión de llantas surgió con los primeros vehículos neumáticos y evolucionó conforme aumentó la velocidad y el peso de los autos. Su desarrollo permitió mejorar la seguridad, reducir fallas y establecer métodos precisos para mantener un rendimiento adecuado en distintos caminos."
+  },
+  {
+    "intent_id": "calibracion_presion_llantas_contexto_ecologico",
+    "keywords": [
+      "sostenibilidad",
+      "presion",
+      "llanta",
+      "consumo",
+      "seguridad"
+    ],
+    "base_response": "Mantener la presión correcta en las llantas reduce el consumo de combustible y disminuye emisiones contaminantes. Una calibración adecuada mejora la seguridad del vehículo y favorece un entorno sostenible al evitar desgaste prematuro, uso excesivo de recursos y generación innecesaria de residuos."
+  },
+  {
+    "intent_id": "calibracion_presion_llantas_aplicaciones_practicas",
+    "keywords": [
+      "calibracion",
+      "manejo",
+      "presion",
+      "llanta",
+      "seguridad"
+    ],
+    "base_response": "Calibrar la presión de las llantas permite un manejo seguro y eficiente al evitar desgaste irregular y mejorar el consumo de combustible. Verificar la presión con un medidor y ajustarla según las indicaciones del vehículo ayuda a mantener estabilidad y prevenir fallas durante recorridos diarios."
+  },
+  {
+    "intent_id": "calibracion_presion_llantas_importancia_impacto_social",
+    "keywords": [
+      "prevencion",
+      "mantenimiento",
+      "presion",
+      "llanta",
+      "consumo",
+      "seguridad"
+    ],
+    "base_response": "La calibración correcta de la presión de llantas mejora la seguridad vial, reduce el consumo de combustible y disminuye emisiones contaminantes. Mantener la presión adecuada previene accidentes, alarga la vida útil del vehículo y contribuye al bienestar colectivo mediante prácticas responsables de movilidad."
+  },
+  {
+    "intent_id": "calibracion_presion_llantas_ventajas_desventajas_comparativas",
+    "keywords": [
+      "desgaste",
+      "calibracion",
+      "presion",
+      "llanta",
+      "seguridad"
+    ],
+    "base_response": "Mantener la presión correcta ofrece mayor seguridad, mejor agarre y menor desgaste. Una presión baja incrementa el consumo y reduce la estabilidad. Una presión alta endurece la conducción y disminuye la tracción. Comparar niveles permite equilibrar rendimiento, durabilidad y confort en distintos usos."
+  },
+  {
+    "intent_id": "calibracion_presion_llantas_riesgos_seguridad",
+    "keywords": [
+      "riesgo",
+      "calibracion",
+      "presion",
+      "llanta",
+      "seguridad"
+    ],
+    "base_response": "Mantener la presión correcta evita reventones y pérdida de control. Verificar la presión con un manómetro confiable reduce riesgos. Ajustar las llantas cuando están frías mejora la precisión. Evitar sobreinflar o desinflar protege la estabilidad y garantiza un manejo seguro en todo momento."
+  },
+  {
+    "intent_id": "calibracion_presion_llantas_calculos_formulas",
+    "keywords": [
+      "inflado",
+      "calculo",
+      "presion",
+      "llanta",
+      "manometro"
+    ],
+    "base_response": "La presión correcta se determina comparando el valor recomendado con la lectura del manómetro y aplicando la diferencia necesaria. El cálculo considera la unidad psi, ajustando el inflado hasta alcanzar el nivel especificado para asegurar estabilidad, eficiencia y desgaste uniforme en cada llanta."
+  },
+  {
+    "intent_id": "calibracion_presion_llantas_mitos_concepciones_erroneas",
+    "keywords": [
+      "desgaste",
+      "calibracion",
+      "presion",
+      "llanta",
+      "seguridad"
+    ],
+    "base_response": "Muchos creen que inflar las llantas al máximo mejora el rendimiento, pero una presión incorrecta provoca desgaste irregular y reduce la seguridad. También es falso que la presión se mantenga estable todo el año, pues la temperatura modifica el aire interno y exige revisiones periódicas para evitar fallas."
+  },
+  {
+    "intent_id": "calibracion_presion_llantas_relacion_simbiotica_sistemas",
+    "keywords": [
+      "seguridad",
+      "estabilidad",
+      "presion",
+      "llanta",
+      "traccion"
+    ],
+    "base_response": "La calibración correcta de la presión de llantas interactúa de forma simbiótica con la suspensión, la dirección y los frenos. Una presión adecuada mejora la estabilidad, optimiza la tracción y permite que cada sistema funcione con eficiencia, garantizando un desplazamiento seguro y predecible en distintas condiciones."
+  },
+  {
+    "intent_id": "calibracion_presion_llantas_experimentos_demostraciones",
+    "keywords": [
+      "calibracion",
+      "presion",
+      "llanta",
+      "manometro",
+      "seguridad"
+    ],
+    "base_response": "Los estudiantes observan cómo un manómetro mide la presión de una llanta y comparan valores antes y después de ajustar el aire. Analizan la relación entre presión correcta y seguridad, comprobando cambios en estabilidad y resistencia al rodaje mediante una demostración práctica controlada."
+  },
+  {
+    "intent_id": "calibracion_presion_llantas_consecuencias_largo_plazo",
+    "keywords": [
+      "desgaste",
+      "calibracion",
+      "presion",
+      "llanta",
+      "seguridad"
+    ],
+    "base_response": "Mantener la presión correcta en las llantas evita desgaste irregular, reduce riesgos de reventones y mejora la estabilidad del vehículo. A largo plazo, una calibración constante prolonga la vida útil de las llantas, disminuye costos de mantenimiento y favorece un manejo seguro y eficiente."
+  },
+  {
+    "intent_id": "calibracion_presion_llantas_impacto_ambiental",
+    "keywords": [
+      "emision",
+      "mantenimiento",
+      "presion",
+      "llanta",
+      "consumo"
+    ],
+    "base_response": "Mantener la presión correcta en las llantas reduce el consumo de combustible y disminuye emisiones contaminantes. Una llanta desinflada exige más esfuerzo al motor, generando mayor gasto energético. La calibración frecuente favorece un uso responsable del vehículo y protege el entorno."
+  },
+  {
+    "intent_id": "calibracion_presion_llantas_mantenimiento_prevencion",
+    "keywords": [
+      "desgaste",
+      "calibracion",
+      "presion",
+      "llanta",
+      "seguridad"
+    ],
+    "base_response": "La calibración correcta de la presión de las llantas mantiene la seguridad y evita desgaste prematuro. Verificar regularmente con un manómetro permite ajustar la presión según las recomendaciones del fabricante, mejorando la estabilidad del vehículo y reduciendo riesgos durante la conducción diaria."
+  },
+  {
+    "intent_id": "calibracion_presion_llantas_proyecciones_futuras_tecnologia",
+    "keywords": [
+      "calibracion",
+      "sensor",
+      "presion",
+      "tecnologia",
+      "llanta"
+    ],
+    "base_response": "La calibración futura de presión en llantas integrará sensores inteligentes capaces de ajustar valores automáticamente según clima y carga. Estos sistemas usarán algoritmos predictivos para anticipar variaciones y mejorar seguridad, eficiencia energética y durabilidad del vehículo sin intervención constante del conductor."
+  },
+  {
+    "intent_id": "cambio_pastillas_detencion_definicion_anatomica",
+    "keywords": [
+      "pastillas",
+      "freno",
+      "disco",
+      "pinza",
+      "presion"
+    ],
+    "base_response": "Las pastillas de detención son componentes planos que se alojan dentro de la pinza y presionan el disco para reducir la velocidad del vehículo. Su estructura combina material resistente al calor y a la fricción, permitiendo una acción de frenado estable y segura durante el movimiento."
+  },
+  {
+    "intent_id": "cambio_pastillas_detencion_dinamica_funcionamiento_fisico",
+    "keywords": [
+      "pastilla",
+      "detencion",
+      "friccion",
+      "freno",
+      "rotor"
+    ],
+    "base_response": "Las pastillas de detención generan fricción controlada contra el rotor para disminuir la velocidad del vehículo. Su desgaste altera la fuerza de frenado y aumenta la distancia de detención. Revisarlas periódicamente garantiza un funcionamiento físico seguro y una respuesta dinámica estable durante la conducción."
+  },
+  {
+    "intent_id": "cambio_pastillas_detencion_propiedades_materiales",
+    "keywords": [
+      "desgaste",
+      "calor",
+      "compuesto",
+      "friccion",
+      "resistencia"
+    ],
+    "base_response": "Las pastillas de detención funcionan gracias a compuestos capaces de resistir altas temperaturas sin deformarse. Sus materiales generan fricción estable contra el disco, evitando pérdida de rendimiento. Una mezcla equilibrada reduce el desgaste y mantiene la eficacia del sistema de frenado."
+  },
+  {
+    "intent_id": "cambio_pastillas_detencion_errores_fallas_patologias",
+    "keywords": [
+      "desgaste",
+      "ruido",
+      "pastillas",
+      "freno",
+      "vibracion"
+    ],
+    "base_response": "Las pastillas de freno pueden presentar desgaste irregular, generar ruido metálico o causar vibración al frenar. Estos problemas suelen originarse por instalación incorrecta, uso prolongado o contaminación de la superficie. Detectarlos temprano evita daños mayores en el sistema de detención del vehículo."
+  },
+  {
+    "intent_id": "cambio_pastillas_detencion_historia_origen_evolucion",
+    "keywords": [
+      "material",
+      "pastilla",
+      "freno",
+      "evolucion",
+      "seguridad"
+    ],
+    "base_response": "Las primeras pastillas de freno surgieron con materiales simples que ofrecían poca resistencia. Con el avance automotriz, se incorporaron compuestos metálicos y cerámicos que mejoraron la seguridad. Su evolución permitió sistemas más eficientes capaces de soportar mayores temperaturas y reducir el desgaste."
+  },
+  {
+    "intent_id": "cambio_pastillas_detencion_contexto_ecologico",
+    "keywords": [
+      "pastilla",
+      "freno",
+      "residuo",
+      "reciclaje",
+      "contaminacion"
+    ],
+    "base_response": "El cambio de pastillas de detención influye en el entorno porque su desgaste genera residuos que pueden contaminar el suelo y el aire. Seleccionar materiales menos tóxicos y asegurar un reciclaje adecuado reduce impactos ambientales y promueve prácticas automotrices responsables."
+  },
+  {
+    "intent_id": "cambio_pastillas_detencion_aplicaciones_practicas",
+    "keywords": [
+      "pastilla",
+      "revision",
+      "sustitucion",
+      "freno",
+      "seguridad"
+    ],
+    "base_response": "El cambio de pastillas de detención permite mantener la eficacia del sistema de frenos y evitar daños mayores. Identificar desgaste, retirar componentes con cuidado y colocar nuevas pastillas garantiza seguridad diaria al conducir y prolonga la vida útil del vehículo en situaciones reales."
+  },
+  {
+    "intent_id": "cambio_pastillas_detencion_importancia_impacto_social",
+    "keywords": [
+      "frenado",
+      "responsabilidad",
+      "prevencion",
+      "mantenimiento",
+      "seguridad"
+    ],
+    "base_response": "El cambio adecuado de pastillas de detención garantiza un frenado seguro y reduce accidentes. Mantenerlas en buen estado protege a pasajeros y peatones, disminuye costos por daños y promueve una cultura de responsabilidad vial que beneficia a toda la comunidad."
+  },
+  {
+    "intent_id": "cambio_pastillas_detencion_ventajas_desventajas_comparativas",
+    "keywords": [
+      "frenado",
+      "desgaste",
+      "pastillas",
+      "mantenimiento",
+      "seguridad"
+    ],
+    "base_response": "Cambiar pastillas de detención ofrece frenado más seguro y menor desgaste del disco, pero implica costo adicional y necesidad de revisión periódica. Comparar materiales permite elegir opciones duraderas o económicas según el uso del vehículo y las condiciones de manejo habituales."
+  },
+  {
+    "intent_id": "cambio_pastillas_detencion_riesgos_seguridad",
+    "keywords": [
+      "herramienta",
+      "riesgo",
+      "sujecion",
+      "proteccion",
+      "freno"
+    ],
+    "base_response": "El cambio de pastillas de detención exige revisar la estabilidad del vehículo, usar protección adecuada y evitar contacto con superficies calientes. Mantener las herramientas en buen estado y asegurar cada pieza reduce accidentes y garantiza un proceso seguro para cualquier estudiante en práctica."
+  },
+  {
+    "intent_id": "cambio_pastillas_detencion_calculos_formulas",
+    "keywords": [
+      "frenado",
+      "desgaste",
+      "torque",
+      "medicion",
+      "seguridad"
+    ],
+    "base_response": "El cambio de pastillas requiere medir el grosor restante y compararlo con el mínimo permitido. Se calcula la fuerza de frenado considerando la presión hidráulica y el área del pistón. El torque de apriete en los pernos debe aplicarse siguiendo valores específicos para asegurar un montaje seguro."
+  },
+  {
+    "intent_id": "cambio_pastillas_detencion_mitos_concepciones_erroneas",
+    "keywords": [
+      "frenado",
+      "desgaste",
+      "pastillas",
+      "mantenimiento",
+      "seguridad"
+    ],
+    "base_response": "Muchos creen que las pastillas de detención solo deben cambiarse cuando el vehículo deja de frenar bien, pero su desgaste inicia mucho antes. Ignorar ruidos, vibraciones o pérdida de respuesta puede provocar daños mayores y comprometer la seguridad durante el frenado."
+  },
+  {
+    "intent_id": "cambio_pastillas_detencion_relacion_simbiotica",
+    "keywords": [
+      "desgaste",
+      "hidraulica",
+      "freno",
+      "suspension",
+      "seguridad"
+    ],
+    "base_response": "El cambio de pastillas de detención influye directamente en la eficiencia del sistema hidráulico y en la estabilidad que brinda la suspensión. Una interacción adecuada entre estos componentes garantiza menor desgaste, mejor control del vehículo y mayor seguridad durante frenadas repetidas en distintas condiciones de manejo."
+  },
+  {
+    "intent_id": "cambio_pastillas_detencion_experimentos_demostraciones",
+    "keywords": [
+      "pastilla",
+      "desgaste",
+      "friccion",
+      "freno",
+      "seguridad"
+    ],
+    "base_response": "Los estudiantes observan cómo una pastilla de freno genera fricción al presionarse contra una superficie giratoria. Comparan desgaste usando materiales distintos y miden la distancia de detención resultante. Analizan cómo el mantenimiento adecuado mejora la seguridad y evita fallas durante la conducción."
+  },
+  {
+    "intent_id": "cambio_pastillas_detencion_consecuencias_largo_plazo",
+    "keywords": [
+      "frenado",
+      "desgaste",
+      "pastillas",
+      "mantenimiento",
+      "seguridad"
+    ],
+    "base_response": "Un cambio oportuno de pastillas de detención evita desgaste excesivo en el sistema de frenado, mantiene la seguridad del vehículo y reduce fallas futuras. Ignorar este mantenimiento provoca daños costosos, menor eficiencia de frenado y riesgos crecientes durante la conducción diaria."
+  },
+  {
+    "intent_id": "cambio_pastillas_detencion_impacto_ambiental",
+    "keywords": [
+      "residuos",
+      "detencion",
+      "pastillas",
+      "sustitucion",
+      "contaminacion"
+    ],
+    "base_response": "El cambio de pastillas de detención influye en el impacto ambiental porque genera residuos que requieren manejo adecuado. Usar materiales de larga duración y desechar componentes en centros autorizados reduce la contaminación y promueve prácticas responsables dentro del mantenimiento automotriz cotidiano."
+  },
+  {
+    "intent_id": "cambio_pastillas_detencion_mantenimiento_prevencion",
+    "keywords": [
+      "frenado",
+      "desgaste",
+      "revision",
+      "pastillas",
+      "seguridad"
+    ],
+    "base_response": "El cambio de pastillas de detención evita desgaste excesivo y mantiene la seguridad del frenado. Revisarlas periódicamente permite detectar ruidos, vibraciones o pérdida de eficacia. Sustituirlas a tiempo previene daños mayores en el sistema y garantiza un control adecuado del vehículo en situaciones exigentes."
+  },
+  {
+    "intent_id": "cambio_pastillas_proyecciones_futuras_tecnologia",
+    "keywords": [
+      "sensor",
+      "pastillas",
+      "freno",
+      "mantenimiento",
+      "innovacion"
+    ],
+    "base_response": "Las pastillas de detención evolucionarán mediante sensores inteligentes que medirán desgaste en tiempo real y alertarán al conductor. La integración con sistemas de frenado autónomo permitirá reemplazos predictivos, mejorando seguridad y reduciendo fallas inesperadas en vehículos modernos y futuros."
+  },
+  {
+    "intent_id": "rectificacion_discos_rozamiento_definicion_anatomica",
+    "keywords": [
+      "superficie",
+      "rozamiento",
+      "desgaste",
+      "disco",
+      "rectificacion"
+    ],
+    "base_response": "Los discos de rozamiento son piezas circulares con superficies diseñadas para generar fricción controlada. Su estructura incluye zonas de contacto que pueden desgastarse con el uso. La rectificación restaura la planitud y textura adecuada, asegurando un funcionamiento estable y seguro del sistema automotriz."
+  },
+  {
+    "intent_id": "rectificacion_discos_rozamiento_dinamica_funcionamiento_fisico",
+    "keywords": [
+      "desgaste",
+      "friccion",
+      "rotacion",
+      "disco",
+      "rectificacion"
+    ],
+    "base_response": "La rectificación de discos de rozamiento ajusta su superficie para recuperar un contacto uniforme. Este proceso mejora la dinámica del frenado al reducir vibraciones, estabilizar la rotación y asegurar una transferencia de fricción eficiente que mantiene el rendimiento mecánico del sistema automotriz."
+  },
+  {
+    "intent_id": "rectificacion_discos_rozamiento_propiedades_materiales",
+    "keywords": [
+      "desgaste",
+      "friccion",
+      "disco",
+      "rectificacion",
+      "metal"
+    ],
+    "base_response": "La rectificación de discos de rozamiento depende de las propiedades del metal, como dureza y resistencia al calor. Estas características permiten eliminar irregularidades, mantener una fricción estable y evitar desgaste prematuro, asegurando un funcionamiento seguro y eficiente del sistema automotriz."
+  },
+  {
+    "intent_id": "rectificacion_discos_errores_fallas",
+    "keywords": [
+      "frenado",
+      "desgaste",
+      "disco",
+      "vibracion",
+      "rectificacion"
+    ],
+    "base_response": "La rectificación de discos puede presentar fallas cuando el desgaste es irregular, generando vibración y pérdida de eficiencia de frenado. Estos errores suelen surgir por mala alineación, exceso de material removido o uso continuo sin inspección adecuada, afectando la seguridad del vehículo."
+  },
+  {
+    "intent_id": "rectificacion_discos_rozamiento_historia_origen_evolucion",
+    "keywords": [
+      "friccion",
+      "disco",
+      "rectificacion",
+      "seguridad",
+      "mecanizado"
+    ],
+    "base_response": "La rectificación de discos de rozamiento surgió cuando los primeros sistemas de frenos exigieron superficies más precisas. Con el avance del mecanizado, se perfeccionaron técnicas para corregir desgaste y vibraciones, mejorando la seguridad vehicular y permitiendo una evolución constante en materiales y procedimientos."
+  },
+  {
+    "intent_id": "rectificacion_discos_rozamiento_contexto_ecologico",
+    "keywords": [
+      "residuos",
+      "friccion",
+      "disco",
+      "energia",
+      "rectificacion"
+    ],
+    "base_response": "La rectificación de discos de rozamiento influye en el entorno al reducir residuos metálicos y optimizar el uso de energía. Un mantenimiento adecuado disminuye reemplazos innecesarios y favorece prácticas automotrices responsables que ayudan a conservar recursos y minimizar impactos ambientales negativos."
+  },
+  {
+    "intent_id": "rectificacion_discos_rozamiento_aplicaciones_practicas",
+    "keywords": [
+      "friccion",
+      "disco",
+      "mantenimiento",
+      "rectificacion",
+      "seguridad"
+    ],
+    "base_response": "La rectificación de discos de rozamiento permite recuperar superficies dañadas y asegurar frenadas estables. En la vida diaria ayuda a mantener el vehículo seguro, reducir vibraciones y evitar fallas costosas. Aplicar este procedimiento mejora el rendimiento general del sistema de frenos."
+  },
+  {
+    "intent_id": "rectificacion_discos_importancia_impacto_social",
+    "keywords": [
+      "frenado",
+      "vehiculo",
+      "prevencion",
+      "mantenimiento",
+      "seguridad"
+    ],
+    "base_response": "La rectificación de discos de rozamiento mantiene un frenado seguro y reduce fallas que pueden causar accidentes. Su correcta aplicación protege a conductores y peatones, disminuye costos de reparación y promueve una cultura de prevención que beneficia a toda la comunidad."
+  },
+  {
+    "intent_id": "rectificacion_discos_ventajas_desventajas",
+    "keywords": [
+      "desgaste",
+      "friccion",
+      "disco",
+      "rectificacion",
+      "rendimiento"
+    ],
+    "base_response": "La rectificación de discos de rozamiento mejora el rendimiento al recuperar superficies planas y reducir vibraciones. Sin embargo, puede disminuir el grosor útil del disco y requerir reemplazo anticipado. Comparar ambas opciones permite decidir si conviene rectificar o instalar componentes nuevos."
+  },
+  {
+    "intent_id": "rectificacion_discos_rozamiento_riesgos_seguridad",
+    "keywords": [
+      "riesgo",
+      "proteccion",
+      "disco",
+      "rectificacion",
+      "seguridad"
+    ],
+    "base_response": "La rectificación de discos de rozamiento implica riesgos por superficies calientes, polvo metálico y maquinaria giratoria. Es esencial usar protección adecuada, mantener distancia segura, asegurar la fijación de piezas y verificar que el equipo esté apagado antes de cualquier ajuste o limpieza."
+  },
+  {
+    "intent_id": "rectificacion_discos_rozamiento_clasificacion_taxonomica",
+    "keywords": [
+      "superficie",
+      "desgaste",
+      "friccion",
+      "disco",
+      "rectificacion"
+    ],
+    "base_response": "La rectificación de discos de rozamiento permite clasificar estos componentes según su nivel de desgaste, tipo de material y estado de la superficie. Esta clasificación ayuda a decidir si deben rectificarse, reemplazarse o mantenerse para asegurar un funcionamiento seguro y eficiente del sistema automotriz."
+  },
+  {
+    "intent_id": "rectificacion_discos_calculos_formulas",
+    "keywords": [
+      "tolerancia",
+      "disco",
+      "rectificacion",
+      "medicion",
+      "espesor"
+    ],
+    "base_response": "La rectificación de discos de rozamiento requiere medir el espesor inicial y compararlo con la tolerancia mínima permitida. El cálculo se basa en restar el desgaste acumulado y verificar que el valor resultante mantenga la superficie uniforme para asegurar un frenado eficiente y seguro."
+  },
+  {
+    "intent_id": "rectificacion_discos_rozamiento_mitos_concepciones",
+    "keywords": [
+      "desgaste",
+      "friccion",
+      "disco",
+      "rectificacion",
+      "seguridad"
+    ],
+    "base_response": "Muchos creen que rectificar discos de rozamiento siempre mejora el frenado, pero hacerlo sin medir el desgaste real puede reducir la seguridad. La rectificación excesiva adelgaza el disco, aumenta la temperatura y provoca vibraciones que afectan el rendimiento del sistema de frenos."
+  },
+  {
+    "intent_id": "rectificacion_discos_relacion_simbiotica_sistemas",
+    "keywords": [
+      "frenado",
+      "estabilidad",
+      "rectificacion",
+      "suspension",
+      "seguridad"
+    ],
+    "base_response": "La rectificación de discos de rozamiento influye directamente en el sistema de frenado y se relaciona de forma simbiótica con la suspensión. Un disco correctamente rectificado mejora la estabilidad del vehículo, optimiza la respuesta de frenado y contribuye a una conducción segura y eficiente."
+  },
+  {
+    "intent_id": "rectificacion_discos_experimentos_demostraciones",
+    "keywords": [
+      "desgaste",
+      "friccion",
+      "rotacion",
+      "disco",
+      "rectificacion"
+    ],
+    "base_response": "La rectificación de discos de rozamiento puede demostrarse usando un disco metálico giratorio y una superficie abrasiva. El alumnado observa cómo la fricción elimina irregularidades, mejora el contacto y reduce vibraciones. La actividad permite comprender desgaste, precisión y seguridad en sistemas automotrices."
+  },
+  {
+    "intent_id": "rectificacion_discos_rozamiento_consecuencias_largo_plazo",
+    "keywords": [
+      "frenado",
+      "desgaste",
+      "disco",
+      "rectificacion",
+      "seguridad"
+    ],
+    "base_response": "La rectificación adecuada de los discos de rozamiento evita desgaste acelerado y fallas de frenado. A largo plazo, mantener superficies uniformes mejora la seguridad, reduce vibraciones y prolonga la vida útil del sistema, evitando reparaciones costosas y pérdidas de control en situaciones exigentes."
+  },
+  {
+    "intent_id": "rectificacion_discos_rozamiento_impacto_ambiental",
+    "keywords": [
+      "desgaste",
+      "materiales",
+      "residuos",
+      "rectificacion",
+      "contaminacion"
+    ],
+    "base_response": "La rectificación de discos de rozamiento reduce el desgaste y evita reemplazos innecesarios, disminuyendo residuos metálicos y consumo de materiales nuevos. Un mantenimiento adecuado ayuda a minimizar la contaminación generada por procesos industriales y promueve prácticas automotrices más responsables con el entorno."
+  },
+  {
+    "intent_id": "rectificacion_discos_rozamiento_mantenimiento_prevencion",
+    "keywords": [
+      "rozamiento",
+      "desgaste",
+      "disco",
+      "rectificacion",
+      "seguridad"
+    ],
+    "base_response": "La rectificación de discos de rozamiento elimina irregularidades causadas por desgaste y calor, asegurando contacto uniforme y frenado estable. Un mantenimiento preventivo detecta daños tempranos, evita vibraciones y mejora la seguridad del vehículo al conservar el rendimiento del sistema de frenado."
+  },
+  {
+    "intent_id": "rectificacion_discos_rozamiento_proyecciones_futuras_tecnologia",
+    "keywords": [
+      "automatizacion",
+      "sensor",
+      "friccion",
+      "disco",
+      "rectificacion"
+    ],
+    "base_response": "La rectificación de discos de rozamiento evolucionará mediante sensores inteligentes y sistemas automatizados capaces de medir desgaste en tiempo real. Estas tecnologías permitirán ajustes precisos, reducir fallas y optimizar el mantenimiento automotriz con procesos más rápidos, seguros y eficientes para futuros vehículos."
+  },
+  {
+    "intent_id": "purgado_sistema_parada_definicion_anatomica",
+    "keywords": [
+      "bomba",
+      "liquido",
+      "freno",
+      "tuberia",
+      "purga"
+    ],
+    "base_response": "El sistema de parada incluye tuberías, bomba y conductos que transportan líquido de frenos. Su estructura requiere eliminar aire atrapado mediante purga para mantener presión uniforme. Este proceso asegura que cada componente funcione correctamente y responda con precisión al accionar del pedal."
+  },
+  {
+    "intent_id": "purgado_sistema_parada_dinamica_funcionamiento_fisico",
+    "keywords": [
+      "circulacion",
+      "fluido",
+      "bomba",
+      "presion",
+      "purga"
+    ],
+    "base_response": "El purgado del sistema de parada elimina aire atrapado para asegurar que el fluido transmita presión de manera uniforme. Al accionar la bomba, el fluido circula y desplaza burbujas, permitiendo que el mecanismo responda con fuerza constante y mantenga un funcionamiento seguro."
+  },
+  {
+    "intent_id": "purgado_sistema_parada_propiedades_materiales",
+    "keywords": [
+      "corrosion",
+      "viscosidad",
+      "purgado",
+      "liquido",
+      "freno"
+    ],
+    "base_response": "El purgado del sistema de parada depende de las propiedades químicas del líquido de frenos, cuya viscosidad y resistencia a la corrosión permiten un flujo estable. Mantener este fluido limpio evita reacciones que dañen componentes y asegura una transmisión eficaz de la presión."
+  },
+  {
+    "intent_id": "purgado_sistema_parada_errores_fallas_patologias",
+    "keywords": [
+      "fuga",
+      "aire",
+      "bomba",
+      "purgado",
+      "freno",
+      "pedal"
+    ],
+    "base_response": "El purgado incorrecto del sistema de parada provoca aire atrapado que reduce la presión hidráulica. El pedal se siente esponjoso y la distancia de frenado aumenta. Las fugas en líneas o un mal uso de la bomba generan fallas que comprometen la seguridad del vehículo."
+  },
+  {
+    "intent_id": "purgado_sistema_parada_historia_origen_evolucion",
+    "keywords": [
+      "purgado",
+      "mecanismo",
+      "mantenimiento",
+      "sistema",
+      "seguridad"
+    ],
+    "base_response": "El purgado del sistema de parada surgió cuando los primeros mecanismos hidráulicos mostraron fallas por aire atrapado. Con el avance automotriz, se perfeccionaron válvulas y procedimientos que aseguraron mayor eficiencia. Su evolución permitió mejorar la seguridad y el rendimiento del frenado vehicular."
+  },
+  {
+    "intent_id": "purgado_sistema_parada_aplicaciones_practicas",
+    "keywords": [
+      "flujo",
+      "aire",
+      "purgado",
+      "mantenimiento",
+      "sistema"
+    ],
+    "base_response": "El purgado del sistema de parada elimina aire atrapado que afecta el funcionamiento del vehículo. Aplicarlo correctamente mejora la respuesta del mecanismo, evita fallas inesperadas y permite mantener un flujo estable en componentes que requieren presión constante para operar con seguridad."
+  },
+  {
+    "intent_id": "purgado_sistema_parada_importancia_impacto_social",
+    "keywords": [
+      "frenado",
+      "seguridad",
+      "prevencion",
+      "mantenimiento",
+      "accidente"
+    ],
+    "base_response": "El purgado del sistema de parada garantiza un frenado confiable al eliminar aire que reduce la presión hidráulica. Su correcta realización previene accidentes, protege a pasajeros y peatones y refuerza la responsabilidad social al mantener vehículos seguros en la comunidad."
+  },
+  {
+    "intent_id": "purgado_sistema_parada_ventajas_desventajas_comparativas",
+    "keywords": [
+      "fluido",
+      "purgado",
+      "mantenimiento",
+      "sistema",
+      "seguridad"
+    ],
+    "base_response": "El purgado del sistema de parada mejora la respuesta del vehículo al eliminar aire atrapado y asegurar presión estable. Ofrece mayor seguridad y eficiencia, aunque requiere tiempo, herramientas adecuadas y riesgo de errores si no se ejecuta con técnica correcta."
+  },
+  {
+    "intent_id": "purgado_sistema_parada_riesgos_medidas_seguridad",
+    "keywords": [
+      "riesgo",
+      "purgado",
+      "mantenimiento",
+      "sistema",
+      "seguridad"
+    ],
+    "base_response": "El purgado del sistema de parada exige controlar presiones y evitar fugas que puedan causar lesiones. Antes de intervenir, se debe asegurar el vehículo, usar protección adecuada y liberar la presión gradualmente. Estas acciones reducen accidentes y mantienen el sistema funcionando de forma segura."
+  },
+  {
+    "intent_id": "purgado_sistema_parada_mitos_concepciones_erroneas",
+    "keywords": [
+      "fluido",
+      "aire",
+      "purgado",
+      "mantenimiento",
+      "sistema"
+    ],
+    "base_response": "Muchos creen que el purgado del sistema de parada solo elimina aire visible, pero también corrige pequeñas obstrucciones internas. Otro mito común afirma que basta con abrir una válvula, cuando en realidad requiere un procedimiento ordenado para evitar daños y asegurar un funcionamiento seguro."
+  },
+  {
+    "intent_id": "purgado_sistema_parada_experimentos_demostraciones",
+    "keywords": [
+      "fluido",
+      "aire",
+      "purgado",
+      "mecanica",
+      "sistema"
+    ],
+    "base_response": "El purgado del sistema de parada elimina aire atrapado que afecta la presión del fluido. Una demostración escolar puede usar una bomba manual y un conducto transparente para observar burbujas y su salida, mostrando cómo la eliminación del aire mejora la respuesta mecánica del sistema."
+  },
+  {
+    "intent_id": "purgado_sistema_parada_consecuencias_largo_plazo",
+    "keywords": [
+      "desgaste",
+      "aire",
+      "purgado",
+      "freno",
+      "seguridad"
+    ],
+    "base_response": "El purgado adecuado del sistema de parada evita acumulaciones de aire que reducen la eficacia del freno. A largo plazo, una purga deficiente provoca desgaste acelerado, menor control del vehículo y riesgos crecientes de fallas que comprometen seriamente la seguridad en cada trayecto."
+  },
+  {
+    "intent_id": "purgado_sistema_parada_impacto_ambiental",
+    "keywords": [
+      "fluido",
+      "purgado",
+      "freno",
+      "residuo",
+      "contaminacion"
+    ],
+    "base_response": "El purgado del sistema de parada exige retirar fluido de frenos que puede generar contaminación si se desecha incorrectamente. Gestionar estos residuos mediante centros autorizados reduce riesgos ambientales y evita que sustancias tóxicas ingresen al suelo o al agua."
+  },
+  {
+    "intent_id": "purgado_sistema_parada_mantenimiento_prevencion",
+    "keywords": [
+      "flujo",
+      "aire",
+      "purgado",
+      "sistema",
+      "seguridad"
+    ],
+    "base_response": "El purgado del sistema de parada elimina aire atrapado que afecta el flujo correcto y la seguridad del vehículo. Este procedimiento mantiene la respuesta adecuada del mecanismo, previene fallas inesperadas y asegura un funcionamiento estable durante maniobras de detención en distintas condiciones de uso."
+  },
+  {
+    "intent_id": "purgado_sistema_parada_proyecciones_futuras_tecnologia",
+    "keywords": [
+      "fluido",
+      "automatizacion",
+      "sensor",
+      "freno",
+      "diagnostico"
+    ],
+    "base_response": "El purgado del sistema de parada evolucionará mediante sensores inteligentes que detectarán burbujas y regularán el flujo del fluido automáticamente. La integración de diagnósticos predictivos permitirá anticipar fallas y optimizar el mantenimiento, reduciendo riesgos y mejorando la eficiencia del frenado vehicular."
+  },
+  {
+    "intent_id": "reemplazo_purificador_carburante_definicion_anatomica",
+    "keywords": [
+      "flujo",
+      "filtro",
+      "impureza",
+      "conducto",
+      "carburante"
+    ],
+    "base_response": "El purificador de carburante es un componente tubular ubicado en la línea de alimentación que contiene un medio filtrante interno. Su estructura retiene impurezas del combustible, permitiendo un flujo limpio hacia el motor y protegiendo los inyectores de daños por partículas contaminantes."
+  },
+  {
+    "intent_id": "reemplazo_purificador_carburante_dinamica_funcionamiento_fisico",
+    "keywords": [
+      "flujo",
+      "filtro",
+      "combustible",
+      "impurezas",
+      "presion"
+    ],
+    "base_response": "El purificador de carburante mantiene un flujo estable al retener impurezas que afectan la presión del sistema. Su reemplazo asegura que el combustible circule sin obstrucciones, permitiendo una combustión eficiente y evitando esfuerzos innecesarios en los componentes internos del motor."
+  },
+  {
+    "intent_id": "reemplazo_purificador_carburante_propiedades_quimicas",
+    "keywords": [
+      "material",
+      "filtro",
+      "reemplazo",
+      "impureza",
+      "carburante"
+    ],
+    "base_response": "El purificador de carburante utiliza materiales capaces de retener impurezas químicas presentes en el combustible. Su reemplazo garantiza que las superficies filtrantes mantengan su capacidad de absorción y resistencia, evitando que partículas dañinas afecten la combustión y el rendimiento general del sistema automotriz."
+  },
+  {
+    "intent_id": "reemplazo_purificador_carburante_errores_fallas_patologias",
+    "keywords": [
+      "obstruccion",
+      "purificador",
+      "reemplazo",
+      "sedimentos",
+      "carburante"
+    ],
+    "base_response": "El purificador de carburante puede fallar por obstrucción causada por sedimentos acumulados. Un reemplazo tardío provoca pérdida de potencia, arranques irregulares y mayor desgaste del sistema de inyección. Revisar periódicamente evita daños costosos y mantiene el flujo adecuado hacia el motor."
+  },
+  {
+    "intent_id": "reemplazo_purificador_carburante_historia_origen_evolucion",
+    "keywords": [
+      "filtro",
+      "combustible",
+      "carburador",
+      "mantenimiento",
+      "evolucion"
+    ],
+    "base_response": "El purificador de carburante surgió con los primeros motores de combustión para evitar impurezas que dañaban el carburador. Con el tiempo evolucionó hacia filtros más precisos y materiales resistentes, mejorando la eficiencia del combustible y prolongando la vida útil del sistema automotriz."
+  },
+  {
+    "intent_id": "reemplazo_purificador_carburante_contexto_ecologico",
+    "keywords": [
+      "purificador",
+      "eficiencia",
+      "mantenimiento",
+      "contaminacion",
+      "carburante"
+    ],
+    "base_response": "El reemplazo del purificador de carburante favorece un entorno más limpio al reducir impurezas que incrementan emisiones. Un filtro en buen estado mejora la eficiencia del motor, disminuye el consumo y contribuye a prácticas automotrices responsables que protegen el ambiente y prolongan la vida útil del vehículo."
+  },
+  {
+    "intent_id": "reemplazo_purificador_carburante_aplicaciones_practicas",
+    "keywords": [
+      "vehiculo",
+      "purificador",
+      "reemplazo",
+      "mantenimiento",
+      "carburante"
+    ],
+    "base_response": "El purificador de carburante debe reemplazarse para asegurar un flujo limpio hacia el motor. Esta acción evita obstrucciones, mejora el rendimiento y prolonga la vida útil del vehículo. Aplicar este mantenimiento permite identificar fallas tempranas y mantener un funcionamiento seguro y eficiente."
+  },
+  {
+    "intent_id": "reemplazo_purificador_carburante_importancia_impacto_social",
+    "keywords": [
+      "purificador",
+      "funcionamiento",
+      "mantenimiento",
+      "seguridad",
+      "carburante"
+    ],
+    "base_response": "El reemplazo del purificador de carburante garantiza un funcionamiento seguro y eficiente del vehículo, evitando fallas que pueden afectar a pasajeros y comunidad. Un sistema limpio reduce emisiones contaminantes y contribuye a una movilidad responsable que protege la salud pública y el entorno urbano."
+  },
+  {
+    "intent_id": "reemplazo_purificador_carburante_ventajas_desventajas",
+    "keywords": [
+      "purificador",
+      "reemplazo",
+      "mantenimiento",
+      "rendimiento",
+      "carburante"
+    ],
+    "base_response": "El reemplazo del purificador de carburante mejora el rendimiento del motor al asegurar flujo limpio, reduce fallas y optimiza consumo. Como desventaja, implica costo periódico y requiere atención técnica para evitar daños por instalación incorrecta o selección inadecuada del componente."
+  },
+  {
+    "intent_id": "reemplazo_purificador_carburante_riesgos_seguridad",
+    "keywords": [
+      "filtro",
+      "combustible",
+      "herramienta",
+      "proteccion",
+      "presion"
+    ],
+    "base_response": "El reemplazo del purificador de carburante exige controlar la presión del sistema y evitar chispas cerca del combustible. Se debe usar protección adecuada, manipular herramientas con precisión y verificar fugas para reducir riesgos durante el mantenimiento automotriz."
+  },
+  {
+    "intent_id": "reemplazo_purificador_carburante_clasificacion_taxonomica",
+    "keywords": [
+      "purificador",
+      "reemplazo",
+      "mantenimiento",
+      "sistema",
+      "clasificacion",
+      "carburante"
+    ],
+    "base_response": "El purificador de carburante puede clasificarse según su estructura y función, diferenciando filtros primarios y secundarios. Esta clasificación permite identificar el componente adecuado para cada sistema automotriz y asegurar un reemplazo correcto que mantenga la eficiencia del flujo de combustible."
+  },
+  {
+    "intent_id": "reemplazo_purificador_carburante_calculos_formulas",
+    "keywords": [
+      "flujo",
+      "filtro",
+      "mantenimiento",
+      "presion",
+      "carburante"
+    ],
+    "base_response": "El reemplazo del purificador de carburante puede evaluarse mediante el cálculo de caída de presión. Se compara la presión antes y después del filtro usando la formula delta P igual P1 menos P2. Un aumento significativo indica obstrucción y necesidad de sustitución inmediata."
+  },
+  {
+    "intent_id": "reemplazo_purificador_carburante_mitos_concepciones_erroneas",
+    "keywords": [
+      "combustible",
+      "purificador",
+      "reemplazo",
+      "carburador",
+      "mantenimiento"
+    ],
+    "base_response": "Muchos creen que el purificador de carburante solo se cambia cuando el motor falla, pero su desgaste ocurre de forma gradual. Ignorar su reemplazo puede reducir el flujo de combustible y provocar daños costosos. Mantenerlo limpio asegura rendimiento estable y evita averías innecesarias."
+  },
+  {
+    "intent_id": "reemplazo_purificador_carburante_relacion_simbiotica_sistemas",
+    "keywords": [
+      "flujo",
+      "filtro",
+      "combustible",
+      "motor",
+      "rendimiento"
+    ],
+    "base_response": "El purificador de carburante mantiene un flujo limpio hacia el motor, permitiendo una combustión estable. Su reemplazo oportuno favorece la interacción eficiente entre el sistema de alimentación y los mecanismos internos, evitando obstrucciones que afectan el rendimiento general y la coordinación funcional del vehículo."
+  },
+  {
+    "intent_id": "reemplazo_purificador_carburante_experimentos_demostraciones",
+    "keywords": [
+      "purificador",
+      "reemplazo",
+      "demostracion",
+      "mantenimiento",
+      "carburante"
+    ],
+    "base_response": "El reemplazo del purificador de carburante puede demostrarse usando un filtro viejo y uno nuevo para observar diferencias de flujo. Los estudiantes analizan cómo las impurezas bloquean el paso del combustible y comprenden la importancia de mantener el sistema limpio para evitar fallas."
+  },
+  {
+    "intent_id": "reemplazo_purificador_carburante_consecuencias_largo_plazo",
+    "keywords": [
+      "purificador",
+      "desgaste",
+      "motor",
+      "mantenimiento",
+      "carburante"
+    ],
+    "base_response": "El reemplazo oportuno del purificador de carburante evita acumulaciones que afectan el flujo hacia el motor. Mantenerlo en buen estado reduce el desgaste interno, mejora la eficiencia y previene fallas costosas, asegurando un funcionamiento estable y prolongado del sistema automotriz."
+  },
+  {
+    "intent_id": "reemplazo_purificador_carburante_impacto_ambiental",
+    "keywords": [
+      "purificador",
+      "residuo",
+      "reciclaje",
+      "carburante",
+      "contaminacion"
+    ],
+    "base_response": "El purificador de carburante usado contiene residuos que pueden generar contaminación si se desechan incorrectamente. Su reemplazo responsable implica llevarlo a centros de reciclaje autorizados, evitando filtraciones tóxicas y reduciendo el impacto ambiental asociado al mantenimiento regular de vehículos automotrices."
+  },
+  {
+    "intent_id": "reemplazo_purificador_carburante_mantenimiento_prevencion",
+    "keywords": [
+      "purificador",
+      "reemplazo",
+      "prevencion",
+      "mantenimiento",
+      "carburante"
+    ],
+    "base_response": "El purificador de carburante debe reemplazarse periódicamente para evitar obstrucciones que afecten el rendimiento del motor. Un filtro limpio mantiene el flujo adecuado de combustible, reduce fallas inesperadas y prolonga la vida útil del sistema automotriz mediante prácticas constantes de prevención."
+  },
+  {
+    "intent_id": "reemplazo_purificador_carburante_proyecciones_futuras_tecnologia",
+    "keywords": [
+      "purificador",
+      "sensor",
+      "mantenimiento",
+      "innovacion",
+      "carburante"
+    ],
+    "base_response": "El reemplazo del purificador de carburante evolucionará mediante sensores inteligentes capaces de detectar saturación y avisar al conductor. La tecnología permitirá filtros autolimpiables y materiales avanzados que prolongarán su vida útil, optimizando el mantenimiento y reduciendo fallas en sistemas automotrices modernos."
+  },
+  {
+    "intent_id": "renovacion_depurador_habitaculo_definicion_anatomica",
+    "keywords": [
+      "circulacion",
+      "filtro",
+      "aire",
+      "mantenimiento",
+      "particula"
+    ],
+    "base_response": "El depurador de habitáculo es un filtro ubicado en el sistema de ventilación que captura partículas suspendidas. Su estructura porosa permite el paso del aire mientras retiene polvo y polen, asegurando una circulación interna más limpia y protegiendo componentes sensibles del vehículo."
+  },
+  {
+    "intent_id": "renovacion_depurador_habitaculo_dinamica_funcionamiento_fisico",
+    "keywords": [
+      "flujo",
+      "aire",
+      "filtracion",
+      "depurador",
+      "particula"
+    ],
+    "base_response": "El depurador de habitáculo funciona permitiendo el paso del aire exterior a través de un material filtrante que atrapa partículas. Su renovación mantiene un flujo estable y reduce la resistencia interna, asegurando que el sistema de ventilación opere con eficiencia y proteja a los ocupantes del vehículo."
+  },
+  {
+    "intent_id": "renovacion_depurador_habitaculo_propiedades_materiales",
+    "keywords": [
+      "filtro",
+      "material",
+      "contaminante",
+      "absorcion",
+      "particula"
+    ],
+    "base_response": "El depurador de habitáculo utiliza materiales capaces de retener partículas y absorber contaminantes químicos presentes en el aire. Su estructura porosa permite atrapar impurezas mientras mantiene el flujo adecuado, garantizando un ambiente interior más limpio y reduciendo la exposición a sustancias dañinas."
+  },
+  {
+    "intent_id": "renovacion_depurador_habitaculo_errores_fallas_patologias",
+    "keywords": [
+      "filtro",
+      "obstruccion",
+      "aire",
+      "reemplazo",
+      "suciedad"
+    ],
+    "base_response": "El depurador de habitáculo puede fallar por obstrucción causada por suciedad acumulada, reduciendo el flujo de aire y generando malos olores. Ignorar su reemplazo provoca esfuerzo excesivo del ventilador y disminuye la calidad del aire interior, afectando comodidad y salud durante el uso del vehículo."
+  },
+  {
+    "intent_id": "renovacion_depurador_habitaculo_historia_origen_evolucion",
+    "keywords": [
+      "filtro",
+      "ventilacion",
+      "habitaculo",
+      "contaminante",
+      "evolucion"
+    ],
+    "base_response": "El depurador de habitáculo surgió cuando los sistemas de ventilación automotriz comenzaron a enfrentar mayores niveles de contaminantes. Su diseño evolucionó desde simples mallas hasta filtros avanzados capaces de retener partículas finas, mejorando la calidad del aire interior y la salud de los ocupantes."
+  },
+  {
+    "intent_id": "renovacion_depurador_habitaculo_contexto_ecologico",
+    "keywords": [
+      "aire",
+      "habitaculo",
+      "contaminante",
+      "salud",
+      "depurador",
+      "renovacion"
+    ],
+    "base_response": "La renovación del depurador de habitáculo reduce la entrada de contaminantes y mejora la calidad del aire interior. Un filtro en buen estado disminuye la exposición a partículas dañinas y contribuye a un entorno vehicular más saludable, especialmente en zonas con alta polución ambiental."
+  },
+  {
+    "intent_id": "renovacion_depurador_habitaculo_aplicaciones_practicas",
+    "keywords": [
+      "filtro",
+      "aire",
+      "reemplazo",
+      "habitaculo",
+      "mantenimiento"
+    ],
+    "base_response": "Renovar el depurador de habitáculo mejora la calidad del aire dentro del vehículo y protege a los ocupantes de polvo y polen. Aplicar este mantenimiento permite conservar un ambiente limpio, reducir malos olores y asegurar un funcionamiento adecuado del sistema de ventilación."
+  },
+  {
+    "intent_id": "renovacion_depurador_habitaculo_importancia_impacto_social",
+    "keywords": [
+      "renovacion",
+      "habitaculo",
+      "depurador",
+      "contaminacion",
+      "salud"
+    ],
+    "base_response": "La renovación del depurador de habitáculo mejora la calidad del aire interior y protege la salud de los ocupantes. Un filtro en buen estado reduce la contaminación ambiental que ingresa al vehículo y promueve prácticas responsables que benefician a la comunidad y al entorno urbano."
+  },
+  {
+    "intent_id": "renovacion_depurador_habitaculo_ventajas_desventajas",
+    "keywords": [
+      "filtro",
+      "aire",
+      "comparacion",
+      "mantenimiento",
+      "renovacion"
+    ],
+    "base_response": "La renovación del depurador de habitáculo mejora la calidad del aire y reduce olores, pero implica costo y tiempo de reemplazo. Un filtro nuevo ofrece mayor eficiencia, mientras que mantener uno viejo disminuye el rendimiento y puede afectar la comodidad durante el uso del vehículo."
+  },
+  {
+    "intent_id": "renovacion_depurador_habitaculo_riesgos_medidas_seguridad",
+    "keywords": [
+      "riesgo",
+      "habitaculo",
+      "manipulacion",
+      "mantenimiento",
+      "depurador",
+      "seguridad"
+    ],
+    "base_response": "La renovación del depurador de habitáculo exige evitar inhalar polvo acumulado y prevenir daños por herramientas mal usadas. Se debe apagar el vehículo, retirar el filtro con cuidado y usar protección básica para manos y ojos, garantizando una manipulación segura durante todo el proceso."
+  },
+  {
+    "intent_id": "renovacion_depurador_habitaculo_clasificacion_taxonomica",
+    "keywords": [
+      "filtro",
+      "aire",
+      "contaminante",
+      "mantenimiento",
+      "particula"
+    ],
+    "base_response": "El depurador de habitáculo se clasifica según su capacidad para retener partículas y contaminantes del aire. Esta clasificación permite identificar filtros básicos o avanzados y elegir el adecuado para mantener una ventilación segura, eficiente y saludable dentro del vehículo durante su uso cotidiano."
+  },
+  {
+    "intent_id": "renovacion_depurador_habitaculo_calculos_formulas",
+    "keywords": [
+      "flujo",
+      "depurador",
+      "habitaculo",
+      "sustitucion",
+      "presion"
+    ],
+    "base_response": "El cálculo del flujo de aire permite estimar la pérdida de presión causada por un depurador saturado. Comparar valores antes y después de la sustitución ayuda a verificar la eficiencia del sistema y determinar si el filtro mantiene un rendimiento adecuado para la ventilación del habitáculo."
+  },
+  {
+    "intent_id": "renovacion_depurador_habitaculo_mitos_concepciones_erroneas",
+    "keywords": [
+      "filtro",
+      "aire",
+      "habitaculo",
+      "mantenimiento",
+      "renovacion"
+    ],
+    "base_response": "Muchos creen que el depurador de habitáculo solo se cambia cuando hay malos olores, pero su función principal es filtrar partículas y mejorar la calidad del aire. Ignorar su renovación reduce la eficiencia del sistema y aumenta la presencia de contaminantes internos."
+  },
+  {
+    "intent_id": "renovacion_depurador_habitaculo_relacion_simbiotica_sistemas",
+    "keywords": [
+      "flujo",
+      "ventilacion",
+      "habitaculo",
+      "interaccion",
+      "depurador",
+      "renovacion"
+    ],
+    "base_response": "La renovación del depurador de habitáculo mantiene un flujo de aire limpio que favorece la eficiencia del sistema de ventilación. Su interacción constante con conductos y ventiladores crea una relación simbiótica que asegura confort, reduce contaminantes y optimiza el rendimiento general del vehículo."
+  },
+  {
+    "intent_id": "renovacion_depurador_habitaculo_experimentos_demostraciones",
+    "keywords": [
+      "filtro",
+      "aire",
+      "habitaculo",
+      "mantenimiento",
+      "renovacion"
+    ],
+    "base_response": "Los estudiantes observan un filtro de habitáculo usado y otro nuevo para comparar acumulación de polvo. Luego realizan la sustitución simulada en un módulo transparente, comprobando cómo mejora el flujo de aire y entendiendo la importancia del mantenimiento preventivo en el sistema de ventilación vehicular."
+  },
+  {
+    "intent_id": "renovacion_depurador_habitaculo_consecuencias_largo_plazo",
+    "keywords": [
+      "filtro",
+      "aire",
+      "contaminante",
+      "salud",
+      "renovacion"
+    ],
+    "base_response": "La renovación periódica del depurador de habitáculo mantiene el aire limpio y reduce la acumulación de contaminantes. A largo plazo, evita daños en el sistema de ventilación, mejora la salud de los ocupantes y sostiene un rendimiento estable del vehículo en diversas condiciones ambientales."
+  },
+  {
+    "intent_id": "renovacion_depurador_habitaculo_impacto_ambiental",
+    "keywords": [
+      "filtro",
+      "aire",
+      "contaminante",
+      "mantenimiento",
+      "reciclaje"
+    ],
+    "base_response": "La renovación del depurador de habitáculo reduce contaminantes atrapados y mejora la calidad del aire interior. Un filtro saturado exige más energía al sistema de ventilación y genera residuos que deben gestionarse mediante reciclaje adecuado para disminuir su impacto ambiental general."
+  },
+  {
+    "intent_id": "renovacion_depurador_habitaculo_mantenimiento_prevencion",
+    "keywords": [
+      "filtro",
+      "aire",
+      "contaminante",
+      "respiracion",
+      "renovacion"
+    ],
+    "base_response": "La renovación del depurador de habitáculo mantiene el aire limpio dentro del vehículo y evita la acumulación de contaminantes. Cambiarlo periódicamente mejora la respiración, reduce malos olores y previene fallas en el sistema de ventilación, asegurando un entorno seguro para los ocupantes."
+  },
+  {
+    "intent_id": "renovacion_depurador_habitaculo_proyecciones_futuras_tecnologia",
+    "keywords": [
+      "filtracion",
+      "habitaculo",
+      "sensor",
+      "depurador",
+      "renovacion"
+    ],
+    "base_response": "La renovación del depurador de habitáculo evolucionará mediante filtros inteligentes capaces de medir partículas y ajustar su rendimiento automáticamente. Estos sistemas integrarán sensores avanzados y materiales activos que prolongarán la vida útil, mejorarán la calidad del aire y anticiparán necesidades de mantenimiento."
+  },
+  {
+    "intent_id": "limpieza_pulverizadores_definicion_anatomica",
+    "keywords": [
+      "ultrasonido",
+      "cavidad",
+      "vibracion",
+      "residuo",
+      "pulverizador"
+    ],
+    "base_response": "Un pulverizador posee conductos internos y una boquilla fina donde se acumulan residuos. El ultrasonido genera vibraciones en una cavidad líquida que desprenden partículas adheridas. Este proceso limpia la estructura interna sin desmontarla y mantiene el flujo adecuado del componente."
+  },
+  {
+    "intent_id": "limpieza_pulverizadores_dinamica_funcionamiento_fisico",
+    "keywords": [
+      "ultrasonido",
+      "cavidad",
+      "remocion",
+      "vibracion",
+      "pulverizador"
+    ],
+    "base_response": "La limpieza por ultrasonido usa vibración de alta frecuencia para generar cavidades microscópicas en el líquido. Estas cavidades colapsan con fuerza y desprenden residuos adheridos al pulverizador, permitiendo una remoción uniforme sin dañar componentes internos y mejorando su funcionamiento general."
+  },
+  {
+    "intent_id": "limpieza_pulverizadores_propiedades_quimicas_materiales",
+    "keywords": [
+      "ultrasonido",
+      "detergente",
+      "limpieza",
+      "residuo",
+      "cavitacion",
+      "metal"
+    ],
+    "base_response": "La limpieza por ultrasonido utiliza ondas que generan cavitación capaz de desprender residuos adheridos. Los detergentes especializados actúan sobre las propiedades químicas de los depósitos, facilitando su eliminación sin dañar metales o plásticos del pulverizador y asegurando un funcionamiento uniforme."
+  },
+  {
+    "intent_id": "limpieza_pulverizadores_errores_fallas_patologias",
+    "keywords": [
+      "obstruccion",
+      "ultrasonido",
+      "mantenimiento",
+      "residuo",
+      "pulverizador"
+    ],
+    "base_response": "La limpieza por ultrasonido puede fallar cuando los pulverizadores presentan residuos endurecidos que impiden la vibración adecuada. La obstrucción interna, el uso de soluciones incorrectas y el tiempo insuficiente de exposición generan patologías que reducen el rendimiento y provocan patrones de rociado irregulares."
+  },
+  {
+    "intent_id": "limpieza_pulverizadores_historia_evolucion",
+    "keywords": [
+      "ultrasonido",
+      "limpieza",
+      "evolucion",
+      "tecnologia",
+      "pulverizador"
+    ],
+    "base_response": "La limpieza por ultrasonido surgió a mediados del siglo XX cuando la tecnología permitió generar ondas capaces de desprender residuos microscópicos. Con el tiempo evolucionó hacia equipos más precisos que facilitan mantener pulverizadores automotrices libres de obstrucciones y mejorar su rendimiento."
+  },
+  {
+    "intent_id": "limpieza_pulverizadores_contexto_ecologico",
+    "keywords": [
+      "ultrasonido",
+      "sostenibilidad",
+      "energia",
+      "residuo",
+      "pulverizador"
+    ],
+    "base_response": "La limpieza por ultrasonido reduce residuos químicos y optimiza el uso de energía al mantener pulverizadores eficientes. Este proceso favorece prácticas sostenibles al disminuir contaminantes y prolongar la vida útil de los equipos, contribuyendo a un entorno automotriz más responsable con el ambiente."
+  },
+  {
+    "intent_id": "limpieza_pulverizadores_aplicaciones_practicas",
+    "keywords": [
+      "ultrasonido",
+      "limpieza",
+      "mantenimiento",
+      "energia",
+      "pulverizador"
+    ],
+    "base_response": "La limpieza de pulverizadores por ultrasonido aplica ondas de alta energía que desprenden residuos internos sin desmontar piezas. Este método mejora el rendimiento del sistema de inyección, reduce fallas y prolonga la vida útil de componentes utilizados diariamente en vehículos modernos."
+  },
+  {
+    "intent_id": "limpieza_pulverizadores_ultrasonido_importancia_impacto_social",
+    "keywords": [
+      "ultrasonido",
+      "eficiencia",
+      "mantenimiento",
+      "pulverizador",
+      "seguridad"
+    ],
+    "base_response": "La limpieza de pulverizadores por ultrasonido mejora la eficiencia del mantenimiento automotriz y reduce fallas que afectan la seguridad vial. Su correcta aplicación disminuye residuos contaminantes y promueve prácticas responsables que fortalecen la confianza social en los servicios técnicos y el cuidado ambiental."
+  },
+  {
+    "intent_id": "limpieza_pulverizadores_ventajas_desventajas",
+    "keywords": [
+      "ultrasonido",
+      "limpieza",
+      "eficiencia",
+      "mantenimiento",
+      "pulverizador"
+    ],
+    "base_response": "La limpieza por ultrasonido ofrece alta eficiencia al remover residuos internos sin desgaste mecánico. Sin embargo, requiere equipo especializado y mayor costo inicial. Comparar ambos aspectos permite decidir si este método mejora el mantenimiento de pulverizadores en talleres educativos."
+  },
+  {
+    "intent_id": "limpieza_pulverizadores_riesgos_seguridad",
+    "keywords": [
+      "riesgo",
+      "ultrasonido",
+      "limpieza",
+      "pulverizador",
+      "seguridad"
+    ],
+    "base_response": "La limpieza por ultrasonido implica riesgos por vibración intensa, químicos y temperatura elevada. Es esencial usar guantes, gafas y contenedores adecuados, verificar conexiones eléctricas y evitar introducir piezas dañadas. Estas medidas reducen accidentes y garantizan un proceso seguro y eficiente."
+  },
+  {
+    "intent_id": "limpieza_pulverizadores_clasificacion_taxonomica",
+    "keywords": [
+      "clasificacion",
+      "ultrasonido",
+      "limpieza",
+      "residuo",
+      "pulverizador"
+    ],
+    "base_response": "La limpieza por ultrasonido permite clasificar los pulverizadores según su resistencia, tamaño y tipo de residuo acumulado. Esta clasificación facilita elegir el proceso adecuado, optimizar el mantenimiento y asegurar que cada componente reciba la intensidad de vibración necesaria para recuperar su funcionamiento eficiente."
+  },
+  {
+    "intent_id": "limpieza_pulverizadores_calculos_ultrasonido",
+    "keywords": [
+      "frecuencia",
+      "ultrasonido",
+      "tiempo",
+      "potencia",
+      "pulverizador"
+    ],
+    "base_response": "La limpieza por ultrasonido requiere calcular frecuencia adecuada, potencia del generador y tiempo de exposición. Una frecuencia típica de 40 kHz permite desprender residuos, mientras la potencia y el tiempo se ajustan según el tamaño del pulverizador para asegurar una limpieza uniforme."
+  },
+  {
+    "intent_id": "limpieza_pulverizadores_mitos_concepciones_erroneas",
+    "keywords": [
+      "ultrasonido",
+      "limpieza",
+      "mantenimiento",
+      "pulverizador",
+      "mito"
+    ],
+    "base_response": "Muchos creen que el ultrasonido daña los pulverizadores, pero su acción solo desprende residuos sin afectar componentes internos. Otro mito afirma que basta una limpieza rápida, cuando en realidad se requiere un ciclo completo para eliminar obstrucciones y asegurar un funcionamiento estable y seguro."
+  },
+  {
+    "intent_id": "limpieza_pulverizadores_transformacion_ciclos_energeticos",
+    "keywords": [
+      "ultrasonido",
+      "energia",
+      "vibracion",
+      "pulverizador",
+      "cavitacion"
+    ],
+    "base_response": "La limpieza por ultrasonido transforma energía eléctrica en vibraciones que generan cavitación dentro del líquido. Estas burbujas eliminan residuos adheridos en pulverizadores, optimizando su funcionamiento y asegurando ciclos energéticos eficientes durante el proceso de mantenimiento automotriz."
+  },
+  {
+    "intent_id": "limpieza_pulverizadores_experimentos_demostraciones",
+    "keywords": [
+      "ultrasonido",
+      "limpieza",
+      "vibracion",
+      "residuo",
+      "pulverizador"
+    ],
+    "base_response": "La limpieza por ultrasonido usa vibración de alta frecuencia para desprender residuos internos del pulverizador. En una demostración escolar, se sumerge el componente en agua con detergente y se observa cómo las ondas generan burbujas que eliminan suciedad sin desmontar piezas delicadas."
+  },
+  {
+    "intent_id": "limpieza_pulverizadores_ultrasonido_consecuencias_largo_plazo",
+    "keywords": [
+      "desgaste",
+      "ultrasonido",
+      "eficiencia",
+      "mantenimiento",
+      "pulverizador"
+    ],
+    "base_response": "La limpieza de pulverizadores con ultrasonido mantiene la eficiencia del motor y reduce el desgaste interno a largo plazo. Un sistema de inyección limpio mejora la combustión, disminuye fallas recurrentes y prolonga la vida útil del vehículo al evitar acumulaciones dañinas en componentes críticos."
+  },
+  {
+    "intent_id": "limpieza_pulverizadores_ultrasonido_impacto_ambiental",
+    "keywords": [
+      "ultrasonido",
+      "energia",
+      "residuo",
+      "pulverizador",
+      "contaminacion"
+    ],
+    "base_response": "La limpieza por ultrasonido reduce residuos químicos al usar ondas que desprenden suciedad sin solventes agresivos. Este proceso disminuye la contaminación del agua y del aire, optimiza el consumo de energía y promueve prácticas automotrices más responsables con el entorno natural."
+  },
+  {
+    "intent_id": "limpieza_pulverizadores_mantenimiento_prevencion",
+    "keywords": [
+      "ultrasonido",
+      "limpieza",
+      "prevencion",
+      "mantenimiento",
+      "pulverizador"
+    ],
+    "base_response": "La limpieza de pulverizadores con ultrasonido elimina residuos internos mediante vibraciones controladas que desprenden impurezas. Este proceso mejora el rendimiento, evita obstrucciones y prolonga la vida útil del equipo, asegurando un funcionamiento seguro y eficiente en tareas automotrices."
+  }
+]
