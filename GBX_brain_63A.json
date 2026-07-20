@@ -1,0 +1,2620 @@
+[
+  {
+    "intent_id": "ideas_principales_estructura_textual",
+    "keywords": [
+      "idea",
+      "principal",
+      "texto",
+      "lectura",
+      "identificacion"
+    ],
+    "base_response": "La idea principal es la unidad central del texto que organiza su contenido. Se identifica analizando cómo se relacionan las oraciones y párrafos para formar una estructura coherente. Esta idea resume el mensaje esencial que el autor desea transmitir al lector."
+  },
+  {
+    "intent_id": "comprension_lectora_errores_ideas_principales",
+    "keywords": [
+      "idea",
+      "principal",
+      "lectura",
+      "confusion",
+      "interpretacion"
+    ],
+    "base_response": "Los errores frecuentes incluyen confundir detalles secundarios con la idea principal, interpretar de forma literal sin considerar el contexto y seleccionar información irrelevante. Estas fallas dificultan comprender el propósito del texto y afectan la capacidad de resumir adecuadamente su contenido."
+  },
+  {
+    "intent_id": "comprension_lectora_ideas_principales_historia_origen_evolucion",
+    "keywords": [
+      "idea",
+      "principal",
+      "lectura",
+      "analisis",
+      "texto"
+    ],
+    "base_response": "La identificación de ideas principales surgio con los primeros estudios de retorica, evoluciono en la Edad Media con la copia de manuscritos y se fortalecio en la modernidad al integrarse en métodos escolares que buscan comprender estructuras esenciales de cualquier texto."
+  },
+  {
+    "intent_id": "comprension_lectora_contexto_ecologico",
+    "keywords": [
+      "idea",
+      "principal",
+      "texto",
+      "contexto",
+      "lectura"
+    ],
+    "base_response": "La identificación de ideas principales requiere analizar cómo el entorno ecológico influye en los hechos descritos. El lector debe reconocer elementos naturales, sociales y culturales que rodean la situación para comprender mejor el propósito y sentido del texto presentado."
+  },
+  {
+    "intent_id": "comprension_lectora_ideas_principales_aplicaciones_practicas",
+    "keywords": [
+      "idea",
+      "principal",
+      "lectura",
+      "analisis",
+      "comprension"
+    ],
+    "base_response": "Identificar la idea principal permite resumir información, tomar decisiones informadas y comunicar conclusiones claras en situaciones reales como estudiar, resolver problemas cotidianos o evaluar instrucciones importantes. Esta habilidad fortalece el pensamiento crítico y mejora la interpretación de textos diversos."
+  },
+  {
+    "intent_id": "comprension_lectora_ideas_principales_importancia_impacto_social",
+    "keywords": [
+      "idea",
+      "principal",
+      "lectura",
+      "analisis",
+      "comprension",
+      "impacto"
+    ],
+    "base_response": "Identificar ideas principales permite comprender mejor los mensajes que circulan en la sociedad, favorece el pensamiento crítico y fortalece la participación informada. Esta habilidad ayuda a distinguir información relevante, evaluar argumentos y tomar decisiones responsables en contextos comunitarios y escolares."
+  },
+  {
+    "intent_id": "ideas_principales_ventajas_desventajas",
+    "keywords": [
+      "idea",
+      "principal",
+      "texto",
+      "analisis",
+      "comparacion"
+    ],
+    "base_response": "Identificar ideas principales permite comparar ventajas y desventajas del contenido, facilitando decisiones informadas. Al reconocer puntos fuertes y limitaciones del texto, el lector desarrolla criterio propio y mejora su comprensión global, fortaleciendo habilidades críticas para interpretar información diversa."
+  },
+  {
+    "intent_id": "comprension_lectora_clasificacion_taxonomica",
+    "keywords": [
+      "idea",
+      "principal",
+      "texto",
+      "clasificacion",
+      "lectura",
+      "analisis"
+    ],
+    "base_response": "La clasificación taxonómica de ideas principales organiza conceptos según su jerarquía temática. Este proceso permite distinguir elementos esenciales, agrupar información relacionada y estructurar el contenido para facilitar la comprensión lectora y mejorar la interpretación global del texto."
+  },
+  {
+    "intent_id": "comprension_lectora_ideas_principales_calculos",
+    "keywords": [
+      "idea",
+      "principal",
+      "texto",
+      "analisis",
+      "conteo",
+      "frecuencia"
+    ],
+    "base_response": "Para identificar ideas principales mediante cálculos se puede estimar la frecuencia de términos clave y comparar su repetición en distintas secciones del texto. Este procedimiento orienta la seleccion de conceptos centrales y permite verificar patrones de relevancia dentro de la lectura."
+  },
+  {
+    "intent_id": "comprension_lectora_mitos_ideas_principales",
+    "keywords": [
+      "idea",
+      "principal",
+      "lectura",
+      "texto",
+      "interpretacion"
+    ],
+    "base_response": "Muchos estudiantes creen que la idea principal siempre aparece en la primera oración, pero puede encontrarse en distintas partes del texto. También es falso pensar que basta con leer rápido para identificarla; requiere análisis cuidadoso y conexión entre las ideas relevantes."
+  },
+  {
+    "intent_id": "comprension_lectora_transformacion_ciclos_energeticos",
+    "keywords": [
+      "idea",
+      "principal",
+      "lectura",
+      "energia",
+      "transformacion",
+      "ciclo"
+    ],
+    "base_response": "Identifica la idea principal analizando cómo un texto describe la transformación de la energía y sus ciclos. Reconoce procesos clave, relaciones entre cambios energéticos y consecuencias en sistemas naturales. Resume con precisión conectando conceptos esenciales sin perder coherencia interpretativa."
+  },
+  {
+    "intent_id": "comprension_lectora_ideas_principales_experimentos_escolares",
+    "keywords": [
+      "idea",
+      "principal",
+      "lectura",
+      "experimento",
+      "analisis"
+    ],
+    "base_response": "Identifica la idea principal observando cómo el experimento escolar se describe y qué resultado busca demostrar. Analiza las acciones clave, los materiales utilizados y la conclusión presentada para comprender el propósito central del texto y diferenciarlo de los detalles secundarios."
+  },
+  {
+    "intent_id": "comprension_lectora_ideas_principales_consecuencias_largo_plazo",
+    "keywords": [
+      "idea",
+      "principal",
+      "lectura",
+      "analisis",
+      "consecuencia",
+      "comprension"
+    ],
+    "base_response": "Identificar ideas principales permite anticipar consecuencias a largo plazo, fortaleciendo la capacidad de evaluar impactos futuros. Esta habilidad mejora la toma de decisiones informadas y fomenta una lectura crítica que ayuda a comprender cómo ciertos hechos pueden transformar situaciones posteriores."
+  },
+  {
+    "intent_id": "comprension_lectora_impacto_ambiental",
+    "keywords": [
+      "idea",
+      "principal",
+      "texto",
+      "lectura",
+      "impacto",
+      "ambiente"
+    ],
+    "base_response": "La identificación de ideas principales en textos sobre impacto ambiental permite comprender cómo las acciones humanas afectan ecosistemas y recursos naturales. Al reconocer estos conceptos centrales, los estudiantes desarrollan una lectura crítica que facilita decisiones responsables frente a problemas ambientales."
+  },
+  {
+    "intent_id": "comprension_lectora_ideas_principales_mantenimiento_prevencion",
+    "keywords": [
+      "idea",
+      "principal",
+      "texto",
+      "lectura",
+      "analisis"
+    ],
+    "base_response": "El mantenimiento de la comprensión lectora requiere practicar la identificación de ideas principales mediante lecturas variadas y breves. Para prevenir dificultades, conviene revisar regularmente la estructura del texto, verificar la coherencia y reforzar la habilidad de resumir con precision."
+  },
+  {
+    "intent_id": "comprension_lectora_proyecciones_tecnologicas",
+    "keywords": [
+      "idea",
+      "principal",
+      "texto",
+      "lectura",
+      "proyeccion",
+      "tecnologia"
+    ],
+    "base_response": "Identificar ideas principales en textos sobre tecnología futura permite comprender cómo las innovaciones proyectadas transformarán la vida cotidiana. Analizar estas ideas ayuda a anticipar cambios, evaluar impactos y desarrollar pensamiento crítico frente a avances que influirán en la sociedad y en nuestras decisiones."
+  },
+  {
+    "intent_id": "inferencias_comprension_lectora_definicion_estructural",
+    "keywords": [
+      "inferencia",
+      "lectura",
+      "contexto",
+      "significado",
+      "deduccion"
+    ],
+    "base_response": "La inferencia es un proceso mental que permite deducir información implícita combinando pistas textuales y conocimientos previos. Su estructura integra la identificación de indicios, la relación lógica entre ideas y la construcción de un significado que no aparece expresado de manera directa."
+  },
+  {
+    "intent_id": "inferencias_comprension_lectora_errores_comunes",
+    "keywords": [
+      "inferencia",
+      "lectura",
+      "comprension",
+      "error",
+      "interpretacion"
+    ],
+    "base_response": "Los estudiantes suelen fallar al inferir porque confunden pistas textuales, mezclan información previa irrelevante, ignoran detalles clave y generan conclusiones apresuradas. Estas fallas dificultan comprender significados implícitos y afectan la interpretación global del texto."
+  },
+  {
+    "intent_id": "inferencias_comprension_lectora_historia_origen_evolucion",
+    "keywords": [
+      "inferencia",
+      "lectura",
+      "comprension",
+      "historia",
+      "origen",
+      "evolucion"
+    ],
+    "base_response": "Las inferencias surgieron cuando lectores antiguos debían deducir significados implícitos en textos orales y escritos. Con el desarrollo de alfabetos y narrativas complejas, evolucionaron como habilidad esencial para interpretar información no explícita y construir comprensión profunda en diversas culturas."
+  },
+  {
+    "intent_id": "inferencias_contexto_entorno_ecologico",
+    "keywords": [
+      "inferencia",
+      "contexto",
+      "entorno",
+      "lectura",
+      "comprension"
+    ],
+    "base_response": "La inferencia basada en el contexto ecológico permite relacionar elementos del entorno natural y social presentes en un texto para deducir información no explícita. El estudiante analiza cómo clima, paisaje, comunidad y recursos influyen en acciones, emociones y decisiones de los personajes."
+  },
+  {
+    "intent_id": "inferencias_comprension_aplicaciones_reales",
+    "keywords": [
+      "inferencia",
+      "lectura",
+      "contexto",
+      "analisis",
+      "interpretacion"
+    ],
+    "base_response": "Las inferencias permiten aplicar la comprensión lectora en situaciones reales, como deducir intenciones en conversaciones, anticipar consecuencias en decisiones cotidianas y evaluar información implícita en mensajes. Practicar estas habilidades fortalece el pensamiento crítico y mejora la comunicación diaria."
+  },
+  {
+    "intent_id": "inferencias_comprension_importancia_impacto_social",
+    "keywords": [
+      "inferencia",
+      "lectura",
+      "comprension",
+      "significado",
+      "analisis"
+    ],
+    "base_response": "Las inferencias fortalecen la comprensión lectora al permitir que los estudiantes conecten información implícita con su realidad. Este proceso mejora la comunicación, fomenta el pensamiento crítico y favorece la participación responsable en la sociedad al interpretar mensajes complejos y evaluar sus consecuencias."
+  },
+  {
+    "intent_id": "inferencias_comprension_ventajas_desventajas",
+    "keywords": [
+      "inferencia",
+      "lectura",
+      "analisis",
+      "deduccion",
+      "texto"
+    ],
+    "base_response": "Las inferencias permiten ampliar la comprensión al conectar pistas textuales con conocimientos previos, facilitando interpretaciones profundas. Sin embargo, pueden generar errores cuando el lector deduce información sin suficiente evidencia o confunde suposiciones personales con el contenido explícito del texto."
+  },
+  {
+    "intent_id": "inferencias_comprension_riesgos_seguridad",
+    "keywords": [
+      "inferencia",
+      "lectura",
+      "riesgo",
+      "seguridad",
+      "analisis"
+    ],
+    "base_response": "La inferencia permite anticipar riesgos en situaciones descritas y reconocer señales de peligro implícitas. El lector analiza pistas del texto para deducir medidas de seguridad adecuadas, fortaleciendo decisiones responsables y una comprensión más profunda de las consecuencias posibles."
+  },
+  {
+    "intent_id": "inferencias_comprension_clasificacion_taxonomica",
+    "keywords": [
+      "inferencia",
+      "lectura",
+      "analisis",
+      "clasificacion",
+      "contenido"
+    ],
+    "base_response": "La clasificación taxonómica de inferencias permite ordenar distintos tipos de deducciones que el lector realiza al interpretar información implícita. Esta organización facilita reconocer patrones, anticipar significados y fortalecer la comprensión profunda de textos narrativos y expositivos."
+  },
+  {
+    "intent_id": "inferencias_comprension_mitos_concepciones",
+    "keywords": [
+      "inferencia",
+      "lectura",
+      "comprension",
+      "deduccion",
+      "interpretacion"
+    ],
+    "base_response": "Muchos estudiantes creen que las inferencias son adivinanzas sin base textual, pero requieren analizar pistas explícitas. También existe la idea errónea de que solo lectores avanzados pueden inferir, cuando en realidad cualquier lector puede hacerlo siguiendo evidencias claras del texto."
+  },
+  {
+    "intent_id": "inferencias_comprension_relacion_simbiotica",
+    "keywords": [
+      "inferencia",
+      "lectura",
+      "contexto",
+      "significado",
+      "analisis",
+      "relacion"
+    ],
+    "base_response": "Las inferencias lectoras funcionan en relación simbiótica con otros sistemas cognitivos, integrando memoria, lenguaje y razonamiento para construir significados implícitos. El lector combina pistas textuales con conocimientos previos, fortaleciendo la comprensión profunda y la interpretación coherente de diversas situaciones narrativas o informativas."
+  },
+  {
+    "intent_id": "inferencias_comprension_experimentos",
+    "keywords": [
+      "inferencia",
+      "lectura",
+      "experimento",
+      "analisis",
+      "deduccion"
+    ],
+    "base_response": "El estudiante observa un experimento sencillo y deduce causas y efectos no explícitos en la descripción. Analiza indicios, relaciona acciones y anticipa resultados para fortalecer su comprensión inferencial. Este proceso mejora la interpretación profunda de textos narrativos y explicativos."
+  },
+  {
+    "intent_id": "inferencias_consecuencias_largo_plazo",
+    "keywords": [
+      "inferencia",
+      "lectura",
+      "consecuencia",
+      "interpretacion",
+      "analisis"
+    ],
+    "base_response": "Las inferencias sobre consecuencias a largo plazo permiten anticipar efectos futuros basados en pistas del texto. El lector analiza acciones, motivos y contexto para proyectar resultados posibles. Esta habilidad fortalece la comprensión profunda y favorece decisiones informadas al interpretar narraciones o situaciones."
+  },
+  {
+    "intent_id": "comprension_lectora_inferencias_impacto_ambiental",
+    "keywords": [
+      "lectura",
+      "inferencia",
+      "impacto",
+      "ambiente",
+      "analisis"
+    ],
+    "base_response": "El lector identifica efectos ambientales implícitos analizando pistas del texto. Reconoce causas y consecuencias no dichas directamente, relacionando acciones humanas con cambios en ecosistemas. Esta habilidad fortalece la comprensión profunda y promueve reflexión crítica sobre problemas ecológicos presentes en diversas narraciones."
+  },
+  {
+    "intent_id": "lenguaje_comprension_inferencias_mantenimiento_prevencion",
+    "keywords": [
+      "inferencia",
+      "lectura",
+      "deduccion",
+      "razonamiento",
+      "practica"
+    ],
+    "base_response": "Mantener la habilidad de inferir exige practicar lecturas variadas, verificar pistas textuales y revisar interpretaciones personales. Prevenir errores implica identificar supuestos incorrectos, ajustar el razonamiento y fortalecer la conexión entre información explícita y deducciones. La constancia mejora la comprensión profunda."
+  },
+  {
+    "intent_id": "inferencias_proyecciones_futuras_tecnologia",
+    "keywords": [
+      "inferencia",
+      "proyeccion",
+      "tecnologia",
+      "lectura",
+      "analisis"
+    ],
+    "base_response": "El lector formula inferencias sobre posibles avances tecnologicos al interpretar pistas del texto. Esta habilidad permite anticipar escenarios futuros, evaluar impactos y construir conclusiones coherentes basadas en evidencia narrativa y conexiones logicas derivadas de la lectura."
+  },
+  {
+    "intent_id": "comprension_lectora_estructura_resumen",
+    "keywords": [
+      "idea",
+      "contenido",
+      "texto",
+      "sintesis",
+      "lectura"
+    ],
+    "base_response": "Un resumen es una síntesis que organiza las ideas esenciales del texto en un orden coherente. Su estructura incluye identificación del tema central, selección de información relevante y eliminación de detalles secundarios para reconstruir el contenido de manera breve y precisa."
+  },
+  {
+    "intent_id": "comprension_lectora_resumen_errores_comunes",
+    "keywords": [
+      "resumen",
+      "texto",
+      "comprension",
+      "omision",
+      "distorsion",
+      "interpretacion"
+    ],
+    "base_response": "Los estudiantes suelen confundir ideas principales con detalles irrelevantes, omitir información esencial y añadir interpretaciones personales que distorsionan el contenido. También mezclan secuencias narrativas y generan resúmenes excesivamente extensos o demasiado breves, afectando la comprensión global del texto."
+  },
+  {
+    "intent_id": "comprension_lectora_historia_origen_evolucion",
+    "keywords": [
+      "resumen",
+      "texto",
+      "lectura",
+      "sintesis",
+      "comprension"
+    ],
+    "base_response": "El resumen de textos tiene origen en prácticas antiguas de selección de ideas esenciales. Evolucionó con la educación moderna para fortalecer la comprensión lectora, permitiendo identificar información clave y reconstruir el sentido global de narraciones y exposiciones."
+  },
+  {
+    "intent_id": "comprension_lectora_contexto_ecologico_contexto_entorno",
+    "keywords": [
+      "contexto",
+      "entorno",
+      "analisis",
+      "texto",
+      "resumen"
+    ],
+    "base_response": "El estudiante identifica elementos del entorno ecologico presentes en el texto para integrarlos en un resumen coherente. Reconoce relaciones entre personajes, espacio y ambiente natural, destacando cómo influyen en los hechos narrados y fortaleciendo la comprensión global del contenido leído."
+  },
+  {
+    "intent_id": "comprension_lectora_resumen_aplicaciones",
+    "keywords": [
+      "resumen",
+      "texto",
+      "lectura",
+      "sintesis",
+      "comprension"
+    ],
+    "base_response": "El resumen de textos permite organizar información esencial para estudiar, preparar exposiciones y tomar decisiones informadas. Facilita recordar datos importantes, comparar ideas y comunicar conclusiones claras en situaciones escolares y cotidianas donde se requiere interpretar contenido escrito."
+  },
+  {
+    "intent_id": "comprension_resumen_importancia_impacto_social",
+    "keywords": [
+      "resumen",
+      "texto",
+      "lectura",
+      "comprension",
+      "analisis"
+    ],
+    "base_response": "El resumen de textos fortalece la comprensión lectora y permite comunicar ideas esenciales con claridad. Su importancia social radica en facilitar el intercambio de información confiable, apoyar el aprendizaje colectivo y promover una participación informada en diversas situaciones comunitarias y educativas."
+  },
+  {
+    "intent_id": "comprension_lectora_resumen_ventajas_desventajas",
+    "keywords": [
+      "resumen",
+      "texto",
+      "sintesis",
+      "comparacion",
+      "analisis"
+    ],
+    "base_response": "El resumen permite identificar ideas esenciales y reducir información para facilitar la comprensión. Sin embargo, puede omitir detalles relevantes si no se seleccionan adecuadamente. Comparar ventajas y desventajas ayuda a desarrollar criterio lector y mejorar la calidad del proceso de síntesis."
+  },
+  {
+    "intent_id": "comprension_lectora_resumen_riesgos_seguridad",
+    "keywords": [
+      "resumen",
+      "texto",
+      "riesgo",
+      "omision",
+      "informacion",
+      "lectura"
+    ],
+    "base_response": "El resumen exige identificar ideas esenciales sin añadir datos falsos ni eliminar elementos críticos. Un mal recorte puede distorsionar el contenido original y generar riesgos de interpretación. Para asegurar precisión, verifica coherencia, conserva puntos clave y evita modificar el sentido del texto."
+  },
+  {
+    "intent_id": "comprension_lectora_clasificacion_taxonomica_resumen_texto",
+    "keywords": [
+      "resumen",
+      "texto",
+      "clasificacion",
+      "idea",
+      "sintesis"
+    ],
+    "base_response": "El resumen exige clasificar taxonómicamente las ideas del texto, distinguiendo conceptos centrales y secundarios. Esta organización permite sintetizar la información de manera coherente, jerarquizando elementos clave y facilitando la comprensión global del contenido leído."
+  },
+  {
+    "intent_id": "comprension_lectora_resumen_calculos",
+    "keywords": [
+      "idea",
+      "principal",
+      "texto",
+      "resumen",
+      "analisis"
+    ],
+    "base_response": "El resumen puede calcularse identificando la proporción entre ideas principales y detalles secundarios, aplicando conteo de oraciones relevantes y comparando su frecuencia para determinar el núcleo informativo que debe conservarse sin alterar el sentido original del texto."
+  },
+  {
+    "intent_id": "comprension_lectora_mitos_concepciones_erroneas",
+    "keywords": [
+      "resumen",
+      "texto",
+      "lectura",
+      "interpretacion",
+      "contenido"
+    ],
+    "base_response": "Muchos estudiantes creen que resumir consiste en copiar frases del texto o reducirlo a pocas oraciones sin analizar su sentido. Un buen resumen exige identificar ideas esenciales, eliminar detalles irrelevantes y reconstruir el contenido con palabras propias para demostrar comprensión real."
+  },
+  {
+    "intent_id": "comprension_lectora_relacion_simbiotica",
+    "keywords": [
+      "resumen",
+      "texto",
+      "sintesis",
+      "informacion",
+      "lectura"
+    ],
+    "base_response": "El resumen establece una relación simbiótica con otros sistemas cognitivos al integrar memoria, análisis y organización de ideas. Esta interacción permite comprender mejor el texto, conectar conceptos esenciales y fortalecer habilidades que facilitan interpretar, comparar y aplicar información en diversas situaciones educativas."
+  },
+  {
+    "intent_id": "comprension_lectora_experimentos_resumen",
+    "keywords": [
+      "resumen",
+      "texto",
+      "experimento",
+      "demostracion",
+      "lectura"
+    ],
+    "base_response": "El estudiante identifica pasos clave del experimento, organiza las acciones realizadas y sintetiza los resultados obtenidos. Luego redacta un resumen claro que explica el propósito, el procedimiento y las conclusiones, manteniendo coherencia y precisión en la interpretación del contenido observado."
+  },
+  {
+    "intent_id": "comprension_lectora_resumen_consecuencias_largo_plazo",
+    "keywords": [
+      "resumen",
+      "texto",
+      "lectura",
+      "sintesis",
+      "comprension"
+    ],
+    "base_response": "El desarrollo constante de resúmenes fortalece la capacidad de análisis y mejora la retención de información. A largo plazo, permite interpretar textos con mayor precisión, organizar ideas de forma eficiente y aplicar el contenido leído en situaciones académicas y personales de manera más consciente."
+  },
+  {
+    "intent_id": "comprension_lectora_impacto_ambiental_resumen_texto",
+    "keywords": [
+      "resumen",
+      "texto",
+      "impacto",
+      "ambiente",
+      "analisis"
+    ],
+    "base_response": "El resumen de un texto sobre impacto ambiental debe identificar las ideas esenciales que explican cómo las acciones humanas afectan la naturaleza. Al sintetizar la información, se facilita comprender causas, consecuencias y posibles soluciones para promover prácticas responsables y reducir daños ecológicos."
+  },
+  {
+    "intent_id": "comprension_lectora_resumen_mantenimiento_prevencion",
+    "keywords": [
+      "resumen",
+      "texto",
+      "lectura",
+      "sintesis",
+      "comprension"
+    ],
+    "base_response": "El mantenimiento del hábito de resumir textos requiere práctica constante para fortalecer la comprensión lectora. La prevención de errores implica verificar ideas principales, evitar información irrelevante y revisar la coherencia del resumen para asegurar claridad y fidelidad al contenido original."
+  },
+  {
+    "intent_id": "comprension_lectora_resumen_proyecciones_tecnologicas",
+    "keywords": [
+      "resumen",
+      "texto",
+      "lectura",
+      "proyeccion",
+      "tecnologia"
+    ],
+    "base_response": "El estudiante analiza cómo la tecnología futura influirá en la forma de resumir textos, considerando herramientas digitales avanzadas que facilitan la identificación de ideas esenciales y la organización de información. Reflexiona sobre cambios posibles en la lectura y en la creación de contenidos educativos."
+  },
+  {
+    "intent_id": "comprension_lectora_definicion_estructural",
+    "keywords": [
+      "estructura",
+      "texto",
+      "analisis",
+      "lectura",
+      "comprension"
+    ],
+    "base_response": "La definición anatómica de un texto describe cómo se organizan sus partes internas para transmitir significado. Incluye elementos como introducción, desarrollo y cierre, cuya identificación permite comprender la intención del autor y analizar la coherencia global del contenido."
+  },
+  {
+    "intent_id": "comprension_lectora_dinamica_funcionamiento_fisico",
+    "keywords": [
+      "dinamica",
+      "funcionamiento",
+      "interpretacion",
+      "movimiento",
+      "descripcion"
+    ],
+    "base_response": "El estudiante analiza cómo un texto explica movimientos y procesos físicos, identificando causas, efectos y secuencias. Reconoce descripciones que muestran cambios en objetos o sistemas y evalúa la coherencia entre acciones, resultados y condiciones planteadas para comprender con precisión la dinámica presentada."
+  },
+  {
+    "intent_id": "comprension_lectora_propiedades_quimicas",
+    "keywords": [
+      "texto",
+      "analisis",
+      "material",
+      "propiedad",
+      "transformacion"
+    ],
+    "base_response": "El lector identifica cómo un texto describe las propiedades químicas de un material y analiza sus transformaciones. Reconoce cambios irreversibles, compara características y relaciona causas con efectos. Esta habilidad fortalece la comprensión profunda y la interpretación crítica de información científica."
+  },
+  {
+    "intent_id": "comprension_lectora_errores_comunes",
+    "keywords": [
+      "lectura",
+      "comprension",
+      "interpretacion",
+      "confusion",
+      "omision"
+    ],
+    "base_response": "Los errores comunes en comprensión lectora incluyen confundir ideas principales, ignorar detalles relevantes, interpretar de forma literal sin considerar contexto y mezclar opiniones con información del texto. Detectarlos permite mejorar la precisión interpretativa y fortalecer habilidades de análisis lector."
+  },
+  {
+    "intent_id": "comprension_lectora_historia_origen_evolucion_lectura_comprension",
+    "keywords": [
+      "lectura",
+      "comprension",
+      "origen",
+      "evolucion",
+      "historia"
+    ],
+    "base_response": "La comprensión lectora surgió con las primeras formas de escritura y evolucionó conforme crecieron las necesidades educativas. Su desarrollo histórico muestra cómo distintas culturas perfeccionaron métodos para interpretar textos, fortaleciendo habilidades que hoy permiten analizar información con mayor profundidad."
+  },
+  {
+    "intent_id": "comprension_lectora_contexto_entorno_ecologico",
+    "keywords": [
+      "contexto",
+      "entorno",
+      "lectura",
+      "analisis",
+      "comprension"
+    ],
+    "base_response": "El estudiante identifica cómo el entorno ecológico influye en las acciones y decisiones de los personajes, relacionando elementos naturales, sociales y culturales presentes en el texto para comprender mejor los significados y las motivaciones que surgen del contexto narrativo."
+  },
+  {
+    "intent_id": "comprension_lectora_aplicaciones_practicas",
+    "keywords": [
+      "lectura",
+      "analisis",
+      "comprension",
+      "informacion",
+      "interpretacion"
+    ],
+    "base_response": "La comprensión lectora permite aplicar ideas del texto para resolver situaciones reales, como seguir instrucciones, evaluar información útil o tomar decisiones informadas. Analizar el contenido fortalece la capacidad de interpretar mensajes cotidianos y comprender mejor el entorno."
+  },
+  {
+    "intent_id": "comprension_lectora_importancia_impacto_social",
+    "keywords": [
+      "lectura",
+      "comprension",
+      "analisis",
+      "impacto",
+      "sociedad"
+    ],
+    "base_response": "La comprensión lectora permite interpretar información y participar activamente en la sociedad. Su dominio fortalece el pensamiento crítico, facilita el diálogo informado y mejora la toma de decisiones colectivas. Comprender textos impulsa la participación ciudadana y favorece comunidades más conscientes y responsables."
+  },
+  {
+    "intent_id": "comprension_lectora_ventajas_desventajas",
+    "keywords": [
+      "analisis",
+      "comparacion",
+      "texto",
+      "lectura",
+      "evaluacion"
+    ],
+    "base_response": "El análisis de ventajas y desventajas permite comparar ideas del texto para comprender mejor su propósito. Facilita identificar beneficios, límites y efectos de cada propuesta, fortaleciendo la interpretación crítica y la toma de decisiones informadas durante la lectura."
+  },
+  {
+    "intent_id": "comprension_lectora_riesgos_seguridad",
+    "keywords": [
+      "riesgo",
+      "seguridad",
+      "lectura",
+      "analisis",
+      "contenido"
+    ],
+    "base_response": "El análisis de riesgos y medidas de seguridad en un texto exige identificar situaciones peligrosas, evaluar consecuencias y reconocer acciones preventivas. El lector debe relacionar información explícita e implícita para comprender cómo se protege a personajes y recursos dentro del contexto narrado."
+  },
+  {
+    "intent_id": "comprension_lectora_clasificacion_taxonomica_clasificacion_taxonomia",
+    "keywords": [
+      "clasificacion",
+      "taxonomia",
+      "concepto",
+      "lectura",
+      "analisis"
+    ],
+    "base_response": "La clasificación taxonomica en comprensión lectora organiza elementos del texto segun categorias jerarquicas que permiten identificar relaciones conceptuales. El estudiante analiza similitudes y diferencias para ubicar ideas dentro de grupos coherentes, fortaleciendo la interpretación precisa del contenido presentado."
+  },
+  {
+    "intent_id": "comprension_lectora_mitos_concepciones_erroneas_mito_lectura",
+    "keywords": [
+      "mito",
+      "lectura",
+      "comprension",
+      "interpretacion",
+      "analisis"
+    ],
+    "base_response": "Muchos estudiantes creen que leer rápido garantiza una buena comprensión, pero este mito limita su aprendizaje. La comprensión lectora requiere analizar, relacionar ideas y verificar interpretaciones. Reconocer concepciones erróneas permite mejorar estrategias y fortalecer habilidades de lectura crítica."
+  },
+  {
+    "intent_id": "comprension_lectora_relacion_simbiotica_sistemas",
+    "keywords": [
+      "lectura",
+      "analisis",
+      "texto",
+      "conexion",
+      "sistema",
+      "interpretacion"
+    ],
+    "base_response": "La comprensión lectora se fortalece cuando el estudiante identifica cómo un texto interactúa simbióticamente con otros sistemas, como el contexto cultural, la intención comunicativa y los conocimientos previos. Esta relación permite interpretar significados más profundos y construir una lectura crítica y coherente."
+  },
+  {
+    "intent_id": "comprension_lectora_transformacion_ciclos_energeticos_texto_analisis",
+    "keywords": [
+      "texto",
+      "analisis",
+      "transformacion",
+      "energia",
+      "proceso"
+    ],
+    "base_response": "Identifica cómo el texto describe la transformación de la energía y los ciclos que la sostienen. Reconoce cambios, secuencias y relaciones entre elementos para comprender el flujo energético. Evalúa cómo estos procesos influyen en acciones, resultados y significados dentro de la lectura."
+  },
+  {
+    "intent_id": "comprension_lectora_experimentos_escolares",
+    "keywords": [
+      "experimento",
+      "lectura",
+      "analisis",
+      "inferencias",
+      "contenido"
+    ],
+    "base_response": "El estudiante analiza un experimento escolar descrito en un texto, identifica sus pasos esenciales y evalúa la relación entre causa y efecto. Comprende cómo las acciones generan resultados y formula inferencias que explican el propósito y las conclusiones del procedimiento presentado."
+  },
+  {
+    "intent_id": "comprension_lectora_impacto_ambiental_lectura_analisis",
+    "keywords": [
+      "lectura",
+      "analisis",
+      "impacto",
+      "ambiente",
+      "interpretacion"
+    ],
+    "base_response": "El análisis del impacto ambiental en un texto exige identificar acciones humanas que afectan la naturaleza, evaluar sus consecuencias y reconocer propuestas de solución. Esta comprensión permite relacionar información explícita e implícita para formar criterios responsables sobre el cuidado del entorno."
+  },
+  {
+    "intent_id": "comprension_lectora_mantenimiento_prevencion",
+    "keywords": [
+      "lectura",
+      "analisis",
+      "comprension",
+      "prevencion",
+      "mantenimiento"
+    ],
+    "base_response": "El mantenimiento y la prevención en la comprensión lectora requieren revisar periódicamente estrategias de interpretación, detectar dificultades tempranas y reforzar hábitos de lectura. Esto permite sostener un progreso continuo y evitar retrocesos en la capacidad de analizar textos con precisión."
+  },
+  {
+    "intent_id": "comprension_lectora_proyecciones_tecnologicas_proyeccion_tecnologia",
+    "keywords": [
+      "proyeccion",
+      "tecnologia",
+      "lectura",
+      "analisis",
+      "futuro"
+    ],
+    "base_response": "El análisis de proyecciones futuras permite interpretar cómo la tecnología podría transformar situaciones descritas en un texto. El estudiante evalúa posibles avances, consecuencias y cambios, relacionando información explícita con inferencias que amplían la comprensión y fortalecen la lectura crítica."
+  },
+  {
+    "intent_id": "lectura_critica_definicion_estructural",
+    "keywords": [
+      "estructura",
+      "texto",
+      "analisis",
+      "argumento",
+      "evaluacion"
+    ],
+    "base_response": "La lectura crítica exige reconocer la estructura interna del texto, identificando cómo se organizan ideas, argumentos y evidencias. Esta comprensión anatómica permite evaluar la coherencia y la intención comunicativa del autor, fortaleciendo la interpretación reflexiva y fundamentada."
+  },
+  {
+    "intent_id": "lectura_critica_errores_comunes",
+    "keywords": [
+      "interpretacion",
+      "sesgo",
+      "confusion",
+      "argumento",
+      "evaluacion"
+    ],
+    "base_response": "La lectura crítica suele fallar cuando el lector acepta ideas sin verificar, confunde opiniones con hechos, ignora contradicciones y no identifica sesgos. Estas fallas dificultan evaluar la coherencia del texto y reducen la capacidad de cuestionar su validez."
+  },
+  {
+    "intent_id": "lectura_critica_historia_origen_evolucion",
+    "keywords": [
+      "lectura",
+      "critica",
+      "historia",
+      "origen",
+      "evolucion"
+    ],
+    "base_response": "La lectura crítica surgió con las primeras tradiciones escritas y evolucionó mediante prácticas que buscaban interpretar, cuestionar y evaluar textos. Su desarrollo fortaleció la capacidad de analizar intenciones, contextos y significados, promoviendo una comprensión más profunda y reflexiva."
+  },
+  {
+    "intent_id": "lectura_critica_contexto_entorno_ecologico",
+    "keywords": [
+      "contexto",
+      "entorno",
+      "analisis",
+      "texto",
+      "lectura"
+    ],
+    "base_response": "Analizar el contexto y el entorno ecológico permite comprender cómo factores sociales y ambientales influyen en el significado del texto. El estudiante evalúa relaciones entre lugar, tiempo y condiciones naturales para interpretar intenciones, impactos y mensajes implícitos en la lectura."
+  },
+  {
+    "intent_id": "lectura_critica_aplicaciones_practicas",
+    "keywords": [
+      "analisis",
+      "criterio",
+      "interpretacion",
+      "argumento",
+      "evaluacion"
+    ],
+    "base_response": "La lectura crítica permite identificar intenciones, evaluar argumentos y reconocer sesgos en textos cotidianos. Aplicarla en anuncios, redes sociales y noticias ayuda a tomar decisiones informadas, evitar engaños y comprender mejor la información que influye en la vida diaria."
+  },
+  {
+    "intent_id": "lectura_critica_importancia_impacto_social",
+    "keywords": [
+      "lectura",
+      "analisis",
+      "impacto",
+      "sociedad",
+      "interpretacion"
+    ],
+    "base_response": "La lectura crítica permite comprender cómo los textos influyen en opiniones y decisiones colectivas. Analizar su impacto social ayuda a reconocer mensajes que moldean comportamientos, valorar diversas perspectivas y fortalecer una participación informada en la comunidad."
+  },
+  {
+    "intent_id": "lectura_critica_ventajas_desventajas",
+    "keywords": [
+      "analisis",
+      "comparacion",
+      "argumento",
+      "evaluacion",
+      "contenido"
+    ],
+    "base_response": "La lectura crítica permite identificar ventajas y desventajas presentes en un texto, evaluando la solidez de sus argumentos y la claridad de sus evidencias. Este análisis comparativo ayuda a comprender mejor la intención del autor y a formar juicios informados."
+  },
+  {
+    "intent_id": "lectura_critica_riesgos_seguridad",
+    "keywords": [
+      "riesgo",
+      "seguridad",
+      "analisis",
+      "texto",
+      "evaluacion"
+    ],
+    "base_response": "La lectura crítica permite identificar riesgos presentes en un texto y evaluar si las medidas de seguridad propuestas son adecuadas. El estudiante debe analizar la intención del autor, verificar datos y reconocer señales de alerta que afecten decisiones informadas."
+  },
+  {
+    "intent_id": "comprension_lectora_clasificacion_taxonomica_clasificacion_categoria",
+    "keywords": [
+      "clasificacion",
+      "categoria",
+      "texto",
+      "analisis",
+      "contenido"
+    ],
+    "base_response": "La clasificación taxonomica en la lectura critica permite organizar elementos del texto según categorias conceptuales. El estudiante identifica relaciones jerarquicas, distingue niveles de información y estructura el contenido para comprender con mayor profundidad la intencion comunicativa del autor."
+  },
+  {
+    "intent_id": "lectura_critica_mitos_concepciones_erroneas",
+    "keywords": [
+      "mito",
+      "concepcion",
+      "lectura",
+      "interpretacion",
+      "analisis"
+    ],
+    "base_response": "Muchos estudiantes creen que la lectura crítica consiste solo en encontrar errores, pero realmente implica evaluar argumentos, identificar supuestos y reconocer sesgos. Comprender esta dimensión ayuda a evitar interpretaciones simplistas y fomenta una reflexión más profunda sobre cualquier texto."
+  },
+  {
+    "intent_id": "comprension_lectora_relacion_simbiotica_sistemas_texto_analisis",
+    "keywords": [
+      "texto",
+      "analisis",
+      "interpretacion",
+      "contexto",
+      "significado"
+    ],
+    "base_response": "La lectura crítica reconoce cómo un texto interactúa simbióticamente con sistemas culturales, sociales y tecnológicos. El estudiante identifica conexiones que amplían significados, evalúa influencias externas y comprende cómo estas relaciones fortalecen la interpretación profunda y la construcción de criterios propios."
+  },
+  {
+    "intent_id": "lectura_critica_experimentos_escolares",
+    "keywords": [
+      "lectura",
+      "critica",
+      "experimento",
+      "analisis",
+      "evaluacion",
+      "comprension"
+    ],
+    "base_response": "La lectura crítica de experimentos escolares exige analizar procedimientos, evaluar resultados y cuestionar conclusiones. El estudiante identifica supuestos, detecta errores metodológicos y compara evidencias para determinar la validez del experimento. Esta habilidad fortalece el pensamiento científico y la comprensión profunda."
+  },
+  {
+    "intent_id": "lectura_critica_consecuencias_largo_plazo",
+    "keywords": [
+      "lectura",
+      "analisis",
+      "impacto",
+      "interpretacion",
+      "evaluacion"
+    ],
+    "base_response": "La lectura crítica permite anticipar consecuencias a largo plazo al analizar cómo las ideas de un texto pueden influir en decisiones futuras. Comprender estos efectos ayuda a evaluar riesgos, prever cambios y desarrollar una postura informada frente a situaciones complejas."
+  },
+  {
+    "intent_id": "lectura_critica_impacto_ambiental",
+    "keywords": [
+      "impacto",
+      "ambiente",
+      "analisis",
+      "texto",
+      "interpretacion"
+    ],
+    "base_response": "La lectura crítica permite evaluar cómo las acciones humanas descritas en un texto afectan el ambiente. El estudiante identifica consecuencias, cuestiona decisiones y reconoce evidencias que muestran daños o beneficios ambientales para desarrollar una comprensión responsable y reflexiva."
+  },
+  {
+    "intent_id": "lectura_critica_mantenimiento_prevencion",
+    "keywords": [
+      "lectura",
+      "analisis",
+      "criterio",
+      "evaluacion",
+      "interpretacion"
+    ],
+    "base_response": "La lectura crítica se fortalece mediante prácticas constantes que permiten identificar sesgos y prevenir interpretaciones erróneas. Mantener una revisión cuidadosa del contenido ayuda a reconocer información dudosa y desarrollar criterios sólidos para evaluar textos con autonomía y responsabilidad."
+  },
+  {
+    "intent_id": "lectura_critica_proyecciones_futuras_tecnologia",
+    "keywords": [
+      "lectura",
+      "analisis",
+      "proyeccion",
+      "tecnologia",
+      "interpretacion"
+    ],
+    "base_response": "La lectura crítica permite anticipar cómo la tecnología transformará situaciones futuras. El estudiante analiza indicios del texto, evalúa impactos posibles y formula conclusiones fundamentadas. Esta habilidad fortalece la comprensión profunda y promueve decisiones informadas frente a cambios tecnológicos emergentes."
+  },
+  {
+    "intent_id": "contexto_comprension_lectora_estructura",
+    "keywords": [
+      "contexto",
+      "comprension",
+      "lectura",
+      "estructura",
+      "interpretacion"
+    ],
+    "base_response": "El contexto en la comprensión lectora es la estructura que rodea un texto y permite interpretar su significado. Incluye elementos como situación, época, lugar y propósito comunicativo. Comprender esta anatomía contextual facilita inferencias precisas y una lectura más profunda."
+  },
+  {
+    "intent_id": "comprension_lectora_dinamica_funcionamiento_fisico_contexto_lectura",
+    "keywords": [
+      "contexto",
+      "lectura",
+      "interpretacion",
+      "situacion",
+      "comprension"
+    ],
+    "base_response": "El contexto físico influye en la comprensión lectora al modificar la forma en que el lector procesa la información. Factores como iluminacion, ruido y postura afectan la concentracion, facilitando o dificultando la interpretación adecuada del contenido presentado en un texto."
+  },
+  {
+    "intent_id": "comprension_lectora_contexto_errores_comunes",
+    "keywords": [
+      "lectura",
+      "contexto",
+      "interpretacion",
+      "confusion",
+      "comprension",
+      "fallas"
+    ],
+    "base_response": "Los estudiantes suelen fallar al ignorar pistas contextuales, confundir significados por falta de vocabulario y asumir ideas sin evidencia textual. Estos errores dificultan la comprensión profunda y generan interpretaciones incorrectas que afectan la coherencia general del texto."
+  },
+  {
+    "intent_id": "comprension_lectora_contexto_historia_origen_evolucion",
+    "keywords": [
+      "contexto",
+      "lectura",
+      "comprension",
+      "historia",
+      "origen",
+      "evolucion"
+    ],
+    "base_response": "El contexto de comprensión lectora surgió con las primeras tradiciones escritas y evolucionó al incorporar análisis histórico, cultural y social. Su desarrollo permitió interpretar textos más allá de las palabras, integrando experiencias previas y conocimientos para comprender significados profundos y relaciones entre ideas."
+  },
+  {
+    "intent_id": "comprension_lectora_contexto_entorno_ecologico_contexto_entorno",
+    "keywords": [
+      "contexto",
+      "entorno",
+      "lectura",
+      "comprension",
+      "analisis"
+    ],
+    "base_response": "El contexto y el entorno ecológico influyen en cómo los estudiantes interpretan un texto, pues aportan referencias culturales, sociales y ambientales que enriquecen la comprensión. Reconocer estos elementos permite relacionar la lectura con experiencias reales y construir significados más profundos."
+  },
+  {
+    "intent_id": "comprension_lectora_aplicaciones_practicas_contexto_lectura",
+    "keywords": [
+      "contexto",
+      "lectura",
+      "interpretacion",
+      "analisis",
+      "comprension"
+    ],
+    "base_response": "Comprender el contexto lector permite aplicar la información del texto para resolver situaciones reales, como interpretar instrucciones, evaluar mensajes digitales o tomar decisiones informadas. Esta habilidad fortalece el pensamiento crítico y facilita una comunicación más precisa en la vida cotidiana."
+  },
+  {
+    "intent_id": "comprension_lectora_importancia_impacto_social_lectura_contexto",
+    "keywords": [
+      "lectura",
+      "contexto",
+      "comprension",
+      "impacto",
+      "comunidad"
+    ],
+    "base_response": "Comprender el contexto de un texto permite interpretar mejor sus ideas y valorar sus implicaciones sociales. Esta habilidad fortalece la participación informada, fomenta el pensamiento crítico y mejora la capacidad de dialogar sobre temas relevantes para la comunidad."
+  },
+  {
+    "intent_id": "contexto_comprension_lectora_ventajas_desventajas",
+    "keywords": [
+      "contexto",
+      "comprension",
+      "lectura",
+      "analisis",
+      "interpretacion"
+    ],
+    "base_response": "El contexto de un texto ofrece ventajas como facilitar la interpretación y anticipar significados, pero también presenta desventajas cuando induce a conclusiones apresuradas o sesgos. Comprender estas diferencias permite desarrollar una lectura más crítica y precisa en diversas situaciones."
+  },
+  {
+    "intent_id": "comprension_lectora_riesgos_medidas_seguridad",
+    "keywords": [
+      "contexto",
+      "lectura",
+      "riesgo",
+      "seguridad",
+      "analisis"
+    ],
+    "base_response": "El lector debe identificar riesgos presentes en situaciones descritas y evaluar medidas de seguridad sugeridas por el texto. Analizar el contexto permite reconocer señales de peligro, comprender acciones preventivas y tomar decisiones informadas que protejan su bienestar durante la lectura de escenarios narrativos."
+  },
+  {
+    "intent_id": "comprension_lectora_clasificacion_taxonomica_clasificacion_categoria_texto",
+    "keywords": [
+      "clasificacion",
+      "categoria",
+      "texto",
+      "analisis",
+      "contenido"
+    ],
+    "base_response": "La clasificación taxonomica en comprensión lectora organiza elementos del texto según categorias que permiten identificar relaciones y jerarquias. Este proceso ayuda a reconocer patrones, comparar información y estructurar ideas para fortalecer la interpretación global del contenido."
+  },
+  {
+    "intent_id": "comprension_lectora_mitos_concepciones_erroneas_lectura_contexto",
+    "keywords": [
+      "lectura",
+      "contexto",
+      "mito",
+      "comprension",
+      "interpretacion"
+    ],
+    "base_response": "Muchos estudiantes creen que comprender un texto depende solo de leer rápido, pero el contexto influye decisivamente. Ignorar el propósito del autor o la situación comunicativa genera interpretaciones incompletas. Reconocer estos elementos evita errores frecuentes y mejora la comprensión global."
+  },
+  {
+    "intent_id": "comprension_lectora_relacion_simbiotica_sistemas_contexto_lectura",
+    "keywords": [
+      "contexto",
+      "lectura",
+      "significado",
+      "interaccion",
+      "interpretacion"
+    ],
+    "base_response": "La comprensión lectora se fortalece cuando el lector reconoce cómo el texto interactúa con sistemas culturales, sociales y lingüísticos. Esta relación simbiótica permite interpretar significados más profundos y conectar información externa para construir una lectura más completa y coherente."
+  },
+  {
+    "intent_id": "comprension_lectora_contexto_experimentos",
+    "keywords": [
+      "contexto",
+      "experimento",
+      "lectura",
+      "analisis",
+      "comprension"
+    ],
+    "base_response": "El estudiante observa un experimento sencillo y luego lee una descripción del proceso para identificar cómo el contexto práctico facilita la comprensión. Relaciona acciones, causas y resultados, fortaleciendo la interpretación de información presentada en textos explicativos breves."
+  },
+  {
+    "intent_id": "comprension_lectora_consecuencias_largo_plazo",
+    "keywords": [
+      "lectura",
+      "comprension",
+      "contexto",
+      "analisis",
+      "interpretacion"
+    ],
+    "base_response": "Comprender el contexto de un texto permite anticipar consecuencias a largo plazo, fortaleciendo la capacidad de interpretar situaciones complejas. Esta habilidad mejora la toma de decisiones informadas, favorece el pensamiento crítico y contribuye al desarrollo de una lectura más consciente y reflexiva."
+  },
+  {
+    "intent_id": "comprension_lectora_impacto_ambiental_contexto_lectura",
+    "keywords": [
+      "contexto",
+      "lectura",
+      "impacto",
+      "ambiente",
+      "analisis"
+    ],
+    "base_response": "El lector identifica cómo el contexto ambiental influye en las acciones descritas en un texto. Reconoce causas y consecuencias ecológicas presentes en la narración y evalúa su relevancia para comprender mejor los mensajes, personajes y situaciones vinculadas al cuidado del entorno."
+  },
+  {
+    "intent_id": "comprension_lectora_contexto_mantenimiento_prevencion",
+    "keywords": [
+      "contexto",
+      "lectura",
+      "comprension",
+      "analisis",
+      "interpretacion"
+    ],
+    "base_response": "El mantenimiento y la prevención en la comprensión lectora implican revisar continuamente el contexto del texto, anticipar posibles confusiones y reforzar estrategias que permitan interpretar información relevante. Esto ayuda a sostener una lectura eficaz y evitar errores de interpretación."
+  },
+  {
+    "intent_id": "comprension_lectora_proyecciones_tecnologia",
+    "keywords": [
+      "contexto",
+      "lectura",
+      "proyeccion",
+      "tecnologia",
+      "analisis"
+    ],
+    "base_response": "La comprensión lectora puede ampliarse al analizar cómo la tecnología influye en futuros escenarios del texto. El estudiante evalúa posibles cambios, anticipa consecuencias y relaciona innovaciones con la narrativa para fortalecer su interpretación contextual y proyectiva."
+  },
+  {
+    "intent_id": "comprension_lectora_ideas_secundarias_estructura",
+    "keywords": [
+      "idea",
+      "texto",
+      "estructura",
+      "contenido",
+      "lectura"
+    ],
+    "base_response": "Las ideas secundarias son partes del texto que amplían, explican o detallan la idea principal. Su función estructural es aportar información complementaria que organiza el contenido y permite comprender mejor el mensaje global mediante ejemplos, descripciones o datos específicos."
+  },
+  {
+    "intent_id": "ideas_secundarias_lectura_errores_comunes",
+    "keywords": [
+      "idea",
+      "secundaria",
+      "lectura",
+      "confusion",
+      "interpretacion"
+    ],
+    "base_response": "Los estudiantes suelen confundir ideas secundarias con detalles irrelevantes, omitir conexiones lógicas y centrarse solo en datos llamativos. Estas fallas dificultan comprender la estructura del texto y reconocer cómo cada idea complementa la información principal para construir significado coherente."
+  },
+  {
+    "intent_id": "comprension_lectora_ideas_secundarias_historia_origen_evolucion",
+    "keywords": [
+      "lectura",
+      "analisis",
+      "idea",
+      "texto",
+      "comprension"
+    ],
+    "base_response": "Las ideas secundarias surgieron cuando la lectura comenzó a estudiarse como proceso estructurado. Su origen se vincula con la necesidad de explicar detalles que amplían la idea principal. Con el tiempo evolucionaron para apoyar la interpretación profunda y organizar mejor la información del texto."
+  },
+  {
+    "intent_id": "ideas_secundarias_contexto_ecologico",
+    "keywords": [
+      "idea",
+      "lectura",
+      "contexto",
+      "entorno",
+      "analisis"
+    ],
+    "base_response": "Las ideas secundarias se identifican observando cómo el entorno ecológico influye en los detalles del texto. Analizar el contexto natural y social permite reconocer información complementaria que amplía la comprensión y conecta los elementos descriptivos con la situación presentada."
+  },
+  {
+    "intent_id": "ideas_secundarias_aplicaciones_practicas",
+    "keywords": [
+      "idea",
+      "lectura",
+      "analisis",
+      "comprension",
+      "texto"
+    ],
+    "base_response": "Las ideas secundarias permiten reconocer detalles útiles para resolver problemas cotidianos, como interpretar instrucciones, comparar opciones o evaluar información. Al identificarlas, los estudiantes fortalecen su capacidad de tomar decisiones informadas y comprender mejor situaciones reales que requieren atención precisa."
+  },
+  {
+    "intent_id": "ideas_secundarias_importancia_impacto_social",
+    "keywords": [
+      "idea",
+      "lectura",
+      "analisis",
+      "contenido",
+      "interpretacion"
+    ],
+    "base_response": "Las ideas secundarias permiten comprender cómo un texto influye en la sociedad al mostrar detalles que revelan contextos, problemas y perspectivas diversas. Su análisis fortalece la capacidad crítica del lector y facilita una participación informada en conversaciones y decisiones colectivas."
+  },
+  {
+    "intent_id": "ideas_secundarias_ventajas_desventajas",
+    "keywords": [
+      "idea",
+      "secundaria",
+      "lectura",
+      "comparacion",
+      "analisis"
+    ],
+    "base_response": "Las ideas secundarias permiten comparar ventajas y desventajas al profundizar en detalles que amplían la comprensión del texto. Facilitan evaluar argumentos, reconocer matices y distinguir aportes específicos que complementan la idea principal para fortalecer el análisis crítico del contenido."
+  },
+  {
+    "intent_id": "comprension_lectora_ideas_secundarias_riesgos_seguridad",
+    "keywords": [
+      "idea",
+      "lectura",
+      "riesgo",
+      "seguridad",
+      "analisis"
+    ],
+    "base_response": "Identificar ideas secundarias permite reconocer riesgos presentes en un texto y comprender medidas de seguridad sugeridas. Al analizar detalles específicos, el lector distingue advertencias, precauciones y acciones necesarias para protegerse en diversas situaciones descritas."
+  },
+  {
+    "intent_id": "comprension_lectora_clasificacion_taxonomica_idea_secundaria",
+    "keywords": [
+      "idea",
+      "secundaria",
+      "clasificacion",
+      "texto",
+      "lectura"
+    ],
+    "base_response": "La clasificación taxonómica de ideas secundarias organiza información complementaria del texto según categorías temáticas. Este proceso permite reconocer detalles que amplían la idea principal y agruparlos para comprender mejor la estructura y el propósito comunicativo del autor."
+  },
+  {
+    "intent_id": "ideas_secundarias_mitos_concepciones_erroneas",
+    "keywords": [
+      "idea",
+      "secundaria",
+      "lectura",
+      "texto",
+      "comprension"
+    ],
+    "base_response": "Muchos estudiantes creen que las ideas secundarias son detalles sin importancia, pero realmente amplían y explican la idea principal. Otro mito común es pensar que siempre aparecen en un solo párrafo, cuando pueden distribuirse en distintas partes del texto para reforzar su significado."
+  },
+  {
+    "intent_id": "comprension_lectora_ideas_secundarias_relacion_simbiotica",
+    "keywords": [
+      "idea",
+      "lectura",
+      "analisis",
+      "texto",
+      "comprension"
+    ],
+    "base_response": "Las ideas secundarias mantienen una relación simbiótica con otros sistemas cognitivos, pues fortalecen la memoria, la inferencia y la organización conceptual. Al identificarlas, el lector integra información, conecta significados y construye una comprensión más profunda y coherente del texto."
+  },
+  {
+    "intent_id": "ideas_secundarias_experimentos_demostraciones",
+    "keywords": [
+      "idea",
+      "lectura",
+      "experimento",
+      "demostracion",
+      "comprension"
+    ],
+    "base_response": "Las ideas secundarias en un experimento escolar explican pasos, materiales y observaciones que apoyan la comprensión del proceso. Identificarlas permite entender cómo cada acción contribuye al resultado y facilita relacionar detalles con la idea principal del texto."
+  },
+  {
+    "intent_id": "ideas_secundarias_consecuencias_largo_plazo",
+    "keywords": [
+      "idea",
+      "lectura",
+      "analisis",
+      "consecuencia",
+      "interpretacion"
+    ],
+    "base_response": "Identificar ideas secundarias permite anticipar consecuencias a largo plazo dentro de un texto. Al reconocer detalles relevantes, el lector comprende cómo ciertos hechos influyen en situaciones futuras y desarrolla una lectura más profunda que fortalece su capacidad de interpretar efectos prolongados."
+  },
+  {
+    "intent_id": "ideas_secundarias_impacto_ambiental",
+    "keywords": [
+      "idea",
+      "lectura",
+      "analisis",
+      "impacto",
+      "ambiente"
+    ],
+    "base_response": "Las ideas secundarias permiten profundizar en detalles que explican el impacto ambiental descrito en un texto. Al identificarlas, el lector reconoce causas, efectos y ejemplos que complementan la idea principal y fortalecen la comprensión crítica del contenido presentado."
+  },
+  {
+    "intent_id": "ideas_secundarias_proyecciones_futuras_tecnologia",
+    "keywords": [
+      "idea",
+      "lectura",
+      "analisis",
+      "proyeccion",
+      "tecnologia"
+    ],
+    "base_response": "Las ideas secundarias permiten anticipar cómo la tecnología influirá en situaciones futuras descritas en un texto. Al identificarlas, el lector comprende posibles avances, cambios sociales y efectos previstos, fortaleciendo su capacidad para interpretar escenarios proyectados y relacionarlos con innovaciones emergentes."
+  },
+  {
+    "intent_id": "comprension_detalles_estructura_textual",
+    "keywords": [
+      "detalle",
+      "estructura",
+      "texto",
+      "analisis",
+      "informacion"
+    ],
+    "base_response": "La definicion anatomica de un texto implica reconocer partes precisas que aportan datos concretos. Identificar detalles especificos permite comprender mejor la información presentada y relacionar elementos clave. Este proceso fortalece la interpretación y mejora la capacidad de extraer contenido relevante."
+  },
+  {
+    "intent_id": "comprension_lectora_detalles_dinamica_funcionamiento_fisico",
+    "keywords": [
+      "texto",
+      "detalle",
+      "analisis",
+      "estructura",
+      "funcionamiento",
+      "dinamica"
+    ],
+    "base_response": "Identifica cómo el texto describe procesos físicos mediante acciones, movimientos y cambios observables. Analiza cada detalle que explique el funcionamiento de un objeto o fenómeno, reconociendo secuencias claras que permitan comprender su dinámica interna y su relación con el entorno."
+  },
+  {
+    "intent_id": "comprension_detalles_propiedades_materiales",
+    "keywords": [
+      "texto",
+      "detalle",
+      "propiedad",
+      "material",
+      "analisis"
+    ],
+    "base_response": "El lector identifica detalles que describen propiedades químicas o materiales presentes en el texto, reconociendo características como reactividad, dureza o resistencia. Esta habilidad permite comprender cómo dichos elementos influyen en acciones, procesos o situaciones narradas, fortaleciendo la interpretación precisa del contenido."
+  },
+  {
+    "intent_id": "comprension_detalles_errores_comunes",
+    "keywords": [
+      "lectura",
+      "detalle",
+      "omision",
+      "confusion",
+      "interpretacion"
+    ],
+    "base_response": "Los estudiantes suelen omitir datos relevantes, confundir personajes o lugares y mezclar acciones similares. También interpretan detalles sin evidencia textual, generando conclusiones erróneas. Estas fallas afectan la comprensión precisa y dificultan responder preguntas específicas del contenido leído."
+  },
+  {
+    "intent_id": "comprension_lectora_detalles_historia_origen_evolucion",
+    "keywords": [
+      "lectura",
+      "texto",
+      "detalle",
+      "analisis",
+      "comprension"
+    ],
+    "base_response": "La identificación de detalles especificos surgio con los primeros estudios formales de lectura y evoluciono para fortalecer la interpretación precisa. Su desarrollo historico permitio que los lectores comprendieran mejor la información clave y relacionaran elementos concretos con el sentido global del texto."
+  },
+  {
+    "intent_id": "comprension_detalles_contexto_ecologico",
+    "keywords": [
+      "contexto",
+      "entorno",
+      "ecosistema",
+      "interpretacion",
+      "lectura"
+    ],
+    "base_response": "El lector identifica detalles que describen el entorno ecológico del texto, analizando elementos naturales, relaciones entre seres vivos y condiciones ambientales. Esta comprensión permite conectar acciones de los personajes con su ambiente y entender cómo influye en el desarrollo de los acontecimientos."
+  },
+  {
+    "intent_id": "comprension_detalles_aplicaciones_reales",
+    "keywords": [
+      "detalle",
+      "texto",
+      "analisis",
+      "lectura",
+      "comprension"
+    ],
+    "base_response": "Identificar detalles específicos en un texto permite aplicar la información en situaciones reales, como seguir instrucciones precisas, comprender reglas de seguridad o interpretar datos relevantes. Esta habilidad fortalece la toma de decisiones informadas y mejora la comunicación cotidiana."
+  },
+  {
+    "intent_id": "comprension_detalles_impacto_social",
+    "keywords": [
+      "detalle",
+      "impacto",
+      "sociedad",
+      "lectura",
+      "analisis"
+    ],
+    "base_response": "La identificación de detalles específicos permite comprender cómo ciertos hechos del texto influyen en la vida colectiva. Reconocer estos elementos ayuda a evaluar consecuencias sociales, interpretar cambios en comunidades y valorar la relevancia de acciones que transforman el entorno compartido."
+  },
+  {
+    "intent_id": "comprension_detalles_ventajas_desventajas",
+    "keywords": [
+      "detalle",
+      "comparacion",
+      "ventaja",
+      "desventaja",
+      "analisis"
+    ],
+    "base_response": "Identificar ventajas y desventajas de detalles específicos permite evaluar cómo cada información influye en la comprensión del texto. Comparar elementos concretos ayuda a reconocer aportes, limitaciones y efectos narrativos que fortalecen la interpretación crítica y la toma de decisiones lectoras."
+  },
+  {
+    "intent_id": "comprension_detalles_riesgos_seguridad",
+    "keywords": [
+      "riesgo",
+      "seguridad",
+      "detalle",
+      "texto",
+      "analisis"
+    ],
+    "base_response": "El lector identifica riesgos presentes en un texto y reconoce medidas de seguridad descritas por el autor. Para lograrlo, analiza detalles específicos que advierten peligros y compara acciones propuestas para prevenir daños, fortaleciendo una comprensión precisa y responsable del contenido."
+  },
+  {
+    "intent_id": "comprension_lectora_clasificacion_taxonomica_detalle_texto",
+    "keywords": [
+      "detalle",
+      "texto",
+      "clasificacion",
+      "categoria",
+      "analisis"
+    ],
+    "base_response": "La clasificación taxonómica de detalles específicos permite organizar información del texto según categorías jerárquicas. El estudiante identifica elementos clave, los compara y los agrupa para comprender relaciones internas y construir una interpretación más precisa del contenido leído."
+  },
+  {
+    "intent_id": "comprension_lectora_mitos_concepciones_erroneas_mito_detalle",
+    "keywords": [
+      "mito",
+      "detalle",
+      "texto",
+      "interpretacion",
+      "lectura"
+    ],
+    "base_response": "Muchos estudiantes creen que los detalles específicos son irrelevantes, pero estos elementos permiten comprender con precisión la intención del autor. Ignorar datos concretos genera interpretaciones incompletas y confusas. Analizar cada detalle fortalece la lectura crítica y evita conclusiones equivocadas."
+  },
+  {
+    "intent_id": "comprension_detalles_transformacion_ciclos_energeticos",
+    "keywords": [
+      "energia",
+      "transformacion",
+      "ciclo",
+      "proceso",
+      "lectura"
+    ],
+    "base_response": "Analiza cuidadosamente los detalles que describen cómo la energía cambia de forma y circula entre elementos del entorno. Identifica acciones, procesos y consecuencias mencionadas en el texto para comprender cada etapa del ciclo energético y su impacto dentro de la narración."
+  },
+  {
+    "intent_id": "comprension_detalles_experimentos_escolares",
+    "keywords": [
+      "detalle",
+      "experimento",
+      "texto",
+      "analisis",
+      "observacion"
+    ],
+    "base_response": "Identifica detalles clave en descripciones de experimentos escolares analizando materiales, pasos y resultados. Comprender estos elementos permite evaluar la demostración, reconocer su propósito y relacionar cada acción con el efecto observado para fortalecer la interpretación precisa del texto."
+  },
+  {
+    "intent_id": "comprension_lectora_consecuencias_largo_plazo_lectura_texto",
+    "keywords": [
+      "lectura",
+      "texto",
+      "consecuencia",
+      "analisis",
+      "interpretacion"
+    ],
+    "base_response": "La identificación de consecuencias a largo plazo permite comprender como ciertos detalles del texto influyen en eventos futuros. El estudiante analiza acciones, decisiones y descripciones para anticipar efectos prolongados que enriquecen la interpretación y fortalecen la lectura critica."
+  },
+  {
+    "intent_id": "comprension_lectora_impacto_ambiental_lectura_texto",
+    "keywords": [
+      "lectura",
+      "texto",
+      "impacto",
+      "ambiente",
+      "analisis"
+    ],
+    "base_response": "Identifica cómo las acciones descritas en el texto afectan el entorno natural. Observa detalles específicos que revelen consecuencias ambientales, como cambios en ecosistemas, uso de recursos o generación de residuos. Relaciona estos elementos para comprender el impacto ambiental presentado."
+  },
+  {
+    "intent_id": "comprension_lectora_proyecciones_tecnologia_lectura_detalle",
+    "keywords": [
+      "lectura",
+      "detalle",
+      "proyeccion",
+      "tecnologia",
+      "analisis"
+    ],
+    "base_response": "Identifica detalles del texto que anticipen cambios tecnologicos futuros y explica como esos elementos permiten prever innovaciones posibles. Analiza acciones, objetos o descripciones que sugieran transformaciones digitales y relaciona esas pistas con escenarios probables en el desarrollo tecnologico."
+  },
+  {
+    "intent_id": "proposito_autor_definicion_estructural",
+    "keywords": [
+      "autor",
+      "proposito",
+      "texto",
+      "analisis",
+      "estructura"
+    ],
+    "base_response": "El propósito del autor se define como la intención comunicativa que guía la creación del texto. Esta estructura interna orienta la selección de ideas, el tono y la organización, permitiendo comprender por qué el autor escribe y cómo dirige su mensaje hacia el lector."
+  },
+  {
+    "intent_id": "proposito_autor_errores_comunes",
+    "keywords": [
+      "proposito",
+      "autor",
+      "lectura",
+      "interpretacion",
+      "confusion"
+    ],
+    "base_response": "Los estudiantes suelen confundir el propósito del autor con su propia opinión, interpretar emociones inexistentes, ignorar pistas contextuales y asumir intenciones sin evidencia textual. Estas fallas dificultan comprender por qué el autor escribió el texto y qué mensaje busca transmitir."
+  },
+  {
+    "intent_id": "proposito_autor_historia_origen_evolucion",
+    "keywords": [
+      "autor",
+      "proposito",
+      "historia",
+      "origen",
+      "evolucion"
+    ],
+    "base_response": "El propósito del autor surgió cuando los primeros textos buscaban transmitir ideas esenciales. Con el tiempo evolucionó para expresar emociones, persuadir lectores y compartir conocimientos. Comprender su historia permite identificar cómo cada época influyó en las intenciones comunicativas."
+  },
+  {
+    "intent_id": "proposito_autor_contexto_ecologico",
+    "keywords": [
+      "autor",
+      "proposito",
+      "contexto",
+      "entorno",
+      "lectura"
+    ],
+    "base_response": "El propósito del autor se comprende mejor al analizar cómo el entorno ecológico influye en sus decisiones narrativas, pues los elementos naturales, sociales y culturales presentes en el contexto moldean la intención comunicativa y orientan la interpretación del mensaje final."
+  },
+  {
+    "intent_id": "proposito_autor_aplicaciones_practicas",
+    "keywords": [
+      "autor",
+      "proposito",
+      "lectura",
+      "analisis",
+      "interpretacion"
+    ],
+    "base_response": "Comprender el propósito del autor permite aplicar la lectura en decisiones cotidianas, como evaluar mensajes publicitarios, identificar intenciones en redes sociales y reconocer argumentos en textos informativos. Esta habilidad fortalece el pensamiento crítico y mejora la comunicación diaria."
+  },
+  {
+    "intent_id": "proposito_autor_importancia_impacto_social",
+    "keywords": [
+      "autor",
+      "proposito",
+      "mensaje",
+      "impacto",
+      "lectura"
+    ],
+    "base_response": "Comprender el propósito del autor permite reconocer cómo sus ideas influyen en la sociedad. Analizar este impacto ayuda a valorar la relevancia del mensaje y a identificar cambios culturales, sociales o emocionales que el texto puede generar en distintos grupos de lectores."
+  },
+  {
+    "intent_id": "proposito_autor_ventajas_desventajas",
+    "keywords": [
+      "autor",
+      "proposito",
+      "analisis",
+      "comparacion",
+      "interpretacion"
+    ],
+    "base_response": "Comprender el propósito del autor permite comparar ventajas y desventajas entre intenciones narrativas, informativas o persuasivas. Este análisis ayuda a identificar cómo cada enfoque influye en la claridad del mensaje, la profundidad de las ideas y el impacto emocional en la lectura."
+  },
+  {
+    "intent_id": "proposito_autor_riesgos_seguridad",
+    "keywords": [
+      "autor",
+      "proposito",
+      "riesgo",
+      "seguridad",
+      "lectura"
+    ],
+    "base_response": "El lector identifica el propósito del autor analizando señales que revelan riesgos y medidas de seguridad presentes en el texto. Esta comprensión permite evaluar advertencias, reconocer intenciones informativas y aplicar criterios para protegerse ante situaciones potencialmente peligrosas descritas."
+  },
+  {
+    "intent_id": "proposito_autor_clasificacion_taxonomica",
+    "keywords": [
+      "autor",
+      "proposito",
+      "texto",
+      "clasificacion",
+      "analisis"
+    ],
+    "base_response": "El propósito del autor puede clasificarse segun la intencion comunicativa predominante. Esta clasificación permite distinguir si busca informar, persuadir, entretener o explicar. Analizar estas categorias facilita comprender mejor el sentido global del texto y su impacto en el lector."
+  },
+  {
+    "intent_id": "proposito_autor_mitos_concepciones_erroneas",
+    "keywords": [
+      "autor",
+      "proposito",
+      "interpretacion",
+      "lectura",
+      "comprension"
+    ],
+    "base_response": "Muchos estudiantes creen que el propósito del autor siempre es entretener o informar, pero esta idea limita la comprensión profunda. El autor puede buscar persuadir, provocar reflexión o cuestionar creencias. Identificar estas intenciones evita interpretaciones simplistas y mejora el análisis crítico."
+  },
+  {
+    "intent_id": "proposito_autor_experimentos_escolares",
+    "keywords": [
+      "autor",
+      "proposito",
+      "texto",
+      "analisis",
+      "comprension"
+    ],
+    "base_response": "El propósito del autor en textos sobre experimentos escolares se identifica analizando cómo explica procedimientos, demuestra resultados y orienta la comprensión del fenómeno. El lector debe reconocer si busca informar, guiar o evidenciar un proceso mediante descripciones claras y secuencias lógicas."
+  },
+  {
+    "intent_id": "proposito_autor_consecuencias_largo_plazo",
+    "keywords": [
+      "autor",
+      "proposito",
+      "lectura",
+      "interpretacion",
+      "mensaje"
+    ],
+    "base_response": "Comprender el propósito del autor permite anticipar consecuencias a largo plazo en la interpretación del texto, fortaleciendo la capacidad de evaluar cómo las ideas influyen en decisiones futuras y en la formación de criterios propios al analizar distintos mensajes escritos."
+  },
+  {
+    "intent_id": "proposito_autor_impacto_ambiental",
+    "keywords": [
+      "autor",
+      "proposito",
+      "impacto",
+      "ambiente",
+      "lectura"
+    ],
+    "base_response": "El propósito del autor se identifica analizando cómo el texto explica consecuencias ambientales y motiva acciones responsables. El lector debe reconocer si busca informar, advertir o persuadir sobre prácticas que afectan ecosistemas y recursos naturales, evaluando la intención comunicativa en cada párrafo."
+  },
+  {
+    "intent_id": "proposito_autor_mantenimiento_prevencion",
+    "keywords": [
+      "proposito",
+      "autor",
+      "lectura",
+      "analisis",
+      "comprension"
+    ],
+    "base_response": "Identificar el propósito del autor permite mantener una lectura consciente y prevenir interpretaciones erróneas. El estudiante analiza intenciones comunicativas para sostener una comprensión estable y evitar confusiones que afecten su interpretación global del texto."
+  },
+  {
+    "intent_id": "proposito_autor_proyecciones_futuras_tecnologia",
+    "keywords": [
+      "autor",
+      "proposito",
+      "lectura",
+      "tecnologia",
+      "proyeccion",
+      "analisis"
+    ],
+    "base_response": "El lector identifica cómo el autor proyecta futuros posibles mediante avances tecnológicos, analizando intenciones comunicativas que orientan la comprensión del mensaje. Reconocer estas proyecciones permite evaluar impactos potenciales y comprender mejor la visión planteada en el texto."
+  },
+  {
+    "intent_id": "intencion_comunicativa_estructura",
+    "keywords": [
+      "intencion",
+      "mensaje",
+      "lector",
+      "analisis",
+      "comprension"
+    ],
+    "base_response": "La intención comunicativa se entiende como la estructura interna que organiza el propósito del autor. Incluye la forma en que selecciona ideas, ordena información y dirige el mensaje para influir en la interpretación del lector mediante recursos claros y coherentes."
+  },
+  {
+    "intent_id": "intencion_comunicativa_errores_comunes",
+    "keywords": [
+      "intencion",
+      "mensaje",
+      "interpretacion",
+      "lectura",
+      "confusion"
+    ],
+    "base_response": "Los estudiantes suelen confundir la intención comunicativa al centrarse solo en detalles superficiales, ignorar pistas contextuales y asumir significados sin evidencia textual. Estas fallas generan interpretaciones erróneas que dificultan comprender el propósito real del autor y afectan la coherencia lectora."
+  },
+  {
+    "intent_id": "intencion_comunicativa_historia_origen_evolucion",
+    "keywords": [
+      "intencion",
+      "comunicacion",
+      "lectura",
+      "origen",
+      "evolucion"
+    ],
+    "base_response": "La intencion comunicativa en la lectura surgio con las primeras formas de escritura, evoluciono mediante tradiciones narrativas y se fortalecio con la imprenta. Su desarrollo permitio comprender propositos diversos, desde informar hasta persuadir, consolidando habilidades lectoras esenciales."
+  },
+  {
+    "intent_id": "intencion_comunicativa_contexto_ecologico",
+    "keywords": [
+      "intencion",
+      "lectura",
+      "contexto",
+      "entorno",
+      "mensaje"
+    ],
+    "base_response": "La intención comunicativa se comprende analizando cómo el contexto y el entorno ecológico influyen en el significado del texto. El lector identifica propósito, tono y situación para interpretar adecuadamente el mensaje y relacionarlo con experiencias reales que enriquecen la comprensión."
+  },
+  {
+    "intent_id": "intencion_comunicativa_aplicaciones_reales",
+    "keywords": [
+      "intencion",
+      "mensaje",
+      "lector",
+      "comprension",
+      "analisis"
+    ],
+    "base_response": "La intencion comunicativa permite reconocer propositos reales al leer, como identificar instrucciones en recetas, comprender avisos escolares o interpretar mensajes digitales. Aplicar esta habilidad mejora decisiones cotidianas y fortalece la capacidad de responder adecuadamente a distintos tipos de textos."
+  },
+  {
+    "intent_id": "comprension_lectora_intencion_comunicativa_importancia_impacto_social",
+    "keywords": [
+      "intencion",
+      "mensaje",
+      "lectura",
+      "analisis",
+      "comprension"
+    ],
+    "base_response": "Comprender la intención comunicativa permite reconocer cómo un texto influye en la sociedad, orienta decisiones y fortalece la participación informada. Analizar este propósito ayuda a identificar mensajes relevantes, evaluar su impacto y desarrollar una lectura crítica esencial para la convivencia democrática."
+  },
+  {
+    "intent_id": "intencion_comunicativa_ventajas_desventajas",
+    "keywords": [
+      "intencion",
+      "mensaje",
+      "analisis",
+      "comparacion",
+      "lectura"
+    ],
+    "base_response": "La intención comunicativa permite comparar cómo distintos textos buscan informar, persuadir o entretener. Analizar ventajas y desventajas ayuda a reconocer qué tipo de mensaje resulta más claro, útil o convincente según el propósito lector y las necesidades de comprensión del estudiante."
+  },
+  {
+    "intent_id": "comprension_lectora_intencion_comunicativa_riesgos_seguridad",
+    "keywords": [
+      "lectura",
+      "intencion",
+      "mensaje",
+      "riesgo",
+      "seguridad"
+    ],
+    "base_response": "La identificación de la intención comunicativa permite reconocer riesgos en textos que buscan manipular, confundir o persuadir sin claridad. Analizar el propósito del mensaje ayuda a tomar decisiones seguras, evitar engaños y proteger la información personal durante la lectura."
+  },
+  {
+    "intent_id": "intencion_comunicativa_clasificacion_taxonomica",
+    "keywords": [
+      "intencion",
+      "mensaje",
+      "autor",
+      "clasificacion",
+      "lectura"
+    ],
+    "base_response": "La intención comunicativa se identifica clasificando el propósito del autor según categorías como informar, persuadir o entretener. Esta clasificación taxonómica permite reconocer cómo se organiza el mensaje y facilita comprender la función que cumple el texto dentro de la lectura."
+  },
+  {
+    "intent_id": "comprension_lectora_intencion_comunicativa_mitos",
+    "keywords": [
+      "intencion",
+      "mensaje",
+      "interpretacion",
+      "lectura",
+      "autor"
+    ],
+    "base_response": "Muchos estudiantes creen que la intención comunicativa siempre es explícita, pero suele requerir análisis. También existe la idea errónea de que solo hay una interpretación válida. Comprender la intención implica reconocer matices, propósitos y efectos buscados por el autor."
+  },
+  {
+    "intent_id": "intencion_comunicativa_relacion_simbiotica",
+    "keywords": [
+      "intencion",
+      "lectura",
+      "mensaje",
+      "contexto",
+      "interpretacion"
+    ],
+    "base_response": "La intención comunicativa se fortalece cuando el lector reconoce cómo el texto interactúa simbióticamente con otros sistemas, como imágenes, símbolos o referencias culturales. Esta relación amplía el significado y permite comprender con mayor profundidad el propósito del autor."
+  },
+  {
+    "intent_id": "intencion_comunicativa_experimentos_escolares",
+    "keywords": [
+      "intencion",
+      "lectura",
+      "experimento",
+      "comprension",
+      "procedimiento"
+    ],
+    "base_response": "La intención comunicativa en textos de experimentos escolares busca guiar acciones precisas mediante instrucciones claras. El lector identifica propósito, pasos y resultados esperados para comprender cómo ejecutar procedimientos y verificar conclusiones dentro de una demostración científica sencilla y estructurada."
+  },
+  {
+    "intent_id": "intencion_comunicativa_consecuencias_largo_plazo",
+    "keywords": [
+      "intencion",
+      "mensaje",
+      "lector",
+      "interpretacion",
+      "comprension"
+    ],
+    "base_response": "Comprender la intención comunicativa permite anticipar efectos duraderos en la interpretación del lector, fortaleciendo su capacidad para evaluar mensajes y tomar decisiones informadas. Esta habilidad favorece una lectura crítica que impacta positivamente el aprendizaje futuro y la autonomía intelectual."
+  },
+  {
+    "intent_id": "comprension_lectora_intencion_impacto_ambiental",
+    "keywords": [
+      "intencion",
+      "lectura",
+      "impacto",
+      "ambiente",
+      "analisis"
+    ],
+    "base_response": "La intención comunicativa en textos sobre impacto ambiental busca orientar al lector hacia la reflexión crítica sobre las consecuencias ecológicas. Comprender esta intención permite identificar mensajes clave, evaluar acciones humanas y reconocer propuestas que promueven prácticas responsables para proteger el entorno."
+  },
+  {
+    "intent_id": "intencion_comunicativa_mantenimiento_prevencion",
+    "keywords": [
+      "intencion",
+      "mensaje",
+      "comprension",
+      "lectura",
+      "analisis"
+    ],
+    "base_response": "La intención comunicativa se mantiene cuando el lector identifica el propósito del texto y previene confusiones mediante la verificación constante del mensaje. Este proceso fortalece la comprensión y permite ajustar interpretaciones para asegurar una lectura coherente y significativa."
+  },
+  {
+    "intent_id": "comprension_lectora_intencion_comunicativa_tecnologia_futura",
+    "keywords": [
+      "lectura",
+      "intencion",
+      "mensaje",
+      "proyeccion",
+      "tecnologia"
+    ],
+    "base_response": "La intencion comunicativa en lecturas sobre tecnologia futura permite anticipar propositos del autor al describir innovaciones y sus impactos. El lector identifica objetivos informativos o persuasivos para comprender mejor tendencias emergentes y valorar posibles cambios sociales derivados del avance digital."
+  },
+  {
+    "intent_id": "comprension_publico_objetivo_estructura",
+    "keywords": [
+      "publico",
+      "objetivo",
+      "texto",
+      "analisis",
+      "lectura"
+    ],
+    "base_response": "El público objetivo es la categoría de lectores a quienes se dirige un texto. Su estructura se define por características como edad, intereses y conocimientos previos, que orientan el contenido y el lenguaje para asegurar una comprensión adecuada y una comunicación efectiva."
+  },
+  {
+    "intent_id": "comprension_lectora_publico_objetivo_errores",
+    "keywords": [
+      "publico",
+      "texto",
+      "lectura",
+      "interpretacion",
+      "confusion"
+    ],
+    "base_response": "Los estudiantes suelen confundir el público objetivo con sus propios intereses, interpretar de forma literal señales contextuales y asumir que todo texto se dirige a lectores generales. También omiten analizar tono, propósito y nivel de complejidad, generando conclusiones imprecisas sobre la audiencia prevista."
+  },
+  {
+    "intent_id": "comprension_lectora_publico_objetivo_historia_origen_evolucion",
+    "keywords": [
+      "publico",
+      "texto",
+      "historia",
+      "origen",
+      "evolucion",
+      "lectura"
+    ],
+    "base_response": "El concepto de público objetivo surgió cuando los textos comenzaron a adaptarse a grupos específicos. Su origen se vincula con la necesidad de comunicar con claridad y su evolución muestra cómo los autores ajustan contenido según intereses, edad y contexto lector."
+  },
+  {
+    "intent_id": "comprension_lectora_publico_objetivo_contexto_ecologico",
+    "keywords": [
+      "publico",
+      "contexto",
+      "entorno",
+      "lectura",
+      "analisis"
+    ],
+    "base_response": "El análisis del público objetivo requiere reconocer cómo el contexto y el entorno ecológico influyen en la comprensión del texto. Identificar elementos culturales, sociales y ambientales permite ajustar la interpretación y comprender mejor las intenciones comunicativas del autor."
+  },
+  {
+    "intent_id": "comprension_lectora_publico_objetivo_aplicaciones",
+    "keywords": [
+      "publico",
+      "texto",
+      "lectura",
+      "analisis",
+      "comprension"
+    ],
+    "base_response": "Identificar el público objetivo permite adaptar la lectura a necesidades reales, como elegir instrucciones adecuadas, comprender mensajes informativos y evaluar si un texto es útil para una situación concreta. Esta habilidad mejora decisiones cotidianas y fortalece la comunicación efectiva."
+  },
+  {
+    "intent_id": "comprension_lectora_publico_objetivo_importancia_impacto_social",
+    "keywords": [
+      "publico",
+      "texto",
+      "impacto",
+      "lectura",
+      "analisis"
+    ],
+    "base_response": "Comprender el público objetivo permite evaluar cómo un texto influye en distintos grupos sociales y orienta su impacto comunicativo. Esta identificación favorece lecturas críticas que reconocen necesidades, intereses y efectos sociales, fortaleciendo la responsabilidad al producir y compartir información."
+  },
+  {
+    "intent_id": "lenguaje_comprension_lectora_publico_objetivo_ventajas_desventajas",
+    "keywords": [
+      "publico",
+      "objetivo",
+      "analisis",
+      "comparacion",
+      "ventaja",
+      "desventaja"
+    ],
+    "base_response": "Analizar el público objetivo de un texto permite comparar ventajas y desventajas según edad, intereses y necesidades lectoras. Esta evaluación ayuda a ajustar el mensaje, mejorar la claridad y seleccionar estrategias que fortalezcan la comprensión lectora en distintos contextos."
+  },
+  {
+    "intent_id": "comprension_lectora_publico_objetivo_riesgos_seguridad",
+    "keywords": [
+      "publico",
+      "texto",
+      "riesgo",
+      "seguridad",
+      "analisis"
+    ],
+    "base_response": "El lector debe identificar si el texto presenta riesgos al dirigirse a un público específico y evaluar medidas de seguridad necesarias. Analizar la intención comunicativa permite reconocer advertencias, límites de uso y precauciones que protegen a los destinatarios del contenido."
+  },
+  {
+    "intent_id": "comprension_publico_objetivo_clasificacion_taxonomica",
+    "keywords": [
+      "publico",
+      "texto",
+      "clasificacion",
+      "lector",
+      "analisis"
+    ],
+    "base_response": "La clasificación taxonómica del público objetivo permite organizar grupos de lectores según edad, intereses y necesidades. Esta identificación facilita comprender cómo un texto adapta su lenguaje, contenido y propósito para conectar eficazmente con quienes lo leen."
+  },
+  {
+    "intent_id": "comprension_lectora_publico_objetivo_mitos",
+    "keywords": [
+      "publico",
+      "texto",
+      "lectura",
+      "interpretacion",
+      "autor"
+    ],
+    "base_response": "Muchos estudiantes creen que el público objetivo siempre coincide con su propia edad o intereses, pero el autor puede dirigirse a grupos distintos. También se piensa que el público se identifica solo por el tema, cuando en realidad depende del propósito comunicativo y del nivel de complejidad."
+  },
+  {
+    "intent_id": "comprension_lectora_publico_objetivo_relacion_simbiotica",
+    "keywords": [
+      "publico",
+      "texto",
+      "lectura",
+      "interpretacion",
+      "conexion"
+    ],
+    "base_response": "El público objetivo influye en cómo un texto organiza ideas y selecciona lenguaje, creando una relación simbiótica con sistemas comunicativos. Comprender esta interacción permite identificar intenciones, ajustar interpretaciones y reconocer cómo el mensaje se adapta para lograr mayor claridad y efecto educativo."
+  },
+  {
+    "intent_id": "comprension_lectora_publico_objetivo_experimentos",
+    "keywords": [
+      "publico",
+      "texto",
+      "experimento",
+      "lectura",
+      "analisis"
+    ],
+    "base_response": "Identificar el público objetivo en textos sobre experimentos escolares permite comprender a quién se dirige la explicación y qué nivel de detalle requiere. Analizar edad, intereses y contexto ayuda a interpretar instrucciones, propósitos y resultados presentados en actividades científicas educativas."
+  },
+  {
+    "intent_id": "comprension_lectora_publico_objetivo_consecuencias_largo_plazo",
+    "keywords": [
+      "lectura",
+      "publico",
+      "analisis",
+      "interpretacion",
+      "impacto"
+    ],
+    "base_response": "Comprender el público objetivo de un texto permite anticipar cómo sus mensajes influirán en distintos grupos a largo plazo. Esta habilidad ayuda a evaluar efectos sociales, culturales o educativos que pueden surgir cuando ciertos lectores adoptan ideas, valores o comportamientos promovidos por el contenido."
+  },
+  {
+    "intent_id": "comprension_lectora_impacto_ambiental_publico_texto",
+    "keywords": [
+      "publico",
+      "texto",
+      "impacto",
+      "ambiente",
+      "analisis"
+    ],
+    "base_response": "El público objetivo de un texto sobre impacto ambiental se identifica analizando quién necesita comprender las consecuencias ecológicas descritas. Reconocer este grupo permite ajustar la interpretación y valorar cómo el mensaje busca generar conciencia y promover acciones responsables."
+  },
+  {
+    "intent_id": "comprension_lectora_publico_objetivo_mantenimiento_prevencion",
+    "keywords": [
+      "lector",
+      "texto",
+      "analisis",
+      "proposito",
+      "comprension"
+    ],
+    "base_response": "Identificar el público objetivo permite mantener una lectura enfocada y prevenir confusiones. Al reconocer para quién fue escrito el texto, el estudiante ajusta su interpretación y evita errores comunes, fortaleciendo así su comprensión y la coherencia de sus conclusiones."
+  },
+  {
+    "intent_id": "comprension_lectora_proyecciones_futuras_tecnologia",
+    "keywords": [
+      "publico",
+      "texto",
+      "proyeccion",
+      "tecnologia",
+      "lectura"
+    ],
+    "base_response": "El análisis del público objetivo exige anticipar cómo la tecnología transformará intereses y necesidades lectoras. Comprender estas proyecciones permite interpretar mejor la intención del texto y ajustar la lectura hacia futuros escenarios digitales y comunicativos."
+  },
+  {
+    "intent_id": "mensaje_implicito_definicion_estructural",
+    "keywords": [
+      "mensaje",
+      "implicito",
+      "lectura",
+      "estructura",
+      "interpretacion"
+    ],
+    "base_response": "El mensaje implícito se construye mediante pistas textuales que no se expresan de forma directa. Su estructura depende de relaciones entre ideas, contexto narrativo y acciones de personajes, permitiendo al lector inferir significados ocultos que enriquecen la comprensión profunda del texto."
+  },
+  {
+    "intent_id": "mensaje_implicito_dinamica_funcionamiento_fisico",
+    "keywords": [
+      "mensaje",
+      "implicito",
+      "lectura",
+      "interpretacion",
+      "contexto"
+    ],
+    "base_response": "El mensaje implícito surge cuando el lector identifica señales físicas en la dinámica del relato, como acciones, gestos o movimientos que revelan significados ocultos. Analizar estos elementos permite comprender intenciones no dichas y profundizar en la interpretación del texto."
+  },
+  {
+    "intent_id": "comprension_lectora_mensaje_implicito_errores_comunes",
+    "keywords": [
+      "mensaje",
+      "implicito",
+      "interpretacion",
+      "lectura",
+      "error",
+      "comprension"
+    ],
+    "base_response": "Los estudiantes suelen confundir el mensaje implícito con detalles superficiales, ignorar pistas contextuales y asumir significados sin evidencia textual. Estas fallas generan interpretaciones erróneas que dificultan comprender intenciones, emociones y relaciones ocultas presentes en la lectura."
+  },
+  {
+    "intent_id": "mensaje_implicito_historia_origen_evolucion",
+    "keywords": [
+      "mensaje",
+      "implicito",
+      "lectura",
+      "interpretacion",
+      "contexto"
+    ],
+    "base_response": "El mensaje implícito surgió con las primeras narraciones orales, donde significados ocultos guiaban la comprensión. Con la escritura, evolucionó para transmitir ideas profundas mediante símbolos y metáforas. Su desarrollo fortaleció la capacidad lectora al exigir análisis contextual y deducción interpretativa."
+  },
+  {
+    "intent_id": "mensaje_implicito_contexto_ecologico",
+    "keywords": [
+      "mensaje",
+      "contexto",
+      "entorno",
+      "lectura",
+      "interpretacion"
+    ],
+    "base_response": "El mensaje implícito surge cuando el lector analiza cómo el entorno ecológico influye en las acciones y emociones de los personajes. Comprender elementos naturales y sociales permite identificar significados ocultos que enriquecen la interpretación y fortalecen la comprensión profunda del texto."
+  },
+  {
+    "intent_id": "mensaje_implicito_aplicaciones_practicas",
+    "keywords": [
+      "mensaje",
+      "implicito",
+      "lectura",
+      "interpretacion",
+      "contexto"
+    ],
+    "base_response": "Comprender el mensaje implícito permite interpretar intenciones ocultas en conversaciones, anuncios y redes sociales. Esta habilidad ayuda a detectar señales sutiles, evitar malentendidos y tomar decisiones informadas al analizar situaciones cotidianas que no siempre expresan todo de manera directa."
+  },
+  {
+    "intent_id": "mensaje_implicito_importancia_impacto_social",
+    "keywords": [
+      "mensaje",
+      "implicito",
+      "lectura",
+      "interpretacion",
+      "impacto",
+      "sociedad"
+    ],
+    "base_response": "El mensaje implícito en una lectura influye en cómo las personas comprenden realidades sociales, desarrollan empatía y cuestionan injusticias. Analizarlo permite reconocer intenciones ocultas, fortalecer el pensamiento crítico y comprender cómo los textos moldean opiniones y comportamientos colectivos."
+  },
+  {
+    "intent_id": "mensaje_implicito_ventajas_desventajas",
+    "keywords": [
+      "mensaje",
+      "implicito",
+      "lectura",
+      "comparacion",
+      "analisis"
+    ],
+    "base_response": "El mensaje implícito permite comparar ventajas y desventajas al revelar significados ocultos que enriquecen la interpretación. Analizar estas diferencias ayuda a comprender intenciones, matices y efectos del texto, fortaleciendo la lectura crítica y la toma de decisiones informadas."
+  },
+  {
+    "intent_id": "comprension_lectora_mensaje_implicito_riesgos_seguridad",
+    "keywords": [
+      "mensaje",
+      "implicito",
+      "lectura",
+      "riesgo",
+      "seguridad"
+    ],
+    "base_response": "El mensaje implícito en un texto puede advertir sobre riesgos y medidas de seguridad. El lector debe identificar señales ocultas que alertan sobre peligros, evaluar consecuencias posibles y aplicar acciones preventivas para protegerse adecuadamente en diversas situaciones cotidianas."
+  },
+  {
+    "intent_id": "comprension_lectora_mensaje_implicito_clasificacion_taxonomica",
+    "keywords": [
+      "mensaje",
+      "implicito",
+      "lectura",
+      "inferencias",
+      "analisis"
+    ],
+    "base_response": "La clasificación taxonómica del mensaje implícito permite organizar inferencias según su complejidad. El estudiante identifica relaciones ocultas, jerarquiza pistas textuales y distingue niveles de interpretación para comprender cómo se estructura el significado no declarado dentro de una lectura narrativa o informativa."
+  },
+  {
+    "intent_id": "mensaje_implicito_mitos_concepciones_erroneas",
+    "keywords": [
+      "mensaje",
+      "implicito",
+      "lectura",
+      "interpretacion",
+      "comprension"
+    ],
+    "base_response": "Muchos estudiantes creen que el mensaje implícito siempre coincide con su opinión personal, pero este surge de pistas textuales objetivas. También es falso pensar que solo aparece en textos complejos; incluso relatos simples contienen significados no dichos que requieren análisis cuidadoso."
+  },
+  {
+    "intent_id": "mensaje_implicito_relacion_simbiotica",
+    "keywords": [
+      "mensaje",
+      "implicito",
+      "lectura",
+      "simbolismo",
+      "interpretacion"
+    ],
+    "base_response": "El mensaje implícito surge cuando el lector identifica cómo elementos del texto interactúan simbióticamente con otros sistemas narrativos, culturales o emocionales. Esta relación permite comprender significados ocultos que fortalecen la interpretación profunda y enriquecen la experiencia lectora."
+  },
+  {
+    "intent_id": "comprension_mensaje_implicito_transformacion_ciclos_energeticos",
+    "keywords": [
+      "mensaje",
+      "implicito",
+      "transformacion",
+      "energia",
+      "ciclo",
+      "interpretacion"
+    ],
+    "base_response": "El mensaje implícito surge cuando el lector identifica cómo un texto representa procesos de transformación y ciclos energéticos mediante acciones, cambios y consecuencias. Analizar estas relaciones permite comprender significados profundos que no aparecen explícitos pero orientan la interpretación global del contenido."
+  },
+  {
+    "intent_id": "mensaje_implicito_experimentos_demostraciones",
+    "keywords": [
+      "mensaje",
+      "implicito",
+      "lectura",
+      "inferencias",
+      "analisis"
+    ],
+    "base_response": "El mensaje implícito se identifica mediante inferencias guiadas. Un experimento escolar útil consiste en comparar textos breves y observar cómo pistas ocultas modifican la interpretación. Los estudiantes analizan evidencias, formulan hipótesis y comprueban conclusiones para fortalecer su comprensión lectora."
+  },
+  {
+    "intent_id": "mensaje_implicito_consecuencias_largo_plazo",
+    "keywords": [
+      "mensaje",
+      "implicito",
+      "lectura",
+      "analisis",
+      "consecuencia",
+      "interpretacion"
+    ],
+    "base_response": "El mensaje implícito en una lectura puede anticipar consecuencias a largo plazo que afectan decisiones futuras. Comprender estas señales permite evaluar riesgos, prever cambios y desarrollar pensamiento crítico. Analizar implicaciones ocultas fortalece la capacidad de interpretar situaciones complejas y actuar con mayor responsabilidad."
+  },
+  {
+    "intent_id": "comprension_lectora_mensaje_implicito_impacto_ambiental",
+    "keywords": [
+      "lectura",
+      "mensaje",
+      "impacto",
+      "ambiente",
+      "interpretacion"
+    ],
+    "base_response": "El mensaje implícito sobre impacto ambiental surge al analizar cómo las acciones humanas descritas afectan la naturaleza. Identificar estas señales permite comprender consecuencias no mencionadas directamente y evaluar la responsabilidad ecológica presente en la lectura."
+  },
+  {
+    "intent_id": "mensaje_implicito_proyecciones_futuras_tecnologia",
+    "keywords": [
+      "mensaje",
+      "implicito",
+      "proyeccion",
+      "futuro",
+      "tecnologia",
+      "lectura"
+    ],
+    "base_response": "El mensaje implícito en textos sobre tecnología futura exige analizar pistas que anticipan cambios sociales. El lector debe inferir consecuencias posibles, evaluar riesgos y oportunidades, y relacionar innovaciones con transformaciones cotidianas para comprender cómo podrían influir en su vida."
+  },
+  {
+    "intent_id": "comprension_lectora_informacion_explicita_estructura",
+    "keywords": [
+      "informacion",
+      "texto",
+      "lectura",
+      "identificacion",
+      "contenido"
+    ],
+    "base_response": "La información explícita se reconoce mediante la observación directa de la estructura textual, identificando datos claramente expresados sin necesidad de inferencias. El lector analiza oraciones y párrafos para ubicar hechos, descripciones y detalles que el autor presenta de manera evidente y verificable."
+  },
+  {
+    "intent_id": "comprension_lectora_informacion_explicita_errores_comunes",
+    "keywords": [
+      "lectura",
+      "texto",
+      "informacion",
+      "error",
+      "comprension",
+      "interpretacion"
+    ],
+    "base_response": "Los estudiantes suelen confundir datos explícitos con inferencias, omitir detalles relevantes y seleccionar información irrelevante. También interpretan frases literalmente sin considerar el contexto, lo que provoca respuestas incorrectas y dificulta la identificación precisa de elementos claramente presentes en el texto."
+  },
+  {
+    "intent_id": "comprension_lectora_informacion_explicita_historia",
+    "keywords": [
+      "lectura",
+      "texto",
+      "informacion",
+      "analisis",
+      "comprension"
+    ],
+    "base_response": "La identificación de información explicita tiene origen en las primeras prácticas de lectura escolar, evolucionando desde ejercicios basicos de reconocimiento hasta estrategias sistematicas que permiten ubicar datos claros en textos narrativos e informativos, fortaleciendo la comprensión literal en estudiantes."
+  },
+  {
+    "intent_id": "comprension_lectora_contexto_ecologico_informacion_texto",
+    "keywords": [
+      "informacion",
+      "texto",
+      "contexto",
+      "entorno",
+      "lectura"
+    ],
+    "base_response": "La información explícita permite identificar datos claros sobre el contexto ecológico descrito en un texto. El estudiante debe reconocer elementos ambientales, relaciones entre seres vivos y condiciones del entorno para comprender cómo influyen directamente en la situación presentada."
+  },
+  {
+    "intent_id": "comprension_lectora_informacion_explicita_aplicaciones",
+    "keywords": [
+      "lectura",
+      "informacion",
+      "analisis",
+      "comprension",
+      "texto"
+    ],
+    "base_response": "La identificación de información explícita permite resolver situaciones reales como seguir instrucciones precisas, comprender avisos públicos y verificar datos en documentos. Practicar esta habilidad mejora decisiones cotidianas basadas en hechos claramente expresados en textos diversos."
+  },
+  {
+    "intent_id": "comprension_lectora_informacion_explicita_importancia_impacto_social",
+    "keywords": [
+      "informacion",
+      "texto",
+      "lectura",
+      "analisis",
+      "comprension"
+    ],
+    "base_response": "La identificación de información explicita permite comprender hechos esenciales y evaluar su impacto social. Al reconocer datos directos, los estudiantes fortalecen su capacidad para interpretar situaciones reales, participar informadamente en su comunidad y desarrollar pensamiento critico que favorece decisiones responsables."
+  },
+  {
+    "intent_id": "comprension_lectora_informacion_explicita_ventajas_desventajas",
+    "keywords": [
+      "informacion",
+      "texto",
+      "analisis",
+      "comparacion",
+      "lectura"
+    ],
+    "base_response": "La identificación de información explicita permite comparar datos concretos y reconocer ventajas y desventajas entre elementos del texto. Este proceso fortalece la comprensión al distinguir hechos relevantes, evaluar diferencias y tomar decisiones basadas en evidencia claramente presentada."
+  },
+  {
+    "intent_id": "comprension_lectora_riesgos_medidas_seguridad_riesgo_seguridad",
+    "keywords": [
+      "riesgo",
+      "seguridad",
+      "texto",
+      "informacion",
+      "identificacion"
+    ],
+    "base_response": "La comprensión de información explícita sobre riesgos y medidas de seguridad exige identificar datos directos del texto que advierten peligros y describen acciones preventivas. El estudiante debe reconocer señales claras, instrucciones precisas y consecuencias mencionadas para aplicar conductas seguras."
+  },
+  {
+    "intent_id": "comprension_lectora_clasificacion_taxonomica_informacion_texto",
+    "keywords": [
+      "informacion",
+      "texto",
+      "clasificacion",
+      "categoria",
+      "lectura"
+    ],
+    "base_response": "La clasificación taxonomica permite organizar información explicita del texto en categorias precisas. El estudiante identifica elementos clave y los agrupa segun sus rasgos comunes para comprender mejor la estructura informativa. Esta habilidad fortalece la interpretación y el análisis de contenidos escritos."
+  },
+  {
+    "intent_id": "comprension_lectora_mitos_informacion_explicita",
+    "keywords": [
+      "lectura",
+      "texto",
+      "informacion",
+      "interpretacion",
+      "comprension"
+    ],
+    "base_response": "Muchos estudiantes creen que la información explícita siempre es obvia, pero suele requerir atención cuidadosa. También existe la idea errónea de que todo está dicho literalmente, cuando algunos datos aparecen dispersos y deben reunirse para comprender con precisión el contenido presentado."
+  },
+  {
+    "intent_id": "comprension_lectora_transformacion_ciclos_energeticos_energia_transformacion",
+    "keywords": [
+      "energia",
+      "transformacion",
+      "ciclo",
+      "texto",
+      "analisis"
+    ],
+    "base_response": "El lector identifica información explícita sobre cómo la energía cambia de forma y circula en distintos procesos naturales. Reconoce datos clave del texto para comprender cada etapa del ciclo energético y relaciona estas transformaciones con situaciones concretas descritas claramente."
+  },
+  {
+    "intent_id": "comprension_lectora_informacion_explicita_experimentos_escolares",
+    "keywords": [
+      "experimento",
+      "descripcion",
+      "resultado",
+      "observacion",
+      "interpretacion"
+    ],
+    "base_response": "La información explícita en experimentos escolares se identifica leyendo atentamente las acciones realizadas, los materiales usados y los resultados observados. El estudiante debe reconocer datos directos que describen procedimientos y conclusiones sin inferencias adicionales, fortaleciendo su comprensión literal del texto presentado."
+  },
+  {
+    "intent_id": "comprension_lectora_consecuencias_largo_plazo_lectura_texto_informacion",
+    "keywords": [
+      "lectura",
+      "texto",
+      "informacion",
+      "analisis",
+      "consecuencia"
+    ],
+    "base_response": "La identificación de información explicita permite anticipar consecuencias a largo plazo, fortaleciendo la comprensión profunda del texto. Al reconocer datos claros, el estudiante proyecta efectos futuros y desarrolla habilidades para interpretar situaciones complejas con mayor precision y responsabilidad."
+  },
+  {
+    "intent_id": "comprension_lectora_impacto_ambiental_informacion_texto",
+    "keywords": [
+      "informacion",
+      "texto",
+      "lectura",
+      "impacto",
+      "ambiente"
+    ],
+    "base_response": "La información explícita sobre impacto ambiental se identifica leyendo datos directos del texto. El estudiante debe reconocer acciones humanas, consecuencias ecológicas y evidencias claras que describen efectos en el entorno sin interpretar más allá de lo señalado por el autor."
+  },
+  {
+    "intent_id": "comprension_lectora_proyecciones_tecnologia_informacion_texto",
+    "keywords": [
+      "informacion",
+      "texto",
+      "proyeccion",
+      "tecnologia",
+      "analisis"
+    ],
+    "base_response": "El lector identifica información explícita para comprender cómo un texto describe avances tecnológicos y posibles escenarios futuros. Esta habilidad permite reconocer datos directos que orientan la interpretación de cambios científicos y su impacto en la vida cotidiana, fortaleciendo la lectura crítica."
+  },
+  {
+    "intent_id": "tema_central_lectura_definicion_estructural",
+    "keywords": [
+      "idea",
+      "principal",
+      "texto",
+      "analisis",
+      "lectura"
+    ],
+    "base_response": "El tema central de una lectura es la idea esencial que organiza el contenido y orienta la comprensión. Se identifica analizando repetición de conceptos, relaciones entre partes y propósito comunicativo del autor, permitiendo construir una interpretación coherente del texto."
+  },
+  {
+    "intent_id": "tema_central_lectura_errores_comunes",
+    "keywords": [
+      "tema",
+      "central",
+      "lectura",
+      "confusion",
+      "interpretacion",
+      "comprension"
+    ],
+    "base_response": "Los estudiantes suelen confundir detalles secundarios con el tema central, interpretar ideas aisladas como núcleo del texto y depender de palabras llamativas sin analizar su función. Estas fallas dificultan identificar la intención del autor y generan conclusiones imprecisas."
+  },
+  {
+    "intent_id": "tema_central_lectura_historia_origen_evolucion",
+    "keywords": [
+      "tema",
+      "central",
+      "lectura",
+      "analisis",
+      "comprension"
+    ],
+    "base_response": "El estudio del tema central surgió para identificar la idea esencial en relatos antiguos. Con el tiempo evolucionó hacia métodos sistemáticos que permiten reconocer la intención del autor y organizar la información clave, fortaleciendo la comprensión lectora en diversos contextos educativos."
+  },
+  {
+    "intent_id": "tema_central_lectura_contexto_ecologico",
+    "keywords": [
+      "tema",
+      "contexto",
+      "entorno",
+      "lectura",
+      "analisis"
+    ],
+    "base_response": "El tema central de una lectura se identifica considerando cómo el entorno ecológico influye en los personajes, sus decisiones y los eventos clave. Analizar elementos naturales, sociales y culturales permite comprender mejor el mensaje principal y la relación entre ambiente y narrativa."
+  },
+  {
+    "intent_id": "tema_central_lectura_aplicaciones_practicas",
+    "keywords": [
+      "idea",
+      "principal",
+      "texto",
+      "analisis",
+      "lectura"
+    ],
+    "base_response": "Identificar el tema central permite aplicar la lectura en situaciones reales, como comprender instrucciones, evaluar mensajes publicitarios y reconocer intenciones en conversaciones. Esta habilidad fortalece el pensamiento crítico y facilita decisiones informadas en contextos cotidianos."
+  },
+  {
+    "intent_id": "tema_central_importancia_impacto_social",
+    "keywords": [
+      "tema",
+      "central",
+      "lectura",
+      "analisis",
+      "impacto",
+      "sociedad"
+    ],
+    "base_response": "El tema central de una lectura permite comprender cómo las ideas principales influyen en la sociedad. Analizar su importancia ayuda a reconocer efectos culturales, sociales y educativos que transforman comportamientos y fortalecen la participación crítica de los lectores en su entorno."
+  },
+  {
+    "intent_id": "tema_central_comparacion_ventajas_desventajas",
+    "keywords": [
+      "tema",
+      "central",
+      "texto",
+      "analisis",
+      "comparacion"
+    ],
+    "base_response": "Identificar el tema central permite comparar ventajas y desventajas del contenido, evaluando cómo cada idea contribuye al mensaje principal. Esta habilidad ayuda a distinguir información relevante, reconocer matices y comprender mejor la intención del autor dentro del texto."
+  },
+  {
+    "intent_id": "tema_central_lectura_riesgos_seguridad",
+    "keywords": [
+      "tema",
+      "central",
+      "lectura",
+      "riesgo",
+      "seguridad",
+      "analisis"
+    ],
+    "base_response": "El tema central de una lectura sobre riesgos y medidas de seguridad se identifica analizando las acciones que previenen daños y las consecuencias posibles. Comprender este enfoque permite reconocer ideas esenciales y relacionarlas con situaciones cotidianas que requieren protección responsable."
+  },
+  {
+    "intent_id": "tema_central_lectura_clasificacion_taxonomica",
+    "keywords": [
+      "tema",
+      "concepto",
+      "clasificacion",
+      "texto",
+      "analisis"
+    ],
+    "base_response": "El tema central de una lectura se identifica clasificando las ideas según su relevancia y función. Esta clasificación taxonómica organiza conceptos principales y secundarios, permitiendo reconocer la estructura lógica del texto y comprender con precisión su propósito comunicativo."
+  },
+  {
+    "intent_id": "tema_central_lectura_mitos_concepciones_erroneas",
+    "keywords": [
+      "tema",
+      "central",
+      "lectura",
+      "interpretacion",
+      "comprension"
+    ],
+    "base_response": "Muchos estudiantes creen que el tema central es solo un resumen del texto, pero en realidad requiere identificar la idea esencial que une todos los detalles. Otro mito frecuente es pensar que el tema siempre aparece explícito, cuando suele estar implícito y exige análisis cuidadoso."
+  },
+  {
+    "intent_id": "tema_central_relacion_simbiotica_sistemas",
+    "keywords": [
+      "tema",
+      "central",
+      "texto",
+      "relacion",
+      "sistema",
+      "comprension"
+    ],
+    "base_response": "El tema central de una lectura se fortalece mediante su relación simbiótica con otros sistemas narrativos, como personajes, ambiente y conflicto. Estos elementos colaboran para construir significado, profundizar ideas y guiar al lector hacia una interpretación coherente y completa del texto."
+  },
+  {
+    "intent_id": "tema_central_transformacion_ciclos_energeticos",
+    "keywords": [
+      "tema",
+      "central",
+      "transformacion",
+      "energia",
+      "ciclo",
+      "lectura"
+    ],
+    "base_response": "El tema central se identifica analizando cómo un texto describe procesos de transformación y ciclos energéticos presentes en la naturaleza. El lector debe reconocer cambios, relaciones y efectos para comprender la idea principal y conectar la información con fenómenos reales."
+  },
+  {
+    "intent_id": "tema_central_lectura_experimentos_demostraciones",
+    "keywords": [
+      "tema",
+      "lectura",
+      "experimento",
+      "demostracion",
+      "analisis"
+    ],
+    "base_response": "El tema central en lecturas sobre experimentos escolares se identifica observando el propósito del procedimiento, la relación entre pasos y resultados, y la conclusión presentada. Analizar estos elementos permite comprender la intención del texto y distinguir información esencial de detalles secundarios."
+  },
+  {
+    "intent_id": "tema_central_consecuencias_largo_plazo",
+    "keywords": [
+      "tema",
+      "central",
+      "lectura",
+      "analisis",
+      "consecuencia",
+      "interpretacion"
+    ],
+    "base_response": "El análisis del tema central permite anticipar consecuencias a largo plazo dentro de una lectura. Comprender cómo las acciones de los personajes generan efectos futuros ayuda a desarrollar una interpretación profunda y a relacionar el contenido con situaciones reales que evolucionan con el tiempo."
+  },
+  {
+    "intent_id": "tema_central_impacto_ambiental",
+    "keywords": [
+      "tema",
+      "impacto",
+      "ambiente",
+      "analisis",
+      "comprension"
+    ],
+    "base_response": "El lector identifica el tema central relacionando las ideas clave del texto con el impacto ambiental descrito. Esta habilidad permite reconocer cómo las acciones humanas afectan la naturaleza y comprender la intención del autor al destacar consecuencias ecológicas relevantes."
+  },
+  {
+    "intent_id": "tema_central_lectura_mantenimiento_prevencion",
+    "keywords": [
+      "idea",
+      "principal",
+      "texto",
+      "analisis",
+      "lectura",
+      "comprension"
+    ],
+    "base_response": "El mantenimiento del tema central exige revisar periódicamente la comprensión del texto y verificar que las inferencias coincidan con la información clave. La prevención implica anticipar confusiones mediante preguntas guía que aseguren la identificación constante de la idea principal durante la lectura."
+  },
+  {
+    "intent_id": "tema_central_lectura_proyecciones_futuras_tecnologia",
+    "keywords": [
+      "tema",
+      "central",
+      "lectura",
+      "proyeccion",
+      "tecnologia",
+      "analisis"
+    ],
+    "base_response": "El lector identifica el tema central analizando cómo la tecnología influye en futuros escenarios. Esta habilidad permite comprender proyecciones sobre avances digitales, cambios sociales y transformaciones cotidianas, relacionando ideas clave del texto con posibles desarrollos tecnológicos que afectarán la vida humana."
+  },
+  {
+    "intent_id": "argumento_principal_estructura_textual",
+    "keywords": [
+      "argumento",
+      "principal",
+      "texto",
+      "estructura",
+      "analisis"
+    ],
+    "base_response": "El argumento principal es la idea central que organiza el contenido del texto. Se identifica analizando cómo se conectan las partes y cómo cada párrafo aporta a un mensaje esencial. Reconocer su estructura permite comprender con precisión la intención comunicativa del autor."
+  },
+  {
+    "intent_id": "argumento_principal_errores_comunes",
+    "keywords": [
+      "argumento",
+      "texto",
+      "lectura",
+      "confusion",
+      "interpretacion"
+    ],
+    "base_response": "Los estudiantes suelen confundir detalles secundarios con el argumento principal, ignorar pistas contextuales y mezclar opiniones personales con la idea central. También presentan dificultades para diferenciar información explícita de inferencias, lo que afecta la identificación precisa del propósito del texto."
+  },
+  {
+    "intent_id": "argumento_principal_historia_origen_evolucion",
+    "keywords": [
+      "argumento",
+      "texto",
+      "lectura",
+      "analisis",
+      "comprension"
+    ],
+    "base_response": "El estudio del argumento principal surgió con las primeras prácticas de retórica, evolucionó mediante métodos de análisis textual y se consolidó en la educación moderna para ayudar a identificar la idea central y comprender cómo se organiza la información en distintos tipos de textos."
+  },
+  {
+    "intent_id": "argumento_principal_contexto_ecologico",
+    "keywords": [
+      "argumento",
+      "contexto",
+      "entorno",
+      "texto",
+      "analisis"
+    ],
+    "base_response": "El argumento principal de un texto se identifica considerando cómo el entorno ecológico influye en los hechos descritos. Analizar elementos naturales, sociales y culturales permite comprender mejor las razones que sustentan la idea central y su relación con el contexto presentado."
+  },
+  {
+    "intent_id": "argumento_principal_aplicaciones_practicas",
+    "keywords": [
+      "argumento",
+      "texto",
+      "comprension",
+      "analisis",
+      "lectura"
+    ],
+    "base_response": "Identificar el argumento principal permite aplicar la lectura en decisiones cotidianas, como evaluar instrucciones, comparar opciones y reconocer información esencial. Esta habilidad fortalece el pensamiento crítico y facilita resolver problemas reales con mayor claridad y precisión."
+  },
+  {
+    "intent_id": "argumento_principal_importancia_impacto_social",
+    "keywords": [
+      "argumento",
+      "texto",
+      "analisis",
+      "impacto",
+      "comprension"
+    ],
+    "base_response": "El argumento principal de un texto permite comprender su relevancia social al mostrar cómo una idea central influye en la comunidad. Identificarlo ayuda a evaluar consecuencias, promover reflexión crítica y reconocer cambios posibles en la vida colectiva."
+  },
+  {
+    "intent_id": "argumento_principal_ventajas_desventajas",
+    "keywords": [
+      "argumento",
+      "texto",
+      "analisis",
+      "comparacion",
+      "evaluacion"
+    ],
+    "base_response": "Identificar el argumento principal permite comparar ventajas y desventajas del contenido, evaluando cómo cada idea sostiene la postura del autor. Este análisis fortalece la comprensión crítica y ayuda a distinguir aportes relevantes frente a elementos secundarios dentro del texto."
+  }
+]
