@@ -1,0 +1,2587 @@
+[
+{
+  "intent_id": "definicion_estructura_parrafo_argumentativo",
+  "keywords": [
+    "parrafo",
+    "estructura",
+    "idea",
+    "argumento",
+    "oracion"
+  ],
+  "base_response": "Un párrafo argumentativo posee una estructura interna formada por una idea principal, oraciones de apoyo y una conclusión breve. Su organización busca defender una postura mediante razones claras y conectadas. Cada parte cumple una función precisa para sostener el argumento central."
+},
+{
+  "intent_id": "errores_parrafo_argumentativo",
+  "keywords": [
+    "parrafo",
+    "argumento",
+    "error",
+    "idea",
+    "redactar"
+  ],
+  "base_response": "Muchos párrafos argumentativos fallan por incluir ideas sin relación, repetir argumentos, usar ejemplos confusos, mezclar opiniones sin justificar y presentar conclusiones apresuradas. Evitar estos errores ayuda a construir razonamientos claros y convincentes para lectores jóvenes."
+},
+{
+  "intent_id": "historia_origen_parrafo_argumentativo",
+  "keywords": [
+    "parrafo",
+    "argumento",
+    "origen",
+    "escritura",
+    "razonar"
+  ],
+  "base_response": "El párrafo argumentativo surgió en la retórica clásica, donde se enseñaba a razonar y convencer mediante ideas organizadas. Con el tiempo evolucionó en la escritura escolar para ayudar a presentar posturas claras, justificar opiniones y desarrollar pensamiento crítico en textos breves y estructurados."
+},
+{
+  "intent_id": "importancia_impacto_social_parrafo_argumentativo",
+  "keywords": [
+    "parrafo",
+    "argumento",
+    "impacto",
+    "sociedad",
+    "comunicacion"
+  ],
+  "base_response": "Un párrafo argumentativo permite expresar ideas que influyen en la comunidad, ayudando a comprender problemas y proponer soluciones. Su importancia social radica en fomentar el diálogo respetuoso, apoyar decisiones informadas y fortalecer la participación responsable de los jóvenes en temas que afectan su entorno."
+},
+{
+  "intent_id": "ventajas_desventajas_parrafo_argumentativo",
+  "keywords": [
+    "parrafo",
+    "comparar",
+    "argumentar",
+    "ventaja",
+    "desventaja"
+  ],
+  "base_response": "Un párrafo argumentativo con ventajas y desventajas compara dos ideas para mostrar diferencias claras. Explica beneficios y límites de cada opción, ayudando a decidir con criterio. Presenta argumentos equilibrados y ejemplos breves que permitan comprender el impacto real de cada alternativa."
+},
+{
+  "intent_id": "riesgos_medidas_seguridad_parrafo_argumentativo",
+  "keywords": [
+    "argumento",
+    "riesgo",
+    "revision",
+    "plagio",
+    "verificar"
+  ],
+  "base_response": "Un párrafo argumentativo puede presentar riesgos como usar datos falsos, copiar ideas ajenas o incluir afirmaciones sin sustento. Para evitar problemas, conviene verificar fuentes confiables, revisar la coherencia del argumento y asegurar que cada idea sea propia y claramente explicada."
+},
+{
+  "intent_id": "consecuencias_largo_plazo_parrafo_argumentativo",
+  "keywords": [
+    "parrafo",
+    "argumento",
+    "consecuencia",
+    "analisis",
+    "impacto"
+  ],
+  "base_response": "Un párrafo argumentativo que explica consecuencias a largo plazo ayuda a prever efectos futuros de una idea. El estudiante debe analizar cómo una acción influye en situaciones posteriores y describir impactos posibles con claridad para fortalecer la lógica del argumento presentado."
+},
+{
+  "intent_id": "impacto_ambiental_parrafo_argumentativo",
+  "keywords": [
+    "parrafo",
+    "argumento",
+    "impacto",
+    "ambiente",
+    "cuidado"
+  ],
+  "base_response": "Un párrafo argumentativo sobre impacto ambiental explica un problema ecológico y defiende una postura con razones claras. Puede abordar contaminación, uso responsable de recursos o protección de ecosistemas. Debe presentar evidencia sencilla y una conclusión que motive acciones conscientes en favor del entorno."
+},
+{
+  "intent_id": "parrafo_expositivo_propiedades_materiales",
+  "keywords": [
+    "parrafo",
+    "material",
+    "propiedad",
+    "describir",
+    "observar"
+  ],
+  "base_response": "Un párrafo expositivo puede explicar propiedades materiales como dureza, flexibilidad o resistencia. El estudiante describe cómo se comporta un material y qué características lo distinguen. Estas propiedades ayudan a comprender usos cotidianos y permiten comparar objetos de manera clara y ordenada."
+},
+{
+  "intent_id": "errores_parrafo_expositivo",
+  "keywords": [
+    "parrafo",
+    "idea",
+    "coherencia",
+    "informacion",
+    "redactar"
+  ],
+  "base_response": "Un párrafo expositivo puede fallar cuando mezcla datos sin relación, repite información innecesaria o usa frases confusas. También ocurre cuando la idea principal no está clara o se incluyen opiniones. Evitar estos errores ayuda a explicar contenidos con precisión y orden."
+},
+{
+  "intent_id": "historia_origen_parrafo_expositivo",
+  "keywords": [
+    "parrafo",
+    "origen",
+    "historia",
+    "explicar",
+    "redaccion"
+  ],
+  "base_response": "Los párrafos expositivos surgieron cuando las primeras civilizaciones necesitaron explicar conocimientos de forma clara. Con el tiempo, la escritura escolar los adoptó para organizar información y transmitir ideas precisas. Su evolución fortaleció la capacidad de presentar datos ordenados y comprensibles para estudiantes."
+},
+{
+  "intent_id": "aplicaciones_practicas_parrafo_expositivo",
+  "keywords": [
+    "parrafo",
+    "explicar",
+    "informacion",
+    "redaccion",
+    "comprension"
+  ],
+  "base_response": "Un párrafo expositivo ayuda a explicar temas escolares con claridad, como procesos científicos simples o reglas gramaticales. Facilita organizar información en tareas, exposiciones y proyectos, permitiendo comunicar ideas de forma ordenada y comprensible para compañeros y docentes."
+},
+{
+  "intent_id": "importancia_impacto_social_parrafo_expositivo",
+  "keywords": [
+    "parrafo",
+    "informacion",
+    "comunicacion",
+    "comprender",
+    "aprender"
+  ],
+  "base_response": "Un párrafo expositivo favorece que estudiantes comprendan temas relevantes y compartan información clara con otros. Su importancia social surge al ayudar a formar opiniones informadas, apoyar el aprendizaje colectivo y fortalecer la comunicación responsable dentro de la comunidad escolar y familiar."
+},
+{
+  "intent_id": "ventajas_desventajas_parrafo_expositivo",
+  "keywords": [
+    "parrafo",
+    "comparacion",
+    "analisis",
+    "ventaja",
+    "desventaja"
+  ],
+  "base_response": "Un párrafo expositivo con ventajas y desventajas permite explicar un tema mostrando beneficios y limitaciones. Facilita comparar ideas de forma clara, ayuda a decidir con información equilibrada y desarrolla pensamiento crítico en estudiantes que necesitan comprender opciones antes de elegir."
+},
+{
+  "intent_id": "riesgos_medidas_seguridad_parrafo_expositivo",
+  "keywords": [
+    "riesgo",
+    "seguridad",
+    "informacion",
+    "prevenir",
+    "proteger"
+  ],
+  "base_response": "Un párrafo expositivo puede explicar riesgos presentes en actividades escolares y describir medidas de seguridad para prevenir accidentes. Debe presentar información clara, definir el peligro, indicar consecuencias posibles y proponer acciones concretas que permitan proteger a los estudiantes durante tareas cotidianas."
+},
+{
+  "intent_id": "mitos_concepciones_erroneas_parrafo_expositivo",
+  "keywords": [
+    "parrafo",
+    "exposicion",
+    "mito",
+    "confusion",
+    "redactar"
+  ],
+  "base_response": "Muchos estudiantes creen que un párrafo expositivo solo repite datos sin explicación. También piensan que siempre debe ser extenso y complejo. Un buen párrafo expositivo aclara información con orden, usa ejemplos simples y evita opiniones personales para facilitar la comprensión del lector."
+},
+{
+  "intent_id": "parrafo_expositivo_experimentos_escolares",
+  "keywords": [
+    "parrafo",
+    "experimento",
+    "observacion",
+    "explicacion",
+    "resultado"
+  ],
+  "base_response": "Un párrafo expositivo sobre un experimento escolar describe el propósito, los materiales utilizados y los pasos realizados. Explica las observaciones obtenidas y presenta resultados claros que permitan comprender el fenómeno estudiado. Facilita que otros estudiantes reproduzcan el procedimiento con precisión educativa."
+},
+{
+  "intent_id": "consecuencias_largo_plazo_parrafo_expositivo",
+  "keywords": [
+    "parrafo",
+    "explicar",
+    "consecuencia",
+    "impacto",
+    "analisis"
+  ],
+  "base_response": "Un párrafo expositivo puede mostrar consecuencias a largo plazo cuando explica cómo una acción presente influye en situaciones futuras. Ayuda a comprender efectos duraderos, permite anticipar cambios importantes y fomenta análisis responsable sobre decisiones que afectan el bienestar colectivo."
+},
+{
+  "intent_id": "parrafo_expositivo_impacto_ambiental",
+  "keywords": [
+    "parrafo",
+    "impacto",
+    "ambiente",
+    "contaminacion",
+    "explicar"
+  ],
+  "base_response": "Un párrafo expositivo sobre impacto ambiental explica cómo ciertas acciones humanas afectan la naturaleza. Presenta información clara sobre contaminación, uso de recursos y consecuencias visibles. Ayuda a comprender problemas ambientales y fomenta decisiones responsables para proteger ecosistemas y comunidades."
+},
+{
+  "intent_id": "mantenimiento_prevencion_parrafo_expositivo",
+  "keywords": [
+    "parrafo",
+    "redaccion",
+    "revisar",
+    "coherencia",
+    "corregir"
+  ],
+  "base_response": "Un párrafo expositivo requiere mantenimiento mediante revisión constante para asegurar coherencia y precisión. La prevención implica corregir errores antes de que afecten la comprensión. Revisar ideas, ajustar conectores y verificar datos permite mantener claridad y evitar confusiones en la explicación presentada."
+},
+{
+  "intent_id": "proyecciones_futuras_tecnologia_parrafo_expositivo",
+  "keywords": [
+    "parrafo",
+    "explicar",
+    "tecnologia",
+    "proyeccion",
+    "cambio"
+  ],
+  "base_response": "Un párrafo expositivo puede describir cómo la tecnología transformará actividades escolares y cotidianas mediante herramientas avanzadas. Explica posibles cambios en comunicación, estudio y creación digital, mostrando escenarios futuros comprensibles que ayuden a reflexionar sobre innovaciones y su impacto en la vida juvenil."
+},
+{
+  "intent_id": "definicion_estructura_parrafo_descriptivo",
+  "keywords": [
+    "parrafo",
+    "estructura",
+    "descripcion",
+    "elemento",
+    "organizar"
+  ],
+  "base_response": "Un párrafo descriptivo se organiza mostrando un objeto o lugar mediante rasgos esenciales. Su estructura incluye una idea principal y detalles que explican forma, partes y apariencia. Esta organización ayuda a que el lector imagine claramente lo descrito sin confusión."
+},
+{
+  "intent_id": "dinamica_funcionamiento_parrafo_descriptivo",
+  "keywords": [
+    "parrafo",
+    "descripcion",
+    "movimiento",
+    "funcionamiento",
+    "observar"
+  ],
+  "base_response": "Un párrafo descriptivo puede explicar cómo funciona físicamente un objeto o fenómeno, mostrando su movimiento y cambios visibles. El escritor observa acciones concretas y las describe con claridad para que el lector imagine procesos como girar, avanzar, fluir o transformarse dentro de una escena."
+},
+{
+  "intent_id": "errores_parrafo_descriptivo",
+  "keywords": [
+    "parrafo",
+    "descripcion",
+    "error",
+    "confusion",
+    "redactar"
+  ],
+  "base_response": "Un párrafo descriptivo falla cuando mezcla ideas sin orden, usa detalles irrelevantes, repite información o incluye opiniones que rompen la descripción. También ocurre cuando faltan sensaciones claras, vocabulario preciso o coherencia entre las partes del texto."
+},
+{
+  "intent_id": "historia_origen_parrafo_descriptivo",
+  "keywords": [
+    "parrafo",
+    "descripcion",
+    "lenguaje",
+    "escritura",
+    "comunicacion"
+  ],
+  "base_response": "Los párrafos descriptivos surgieron cuando las primeras culturas buscaron representar objetos y escenas mediante palabras. Con el tiempo, la escritura permitió organizar detalles de forma clara. Su evolución fortaleció la capacidad de observar, explicar y transmitir imágenes mentales precisas en textos educativos."
+},
+{
+  "intent_id": "contexto_entorno_ecologico_parrafo_descriptivo",
+  "keywords": [
+    "parrafo",
+    "contexto",
+    "entorno",
+    "observar",
+    "describir"
+  ],
+  "base_response": "Un párrafo descriptivo puede incluir el contexto ecológico para mostrar cómo un lugar influye en lo que se observa. Explica elementos naturales presentes, sus características y cómo interactúan. Ayuda a que el lector imagine el ambiente y comprenda mejor la escena descrita."
+},
+{
+  "intent_id": "aplicaciones_practicas_parrafo_descriptivo",
+  "keywords": [
+    "parrafo",
+    "descripcion",
+    "observar",
+    "detallar",
+    "comunicar"
+  ],
+  "base_response": "Un párrafo descriptivo ayuda a explicar con claridad lugares, objetos o personas en tareas escolares y actividades cotidianas. Facilita comunicar detalles importantes en informes, proyectos creativos, instrucciones sencillas y presentaciones donde se requiere mostrar cómo es algo de manera precisa."
+},
+{
+  "intent_id": "importancia_impacto_social_parrafo_descriptivo",
+  "keywords": [
+    "parrafo",
+    "descripcion",
+    "comunicacion",
+    "comprension",
+    "observar"
+  ],
+  "base_response": "Un párrafo descriptivo ayuda a comunicar detalles claros sobre personas, lugares u objetos, facilitando la comprensión entre lectores jóvenes. Su uso fortalece la observación y permite compartir información útil en la vida diaria, mejorando la interacción social y escolar."
+},
+{
+  "intent_id": "ventajas_desventajas_parrafo_descriptivo",
+  "keywords": [
+    "parrafo",
+    "descripcion",
+    "comparacion",
+    "ventaja",
+    "desventaja"
+  ],
+  "base_response": "Un párrafo descriptivo puede mostrar ventajas y desventajas al comparar dos elementos. Permite explicar rasgos positivos y negativos de manera clara, ayudando a decidir entre opciones. Facilita observar diferencias importantes y comprender mejor cada aspecto descrito sin confundir al lector."
+},
+{
+  "intent_id": "consecuencias_largo_plazo_parrafo_descriptivo",
+  "keywords": [
+    "parrafo",
+    "descripcion",
+    "impacto",
+    "analisis",
+    "consecuencia"
+  ],
+  "base_response": "Un párrafo descriptivo puede mostrar cómo ciertos detalles generan efectos futuros importantes. Al explicar cambios posibles, ayuda a que estudiantes comprendan resultados prolongados de acciones o situaciones. Esta perspectiva fomenta reflexión y permite anticipar impactos que podrían influir en decisiones responsables."
+},
+{
+  "intent_id": "proyecciones_futuras_tecnologia_parrafo_descriptivo",
+  "keywords": [
+    "parrafo",
+    "descripcion",
+    "tecnologia",
+    "proyeccion",
+    "redaccion"
+  ],
+  "base_response": "Un párrafo descriptivo puede aprovechar tecnología futura mediante herramientas que analicen objetos y generen detalles precisos. Estas proyecciones permiten imaginar escenarios avanzados, integrar datos visuales y enriquecer la redacción con descripciones más completas que apoyen la comprensión de estudiantes en formación."
+},
+{
+  "intent_id": "definicion_estructura_escrito_periodistico",
+  "keywords": [
+    "escrito",
+    "periodico",
+    "estructura",
+    "informacion",
+    "comunicar"
+  ],
+  "base_response": "Un escrito periodístico posee una estructura clara que organiza la información para facilitar su comprensión. Incluye un titular que resume la idea principal, un lead que presenta datos esenciales y un cuerpo donde se desarrolla la noticia con detalles ordenados y precisos."
+},
+{
+  "intent_id": "errores_comunes_escritos_periodisticos",
+  "keywords": [
+    "error",
+    "redaccion",
+    "frase",
+    "informacion",
+    "revision"
+  ],
+  "base_response": "Muchos escritos periodísticos presentan errores como repetir datos sin verificar, usar frases confusas, mezclar opiniones con hechos y olvidar revisar la ortografía. Corregir estos problemas ayuda a comunicar información clara, precisa y confiable para lectores jóvenes y curiosos."
+},
+{
+  "intent_id": "historia_origen_evolucion_escritos_periodisticos",
+  "keywords": [
+    "periodico",
+    "informacion",
+    "comunicacion",
+    "escribir",
+    "difusion"
+  ],
+  "base_response": "Los escritos periodísticos surgieron cuando las sociedades necesitaron compartir noticias de manera organizada. Su origen está en hojas informativas antiguas y evolucionaron con la imprenta, permitiendo difundir hechos con rapidez. Con el tiempo adoptaron formatos claros para comunicar sucesos confiables."
+},
+{
+  "intent_id": "contexto_entorno_ecologico_en_escritos_periodisticos",
+  "keywords": [
+    "contexto",
+    "entorno",
+    "medio",
+    "informar",
+    "analizar"
+  ],
+  "base_response": "Un escrito periodístico considera el entorno ecológico para explicar cómo el medio ambiente influye en hechos relevantes. El periodista analiza clima, recursos y cambios naturales que afectan comunidades. Comprender este contexto ayuda a crear textos claros y responsables para lectores jóvenes."
+},
+{
+  "intent_id": "aplicacion_escritos_periodisticos_vida_real",
+  "keywords": [
+    "noticia",
+    "informar",
+    "investigar",
+    "escribir",
+    "comunicar"
+  ],
+  "base_response": "Los escritos periodísticos permiten comprender hechos reales y comunicar información clara. Su práctica ayuda a estudiantes a investigar sucesos, organizar datos y redactar textos precisos. También fortalece la capacidad de analizar fuentes y expresar ideas responsables en situaciones cotidianas que requieren claridad y veracidad."
+},
+{
+  "intent_id": "importancia_impacto_social_escritos_periodisticos",
+  "keywords": [
+    "periodismo",
+    "informacion",
+    "sociedad",
+    "comunicacion",
+    "analisis"
+  ],
+  "base_response": "Los escritos periodísticos influyen en cómo la sociedad comprende hechos relevantes. Ayudan a formar opiniones, promover diálogo y alertar sobre problemas públicos. Facilitan que jóvenes identifiquen información confiable y comprendan el impacto de las noticias en su comunidad y decisiones cotidianas."
+},
+{
+  "intent_id": "ventajas_desventajas_escritos_periodisticos",
+  "keywords": [
+    "ventaja",
+    "desventaja",
+    "informacion",
+    "comparar",
+    "comunicar"
+  ],
+  "base_response": "Los escritos periodísticos permiten comparar ventajas y desventajas al presentar información clara y verificable. Facilitan entender temas complejos y tomar decisiones informadas. Sin embargo, pueden simplificar demasiado o incluir sesgos que afecten la interpretación si no se revisan varias fuentes confiables."
+},
+{
+  "intent_id": "riesgos_seguridad_escrito_periodistico",
+  "keywords": [
+    "riesgo",
+    "seguridad",
+    "informacion",
+    "verificar",
+    "proteger"
+  ],
+  "base_response": "Un escrito periodístico requiere cuidado para evitar difundir datos falsos, exponer información privada o causar daño involuntario. Se debe verificar cada dato, proteger identidades sensibles y revisar fuentes confiables. Estas medidas fortalecen la responsabilidad y seguridad del contenido publicado."
+},
+{
+  "intent_id": "clasificacion_taxonomica_escritos_periodisticos",
+  "keywords": [
+    "clasificacion",
+    "texto",
+    "noticia",
+    "cronica",
+    "reportaje"
+  ],
+  "base_response": "La clasificación taxonómica organiza los escritos periodísticos según su propósito y estructura. Permite distinguir noticias, crónicas y reportajes, ayudando a comprender cómo cada tipo informa, describe o profundiza en hechos relevantes. Facilita el aprendizaje y la producción de textos claros."
+},
+{
+  "intent_id": "mitos_concepciones_erroneas_escritos_periodisticos",
+  "keywords": [
+    "mito",
+    "confusion",
+    "periodismo",
+    "redactar",
+    "informacion"
+  ],
+  "base_response": "Muchos estudiantes creen que los escritos periodísticos solo narran hechos sin análisis o que cualquier opinión puede presentarse como noticia. También piensan que la rapidez importa más que la veracidad. Comprender estas ideas erróneas ayuda a producir textos responsables y claros."
+},
+{
+  "intent_id": "escritos_periodisticos_relacion_simbiotica_sistemas",
+  "keywords": [
+    "periodismo",
+    "informar",
+    "publico",
+    "sistema",
+    "comunicacion"
+  ],
+  "base_response": "Los escritos periodísticos funcionan junto a otros sistemas como redes sociales y plataformas digitales. Esta relación permite que la información circule más rápido, reciba retroalimentación inmediata y se complemente con imágenes o datos, fortaleciendo la comprensión de los lectores jóvenes."
+},
+{
+  "intent_id": "consecuencias_largo_plazo_escritos_periodisticos",
+  "keywords": [
+    "informacion",
+    "impacto",
+    "lectura",
+    "analisis",
+    "comunicacion"
+  ],
+  "base_response": "Los escritos periodísticos pueden influir en cómo las personas entienden hechos y forman opiniones. Un contenido claro y responsable ayuda a evitar confusiones futuras. Comprender sus efectos a largo plazo permite valorar la importancia de verificar datos y reflexionar antes de compartir información."
+},
+{
+  "intent_id": "impacto_ambiental_en_escritos_periodisticos",
+  "keywords": [
+    "impacto",
+    "ambiente",
+    "contaminacion",
+    "informar",
+    "cuidar"
+  ],
+  "base_response": "Un escrito periodístico puede explicar cómo ciertas actividades humanas afectan el ambiente. Presenta datos claros sobre contaminación, uso de recursos y consecuencias visibles. Ayuda a que estudiantes comprendan problemas ambientales y reflexionen sobre acciones responsables que protejan su entorno."
+},
+{
+  "intent_id": "estructura_carta_formal",
+  "keywords": [
+    "carta",
+    "estructura",
+    "encabezado",
+    "cuerpo",
+    "firma"
+  ],
+  "base_response": "Una carta formal posee partes definidas que ordenan la información. Incluye encabezado con datos del remitente y destinatario, saludo respetuoso, cuerpo que explica el propósito, despedida adecuada y firma. Esta organización ayuda a comunicar ideas con claridad y seriedad."
+},
+{
+  "intent_id": "errores_cartas_formales_redaccion",
+  "keywords": [
+    "confusion",
+    "estructura",
+    "tono",
+    "revision",
+    "claridad"
+  ],
+  "base_response": "Muchos estudiantes confunden el tono formal con expresiones informales, omiten datos esenciales del destinatario, redactan párrafos desordenados y repiten ideas sin claridad. Revisar cuidadosamente evita fallas como faltas de ortografía, frases largas y uso incorrecto de saludos y despedidas."
+},
+{
+  "intent_id": "historia_origen_cartas_formales",
+  "keywords": [
+    "comunicacion",
+    "escritura",
+    "documento",
+    "mensaje",
+    "redactar"
+  ],
+  "base_response": "Las cartas formales surgieron cuando las sociedades necesitaban comunicar asuntos importantes por escrito. Su origen se relaciona con documentos administrativos antiguos. Con el tiempo evolucionaron hacia formatos claros y respetuosos para transmitir información oficial entre personas, instituciones y autoridades."
+},
+{
+  "intent_id": "aplicaciones_practicas_carta_formal",
+  "keywords": [
+    "comunicacion",
+    "solicitud",
+    "redaccion",
+    "mensaje",
+    "organizar"
+  ],
+  "base_response": "Una carta formal permite solicitar información, pedir apoyo escolar, presentar quejas respetuosas o comunicar decisiones importantes. Su uso ayuda a organizar ideas, expresar necesidades con claridad y practicar comunicación responsable en situaciones reales como trámites escolares o actividades comunitarias."
+},
+{
+  "intent_id": "impacto_social_carta_formal",
+  "keywords": [
+    "comunicacion",
+    "mensaje",
+    "respeto",
+    "institucion",
+    "expresar"
+  ],
+  "base_response": "Una carta formal influye en la convivencia porque permite expresar necesidades con respeto y claridad. Facilita que instituciones comprendan situaciones importantes y respondan adecuadamente. Su uso responsable ayuda a resolver problemas, fortalecer acuerdos y mejorar la participación estudiantil en su comunidad escolar."
+},
+{
+  "intent_id": "ventajas_desventajas_cartas_formales",
+  "keywords": [
+    "claridad",
+    "estructura",
+    "formalidad",
+    "comunicacion",
+    "precision"
+  ],
+  "base_response": "Una carta formal ofrece claridad y orden al comunicar ideas importantes, facilitando comprensión y respeto. Sin embargo, puede resultar rígida y limitar expresiones personales. Su uso comparativo permite elegir entre comunicación precisa o estilos más libres según la situación educativa del estudiante."
+},
+{
+  "intent_id": "clasificacion_taxonomica_cartas_formales",
+  "keywords": [
+    "carta",
+    "clasificacion",
+    "proposito",
+    "redaccion",
+    "comunicacion"
+  ],
+  "base_response": "La clasificación taxonómica de cartas formales organiza estos textos según su propósito comunicativo. Permite distinguir cartas de solicitud, reclamo, invitación y agradecimiento. Ayuda a estudiantes a identificar la intención principal y seleccionar estructuras adecuadas para redactar mensajes claros y respetuosos."
+},
+{
+  "intent_id": "mitos_concepciones_erroneas_cartas_formales",
+  "keywords": [
+    "mito",
+    "confusion",
+    "redactar",
+    "carta",
+    "formal"
+  ],
+  "base_response": "Muchos estudiantes creen que una carta formal debe sonar extremadamente rígida o usar palabras complicadas. También piensan que cualquier error arruina todo el mensaje. En realidad, una carta formal funciona mejor cuando es clara, respetuosa y organizada sin exagerar el lenguaje."
+},
+{
+  "intent_id": "cartas_formales_impacto_ambiental",
+  "keywords": [
+    "carta",
+    "impacto",
+    "ambiente",
+    "solicitud",
+    "accion"
+  ],
+  "base_response": "Una carta formal puede solicitar acciones que reduzcan impacto ambiental en la comunidad. Explica con claridad el problema, propone soluciones responsables y pide compromiso institucional. Usa lenguaje respetuoso, datos verificables y un propósito concreto que motive cambios positivos y medibles."
+},
+{
+  "intent_id": "cartas_formales_proyecciones_tecnologicas",
+  "keywords": [
+    "carta",
+    "tecnologia",
+    "comunicacion",
+    "escribir",
+    "formato"
+  ],
+  "base_response": "La redacción de cartas formales puede transformarse mediante herramientas digitales que facilitan revisar textos, organizar ideas y aplicar formatos correctos. El uso de asistentes inteligentes permite mejorar claridad, detectar errores y adaptar el mensaje según el propósito comunicativo del estudiante."
+},
+{
+  "intent_id": "estructura_correo_bien_redactado",
+  "keywords": [
+    "correo",
+    "estructura",
+    "mensaje",
+    "organizar",
+    "comunicacion"
+  ],
+  "base_response": "Un correo bien redactado presenta partes claras: asunto preciso, saludo adecuado, cuerpo con ideas ordenadas y cierre respetuoso. Cada sección cumple una función que ayuda a transmitir información de manera comprensible y profesional para cualquier lector joven."
+},
+{
+  "intent_id": "historia_origen_evolucion_correo_bien_redactado",
+  "keywords": [
+    "comunicacion",
+    "mensaje",
+    "escritura",
+    "correo",
+    "informacion"
+  ],
+  "base_response": "La historia del correo electrónico comenzó con sistemas simples de intercambio de mensajes entre computadoras. Con el tiempo evolucionó hacia herramientas globales que exigieron escritura clara y ordenada. Esta evolución impulsó normas de redacción que ayudan a comunicar ideas con precisión y respeto."
+},
+{
+  "intent_id": "aplicacion_practica_correo_bien_redactado",
+  "keywords": [
+    "correo",
+    "mensaje",
+    "comunicacion",
+    "organizar",
+    "expresar"
+  ],
+  "base_response": "Un correo bien redactado permite pedir información escolar, coordinar trabajos en grupo y comunicar dudas a docentes con claridad. Facilita organizar tareas, evitar malentendidos y mostrar responsabilidad. Usar frases precisas y un tono respetuoso ayuda a recibir respuestas útiles y rápidas."
+},
+{
+  "intent_id": "importancia_impacto_social_correo_bien_redactado",
+  "keywords": [
+    "comunicacion",
+    "mensaje",
+    "claridad",
+    "comprension",
+    "relacion"
+  ],
+  "base_response": "Un correo bien redactado mejora la comunicación entre estudiantes y docentes, facilita la comprensión de ideas y evita malentendidos. Su uso responsable fortalece relaciones escolares, promueve respeto y ayuda a crear entornos digitales seguros donde todos pueden expresarse con claridad y confianza."
+},
+{
+  "intent_id": "ventajas_desventajas_correos_bien_redactados",
+  "keywords": [
+    "correo",
+    "redaccion",
+    "ventaja",
+    "desventaja",
+    "comunicacion"
+  ],
+  "base_response": "Un correo bien redactado ofrece claridad y orden, facilita la comprensión y evita confusiones. Permite transmitir ideas con precisión y profesionalismo. Sin embargo, requiere tiempo para revisar y corregir, y puede resultar menos inmediato que una conversación directa cuando se necesita respuesta rápida."
+},
+{
+  "intent_id": "riesgos_medidas_seguridad_correo",
+  "keywords": [
+    "correo",
+    "riesgo",
+    "seguridad",
+    "proteger",
+    "informacion"
+  ],
+  "base_response": "Un correo puede incluir riesgos como enlaces falsos o solicitudes sospechosas. Conviene revisar remitentes, evitar compartir datos personales y usar contraseñas seguras. Resulta útil activar la verificación en dos pasos y eliminar mensajes que parezcan engañosos para mantener la comunicación protegida."
+},
+{
+  "intent_id": "clasificacion_taxonomica_correo_bien_redactado",
+  "keywords": [
+    "correo",
+    "mensaje",
+    "clasificar",
+    "estructura",
+    "comunicacion"
+  ],
+  "base_response": "Un correo bien redactado puede clasificarse según su propósito, como informar, solicitar o agradecer. Cada tipo mantiene estructura clara con saludo, idea principal y cierre respetuoso. Esta clasificación ayuda a elegir el tono adecuado y organizar mejor la información para el lector."
+},
+{
+  "intent_id": "mitos_correo_bien_redactado",
+  "keywords": [
+    "correo",
+    "mito",
+    "redaccion",
+    "mensaje",
+    "comunicacion"
+  ],
+  "base_response": "Muchos creen que un correo bien redactado requiere palabras complicadas o un tono excesivamente formal. Un buen mensaje funciona cuando es claro, respetuoso y directo. Evitar frases confusas y organizar ideas ayuda a que el destinatario comprenda rápido sin sentirse abrumado."
+},
+{
+  "intent_id": "correos_relacion_simbiotica_sistemas",
+  "keywords": [
+    "correo",
+    "sistema",
+    "integracion",
+    "comunicacion",
+    "organizar"
+  ],
+  "base_response": "Un correo bien redactado funciona mejor cuando se integra con otros sistemas, como calendarios o plataformas escolares. Esta relación permite coordinar tareas, compartir información y mantener orden en actividades digitales, facilitando que los mensajes apoyen procesos colaborativos y mejoren la organización general."
+},
+{
+  "intent_id": "correo_experimento_escolar",
+  "keywords": [
+    "correo",
+    "experimento",
+    "explicar",
+    "organizar",
+    "comunicar"
+  ],
+  "base_response": "Un correo bien redactado para describir un experimento escolar debe presentar el objetivo, materiales y pasos de forma clara. Conviene usar frases breves, vocabulario preciso y un cierre que invite a preguntas. Esto ayuda a que docentes y compañeros comprendan el procedimiento sin confusiones."
+},
+{
+  "intent_id": "consecuencias_largo_plazo_correo_bien_redactado",
+  "keywords": [
+    "correo",
+    "mensaje",
+    "comunicacion",
+    "escribir",
+    "reputacion"
+  ],
+  "base_response": "Un correo bien redactado fortalece la reputación personal, mejora la confianza de quienes reciben tus mensajes y facilita futuras colaboraciones. Mantener claridad y respeto crea hábitos de comunicación útiles en estudios y proyectos, ayudando a evitar malentendidos que pueden afectar relaciones escolares importantes."
+},
+{
+  "intent_id": "impacto_ambiental_correo_bien_redactado",
+  "keywords": [
+    "correo",
+    "impacto",
+    "consumo",
+    "energia",
+    "comunicacion"
+  ],
+  "base_response": "Un correo bien redactado reduce envíos innecesarios y ayuda a disminuir consumo de energía en servidores. Un mensaje claro evita cadenas largas y uso excesivo de archivos pesados, lo que contribuye a un menor impacto ambiental en la comunicación digital escolar."
+},
+{
+  "intent_id": "mantenimiento_prevencion_correo_bien_redactado",
+  "keywords": [
+    "revision",
+    "mensaje",
+    "errores",
+    "organizacion",
+    "comunicacion"
+  ],
+  "base_response": "Un correo bien redactado requiere revisar el mensaje antes de enviarlo, corrigiendo errores y asegurando claridad. Mantener orden en la bandeja ayuda a prevenir confusiones y perder información importante. Usar asuntos precisos facilita encontrar mensajes y evitar problemas futuros en la comunicación."
+},
+{
+  "intent_id": "proyecciones_tecnologia_correos_bien_redactados",
+  "keywords": [
+    "correo",
+    "tecnologia",
+    "comunicacion",
+    "escribir",
+    "proyeccion"
+  ],
+  "base_response": "Los correos electrónicos evolucionarán con herramientas que sugerirán mejoras de claridad, tono y organización. La tecnología permitirá revisar errores automáticamente y ofrecer recomendaciones útiles. Comprender estas funciones ayudará a redactar mensajes más precisos, responsables y adecuados en entornos escolares y futuros contextos digitales."
+},
+{
+  "intent_id": "definicion_estructura_informe_escolar",
+  "keywords": [
+    "informe",
+    "estructura",
+    "seccion",
+    "contenido",
+    "organizar"
+  ],
+  "base_response": "Un informe escolar posee una estructura que ordena la información en partes claras. Incluye título, introducción, desarrollo y conclusión. Cada sección cumple una función específica que guía la comprensión del lector y facilita presentar datos y análisis de manera coherente."
+},
+{
+  "intent_id": "errores_redaccion_informe_escolar",
+  "keywords": [
+    "oracion",
+    "coherencia",
+    "revision",
+    "idea",
+    "estructura"
+  ],
+  "base_response": "Muchos informes presentan oraciones confusas, ideas sin conexión y estructuras desordenadas. Conviene revisar cada párrafo, verificar coherencia entre datos y conclusiones y evitar repeticiones innecesarias. Una lectura final en voz alta ayuda a detectar fallas comunes y mejorar claridad general."
+},
+{
+  "intent_id": "historia_origen_informes_escolares",
+  "keywords": [
+    "informe",
+    "redaccion",
+    "escuela",
+    "historia",
+    "evolucion"
+  ],
+  "base_response": "Los informes escolares surgieron para comunicar avances de aprendizaje entre docentes y familias. Con el tiempo evolucionaron desde notas breves hacia documentos más completos que describen procesos, logros y dificultades. Su historia muestra cómo la educación busca claridad y seguimiento continuo del estudiante."
+},
+{
+  "intent_id": "contexto_entorno_ecologico_informe_redaccion",
+  "keywords": [
+    "ecosistema",
+    "contexto",
+    "observacion",
+    "impacto",
+    "analisis"
+  ],
+  "base_response": "Un informe escolar puede describir cómo el entorno ecológico influye en actividades y aprendizajes. Explica elementos del ecosistema cercano, identifica cambios visibles y analiza su impacto en la vida diaria del estudiante. Incluye observaciones claras que conecten naturaleza y comportamiento escolar."
+},
+{
+  "intent_id": "aplicacion_practica_informe_escolar",
+  "keywords": [
+    "informe",
+    "redaccion",
+    "analisis",
+    "organizar",
+    "comunicar"
+  ],
+  "base_response": "Un informe escolar ayuda a comunicar información clara en situaciones reales, como explicar resultados de un proyecto, describir un problema o presentar conclusiones en actividades grupales. Practicar su redacción mejora la capacidad de organizar ideas y transmitir mensajes comprensibles en contextos cotidianos."
+},
+{
+  "intent_id": "impacto_social_informe_escolar",
+  "keywords": [
+    "comunidad",
+    "responsabilidad",
+    "informacion",
+    "comprension",
+    "participacion"
+  ],
+  "base_response": "Un informe escolar bien redactado ayuda a que la comunidad comprenda logros y desafíos del entorno educativo. Facilita la participación responsable de estudiantes y familias, promueve decisiones informadas y fortalece la confianza en el trabajo escolar mediante información clara y útil para todos."
+},
+{
+  "intent_id": "riesgos_medidas_seguridad_informe_redaccion",
+  "keywords": [
+    "riesgo",
+    "seguridad",
+    "prevenir",
+    "analisis",
+    "proteger"
+  ],
+  "base_response": "Un informe escolar debe identificar riesgos presentes en actividades y explicar medidas de seguridad claras. Incluye análisis de situaciones, acciones preventivas y recomendaciones para proteger a todos. Usa lenguaje preciso, ejemplos concretos y justifica cada medida para demostrar comprensión responsable del entorno escolar."
+},
+{
+  "intent_id": "clasificacion_taxonomica_informe_escolar",
+  "keywords": [
+    "informe",
+    "clasificacion",
+    "contenido",
+    "categoria",
+    "analizar"
+  ],
+  "base_response": "Un informe escolar puede clasificarse según su propósito, como descriptivo, explicativo o argumentativo. Esta clasificación ayuda a organizar ideas, definir el enfoque y seleccionar información relevante. Comprender estas categorías permite redactar textos más claros y adecuados a cada situación educativa."
+},
+{
+  "intent_id": "mitos_redaccion_informe_escolar",
+  "keywords": [
+    "mito",
+    "redaccion",
+    "informe",
+    "estudiante",
+    "comprension"
+  ],
+  "base_response": "Muchos estudiantes creen que un informe escolar solo requiere copiar información, pero esto es erróneo. Un buen informe exige comprender el tema, seleccionar datos relevantes y explicar ideas con claridad. Otro mito común es pensar que la extensión importa más que la calidad del contenido."
+},
+{
+  "intent_id": "transformacion_ciclos_energeticos_informe_escolar",
+  "keywords": [
+    "energia",
+    "transformacion",
+    "ciclo",
+    "proceso",
+    "sistema"
+  ],
+  "base_response": "Un informe escolar puede explicar cómo la energía cambia de forma en distintos procesos naturales y tecnológicos. Describe ciclos como el flujo de energía en los ecosistemas y la transformación en máquinas simples, mostrando relaciones claras entre fuentes, usos y resultados observables."
+},
+{
+  "intent_id": "experimentos_demostraciones_informe_escolar",
+  "keywords": [
+    "experimento",
+    "demostracion",
+    "observacion",
+    "material",
+    "analisis"
+  ],
+  "base_response": "Un informe escolar puede incluir un experimento sencillo que muestre un fenómeno observable. Se describen materiales, pasos y resultados obtenidos. El estudiante explica qué ocurrió, por qué sucedió y cómo la demostración ayuda a comprender mejor el concepto estudiado."
+},
+{
+  "intent_id": "consecuencias_largo_plazo_informe_redaccion",
+  "keywords": [
+    "redaccion",
+    "progreso",
+    "habito",
+    "evaluacion",
+    "aprendizaje"
+  ],
+  "base_response": "Un informe bien redactado permite comprender avances reales y detectar hábitos que requieren ajuste. Facilita evaluar el aprendizaje a lo largo del tiempo y orienta decisiones educativas futuras. Ayuda a desarrollar responsabilidad y mejora continua en la producción escrita del estudiante."
+},
+{
+  "intent_id": "impacto_ambiental_informe_escolar",
+  "keywords": [
+    "contaminacion",
+    "reciclaje",
+    "energia",
+    "residuo",
+    "cuidado"
+  ],
+  "base_response": "Un informe escolar sobre impacto ambiental explica cómo las actividades humanas afectan la naturaleza. Incluye análisis de contaminación, uso responsable de energía, manejo adecuado de residuos y prácticas de reciclaje. Ayuda a comprender acciones sencillas que protegen ecosistemas y mejoran la calidad de vida comunitaria."
+},
+{
+  "intent_id": "definicion_estructura_resena_critica",
+  "keywords": [
+    "resena",
+    "estructura",
+    "texto",
+    "analisis",
+    "contenido"
+  ],
+  "base_response": "Una reseña crítica posee una estructura que organiza el análisis. Incluye presentación del tema, descripción breve del contenido, valoración argumentada y conclusión. Esta organización ayuda a comprender el propósito del texto y facilita expresar opiniones fundamentadas de manera clara y ordenada."
+},
+{
+  "intent_id": "errores_comunes_resena_critica",
+  "keywords": [
+    "coherencia",
+    "argumento",
+    "revision",
+    "texto",
+    "comprension"
+  ],
+  "base_response": "Un error frecuente consiste en criticar sin explicar razones claras. Otro problema común es repetir ideas sin aportar análisis propio. También ocurre que se describe el contenido en lugar de evaluarlo. Revisar la coherencia y comprobar la comprensión evita fallas importantes."
+},
+{
+  "intent_id": "historia_origen_resena_critica",
+  "keywords": [
+    "resena",
+    "critica",
+    "origen",
+    "escritura",
+    "analisis"
+  ],
+  "base_response": "La reseña crítica surgió cuando lectores y escritores comenzaron a evaluar obras para orientar al público. Con el tiempo evolucionó desde simples opiniones hacia textos más estructurados que combinan descripción, análisis y juicio, ayudando a comprender mejor libros, películas y otros contenidos."
+},
+{
+  "intent_id": "aplicacion_resena_critica_vida_real",
+  "keywords": [
+    "lectura",
+    "analisis",
+    "opinion",
+    "texto",
+    "evaluar"
+  ],
+  "base_response": "Una reseña crítica ayuda a evaluar información antes de decidir. Permite analizar productos, libros o películas y expresar una opinión clara basada en evidencias. Facilita comparar opciones, evitar engaños y desarrollar criterio propio al interpretar distintos textos presentes en la vida cotidiana."
+},
+{
+  "intent_id": "ventajas_desventajas_resena_critica",
+  "keywords": [
+    "analisis",
+    "comparacion",
+    "texto",
+    "evaluar",
+    "argumento"
+  ],
+  "base_response": "Una reseña crítica con ventajas y desventajas comparativas ayuda a evaluar textos mostrando aspectos fuertes y débiles. Permite comprender diferencias entre obras, mejorar el criterio lector y aprender a justificar opiniones con argumentos claros que orienten decisiones informadas en tareas escolares."
+},
+{
+  "intent_id": "riesgos_medidas_seguridad_resena_critica",
+  "keywords": [
+    "riesgo",
+    "seguridad",
+    "informacion",
+    "evaluar",
+    "proteger"
+  ],
+  "base_response": "Un análisis crítico debe evitar datos personales, verificar fuentes y reconocer contenido ofensivo. Conviene revisar la confiabilidad del material, usar lenguaje respetuoso y proteger la identidad de terceros. Estas medidas fortalecen la seguridad al redactar reseñas responsables y conscientes."
+},
+{
+  "intent_id": "mitos_concepciones_erroneas_resena_critica",
+  "keywords": [
+    "mito",
+    "error",
+    "lectura",
+    "analisis",
+    "texto"
+  ],
+  "base_response": "Muchos estudiantes creen que una reseña crítica solo expresa si algo gusta o no, pero realmente analiza ideas del texto. Otro mito común es pensar que criticar significa atacar, cuando implica evaluar con argumentos claros. Comprender esto mejora la calidad de la redacción."
+},
+{
+  "intent_id": "mantenimiento_prevencion_resena_critica",
+  "keywords": [
+    "revision",
+    "texto",
+    "error",
+    "coherencia",
+    "mejora"
+  ],
+  "base_response": "Una reseña crítica requiere mantenimiento mediante revisión constante del texto para detectar errores y asegurar coherencia. La prevención implica planear la escritura, verificar datos y corregir fallas antes de entregar el trabajo, fortaleciendo la calidad y claridad del análisis presentado."
+},
+{
+  "intent_id": "definicion_estructural_monografia_investigacion",
+  "keywords": [
+    "monografia",
+    "estructura",
+    "investigacion",
+    "organizacion",
+    "contenido"
+  ],
+  "base_response": "Una definición anatómica o estructural de una monografía explica cómo se organiza internamente. Describe partes como introducción, desarrollo y conclusión, mostrando cómo cada sección cumple una función específica para presentar información clara, ordenada y coherente dentro del trabajo investigativo."
+},
+{
+  "intent_id": "dinamica_funcionamiento_fisico_monografia",
+  "keywords": [
+    "movimiento",
+    "energia",
+    "cambio",
+    "sistema",
+    "observar"
+  ],
+  "base_response": "Una monografía puede explicar cómo un fenómeno físico cambia con el tiempo. Incluye descripción del movimiento, fuentes de energía y efectos visibles en el entorno. El estudiante analiza causas, observa patrones y relaciona comportamientos para comprender mejor el funcionamiento de un sistema concreto."
+},
+{
+  "intent_id": "propiedades_quimicas_materiales_monografia",
+  "keywords": [
+    "material",
+    "reactividad",
+    "estructura",
+    "cambio",
+    "sustancia"
+  ],
+  "base_response": "Una monografía sobre propiedades químicas explica cómo un material reacciona con otras sustancias, cómo cambia su estructura y qué comportamientos presenta frente al calor o la oxidación. Estos aspectos permiten comprender usos seguros y seleccionar materiales adecuados en proyectos escolares."
+},
+{
+  "intent_id": "errores_monografia_investigacion",
+  "keywords": [
+    "monografia",
+    "error",
+    "revision",
+    "redaccion",
+    "analisis"
+  ],
+  "base_response": "Una monografía de investigación puede fallar cuando presenta ideas confusas, datos sin verificar, párrafos desordenados o conclusiones que no explican los hallazgos. Revisar cada sección, confirmar información y mantener un orden lógico ayuda a evitar errores frecuentes en trabajos escolares."
+},
+{
+  "intent_id": "historia_origen_monografia_investigacion",
+  "keywords": [
+    "monografia",
+    "investigacion",
+    "historia",
+    "origen",
+    "escritura"
+  ],
+  "base_response": "Una monografía de investigación surgió como forma organizada de estudiar un tema y comunicar hallazgos con claridad. Su origen se relaciona con el desarrollo de métodos científicos y la necesidad de registrar descubrimientos. Evolucionó para ayudar a estudiantes a analizar información y presentar conclusiones estructuradas."
+},
+{
+  "intent_id": "contexto_entorno_ecologico_monografia_investigacion",
+  "keywords": [
+    "ecosistema",
+    "ambiente",
+    "interaccion",
+    "organismo",
+    "analizar"
+  ],
+  "base_response": "Un análisis del contexto y entorno ecológico explica cómo los organismos interactúan dentro de un ecosistema. Incluye factores como clima, suelo y recursos disponibles. Ayuda a comprender relaciones vitales que influyen en la investigación y permiten interpretar cambios ambientales con claridad."
+},
+{
+  "intent_id": "importancia_impacto_social_monografia_investigacion",
+  "keywords": [
+    "monografia",
+    "impacto",
+    "sociedad",
+    "investigar",
+    "comprension"
+  ],
+  "base_response": "Una monografía con importancia e impacto social explica cómo un tema investigado afecta la vida de las personas. Ayuda a comprender problemas reales, valorar soluciones posibles y reconocer responsabilidades colectivas. Permite que estudiantes analicen consecuencias y propongan mejoras para su comunidad."
+},
+{
+  "intent_id": "ventajas_desventajas_monografia_investigacion",
+  "keywords": [
+    "monografia",
+    "analisis",
+    "comparacion",
+    "ventaja",
+    "desventaja"
+  ],
+  "base_response": "Una monografía permite profundizar en un tema con orden y claridad, ofreciendo ventajas como enfoque preciso y desarrollo detallado. También presenta desventajas, como requerir tiempo y fuentes confiables. Comparar ambos aspectos ayuda a comprender mejor su utilidad en trabajos escolares."
+},
+{
+  "intent_id": "riesgos_medidas_seguridad_monografia_investigacion",
+  "keywords": [
+    "riesgo",
+    "seguridad",
+    "proceso",
+    "investigar",
+    "prevencion"
+  ],
+  "base_response": "Un trabajo de investigación requiere identificar riesgos como manejo inadecuado de materiales, uso incorrecto de herramientas o exposición a entornos peligrosos. Es esencial aplicar medidas de seguridad, seguir instrucciones, utilizar protección personal y mantener orden para evitar accidentes y asegurar un proceso responsable."
+},
+{
+  "intent_id": "clasificacion_taxonomica_monografia_investigacion",
+  "keywords": [
+    "monografia",
+    "clasificacion",
+    "tema",
+    "investigar",
+    "analisis"
+  ],
+  "base_response": "Una monografía puede clasificarse según su enfoque, como descriptiva, explicativa o comparativa. Esta clasificación ayuda a organizar la investigación y elegir métodos adecuados. Permite comprender cómo se estudia un tema y facilita presentar información de manera clara y ordenada."
+},
+{
+  "intent_id": "calculos_formulas_monografia_investigacion",
+  "keywords": [
+    "calculo",
+    "formula",
+    "dato",
+    "medicion",
+    "analisis"
+  ],
+  "base_response": "Un informe de investigación puede incluir cálculos simples para organizar datos, como promedios, porcentajes o variaciones. Estas operaciones ayudan a interpretar resultados y mostrar patrones claros. Usar fórmulas básicas permite justificar conclusiones y fortalecer la presentación de evidencia cuantitativa."
+},
+{
+  "intent_id": "mitos_concepciones_erroneas_monografia_investigacion",
+  "keywords": [
+    "mito",
+    "creencia",
+    "investigacion",
+    "dato",
+    "analisis"
+  ],
+  "base_response": "Muchos estudiantes creen que una monografía solo resume información, pero requiere analizar datos y verificar fuentes. Otro mito común es pensar que cualquier sitio web es confiable. Reconocer estas concepciones erróneas ayuda a construir trabajos más críticos y precisos."
+},
+{
+  "intent_id": "monografia_relacion_simbiotica_sistemas",
+  "keywords": [
+    "monografia",
+    "sistema",
+    "informacion",
+    "investigar",
+    "organizar"
+  ],
+  "base_response": "Una monografía mantiene relación simbiótica con sistemas como bibliotecas, buscadores y bases de datos. Cada sistema aporta información confiable que el estudiante organiza y transforma en conocimiento propio. Esta interacción mejora la calidad del trabajo y fortalece habilidades de investigación escolar."
+},
+{
+  "intent_id": "transformacion_ciclos_energeticos_monografia",
+  "keywords": [
+    "energia",
+    "transformacion",
+    "ciclo",
+    "materia",
+    "proceso"
+  ],
+  "base_response": "Una monografía sobre transformación y ciclos energéticos explica cómo la energía cambia de forma y se mueve entre seres vivos y objetos. Describe procesos como fotosíntesis, respiración y uso de combustibles, mostrando cómo la materia y la energía circulan continuamente en la naturaleza."
+},
+{
+  "intent_id": "experimentos_demostraciones_monografia_investigacion",
+  "keywords": [
+    "experimento",
+    "material",
+    "observacion",
+    "medicion",
+    "resultado"
+  ],
+  "base_response": "Un experimento escolar permite comprobar ideas científicas mediante acciones controladas. Se seleccionan materiales seguros, se sigue un procedimiento claro, se registran observaciones y se comparan resultados con la hipótesis inicial. Esta práctica fortalece comprensión, pensamiento crítico y habilidades de investigación."
+},
+{
+  "intent_id": "consecuencias_largo_plazo_monografia_investigacion",
+  "keywords": [
+    "analisis",
+    "impacto",
+    "investigacion",
+    "consecuencia",
+    "evaluar"
+  ],
+  "base_response": "Un análisis de consecuencias a largo plazo permite explicar cómo un fenómeno estudiado puede afectar el futuro. Incluye evaluar cambios posibles, riesgos y beneficios duraderos. Ayuda a comprender impactos amplios y a justificar por qué el tema investigado merece atención continua en distintos contextos educativos."
+},
+{
+  "intent_id": "impacto_ambiental_monografia_investigacion",
+  "keywords": [
+    "impacto",
+    "ambiente",
+    "contaminacion",
+    "ecosistema",
+    "analisis"
+  ],
+  "base_response": "El impacto ambiental en una monografía explica cómo una actividad humana afecta ecosistemas. Incluye análisis de contaminación, uso de recursos y cambios en la biodiversidad. Ayuda a comprender consecuencias y proponer acciones responsables que protejan el entorno natural cercano a los estudiantes."
+},
+{
+  "intent_id": "mantenimiento_prevencion_monografia_investigacion",
+  "keywords": [
+    "mantenimiento",
+    "prevencion",
+    "cuidado",
+    "riesgo",
+    "seguridad"
+  ],
+  "base_response": "Un enfoque de mantenimiento y prevención en una monografía explica cómo cuidar objetos, espacios o procesos para evitar fallas. Incluye revisar equipos, detectar riesgos y aplicar medidas de seguridad. Ayuda a comprender la importancia de actuar antes de que ocurra un problema."
+},
+{
+  "intent_id": "proyecciones_futuras_tecnologia_monografia",
+  "keywords": [
+    "tecnologia",
+    "proyeccion",
+    "investigacion",
+    "innovacion",
+    "analisis"
+  ],
+  "base_response": "Un análisis de proyecciones futuras permite imaginar cómo la tecnología podría transformar problemas estudiados en una monografía. Este enfoque ayuda a prever avances, evaluar impactos y diseñar soluciones que preparen a los estudiantes para comprender cambios científicos y sociales que surgirán en los próximos años."
+},
+{
+  "intent_id": "definicion_estructura_articulo_opinion",
+  "keywords": [
+    "articulo",
+    "estructura",
+    "argumento",
+    "opinion",
+    "autor"
+  ],
+  "base_response": "Un artículo de opinión posee una estructura que organiza ideas del autor. Incluye título que orienta el tema, introducción que presenta la postura, desarrollo con argumentos y ejemplos, y cierre que refuerza la conclusión. Esta organización facilita comprensión y análisis crítico."
+},
+{
+  "intent_id": "errores_articulo_opinion",
+  "keywords": [
+    "argumento",
+    "evidencia",
+    "opinion",
+    "texto",
+    "revision"
+  ],
+  "base_response": "Un artículo de opinión puede fallar cuando presenta ideas sin evidencia, usa lenguaje confuso o mezcla emociones con datos. Revisar cada argumento, verificar información y mantener un enfoque claro ayuda a evitar errores que afectan la comprensión y reducen la fuerza del mensaje."
+},
+{
+  "intent_id": "historia_origen_articulo_opinion",
+  "keywords": [
+    "articulo",
+    "opinion",
+    "historia",
+    "escritura",
+    "periodismo"
+  ],
+  "base_response": "Los artículos de opinión surgieron cuando los periódicos empezaron a incluir textos donde autores expresaban ideas propias. Con el tiempo evolucionaron para ayudar a analizar hechos y fomentar reflexión. Su origen está ligado al crecimiento del periodismo y la necesidad de interpretar acontecimientos."
+},
+{
+  "intent_id": "contexto_entorno_ecologico_articulo_opinion",
+  "keywords": [
+    "contexto",
+    "entorno",
+    "opinion",
+    "analisis",
+    "tema"
+  ],
+  "base_response": "Un artículo de opinión puede considerar el entorno ecológico para explicar cómo las condiciones ambientales influyen en un problema. El autor analiza situaciones reales, como contaminación o cuidado de recursos, para mostrar por qué afectan a las personas y justificar su postura con ejemplos claros."
+},
+{
+  "intent_id": "aplicacion_opinion_vida_real",
+  "keywords": [
+    "opinion",
+    "argumento",
+    "lectura",
+    "analisis",
+    "escribir"
+  ],
+  "base_response": "Un artículo de opinión ayuda a practicar cómo expresar ideas propias con argumentos claros. Su uso cotidiano incluye evaluar información en redes, decidir con criterio y comunicar posturas respetuosas en la escuela. También permite reconocer sesgos y construir opiniones responsables en situaciones reales."
+},
+{
+  "intent_id": "importancia_impacto_social_articulo_opinion",
+  "keywords": [
+    "opinion",
+    "impacto",
+    "sociedad",
+    "lectura",
+    "analisis"
+  ],
+  "base_response": "Un artículo de opinión influye en cómo las personas entienden temas relevantes y fomenta el pensamiento crítico. Ayuda a que jóvenes identifiquen distintas perspectivas, reflexionen sobre problemas actuales y comprendan cómo las ideas pueden generar cambios sociales significativos."
+},
+{
+  "intent_id": "ventajas_desventajas_articulo_opinion",
+  "keywords": [
+    "ventaja",
+    "desventaja",
+    "comparacion",
+    "argumento",
+    "analisis"
+  ],
+  "base_response": "Un artículo de opinión con ventajas y desventajas compara dos ideas para ayudar a decidir. Presenta beneficios claros y también límites importantes. Explica cada punto con ejemplos sencillos y mantiene equilibrio para que el lector comprenda mejor el tema y forme una opinión informada."
+},
+{
+  "intent_id": "riesgos_medidas_seguridad_articulo_opinion",
+  "keywords": [
+    "riesgo",
+    "seguridad",
+    "informacion",
+    "analizar",
+    "escribir"
+  ],
+  "base_response": "Un artículo de opinión requiere cuidado al compartir información. Conviene verificar datos, evitar lenguaje ofensivo y proteger la privacidad. Resulta útil analizar posibles consecuencias antes de publicar y aplicar medidas que mantengan seguro al autor y a los lectores mediante comunicación responsable."
+},
+{
+  "intent_id": "clasificacion_taxonomica_articulo_opinion",
+  "keywords": [
+    "categoria",
+    "tema",
+    "autor",
+    "argumento",
+    "analisis"
+  ],
+  "base_response": "Un artículo de opinión puede clasificarse según su propósito, tono y tipo de argumento. Esta clasificación ayuda a identificar si busca persuadir, informar o reflexionar. También permite reconocer estilos del autor y comprender mejor cómo organiza sus ideas para influir en lectores jóvenes."
+},
+{
+  "intent_id": "mitos_opinion_articulo",
+  "keywords": [
+    "mito",
+    "opinion",
+    "autor",
+    "lectura",
+    "analisis"
+  ],
+  "base_response": "Muchos estudiantes creen que un artículo de opinión siempre dice verdades absolutas, pero suele mezclar ideas personales con hechos. Reconocer este mito ayuda a leer con cuidado, identificar argumentos débiles y diferenciar información comprobable de creencias del autor."
+},
+{
+  "intent_id": "opinion_transformacion_ciclos_energeticos",
+  "keywords": [
+    "energia",
+    "transformacion",
+    "ciclo",
+    "impacto",
+    "analizar"
+  ],
+  "base_response": "Un artículo de opinión puede analizar cómo la transformación de la energía ocurre en ciclos naturales y tecnológicos, explicando su impacto en la vida diaria. Ayuda a comprender procesos como convertir luz en electricidad y reflexionar sobre decisiones que afectan el uso responsable de recursos."
+},
+{
+  "intent_id": "experimentos_opinion_escolar",
+  "keywords": [
+    "experimento",
+    "observacion",
+    "material",
+    "analisis",
+    "resultado"
+  ],
+  "base_response": "Un artículo de opinión puede describir un experimento escolar sencillo explicando propósito, materiales usados, pasos básicos y resultados observados. El texto debe analizar lo aprendido y valorar cómo la demostración ayuda a comprender fenómenos científicos de manera práctica y segura dentro del aula."
+},
+{
+  "intent_id": "consecuencias_largo_plazo_articulo_opinion",
+  "keywords": [
+    "consecuencia",
+    "impacto",
+    "lector",
+    "reflexion",
+    "argumentar"
+  ],
+  "base_response": "Un artículo de opinión puede generar efectos duraderos cuando impulsa al lector a reflexionar y cambiar hábitos. Sus ideas influyen en decisiones futuras, fortalecen posturas y motivan acciones sociales. Analizar estas consecuencias ayuda a comprender cómo un texto puede transformar perspectivas con el tiempo."
+},
+{
+  "intent_id": "impacto_ambiental_articulo_opinion",
+  "keywords": [
+    "impacto",
+    "ambiente",
+    "contaminacion",
+    "cuidado",
+    "analisis"
+  ],
+  "base_response": "Un artículo de opinión sobre impacto ambiental explica cómo nuestras acciones afectan la naturaleza y propone cambios responsables. Presenta argumentos claros sobre contaminación, uso de recursos y protección de ecosistemas, ayudando a comprender consecuencias y motivando decisiones más sostenibles."
+},
+{
+  "intent_id": "mantenimiento_prevencion_articulo_opinion",
+  "keywords": [
+    "revision",
+    "coherencia",
+    "argumento",
+    "texto",
+    "correccion"
+  ],
+  "base_response": "Un artículo de opinión requiere mantenimiento mediante revisión constante para asegurar coherencia y fuerza en cada argumento. La prevención implica corregir errores, evitar información confusa y mantener un enfoque claro que permita al lector comprender la postura del autor sin distracciones ni fallos de estructura."
+},
+{
+  "intent_id": "proyecciones_futuras_tecnologia_opinion",
+  "keywords": [
+    "tecnologia",
+    "innovacion",
+    "proyeccion",
+    "cambio",
+    "analizar"
+  ],
+  "base_response": "Un artículo de opinión sobre proyecciones futuras y tecnología explica cómo podrían evolucionar dispositivos y sistemas. Presenta ideas sobre avances posibles y analiza su impacto en la vida diaria. Ayuda a comprender tendencias tecnológicas y fomenta pensamiento crítico sobre cambios venideros."
+},
+{
+  "intent_id": "errores_fallas_cronica_narrada",
+  "keywords": [
+    "confusion",
+    "estructura",
+    "detalle",
+    "coherencia",
+    "revision"
+  ],
+  "base_response": "Una crónica puede fallar cuando mezcla tiempos verbales sin orden, incluye detalles irrelevantes, pierde coherencia entre hechos y opiniones o presenta información confusa. Revisar la secuencia de eventos, mantener claridad y evitar repeticiones ayuda a mejorar la calidad narrativa."
+},
+{
+  "intent_id": "historia_origen_evolucion_cronica",
+  "keywords": [
+    "cronica",
+    "relato",
+    "historia",
+    "escritura",
+    "narrar"
+  ],
+  "base_response": "La crónica surgió como relato escrito para registrar hechos reales. Su origen está en textos antiguos que buscaban ordenar sucesos importantes. Con el tiempo evolucionó hacia formas más detalladas que combinan información precisa con una narración clara para comprender procesos históricos."
+},
+{
+  "intent_id": "aplicacion_cronica_vida_real",
+  "keywords": [
+    "cronica",
+    "narracion",
+    "observacion",
+    "analisis",
+    "experiencia"
+  ],
+  "base_response": "Una crónica permite describir hechos reales con orden y claridad, útil para estudiantes que necesitan explicar actividades escolares, registrar eventos comunitarios o documentar experiencias personales. Facilita organizar información, desarrollar pensamiento crítico y comunicar situaciones cotidianas de manera comprensible y responsable."
+},
+{
+  "intent_id": "impacto_social_cronicas_narradas",
+  "keywords": [
+    "cronica",
+    "sociedad",
+    "relato",
+    "informar",
+    "comunidad"
+  ],
+  "base_response": "Las crónicas narradas influyen en la sociedad porque permiten comprender hechos relevantes desde una mirada cercana. Ayudan a formar opinión, fortalecen la memoria colectiva y fomentan el análisis crítico en jóvenes que buscan entender cómo ciertos sucesos afectan a su comunidad."
+},
+{
+  "intent_id": "ventajas_desventajas_cronica_narrada",
+  "keywords": [
+    "cronica",
+    "narracion",
+    "comparacion",
+    "ventaja",
+    "desventaja"
+  ],
+  "base_response": "Una crónica narrada permite comprender hechos reales con claridad y ritmo, facilitando la conexión emocional con situaciones concretas. Sin embargo, puede incluir interpretaciones subjetivas que afecten la precisión. Comparar ventajas y desventajas ayuda a valorar su utilidad en trabajos escolares y proyectos informativos."
+},
+{
+  "intent_id": "cronica_riesgos_medidas_seguridad",
+  "keywords": [
+    "riesgo",
+    "seguridad",
+    "cronica",
+    "prevenir",
+    "evaluar"
+  ],
+  "base_response": "Una crónica puede describir situaciones con riesgos, por lo que conviene explicar medidas de seguridad básicas. El texto debe mostrar cómo identificar peligros, actuar con prudencia y seguir instrucciones claras. Esto ayuda a comprender consecuencias y fomenta hábitos responsables en contextos cotidianos."
+},
+{
+  "intent_id": "clasificacion_taxonomica_cronica_narrada",
+  "keywords": [
+    "cronica",
+    "clasificacion",
+    "narracion",
+    "relato",
+    "categoria"
+  ],
+  "base_response": "Una crónica narrada puede clasificarse según su contenido y propósito. Existen crónicas informativas, interpretativas y literarias. Cada categoría organiza el relato para ayudar a comprender hechos reales, destacar detalles relevantes y presentar una visión personal del autor."
+},
+{
+  "intent_id": "cronica_experimentos_escolares",
+  "keywords": [
+    "cronica",
+    "experimento",
+    "observacion",
+    "registro",
+    "analisis"
+  ],
+  "base_response": "Una crónica de experimentos escolares describe paso a paso un procedimiento sencillo, registra observaciones claras y explica resultados obtenidos. Ayuda a comprender fenómenos mediante lenguaje narrativo preciso, conectando acciones, materiales y conclusiones para reforzar el aprendizaje científico en actividades prácticas."
+},
+{
+  "intent_id": "consecuencias_largo_plazo_cronica",
+  "keywords": [
+    "cronica",
+    "evento",
+    "impacto",
+    "cambio",
+    "analizar"
+  ],
+  "base_response": "Una crónica puede mostrar cómo un evento modifica conductas, relaciones o decisiones futuras. Explicar consecuencias a largo plazo ayuda a comprender efectos duraderos, evaluar aprendizajes y reconocer cómo ciertas acciones transforman comunidades, hábitos y perspectivas con el paso del tiempo."
+},
+{
+  "intent_id": "impacto_ambiental_en_cronicas",
+  "keywords": [
+    "cronica",
+    "impacto",
+    "ambiente",
+    "narrar",
+    "cambio"
+  ],
+  "base_response": "Una crónica puede mostrar cómo ciertas acciones humanas afectan el ambiente, describiendo daños visibles y consecuencias para comunidades. El texto ayuda a comprender problemas como contaminación, deforestación o pérdida de fauna, promoviendo reflexión y responsabilidad ecológica en situaciones reales."
+},
+{
+  "intent_id": "cronica_proyecciones_futuras_tecnologia",
+  "keywords": [
+    "cronica",
+    "proyeccion",
+    "tecnologia",
+    "narrar",
+    "cambio"
+  ],
+  "base_response": "Una crónica puede explorar cómo la tecnología transformará actividades cotidianas mediante robots, inteligencia artificial y dispositivos avanzados. El texto proyecta escenarios futuros basados en tendencias reales, ayudando a comprender posibles cambios sociales y tecnológicos que influirán en la vida diaria."
+},
+{
+  "intent_id": "historia_origen_evolucion_noticias",
+  "keywords": [
+    "noticia",
+    "informacion",
+    "comunicacion",
+    "periodismo",
+    "difusion"
+  ],
+  "base_response": "La noticia surgió cuando las primeras civilizaciones necesitaron compartir hechos importantes. Con el tiempo pasó de mensajes orales a textos impresos y luego a medios digitales. Su evolución permitió informar a comunidades cada vez más amplias y rápidas, manteniendo la función de comunicar hechos verificables."
+},
+{
+  "intent_id": "contexto_entorno_ecologico_noticias_objetivas",
+  "keywords": [
+    "noticia",
+    "contexto",
+    "ecosistema",
+    "impacto",
+    "analisis"
+  ],
+  "base_response": "Una noticia objetiva puede explicar cómo un evento afecta ecosistemas locales, describiendo cambios en clima, recursos naturales o especies. Este enfoque ayuda a comprender relaciones entre acciones humanas y naturaleza, promoviendo conciencia ambiental en situaciones reales reportadas por medios informativos."
+},
+{
+  "intent_id": "aplicacion_practica_noticias_objetivas",
+  "keywords": [
+    "noticia",
+    "analisis",
+    "comprension",
+    "evaluar",
+    "informacion"
+  ],
+  "base_response": "Leer noticias objetivas permite identificar hechos útiles para decisiones cotidianas, como comprender cambios ambientales, reconocer riesgos comunitarios y anticipar efectos de nuevas normas. Practicar este análisis fortalece el pensamiento crítico y ayuda a distinguir información confiable en situaciones reales."
+},
+{
+  "intent_id": "noticias_importancia_impacto_social",
+  "keywords": [
+    "noticia",
+    "impacto",
+    "sociedad",
+    "analisis",
+    "informacion"
+  ],
+  "base_response": "Una noticia con importancia social influye en la vida diaria de muchas personas y ayuda a comprender cambios relevantes en la comunidad. Su impacto permite reflexionar sobre consecuencias, tomar decisiones informadas y participar responsablemente en situaciones que afectan al entorno cercano y al bienestar colectivo."
+},
+{
+  "intent_id": "ventajas_desventajas_noticias_objetivas",
+  "keywords": [
+    "noticia",
+    "analisis",
+    "comparacion",
+    "informacion",
+    "evaluar"
+  ],
+  "base_response": "Una noticia objetiva permite comparar ventajas y desventajas de un hecho usando datos claros. Facilita evaluar consecuencias, entender distintos puntos de vista y evitar confusiones. Ayuda a formar criterio propio y reconocer cuándo una información está equilibrada o presenta sesgos evidentes."
+},
+{
+  "intent_id": "noticias_riesgos_medidas_seguridad",
+  "keywords": [
+    "riesgo",
+    "alerta",
+    "prevencion",
+    "proteccion",
+    "comunicacion"
+  ],
+  "base_response": "La lectura de noticias con enfoque en riesgos permite identificar situaciones peligrosas y comprender medidas de seguridad recomendadas. Estudiantes pueden aprender a reconocer señales de alerta, seguir instrucciones oficiales y aplicar acciones básicas de protección en su entorno cotidiano."
+},
+{
+  "intent_id": "clasificacion_taxonomica_noticias_objetivas",
+  "keywords": [
+    "noticia",
+    "categoria",
+    "tema",
+    "analisis",
+    "clasificar"
+  ],
+  "base_response": "La clasificación taxonómica en noticias permite ordenar información según temas como ciencia, deportes o sociedad. Facilita identificar el propósito del texto, comparar hechos y reconocer patrones informativos. Ayuda a estudiantes a organizar datos y comprender mejor cómo se estructura la información periodística."
+},
+{
+  "intent_id": "mitos_concepciones_erroneas_noticias",
+  "keywords": [
+    "noticia",
+    "mito",
+    "informacion",
+    "interpretar",
+    "verificar"
+  ],
+  "base_response": "Muchos mitos surgen cuando se confunden rumores con noticias reales. Es esencial verificar datos antes de creer afirmaciones llamativas. Revisar fuentes confiables evita interpretar hechos de manera incorrecta y ayuda a comprender cómo funciona la información en situaciones importantes."
+},
+{
+  "intent_id": "noticias_relacion_simbiotica_sistemas",
+  "keywords": [
+    "noticia",
+    "sistema",
+    "interaccion",
+    "informacion",
+    "comunicacion"
+  ],
+  "base_response": "Una noticia mantiene relación simbiótica con otros sistemas porque depende de plataformas digitales, redes sociales y audiencias para circular. Estos sistemas también necesitan noticias para funcionar, generar actividad y sostener el flujo de información que permite comprender eventos y tomar decisiones informadas."
+},
+{
+  "intent_id": "noticias_transformacion_ciclos_energeticos",
+  "keywords": [
+    "energia",
+    "transformacion",
+    "ciclo",
+    "sistema",
+    "proceso"
+  ],
+  "base_response": "La cobertura objetiva de noticias sobre energía explica cómo la transformación de fuentes como el sol, el viento o combustibles produce electricidad y calor. También muestra ciclos energéticos que permiten comprender cambios, impactos ambientales y decisiones tecnológicas que afectan la vida cotidiana de manera clara."
+},
+{
+  "intent_id": "experimento_objetivo_noticia_escolar",
+  "keywords": [
+    "experimento",
+    "observacion",
+    "medicion",
+    "resultado",
+    "analisis"
+  ],
+  "base_response": "Un experimento escolar puede ilustrar una noticia científica mediante una demostración sencilla. Los estudiantes pueden medir cambios visibles, registrar datos y comparar resultados con la información presentada. Este proceso ayuda a comprender fenómenos reales y evaluar la objetividad de los hechos descritos."
+},
+{
+  "intent_id": "consecuencias_largo_plazo_noticias",
+  "keywords": [
+    "impacto",
+    "sociedad",
+    "cambio",
+    "analisis",
+    "futuro"
+  ],
+  "base_response": "Las noticias con efectos duraderos permiten comprender cómo ciertas decisiones influyen en la sociedad con el paso del tiempo. Analizar estas consecuencias ayuda a prever cambios futuros, entender riesgos y reconocer oportunidades que pueden mejorar la vida colectiva de manera responsable."
+},
+{
+  "intent_id": "impacto_ambiental_noticias_objetivas",
+  "keywords": [
+    "contaminacion",
+    "ecosistema",
+    "energia",
+    "reciclaje",
+    "conservar"
+  ],
+  "base_response": "La dimensión de impacto ambiental en noticias ayuda a comprender cómo ciertas acciones humanas afectan ecosistemas. Explica consecuencias de contaminación, uso de energía y manejo de residuos. Permite analizar medidas de reciclaje y conservación que protegen la naturaleza y fomentan decisiones responsables."
+},
+{
+  "intent_id": "mantenimiento_prevencion_noticias_objetivas",
+  "keywords": [
+    "mantenimiento",
+    "prevencion",
+    "riesgo",
+    "seguridad",
+    "comunicacion"
+  ],
+  "base_response": "La lectura de noticias objetivas sobre mantenimiento y prevención ayuda a comprender cómo se evitan fallas en infraestructuras y servicios. Explica métodos para reducir riesgos, promover seguridad y planificar acciones que protejan a comunidades jóvenes mediante información clara y verificable."
+},
+{
+  "intent_id": "proyecciones_futuras_tecnologia_noticias",
+  "keywords": [
+    "tecnologia",
+    "proyeccion",
+    "innovacion",
+    "ciencia",
+    "desarrollo"
+  ],
+  "base_response": "Las noticias suelen anticipar avances tecnológicos que transformarán actividades cotidianas. Estas proyecciones ayudan a comprender cómo la ciencia impulsa soluciones como energías limpias, robots asistenciales y sistemas inteligentes. Analizar estas tendencias permite imaginar futuros posibles y desarrollar pensamiento crítico sobre cambios tecnológicos."
+},
+{
+  "intent_id": "errores_tesis_principal_redaccion",
+  "keywords": [
+    "tesis",
+    "idea",
+    "confusion",
+    "redactar",
+    "coherencia"
+  ],
+  "base_response": "Una tesis principal falla cuando presenta una idea confusa, demasiado amplia o sin relación clara con el texto. Evita mezclar temas, usar afirmaciones vagas y cambiar el enfoque a mitad del escrito. Mantener coherencia ayuda a que el lector comprenda el propósito central."
+},
+{
+  "intent_id": "historia_origen_evolucion_tesis_principal",
+  "keywords": [
+    "tesis",
+    "origen",
+    "historia",
+    "redaccion",
+    "idea"
+  ],
+  "base_response": "La tesis principal surgió como herramienta para organizar ideas en textos argumentativos. Su origen se relaciona con prácticas antiguas de retórica que buscaban claridad al comunicar. Con el tiempo evolucionó para guiar al lector y estructurar la intención central de cualquier escrito escolar."
+},
+{
+  "intent_id": "contexto_entorno_ecologico_tesis_principal",
+  "keywords": [
+    "contexto",
+    "entorno",
+    "ecosistema",
+    "analisis",
+    "comprension"
+  ],
+  "base_response": "Un contexto ecológico ayuda a entender cómo el ambiente influye en la tesis principal. Permite analizar relaciones entre seres vivos, recursos y cambios del entorno. Facilita explicar causas y efectos que fortalecen la idea central y guían una redacción más clara y coherente."
+},
+{
+  "intent_id": "aplicaciones_practicas_tesis_principal",
+  "keywords": [
+    "tesis",
+    "idea",
+    "escribir",
+    "argumentar",
+    "comprension"
+  ],
+  "base_response": "Una tesis principal ayuda a explicar con claridad una idea en conversaciones escolares y decisiones cotidianas. Permite justificar opiniones, organizar pensamientos y comunicar razones de manera ordenada. Facilita resolver problemas al presentar un punto central que guía acciones y explicaciones."
+},
+{
+  "intent_id": "ventajas_desventajas_tesis_principal",
+  "keywords": [
+    "tesis",
+    "comparacion",
+    "ventaja",
+    "desventaja",
+    "argumentar"
+  ],
+  "base_response": "Una tesis con ventajas y desventajas comparativas ayuda a mostrar diferencias claras entre ideas. Permite argumentar con equilibrio, explicar beneficios y límites y guiar al lector hacia una conclusión razonada. Facilita organizar la información y fortalecer la comprensión del tema."
+},
+{
+  "intent_id": "riesgos_medidas_seguridad_tesis_principal",
+  "keywords": [
+    "riesgo",
+    "seguridad",
+    "analisis",
+    "proteger",
+    "evaluar"
+  ],
+  "base_response": "Una tesis principal puede incluir riesgos y medidas de seguridad al redactar temas sensibles. El estudiante debe identificar posibles problemas, evaluar su impacto y proponer acciones para proteger información y personas. Este enfoque fortalece la claridad del texto y fomenta responsabilidad académica."
+},
+{
+  "intent_id": "mitos_concepcion_erronea_tesis_principal",
+  "keywords": [
+    "tesis",
+    "mito",
+    "confusion",
+    "redaccion",
+    "idea"
+  ],
+  "base_response": "Muchos estudiantes creen que la tesis principal es solo una opinión rápida, pero realmente requiere una idea clara que guíe todo el texto. Otro mito común es pensar que la tesis debe ser complicada, cuando funciona mejor si es precisa, comprensible y enfocada."
+},
+{
+  "intent_id": "experimentos_demostracion_tesis_principal",
+  "keywords": [
+    "experimento",
+    "demostracion",
+    "hipotesis",
+    "observacion",
+    "analisis"
+  ],
+  "base_response": "Un experimento escolar permite comprobar una hipótesis relacionada con la tesis principal mediante acciones simples y seguras. El estudiante observa cambios, registra datos y analiza resultados para confirmar o ajustar su idea central. Este proceso fortalece la comprensión científica y la capacidad de argumentar con evidencia."
+},
+{
+  "intent_id": "tesis_principal_consecuencias_largo_plazo",
+  "keywords": [
+    "tesis",
+    "redaccion",
+    "impacto",
+    "analisis",
+    "argumentar"
+  ],
+  "base_response": "Una tesis bien definida permite anticipar efectos futuros del tema tratado. Al redactarla, se analiza cómo ciertas decisiones o acciones pueden influir en situaciones posteriores. Comprender estas consecuencias ayuda a construir argumentos más sólidos y responsables dentro de un texto académico escolar."
+},
+{
+  "intent_id": "tesis_principal_impacto_ambiental",
+  "keywords": [
+    "tesis",
+    "impacto",
+    "ambiente",
+    "contaminacion",
+    "conservar"
+  ],
+  "base_response": "Una tesis principal sobre impacto ambiental explica claramente cómo una acción humana afecta la naturaleza. Debe guiar todo el texto, mostrando consecuencias de la contaminación y proponiendo formas de conservar recursos. Ayuda a organizar ideas y sostener argumentos coherentes."
+},
+{
+  "intent_id": "tesis_principal_mantenimiento_prevencion",
+  "keywords": [
+    "tesis",
+    "mantenimiento",
+    "prevencion",
+    "redaccion",
+    "cuidado"
+  ],
+  "base_response": "Una tesis principal puede incluir ideas de mantenimiento y prevención cuando explica cómo cuidar algo para evitar problemas futuros. El texto debe mostrar acciones claras que mantengan un objeto, hábito o proceso en buen estado y prevenir fallas mediante prácticas responsables y constantes."
+},
+{
+  "intent_id": "tesis_principal_proyecciones_tecnologia",
+  "keywords": [
+    "tesis",
+    "proyeccion",
+    "tecnologia",
+    "redaccion",
+    "analisis"
+  ],
+  "base_response": "Una tesis puede incluir proyecciones futuras mostrando cómo la tecnología influirá en un tema. Explicar posibles avances ayuda a que el lector comprenda cambios esperados y su impacto. Usar ejemplos sencillos permite imaginar escenarios y fortalecer la idea central del texto."
+},
+{
+  "intent_id": "argumento_apoyo_definicion_estructural",
+  "keywords": [
+    "argumento",
+    "estructura",
+    "idea",
+    "funcion",
+    "explicar"
+  ],
+  "base_response": "Un argumento de apoyo en su dimensión estructural se organiza como una parte que refuerza la idea principal. Incluye una afirmación clara, una razón que la respalda y un ejemplo breve que facilita comprender cómo se conecta con el punto central del texto."
+},
+{
+  "intent_id": "errores_argumentos_apoyo",
+  "keywords": [
+    "error",
+    "confusion",
+    "argumento",
+    "evidencia",
+    "razonar"
+  ],
+  "base_response": "Un argumento de apoyo falla cuando usa evidencia débil, confunde ideas o repite datos sin relación. Es común mezclar opiniones con hechos o exagerar conclusiones. Para evitar errores, conviene revisar la lógica y comprobar que cada prueba realmente respalda la idea central."
+},
+{
+  "intent_id": "historia_origen_argumentos_apoyo",
+  "keywords": [
+    "argumento",
+    "retorica",
+    "origen",
+    "escritura",
+    "comunicacion"
+  ],
+  "base_response": "Los argumentos de apoyo surgieron en la retórica clásica usada por pensadores griegos para convencer mediante razones claras. Con el tiempo se integraron en la escritura escolar y académica, evolucionando hacia técnicas que ayudan a explicar ideas y fortalecer posiciones en textos informativos y persuasivos."
+},
+{
+  "intent_id": "argumentos_apoyo_contexto_entorno_ecologico",
+  "keywords": [
+    "contexto",
+    "entorno",
+    "argumento",
+    "impacto",
+    "analisis"
+  ],
+  "base_response": "Un argumento de apoyo puede fortalecerse explicando cómo el entorno ecológico influye en una situación. Analizar elementos como clima, recursos naturales o condiciones ambientales ayuda a justificar ideas y mostrar por qué ciertos hechos ocurren, ofreciendo razones claras y comprensibles para estudiantes."
+},
+{
+  "intent_id": "aplicaciones_practicas_argumentos_apoyo",
+  "keywords": [
+    "argumento",
+    "apoyo",
+    "ejemplo",
+    "explicar",
+    "situacion"
+  ],
+  "base_response": "Un argumento de apoyo permite justificar ideas en situaciones reales, como debatir en clase, resolver conflictos entre compañeros o defender una propuesta en proyectos escolares. Ayuda a comunicar razones claras, convencer con ejemplos concretos y tomar decisiones informadas en actividades cotidianas."
+},
+{
+  "intent_id": "argumentos_apoyo_ventajas_desventajas_comparativas",
+  "keywords": [
+    "argumento",
+    "comparacion",
+    "ventaja",
+    "desventaja",
+    "analisis"
+  ],
+  "base_response": "Un argumento de apoyo con ventajas y desventajas comparativas explica cómo una opción resulta mejor o peor que otra. Presenta beneficios y límites de cada alternativa para ayudar a decidir. Requiere analizar diferencias claras y justificar por qué una opción ofrece resultados más convenientes."
+},
+{
+  "intent_id": "argumentos_apoyo_riesgos_medidas_seguridad",
+  "keywords": [
+    "riesgo",
+    "seguridad",
+    "prevenir",
+    "evaluar",
+    "proteger"
+  ],
+  "base_response": "Un argumento de apoyo sobre riesgos y medidas de seguridad explica peligros posibles y propone acciones para reducirlos. Incluye identificar situaciones inseguras, justificar por qué representan un problema y describir medidas claras como supervisión, uso de equipo adecuado o reglas que protejan a todos."
+},
+{
+  "intent_id": "argumentos_apoyo_experimentos_escolares",
+  "keywords": [
+    "experimento",
+    "observacion",
+    "resultado",
+    "evidencia",
+    "comprobacion"
+  ],
+  "base_response": "Un experimento escolar permite comprobar una idea mediante acciones controladas. El estudiante observa cambios, registra resultados y compara lo obtenido con la afirmación inicial. Esta evidencia fortalece el argumento de apoyo porque muestra pruebas claras y verificables dentro del entorno educativo."
+},
+{
+  "intent_id": "argumentos_apoyo_consecuencias_largo_plazo",
+  "keywords": [
+    "argumento",
+    "consecuencia",
+    "impacto",
+    "analizar",
+    "decidir"
+  ],
+  "base_response": "Un argumento de apoyo basado en consecuencias a largo plazo explica cómo una decisión influye en el futuro. Ayuda a prever efectos positivos o negativos y permite justificar una postura mostrando beneficios duraderos o riesgos que podrían afectar a personas, recursos o situaciones futuras."
+},
+{
+  "intent_id": "argumento_apoyo_impacto_ambiental",
+  "keywords": [
+    "impacto",
+    "ambiente",
+    "argumento",
+    "contaminacion",
+    "conservar"
+  ],
+  "base_response": "Un argumento de apoyo sobre impacto ambiental explica cómo una acción afecta la naturaleza y por qué debe cuidarse. Incluye ejemplos de contaminación, pérdida de recursos y beneficios de conservar ecosistemas. Ayuda a justificar decisiones responsables que protegen el entorno y mejoran la vida diaria."
+},
+{
+  "intent_id": "argumento_apoyo_mantenimiento_prevencion",
+  "keywords": [
+    "argumento",
+    "revision",
+    "coherencia",
+    "correccion",
+    "evaluacion"
+  ],
+  "base_response": "Un argumento de apoyo requiere mantenimiento mediante revisión constante para asegurar coherencia y claridad. La prevención implica detectar errores antes de que afecten la idea principal. Revisar datos, corregir frases confusas y evaluar la lógica fortalece la calidad del texto argumentativo."
+},
+{
+  "intent_id": "argumentos_apoyo_proyecciones_futuras_tecnologia",
+  "keywords": [
+    "proyeccion",
+    "tecnologia",
+    "cambio",
+    "impacto",
+    "analisis"
+  ],
+  "base_response": "Un argumento de apoyo basado en proyecciones futuras usa tecnología para anticipar cambios posibles. Explica cómo una innovación podría mejorar procesos, resolver problemas o transformar actividades escolares. Ayuda a justificar ideas mostrando efectos probables y beneficios concretos para la vida cotidiana juvenil."
+},
+{
+  "intent_id": "estructura_anatomica_contraargumento",
+  "keywords": [
+    "contraargumento",
+    "estructura",
+    "idea",
+    "argumento",
+    "respuesta"
+  ],
+  "base_response": "Un contraargumento posee una estructura que incluye la presentación de una idea opuesta, la explicación de su sentido y la respuesta que demuestra por qué no debilita el argumento principal. Esta organización ayuda a analizar posiciones distintas con claridad y orden."
+},
+{
+  "intent_id": "errores_comunes_contraargumentos",
+  "keywords": [
+    "contraargumento",
+    "error",
+    "confusion",
+    "razonamiento",
+    "argumentar"
+  ],
+  "base_response": "Un contraargumento falla cuando repite la idea original, usa datos incorrectos o ignora la evidencia presentada. También ocurre cuando se ataca a la persona en lugar de la idea. Reconocer estas fallas ayuda a construir respuestas más claras y razonables."
+},
+{
+  "intent_id": "historia_origen_evolucion_contraargumentos",
+  "keywords": [
+    "retorica",
+    "argumentar",
+    "debate",
+    "razonamiento",
+    "comunicacion"
+  ],
+  "base_response": "Los contraargumentos surgieron en la retórica clásica usada por filósofos para debatir ideas. Con el tiempo evolucionaron como herramienta escolar que ayuda a analizar posturas distintas, fortalecer el razonamiento y mejorar la comunicación en discusiones respetuosas dentro de contextos académicos y cotidianos."
+},
+{
+  "intent_id": "importancia_impacto_social_contraargumentos",
+  "keywords": [
+    "dialogo",
+    "respeto",
+    "opinion",
+    "argumento",
+    "comprension"
+  ],
+  "base_response": "El uso de contraargumentos fortalece la convivencia porque permite escuchar ideas distintas con respeto. Favorece el diálogo responsable, ayuda a evitar conflictos innecesarios y promueve decisiones más justas al considerar diversas perspectivas dentro de un grupo o comunidad escolar."
+},
+{
+  "intent_id": "contraargumentos_ventajas_desventajas_comparativas",
+  "keywords": [
+    "contraargumento",
+    "comparacion",
+    "ventaja",
+    "desventaja",
+    "analisis"
+  ],
+  "base_response": "Un contraargumento basado en ventajas y desventajas compara dos ideas para mostrar cuál resulta más sólida. Explica beneficios y límites de cada postura, ayudando a evaluar opciones con equilibrio. Permite identificar puntos débiles y reforzar la idea principal mediante análisis claro y razonado."
+},
+{
+  "intent_id": "contraargumentos_riesgos_medidas_seguridad",
+  "keywords": [
+    "riesgo",
+    "seguridad",
+    "analisis",
+    "argumento",
+    "evaluacion"
+  ],
+  "base_response": "Un contraargumento útil considera riesgos posibles y propone medidas de seguridad claras. Esto ayuda a evaluar si una idea es realmente confiable. Al analizar peligros y soluciones, se fortalecen las decisiones y se aprende a justificar opiniones con responsabilidad y pensamiento crítico."
+},
+{
+  "intent_id": "clasificacion_taxonomica_contraargumentos",
+  "keywords": [
+    "contraargumento",
+    "clasificacion",
+    "idea",
+    "refutar",
+    "razonamiento"
+  ],
+  "base_response": "Un contraargumento puede clasificarse según su función: refutar una idea, corregir un dato, aportar una perspectiva distinta o señalar un error lógico. Esta clasificación ayuda a identificar cómo se organiza el razonamiento y cómo se fortalece una postura dentro de un debate escolar."
+},
+{
+  "intent_id": "mitos_concepciones_erroneas_contraargumentos",
+  "keywords": [
+    "mito",
+    "creencia",
+    "argumento",
+    "razonar",
+    "evidencia"
+  ],
+  "base_response": "Muchos mitos sobre contraargumentos afirman que solo confunden o debilitan ideas. Un contraargumento bien usado fortalece la posición porque demuestra análisis crítico. Reconocer creencias erróneas permite razonar con evidencia y construir explicaciones más claras y responsables."
+},
+{
+  "intent_id": "contraargumentos_consecuencias_largo_plazo",
+  "keywords": [
+    "contraargumento",
+    "consecuencia",
+    "analisis",
+    "impacto",
+    "razonamiento"
+  ],
+  "base_response": "Un contraargumento sólido puede mostrar consecuencias a largo plazo que afectan decisiones futuras. Explicar cómo una idea podría generar problemas duraderos ayuda a evaluar su verdadero impacto. Este enfoque permite comparar opciones y elegir la más beneficiosa considerando efectos posteriores importantes."
+},
+{
+  "intent_id": "contraargumentos_impacto_ambiental",
+  "keywords": [
+    "contaminacion",
+    "ecosistema",
+    "evaluar",
+    "argumentar",
+    "impacto"
+  ],
+  "base_response": "Un contraargumento sobre impacto ambiental permite cuestionar ideas que minimizan daños ecológicos. Ayuda a evaluar si una actividad realmente afecta ecosistemas, comparando evidencias y proponiendo alternativas responsables. Facilita decisiones informadas que protegen recursos naturales y fomentan prácticas sostenibles."
+},
+{
+  "intent_id": "contraargumentos_proyecciones_futuras_tecnologia",
+  "keywords": [
+    "tecnologia",
+    "proyeccion",
+    "argumento",
+    "evaluar",
+    "impacto"
+  ],
+  "base_response": "Un contraargumento basado en proyecciones futuras usa avances tecnológicos posibles para cuestionar una idea. Permite evaluar si un argumento sigue siendo válido cuando cambian herramientas, procesos o capacidades. Ayuda a pensar críticamente sobre efectos reales de innovaciones emergentes."
+},
+{
+  "intent_id": "errores_citas_textuales_redaccion",
+  "keywords": [
+    "cita",
+    "texto",
+    "copiar",
+    "autor",
+    "interpretar"
+  ],
+  "base_response": "Muchos estudiantes confunden la cita textual con un resumen y alteran palabras sin indicar cambios. Otros copian frases sin mencionar al autor, lo que provoca pérdida de credibilidad. También mezclan ideas propias dentro de la cita, generando confusión y errores de interpretación."
+},
+{
+  "intent_id": "historia_origen_cita_textual",
+  "keywords": [
+    "cita",
+    "texto",
+    "autor",
+    "escritura",
+    "comunicacion"
+  ],
+  "base_response": "Las citas textuales surgieron cuando los primeros escritores necesitaban mostrar palabras exactas de otros autores. Con el tiempo se volvieron esenciales para respetar ideas ajenas, evitar confusiones y fortalecer la comunicación académica. Su uso evolucionó junto al desarrollo de libros y estudios formales."
+},
+{
+  "intent_id": "aplicacion_citas_textuales_redaccion",
+  "keywords": [
+    "cita",
+    "texto",
+    "autor",
+    "escribir",
+    "aprender"
+  ],
+  "base_response": "Las citas textuales permiten reforzar ideas al escribir tareas escolares, proyectos y exposiciones. Ayudan a mostrar respeto por el autor original y a evitar plagio. Facilitan explicar conceptos difíciles usando palabras confiables y apoyan la construcción de argumentos claros y responsables."
+},
+{
+  "intent_id": "importancia_impacto_social_citas_textuales",
+  "keywords": [
+    "cita",
+    "texto",
+    "autor",
+    "comunicacion",
+    "aprender"
+  ],
+  "base_response": "Las citas textuales permiten reconocer ideas de otros y fortalecer la comunicación responsable. Ayudan a evitar la desinformación, muestran respeto por el trabajo ajeno y enseñan a los estudiantes a construir mensajes confiables que aportan claridad y valor en conversaciones escolares y comunitarias."
+},
+{
+  "intent_id": "ventajas_desventajas_citas_textuales",
+  "keywords": [
+    "cita",
+    "texto",
+    "autor",
+    "usar",
+    "comparar"
+  ],
+  "base_response": "Las citas textuales permiten reforzar ideas con palabras exactas del autor y aportan credibilidad. También ayudan a comparar opiniones distintas. Sin embargo, pueden limitar la expresión propia y generar dependencia del texto original si se usan en exceso o sin explicación adecuada."
+},
+{
+  "intent_id": "riesgos_medidas_citas_textuales",
+  "keywords": [
+    "cita",
+    "texto",
+    "autor",
+    "copiar",
+    "verificar"
+  ],
+  "base_response": "Usar citas textuales sin cuidado puede causar confusión, errores o atribuciones incorrectas. Verifica siempre el autor, copia fielmente el fragmento y revisa que la cita sea adecuada para tu tema. Mantén orden en tus fuentes y evita modificar palabras esenciales."
+},
+{
+  "intent_id": "mitos_citas_textuales_redaccion",
+  "keywords": [
+    "cita",
+    "texto",
+    "autor",
+    "interpretar",
+    "copiar"
+  ],
+  "base_response": "Muchos estudiantes creen que una cita textual consiste en copiar cualquier frase sin contexto. Una cita válida requiere respetar las palabras del autor, usar comillas y comprender su sentido. No debe emplearse para rellenar textos ni reemplazar ideas propias."
+},
+{
+  "intent_id": "consecuencias_largo_plazo_citas_textuales",
+  "keywords": [
+    "cita",
+    "texto",
+    "escribir",
+    "aprender",
+    "comprender"
+  ],
+  "base_response": "Usar citas textuales con cuidado fomenta hábitos de escritura responsables y mejora la comprensión futura. Integrar correctamente palabras ajenas ayuda a desarrollar pensamiento crítico y evita confusiones duraderas, fortaleciendo habilidades que acompañarán al estudiante en trabajos más avanzados."
+},
+{
+  "intent_id": "cita_textual_impacto_ambiental",
+  "keywords": [
+    "cita",
+    "texto",
+    "impacto",
+    "ambiente",
+    "informacion"
+  ],
+  "base_response": "Una cita textual puede reforzar explicaciones sobre impacto ambiental al incluir palabras exactas de especialistas. Su uso permite mostrar datos confiables sobre contaminación, conservación o energía. Ayuda a comprender problemas reales y respalda argumentos con evidencia clara y verificable."
+},
+{
+  "intent_id": "proyecciones_futuras_tecnologia_citas_textuales",
+  "keywords": [
+    "cita",
+    "texto",
+    "tecnologia",
+    "analisis",
+    "escritura"
+  ],
+  "base_response": "La incorporación de herramientas digitales permitirá identificar citas textuales con mayor precisión, verificar su autenticidad y organizar fuentes automáticamente. Estas tecnologías facilitarán que estudiantes comprendan cómo integrar citas correctamente y desarrollen prácticas de escritura más seguras y responsables."
+},
+{
+  "intent_id": "parafrasis_definicion_estructural_fuentes",
+  "keywords": [
+    "parafrasis",
+    "estructura",
+    "oracion",
+    "idea",
+    "texto"
+  ],
+  "base_response": "Una paráfrasis con definición estructural explica cómo se organiza un texto original. Describe partes esenciales como oraciones y ideas principales, mostrando su función dentro del contenido. Ayuda a comprender la arquitectura del mensaje sin copiar palabras exactas del autor."
+},
+{
+  "intent_id": "parafrasis_propiedades_materiales",
+  "keywords": [
+    "parafrasear",
+    "material",
+    "propiedad",
+    "sustancia",
+    "cambio"
+  ],
+  "base_response": "Parafrasear textos sobre propiedades químicas o materiales implica explicar con palabras propias cómo una sustancia reacciona, cambia o se comporta. Ayuda a comprender mejor características como resistencia, corrosión o combustión sin alterar el significado original del contenido estudiado."
+},
+{
+  "intent_id": "errores_parafrasis_fuentes",
+  "keywords": [
+    "parafrasis",
+    "texto",
+    "error",
+    "interpretar",
+    "copiar"
+  ],
+  "base_response": "La paráfrasis falla cuando el estudiante copia casi todo el texto original, cambia solo pocas palabras, altera el sentido real, agrega ideas que no existen o elimina partes importantes. Una buena paráfrasis exige comprender, interpretar y expresar el contenido con palabras propias."
+},
+{
+  "intent_id": "historia_origen_parafrasis_textual",
+  "keywords": [
+    "parafrasis",
+    "texto",
+    "origen",
+    "historia",
+    "escribir"
+  ],
+  "base_response": "La paráfrasis surgió como técnica escolar para explicar ideas complejas con palabras propias. Su uso creció cuando la lectura se volvió más común y los estudiantes necesitaban demostrar comprensión. Con el tiempo se convirtió en herramienta clave para estudiar, resumir y evitar repetir textos de forma mecánica."
+},
+{
+  "intent_id": "aplicaciones_parafrasis_vida_real",
+  "keywords": [
+    "parafrasis",
+    "comprension",
+    "texto",
+    "explicar",
+    "comunicar"
+  ],
+  "base_response": "La paráfrasis ayuda a explicar ideas con palabras propias, útil para estudiar, resumir tareas y comunicar información claramente. Permite comprender mejor textos difíciles y compartir contenido sin copiar. Facilita colaborar en proyectos escolares y expresar conceptos de forma precisa y responsable."
+},
+{
+  "intent_id": "ventajas_desventajas_parafrasis_fuentes",
+  "keywords": [
+    "parafrasis",
+    "fuente",
+    "texto",
+    "comparar",
+    "comprender"
+  ],
+  "base_response": "Parafrasear fuentes permite comprender mejor ideas complejas y expresarlas con palabras propias, lo que facilita el estudio. Sin embargo, puede perderse precisión si no se interpreta bien el contenido original. Comparar ventajas y desventajas ayuda a usar la paráfrasis de manera responsable y clara."
+},
+{
+  "intent_id": "riesgos_medidas_seguridad_parafrasis",
+  "keywords": [
+    "parafrasis",
+    "texto",
+    "riesgo",
+    "seguridad",
+    "cuidar"
+  ],
+  "base_response": "Parafrasear exige revisar el contenido sin alterar su sentido. Conviene evitar copiar fragmentos sin comprenderlos, pues puede generar errores. Resulta útil verificar fuentes confiables y mantener atención en la información sensible para prevenir confusiones y asegurar una comunicación clara y segura."
+},
+{
+  "intent_id": "clasificacion_taxonomica_parafrasis_fuentes",
+  "keywords": [
+    "parafrasis",
+    "clasificacion",
+    "texto",
+    "analisis",
+    "comprension"
+  ],
+  "base_response": "La clasificación taxonómica de la paráfrasis organiza distintos tipos según su nivel de transformación. Ayuda a identificar si el texto mantiene estructura original, cambia orden de ideas o reescribe con mayor libertad, facilitando comprensión y evaluación del contenido para estudiantes en formación."
+},
+{
+  "intent_id": "parafrasis_transformacion_ciclos_energeticos",
+  "keywords": [
+    "parafrasis",
+    "transformacion",
+    "energia",
+    "ciclo",
+    "texto"
+  ],
+  "base_response": "Parafrasear textos sobre transformación y ciclos energéticos implica explicar con palabras propias cómo la energía cambia de forma y se mueve entre procesos naturales. Requiere identificar ideas esenciales, evitar copiar frases y mantener el sentido científico original sin alterar conceptos clave."
+},
+{
+  "intent_id": "parafrasis_experimentos_demostraciones",
+  "keywords": [
+    "parafrasis",
+    "texto",
+    "experimento",
+    "explicar",
+    "comprension"
+  ],
+  "base_response": "Parafrasear un experimento escolar implica reinterpretar sus pasos y resultados usando palabras propias sin alterar el sentido. Esta práctica ayuda a comprender mejor el procedimiento, identificar ideas clave y comunicar el proceso de forma clara, ordenada y accesible para otros estudiantes."
+},
+{
+  "intent_id": "parafrasis_consecuencias_largo_plazo",
+  "keywords": [
+    "parafrasis",
+    "texto",
+    "comprension",
+    "analisis",
+    "interpretar"
+  ],
+  "base_response": "Parafrasear con atención permite comprender cómo ciertas ideas pueden influir en situaciones futuras. Al identificar consecuencias a largo plazo dentro de un texto, se desarrolla la capacidad de analizar efectos posibles y anticipar resultados, fortaleciendo el pensamiento crítico y la interpretación responsable de la información."
+},
+{
+  "intent_id": "mantenimiento_prevencion_parafrasis_textual",
+  "keywords": [
+    "parafrasis",
+    "texto",
+    "revision",
+    "comprension",
+    "corregir"
+  ],
+  "base_response": "La paráfrasis requiere mantener claridad revisando el texto para prevenir errores de sentido. Conviene comprobar que las ideas originales siguen presentes y corregir confusiones. Este proceso ayuda a conservar coherencia, evitar malentendidos y asegurar que el contenido sea comprensible para lectores jóvenes."
+},
+{
+  "intent_id": "errores_fallas_bibliografia",
+  "keywords": [
+    "bibliografia",
+    "error",
+    "fuente",
+    "autor",
+    "cita"
+  ],
+  "base_response": "Una bibliografía presenta errores cuando omite datos esenciales del autor, confunde fechas de publicación, mezcla formatos o incluye fuentes inexistentes. Revisar cada referencia permite asegurar claridad, orden y veracidad, evitando confusiones al lector y fortaleciendo la calidad del trabajo escolar."
+},
+{
+  "intent_id": "historia_origen_evolucion_bibliografia",
+  "keywords": [
+    "bibliografia",
+    "origen",
+    "historia",
+    "escritura",
+    "registro"
+  ],
+  "base_response": "La bibliografía surgió cuando las primeras civilizaciones necesitaron registrar autores y obras para conservar el conocimiento. Con el tiempo evolucionó hacia listas organizadas que permiten identificar fuentes confiables. Su desarrollo facilitó estudiar textos, verificar información y comprender la producción intelectual de distintas épocas."
+},
+{
+  "intent_id": "aplicacion_practica_bibliografia",
+  "keywords": [
+    "investigacion",
+    "fuente",
+    "citar",
+    "autor",
+    "buscar"
+  ],
+  "base_response": "La bibliografía permite identificar fuentes confiables al investigar temas escolares. Facilita citar correctamente autores y evitar el plagio. Ayuda a organizar información usada en trabajos y proyectos, guiando al estudiante para buscar datos verificables y construir tareas con mayor claridad y responsabilidad."
+},
+{
+  "intent_id": "mitos_concepciones_erroneas_bibliografia",
+  "keywords": [
+    "bibliografia",
+    "mito",
+    "autor",
+    "informacion",
+    "verificar"
+  ],
+  "base_response": "Muchos estudiantes creen que la bibliografía solo sirve para llenar espacio o que cualquier enlace funciona. La bibliografía demuestra de dónde proviene la información y ayuda a verificar datos. Usar fuentes confiables evita errores y fortalece la calidad del trabajo escolar."
+},
+{
+  "intent_id": "bibliografia_transformacion_ciclos_energeticos",
+  "keywords": [
+    "energia",
+    "transformacion",
+    "ciclo",
+    "materia",
+    "proceso"
+  ],
+  "base_response": "La bibliografía sobre transformación y ciclos energéticos explica cómo la energía cambia de forma y se mueve entre seres vivos y ambientes. Incluye textos que describen procesos como fotosíntesis, respiración y descomposición, ayudando a comprender relaciones entre materia, energía y equilibrio natural."
+},
+{
+  "intent_id": "bibliografia_impacto_ambiental",
+  "keywords": [
+    "fuente",
+    "informacion",
+    "investigar",
+    "contaminacion",
+    "ecosistema"
+  ],
+  "base_response": "Bibliografía sobre impacto ambiental permite identificar fuentes confiables que explican cómo las actividades humanas afectan ecosistemas. Facilita investigar contaminación, pérdida de biodiversidad y soluciones sostenibles. Ayuda a comprender datos científicos y desarrollar proyectos escolares con información verificada y clara."
+},
+{
+  "intent_id": "errores_normas_apa_escolares",
+  "keywords": [
+    "cita",
+    "formato",
+    "referencia",
+    "error",
+    "redactar"
+  ],
+  "base_response": "Normas APA suelen fallar cuando se omiten datos esenciales en citas, se mezclan estilos distintos, se confunden mayúsculas en títulos o se redactan referencias incompletas. Estudiantes deben revisar cada elemento y mantener coherencia para evitar confusiones y mejorar claridad académica."
+},
+{
+  "intent_id": "historia_origen_normas_apa",
+  "keywords": [
+    "normas",
+    "origen",
+    "historia",
+    "redaccion",
+    "estandar"
+  ],
+  "base_response": "Las Normas APA surgieron en 1929 cuando psicólogos estadounidenses buscaron un modo claro de organizar textos académicos. Su evolución ha creado reglas para citar, presentar ideas y ordenar documentos, ayudando a estudiantes a escribir con precisión y coherencia en trabajos escolares."
+},
+{
+  "intent_id": "aplicacion_practica_normas_apa_redaccion",
+  "keywords": [
+    "cita",
+    "fuente",
+    "autor",
+    "texto",
+    "escribir"
+  ],
+  "base_response": "Normas APA ayudan a reconocer ideas ajenas mediante citas claras, evitando confusiones al escribir tareas escolares. Facilitan organizar información de libros y sitios web, permiten mostrar respeto intelectual y mejoran la presentación de trabajos que requieren identificar autores y fuentes consultadas de manera ordenada."
+},
+{
+  "intent_id": "importancia_impacto_social_normas_apa",
+  "keywords": [
+    "norma",
+    "redaccion",
+    "citar",
+    "investigar",
+    "aprender"
+  ],
+  "base_response": "Las Normas APA ayudan a que la información usada en trabajos escolares sea clara y confiable. Su importancia social radica en promover respeto por las ideas ajenas, evitar el plagio y fomentar hábitos de investigación responsables que fortalecen la comunicación académica entre estudiantes."
+},
+{
+  "intent_id": "ventajas_desventajas_normas_apa",
+  "keywords": [
+    "norma",
+    "cita",
+    "orden",
+    "comparar",
+    "escribir"
+  ],
+  "base_response": "Normas APA ofrecen claridad y orden al citar fuentes, facilitando la lectura y verificación. También ayudan a evitar el plagio. Sin embargo, pueden resultar complejas para estudiantes jóvenes y exigir atención constante a detalles que a veces distraen del proceso de escribir."
+},
+{
+  "intent_id": "mitos_concepciones_erroneas_normas_apa",
+  "keywords": [
+    "mito",
+    "norma",
+    "cita",
+    "redaccion",
+    "confusion"
+  ],
+  "base_response": "Muchos estudiantes creen que las Normas APA solo sirven para trabajos universitarios, pero también ayudan a organizar ideas desde edades tempranas. Otro mito común es pensar que APA exige lenguaje complicado, cuando realmente busca claridad. También se confunde citar con copiar sin permiso."
+},
+{
+  "intent_id": "normas_apa_experimentos_escolares",
+  "keywords": [
+    "experimento",
+    "registro",
+    "analisis",
+    "resultado",
+    "redaccion"
+  ],
+  "base_response": "Un experimento escolar descrito con Normas APA requiere explicar propósito, materiales usados, pasos realizados y resultados obtenidos. Debe incluir citas breves cuando se apoye en ideas externas y presentar conclusiones claras que conecten la actividad con el aprendizaje científico esperado."
+},
+{
+  "intent_id": "consecuencias_largo_plazo_normas_apa",
+  "keywords": [
+    "norma",
+    "redaccion",
+    "habito",
+    "organizacion",
+    "comprension"
+  ],
+  "base_response": "Aplicar normas APA a largo plazo fortalece hábitos de organización y precisión en la redacción. Favorece una comprensión clara de fuentes, mejora la calidad de trabajos escolares y desarrolla responsabilidad académica que ayuda en estudios avanzados y proyectos donde citar correctamente resulta esencial."
+},
+{
+  "intent_id": "definicion_estructura_margenes_texto",
+  "keywords": [
+    "margen",
+    "pagina",
+    "espacio",
+    "texto",
+    "organizar"
+  ],
+  "base_response": "Un margen es el espacio en blanco que rodea el texto dentro de una página. Su función estructural es separar las palabras del borde, facilitar la lectura y permitir una presentación ordenada. Ayuda a organizar la información y evitar que el contenido se vea amontonado."
+},
+{
+  "intent_id": "ventajas_desventajas_margenes_formato",
+  "keywords": [
+    "margen",
+    "texto",
+    "orden",
+    "lectura",
+    "presentacion"
+  ],
+  "base_response": "Los márgenes amplios facilitan la lectura, mejoran la presentación y permiten agregar anotaciones. Sin embargo, reducen el espacio disponible para escribir. Los márgenes estrechos aprovechan más el espacio, pero pueden dificultar la claridad visual y hacer que el texto se vea demasiado apretado."
+},
+{
+  "intent_id": "margenes_formato_proyecciones_tecnologicas",
+  "keywords": [
+    "margen",
+    "formato",
+    "tecnologia",
+    "edicion",
+    "documento"
+  ],
+  "base_response": "Los avances digitales permiten que los márgenes se ajusten automáticamente según el tipo de documento. Herramientas inteligentes analizan contenido y recomiendan configuraciones claras para mejorar la lectura. Estas funciones ayudan a estudiantes a crear textos organizados y coherentes con menos errores y mayor precisión visual."
+},
+{
+  "intent_id": "errores_sangria_parrafo",
+  "keywords": [
+    "parrafo",
+    "sangria",
+    "texto",
+    "escribir",
+    "orden"
+  ],
+  "base_response": "Un error frecuente consiste en aplicar sangría de forma irregular, causando confusión visual. También ocurre que algunos estudiantes omiten la sangría inicial o la usan en cada línea sin motivo. Mantener un patrón claro ayuda a organizar ideas y mejorar la presentación del texto."
+},
+{
+  "intent_id": "historia_origen_sangria_parrafo",
+  "keywords": [
+    "parrafo",
+    "sangria",
+    "escritura",
+    "impresion",
+    "organizar"
+  ],
+  "base_response": "La sangría surgió en manuscritos antiguos para señalar el inicio de un párrafo. Con la imprenta se volvió una norma que ayudaba a ordenar textos y facilitar la lectura. Su uso evolucionó para mejorar la claridad visual en escritos escolares y académicos."
+},
+{
+  "intent_id": "aplicaciones_practicas_sangria_parrafos",
+  "keywords": [
+    "parrafo",
+    "sangria",
+    "escritura",
+    "orden",
+    "leer"
+  ],
+  "base_response": "La sangría ayuda a organizar textos escolares, facilita identificar el inicio de cada párrafo y mejora la lectura en tareas, informes y proyectos. Permite que otros comprendan ideas con rapidez y ayuda a presentar trabajos escritos con claridad y buena estructura."
+},
+{
+  "intent_id": "errores_interlineado_escritura",
+  "keywords": [
+    "interlineado",
+    "texto",
+    "error",
+    "lectura",
+    "escribir"
+  ],
+  "base_response": "Un interlineado incorrecto provoca textos amontonados o demasiado separados, dificultando la lectura y causando confusión. Revisar el espacio entre líneas ayuda a mantener orden, claridad y una presentación cuidada. Ajustar el interlineado evita errores comunes en trabajos escolares."
+},
+{
+  "intent_id": "aplicaciones_practicas_interlineado",
+  "keywords": [
+    "interlineado",
+    "texto",
+    "lectura",
+    "escritura",
+    "organizar"
+  ],
+  "base_response": "El interlineado ayuda a organizar textos para que resulten más fáciles de leer y comprender. Facilita la escritura ordenada en cuadernos, mejora la presentación de trabajos escolares y permite identificar ideas importantes sin confusión visual, apoyando hábitos de estudio claros y eficientes."
+},
+{
+  "intent_id": "interlineado_experimentos_escolares",
+  "keywords": [
+    "interlineado",
+    "lectura",
+    "texto",
+    "comparar",
+    "comprension"
+  ],
+  "base_response": "Un grupo de estudiantes puede comparar textos con distintos interlineados y medir cuánto tardan en leer cada versión. Luego analizan cuál separación facilita la comprensión y reduce errores. El experimento muestra cómo el espacio influye en la claridad visual del contenido escrito."
+},
+{
+  "intent_id": "errores_fallas_titulos_texto",
+  "keywords": [
+    "titulo",
+    "error",
+    "redaccion",
+    "confusion",
+    "claridad"
+  ],
+  "base_response": "Un título falla cuando usa palabras confusas, incluye información irrelevante o resulta demasiado largo. Un título débil no guía al lector ni refleja la idea central. Para evitar errores, conviene elegir términos precisos, mantener brevedad y asegurar coherencia con el contenido."
+},
+{
+  "intent_id": "historia_origen_titulo_texto",
+  "keywords": [
+    "titulo",
+    "texto",
+    "origen",
+    "historia",
+    "evolucion"
+  ],
+  "base_response": "Un título surgió como una forma de identificar textos antiguos y facilitar su organización. Con el tiempo evolucionó para captar atención y resumir ideas centrales. Su historia muestra cómo la escritura buscó siempre claridad, orden y comunicación efectiva entre autores y lectores."
+},
+{
+  "intent_id": "titulos_contexto_entorno_ecologico",
+  "keywords": [
+    "titulo",
+    "contexto",
+    "entorno",
+    "texto",
+    "comprender"
+  ],
+  "base_response": "Un título puede reflejar el contexto ecológico cuando menciona elementos naturales relevantes del entorno. Ayuda a comprender el ambiente donde ocurre la acción y orienta la lectura hacia temas ambientales. Facilita identificar relaciones entre seres vivos, espacios y situaciones descritas."
+},
+{
+  "intent_id": "titulos_textos_aplicaciones_practicas",
+  "keywords": [
+    "titulo",
+    "texto",
+    "comunicar",
+    "organizar",
+    "identificar"
+  ],
+  "base_response": "Un título claro ayuda a identificar rápidamente el propósito de un texto en situaciones reales, como guías escolares, instrucciones de uso o avisos comunitarios. Facilita comprender el contenido antes de leerlo completo y permite organizar información de manera eficiente en tareas académicas y proyectos juveniles."
+},
+{
+  "intent_id": "clasificacion_taxonomica_titulos_textuales",
+  "keywords": [
+    "titulo",
+    "clasificacion",
+    "texto",
+    "identificar",
+    "organizar"
+  ],
+  "base_response": "Un título puede clasificarse según su función en informativo, descriptivo o apelativo. Esta clasificación ayuda a identificar la intención del texto y organizar mejor la lectura. Reconocer el tipo de título permite anticipar el contenido y comprender más rápido la idea principal."
+}
+]
