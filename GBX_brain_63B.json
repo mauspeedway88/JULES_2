@@ -1,0 +1,1926 @@
+[
+    {
+        "intent_id": "mapa_identificar_concepto_confundir",
+        "keywords": [
+            "mapa",
+            "identificar",
+            "concepto",
+            "confundir",
+            "estructura"
+        ],
+        "base_response": "Detecta la confusión de jerarquías cuando el estudiante mezcla ideas principales con detalles menores, generando mapas conceptuales desordenados que dificultan la comprensión lectora. Corrige esta falla enseñando a distinguir niveles de importancia y a organizar conexiones con criterios claros."
+    },
+    {
+        "intent_id": "estructura_organizar_concepto_representar",
+        "keywords": [
+            "estructura",
+            "organizar",
+            "concepto",
+            "representar",
+            "lectura"
+        ],
+        "base_response": "Un mapa conceptual de lectura se compone de nodos que muestran ideas clave conectadas por líneas que indican relaciones lógicas. Su estructura jerárquica permite visualizar cómo se ordenan y vinculan los contenidos esenciales para facilitar la comprensión de textos en estudiantes jóvenes."
+    },
+    {
+        "intent_id": "estructura_organizar_informacion_representar",
+        "keywords": [
+            "estructura",
+            "organizar",
+            "informacion",
+            "representar",
+            "comprension"
+        ],
+        "base_response": "Los mapas conceptuales de lectura funcionan mediante nodos conectados que organizan ideas clave y relaciones. Su dinámica física depende de distribuir conceptos de forma visible, permitiendo que estudiantes identifiquen patrones, jerarquías y conexiones que fortalecen la comprensión lectora."
+    },
+    {
+        "intent_id": "lectura_trazar_mapa_representar",
+        "keywords": [
+            "lectura",
+            "trazar",
+            "mapa",
+            "representar",
+            "origen"
+        ],
+        "base_response": "Los mapas conceptuales de lectura surgieron como una herramienta educativa en el siglo XX para organizar ideas clave de textos. Su evolución incorporó técnicas visuales que facilitan conexiones entre conceptos, ayudando a estudiantes jóvenes a comprender procesos históricos y narrativos con mayor claridad."
+    },
+    {
+        "intent_id": "lectura_analizar_estructura_transformar",
+        "keywords": [
+            "lectura",
+            "analizar",
+            "estructura",
+            "transformar",
+            "informacion"
+        ],
+        "base_response": "Los mapas conceptuales de lectura pueden entenderse como materiales que reaccionan cognitivamente al organizar ideas, pues transforman información dispersa en una estructura clara. Esta propiedad facilita comprender textos complejos y fortalece la capacidad de analizar relaciones esenciales entre conceptos."
+    },
+    {
+        "intent_id": "mapa_comparar_lectura_evaluar",
+        "keywords": [
+            "mapa",
+            "comparar",
+            "lectura",
+            "evaluar",
+            "ventaja"
+        ],
+        "base_response": "Permite identificar con rapidez relaciones clave entre ideas y facilita recordar secuencias narrativas, aunque puede limitar la exploración profunda si se simplifica demasiado. Favorece comparar textos similares, pero exige práctica para evitar confusiones en conexiones conceptuales."
+    },
+    {
+        "intent_id": "contexto_analizar_entorno_organizar",
+        "keywords": [
+            "contexto",
+            "analizar",
+            "entorno",
+            "organizar",
+            "lectura"
+        ],
+        "base_response": "Los mapas conceptuales de lectura integran elementos del entorno inmediato para ayudar a estudiantes a relacionar textos con experiencias reales, fortaleciendo la comprensión contextual. Esta conexión ecológica facilita interpretar información y construir significados coherentes dentro de situaciones cotidianas relevantes."
+    },
+    {
+        "intent_id": "lectura_mapa_comunidad_fortalecer",
+        "keywords": [
+            "lectura",
+            "mapa",
+            "comunidad",
+            "fortalecer",
+            "comprension"
+        ],
+        "base_response": "Los mapas conceptuales de lectura fortalecen la comprensión compartida al permitir que estudiantes identifiquen conexiones clave y las comuniquen con claridad, generando impacto social positivo mediante prácticas colaborativas que mejoran el intercambio de ideas y fomentan comunidades escolares más informadas y participativas."
+    },
+    {
+        "intent_id": "mapa_analizar_lectura_organizar",
+        "keywords": [
+            "mapa",
+            "analizar",
+            "lectura",
+            "organizar",
+            "concepto"
+        ],
+        "base_response": "Permite aplicar la lectura a situaciones reales al organizar ideas clave de un texto y relacionarlas con acciones concretas. Facilita comprender instrucciones, resolver problemas cotidianos y planificar tareas escolares mediante conexiones visuales que fortalecen la interpretación y el razonamiento."
+    },
+    {
+        "intent_id": "mapa_analizar_lectura_proteger",
+        "keywords": [
+            "mapa",
+            "analizar",
+            "lectura",
+            "proteger",
+            "riesgo"
+        ],
+        "base_response": "Identifica riesgos al crear mapas conceptuales de lectura recordando que la información debe organizarse sin exponer datos personales. Explica cómo proteger tus apuntes usando claves visuales seguras y evitando compartir archivos sin supervisión para mantener un entorno académico confiable."
+    },
+    {
+        "intent_id": "clasificacion_organizar_concepto_representar",
+        "keywords": [
+            "clasificacion",
+            "organizar",
+            "concepto",
+            "representar",
+            "categoria"
+        ],
+        "base_response": "La clasificación taxonómica en mapas conceptuales de lectura organiza conceptos según su nivel de generalidad, permitiendo que estudiantes identifiquen categorías principales y subcategorías relacionadas. Esta estructura facilita comprender jerarquías de ideas y reconocer cómo se conectan los elementos clave del texto."
+    },
+    {
+        "intent_id": "lectura_calcular_estructura_organizar",
+        "keywords": [
+            "lectura",
+            "calcular",
+            "estructura",
+            "organizar",
+            "contenido"
+        ],
+        "base_response": "Elabora un mapa conceptual de lectura aplicando conteos simples para estimar la frecuencia de ideas clave y relacionarlas con nodos principales, permitiendo verificar patrones de comprensión mediante cálculos básicos que fortalecen la organización lógica del contenido analizado."
+    },
+    {
+        "intent_id": "lectura_integrar_sistema_conectar",
+        "keywords": [
+            "lectura",
+            "integrar",
+            "sistema",
+            "conectar",
+            "contenido"
+        ],
+        "base_response": "Los mapas conceptuales de lectura establecen una relación simbiótica al integrar información con otros sistemas escolares, permitiendo conectar ideas nuevas con contenidos previos y fortalecer la comprensión. Esta interacción favorece aprendizajes más estables y facilita la transferencia de conocimientos entre distintas áreas."
+    },
+    {
+        "intent_id": "lectura_analizar_mapa_interpretar",
+        "keywords": [
+            "lectura",
+            "analizar",
+            "mapa",
+            "interpretar",
+            "concepto"
+        ],
+        "base_response": "Muchos estudiantes creen que un mapa conceptual de lectura solo sirve para decorar ideas, pero su función real es organizar relaciones entre conceptos. Comprender esta estructura evita confusiones y mejora la interpretación de textos al mostrar conexiones esenciales de manera clara."
+    },
+    {
+        "intent_id": "energia_transformar_lectura_analizar",
+        "keywords": [
+            "energia",
+            "transformar",
+            "lectura",
+            "analizar",
+            "ciclo"
+        ],
+        "base_response": "Mapas conceptuales de lectura permiten identificar cómo la energía fluye y se transforma en procesos naturales, mostrando ciclos que conectan causas y efectos. Esta representación ayuda a estudiantes a comprender relaciones dinámicas y organizar ideas de manera clara y estructurada."
+    },
+    {
+        "intent_id": "lectura_experimentar_mapa_analizar",
+        "keywords": [
+            "lectura",
+            "experimentar",
+            "mapa",
+            "analizar",
+            "concepto"
+        ],
+        "base_response": "Explora cómo un mapa conceptual de lectura puede construirse mediante una demostración escolar que muestre relaciones entre ideas del texto, permitiendo observar conexiones, probar reorganizaciones y verificar cómo cada cambio afecta la comprensión global del contenido narrativo o informativo."
+    },
+    {
+        "intent_id": "lectura_organizar_concepto_fortalecer",
+        "keywords": [
+            "lectura",
+            "organizar",
+            "concepto",
+            "fortalecer",
+            "comprension"
+        ],
+        "base_response": "El uso constante de mapas conceptuales de lectura genera a largo plazo una estructura mental más ordenada, permitiendo que estudiantes del tercer ciclo retengan ideas esenciales, relacionen información con mayor precisión y desarrollen una comprensión profunda que mejora su autonomía lectora."
+    },
+    {
+        "intent_id": "estructura_organizar_contenido_representar",
+        "keywords": [
+            "estructura",
+            "organizar",
+            "contenido",
+            "representar",
+            "concepto"
+        ],
+        "base_response": "Un cuadro sinóptico de textos presenta una estructura jerárquica que organiza ideas principales y secundarias mediante llaves o ramas, permitiendo visualizar cómo se relacionan los conceptos esenciales dentro de un contenido escrito y facilitando su comprensión global."
+    },
+    {
+        "intent_id": "ecosistema_analizar_lectura_reducir",
+        "keywords": [
+            "ecosistema",
+            "analizar",
+            "lectura",
+            "reducir",
+            "impacto"
+        ],
+        "base_response": "Mapas conceptuales de lectura permiten a estudiantes identificar relaciones entre ideas y comprender cómo ciertas acciones humanas afectan el ambiente, facilitando análisis crítico sobre uso responsable de recursos y promoviendo decisiones informadas para disminuir impactos negativos en su entorno cotidiano."
+    },
+    {
+        "intent_id": "tecnologia_proyectar_lectura_integrar",
+        "keywords": [
+            "tecnologia",
+            "proyectar",
+            "lectura",
+            "integrar",
+            "mapa"
+        ],
+        "base_response": "La integración de herramientas digitales permite proyectar mapas conceptuales de lectura hacia entornos interactivos que anticipan rutas de comprensión futuras, facilitan conexiones automáticas entre ideas y fortalecen la capacidad del estudiante para explorar contenidos con mayor autonomía y precisión."
+    },
+    {
+        "intent_id": "mapa_analizar_lectura_organizar",
+        "keywords": [
+            "mapa",
+            "analizar",
+            "lectura",
+            "organizar",
+            "prevencion"
+        ],
+        "base_response": "Promueve revisar periódicamente los mapas conceptuales de lectura para detectar confusiones tempranas, reforzar conexiones esenciales y evitar errores persistentes. Facilita mantener la estructura clara, prevenir interpretaciones incorrectas y asegurar que el estudiante consolide hábitos de comprensión duraderos y confiables."
+    },
+    {
+        "intent_id": "estructura_organizar_contenido_representar",
+        "keywords": [
+            "estructura",
+            "organizar",
+            "contenido",
+            "representar",
+            "relacion"
+        ],
+        "base_response": "Explica como un cuadro sinóptico transforma la lectura en una estructura visual que organiza ideas centrales, representa conexiones entre conceptos y facilita la comprensión física del flujo informativo mediante ramas claras que guían la interpretación activa del contenido textual."
+    },
+    {
+        "intent_id": "estructura_analizar_contenido_organizar",
+        "keywords": [
+            "estructura",
+            "analizar",
+            "contenido",
+            "organizar",
+            "informacion"
+        ],
+        "base_response": "Describe cómo un cuadro sinóptico puede funcionar como un material que transforma información extensa en una estructura más estable y clara, similar a un proceso químico donde se ordenan elementos para facilitar la comprensión y la memoria en estudiantes que requieren visualizar relaciones esenciales."
+    },
+    {
+        "intent_id": "estudiante_analizar_texto_organizar",
+        "keywords": [
+            "estudiante",
+            "analizar",
+            "texto",
+            "organizar",
+            "error"
+        ],
+        "base_response": "Detectar errores frecuentes en cuadros sinópticos exige revisar cómo el estudiante organiza ideas, pues confundir niveles de información provoca estructuras rígidas y conexiones débiles. Corregir estos fallos mejora la comprensión y fortalece la representación visual del texto."
+    },
+    {
+        "intent_id": "origen_trazar_estructura_evolucionar",
+        "keywords": [
+            "origen",
+            "trazar",
+            "estructura",
+            "evolucionar",
+            "contenido"
+        ],
+        "base_response": "Los cuadros sinópticos surgieron como respuesta escolar para organizar ideas de textos extensos, evolucionando desde simples esquemas lineales hacia representaciones más jerárquicas. Su desarrollo histórico fortaleció la comprensión lectora al permitir visualizar relaciones conceptuales de manera clara y progresiva."
+    },
+    {
+        "intent_id": "contexto_analizar_entorno_organizar",
+        "keywords": [
+            "contexto",
+            "analizar",
+            "entorno",
+            "organizar",
+            "informacion"
+        ],
+        "base_response": "Relaciona el contenido del texto con elementos del entorno inmediato para mostrar cómo influyen en su significado. Orienta al estudiante a identificar factores ambientales relevantes y organizarlos visualmente, fortaleciendo la comprensión de relaciones entre ideas y situaciones reales del contexto ecológico."
+    },
+    {
+        "intent_id": "texto_analizar_idea_organizar",
+        "keywords": [
+            "texto",
+            "analizar",
+            "idea",
+            "organizar",
+            "comprender"
+        ],
+        "base_response": "Los cuadros sinópticos permiten aplicar la información de un texto en situaciones reales al organizar ideas esenciales de forma clara. Facilitan comprender instrucciones, resumir contenidos escolares y planear tareas cotidianas mediante conexiones visuales que fortalecen la interpretación y el uso práctico del conocimiento."
+    },
+    {
+        "intent_id": "estructura_comparar_contenido_organizar",
+        "keywords": [
+            "estructura",
+            "comparar",
+            "contenido",
+            "organizar",
+            "informacion"
+        ],
+        "base_response": "Los cuadros sinópticos facilitan comparar ideas porque muestran relaciones claras y ordenadas, pero pueden limitar detalles cuando el texto es muy complejo. Resultan útiles para estudiantes que necesitan visualizar diferencias y similitudes sin perder la comprensión general del contenido original."
+    },
+    {
+        "intent_id": "seguridad_analizar_riesgo_organizar",
+        "keywords": [
+            "seguridad",
+            "analizar",
+            "riesgo",
+            "organizar",
+            "contenido"
+        ],
+        "base_response": "Los cuadros sinópticos de textos requieren medidas de seguridad que eviten confusiones al organizar información. Es esencial identificar riesgos como datos mal clasificados y aplicar controles que aseguren claridad, permitiendo a estudiantes comprender relaciones conceptuales sin errores que afecten su aprendizaje."
+    },
+    {
+        "intent_id": "estructura_organizar_categoria_agrupar",
+        "keywords": [
+            "estructura",
+            "organizar",
+            "categoria",
+            "agrupar",
+            "contenido"
+        ],
+        "base_response": "Clasifica información textual mediante categorías jerárquicas que muestran cómo se relacionan las ideas principales y secundarias, permitiendo ordenar conceptos de forma visual y lógica para facilitar la comprensión y el estudio en edades escolares intermedias."
+    },
+    {
+        "intent_id": "sintesis_organizar_contenido_representar",
+        "keywords": [
+            "sintesis",
+            "organizar",
+            "contenido",
+            "representar",
+            "impacto"
+        ],
+        "base_response": "Favorece la comprensión colectiva al transformar información extensa en estructuras visuales claras que facilitan el diálogo escolar. Promueve decisiones informadas y fortalece la participación juvenil al mostrar relaciones esenciales entre ideas, generando beneficios educativos que influyen positivamente en la comunidad."
+    },
+    {
+        "intent_id": "experimento_analizar_texto_organizar",
+        "keywords": [
+            "experimento",
+            "analizar",
+            "texto",
+            "organizar",
+            "concepto"
+        ],
+        "base_response": "El cuadro sinóptico permite transformar un experimento escolar en una estructura visual que organiza procedimientos, observaciones y conclusiones. Facilita comprender cómo cada etapa del experimento se relaciona con ideas centrales del texto, fortaleciendo la interpretación científica en estudiantes jóvenes."
+    },
+    {
+        "intent_id": "mito_confundir_texto_simplificar",
+        "keywords": [
+            "mito",
+            "confundir",
+            "texto",
+            "simplificar",
+            "estructura"
+        ],
+        "base_response": "Muchos estudiantes creen que un cuadro sinóptico solo resume textos extensos, pero este mito limita su uso. Un cuadro sinóptico organiza ideas esenciales sin alterar el sentido original, permitiendo comprender relaciones conceptuales y evitar interpretaciones erróneas que afectan el aprendizaje."
+    },
+    {
+        "intent_id": "sistema_integrar_texto_organizar",
+        "keywords": [
+            "sistema",
+            "integrar",
+            "texto",
+            "organizar",
+            "simbolo"
+        ],
+        "base_response": "Los cuadros sinópticos de textos establecen una relación simbiótica con sistemas de símbolos al integrar palabras, flechas y llaves que cooperan para mostrar conexiones esenciales. Esta interacción facilita que estudiantes comprendan estructuras complejas mediante representaciones visuales que refuerzan la lectura analítica."
+    },
+    {
+        "intent_id": "sintesis_organizar_contenido_evaluar",
+        "keywords": [
+            "sintesis",
+            "organizar",
+            "contenido",
+            "evaluar",
+            "estructura"
+        ],
+        "base_response": "El uso constante de cuadros sinópticos de textos fortalece la capacidad de organizar información con precisión, mejora la memoria a largo plazo y facilita la comprensión profunda de ideas complejas, permitiendo que los estudiantes desarrollen hábitos de estudio más eficientes y sostenidos en el tiempo."
+    },
+    {
+        "intent_id": "estructura_calcular_relacion_organizar",
+        "keywords": [
+            "estructura",
+            "calcular",
+            "relacion",
+            "organizar",
+            "contenido"
+        ],
+        "base_response": "El uso de cuadros sinópticos permite aplicar cálculos simples para estimar proporciones de ideas principales y secundarias, facilitando la organización equilibrada del contenido textual y ayudando a verificar que cada sección conserve una distribución coherente dentro del esquema general."
+    },
+    {
+        "intent_id": "ecosistema_analizar_impacto_evaluar",
+        "keywords": [
+            "ecosistema",
+            "analizar",
+            "impacto",
+            "evaluar",
+            "contaminacion"
+        ],
+        "base_response": "Explica cómo un cuadro sinóptico de textos permite identificar el impacto ambiental descrito en un contenido, organizando causas, efectos y posibles soluciones para comprender mejor la relación entre actividades humanas y cambios en los ecosistemas sin perder claridad ni rigor educativo."
+    },
+    {
+        "intent_id": "contexto_analizar_lexico_interpretar",
+        "keywords": [
+            "contexto",
+            "analizar",
+            "lexico",
+            "interpretar",
+            "significado"
+        ],
+        "base_response": "El vocabulario por contexto lector se entiende como la estructura interna que permite relacionar palabras con pistas cercanas del texto, usando rasgos semánticos y conexiones previas para deducir significados y fortalecer la comprensión durante la lectura escolar."
+    },
+    {
+        "intent_id": "sistema_organizar_contenido_evaluar",
+        "keywords": [
+            "sistema",
+            "organizar",
+            "contenido",
+            "evaluar",
+            "estructura"
+        ],
+        "base_response": "Promueve mantener la claridad del cuadro sinóptico revisando periódicamente su organización, detectando errores y corrigiendo conexiones confusas. Refuerza la prevención de fallos al verificar que cada nodo conserve sentido y apoye la comprensión del texto original sin generar contradicciones."
+    },
+    {
+        "intent_id": "sintesis_organizar_tecnologia_proyectar",
+        "keywords": [
+            "sintesis",
+            "organizar",
+            "tecnologia",
+            "proyectar",
+            "contenido"
+        ],
+        "base_response": "La integración de cuadros sinópticos con herramientas digitales permite proyectar futuros usos educativos mediante estructuras visuales que organizan contenido esencial. Esta tecnología facilita comprender relaciones clave y anticipar nuevas formas de estudiar textos con mayor claridad y eficiencia."
+    },
+    {
+        "intent_id": "contexto_analizar_texto_inferir",
+        "keywords": [
+            "contexto",
+            "analizar",
+            "texto",
+            "inferir",
+            "significado"
+        ],
+        "base_response": "Comprender el vocabulario por contexto lector implica reconocer cómo las palabras interactúan físicamente dentro del texto, observando ritmo, secuencia y posición para inferir significados. Esta dinámica ayuda a estudiantes a interpretar términos desconocidos mediante pistas estructurales claras."
+    },
+    {
+        "intent_id": "vocabulario_confundir_contexto_interpretar",
+        "keywords": [
+            "vocabulario",
+            "confundir",
+            "contexto",
+            "interpretar",
+            "significado"
+        ],
+        "base_response": "La lectura puede mostrar fallas cuando el estudiante confunde palabras por depender solo de significados memorizados. Este error surge al ignorar pistas contextuales, generando interpretaciones imprecisas que afectan la comprensión global y dificultan la construcción de inferencias coherentes."
+    },
+    {
+        "intent_id": "material_analizar_contexto_identificar",
+        "keywords": [
+            "material",
+            "analizar",
+            "contexto",
+            "identificar",
+            "sustancia"
+        ],
+        "base_response": "Comprende cómo ciertas palabras describen materiales según su comportamiento químico, permitiendo identificar sustancias por pistas del texto. Reconoce términos que indican reactividad, cambios visibles o transformaciones, fortaleciendo la interpretación lectora y la comprensión científica en situaciones cotidianas."
+    },
+    {
+        "intent_id": "contexto_evolucionar_vocabulario_analizar",
+        "keywords": [
+            "contexto",
+            "evolucionar",
+            "vocabulario",
+            "analizar",
+            "lectura"
+        ],
+        "base_response": "El vocabulario por contexto lector surgió cuando educadores observaron que las palabras cambian significado según la situación narrativa. Su evolución integró estrategias que permiten a estudiantes inferir sentidos nuevos mediante pistas textuales, fortaleciendo comprensión y ampliando conexiones conceptuales."
+    },
+    {
+        "intent_id": "contexto_analizar_ecosistema_interpretar",
+        "keywords": [
+            "contexto",
+            "analizar",
+            "ecosistema",
+            "interpretar",
+            "comunidad"
+        ],
+        "base_response": "Comprender vocabulario por contexto lector implica reconocer cómo el entorno ecológico influye en el significado de las palabras, permitiendo al estudiante identificar matices asociados a relaciones naturales, dinámicas comunitarias y cambios ambientales que enriquecen su interpretación lectora."
+    },
+    {
+        "intent_id": "contexto_leer_situacion_analizar",
+        "keywords": [
+            "contexto",
+            "leer",
+            "situacion",
+            "analizar",
+            "significado"
+        ],
+        "base_response": "Comprender vocabulario por contexto lector permite inferir significados usando pistas de la situación descrita. Esta habilidad mejora decisiones cotidianas al interpretar instrucciones, advertencias o mensajes, fortaleciendo la autonomía comunicativa de estudiantes y facilitando una lectura funcional en diversos entornos reales."
+    },
+    {
+        "intent_id": "contexto_analizar_riesgo_evaluar",
+        "keywords": [
+            "contexto",
+            "analizar",
+            "riesgo",
+            "evaluar",
+            "seguridad"
+        ],
+        "base_response": "Comprender el vocabulario por contexto lector permite identificar señales de riesgo en textos narrativos o informativos, analizando palabras que anticipan peligro y evaluando su función para reforzar medidas de seguridad aplicables a situaciones cotidianas escolares y comunitarias."
+    },
+    {
+        "intent_id": "contexto_comparar_lector_evaluar",
+        "keywords": [
+            "contexto",
+            "comparar",
+            "lector",
+            "evaluar",
+            "ventaja"
+        ],
+        "base_response": "Analiza cómo el vocabulario por contexto lector facilita inferencias rápidas frente a la memorización aislada, pero también puede generar confusiones cuando el entorno narrativo ofrece pistas ambiguas. Explica estas diferencias para fortalecer decisiones lectoras en situaciones variadas."
+    },
+    {
+        "intent_id": "contexto_clasificar_vocabulario_analizar",
+        "keywords": [
+            "contexto",
+            "clasificar",
+            "vocabulario",
+            "analizar",
+            "categoria"
+        ],
+        "base_response": "La clasificación taxonómica del vocabulario por contexto lector organiza palabras según funciones semánticas que emergen dentro de un texto, permitiendo a estudiantes identificar categorías coherentes y comprender cómo cada término contribuye a la construcción de significado global."
+    },
+    {
+        "intent_id": "contexto_analizar_lectura_fortalecer",
+        "keywords": [
+            "contexto",
+            "analizar",
+            "lectura",
+            "fortalecer",
+            "comunidad"
+        ],
+        "base_response": "El vocabulario por contexto lector influye en la comprensión social al permitir que estudiantes identifiquen significados relevantes y comuniquen ideas con mayor precisión, fortaleciendo la participación comunitaria y promoviendo interacciones respetuosas que mejoran la convivencia y el aprendizaje compartido."
+    },
+    {
+        "intent_id": "contexto_calcular_vocabulario_estimar",
+        "keywords": [
+            "contexto",
+            "calcular",
+            "vocabulario",
+            "estimar",
+            "patron"
+        ],
+        "base_response": "Identifica relaciones cuantitativas entre palabras del texto para estimar significados según su frecuencia y posición. Aplica conteos simples y comparaciones numéricas que permiten inferir patrones semánticos y ajustar la comprensión lectora con mayor precisión en situaciones variadas."
+    },
+    {
+        "intent_id": "mito_confundir_contexto_interpretar",
+        "keywords": [
+            "mito",
+            "confundir",
+            "contexto",
+            "interpretar",
+            "significado"
+        ],
+        "base_response": "Muchos estudiantes creen que el contexto lector siempre revela el significado exacto de cada palabra, pero esta idea es errónea. El contexto orienta la interpretación, aunque requiere verificar matices y evitar asumir definiciones sin analizar pistas lingüísticas adicionales."
+    },
+    {
+        "intent_id": "energia_transformar_materia_ciclar",
+        "keywords": [
+            "energia",
+            "transformar",
+            "materia",
+            "ciclar",
+            "sistema"
+        ],
+        "base_response": "Comprender vocabulario por contexto lector implica reconocer cómo palabras relacionadas con transformación y ciclos energéticos describen procesos donde la energía cambia de forma y circula entre materia y sistemas, permitiendo interpretar textos científicos con mayor precisión y sentido aplicado."
+    },
+    {
+        "intent_id": "contexto_analizar_vocabulario_experimentar",
+        "keywords": [
+            "contexto",
+            "analizar",
+            "vocabulario",
+            "experimentar",
+            "lectura"
+        ],
+        "base_response": "El estudiante observa cómo ciertas palabras cambian su significado según el entorno narrativo, comprobando mediante pequeñas demostraciones que el vocabulario se interpreta mejor cuando se relaciona con acciones, objetos y situaciones concretas presentes en la lectura escolar."
+    },
+    {
+        "intent_id": "contexto_analizar_vocabulario_anticipar",
+        "keywords": [
+            "contexto",
+            "analizar",
+            "vocabulario",
+            "anticipar",
+            "lectura"
+        ],
+        "base_response": "Comprender vocabulario según contexto lector genera consecuencias a largo plazo al fortalecer la capacidad de anticipar significados, mejorar la interpretación de textos y sostener aprendizajes autónomos. Este hábito consolida estrategias cognitivas que facilitan comprender ideas complejas en etapas educativas posteriores."
+    },
+    {
+        "intent_id": "ecosistema_evaluar_contaminante_alterar",
+        "keywords": [
+            "ecosistema",
+            "evaluar",
+            "contaminante",
+            "alterar",
+            "biodiversidad"
+        ],
+        "base_response": "Comprender el impacto ambiental exige identificar cómo un contaminante altera un ecosistema y afecta la biodiversidad. El lector debe relacionar cada término con cambios reales en suelo, agua o aire para interpretar consecuencias y proponer acciones de cuidado ambiental."
+    },
+    {
+        "intent_id": "contexto_analizar_lexico_mantener",
+        "keywords": [
+            "contexto",
+            "analizar",
+            "lexico",
+            "mantener",
+            "comprender"
+        ],
+        "base_response": "Promueve la revisión constante del vocabulario usado en cada lectura para prevenir confusiones y mantener la coherencia interpretativa. Indica cómo ciertas palabras cambian su sentido según el entorno narrativo, ayudando a sostener una comprensión estable y evitar errores de interpretación."
+    },
+    {
+        "intent_id": "vocabulario_integrar_contexto_conectar",
+        "keywords": [
+            "vocabulario",
+            "integrar",
+            "contexto",
+            "conectar",
+            "sistema"
+        ],
+        "base_response": "El vocabulario por contexto lector establece una relación simbiótica al conectarse con sistemas cognitivos que organizan significados y con sistemas sociales que comparten usos lingüísticos, fortaleciendo la comprensión mediante intercambios constantes entre lectura, memoria y comunicación escolar."
+    },
+    {
+        "intent_id": "contexto_analizar_vocabulario_proyectar",
+        "keywords": [
+            "contexto",
+            "analizar",
+            "vocabulario",
+            "proyectar",
+            "tecnologia"
+        ],
+        "base_response": "Explora cómo las herramientas digitales futuras podrán identificar patrones de lectura y sugerir vocabulario adaptado al contexto, permitiendo que estudiantes comprendan textos con mayor precisión mediante sistemas que anticipan necesidades lingüísticas y ajustan recomendaciones en tiempo real."
+    },
+    {
+        "intent_id": "lexico_interpretar_significado_procesar",
+        "keywords": [
+            "lexico",
+            "interpretar",
+            "significado",
+            "procesar",
+            "contexto"
+        ],
+        "base_response": "El significado de palabras leídas se sustenta en una estructura mental que organiza rasgos semánticos, activa redes léxicas y vincula cada término con experiencias previas. Esta arquitectura permite identificar matices, ajustar interpretaciones y consolidar comprensión precisa durante la lectura."
+    },
+    {
+        "intent_id": "confusion_interpretar_termino_distorsionar",
+        "keywords": [
+            "confusion",
+            "interpretar",
+            "termino",
+            "distorsionar",
+            "significado"
+        ],
+        "base_response": "La confusión semántica aparece cuando el estudiante asigna significados erróneos a palabras conocidas, afectando la comprensión global. Este problema surge por vocabulario limitado, lectura apresurada o falta de verificación contextual, generando interpretaciones inestables y respuestas incorrectas."
+    },
+    {
+        "intent_id": "material_reaccion_compuesto_transformar",
+        "keywords": [
+            "material",
+            "reaccion",
+            "compuesto",
+            "transformar",
+            "estructura"
+        ],
+        "base_response": "Comprender el significado de palabras leídas sobre propiedades químicas implica reconocer cómo un material cambia al reaccionar con otros, identificando compuestos formados y analizando la estructura resultante para interpretar con precisión procesos que modifican sustancias en situaciones cotidianas y escolares."
+    },
+    {
+        "intent_id": "contexto_analizar_entorno_interpretar",
+        "keywords": [
+            "contexto",
+            "analizar",
+            "entorno",
+            "interpretar",
+            "significado"
+        ],
+        "base_response": "Comprender el significado de palabras leídas exige analizar cómo el entorno influye en su sentido. El estudiante debe identificar elementos del contexto ecológico que modifican matices, relacionar situaciones con vocablos y ajustar interpretaciones según cambios ambientales presentes en el texto."
+    },
+    {
+        "intent_id": "significado_comparar_contexto_evaluar",
+        "keywords": [
+            "significado",
+            "comparar",
+            "contexto",
+            "evaluar",
+            "interpretacion"
+        ],
+        "base_response": "Comprender el significado de palabras leídas implica comparar posibles sentidos y evaluar cuál encaja mejor en el contexto. Esta habilidad permite detectar ventajas y desventajas entre interpretaciones, fortaleciendo decisiones lingüísticas más precisas y evitando confusiones durante la lectura."
+    },
+    {
+        "intent_id": "significado_clasificar_palabra_analizar",
+        "keywords": [
+            "significado",
+            "clasificar",
+            "palabra",
+            "analizar",
+            "categoria"
+        ],
+        "base_response": "Comprender el significado de palabras leídas implica clasificar cada término según rasgos compartidos, permitiendo agrupar vocablos en categorías conceptuales. Esta organización facilita reconocer matices, comparar usos y fortalecer la interpretación precisa dentro de textos adecuados para el desarrollo lector del tercer ciclo."
+    },
+    {
+        "intent_id": "significado_leer_origen_evolucion",
+        "keywords": [
+            "significado",
+            "leer",
+            "origen",
+            "evolucion",
+            "comprender"
+        ],
+        "base_response": "Comprender el significado de palabras leídas implica reconocer que muchas surgieron de lenguas antiguas y cambiaron con el tiempo. Esta evolución muestra cómo las sociedades transforman sus expresiones, permitiendo que los estudiantes identifiquen conexiones históricas que enriquecen su interpretación lectora."
+    },
+    {
+        "intent_id": "contexto_interpretar_situacion_aplicar",
+        "keywords": [
+            "contexto",
+            "interpretar",
+            "situacion",
+            "aplicar",
+            "significado"
+        ],
+        "base_response": "Comprender el significado de palabras leídas permite aplicar vocabulario en situaciones reales, como seguir instrucciones, resolver problemas cotidianos y comunicar necesidades con precisión. Esta habilidad fortalece la autonomía del estudiante y mejora su capacidad para tomar decisiones informadas."
+    },
+    {
+        "intent_id": "significado_procesar_contexto_integrar",
+        "keywords": [
+            "significado",
+            "procesar",
+            "contexto",
+            "integrar",
+            "sistema"
+        ],
+        "base_response": "Comprender el significado de palabras leídas implica integrar señales lingüísticas con sistemas de memoria y atención, generando una interpretación coherente que se ajusta al contexto. Esta relación simbiótica permite que cada palabra active conexiones que fortalecen la comprensión global del texto."
+    },
+    {
+        "intent_id": "lexico_calcular_contexto_inferir",
+        "keywords": [
+            "lexico",
+            "calcular",
+            "contexto",
+            "inferir",
+            "significado"
+        ],
+        "base_response": "El estudiante aplica una formula sencilla que combina frecuencia de uso y pistas contextuales para estimar el significado probable de una palabra leída, integrando conteo de apariciones y relaciones semánticas basicas para fortalecer la interpretacion precisa durante la lectura."
+    },
+    {
+        "intent_id": "energia_transformar_materia_cambiar",
+        "keywords": [
+            "energia",
+            "transformar",
+            "materia",
+            "cambiar",
+            "ciclo"
+        ],
+        "base_response": "Comprender el significado de palabras leídas permite relacionar términos que describen cómo la energía cambia de forma en distintos procesos naturales, facilitando identificar ciclos donde la materia se transforma y regresa a estados previos mediante acciones continuas observables en fenómenos cotidianos."
+    },
+    {
+        "intent_id": "significado_analizar_lectura_comprender",
+        "keywords": [
+            "significado",
+            "analizar",
+            "lectura",
+            "comprender",
+            "procesar"
+        ],
+        "base_response": "Comprender el significado de palabras leídas influye en la capacidad futura para interpretar textos complejos, sostener aprendizajes autónomos y desarrollar pensamiento crítico. Mantener esta habilidad fortalece la memoria semántica y facilita conexiones duraderas entre conceptos nuevos y experiencias previas."
+    },
+    {
+        "intent_id": "significado_interpretar_contexto_confundir",
+        "keywords": [
+            "significado",
+            "interpretar",
+            "contexto",
+            "confundir",
+            "lectura"
+        ],
+        "base_response": "Comprender el significado de palabras leídas no depende únicamente del diccionario, pues muchos estudiantes creen que cada término tiene un sentido fijo. Reconocer que el contexto modifica interpretaciones evita errores y fortalece la capacidad de construir ideas precisas durante la lectura."
+    },
+    {
+        "intent_id": "experimento_analizar_significado_demostrar",
+        "keywords": [
+            "experimento",
+            "analizar",
+            "significado",
+            "demostrar",
+            "comprension"
+        ],
+        "base_response": "Explora el significado de palabras leídas mediante un experimento sencillo que compare definiciones inferidas y definiciones verificadas. Observa cómo cambia la comprensión cuando aplicas pistas contextuales y luego confirmas resultados, fortaleciendo habilidades de interpretación en situaciones escolares reales."
+    },
+    {
+        "intent_id": "ecosistema_interpretar_impacto_analizar",
+        "keywords": [
+            "ecosistema",
+            "interpretar",
+            "impacto",
+            "analizar",
+            "sostenibilidad"
+        ],
+        "base_response": "Comprender el significado de palabras leídas sobre impacto ambiental permite identificar cómo las acciones humanas modifican ecosistemas, reconocer efectos negativos y proponer prácticas sostenibles. Esta habilidad fortalece la lectura crítica y facilita decisiones responsables frente a problemas ambientales cotidianos."
+    },
+    {
+        "intent_id": "significado_analizar_contexto_inferir",
+        "keywords": [
+            "significado",
+            "analizar",
+            "contexto",
+            "inferir",
+            "lectura"
+        ],
+        "base_response": "Promueve la revisión constante del significado de palabras leídas mediante la verificación del contexto y la inferencia, evitando confusiones semánticas. Orienta a mantener hábitos de lectura que fortalezcan la comprensión y prevengan interpretaciones erróneas en textos escolares."
+    },
+    {
+        "intent_id": "significado_leer_riesgo_evaluar",
+        "keywords": [
+            "significado",
+            "leer",
+            "riesgo",
+            "evaluar",
+            "seguridad"
+        ],
+        "base_response": "Comprender el significado de palabras leídas permite identificar advertencias y señales de riesgo en entornos escolares. Esta habilidad fortalece la capacidad de evaluar situaciones potencialmente peligrosas y aplicar medidas de seguridad adecuadas para protegerse y actuar con responsabilidad."
+    },
+    {
+        "intent_id": "tecnologia_procesar_significado_anticipar",
+        "keywords": [
+            "tecnologia",
+            "procesar",
+            "significado",
+            "anticipar",
+            "lectura"
+        ],
+        "base_response": "La comprensión futura del significado de palabras leídas integrará herramientas digitales capaces de procesar patrones lingüísticos y anticipar sentidos posibles, permitiendo que estudiantes identifiquen matices semánticos mediante sistemas interactivos que analizan contexto y sugieren interpretaciones coherentes con su nivel cognitivo."
+    },
+    {
+        "intent_id": "ritmo_coordinar_ojo_procesar",
+        "keywords": [
+            "ritmo",
+            "coordinar",
+            "ojo",
+            "procesar",
+            "texto"
+        ],
+        "base_response": "El entrenamiento del ritmo ocular fortalece la coordinación entre movimientos rápidos y fijaciones breves, permitiendo captar bloques de información con menor esfuerzo físico. Esta dinámica mejora la velocidad de procesamiento visual sin sacrificar comprensión en estudiantes que desarrollan lectura veloz."
+    },
+    {
+        "intent_id": "lectura_forzar_ritmo_bloquear",
+        "keywords": [
+            "lectura",
+            "forzar",
+            "ritmo",
+            "bloquear",
+            "comprension"
+        ],
+        "base_response": "Detecta la tendencia a forzar un ritmo excesivo que bloquea la comprensión, pues muchos estudiantes aceleran sin controlar pausas necesarias. Advierte que esta falla genera confusión y pérdida de ideas clave, afectando la retención y debilitando la confianza lectora en tareas escolares."
+    },
+    {
+        "intent_id": "texto_procesar_estructura_analizar",
+        "keywords": [
+            "texto",
+            "procesar",
+            "estructura",
+            "analizar",
+            "patron"
+        ],
+        "base_response": "La lectura veloz se sostiene en una estructura cognitiva que organiza la percepción de palabras en bloques significativos, permitiendo procesar patrones visuales con rapidez. Esta base anatómica facilita analizar información esencial sin detenerse en cada elemento aislado."
+    },
+    {
+        "intent_id": "significado_interpretar_contexto_comprender",
+        "keywords": [
+            "significado",
+            "interpretar",
+            "contexto",
+            "comprender",
+            "impacto"
+        ],
+        "base_response": "Comprender el significado de palabras leídas fortalece la participación social porque permite interpretar mensajes con precisión, evitar malentendidos y apoyar decisiones informadas. Esta habilidad mejora la convivencia, facilita el diálogo respetuoso y promueve una ciudadanía capaz de analizar información con responsabilidad."
+    },
+    {
+        "intent_id": "lectura_adaptar_entorno_optimizar",
+        "keywords": [
+            "lectura",
+            "adaptar",
+            "entorno",
+            "optimizar",
+            "ritmo"
+        ],
+        "base_response": "Comprender cómo influye el entorno inmediato permite ajustar la lectura veloz mediante control de ruido, iluminación y postura. Orientar la atención hacia estímulos estables reduce distracciones y facilita que estudiantes de tercer ciclo mantengan un ritmo lector ágil sin perder comprensión esencial."
+    },
+    {
+        "intent_id": "lectura_originar_metodo_evolucionar",
+        "keywords": [
+            "lectura",
+            "originar",
+            "metodo",
+            "evolucionar",
+            "tecnica"
+        ],
+        "base_response": "Las estrategias de lectura veloz surgieron cuando educadores buscaron métodos para procesar textos con mayor rapidez, evolucionando desde ejercicios simples de reconocimiento visual hasta técnicas estructuradas que fortalecen la atención y permiten a estudiantes comprender más información en menos tiempo."
+    },
+    {
+        "intent_id": "lectura_comparar_ritmo_evaluar",
+        "keywords": [
+            "lectura",
+            "comparar",
+            "ritmo",
+            "evaluar",
+            "comprension"
+        ],
+        "base_response": "La lectura veloz ofrece ventaja al aumentar ritmo y cubrir más contenido en menos tiempo, pero puede generar desventaja al reducir comprensión profunda si no se controla. Los estudiantes deben equilibrar rapidez y análisis para mantener claridad y retención adecuada."
+    },
+    {
+        "intent_id": "lectura_analizar_texto_aplicar",
+        "keywords": [
+            "lectura",
+            "analizar",
+            "texto",
+            "aplicar",
+            "comprension"
+        ],
+        "base_response": "Aplicar lectura veloz en situaciones cotidianas permite identificar ideas esenciales con rapidez, mejorar la comprensión de instrucciones y optimizar el tiempo al estudiar. Practicar esta habilidad fortalece la capacidad de analizar textos variados y responder con mayor precisión en tareas escolares."
+    },
+    {
+        "intent_id": "clasificacion_organizar_patron_identificar",
+        "keywords": [
+            "clasificacion",
+            "organizar",
+            "patron",
+            "identificar",
+            "categoria"
+        ],
+        "base_response": "Clasificar información durante la lectura veloz permite agrupar ideas según rasgos compartidos, facilitando reconocer patrones y jerarquías conceptuales. Esta estrategia ayuda a estudiantes a procesar textos extensos con mayor rapidez al ubicar cada dato dentro de una categoría coherente."
+    },
+    {
+        "intent_id": "lectura_fortalecer_comunidad_impulsar",
+        "keywords": [
+            "lectura",
+            "fortalecer",
+            "comunidad",
+            "impulsar",
+            "comprension"
+        ],
+        "base_response": "La lectura veloz fortalece la participación social al permitir que los estudiantes procesen información con mayor rapidez y precisión, impulsando decisiones informadas y colaboraciones más efectivas en su comunidad. Esta habilidad mejora la comprensión de problemas colectivos y favorece acciones responsables."
+    },
+    {
+        "intent_id": "lectura_evaluar_riesgo_proteger",
+        "keywords": [
+            "lectura",
+            "evaluar",
+            "riesgo",
+            "proteger",
+            "atencion"
+        ],
+        "base_response": "Identifica riesgos comunes al practicar lectura veloz, como fatiga visual o pérdida de comprensión, y aplica medidas de seguridad que incluyan pausas regulares, control del ritmo y verificación constante del sentido para mantener un aprendizaje saludable y sostenible."
+    },
+    {
+        "intent_id": "velocidad_calcular_lectura_medir",
+        "keywords": [
+            "velocidad",
+            "calcular",
+            "lectura",
+            "medir",
+            "progreso"
+        ],
+        "base_response": "Calcular velocidad lectora mediante la fórmula palabras por minuto permite evaluar progreso y ajustar estrategias. Registrar tiempo y cantidad de palabras facilita identificar mejoras y planificar sesiones que fortalezcan comprensión sin sacrificar rapidez en estudiantes en desarrollo."
+    },
+    {
+        "intent_id": "lectura_integrar_sistema_optimizar",
+        "keywords": [
+            "lectura",
+            "integrar",
+            "sistema",
+            "optimizar",
+            "memoria"
+        ],
+        "base_response": "La lectura veloz fortalece una relación simbiótica con sistemas cognitivos como memoria y atención, permitiendo que ambos se retroalimenten. Al acelerar la identificación de ideas clave, el lector juvenil mejora la coordinación mental y obtiene un procesamiento más eficiente de información compleja."
+    },
+    {
+        "intent_id": "lectura_analizar_mito_corregir",
+        "keywords": [
+            "lectura",
+            "analizar",
+            "mito",
+            "corregir",
+            "comprension"
+        ],
+        "base_response": "Muchos estudiantes creen que leer veloz significa saltar palabras sin afectar la comprensión, pero este mito reduce la calidad del aprendizaje. La lectura veloz efectiva exige entrenar la atención, ajustar el ritmo y mantener un control consciente del significado global del texto."
+    },
+    {
+        "intent_id": "lectura_medir_ritmo_comparar",
+        "keywords": [
+            "lectura",
+            "medir",
+            "ritmo",
+            "comparar",
+            "texto"
+        ],
+        "base_response": "Realiza una demostración cronometrada donde los estudiantes leen un texto breve y registran su ritmo. Luego comparan resultados para identificar cómo la concentración y la anticipación de ideas influyen en la velocidad. Esta actividad evidencia mejoras reales mediante práctica guiada."
+    },
+    {
+        "intent_id": "ritmo_controlar_atencion_optimizar",
+        "keywords": [
+            "ritmo",
+            "controlar",
+            "atencion",
+            "optimizar",
+            "comprension"
+        ],
+        "base_response": "Promueve mantener un ritmo estable de lectura mediante pausas breves que eviten la fatiga ocular y preserven la concentración. Indica revisar señales de cansancio, ajustar velocidad según dificultad del texto y aplicar respiración consciente para prevenir errores y sostener la comprensión veloz."
+    },
+    {
+        "intent_id": "lectura_reducir_papel_optimizar",
+        "keywords": [
+            "lectura",
+            "reducir",
+            "papel",
+            "optimizar",
+            "energia"
+        ],
+        "base_response": "Aplicar lectura veloz permite disminuir el uso de materiales impresos al fomentar recursos digitales y reducir la demanda de papel. Esta práctica optimiza el tiempo de estudio y contribuye a un menor consumo de energía asociado a la producción y transporte de textos físicos."
+    },
+    {
+        "intent_id": "memoria_procesar_texto_consolidar",
+        "keywords": [
+            "memoria",
+            "procesar",
+            "texto",
+            "consolidar",
+            "informacion"
+        ],
+        "base_response": "La retención de información leída depende de estructuras cerebrales que organizan palabras y significados en redes estables. Estas redes permiten integrar datos nuevos con conocimientos previos, facilitando que estudiantes entre nueve y quince años mantengan ideas claras y recuperables tras la lectura."
+    },
+    {
+        "intent_id": "memoria_fallar_lectura_distorsionar",
+        "keywords": [
+            "memoria",
+            "fallar",
+            "lectura",
+            "distorsionar",
+            "contenido"
+        ],
+        "base_response": "La retención disminuye cuando el estudiante interpreta palabras sin verificar su significado real, generando distorsiones que afectan la comprensión global. Este error surge por lectura acelerada y falta de monitoreo cognitivo, debilitando la consolidación de información relevante."
+    },
+    {
+        "intent_id": "memoria_procesar_lectura_consolidar",
+        "keywords": [
+            "memoria",
+            "procesar",
+            "lectura",
+            "consolidar",
+            "informacion"
+        ],
+        "base_response": "La retención de información leída surgió cuando educadores observaron que los estudiantes necesitaban estrategias para recordar textos. Evolucionó desde ejercicios de repetición hacia métodos que integran comprensión activa, permitiendo a jóvenes de tercer ciclo fortalecer conexiones mentales duraderas."
+    },
+    {
+        "intent_id": "entorno_modular_estudiante_regular",
+        "keywords": [
+            "entorno",
+            "modular",
+            "estudiante",
+            "regular",
+            "memoria"
+        ],
+        "base_response": "La retención mejora cuando el entorno ofrece señales visuales y auditivas coherentes que facilitan la organización mental del contenido, permitiendo que estudiantes de tercer ciclo integren información leída con experiencias ambientales estables que refuerzan asociaciones y consolidan recuerdos de manera más duradera."
+    },
+    {
+        "intent_id": "memoria_practicar_lectura_consolidar",
+        "keywords": [
+            "memoria",
+            "practicar",
+            "lectura",
+            "consolidar",
+            "comprension"
+        ],
+        "base_response": "Aplicar la retención de información leída en la vida diaria permite que los estudiantes recuerden instrucciones, organicen tareas y comprendan textos escolares con mayor claridad. Practicar resúmenes breves y explicar ideas a otros fortalece la memoria y mejora la comprensión sostenida."
+    },
+    {
+        "intent_id": "retencion_fortalecer_lectura_impactar",
+        "keywords": [
+            "retencion",
+            "fortalecer",
+            "lectura",
+            "impactar",
+            "comunidad"
+        ],
+        "base_response": "La retención de información leída influye en la capacidad de los estudiantes para participar activamente en su comunidad, ya que mejora su comprensión de problemas cotidianos, facilita el intercambio de ideas y fortalece la toma de decisiones informadas que benefician su entorno social inmediato."
+    },
+    {
+        "intent_id": "memoria_procesar_lectura_retener",
+        "keywords": [
+            "memoria",
+            "procesar",
+            "lectura",
+            "retener",
+            "informacion"
+        ],
+        "base_response": "La retención de información leída depende de cómo el cerebro procesa señales visuales y las transforma en patrones estables. Un ritmo de lectura adecuado permite que las conexiones neuronales consoliden datos, facilitando que estudiantes de tercer ciclo recuerden contenidos con mayor precisión."
+    },
+    {
+        "intent_id": "tecnologia_optimizar_lectura_analizar",
+        "keywords": [
+            "tecnologia",
+            "optimizar",
+            "lectura",
+            "analizar",
+            "contenido"
+        ],
+        "base_response": "La lectura veloz proyecta avances mediante plataformas que ajustan ritmo y resaltan fragmentos clave, permitiendo a estudiantes practicar con retroalimentación inmediata. Estas herramientas integran seguimiento ocular básico y algoritmos simples que fortalecen la comprensión sin exigir conocimientos técnicos complejos."
+    },
+    {
+        "intent_id": "riesgo_interferir_memoria_proteger",
+        "keywords": [
+            "riesgo",
+            "interferir",
+            "memoria",
+            "proteger",
+            "contenido"
+        ],
+        "base_response": "Identifica riesgos digitales que distraen la lectura y reduce su impacto aplicando medidas de seguridad como limitar notificaciones, usar plataformas confiables y evitar enlaces sospechosos, fortaleciendo así la retención de información y la concentración sostenida en estudiantes de tercer ciclo."
+    },
+    {
+        "intent_id": "lectura_comparar_memoria_evaluar",
+        "keywords": [
+            "lectura",
+            "comparar",
+            "memoria",
+            "evaluar",
+            "retencion"
+        ],
+        "base_response": "La retención de información leída mejora cuando el estudiante compara métodos como lectura silenciosa y lectura guiada, evaluando cuál favorece su memoria. Esta comparación permite identificar ventajas prácticas y desventajas cognitivas, optimizando estrategias según la complejidad del contenido y el tiempo disponible."
+    },
+    {
+        "intent_id": "mito_confundir_memoria_bloquear",
+        "keywords": [
+            "mito",
+            "confundir",
+            "memoria",
+            "bloquear",
+            "comprension"
+        ],
+        "base_response": "Muchos estudiantes creen que leer más rápido mejora la retención, pero este mito reduce la comprensión real. La retención aumenta cuando se detiene la lectura para procesar ideas, conectar conceptos y verificar significado, especialmente en edades donde aún se consolidan estrategias cognitivas."
+    },
+    {
+        "intent_id": "memoria_calcular_texto_procesar",
+        "keywords": [
+            "memoria",
+            "calcular",
+            "texto",
+            "procesar"
+        ],
+        "base_response": "Aplicar una fórmula sencilla que relacione tiempo de lectura y número de ideas recordadas permite estimar la retención de información. Este cálculo ayuda a estudiantes a medir su progreso y ajustar estrategias para fortalecer su comprensión y memoria."
+    },
+    {
+        "intent_id": "memoria_integrar_sistema_fortalecer",
+        "keywords": [
+            "memoria",
+            "integrar",
+            "sistema",
+            "fortalecer",
+            "conexion"
+        ],
+        "base_response": "La retención de información leída mejora cuando el estudiante integra textos con sistemas externos como mapas conceptuales digitales, ya que esta conexión simbiótica refuerza asociaciones mentales, facilita la organización de ideas y sostiene la memoria operativa durante tareas de comprensión prolongada."
+    },
+    {
+        "intent_id": "lectura_fortalecer_memoria_anticipar",
+        "keywords": [
+            "lectura",
+            "fortalecer",
+            "memoria",
+            "anticipar",
+            "comprension"
+        ],
+        "base_response": "Desarrollar estrategias de lectura veloz genera beneficios duraderos al fortalecer la capacidad de seleccionar información relevante, anticipar ideas clave y mantener una comprensión estable. Con práctica constante, los estudiantes consolidan hábitos que mejoran su rendimiento académico y su autonomía lectora."
+    },
+    {
+        "intent_id": "memoria_procesar_energia_integrar",
+        "keywords": [
+            "memoria",
+            "procesar",
+            "energia",
+            "integrar",
+            "informacion"
+        ],
+        "base_response": "La retención de información leída puede entenderse como un ciclo energético interno donde el cerebro transforma estímulos visuales en señales eléctricas y químicas, integrando esos impulsos en redes neuronales estables que fortalecen la comprensión y facilitan recordar contenidos con mayor precisión."
+    },
+    {
+        "intent_id": "memoria_consolidar_lectura_fortalecer",
+        "keywords": [
+            "memoria",
+            "consolidar",
+            "lectura",
+            "fortalecer",
+            "recuerdo"
+        ],
+        "base_response": "La retención de información leída influye en la formación de hábitos cognitivos duraderos, ya que fortalece conexiones neuronales que facilitan recordar ideas esenciales con mayor estabilidad. En estudiantes de tercer ciclo, esta consolidación mejora la comprensión futura y sostiene aprendizajes más complejos."
+    },
+    {
+        "intent_id": "memoria_experimentar_contenido_analizar",
+        "keywords": [
+            "memoria",
+            "experimentar",
+            "contenido",
+            "analizar",
+            "resultado"
+        ],
+        "base_response": "Aplicar demostraciones breves con materiales manipulables fortalece la retención al vincular la lectura con acciones visibles. El estudiante consolida conceptos al observar cambios directos, comparar efectos y explicar resultados, integrando la información leída con experiencias concretas que refuerzan su comprensión."
+    },
+    {
+        "intent_id": "ambiente_procesar_lectura_optimizar",
+        "keywords": [
+            "ambiente",
+            "procesar",
+            "lectura",
+            "optimizar",
+            "memoria"
+        ],
+        "base_response": "La calidad del entorno influye en la retención de información leída porque niveles adecuados de luz natural, ventilación y ausencia de ruido permiten que el cerebro mantenga estabilidad cognitiva, mejore la concentración y consolide con mayor eficacia los contenidos estudiados por estudiantes en crecimiento."
+    },
+    {
+        "intent_id": "texto_analizar_estructura_interpretar",
+        "keywords": [
+            "texto",
+            "analizar",
+            "estructura",
+            "interpretar",
+            "significado"
+        ],
+        "base_response": "La interpretación de textos complejos implica reconocer cómo se organizan sus partes internas, identificando ideas centrales, relaciones lógicas y señales lingüísticas que guían el sentido. Esta comprensión estructural permite extraer significados profundos y conectar información distribuida en diferentes segmentos."
+    },
+    {
+        "intent_id": "tecnologia_potenciar_memoria_optimizar",
+        "keywords": [
+            "tecnologia",
+            "potenciar",
+            "memoria",
+            "optimizar",
+            "contenido"
+        ],
+        "base_response": "La integración futura de plataformas adaptativas permitirá reforzar la retención de información leída mediante análisis de patrones de comprensión, ofreciendo retroalimentación inmediata y actividades personalizadas que ajusten dificultad y ritmo para sostener la atención y consolidar aprendizajes en estudiantes de tercer ciclo."
+    },
+    {
+        "intent_id": "memoria_consolidar_lectura_reforzar",
+        "keywords": [
+            "memoria",
+            "consolidar",
+            "lectura",
+            "reforzar",
+            "retencion"
+        ],
+        "base_response": "Promueve la retención estable de información leída mediante repasos breves y periódicos que evitan el olvido natural. Refuerza conexiones mentales al revisar ideas clave antes de que se deterioren, manteniendo activa la comprensión y asegurando que el contenido permanezca disponible para usos posteriores."
+    },
+    {
+        "intent_id": "texto_analizar_estructura_inferir",
+        "keywords": [
+            "texto",
+            "analizar",
+            "estructura",
+            "inferir",
+            "significado"
+        ],
+        "base_response": "Comprender textos complejos exige reconocer cómo las partes físicas del escrito interactúan, identificando cambios de ritmo, pausas y énfasis que orientan la interpretación. Esta atención al funcionamiento material del texto permite extraer ideas profundas y relacionarlas con el propósito comunicativo."
+    },
+    {
+        "intent_id": "texto_interpretar_patron_confundir",
+        "keywords": [
+            "texto",
+            "interpretar",
+            "patron",
+            "confundir",
+            "significado"
+        ],
+        "base_response": "Identifica cómo la lectura apresurada genera confusiones al mezclar ideas que no están conectadas, provocando interpretaciones erróneas en textos complejos. Advierte que estos fallos surgen cuando el estudiante ignora pistas semánticas esenciales y asume significados sin verificar su coherencia contextual."
+    },
+    {
+        "intent_id": "texto_analizar_estructura_identificar",
+        "keywords": [
+            "texto",
+            "analizar",
+            "estructura",
+            "identificar",
+            "material"
+        ],
+        "base_response": "Comprender textos complejos exige reconocer cómo ciertas palabras funcionan como materiales que reaccionan entre sí. El lector analiza cambios de significado cuando conceptos se combinan, identifica estructuras que modifican ideas y evalúa cómo cada elemento transforma la interpretación final del contenido."
+    },
+    {
+        "intent_id": "historia_evolucionar_texto_analizar",
+        "keywords": [
+            "historia",
+            "evolucionar",
+            "texto",
+            "analizar",
+            "origen"
+        ],
+        "base_response": "La interpretación de textos complejos surgió cuando las primeras sociedades necesitaron comprender relatos extensos y símbolos variados. Evolucionó con la expansión de la escritura, permitiendo que lectores jóvenes desarrollen habilidades para identificar ideas profundas y conexiones ocultas dentro de narraciones amplias."
+    },
+    {
+        "intent_id": "contexto_analizar_entorno_interpretar",
+        "keywords": [
+            "contexto",
+            "analizar",
+            "entorno",
+            "interpretar",
+            "texto"
+        ],
+        "base_response": "Comprender textos complejos exige reconocer cómo el entorno influye en significados y matices. El estudiante debe analizar referencias culturales, condiciones sociales y elementos naturales presentes para identificar conexiones que enriquecen la interpretación y fortalecen su pensamiento crítico."
+    },
+    {
+        "intent_id": "analisis_comprender_contexto_evaluar",
+        "keywords": [
+            "analisis",
+            "comprender",
+            "contexto",
+            "evaluar",
+            "informacion"
+        ],
+        "base_response": "La interpretación de textos complejos permite aplicar ideas a situaciones reales mediante la identificación de intenciones, la evaluación de argumentos y la comprensión de relaciones entre conceptos, facilitando decisiones informadas en actividades escolares, proyectos personales y resolución de problemas cotidianos con mayor claridad y precisión."
+    },
+    {
+        "intent_id": "texto_analizar_riesgo_evaluar",
+        "keywords": [
+            "texto",
+            "analizar",
+            "riesgo",
+            "evaluar",
+            "seguridad"
+        ],
+        "base_response": "Comprender textos complejos exige reconocer riesgos comunicativos como confusiones o datos falsos y aplicar medidas de seguridad que incluyan verificar fuentes, comparar ideas y detectar contradicciones. Esta práctica fortalece la interpretación crítica y protege decisiones escolares basadas en información confiable."
+    },
+    {
+        "intent_id": "interpretacion_analizar_texto_evaluar",
+        "keywords": [
+            "interpretacion",
+            "analizar",
+            "texto",
+            "evaluar",
+            "impacto"
+        ],
+        "base_response": "Comprender textos complejos permite reconocer cómo las ideas influyen en decisiones colectivas, fortalecen la participación informada y ayudan a detectar mensajes que afectan la convivencia. Esta habilidad impulsa una ciudadanía crítica capaz de valorar consecuencias sociales y promover acciones responsables."
+    },
+    {
+        "intent_id": "texto_analizar_estructura_comparar",
+        "keywords": [
+            "texto",
+            "analizar",
+            "estructura",
+            "comparar",
+            "significado"
+        ],
+        "base_response": "Evaluar textos complejos exige reconocer cómo distintas estructuras favorecen o dificultan la comprensión. Comparar ventajas y desventajas permite identificar cuándo un formato amplifica el significado y cuándo introduce confusión, guiando decisiones lectoras más precisas y adaptadas a cada situación."
+    },
+    {
+        "intent_id": "texto_calcular_patron_inferir",
+        "keywords": [
+            "texto",
+            "calcular",
+            "patron",
+            "inferir",
+            "estructura"
+        ],
+        "base_response": "La interpretación de textos complejos puede apoyarse en cálculos simples que permiten estimar la frecuencia de ideas clave, identificar patrones repetidos y relacionar segmentos mediante conteos comparativos, facilitando que estudiantes jóvenes comprendan cómo se organiza y conecta la información esencial."
+    },
+    {
+        "intent_id": "texto_analizar_estructura_clasificar",
+        "keywords": [
+            "texto",
+            "analizar",
+            "estructura",
+            "clasificar",
+            "significado"
+        ],
+        "base_response": "La interpretación de textos complejos requiere identificar patrones temáticos y organizar elementos según criterios claros, permitiendo clasificar ideas principales y secundarias. Esta habilidad fortalece la comprensión profunda y facilita reconocer cómo se relacionan las partes dentro de una estructura textual amplia."
+    },
+    {
+        "intent_id": "texto_interpretar_mito_confundir",
+        "keywords": [
+            "texto",
+            "interpretar",
+            "mito",
+            "confundir",
+            "significado"
+        ],
+        "base_response": "Muchos estudiantes creen que un texto complejo siempre oculta ideas imposibles, pero este mito surge de confundir vocabulario difícil con falta de sentido. Comprender requiere identificar pistas, relacionar conceptos y verificar significados sin asumir que todo es exageradamente complicado."
+    },
+    {
+        "intent_id": "texto_analizar_sistema_interactuar",
+        "keywords": [
+            "texto",
+            "analizar",
+            "sistema",
+            "interactuar",
+            "significado"
+        ],
+        "base_response": "La interpretación de textos complejos establece una relación simbiótica con otros sistemas porque integra lenguaje, memoria y razonamiento. Esta interacción permite que los estudiantes conecten ideas, detecten patrones y construyan significados más profundos al vincular información nueva con estructuras cognitivas previas."
+    },
+    {
+        "intent_id": "energia_transformar_texto_analizar",
+        "keywords": [
+            "energia",
+            "transformar",
+            "texto",
+            "analizar",
+            "ciclo"
+        ],
+        "base_response": "Comprende cómo ciertos textos complejos describen procesos donde la energía cambia de forma, como calor o movimiento, y cómo estos ciclos se repiten en la naturaleza. Identifica palabras clave y relaciones para interpretar con precisión cada transformación presentada."
+    },
+    {
+        "intent_id": "texto_analizar_experimento_observar",
+        "keywords": [
+            "texto",
+            "analizar",
+            "experimento",
+            "observar",
+            "significado"
+        ],
+        "base_response": "La interpretación de textos complejos puede fortalecerse mediante experimentos escolares que muestran cómo cambian las ideas al modificar variables. El estudiante observa relaciones, analiza efectos y construye significado verificable que mejora su comprensión crítica y su capacidad para explicar procesos."
+    },
+    {
+        "intent_id": "ecosistema_analizar_contaminante_evaluar",
+        "keywords": [
+            "ecosistema",
+            "analizar",
+            "contaminante",
+            "evaluar",
+            "impacto"
+        ],
+        "base_response": "Interpretar textos complejos sobre impacto ambiental exige identificar cómo las acciones humanas modifican ecosistemas, reconocer señales de contaminación y evaluar consecuencias para la biodiversidad. Esta habilidad permite comprender argumentos científicos y relacionarlos con problemas reales que afectan la calidad de vida."
+    },
+    {
+        "intent_id": "tecnologia_analizar_texto_proyectar",
+        "keywords": [
+            "tecnologia",
+            "analizar",
+            "texto",
+            "proyectar",
+            "comprender"
+        ],
+        "base_response": "La interpretación de textos complejos puede fortalecerse mediante herramientas digitales que detectan patrones de significado y anticipan posibles usos futuros del contenido, permitiendo al estudiante proyectar ideas, evaluar conexiones temáticas y comprender cómo la tecnología amplía la lectura crítica."
+    },
+    {
+        "intent_id": "lectura_analizar_texto_inferir",
+        "keywords": [
+            "lectura",
+            "analizar",
+            "texto",
+            "inferir",
+            "consecuencia"
+        ],
+        "base_response": "Comprender textos complejos exige anticipar consecuencias a largo plazo mediante conexiones claras entre ideas. Esta habilidad fortalece la capacidad de evaluar impactos futuros, reconocer patrones narrativos y tomar decisiones informadas que mejoren el aprendizaje sostenido en situaciones diversas."
+    },
+    {
+        "intent_id": "texto_inferir_estructura_analizar",
+        "keywords": [
+            "texto",
+            "inferir",
+            "estructura",
+            "analizar",
+            "significado"
+        ],
+        "base_response": "Describe cómo las deducciones de comprensión lectora se apoyan en la estructura interna del texto, donde el lector identifica pistas organizadas y relaciones entre ideas para construir significados implícitos que no aparecen de forma directa pero emergen al analizar la anatomía comunicativa presentada."
+    },
+    {
+        "intent_id": "texto_analizar_estructura_evaluar",
+        "keywords": [
+            "texto",
+            "analizar",
+            "estructura",
+            "evaluar",
+            "coherencia"
+        ],
+        "base_response": "Comprender textos complejos requiere mantener estrategias que prevengan confusiones mediante la revisión constante de ideas clave. El estudiante identifica señales estructurales, anticipa posibles errores de interpretación y ajusta su análisis para conservar claridad y coherencia durante la lectura."
+    },
+    {
+        "intent_id": "lectura_inferir_material_analizar",
+        "keywords": [
+            "lectura",
+            "inferir",
+            "material",
+            "analizar",
+            "cambio"
+        ],
+        "base_response": "La deducción de comprensión lectora puede fortalecerse cuando el estudiante identifica cómo un material reacciona ante calor o humedad y usa esa evidencia para inferir causas o consecuencias dentro de un texto, relacionando propiedades químicas simples con situaciones narradas de manera coherente."
+    },
+    {
+        "intent_id": "texto_inferir_cuerpo_procesar",
+        "keywords": [
+            "texto",
+            "inferir",
+            "cuerpo",
+            "procesar",
+            "energia"
+        ],
+        "base_response": "La deducción de comprensión lectora en dinámica y funcionamiento físico exige que el estudiante relacione acciones corporales descritas con causas y efectos plausibles, interpretando cómo movimientos, fuerzas y energía influyen en situaciones narradas para construir inferencias coherentes y verificables."
+    },
+    {
+        "intent_id": "inferencia_detectar_sesgo_confundir",
+        "keywords": [
+            "inferencia",
+            "detectar",
+            "sesgo",
+            "confundir",
+            "contexto"
+        ],
+        "base_response": "Identifica cómo algunos estudiantes generan deducciones equivocadas al confundir pistas textuales con creencias personales, creando sesgos que distorsionan la comprensión. Explica que esta falla surge cuando el lector ignora señales contextuales esenciales y construye conclusiones sin evidencia suficiente."
+    },
+    {
+        "intent_id": "contexto_inferir_entorno_analizar",
+        "keywords": [
+            "contexto",
+            "inferir",
+            "entorno",
+            "analizar",
+            "situacion"
+        ],
+        "base_response": "Comprender un texto exige identificar cómo el entorno influye en las acciones y decisiones de los personajes, analizando señales ambientales que orientan deducciones coherentes. Esta habilidad permite relacionar información explícita con factores ecológicos que condicionan el desarrollo narrativo."
+    },
+    {
+        "intent_id": "lectura_analizar_texto_inferir",
+        "keywords": [
+            "lectura",
+            "analizar",
+            "texto",
+            "inferir",
+            "contexto"
+        ],
+        "base_response": "La comprensión lectora basada en deducciones surgió cuando educadores buscaron explicar cómo los lectores infieren significados ocultos. Su evolución integró modelos cognitivos que muestran cómo los estudiantes relacionan pistas textuales con experiencias previas para construir interpretaciones más profundas y coherentes."
+    },
+    {
+        "intent_id": "texto_inferir_contexto_comparar",
+        "keywords": [
+            "texto",
+            "inferir",
+            "contexto",
+            "comparar",
+            "significado"
+        ],
+        "base_response": "Las deducciones de comprensión lectora permiten comparar pistas textuales para identificar ventajas y desventajas entre ideas, fortaleciendo la interpretación crítica. El estudiante evalúa cómo cada opción aporta o limita información, desarrollando decisiones más precisas al analizar relatos, descripciones o explicaciones escolares."
+    },
+    {
+        "intent_id": "lectura_inferir_contexto_impactar",
+        "keywords": [
+            "lectura",
+            "inferir",
+            "contexto",
+            "impactar",
+            "sociedad"
+        ],
+        "base_response": "Las deducciones de comprensión lectora fortalecen la capacidad juvenil para interpretar mensajes complejos y reconocer consecuencias sociales, permitiendo evaluar información pública con criterio propio. Este proceso mejora la participación informada y favorece decisiones comunitarias más responsables dentro de su entorno inmediato."
+    },
+    {
+        "intent_id": "riesgo_evaluar_texto_inferir",
+        "keywords": [
+            "riesgo",
+            "evaluar",
+            "texto",
+            "inferir",
+            "alerta"
+        ],
+        "base_response": "Promueve identificar riesgos presentes en un texto narrativo o informativo y deducir medidas de seguridad adecuadas. Orienta a reconocer señales de peligro, anticipar consecuencias y formular acciones preventivas basadas en la comprensión lectora para fortalecer decisiones responsables en situaciones cotidianas."
+    },
+    {
+        "intent_id": "inferencia_analizar_patron_clasificar",
+        "keywords": [
+            "inferencia",
+            "analizar",
+            "patron",
+            "clasificar",
+            "texto"
+        ],
+        "base_response": "La clasificación taxonómica en deducciones de comprensión lectora organiza inferencias según el tipo de pista usada, permitiendo al estudiante reconocer patrones informativos y jerarquizar datos relevantes para anticipar significados implícitos y fortalecer su interpretación global del texto."
+    },
+    {
+        "intent_id": "texto_inferir_sistema_conectar",
+        "keywords": [
+            "texto",
+            "inferir",
+            "sistema",
+            "conectar",
+            "simbolo"
+        ],
+        "base_response": "La comprensión lectora establece una relación simbiótica cuando el estudiante infiere conexiones entre el texto y sistemas externos, integrando símbolos, patrones y funciones. Esta interacción fortalece la capacidad de interpretar información compleja y aplicar significados en contextos variados con mayor precisión."
+    },
+    {
+        "intent_id": "energia_transformar_ciclo_analizar",
+        "keywords": [
+            "energia",
+            "transformar",
+            "ciclo",
+            "analizar",
+            "materia"
+        ],
+        "base_response": "La deducción de comprensión lectora en esta dimensión exige identificar cómo la energía cambia de forma dentro de un ciclo natural, relacionando causas y efectos descritos en el texto y evaluando si la transformación mantiene coherencia con procesos reales observables."
+    },
+    {
+        "intent_id": "mito_confundir_lectura_interpretar",
+        "keywords": [
+            "mito",
+            "confundir",
+            "lectura",
+            "interpretar",
+            "significado"
+        ],
+        "base_response": "Las deducciones de comprensión lectora suelen confundirse con adivinanzas, pero requieren analizar pistas textuales reales. Estudiantes deben reconocer que inferir implica conectar información explícita con conocimientos previos, evitando suposiciones sin fundamento que distorsionan el significado y reducen la precisión interpretativa."
+    },
+    {
+        "intent_id": "lectura_inferir_experimento_observar",
+        "keywords": [
+            "lectura",
+            "inferir",
+            "experimento",
+            "observar",
+            "resultado"
+        ],
+        "base_response": "Analiza cómo un experimento escolar sencillo permite deducir información implícita en un texto al comparar observaciones reales con descripciones narradas, fortaleciendo la capacidad de inferir causas, efectos y propósitos mediante la relación directa entre evidencia práctica y comprensión lectora contextual."
+    },
+    {
+        "intent_id": "ecosistema_analizar_contaminante_evaluar",
+        "keywords": [
+            "ecosistema",
+            "analizar",
+            "contaminante",
+            "evaluar",
+            "impacto"
+        ],
+        "base_response": "Identifica cómo un texto describe efectos ambientales y evalúa si las acciones humanas mencionadas generan daños o mejoras en ecosistemas, permitiendo deducir consecuencias reales. Esta habilidad fortalece la comprensión crítica y ayuda a reconocer relaciones entre decisiones y cambios ambientales."
+    },
+    {
+        "intent_id": "lectura_inferir_texto_anticipar",
+        "keywords": [
+            "lectura",
+            "inferir",
+            "texto",
+            "anticipar",
+            "consecuencia"
+        ],
+        "base_response": "Comprender cómo una acción narrativa genera efectos futuros permite al estudiante anticipar cambios duraderos en personajes o situaciones, fortaleciendo su capacidad para proyectar escenarios y evaluar impactos prolongados dentro de relatos adecuados a su desarrollo cognitivo."
+    },
+    {
+        "intent_id": "lectura_inferir_texto_analizar",
+        "keywords": [
+            "lectura",
+            "inferir",
+            "texto",
+            "analizar",
+            "significado"
+        ],
+        "base_response": "Promueve la conservación de habilidades inferenciales mediante prácticas que refuerzan la identificación de pistas textuales y la anticipación de ideas. Orienta al estudiante a prevenir confusiones al revisar conexiones lógicas, manteniendo una comprensión lectora estable y adaptable en situaciones variadas."
+    },
+    {
+        "intent_id": "proyeccion_analizar_tecnologia_anticipar",
+        "keywords": [
+            "proyeccion",
+            "analizar",
+            "tecnologia",
+            "anticipar",
+            "contenido"
+        ],
+        "base_response": "La deducción de comprensión lectora puede fortalecerse usando herramientas digitales que muestran patrones narrativos y permiten anticipar posibles desenlaces. El estudiante aprende a proyectar escenarios futuros evaluando pistas textuales y relacionándolas con modelos tecnológicos que simulan cambios coherentes en la historia."
+    },
+    {
+        "intent_id": "conclusion_inferir_lectura_analizar",
+        "keywords": [
+            "conclusion",
+            "inferir",
+            "lectura",
+            "analizar",
+            "estructura"
+        ],
+        "base_response": "La conclusión derivada de lectura se entiende como una estructura mental que organiza pistas textuales para inferir ideas no dichas directamente. Esta construcción combina observación, relación lógica y verificación interna, permitiendo comprender significados profundos dentro de un texto narrativo o informativo."
+    },
+    {
+        "intent_id": "lectura_analizar_reactividad_inferir",
+        "keywords": [
+            "lectura",
+            "analizar",
+            "reactividad",
+            "inferir",
+            "material"
+        ],
+        "base_response": "La lectura permite identificar cómo ciertos materiales reaccionan ante calor o sustancias específicas, ayudando a concluir si cambian de color, producen gas o se degradan. Estas observaciones facilitan comprender propiedades químicas básicas y predecir comportamientos en situaciones escolares cotidianas."
+    },
+    {
+        "intent_id": "lectura_inferir_patron_detectar",
+        "keywords": [
+            "lectura",
+            "inferir",
+            "patron",
+            "detectar",
+            "error"
+        ],
+        "base_response": "Identifica cómo algunos estudiantes concluyen ideas sin verificar pistas textuales, generando interpretaciones apresuradas. Explica que esta falla surge cuando se confunden opiniones con evidencias y se ignoran patrones narrativos esenciales, afectando la comprensión profunda del contenido leído."
+    },
+    {
+        "intent_id": "lectura_analizar_cuerpo_interpretar",
+        "keywords": [
+            "lectura",
+            "analizar",
+            "cuerpo",
+            "interpretar",
+            "energia"
+        ],
+        "base_response": "La lectura permite comprender cómo el cuerpo usa energía para sostener movimientos, relacionando descripciones textuales con funciones físicas reales. El estudiante identifica conexiones entre acciones narradas y procesos corporales, fortaleciendo conclusiones basadas en observación y razonamiento."
+    },
+    {
+        "intent_id": "lectura_analizar_texto_inferir",
+        "keywords": [
+            "lectura",
+            "analizar",
+            "texto",
+            "inferir",
+            "conclusion"
+        ],
+        "base_response": "Las conclusiones derivadas de lectura surgieron cuando lectores antiguos empezaron a analizar relatos para inferir significados ocultos. Con el tiempo evolucionaron hacia métodos más sistemáticos que permiten identificar ideas centrales y relacionarlas con experiencias previas para comprender mejor cualquier texto."
+    },
+    {
+        "intent_id": "lectura_analizar_entorno_inferir",
+        "keywords": [
+            "lectura",
+            "analizar",
+            "entorno",
+            "inferir",
+            "contexto"
+        ],
+        "base_response": "Identifica cómo los elementos naturales y sociales mencionados en un texto influyen en las acciones de los personajes, infiere relaciones entre ambiente y decisiones y concluye de manera razonada cómo el contexto ecológico condiciona los sucesos narrados para fortalecer la comprensión lectora en situaciones reales."
+    },
+    {
+        "intent_id": "conclusion_comparar_texto_evaluar",
+        "keywords": [
+            "conclusion",
+            "comparar",
+            "texto",
+            "evaluar",
+            "ventaja"
+        ],
+        "base_response": "Las conclusiones derivadas de lectura permiten comparar ideas del texto para reconocer ventajas y desventajas, fortaleciendo la capacidad de evaluar información con criterio propio. Este proceso ayuda a identificar qué elementos aportan mayor utilidad y cuáles generan limitaciones en la comprensión."
+    },
+    {
+        "intent_id": "lectura_analizar_informacion_inferir",
+        "keywords": [
+            "lectura",
+            "analizar",
+            "informacion",
+            "inferir",
+            "aplicar"
+        ],
+        "base_response": "Comprender conclusiones derivadas de lectura permite usar ideas del texto para resolver situaciones reales, como anticipar consecuencias, elegir acciones seguras o planificar tareas. Esta habilidad fortalece el pensamiento crítico y facilita decisiones responsables en actividades cotidianas."
+    },
+    {
+        "intent_id": "lectura_analizar_impacto_evaluar",
+        "keywords": [
+            "lectura",
+            "analizar",
+            "impacto",
+            "evaluar",
+            "sociedad"
+        ],
+        "base_response": "La lectura permite identificar cómo ciertas ideas influyen en la vida colectiva, mostrando efectos positivos o riesgos sociales. Al concluir un texto, el estudiante reconoce cambios posibles en su comunidad y comprende que cada información puede transformar comportamientos, decisiones y relaciones compartidas."
+    },
+    {
+        "intent_id": "riesgo_evaluar_lectura_identificar",
+        "keywords": [
+            "riesgo",
+            "evaluar",
+            "lectura",
+            "identificar",
+            "proteger"
+        ],
+        "base_response": "Comprender conclusiones derivadas de lectura implica reconocer señales de riesgo presentes en un texto y anticipar consecuencias posibles. Esta habilidad permite identificar información que advierte sobre peligros y aplicar medidas de seguridad básicas para protegerse en situaciones cotidianas."
+    },
+    {
+        "intent_id": "conclusion_analizar_texto_inferir",
+        "keywords": [
+            "conclusion",
+            "analizar",
+            "texto",
+            "inferir",
+            "categoria"
+        ],
+        "base_response": "Identifica conclusiones al clasificar ideas del texto según categorías conceptuales, permitiendo reconocer relaciones entre hechos y temas. Orienta al estudiante para ordenar información relevante y derivar interpretaciones coherentes que fortalezcan su comprensión lectora y su capacidad de análisis estructurado."
+    },
+    {
+        "intent_id": "lectura_inferir_sistema_integrar",
+        "keywords": [
+            "lectura",
+            "inferir",
+            "sistema",
+            "integrar",
+            "conclusion"
+        ],
+        "base_response": "La lectura genera conclusiones cuando el estudiante integra pistas textuales con conocimientos previos, creando una relación simbiótica entre ideas nuevas y sistemas de comprensión existentes. Esta interacción fortalece la capacidad de inferir significados y construir interpretaciones coherentes."
+    },
+    {
+        "intent_id": "energia_transformar_ciclo_procesar",
+        "keywords": [
+            "energia",
+            "transformar",
+            "ciclo",
+            "procesar",
+            "materia"
+        ],
+        "base_response": "Comprender conclusiones derivadas de lectura sobre transformación y ciclos energéticos exige identificar cómo la energía cambia de forma sin perderse, reconocer procesos naturales que mueven materia entre estados y explicar relaciones esenciales que permiten a los sistemas mantener funciones vitales mediante intercambios continuos."
+    },
+    {
+        "intent_id": "lectura_inferir_mito_corregir",
+        "keywords": [
+            "lectura",
+            "inferir",
+            "mito",
+            "corregir",
+            "concepto"
+        ],
+        "base_response": "Comprender conclusiones derivadas de lectura exige reconocer mitos comunes que confunden la interpretación. El estudiante identifica ideas falsas, contrasta evidencias y corrige percepciones erróneas para construir explicaciones coherentes que reflejen comprensión profunda y pensamiento crítico adecuado a su edad."
+    },
+    {
+        "intent_id": "observacion_analizar_experimento_inferir",
+        "keywords": [
+            "observacion",
+            "analizar",
+            "experimento",
+            "inferir",
+            "resultado"
+        ],
+        "base_response": "Las conclusiones derivadas de lectura en experimentos escolares requieren comparar información previa con lo observado, identificar relaciones entre causas y efectos y verificar si los resultados coinciden con las hipótesis planteadas, fortaleciendo la capacidad de interpretar evidencias científicas de manera crítica."
+    },
+    {
+        "intent_id": "lectura_inferir_conclusion_evaluar",
+        "keywords": [
+            "lectura",
+            "inferir",
+            "conclusion",
+            "evaluar",
+            "impacto"
+        ],
+        "base_response": "Comprender consecuencias a largo plazo exige que el estudiante identifique cómo una conclusión derivada de la lectura puede influir en decisiones futuras, reconociendo patrones narrativos y anticipando efectos posibles que fortalecen su capacidad de análisis y planificación responsable."
+    },
+    {
+        "intent_id": "ecosistema_analizar_contaminante_evaluar",
+        "keywords": [
+            "ecosistema",
+            "analizar",
+            "contaminante",
+            "evaluar",
+            "biodiversidad"
+        ],
+        "base_response": "Comprender el impacto ambiental exige identificar cómo los contaminantes alteran ecosistemas y evaluar cambios en la biodiversidad. Esta conclusión orienta a estudiantes hacia la interpretación responsable de efectos ecológicos descritos en textos y fomenta decisiones informadas para proteger entornos naturales."
+    },
+    {
+        "intent_id": "lectura_analizar_conclusion_evaluar",
+        "keywords": [
+            "lectura",
+            "analizar",
+            "conclusion",
+            "evaluar",
+            "prevencion"
+        ],
+        "base_response": "Identifica señales de riesgo en un texto aplicando conclusiones que anticipen problemas y propongan acciones preventivas. Comprende cómo ciertos hechos narrados pueden indicar fallas futuras y formula medidas simples para mantener condiciones seguras en entornos escolares y comunitarios."
+    },
+    {
+        "intent_id": "lectura_calcular_patron_inferir",
+        "keywords": [
+            "lectura",
+            "calcular",
+            "patron",
+            "inferir",
+            "resultado"
+        ],
+        "base_response": "Aplicar cálculos simples permite verificar conclusiones derivadas de lectura al comparar datos mencionados y estimar relaciones numéricas. El estudiante identifica patrones cuantitativos, formula operaciones básicas y confirma si la interpretación coincide con resultados coherentes que fortalecen su comprensión analítica."
+    },
+    {
+        "intent_id": "proyeccion_analizar_tecnologia_anticipar",
+        "keywords": [
+            "proyeccion",
+            "analizar",
+            "tecnologia",
+            "anticipar",
+            "tendencia"
+        ],
+        "base_response": "La lectura permite identificar cómo la tecnología podría transformar actividades cotidianas mediante herramientas emergentes que facilitan tareas escolares y comunicativas. El estudiante proyecta escenarios futuros evaluando cambios posibles y comprendiendo impactos que influirán en su aprendizaje y participación social."
+    },
+    {
+        "intent_id": "perspectiva_analizar_texto_interpretar",
+        "keywords": [
+            "perspectiva",
+            "analizar",
+            "texto",
+            "interpretar",
+            "lectura"
+        ],
+        "base_response": "Describe la estructura mental que organiza cómo un lector identifica ideas centrales, relaciones y matices dentro de un texto, usando esquemas cognitivos que permiten comparar información, reconocer intenciones y construir una visión coherente basada en lo leído."
+    },
+    {
+        "intent_id": "percepcion_procesar_informacion_interpretar",
+        "keywords": [
+            "percepcion",
+            "procesar",
+            "informacion",
+            "interpretar",
+            "estimulo"
+        ],
+        "base_response": "La lectura de puntos de vista implica que el cerebro organiza señales visuales y lingüísticas para identificar ideas centrales, comparar argumentos y ajustar interpretaciones. Este proceso físico combina memoria activa y atención sostenida para construir comprensión coherente en estudiantes en formación."
+    },
+    {
+        "intent_id": "lectura_interpretar_texto_confundir",
+        "keywords": [
+            "lectura",
+            "interpretar",
+            "texto",
+            "confundir",
+            "perspectiva"
+        ],
+        "base_response": "La lectura apresurada puede generar confusión entre opiniones del autor y datos reales, afectando la comprensión de perspectivas distintas. Identificar señales discursivas y separar hechos de interpretaciones ayuda a evitar errores comunes y fortalece la capacidad crítica en estudiantes en formación."
+    }
+]
