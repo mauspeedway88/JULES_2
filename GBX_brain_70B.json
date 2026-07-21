@@ -1,0 +1,2334 @@
+[
+  {
+    "intent_id": "salud_fisica_y_propiedades",
+    "keywords": [
+      "funcion",
+      "enzima",
+      "metabolismo",
+      "nutriente",
+      "proteina"
+    ],
+    "base_response": "Las proteínas poseen propiedades químicas que permiten formar enzimas esenciales para el metabolismo humano. Estas moléculas facilitan reacciones vitales, reparan tejidos y regulan procesos corporales. Su estructura determina cómo interactúan con nutrientes y cómo mantienen el equilibrio físico y mental."
+  },
+  {
+    "intent_id": "salud_fisica_y_historia",
+    "keywords": [
+      "evolucion",
+      "origen",
+      "historia",
+      "mente",
+      "cuerpo"
+    ],
+    "base_response": "La comprensión de la salud humana surgió cuando antiguas civilizaciones observaron cómo el cuerpo y la mente respondían al entorno. Con el tiempo, desarrollaron prácticas médicas que evolucionaron hacia sistemas científicos modernos, integrando conocimientos biológicos y psicológicos para mejorar el bienestar integral."
+  },
+  {
+    "intent_id": "salud_fisica_y_definicion",
+    "keywords": [
+      "neurona",
+      "conexion",
+      "impulso",
+      "transmision",
+      "cerebro"
+    ],
+    "base_response": "El sistema nervioso es una red compleja formada por neuronas que transmiten señales eléctricas y químicas. Su estructura incluye el cerebro, la médula espinal y los nervios, coordinando movimientos, sensaciones y funciones vitales mediante conexiones rápidas y precisas en todo el cuerpo."
+  },
+  {
+    "intent_id": "salud_fisica_y_dinamica",
+    "keywords": [
+      "musculo",
+      "movimiento",
+      "fuerza",
+      "energia",
+      "contraccion"
+    ],
+    "base_response": "Los músculos permiten el movimiento mediante contracciones coordinadas que requieren energía constante. Su funcionamiento depende de señales nerviosas precisas que activan fibras especializadas. Mantenerlos fuertes favorece la postura, la movilidad y la protección de articulaciones durante actividades cotidianas y deportivas."
+  },
+  {
+    "intent_id": "salud_fisica_y_errores",
+    "keywords": [
+      "emocion",
+      "respirar",
+      "ansiedad",
+      "pensamiento",
+      "estres"
+    ],
+    "base_response": "La ansiedad aparece cuando el cuerpo reacciona de forma exagerada ante situaciones que parecen peligrosas, aunque no lo sean. Puede causar tensión, preocupación intensa y dificultad para concentrarse. Reconocer sus señales permite buscar apoyo y practicar técnicas que ayudan a recuperar calma."
+  },
+  {
+    "intent_id": "salud_fisica_y_aplicaciones",
+    "keywords": [
+      "actividad",
+      "movimiento",
+      "descanso",
+      "organizacion",
+      "respiracion"
+    ],
+    "base_response": "Aplicar hábitos saludables en la vida diaria permite mantener energía, mejorar la concentración y reducir el estrés. Integrar pausas activas, respiración consciente, organización del tiempo y descanso adecuado ayuda a fortalecer el bienestar físico y mental de manera constante."
+  },
+  {
+    "intent_id": "salud_fisica_y_ventajas",
+    "keywords": [
+      "actividad",
+      "equilibrar",
+      "ejercicio",
+      "fortalecer",
+      "estres"
+    ],
+    "base_response": "Comparar beneficios y riesgos permite entender cómo ciertas prácticas fortalecen el cuerpo y la mente, pero también pueden generar estrés si se aplican sin equilibrio. Analizar ambas perspectivas ayuda a tomar decisiones informadas que favorecen el bienestar integral y previenen problemas futuros."
+  },
+  {
+    "intent_id": "salud_fisica_y_contexto",
+    "keywords": [
+      "ecosistema",
+      "adaptacion",
+      "comunidad",
+      "sostenibilidad",
+      "interaccion"
+    ],
+    "base_response": "El entorno ecológico influye directamente en la salud física y mental al ofrecer recursos, desafíos y estímulos que moldean hábitos y emociones. Un ambiente equilibrado favorece bienestar, mientras condiciones adversas pueden generar estrés, riesgos y dificultades para mantener prácticas saludables."
+  },
+  {
+    "intent_id": "salud_fisica_y_riesgos",
+    "keywords": [
+      "evaluacion",
+      "autocuidado",
+      "proteccion",
+      "prevencion",
+      "riesgo"
+    ],
+    "base_response": "Comprender los riesgos físicos y mentales permite tomar decisiones seguras y responsables. Identificar señales de peligro, establecer límites personales y practicar autocuidado diario ayuda a reducir accidentes y estrés. Aplicar medidas de protección fortalece la confianza y promueve bienestar sostenible."
+  },
+  {
+    "intent_id": "salud_fisica_y_clasificacion",
+    "keywords": [
+      "funcion",
+      "clasificar",
+      "organismo",
+      "sistema",
+      "analizar"
+    ],
+    "base_response": "La clasificación taxonómica en salud humana organiza organismos según características compartidas, permitiendo estudiar relaciones biológicas y comprender cómo influyen en el bienestar físico y mental. Facilita identificar funciones corporales, analizar enfermedades y mejorar estrategias de prevención mediante categorías científicas claras."
+  },
+  {
+    "intent_id": "salud_fisica_y_mitos",
+    "keywords": [
+      "creencia",
+      "entender",
+      "cuerpo",
+      "mito",
+      "mente"
+    ],
+    "base_response": "Muchos creen que la fuerza mental significa ignorar emociones, pero esto es falso. Reconocer sentimientos y pedir ayuda fortalece el bienestar. También es erróneo pensar que el ejercicio solo mejora el cuerpo, porque influye directamente en la salud emocional y reduce el estrés."
+  },
+  {
+    "intent_id": "salud_fisica_y_calculos",
+    "keywords": [
+      "frecuencia",
+      "actividad",
+      "calculo",
+      "formula",
+      "respiracion"
+    ],
+    "base_response": "La frecuencia respiratoria se calcula contando inhalaciones por minuto para evaluar esfuerzo físico y bienestar. Esta medición permite identificar cambios corporales durante ejercicio, estrés o descanso, ayudando a comprender cómo responde el organismo y a ajustar hábitos saludables según necesidades individuales."
+  },
+  {
+    "intent_id": "salud_fisica_y_relacion",
+    "keywords": [
+      "equilibrar",
+      "nutricion",
+      "organismo",
+      "bacteria",
+      "cooperar"
+    ],
+    "base_response": "La relación simbiótica entre sistemas humanos y microorganismos beneficiosos permite funciones esenciales como la digestión, la protección inmunitaria y la producción de vitaminas. Estos aliados invisibles cooperan con órganos y tejidos para mantener equilibrio, fortalecer defensas y mejorar el bienestar general del cuerpo."
+  },
+  {
+    "intent_id": "salud_fisica_y_transformacion",
+    "keywords": [
+      "movimiento",
+      "energia",
+      "transformacion",
+      "metabolismo",
+      "respiracion"
+    ],
+    "base_response": "El cuerpo humano transforma energía constantemente mediante procesos como la respiración y el metabolismo. Estos ciclos permiten obtener nutrientes, producir movimiento y mantener funciones vitales. Cuando la energía se agota, el organismo busca nuevas fuentes para sostener su equilibrio y rendimiento diario."
+  },
+  {
+    "intent_id": "salud_fisica_y_consecuencias",
+    "keywords": [
+      "cuidado",
+      "cuerpo",
+      "prevencion",
+      "mente",
+      "habito"
+    ],
+    "base_response": "Los hábitos diarios influyen profundamente en la salud futura, porque pequeñas decisiones repetidas pueden fortalecer o debilitar el cuerpo y la mente. Mantener actividad física, descanso adecuado y manejo emocional reduce riesgos de enfermedades crónicas y favorece bienestar duradero."
+  },
+  {
+    "intent_id": "salud_fisica_y_impacto",
+    "keywords": [
+      "ecosistema",
+      "proteger",
+      "reciclar",
+      "contaminacion",
+      "residuos"
+    ],
+    "base_response": "La salud humana depende de ambientes limpios que reduzcan contaminantes y protejan los ecosistemas. Cuando se generan demasiados residuos y no se reciclan, aumenta la exposición a sustancias dañinas. Cuidar el entorno mejora la calidad del aire, del agua y el bienestar general."
+  },
+  {
+    "intent_id": "salud_fisica_y_experimentos",
+    "keywords": [
+      "movimiento",
+      "medicion",
+      "observacion",
+      "equilibrio",
+      "respiracion"
+    ],
+    "base_response": "Un experimento escolar útil consiste en medir frecuencia cardíaca antes y después de ejercicios de respiración profunda. Los estudiantes observan cambios corporales y emocionales, registran datos y comparan resultados para comprender cómo la respiración influye en la calma y el bienestar general."
+  },
+  {
+    "intent_id": "salud_fisica_y_proyecciones",
+    "keywords": [
+      "prevenir",
+      "sensor",
+      "monitorear",
+      "analisis",
+      "robotica"
+    ],
+    "base_response": "La integración de sensores avanzados y robótica permitirá monitorear funciones corporales en tiempo real, anticipar riesgos y prevenir enfermedades mediante análisis predictivos. Estas tecnologías facilitarán cuidados personalizados que mejorarán el bienestar físico y mental de manera continua."
+  },
+  {
+    "intent_id": "salud_fisica_y_mantenimiento",
+    "keywords": [
+      "actividad",
+      "cuidado",
+      "prevencion",
+      "fortalecer",
+      "habito"
+    ],
+    "base_response": "Mantener una rutina equilibrada de ejercicio, descanso y alimentación ayuda a prevenir enfermedades y fortalecer el bienestar integral. Adoptar hábitos constantes permite que el cuerpo y la mente funcionen mejor, reduciendo riesgos y promoviendo una vida más saludable y estable."
+  },
+  {
+    "intent_id": "alimentacion_suficiente_del_definicion",
+    "keywords": [
+      "funcion",
+      "nutricion",
+      "organismo",
+      "metabolismo",
+      "crecimiento"
+    ],
+    "base_response": "La alimentación suficiente sostiene estructuras corporales esenciales mediante nutrientes que permiten crecimiento, reparación y funcionamiento adecuado. Incluye componentes que fortalecen tejidos, regulan procesos internos y aseguran energía continua para mantener un desarrollo humano equilibrado y saludable."
+  },
+  {
+    "intent_id": "alimentacion_suficiente_del_dinamica",
+    "keywords": [
+      "desarrollo",
+      "nutricion",
+      "energia",
+      "metabolismo",
+      "crecimiento"
+    ],
+    "base_response": "Una alimentación suficiente garantiza que el cuerpo obtenga energía y nutrientes esenciales para mantener órganos fuertes, músculos activos y huesos resistentes. Un buen equilibrio nutricional favorece el crecimiento, mejora el rendimiento físico y ayuda a conservar funciones vitales en óptimas condiciones."
+  },
+  {
+    "intent_id": "alimentacion_suficiente_del_propiedades",
+    "keywords": [
+      "absorcion",
+      "funcion",
+      "energia",
+      "metabolismo",
+      "nutriente"
+    ],
+    "base_response": "Los nutrientes poseen propiedades químicas que permiten su transformación en energía útil. Durante la digestión, sus moléculas se descomponen y se absorben para sostener el metabolismo. Estas características aseguran un desarrollo humano adecuado y un funcionamiento corporal equilibrado."
+  },
+  {
+    "intent_id": "alimentacion_suficiente_del_historia",
+    "keywords": [
+      "evolucion",
+      "consumo",
+      "alimentacion",
+      "origen",
+      "cultivo"
+    ],
+    "base_response": "La alimentación humana surgió cuando grupos antiguos recolectaban y cazaban para sobrevivir. Con el tiempo, desarrollaron la agricultura, lo que permitió cultivar alimentos y crear comunidades estables. Esta evolución mejoró la disponibilidad de nutrientes y transformó profundamente la vida social y cultural."
+  },
+  {
+    "intent_id": "alimentacion_suficiente_del_contexto",
+    "keywords": [
+      "ecosistema",
+      "nutricion",
+      "consumo",
+      "sostenibilidad",
+      "cultivo"
+    ],
+    "base_response": "La alimentación suficiente depende de ecosistemas saludables que proveen recursos variados y seguros. Un entorno ecológico equilibrado favorece cultivos nutritivos, protege la biodiversidad y reduce riesgos ambientales que afectan la calidad de los alimentos y el bienestar humano."
+  },
+  {
+    "intent_id": "alimentacion_suficiente_del_errores",
+    "keywords": [
+      "nutrir",
+      "alteracion",
+      "deficiencia",
+      "desnutricion",
+      "crecimiento"
+    ],
+    "base_response": "La desnutrición provoca fallas en el crecimiento, debilidad muscular y problemas inmunológicos. Cuando el cuerpo no recibe suficientes nutrientes, aparecen alteraciones metabólicas que afectan órganos y desarrollo. Detectar estos signos temprano permite prevenir daños graves y favorecer una recuperación adecuada."
+  },
+  {
+    "intent_id": "alimentacion_suficiente_del_aplicaciones",
+    "keywords": [
+      "balance",
+      "nutricion",
+      "consumo",
+      "planeacion",
+      "crecimiento"
+    ],
+    "base_response": "Una alimentación suficiente permite elegir porciones adecuadas, combinar alimentos variados y mantener energía constante durante el día. Aplicar este hábito mejora el crecimiento, fortalece defensas y facilita la concentración en actividades escolares y deportivas, promoviendo bienestar integral."
+  },
+  {
+    "intent_id": "alimentacion_suficiente_del_importancia",
+    "keywords": [
+      "salud",
+      "impacto",
+      "nutricion",
+      "acceso",
+      "crecimiento"
+    ],
+    "base_response": "Una alimentación suficiente favorece el desarrollo humano al mejorar la salud, el crecimiento y la capacidad de aprendizaje. Su impacto social incluye comunidades más productivas, menor desigualdad y mejores oportunidades para niñas y niños, fortaleciendo el bienestar colectivo y el progreso sostenible."
+  },
+  {
+    "intent_id": "salud_fisica_y_importancia",
+    "keywords": [
+      "comunidad",
+      "participacion",
+      "cuidado",
+      "bienestar",
+      "prevencion"
+    ],
+    "base_response": "La salud física y mental influye directamente en la calidad de vida de toda la comunidad, porque determina cómo estudiamos, trabajamos y convivimos. Su cuidado colectivo reduce riesgos, fortalece vínculos y promueve entornos seguros donde cada persona puede desarrollarse plenamente y aportar al bienestar común."
+  },
+  {
+    "intent_id": "alimentacion_suficiente_del_clasificacion",
+    "keywords": [
+      "nutricion",
+      "consumo",
+      "clasificacion",
+      "organismo",
+      "crecimiento"
+    ],
+    "base_response": "La clasificación taxonómica permite ordenar organismos según características comunes que influyen en su alimentación suficiente. Comprender estas categorías facilita analizar cómo cada especie obtiene nutrientes esenciales para su crecimiento, desarrollo y supervivencia dentro de distintos ambientes naturales."
+  },
+  {
+    "intent_id": "alimentacion_suficiente_del_riesgos",
+    "keywords": [
+      "nutricion",
+      "consumo",
+      "contaminacion",
+      "higiene",
+      "prevencion"
+    ],
+    "base_response": "Una alimentación segura requiere evitar contaminantes, mantener higiene adecuada y revisar fechas de caducidad. Consumir alimentos bien cocinados reduce riesgos de enfermedades. Almacenar productos correctamente y lavar manos antes de preparar comidas protege la salud y favorece un desarrollo humano equilibrado."
+  },
+  {
+    "intent_id": "alimentacion_suficiente_del_ventajas",
+    "keywords": [
+      "evaluacion",
+      "nutricion",
+      "comparacion",
+      "analisis",
+      "crecimiento"
+    ],
+    "base_response": "Una alimentación suficiente favorece el crecimiento adecuado y mejora la energía diaria, pero puede variar según recursos disponibles. Comparar ventajas y desventajas permite identificar prácticas más saludables, reconocer limitaciones económicas y ajustar hábitos para asegurar un desarrollo humano equilibrado y sostenible."
+  },
+  {
+    "intent_id": "alimentacion_suficiente_del_calculos",
+    "keywords": [
+      "nutricion",
+      "energia",
+      "calculo",
+      "metabolismo",
+      "crecimiento"
+    ],
+    "base_response": "El cálculo del balance nutricional permite estimar la energía necesaria para sostener el crecimiento humano. Se utilizan fórmulas que relacionan peso, edad y actividad física para determinar requerimientos diarios. Estos valores ayudan a planificar una alimentación suficiente y equilibrada."
+  },
+  {
+    "intent_id": "alimentacion_suficiente_del_mitos",
+    "keywords": [
+      "creencia",
+      "nutricion",
+      "consumo",
+      "alimentacion",
+      "mito"
+    ],
+    "base_response": "Muchos creen que comer demasiado garantiza más energía, pero una alimentación equilibrada es lo que realmente favorece el desarrollo humano. También es falso que ciertos alimentos mágicos resuelvan deficiencias sin acompañarse de hábitos saludables y variedad nutricional adecuada."
+  },
+  {
+    "intent_id": "alimentacion_suficiente_del_transformacion",
+    "keywords": [
+      "nutricion",
+      "energia",
+      "transformacion",
+      "metabolismo",
+      "crecimiento"
+    ],
+    "base_response": "La alimentación suficiente permite que el cuerpo transforme nutrientes en energía útil, sosteniendo el crecimiento y las funciones vitales. Estos ciclos energéticos garantizan que cada célula reciba lo necesario para mantener procesos metabólicos eficientes y favorecer un desarrollo humano saludable y equilibrado."
+  },
+  {
+    "intent_id": "alimentacion_suficiente_del_relacion",
+    "keywords": [
+      "nutricion",
+      "organismo",
+      "interaccion",
+      "absorber",
+      "crecimiento"
+    ],
+    "base_response": "La alimentación suficiente depende de relaciones simbióticas donde organismos colaboran para obtener nutrientes esenciales. Estas interacciones permiten absorber recursos, mantener equilibrio interno y favorecer el crecimiento saludable, garantizando que cada sistema funcione adecuadamente y apoye el desarrollo humano integral."
+  },
+  {
+    "intent_id": "alimentacion_suficiente_del_impacto",
+    "keywords": [
+      "ambiente",
+      "impacto",
+      "desarrollo",
+      "consumo",
+      "alimentacion"
+    ],
+    "base_response": "La producción de alimentos influye directamente en el ambiente mediante uso de agua, suelo y energía. Un consumo responsable reduce contaminación, protege ecosistemas y favorece prácticas sostenibles que aseguran recursos suficientes para el desarrollo humano sin dañar la biodiversidad futura."
+  },
+  {
+    "intent_id": "alimentacion_suficiente_del_experimentos",
+    "keywords": [
+      "nutricion",
+      "observacion",
+      "experimento",
+      "registro",
+      "crecimiento"
+    ],
+    "base_response": "Un experimento escolar puede mostrar cómo una alimentación suficiente influye en el crecimiento mediante la observación de plantas sometidas a distintas cantidades de nutrientes. Los estudiantes registran cambios visibles y analizan cómo la disponibilidad adecuada de recursos favorece un desarrollo saludable."
+  },
+  {
+    "intent_id": "alimentacion_suficiente_del_mantenimiento",
+    "keywords": [
+      "salud",
+      "nutricion",
+      "consumo",
+      "prevencion",
+      "crecimiento"
+    ],
+    "base_response": "Una alimentación suficiente ayuda a mantener el cuerpo fuerte y prevenir enfermedades mediante el consumo equilibrado de nutrientes esenciales. Favorece el crecimiento adecuado, mejora la energía diaria y fortalece el sistema inmunológico, permitiendo un desarrollo humano saludable y sostenible."
+  },
+  {
+    "intent_id": "alimentacion_suficiente_del_proyecciones",
+    "keywords": [
+      "procesamiento",
+      "nutricion",
+      "innovacion",
+      "cultivo",
+      "tecnologia"
+    ],
+    "base_response": "La alimentación futura dependerá de tecnologías capaces de producir alimentos nutritivos con menor impacto ambiental. Sistemas avanzados de cultivo, análisis digital y procesamiento inteligente permitirán crear dietas más equilibradas, accesibles y adaptadas a las necesidades del desarrollo humano."
+  },
+  {
+    "intent_id": "alimentacion_suficiente_del_consecuencias",
+    "keywords": [
+      "desarrollo",
+      "nutricion",
+      "prevencion",
+      "fortalecer",
+      "crecimiento"
+    ],
+    "base_response": "Una alimentación suficiente durante la infancia garantiza un desarrollo físico y cognitivo adecuado, previene enfermedades crónicas y fortalece el sistema inmunológico. A largo plazo, mejora el rendimiento escolar, favorece la salud emocional y aumenta las oportunidades de bienestar en la vida adulta."
+  },
+  {
+    "intent_id": "vivienda_digna_para_definicion",
+    "keywords": [
+      "construir",
+      "proteger",
+      "espacio",
+      "vivienda",
+      "familia"
+    ],
+    "base_response": "Una vivienda digna posee una estructura segura que incluye muros resistentes, techo estable y espacios bien distribuidos. Su diseño protege a la familia, permite actividades cotidianas y garantiza comodidad. Cada elemento arquitectónico contribuye a un entorno saludable y funcional."
+  },
+  {
+    "intent_id": "vivienda_digna_para_dinamica",
+    "keywords": [
+      "aislamiento",
+      "proteger",
+      "resistencia",
+      "ventilacion",
+      "estructura"
+    ],
+    "base_response": "Una vivienda digna funciona mediante estructuras seguras que soportan peso, ventilación adecuada que renueva el aire, aislamiento que mantiene la temperatura y materiales resistentes que protegen a las familias. Estos elementos permiten vivir con comodidad, salud y estabilidad diaria."
+  },
+  {
+    "intent_id": "vivienda_digna_para_errores",
+    "keywords": [
+      "deterioro",
+      "humedad",
+      "ventilacion",
+      "estructura",
+      "filtracion"
+    ],
+    "base_response": "La humedad excesiva provoca filtraciones, deterioro de muros y crecimiento de moho que afecta la salud. Una ventilación deficiente agrava estos problemas y debilita la estructura. Detectar estas fallas temprano permite mantener viviendas seguras y adecuadas para las familias."
+  },
+  {
+    "intent_id": "vivienda_digna_para_propiedades",
+    "keywords": [
+      "proteger",
+      "resistencia",
+      "aislar",
+      "estructura",
+      "material"
+    ],
+    "base_response": "Los materiales de una vivienda digna deben ofrecer resistencia, aislamiento y durabilidad para proteger a las familias. Propiedades como impermeabilidad, conductividad térmica y estabilidad química permiten crear espacios seguros que mantienen temperaturas adecuadas y evitan daños causados por humedad o agentes externos."
+  },
+  {
+    "intent_id": "vivienda_digna_para_historia",
+    "keywords": [
+      "evolucion",
+      "historia",
+      "construccion",
+      "vivienda",
+      "familia"
+    ],
+    "base_response": "La vivienda digna surgió cuando las primeras comunidades humanas buscaron refugios seguros y estables. Con el tiempo, las técnicas de construcción evolucionaron y permitieron crear hogares más resistentes, cómodos y adaptados a las necesidades familiares, fortaleciendo la vida comunitaria y la protección colectiva."
+  },
+  {
+    "intent_id": "vivienda_digna_para_contexto",
+    "keywords": [
+      "ecosistema",
+      "proteger",
+      "adaptar",
+      "vivienda",
+      "familia"
+    ],
+    "base_response": "Una vivienda digna considera el entorno ecológico al integrarse de manera responsable con la naturaleza. Utiliza materiales sostenibles, respeta los ecosistemas locales y promueve prácticas que reducen impactos ambientales, asegurando bienestar para las familias y equilibrio para el ambiente."
+  },
+  {
+    "intent_id": "vivienda_digna_para_aplicaciones",
+    "keywords": [
+      "mejora",
+      "construccion",
+      "vivienda",
+      "acceso",
+      "familia"
+    ],
+    "base_response": "Una vivienda digna se aplica cuando las familias acceden a espacios seguros, ventilados y bien construidos que protegen su salud. También implica mejorar servicios básicos como agua potable y electricidad, permitiendo una vida diaria más cómoda y organizada para todos los integrantes del hogar."
+  },
+  {
+    "intent_id": "vivienda_digna_para_riesgos",
+    "keywords": [
+      "evaluacion",
+      "proteccion",
+      "estructura",
+      "prevencion",
+      "riesgo"
+    ],
+    "base_response": "Una vivienda digna requiere identificar riesgos como incendios, caídas y fallas estructurales. Implementar alarmas, salidas de emergencia y materiales resistentes mejora la seguridad. Revisar instalaciones eléctricas y capacitar a la familia reduce accidentes y fortalece la protección diaria."
+  },
+  {
+    "intent_id": "vivienda_digna_para_importancia",
+    "keywords": [
+      "proteger",
+      "equidad",
+      "vivienda",
+      "acceso",
+      "familia"
+    ],
+    "base_response": "Una vivienda digna impulsa comunidades más seguras y saludables, porque permite que las familias crezcan con estabilidad, accedan a oportunidades y fortalezcan su bienestar. Su impacto social mejora la convivencia, reduce desigualdades y favorece el desarrollo sostenible de toda la población."
+  },
+  {
+    "intent_id": "vivienda_digna_para_ventajas",
+    "keywords": [
+      "comparar",
+      "beneficio",
+      "evaluar",
+      "vivienda",
+      "familia"
+    ],
+    "base_response": "Una vivienda digna ofrece ventajas como seguridad, comodidad y acceso a servicios, pero también puede implicar costos elevados y mantenimiento constante. Comparar distintas opciones permite identificar soluciones adecuadas para cada familia y equilibrar necesidades con recursos disponibles."
+  },
+  {
+    "intent_id": "vivienda_digna_para_clasificacion",
+    "keywords": [
+      "habitar",
+      "clasificar",
+      "estructura",
+      "vivienda",
+      "familia"
+    ],
+    "base_response": "La clasificación taxonómica de viviendas dignas organiza distintos tipos de estructuras habitables según materiales, distribución y funciones esenciales. Este orden permite comprender cómo cada categoría satisface necesidades humanas básicas y promueve bienestar familiar dentro de entornos seguros y adecuados."
+  },
+  {
+    "intent_id": "vivienda_digna_para_calculos",
+    "keywords": [
+      "medicion",
+      "familia",
+      "calculo",
+      "vivienda",
+      "planificacion"
+    ],
+    "base_response": "Los cálculos para una vivienda digna permiten estimar áreas necesarias, materiales adecuados y costos aproximados. Estas fórmulas ayudan a planificar espacios seguros, ventilación suficiente y distribución equilibrada, garantizando que cada familia cuente con condiciones habitables que favorezcan su bienestar integral."
+  },
+  {
+    "intent_id": "vivienda_digna_para_transformacion",
+    "keywords": [
+      "energia",
+      "sustentabilidad",
+      "sistema",
+      "transformacion",
+      "flujo"
+    ],
+    "base_response": "La vivienda digna aprovecha ciclos energéticos que transforman recursos naturales en calor, luz y ventilación eficiente. Estos procesos permiten reducir impactos ambientales y mejorar el bienestar familiar mediante sistemas que reutilizan energía y mantienen condiciones saludables dentro del hogar."
+  },
+  {
+    "intent_id": "vivienda_digna_para_mitos",
+    "keywords": [
+      "creencia",
+      "mito",
+      "vivienda",
+      "acceso",
+      "familia"
+    ],
+    "base_response": "Muchas personas creen que una vivienda digna debe ser lujosa, pero esto es falso. Una vivienda digna garantiza seguridad, espacio adecuado y servicios básicos. No requiere materiales costosos, sino condiciones que permitan a cada familia vivir con bienestar y estabilidad."
+  },
+  {
+    "intent_id": "vivienda_digna_para_relacion",
+    "keywords": [
+      "ecosistema",
+      "sustentabilidad",
+      "interaccion",
+      "vivienda",
+      "familia"
+    ],
+    "base_response": "Una vivienda digna mantiene una relación simbiótica con sistemas naturales y sociales al aprovechar recursos de manera responsable, reducir impactos ambientales y fortalecer la convivencia comunitaria. Esta conexión favorece bienestar, resiliencia y equilibrio entre necesidades humanas y dinámicas del entorno."
+  },
+  {
+    "intent_id": "vivienda_digna_para_experimentos",
+    "keywords": [
+      "resistencia",
+      "observacion",
+      "maqueta",
+      "construccion",
+      "estructura"
+    ],
+    "base_response": "El experimento consiste en crear una maqueta sencilla que muestre cómo una vivienda digna requiere materiales resistentes y buena distribución del espacio. Los estudiantes prueban diferentes estructuras, analizan su estabilidad y comprenden la importancia de un diseño seguro para las familias."
+  },
+  {
+    "intent_id": "vivienda_digna_para_consecuencias",
+    "keywords": [
+      "salud",
+      "desarrollo",
+      "vivienda",
+      "familia",
+      "crecimiento"
+    ],
+    "base_response": "Una vivienda digna impulsa bienestar duradero al ofrecer seguridad, higiene y estabilidad emocional. Con el tiempo fortalece la salud física, mejora el rendimiento escolar y fomenta relaciones familiares sanas. También facilita oportunidades laborales y reduce riesgos sociales que afectan el futuro comunitario."
+  },
+  {
+    "intent_id": "vivienda_digna_para_mantenimiento",
+    "keywords": [
+      "reparacion",
+      "cuidado",
+      "mantenimiento",
+      "seguridad",
+      "prevencion"
+    ],
+    "base_response": "El mantenimiento constante de la vivienda permite prevenir daños costosos, conservar la seguridad familiar y asegurar espacios saludables. Revisar techos, limpiar drenajes, reparar filtraciones y cuidar instalaciones eléctricas evita riesgos y prolonga la vida útil de cada área del hogar."
+  },
+  {
+    "intent_id": "vivienda_digna_para_impacto",
+    "keywords": [
+      "construir",
+      "energia",
+      "reciclaje",
+      "vivienda",
+      "familia"
+    ],
+    "base_response": "Una vivienda digna reduce su impacto ambiental al usar materiales reciclados, aprovechar energía renovable y minimizar residuos. Estas acciones protegen ecosistemas, disminuyen emisiones y fomentan comunidades más saludables para las familias que buscan vivir de manera responsable y sostenible."
+  },
+  {
+    "intent_id": "vivienda_digna_para_proyecciones",
+    "keywords": [
+      "robotica",
+      "energia",
+      "construccion",
+      "vivienda",
+      "tecnologia"
+    ],
+    "base_response": "Las viviendas futuras integrarán materiales inteligentes, sistemas autónomos y energía limpia para mejorar la calidad de vida. La tecnología permitirá construir hogares más seguros, adaptables y eficientes, capaces de ajustarse a necesidades familiares cambiantes mediante soluciones automatizadas y sostenibles."
+  },
+  {
+    "intent_id": "seguridad_social_protectora_definicion",
+    "keywords": [
+      "funcion",
+      "organismo",
+      "proteccion",
+      "estructura",
+      "sistema"
+    ],
+    "base_response": "La seguridad social protectora de humanos se entiende como una estructura organizada que integra instituciones y recursos destinados a resguardar la salud, estabilidad y bienestar de las personas. Su función principal es ofrecer apoyo ante riesgos físicos, económicos y sociales que afectan la vida cotidiana."
+  },
+  {
+    "intent_id": "seguridad_social_protectora_dinamica",
+    "keywords": [
+      "operacion",
+      "supervision",
+      "proteccion",
+      "estructura",
+      "sistema"
+    ],
+    "base_response": "La seguridad social protectora funciona mediante estructuras físicas que garantizan atención rápida y confiable. Sus instalaciones coordinan recursos médicos, tecnológicos y humanos para responder a emergencias, prevenir riesgos y asegurar condiciones saludables. Su operación mantiene vigilancia constante y apoyo inmediato para la población."
+  },
+  {
+    "intent_id": "seguridad_social_protectora_errores",
+    "keywords": [
+      "patologia",
+      "exclusion",
+      "error",
+      "colapso",
+      "falla"
+    ],
+    "base_response": "Las fallas en la seguridad social pueden generar exclusiones injustas, retrasos graves en la atención y pérdida de beneficios esenciales. Estos errores afectan especialmente a grupos vulnerables y pueden provocar riesgos significativos para su bienestar, dificultando el acceso a servicios que deberían protegerlos adecuadamente."
+  },
+  {
+    "intent_id": "seguridad_social_protectora_propiedades",
+    "keywords": [
+      "resistencia",
+      "fibra",
+      "proteccion",
+      "seguridad",
+      "material"
+    ],
+    "base_response": "Las fibras sintéticas usadas en equipos de protección presentan resistencia química que evita la degradación por sustancias corrosivas. Estas propiedades permiten crear barreras seguras que protegen la piel humana y reducen riesgos en ambientes industriales donde se manipulan materiales peligrosos."
+  },
+  {
+    "intent_id": "seguridad_social_protectora_importancia",
+    "keywords": [
+      "bienestar",
+      "servicio",
+      "equidad",
+      "proteccion",
+      "apoyo"
+    ],
+    "base_response": "La seguridad social protege a las personas ante riesgos como enfermedad, desempleo o vejez, garantizando apoyo económico y acceso a servicios esenciales. Su impacto social fortalece el bienestar colectivo, reduce desigualdades y promueve comunidades más justas y solidarias."
+  },
+  {
+    "intent_id": "seguridad_social_protectora_ventajas",
+    "keywords": [
+      "evaluacion",
+      "beneficio",
+      "proteccion",
+      "sistema",
+      "riesgo"
+    ],
+    "base_response": "La seguridad social ofrece protección ante enfermedades y desempleo, brindando apoyo económico esencial. Sin embargo, puede presentar costos elevados y demoras en trámites. Comparar sus ventajas y desventajas permite comprender mejor su impacto en la vida cotidiana y en la estabilidad comunitaria."
+  },
+  {
+    "intent_id": "seguridad_social_protectora_riesgos",
+    "keywords": [
+      "alerta",
+      "evaluacion",
+      "proteccion",
+      "prevencion",
+      "riesgo"
+    ],
+    "base_response": "La seguridad social protectora identifica riesgos que afectan a las personas y establece medidas para reducir daños. Incluye evaluar situaciones peligrosas, aplicar protocolos de prevención y promover acciones responsables que protejan la integridad humana en diversos entornos cotidianos y laborales."
+  },
+  {
+    "intent_id": "seguridad_social_protectora_clasificacion",
+    "keywords": [
+      "evaluacion",
+      "clasificacion",
+      "organizacion",
+      "proteccion",
+      "sistema"
+    ],
+    "base_response": "Seguridad social protectora de humanos clasifica riesgos y necesidades para organizar apoyos adecuados. Esta taxonomía permite identificar grupos vulnerables, priorizar intervenciones y evaluar recursos disponibles, garantizando respuestas eficientes que promuevan bienestar, estabilidad y desarrollo comunitario."
+  },
+  {
+    "intent_id": "seguridad_social_protectora_contexto",
+    "keywords": [
+      "ecosistema",
+      "adaptacion",
+      "convivencia",
+      "sostenibilidad",
+      "proteccion"
+    ],
+    "base_response": "La seguridad social protectora considera cómo los ecosistemas influyen en la vida humana, promoviendo prácticas sostenibles que reducen riesgos ambientales. Reconoce la importancia de cuidar recursos naturales para garantizar bienestar, prevenir desastres y fortalecer comunidades frente a cambios ecológicos."
+  },
+  {
+    "intent_id": "seguridad_social_protectora_aplicaciones",
+    "keywords": [
+      "salud",
+      "proteccion",
+      "trabajo",
+      "prevencion",
+      "apoyo"
+    ],
+    "base_response": "La seguridad social ofrece apoyo esencial cuando una persona enfrenta enfermedades, accidentes o pérdida de empleo. Facilita acceso a atención médica, protege ingresos y promueve bienestar. En la vida diaria ayuda a que las familias mantengan estabilidad y enfrenten situaciones difíciles con mayor tranquilidad."
+  },
+  {
+    "intent_id": "seguridad_social_protectora_calculos",
+    "keywords": [
+      "beneficio",
+      "proteccion",
+      "seguridad",
+      "calculo",
+      "formula"
+    ],
+    "base_response": "Los cálculos de seguridad social permiten estimar beneficios mediante fórmulas que combinan edad, ingresos y tiempo de aportes. Estas operaciones ayudan a determinar apoyos económicos que protegen a las personas ante situaciones como enfermedad, desempleo o retiro laboral."
+  },
+  {
+    "intent_id": "seguridad_social_protectora_mitos",
+    "keywords": [
+      "creencia",
+      "funcion",
+      "proteccion",
+      "mito",
+      "sistema"
+    ],
+    "base_response": "Muchas personas creen que la seguridad social solo ayuda en emergencias, pero en realidad ofrece protección continua para salud, ingresos y bienestar. También existe la idea errónea de que solo beneficia a adultos, cuando en verdad apoya a toda la población, incluidos niños y jóvenes."
+  },
+  {
+    "intent_id": "seguridad_social_protectora_relacion",
+    "keywords": [
+      "funcionamiento",
+      "cooperacion",
+      "interaccion",
+      "proteccion",
+      "sistema"
+    ],
+    "base_response": "La seguridad social funciona en simbiosis con sistemas educativos, sanitarios y económicos, fortaleciendo su capacidad de proteger a las personas. Esta relación permite coordinar recursos, mejorar servicios y asegurar que cada sistema apoye el bienestar humano de manera equilibrada y sostenible."
+  },
+  {
+    "intent_id": "seguridad_social_protectora_transformacion",
+    "keywords": [
+      "funcion",
+      "transformacion",
+      "energia",
+      "proteccion",
+      "sistema"
+    ],
+    "base_response": "La seguridad social funciona como un sistema que transforma recursos económicos en protección para las personas, asegurando ciclos energéticos sostenibles. Este proceso permite que la energía social fluya hacia servicios esenciales que fortalecen el bienestar y la estabilidad comunitaria."
+  },
+  {
+    "intent_id": "seguridad_social_protectora_consecuencias",
+    "keywords": [
+      "sostener",
+      "prevenir",
+      "beneficio",
+      "proteccion",
+      "sistema"
+    ],
+    "base_response": "La seguridad social genera efectos duraderos al proteger a las personas durante toda su vida. Sus programas fortalecen la estabilidad económica, previenen riesgos graves y sostienen el bienestar colectivo. A largo plazo, contribuyen a sociedades más saludables, equitativas y preparadas para enfrentar desafíos futuros."
+  },
+  {
+    "intent_id": "seguridad_social_protectora_impacto",
+    "keywords": [
+      "ecosistema",
+      "conservacion",
+      "contaminacion",
+      "reciclaje",
+      "proteccion"
+    ],
+    "base_response": "La seguridad social protectora de humanos también considera el impacto ambiental, promoviendo prácticas que reducen la contaminación y protegen ecosistemas. Estas acciones buscan conservar recursos naturales y asegurar condiciones saludables para las comunidades presentes y futuras mediante responsabilidad colectiva."
+  },
+  {
+    "intent_id": "seguridad_social_protectora_mantenimiento",
+    "keywords": [
+      "salud",
+      "cuidado",
+      "mantenimiento",
+      "proteccion",
+      "prevencion"
+    ],
+    "base_response": "La seguridad social protectora impulsa acciones de mantenimiento y prevención para evitar riesgos que afecten la salud humana. Promueve revisiones periódicas, hábitos responsables y sistemas de alerta que reducen accidentes y fortalecen el bienestar colectivo mediante prácticas seguras y sostenidas."
+  },
+  {
+    "intent_id": "proteccion_de_maternidad_definicion",
+    "keywords": [
+      "proteger",
+      "maternidad",
+      "infancia",
+      "cuerpo",
+      "crecimiento"
+    ],
+    "base_response": "La protección de maternidad e infancia se basa en comprender la estructura corporal que permite el desarrollo saludable. Incluye órganos reproductivos, sistemas de nutrición y mecanismos de crecimiento que aseguran condiciones seguras para madres y niños durante etapas esenciales de formación."
+  },
+  {
+    "intent_id": "seguridad_social_protectora_experimentos",
+    "keywords": [
+      "observacion",
+      "experimento",
+      "proteccion",
+      "prevencion",
+      "riesgo"
+    ],
+    "base_response": "Un experimento escolar puede mostrar cómo la seguridad social protege a las personas mediante simulaciones de accidentes y análisis de riesgos. Los estudiantes observan cómo las medidas preventivas reducen daños y comprenden la importancia de sistemas que garantizan bienestar y apoyo ante situaciones inesperadas."
+  },
+  {
+    "intent_id": "proteccion_de_maternidad_dinamica",
+    "keywords": [
+      "cuidado",
+      "nutricion",
+      "maternidad",
+      "infancia",
+      "crecimiento"
+    ],
+    "base_response": "El cuerpo materno experimenta cambios físicos que permiten proteger al bebé mediante tejidos fortalecidos, producción hormonal y nutrición adecuada. Estos procesos aseguran un desarrollo infantil saludable, favorecen el crecimiento corporal y mantienen condiciones seguras durante la gestación y los primeros meses de vida."
+  },
+  {
+    "intent_id": "proteccion_de_maternidad_historia",
+    "keywords": [
+      "desarrollo",
+      "evolucion",
+      "maternidad",
+      "infancia",
+      "proteccion"
+    ],
+    "base_response": "La protección de maternidad e infancia surgió con leyes laborales básicas y evolucionó hacia políticas amplias que garantizan salud, educación y seguridad. Su historia refleja avances sociales que reconocen derechos esenciales para madres y niños, fortaleciendo su bienestar y participación comunitaria."
+  },
+  {
+    "intent_id": "proteccion_de_maternidad_propiedades",
+    "keywords": [
+      "absorcion",
+      "nutriente",
+      "proteccion",
+      "tejido",
+      "crecimiento"
+    ],
+    "base_response": "Los materiales que rodean la maternidad y la infancia deben ser seguros, resistentes y libres de sustancias tóxicas. Estas propiedades químicas permiten proteger la piel sensible, evitar alergias y asegurar un entorno saludable que favorece el crecimiento y bienestar de bebés y madres."
+  },
+  {
+    "intent_id": "proteccion_de_maternidad_errores",
+    "keywords": [
+      "anemia",
+      "cuidado",
+      "desnutricion",
+      "infeccion",
+      "prevencion"
+    ],
+    "base_response": "Las patologías comunes durante la maternidad e infancia incluyen anemia, infecciones y desnutrición, que afectan el desarrollo y bienestar. Detectarlas temprano permite aplicar cuidados adecuados y prevenir complicaciones que pueden impactar el crecimiento saludable y la seguridad física de madres y niños."
+  },
+  {
+    "intent_id": "proteccion_de_maternidad_importancia",
+    "keywords": [
+      "salud",
+      "maternidad",
+      "infancia",
+      "proteccion",
+      "crecimiento"
+    ],
+    "base_response": "La protección de la maternidad e infancia impulsa comunidades más sanas y equitativas. Garantiza atención médica adecuada, apoyo emocional y condiciones seguras para el desarrollo. Su impacto social fortalece familias, reduce desigualdades y promueve oportunidades que mejoran la calidad de vida colectiva."
+  },
+  {
+    "intent_id": "proteccion_de_maternidad_aplicaciones",
+    "keywords": [
+      "salud",
+      "cuidado",
+      "proteccion",
+      "apoyo",
+      "crecimiento"
+    ],
+    "base_response": "Garantizar protección durante la maternidad e infancia implica aplicar hábitos seguros como asistir a controles médicos, mantener alimentación equilibrada, promover espacios libres de violencia y asegurar descanso adecuado. Estas acciones fortalecen el bienestar familiar y permiten un desarrollo saludable en cada etapa temprana."
+  },
+  {
+    "intent_id": "proteccion_de_maternidad_ventajas",
+    "keywords": [
+      "evaluacion",
+      "maternidad",
+      "infancia",
+      "analisis",
+      "proteccion"
+    ],
+    "base_response": "La protección de maternidad e infancia ofrece beneficios como seguridad, salud y apoyo escolar, pero también puede presentar desafíos como recursos limitados, acceso desigual y dificultades para mantener programas sostenibles. Comparar ventajas y desventajas ayuda a mejorar políticas y prácticas comunitarias."
+  },
+  {
+    "intent_id": "proteccion_de_maternidad_riesgos",
+    "keywords": [
+      "cuidado",
+      "maternidad",
+      "infancia",
+      "prevencion",
+      "riesgo"
+    ],
+    "base_response": "La protección de la maternidad y la infancia requiere identificar riesgos como caídas, enfermedades o ambientes peligrosos, y aplicar medidas de seguridad que incluyan supervisión constante, higiene adecuada, uso correcto de equipos de protección y creación de espacios seguros que favorezcan el bienestar integral."
+  },
+  {
+    "intent_id": "proteccion_de_maternidad_clasificacion",
+    "keywords": [
+      "clasificacion",
+      "maternidad",
+      "infancia",
+      "analisis",
+      "proteccion"
+    ],
+    "base_response": "La clasificación taxonómica en protección de maternidad e infancia organiza conceptos relacionados con salud, cuidado y desarrollo. Facilita comprender cómo se conectan políticas, servicios y derechos, permitiendo identificar prioridades y mejorar acciones dirigidas a garantizar bienestar integral durante etapas tempranas de la vida."
+  },
+  {
+    "intent_id": "proteccion_de_maternidad_calculos",
+    "keywords": [
+      "estimacion",
+      "maternidad",
+      "infancia",
+      "proteccion",
+      "calculo"
+    ],
+    "base_response": "Los cálculos sobre protección de maternidad e infancia permiten estimar recursos necesarios para garantizar atención médica, nutrición adecuada y seguridad. Estas fórmulas ayudan a planificar apoyos, evaluar riesgos y asegurar que cada familia reciba cuidados esenciales durante etapas críticas del desarrollo infantil."
+  },
+  {
+    "intent_id": "seguridad_social_protectora_historia",
+    "keywords": [
+      "evolucion",
+      "origen",
+      "organizacion",
+      "proteccion",
+      "sistema"
+    ],
+    "base_response": "La seguridad social surgió para proteger a las personas frente a riesgos como enfermedad y vejez. Evolucionó desde antiguas prácticas comunitarias hasta sistemas modernos que garantizan apoyo estatal. Su desarrollo fortaleció derechos y mejoró la calidad de vida en diversas sociedades."
+  },
+  {
+    "intent_id": "seguridad_social_protectora_proyecciones",
+    "keywords": [
+      "desarrollo",
+      "innovacion",
+      "proteccion",
+      "sistema",
+      "tecnologia"
+    ],
+    "base_response": "La seguridad social futura integrará tecnologías avanzadas para anticipar riesgos y proteger mejor a las personas. Sistemas inteligentes analizarán datos en tiempo real, permitirán respuestas rápidas y fortalecerán la atención preventiva, creando entornos más seguros y adaptados a las necesidades humanas."
+  },
+  {
+    "intent_id": "proteccion_de_maternidad_experimentos",
+    "keywords": [
+      "cuidado",
+      "observacion",
+      "maternidad",
+      "infancia",
+      "crecimiento"
+    ],
+    "base_response": "Un experimento escolar puede mostrar cómo el ambiente influye en el bienestar infantil mediante la observación del crecimiento de plantas en distintos cuidados. Esta demostración ayuda a comprender la importancia de entornos seguros, atención constante y protección adecuada para favorecer un desarrollo saludable."
+  },
+  {
+    "intent_id": "proteccion_de_maternidad_consecuencias",
+    "keywords": [
+      "salud",
+      "desarrollo",
+      "proteccion",
+      "prevencion",
+      "crecimiento"
+    ],
+    "base_response": "La protección adecuada durante la maternidad y la infancia influye en el desarrollo físico y emocional a lo largo de la vida. Reduce riesgos de enfermedades crónicas, fortalece habilidades sociales y mejora oportunidades educativas futuras, creando bases sólidas para una adultez saludable y productiva."
+  },
+  {
+    "intent_id": "proteccion_de_maternidad_contexto",
+    "keywords": [
+      "cuidado",
+      "entorno",
+      "maternidad",
+      "infancia",
+      "proteccion"
+    ],
+    "base_response": "El entorno ecológico influye directamente en la salud materna e infantil, porque determina la calidad del aire, del agua y de los espacios seguros. Comprender este contexto permite promover prácticas responsables que protejan el bienestar familiar y fortalezcan comunidades más saludables."
+  },
+  {
+    "intent_id": "proteccion_de_maternidad_impacto",
+    "keywords": [
+      "ambiente",
+      "contaminacion",
+      "maternidad",
+      "infancia",
+      "proteccion"
+    ],
+    "base_response": "La contaminación ambiental afecta el desarrollo infantil y la salud materna al aumentar riesgos respiratorios y reducir acceso a recursos seguros. Proteger el entorno garantiza embarazos más saludables y una infancia con mejores oportunidades de crecimiento físico y emocional."
+  },
+  {
+    "intent_id": "proteccion_de_maternidad_mantenimiento",
+    "keywords": [
+      "salud",
+      "cuidado",
+      "nutricion",
+      "proteccion",
+      "prevencion"
+    ],
+    "base_response": "Promover hábitos saludables durante la maternidad y la infancia fortalece el bienestar físico y emocional. Mantener controles médicos regulares, asegurar una nutrición equilibrada y fomentar ambientes seguros ayuda a prevenir enfermedades y riesgos, garantizando un desarrollo adecuado y una vida más protegida."
+  },
+  {
+    "intent_id": "participacion_en_vida_definicion",
+    "keywords": [
+      "actividad",
+      "cultura",
+      "comunidad",
+      "participacion",
+      "expresion"
+    ],
+    "base_response": "La participación en la vida cultural comunitaria se estructura mediante espacios donde las personas comparten prácticas artísticas, tradiciones y expresiones colectivas. Estos entornos permiten desarrollar identidad, fortalecer vínculos sociales y promover la creatividad dentro de un grupo que convive y aprende continuamente."
+  },
+  {
+    "intent_id": "proteccion_de_maternidad_proyecciones",
+    "keywords": [
+      "salud",
+      "cuidado",
+      "proyeccion",
+      "innovacion",
+      "tecnologia"
+    ],
+    "base_response": "La protección de maternidad e infancia avanzará mediante tecnologías que monitorean la salud en tiempo real, permiten diagnósticos tempranos y facilitan apoyo remoto. Estas herramientas fortalecerán la prevención, mejorarán la atención médica y garantizarán entornos más seguros para madres y niños."
+  },
+  {
+    "intent_id": "participacion_en_vida_propiedades",
+    "keywords": [
+      "sustancia",
+      "reaccion",
+      "cambio",
+      "mezcla",
+      "material"
+    ],
+    "base_response": "Las propiedades químicas permiten comprender cómo reaccionan los materiales durante actividades comunitarias, como preparar tintes naturales o conservar alimentos. Estas reacciones transforman sustancias y generan nuevos productos útiles para proyectos culturales que fortalecen la identidad y la creatividad colectiva."
+  },
+  {
+    "intent_id": "participacion_en_vida_dinamica",
+    "keywords": [
+      "actividad",
+      "movimiento",
+      "comunidad",
+      "participacion",
+      "interaccion"
+    ],
+    "base_response": "La dinámica física en la vida cultural comunitaria incluye actividades que requieren movimiento coordinado, como danzas, juegos y recorridos. Estas prácticas fortalecen la convivencia, mejoran la salud y permiten que los participantes expresen identidad cultural mediante acciones corporales compartidas y significativas."
+  },
+  {
+    "intent_id": "participacion_en_vida_historia",
+    "keywords": [
+      "comunidad",
+      "tradicion",
+      "participacion",
+      "origen",
+      "historia"
+    ],
+    "base_response": "La participación en la vida cultural comunitaria tiene raíces antiguas que surgieron cuando los grupos humanos compartían rituales y celebraciones. Con el tiempo evolucionó hacia actividades artísticas, festivales y espacios colaborativos que fortalecen la identidad colectiva y preservan conocimientos valiosos."
+  },
+  {
+    "intent_id": "participacion_en_vida_contexto",
+    "keywords": [
+      "actividad",
+      "ecosistema",
+      "comunidad",
+      "cuidado",
+      "participacion"
+    ],
+    "base_response": "La participación cultural en el entorno ecológico impulsa a las comunidades a valorar su ambiente, integrar prácticas sostenibles y fortalecer la identidad local. Involucrarse en actividades ambientales fomenta responsabilidad, colaboración y respeto por los recursos naturales que sostienen la vida comunitaria."
+  },
+  {
+    "intent_id": "participacion_en_vida_errores",
+    "keywords": [
+      "aislamiento",
+      "conflicto",
+      "exclusion",
+      "desinteres",
+      "abuso"
+    ],
+    "base_response": "La participación cultural puede fallar cuando surgen actitudes que excluyen a otros, generan conflictos innecesarios o provocan desinterés colectivo. También aparecen problemas cuando se abusa del poder dentro de grupos comunitarios, causando aislamiento y debilitando la convivencia cultural saludable."
+  },
+  {
+    "intent_id": "proteccion_de_maternidad_mitos",
+    "keywords": [
+      "creencia",
+      "maternidad",
+      "infancia",
+      "proteccion",
+      "mito"
+    ],
+    "base_response": "Muchas personas creen que la maternidad siempre debilita a las mujeres, pero en realidad la mayoría puede mantener buena salud con cuidados adecuados. También existe la idea de que los bebés no necesitan atención constante, cuando requieren apoyo continuo para desarrollarse de manera segura y saludable."
+  },
+  {
+    "intent_id": "proteccion_de_maternidad_transformacion",
+    "keywords": [
+      "cuidado",
+      "maternidad",
+      "energia",
+      "infancia",
+      "transformacion"
+    ],
+    "base_response": "La protección de la maternidad e infancia impulsa ciclos energéticos saludables al asegurar nutrición, descanso y apoyo emocional. Estos factores fortalecen el desarrollo físico y mental, permitiendo que cada etapa vital transforme la energía en crecimiento, bienestar y resiliencia comunitaria."
+  },
+  {
+    "intent_id": "participacion_en_vida_aplicaciones",
+    "keywords": [
+      "actividad",
+      "cultura",
+      "crear",
+      "comunidad",
+      "participar"
+    ],
+    "base_response": "Participar en actividades culturales comunitarias permite aplicar habilidades creativas y fortalecer la identidad local. Al colaborar en eventos, talleres o celebraciones, los jóvenes desarrollan responsabilidad, expresan ideas y contribuyen al bienestar colectivo mediante acciones que enriquecen la vida cultural de su entorno."
+  },
+  {
+    "intent_id": "participacion_en_vida_ventajas",
+    "keywords": [
+      "cultura",
+      "comunidad",
+      "participacion",
+      "evaluacion",
+      "comparacion"
+    ],
+    "base_response": "Participar en la vida cultural comunitaria ofrece beneficios como fortalecer la identidad y crear vínculos sociales, pero también puede presentar desafíos como recursos limitados o diferencias de intereses. Analizar ventajas y desventajas permite tomar decisiones equilibradas y promover actividades inclusivas."
+  },
+  {
+    "intent_id": "participacion_en_vida_clasificacion",
+    "keywords": [
+      "comunidad",
+      "cultura",
+      "clasificacion",
+      "organizacion",
+      "analisis"
+    ],
+    "base_response": "La clasificación taxonómica en la vida cultural comunitaria permite ordenar expresiones artísticas según características compartidas. Facilita comprender relaciones entre prácticas, reconocer su origen y valorar su diversidad. Ayuda a estudiantes a identificar patrones culturales y fortalecer su participación consciente."
+  },
+  {
+    "intent_id": "participacion_en_vida_riesgos",
+    "keywords": [
+      "actividad",
+      "participacion",
+      "proteccion",
+      "prevencion",
+      "riesgo"
+    ],
+    "base_response": "La participación en actividades culturales requiere identificar riesgos y aplicar medidas de seguridad adecuadas. Es esencial respetar normas, usar equipo de protección cuando sea necesario y mantenerse atento al entorno para prevenir accidentes y garantizar experiencias comunitarias seguras y responsables."
+  },
+  {
+    "intent_id": "participacion_en_vida_calculos",
+    "keywords": [
+      "comunidad",
+      "cultura",
+      "participacion",
+      "analisis",
+      "calculo"
+    ],
+    "base_response": "El cálculo de asistencia cultural permite estimar cuántas personas participan en actividades comunitarias. Mediante porcentajes y promedios se identifican tendencias, se comparan eventos y se evalúa el impacto social, facilitando decisiones para mejorar la oferta cultural disponible."
+  },
+  {
+    "intent_id": "participacion_en_vida_relacion",
+    "keywords": [
+      "cultura",
+      "comunidad",
+      "interaccion",
+      "cooperar",
+      "sistema"
+    ],
+    "base_response": "La vida cultural comunitaria funciona como un sistema que se fortalece mediante relaciones simbióticas con otros entornos sociales. Cada actividad cultural influye y recibe apoyo de instituciones, familias y espacios públicos, creando redes que impulsan identidad, creatividad y participación colectiva."
+  },
+  {
+    "intent_id": "participacion_en_vida_mitos",
+    "keywords": [
+      "comunidad",
+      "cultura",
+      "participacion",
+      "creacion",
+      "mito"
+    ],
+    "base_response": "Muchas personas creen que la participación cultural exige habilidades especiales, pero cualquier integrante puede aportar ideas valiosas. La vida cultural comunitaria se enriquece cuando todos colaboran, comparten experiencias y cuestionan mitos que limitan su creatividad y sentido de pertenencia."
+  },
+  {
+    "intent_id": "participacion_en_vida_experimentos",
+    "keywords": [
+      "observacion",
+      "experimento",
+      "analisis",
+      "demostracion",
+      "material"
+    ],
+    "base_response": "Los experimentos y demostraciones escolares permiten comprender fenómenos mediante acciones prácticas que fortalecen la curiosidad y el pensamiento crítico. Al observar resultados y analizar procesos, los estudiantes desarrollan habilidades científicas esenciales para participar activamente en la vida cultural de su comunidad."
+  },
+  {
+    "intent_id": "participacion_en_vida_consecuencias",
+    "keywords": [
+      "comunidad",
+      "cultura",
+      "participacion",
+      "aprendizaje",
+      "crecimiento"
+    ],
+    "base_response": "Participar activamente en la vida cultural comunitaria fortalece habilidades sociales, impulsa la creatividad y fomenta el sentido de pertenencia. A largo plazo, estas experiencias enriquecen la identidad personal, mejoran la convivencia y ayudan a construir comunidades más solidarias, diversas y comprometidas con su desarrollo colectivo."
+  },
+  {
+    "intent_id": "proteccion_de_maternidad_relacion",
+    "keywords": [
+      "maternidad",
+      "infancia",
+      "proteccion",
+      "interaccion",
+      "sistema"
+    ],
+    "base_response": "La protección de maternidad e infancia funciona como un sistema que coopera con la salud, la educación y la comunidad. Cada parte aporta cuidados esenciales que fortalecen el desarrollo infantil y el bienestar materno, creando una relación simbiótica que sostiene el crecimiento integral."
+  },
+  {
+    "intent_id": "participacion_en_vida_importancia",
+    "keywords": [
+      "cultura",
+      "comunidad",
+      "participacion",
+      "expresion",
+      "creacion"
+    ],
+    "base_response": "La participación en la vida cultural fortalece la identidad colectiva, impulsa la creatividad y promueve el respeto por la diversidad. Cuando las personas colaboran en actividades artísticas y tradiciones locales, generan vínculos sociales sólidos y contribuyen al bienestar comunitario mediante acciones significativas y compartidas."
+  },
+  {
+    "intent_id": "participacion_en_vida_impacto",
+    "keywords": [
+      "cultura",
+      "ambiente",
+      "comunidad",
+      "participacion",
+      "impacto"
+    ],
+    "base_response": "La participación en actividades culturales comunitarias puede influir en el ambiente al promover prácticas responsables, reducir residuos y fomentar el cuidado de espacios compartidos. Cuando la comunidad actúa unida, se fortalecen hábitos sostenibles que protegen la naturaleza y mejoran la calidad de vida local."
+  },
+  {
+    "intent_id": "participacion_en_vida_mantenimiento",
+    "keywords": [
+      "comunidad",
+      "cuidado",
+      "participacion",
+      "mantenimiento",
+      "prevencion"
+    ],
+    "base_response": "La participación en la vida cultural comunitaria incluye cuidar espacios y prevenir daños mediante acciones responsables. Mantener áreas limpias, proteger materiales y colaborar en actividades fortalece la identidad colectiva y garantiza que todos disfruten prácticas culturales seguras y sostenibles."
+  },
+  {
+    "intent_id": "proteccion_de_propiedad_definicion",
+    "keywords": [
+      "concepto",
+      "proteccion",
+      "creacion",
+      "registro",
+      "autor"
+    ],
+    "base_response": "La propiedad intelectual posee una estructura que identifica claramente la creación humana mediante elementos como autoría, originalidad y forma expresiva. Esta organización permite clasificar obras, reconocer su origen y establecer mecanismos legales que aseguren su protección y uso responsable."
+  },
+  {
+    "intent_id": "proteccion_de_propiedad_dinamica",
+    "keywords": [
+      "proteger",
+      "innovacion",
+      "creacion",
+      "registro",
+      "autor"
+    ],
+    "base_response": "La protección de propiedad intelectual funciona mediante procesos físicos de registro que certifican la autoría y resguardan obras humanas. Estos mecanismos permiten identificar creadores, evitar copias no autorizadas y asegurar que cada innovación tenga reconocimiento legal y beneficios para quien la desarrolló."
+  },
+  {
+    "intent_id": "proteccion_de_propiedad_propiedades",
+    "keywords": [
+      "proceso",
+      "analisis",
+      "estructura",
+      "material",
+      "composicion"
+    ],
+    "base_response": "Las propiedades químicas y materiales permiten identificar creaciones humanas mediante su composición y estructura. Estos rasgos ayudan a proteger la propiedad intelectual porque demuestran cómo fue elaborado un producto, distinguiendo su proceso original y evitando copias que intenten replicarlo sin autorización."
+  },
+  {
+    "intent_id": "participacion_en_vida_proyecciones",
+    "keywords": [
+      "comunidad",
+      "participacion",
+      "proyeccion",
+      "innovacion",
+      "tecnologia"
+    ],
+    "base_response": "La tecnología permitirá que las comunidades creen espacios culturales más accesibles mediante plataformas virtuales, herramientas interactivas y proyectos colaborativos. Estas innovaciones facilitarán la participación juvenil, impulsarán nuevas expresiones artísticas y fortalecerán la identidad colectiva hacia un futuro creativo y conectado."
+  },
+  {
+    "intent_id": "proteccion_de_propiedad_errores",
+    "keywords": [
+      "ignorar",
+      "proteger",
+      "fraude",
+      "copia",
+      "plagio"
+    ],
+    "base_response": "Muchos errores ocurren cuando las personas copian sin permiso, ignoran derechos de autor o creen que todo en internet es libre. Estas fallas generan conflictos legales y afectan la creatividad. Comprender y respetar la propiedad intelectual evita problemas y fomenta producciones originales."
+  },
+  {
+    "intent_id": "proteccion_de_propiedad_historia",
+    "keywords": [
+      "evolucion",
+      "origen",
+      "proteccion",
+      "creacion",
+      "registro"
+    ],
+    "base_response": "La protección de la propiedad intelectual surgió para defender creaciones humanas y evolucionó desde antiguos privilegios otorgados a inventores hasta sistemas modernos de registro. Su historia muestra cómo las sociedades valoraron cada vez más las ideas, impulsando leyes que resguardan obras y fomentan innovación."
+  },
+  {
+    "intent_id": "proteccion_de_propiedad_contexto",
+    "keywords": [
+      "ecosistema",
+      "sostenibilidad",
+      "innovacion",
+      "proteccion",
+      "creacion"
+    ],
+    "base_response": "La protección de la propiedad intelectual influye en ecosistemas donde las ideas humanas interactúan con recursos naturales. Un entorno ecológico sano favorece innovaciones responsables, evitando daños ambientales y promoviendo prácticas creativas que respetan la biodiversidad y garantizan beneficios sostenibles para las comunidades."
+  },
+  {
+    "intent_id": "proteccion_de_propiedad_aplicaciones",
+    "keywords": [
+      "innovacion",
+      "proteccion",
+      "creacion",
+      "registro",
+      "autor"
+    ],
+    "base_response": "Registrar obras propias permite demostrar quién creó una idea y evitar que otros la usen sin permiso. En la vida diaria, esto protege dibujos, canciones, aplicaciones y diseños originales, asegurando reconocimiento y beneficios para sus autores mediante reglas claras y confiables."
+  },
+  {
+    "intent_id": "proteccion_de_propiedad_importancia",
+    "keywords": [
+      "beneficio",
+      "sociedad",
+      "innovacion",
+      "proteccion",
+      "creacion"
+    ],
+    "base_response": "La protección de la propiedad intelectual impulsa la creatividad humana y fortalece el desarrollo social al asegurar reconocimiento y beneficios para los autores. Su impacto fomenta nuevas ideas, promueve industrias culturales y tecnológicas, y contribuye al bienestar colectivo mediante avances útiles y responsables."
+  },
+  {
+    "intent_id": "proteccion_de_propiedad_riesgos",
+    "keywords": [
+      "vigilar",
+      "fraude",
+      "proteccion",
+      "registro",
+      "riesgo"
+    ],
+    "base_response": "La propiedad intelectual enfrenta riesgos como copias ilegales, fraudes y uso no autorizado. Para reducirlos, se aplican registros oficiales, vigilancia constante y herramientas digitales seguras que protegen creaciones humanas y permiten identificar rápidamente cualquier intento de apropiación indebida."
+  },
+  {
+    "intent_id": "proteccion_de_propiedad_ventajas",
+    "keywords": [
+      "evaluacion",
+      "innovacion",
+      "proteccion",
+      "creacion",
+      "registro"
+    ],
+    "base_response": "La protección de propiedad intelectual ofrece ventajas como asegurar reconocimiento y estimular innovación, pero también presenta desventajas como costos elevados y procesos complejos. Comparar ambos aspectos permite decidir si conviene proteger una creación según sus beneficios y posibles limitaciones."
+  },
+  {
+    "intent_id": "proteccion_de_propiedad_calculos",
+    "keywords": [
+      "calculo",
+      "creacion",
+      "registro",
+      "autor",
+      "formula"
+    ],
+    "base_response": "La protección intelectual puede incluir cálculos para estimar el valor económico de una obra. Se aplican fórmulas que consideran inversión, tiempo de creación y posibles ingresos futuros, ayudando a decidir estrategias legales que resguarden adecuadamente los derechos del autor."
+  },
+  {
+    "intent_id": "proteccion_de_propiedad_clasificacion",
+    "keywords": [
+      "clasificacion",
+      "proteccion",
+      "creacion",
+      "registro",
+      "autor"
+    ],
+    "base_response": "La clasificación taxonómica en propiedad intelectual organiza las creaciones humanas según su naturaleza y función, facilitando su protección legal. Esta estructura permite identificar obras, inventos y diseños, asegurando derechos exclusivos al autor y promoviendo un uso responsable dentro de la sociedad."
+  },
+  {
+    "intent_id": "participacion_en_vida_transformacion",
+    "keywords": [
+      "comunidad",
+      "participacion",
+      "energia",
+      "ciclo",
+      "transformacion"
+    ],
+    "base_response": "La participación en actividades culturales permite comprender cómo la energía se transforma y circula en la comunidad. Cada acción colectiva, como crear arte o celebrar tradiciones, muestra ciclos energéticos que conectan a las personas y fortalecen la identidad compartida mediante procesos continuos de intercambio y renovación."
+  },
+  {
+    "intent_id": "proteccion_de_propiedad_relacion",
+    "keywords": [
+      "innovacion",
+      "proteccion",
+      "interaccion",
+      "sistema",
+      "creacion"
+    ],
+    "base_response": "La protección de la propiedad intelectual funciona en simbiosis con sistemas educativos, tecnológicos y legales, fortaleciendo la creatividad humana. Cada sistema aporta recursos y reglas que permiten desarrollar ideas seguras, compartir conocimientos y promover innovaciones que benefician a toda la sociedad."
+  },
+  {
+    "intent_id": "proteccion_de_propiedad_mitos",
+    "keywords": [
+      "innovacion",
+      "proteccion",
+      "creacion",
+      "registro",
+      "autor"
+    ],
+    "base_response": "Muchos creen que cualquier idea está automáticamente protegida, pero la propiedad intelectual solo cubre creaciones concretas y originales. También es falso pensar que el registro garantiza éxito comercial, pues solo ofrece reconocimiento legal y defensa ante copias no autorizadas."
+  },
+  {
+    "intent_id": "proteccion_de_propiedad_transformacion",
+    "keywords": [
+      "proceso",
+      "energia",
+      "creacion",
+      "ciclo",
+      "transformacion"
+    ],
+    "base_response": "La protección de la propiedad intelectual impulsa ciclos energéticos creativos al asegurar que las ideas humanas reciban reconocimiento. Este resguardo permite transformar inspiración en proyectos útiles, fomentando innovación continua y evitando que esfuerzos originales se pierdan o sean aprovechados sin autorización."
+  },
+  {
+    "intent_id": "proteccion_de_propiedad_experimentos",
+    "keywords": [
+      "proteger",
+      "idea",
+      "creacion",
+      "registro",
+      "autor"
+    ],
+    "base_response": "Un experimento escolar útil consiste en crear dibujos originales y compararlos con copias para explicar cómo se identifica al autor. Los estudiantes observan diferencias, comprenden la importancia del registro y valoran proteger ideas propias mediante prácticas responsables dentro del entorno académico."
+  },
+  {
+    "intent_id": "proteccion_de_propiedad_consecuencias",
+    "keywords": [
+      "innovacion",
+      "proteccion",
+      "autoridad",
+      "registro",
+      "creacion"
+    ],
+    "base_response": "Proteger la propiedad intelectual asegura beneficios duraderos para los creadores, fomenta nuevas ideas y evita conflictos legales futuros. Mantener estos derechos impulsa industrias creativas, fortalece economías y garantiza que las personas reciban reconocimiento justo por sus aportes a largo plazo."
+  },
+  {
+    "intent_id": "proteccion_de_propiedad_impacto",
+    "keywords": [
+      "sostenibilidad",
+      "innovacion",
+      "proteccion",
+      "creacion",
+      "registro"
+    ],
+    "base_response": "La protección de propiedad intelectual impulsa prácticas sostenibles al motivar innovaciones que reducen contaminación y uso excesivo de recursos. Al asegurar derechos sobre ideas ecológicas, se fomenta el desarrollo de tecnologías limpias que ayudan a conservar ecosistemas y disminuir impactos ambientales negativos."
+  },
+  {
+    "intent_id": "proteccion_de_propiedad_mantenimiento",
+    "keywords": [
+      "actualizacion",
+      "proteccion",
+      "creacion",
+      "registro",
+      "prevencion"
+    ],
+    "base_response": "Mantener la propiedad intelectual requiere actualizar registros, conservar documentos y revisar periódicamente posibles riesgos. Prevenir pérdidas implica vigilar usos no autorizados, reforzar contraseñas y aplicar medidas legales oportunas para asegurar que cada creación permanezca protegida y correctamente identificada."
+  },
+  {
+    "intent_id": "proteccion_de_propiedad_proyecciones",
+    "keywords": [
+      "innovacion",
+      "proteccion",
+      "creacion",
+      "registro",
+      "tecnologia"
+    ],
+    "base_response": "La propiedad intelectual evolucionará mediante sistemas avanzados capaces de verificar creaciones humanas y distinguirlas de producciones automatizadas. Estas tecnologías permitirán proteger ideas originales, asegurar registros más rápidos y fortalecer la confianza en autores que buscan reconocimiento justo en entornos digitales complejos."
+  },
+  {
+    "intent_id": "pactos_internacionales_de_definicion",
+    "keywords": [
+      "proteger",
+      "pacto",
+      "tratado",
+      "garantizar",
+      "norma"
+    ],
+    "base_response": "Los pactos internacionales de derechos humanos son tratados formales que establecen normas esenciales para proteger la dignidad humana. Funcionan como estructuras jurídicas que organizan obligaciones claras para los Estados y permiten supervisar el cumplimiento de derechos fundamentales en diversas áreas sociales."
+  },
+  {
+    "intent_id": "pactos_internacionales_de_dinamica",
+    "keywords": [
+      "garantia",
+      "pacto",
+      "derecho",
+      "proteccion",
+      "cumplimiento"
+    ],
+    "base_response": "Los pactos internacionales de derechos humanos funcionan mediante acuerdos que obligan a los Estados a proteger libertades esenciales. Su dinámica incluye supervisión constante, informes periódicos y mecanismos que permiten evaluar avances, corregir fallas y asegurar que cada país respete compromisos asumidos globalmente."
+  },
+  {
+    "intent_id": "pactos_internacionales_de_propiedades",
+    "keywords": [
+      "funcion",
+      "interaccion",
+      "estructura",
+      "sistema",
+      "composicion"
+    ],
+    "base_response": "Los pactos internacionales de derechos humanos funcionan como estructuras normativas cuya composición jurídica interactúa con sistemas nacionales. Sus propiedades materiales se reflejan en documentos escritos que permiten funciones de protección, supervisión y garantía para asegurar el respeto global de los derechos fundamentales."
+  },
+  {
+    "intent_id": "pactos_internacionales_de_aplicaciones",
+    "keywords": [
+      "garantia",
+      "promocion",
+      "derecho",
+      "participacion",
+      "proteccion"
+    ],
+    "base_response": "Los pactos internacionales de derechos humanos permiten exigir protección ante abusos, acceder a educación segura, participar en decisiones comunitarias y recibir atención médica adecuada. También guían a los gobiernos para crear leyes que garanticen igualdad, justicia y respeto en la vida cotidiana de todas las personas."
+  },
+  {
+    "intent_id": "pactos_internacionales_de_contexto",
+    "keywords": [
+      "ecosistema",
+      "impacto",
+      "preservacion",
+      "sostenibilidad",
+      "proteccion"
+    ],
+    "base_response": "Los pactos internacionales de derechos humanos consideran cómo el entorno ecológico influye en la vida digna. Reconocen que la contaminación, la pérdida de biodiversidad y el uso irresponsable de recursos afectan comunidades y requieren acciones globales para garantizar bienestar, justicia ambiental y futuro sostenible."
+  },
+  {
+    "intent_id": "pactos_internacionales_de_importancia",
+    "keywords": [
+      "garantia",
+      "pacto",
+      "promocion",
+      "derecho",
+      "proteccion"
+    ],
+    "base_response": "Los pactos internacionales de derechos humanos fortalecen la justicia social al exigir que los gobiernos protejan la dignidad de todas las personas. Su impacto impulsa políticas más inclusivas, fomenta la participación ciudadana y ayuda a prevenir abusos que afectan gravemente a comunidades vulnerables."
+  },
+  {
+    "intent_id": "pactos_internacionales_de_errores",
+    "keywords": [
+      "ignorar",
+      "omision",
+      "abuso",
+      "incumplimiento",
+      "violacion"
+    ],
+    "base_response": "Muchos pactos internacionales enfrentan fallas cuando los Estados incumplen compromisos, ignoran denuncias o aplican medidas insuficientes. Estas fallas generan violaciones persistentes, reducen la confianza pública y dificultan la protección efectiva de derechos fundamentales en diversas regiones del mundo."
+  },
+  {
+    "intent_id": "pactos_internacionales_de_historia",
+    "keywords": [
+      "evolucion",
+      "acuerdo",
+      "origen",
+      "historia",
+      "proteccion"
+    ],
+    "base_response": "Los pactos internacionales de derechos humanos surgieron tras la Segunda Guerra Mundial para fortalecer la protección global. Su evolución incluyó la Declaración Universal de 1948 y posteriores acuerdos que ampliaron garantías, consolidando un marco internacional destinado a promover dignidad y justicia para todas las personas."
+  },
+  {
+    "intent_id": "pactos_internacionales_de_riesgos",
+    "keywords": [
+      "vigilancia",
+      "cumplimiento",
+      "proteccion",
+      "prevencion",
+      "riesgo"
+    ],
+    "base_response": "Los pactos internacionales de derechos humanos advierten sobre riesgos como abusos de autoridad y discriminación, y promueven medidas de seguridad que incluyen supervisión independiente, capacitación constante y sistemas de denuncia confiables para proteger a todas las personas y garantizar el respeto pleno de sus derechos."
+  },
+  {
+    "intent_id": "pactos_internacionales_de_ventajas",
+    "keywords": [
+      "garantia",
+      "pacto",
+      "derecho",
+      "evaluacion",
+      "proteccion"
+    ],
+    "base_response": "Los pactos internacionales de derechos humanos ofrecen protección global y fortalecen la justicia, pero pueden enfrentar dificultades cuando los países no cumplen sus compromisos. Su ventaja principal es crear estándares comunes, mientras su desventaja surge de diferencias políticas que afectan su aplicación efectiva."
+  },
+  {
+    "intent_id": "pactos_internacionales_de_clasificacion",
+    "keywords": [
+      "proteger",
+      "pacto",
+      "tratado",
+      "clasificar",
+      "norma"
+    ],
+    "base_response": "Los pactos internacionales de derechos humanos se clasifican según su alcance, contenido y mecanismos de supervisión. Esta clasificación permite identificar obligaciones específicas, facilitar su aplicación y promover la protección efectiva de los derechos fundamentales en distintos contextos nacionales e internacionales."
+  },
+  {
+    "intent_id": "pactos_internacionales_de_calculos",
+    "keywords": [
+      "pacto",
+      "derecho",
+      "evaluacion",
+      "medicion",
+      "calculo"
+    ],
+    "base_response": "Los pactos internacionales de derechos humanos permiten aplicar cálculos para medir avances, como porcentajes de cumplimiento y variaciones anuales. Estas fórmulas ayudan a evaluar si los Estados mejoran la protección de derechos y a identificar áreas que requieren acciones urgentes para garantizar justicia y bienestar."
+  },
+  {
+    "intent_id": "pactos_internacionales_de_mitos",
+    "keywords": [
+      "pacto",
+      "derecho",
+      "confusion",
+      "interpretar",
+      "mito"
+    ],
+    "base_response": "Muchos creen que los pactos internacionales permiten ignorar leyes nacionales, pero en realidad fortalecen la protección de derechos. También se piensa que solo benefician a ciertos países, aunque todos los Estados firmantes asumen compromisos iguales para garantizar justicia y dignidad humana."
+  },
+  {
+    "intent_id": "pactos_internacionales_de_relacion",
+    "keywords": [
+      "garantia",
+      "pacto",
+      "cooperacion",
+      "proteccion",
+      "sistema"
+    ],
+    "base_response": "Los pactos internacionales de derechos humanos funcionan en relación simbiótica con sistemas sociales, políticos y educativos, fortaleciendo normas que protegen a las personas. Al interactuar entre sí, impulsan políticas más justas, fomentan cooperación global y refuerzan prácticas que promueven dignidad y bienestar colectivo."
+  },
+  {
+    "intent_id": "pactos_internacionales_de_transformacion",
+    "keywords": [
+      "proceso",
+      "energia",
+      "ciclo",
+      "equilibrio",
+      "transformacion"
+    ],
+    "base_response": "Los pactos internacionales de derechos humanos impulsan transformaciones que requieren energía social y política. Estos procesos siguen ciclos donde la participación ciudadana, la vigilancia institucional y la adaptación constante permiten mantener el equilibrio y fortalecer la protección de los derechos en cada etapa."
+  },
+  {
+    "intent_id": "pactos_internacionales_de_impacto",
+    "keywords": [
+      "ecosistema",
+      "regulacion",
+      "contaminacion",
+      "sostenibilidad",
+      "proteccion"
+    ],
+    "base_response": "Los pactos internacionales de derechos humanos impulsan la protección ambiental al exigir regulaciones que reduzcan la contaminación y preserven ecosistemas. Su aplicación fortalece la sostenibilidad y promueve condiciones de vida saludables para todas las comunidades, especialmente aquellas vulnerables a daños ambientales."
+  },
+  {
+    "intent_id": "pactos_internacionales_de_experimentos",
+    "keywords": [
+      "reflexion",
+      "derecho",
+      "observacion",
+      "experimento",
+      "analisis"
+    ],
+    "base_response": "Un experimento escolar puede mostrar cómo los pactos internacionales protegen derechos mediante situaciones simuladas donde se observan decisiones justas e injustas. El análisis de cada caso permite comprender la importancia de reglas globales que garantizan dignidad, seguridad y participación para todas las personas."
+  },
+  {
+    "intent_id": "pactos_internacionales_de_consecuencias",
+    "keywords": [
+      "garantia",
+      "pacto",
+      "promocion",
+      "derecho",
+      "proteccion"
+    ],
+    "base_response": "Los pactos internacionales de derechos humanos generan efectos duraderos que fortalecen instituciones, impulsan reformas legales y fomentan culturas de respeto. A largo plazo, ayudan a prevenir abusos, consolidar democracias y promover sociedades más justas, inclusivas y comprometidas con la dignidad humana."
+  },
+  {
+    "intent_id": "pactos_internacionales_de_mantenimiento",
+    "keywords": [
+      "derecho",
+      "monitoreo",
+      "proteccion",
+      "cumplimiento",
+      "prevencion"
+    ],
+    "base_response": "Los pactos internacionales de derechos humanos impulsan acciones preventivas para evitar violaciones mediante monitoreo constante, capacitación institucional y creación de mecanismos de alerta temprana que fortalecen la protección de las personas y promueven sociedades más seguras y respetuosas de la dignidad humana."
+  },
+  {
+    "intent_id": "pactos_internacionales_de_proyecciones",
+    "keywords": [
+      "derecho",
+      "monitoreo",
+      "innovacion",
+      "proteccion",
+      "tecnologia"
+    ],
+    "base_response": "La tecnología futura permitirá vigilar mejor el cumplimiento de los derechos humanos mediante sistemas avanzados de datos, inteligencia artificial y plataformas globales. Estas herramientas facilitarán detectar abusos, apoyar decisiones rápidas y fortalecer la cooperación internacional para proteger a todas las personas."
+  },
+  {
+    "intent_id": "convencion_sobre_derechos_definicion",
+    "keywords": [
+      "garantia",
+      "derecho",
+      "convencion",
+      "proteccion",
+      "nino"
+    ],
+    "base_response": "La Convención sobre los Derechos del Niño es un acuerdo internacional que organiza principios esenciales para proteger a todas las personas menores de dieciocho años. Establece una estructura clara que define derechos, responsabilidades y mecanismos destinados a asegurar bienestar, seguridad y desarrollo integral infantil."
+  },
+  {
+    "intent_id": "convencion_sobre_derechos_dinamica",
+    "keywords": [
+      "salud",
+      "movimiento",
+      "proteccion",
+      "juego",
+      "crecimiento"
+    ],
+    "base_response": "La Convención reconoce que el cuerpo infantil necesita protección, juego y movimiento para desarrollarse plenamente. Garantiza acceso a salud, espacios seguros y actividades físicas que fortalecen crecimiento, coordinación y bienestar, asegurando condiciones adecuadas para un desarrollo físico equilibrado."
+  },
+  {
+    "intent_id": "convencion_sobre_derechos_errores",
+    "keywords": [
+      "negligencia",
+      "abuso",
+      "violacion",
+      "discriminacion",
+      "explotacion"
+    ],
+    "base_response": "Las violaciones a los derechos de la infancia ocurren cuando se ignoran necesidades básicas, se ejerce violencia o se limita injustamente la participación. Estos errores generan daños profundos en el desarrollo emocional, físico y social, afectando su bienestar y oportunidades futuras."
+  },
+  {
+    "intent_id": "convencion_sobre_derechos_propiedades",
+    "keywords": [
+      "transformacion",
+      "resistencia",
+      "proteccion",
+      "estructura",
+      "material"
+    ],
+    "base_response": "Las propiedades químicas o materiales permiten crear objetos seguros que protegen a niñas y niños. Comprender cómo reaccionan, resisten o cambian los materiales ayuda a diseñar espacios, juguetes y herramientas que garanticen bienestar, seguridad y desarrollo saludable según sus derechos fundamentales."
+  },
+  {
+    "intent_id": "convencion_sobre_derechos_historia",
+    "keywords": [
+      "evolucion",
+      "convencion",
+      "origen",
+      "historia",
+      "nino"
+    ],
+    "base_response": "La Convención sobre los Derechos del Niño surgió tras décadas de esfuerzos internacionales para proteger a la infancia. Su origen se relaciona con declaraciones previas y se fortaleció con la participación global, evolucionando hacia un tratado que garantiza derechos esenciales para todos los niños del mundo."
+  },
+  {
+    "intent_id": "convencion_sobre_derechos_contexto",
+    "keywords": [
+      "entorno",
+      "infancia",
+      "proteccion",
+      "apoyo",
+      "crecimiento"
+    ],
+    "base_response": "El entorno ecológico influye directamente en el bienestar infantil, pues determina acceso a espacios seguros, servicios básicos y oportunidades de desarrollo. Un ambiente saludable fortalece la protección, fomenta el crecimiento integral y permite que cada niño ejerza plenamente sus derechos sin riesgos ambientales."
+  },
+  {
+    "intent_id": "convencion_sobre_derechos_aplicaciones",
+    "keywords": [
+      "derecho",
+      "participacion",
+      "proteccion",
+      "promover",
+      "apoyo"
+    ],
+    "base_response": "Los derechos del niño se aplican cuando los adultos garantizan seguridad, educación y participación en decisiones cotidianas. Estos derechos permiten expresar opiniones, recibir apoyo emocional y acceder a servicios esenciales que fortalecen su bienestar y desarrollo integral dentro de la comunidad."
+  },
+  {
+    "intent_id": "convencion_sobre_derechos_importancia",
+    "keywords": [
+      "participacion",
+      "garantizar",
+      "infancia",
+      "proteccion",
+      "promover"
+    ],
+    "base_response": "La Convención impulsa cambios sociales profundos al asegurar que cada niño reciba protección, educación y participación activa. Su aplicación fortalece comunidades, reduce desigualdades y fomenta sociedades más justas donde la infancia es respetada y valorada como base del desarrollo colectivo."
+  },
+  {
+    "intent_id": "convencion_sobre_derechos_ventajas",
+    "keywords": [
+      "garantia",
+      "impacto",
+      "participacion",
+      "evaluacion",
+      "proteccion"
+    ],
+    "base_response": "La Convención ofrece ventajas como mayor protección, participación y acceso a servicios esenciales. Sin embargo, algunos países enfrentan desafíos para cumplir plenamente sus compromisos, lo que genera diferencias en la aplicación real de los derechos y limita su impacto en ciertas comunidades."
+  },
+  {
+    "intent_id": "convencion_sobre_derechos_riesgos",
+    "keywords": [
+      "cuidado",
+      "proteccion",
+      "seguridad",
+      "prevencion",
+      "riesgo"
+    ],
+    "base_response": "La protección infantil exige identificar riesgos como entornos peligrosos, personas desconocidas o uso inseguro de tecnología. Aplicar medidas de seguridad permite prevenir daños, fortalecer la confianza y garantizar que cada niño crezca en espacios seguros donde pueda desarrollarse plenamente sin amenazas."
+  },
+  {
+    "intent_id": "convencion_sobre_derechos_clasificacion",
+    "keywords": [
+      "garantia",
+      "derecho",
+      "infancia",
+      "proteccion",
+      "promover"
+    ],
+    "base_response": "La clasificación taxonómica de los derechos del niño organiza sus garantías en categorías que facilitan su comprensión y aplicación. Esta estructura permite identificar derechos esenciales, promover su cumplimiento y asegurar que cada niño reciba protección integral en distintos ámbitos de su vida."
+  },
+  {
+    "intent_id": "convencion_sobre_derechos_calculos",
+    "keywords": [
+      "derecho",
+      "infancia",
+      "proteccion",
+      "calculo",
+      "formula"
+    ],
+    "base_response": "Los cálculos permiten estimar recursos necesarios para garantizar derechos infantiles, como acceso seguro a educación, salud y protección. Mediante fórmulas simples se analizan porcentajes de cobertura, distribución equitativa y cumplimiento efectivo, fortaleciendo decisiones que mejoran la vida de niñas y niños."
+  },
+  {
+    "intent_id": "convencion_sobre_derechos_mitos",
+    "keywords": [
+      "derecho",
+      "interpretar",
+      "infancia",
+      "confusion",
+      "mito"
+    ],
+    "base_response": "Muchos creen que los derechos del niño son premios opcionales, pero en realidad son obligaciones legales que protegen su bienestar. También es falso pensar que solo aplican en emergencias, pues deben cumplirse siempre para garantizar una vida segura, digna y respetuosa."
+  },
+  {
+    "intent_id": "convencion_sobre_derechos_relacion",
+    "keywords": [
+      "garantia",
+      "cooperacion",
+      "infancia",
+      "proteccion",
+      "sistema"
+    ],
+    "base_response": "La Convención sobre los Derechos del Niño funciona en relación simbiótica con sistemas sociales, educativos y legales, porque cada uno fortalece la protección infantil. Cuando colaboran, garantizan entornos seguros, oportunidades equitativas y apoyo integral para que todos los niños desarrollen plenamente sus capacidades."
+  },
+  {
+    "intent_id": "convencion_sobre_derechos_transformacion",
+    "keywords": [
+      "proceso",
+      "funcion",
+      "energia",
+      "ciclo",
+      "transformacion"
+    ],
+    "base_response": "La energía en la vida de niñas y niños se transforma constantemente para permitir crecimiento, aprendizaje y bienestar. Estos ciclos energéticos requieren ambientes seguros, alimentación adecuada y protección, garantizando que cada menor desarrolle plenamente sus capacidades según la Convención sobre los Derechos del Niño."
+  },
+  {
+    "intent_id": "convencion_sobre_derechos_consecuencias",
+    "keywords": [
+      "garantia",
+      "participacion",
+      "proteccion",
+      "respeto",
+      "crecimiento"
+    ],
+    "base_response": "Garantizar los derechos de la niñez produce efectos duraderos que fortalecen el bienestar social. Cuando los niños crecen protegidos, desarrollan habilidades sólidas, participan activamente en su comunidad y construyen sociedades más justas, seguras y capaces de enfrentar desafíos futuros con mayor resiliencia."
+  },
+  {
+    "intent_id": "convencion_sobre_derechos_experimentos",
+    "keywords": [
+      "derecho",
+      "participacion",
+      "observacion",
+      "experimento",
+      "aprendizaje"
+    ],
+    "base_response": "Los estudiantes pueden realizar experimentos sencillos que demuestren su derecho a participar activamente en actividades educativas. Estas prácticas fomentan la curiosidad, fortalecen habilidades científicas y permiten expresar ideas mientras observan resultados, promoviendo un entorno escolar respetuoso y seguro para su desarrollo integral."
+  },
+  {
+    "intent_id": "convencion_sobre_derechos_mantenimiento",
+    "keywords": [
+      "salud",
+      "infancia",
+      "proteccion",
+      "seguridad",
+      "prevencion"
+    ],
+    "base_response": "Garantiza que cada niño reciba cuidados constantes para evitar riesgos que afecten su bienestar. Promueve acciones preventivas que aseguren entornos seguros, atención médica adecuada y apoyo familiar, fortaleciendo su desarrollo integral y protegiendo sus derechos fundamentales en todo momento."
+  },
+  {
+    "intent_id": "convencion_sobre_derechos_impacto",
+    "keywords": [
+      "ambiente",
+      "cuidado",
+      "contaminacion",
+      "proteccion",
+      "responsabilidad"
+    ],
+    "base_response": "La Convención reconoce que los niños necesitan un entorno sano para desarrollarse plenamente. Promueve acciones que reduzcan la contaminación, protejan los recursos naturales y fomenten la responsabilidad ambiental, asegurando que cada niño crezca en un ambiente seguro y equilibrado para su bienestar futuro."
+  },
+  {
+    "intent_id": "interes_superior_del_dinamica",
+    "keywords": [
+      "cuidado",
+      "evaluacion",
+      "entorno",
+      "proteccion",
+      "seguridad"
+    ],
+    "base_response": "El funcionamiento físico del entorno influye directamente en la seguridad del menor, pues determina cómo se mueve, interactúa y se desarrolla. Espacios bien diseñados reducen riesgos, permiten autonomía responsable y favorecen experiencias que fortalecen su bienestar integral."
+  },
+  {
+    "intent_id": "convencion_sobre_derechos_proyecciones",
+    "keywords": [
+      "participacion",
+      "innovacion",
+      "acceso",
+      "proteccion",
+      "tecnologia"
+    ],
+    "base_response": "La tecnología futura permitirá proteger mejor los derechos infantiles mediante sistemas seguros que garanticen privacidad, acceso equitativo a educación digital y participación informada. Estas herramientas facilitarán entornos inclusivos donde cada niño pueda desarrollarse plenamente sin riesgos derivados del uso irresponsable de plataformas digitales."
+  },
+  {
+    "intent_id": "interes_superior_del_propiedades",
+    "keywords": [
+      "evaluacion",
+      "seguridad",
+      "analisis",
+      "proteccion",
+      "material"
+    ],
+    "base_response": "El interés superior del menor exige seleccionar materiales seguros que no liberen sustancias tóxicas y mantengan estabilidad química. Esta elección garantiza ambientes confiables donde los niños pueden desarrollarse sin riesgos, priorizando siempre su bienestar físico y emocional mediante propiedades adecuadas."
+  },
+  {
+    "intent_id": "interes_superior_del_definicion",
+    "keywords": [
+      "derecho",
+      "cuidado",
+      "priorizar",
+      "infancia",
+      "proteccion"
+    ],
+    "base_response": "El interés superior del menor protegido se entiende como una estructura normativa que ordena priorizar su bienestar integral. Incluye seguridad, desarrollo emocional y acceso a oportunidades que garanticen una vida digna, asegurando decisiones centradas en sus necesidades reales."
+  },
+  {
+    "intent_id": "interes_superior_del_errores",
+    "keywords": [
+      "ignorar",
+      "distorsion",
+      "omision",
+      "negligencia",
+      "abuso"
+    ],
+    "base_response": "La falta de atención adecuada puede generar decisiones que ignoran las necesidades reales del menor. Estos errores incluyen minimizar riesgos, justificar conductas dañinas o priorizar intereses ajenos. Tales fallas afectan su bienestar emocional y físico, comprometiendo su desarrollo integral."
+  },
+  {
+    "intent_id": "interes_superior_del_historia",
+    "keywords": [
+      "evolucion",
+      "origen",
+      "historia",
+      "infancia",
+      "proteccion"
+    ],
+    "base_response": "El interés superior del menor surgió como principio jurídico para garantizar protección infantil. Evolucionó desde normas humanitarias iniciales hasta convertirse en estándar internacional que prioriza bienestar, seguridad y desarrollo integral de cada niño dentro de decisiones legales y sociales."
+  },
+  {
+    "intent_id": "interes_superior_del_contexto",
+    "keywords": [
+      "evaluacion",
+      "entorno",
+      "contexto",
+      "infancia",
+      "proteccion"
+    ],
+    "base_response": "El interés superior del menor considera cómo su entorno ecológico influye en su bienestar. Incluye familia, escuela y comunidad, evaluando riesgos y apoyos. Busca garantizar condiciones seguras y estables que permitan su desarrollo integral y la protección de sus derechos fundamentales."
+  },
+  {
+    "intent_id": "interes_superior_del_aplicaciones",
+    "keywords": [
+      "orientacion",
+      "garantia",
+      "cuidado",
+      "evaluar",
+      "proteccion"
+    ],
+    "base_response": "El interés superior del menor se aplica al decidir acciones que aseguren bienestar, seguridad y desarrollo integral. Incluye evaluar riesgos, escuchar necesidades y garantizar entornos seguros. Orienta decisiones familiares, escolares y comunitarias para proteger derechos y promover crecimiento saludable."
+  },
+  {
+    "intent_id": "interes_superior_del_importancia",
+    "keywords": [
+      "garantia",
+      "promocion",
+      "derecho",
+      "infancia",
+      "proteccion"
+    ],
+    "base_response": "El interés superior del menor influye directamente en cómo la sociedad protege a la infancia, promoviendo decisiones que aseguren bienestar, seguridad y desarrollo integral. Su aplicación fortalece comunidades más justas, responsables y comprometidas con la defensa de los derechos de niñas y niños."
+  },
+  {
+    "intent_id": "interes_superior_del_ventajas",
+    "keywords": [
+      "evaluacion",
+      "priorizar",
+      "beneficio",
+      "proteccion",
+      "riesgo"
+    ],
+    "base_response": "El interés superior del menor ofrece ventajas como mayor protección y decisiones centradas en su bienestar, pero también presenta desventajas cuando diferentes adultos interpretan sus necesidades de forma distinta, generando conflictos que pueden retrasar soluciones adecuadas para su desarrollo integral."
+  },
+  {
+    "intent_id": "interes_superior_del_riesgos",
+    "keywords": [
+      "evaluacion",
+      "supervision",
+      "proteccion",
+      "prevencion",
+      "riesgo"
+    ],
+    "base_response": "El interés superior del menor exige identificar riesgos físicos, emocionales y digitales, aplicando medidas de seguridad que garanticen su bienestar. Esto incluye supervisión responsable, espacios seguros, acompañamiento afectivo y protocolos claros para actuar ante situaciones que puedan vulnerar sus derechos."
+  },
+  {
+    "intent_id": "interes_superior_del_mitos",
+    "keywords": [
+      "creencia",
+      "comprension",
+      "infancia",
+      "proteccion",
+      "mito"
+    ],
+    "base_response": "Muchos creen que el interés superior del menor solo implica cumplir deseos, pero realmente busca decisiones equilibradas que garanticen bienestar, seguridad y desarrollo. No se basa en caprichos, sino en evaluar cuidadosamente lo que beneficia al menor en cada situación."
+  },
+  {
+    "intent_id": "interes_superior_del_clasificacion",
+    "keywords": [
+      "garantia",
+      "evaluacion",
+      "criterio",
+      "infancia",
+      "proteccion"
+    ],
+    "base_response": "La clasificación taxonómica del interés superior del menor protegido organiza criterios esenciales para evaluar su bienestar. Esta estructura permite identificar necesidades, riesgos y apoyos prioritarios, asegurando decisiones coherentes que respeten su desarrollo integral y su entorno afectivo y social."
+  },
+  {
+    "intent_id": "interes_superior_del_calculos",
+    "keywords": [
+      "evaluacion",
+      "priorizacion",
+      "analisis",
+      "proteccion",
+      "calculo"
+    ],
+    "base_response": "El interés superior del menor puede analizarse mediante cálculos que ponderan riesgos, beneficios y necesidades. Estas fórmulas permiten comparar escenarios y determinar decisiones que garanticen seguridad, bienestar y desarrollo integral, priorizando siempre la opción más protectora para cada situación específica."
+  },
+  {
+    "intent_id": "interes_superior_del_relacion",
+    "keywords": [
+      "armonizar",
+      "cooperacion",
+      "infancia",
+      "proteccion",
+      "sistema"
+    ],
+    "base_response": "El interés superior del menor protegido requiere que distintos sistemas sociales cooperen de manera armónica para garantizar bienestar integral. Esta relación simbiótica permite que educación, salud y justicia actúen coordinadas, fortaleciendo la protección y promoviendo entornos seguros para su desarrollo pleno."
+  },
+  {
+    "intent_id": "interes_superior_del_transformacion",
+    "keywords": [
+      "desarrollo",
+      "energia",
+      "proteccion",
+      "ciclo",
+      "transformacion"
+    ],
+    "base_response": "El interés superior del menor implica garantizar que cada transformación energética en su entorno favorezca su desarrollo integral. Estos ciclos deben asegurar ambientes seguros, promover aprendizajes significativos y proteger su bienestar físico y emocional mediante recursos equilibrados y sostenibles."
+  },
+  {
+    "intent_id": "interes_superior_del_experimentos",
+    "keywords": [
+      "observacion",
+      "experimento",
+      "proteccion",
+      "seguridad",
+      "material"
+    ],
+    "base_response": "Los experimentos escolares deben garantizar siempre la seguridad del menor mediante materiales adecuados, supervisión constante y explicaciones claras. La protección implica evitar riesgos innecesarios y promover actividades que fortalezcan su comprensión científica sin comprometer su bienestar físico o emocional."
+  },
+  {
+    "intent_id": "interes_superior_del_mantenimiento",
+    "keywords": [
+      "cuidado",
+      "bienestar",
+      "proteccion",
+      "seguridad",
+      "prevencion"
+    ],
+    "base_response": "El mantenimiento y la prevención garantizan que cada menor crezca en un entorno seguro y estable. Implican acciones constantes para evitar riesgos, promover hábitos saludables y asegurar que sus necesidades emocionales y físicas estén atendidas de manera continua y responsable."
+  },
+  {
+    "intent_id": "interes_superior_del_consecuencias",
+    "keywords": [
+      "bienestar",
+      "garantizar",
+      "evaluar",
+      "proteccion",
+      "crecimiento"
+    ],
+    "base_response": "Considerar las consecuencias a largo plazo permite asegurar decisiones que favorezcan el desarrollo integral del menor. Analizar impactos futuros protege su bienestar emocional, social y físico, evitando riesgos que puedan afectar su autonomía, seguridad y oportunidades durante su vida adulta."
+  },
+  {
+    "intent_id": "interes_superior_del_proyecciones",
+    "keywords": [
+      "evaluacion",
+      "anticipacion",
+      "infancia",
+      "proteccion",
+      "tecnologia"
+    ],
+    "base_response": "El interés superior del menor exige anticipar cómo la tecnología influirá en su vida futura, garantizando decisiones que protejan su bienestar. Implica evaluar riesgos digitales, promover habilidades seguras y asegurar entornos que respeten su desarrollo integral en un mundo cada vez más conectado."
+  },
+  {
+    "intent_id": "interes_superior_del_impacto",
+    "keywords": [
+      "ambiente",
+      "cuidado",
+      "sostenibilidad",
+      "infancia",
+      "proteccion"
+    ],
+    "base_response": "El interés superior del menor incluye proteger su entorno natural, garantizando espacios saludables y sostenibles. Un ambiente limpio favorece su bienestar físico y emocional, reduce riesgos y promueve hábitos responsables que fortalecen su desarrollo integral dentro de comunidades más seguras y equilibradas."
+  },
+  {
+    "intent_id": "prevencion_del_trabajo_definicion",
+    "keywords": [
+      "labor",
+      "infancia",
+      "proteccion",
+      "riesgo",
+      "explotacion"
+    ],
+    "base_response": "El trabajo infantil abusivo se estructura cuando una actividad laboral exige esfuerzos físicos o mentales que superan la capacidad natural de crecimiento y desarrollo de niñas y niños, afectando su salud, seguridad y educación mediante tareas prolongadas, peligrosas o inapropiadas para su edad."
+  },
+  {
+    "intent_id": "prevencion_del_trabajo_historia",
+    "keywords": [
+      "evolucion",
+      "origen",
+      "historia",
+      "infancia",
+      "proteccion"
+    ],
+    "base_response": "El trabajo infantil abusivo surgió durante la Revolución Industrial, cuando muchos niños eran explotados en fábricas y minas. Con el tiempo, movimientos sociales y leyes internacionales impulsaron su reducción, promoviendo derechos infantiles y mejores condiciones para garantizar su bienestar y desarrollo integral."
+  },
+  {
+    "intent_id": "prevencion_del_trabajo_propiedades",
+    "keywords": [
+      "sustancia",
+      "exposicion",
+      "manipulacion",
+      "material",
+      "riesgo"
+    ],
+    "base_response": "Muchos materiales usados en trabajos peligrosos liberan sustancias tóxicas que afectan la salud infantil. La exposición prolongada a químicos corrosivos o inflamables puede causar daños severos en piel, pulmones y ojos. Comprender sus propiedades permite prevenir riesgos y evitar trabajo infantil abusivo."
+  },
+  {
+    "intent_id": "prevencion_del_trabajo_errores",
+    "keywords": [
+      "abuso",
+      "trabajo",
+      "violacion",
+      "riesgo",
+      "explotacion"
+    ],
+    "base_response": "El trabajo infantil abusivo suele incluir jornadas excesivas, tareas peligrosas y presión emocional que afecta el desarrollo. Estas fallas generan daños físicos, frustración escolar y vulneración de derechos, creando entornos inseguros donde los menores no pueden crecer ni aprender de manera saludable."
+  },
+  {
+    "intent_id": "prevencion_del_trabajo_dinamica",
+    "keywords": [
+      "movimiento",
+      "carga",
+      "evaluar",
+      "proteccion",
+      "seguridad"
+    ],
+    "base_response": "El trabajo infantil abusivo afecta el cuerpo al exigir esfuerzos físicos peligrosos, como levantar cargas excesivas o repetir movimientos forzados. Estas acciones dañan huesos, músculos y articulaciones en crecimiento, provocando lesiones permanentes y limitando un desarrollo saludable."
+  },
+  {
+    "intent_id": "prevencion_del_trabajo_contexto",
+    "keywords": [
+      "comunidad",
+      "entorno",
+      "proteccion",
+      "apoyo",
+      "familia"
+    ],
+    "base_response": "El entorno ecológico influye en la prevención del trabajo infantil abusivo porque integra familia, escuela y comunidad para crear condiciones seguras. Cuando estos espacios colaboran, ofrecen apoyo, detectan riesgos y fortalecen oportunidades educativas que protegen a niñas y niños de situaciones laborales dañinas."
+  },
+  {
+    "intent_id": "prevencion_del_trabajo_ventajas",
+    "keywords": [
+      "educacion",
+      "evaluar",
+      "proteccion",
+      "trabajo",
+      "prevencion"
+    ],
+    "base_response": "Comparar ventajas y desventajas del trabajo infantil abusivo permite comprender sus riesgos y rechazar prácticas dañinas. Aunque algunos creen que ofrece experiencia, realmente limita el aprendizaje, afecta la salud y reduce oportunidades futuras, mostrando que la protección infantil siempre resulta más beneficiosa."
+  },
+  {
+    "intent_id": "prevencion_del_trabajo_importancia",
+    "keywords": [
+      "educacion",
+      "desarrollo",
+      "infancia",
+      "proteccion",
+      "prevencion"
+    ],
+    "base_response": "La prevención del trabajo infantil abusivo fortalece comunidades al proteger la infancia, garantizar acceso educativo y promover igualdad de oportunidades. Su impacto social impulsa el desarrollo sostenible, reduce ciclos de pobreza y fomenta sociedades más justas donde cada niño puede crecer con seguridad y dignidad."
+  },
+  {
+    "intent_id": "prevencion_del_trabajo_riesgos",
+    "keywords": [
+      "supervision",
+      "proteccion",
+      "seguridad",
+      "prevencion",
+      "riesgo"
+    ],
+    "base_response": "Identificar riesgos en actividades laborales permite proteger a niñas y niños de accidentes y abusos. Evaluar herramientas, espacios y tareas ayuda a establecer medidas de seguridad adecuadas. Supervisión constante y capacitación básica reducen peligros y fortalecen su bienestar integral."
+  },
+  {
+    "intent_id": "prevencion_del_trabajo_aplicaciones",
+    "keywords": [
+      "denuncia",
+      "proteccion",
+      "dialogo",
+      "prevencion",
+      "apoyo"
+    ],
+    "base_response": "Promover acciones cotidianas que protejan a niñas y niños implica reconocer señales de explotación, conversar con adultos responsables, denunciar situaciones riesgosas y apoyar iniciativas comunitarias que fomenten educación segura. Estas prácticas fortalecen entornos donde cada menor puede desarrollarse plenamente sin trabajos abusivos."
+  },
+  {
+    "intent_id": "prevencion_del_trabajo_clasificacion",
+    "keywords": [
+      "clasificacion",
+      "infancia",
+      "proteccion",
+      "trabajo",
+      "prevencion"
+    ],
+    "base_response": "La clasificación taxonómica del trabajo infantil abusivo permite ordenar tipos de explotación según características comunes, facilitando su identificación y prevención. Esta organización ayuda a comprender riesgos, establecer medidas de protección y promover entornos seguros para niñas y niños vulnerables."
+  },
+  {
+    "intent_id": "prevencion_del_trabajo_mitos",
+    "keywords": [
+      "creencia",
+      "abuso",
+      "infancia",
+      "trabajo",
+      "mito"
+    ],
+    "base_response": "Muchos creen que el trabajo infantil abusivo ayuda a formar carácter, pero en realidad vulnera derechos esenciales y limita el desarrollo integral. Esta idea errónea oculta riesgos graves para la salud, la educación y la seguridad de niñas y niños, afectando su futuro."
+  }
+]
