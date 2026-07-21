@@ -1,0 +1,944 @@
+# This script contains the exact data structure and validation logic.
+import json
+import re
+
+STOP_WORDS = {
+    'de', 'del', 'la', 'las', 'el', 'los', 'un', 'una', 'unos', 'unas', 'y', 'o', 'e', 'u',
+    'en', 'con', 'sin', 'por', 'para', 'que', 'al', 'como', 'su', 'sus', 'mas', 'pero', 'si',
+    'se', 'lo', 'no', 'al', 'es', 'son', 'esta', 'este', 'estos', 'estas', 'sobre', 'entre',
+    'ya', 'todo', 'todos', 'tras', 'contra', 'a', 'ante', 'bajo', 'cabe', 'desde', 'hacia',
+    'hasta', 'para', 'segun', 'sin', 'so', 'sobre', 'tras', 'durante', 'mediante', 'versus',
+    'via', 'les', 'le', 'nos', 'os', 'me', 'te', 'mi', 'tu', 'suya', 'suyo', 'suyos', 'suyas',
+    'mio', 'mia', 'mios', 'mias', 'ellos', 'ellas', 'nosotros', 'nosotras', 'usted', 'ustedes',
+    'yo', 'tu', 'el', 'ella', 'cual', 'cuales', 'quien', 'quienes', 'cuyo', 'cuya', 'cuyos',
+    'cuyas', 'donde', 'cuando', 'como', 'porque', 'pues', 'bien', 'asigo', 'asi', 'tambien',
+    'tampoco', 'ni', 'siquiera', 'ademas', 'sino', 'aunque', 'siquiera', 'mientras', 'entonces',
+    'luego', 'pues', 'porque', 'como', 'and'
+}
+
+BLACKLIST = {
+    'hola', 'claro', 'recuerda', 'segun wikipedia', 'en internet'
+}
+
+def clean_keyword(kw):
+    accents = {
+        'á': 'a', 'é': 'e', 'í': 'i', 'ó': 'o', 'ú': 'u',
+        'ü': 'u', 'ñ': 'n'
+    }
+    for char, replacement in accents.items():
+        kw = kw.replace(char, replacement)
+    return kw
+
+def validate_concept(concept):
+    intent_id = concept['intent_id']
+    keywords = concept['keywords']
+    base_response = concept['base_response']
+
+    # 1. intent_id check
+    if not re.match(r'^[a-z_]+$', intent_id):
+        return f"intent_id '{intent_id}' must be lowercase and contain only letters and underscores."
+    if any(char.isdigit() for char in intent_id):
+        return f"intent_id '{intent_id}' must not contain any numbers."
+
+    # 2. keywords check
+    if len(keywords) < 4 or len(keywords) > 6:
+        return f"keywords list in '{intent_id}' must be exactly 4-6 terms, got {len(keywords)}: {keywords}"
+    for kw in keywords:
+        if not re.match(r'^[a-z]+$', kw):
+            return f"keyword '{kw}' in '{intent_id}' must be all lowercase and contain only lowercase letters, no accents or special characters."
+        if kw in STOP_WORDS:
+            return f"keyword '{kw}' in '{intent_id}' is a stop word."
+        cleaned = clean_keyword(kw)
+        if cleaned != kw:
+            return f"keyword '{kw}' in '{intent_id}' contains accents or tildes."
+
+    if len(set(keywords)) != len(keywords):
+        return f"keywords list in '{intent_id}' has duplicate keywords: {keywords}"
+
+    # 3. base_response check
+    words = base_response.split()
+    word_count = len(words)
+    if word_count < 35 or word_count > 50:
+        return f"base_response in '{intent_id}' must have exactly 35-50 words, got {word_count}."
+
+    resp_lower = base_response.lower()
+    for term in BLACKLIST:
+        if term in resp_lower:
+            return f"base_response in '{intent_id}' contains blacklisted phrase '{term}'."
+
+    if re.search(r'\band\b', resp_lower):
+        return f"base_response in '{intent_id}' contains English conjunction 'and'."
+
+    return None
+
+concepts = []
+
+# --- 1. Ideas principales de lectura ---
+concepts.append({
+    "intent_id": "idea_principal_definicion",
+    "keywords": ["definicion", "idea", "principal", "lectura"],
+    "base_response": "La idea principal es el núcleo del pensamiento del autor en un escrito. Expresa la información más importante sin la cual el párrafo o capítulo perdería su sentido completo, sirviendo de columna vertebral para sostener las demás afirmaciones presentadas en el texto."
+})
+concepts.append({
+    "intent_id": "idea_principal_localizacion",
+    "keywords": ["buscar", "encontrar", "posicion", "texto"],
+    "base_response": "Para localizar la idea principal debes examinar el inicio o el final del párrafo escrito. Aunque suele ubicarse en la primera oración para introducir el tema central, a veces aparece al concluir como una síntesis de todo lo desarrollado por el autor."
+})
+concepts.append({
+    "intent_id": "idea_principal_explicita",
+    "keywords": ["explicita", "directa", "oracion", "redaccion"],
+    "base_response": "Una idea principal explícita aparece escrita directamente en el texto de forma clara y visible. El lector no necesita realizar deducciones para entenderla, sino que puede subrayarla textualmente porque el escritor la enunció con palabras sencillas y directas en el párrafo."
+})
+concepts.append({
+    "intent_id": "idea_principal_implicita",
+    "keywords": ["implicita", "deducir", "construir", "lector"],
+    "base_response": "La idea principal implícita no se encuentra escrita de forma directa en el documento estudiado. El estudiante debe deducirla relacionando los diferentes detalles y pistas dadas por el autor, redactando luego una oración propia que resuma el mensaje esencial de la lectura."
+})
+concepts.append({
+    "intent_id": "idea_principal_ejemplo",
+    "keywords": ["ejemplo", "aplicacion", "parrafo", "analisis"],
+    "base_response": "Imagina un párrafo sobre cómo las abejas polinizan flores para producir miel en sus colmenas. La idea principal de este fragmento sería que las abejas realizan un trabajo vital en la naturaleza, mientras que los detalles sobre la miel serían las ideas secundarias."
+})
+concepts.append({
+    "intent_id": "idea_principal_importancia",
+    "keywords": ["importancia", "utilidad", "comprension", "estudio"],
+    "base_response": "Identificar la idea principal te permite comprender a fondo cualquier lectura escolar o científica. Al captar el mensaje central, puedes estudiar con mayor rapidez, evitar memorizar datos innecesarios y conectar nuevos conocimientos con la base de saberes que ya posees previamente."
+})
+concepts.append({
+    "intent_id": "idea_principal_estrategia",
+    "keywords": ["estrategia", "metodo", "pregunta", "clave"],
+    "base_response": "Una buena estrategia para hallar la idea principal es preguntarte de qué trata principalmente el texto analizado. Al responder esta interrogante en una sola frase corta, lograrás aislar el núcleo temático y diferenciarlo de los ejemplos o anécdotas complementarias del relato."
+})
+
+# --- 2. Inferencias de comprensión lectora ---
+concepts.append({
+    "intent_id": "inferencia_concepto",
+    "keywords": ["concepto", "definicion", "inferencia", "pistas"],
+    "base_response": "Inferir es deducir información que no está escrita directamente en el texto analizado. El lector actúa como un detective utilizando las pistas proporcionadas por el autor y sus propios saberes previos para descubrir mensajes ocultos, sentimientos de personajes o situaciones no reveladas directamente."
+})
+concepts.append({
+    "intent_id": "inferencia_tipos",
+    "keywords": ["tipos", "clasificacion", "deduccion", "induccion"],
+    "base_response": "Existen inferencias de tipo lógico y pragmático en la comprensión de textos. Las lógicas se basan en relaciones directas de causa y efecto, mientras que las pragmáticas requieren usar el conocimiento del mundo real para interpretar la conducta de los personajes del relato analizado."
+})
+concepts.append({
+    "intent_id": "inferencia_ejemplo_sencillo",
+    "keywords": ["ejemplo", "sencillo", "pistas", "clima"],
+    "base_response": "Si lees que un personaje saca su paraguas al salir y viste un abrigo grueso, puedes inferir que afuera hace frío y está lloviendo. El texto nunca menciona el clima directamente, pero las acciones del personaje te permiten deducir esa situación con facilidad."
+})
+concepts.append({
+    "intent_id": "inferencia_utilidad",
+    "keywords": ["utilidad", "lectura", "profunda", "habilidad"],
+    "base_response": "Hacer inferencias sirve para lograr una lectura crítica y profunda que supera el nivel literal básico. Esta habilidad mental ayuda a los jóvenes a desarrollar el pensamiento abstracto, comprender el sarcasmo, interpretar metáforas y disfrutar de la literatura de forma más activa."
+})
+concepts.append({
+    "intent_id": "inferencia_estrategia_aula",
+    "keywords": ["estrategia", "aula", "deduccion", "estudiante"],
+    "base_response": "Para practicar inferencias en clase debes formularte preguntas que empiecen por qué crees o qué pasaría si. Estas interrogantes obligan a tu mente a buscar conexiones sutiles entre los párrafos, obligándote a mirar más allá de las palabras impresas en el libro."
+})
+concepts.append({
+    "intent_id": "inferencia_diferencia_literal",
+    "keywords": ["diferencia", "literal", "informacion", "directa"],
+    "base_response": "La diferencia clave es que la información literal se ve a simple vista en la página escrita. En cambio, la inferencia requiere un esfuerzo intelectual adicional para conectar datos dispersos, creando una interpretación nueva que el autor sugirió pero nunca escribió con letras explícitas."
+})
+concepts.append({
+    "intent_id": "inferencia_errores_comunes",
+    "keywords": ["errores", "fantasio", "subjetivo", "falla"],
+    "base_response": "Un error común al inferir es inventar datos basados en la fantasía personal sin apoyo del texto. Una inferencia válida siempre debe sostenerse en pistas reales del documento, de lo contrario se convierte en una suposición inventada que deforma el mensaje del autor."
+})
+
+# --- 3. Resumen de textos leídos ---
+concepts.append({
+    "intent_id": "resumen_concepto_base",
+    "keywords": ["concepto", "resumen", "sintesis", "breve"],
+    "base_response": "Un resumen es un texto breve que contiene solo las ideas principales de una lectura más larga. Se redacta con palabras propias del estudiante, eliminando los detalles secundarios, ejemplos, descripciones extensas y explicaciones repetitivas para ofrecer una visión rápida y fiel del escrito."
+})
+concepts.append({
+    "intent_id": "resumen_pasos_creacion",
+    "keywords": ["pasos", "elaborar", "guia", "redaccion"],
+    "base_response": "Para elaborar un resumen debes realizar una lectura exploratoria, subrayar las ideas principales de cada párrafo y luego conectarlas usando nexos adecuados. Al escribir, debes cuidar que el nuevo texto sea coherente, más corto que el original y redactado de manera objetiva."
+})
+concepts.append({
+    "intent_id": "resumen_caracteristicas_calidad",
+    "keywords": ["caracteristicas", "calidad", "brevedad", "objetividad"],
+    "base_response": "Un buen resumen destaca por su brevedad, claridad, precisión y estricta objetividad científica o literaria. No debe incluir opiniones personales, críticas ni juicios de valor del estudiante, pues su función es reportar fielmente lo que el autor original comunicó en su obra estudiada."
+})
+concepts.append({
+    "intent_id": "resumen_diferencia_sintesis",
+    "keywords": ["diferencia", "sintesis", "vocabulario", "opinion"],
+    "base_response": "Aunque suenan similares, el resumen se apega estrictamente a la estructura e ideas del autor con pocas variaciones de vocabulario. La síntesis, en cambio, permite una mayor libertad creativa al organizar los conceptos e integrar opiniones personales o interpretaciones del lector que analiza."
+})
+concepts.append({
+    "intent_id": "resumen_beneficios_estudio",
+    "keywords": ["beneficios", "estudio", "memoria", "aprendizaje"],
+    "base_response": "Hacer resúmenes ayuda a consolidar el aprendizaje y mejora la retención de datos a largo plazo en tu memoria. Al procesar la información y escribirla de forma simplificada, tu cerebro organiza los conceptos complejos, facilitando el repaso antes de un examen escolar."
+})
+concepts.append({
+    "intent_id": "resumen_longitud_adecuada",
+    "keywords": ["longitud", "proporcion", "extension", "tamano"],
+    "base_response": "La longitud ideal de un resumen suele ser equivalente a una cuarta parte del texto original seleccionado. Si resumes un capítulo de cuatro páginas, el resultado final debería ocupar aproximadamente una sola página para garantizar que se mantenga la síntesis sin perder información clave."
+})
+concepts.append({
+    "intent_id": "resumen_evitar_errores",
+    "keywords": ["errores", "evitar", "copiar", "pegar"],
+    "base_response": "El error más frecuente al resumir es copiar y pegar fragmentos enteros del documento sin procesarlos mentalmente. Esto produce un texto desorganizado y sin cohesión, impidiendo que el estudiante demuestre una verdadera comprensión de los conceptos esenciales del tema que leyó."
+})
+
+# --- 4. Análisis de comprensión lectora ---
+concepts.append({
+    "intent_id": "analisis_comprension_definicion",
+    "keywords": ["definicion", "analisis", "desarmar", "partes"],
+    "base_response": "El análisis de comprensión consiste en descomponer un texto en sus partes constitutivas para entender cómo se relacionan entre sí. El estudiante examina la estructura, el vocabulario, las intenciones del autor y la validez de los argumentos presentados para comprender el escrito integralmente."
+})
+concepts.append({
+    "intent_id": "analisis_niveles_lectura",
+    "keywords": ["niveles", "literal", "inferencial", "critico"],
+    "base_response": "El análisis abarca tres niveles progresivos de lectura que son el literal, el inferencial y el crítico. El nivel literal identifica datos explícitos, el inferencial descubre significados ocultos y el crítico evalúa la calidad de la información y la postura ideológica del escritor."
+})
+concepts.append({
+    "intent_id": "analisis_preguntas_guia",
+    "keywords": ["preguntas", "guia", "analizar", "texto"],
+    "base_response": "Para analizar un documento debes plantearte preguntas de control como quién escribe, cuál es el mensaje y cómo sostiene sus afirmaciones. Estas interrogantes guían tu lectura, ayudando a separar los hechos reales de las opiniones subjetivas expresadas por el autor."
+})
+concepts.append({
+    "intent_id": "analisis_habilidades_desarrollo",
+    "keywords": ["habilidades", "desarrollo", "logica", "atencion"],
+    "base_response": "Practicar el análisis de textos desarrolla tu capacidad de razonamiento lógico, atención al detalle y concentración prolongada. Estas habilidades cognitivas son fundamentales para resolver problemas académicos complejos, comprender instrucciones científicas y tomar decisiones informadas basadas en datos reales y comprobables."
+})
+concepts.append({
+    "intent_id": "analisis_diferencia_sintesis",
+    "keywords": ["diferencia", "sintesis", "separar", "unir"],
+    "base_response": "El análisis separa un todo en sus partes para estudiarlas detalladamente de forma individualizada. La síntesis hace lo contrario, toma elementos dispersos y los une para formar un nuevo resumen coherente, siendo ambas operaciones mentales complementarias y necesarias para el aprendizaje escolar."
+})
+concepts.append({
+    "intent_id": "analisis_documentos_cientificos",
+    "keywords": ["documentos", "cientificos", "graficos", "datos"],
+    "base_response": "Analizar documentos científicos requiere prestar especial atención a los gráficos, tablas y datos estadísticos presentados por los investigadores. Debes verificar si las conclusiones mostradas al final se apoyan realmente en las evidencias cuantitativas recopiladas durante los experimentos descritos en el escrito."
+})
+concepts.append({
+    "intent_id": "analisis_metodo_estructurado",
+    "keywords": ["metodo", "estructurado", "lectura", "pasos"],
+    "base_response": "Un método estructurado de análisis incluye realizar una prelectura rápida, un subrayado reflexivo, la elaboración de notas al margen de la página y la creación de un mapa conceptual, asegurando que ningún detalle valioso del documento sea ignorado por el estudiante."
+})
+
+# --- 5. Lectura crítica de textos ---
+concepts.append({
+    "intent_id": "lectura_critica_definicion",
+    "keywords": ["definicion", "critica", "evaluar", "opiniones"],
+    "base_response": "La lectura crítica es evaluar de forma activa y reflexiva la veracidad y calidad de un escrito. El lector no acepta la información de manera pasiva, sino que cuestiona los argumentos del autor, busca sesgos informativos y contrasta los datos con otras fuentes confiables."
+})
+concepts.append({
+    "intent_id": "lectura_critica_buscar_sesgos",
+    "keywords": ["buscar", "sesgos", "prejuicios", "neutralidad"],
+    "base_response": "Para realizar una lectura crítica debes buscar sesgos o prejuicios en la redacción del autor. Un escrito sesgado utiliza adjetivos extremos, ignora los argumentos contrarios o presenta opiniones personales como si fueran hechos científicos demostrados, perdiendo así su neutralidad y rigor."
+})
+concepts.append({
+    "intent_id": "lectura_critica_hechos_opiniones",
+    "keywords": ["hechos", "opiniones", "distinguir", "verdad"],
+    "base_response": "Distinguir hechos de opiniones es fundamental en la lectura crítica de cualquier documento. Un hecho se puede comprobar con datos objetivos y experimentos de laboratorio, mientras que una opinión expresa los sentimientos o creencias del escritor y no se puede verificar científicamente."
+})
+concepts.append({
+    "intent_id": "lectura_critica_importancia_social",
+    "keywords": ["importancia", "social", "ciudadania", "noticias"],
+    "base_response": "La lectura crítica es vital en la sociedad actual para evitar caer en mentiras o noticias falsas que circulan en medios. Al desarrollar esta habilidad, te conviertes en un ciudadano responsable que decide basado en evidencias, análisis lógico y pensamiento independiente."
+})
+concepts.append({
+    "intent_id": "lectura_critica_estrategia_preguntas",
+    "keywords": ["estrategia", "preguntas", "fuente", "autoridad"],
+    "base_response": "Una excelente estrategia crítica es preguntarte quién es el autor, cuál es su intención y qué fuentes utilizó para escribir. Conocer la trayectoria del creador te ayuda a valorar si es una autoridad confiable en la materia o si tiene intereses particulares."
+})
+concepts.append({
+    "intent_id": "lectura_critica_identificar_falacias",
+    "keywords": ["identificar", "falacias", "errores", "argumentacion"],
+    "base_response": "La lectura crítica te ayuda a identificar falacias, que son errores de razonamiento en la argumentación del escrito. Al detectar conclusiones falsas o generalizaciones apresuradas hechas por el autor, proteges tu mente de manipulaciones y formulas tus propios juicios de valor científico."
+})
+concepts.append({
+    "intent_id": "lectura_critica_enfoque_aula",
+    "keywords": ["enfoque", "aula", "debate", "reflexion"],
+    "base_response": "Fomentar el enfoque crítico en el aula requiere organizar debates sobre los textos leídos en clase de español. Los alumnos aprenden a defender sus puntos de vista respetuosamente usando citas del libro y a escuchar las interpretaciones diversas de sus compañeros."
+})
+
+# --- 6. Contexto de comprensión lectora ---
+concepts.append({
+    "intent_id": "contexto_comprension_concepto",
+    "keywords": ["concepto", "contexto", "entorno", "significado"],
+    "base_response": "El contexto es el entorno social, histórico, geográfico y cultural en el cual se produce un texto o historia. Comprender este trasfondo es indispensable porque las palabras y acciones de los personajes adquieren un significado único según la época y lugar donde vivieron."
+})
+concepts.append({
+    "intent_id": "contexto_tipos_principales",
+    "keywords": ["tipos", "historico", "cultural", "situacional"],
+    "base_response": "Existen tres tipos de contextos principales que influyen en la comprensión de un libro: el histórico, el cultural y el situacional. Cada uno aporta un marco de referencia que explica la mentalidad de los personajes y las razones del autor para escribir."
+})
+concepts.append({
+    "intent_id": "contexto_pistas_oracionales",
+    "keywords": ["pistas", "oracionales", "vocabulario", "deducir"],
+    "base_response": "Las pistas de contexto oracional son palabras cercanas que te ayudan a deducir el significado de un término desconocido. Al leer con atención las frases que rodean la palabra difícil, tu cerebro puede adivinar su definición sin necesidad de consultar el diccionario escolar."
+})
+concepts.append({
+    "intent_id": "contexto_importancia_epoca",
+    "keywords": ["importancia", "epoca", "tiempo", "interpretacion"],
+    "base_response": "Ignorar la época en que se escribió un libro puede llevar a interpretaciones erróneas de su contenido. Un relato de hace tres siglos refleja las costumbres y la ciencia de aquel tiempo, las cuales deben evaluarse bajo su propia realidad y no con criterios actuales."
+})
+concepts.append({
+    "intent_id": "contexto_ejemplo_practico",
+    "keywords": ["ejemplo", "practico", "tecnologia", "antiguo"],
+    "base_response": "Si lees un cuento antiguo donde mandan una carta que tarda meses en llegar, el contexto tecnológico de la época explica esa demora. Comprender esta limitación del pasado te permite empatizar con la angustia o paciencia que experimentan los personajes del relato."
+})
+concepts.append({
+    "intent_id": "contexto_ayuda_estudiante",
+    "keywords": ["ayuda", "estudiante", "empatia", "vision"],
+    "base_response": "Estudiar el contexto social de una obra ayuda al estudiante a desarrollar la empatía y una visión multicultural del mundo. Al comprender cómo vivían personas de otras latitudes y épocas, se amplía tu criterio y se enriquece la interpretación de cualquier lectura."
+})
+concepts.append({
+    "intent_id": "contexto_estrategia_investigacion",
+    "keywords": ["estrategia", "investigacion", "biografia", "epoca"],
+    "base_response": "Una gran estrategia para dominar el contexto es realizar una breve investigación previa sobre la biografía del autor y los sucesos de su época. Esta preparación inicial te dará las claves necesarias para descifrar el verdadero sentido de su obra literaria."
+})
+
+# --- 7. Ideas secundarias de lectura ---
+concepts.append({
+    "intent_id": "idea_secundaria_definicion",
+    "keywords": ["definicion", "idea", "secundaria", "detalles"],
+    "base_response": "Las ideas secundarias son afirmaciones que amplían, detallan, ejemplifican o demuestran la idea principal de un escrito. Aunque no son esenciales para entender el tema general, aportan riqueza informativa y argumentos lógicos que validan la declaración central hecha por el escritor."
+})
+concepts.append({
+    "intent_id": "idea_secundaria_caracteristicas",
+    "keywords": ["caracteristicas", "dependencia", "ejemplos", "explicacion"],
+    "base_response": "La característica clave de las ideas secundarias es su dependencia directa de la idea principal del párrafo. Suelen consistir en ejemplos concretos, datos estadísticos, comparaciones o explicaciones detalladas que ilustran de manera práctica el concepto abstracto que se introdujo al inicio."
+})
+concepts.append({
+    "intent_id": "idea_secundaria_localizacion",
+    "keywords": ["buscar", "localizar", "desarrollo", "parrafo"],
+    "base_response": "Para localizar las ideas secundarias debes mirar el desarrollo del párrafo, usualmente después de que se ha presentado la idea principal. Reconocerás estas frases porque se dedican a explicar los porqués, dar descripciones minuciosas o relatar anécdotas que apoyan la tesis inicial."
+})
+concepts.append({
+    "intent_id": "idea_secundaria_diferencia_principal",
+    "keywords": ["diferencia", "principal", "esencial", "eliminar"],
+    "base_response": "La diferencia fundamental es que si eliminas la idea principal, el párrafo pierde todo su sentido básico y coherencia. En cambio, si eliminas las ideas secundarias, el texto sigue entendiéndose perfectamente en su esencia, aunque pierda los detalles ilustrativos y explicativos."
+})
+concepts.append({
+    "intent_id": "idea_secundaria_ejemplo_claro",
+    "keywords": ["ejemplo", "claro", "oracion", "biologia"],
+    "base_response": "Si la idea principal es que los mamíferos respiran por pulmones, una idea secundaria explicará que los delfines deben subir a la superficie marina para tomar oxígeno. Este dato específico sirve para ilustrar de forma práctica la regla biológica general enunciada al principio."
+})
+concepts.append({
+    "intent_id": "idea_secundaria_importancia_redaccion",
+    "keywords": ["importancia", "redaccion", "cohesion", "estructura"],
+    "base_response": "Las ideas secundarias son muy importantes en la redacción escolar porque otorgan cohesión y solidez a tus escritos. Un párrafo que solo contiene la idea principal resultaría vacío e incompleto, requiriendo de estos detalles para convencer y guiar al lector."
+})
+concepts.append({
+    "intent_id": "idea_secundaria_ejercicio_aula",
+    "keywords": ["ejercicio", "aula", "clasificar", "subrayar"],
+    "base_response": "Un buen ejercicio en el aula es subrayar con dos colores diferentes en el libro de texto. Usa rojo para la idea principal y azul para las ideas secundarias, visualizando así de forma inmediata la estructura y jerarquía de la información estudiada."
+})
+
+# --- 8. Detalles específicos del texto ---
+concepts.append({
+    "intent_id": "detalles_especificos_concepto",
+    "keywords": ["concepto", "detalles", "especificos", "datos"],
+    "base_response": "Los detalles específicos son informaciones concretas y precisas como nombres, fechas, lugares, cantidades o fórmulas que aparecen en un escrito. No representan ideas completas, sino datos puntuales que sirven de evidencia real para respaldar las afirmaciones hechas por el autor."
+})
+concepts.append({
+    "intent_id": "detalles_especificos_localizacion",
+    "keywords": ["localizar", "buscar", "escaneo", "rapido"],
+    "base_response": "Para localizar detalles específicos debes emplear la técnica de escaneo rápido con la vista sobre la página impresa. En lugar de leer palabra por palabra, desplaza tus ojos buscando patrones visuales como números, mayúsculas iniciales de nombres propios o términos destacados."
+})
+concepts.append({
+    "intent_id": "detalles_especificos_importancia",
+    "keywords": ["importancia", "argumento", "evidencia", "verificar"],
+    "base_response": "La importancia de los detalles específicos radica en que aportan la evidencia científica o histórica que valida la tesis del autor. Un escrito sin datos concretos resulta débil y poco creíble, requiriendo de estas precisiones para sostenerse ante un análisis crítico."
+})
+concepts.append({
+    "intent_id": "detalles_especificos_ejemplo",
+    "keywords": ["ejemplo", "fecha", "cantidad", "geografia"],
+    "base_response": "Si lees que el río Amazonas mide seis mil novecientos noventa y dos kilómetros, ese dato de longitud exacta es un detalle específico del texto. Este dato numérico complementa la idea general de que este río es el más largo y caudaloso del planeta."
+})
+concepts.append({
+    "intent_id": "detalles_especificos_preguntas_control",
+    "keywords": ["preguntas", "control", "identificar", "informacion"],
+    "base_response": "Las preguntas de control para encontrar detalles específicos en una lectura son cuándo, dónde, quién y cuántos. Al responder estas dudas puntuales con palabras literales extraídas directamente del párrafo, estarás aislando los datos más exactos que incluyó el redactor."
+})
+concepts.append({
+    "intent_id": "detalles_especificos_errores_estudio",
+    "keywords": ["errores", "estudio", "memorizar", "saturacion"],
+    "base_response": "Un error común en el estudio es intentar memorizar todos los detalles específicos de un capítulo extenso del libro. Esto satura tu mente con números sueltos, impidiendo que comprendas las ideas generales y los conceptos científicos importantes de la materia estudiada."
+})
+concepts.append({
+    "intent_id": "detalles_especificos_ejercicio_clase",
+    "keywords": ["ejercicio", "clase", "trivia", "juego"],
+    "base_response": "Puedes practicar la búsqueda de detalles jugando a la trivia de lectura en el salón de clases de secundaria. Un compañero inventa preguntas rápidas de fechas o nombres propios, obligándote a escanear velozmente el párrafo para hallar la respuesta literal exacta."
+})
+
+# --- 9. Propósito del autor leído ---
+concepts.append({
+    "intent_id": "proposito_autor_definicion",
+    "keywords": ["definicion", "proposito", "autor", "intencion"],
+    "base_response": "El propósito del autor es la razón o intención principal que tiene un escritor al redactar su obra. Descubrir esta motivación es esencial para comprender el escrito, ya que determina el tono, el vocabulario, la organización de las ideas y el estilo empleado."
+})
+concepts.append({
+    "intent_id": "proposito_autor_tipos",
+    "keywords": ["tipos", "informar", "persuadir", "entretener"],
+    "base_response": "Los tres propósitos básicos del autor son informar, persuadir y entretener al lector. Un texto escolar busca informar objetivamente, un artículo de opinión intenta persuadir sobre un punto de vista y un cuento literario se diseña para entretener con belleza."
+})
+concepts.append({
+    "intent_id": "proposito_autor_informar",
+    "keywords": ["informar", "objetivo", "datos", "ciencia"],
+    "base_response": "Cuando el propósito es informar, el escritor presenta datos reales, descripciones científicas e investigaciones objetivas. Evita el uso de emociones y adjetivos extremos, buscando que el lector aprenda sobre un tema específico de forma clara, directa y apegada a la verdad demostrada."
+})
+concepts.append({
+    "intent_id": "proposito_autor_persuadir",
+    "keywords": ["persuadir", "convencer", "argumentos", "opinion"],
+    "base_response": "Si el propósito es persuadir, el escritor selecciona argumentos y ejemplos destinados a convencerte de adoptar su opinión sobre un tema debatible. Utiliza llamados emocionales, analogías y datos específicos inclinados a favor de su postura para lograr que cambies de parecer."
+})
+concepts.append({
+    "intent_id": "proposito_autor_entretener",
+    "keywords": ["entretener", "literatura", "emocion", "belleza"],
+    "base_response": "El propósito de entretener predomina en la literatura creativa como novelas, poesías, dramas o cuentos fantásticos. El escritor busca despertar tus emociones, transportarte a mundos imaginarios y deleitarte con la belleza del lenguaje artístico sin la obligación de dar datos científicos."
+})
+concepts.append({
+    "intent_id": "proposito_autor_descubrir",
+    "keywords": ["descubrir", "pistas", "tono", "vocabulario"],
+    "base_response": "Para descubrir el propósito de un escrito debes analizar con cuidado el tono y el tipo de vocabulario utilizado. Un tono neutro lleno de estadísticas revela una intención informativa, mientras que palabras emotivas y signos de exclamación apuntan a la persuasión directa."
+})
+concepts.append({
+    "intent_id": "proposito_autor_importancia_critica",
+    "keywords": ["importancia", "critica", "manipulacion", "estudio"],
+    "base_response": "Comprender el propósito del escritor te protege contra la manipulación de la publicidad o discursos sesgados. Al saber que alguien intenta venderte una idea o producto, puedes analizar sus argumentos con ojo crítico y tomar decisiones libres basadas en tu criterio."
+})
+
+# --- 10. Intención comunicativa de lectura ---
+concepts.append({
+    "intent_id": "intencion_comunicativa_concepto",
+    "keywords": ["concepto", "intencion", "comunicativa", "mensaje"],
+    "base_response": "La intención comunicativa es el objetivo que persigue todo acto de escritura o habla entre personas. Define qué quiere lograr el emisor en el receptor, ya sea transmitir un conocimiento nuevo, dar una orden clara, expresar sentimientos íntimos o simplemente establecer conexión social."
+})
+concepts.append({
+    "intent_id": "intencion_comunicativa_tipos",
+    "keywords": ["tipos", "funciones", "lenguaje", "expresiva"],
+    "base_response": "Se clasifica según las funciones del lenguaje que son representativa, expresiva, apelativa, metalingüística, poética y fática. Cada una de estas funciones responde a una necesidad diferente del ser humano para compartir ideas o influir en la conducta de otros."
+})
+concepts.append({
+    "intent_id": "intencion_comunicativa_apelativa",
+    "keywords": ["apelativa", "ordenar", "influir", "receptor"],
+    "base_response": "La intención comunicativa apelativa busca influir directamente en el comportamiento, ideas o acciones del receptor del mensaje. Se manifiesta claramente en órdenes, manuales de instrucciones, recetas de cocina, discursos políticos de campaña y en la publicidad que te invita a comprar algo."
+})
+concepts.append({
+    "intent_id": "intencion_comunicativa_expresiva",
+    "keywords": ["expresiva", "emociones", "sentimientos", "emisor"],
+    "base_response": "La intención comunicativa expresiva o sintomática se centra en el emisor para revelar sus estados de ánimo, emociones, miedos o deseos íntimos. Es común en diarios personales, cartas de amor, exclamaciones espontáneas y poesías líricas donde predomina la subjetividad del alma."
+})
+concepts.append({
+    "intent_id": "intencion_comunicativa_representativa",
+    "keywords": ["representativa", "hechos", "referencial", "realidad"],
+    "base_response": "La intención representativa o referencial se enfoca en transmitir datos e información de la realidad de forma puramente objetiva. No incluye opiniones del escritor y predomina en los libros de texto escolar, noticias periodísticas de actualidad y manuales técnicos de ciencia."
+})
+concepts.append({
+    "intent_id": "intencion_comunicativa_poetica",
+    "keywords": ["poetica", "estetica", "belleza", "lenguaje"],
+    "base_response": "La intención comunicativa poética o estética busca llamar la atención sobre la forma del mensaje mismo utilizando recursos literarios de gran belleza. Predomina en la literatura, rimas de canciones, refranes populares y juegos de palabras donde la musicalidad resulta más importante que el dato."
+})
+concepts.append({
+    "intent_id": "intencion_comunicativa_identificacion",
+    "keywords": ["identificar", "pistas", "lectura", "analisis"],
+    "base_response": "Identificar la intención comunicativa de una lectura te permite adecuar tu mente para recibir el mensaje de forma correcta. Evita que confundas una metáfora poética con una verdad científica literal, mejorando notablemente tu capacidad de análisis y comprensión de textos."
+})
+
+# --- 11. Público objetivo del texto ---
+concepts.append({
+    "intent_id": "publico_objetivo_concepto",
+    "keywords": ["concepto", "publico", "objetivo", "destinatario"],
+    "base_response": "El público objetivo es el grupo específico de personas a quienes el autor dirige su escrito o libro. Se define por características como edad, nivel de educación, intereses, profesión o cultura, determinando la complejidad del vocabulario y el diseño visual empleado."
+})
+concepts.append({
+    "intent_id": "publico_objetivo_identificacion",
+    "keywords": ["identificar", "pistas", "lector", "vocabulario"],
+    "base_response": "Para identificar el público objetivo debes analizar el nivel de dificultad de las palabras y la temática del relato. Un texto con ilustraciones grandes y lenguaje sencillo apunta a niños, mientras que párrafos llenos de fórmulas técnicas buscan un público especialista."
+})
+concepts.append({
+    "intent_id": "publico_objetivo_ejemplo_infantil",
+    "keywords": ["ejemplo", "infantil", "fabula", "ensenanza"],
+    "base_response": "Una fábula ilustrada con animales que hablan y una moraleja final tiene como público objetivo a niños de primaria. El autor utiliza un tono mágico, frases cortas y situaciones sencillas para capturar la atención infantil y transmitir un valor moral importante."
+})
+concepts.append({
+    "intent_id": "publico_objetivo_ejemplo_cientifico",
+    "keywords": ["ejemplo", "cientifico", "tecnico", "especialistas"],
+    "base_response": "Un artículo científico sobre genética molecular publicado en una revista universitaria se dirige a un público especialista de adultos. El autor utiliza jerga técnica avanzada, asume conocimientos previos complejos y prescinde de adornos literarios o explicaciones de términos básicos."
+})
+concepts.append({
+    "intent_id": "publico_objetivo_importancia_escritor",
+    "keywords": ["importancia", "escritor", "adaptar", "mensaje"],
+    "base_response": "Para un escritor, conocer a su público objetivo es la regla de oro para lograr que su mensaje sea efectivo y comprendido. Le permite adaptar el tono de la redacción, elegir ejemplos familiares para el lector y evitar términos aburridos o incomprensibles."
+})
+concepts.append({
+    "intent_id": "publico_objetivo_adaptacion_digital",
+    "keywords": ["adaptacion", "digital", "jovenes", "redes"],
+    "base_response": "La adaptación del público objetivo en entornos digitales para jóvenes requiere párrafos más cortos y elementos visuales interactivos. Los autores de blogs educativos diseñan sus contenidos asumiendo una lectura rápida en pantallas de celulares de estudiantes que buscan datos veloces."
+})
+concepts.append({
+    "intent_id": "publico_objetivo_ejercicio_aula",
+    "keywords": ["ejercicio", "aula", "reescribir", "estilos"],
+    "base_response": "Un ejercicio creativo en el aula de español es reescribir una misma noticia científica para tres públicos diferentes: niños, jóvenes y médicos científicos. Este desafío enseña a los estudiantes cómo el lenguaje se transforma según el destinatario del mensaje escrito."
+})
+
+# --- 12. Mensaje implícito de lectura ---
+concepts.append({
+    "intent_id": "mensaje_implicito_concepto",
+    "keywords": ["concepto", "mensaje", "implicito", "oculto"],
+    "base_response": "El mensaje implícito es la enseñanza, idea o intención que el autor transmite de forma oculta sin escribirla directamente. El lector debe descubrir este significado entre líneas analizando el comportamiento de los personajes, las metáforas utilizadas y las consecuencias de la historia."
+})
+concepts.append({
+    "intent_id": "mensaje_implicito_descubrir",
+    "keywords": ["descubrir", "pistas", "deduccion", "simbolos"],
+    "base_response": "Para descubrir el mensaje implícito debes prestar atención a los símbolos, silencios y emociones descritas en el párrafo. Pregúntate por qué actúan así los personajes y qué consecuencias tienen sus actos, conectando estas pistas con tus saberes y experiencias de vida."
+})
+concepts.append({
+    "intent_id": "mensaje_implicito_ejemplo_fabula",
+    "keywords": ["ejemplo", "fabula", "moraleja", "esfuerzo"],
+    "base_response": "En la famosa fábula de la tortuga y la liebre, el mensaje implícito es que la constancia vence a la soberbia del talentoso perezoso. La moraleja no se limita a hablar de animales veloces, sino a darnos una valiosa lección de esfuerzo humano."
+})
+concepts.append({
+    "intent_id": "mensaje_implicito_diferencia_explicito",
+    "keywords": ["diferencia", "explicito", "literal", "descubrir"],
+    "base_response": "La diferencia clave es que el mensaje explícito es literal y se lee directamente en la página del libro. El mensaje implícito, en cambio, requiere un proceso de interpretación mental activa por parte del lector para descubrir el verdadero sentido que el escritor sugirió."
+})
+concepts.append({
+    "intent_id": "mensaje_implicito_utilidad_literaria",
+    "keywords": ["utilidad", "literaria", "belleza", "poesia"],
+    "base_response": "El uso de mensajes implícitos otorga belleza, profundidad y misterio a las obras literarias, especialmente en la poesía y novela de misterio. Obliga al lector a ser un participante activo en la construcción del significado, haciendo de la lectura una experiencia interactiva."
+})
+concepts.append({
+    "intent_id": "mensaje_implicito_errores_comunes",
+    "keywords": ["errores", "fantasio", "subjetivo", "falla"],
+    "base_response": "Un error común es inventar un mensaje implícito que no tiene ningún respaldo en las oraciones de la lectura analizada. Para que una interpretación sea válida y correcta, siempre debe sostenerse en pistas, conductas o datos reales que el autor escribió."
+})
+concepts.append({
+    "intent_id": "mensaje_implicito_ejercicio_clase",
+    "keywords": ["ejercicio", "clase", "refranes", "significado"],
+    "base_response": "Puedes entrenar esta habilidad analizando refranes populares en el aula con tus compañeros. Frases como camarón que se duerme se lo lleva la corriente no hablan de crustáceos, sino de la importancia de mantenerse atentos y activos ante las oportunidades."
+})
+
+# --- 13. Información explícita de textos ---
+concepts.append({
+    "intent_id": "informacion_explicita_concepto",
+    "keywords": ["concepto", "informacion", "explicita", "literal"],
+    "base_response": "La información explícita es aquella que el autor expresa de forma directa, clara, detallada y visible en el escrito. No requiere interpretaciones, deducciones ni suposiciones del lector, ya que se encuentra escrita textualmente y se puede señalar con el dedo en el párrafo."
+})
+concepts.append({
+    "intent_id": "informacion_explicita_localizar",
+    "keywords": ["localizar", "buscar", "lectura", "atenta"],
+    "base_response": "Para localizar información explícita debes realizar una lectura atenta y buscar las palabras clave asociadas a tu pregunta. Al encontrar la oración correspondiente, podrás extraer la respuesta exacta de manera literal del párrafo estudiado sin temor a equivocarte en tu examen."
+})
+concepts.append({
+    "intent_id": "informacion_explicita_importancia",
+    "keywords": ["importancia", "base", "hechos", "comprension"],
+    "base_response": "La información explícita es la base fundamental sobre la cual se construye toda la comprensión lectora de un estudiante de secundaria. Antes de poder hacer inferencias o emitir juicios críticos complejos, debes ser capaz de identificar y recordar con precisión los hechos literarios explicados."
+})
+concepts.append({
+    "intent_id": "informacion_explicita_ejemplo",
+    "keywords": ["ejemplo", "literal", "datos", "parrafo"],
+    "base_response": "Si un texto científico dice que el sol es una estrella compuesta de hidrógeno y helio, esa afirmación es información explícita. Puedes responder textualmente de qué está hecho el sol simplemente copiando las palabras exactas que el redactor plasmó en el papel."
+})
+concepts.append({
+    "intent_id": "informacion_explicita_preguntas_guia",
+    "keywords": ["preguntas", "guia", "extraer", "datos"],
+    "base_response": "Las preguntas de control para hallar información explícita son qué, quién, cómo, cuándo y dónde. Estas interrogantes se responden directamente localizando los datos literales, nombres de personajes, fechas exactas o ubicaciones geográficas que el escritor registró en su obra."
+})
+concepts.append({
+    "intent_id": "informacion_explicita_evaluar_comprension",
+    "keywords": ["evaluar", "comprension", "pruebas", "literal"],
+    "base_response": "En las pruebas escolares de español, evaluar la comprensión de información explícita mide tu nivel de atención y retención básica. Te exige localizar párrafos específicos y recordar datos puntuales del relato sin deformarlos con opiniones personales o fantasiosas del lector."
+})
+concepts.append({
+    "intent_id": "informacion_explicita_ejercicio",
+    "keywords": ["ejercicio", "subrayar", "color", "resaltar"],
+    "base_response": "Un excelente ejercicio de clase consiste en subrayar con color verde fosforescente todas las respuestas explícitas a un cuestionario de lectura. Esto te entrena para justificar cada una de tus afirmaciones apoyándote exclusivamente en los datos que el autor escribió."
+})
+
+# --- 14. Tema central de lectura ---
+concepts.append({
+    "intent_id": "tema_central_concepto",
+    "keywords": ["concepto", "tema", "central", "asunto"],
+    "base_response": "El tema central es el asunto, materia o tópico general del cual trata la totalidad de una lectura o libro de estudio. Se diferencia de la idea principal en que se expresa de forma muy breve, usualmente mediante un sustantivo abstracto o frase sustantiva sin verbo."
+})
+concepts.append({
+    "intent_id": "tema_central_descubrir",
+    "keywords": ["descubrir", "buscar", "pregunta", "clave"],
+    "base_response": "Para descubrir el tema central debes plantearte la pregunta clave de qué trata este escrito de forma general. Al responder esta interrogante usando una o tres palabras como la fotosíntesis o el imperio romano, habrás aislado con éxito el núcleo temático global."
+})
+concepts.append({
+    "intent_id": "tema_central_ejemplo",
+    "keywords": ["ejemplo", "frase", "breve", "asunto"],
+    "base_response": "En una lectura científica sobre cómo cuidar la salud comiendo frutas y haciendo ejercicio diario, el tema central sería la alimentación saludable. Esta frase sustantiva breve resume de manera perfecta todo el asunto general del documento sin entrar en detalles particulares."
+})
+concepts.append({
+    "intent_id": "tema_central_diferencia_principal",
+    "keywords": ["diferencia", "principal", "oracion", "verbo"],
+    "base_response": "La diferencia fundamental radica en su estructura gramatical y alcance. El tema central es una frase corta sin verbo conjugado que nombra el asunto, mientras que la idea principal es una oración completa con verbo que explica qué se dice sobre ese tema."
+})
+concepts.append({
+    "intent_id": "tema_central_importancia_estudio",
+    "keywords": ["importancia", "estudio", "clasificar", "biblioteca"],
+    "base_response": "Identificar el tema central te permite clasificar lecturas rápidamente y organizar tus apuntes escolares de forma lógica. Es la habilidad básica que utilizan los bibliotecarios de secundaria para catalogar libros y los buscadores digitales para organizar la información del mundo."
+})
+concepts.append({
+    "intent_id": "tema_central_estrategia_lectura",
+    "keywords": ["estrategia", "lectura", "repetidas", "clave"],
+    "base_response": "Una excelente estrategia para hallar el tema es buscar palabras repetidas o sinónimos que aparecen a lo largo de todo el documento. Si el vocablo agua o líquidos se repite constantemente en cada párrafo, es muy seguro que el asunto gire en torno al agua."
+})
+concepts.append({
+    "intent_id": "tema_central_ejercicio_aula",
+    "keywords": ["ejercicio", "aula", "titulos", "competencia"],
+    "base_response": "Puedes entrenar la búsqueda del tema central quitándole los títulos a varios textos cortos en clase de español. El desafío de tus compañeros será proponer el título más adecuado que resuma en dos palabras de qué trata el párrafo analizado."
+})
+
+# --- 15. Argumento principal del texto ---
+concepts.append({
+    "intent_id": "argumento_principal_definicion",
+    "keywords": ["definicion", "argumento", "principal", "razonamiento"],
+    "base_response": "El argumento principal es el razonamiento o prueba más importante que utiliza el autor para defender su tesis o punto de vista en un escrito de opinión. Constituye la viga lógica que sostiene toda la fuerza de la argumentación presentada en la lectura."
+})
+concepts.append({
+    "intent_id": "argumento_principal_localizacion",
+    "keywords": ["localizar", "buscar", "tesis", "conclusiones"],
+    "base_response": "Para localizar el argumento principal debes identificar primero la tesis o postura del escritor y luego buscar la razón fundamental que ofrece para sostenerla. Suele ubicarse en el párrafo de desarrollo central o reforzarse de forma contundente en las conclusiones finales."
+})
+concepts.append({
+    "intent_id": "argumento_principal_caracteristicas",
+    "keywords": ["caracteristicas", "solidez", "evidencia", "logica"],
+    "base_response": "Un argumento principal de calidad destaca por su solidez lógica, coherencia interna y respaldo directo en evidencias demostrables o datos científicos. Evita las generalizaciones apresuradas y los llamados emocionales débiles para convencer al lector inteligente de manera racional y objetiva."
+})
+concepts.append({
+    "intent_id": "argumento_principal_diferencia_opinion",
+    "keywords": ["diferencia", "opinion", "justificacion", "comprobacion"],
+    "base_response": "La diferencia clave es que una simple opinión es una creencia subjetiva que no requiere justificación. Un argumento, en cambio, exige pruebas, explicaciones racionales y datos comprobables que demuestren la validez del razonamiento y convenzan al receptor del mensaje escrito."
+})
+concepts.append({
+    "intent_id": "argumento_principal_ejemplo",
+    "keywords": ["ejemplo", "claro", "tesis", "clima"],
+    "base_response": "Si la tesis del autor es que debemos reducir el uso del automóvil, el argumento principal explicará que las emisiones de dióxido de carbono de los motores aceleran peligrosamente el cambio climático global, basando su defensa en estudios científicos validados."
+})
+concepts.append({
+    "intent_id": "argumento_principal_importancia_critica",
+    "keywords": ["importancia", "critica", "evaluar", "pensamiento"],
+    "base_response": "Saber evaluar el argumento principal desarrolla tu pensamiento crítico y te protege de engaños intelectuales o de publicidad engañosa. Te enseña a no aceptar ideas solo porque suenan bonito, sino a exigir pruebas reales que las sostengan lógicamente."
+})
+concepts.append({
+    "intent_id": "argumento_principal_ejercicio_aula",
+    "keywords": ["ejercicio", "aula", "debate", "posturas"],
+    "base_response": "Puedes practicar la búsqueda de argumentos organizando debates de temas escolares en clase de español. Cada estudiante debe redactar una tesis sencilla y defenderla usando dos argumentos lógicos apoyados en datos reales extraídos de enciclopedias estudiadas."
+})
+
+# --- 16. Estructura textual de lectura ---
+concepts.append({
+    "intent_id": "estructura_textual_concepto",
+    "keywords": ["concepto", "estructura", "textual", "organizacion"],
+    "base_response": "La estructura textual es la forma en que se organizan y distribuyen las ideas dentro de un escrito para lograr coherencia. Todo documento posee una organización interna que guía al lector, permitiéndole comprender cómo progresa la información desde el inicio hasta el final."
+})
+concepts.append({
+    "intent_id": "estructura_textual_narrativo",
+    "keywords": ["narrativo", "inicio", "nudo", "desenlace"],
+    "base_response": "La estructura de los textos narrativos consta de inicio, nudo y desenlace. En el inicio se presentan los personajes y el escenario, en el nudo se desarrolla el conflicto principal de la historia y en el desenlace se resuelve la situación conflictiva."
+})
+concepts.append({
+    "intent_id": "estructura_textual_expositivo",
+    "keywords": ["expositivo", "introduccion", "desarrollo", "conclusion"],
+    "base_response": "Los escritos expositivos o informativos se organizan de forma clásica en introducción, desarrollo y conclusión. La introducción presenta el tema científico, el desarrollo explica detalladamente los datos de la investigación y la conclusión sintetiza las ideas principales del estudio."
+})
+concepts.append({
+    "intent_id": "estructura_textual_argumentativo",
+    "keywords": ["argumentativo", "tesis", "argumentos", "conclusion"],
+    "base_response": "Un escrito argumentativo presenta una estructura integrada por tesis, cuerpo de argumentos y conclusión final. El redactor enuncia su postura al inicio, luego despliega las razones lógicas y evidencias científicas para defenderla y concluye reforzando su punto de vista inicial."
+})
+concepts.append({
+    "intent_id": "estructura_textual_conectores",
+    "keywords": ["conectores", "cohesion", "nexos", "orden"],
+    "base_response": "Los conectores textuales son palabras que sirven de nexo para unir las diferentes partes y oraciones del escrito de manera lógica. Vocablos como en primer lugar, por el contrario, por lo tanto o finalmente otorgan orden y cohesión interna a la lectura."
+})
+concepts.append({
+    "intent_id": "estructura_textual_importancia_lector",
+    "keywords": ["importancia", "lector", "facilitar", "comprension"],
+    "base_response": "Conocer la estructura del texto facilita la lectura porque te permite predecir dónde estará la información clave del párrafo. Al saber cómo organiza el autor sus ideas, tu cerebro ahorra energía y asimila los conceptos científicos con mayor velocidad y precisión."
+})
+concepts.append({
+    "intent_id": "estructura_textual_ejercicio",
+    "keywords": ["ejercicio", "recortar", "rompecabezas", "ordenar"],
+    "base_response": "Un gran ejercicio es recortar un párrafo informativo largo en oraciones sueltas y jugar a ordenarlas como un rompecabezas lógico. Este desafío obliga al alumno a buscar pistas de cohesión y conectores que revelan el orden y la estructura original."
+})
+
+# --- 17. Hipótesis de comprensión lectora ---
+concepts.append({
+    "intent_id": "hipotesis_comprension_concepto",
+    "keywords": ["concepto", "hipotesis", "comprension", "suposicion"],
+    "base_response": "Una hipótesis de comprensión es una suposición temporal que hace el lector sobre lo que tratará un texto antes o durante la lectura. Se formula basándose en el título, los subtítulos, las imágenes de portada y los conocimientos previos del estudiante."
+})
+concepts.append({
+    "intent_id": "hipotesis_comprension_funcion",
+    "keywords": ["funcion", "anticipar", "atencion", "cerebro"],
+    "base_response": "La función de formular hipótesis es activar tu cerebro de manera que lea con un propósito nítido y definido. Al tener una suposición previa, tu mente se mantiene alerta buscando pistas que confirmen o desmientan tu idea, mejorando la concentración lectora."
+})
+concepts.append({
+    "intent_id": "hipotesis_comprension_creacion",
+    "keywords": ["creacion", "pistas", "titulo", "ilustraciones"],
+    "base_response": "Para crear una hipótesis debes observar el título del libro, los esquemas de la portada y las ilustraciones interiores del párrafo. Con estos datos visuales y tus saberes, formulas una teoría rápida sobre el tema científico o conflicto que abordará el relato."
+})
+concepts.append({
+    "intent_id": "hipotesis_comprension_verificacion",
+    "keywords": ["verificacion", "comprobar", "descartar", "lectura"],
+    "base_response": "La verificación ocurre a medida que avanzas en la lectura de los capítulos del libro. Debes comprobar si las pistas del texto confirman tu suposición inicial o si te obligan a modificar tu teoría previa para adaptarla a los nuevos datos reales."
+})
+concepts.append({
+    "intent_id": "hipotesis_comprension_ejemplo",
+    "keywords": ["ejemplo", "claro", "biologia", "titulo"],
+    "base_response": "Si lees un título que dice los secretos de la fotosíntesis en plantas del desierto, puedes plantear la hipótesis de que el texto explicará cómo sobreviven estos vegetales sin agua, guiding tu atención hacia las adaptaciones de los cactus explicadas."
+})
+concepts.append({
+    "intent_id": "hipotesis_comprension_importancia_cognitiva",
+    "keywords": ["importancia", "cognitiva", "activo", "aprendizaje"],
+    "base_response": "La importancia cognitiva de este proceso es que transforma la lectura pasiva en un ejercicio intelectual activo y divertido. El estudiante de secundaria deja de ser un simple receptor y se convierte en un científico que prueba y refuta sus teorías."
+})
+concepts.append({
+    "intent_id": "hipotesis_comprension_ejercicio_aula",
+    "keywords": ["ejercicio", "aula", "pausas", "predicciones"],
+    "base_response": "Puedes practicar este método haciendo pausas programadas durante la lectura de un cuento de misterio en clase de español. Al detenerse en la mitad del relato, cada alumno escribe su hipótesis sobre el final, comparándolas luego al concluir la sesión."
+})
+
+# --- 18. Anticipación de contenidos leídos ---
+concepts.append({
+    "intent_id": "anticipacion_contenidos_concepto",
+    "keywords": ["concepto", "anticipacion", "contenidos", "adivinar"],
+    "base_response": "La anticipación es la capacidad mental del lector para adelantarse a lo que dirá el texto usando pistas del escrito y su propia experiencia lingüística. Permite predecir palabras individuales, ideas de párrafos o la estructura que utilizará el redactor para explicarse."
+})
+concepts.append({
+    "intent_id": "anticipacion_contenidos_pistas",
+    "keywords": ["pistas", "lexicas", "sintacticas", "conectores"],
+    "base_response": "Las pistas para anticipar contenidos pueden ser de tipo léxico, sintáctico o conectores textuales de transición. Si lees la frase por un lado, tu mente anticipa de forma automática que más adelante aparecerá la contraparte iniciada por por el otro lado."
+})
+concepts.append({
+    "intent_id": "anticipacion_contenidos_ejemplo",
+    "keywords": ["ejemplo", "gramatical", "oracion", "prediccion"],
+    "base_response": "Si una oración empieza con después de una terrible tormenta de viento y lluvia, tu mente anticipa que el desenlace hablará de daños o de la calma posterior. Esta habilidad de predicción gramatical agiliza enormemente la velocidad y fluidez de la lectura."
+})
+concepts.append({
+    "intent_id": "anticipacion_contenidos_importancia",
+    "keywords": ["importancia", "velocidad", "fluidez", "eficiencia"],
+    "base_response": "Anticipar contenidos es una marca distintiva de un lector eficiente y veloz de nivel de secundaria. Te permite procesar bloques de palabras juntas en lugar de sílabas sueltas, mejorando tu ritmo de lectura y la capacidad de comprender textos de gran extensión."
+})
+concepts.append({
+    "intent_id": "anticipacion_contenidos_estrategia",
+    "keywords": ["estrategia", "prelectura", "indices", "subtitulos"],
+    "base_response": "Una excelente estrategia de anticipación es realizar una prelectura detallada de los índices del libro, introducciones y subtítulos destacados del párrafo. Esta acción prepara tu mente estructurando un mapa cognitivo sobre el recorrido de las ideas científicas que vas a estudiar."
+})
+concepts.append({
+    "intent_id": "anticipacion_contenidos_errores",
+    "keywords": ["errores", "distraccion", "asumir", "falla"],
+    "base_response": "Un error común es dejar que la anticipación te desvíe del contenido real de la lectura estudiada. Si asumes que el autor dirá algo y no verificas con atención las palabras impresas, puedes caer en malentendidos o ignorar datos científicos del párrafo."
+})
+concepts.append({
+    "intent_id": "anticipacion_contenidos_juego_clase",
+    "keywords": ["juego", "clase", "completar", "frases"],
+    "base_response": "Puedes entrenar la anticipación jugando a completar frases de párrafos escolares en el salón de secundaria de español. El maestro borra la última oración de un texto explicativo y los alumnos proponen finales lógicos coherentes con la estructura del escrito."
+})
+
+# --- 19. Predicciones durante la lectura ---
+concepts.append({
+    "intent_id": "predicciones_lectura_concepto",
+    "keywords": ["concepto", "predicciones", "futuro", "historia"],
+    "base_response": "Hacer predicciones consiste en adivinar qué sucesos, consecuencias o ideas científicas se presentarán más adelante en una lectura activa. Se diferencia de la hipótesis en que se enfoca específicamente en predecir el futuro desarrollo cronológico del relato o argumentación."
+})
+concepts.append({
+    "intent_id": "predicciones_lectura_mecanismo",
+    "keywords": ["mecanismo", "pistas", "causa", "efecto"],
+    "base_response": "El mecanismo de predicción se basa en el análisis lógico de las relaciones de causa y efecto presentadas en los capítulos anteriores del libro. Al evaluar las conductas de los personajes o factores biológicos, deduces de forma natural el desenlace inevitable."
+})
+concepts.append({
+    "intent_id": "predicciones_lectura_ejemplo",
+    "keywords": ["ejemplo", "claro", "quimica", "reaccion"],
+    "base_response": "Si lees que un químico mezcla dos compuestos altamente inestables y calienta el frasco en el fuego, puedes predecir que ocurrirá una reacción peligrosa. Tu mente se anticipa a la conclusión del experimento usando la lógica de las ciencias naturales."
+})
+concepts.append({
+    "intent_id": "predicciones_lectura_importancia",
+    "keywords": ["importancia", "atencion", "aprendizaje", "curiosidad"],
+    "base_response": "Formular predicciones enciende tu curiosidad académica, haciendo que te intereses de forma genuina por el desenlace del escrito estudiado. Esta atención activa reduce la fatiga mental y mejora notablemente tu capacidad de recordar la secuencia de sucesos leídos."
+})
+concepts.append({
+    "intent_id": "predicciones_lectura_verificacion",
+    "keywords": ["verificacion", "comprobar", "descartar", "ajustar"],
+    "base_response": "La verificación constante de tus predicciones es el motor que mantiene tu cerebro enfocado en la lectura. Al avanzar por las páginas de la obra, compruebas si tus deducciones fueron acertadas o si debes ajustarlas según la realidad científica descrita."
+})
+concepts.append({
+    "intent_id": "predicciones_lectura_estrategia",
+    "keywords": ["estrategia", "preguntar", "siguiente", "paso"],
+    "base_response": "Una gran estrategia para predecir es detenerte al final de cada sección del libro y preguntarte qué pasará después. Al anotar tu predicción en una libreta de apuntes escolares, entrenas tu capacidad de deducción y análisis de manera estructurada."
+})
+concepts.append({
+    "intent_id": "predicciones_lectura_ejercicio_aula",
+    "keywords": ["ejercicio", "aula", "pelicula", "guion"],
+    "base_response": "Un ejercicio divertido en clase es comparar un capítulo del libro con su adaptación cinematográfica escolar de secundaria. Los alumnos predicen qué cambios hará el director de la película en el guion original para adaptar la historia a la pantalla."
+})
+
+# --- 20. Lectura exploratoria de textos ---
+concepts.append({
+    "intent_id": "lectura_exploratoria_concepto",
+    "keywords": ["concepto", "exploratoria", "rapida", "vistazo"],
+    "base_response": "La lectura exploratoria o prelectura es un vistazo veloz y superficial que se realiza a un documento antes de leerlo a fondo. Su meta es obtener una idea global de qué trata el escrito y cómo está organizada la información general."
+})
+concepts.append({
+    "intent_id": "lectura_exploratoria_elementos",
+    "keywords": ["elementos", "titulos", "imagenes", "negritas"],
+    "base_response": "Los elementos en los que debes fijarte al explorar son los títulos de los párrafos, subtítulos destacados, palabras impresas en negrita, ilustraciones de la página, tablas con datos estadísticos, índices temáticos y los párrafos de introducción y conclusión."
+})
+concepts.append({
+    "intent_id": "lectura_exploratoria_utilidad",
+    "keywords": ["utilidad", "decidir", "tiempo", "organizacion"],
+    "base_response": "La utilidad de explorar el texto es decidir si el documento contiene la información exacta que buscas para tu tarea académica. Te evita perder horas leyendo páginas irrelevantes, ayudándote a organizar tu tiempo de estudio de manera inteligente y eficiente."
+})
+concepts.append({
+    "intent_id": "lectura_exploratoria_tecnica_barrido",
+    "keywords": ["tecnica", "barrido", "vista", "zigzag"],
+    "base_response": "La técnica de barrido visual es clave en la lectura exploratoria de cualquier capítulo de ciencias. Desplazas tus ojos en forma de zigzag o de arriba hacia abajo sobre la hoja impresa, buscando términos científicos específicos sin detenerte a comprender párrafos."
+})
+concepts.append({
+    "intent_id": "lectura_exploratoria_ejemplo",
+    "keywords": ["ejemplo", "practico", "enciclopedia", "indice"],
+    "base_response": "Imagina que buscas datos sobre volcanes en Centroamérica en la biblioteca de secundaria. Haces una lectura exploratoria del índice y de los títulos de capítulos para ir directamente a la sección correcta, ignorando los relatos sobre océanos del libro."
+})
+concepts.append({
+    "intent_id": "lectura_exploratoria_diferencia_analitica",
+    "keywords": ["diferencia", "analitica", "profunda", "velocidad"],
+    "base_response": "La diferencia es la velocidad y profundidad del proceso intelectual. La exploratoria tarda apenas un minuto y busca la idea global, mientras que la lectura analítica es lenta, reflexiva, busca detalles específicos y requiere subrayar conceptos complejos de la materia."
+})
+concepts.append({
+    "intent_id": "lectura_exploratoria_ejercicio_aula",
+    "keywords": ["ejercicio", "aula", "reloj", "velocidad"],
+    "base_response": "Un gran ejercicio escolar consiste en dar a los alumnos treinta segundos para explorar una página científica desconocida. Al sonar la campana, cierran el libro y explican en clase el tema general del escrito basándose en lo observado."
+})
+
+# --- 21. Lectura analítica de documentos ---
+concepts.append({
+    "intent_id": "lectura_analitica_concepto",
+    "keywords": ["concepto", "analitica", "profunda", "reflexiva"],
+    "base_response": "La lectura analítica es un proceso intelectual lento, profundo, reflexivo y detallado de un documento de estudio. Su objetivo es comprender de forma absoluta la totalidad de las ideas, argumentos, conceptos científicos y detalles específicos que el escritor incluyó."
+})
+concepts.append({
+    "intent_id": "lectura_analitica_pasos",
+    "keywords": ["pasos", "descomponer", "subrayar", "notas"],
+    "base_response": "Para realizar una lectura analítica debes descomponer el escrito en sus partes básicas, subrayar las ideas principales con cuidado, buscar en el diccionario escolar los términos científicos desconocidos y elaborar breves notas o esquemas al margen de cada párrafo."
+})
+concepts.append({
+    "intent_id": "lectura_analitica_habilidades",
+    "keywords": ["habilidades", "concentracion", "atencion", "critica"],
+    "base_response": "Este método exige habilidades de alta concentración mental, atención sostenida al detalle y capacidad de razonamiento crítico profundo. Te entrena para no saltarte ninguna oración difícil, enfrentando la complejidad estructural de los textos de ciencias con valentía e inteligencia."
+})
+concepts.append({
+    "intent_id": "lectura_analitica_diferencia_rapida",
+    "keywords": ["diferencia", "rapida", "detallada", "comprension"],
+    "base_response": "A diferencia de la lectura rápida que busca solo divertir o captar la idea global del capítulo, la analítica busca el dominio total de la información, capacitando al alumno para explicar los conceptos complejos con sus propias palabras en una exposición."
+})
+concepts.append({
+    "intent_id": "lectura_analitica_ejemplo",
+    "keywords": ["ejemplo", "quimica", "formula", "parrafo"],
+    "base_response": "Si estudias un capítulo sobre la ley de la gravedad, la lectura analítica te exige comprender cada variable de la fórmula, analizar el párrafo explicativo con paciencia y reflexionar sobre cómo se aplica esa física a la caída de objetos reales."
+})
+concepts.append({
+    "intent_id": "lectura_analitica_utilidad_examenes",
+    "keywords": ["utilidad", "examenes", "seguridad", "aprendizaje"],
+    "base_response": "La utilidad de este enfoque analítico se refleja en tus calificaciones de secundaria. Te da la seguridad necesaria para responder preguntas abiertas complejas, realizar inferencias correctas sobre temas de ciencias y resolver cuestionarios de lectura sin cometer errores lógicos."
+})
+concepts.append({
+    "intent_id": "lectura_analitica_ejercicio_aula",
+    "keywords": ["ejercicio", "aula", "glosario", "definiciones"],
+    "base_response": "Puedes ejercitar este método creando un glosario de términos científicos difíciles en clase de español de secundaria. Al leer un texto complejo, cada estudiante busca, anota y explica la definición contextual exacta de cinco palabras complejas del párrafo."
+})
+
+# --- 22. Subrayado de textos leídos ---
+concepts.append({
+    "intent_id": "subrayado_textos_concepto",
+    "keywords": ["concepto", "subrayado", "resaltar", "ideas"],
+    "base_response": "El subrayado es una técnica de estudio que consiste en trazar líneas o resaltar con colores las ideas principales de un escrito. Sirve para destacar la información científica más valiosa de la página, facilitando su posterior localización, repaso y comprensión."
+})
+concepts.append({
+    "intent_id": "subrayado_textos_regla_oro",
+    "keywords": ["regla", "oro", "moderacion", "seleccionar"],
+    "base_response": "La regla de oro del subrayado es la moderación extrema al seleccionar lo que vas a resaltar. Subrayar toda la hoja de color fosforescente es inútil y destructivo, debiendo destacar solo una o dos oraciones clave por cada párrafo estudiado."
+})
+concepts.append({
+    "intent_id": "subrayado_textos_colores",
+    "keywords": ["colores", "jerarquia", "rojo", "azul"],
+    "base_response": "Utilizar un código de colores ayuda a jerarquizar la información en tu cerebro durante el estudio. Usa rojo para destacar la idea principal del autor, azul para las ideas secundarias explicativas y verde para fechas, fórmulas o nombres propios importantes."
+})
+concepts.append({
+    "intent_id": "subrayado_textos_momento_adecuado",
+    "keywords": ["momento", "adecuado", "segunda", "lectura"],
+    "base_response": "El momento adecuado para subrayar es durante la segunda lectura detallada del párrafo impreso en el libro. No lo hagas en el primer vistazo veloz, pues aún no conoces cuáles detalles serán los verdaderamente importantes para el tema científico general."
+})
+concepts.append({
+    "intent_id": "subrayado_textos_beneficios",
+    "keywords": ["beneficios", "ahorro", "tiempo", "repaso"],
+    "base_response": "Los beneficios de esta técnica son el ahorro masivo de tiempo de repaso antes de los exámenes de secundaria y la mejora de tu atención visual activa. Al volver al libro, tus ojos irán directamente a los conceptos científicos resaltados con anterioridad."
+})
+concepts.append({
+    "intent_id": "subrayado_textos_errores_comunes",
+    "keywords": ["errores", "resaltar", "entero", "pagina"],
+    "base_response": "Un error común es resaltar párrafos enteros sin criterio selectivo lógico o pintar detalles específicos poco relevantes de la lectura. Esto genera contaminación visual en la página del libro, impidiendo que reconozcas con rapidez la columna vertebral informativa del tema."
+})
+concepts.append({
+    "intent_id": "subrayado_textos_ejercicio_clase",
+    "keywords": ["ejercicio", "clase", "intercambio", "evaluar"],
+    "base_response": "Puedes practicar intercambiando tu libro de español subrayado con un compañero del salón de secundaria. El desafío de tu compañero será leer únicamente tus frases resaltadas y explicar en voz alta el tema científico completo de forma lógica y coherente."
+})
+
+# --- 23. Esquemas de comprensión lectora ---
+concepts.append({
+    "intent_id": "esquema_comprension_concepto",
+    "keywords": ["concepto", "esquema", "grafica", "relaciones"],
+    "base_response": "Un esquema es una representación gráfica y simplificada que muestra la jerarquía y relaciones lógicas entre las ideas de un escrito. Permite resumir la información de un capítulo completo de forma visual en una sola página de tu cuaderno escolar."
+})
+concepts.append({
+    "intent_id": "esquema_comprension_tipos",
+    "keywords": ["tipos", "llaves", "mapas", "conceptuales"],
+    "base_response": "Los esquemas más usados en secundaria son los de llaves, los mapas conceptuales y los diagramas de flujo. Los de llaves organizan datos de izquierda a derecha, los mapas conectan conceptos con flechas y los diagramas muestran secuencias científicas."
+})
+concepts.append({
+    "intent_id": "esquema_comprension_pasos",
+    "keywords": ["pasos", "subrayar", "jerarquizar", "palabras"],
+    "base_response": "Para elaborar un esquema de calidad debes leer con atención el texto, subrayar las ideas principales de cada sección, clasificar y jerarquizar los conceptos y unirlos usando flechas, líneas o llaves con palabras de enlace cortas y lógicas."
+})
+concepts.append({
+    "intent_id": "esquema_comprension_mapa_conceptual",
+    "keywords": ["mapa", "conceptual", "formas", "enlaces"],
+    "base_response": "El mapa conceptual es ideal para estudiar ciencias de la naturaleza en secundaria. Organiza los conceptos clave dentro de óvalos o rectángulos y los conecta mediante líneas que tienen verbos sencillos escritos encima, aclarando la relación lógica existente."
+})
+concepts.append({
+    "intent_id": "esquema_comprension_diagrama_flujo",
+    "keywords": ["diagrama", "flujo", "pasos", "secuencia"],
+    "base_response": "El diagrama de flujo es perfecto para representar secuencias temporales, procesos biológicos o experimentos químicos en el salón. Utiliza figuras geométricas conectadas por flechas que muestran la dirección y el orden de los pasos que debes seguir obligatoriamente."
+})
+concepts.append({
+    "intent_id": "esquema_comprension_importancia_memoria",
+    "keywords": ["importancia", "memoria", "visual", "aprendizaje"],
+    "base_response": "La importancia de los esquemas radica en que aprovechan tu memoria visual para fijar conocimientos científicos complejos en tu cerebro. Al ordenar los datos con formas y colores, facilitas que tu mente recupere la información con rapidez durante un examen difícil."
+})
+concepts.append({
+    "intent_id": "esquema_comprension_ejercicio_aula",
+    "keywords": ["ejercicio", "aula", "pizarra", "grupal"],
+    "base_response": "Puedes practicar diseñando un gran mapa conceptual grupal en la pizarra de tu clase de secundaria. Cada estudiante pasa al frente a dibujar un rectángulo con un concepto clave del libro de español, conectándolo lógicamente con los demás."
+})
+
+
+print(f"Total concepts added: {len(concepts)}")
+
+# Validate each concept programmatically
+for idx, concept in enumerate(concepts):
+    err = validate_concept(concept)
+    if err:
+        print(f"VALIDATION FAILURE at index {idx} ({concept.get('intent_id')}): {err}")
+        exit(1)
+
+print("All concepts strictly validated and passed the validation pipeline.")
+
+# Overwrite GBX_brain_63A.json
+output_file = "GBX_brain_63A.json"
+with open(output_file, "w", encoding="utf-8") as f:
+    json.dump(concepts, f, indent=2, ensure_ascii=False)
+
+print(f"Dataset successfully written to '{output_file}' with {len(concepts)} concepts.")
