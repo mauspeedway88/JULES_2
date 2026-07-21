@@ -1,0 +1,2335 @@
+[
+  {
+    "intent_id": "ahorro_emergencias_definicion_estructural",
+    "keywords": [
+      "ahorro",
+      "emergencia",
+      "reserva",
+      "finanzas",
+      "proteccion"
+    ],
+    "base_response": "El ahorro para emergencias es una reserva financiera organizada que funciona como estructura de protección ante imprevistos. Incluye un monto acumulado, un lugar seguro para guardarlo y una planificación que permite responder sin afectar gastos esenciales ni generar deudas innecesarias."
+  },
+  {
+    "intent_id": "ahorro_emergencias_dinamica_funcionamiento",
+    "keywords": [
+      "ahorro",
+      "emergencia",
+      "reserva",
+      "proteccion",
+      "planificacion"
+    ],
+    "base_response": "El ahorro para emergencias funciona como una reserva física de dinero que se acumula poco a poco y permanece disponible ante imprevistos. Su dinámica consiste en separar una parte fija de ingresos, guardarla en un lugar seguro y evitar usarla salvo en situaciones urgentes."
+  },
+  {
+    "intent_id": "ahorro_emergencias_errores_fallas",
+    "keywords": [
+      "ahorro",
+      "emergencia",
+      "impulso",
+      "descontrol",
+      "procrastinacion"
+    ],
+    "base_response": "Muchos jóvenes fallan al ahorrar por gastar por impulso, ignorar límites y posponer decisiones. Estas conductas generan descontrol financiero y ausencia de fondos para emergencias. Reconocer estos errores permite construir hábitos responsables que protejan ante imprevistos."
+  },
+  {
+    "intent_id": "ahorro_emergencias_historia",
+    "keywords": [
+      "ahorro",
+      "emergencia",
+      "historia",
+      "origen",
+      "evolucion"
+    ],
+    "base_response": "El ahorro para emergencias surgió cuando las primeras comunidades guardaban recursos para sobrevivir a épocas difíciles. Con el tiempo, las sociedades desarrollaron métodos más organizados, como cajas de ahorro y bancos, que fortalecieron la práctica de reservar dinero para imprevistos."
+  },
+  {
+    "intent_id": "ahorro_emergencias_contexto_ecologico",
+    "keywords": [
+      "ahorro",
+      "emergencias",
+      "ecosistema",
+      "sostenibilidad",
+      "recursos"
+    ],
+    "base_response": "El ahorro para emergencias se relaciona con el entorno ecológico porque permite usar recursos de manera responsable. Comprender cómo el ecosistema influye en la disponibilidad de bienes ayuda a valorar prácticas financieras que protegen la estabilidad ambiental y fortalecen la seguridad personal."
+  },
+  {
+    "intent_id": "ahorro_emergencias_aplicaciones_practicas",
+    "keywords": [
+      "ahorro",
+      "emergencias",
+      "disciplina",
+      "objetivo",
+      "reserva"
+    ],
+    "base_response": "El ahorro para emergencias permite enfrentar gastos inesperados sin generar estrés financiero. Los estudiantes pueden crear una pequeña reserva semanal, guardar ingresos ocasionales y evitar compras impulsivas. Esta práctica fortalece la disciplina y ofrece seguridad ante situaciones imprevistas."
+  },
+  {
+    "intent_id": "ahorro_emergencias_importancia_impacto_social",
+    "keywords": [
+      "ahorro",
+      "emergencias",
+      "prevencion",
+      "estabilidad",
+      "comunidad"
+    ],
+    "base_response": "El ahorro para emergencias fortalece la estabilidad familiar y reduce la dependencia de apoyos externos. Cuando más personas practican esta prevención financiera, las comunidades enfrentan crisis con mayor resiliencia, disminuyen tensiones sociales y se promueve una cultura de responsabilidad compartida."
+  },
+  {
+    "intent_id": "ahorro_emergencias_ventajas_desventajas",
+    "keywords": [
+      "ahorro",
+      "emergencias",
+      "beneficios",
+      "riesgos",
+      "decision"
+    ],
+    "base_response": "El ahorro para emergencias ofrece seguridad ante imprevistos y evita deudas costosas. También permite actuar rápido en situaciones urgentes. Sin embargo, guardar dinero puede limitar compras deseadas y requiere disciplina constante. Comparar beneficios y riesgos ayuda a tomar decisiones responsables."
+  },
+  {
+    "intent_id": "ahorro_emergencias_riesgos_medidas_seguridad",
+    "keywords": [
+      "ahorro",
+      "emergencia",
+      "riesgo",
+      "proteccion",
+      "disciplina"
+    ],
+    "base_response": "El ahorro para emergencias requiere identificar riesgos como gastos inesperados y proteger el dinero usando cuentas seguras. Mantener disciplina evita usar esos fondos sin necesidad. Esta práctica fortalece la estabilidad financiera y permite responder con calma ante situaciones imprevistas."
+  },
+  {
+    "intent_id": "ahorro_emergencias_clasificacion_taxonomica",
+    "keywords": [
+      "ahorro",
+      "emergencias",
+      "reserva",
+      "prioridades",
+      "planificacion"
+    ],
+    "base_response": "Clasificar el ahorro para emergencias implica ordenar metas según urgencia y tamaño, distinguiendo necesidades inmediatas de objetivos futuros. Esta taxonomía ayuda a priorizar cuánto guardar, cómo organizar la reserva y qué acciones tomar para mantener estabilidad financiera ante imprevistos."
+  },
+  {
+    "intent_id": "ahorro_emergencias_calculos_formulas",
+    "keywords": [
+      "ahorro",
+      "emergencias",
+      "calculo",
+      "porcentaje",
+      "reserva"
+    ],
+    "base_response": "El ahorro para emergencias puede calcularse usando un porcentaje fijo del ingreso mensual. Multiplica tu ingreso por el porcentaje elegido y acumula ese monto cada mes. Esta fórmula permite crear una reserva estable que ayuda a enfrentar imprevistos sin afectar tus finanzas principales."
+  },
+  {
+    "intent_id": "ahorro_emergencias_mitos_concepciones",
+    "keywords": [
+      "ahorro",
+      "emergencias",
+      "mitos",
+      "creencias",
+      "riesgos"
+    ],
+    "base_response": "Muchos jóvenes creen que ahorrar para emergencias es innecesario o solo para adultos, pero esto es falso. También piensan que cualquier cantidad es inútil, cuando incluso pequeños aportes generan seguridad. Romper estos mitos permite construir hábitos financieros responsables desde temprana edad."
+  },
+  {
+    "intent_id": "ahorro_emergencias_relacion_simbiotica",
+    "keywords": [
+      "ahorro",
+      "emergencia",
+      "sistema",
+      "interaccion",
+      "resiliencia"
+    ],
+    "base_response": "El ahorro para emergencias interactúa de manera simbiótica con sistemas familiares, escolares y comunitarios, fortaleciendo la resiliencia colectiva. Cuando una persona gestiona bien sus recursos, contribuye a la estabilidad del grupo y recibe apoyo que facilita mantener hábitos financieros responsables."
+  },
+  {
+    "intent_id": "ahorro_emergencias_transformacion_ciclos",
+    "keywords": [
+      "ahorro",
+      "emergencias",
+      "energia",
+      "ciclos",
+      "transformacion"
+    ],
+    "base_response": "El ahorro para emergencias funciona como un ciclo energético donde cada decisión transforma recursos limitados en seguridad futura. Al guardar dinero regularmente, se acumula energía financiera que puede liberarse cuando surge un imprevisto, manteniendo estabilidad y continuidad en la vida cotidiana."
+  },
+  {
+    "intent_id": "ahorro_emergencias_experimentos",
+    "keywords": [
+      "ahorro",
+      "emergencias",
+      "simulacion",
+      "presupuesto",
+      "reserva"
+    ],
+    "base_response": "Los estudiantes crean un presupuesto mensual ficticio y enfrentan eventos sorpresa que requieren gastos urgentes. Registran cuánto pueden cubrir usando una reserva previa y analizan cómo el ahorro reduce el impacto. Comparan resultados para comprender la importancia de anticipar emergencias financieras."
+  },
+  {
+    "intent_id": "ahorro_emergencias_consecuencias_largo_plazo",
+    "keywords": [
+      "ahorro",
+      "emergencias",
+      "disciplina",
+      "estabilidad",
+      "futuro"
+    ],
+    "base_response": "Mantener un ahorro para emergencias crea estabilidad duradera. Permite enfrentar imprevistos sin endeudarse y fortalece la disciplina financiera. Con el tiempo, genera seguridad, reduce estrés y facilita decisiones responsables que mejoran la calidad de vida y el bienestar económico futuro."
+  },
+  {
+    "intent_id": "ahorro_emergencias_impacto_ambiental",
+    "keywords": [
+      "ahorro",
+      "emergencias",
+      "sostenibilidad",
+      "consumo",
+      "responsabilidad"
+    ],
+    "base_response": "El ahorro para emergencias reduce compras impulsivas y favorece decisiones sostenibles. Al planificar gastos, se evita generar residuos innecesarios y se promueve un consumo responsable. Mantener un fondo de seguridad ayuda a proteger el entorno mediante elecciones financieras conscientes y menos demandantes de recursos."
+  },
+  {
+    "intent_id": "ahorro_emergencias_mantenimiento_prevencion",
+    "keywords": [
+      "ahorro",
+      "emergencia",
+      "reserva",
+      "disciplina",
+      "proteccion"
+    ],
+    "base_response": "Mantener un ahorro para emergencias exige revisar con disciplina la reserva creada y prevenir gastos innecesarios. Este hábito protege ante imprevistos y permite actuar con calma. Supervisar el crecimiento del fondo garantiza seguridad financiera y refuerza decisiones responsables."
+  },
+  {
+    "intent_id": "ahorro_emergencias_proyecciones_tecnologia",
+    "keywords": [
+      "ahorro",
+      "emergencias",
+      "proyecciones",
+      "tecnologia",
+      "futuro"
+    ],
+    "base_response": "El ahorro para emergencias puede fortalecerse usando aplicaciones que proyectan gastos futuros y alertan sobre riesgos financieros. Estas herramientas permiten anticipar imprevistos, ajustar metas y visualizar cómo pequeñas decisiones actuales influyen en la seguridad económica del mañana."
+  },
+  {
+    "intent_id": "presupuesto_familiar_definicion_estructural",
+    "keywords": [
+      "presupuesto",
+      "familia",
+      "ingresos",
+      "gastos",
+      "organizacion"
+    ],
+    "base_response": "El presupuesto familiar es una estructura que ordena ingresos y gastos para mostrar cómo se usa el dinero en casa. Incluye categorías claras, montos asignados y límites que ayudan a tomar decisiones responsables y anticipar necesidades económicas futuras."
+  },
+  {
+    "intent_id": "presupuesto_familiar_dinamica_funcionamiento",
+    "keywords": [
+      "presupuesto",
+      "familia",
+      "ingresos",
+      "gastos",
+      "control"
+    ],
+    "base_response": "El presupuesto familiar funciona como una guía que organiza ingresos y gastos para mantener equilibrio financiero. Su dinámica implica registrar movimientos, comparar necesidades y ajustar decisiones. Este proceso físico permite visualizar recursos disponibles y evitar desequilibrios económicos."
+  },
+  {
+    "intent_id": "presupuesto_familiar_errores_fallas_patologias",
+    "keywords": [
+      "presupuesto",
+      "gasto",
+      "ingreso",
+      "descontrol",
+      "endeudamiento"
+    ],
+    "base_response": "Muchos hogares cometen errores como gastar sin registro, ignorar ingresos reales, endeudarse por impulso y no prever emergencias. Estas fallas generan descontrol financiero y estrés. Comprender estos patrones permite corregir hábitos y construir un presupuesto familiar más estable y responsable."
+  },
+  {
+    "intent_id": "presupuesto_familiar_historia",
+    "keywords": [
+      "presupuesto",
+      "familia",
+      "historia",
+      "economia",
+      "evolucion"
+    ],
+    "base_response": "El presupuesto familiar surgió cuando las familias comenzaron a organizar ingresos y gastos para sobrevivir. Con el tiempo evolucionó hacia una herramienta esencial que permite planificar necesidades, controlar recursos y tomar decisiones responsables que fortalecen la estabilidad económica del hogar."
+  },
+  {
+    "intent_id": "presupuesto_familiar_contexto_ecologico",
+    "keywords": [
+      "presupuesto",
+      "familia",
+      "recursos",
+      "entorno",
+      "sostenibilidad"
+    ],
+    "base_response": "El presupuesto familiar se relaciona con el entorno ecológico porque las decisiones de gasto afectan el uso de recursos naturales. Comprender este vínculo permite elegir prácticas sostenibles, reducir desperdicios y valorar cómo cada acción económica influye en el ambiente y en la calidad de vida comunitaria."
+  },
+  {
+    "intent_id": "presupuesto_familiar_aplicaciones_practicas",
+    "keywords": [
+      "presupuesto",
+      "familia",
+      "gasto",
+      "ingreso",
+      "organizacion"
+    ],
+    "base_response": "El presupuesto familiar permite organizar ingresos y gastos para tomar decisiones responsables. Los estudiantes pueden aplicarlo creando listas de necesidades, comparando precios y ajustando metas de ahorro. Practicar estas acciones fortalece hábitos financieros útiles para situaciones reales."
+  },
+  {
+    "intent_id": "presupuesto_familiar_importancia_impacto_social",
+    "keywords": [
+      "presupuesto",
+      "familia",
+      "organizacion",
+      "control",
+      "responsabilidad"
+    ],
+    "base_response": "El presupuesto familiar fortalece la organización económica y promueve decisiones responsables que benefician a todos. Su correcta gestión reduce tensiones, impulsa hábitos financieros sanos y contribuye al bienestar social al fomentar estabilidad, cooperación y uso consciente de los recursos disponibles."
+  },
+  {
+    "intent_id": "presupuesto_familiar_ventajas_desventajas",
+    "keywords": [
+      "presupuesto",
+      "familia",
+      "control",
+      "gasto",
+      "planificacion"
+    ],
+    "base_response": "Un presupuesto familiar permite organizar gastos, evitar deudas y alcanzar metas compartidas. También puede generar presión si no se cumple o si surgen gastos inesperados. Comprender sus ventajas y desventajas ayuda a tomar decisiones responsables y mejorar la estabilidad económica del hogar."
+  },
+  {
+    "intent_id": "presupuesto_familiar_riesgos_medidas_seguridad",
+    "keywords": [
+      "presupuesto",
+      "riesgos",
+      "seguridad",
+      "proteccion",
+      "control"
+    ],
+    "base_response": "Un presupuesto familiar requiere identificar riesgos como gastos inesperados y fraudes. Es esencial aplicar medidas de seguridad que incluyan revisar movimientos, proteger información financiera y establecer límites claros. Estas acciones fortalecen el control económico y evitan pérdidas innecesarias."
+  },
+  {
+    "intent_id": "presupuesto_familiar_clasificacion_taxonomica",
+    "keywords": [
+      "presupuesto",
+      "familia",
+      "clasificacion",
+      "ingresos",
+      "gastos"
+    ],
+    "base_response": "La clasificación taxonómica del presupuesto familiar organiza los elementos financieros según su función. Permite distinguir ingresos, gastos fijos, gastos variables y ahorro para comprender cómo se relacionan y cómo influyen en la estabilidad económica del hogar."
+  },
+  {
+    "intent_id": "presupuesto_familiar_calculos",
+    "keywords": [
+      "presupuesto",
+      "familia",
+      "ingresos",
+      "gastos",
+      "calculo"
+    ],
+    "base_response": "Un presupuesto familiar requiere sumar ingresos, restar gastos y verificar el saldo disponible. Aplicar fórmulas básicas permite organizar prioridades y evitar desequilibrios. Calcular porcentajes de ahorro y clasificar gastos facilita decisiones responsables y mejora la administración financiera cotidiana."
+  },
+  {
+    "intent_id": "presupuesto_familiar_mitos_concepciones_erroneas",
+    "keywords": [
+      "presupuesto",
+      "familia",
+      "mitos",
+      "gasto",
+      "ahorro"
+    ],
+    "base_response": "Muchos creen que el presupuesto limita la libertad, pero en realidad organiza decisiones. También se piensa que solo sirve cuando hay mucho dinero, aunque ayuda en cualquier situación. Comprender estos mitos permite usar el presupuesto familiar como herramienta para planear y mejorar hábitos financieros."
+  },
+  {
+    "intent_id": "presupuesto_familiar_relacion_simbiotica",
+    "keywords": [
+      "presupuesto",
+      "familia",
+      "sistema",
+      "interaccion",
+      "recursos"
+    ],
+    "base_response": "El presupuesto familiar interactúa con sistemas como trabajo, educación y comunidad, generando efectos compartidos. Cambios en ingresos, precios o servicios modifican decisiones familiares y, a la vez, estas decisiones influyen en el entorno. Comprender esta relación fortalece la gestión financiera responsable."
+  },
+  {
+    "intent_id": "presupuesto_familiar_transformacion_ciclos",
+    "keywords": [
+      "presupuesto",
+      "familia",
+      "ciclo",
+      "energia",
+      "flujo"
+    ],
+    "base_response": "El presupuesto familiar funciona como un ciclo energético donde el dinero entra, se transforma en necesidades cubiertas y vuelve a ajustarse según decisiones. Comprender estos flujos permite organizar recursos, anticipar cambios y mantener equilibrio financiero responsable."
+  },
+  {
+    "intent_id": "presupuesto_familiar_experimentos",
+    "keywords": [
+      "presupuesto",
+      "familia",
+      "registro",
+      "gasto",
+      "calculo"
+    ],
+    "base_response": "Los estudiantes crean un presupuesto familiar simulado usando ingresos ficticios y gastos comunes. Registran cada decisión en una tabla y observan cómo cambia el saldo disponible. Comparan resultados entre grupos para analizar hábitos financieros y comprender la importancia de planificar con anticipación."
+  },
+  {
+    "intent_id": "presupuesto_familiar_consecuencias_largo_plazo",
+    "keywords": [
+      "presupuesto",
+      "familia",
+      "ahorro",
+      "disciplina",
+      "planificacion"
+    ],
+    "base_response": "Comprender las consecuencias a largo plazo del presupuesto familiar permite anticipar estabilidad financiera. Mantener disciplina y planificación constante evita deudas futuras, fomenta hábitos responsables y asegura recursos para metas importantes. Un buen presupuesto fortalece decisiones económicas sostenibles."
+  },
+  {
+    "intent_id": "presupuesto_familiar_impacto_ambiental",
+    "keywords": [
+      "presupuesto",
+      "familia",
+      "consumo",
+      "reciclaje",
+      "sostenibilidad"
+    ],
+    "base_response": "El presupuesto familiar puede integrar decisiones que reduzcan el impacto ambiental mediante compras responsables, uso eficiente de recursos y selección de productos duraderos. Evaluar hábitos de consumo permite ahorrar dinero y disminuir residuos, fortaleciendo prácticas sostenibles dentro del hogar."
+  },
+  {
+    "intent_id": "presupuesto_familiar_mantenimiento_prevencion",
+    "keywords": [
+      "presupuesto",
+      "control",
+      "gasto",
+      "registro",
+      "planificacion"
+    ],
+    "base_response": "El presupuesto familiar requiere mantenimiento constante mediante el registro ordenado de gastos y la revisión periódica de metas. La prevención surge al anticipar necesidades, evitar compras impulsivas y ajustar hábitos para proteger la estabilidad financiera del hogar."
+  },
+  {
+    "intent_id": "presupuesto_familiar_proyecciones_tecnologia",
+    "keywords": [
+      "presupuesto",
+      "proyecciones",
+      "tecnologia",
+      "gastos",
+      "ingresos"
+    ],
+    "base_response": "Comprender proyecciones futuras permite anticipar gastos e ingresos del hogar usando herramientas tecnológicas. Aplicar aplicaciones digitales facilita calcular escenarios, ajustar decisiones y mantener estabilidad financiera. Integrar estos recursos fortalece la planificación y promueve hábitos responsables en la administración familiar."
+  },
+  {
+    "intent_id": "gastos_personales_mes_definicion",
+    "keywords": [
+      "gasto",
+      "registro",
+      "presupuesto",
+      "control",
+      "consumo"
+    ],
+    "base_response": "Los gastos personales del mes representan el conjunto estructurado de desembolsos que una persona realiza para cubrir necesidades y deseos. Incluyen categorías definidas que permiten organizar el dinero, identificar patrones de consumo y establecer límites claros para mantener un equilibrio financiero adecuado."
+  },
+  {
+    "intent_id": "gastos_personales_mes_dinamica_funcionamiento_fisico",
+    "keywords": [
+      "gasto",
+      "registro",
+      "calculo",
+      "control",
+      "organizacion"
+    ],
+    "base_response": "Los gastos personales del mes funcionan como un conjunto de movimientos que se registran y se calculan para entender cómo fluye el dinero. Cada gasto tiene un impacto físico en el presupuesto, pues reduce el monto disponible y exige control y organización constante."
+  },
+  {
+    "intent_id": "economia_gastos_personales_errores",
+    "keywords": [
+      "gasto",
+      "exceso",
+      "impulso",
+      "descontrol",
+      "presupuesto"
+    ],
+    "base_response": "Muchos jóvenes cometen errores al gastar sin revisar sus ingresos, comprar por impulso y olvidar registrar sus movimientos. Estas fallas generan descontrol mensual y dificultan cumplir metas. Reconocer estas conductas permite corregir hábitos y fortalecer un presupuesto responsable."
+  },
+  {
+    "intent_id": "finanzas_gastos_personales_historia",
+    "keywords": [
+      "historia",
+      "economia",
+      "registro",
+      "gastos",
+      "evolucion"
+    ],
+    "base_response": "Los gastos personales surgieron cuando las familias comenzaron a registrar cuánto consumían para organizar recursos. Con el tiempo, estos registros evolucionaron hacia presupuestos mensuales que permiten controlar compras, anticipar necesidades y tomar decisiones financieras responsables en la vida cotidiana."
+  },
+  {
+    "intent_id": "gastos_personales_mes_contexto_ecologico",
+    "keywords": [
+      "gasto",
+      "consumo",
+      "entorno",
+      "impacto",
+      "sostenibilidad"
+    ],
+    "base_response": "Los gastos personales del mes se relacionan con el entorno ecológico porque cada compra implica uso de recursos y generación de residuos. Comprender este vínculo permite elegir productos responsables, reducir impactos ambientales y fomentar hábitos financieros alineados con la sostenibilidad cotidiana."
+  },
+  {
+    "intent_id": "gastos_personales_mes_aplicaciones_practicas",
+    "keywords": [
+      "gastos",
+      "registro",
+      "presupuesto",
+      "control",
+      "organizacion"
+    ],
+    "base_response": "El estudiante identifica sus gastos mensuales y los registra para evaluar hábitos. Clasifica compras, calcula montos y compara necesidades frente a deseos. Aplica un presupuesto sencillo que permite ajustar decisiones y mejorar el uso responsable del dinero en situaciones reales."
+  },
+  {
+    "intent_id": "gastos_personales_importancia_impacto_social",
+    "keywords": [
+      "gastos",
+      "control",
+      "responsabilidad",
+      "planificacion",
+      "comunidad"
+    ],
+    "base_response": "Comprender los gastos personales del mes permite tomar decisiones responsables que fortalecen la organización familiar y fomentan hábitos financieros positivos. Un buen manejo del dinero influye en la estabilidad de la comunidad, promueve solidaridad y reduce problemas derivados de la falta de control económico."
+  },
+  {
+    "intent_id": "economia_gastos_personales_ventajas_desventajas",
+    "keywords": [
+      "gasto",
+      "registro",
+      "control",
+      "analisis",
+      "prioridad"
+    ],
+    "base_response": "Comparar gastos mensuales permite identificar beneficios como ordenar compras y evitar excesos, así como riesgos como decisiones impulsivas o falta de control. Analizar cada categoría ayuda a priorizar necesidades, mejorar hábitos y fortalecer la responsabilidad financiera personal."
+  },
+  {
+    "intent_id": "gastos_personales_riesgos_medidas_seguridad",
+    "keywords": [
+      "gastos",
+      "registro",
+      "riesgos",
+      "seguridad",
+      "control"
+    ],
+    "base_response": "Identificar riesgos en los gastos mensuales permite evitar pérdidas innecesarias. Mantener registros claros, proteger datos personales y revisar movimientos con frecuencia ayuda a detectar errores o fraudes. Aplicar controles básicos fortalece la seguridad financiera y fomenta decisiones responsables."
+  },
+  {
+    "intent_id": "finanzas_gastos_personales_clasificacion_taxonomica",
+    "keywords": [
+      "gasto",
+      "ingreso",
+      "registro",
+      "analisis",
+      "prioridad"
+    ],
+    "base_response": "La clasificación taxonómica organiza los gastos personales según características comunes. Permite identificar categorías como necesidades, deseos y obligaciones, facilitando el análisis mensual. Ayuda a comprender patrones, priorizar decisiones y mejorar el control financiero mediante una estructura clara y ordenada."
+  },
+  {
+    "intent_id": "finanzas_gastos_personales_calculos",
+    "keywords": [
+      "gastos",
+      "presupuesto",
+      "registro",
+      "calculo",
+      "totales"
+    ],
+    "base_response": "Para calcular gastos personales del mes, suma cada desembolso registrado y clasifícalo por categoría. Aplica la fórmula total mensual = suma de todos los gastos. Usa operaciones básicas para identificar excesos y ajustar el presupuesto según necesidades reales."
+  },
+  {
+    "intent_id": "finanzas_gastos_personales_mitos_concepciones_erroneas",
+    "keywords": [
+      "gasto",
+      "mito",
+      "control",
+      "presupuesto",
+      "decision"
+    ],
+    "base_response": "Muchos creen que los gastos mensuales aparecen sin control o que siempre son inevitables. En realidad, cada gasto responde a decisiones personales que pueden organizarse con un presupuesto claro. Identificar mitos permite evitar errores y mejorar el manejo responsable del dinero."
+  },
+  {
+    "intent_id": "gastos_personales_relacion_simbiotica",
+    "keywords": [
+      "gastos",
+      "ingresos",
+      "sistema",
+      "interaccion",
+      "control"
+    ],
+    "base_response": "Los gastos personales se conectan con otros sistemas como ingresos, ahorro y consumo. Cada decisión influye en el equilibrio financiero mensual. Comprender esta relación permite ajustar hábitos, anticipar necesidades y mantener estabilidad económica mediante elecciones responsables y conscientes."
+  },
+  {
+    "intent_id": "gastos_personales_transformacion_ciclos_energeticos",
+    "keywords": [
+      "gasto",
+      "energia",
+      "ciclo",
+      "decision",
+      "control"
+    ],
+    "base_response": "Los gastos personales pueden entenderse como ciclos energéticos donde cada decisión transforma recursos limitados. Observar cómo fluye el dinero durante el mes permite reconocer patrones, ajustar hábitos y dirigir la energía financiera hacia metas claras que fortalezcan autonomía y responsabilidad."
+  },
+  {
+    "intent_id": "economia_gastos_personales_experimentos",
+    "keywords": [
+      "gastos",
+      "registro",
+      "analisis",
+      "presupuesto",
+      "control"
+    ],
+    "base_response": "Los estudiantes registran sus gastos reales durante un mes y luego clasifican cada compra. Comparan los totales por categoría y elaboran un presupuesto escolar simulado. Analizan diferencias entre lo planeado y lo gastado para comprender hábitos y ajustar decisiones financieras futuras."
+  },
+  {
+    "intent_id": "gastos_personales_consecuencias_largo_plazo",
+    "keywords": [
+      "gastos",
+      "presupuesto",
+      "disciplina",
+      "habito",
+      "planeacion"
+    ],
+    "base_response": "Comprender las consecuencias a largo plazo de los gastos mensuales permite desarrollar disciplina financiera. Gastar sin control puede limitar metas futuras, mientras que planear y ajustar hábitos fortalece decisiones responsables que influyen en oportunidades educativas, bienestar personal y estabilidad económica sostenida."
+  },
+  {
+    "intent_id": "gastos_personales_mes_impacto_ambiental",
+    "keywords": [
+      "consumo",
+      "residuos",
+      "energia",
+      "sostenibilidad",
+      "reciclaje"
+    ],
+    "base_response": "Analizar los gastos personales del mes permite identificar hábitos que generan impacto ambiental. Evaluar compras, uso de energía y generación de residuos ayuda a reducir efectos negativos. Adoptar decisiones sostenibles mejora el entorno y fomenta responsabilidad económica y ecológica."
+  },
+  {
+    "intent_id": "gastos_personales_mantenimiento_prevencion",
+    "keywords": [
+      "mantenimiento",
+      "prevencion",
+      "gastos",
+      "control",
+      "planificacion"
+    ],
+    "base_response": "Comprender el mantenimiento y la prevención en los gastos personales permite anticipar necesidades y evitar costos inesperados. Revisar objetos, ropa o dispositivos y cuidarlos adecuadamente reduce reemplazos frecuentes. Planificar revisiones mensuales ayuda a mantener estabilidad financiera y mejorar decisiones responsables."
+  },
+  {
+    "intent_id": "gastos_personales_proyecciones_tecnologia",
+    "keywords": [
+      "gastos",
+      "presupuesto",
+      "proyecciones",
+      "tecnologia",
+      "registro"
+    ],
+    "base_response": "Comprender los gastos personales del mes permite crear proyecciones futuras usando tecnología. Aplicar aplicaciones digitales facilita registrar movimientos, anticipar necesidades y ajustar decisiones. Practicar estos hábitos fortalece la capacidad de planificar metas financieras con mayor precisión y responsabilidad."
+  },
+  {
+    "intent_id": "ingresos_salariales_trabajadores_definicion",
+    "keywords": [
+      "ingreso",
+      "salario",
+      "trabajador",
+      "remuneracion",
+      "actividad"
+    ],
+    "base_response": "Los ingresos salariales representan la remuneración que recibe un trabajador por realizar una actividad laboral. Incluyen pagos regulares acordados entre empleador y empleado, basados en tiempo, esfuerzo y habilidades. Constituyen la base económica para cubrir necesidades y planificar metas personales."
+  },
+  {
+    "intent_id": "ingresos_salariales_dinamica_funcionamiento",
+    "keywords": [
+      "salario",
+      "trabajo",
+      "produccion",
+      "esfuerzo",
+      "pago"
+    ],
+    "base_response": "El salario surge cuando una persona ofrece su esfuerzo y habilidades para realizar tareas que generan valor. Las empresas calculan pagos según tiempo, dificultad y resultados. Este intercambio permite que los trabajadores reciban ingresos regulares por su contribución física y mental dentro de un proceso productivo."
+  },
+  {
+    "intent_id": "ingresos_salariales_trabajadores_errores",
+    "keywords": [
+      "salario",
+      "trabajador",
+      "confusion",
+      "expectativa",
+      "planeacion"
+    ],
+    "base_response": "Muchos jóvenes creen que el salario cubre cualquier gasto sin límites, ignoran descuentos obligatorios y confunden ingreso bruto con ingreso neto. Estas fallas generan frustración y mala planeación. Comprender cada componente salarial evita errores y fortalece decisiones financieras responsables."
+  },
+  {
+    "intent_id": "ingresos_salariales_historia_origen_evolucion",
+    "keywords": [
+      "salario",
+      "trabajo",
+      "historia",
+      "evolucion",
+      "remuneracion"
+    ],
+    "base_response": "Los ingresos salariales surgieron cuando las sociedades comenzaron a intercambiar trabajo por pago fijo. Con el tiempo, evolucionaron desde compensaciones en bienes hasta sueldos monetarios regulados. Esta transformación permitió organizar empleos, valorar habilidades y establecer derechos laborales modernos."
+  },
+  {
+    "intent_id": "ingresos_salariales_contexto_ecologico",
+    "keywords": [
+      "ingreso",
+      "salario",
+      "trabajo",
+      "entorno",
+      "economia"
+    ],
+    "base_response": "Los ingresos salariales dependen del entorno ecológico donde operan las actividades productivas. Cambios climáticos, disponibilidad de recursos y condiciones ambientales influyen en sectores laborales, afectando oportunidades, estabilidad y niveles salariales según la capacidad económica de cada región."
+  },
+  {
+    "intent_id": "ingresos_salariales_aplicaciones_practicas",
+    "keywords": [
+      "ingresos",
+      "salario",
+      "trabajo",
+      "habilidades",
+      "experiencia"
+    ],
+    "base_response": "Comprender los ingresos salariales permite reconocer cómo el trabajo y las habilidades generan dinero. Identificar profesiones, comparar salarios y analizar responsabilidades ayuda a tomar decisiones informadas. Aplicar este conocimiento facilita planear metas, valorar el esfuerzo y entender la relación entre tiempo, experiencia y remuneración."
+  },
+  {
+    "intent_id": "ingresos_salariales_importancia_impacto_social",
+    "keywords": [
+      "ingresos",
+      "salariales",
+      "trabajadores",
+      "economia",
+      "impacto"
+    ],
+    "base_response": "Los ingresos salariales permiten que los trabajadores cubran necesidades básicas, impulsen el consumo y fortalezcan la economía. Su distribución justa reduce desigualdad, mejora la calidad de vida y favorece comunidades más estables, creando oportunidades para el desarrollo social y el bienestar colectivo."
+  },
+  {
+    "intent_id": "ingresos_salariales_ventajas_desventajas",
+    "keywords": [
+      "ingresos",
+      "salarios",
+      "trabajadores",
+      "beneficios",
+      "riesgos"
+    ],
+    "base_response": "Los ingresos salariales ofrecen estabilidad y permiten planificar gastos, pero pueden ser limitados según el tipo de trabajo. Algunos salarios incluyen beneficios adicionales, aunque no siempre crecen rápidamente. Comprender estas diferencias ayuda a valorar opciones laborales y tomar decisiones informadas."
+  },
+  {
+    "intent_id": "ingresos_salariales_riesgos_medidas_seguridad",
+    "keywords": [
+      "salario",
+      "riesgos",
+      "fraude",
+      "proteccion",
+      "verificacion"
+    ],
+    "base_response": "Comprender los riesgos salariales permite evitar fraudes y errores que afectan el dinero recibido. Verificar pagos, proteger datos personales y usar canales seguros ayuda a mantener ingresos confiables. Adoptar hábitos responsables fortalece la seguridad financiera y fomenta decisiones informadas."
+  },
+  {
+    "intent_id": "economia_ingresos_salariales_clasificacion_taxonomica",
+    "keywords": [
+      "ingresos",
+      "salariales",
+      "trabajadores",
+      "clasificacion",
+      "tipos"
+    ],
+    "base_response": "Los ingresos salariales pueden clasificarse según su forma de pago, estabilidad y origen laboral. Esta taxonomía permite distinguir sueldos fijos, salarios variables, comisiones y bonificaciones, facilitando la comprensión de cómo se estructuran las remuneraciones en distintas actividades profesionales."
+  },
+  {
+    "intent_id": "ingresos_salariales_calculos_formulas",
+    "keywords": [
+      "salario",
+      "ingreso",
+      "calculo",
+      "trabajo",
+      "formula"
+    ],
+    "base_response": "El salario se calcula multiplicando horas trabajadas por pago por hora. También puede incluir bonos que se suman al ingreso total. Comprender estas fórmulas permite estimar ganancias y planificar gastos con mayor precisión para decisiones financieras responsables."
+  },
+  {
+    "intent_id": "ingresos_salariales_mitos_concepciones_erroneas",
+    "keywords": [
+      "ingresos",
+      "salarios",
+      "trabajadores",
+      "mitos",
+      "creencias"
+    ],
+    "base_response": "Muchos estudiantes creen que todos los trabajadores ganan lo mismo o que el salario depende solo del esfuerzo. En realidad, los ingresos varían según habilidades, experiencia, sector y condiciones del mercado. Comprender estas diferencias evita expectativas irreales y fomenta decisiones informadas."
+  },
+  {
+    "intent_id": "ingresos_salariales_relacion_simbiotica",
+    "keywords": [
+      "ingresos",
+      "sistema",
+      "mercado",
+      "produccion",
+      "trabajo"
+    ],
+    "base_response": "Los ingresos salariales dependen de cómo interactúan el trabajo, la producción y el mercado. Cuando las empresas crecen, necesitan más trabajadores y pueden pagar mejores salarios. A su vez, los salarios permiten que las familias consuman y fortalezcan otros sistemas económicos relacionados."
+  },
+  {
+    "intent_id": "ingresos_salariales_experimentos",
+    "keywords": [
+      "salario",
+      "trabajo",
+      "ingreso",
+      "actividad",
+      "calculo"
+    ],
+    "base_response": "Los estudiantes simulan distintos oficios y reciben salarios ficticios según tareas completadas. Registran ingresos, comparan resultados y analizan cómo la cantidad y calidad del trabajo influyen en el salario. Observan variaciones y discuten factores que modifican los ingresos laborales."
+  },
+  {
+    "intent_id": "ingresos_salariales_consecuencias_largo_plazo",
+    "keywords": [
+      "ingreso",
+      "salario",
+      "trabajo",
+      "ahorro",
+      "progreso"
+    ],
+    "base_response": "Los ingresos salariales influyen en decisiones futuras. Un salario estable permite planificar estudios, vivienda y metas personales. Comprender cómo crecen los ingresos con experiencia y habilidades ayuda a visualizar oportunidades y evitar riesgos que afecten bienestar económico a largo plazo."
+  },
+  {
+    "intent_id": "ingresos_salariales_impacto_ambiental",
+    "keywords": [
+      "ingresos",
+      "salarios",
+      "trabajadores",
+      "sostenibilidad",
+      "impacto",
+      "ambiente"
+    ],
+    "base_response": "Los ingresos salariales pueden relacionarse con el impacto ambiental cuando las empresas ajustan pagos según prácticas sostenibles. Comprender esta conexión ayuda a valorar empleos que reducen contaminación, promueven eficiencia energética y fomentan decisiones responsables que protegen recursos naturales."
+  },
+  {
+    "intent_id": "ingresos_salariales_mantenimiento_prevencion",
+    "keywords": [
+      "ingreso",
+      "salario",
+      "trabajo",
+      "cuidado",
+      "prevencion"
+    ],
+    "base_response": "Comprender cómo se mantiene un ingreso salarial ayuda a planificar mejor. Cuidar el desempeño laboral, prevenir ausencias innecesarias y desarrollar habilidades protege la estabilidad del salario. Mantener hábitos responsables permite asegurar ingresos constantes y evitar riesgos económicos futuros."
+  },
+  {
+    "intent_id": "ingresos_salariales_proyecciones_tecnologia",
+    "keywords": [
+      "ingresos",
+      "salariales",
+      "proyecciones",
+      "tecnologia",
+      "automatizacion"
+    ],
+    "base_response": "Los ingresos salariales pueden cambiar según avances tecnológicos que transforman trabajos y crean nuevas oportunidades. Comprender tendencias digitales permite anticipar habilidades necesarias para futuros empleos y valorar cómo la automatización influye en la forma de ganar dinero."
+  },
+  {
+    "intent_id": "finanzas_deudas_prestamos_personales_definicion_estructural",
+    "keywords": [
+      "prestamo",
+      "deuda",
+      "interes",
+      "plazo",
+      "pago"
+    ],
+    "base_response": "Una deuda de préstamo personal se compone del monto solicitado, el interés aplicado, el plazo acordado y los pagos periódicos. Cada parte define cómo crece la obligación y cómo debe cumplirse. Comprender esta estructura permite tomar decisiones financieras responsables."
+  },
+  {
+    "intent_id": "deudas_prestamos_personales_dinamica_funcionamiento_fisico",
+    "keywords": [
+      "prestamo",
+      "deuda",
+      "interes",
+      "calculo",
+      "pago"
+    ],
+    "base_response": "Las deudas de préstamos personales funcionan mediante un monto recibido que debe devolverse con intereses. El dinero circula desde el prestamista hacia el solicitante y luego retorna en pagos periódicos. Cada pago reduce el saldo pendiente y mantiene activo el compromiso financiero adquirido."
+  },
+  {
+    "intent_id": "deudas_prestamos_personales_errores_fallas_patologias",
+    "keywords": [
+      "sobreendeudamiento",
+      "impago",
+      "morosidad",
+      "descontrol",
+      "aplazamiento"
+    ],
+    "base_response": "Muchos jóvenes cometen errores al pedir préstamos personales, como acumular deudas sin calcular su capacidad de pago. También aparecen fallas como ignorar intereses crecientes y patologías como el descontrol financiero que provoca morosidad. Comprender estos riesgos ayuda a evitar consecuencias graves."
+  },
+  {
+    "intent_id": "finanzas_deudas_historia",
+    "keywords": [
+      "prestamo",
+      "deuda",
+      "historia",
+      "origen",
+      "evolucion"
+    ],
+    "base_response": "Las deudas por préstamos personales surgieron cuando las primeras comunidades comenzaron a intercambiar bienes y confiar recursos. Con el tiempo, evolucionaron hacia sistemas formales administrados por templos, comerciantes y luego bancos, estableciendo reglas claras para pedir, usar y devolver dinero."
+  },
+  {
+    "intent_id": "deudas_prestamos_personales_contexto_ecologico",
+    "keywords": [
+      "prestamo",
+      "deuda",
+      "impacto",
+      "entorno",
+      "responsabilidad"
+    ],
+    "base_response": "Las deudas de préstamos personales se desarrollan dentro de un entorno donde influyen familia, comunidad y recursos disponibles. Comprender este contexto permite tomar decisiones responsables, evaluar riesgos y reconocer cómo el uso del dinero afecta hábitos, bienestar y relaciones cotidianas."
+  },
+  {
+    "intent_id": "deudas_prestamos_personales_aplicaciones_practicas",
+    "keywords": [
+      "prestamo",
+      "deuda",
+      "pago",
+      "interes",
+      "responsabilidad"
+    ],
+    "base_response": "Comprender cómo funcionan las deudas permite decidir con responsabilidad antes de pedir un préstamo. Evaluar ingresos, calcular pagos y anticipar intereses ayuda a evitar problemas futuros. Aplicar estos pasos en compras importantes enseña a manejar compromisos financieros de manera segura."
+  },
+  {
+    "intent_id": "deudas_prestamos_personales_importancia_impacto_social",
+    "keywords": [
+      "prestamos",
+      "deudas",
+      "impacto",
+      "sociedad",
+      "responsabilidad"
+    ],
+    "base_response": "Comprender las deudas de préstamos personales permite reconocer cómo afectan la estabilidad familiar y comunitaria. Un manejo responsable evita problemas económicos, reduce estrés y promueve decisiones financieras saludables que fortalecen el bienestar social y la cooperación entre personas."
+  },
+  {
+    "intent_id": "deudas_prestamos_personales_ventajas_desventajas",
+    "keywords": [
+      "prestamo",
+      "deuda",
+      "pago",
+      "riesgo",
+      "beneficio"
+    ],
+    "base_response": "Los préstamos personales permiten obtener dinero rápido para necesidades importantes y ofrecen pagos organizados. Sin embargo, generan deudas que requieren responsabilidad, pueden incluir intereses altos y causar problemas si no se cumplen los pagos a tiempo."
+  },
+  {
+    "intent_id": "deudas_prestamos_personales_riesgos_medidas_seguridad",
+    "keywords": [
+      "prestamo",
+      "riesgo",
+      "pago",
+      "interes",
+      "proteccion"
+    ],
+    "base_response": "Comprender los riesgos de un préstamo personal permite evitar problemas financieros. Evaluar la capacidad de pago, comparar intereses y leer condiciones protege de deudas excesivas. Mantener registros claros y usar solo fuentes confiables reduce peligros y fortalece decisiones responsables."
+  },
+  {
+    "intent_id": "finanzas_deudas_prestamos_clasificacion_taxonomica",
+    "keywords": [
+      "prestamo",
+      "deuda",
+      "interes",
+      "riesgo",
+      "pago"
+    ],
+    "base_response": "Las deudas de préstamos personales pueden clasificarse según su propósito, plazo, tipo de interés y nivel de riesgo. Esta clasificación permite comprender mejor cómo funcionan, identificar obligaciones futuras y evaluar la responsabilidad financiera necesaria para manejarlas adecuadamente."
+  },
+  {
+    "intent_id": "finanzas_deudas_calculos",
+    "keywords": [
+      "prestamo",
+      "interes",
+      "cuota",
+      "saldo",
+      "calculo"
+    ],
+    "base_response": "Para entender un préstamo personal, calcula intereses usando tasa anual dividida entre meses. Multiplica saldo por tasa mensual para obtener interés. Suma capital e interés para definir la cuota. Repite el proceso cada mes para observar cómo disminuye el saldo pendiente."
+  },
+  {
+    "intent_id": "deudas_prestamos_personales_mitos_concepciones_erroneas",
+    "keywords": [
+      "deuda",
+      "prestamo",
+      "riesgo",
+      "pago",
+      "credito"
+    ],
+    "base_response": "Muchos creen que toda deuda es negativa, pero los préstamos personales pueden ser útiles si se entienden bien. No siempre significan fracaso ni generan problemas automáticos. Requieren análisis, responsabilidad y planificación para evitar confusiones que llevan a decisiones financieras perjudiciales."
+  },
+  {
+    "intent_id": "deudas_prestamos_personales_relacion_simbiotica",
+    "keywords": [
+      "prestamo",
+      "deuda",
+      "sistema",
+      "interaccion",
+      "impacto"
+    ],
+    "base_response": "Las deudas de préstamos personales interactúan con sistemas económicos más amplios, influyendo en bancos, comercios y familias. Cuando una persona paga puntualmente, fortalece su historial y favorece el flujo financiero. Si incumple, afecta riesgos, costos y decisiones dentro del sistema crediticio general."
+  },
+  {
+    "intent_id": "deudas_prestamos_personales_transformacion_ciclos_energeticos",
+    "keywords": [
+      "prestamo",
+      "deuda",
+      "ciclo",
+      "gestion",
+      "transformacion"
+    ],
+    "base_response": "Las deudas de préstamos personales pueden entenderse como ciclos energéticos donde cada decisión transforma recursos futuros. Al asumir una deuda, se inicia un flujo que exige disciplina para mantener equilibrio. Comprender estos ciclos ayuda a usar la energía financiera con responsabilidad y claridad."
+  },
+  {
+    "intent_id": "deudas_prestamos_personales_experimentos",
+    "keywords": [
+      "prestamo",
+      "interes",
+      "saldo",
+      "pago",
+      "simulacion"
+    ],
+    "base_response": "Realiza una simulación usando fichas como dinero para representar un préstamo con intereses. Registra cada pago y observa cómo cambia el saldo pendiente. Analiza cómo los intereses aumentan el costo total y reflexiona sobre decisiones responsables al solicitar préstamos personales."
+  },
+  {
+    "intent_id": "finanzas_deudas_consecuencias_largo_plazo",
+    "keywords": [
+      "prestamo",
+      "deuda",
+      "interes",
+      "historial",
+      "responsabilidad"
+    ],
+    "base_response": "Las deudas de préstamos personales pueden crecer con el tiempo si no se pagan correctamente, afectando el historial crediticio y limitando oportunidades futuras. Mantener responsabilidad financiera evita costos adicionales y facilita acceder a mejores condiciones económicas a lo largo de la vida."
+  },
+  {
+    "intent_id": "deudas_prestamos_personales_impacto_ambiental",
+    "keywords": [
+      "prestamo",
+      "deuda",
+      "consumo",
+      "produccion",
+      "residuos"
+    ],
+    "base_response": "Las deudas por préstamos personales pueden impulsar compras innecesarias que fomentan mayor producción y uso de recursos. Esto incrementa residuos, emisiones y presión ambiental. Comprender este vínculo ayuda a tomar decisiones financieras responsables que reduzcan impactos negativos en el entorno."
+  },
+  {
+    "intent_id": "deudas_prestamos_personales_mantenimiento_prevencion",
+    "keywords": [
+      "deuda",
+      "prestamo",
+      "control",
+      "planificacion",
+      "pago"
+    ],
+    "base_response": "Comprender cómo mantener y prevenir deudas personales permite evitar problemas futuros. Analizar cada préstamo, organizar fechas de pago y revisar gastos ayuda a conservar estabilidad financiera. Aplicar hábitos responsables reduce riesgos y fortalece decisiones económicas seguras para cualquier situación cotidiana."
+  },
+  {
+    "intent_id": "deudas_prestamos_personales_proyecciones_tecnologia",
+    "keywords": [
+      "prestamo",
+      "deuda",
+      "proyeccion",
+      "tecnologia",
+      "gestion"
+    ],
+    "base_response": "Comprender cómo la tecnología proyecta el comportamiento futuro de una deuda permite anticipar riesgos y ajustar decisiones. Herramientas digitales muestran escenarios posibles, calculan intereses y ayudan a planificar pagos responsables para evitar complicaciones financieras a largo plazo."
+  },
+  {
+    "intent_id": "bancos_ahorro_personal_definicion_estructural",
+    "keywords": [
+      "ahorro",
+      "banco",
+      "cuenta",
+      "seguridad",
+      "registro"
+    ],
+    "base_response": "Un banco de ahorro personal funciona como una estructura organizada donde se guardan fondos, se registran movimientos y se protege el dinero. Incluye cuentas individuales, sistemas de control y mecanismos que permiten almacenar, consultar y administrar recursos financieros de manera segura."
+  },
+  {
+    "intent_id": "bancos_ahorro_personal_dinamica_funcionamiento_fisico",
+    "keywords": [
+      "banco",
+      "ahorro",
+      "estructura",
+      "operacion",
+      "transaccion"
+    ],
+    "base_response": "Un banco de ahorro personal funciona mediante espacios físicos donde se guardan fondos, se registran movimientos y se atienden solicitudes. Sus áreas operan con sistemas seguros que permiten depósitos, retiros y consultas. Cada acción sigue procedimientos claros para proteger el dinero del usuario."
+  },
+  {
+    "intent_id": "bancos_ahorro_personal_errores_fallas_patologias",
+    "keywords": [
+      "ahorro",
+      "banco",
+      "confusion",
+      "riesgo",
+      "habito"
+    ],
+    "base_response": "Muchos estudiantes cometen errores al usar bancos de ahorro personal, como confundir metas, retirar dinero impulsivamente, ignorar riesgos y olvidar revisar movimientos. Estas fallas generan hábitos débiles y dificultan construir disciplina financiera sólida para decisiones futuras responsables."
+  },
+  {
+    "intent_id": "bancos_ahorro_historia_origen_evolucion",
+    "keywords": [
+      "historia",
+      "origen",
+      "evolucion",
+      "ahorro",
+      "bancos"
+    ],
+    "base_response": "Los bancos de ahorro personal surgieron para proteger el dinero de las personas y fomentar hábitos financieros seguros. Su origen se relaciona con instituciones antiguas que guardaban valores. Con el tiempo evolucionaron hacia sistemas modernos que permiten depósitos, retiros y administración responsable del ahorro."
+  },
+  {
+    "intent_id": "bancos_ahorro_contexto_ecologico",
+    "keywords": [
+      "ecosistema",
+      "servicio",
+      "comunidad",
+      "ahorro",
+      "funcion"
+    ],
+    "base_response": "Los bancos de ahorro personal operan dentro de un ecosistema económico donde interactúan familias, comercios y servicios financieros. Su función depende del entorno social y tecnológico, influyendo en cómo las personas guardan dinero, acceden a recursos y fortalecen la estabilidad comunitaria."
+  },
+  {
+    "intent_id": "bancos_ahorro_aplicaciones_practicas",
+    "keywords": [
+      "ahorro",
+      "cuenta",
+      "deposito",
+      "retiro",
+      "objetivo"
+    ],
+    "base_response": "Los bancos de ahorro personal permiten guardar dinero de forma segura y ordenada. Los estudiantes pueden usar una cuenta para depositar pequeñas cantidades, revisar su progreso y retirar fondos cuando alcancen un objetivo. Esta práctica fortalece hábitos financieros responsables."
+  },
+  {
+    "intent_id": "bancos_ahorro_importancia_impacto_social",
+    "keywords": [
+      "ahorro",
+      "banco",
+      "seguridad",
+      "comunidad",
+      "beneficio"
+    ],
+    "base_response": "Los bancos de ahorro personal fortalecen la seguridad financiera y fomentan hábitos responsables. Su impacto social surge al impulsar comunidades más estables, apoyar proyectos locales y promover oportunidades para familias. Contribuyen a reducir riesgos económicos y a mejorar la calidad de vida colectiva."
+  },
+  {
+    "intent_id": "bancos_ahorro_personal_ventajas_desventajas",
+    "keywords": [
+      "ahorro",
+      "banco",
+      "seguridad",
+      "costos",
+      "beneficios"
+    ],
+    "base_response": "Los bancos de ahorro personal ofrecen seguridad, orden y acceso rápido al dinero, además de posibles intereses. Sin embargo, pueden incluir costos por servicios y exigir requisitos para operar. Comparar estas características ayuda a decidir si convienen según necesidades y hábitos financieros."
+  },
+  {
+    "intent_id": "bancos_ahorro_riesgos_seguridad",
+    "keywords": [
+      "riesgos",
+      "seguridad",
+      "ahorro",
+      "fraude",
+      "proteccion"
+    ],
+    "base_response": "Los bancos de ahorro personal requieren cuidado para evitar fraudes y pérdidas. Es esencial proteger claves, verificar movimientos y usar canales oficiales. Mantener información privada y activar alertas ayuda a prevenir riesgos y fortalecer la seguridad financiera cotidiana."
+  },
+  {
+    "intent_id": "bancos_ahorro_personal_clasificacion_taxonomica",
+    "keywords": [
+      "ahorro",
+      "banco",
+      "cuenta",
+      "deposito",
+      "servicio"
+    ],
+    "base_response": "Los bancos de ahorro personal pueden clasificarse según su función principal, como resguardar dinero, ofrecer cuentas básicas, permitir depósitos programados y brindar servicios financieros simples. Esta clasificación ayuda a comprender cómo cada tipo de banco apoya metas de ahorro seguras y organizadas."
+  },
+  {
+    "intent_id": "bancos_ahorro_personal_calculos",
+    "keywords": [
+      "ahorro",
+      "saldo",
+      "interes",
+      "porcentaje",
+      "deposito"
+    ],
+    "base_response": "Un banco de ahorro personal permite calcular cuánto crece tu dinero aplicando intereses. Para estimarlo, usa la fórmula interés = saldo × porcentaje. Si realizas depósitos regulares, suma cada aporte al saldo inicial y aplica el porcentaje para conocer el crecimiento total."
+  },
+  {
+    "intent_id": "bancos_ahorro_mitos_concepciones_erroneas",
+    "keywords": [
+      "ahorro",
+      "banco",
+      "mitos",
+      "riesgos",
+      "beneficios"
+    ],
+    "base_response": "Muchos estudiantes creen que guardar dinero en casa es siempre más seguro que usar un banco, pero esto es falso. Los bancos protegen el ahorro, ofrecen registros claros y reducen riesgos de pérdida. También existe la idea errónea de que solo adultos pueden ahorrar formalmente."
+  },
+  {
+    "intent_id": "bancos_ahorro_relacion_simbiotica",
+    "keywords": [
+      "ahorro",
+      "banco",
+      "sistema",
+      "interaccion",
+      "funcion"
+    ],
+    "base_response": "Los bancos de ahorro personal funcionan en conexión con sistemas económicos mayores. Usan depósitos para otorgar créditos, apoyan el flujo de dinero y fortalecen la estabilidad financiera. Esta relación permite que el ahorro individual impulse actividades productivas y mejore el bienestar comunitario."
+  },
+  {
+    "intent_id": "bancos_ahorro_transformacion_ciclos",
+    "keywords": [
+      "ahorro",
+      "energia",
+      "ciclo",
+      "flujo",
+      "transformacion"
+    ],
+    "base_response": "Los bancos de ahorro personal funcionan como ciclos energéticos donde el dinero se mueve, se guarda y se transforma en oportunidades futuras. Comprender este flujo ayuda a visualizar cómo cada depósito impulsa un proceso continuo que fortalece hábitos financieros responsables."
+  },
+  {
+    "intent_id": "bancos_ahorro_personal_experimentos",
+    "keywords": [
+      "ahorro",
+      "banco",
+      "registro",
+      "metas",
+      "simulacion"
+    ],
+    "base_response": "Los estudiantes crean un banco escolar donde depositan cantidades simbólicas, registran movimientos y observan cómo crece su ahorro. Comparan resultados entre quienes ahorran con constancia y quienes retiran frecuentemente, analizando cómo las decisiones afectan sus metas financieras personales."
+  },
+  {
+    "intent_id": "bancos_ahorro_consecuencias_largo_plazo",
+    "keywords": [
+      "ahorro",
+      "disciplina",
+      "metas",
+      "crecimiento",
+      "responsabilidad"
+    ],
+    "base_response": "Comprender las consecuencias a largo plazo del uso constante de un banco de ahorro personal permite visualizar cómo la disciplina financiera impulsa metas futuras, fortalece la seguridad económica y fomenta decisiones responsables que influyen positivamente en la vida adulta."
+  },
+  {
+    "intent_id": "bancos_ahorro_impacto_ambiental",
+    "keywords": [
+      "ahorro",
+      "banco",
+      "energia",
+      "sostenibilidad",
+      "reciclaje"
+    ],
+    "base_response": "Los bancos de ahorro personal pueden reducir su impacto ambiental usando energía renovable, promoviendo operaciones digitales y disminuyendo el uso de papel. Estas acciones ayudan a cuidar recursos naturales y fomentan hábitos financieros responsables que también protegen el entorno."
+  },
+  {
+    "intent_id": "bancos_ahorro_personal_mantenimiento_prevencion",
+    "keywords": [
+      "ahorro",
+      "cuenta",
+      "registro",
+      "revision",
+      "seguridad"
+    ],
+    "base_response": "Mantener un banco de ahorro personal exige revisar movimientos con frecuencia, asegurar contraseñas actualizadas y registrar cada depósito o retiro. Estas acciones previenen errores, protegen el dinero y fortalecen hábitos responsables que permiten controlar mejor los recursos disponibles."
+  },
+  {
+    "intent_id": "bancos_ahorro_proyecciones_tecnologia",
+    "keywords": [
+      "ahorro",
+      "banco",
+      "tecnologia",
+      "proyecciones",
+      "innovacion"
+    ],
+    "base_response": "Los bancos de ahorro personal evolucionarán mediante aplicaciones inteligentes que analizarán hábitos y sugerirán metas automáticas. La tecnología permitirá proyecciones precisas del crecimiento del ahorro, usando datos en tiempo real para mejorar decisiones y fomentar responsabilidad financiera desde edades tempranas."
+  },
+  {
+    "intent_id": "finanzas_intereses_creditos_definicion",
+    "keywords": [
+      "interes",
+      "credito",
+      "banco",
+      "prestamo",
+      "costo"
+    ],
+    "base_response": "El interés de un crédito bancario es el costo que se paga por usar dinero prestado. Se calcula aplicando un porcentaje sobre el monto solicitado y representa la ganancia del banco. Su estructura incluye tasa, periodo de cálculo y monto base del préstamo."
+  },
+  {
+    "intent_id": "intereses_creditos_bancarios_dinamica_funcionamiento",
+    "keywords": [
+      "interes",
+      "credito",
+      "banco",
+      "calculo",
+      "prestamo"
+    ],
+    "base_response": "Los intereses funcionan como el costo por usar dinero prestado. El banco entrega un monto y aplica un porcentaje que crece según tiempo y condiciones. Cada período suma un valor adicional, creando un proceso acumulativo que influye en el pago total del crédito solicitado."
+  },
+  {
+    "intent_id": "intereses_creditos_bancarios_errores_fallas_patologias",
+    "keywords": [
+      "interes",
+      "credito",
+      "calculo",
+      "confusion",
+      "endeudamiento"
+    ],
+    "base_response": "Muchos jóvenes cometen errores al no entender cómo crece el interés y terminan aceptando créditos costosos. Ignorar el cálculo real provoca confusión y favorece el endeudamiento excesivo. Reconocer estas fallas permite evitar decisiones impulsivas y comprender mejor las consecuencias financieras."
+  },
+  {
+    "intent_id": "intereses_creditos_historia",
+    "keywords": [
+      "interes",
+      "credito",
+      "historia",
+      "origen",
+      "evolucion"
+    ],
+    "base_response": "Los intereses surgieron cuando comerciantes antiguos prestaban recursos y exigían una ganancia por el riesgo asumido. Con el tiempo, las civilizaciones regularon estas prácticas. La banca moderna perfeccionó cálculos y normas, creando sistemas más seguros y transparentes para quienes solicitan créditos."
+  },
+  {
+    "intent_id": "intereses_creditos_bancarios_aplicaciones_practicas",
+    "keywords": [
+      "interes",
+      "credito",
+      "banco",
+      "calculo",
+      "pago"
+    ],
+    "base_response": "Los intereses de un crédito bancario muestran cuánto cuesta pedir dinero prestado. En la vida diaria ayudan a decidir si un préstamo conviene, calcular pagos mensuales y comparar opciones. Comprenderlos permite evitar deudas innecesarias y planificar compras importantes con responsabilidad."
+  },
+  {
+    "intent_id": "intereses_creditos_importancia_impacto_social",
+    "keywords": [
+      "interes",
+      "credito",
+      "impacto",
+      "sociedad",
+      "responsabilidad"
+    ],
+    "base_response": "Comprender los intereses de créditos permite evaluar cómo afectan el costo real del dinero y las decisiones familiares. Un uso responsable evita endeudamientos excesivos, protege el bienestar comunitario y fomenta prácticas financieras justas que fortalecen la estabilidad económica colectiva."
+  },
+  {
+    "intent_id": "intereses_creditos_bancarios_ventajas_desventajas",
+    "keywords": [
+      "interes",
+      "credito",
+      "costo",
+      "beneficio",
+      "prestamo"
+    ],
+    "base_response": "Los intereses permiten acceder a dinero inmediato, facilitando compras importantes y oportunidades. Sin embargo, aumentan el costo total del préstamo y exigen pagos constantes. Comprender estas ventajas y desventajas ayuda a decidir si un crédito realmente conviene según las metas financieras personales."
+  },
+  {
+    "intent_id": "intereses_creditos_riesgos_seguridad",
+    "keywords": [
+      "intereses",
+      "creditos",
+      "riesgos",
+      "fraudes",
+      "proteccion"
+    ],
+    "base_response": "Comprender los riesgos de los intereses en créditos permite evitar fraudes y decisiones dañinas. Verificar información, comparar opciones y proteger datos personales reduce costos inesperados. Analizar contratos y calcular pagos futuros fortalece la seguridad financiera y fomenta decisiones responsables."
+  },
+  {
+    "intent_id": "intereses_creditos_bancarios_clasificacion_taxonomica",
+    "keywords": [
+      "interes",
+      "credito",
+      "banco",
+      "calculo",
+      "prestamo"
+    ],
+    "base_response": "Los intereses de créditos bancarios pueden clasificarse según su forma de cálculo, distinguiendo entre interés simple e interés compuesto. Esta clasificación permite comprender cómo crece una deuda y cómo influye el tiempo en el costo total del préstamo solicitado."
+  },
+  {
+    "intent_id": "intereses_creditos_calculos",
+    "keywords": [
+      "interes",
+      "credito",
+      "formula",
+      "porcentaje",
+      "capital"
+    ],
+    "base_response": "El interés de un crédito se calcula multiplicando capital, tasa y tiempo. La fórmula básica es interés igual a capital por tasa por periodo. Comprender este cálculo permite estimar cuánto costará pedir dinero y cómo varía según la tasa aplicada."
+  },
+  {
+    "intent_id": "intereses_creditos_bancarios_mitos_concepciones_erroneas",
+    "keywords": [
+      "interes",
+      "credito",
+      "banco",
+      "mitos",
+      "costos"
+    ],
+    "base_response": "Muchos estudiantes creen que los intereses son castigos o cobros injustos. En realidad, representan el precio por usar dinero prestado. También existe la idea de que siempre aumentan sin control, pero dependen del tiempo, del monto y de acuerdos claros establecidos por el banco."
+  },
+  {
+    "intent_id": "intereses_creditos_simbiosis_sistemas",
+    "keywords": [
+      "interes",
+      "credito",
+      "banco",
+      "sistema",
+      "impacto"
+    ],
+    "base_response": "Los intereses de créditos bancarios interactúan con sistemas económicos, tecnológicos y sociales, influyendo decisiones de consumo, inversión y riesgo. Esta relación permite que bancos ajusten condiciones según cambios del mercado, afectando directamente la estabilidad financiera de familias y empresas."
+  },
+  {
+    "intent_id": "intereses_creditos_experimentos",
+    "keywords": [
+      "interes",
+      "credito",
+      "calculo",
+      "simulacion",
+      "prestamo"
+    ],
+    "base_response": "Realiza una simulación usando fichas que representen dinero prestado y fichas adicionales como interés. Pide a los estudiantes calcular cuánto aumenta la deuda cada ronda. Observan cómo pequeños porcentajes generan incrementos constantes y comprenden la importancia de evaluar costos antes de aceptar un crédito."
+  },
+  {
+    "intent_id": "intereses_creditos_consecuencias_largo_plazo",
+    "keywords": [
+      "interes",
+      "credito",
+      "plazo",
+      "deuda",
+      "impacto"
+    ],
+    "base_response": "Comprender los intereses permite anticipar cómo un crédito puede crecer con el tiempo. Un pago pequeño hoy puede transformarse en una deuda grande mañana si no se controla. Analizar estas consecuencias ayuda a tomar decisiones responsables y evitar compromisos financieros difíciles."
+  },
+  {
+    "intent_id": "intereses_creditos_impacto_ambiental",
+    "keywords": [
+      "credito",
+      "interes",
+      "consumo",
+      "energia",
+      "sostenibilidad"
+    ],
+    "base_response": "Los intereses de un crédito pueden aumentar el costo total de productos que requieren energía para producirse. Comprender este efecto ayuda a elegir opciones más sostenibles, reducir consumo innecesario y valorar cómo las decisiones financieras influyen en el impacto ambiental general."
+  },
+  {
+    "intent_id": "intereses_creditos_mantenimiento_prevencion",
+    "keywords": [
+      "interes",
+      "credito",
+      "calculo",
+      "pago",
+      "revision"
+    ],
+    "base_response": "Comprender los intereses permite mantener un crédito saludable mediante revisiones periódicas del costo total. Identificar aumentos inesperados y ajustar pagos evita problemas futuros. Aplicar hábitos de control financiero previene deudas excesivas y fortalece decisiones responsables sobre cualquier compromiso bancario."
+  },
+  {
+    "intent_id": "intereses_creditos_proyecciones_tecnologia",
+    "keywords": [
+      "interes",
+      "credito",
+      "proyeccion",
+      "tecnologia",
+      "simulacion"
+    ],
+    "base_response": "Comprender cómo la tecnología proyecta intereses futuros permite anticipar costos reales de un crédito. Herramientas digitales muestran escenarios posibles, calculan variaciones y ayudan a decidir con mayor claridad. Usarlas desarrolla pensamiento financiero crítico y mejora la planificación responsable."
+  },
+  {
+    "intent_id": "finanzas_gastos_fijos_definicion",
+    "keywords": [
+      "gasto",
+      "monto",
+      "periodicidad",
+      "compromiso",
+      "presupuesto"
+    ],
+    "base_response": "Los gastos fijos son pagos que mantienen un monto estable y se repiten con periodicidad definida. Representan compromisos esenciales dentro del presupuesto personal y permiten organizar mejor el uso del dinero al identificar costos constantes que no cambian mes a mes."
+  },
+  {
+    "intent_id": "finanzas_gastos_fijos_dinamica_funcionamiento_fisico",
+    "keywords": [
+      "gasto",
+      "servicio",
+      "consumo",
+      "pago",
+      "periodicidad"
+    ],
+    "base_response": "Los gastos fijos funcionan como compromisos que requieren pagos constantes para mantener servicios esenciales. Su dinámica depende del consumo regular y del funcionamiento físico de recursos como electricidad o agua, cuyo uso continuo genera costos que deben cubrirse mensualmente sin variación significativa."
+  },
+  {
+    "intent_id": "finanzas_gastos_fijos_errores",
+    "keywords": [
+      "gasto",
+      "control",
+      "presupuesto",
+      "desorden",
+      "exceso"
+    ],
+    "base_response": "Muchos jóvenes cometen errores al ignorar sus gastos fijos, generando desorden financiero. Confundir necesidades con deseos provoca exceso de pagos y falta de control. Reconocer estos fallos permite construir hábitos responsables y evitar problemas económicos futuros."
+  },
+  {
+    "intent_id": "finanzas_gastos_fijos_historia",
+    "keywords": [
+      "gasto",
+      "costo",
+      "presupuesto",
+      "origen",
+      "evolucion"
+    ],
+    "base_response": "Los gastos fijos surgieron cuando las familias y comercios comenzaron a planificar pagos constantes para organizar recursos. Con el tiempo evolucionaron hacia categorías claras que permiten controlar compromisos mensuales y mejorar decisiones financieras responsables en distintos contextos económicos."
+  },
+  {
+    "intent_id": "finanzas_gastos_fijos_contexto_ecologico",
+    "keywords": [
+      "gasto",
+      "hogar",
+      "energia",
+      "consumo",
+      "sostenibilidad"
+    ],
+    "base_response": "Los gastos fijos pueden relacionarse con el entorno ecológico cuando incluyen pagos constantes por servicios que dependen del uso responsable de recursos. Comprender cómo el consumo energético y de agua influye en el ambiente ayuda a tomar decisiones financieras más sostenibles."
+  },
+  {
+    "intent_id": "finanzas_gastos_fijos_aplicaciones_practicas",
+    "keywords": [
+      "gasto",
+      "presupuesto",
+      "control",
+      "registro",
+      "planificacion"
+    ],
+    "base_response": "Los gastos fijos permiten organizar mejor el dinero mensual. Identificarlos ayuda a prever pagos constantes como servicios, transporte o actividades. Al registrarlos, los estudiantes comprenden cómo planificar recursos, evitar sorpresas y mantener equilibrio financiero en situaciones cotidianas."
+  },
+  {
+    "intent_id": "finanzas_gastos_fijos_importancia_impacto_social",
+    "keywords": [
+      "gasto",
+      "presupuesto",
+      "control",
+      "estabilidad",
+      "responsabilidad"
+    ],
+    "base_response": "Comprender los gastos fijos permite organizar mejor el presupuesto familiar y fortalecer la estabilidad económica. Su manejo responsable influye en decisiones comunitarias, fomenta hábitos financieros saludables y contribuye al bienestar social al reducir riesgos de endeudamiento y promover una cultura de planificación consciente."
+  },
+  {
+    "intent_id": "finanzas_gastos_fijos_ventajas_desventajas",
+    "keywords": [
+      "gasto",
+      "presupuesto",
+      "control",
+      "estabilidad",
+      "planificacion"
+    ],
+    "base_response": "Los gastos fijos ofrecen estabilidad al permitir anticipar pagos mensuales y organizar mejor el presupuesto. Sin embargo, reducen flexibilidad porque deben cubrirse siempre, incluso cuando cambian los ingresos. Comprender ambos aspectos ayuda a tomar decisiones financieras responsables."
+  },
+  {
+    "intent_id": "finanzas_gastos_fijos_riesgos_medidas_seguridad",
+    "keywords": [
+      "gasto",
+      "control",
+      "registro",
+      "riesgo",
+      "planificacion"
+    ],
+    "base_response": "Los gastos fijos pueden generar riesgos si no se controlan adecuadamente. Mantener un registro claro permite anticipar problemas y evitar compromisos que afecten la estabilidad financiera. Analizar cada gasto y planificar pagos reduce errores, retrasos y decisiones impulsivas que comprometan el presupuesto."
+  },
+  {
+    "intent_id": "finanzas_gastos_fijos_clasificacion_taxonomica",
+    "keywords": [
+      "gasto",
+      "presupuesto",
+      "control",
+      "categoria",
+      "registro"
+    ],
+    "base_response": "Los gastos fijos pueden clasificarse según su función, frecuencia y propósito dentro del presupuesto familiar. Esta taxonomía permite identificar patrones de consumo, organizar pagos recurrentes y fortalecer el control financiero. Comprender estas categorías facilita decisiones responsables y sostenibles."
+  },
+  {
+    "intent_id": "finanzas_gastos_fijos_calculos",
+    "keywords": [
+      "gasto",
+      "monto",
+      "registro",
+      "calculo",
+      "presupuesto"
+    ],
+    "base_response": "Los gastos fijos se determinan sumando pagos repetitivos mensuales como renta, servicios y transporte. Para calcularlos, identifica cada monto, verifica su frecuencia y aplica la fórmula total mensual igual a la suma de todos los valores constantes registrados en tu presupuesto."
+  },
+  {
+    "intent_id": "finanzas_gastos_fijos_mitos",
+    "keywords": [
+      "gasto",
+      "mito",
+      "control",
+      "presupuesto",
+      "confusion"
+    ],
+    "base_response": "Muchos creen que los gastos fijos nunca cambian y que siempre deben pagarse sin revisión. Esta idea es errónea, porque algunos pueden ajustarse, renegociarse o eliminarse. Comprender su verdadera naturaleza permite tomar decisiones financieras más inteligentes y responsables."
+  },
+  {
+    "intent_id": "finanzas_gastos_fijos_relacion_simbiotica",
+    "keywords": [
+      "gasto",
+      "sistema",
+      "interaccion",
+      "control",
+      "estabilidad"
+    ],
+    "base_response": "Los gastos fijos funcionan en conjunto con otros sistemas económicos, porque influyen en decisiones familiares, hábitos de consumo y planificación escolar. Comprender su interacción permite anticipar cambios, mantener estabilidad y coordinar recursos para lograr metas financieras sostenibles."
+  },
+  {
+    "intent_id": "finanzas_gastos_fijos_transformacion_ciclos_energeticos",
+    "keywords": [
+      "gasto",
+      "energia",
+      "ciclo",
+      "flujo",
+      "control"
+    ],
+    "base_response": "Los gastos fijos funcionan como ciclos energéticos financieros que requieren atención constante. Cada pago mantiene el flujo estable y permite transformar recursos en bienestar. Comprender estos ciclos ayuda a controlar la energía económica y sostener decisiones responsables dentro del presupuesto familiar."
+  },
+  {
+    "intent_id": "finanzas_gastos_fijos_experimentos",
+    "keywords": [
+      "gasto",
+      "presupuesto",
+      "registro",
+      "comparacion",
+      "analisis"
+    ],
+    "base_response": "Propón que los estudiantes simulen un mes de vida usando tarjetas con gastos fijos y variables. Deben registrar cada pago, comparar montos y analizar cómo los gastos fijos afectan el presupuesto. Esto permite visualizar compromisos financieros constantes de manera práctica."
+  },
+  {
+    "intent_id": "finanzas_gastos_fijos_consecuencias_largo_plazo",
+    "keywords": [
+      "gasto",
+      "presupuesto",
+      "compromiso",
+      "planificacion",
+      "estabilidad"
+    ],
+    "base_response": "Comprender los gastos fijos permite anticipar cómo afectan el presupuesto con el tiempo. Mantener compromisos constantes sin control puede limitar oportunidades futuras. Evaluar cada gasto fijo ayuda a construir estabilidad financiera y evitar presiones económicas prolongadas."
+  },
+  {
+    "intent_id": "gastos_fijos_impacto_ambiental",
+    "keywords": [
+      "gasto",
+      "energia",
+      "consumo",
+      "sostenibilidad",
+      "impacto"
+    ],
+    "base_response": "Los gastos fijos pueden influir en el ambiente cuando implican consumo constante de energía o recursos. Comprender su efecto permite elegir opciones más sostenibles, reducir emisiones y adoptar hábitos responsables que disminuyan el impacto ecológico sin afectar la organización financiera personal."
+  },
+  {
+    "intent_id": "gastos_fijos_mantenimiento_prevencion",
+    "keywords": [
+      "mantenimiento",
+      "prevencion",
+      "costos",
+      "servicios",
+      "planificacion"
+    ],
+    "base_response": "Los gastos fijos incluyen acciones de mantenimiento y prevención que evitan fallas costosas. Revisar servicios básicos, cuidar instalaciones y programar controles periódicos ayuda a mantener estabilidad financiera. Estas prácticas reducen riesgos y permiten organizar mejor el presupuesto mensual."
+  },
+  {
+    "intent_id": "gastos_fijos_proyecciones_tecnologia",
+    "keywords": [
+      "gasto",
+      "presupuesto",
+      "proyeccion",
+      "tecnologia",
+      "control"
+    ],
+    "base_response": "Los gastos fijos pueden anticiparse mediante herramientas tecnológicas que permiten proyectar pagos futuros y ajustar decisiones. Comprender estas proyecciones ayuda a planificar mejor, evitar sorpresas y mantener estabilidad financiera usando aplicaciones que registran patrones y generan alertas inteligentes."
+  },
+  {
+    "intent_id": "finanzas_gastos_variables_definicion",
+    "keywords": [
+      "gasto",
+      "variacion",
+      "presupuesto",
+      "consumo",
+      "control"
+    ],
+    "base_response": "Los gastos variables son desembolsos que cambian según decisiones y hábitos. Incluyen compras no fijas que pueden aumentar o disminuir cada mes. Comprender su estructura permite identificar patrones, ajustar elecciones y mantener equilibrio financiero dentro del presupuesto personal."
+  },
+  {
+    "intent_id": "gastos_variables_dinamica_funcionamiento_fisico",
+    "keywords": [
+      "gasto",
+      "variacion",
+      "consumo",
+      "actividad",
+      "costo"
+    ],
+    "base_response": "Los gastos variables cambian según la actividad diaria. Aumentan cuando se usa más energía, agua o transporte, y disminuyen cuando se reduce su consumo. Funcionan como elementos dinámicos del presupuesto que responden al comportamiento físico y las acciones cotidianas del hogar."
+  },
+  {
+    "intent_id": "economia_gastos_variables_errores",
+    "keywords": [
+      "gasto",
+      "presupuesto",
+      "exceso",
+      "impulso",
+      "descontrol"
+    ],
+    "base_response": "Los gastos variables suelen generar errores cuando se compran cosas por impulso, se pierde control del presupuesto o se confunde necesidad con deseo. Estas fallas provocan excesos frecuentes que afectan metas financieras y dificultan mantener hábitos responsables."
+  },
+  {
+    "intent_id": "economia_gastos_variables_historia",
+    "keywords": [
+      "presupuesto",
+      "gasto",
+      "variacion",
+      "consumo",
+      "registro"
+    ],
+    "base_response": "Los gastos variables surgieron cuando las familias comenzaron a registrar sus compras cotidianas para controlar su presupuesto. Con el tiempo evolucionaron al incluir patrones de consumo más complejos, permitiendo ajustar decisiones financieras según necesidades cambiantes y hábitos de compra."
+  },
+  {
+    "intent_id": "gastos_variables_contexto_ecologico",
+    "keywords": [
+      "gasto",
+      "variacion",
+      "consumo",
+      "impacto",
+      "sostenibilidad"
+    ],
+    "base_response": "Los gastos variables pueden cambiar según decisiones que afectan el entorno ecológico. Elegir productos con menor impacto ambiental reduce costos y promueve hábitos responsables. Analizar opciones sostenibles permite ajustar el presupuesto mientras se protege el entorno natural de manera consciente."
+  },
+  {
+    "intent_id": "economia_gastos_variables_aplicaciones",
+    "keywords": [
+      "gastos",
+      "variables",
+      "presupuesto",
+      "control",
+      "planeacion"
+    ],
+    "base_response": "Los gastos variables cambian cada mes y requieren atención constante. Identificarlos permite ajustar decisiones diarias como transporte, comida o entretenimiento. Practicar su registro ayuda a evitar sorpresas y mantener equilibrio financiero, fortaleciendo hábitos responsables desde edades tempranas."
+  },
+  {
+    "intent_id": "gastos_variables_importancia_impacto_social",
+    "keywords": [
+      "gasto",
+      "presupuesto",
+      "variacion",
+      "consumo",
+      "responsabilidad"
+    ],
+    "base_response": "Los gastos variables influyen en cómo una comunidad distribuye recursos y enfrenta necesidades cambiantes. Comprenderlos fomenta decisiones responsables que reducen desperdicios, apoyan comercios locales y fortalecen la estabilidad colectiva. Un manejo adecuado impulsa bienestar social y promueve hábitos financieros conscientes."
+  },
+  {
+    "intent_id": "economia_gastos_variables_ventajas_desventajas",
+    "keywords": [
+      "gasto",
+      "presupuesto",
+      "control",
+      "variacion",
+      "decision"
+    ],
+    "base_response": "Los gastos variables permiten ajustar el presupuesto según necesidades reales, ofreciendo flexibilidad útil. Sin embargo, pueden generar desorden si no se controlan con disciplina. Comprender sus ventajas y desventajas ayuda a tomar decisiones responsables y mantener estabilidad financiera constante."
+  },
+  {
+    "intent_id": "gastos_variables_riesgos_medidas_seguridad",
+    "keywords": [
+      "gasto",
+      "control",
+      "registro",
+      "riesgo",
+      "prevencion"
+    ],
+    "base_response": "Los gastos variables pueden aumentar sin control si no se registran con cuidado. Identificar riesgos como compras impulsivas permite aplicar medidas de seguridad, revisar hábitos y establecer límites claros. Mantener un seguimiento constante ayuda a proteger el presupuesto y evitar desequilibrios financieros."
+  },
+  {
+    "intent_id": "economia_gastos_variables_clasificacion_taxonomica",
+    "keywords": [
+      "gasto",
+      "variacion",
+      "presupuesto",
+      "registro",
+      "control"
+    ],
+    "base_response": "Los gastos variables pueden clasificarse según su frecuencia, importancia y relación con necesidades cotidianas. Esta taxonomía permite identificar patrones, anticipar cambios y ajustar decisiones financieras. Comprender estas categorías facilita organizar el presupuesto y mejorar el control del dinero disponible."
+  },
+  {
+    "intent_id": "economia_gastos_variables_calculos",
+    "keywords": [
+      "gasto",
+      "variable",
+      "presupuesto",
+      "calculo",
+      "registro"
+    ],
+    "base_response": "Los gastos variables se calculan sumando cada desembolso que cambia mes a mes. Para obtener el total, identifica cada gasto, registra su valor y aplica la fórmula: gasto variable total = suma de todos los montos variables. Esto permite ajustar decisiones financieras con precisión."
+  },
+  {
+    "intent_id": "economia_gastos_variables_mitos",
+    "keywords": [
+      "gasto",
+      "variable",
+      "mito",
+      "presupuesto",
+      "control"
+    ],
+    "base_response": "Muchos creen que los gastos variables son siempre impredecibles, pero pueden anticiparse con hábitos claros. También se piensa que no afectan el presupuesto, cuando en realidad pueden desequilibrarlo si no se registran. Comprenderlos permite tomar decisiones responsables y evitar sorpresas."
+  },
+  {
+    "intent_id": "gastos_variables_relacion_simbiotica",
+    "keywords": [
+      "gasto",
+      "variacion",
+      "sistema",
+      "interaccion",
+      "impacto"
+    ],
+    "base_response": "Los gastos variables influyen en otros sistemas del hogar porque modifican el flujo de recursos y ajustan decisiones. Cuando aumentan, presionan el ahorro y el consumo; cuando disminuyen, liberan capacidad para metas financieras. Esta relación crea efectos compartidos y dependencias constantes."
+  },
+  {
+    "intent_id": "gastos_variables_transformacion_ciclos_energeticos",
+    "keywords": [
+      "gasto",
+      "variacion",
+      "energia",
+      "ciclo",
+      "flujo"
+    ],
+    "base_response": "Los gastos variables funcionan como ciclos energéticos porque cambian según decisiones y hábitos. Cada elección transforma el flujo del presupuesto, aumentando o reduciendo la energía financiera disponible. Comprender estos ciclos permite ajustar comportamientos y mantener equilibrio económico constante."
+  },
+  {
+    "intent_id": "finanzas_gastos_variables_experimentos",
+    "keywords": [
+      "gasto",
+      "presupuesto",
+      "registro",
+      "variacion",
+      "analisis"
+    ],
+    "base_response": "Organiza un experimento donde los estudiantes registren gastos diarios reales y simulen cambios en precios o frecuencia de consumo. Comparan cómo estas variaciones afectan el presupuesto semanal, identifican patrones y discuten decisiones para ajustar hábitos, fortaleciendo comprensión práctica de los gastos variables."
+  },
+  {
+    "intent_id": "finanzas_gastos_variables_consecuencias_largo_plazo",
+    "keywords": [
+      "gasto",
+      "presupuesto",
+      "control",
+      "impacto",
+      "futuro"
+    ],
+    "base_response": "Comprender los gastos variables permite anticipar efectos futuros en el presupuesto. Si aumentan sin control, reducen ahorro, limitan metas y generan estrés financiero. Mantenerlos vigilados favorece decisiones responsables que fortalecen estabilidad económica y oportunidades a largo plazo."
+  },
+  {
+    "intent_id": "gastos_variables_impacto_ambiental",
+    "keywords": [
+      "gasto",
+      "consumo",
+      "energia",
+      "residuo",
+      "sostenibilidad"
+    ],
+    "base_response": "Los gastos variables pueden influir en el ambiente cuando aumentan el consumo de energía y generan más residuos. Comprender estos efectos permite elegir opciones sostenibles, reducir impactos negativos y ajustar decisiones cotidianas para proteger recursos naturales sin afectar el presupuesto personal."
+  },
+  {
+    "intent_id": "gastos_variables_mantenimiento_prevencion",
+    "keywords": [
+      "mantenimiento",
+      "prevencion",
+      "gasto",
+      "control",
+      "planificacion"
+    ],
+    "base_response": "Los gastos variables incluyen costos que cambian según el uso o cuidado de objetos. El mantenimiento y la prevención ayudan a evitar reparaciones costosas. Revisar periódicamente tus pertenencias y atender señales de desgaste permite controlar el presupuesto y reducir riesgos financieros futuros."
+  },
+  {
+    "intent_id": "gastos_variables_proyecciones_tecnologia",
+    "keywords": [
+      "gastos",
+      "variables",
+      "proyecciones",
+      "tecnologia",
+      "presupuesto"
+    ],
+    "base_response": "Los gastos variables pueden anticiparse usando aplicaciones que analizan hábitos y proyectan escenarios futuros. Estas herramientas permiten estimar cambios en precios, consumo y necesidades, ayudando a ajustar el presupuesto con decisiones informadas y mayor control financiero."
+  },
+  {
+    "intent_id": "gastos_hormiga_definicion_anatomica",
+    "keywords": [
+      "gasto",
+      "habito",
+      "consumo",
+      "patron",
+      "repeticion"
+    ],
+    "base_response": "Los gastos hormiga poseen una estructura basada en compras pequeñas y frecuentes que parecen insignificantes. Surgen de hábitos automáticos que se repiten sin análisis y generan acumulación de costos. Funcionan como patrones de consumo que pasan desapercibidos pero afectan el presupuesto personal."
+  },
+  {
+    "intent_id": "gastos_hormiga_dinamica_funcionamiento_fisico",
+    "keywords": [
+      "gasto",
+      "habito",
+      "consumo",
+      "patron",
+      "accion"
+    ],
+    "base_response": "Los gastos hormiga funcionan como pequeñas acciones repetidas que generan un patrón físico de consumo constante. Cada compra impulsa un hábito automático que se acumula con el tiempo. Comprender este mecanismo permite identificar cómo múltiples decisiones mínimas afectan el presupuesto general."
+  },
+  {
+    "intent_id": "gastos_hormiga_errores_fallas_patologias",
+    "keywords": [
+      "gasto",
+      "hormiga",
+      "consumo",
+      "impulso",
+      "descontrol"
+    ],
+    "base_response": "Los gastos hormiga suelen surgir por compras impulsivas y falta de control cotidiano. Generan errores como ignorar su impacto real, repetir hábitos sin reflexión y desarrollar patrones que afectan la estabilidad financiera. Identificarlos permite corregir conductas y fortalecer decisiones responsables."
+  },
+  {
+    "intent_id": "gastos_hormiga_historia_origen_evolucion",
+    "keywords": [
+      "consumo",
+      "habito",
+      "costumbre",
+      "compra",
+      "patron"
+    ],
+    "base_response": "Los gastos hormiga surgieron cuando el consumo cotidiano comenzó a fragmentarse en pequeñas compras frecuentes. Con el tiempo, estos hábitos evolucionaron por la facilidad de acceso a productos y servicios, volviéndose más comunes y difíciles de detectar dentro del presupuesto personal."
+  },
+  {
+    "intent_id": "gastos_hormiga_contexto_ecologico",
+    "keywords": [
+      "consumo",
+      "habito",
+      "impacto",
+      "residuo",
+      "sostenibilidad"
+    ],
+    "base_response": "Los gastos hormiga generan compras frecuentes que producen residuos y uso innecesario de recursos. Comprender su impacto ecológico permite elegir alternativas sostenibles, reducir desperdicios y fomentar hábitos responsables que protejan el entorno. Analizar estas decisiones fortalece la conciencia ambiental juvenil."
+  },
+  {
+    "intent_id": "gastos_hormiga_aplicaciones_practicas",
+    "keywords": [
+      "gasto",
+      "hábito",
+      "consumo",
+      "registro",
+      "control"
+    ],
+    "base_response": "Identifica pequeños gastos diarios y registra su frecuencia para evaluar su impacto mensual. Analiza patrones de consumo y establece límites claros para reducir compras impulsivas. Aplica estrategias sencillas como comparar precios, planificar compras y priorizar necesidades para mejorar tu manejo financiero."
+  },
+  {
+    "intent_id": "gastos_hormiga_importancia_impacto_social",
+    "keywords": [
+      "consumo",
+      "habito",
+      "impacto",
+      "sociedad",
+      "control"
+    ],
+    "base_response": "Los gastos hormiga afectan la economía personal y también influyen en hábitos colectivos de consumo. Cuando muchas personas realizan compras pequeñas sin planear, se generan patrones que impulsan desperdicio, presión financiera y menor capacidad de ahorro comunitario, afectando el bienestar social general."
+  },
+  {
+    "intent_id": "economia_gastos_hormiga_ventajas_desventajas",
+    "keywords": [
+      "gasto",
+      "hormiga",
+      "consumo",
+      "control",
+      "analisis"
+    ],
+    "base_response": "Comprender los gastos hormiga permite identificar compras pequeñas que afectan el presupuesto. La ventaja es reconocer hábitos y mejorar decisiones. La desventaja surge cuando se ignoran y generan pérdidas constantes que complican el ahorro y reducen la capacidad de planear metas financieras."
+  },
+  {
+    "intent_id": "gastos_hormiga_riesgos_medidas_seguridad",
+    "keywords": [
+      "gasto",
+      "hormiga",
+      "riesgo",
+      "control",
+      "registro"
+    ],
+    "base_response": "Los gastos hormiga pueden acumularse y afectar tu presupuesto sin que lo notes. Identificar estos consumos frecuentes permite reducir riesgos financieros. Mantén un registro claro, establece límites y revisa tus hábitos para proteger tu dinero y tomar decisiones responsables."
+  },
+  {
+    "intent_id": "gastos_hormiga_consumo_clasificacion_taxonomica",
+    "keywords": [
+      "gasto",
+      "hormiga",
+      "consumo",
+      "clasificacion",
+      "patron"
+    ],
+    "base_response": "Los gastos hormiga pueden clasificarse según su frecuencia, monto y tipo de producto adquirido. Esta taxonomía permite identificar patrones de consumo repetitivo que afectan el presupuesto personal. Comprender estas categorías ayuda a reconocer hábitos cotidianos que generan pérdidas económicas acumuladas."
+  },
+  {
+    "intent_id": "gastos_hormiga_calculos",
+    "keywords": [
+      "gasto",
+      "hormiga",
+      "consumo",
+      "calculo",
+      "ahorro"
+    ],
+    "base_response": "Los gastos hormiga pueden estimarse sumando compras pequeñas repetidas. Multiplica el costo promedio por la frecuencia semanal y luego por cuatro para obtener el gasto mensual. Comparar este resultado con un objetivo de ahorro permite visualizar el impacto real del consumo cotidiano."
+  },
+  {
+    "intent_id": "gastos_hormiga_mitos_concepciones_erroneas",
+    "keywords": [
+      "gasto",
+      "hormiga",
+      "mito",
+      "creencia",
+      "consumo"
+    ],
+    "base_response": "Muchos creen que los gastos hormiga no afectan su economía porque parecen pequeños, pero esa idea es falsa. Estos gastos se acumulan cada día y pueden reducir el ahorro sin que se note. Comprender su impacto ayuda a tomar decisiones más conscientes."
+  },
+  {
+    "intent_id": "gastos_hormiga_relacion_simbiotica",
+    "keywords": [
+      "gasto",
+      "habito",
+      "consumo",
+      "sistema",
+      "impacto"
+    ],
+    "base_response": "Los gastos hormiga interactúan con sistemas económicos mayores, influyendo patrones de consumo y decisiones colectivas. Comprender esta relación permite identificar cómo pequeños hábitos afectan mercados, recursos y dinámicas sociales, promoviendo responsabilidad financiera y conciencia sobre efectos acumulados en el entorno cotidiano."
+  },
+  {
+    "intent_id": "gastos_hormiga_transformacion_ciclos_energeticos",
+    "keywords": [
+      "gasto",
+      "energia",
+      "habito",
+      "consumo",
+      "ciclo"
+    ],
+    "base_response": "Los gastos hormiga pueden entenderse como pequeños ciclos de energía que se repiten al consumir sin pensar. Cada compra activa un flujo que transforma recursos en satisfacción breve. Reconocer estos ciclos permite ajustar hábitos y dirigir la energía hacia decisiones financieras más conscientes."
+  },
+  {
+    "intent_id": "gastos_hormiga_experimentos_demostraciones",
+    "keywords": [
+      "registro",
+      "consumo",
+      "habito",
+      "comparacion",
+      "analisis"
+    ],
+    "base_response": "Los estudiantes registran pequeños consumos diarios durante una semana y comparan su impacto acumulado. Analizan patrones, identifican hábitos repetitivos y calculan el costo mensual proyectado. Reflexionan sobre alternativas más económicas y comprenden cómo decisiones mínimas generan efectos financieros significativos."
+  },
+  {
+    "intent_id": "gastos_hormiga_consecuencias_largo_plazo",
+    "keywords": [
+      "gasto",
+      "habito",
+      "consumo",
+      "acumulacion",
+      "impacto"
+    ],
+    "base_response": "Los gastos hormiga parecen pequeños, pero acumulados durante años reducen ahorro, limitan metas importantes y generan hábitos poco responsables. Comprender su efecto permite tomar decisiones conscientes, evitar pérdidas innecesarias y construir estabilidad financiera sostenible para el futuro personal."
+  },
+  {
+    "intent_id": "gastos_hormiga_impacto_ambiental",
+    "keywords": [
+      "consumo",
+      "residuo",
+      "plastico",
+      "contaminacion",
+      "desperdicio"
+    ],
+    "base_response": "Los gastos hormiga generan compras frecuentes que producen residuos y uso excesivo de plásticos. Estos hábitos incrementan la contaminación y el desperdicio de recursos naturales. Comprender su impacto ambiental ayuda a tomar decisiones más responsables y reducir daños al entorno."
+  },
+  {
+    "intent_id": "gastos_hormiga_mantenimiento_prevencion",
+    "keywords": [
+      "gasto",
+      "habito",
+      "control",
+      "registro",
+      "prevencion"
+    ],
+    "base_response": "Identificar gastos hormiga permite mantener finanzas saludables mediante control constante. Registrar compras pequeñas ayuda a prevenir acumulaciones innecesarias. Analizar hábitos diarios fortalece decisiones responsables y evita pérdidas silenciosas que afectan metas económicas importantes."
+  },
+  {
+    "intent_id": "gastos_hormiga_proyecciones_tecnologia",
+    "keywords": [
+      "gasto",
+      "hormiga",
+      "tecnologia",
+      "proyeccion",
+      "consumo"
+    ],
+    "base_response": "Comprender los gastos hormiga permite anticipar cómo la tecnología influirá en decisiones futuras. Herramientas digitales mostrarán patrones de consumo y proyectarán impactos económicos personales, ayudando a reducir compras impulsivas y fortalecer hábitos financieros responsables desde edades tempranas."
+  },
+  {
+    "intent_id": "ingresos_pasivos_inversiones_definicion",
+    "keywords": [
+      "ingresos",
+      "pasivos",
+      "inversiones",
+      "rentabilidad",
+      "capital"
+    ],
+    "base_response": "Los ingresos pasivos de inversiones son ganancias que surgen cuando el dinero trabaja por sí mismo. Se generan mediante activos que producen valor continuo sin requerir esfuerzo diario. Su estructura incluye capital inicial, mecanismo de inversión y flujo automático de beneficios."
+  },
+  {
+    "intent_id": "ingresos_pasivos_inversiones_dinamica_funcionamiento",
+    "keywords": [
+      "ingresos",
+      "pasivos",
+      "inversiones",
+      "rendimiento",
+      "crecimiento"
+    ],
+    "base_response": "Los ingresos pasivos funcionan cuando una inversión produce ganancias sin intervención constante. El dinero invertido se mueve dentro de un sistema que genera valor, como intereses o dividendos. La dinámica depende del tiempo, del riesgo y del comportamiento del mercado financiero."
+  },
+  {
+    "intent_id": "ingresos_pasivos_inversiones_errores",
+    "keywords": [
+      "inversion",
+      "riesgo",
+      "impulso",
+      "confusion",
+      "expectativa"
+    ],
+    "base_response": "Muchos jóvenes cometen errores al creer que los ingresos pasivos llegan sin esfuerzo. Ignoran riesgos, siguen impulsos sin analizar y confunden promesas irreales con resultados seguros. Es vital revisar información, entender procesos y evitar expectativas exageradas que generan frustración y pérdidas."
+  },
+  {
+    "intent_id": "ingresos_pasivos_inversiones_historia",
+    "keywords": [
+      "ingresos",
+      "pasivos",
+      "inversiones",
+      "historia",
+      "origen"
+    ],
+    "base_response": "Los ingresos pasivos surgieron cuando las primeras civilizaciones comenzaron a prestar recursos a cambio de beneficios futuros. Con el tiempo, evolucionaron mediante intereses, acciones y bienes rentables, permitiendo obtener ganancias sin trabajo directo continuo."
+  },
+  {
+    "intent_id": "ingresos_pasivos_inversiones_contexto_ecologico",
+    "keywords": [
+      "inversiones",
+      "ingresos",
+      "ecosistema",
+      "sostenibilidad",
+      "impacto"
+    ],
+    "base_response": "Los ingresos pasivos de inversiones dependen del entorno ecológico porque las empresas deben operar sin dañar recursos naturales. Un ecosistema sano favorece actividades productivas estables, reduce riesgos financieros y permite que las inversiones generen beneficios constantes sin afectar la biodiversidad."
+  },
+  {
+    "intent_id": "ingresos_pasivos_inversiones_aplicaciones_practicas",
+    "keywords": [
+      "ingresos",
+      "pasivos",
+      "inversiones",
+      "rentabilidad",
+      "ahorro"
+    ],
+    "base_response": "Los ingresos pasivos permiten obtener dinero sin trabajar constantemente. En la vida real surgen al invertir en negocios, bienes raíces o instrumentos financieros que generan ganancias periódicas. Comprender estas opciones ayuda a planear metas, fortalecer hábitos responsables y construir estabilidad económica futura."
+  },
+  {
+    "intent_id": "ingresos_pasivos_inversiones_importancia_impacto_social",
+    "keywords": [
+      "ingresos",
+      "pasivos",
+      "inversiones",
+      "impacto",
+      "sociedad"
+    ],
+    "base_response": "Comprender los ingresos pasivos permite visualizar cómo las inversiones fortalecen la estabilidad económica colectiva. Su uso responsable impulsa oportunidades, reduce desigualdad y fomenta comunidades más resilientes. Promueve hábitos financieros que ayudan a las personas a planificar mejor su futuro y apoyar el desarrollo social."
+  },
+  {
+    "intent_id": "ingresos_pasivos_inversiones_ventajas_desventajas",
+    "keywords": [
+      "ingresos",
+      "pasivos",
+      "inversiones",
+      "riesgos",
+      "ganancias"
+    ],
+    "base_response": "Los ingresos pasivos de inversiones permiten obtener ganancias sin trabajo constante, ofreciendo crecimiento y estabilidad. Sin embargo, implican riesgos como pérdidas por cambios del mercado y requieren paciencia. Comparar opciones ayuda a elegir estrategias adecuadas según objetivos personales."
+  },
+  {
+    "intent_id": "ingresos_pasivos_inversiones_riesgos_medidas_seguridad",
+    "keywords": [
+      "inversiones",
+      "riesgos",
+      "fraudes",
+      "proteccion",
+      "verificacion"
+    ],
+    "base_response": "Comprender los riesgos permite decidir con mayor seguridad. Analizar cada inversión, verificar su origen y evitar promesas irreales reduce pérdidas. Diversificar opciones y revisar periódicamente resultados fortalece la protección del dinero. Actuar con calma y criterio previene errores costosos."
+  },
+  {
+    "intent_id": "ingresos_pasivos_inversiones_clasificacion_taxonomica",
+    "keywords": [
+      "ingresos",
+      "pasivos",
+      "inversiones",
+      "rentabilidad",
+      "crecimiento"
+    ],
+    "base_response": "La clasificación taxonómica organiza los ingresos pasivos según su origen, mecanismo y nivel de riesgo. Permite distinguir inversiones financieras, bienes productivos y activos digitales, facilitando comprender cómo generan dinero de manera automática y cómo se relacionan entre sí dentro del sistema económico."
+  },
+  {
+    "intent_id": "ingresos_pasivos_inversiones_mitos_concepciones_erroneas",
+    "keywords": [
+      "ingresos",
+      "pasivos",
+      "inversiones",
+      "mitos",
+      "creencias"
+    ],
+    "base_response": "Muchos creen que los ingresos pasivos llegan sin esfuerzo, pero requieren planificación y seguimiento. También existe la idea de que siempre generan ganancias rápidas, cuando en realidad pueden tardar y tener riesgos. Comprender estas realidades ayuda a tomar decisiones financieras responsables."
+  },
+  {
+    "intent_id": "ingresos_pasivos_inversiones_relacion_simbiotica",
+    "keywords": [
+      "ingresos",
+      "pasivos",
+      "inversiones",
+      "sistemas",
+      "interaccion"
+    ],
+    "base_response": "Los ingresos pasivos dependen de sistemas que colaboran entre sí, como mercados financieros, empresas y tecnología. Cuando estos sistemas funcionan en armonía, las inversiones generan beneficios constantes. Comprender esta interacción ayuda a tomar decisiones más seguras y aprovechar oportunidades sostenibles."
+  },
+  {
+    "intent_id": "ingresos_pasivos_transformacion_ciclos_energeticos",
+    "keywords": [
+      "ingresos",
+      "pasivos",
+      "inversiones",
+      "ciclos",
+      "energia"
+    ],
+    "base_response": "Los ingresos pasivos funcionan como ciclos energéticos que transforman pequeños recursos en flujos constantes de valor. Cada inversión inicia un movimiento que crece, se renueva y vuelve a generar beneficios, mostrando cómo la energía financiera circula y se multiplica con disciplina y visión."
+  },
+  {
+    "intent_id": "ingresos_pasivos_inversiones_experimentos",
+    "keywords": [
+      "ingresos",
+      "pasivos",
+      "inversiones",
+      "simulacion",
+      "rendimiento"
+    ],
+    "base_response": "Realizar una simulación escolar usando fichas que representen inversiones permite observar cómo crecen los ingresos pasivos con el tiempo. Cada ronda muestra rendimientos acumulados y ayuda a comprender cómo pequeñas decisiones generan beneficios constantes sin trabajo directo continuo."
+  },
+  {
+    "intent_id": "ingresos_pasivos_inversiones_consecuencias_largo_plazo",
+    "keywords": [
+      "inversiones",
+      "ingresos",
+      "crecimiento",
+      "disciplina",
+      "planeacion"
+    ],
+    "base_response": "Comprender las consecuencias a largo plazo de los ingresos pasivos permite visualizar cómo la disciplina y la planeación generan crecimiento financiero sostenido. Invertir temprano facilita acumular recursos, enfrentar imprevistos y construir estabilidad futura mediante decisiones responsables y constantes."
+  },
+  {
+    "intent_id": "ingresos_pasivos_inversiones_impacto_ambiental",
+    "keywords": [
+      "inversiones",
+      "ingresos",
+      "sostenibilidad",
+      "energia",
+      "recursos"
+    ],
+    "base_response": "Los ingresos pasivos pueden surgir de inversiones que apoyan proyectos con impacto ambiental positivo. Elegir empresas que promuevan energías limpias y uso responsable de recursos permite ganar dinero mientras se impulsa un entorno más saludable y sostenible para las comunidades."
+  },
+  {
+    "intent_id": "ingresos_pasivos_inversiones_mantenimiento_prevencion",
+    "keywords": [
+      "inversion",
+      "ingreso",
+      "riesgo",
+      "monitoreo",
+      "rentabilidad"
+    ],
+    "base_response": "Mantener ingresos pasivos requiere revisar periódicamente el desempeño de las inversiones, identificar riesgos y ajustar estrategias para evitar pérdidas. Prevenir problemas implica diversificar, analizar cambios del mercado y asegurar que cada decisión mantenga estabilidad y crecimiento sostenido del capital."
+  },
+  {
+    "intent_id": "ingresos_pasivos_inversiones_proyecciones_tecnologia",
+    "keywords": [
+      "ingresos",
+      "pasivos",
+      "inversiones",
+      "proyecciones",
+      "tecnologia"
+    ],
+    "base_response": "Los ingresos pasivos crecerán gracias a tecnologías que automatizan inversiones y analizan datos futuros. Plataformas digitales permitirán proyectar rendimientos con mayor precisión y ajustar decisiones en tiempo real, facilitando que los jóvenes comprendan cómo la innovación influye en generar ganancias sostenidas."
+  },
+  {
+    "intent_id": "educacion_financiera_individuo_definicion_estructural",
+    "keywords": [
+      "finanzas",
+      "individuo",
+      "estructura",
+      "gestion",
+      "recursos"
+    ],
+    "base_response": "La educación financiera del individuo se entiende como un conjunto organizado de habilidades y conocimientos que permiten analizar ingresos, gastos y metas. Su estructura integra comprensión del valor del dinero, toma de decisiones responsables y planificación para sostener bienestar económico personal."
+  },
+  {
+    "intent_id": "educacion_financiera_individuo_dinamica_funcionamiento",
+    "keywords": [
+      "dinamica",
+      "funcionamiento",
+      "flujo",
+      "recursos",
+      "gestion"
+    ],
+    "base_response": "La dinámica financiera del individuo funciona mediante el flujo constante de recursos que ingresan y salen. Comprender cómo se mueve el dinero permite tomar decisiones informadas, organizar gastos, anticipar necesidades y mantener estabilidad económica personal a lo largo del tiempo."
+  },
+  {
+    "intent_id": "educacion_financiera_individuo_errores_fallas_patologias",
+    "keywords": [
+      "malgasto",
+      "impulso",
+      "endeudamiento",
+      "descontrol",
+      "confusion"
+    ],
+    "base_response": "Muchos jóvenes enfrentan errores financieros como gastar por impulso, confundir deseos con necesidades y acumular deudas sin medir consecuencias. Estas fallas generan descontrol y estrés. Comprender estos patrones permite corregir hábitos y construir decisiones económicas más responsables."
+  },
+  {
+    "intent_id": "educacion_financiera_historia_origen_evolucion",
+    "keywords": [
+      "economia",
+      "finanzas",
+      "historia",
+      "origen",
+      "evolucion"
+    ],
+    "base_response": "La educación financiera surgió cuando las primeras sociedades comenzaron a intercambiar bienes y usar monedas. Evolucionó con bancos, comercio global y tecnología, enseñando al individuo a comprender recursos, tomar decisiones responsables y adaptarse a cambios económicos constantes."
+  },
+  {
+    "intent_id": "educacion_financiera_contexto_ecologico",
+    "keywords": [
+      "economia",
+      "finanzas",
+      "entorno",
+      "contexto",
+      "individuo"
+    ],
+    "base_response": "El entorno ecológico influye en cómo cada persona comprende y usa el dinero. Factores como comunidad, recursos disponibles y hábitos familiares moldean decisiones financieras. Reconocer estas influencias permite desarrollar criterios propios y actuar con responsabilidad económica en situaciones diversas."
+  },
+  {
+    "intent_id": "educacion_financiera_aplicaciones_practicas",
+    "keywords": [
+      "ahorro",
+      "presupuesto",
+      "ingreso",
+      "gasto",
+      "responsabilidad"
+    ],
+    "base_response": "Comprender cómo manejar dinero permite tomar decisiones responsables. Aplicar hábitos como registrar gastos, planear compras y separar una parte del ingreso para ahorrar ayuda a enfrentar imprevistos y alcanzar metas personales. Practicar estas acciones fortalece la autonomía financiera desde edades tempranas."
+  },
+  {
+    "intent_id": "educacion_financiera_importancia_impacto_social",
+    "keywords": [
+      "finanzas",
+      "responsabilidad",
+      "planificacion",
+      "consumo",
+      "impacto"
+    ],
+    "base_response": "La educación financiera fortalece decisiones responsables que influyen en el bienestar colectivo. Comprender cómo administrar recursos permite reducir riesgos, fomentar hábitos saludables y apoyar comunidades más estables. Un individuo informado contribuye a una sociedad equilibrada y preparada para enfrentar desafíos económicos."
+  }
+]
