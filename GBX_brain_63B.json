@@ -1,0 +1,2196 @@
+[
+  {
+    "intent_id": "mapas_conceptuales_lectura",
+    "keywords": [
+      "mapas",
+      "conceptuales",
+      "lectura",
+      "estructura",
+      "organizacion"
+    ],
+    "base_response": "Mapas conceptuales de lectura son esquemas que muestran ideas principales y relaciones internas de un texto mediante nodos y conexiones jerárquicas. Su estructura permite visualizar cómo se organizan conceptos, facilitando la comprensión y el análisis de información relevante."
+  },
+  {
+    "intent_id": "mapas_conceptuales_lectura_fallas",
+    "keywords": [
+      "confusion",
+      "omision",
+      "distorsion",
+      "clasificacion",
+      "interpretacion"
+    ],
+    "base_response": "Mapas conceptuales de lectura presentan fallas cuando se confunden ideas clave, se omiten relaciones esenciales o se distorsionan jerarquías. Estas fallas dificultan comprender textos, generan clasificaciones imprecisas y provocan interpretaciones erróneas que afectan el aprendizaje y la organización del contenido."
+  },
+  {
+    "intent_id": "mapas_conceptuales_lectura_ecologico",
+    "keywords": [
+      "mapa",
+      "lectura",
+      "analisis",
+      "organizacion",
+      "entorno"
+    ],
+    "base_response": "Mapas conceptuales de lectura permiten relacionar ideas clave con elementos del entorno ecológico, mostrando cómo interactúan textos y contextos naturales. Facilitan comprender conexiones entre fenómenos ambientales y contenidos escritos, fortaleciendo la interpretación crítica y la conciencia ecológica del estudiante."
+  },
+  {
+    "intent_id": "mapas_conceptuales_lectura_seguridad",
+    "keywords": [
+      "mapas",
+      "lectura",
+      "riesgos",
+      "seguridad",
+      "analisis"
+    ],
+    "base_response": "Mapas conceptuales de lectura permiten identificar riesgos al manejar información y aplicar medidas de seguridad que protejan datos personales. Facilitan reconocer fuentes confiables, evitar contenidos dañinos y organizar ideas para tomar decisiones responsables durante actividades de lectura en entornos digitales."
+  },
+  {
+    "intent_id": "mapas_conceptuales_lectura_mitos",
+    "keywords": [
+      "lectura",
+      "mapa",
+      "concepto",
+      "mito",
+      "confusion"
+    ],
+    "base_response": "Mapas conceptuales de lectura suelen generar mitos que confunden a los estudiantes, como creer que solo sirven para resumir textos o que deben incluir todas las ideas posibles. Estas concepciones erróneas dificultan la comprensión y reducen la utilidad real del recurso."
+  },
+  {
+    "intent_id": "mapas_conceptuales_lectura_simbiotica",
+    "keywords": [
+      "mapa",
+      "concepto",
+      "lectura",
+      "sistema",
+      "interaccion"
+    ],
+    "base_response": "Mapas conceptuales de lectura establecen una relación simbiótica con otros sistemas al organizar información y conectar ideas de manera visual. Facilitan la comprensión profunda, fortalecen procesos cognitivos y permiten integrar conocimientos provenientes de diversas fuentes para construir significados coherentes."
+  },
+  {
+    "intent_id": "mapas_conceptuales_lectura_consecuencias",
+    "keywords": [
+      "lectura",
+      "mapas",
+      "conceptos",
+      "comprension",
+      "analisis"
+    ],
+    "base_response": "Mapas conceptuales de lectura fortalecen la comprensión profunda y generan hábitos de organización mental que perduran. Su uso constante mejora la capacidad de análisis, facilita conexiones entre ideas y promueve un aprendizaje autónomo que influye positivamente en el rendimiento académico futuro."
+  },
+  {
+    "intent_id": "mapas_conceptuales_lectura_futuro_tecnologia",
+    "keywords": [
+      "lectura",
+      "mapas",
+      "tecnologia",
+      "proyecciones",
+      "innovacion"
+    ],
+    "base_response": "Mapas conceptuales de lectura integrarán herramientas digitales avanzadas que organizarán ideas automáticamente y permitirán visualizar relaciones complejas. Estas tecnologías facilitarán estudiar textos extensos, mejorar comprensión y crear rutas personalizadas que anticipen necesidades futuras de aprendizaje."
+  },
+  {
+    "intent_id": "cuadros_sinopticos_textos",
+    "keywords": [
+      "estructura",
+      "organizacion",
+      "contenido",
+      "jerarquia",
+      "analisis"
+    ],
+    "base_response": "Cuadros sinópticos de textos representan visualmente la estructura interna de una información escrita mediante niveles jerárquicos. Ordenan ideas principales y secundarias en ramas conectadas que muestran cómo se relacionan entre sí, facilitando la comprensión anatómica del contenido completo."
+  },
+  {
+    "intent_id": "fallas_cuadros_sinopticos",
+    "keywords": [
+      "omision",
+      "confusion",
+      "reduccion",
+      "desorden",
+      "interpretacion"
+    ],
+    "base_response": "Cuadros sinópticos de textos suelen presentar errores cuando omiten ideas esenciales, confunden niveles jerárquicos, reducen excesivamente la información, organizan conceptos sin lógica o interpretan datos sin fundamento. Estas fallas dificultan la comprensión global y afectan la calidad del resumen estructurado."
+  },
+  {
+    "intent_id": "cuadros_sinopticos_textos_contexto_ecologico",
+    "keywords": [
+      "cuadro",
+      "sinoptico",
+      "texto",
+      "analisis",
+      "organizacion"
+    ],
+    "base_response": "Cuadros sinópticos de textos permiten organizar ideas esenciales para comprender cómo interactúan los elementos de un entorno ecológico. Facilitan identificar relaciones entre seres vivos, recursos y procesos naturales, ayudando a visualizar conexiones clave dentro de un contexto ambiental amplio."
+  },
+  {
+    "intent_id": "cuadros_sinopticos_textos_impacto",
+    "keywords": [
+      "organizacion",
+      "sintesis",
+      "comprension",
+      "comunicacion",
+      "aprendizaje"
+    ],
+    "base_response": "Cuadros sinópticos de textos fortalecen la comprensión social al organizar ideas esenciales y facilitar su análisis colectivo. Su uso impulsa el aprendizaje colaborativo, mejora la comunicación clara y permite que grupos diversos interpreten información compleja de manera accesible y útil para decisiones compartidas."
+  },
+  {
+    "intent_id": "cuadros_sinopticos_textos_seguridad",
+    "keywords": [
+      "analisis",
+      "estructura",
+      "riesgos",
+      "prevencion",
+      "organizacion"
+    ],
+    "base_response": "Cuadros sinópticos de textos permiten organizar ideas esenciales y detectar riesgos presentes en la información. Facilitan identificar advertencias, clasificar peligros y proponer medidas de seguridad claras. Su uso ayuda a comprender situaciones y actuar con responsabilidad para evitar daños."
+  },
+  {
+    "intent_id": "cuadros_sinopticos_mitos",
+    "keywords": [
+      "mito",
+      "confusion",
+      "estructura",
+      "analisis",
+      "contenido"
+    ],
+    "base_response": "Cuadros sinópticos de textos suelen confundirse con simples resúmenes lineales, pero esta idea es errónea. No representan todo el contenido ni reemplazan la lectura completa. Su función es organizar jerarquías conceptuales, evitando interpretaciones incompletas que distorsionan el sentido original del texto."
+  },
+  {
+    "intent_id": "cuadros_sinopticos_textos_consecuencias",
+    "keywords": [
+      "organizacion",
+      "analisis",
+      "comprension",
+      "estructuracion"
+    ],
+    "base_response": "Cuadros sinópticos de textos generan consecuencias a largo plazo al fortalecer la capacidad de organizar ideas, mejorar la comprensión profunda y facilitar el análisis crítico. Su uso constante permite estructurar información de manera clara, favoreciendo aprendizajes duraderos y habilidades cognitivas más sólidas."
+  },
+  {
+    "intent_id": "cuadros_sinopticos_textos_impacto_ambiental",
+    "keywords": [
+      "cuadro",
+      "sinoptico",
+      "texto",
+      "impacto",
+      "ambiental"
+    ],
+    "base_response": "Cuadros sinópticos de textos sobre impacto ambiental organizan ideas esenciales para comprender cómo las actividades humanas afectan ecosistemas. Facilitan identificar causas, consecuencias y acciones de mitigación, permitiendo analizar información de manera clara y estructurada para promover decisiones responsables y sostenibles."
+  },
+  {
+    "intent_id": "cuadros_sinopticos_tecnologia_futura",
+    "keywords": [
+      "cuadros",
+      "sinopticos",
+      "tecnologia",
+      "proyecciones",
+      "analisis"
+    ],
+    "base_response": "Cuadros sinópticos de textos permiten organizar ideas clave y anticipar cómo la tecnología influirá en futuros procesos comunicativos. Facilitan visualizar tendencias, conectar innovaciones y comprender posibles impactos educativos, sociales y científicos mediante estructuras claras que muestran relaciones esenciales entre conceptos emergentes."
+  },
+  {
+    "intent_id": "vocabulario_contextual",
+    "keywords": [
+      "vocabulario",
+      "contexto",
+      "lector",
+      "significado",
+      "comprension"
+    ],
+    "base_response": "Vocabulario por contexto lector es la capacidad de identificar la estructura interna de una palabra y relacionarla con las pistas del texto. Esta habilidad permite deducir significados, reconocer funciones y fortalecer la comprensión global durante la lectura de diversos contenidos."
+  },
+  {
+    "intent_id": "vocabulario_contextual_fisico",
+    "keywords": [
+      "vocabulario",
+      "contexto",
+      "lectura",
+      "comprension",
+      "analisis"
+    ],
+    "base_response": "Vocabulario por contexto lector consiste en identificar el significado de palabras mediante pistas presentes en el texto. Esta habilidad fortalece la comprensión al relacionar términos con acciones, objetos o fenómenos físicos descritos, permitiendo interpretar con precisión situaciones y dinámicas narrativas."
+  },
+  {
+    "intent_id": "vocabulario_contexto_quimico",
+    "keywords": [
+      "contexto",
+      "vocabulario",
+      "material",
+      "reactividad",
+      "transformacion"
+    ],
+    "base_response": "Vocabulario por contexto lector implica comprender palabras relacionadas con propiedades químicas o materiales según la situación descrita. El lector identifica términos que explican cómo una sustancia reacciona, cambia o interactúa, permitiendo interpretar procesos y características presentes en diversos textos científicos escolares."
+  },
+  {
+    "intent_id": "vocabulario_contextual_fallas",
+    "keywords": [
+      "vocabulario",
+      "contexto",
+      "confusion",
+      "interpretacion",
+      "lectura"
+    ],
+    "base_response": "Vocabulario por contexto lector implica reconocer fallas cuando el estudiante interpreta palabras sin considerar pistas textuales. Estas fallas generan confusiones que afectan la comprensión global, provocan interpretaciones erróneas y dificultan construir significado adecuado durante la lectura escolar."
+  },
+  {
+    "intent_id": "vocabulario_contexto_lector",
+    "keywords": [
+      "vocabulario",
+      "contexto",
+      "lectura",
+      "comprension",
+      "significado"
+    ],
+    "base_response": "Vocabulario por contexto lector describe cómo las palabras adquieren significado según su uso histórico en textos. Su origen se relaciona con la necesidad humana de interpretar relatos antiguos y evolucionó para facilitar la comprensión precisa mediante pistas semánticas presentes en narraciones diversas."
+  },
+  {
+    "intent_id": "vocabulario_contextual_ecologico",
+    "keywords": [
+      "vocabulario",
+      "contexto",
+      "lectura",
+      "ecosistema",
+      "comprension"
+    ],
+    "base_response": "Vocabulario por contexto lector implica interpretar palabras según el entorno ecológico descrito, relacionando términos con elementos naturales y sus funciones. Esta habilidad permite comprender mejor situaciones ambientales, identificar procesos ecológicos y fortalecer la lectura crítica en escenarios vinculados con la vida y sus interacciones."
+  },
+  {
+    "intent_id": "vocabulario_contextual_social",
+    "keywords": [
+      "vocabulario",
+      "contexto",
+      "lectura",
+      "comprension",
+      "impacto"
+    ],
+    "base_response": "Vocabulario por contexto lector fortalece la comprensión y permite interpretar información con mayor precisión, lo que mejora la comunicación y favorece la participación informada en situaciones sociales diversas. Su desarrollo impulsa ciudadanos capaces de analizar mensajes y contribuir responsablemente al entorno comunitario."
+  },
+  {
+    "intent_id": "vocabulario_contextual_seguridad",
+    "keywords": [
+      "vocabulario",
+      "contexto",
+      "riesgo",
+      "seguridad",
+      "prevencion"
+    ],
+    "base_response": "Vocabulario por contexto lector implica identificar palabras relacionadas con riesgos y seguridad dentro de un texto. Permite comprender advertencias, instrucciones y señales que ayudan a anticipar peligros, actuar con precaución y aplicar medidas preventivas adecuadas en situaciones cotidianas escolares o comunitarias."
+  },
+  {
+    "intent_id": "vocabulario_contextual_calculos",
+    "keywords": [
+      "vocabulario",
+      "contexto",
+      "analisis",
+      "inferencias",
+      "significados"
+    ],
+    "base_response": "Vocabulario por contexto lector implica usar pistas textuales para calcular significados desconocidos. El lector aplica inferencias y comparaciones para estimar definiciones aproximadas. Este proceso fortalece la comprensión y permite resolver dudas sin depender siempre de fuentes externas."
+  },
+  {
+    "intent_id": "vocabulario_contextual_mitos",
+    "keywords": [
+      "vocabulario",
+      "contexto",
+      "lectura",
+      "interpretacion",
+      "significado"
+    ],
+    "base_response": "Vocabulario por contexto lector suele confundirse con adivinar palabras sin evidencia. Este mito ignora que el contexto ofrece pistas reales que orientan el significado. Comprender estas señales evita errores y fortalece la interpretación precisa durante la lectura escolar."
+  },
+  {
+    "intent_id": "vocabulario_contextual_simbiotico",
+    "keywords": [
+      "vocabulario",
+      "contexto",
+      "lectura",
+      "comprension",
+      "analisis"
+    ],
+    "base_response": "Vocabulario por contexto lector explica cómo una palabra adquiere significado al relacionarse con ideas cercanas, creando una interacción simbiótica entre texto y lector. Esta conexión permite inferir sentidos, fortalecer comprensión y adaptar interpretaciones según estructuras lingüísticas presentes."
+  },
+  {
+    "intent_id": "vocabulario_contextual_energetico",
+    "keywords": [
+      "vocabulario",
+      "contexto",
+      "energia",
+      "transformacion",
+      "ciclos"
+    ],
+    "base_response": "Vocabulario por contexto lector implica identificar palabras relacionadas con procesos de transformación y ciclos energéticos dentro de un texto. El estudiante comprende significados según situaciones narradas, reconociendo cómo los términos describen cambios, flujos y funciones esenciales en sistemas naturales."
+  },
+  {
+    "intent_id": "vocabulario_contextual_experimentos",
+    "keywords": [
+      "vocabulario",
+      "contexto",
+      "lectura",
+      "experimento",
+      "demostracion"
+    ],
+    "base_response": "Vocabulario por contexto lector implica identificar el significado de palabras mediante pistas presentes en textos usados durante experimentos escolares. Este proceso permite comprender instrucciones, materiales y procedimientos, fortaleciendo la interpretación científica y la precisión al ejecutar demostraciones prácticas en el aula."
+  },
+  {
+    "intent_id": "vocabulario_contextual_largo_plazo",
+    "keywords": [
+      "vocabulario",
+      "contexto",
+      "lectura",
+      "comprension",
+      "procesamiento"
+    ],
+    "base_response": "Vocabulario por contexto lector implica desarrollar la capacidad de deducir significados según la situación textual, generando a largo plazo lectores más críticos, autónomos y capaces de interpretar información compleja con precisión, fortaleciendo habilidades comunicativas y pensamiento analítico sostenido."
+  },
+  {
+    "intent_id": "vocabulario_contexto_tecnologico",
+    "keywords": [
+      "vocabulario",
+      "contexto",
+      "lectura",
+      "tecnologia",
+      "proyecciones"
+    ],
+    "base_response": "Vocabulario por contexto lector implica interpretar palabras según pistas del texto, anticipando significados vinculados con innovaciones futuras. Esta habilidad permite comprender términos tecnológicos emergentes y proyectar cómo evolucionarán, fortaleciendo la lectura crítica ante cambios científicos acelerados."
+  },
+  {
+    "intent_id": "significado_palabras_leidas",
+    "keywords": [
+      "significado",
+      "palabras",
+      "lectura",
+      "comprension",
+      "analisis"
+    ],
+    "base_response": "Significado de palabras leídas describe la estructura interna que permite identificar el sentido preciso de un término. Incluye reconocer su forma, partes y función dentro del texto para construir comprensión clara y coherente durante la lectura académica."
+  },
+  {
+    "intent_id": "interpretacion_lexica",
+    "keywords": [
+      "significado",
+      "palabra",
+      "lectura",
+      "analisis",
+      "contexto"
+    ],
+    "base_response": "Significado de palabras leídas implica comprender cómo cada término aporta sentido dentro de un texto. El lector identifica rasgos físicos, acciones y relaciones presentes, usando pistas del contexto para precisar ideas y construir una interpretación coherente que facilite la comprensión global."
+  },
+  {
+    "intent_id": "significado_palabras_materiales",
+    "keywords": [
+      "significado",
+      "palabras",
+      "materiales",
+      "propiedades",
+      "transformacion"
+    ],
+    "base_response": "Significado de palabras leídas implica comprender términos que describen cómo reaccionan o cambian los materiales. Esta comprensión permite identificar propiedades químicas, como combustión o oxidación, y relacionarlas con comportamientos específicos de sustancias en diferentes situaciones cotidianas o experimentales."
+  },
+  {
+    "intent_id": "interpretacion_lexica_erronea",
+    "keywords": [
+      "significado",
+      "lectura",
+      "confusion",
+      "comprension",
+      "interpretacion"
+    ],
+    "base_response": "Significado de palabras leídas implica reconocer errores frecuentes cuando el lector asigna sentidos incorrectos por desconocimiento, confusión contextual o uso limitado del vocabulario. Estas fallas generan interpretaciones imprecisas que afectan la comprensión global del texto y dificultan el aprendizaje lector."
+  },
+  {
+    "intent_id": "significado_palabras_contexto_ecologico",
+    "keywords": [
+      "significado",
+      "palabras",
+      "contexto",
+      "entorno",
+      "lectura"
+    ],
+    "base_response": "Significado de palabras leídas implica comprender cómo cada término adquiere sentido según el entorno ecológico descrito. El lector analiza elementos naturales, relaciones entre seres vivos y condiciones ambientales para interpretar con precisión vocablos que cambian según situaciones específicas del ecosistema."
+  },
+  {
+    "intent_id": "significado_palabras_impacto_ambiental",
+    "keywords": [
+      "significado",
+      "palabras",
+      "impacto",
+      "ambiente",
+      "interpretacion"
+    ],
+    "base_response": "Significado de palabras leídas implica comprender términos relacionados con el impacto ambiental para identificar cómo describen acciones humanas y sus consecuencias. Esta comprensión permite reconocer efectos sobre ecosistemas, valorar riesgos y promover decisiones responsables que reduzcan daños y favorezcan prácticas sostenibles."
+  },
+  {
+    "intent_id": "estructura_lectura_veloz",
+    "keywords": [
+      "lectura",
+      "velocidad",
+      "analisis",
+      "procesamiento",
+      "comprension"
+    ],
+    "base_response": "Estrategias de lectura veloz constituyen un conjunto organizado de acciones mentales que permiten identificar información esencial con rapidez. Su estructura integra selección visual eficiente, reducción de fijaciones oculares y procesamiento anticipado de ideas para mantener comprensión adecuada sin detenerse en detalles secundarios."
+  },
+  {
+    "intent_id": "lectura_veloz_fisica",
+    "keywords": [
+      "lectura",
+      "procesamiento",
+      "ritmo",
+      "comprension",
+      "flujo"
+    ],
+    "base_response": "Estrategias de lectura veloz implican ajustar el ritmo ocular y la coordinación mental para captar información con mayor rapidez. Requieren entrenar movimientos visuales eficientes, reducir fijaciones innecesarias y mantener concentración estable para procesar ideas sin perder claridad ni comprensión general."
+  },
+  {
+    "intent_id": "lectura_veloz_fallas_comunes",
+    "keywords": [
+      "lectura",
+      "velocidad",
+      "errores",
+      "confusion",
+      "comprension"
+    ],
+    "base_response": "Estrategias de lectura veloz pueden fallar cuando el lector acelera demasiado y pierde concentración, confunde palabras o salta información esencial. Estos errores reducen la comprensión global y generan frustración, afectando el aprendizaje y la capacidad de analizar textos con precisión."
+  },
+  {
+    "intent_id": "estrategias_lectura_veloz",
+    "keywords": [
+      "lectura",
+      "velocidad",
+      "tecnica",
+      "comprension",
+      "proceso"
+    ],
+    "base_response": "Estrategias de lectura veloz surgieron cuando educadores buscaron mejorar la eficiencia lectora durante el siglo XX. Su evolución combinó técnicas de reducción de fijaciones oculares y ampliación del campo visual, permitiendo procesar información con mayor rapidez sin perder comprensión esencial."
+  },
+  {
+    "intent_id": "lectura_veloz_ecologica",
+    "keywords": [
+      "lectura",
+      "velocidad",
+      "analisis",
+      "contexto",
+      "entorno"
+    ],
+    "base_response": "Estrategias de lectura veloz permiten identificar información esencial considerando cómo el entorno influye en los textos. Al reconocer elementos ecológicos presentes en narraciones o descripciones, el lector acelera la comprensión y relaciona rápidamente los contenidos con situaciones ambientales reales."
+  },
+  {
+    "intent_id": "lectura_veloz_aplicaciones",
+    "keywords": [
+      "lectura",
+      "analisis",
+      "comprension",
+      "procesamiento",
+      "velocidad"
+    ],
+    "base_response": "Estrategias de lectura veloz permiten identificar ideas esenciales con rapidez y aplicarlas en tareas cotidianas como estudiar, investigar o revisar instrucciones. Facilitan seleccionar información útil, mejorar la concentración y optimizar el tiempo en actividades escolares y personales."
+  },
+  {
+    "intent_id": "lectura_veloz_impacto_social",
+    "keywords": [
+      "lectura",
+      "comprension",
+      "habilidad",
+      "analisis",
+      "progreso"
+    ],
+    "base_response": "Estrategias de lectura veloz fortalecen la comprensión y permiten acceder rápidamente a información útil. Su impacto social se refleja en estudiantes capaces de analizar contenidos con mayor eficiencia, mejorar su rendimiento académico y participar activamente en comunidades que valoran el aprendizaje continuo y el progreso colectivo."
+  },
+  {
+    "intent_id": "lectura_veloz_comparativa",
+    "keywords": [
+      "lectura",
+      "velocidad",
+      "comprension",
+      "analisis",
+      "rendimiento"
+    ],
+    "base_response": "Estrategias de lectura veloz permiten avanzar rápidamente por textos y mejorar el rendimiento en tareas extensas. Ofrecen ventajas como mayor eficiencia y enfoque, pero también pueden reducir la comprensión profunda y dificultar el análisis detallado cuando el contenido requiere atención minuciosa."
+  },
+  {
+    "intent_id": "lectura_veloz_seguridad",
+    "keywords": [
+      "lectura",
+      "velocidad",
+      "riesgo",
+      "fatiga",
+      "concentracion"
+    ],
+    "base_response": "Estrategias de lectura veloz requieren cuidar la postura, controlar la fatiga visual y evitar distracciones que afecten la concentración. Aplicar pausas breves y mantener iluminación adecuada reduce riesgos físicos y mentales, garantizando un proceso de lectura eficiente y seguro."
+  },
+  {
+    "intent_id": "lectura_veloz_mitos_erroneos",
+    "keywords": [
+      "lectura",
+      "velocidad",
+      "mito",
+      "comprension",
+      "habilidad"
+    ],
+    "base_response": "Estrategias de lectura veloz suelen asociarse con la idea equivocada de que leer más rápido siempre mejora el aprendizaje. Este mito ignora que la comprensión depende de procesar con cuidado la información. La velocidad útil surge cuando se equilibra atención, propósito y análisis consciente."
+  },
+  {
+    "intent_id": "lectura_veloz_simbiosis_sistemas",
+    "keywords": [
+      "lectura",
+      "analisis",
+      "procesamiento",
+      "comprension",
+      "estrategias"
+    ],
+    "base_response": "Estrategias de lectura veloz funcionan como un sistema que coopera con otros procesos mentales, fortaleciendo la comprensión al coordinar memoria, atención y análisis. Esta relación simbiótica permite interpretar información con mayor rapidez sin perder precisión, optimizando el rendimiento académico general."
+  },
+  {
+    "intent_id": "lectura_veloz_transformacion",
+    "keywords": [
+      "lectura",
+      "analisis",
+      "procesamiento",
+      "comprension",
+      "velocidad"
+    ],
+    "base_response": "Estrategias de lectura veloz impulsan la transformación cognitiva al optimizar cómo el cerebro procesa información y ciclos energéticos mentales. Estas técnicas fortalecen la atención, aceleran la identificación de ideas clave y mejoran la eficiencia lectora sin perder precisión interpretativa."
+  },
+  {
+    "intent_id": "estrategias_lectura_veloz_consecuencias",
+    "keywords": [
+      "lectura",
+      "velocidad",
+      "comprension",
+      "practica",
+      "memoria"
+    ],
+    "base_response": "Estrategias de lectura veloz pueden generar consecuencias a largo plazo al fortalecer la capacidad de procesar información con mayor rapidez, mejorar la memoria operativa y facilitar aprendizajes complejos, permitiendo enfrentar textos extensos con confianza y eficiencia sostenida."
+  },
+  {
+    "intent_id": "lectura_veloz_impacto_ambiental",
+    "keywords": [
+      "lectura",
+      "velocidad",
+      "comprension",
+      "analisis",
+      "sostenibilidad"
+    ],
+    "base_response": "Estrategias de lectura veloz permiten identificar ideas esenciales con rapidez, reduciendo tiempo y recursos usados en materiales impresos. Al mejorar la eficiencia lectora, se favorece un consumo responsable que disminuye la demanda de papel y contribuye a un entorno más sostenible."
+  },
+  {
+    "intent_id": "lectura_veloz_tecnologia_futura",
+    "keywords": [
+      "lectura",
+      "velocidad",
+      "tecnologia",
+      "algoritmos",
+      "procesamiento"
+    ],
+    "base_response": "Estrategias de lectura veloz proyectan herramientas digitales capaces de analizar textos, resaltar ideas clave y entrenar la mente para procesar información con mayor rapidez. Futuras tecnologías integrarán algoritmos inteligentes que adaptarán ritmos de lectura y fortalecerán habilidades cognitivas avanzadas."
+  },
+  {
+    "intent_id": "retencion_informacion_leida",
+    "keywords": [
+      "retencion",
+      "informacion",
+      "lectura",
+      "procesamiento",
+      "memoria"
+    ],
+    "base_response": "Retención de información leída es la capacidad anatómica y estructural del cerebro para conservar datos obtenidos mediante lectura, organizarlos en redes neuronales y mantenerlos disponibles. Este proceso integra memoria, atención y procesamiento para asegurar comprensión y uso posterior del contenido."
+  },
+  {
+    "intent_id": "retencion_informacion_fallas",
+    "keywords": [
+      "memoria",
+      "procesamiento",
+      "lectura",
+      "comprension",
+      "recordacion"
+    ],
+    "base_response": "La retención de información leída puede fallar cuando el lector pierde concentración, interpreta de manera confusa las ideas o no organiza adecuadamente los datos. Estas fallas generan olvidos rápidos, confusión conceptual y dificultades para aplicar lo aprendido en situaciones nuevas."
+  },
+  {
+    "intent_id": "retencion_informacion_ecologica",
+    "keywords": [
+      "retencion",
+      "informacion",
+      "lectura",
+      "memoria",
+      "procesamiento"
+    ],
+    "base_response": "La retención de información leída implica comprender cómo el entorno influye en la memoria. Espacios tranquilos, iluminación adecuada y contacto con elementos naturales favorecen la concentración. Estos factores permiten que el cerebro procese mejor los textos y conserve sus ideas esenciales."
+  },
+  {
+    "intent_id": "retencion_informacion_impacto_social",
+    "keywords": [
+      "retencion",
+      "informacion",
+      "lectura",
+      "comprension",
+      "aprendizaje"
+    ],
+    "base_response": "La retención de información leída fortalece la comprensión y permite aplicar conocimientos en situaciones reales, mejorando la comunicación y la toma de decisiones. Su impacto social se refleja en comunidades más informadas, capaces de resolver problemas y participar activamente en procesos colectivos."
+  },
+  {
+    "intent_id": "retencion_informacion_mitos",
+    "keywords": [
+      "lectura",
+      "memoria",
+      "mito",
+      "comprension",
+      "procesamiento"
+    ],
+    "base_response": "Retención de información leída suele confundirse con memorizar todo, pero ese mito ignora que comprender ideas es más importante que recordar cada detalle. Muchas personas creen que leer rápido garantiza mayor retención, aunque la evidencia muestra que la atención y el análisis son factores decisivos."
+  },
+  {
+    "intent_id": "retencion_informacion_sistematica",
+    "keywords": [
+      "retencion",
+      "informacion",
+      "lectura",
+      "procesamiento",
+      "memoria"
+    ],
+    "base_response": "Retención de información leída implica integrar datos del texto con procesos mentales que colaboran como sistemas simbióticos. Cada sistema refuerza la comprensión, organiza ideas y permite recordar contenidos mediante conexiones activas que fortalecen la memoria y facilitan aprendizajes duraderos."
+  },
+  {
+    "intent_id": "retencion_informacion_largo_plazo",
+    "keywords": [
+      "retencion",
+      "informacion",
+      "lectura",
+      "memoria",
+      "procesamiento"
+    ],
+    "base_response": "Retención de información leída implica conservar datos importantes durante mucho tiempo. Cuando se practica con frecuencia, fortalece la memoria, mejora la comprensión profunda y facilita el uso futuro del conocimiento. Esta habilidad permite aplicar ideas aprendidas en situaciones nuevas y resolver problemas con mayor seguridad."
+  },
+  {
+    "intent_id": "retencion_informacion_ambiental",
+    "keywords": [
+      "retencion",
+      "informacion",
+      "lectura",
+      "impacto",
+      "ambiente"
+    ],
+    "base_response": "Retención de información leída implica comprender y recordar datos que explican cómo nuestras acciones afectan el ambiente. Al conservar estos conocimientos, es posible tomar decisiones responsables, reducir daños y promover prácticas sostenibles que protejan los recursos naturales y mejoren la calidad de vida colectiva."
+  },
+  {
+    "intent_id": "retencion_informacion_futura",
+    "keywords": [
+      "retencion",
+      "informacion",
+      "lectura",
+      "tecnologia",
+      "procesamiento"
+    ],
+    "base_response": "Retención de información leída implica usar herramientas tecnológicas que analizan textos y predicen necesidades futuras. Estas tecnologías ayudan a reforzar la memoria mediante patrones digitales que organizan ideas, facilitan comprensión profunda y permiten anticipar cómo aplicar conocimientos en situaciones nuevas."
+  },
+  {
+    "intent_id": "interpretacion_textos_complejos",
+    "keywords": [
+      "analisis",
+      "estructura",
+      "significado",
+      "comprension",
+      "lectura"
+    ],
+    "base_response": "Interpretación de textos complejos implica reconocer cómo se organizan sus partes internas, identificando ideas principales, relaciones lógicas y elementos formales. Esta estructura permite comprender significados profundos, evaluar información y construir una lectura crítica que facilite decisiones informadas y pensamiento reflexivo."
+  },
+  {
+    "intent_id": "interpretacion_textos_complejos_propiedades_materiales",
+    "keywords": [
+      "analisis",
+      "textos",
+      "materiales",
+      "reacciones",
+      "sustancias"
+    ],
+    "base_response": "Interpretación de textos complejos sobre propiedades químicas implica reconocer cómo las sustancias reaccionan y cambian. El estudiante identifica términos clave, relaciona descripciones con comportamientos materiales y comprende procesos que explican transformaciones químicas, fortaleciendo su capacidad para analizar información científica detallada."
+  },
+  {
+    "intent_id": "interpretacion_textos_complejos_contexto_ecologico",
+    "keywords": [
+      "interpretacion",
+      "textos",
+      "analisis",
+      "ecosistema",
+      "comprension"
+    ],
+    "base_response": "Interpretación de textos complejos implica reconocer cómo el entorno ecológico influye en ideas y relaciones descritas. El lector identifica conexiones entre fenómenos naturales y acciones humanas, evaluando causas, efectos y significados que surgen dentro de un ecosistema para construir comprensión profunda y crítica."
+  },
+  {
+    "intent_id": "interpretacion_textos_complejos_mitos",
+    "keywords": [
+      "mito",
+      "confusion",
+      "lectura",
+      "analisis",
+      "significado"
+    ],
+    "base_response": "Interpretación de textos complejos suele confundirse con leer rápido o entender todo de inmediato, pero ese mito ignora que requiere análisis cuidadoso. Muchas concepciones erróneas nacen cuando se cree que cualquier interpretación es válida sin considerar evidencias textuales claras."
+  },
+  {
+    "intent_id": "interpretacion_textos_complejos_impacto_ambiental",
+    "keywords": [
+      "analisis",
+      "lectura",
+      "impacto",
+      "ecosistemas",
+      "sostenibilidad"
+    ],
+    "base_response": "Interpretación de textos complejos en impacto ambiental exige comprender ideas centrales, relacionar datos científicos y evaluar consecuencias ecológicas. Esta habilidad permite identificar problemas ambientales, reconocer causas y efectos y proponer soluciones responsables basadas en información confiable y análisis crítico."
+  },
+  {
+    "intent_id": "interpretacion_textos_futuros",
+    "keywords": [
+      "analisis",
+      "lectura",
+      "proyeccion",
+      "tecnologia",
+      "comprension"
+    ],
+    "base_response": "Interpretación de textos complejos implica analizar información avanzada para anticipar cambios futuros vinculados con la tecnología. Requiere comprender ideas profundas, relacionarlas con innovaciones emergentes y proyectar posibles escenarios que ayuden a tomar decisiones informadas en contextos cambiantes."
+  },
+  {
+    "intent_id": "deducciones_comprension_lectora",
+    "keywords": [
+      "inferencias",
+      "lectura",
+      "analisis",
+      "contexto",
+      "razonamiento"
+    ],
+    "base_response": "Deducciones de comprensión lectora son procesos mentales que permiten construir significados no explícitos mediante pistas textuales. Consisten en identificar relaciones internas, anticipar información y completar vacíos narrativos para fortalecer la interpretación global del contenido leído."
+  },
+  {
+    "intent_id": "deducciones_comprension_ecologica",
+    "keywords": [
+      "lectura",
+      "inferencias",
+      "ecosistema",
+      "contexto",
+      "entorno"
+    ],
+    "base_response": "Deducciones de comprensión lectora implican interpretar información implícita vinculada al entorno ecológico, analizando cómo los elementos naturales interactúan y afectan situaciones descritas. El estudiante identifica relaciones ambientales, anticipa consecuencias y construye significados basados en pistas textuales y conocimientos previos del ecosistema."
+  },
+  {
+    "intent_id": "inferencias_seguras_lectura",
+    "keywords": [
+      "lectura",
+      "riesgo",
+      "analisis",
+      "inferir",
+      "seguridad"
+    ],
+    "base_response": "Deducciones de comprensión lectora permiten identificar riesgos presentes en un texto y anticipar consecuencias posibles. Al inferir información no explícita, se fortalecen decisiones seguras que protegen a las personas ante situaciones potencialmente peligrosas dentro de diversos contextos narrativos o informativos."
+  },
+  {
+    "intent_id": "inferencias_comprension_lectora",
+    "keywords": [
+      "inferencia",
+      "lectura",
+      "analisis",
+      "contexto",
+      "razonamiento"
+    ],
+    "base_response": "Deducciones de comprensión lectora implican identificar información implícita mediante el análisis de pistas textuales. El lector combina contexto, experiencias previas y razonamiento para construir significados no expresados directamente, fortaleciendo la interpretación y la clasificación de ideas dentro del contenido leído."
+  },
+  {
+    "intent_id": "deducciones_comprension_lectora_mitos",
+    "keywords": [
+      "deduccion",
+      "lectura",
+      "mito",
+      "error",
+      "interpretacion"
+    ],
+    "base_response": "Deducciones de comprensión lectora suelen confundirse con adivinaciones sin fundamento, pero realmente requieren analizar pistas textuales. Un mito común afirma que deducir implica inventar información, cuando en realidad consiste en interpretar detalles explícitos para construir significados coherentes y verificables."
+  },
+  {
+    "intent_id": "inferencias_lectoras_energia",
+    "keywords": [
+      "inferencias",
+      "lectura",
+      "procesos",
+      "energia",
+      "transformacion"
+    ],
+    "base_response": "Deducciones de comprensión lectora implican interpretar información implícita para entender cómo la energía cambia y circula en distintos procesos naturales. El estudiante analiza pistas textuales y relaciona causas, efectos y secuencias para explicar transformaciones energéticas dentro de sistemas dinámicos."
+  },
+  {
+    "intent_id": "inferencias_largo_plazo",
+    "keywords": [
+      "inferencias",
+      "lectura",
+      "analisis",
+      "impacto",
+      "procesamiento"
+    ],
+    "base_response": "Deducciones de comprensión lectora implica anticipar efectos futuros basados en pistas textuales. Este proceso fortalece la capacidad de analizar información, prever consecuencias y construir interpretaciones profundas que influyen en decisiones académicas y personales a lo largo del tiempo."
+  },
+  {
+    "intent_id": "deducciones_comprension_impacto_ambiental",
+    "keywords": [
+      "lectura",
+      "analisis",
+      "inferencias",
+      "impacto",
+      "ecosistemas"
+    ],
+    "base_response": "Deducciones de comprensión lectora implican interpretar información ambiental no explícita para entender cómo ciertas acciones humanas afectan ecosistemas. Este proceso permite anticipar consecuencias, reconocer riesgos y valorar prácticas responsables que reduzcan daños y promuevan equilibrio ecológico sostenible."
+  },
+  {
+    "intent_id": "deducciones_comprension_futura",
+    "keywords": [
+      "lectura",
+      "inferencias",
+      "tecnologia",
+      "proyecciones",
+      "analisis"
+    ],
+    "base_response": "Deducciones de comprensión lectora permiten anticipar escenarios futuros mediante el análisis de pistas textuales y tendencias tecnológicas. Este proceso fortalece la capacidad de interpretar información, imaginar innovaciones y prever cambios posibles en contextos científicos y sociales."
+  },
+  {
+    "intent_id": "conclusiones_lectura",
+    "keywords": [
+      "lectura",
+      "analisis",
+      "inferencias",
+      "interpretacion",
+      "contenido"
+    ],
+    "base_response": "Conclusiones derivadas de lectura constituyen la estructura mental que organiza ideas obtenidas tras analizar un texto. Integran inferencias, relaciones y significados que el lector construye para comprender mejor el contenido y generar una interpretación coherente basada en evidencias presentes."
+  },
+  {
+    "intent_id": "conclusiones_lectura_dinamica_fisica",
+    "keywords": [
+      "lectura",
+      "analisis",
+      "inferencias",
+      "procesos",
+      "interpretacion"
+    ],
+    "base_response": "Conclusiones derivadas de lectura implican identificar relaciones entre hechos y procesos físicos descritos en un texto. Requieren analizar información, reconocer causas y efectos y formular ideas propias que expliquen cómo funciona un fenómeno dentro de una dinámica física coherente."
+  },
+  {
+    "intent_id": "conclusiones_lectura_propiedades_quimicas",
+    "keywords": [
+      "lectura",
+      "analisis",
+      "propiedades",
+      "materiales",
+      "cambios"
+    ],
+    "base_response": "Conclusiones derivadas de lectura permiten identificar cómo reaccionan distintos materiales ante cambios químicos. Al analizar información escrita, se reconocen transformaciones, evidencias y comportamientos que revelan propiedades internas. Estas conclusiones facilitan comprender procesos y predecir resultados en situaciones experimentales."
+  },
+  {
+    "intent_id": "conclusiones_lectura_fallas_comunes",
+    "keywords": [
+      "lectura",
+      "conclusion",
+      "interpretacion",
+      "confusion",
+      "error"
+    ],
+    "base_response": "Conclusiones derivadas de lectura pueden fallar cuando el lector interpreta datos sin verificar, mezcla ideas incompatibles o ignora pistas textuales esenciales. Estos errores generan confusión, reducen precisión y dificultan construir explicaciones coherentes basadas en información confiable."
+  },
+  {
+    "intent_id": "conclusiones_lectura_ecologica",
+    "keywords": [
+      "lectura",
+      "analisis",
+      "ecosistema",
+      "impacto",
+      "interpretacion"
+    ],
+    "base_response": "Conclusiones derivadas de lectura en contexto ecológico permiten identificar relaciones entre seres vivos y su ambiente, evaluar impactos ambientales y comprender cambios naturales. Este proceso fortalece la interpretación crítica y fomenta decisiones responsables para proteger ecosistemas y promover equilibrio sostenible."
+  },
+  {
+    "intent_id": "conclusiones_lectura_aplicacion",
+    "keywords": [
+      "lectura",
+      "analisis",
+      "comprension",
+      "inferencias",
+      "evaluacion"
+    ],
+    "base_response": "Conclusiones derivadas de lectura permiten aplicar ideas comprendidas a situaciones reales, evaluando información y tomando decisiones informadas. Al interpretar datos y mensajes, los estudiantes resuelven problemas cotidianos con mayor claridad, fortalecen su criterio personal y desarrollan habilidades útiles para su vida diaria."
+  },
+  {
+    "intent_id": "conclusiones_lectura_impacto_social",
+    "keywords": [
+      "lectura",
+      "analisis",
+      "comprension",
+      "impacto",
+      "sociedad"
+    ],
+    "base_response": "Conclusiones derivadas de lectura permiten identificar efectos sociales presentes en ideas y mensajes. Facilitan reconocer problemas colectivos, valorar distintas perspectivas y promover acciones responsables. Su importancia radica en fortalecer pensamiento crítico y participación consciente dentro de la comunidad."
+  },
+  {
+    "intent_id": "conclusiones_comparativas_lectura",
+    "keywords": [
+      "lectura",
+      "analisis",
+      "ventaja",
+      "desventaja",
+      "conclusion"
+    ],
+    "base_response": "Conclusiones derivadas de lectura permiten comparar ideas para identificar ventajas y desventajas entre opciones. Facilitan reconocer qué elementos aportan beneficios y cuáles generan limitaciones, ayudando a tomar decisiones informadas mediante una evaluación equilibrada basada en evidencias presentes en el texto."
+  },
+  {
+    "intent_id": "conclusiones_lectura_seguridad",
+    "keywords": [
+      "lectura",
+      "riesgo",
+      "analisis",
+      "prevencion",
+      "seguridad"
+    ],
+    "base_response": "Conclusiones derivadas de lectura permiten identificar riesgos presentes en una situación y reconocer medidas de seguridad adecuadas. Al interpretar información, el estudiante distingue señales de peligro, evalúa consecuencias posibles y selecciona acciones preventivas que protegen su integridad y la de otros."
+  },
+  {
+    "intent_id": "conclusiones_lectura_clasificacion",
+    "keywords": [
+      "lectura",
+      "analisis",
+      "inferencias",
+      "ideas",
+      "procesos"
+    ],
+    "base_response": "Conclusiones derivadas de lectura implica identificar patrones y relaciones entre ideas para organizarlas en categorías claras. Este proceso permite clasificar información según características comunes, facilitando la comprensión y el uso adecuado del contenido leído en diversas situaciones académicas."
+  },
+  {
+    "intent_id": "conclusiones_lectura_calculos",
+    "keywords": [
+      "lectura",
+      "analisis",
+      "inferencias",
+      "procesos",
+      "evaluacion"
+    ],
+    "base_response": "Conclusiones derivadas de lectura requieren identificar datos relevantes y transformarlos mediante cálculos simples que permitan verificar ideas principales. El estudiante compara información, aplica operaciones básicas y confirma relaciones lógicas para construir interpretaciones coherentes basadas en evidencia textual verificable."
+  },
+  {
+    "intent_id": "conclusiones_lectura_mitos",
+    "keywords": [
+      "lectura",
+      "mito",
+      "interpretacion",
+      "confusion",
+      "creencia"
+    ],
+    "base_response": "Conclusiones derivadas de lectura pueden generar mitos cuando se interpretan datos sin analizar su contexto real. Estas concepciones erróneas surgen al mezclar información incompleta con creencias previas, creando ideas falsas que parecen lógicas pero no están respaldadas por evidencia confiable."
+  },
+  {
+    "intent_id": "conclusiones_lectura_sistemas",
+    "keywords": [
+      "lectura",
+      "conclusion",
+      "analisis",
+      "interpretacion",
+      "texto"
+    ],
+    "base_response": "Conclusiones derivadas de lectura implica identificar ideas esenciales y relacionarlas con otros sistemas de conocimiento. Este proceso permite comprender cómo interactúan conceptos, reconocer patrones compartidos y construir explicaciones más amplias que integran información diversa para fortalecer el pensamiento crítico del estudiante."
+  },
+  {
+    "intent_id": "conclusiones_lectura_ciclos_energeticos",
+    "keywords": [
+      "lectura",
+      "analisis",
+      "energia",
+      "transformacion",
+      "ciclos"
+    ],
+    "base_response": "Conclusiones derivadas de lectura permiten identificar cómo la energía cambia de forma y se mueve entre seres vivos y procesos naturales. Al analizar textos, se reconocen patrones de transformación energética y se comprende cómo estos ciclos sostienen la vida y mantienen el equilibrio ambiental."
+  },
+  {
+    "intent_id": "conclusiones_lectura_experimentos",
+    "keywords": [
+      "lectura",
+      "analisis",
+      "experimento",
+      "resultado",
+      "interpretacion"
+    ],
+    "base_response": "Conclusiones derivadas de lectura consisten en identificar ideas esenciales y relacionarlas con resultados observados en experimentos escolares. Este proceso permite verificar información, comparar hallazgos y fortalecer la comprensión científica mediante conexiones claras entre teoría y práctica demostrada."
+  },
+  {
+    "intent_id": "lectura_conclusiones_prolongadas",
+    "keywords": [
+      "lectura",
+      "analisis",
+      "inferencias",
+      "impactos",
+      "procesos"
+    ],
+    "base_response": "Conclusiones derivadas de lectura permiten anticipar efectos futuros al interpretar información clave. Este proceso ayuda a comprender cómo decisiones, acciones o fenómenos descritos pueden generar cambios duraderos. Al desarrollar esta habilidad, el estudiante proyecta escenarios posibles y evalúa consecuencias prolongadas con mayor claridad."
+  },
+  {
+    "intent_id": "conclusiones_lectura_impacto_ambiental",
+    "keywords": [
+      "lectura",
+      "analisis",
+      "impacto",
+      "ambiente",
+      "evaluacion"
+    ],
+    "base_response": "Conclusiones derivadas de lectura permiten identificar cómo las acciones humanas afectan el ambiente, reconociendo consecuencias visibles y posibles riesgos futuros. Este proceso fortalece la comprensión crítica y facilita decisiones responsables que reduzcan daños y promuevan prácticas sostenibles en distintos contextos."
+  },
+  {
+    "intent_id": "conclusiones_futuras_tecnologia",
+    "keywords": [
+      "lectura",
+      "analisis",
+      "proyeccion",
+      "tecnologia",
+      "innovacion"
+    ],
+    "base_response": "Conclusiones derivadas de lectura permiten anticipar cómo la tecnología podría transformar actividades futuras mediante análisis crítico de información. Este proceso ayuda a imaginar innovaciones posibles, evaluar impactos y orientar decisiones responsables que favorezcan desarrollos útiles para la sociedad en constante cambio."
+  },
+  {
+    "intent_id": "puntos_de_vista_leidos",
+    "keywords": [
+      "lectura",
+      "perspectiva",
+      "autor",
+      "interpretacion"
+    ],
+    "base_response": "Puntos de vista leídos describe la estructura conceptual que organiza las opiniones expresadas por distintos autores dentro de un texto. Cada perspectiva se identifica mediante argumentos, evidencias y enfoques que permiten comprender cómo se construye y diferencia cada postura presentada."
+  },
+  {
+    "intent_id": "interpretacion_perspectivas_leidas",
+    "keywords": [
+      "lectura",
+      "perspectiva",
+      "analisis",
+      "confusion",
+      "interpretacion"
+    ],
+    "base_response": "Puntos de vista leídos puede presentar errores cuando el lector confunde opiniones con hechos, ignora el contexto o interpreta de manera literal ideas figuradas. Estas fallas dificultan comprender la intención del autor y generan conclusiones equivocadas que afectan el aprendizaje."
+  },
+  {
+    "intent_id": "perspectivas_leidas_historia",
+    "keywords": [
+      "lectura",
+      "interpretacion",
+      "contexto",
+      "autor",
+      "mensaje"
+    ],
+    "base_response": "Puntos de vista leídos explica cómo las ideas de distintos autores han cambiado con el tiempo. Cada texto refleja su contexto histórico y muestra cómo evolucionan las interpretaciones. Comprender estas perspectivas permite reconocer transformaciones culturales y valorar la diversidad de pensamientos."
+  },
+  {
+    "intent_id": "puntos_de_vista_leidos_ecologico",
+    "keywords": [
+      "lectura",
+      "perspectiva",
+      "analisis",
+      "ecosistema",
+      "interpretacion"
+    ],
+    "base_response": "Puntos de vista leídos implica reconocer cómo diferentes autores explican fenómenos ecológicos desde perspectivas variadas. Este concepto permite comparar interpretaciones sobre relaciones naturales, identificar coincidencias y diferencias y comprender cómo cada enfoque ayuda a entender mejor el funcionamiento del entorno."
+  },
+  {
+    "intent_id": "perspectivas_leidas",
+    "keywords": [
+      "lectura",
+      "interpretacion",
+      "opiniones",
+      "impacto",
+      "contextos"
+    ],
+    "base_response": "Puntos de vista leídos permiten comprender cómo distintas personas interpretan un mismo hecho y cómo esas interpretaciones influyen en decisiones colectivas. Analizar estas perspectivas fortalece la participación informada y promueve una convivencia más consciente dentro de la comunidad."
+  },
+  {
+    "intent_id": "puntos_de_vista_leidos_mitos",
+    "keywords": [
+      "lectura",
+      "interpretacion",
+      "creencia",
+      "mito",
+      "perspectiva"
+    ],
+    "base_response": "Puntos de vista leídos incluye ideas que parecen verdaderas pero surgen de interpretaciones incompletas o creencias sin evidencia. Estos mitos pueden distorsionar la comprensión de un texto y generar conclusiones equivocadas si no se analizan críticamente las fuentes y sus intenciones."
+  },
+  {
+    "intent_id": "perspectivas_leidas_consecuencias",
+    "keywords": [
+      "lectura",
+      "perspectiva",
+      "analisis",
+      "impacto",
+      "interpretacion"
+    ],
+    "base_response": "Puntos de vista leídos permiten anticipar consecuencias a largo plazo porque muestran cómo distintas personas comprenden un hecho. Al comparar perspectivas, se identifican efectos futuros posibles y se fortalecen decisiones responsables basadas en comprensión amplia y reflexión crítica sostenida."
+  },
+  {
+    "intent_id": "puntos_de_vista_ambientales",
+    "keywords": [
+      "impacto",
+      "ecosistema",
+      "contaminacion",
+      "analisis",
+      "perspectiva"
+    ],
+    "base_response": "Puntos de vista leídos permite comprender cómo distintas personas interpretan el impacto ambiental. Al comparar opiniones, se identifican efectos sobre ecosistemas, riesgos de contaminación y posibles soluciones. Este análisis fomenta decisiones responsables que protegen recursos naturales y mejoran la relación humana con el entorno."
+  },
+  {
+    "intent_id": "perspectivas_leidas_futuras",
+    "keywords": [
+      "lectura",
+      "analisis",
+      "proyeccion",
+      "tecnologia",
+      "innovacion"
+    ],
+    "base_response": "Puntos de vista leídos permite comprender cómo distintas opiniones anticipan cambios tecnológicos futuros. Al analizar textos, se identifican ideas que proyectan avances posibles y sus efectos en la vida cotidiana, ayudando a formar criterios propios sobre innovaciones emergentes."
+  },
+  {
+    "intent_id": "hechos_verificables_texto",
+    "keywords": [
+      "hecho",
+      "verificacion",
+      "contenido",
+      "analisis",
+      "lectura"
+    ],
+    "base_response": "Hechos verificables del texto son datos que pueden comprobarse mediante fuentes confiables. Se identifican observando información precisa y comprobable dentro del contenido. Permiten evaluar la veracidad del mensaje y diferenciar elementos objetivos de opiniones o interpretaciones personales."
+  },
+  {
+    "intent_id": "hechos_verificables_propiedades_materiales",
+    "keywords": [
+      "hecho",
+      "texto",
+      "material",
+      "cambio",
+      "reaccion"
+    ],
+    "base_response": "Hechos verificables del texto son afirmaciones que pueden comprobarse mediante observación o experimentación. En propiedades químicas o materiales, estos hechos describen cómo una sustancia reacciona, cambia o se transforma, permitiendo confirmar su comportamiento real mediante pruebas claras y repetibles."
+  },
+  {
+    "intent_id": "hechos_verificables_texto_ecologico",
+    "keywords": [
+      "hechos",
+      "verificacion",
+      "texto",
+      "ecosistema",
+      "observacion"
+    ],
+    "base_response": "Hechos verificables del texto son afirmaciones que pueden comprobarse mediante observación directa del ecosistema o datos confiables del entorno. Permiten distinguir información real de opiniones y ayudan a comprender cómo interactúan los elementos naturales dentro de un contexto ambiental específico."
+  },
+  {
+    "intent_id": "hechos_verificables_comparacion",
+    "keywords": [
+      "hecho",
+      "verificacion",
+      "analisis",
+      "texto",
+      "evaluacion"
+    ],
+    "base_response": "Hechos verificables del texto permiten comparar ventajas y desventajas porque ofrecen información comprobable que sostiene conclusiones claras. Facilitan distinguir afirmaciones confiables de opiniones, fortalecen el análisis crítico y ayudan a decidir qué elementos aportan mayor utilidad según evidencia disponible."
+  },
+  {
+    "intent_id": "hechos_verificables_calculos",
+    "keywords": [
+      "hechos",
+      "verificacion",
+      "analisis",
+      "calculo",
+      "formulas"
+    ],
+    "base_response": "Hechos verificables del texto requieren aplicar cálculos y fórmulas que permitan confirmar datos numéricos presentados. El lector compara valores, realiza operaciones básicas y valida coherencia cuantitativa para asegurar que la información ofrecida sea precisa, comprobable y científicamente confiable."
+  },
+  {
+    "intent_id": "hechos_verificables_simbioticos",
+    "keywords": [
+      "hechos",
+      "verificacion",
+      "texto",
+      "sistema",
+      "analisis"
+    ],
+    "base_response": "Hechos verificables del texto representan información comprobable que interactúa simbióticamente con otros sistemas de conocimiento, fortaleciendo la comprensión global. Al relacionarlos con datos externos confiables, se construyen conexiones que permiten interpretar el contenido con mayor precisión y coherencia científica."
+  },
+  {
+    "intent_id": "hechos_verificables_consecuencias",
+    "keywords": [
+      "hechos",
+      "verificacion",
+      "analisis",
+      "impacto",
+      "lectura"
+    ],
+    "base_response": "Hechos verificables del texto permiten anticipar consecuencias a largo plazo porque muestran información comprobable que ayuda a entender cómo ciertos eventos pueden influir en situaciones futuras. Al reconocer estos hechos, el lector desarrolla una visión más clara sobre posibles efectos duraderos."
+  },
+  {
+    "intent_id": "hechos_verificables_impacto_ambiental",
+    "keywords": [
+      "hechos",
+      "verificacion",
+      "impacto",
+      "ambiente",
+      "analisis"
+    ],
+    "base_response": "Hechos verificables del texto son datos comprobables que permiten evaluar con precisión el impacto ambiental descrito. Estos hechos se confirman mediante mediciones, registros científicos o evidencia directa, ayudando a distinguir información confiable y a comprender cómo las acciones humanas afectan los ecosistemas."
+  },
+  {
+    "intent_id": "hechos_verificables_futuros_tecnologia",
+    "keywords": [
+      "hecho",
+      "verificacion",
+      "tecnologia",
+      "proyeccion",
+      "analisis"
+    ],
+    "base_response": "Hechos verificables del texto son datos comprobables que permiten anticipar cómo la tecnología podría evolucionar. Estos hechos sirven para analizar tendencias, evaluar impactos y proyectar desarrollos futuros basados en evidencia clara que respalde conclusiones responsables y comprensibles para estudiantes."
+  },
+  {
+    "intent_id": "opiniones_subjetivas_lectura",
+    "keywords": [
+      "lectura",
+      "opiniones",
+      "interpretaciones",
+      "criterios"
+    ],
+    "base_response": "Opiniones subjetivas de lectura son valoraciones personales que cada lector construye según sus experiencias, emociones y conocimientos. Se organizan como una estructura interna donde intervienen preferencias, expectativas y conexiones individuales que influyen en la manera de comprender y juzgar un texto."
+  },
+  {
+    "intent_id": "opiniones_subjetivas_lectura_ecologico",
+    "keywords": [
+      "lectura",
+      "opiniones",
+      "interpretacion",
+      "contexto",
+      "entorno"
+    ],
+    "base_response": "Opiniones subjetivas de lectura surgen cuando cada lector interpreta un texto según su experiencia y relación con el entorno ecológico. Este enfoque permite comprender cómo factores ambientales influyen en percepciones personales y enriquecen la valoración de situaciones naturales descritas."
+  },
+  {
+    "intent_id": "opiniones_subjetivas_lectura_consecuencias",
+    "keywords": [
+      "lectura",
+      "opiniones",
+      "interpretaciones",
+      "impactos",
+      "procesos"
+    ],
+    "base_response": "Opiniones subjetivas de lectura pueden generar consecuencias a largo plazo porque influyen en cómo cada estudiante interpreta textos, forma criterios propios y desarrolla hábitos de análisis. Estas percepciones moldean futuras decisiones académicas y fortalecen la capacidad de evaluar información con mayor profundidad."
+  },
+  {
+    "intent_id": "opiniones_subjetivas_lectura_impacto_ambiental",
+    "keywords": [
+      "lectura",
+      "opiniones",
+      "impacto",
+      "ambiente",
+      "interpretacion"
+    ],
+    "base_response": "Opiniones subjetivas de lectura sobre impacto ambiental surgen cuando cada lector interpreta consecuencias ecológicas según su experiencia. Estas opiniones permiten reflexionar sobre daños posibles, valorar acciones humanas y comprender cómo decisiones individuales influyen directamente en equilibrio natural."
+  },
+  {
+    "intent_id": "lectura_opiniones_subjetivas_futuras",
+    "keywords": [
+      "lectura",
+      "opiniones",
+      "tecnologia",
+      "proyecciones",
+      "interpretaciones"
+    ],
+    "base_response": "Opiniones subjetivas de lectura permiten imaginar cómo la tecnología futura transformará historias y personajes. Al analizar textos, los estudiantes proyectan avances posibles y relacionan ideas con innovaciones emergentes, desarrollando pensamiento crítico y creatividad aplicada a escenarios tecnológicos venideros."
+  },
+  {
+    "intent_id": "tono_emocional_texto",
+    "keywords": [
+      "tono",
+      "emocion",
+      "mensaje",
+      "intencion",
+      "autor"
+    ],
+    "base_response": "Tono emocional del texto es la cualidad expresiva que revela la actitud afectiva del autor hacia el contenido. Se identifica mediante palabras, ritmo y estilo que transmiten sensaciones específicas. Su estructura orienta la interpretación emocional del mensaje escrito."
+  },
+  {
+    "intent_id": "tono_emocional_texto_fallas",
+    "keywords": [
+      "tono",
+      "emocion",
+      "confusion",
+      "interpretacion",
+      "lectura"
+    ],
+    "base_response": "Tono emocional del texto puede fallar cuando el autor usa expresiones contradictorias o exageradas que confunden la intención comunicativa. Estos errores dificultan comprender la actitud real del mensaje y generan interpretaciones equivocadas que afectan la lectura crítica del contenido."
+  },
+  {
+    "intent_id": "tono_emocional_mitos",
+    "keywords": [
+      "tono",
+      "emocion",
+      "texto",
+      "interpretacion",
+      "lectura"
+    ],
+    "base_response": "Tono emocional del texto no significa que el autor siempre sienta lo mismo que expresa. Un mito frecuente afirma que cualquier emoción escrita refleja directamente su estado real. En realidad, el tono puede ser construido para guiar la comprensión y provocar efectos específicos en el lector."
+  },
+  {
+    "intent_id": "tono_emocional_consecuencias",
+    "keywords": [
+      "tono",
+      "emocion",
+      "impacto",
+      "lectura",
+      "interpretacion"
+    ],
+    "base_response": "Tono emocional del texto influye en cómo los lectores construyen recuerdos y actitudes duraderas. Un tono positivo puede fortalecer confianza y motivación futura, mientras que uno negativo puede generar rechazo persistente. Comprenderlo permite anticipar efectos prolongados en la comprensión y valoración de contenidos."
+  },
+  {
+    "intent_id": "tono_emocional_texto_futuro_tecnologia",
+    "keywords": [
+      "tono",
+      "emocion",
+      "texto",
+      "tecnologia",
+      "proyeccion"
+    ],
+    "base_response": "Tono emocional del texto describe la sensacion que transmite un mensaje y permite anticipar como podria sentirse el lector frente a tecnologias futuras. Comprenderlo ayuda a interpretar innovaciones, evaluar impactos posibles y reconocer emociones proyectadas en narraciones sobre avances digitales."
+  },
+  {
+    "intent_id": "ironia_textual",
+    "keywords": [
+      "ironia",
+      "lectura",
+      "contraste",
+      "mensaje",
+      "interpretacion"
+    ],
+    "base_response": "Ironía en textos leídos es la estructura comunicativa donde el autor expresa una idea que contrasta con su significado real. Su anatomía incluye un mensaje explícito, un sentido oculto y un contexto que permite identificar la intención humorística, crítica o sorprendente del contenido."
+  },
+  {
+    "intent_id": "ironia_textual_funcionamiento",
+    "keywords": [
+      "ironia",
+      "lectura",
+      "interpretacion",
+      "mensaje",
+      "contraste"
+    ],
+    "base_response": "Ironía en textos leídos ocurre cuando el mensaje real difiere de lo que parece decirse. Su funcionamiento depende de contrastes entre palabras y situaciones que generan sentido oculto. Comprenderla exige analizar pistas que revelan intención comunicativa distinta y sorprendente."
+  },
+  {
+    "intent_id": "ironia_textos_quimica",
+    "keywords": [
+      "ironia",
+      "texto",
+      "reaccion",
+      "material"
+    ],
+    "base_response": "Ironía en textos leídos funciona como una reacción inesperada que transforma el sentido original, igual que ciertos materiales cambian al interactuar con sustancias específicas. Esta propiedad permite descubrir significados ocultos y comprender cómo el lenguaje altera su comportamiento según el contexto narrativo."
+  },
+  {
+    "intent_id": "ironia_textos_malentendidos",
+    "keywords": [
+      "ironia",
+      "interpretacion",
+      "lectura",
+      "confusion",
+      "sentido"
+    ],
+    "base_response": "Ironía en textos leídos implica detectar un mensaje que dice lo contrario de lo que aparenta. Un error común es interpretar todo literalmente, ignorando pistas del tono. Esta falla provoca confusiones frecuentes y dificulta comprender la intención real del autor."
+  },
+  {
+    "intent_id": "ironia_textos_historia",
+    "keywords": [
+      "ironia",
+      "lenguaje",
+      "contexto",
+      "interpretacion",
+      "autor"
+    ],
+    "base_response": "La ironía surgió como recurso expresivo en culturas antiguas para comunicar ideas ocultas mediante contrastes entre lo dicho y lo pensado. Su evolución literaria permitió a los autores criticar situaciones sociales y crear significados profundos que requieren interpretación cuidadosa del lector."
+  },
+  {
+    "intent_id": "ironia_textos_ecologicos",
+    "keywords": [
+      "ironia",
+      "contexto",
+      "entorno",
+      "lectura",
+      "interpretacion"
+    ],
+    "base_response": "Ironía en textos leídos implica reconocer expresiones que dicen lo contrario de lo que aparentan. En un contexto ecológico, permite identificar críticas sutiles sobre acciones humanas que afectan ambientes naturales, ayudando a comprender mensajes ocultos y reflexionar sobre consecuencias ambientales."
+  },
+  {
+    "intent_id": "ironia_textos_aplicacion",
+    "keywords": [
+      "ironia",
+      "lectura",
+      "interpretacion",
+      "contexto",
+      "comprension"
+    ],
+    "base_response": "Ironía en textos leídos permite reconocer mensajes ocultos que contradicen lo dicho. Aplicarla en la vida real ayuda a identificar bromas, críticas sutiles y advertencias disfrazadas, mejorando la comunicación y evitando malentendidos en conversaciones cotidianas y situaciones sociales diversas."
+  },
+  {
+    "intent_id": "ironia_textos_impacto_social",
+    "keywords": [
+      "ironia",
+      "lectura",
+      "mensaje",
+      "interpretacion",
+      "comunicacion"
+    ],
+    "base_response": "Ironía en textos leídos permite comprender cómo ciertos mensajes cuestionan conductas sociales y revelan problemas colectivos. Su uso fomenta pensamiento crítico, ayuda a identificar contradicciones y promueve reflexión sobre actitudes que afectan la convivencia, fortaleciendo participación responsable en la comunidad."
+  },
+  {
+    "intent_id": "ironia_textos_comparativa",
+    "keywords": [
+      "ironia",
+      "lectura",
+      "interpretacion",
+      "contraste",
+      "mensaje"
+    ],
+    "base_response": "La ironía en textos leídos permite comparar ventajas y desventajas al revelar significados ocultos que enriquecen la comprensión. Facilita detectar contradicciones útiles para el análisis, aunque puede generar confusión si el lector no identifica las intenciones reales del autor."
+  },
+  {
+    "intent_id": "ironia_textos_leidos",
+    "keywords": [
+      "ironia",
+      "lectura",
+      "interpretacion",
+      "riesgo",
+      "seguridad"
+    ],
+    "base_response": "Ironía en textos leídos implica reconocer cuando las palabras expresan lo contrario de lo que parecen. Comprenderla evita confusiones y reduce riesgos de interpretar mensajes dañinos o engañosos. Aplicar medidas de seguridad lectora ayuda a identificar intenciones reales y proteger decisiones informadas."
+  },
+  {
+    "intent_id": "ironia_textual_clasificacion",
+    "keywords": [
+      "ironia",
+      "mensaje",
+      "contraste",
+      "interpretacion",
+      "lectura"
+    ],
+    "base_response": "Ironía en textos leídos implica reconocer expresiones donde el mensaje real contrasta con lo dicho. En la clasificación taxonómica se identifica el tipo de ironía según su función comunicativa, permitiendo comprender intenciones ocultas y analizar cómo influyen en la interpretación global."
+  },
+  {
+    "intent_id": "ironia_textual_calculo",
+    "keywords": [
+      "ironia",
+      "lectura",
+      "analisis",
+      "inferencias",
+      "interpretacion"
+    ],
+    "base_response": "Ironía en textos leídos implica calcular el contraste entre lo que se dice y lo que realmente se quiere comunicar. Este cálculo exige identificar pistas lingüísticas, evaluar el contexto y formular una interpretación coherente que revele el sentido oculto del mensaje."
+  },
+  {
+    "intent_id": "ironia_textos_mitos",
+    "keywords": [
+      "ironia",
+      "lectura",
+      "interpretacion",
+      "mensaje",
+      "autor"
+    ],
+    "base_response": "La ironía suele confundirse con burla directa, pero en realidad es un recurso que expresa lo contrario de lo que aparenta. Muchos creen que siempre busca ridiculizar, aunque su función principal es revelar significados ocultos y estimular una lectura más crítica."
+  },
+  {
+    "intent_id": "ironia_textual_simbiotica",
+    "keywords": [
+      "ironia",
+      "texto",
+      "lector",
+      "interpretacion",
+      "contexto"
+    ],
+    "base_response": "Ironía en textos leídos muestra cómo un mensaje depende de la relación simbiótica entre intención del autor y comprensión del lector. Esta interacción permite detectar significados ocultos, contrastes y críticas que solo emergen cuando ambos sistemas cooperan plenamente."
+  },
+  {
+    "intent_id": "ironia_textual_ciclos",
+    "keywords": [
+      "ironia",
+      "lectura",
+      "mensaje",
+      "interpretacion",
+      "contexto"
+    ],
+    "base_response": "Ironía en textos leídos implica reconocer expresiones que dicen algo distinto a lo esperado, generando un contraste que transforma la comprensión. Este proceso funciona como un ciclo interpretativo donde el lector detecta señales, reorganiza significados y produce una nueva lectura más profunda."
+  },
+  {
+    "intent_id": "ironia_textual_consecuencias",
+    "keywords": [
+      "ironia",
+      "lectura",
+      "interpretacion",
+      "comprension",
+      "analisis"
+    ],
+    "base_response": "Ironía en textos leídos implica reconocer mensajes ocultos que pueden influir en la comprensión futura. Su dominio fortalece la capacidad de interpretar intenciones complejas, evitar malentendidos y desarrollar pensamiento crítico que mejora la lectura a largo plazo y favorece decisiones comunicativas más precisas."
+  },
+  {
+    "intent_id": "ironia_textos_impacto_ambiental",
+    "keywords": [
+      "ironia",
+      "lectura",
+      "impacto",
+      "ambiente",
+      "interpretacion"
+    ],
+    "base_response": "Ironía en textos leídos implica reconocer expresiones que dicen lo contrario de lo que aparentan, destacando efectos ambientales para generar reflexión crítica. Este recurso permite comprender cómo ciertas acciones humanas dañan ecosistemas y cómo los autores enfatizan consecuencias mediante contrastes intencionales."
+  },
+  {
+    "intent_id": "analisis_ironia_textual",
+    "keywords": [
+      "ironia",
+      "lectura",
+      "interpretacion",
+      "sentido",
+      "mensaje"
+    ],
+    "base_response": "La ironía en textos leídos se mantiene y previene cuando el lector identifica expresiones que dicen lo contrario de lo que realmente significan. Este reconocimiento permite evitar confusiones, conservar la coherencia interpretativa y fortalecer la comprensión crítica del mensaje presentado."
+  },
+  {
+    "intent_id": "ironia_textos_futuros",
+    "keywords": [
+      "ironia",
+      "lectura",
+      "tecnologia",
+      "proyeccion",
+      "interpretacion"
+    ],
+    "base_response": "Ironía en textos leídos implica reconocer mensajes que dicen lo contrario de lo esperado. En proyecciones futuras y tecnología, permite analizar cómo autores imaginan avances con tono crítico o humorístico, ayudando a comprender intenciones ocultas y reflexionar sobre posibles escenarios tecnológicos."
+  },
+  {
+    "intent_id": "sarcasmo_comprension_lectora",
+    "keywords": [
+      "sarcasmo",
+      "lectura",
+      "interpretacion",
+      "intencion",
+      "lenguaje"
+    ],
+    "base_response": "Sarcasmo en comprensión lectora es la estructura comunicativa donde el texto expresa una idea literal pero pretende transmitir un significado opuesto. Su anatomía incluye tono irónico, contexto contradictorio y pistas lingüísticas que permiten identificar la intención real del autor."
+  },
+  {
+    "intent_id": "sarcasmo_comprension_lectora_contexto_ecologico",
+    "keywords": [
+      "sarcasmo",
+      "lectura",
+      "contexto",
+      "interpretacion",
+      "intencion"
+    ],
+    "base_response": "El sarcasmo en comprensión lectora requiere identificar expresiones que contradicen su significado literal y dependen del entorno comunicativo. Reconocer señales del contexto ecológico permite entender la intención real del autor y evitar interpretaciones erróneas que afectan la coherencia del mensaje."
+  },
+  {
+    "intent_id": "sarcasmo_comprension_lectora_mitos",
+    "keywords": [
+      "sarcasmo",
+      "lectura",
+      "interpretacion",
+      "ironias",
+      "contexto"
+    ],
+    "base_response": "Sarcasmo en comprensión lectora suele confundirse con simple ironía o burla directa, lo que genera interpretaciones erróneas. Un mito común afirma que siempre expresa agresividad, cuando en realidad depende del contexto y la intención comunicativa del autor."
+  },
+  {
+    "intent_id": "sarcasmo_comprension_simbiotica",
+    "keywords": [
+      "sarcasmo",
+      "lectura",
+      "contexto",
+      "interpretacion",
+      "intencion"
+    ],
+    "base_response": "Sarcasmo en comprensión lectora funciona como señal que interactúa con otros sistemas comunicativos, permitiendo reconocer intenciones ocultas. Esta relación simbiótica exige interpretar tono, contexto y propósito para comprender cómo el mensaje transforma su significado real y guía la lectura crítica."
+  },
+  {
+    "intent_id": "sarcasmo_comprension_larga_duracion",
+    "keywords": [
+      "sarcasmo",
+      "lectura",
+      "interpretacion",
+      "impacto",
+      "habilidad"
+    ],
+    "base_response": "El sarcasmo en comprensión lectora puede generar efectos duraderos, fortaleciendo la habilidad para detectar intenciones ocultas y matices emocionales. Con práctica constante, los estudiantes desarrollan pensamiento crítico más sólido y mayor sensibilidad comunicativa, mejorando su capacidad para analizar textos complejos en etapas educativas posteriores."
+  },
+  {
+    "intent_id": "sarcasmo_lectura_futuro",
+    "keywords": [
+      "sarcasmo",
+      "lectura",
+      "tecnologia",
+      "algoritmo",
+      "interpretacion"
+    ],
+    "base_response": "Sarcasmo en comprensión lectora implica reconocer expresiones que dicen lo contrario de lo que aparentan. Futuras tecnologías usarán algoritmos avanzados capaces de detectar estas intenciones, ayudando a estudiantes a interpretar textos digitales con mayor precisión y desarrollar pensamiento crítico frente a mensajes complejos."
+  },
+  {
+    "intent_id": "doble_sentido_textual",
+    "keywords": [
+      "ambiguedad",
+      "interpretacion",
+      "mensaje",
+      "contexto",
+      "lectura"
+    ],
+    "base_response": "Doble sentido del texto es la estructura que permite que una expresión escrita posea dos interpretaciones posibles. Surge cuando las palabras generan ambigüedad y requieren analizar el contexto para comprender el mensaje real. Favorece una lectura crítica y consciente."
+  },
+  {
+    "intent_id": "doble_sentido_texto",
+    "keywords": [
+      "texto",
+      "interpretacion",
+      "contexto",
+      "materiales",
+      "reacciones"
+    ],
+    "base_response": "Doble sentido del texto ocurre cuando una descripción permite dos interpretaciones posibles sobre materiales o reacciones químicas. Este recurso exige analizar cuidadosamente propiedades, comportamientos y cambios para distinguir significados y evitar confusiones al estudiar fenómenos químicos en situaciones diversas."
+  },
+  {
+    "intent_id": "doble_sentido_texto_ecologico",
+    "keywords": [
+      "texto",
+      "contexto",
+      "ecosistema",
+      "interpretacion",
+      "significado"
+    ],
+    "base_response": "Doble sentido del texto implica reconocer que una expresión puede tener significados distintos según el entorno ecológico descrito. Comprender estos matices permite interpretar cómo elementos naturales influyen en mensajes que cambian según condiciones ambientales y relaciones entre seres vivos."
+  },
+  {
+    "intent_id": "doble_sentido_texto_futuro_tecnologia",
+    "keywords": [
+      "interpretacion",
+      "contexto",
+      "mensaje",
+      "innovacion",
+      "comunicacion"
+    ],
+    "base_response": "Doble sentido del texto implica reconocer que un mensaje puede tener significados distintos según contexto y propósito. En proyecciones futuras y tecnología, este recurso permitirá crear comunicaciones más dinámicas, adaptables y capaces de transmitir ideas complejas mediante sistemas avanzados de interpretación automatizada."
+  },
+  {
+    "intent_id": "lectura_inferencial_documentos",
+    "keywords": [
+      "lectura",
+      "inferencia",
+      "analisis",
+      "contenido",
+      "significado"
+    ],
+    "base_response": "Lectura inferencial de documentos es la capacidad de identificar elementos internos que no aparecen explícitos, examinando estructura, relaciones y pistas textuales. Esta lectura permite construir significados ocultos mediante conexiones lógicas que surgen de la organización y función de cada parte del documento."
+  },
+  {
+    "intent_id": "lectura_inferencial_documentos_quimicos",
+    "keywords": [
+      "lectura",
+      "inferencias",
+      "documentos",
+      "propiedades",
+      "materiales"
+    ],
+    "base_response": "Lectura inferencial de documentos implica analizar textos cientificos para deducir propiedades quimicas o materiales no expresadas directamente. El estudiante interpreta datos, relaciona conceptos y formula conclusiones sobre comportamientos de sustancias mediante pistas textuales y evidencia presentada."
+  },
+  {
+    "intent_id": "lectura_inferencial_ecologica",
+    "keywords": [
+      "lectura",
+      "inferencia",
+      "documento",
+      "ecosistema",
+      "analisis"
+    ],
+    "base_response": "Lectura inferencial de documentos implica interpretar información ambiental más allá de lo explícito, relacionando datos con procesos ecológicos. Permite comprender dinámicas naturales, identificar impactos y anticipar cambios en ecosistemas mediante conexiones lógicas que fortalecen el pensamiento crítico sobre el entorno."
+  },
+  {
+    "intent_id": "lectura_inferencial_mitos",
+    "keywords": [
+      "lectura",
+      "inferencia",
+      "mito",
+      "error",
+      "interpretacion"
+    ],
+    "base_response": "Lectura inferencial no significa adivinar contenido oculto ni inventar información. Este mito surge cuando se confunde interpretar con suponer sin evidencia. La lectura inferencial exige relacionar datos del texto con conocimientos previos para construir conclusiones coherentes y verificables."
+  },
+  {
+    "intent_id": "lectura_inferencial_simbiotica",
+    "keywords": [
+      "lectura",
+      "inferencia",
+      "documentos",
+      "analisis",
+      "contexto"
+    ],
+    "base_response": "Lectura inferencial de documentos implica interpretar información oculta mediante conexiones entre datos y significados. Esta habilidad establece una relación simbiótica con otros sistemas porque integra conocimientos previos, patrones comunicativos y estructuras lógicas que fortalecen la comprensión profunda y la toma de decisiones informadas."
+  },
+  {
+    "intent_id": "lectura_inferencial_impacto_ambiental",
+    "keywords": [
+      "lectura",
+      "analisis",
+      "impacto",
+      "ecosistema",
+      "contaminacion"
+    ],
+    "base_response": "Lectura inferencial de documentos implica interpretar información ambiental más allá de lo explícito, identificando causas y consecuencias ocultas. Permite comprender cómo ciertas acciones humanas generan impactos en ecosistemas, favoreciendo decisiones responsables basadas en evidencias y relaciones lógicas presentes en textos técnicos."
+  },
+  {
+    "intent_id": "lectura_inferencial_futuro_tecnologico",
+    "keywords": [
+      "lectura",
+      "inferencia",
+      "proyeccion",
+      "tecnologia",
+      "analisis"
+    ],
+    "base_response": "Lectura inferencial de documentos implica anticipar posibles avances tecnológicos mediante pistas textuales. El estudiante analiza información explícita y oculta para imaginar innovaciones futuras, evaluar impactos sociales y comprender cómo la tecnología podría transformar actividades cotidianas y entornos educativos."
+  },
+  {
+    "intent_id": "lectura_literal_textos",
+    "keywords": [
+      "lectura",
+      "texto",
+      "contenido",
+      "identificacion",
+      "informacion"
+    ],
+    "base_response": "Lectura literal de textos consiste en reconocer información explícita presentada en una estructura escrita. Incluye identificar datos básicos, secuencias y elementos visibles sin interpretar significados ocultos. Su enfoque se centra en comprender directamente lo que el texto muestra de manera evidente."
+  },
+  {
+    "intent_id": "lectura_literal_propiedades_materiales",
+    "keywords": [
+      "lectura",
+      "analisis",
+      "texto",
+      "propiedades",
+      "materiales"
+    ],
+    "base_response": "Lectura literal de textos implica identificar información explícita sobre propiedades químicas o materiales descritas en un escrito. Permite reconocer características como reactividad, dureza o conductividad sin interpretar más allá de lo señalado directamente por el autor."
+  },
+  {
+    "intent_id": "lectura_literal_patologias",
+    "keywords": [
+      "lectura",
+      "interpretacion",
+      "texto",
+      "confusion",
+      "comprension"
+    ],
+    "base_response": "Lectura literal de textos puede presentar fallas cuando el lector solo identifica palabras sin captar sentido global. Surgen errores como confundir datos, ignorar relaciones logicas y asumir significados incorrectos. Estas patologias dificultan comprender ideas esenciales y responder adecuadamente."
+  },
+  {
+    "intent_id": "lectura_literal_historia",
+    "keywords": [
+      "lectura",
+      "analisis",
+      "texto",
+      "comprension",
+      "origen"
+    ],
+    "base_response": "La lectura literal surgió cuando las primeras civilizaciones comenzaron a registrar información escrita y necesitaban interpretarla de manera directa. Con el tiempo evolucionó como una habilidad básica que permite identificar datos explícitos y comprender el sentido inmediato de cualquier texto."
+  },
+  {
+    "intent_id": "lectura_literal_ecologica",
+    "keywords": [
+      "lectura",
+      "analisis",
+      "ecosistema",
+      "interpretacion",
+      "contexto"
+    ],
+    "base_response": "Lectura literal de textos implica identificar información explícita vinculada al entorno ecológico, reconociendo elementos naturales, relaciones ambientales y datos observables. Permite comprender cómo interactúan organismos y recursos, fortaleciendo la interpretación directa de situaciones ecológicas descritas en materiales escritos."
+  },
+  {
+    "intent_id": "lectura_literal_importancia_social",
+    "keywords": [
+      "lectura",
+      "comprension",
+      "analisis",
+      "informacion",
+      "impacto"
+    ],
+    "base_response": "Lectura literal de textos permite identificar datos esenciales que fortalecen la comunicación social y mejoran la participación informada. Su práctica constante ayuda a comprender mensajes públicos, evitar confusiones y apoyar decisiones colectivas responsables dentro de comunidades diversas."
+  },
+  {
+    "intent_id": "lectura_literal_seguridad",
+    "keywords": [
+      "lectura",
+      "analisis",
+      "riesgo",
+      "interpretacion",
+      "seguridad"
+    ],
+    "base_response": "Lectura literal de textos implica identificar información explícita para evitar riesgos al interpretar instrucciones sensibles. Permite reconocer advertencias, pasos obligatorios y límites de acción, asegurando decisiones seguras. Favorece la comprensión precisa y reduce errores que pueden generar situaciones peligrosas."
+  },
+  {
+    "intent_id": "lectura_literal_mitos",
+    "keywords": [
+      "lectura",
+      "texto",
+      "mito",
+      "interpretacion",
+      "comprension"
+    ],
+    "base_response": "La lectura literal suele confundirse con una comprensión completa, pero este mito ignora que muchos textos requieren interpretar significados ocultos. Creer que solo leer palabras garantiza entender todo provoca errores y limita el análisis profundo necesario para captar ideas complejas."
+  },
+  {
+    "intent_id": "lectura_literal_simbiotica",
+    "keywords": [
+      "lectura",
+      "analisis",
+      "texto",
+      "significado",
+      "interpretacion"
+    ],
+    "base_response": "Lectura literal de textos implica reconocer información explícita y relacionarla con sistemas simbióticos como lenguaje, memoria y contexto cultural. Esta conexión permite comprender datos directos y fortalecer habilidades cognitivas que integran diversos procesos mentales para construir sentido coherente."
+  },
+  {
+    "intent_id": "lectura_literal_transformacion",
+    "keywords": [
+      "lectura",
+      "analisis",
+      "informacion",
+      "procesos",
+      "energia"
+    ],
+    "base_response": "Lectura literal de textos implica identificar datos explícitos que describen cómo la energía cambia de forma y circula entre sistemas. Permite reconocer secuencias, causas y efectos presentes en explicaciones sobre ciclos energéticos, facilitando una comprensión inicial precisa y verificable."
+  },
+  {
+    "intent_id": "lectura_literal_consecuencias",
+    "keywords": [
+      "lectura",
+      "interpretacion",
+      "comprension",
+      "analisis",
+      "significado"
+    ],
+    "base_response": "La lectura literal de textos puede generar consecuencias a largo plazo cuando se limita a identificar información explícita sin profundizar en ideas complejas. Esta práctica reduce la capacidad de interpretar matices, afecta el pensamiento crítico y dificulta comprender mensajes más profundos en situaciones académicas futuras."
+  },
+  {
+    "intent_id": "lectura_literal_impacto_ambiental",
+    "keywords": [
+      "lectura",
+      "analisis",
+      "texto",
+      "impacto",
+      "ambiente"
+    ],
+    "base_response": "Lectura literal de textos implica identificar información explícita que describe acciones humanas y sus efectos ambientales. Permite reconocer datos concretos sobre contaminación, uso de recursos y cambios en ecosistemas, facilitando la comprensión inicial de problemas ecológicos y la toma de decisiones responsables."
+  },
+  {
+    "intent_id": "lectura_literal_futuro_tecnologia",
+    "keywords": [
+      "lectura",
+      "analisis",
+      "texto",
+      "tecnologia",
+      "proyeccion"
+    ],
+    "base_response": "Lectura literal de textos implica identificar información explícita usando herramientas tecnológicas que facilitan la comprensión. En el futuro, sistemas inteligentes permitirán analizar datos escritos con mayor rapidez, destacando detalles esenciales y apoyando decisiones educativas basadas en interpretaciones precisas y verificables."
+  },
+  {
+    "intent_id": "metacognicion_comprension_lectora",
+    "keywords": [
+      "metacognicion",
+      "lectura",
+      "comprension",
+      "procesamiento",
+      "autorregulacion"
+    ],
+    "base_response": "Metacognición de comprensión lectora es la estructura mental que permite identificar, monitorear y ajustar cómo se entiende un texto. Incluye reconocer dificultades, seleccionar estrategias y evaluar resultados para asegurar una interpretación coherente y consciente del contenido escrito."
+  },
+  {
+    "intent_id": "metacognicion_comprension_simbiotica",
+    "keywords": [
+      "metacognicion",
+      "comprension",
+      "lectura",
+      "procesamiento",
+      "retroalimentacion"
+    ],
+    "base_response": "Metacognición de comprensión lectora implica reconocer cómo los procesos mentales interactúan con sistemas simbólicos como lenguaje y memoria, fortaleciendo la interpretación de textos. Esta relación permite ajustar estrategias, mejorar la coherencia y construir significados más profundos mediante reflexión consciente continua."
+  },
+  {
+    "intent_id": "metacognicion_comprension_largo_plazo",
+    "keywords": [
+      "metacognicion",
+      "lectura",
+      "comprension",
+      "autoevaluacion",
+      "progreso"
+    ],
+    "base_response": "Metacognición de comprensión lectora impulsa habilidades duraderas que fortalecen la capacidad de analizar textos, ajustar estrategias y reflexionar sobre avances personales. A largo plazo, favorece autonomía intelectual, pensamiento crítico y adaptación efectiva ante desafíos académicos cada vez más complejos."
+  },
+  {
+    "intent_id": "metacognicion_lectora_futuro",
+    "keywords": [
+      "metacognicion",
+      "lectura",
+      "tecnologia",
+      "proyeccion",
+      "analisis"
+    ],
+    "base_response": "Metacognición de comprensión lectora integra herramientas digitales que permiten evaluar procesos mentales durante la lectura. Su desarrollo impulsa plataformas inteligentes capaces de guiar estrategias personalizadas, anticipar dificultades y fortalecer habilidades críticas mediante sistemas adaptativos que proyectan mejoras continuas en el aprendizaje."
+  },
+  {
+    "intent_id": "automonitoreo_lectura",
+    "keywords": [
+      "automonitoreo",
+      "lectura",
+      "proceso",
+      "comprension",
+      "evaluacion"
+    ],
+    "base_response": "Automonitoreo durante la lectura es la estructura mental que permite revisar continuamente el propio entendimiento del texto. Incluye identificar confusiones, ajustar estrategias y verificar coherencia. Funciona como un sistema interno que controla y regula la comprensión mientras se avanza."
+  },
+  {
+    "intent_id": "automonitoreo_lectura_materiales",
+    "keywords": [
+      "automonitoreo",
+      "lectura",
+      "procesos",
+      "comprension",
+      "analisis"
+    ],
+    "base_response": "Automonitoreo durante la lectura implica revisar constantemente la comprensión mientras se analizan textos que describen propiedades químicas o materiales. Este proceso permite identificar errores, ajustar interpretaciones y relacionar conceptos científicos con información nueva para fortalecer el aprendizaje autónomo."
+  },
+  {
+    "intent_id": "automonitoreo_lectura_fallas",
+    "keywords": [
+      "automonitoreo",
+      "lectura",
+      "errores",
+      "confusion",
+      "comprension"
+    ],
+    "base_response": "Automonitoreo durante la lectura implica detectar fallas cuando el significado se vuelve confuso. Los lectores pueden ignorar señales de error, avanzar sin verificar comprensión o repetir palabras sin sentido. Reconocer estas dificultades permite corregir estrategias y fortalecer la interpretación del texto."
+  },
+  {
+    "intent_id": "automonitoreo_lectura_origen",
+    "keywords": [
+      "automonitoreo",
+      "lectura",
+      "procesamiento",
+      "comprension",
+      "evaluacion"
+    ],
+    "base_response": "Automonitoreo durante la lectura surgió cuando investigadores comenzaron a estudiar cómo los lectores detectan errores y ajustan su comprensión. Su evolución mostró que esta habilidad se fortalece con práctica consciente, permitiendo identificar fallas, corregir interpretaciones y mejorar el entendimiento de textos cada vez más complejos."
+  },
+  {
+    "intent_id": "automonitoreo_lectura_ecologico",
+    "keywords": [
+      "automonitoreo",
+      "lectura",
+      "comprension",
+      "entorno",
+      "contexto"
+    ],
+    "base_response": "Automonitoreo durante la lectura implica revisar constantemente la comprensión mientras se interpreta un texto, considerando cómo el entorno influye en la concentración. Este proceso permite ajustar estrategias cuando factores externos afectan la interpretación, fortaleciendo la capacidad de mantener claridad y sentido en diversas situaciones."
+  },
+  {
+    "intent_id": "automonitoreo_lectura_aplicacion",
+    "keywords": [
+      "lectura",
+      "comprension",
+      "verificacion",
+      "proceso",
+      "analisis"
+    ],
+    "base_response": "Automonitoreo durante la lectura implica revisar constantemente si se entiende el texto. En la vida real permite detectar confusiones, ajustar el ritmo y buscar aclaraciones. Esta práctica mejora decisiones cotidianas al interpretar instrucciones, mensajes importantes o información escolar."
+  },
+  {
+    "intent_id": "automonitoreo_lectura_impacto_social",
+    "keywords": [
+      "automonitoreo",
+      "lectura",
+      "comprension",
+      "proceso",
+      "habilidad"
+    ],
+    "base_response": "Automonitoreo durante la lectura fortalece la comprensión y permite detectar errores mientras se avanza. Su práctica constante mejora la comunicación, favorece el aprendizaje colaborativo y promueve ciudadanos capaces de analizar información con responsabilidad, apoyando una sociedad más crítica y participativa."
+  },
+  {
+    "intent_id": "automonitoreo_lectura_seguridad",
+    "keywords": [
+      "automonitoreo",
+      "lectura",
+      "riesgo",
+      "confusion",
+      "verificacion"
+    ],
+    "base_response": "Automonitoreo durante la lectura implica vigilar continuamente la comprensión para detectar riesgos como confusiones o interpretaciones erróneas. Esta práctica permite aplicar medidas de seguridad cognitiva, revisar información dudosa y ajustar estrategias para mantener una comprensión clara y confiable del texto."
+  },
+  {
+    "intent_id": "mitos_automonitoreo_lectura",
+    "keywords": [
+      "automonitoreo",
+      "lectura",
+      "mitos",
+      "errores",
+      "comprension"
+    ],
+    "base_response": "Automonitoreo durante la lectura suele confundirse con una habilidad automática que aparece sin práctica. Este mito provoca que muchos estudiantes crean que comprender siempre ocurre de inmediato, cuando en realidad requiere revisar, cuestionar y ajustar constantemente lo que se entiende."
+  },
+  {
+    "intent_id": "automonitoreo_lectura_simbiosis",
+    "keywords": [
+      "automonitoreo",
+      "lectura",
+      "comprension",
+      "procesamiento",
+      "retroalimentacion"
+    ],
+    "base_response": "Automonitoreo durante la lectura implica revisar constantemente la comprensión y ajustar estrategias cuando surge confusión. Funciona en relación simbiótica con sistemas cognitivos como memoria y atención, fortaleciendo la capacidad de interpretar información y mejorar el aprendizaje de manera continua."
+  },
+  {
+    "intent_id": "automonitoreo_lectura_consecuencias",
+    "keywords": [
+      "automonitoreo",
+      "lectura",
+      "comprension",
+      "habilidad",
+      "progreso"
+    ],
+    "base_response": "Automonitoreo durante la lectura fortalece la capacidad de revisar y ajustar la comprensión, lo que mejora el aprendizaje sostenido. A largo plazo, desarrolla lectores más críticos y autónomos capaces de identificar errores, corregirlos y construir conocimientos profundos que permanecen y se aplican en nuevas situaciones."
+  },
+  {
+    "intent_id": "automonitoreo_lectura_impacto_ambiental",
+    "keywords": [
+      "automonitoreo",
+      "lectura",
+      "comprension",
+      "impacto",
+      "ambiente"
+    ],
+    "base_response": "Automonitoreo durante la lectura implica revisar constantemente la comprensión para identificar ideas ambientales clave, reconocer efectos de acciones humanas y anticipar consecuencias ecológicas. Esta práctica fortalece el análisis crítico y permite tomar decisiones responsables que reduzcan daños y promuevan equilibrio sostenible."
+  },
+  {
+    "intent_id": "automonitoreo_lectura_tecnologia",
+    "keywords": [
+      "automonitoreo",
+      "lectura",
+      "tecnologia",
+      "proyecciones",
+      "analisis"
+    ],
+    "base_response": "Automonitoreo durante la lectura integra herramientas digitales que permiten verificar comprensión en tiempo real. Futuras aplicaciones usarán inteligencia artificial para detectar dificultades, sugerir estrategias personalizadas y fortalecer hábitos lectores mediante retroalimentación inmediata que impulse autonomía y mejora continua."
+  },
+  {
+    "intent_id": "relectura_parrafos_confusos",
+    "keywords": [
+      "relectura",
+      "parrafo",
+      "clarificacion",
+      "comprension",
+      "analisis"
+    ],
+    "base_response": "Relectura de párrafos confusos es la acción de volver a revisar un fragmento difícil para identificar su estructura interna. Implica observar cómo se organizan las ideas, reconocer conexiones lógicas y ajustar la interpretación para lograr una comprensión más precisa del contenido presentado."
+  },
+  {
+    "intent_id": "relectura_parrafos_confusos_futuro_tecnologia",
+    "keywords": [
+      "relectura",
+      "parrafos",
+      "analisis",
+      "comprension",
+      "tecnologia"
+    ],
+    "base_response": "Relectura de párrafos confusos implica usar herramientas tecnológicas futuras que detectan ideas clave y reorganizan información para facilitar la comprensión. Estas tecnologías permiten revisar textos complejos, aclarar significados y fortalecer habilidades lectoras mediante análisis automático y sugerencias inteligentes."
+  },
+  {
+    "intent_id": "preguntas_textos_leidos",
+    "keywords": [
+      "pregunta",
+      "texto",
+      "lectura",
+      "analisis"
+    ],
+    "base_response": "Preguntas sobre textos leídos son estructuras que organizan la exploración de información presente en un escrito. Funcionan como herramientas que permiten identificar datos, reconocer ideas principales, examinar detalles relevantes y comprender cómo se relacionan las partes del contenido."
+  },
+  {
+    "intent_id": "preguntas_textos_propiedades_quimicas",
+    "keywords": [
+      "lectura",
+      "analisis",
+      "materia",
+      "transformacion",
+      "reactividad"
+    ],
+    "base_response": "Preguntas sobre textos leídos permiten identificar cómo las propiedades químicas o materiales se describen y aplican en situaciones concretas. Facilitan reconocer cambios, reacciones y características de la materia, promoviendo comprensión profunda y uso adecuado de información científica presentada en el texto."
+  },
+  {
+    "intent_id": "preguntas_textos_leidos_fallas_comunes",
+    "keywords": [
+      "lectura",
+      "interpretacion",
+      "confusion",
+      "omision",
+      "comprension"
+    ],
+    "base_response": "Preguntas sobre textos leídos suelen presentar fallas cuando el estudiante interpreta de manera incompleta, confunde información relevante, omite detalles esenciales o formula dudas sin relación directa con el contenido. Estas dificultades afectan la comprensión global y limitan el análisis adecuado."
+  },
+  {
+    "intent_id": "preguntas_textos_leidos_evolucion",
+    "keywords": [
+      "lectura",
+      "analisis",
+      "pregunta",
+      "comprension",
+      "origen"
+    ],
+    "base_response": "Preguntas sobre textos leídos surgieron cuando las primeras comunidades buscaban entender relatos escritos y su intención. Con el tiempo evolucionaron para analizar ideas, personajes y contextos, permitiendo profundizar en el significado y fortalecer la comprensión crítica de cualquier contenido narrado."
+  },
+  {
+    "intent_id": "preguntas_textos_ecologicos",
+    "keywords": [
+      "preguntas",
+      "textos",
+      "lectura",
+      "analisis",
+      "contexto"
+    ],
+    "base_response": "Preguntas sobre textos leídos permiten relacionar información escrita con situaciones ecológicas reales, identificando causas, efectos y soluciones posibles. Este proceso fortalece la comprensión crítica y ayuda a reconocer cómo las acciones humanas influyen en el equilibrio ambiental."
+  },
+  {
+    "intent_id": "preguntas_textos_leidos_impacto_social",
+    "keywords": [
+      "lectura",
+      "analisis",
+      "comprension",
+      "dialogo"
+    ],
+    "base_response": "Preguntas sobre textos leídos fortalecen la comprensión crítica y permiten que los estudiantes relacionen ideas con situaciones reales. Este proceso impulsa el diálogo informado, fomenta la participación responsable y ayuda a construir comunidades capaces de reflexionar sobre problemas sociales y proponer soluciones significativas."
+  },
+  {
+    "intent_id": "preguntas_textos_leidos_comparativas",
+    "keywords": [
+      "pregunta",
+      "texto",
+      "analisis",
+      "ventaja",
+      "desventaja"
+    ],
+    "base_response": "Preguntas sobre textos leídos permiten comparar ideas para reconocer ventajas y desventajas entre personajes, acciones o argumentos. Facilitan evaluar información, identificar diferencias relevantes y decidir qué elementos resultan más útiles según el propósito de lectura y la comprensión alcanzada."
+  },
+  {
+    "intent_id": "preguntas_textos_riesgos_seguridad",
+    "keywords": [
+      "lectura",
+      "analisis",
+      "riesgo",
+      "seguridad",
+      "evaluacion"
+    ],
+    "base_response": "Preguntas sobre textos leídos permiten identificar riesgos presentes en una situación descrita y reconocer medidas de seguridad adecuadas. Al analizar información escrita, los estudiantes desarrollan criterio para detectar peligros, comprender consecuencias y aplicar acciones preventivas que protejan su bienestar."
+  },
+  {
+    "intent_id": "preguntas_textos_calculos",
+    "keywords": [
+      "preguntas",
+      "textos",
+      "calculos",
+      "analisis",
+      "lectura"
+    ],
+    "base_response": "Preguntas sobre textos leídos pueden incluir cálculos simples que permiten verificar datos, comparar cantidades o estimar valores mencionados. Estas operaciones ayudan a comprender mejor la información, confirmar afirmaciones y desarrollar una interpretación más precisa del contenido presentado."
+  }
+]
