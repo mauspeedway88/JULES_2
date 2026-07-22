@@ -1,0 +1,1850 @@
+[
+  {
+    "intent_id": "reanimacion_cardiopulmonar_proceso_basico",
+    "keywords": [
+      "presionar",
+      "pecho",
+      "ritmo",
+      "corazon",
+      "oxigeno"
+    ],
+    "base_response": "La reanimación cardiopulmonar combina compresiones torácicas y ventilaciones para mantener la circulación de sangre oxigenada hacia el cerebro. Este procedimiento resulta crucial cuando el corazón deja de latir repentinamente. Aplicar la técnica correcta aumenta significativamente las probabilidades de supervivencia de la persona afectada."
+  },
+  {
+    "intent_id": "frecuencia_compresion_toracica_adultos",
+    "keywords": [
+      "rapidez",
+      "manos",
+      "torax",
+      "auxilio",
+      "fuerza"
+    ],
+    "base_response": "Las compresiones en adultos deben realizarse a una frecuencia constante de cien a ciento veinte pulsaciones por minuto. Es fundamental presionar el centro del pecho con firmeza utilizando el peso del cuerpo. Mantener este ritmo constante asegura que la sangre continúe fluyendo hacia los órganos vitales."
+  },
+  {
+    "intent_id": "profundidad_adecuada_compresiones_adulto",
+    "keywords": [
+      "hundimiento",
+      "esternon",
+      "presion",
+      "salvamento",
+      "medida"
+    ],
+    "base_response": "Para que las compresiones torácicas sean eficaces en un paciente adulto, el esternón debe descender al menos cinco centímetros. Una presión superficial no logrará bombear suficiente sangre desde el corazón. Permitir que el tórax se expanda completamente después de cada ciclo optimiza el llenado cardíaco."
+  },
+  {
+    "intent_id": "relacion_compresion_ventilacion_socorrista",
+    "keywords": [
+      "proporcion",
+      "soplos",
+      "empujones",
+      "ciclo",
+      "respirar"
+    ],
+    "base_response": "La relación estándar recomendada por los protocolos internacionales consiste en realizar treinta compresiones seguidas de dos insuflaciones de rescate. Este ciclo continuo debe mantenerse sin interrupciones prolongadas hasta la llegada del personal médico. Así garantizamos que el oxígeno residual en los pulmones continúe circulando."
+  },
+  {
+    "intent_id": "reanimacion_pediatrica_tecnica_lactantes",
+    "keywords": [
+      "bebes",
+      "dedos",
+      "pecho",
+      "ventilacion",
+      "suavidad"
+    ],
+    "base_response": "En bebés menores de un año, las compresiones torácicas se realizan utilizando únicamente dos dedos colocados en el centro del pecho. La profundidad del hundimiento se reduce a unos cuatro centímetros para evitar lesiones óseas. Se debe actuar con extrema delicadeza pero con la firmeza necesaria."
+  },
+  {
+    "intent_id": "desfibrilador_externo_automatico_funcionamiento",
+    "keywords": [
+      "aparato",
+      "descarga",
+      "electrica",
+      "ritmo",
+      "paro"
+    ],
+    "base_response": "El desfibrilador externo automático es un dispositivo portátil que analiza el ritmo cardíaco del paciente de forma autónoma. Si detecta una arritmia grave, el equipo indica al auxiliador que administre una descarga eléctrica controlada. Su uso temprano duplica las posibilidades de salvar una vida humana."
+  },
+  {
+    "intent_id": "vendaje_espiral_extremidades_lesionadas",
+    "keywords": [
+      "venda",
+      "vuelta",
+      "brazo",
+      "pierna",
+      "fijacion"
+    ],
+    "base_response": "El vendaje en espiral se utiliza principalmente para sujetar apósitos o férulas en las extremidades del cuerpo. Cada vuelta de la venda debe cubrir aproximadamente dos tercios de la vuelta anterior de manera uniforme. Esta técnica proporciona una compresión constante y evita el desplazamiento de la protección."
+  },
+  {
+    "intent_id": "vendaje_ocho_articulaciones_moviles",
+    "keywords": [
+      "coyuntura",
+      "tobillo",
+      "muneca",
+      "fijar",
+      "cruzado"
+    ],
+    "base_response": "El vendaje en ocho es ideal para asegurar articulaciones móviles como el tobillo, la rodilla o el codo. Consiste en cruzar la venda alternando giros por encima y por debajo de la coyuntura afectada. Este método permite mantener cierta movilidad sin descuidar la estabilidad necesaria."
+  },
+  {
+    "intent_id": "cabestrillo_soporte_miembro_superior",
+    "keywords": [
+      "brazo",
+      "panuelo",
+      "cuello",
+      "colgar",
+      "inmovilizado"
+    ],
+    "base_response": "Un cabestrillo es un vendaje diseñado para soportar y suspender el brazo o antebrazo en caso de lesiones óseas. Se elabora habitualmente con un pañuelo triangular atado suavemente alrededor del cuello del paciente. El objetivo principal es mantener el miembro elevado para reducir la inflamación."
+  },
+  {
+    "intent_id": "tension_adecuada_vendas_compresivas",
+    "keywords": [
+      "ajuste",
+      "circulacion",
+      "presion",
+      "dedos",
+      "color"
+    ],
+    "base_response": "La tensión aplicada al colocar una venda debe ser firme pero nunca excesivamente apretada para no cortar la circulación. Es indispensable verificar que los dedos del paciente no se pongan pálidos, fríos o azulados tras el procedimiento. Aflojar el vendaje de inmediato si aparecen síntomas de hormigueo."
+  },
+  {
+    "intent_id": "vendaje_circular_fijacion_apositos",
+    "keywords": [
+      "anillo",
+      "vuelta",
+      "gasa",
+      "sujetar",
+      "inicio"
+    ],
+    "base_response": "El vendaje circular consiste en superponer cada vuelta de la venda exactamente sobre la anterior formando un anillo firme. Se emplea para iniciar y finalizar vendajes más complejos o para asegurar pequeños apósitos en la frente. Su sencillez permite una aplicación rápida en situaciones de urgencia."
+  },
+  {
+    "intent_id": "vendaje_recurrente_munones_cabeza",
+    "keywords": [
+      "capelina",
+      "extremo",
+      "doblar",
+      "gasa",
+      "cobertura"
+    ],
+    "base_response": "El vendaje recurrente se aplica de forma especial en la cabeza o en extremidades amputadas llamadas muñones. La venda se dobla de adelante hacia atrás cubriendo la zona expuesta antes de fijarse con vueltas circulares. Proporciona una excelente cobertura protectora contra la contaminación externa."
+  },
+  {
+    "intent_id": "enfriamiento_inmediato_quemadura_termica",
+    "keywords": [
+      "agua",
+      "grifo",
+      "frio",
+      "calor",
+      "piel"
+    ],
+    "base_response": "El primer paso ante una quemadura térmica es enfriar la zona afectada con agua corriente templada durante quince minutos. Nunca debe utilizarse hielo directo, ya que el frío extremo puede agravar el daño en los tejidos expuestos. Este proceso detiene la propagación del calor interno."
+  },
+  {
+    "intent_id": "quemaduras_primer_grado_sintomas",
+    "keywords": [
+      "enrojecimiento",
+      "dolor",
+      "sol",
+      "epidermis",
+      "crema"
+    ],
+    "base_response": "Las quemaduras de primer grado afectan únicamente la capa más superficial de la piel, provocando enrojecimiento y dolor continuo. Su causa más común es la exposición prolongada a la radiación solar sin protección adecuada. Suelen sanar en pocos días aplicando cremas hidratantes de uso común."
+  },
+  {
+    "intent_id": "quemaduras_segundo_grado_ampollas",
+    "keywords": [
+      "flictena",
+      "liquido",
+      "dermis",
+      "infeccion",
+      "reventar"
+    ],
+    "base_response": "Las lesiones de segundo grado dañan capas más profundas de la piel y se caracterizan por la aparición de ampollas dolorosas. Estas ampollas llenas de líquido protector actúan como una barrera natural contra las bacterias del entorno. Está estrictamente prohibido reventarlas para evitar infecciones secundarias."
+  },
+  {
+    "intent_id": "quemaduras_tercer_grado_gravedad",
+    "keywords": [
+      "destruccion",
+      "nervios",
+      "carbonizado",
+      "hospital",
+      "piel"
+    ],
+    "base_response": "Las quemaduras de tercer grado destruyen por completo el espesor de la piel y pueden dañar tejidos subcutáneos. Al destruir las terminaciones nerviosas, estas lesiones graves suelen resultar indoloras en su zona central. Requieren atención médica hospitalaria urgente de manera inmediata y especializada."
+  },
+  {
+    "intent_id": "sustancias_quimicas_quemaduras_lavado",
+    "keywords": [
+      "quimico",
+      "irrigar",
+      "chorro",
+      "eliminar",
+      "toxico"
+    ],
+    "base_response": "Ante una quemadura provocada por productos químicos, se debe retirar la ropa impregnada y lavar la piel con abundante agua corriente. El lavado debe prolongarse durante al menos veinte minutos para diluir y arrastrar por completo el agente corrosivo. Evitar frotar con fuerza la zona afectada."
+  },
+  {
+    "intent_id": "mitos_tratamiento_casero_quemaduras",
+    "keywords": [
+      "dentrifico",
+      "mantequilla",
+      "remedio",
+      "infeccion",
+      "danio"
+    ],
+    "base_response": "Es peligroso aplicar remedios caseros como pasta dental, mantequilla, aceite o clara de huevo sobre quemaduras recientes. Estas sustancias atrapan el calor residual de la herida y aumentan exponencialmente el riesgo de infecciones bacterianas graves. Utilizar exclusivamente agua limpia y apósitos estériles."
+  },
+  {
+    "intent_id": "heridas_abiertas_limpieza_desinfeccion",
+    "keywords": [
+      "lavar",
+      "jabon",
+      "agua",
+      "bacterias",
+      "infeccion"
+    ],
+    "base_response": "La limpieza de una herida abierta se debe realizar con agua limpia y jabón neutro, frotando suavemente desde el centro hacia los bordes externos. Este movimiento evita arrastrar bacterias de la piel sana hacia el interior de la lesión. Secar con gasas estériles sin frotar."
+  },
+  {
+    "intent_id": "heridas_punzantes_riesgo_tetanos",
+    "keywords": [
+      "clavo",
+      "profundo",
+      "oxido",
+      "bacteria",
+      "vacuna"
+    ],
+    "base_response": "Las heridas causadas por objetos punzantes como clavos u agujas presentan un alto riesgo de infección interna debido a su profundidad. La falta de oxígeno en estas lesiones favorece el crecimiento de la bacteria del tétanos. Es fundamental revisar el estado de vacunación del paciente lesionado."
+  },
+  {
+    "intent_id": "herida_abrasiva_raspones_escolares",
+    "keywords": [
+      "caida",
+      "suelo",
+      "piel",
+      "limpiar",
+      "gasa"
+    ],
+    "base_response": "Los raspones o abrasiones ocurren cuando la fricción contra una superficie rugosa elimina la capa protectora de la piel. Aunque suelen ser superficiales, contienen partículas de tierra o suciedad que deben ser retiradas minuciosamente con abundante agua. Aplicar un antiséptico suave ayuda a su cicatrización."
+  },
+  {
+    "intent_id": "heridas_avulsivas_desgarro_tejido",
+    "keywords": [
+      "colgajo",
+      "desgarro",
+      "piel",
+      "hemorragia",
+      "presion"
+    ],
+    "base_response": "Una herida avulsiva se caracteriza por el desgarro y la separación parcial o total de la piel y tejidos blandos. Se debe colocar el colgajo de piel en su posición original si es posible, y presionar firmemente con un apósito estéril para detener el sangrado. Buscar asistencia hospitalaria."
+  },
+  {
+    "intent_id": "heridas_incisas_cortes_limpios",
+    "keywords": [
+      "hoja",
+      "borde",
+      "sangrado",
+      "puntos",
+      "sutura"
+    ],
+    "base_response": "Las heridas incisas son causadas por objetos afilados como vidrios o cuchillos, presentando bordes limpios y regulares. Su principal complicación es el sangrado abundante debido al corte directo de pequeños vasos sanguíneos. Si la herida resulta profunda, requerirá puntos de sutura médica."
+  },
+  {
+    "intent_id": "extraccion_objetos_incrustados_heridas",
+    "keywords": [
+      "objeto",
+      "fijar",
+      "mover",
+      "sangrado",
+      "peligro"
+    ],
+    "base_response": "Nunca se debe extraer un objeto grande que se encuentre incrustado profundamente en una herida abierta. La pieza enterrada actúa como un tapón provisional que evita una hemorragia masiva interna. Lo correcto es inmovilizar el objeto con gasas alrededor y trasladar al herido."
+  },
+  {
+    "intent_id": "conducta_pas_proteger_alertar_socorrer",
+    "keywords": [
+      "protocolo",
+      "seguridad",
+      "llamar",
+      "ayudar",
+      "orden"
+    ],
+    "base_response": "La conducta PAS representa las tres acciones fundamentales para actuar ante cualquier emergencia: Proteger, Alertar y Socorrer de forma coordinada. Primero aseguramos el entorno, luego llamamos a los servicios de rescate y finalmente atendemos a las víctimas. Seguir este orden estricto salva vidas humanas."
+  },
+  {
+    "intent_id": "evaluacion_primaria_emergencia_conciencia",
+    "keywords": [
+      "analizar",
+      "respiracion",
+      "estado",
+      "pulso",
+      "gravedad"
+    ],
+    "base_response": "La evaluación primaria consiste en identificar rápidamente las situaciones que ponen en peligro inmediato la vida del paciente. Se debe comprobar si la persona respira, responde a estímulos verbales o presenta hemorragias masivas visibles. Esta valoración inicial orientará las primeras maniobras de auxilio."
+  },
+  {
+    "intent_id": "evaluacion_secundaria_lesiones_ocultas",
+    "keywords": [
+      "revisar",
+      "cabeza",
+      "pies",
+      "dolor",
+      "danos"
+    ],
+    "base_response": "Una vez estabilizadas las funciones vitales, se realiza la evaluación secundaria para detectar otras lesiones menos evidentes. Consiste en una exploración detallada desde la cabeza hasta los pies, buscando deformidades, inflamación o puntos de dolor. Debemos registrar toda la información útil obtenida."
+  },
+  {
+    "intent_id": "triaje_basico_clasificacion_victimas",
+    "keywords": [
+      "prioridad",
+      "colores",
+      "gravedad",
+      "clasificar",
+      "multiples"
+    ],
+    "base_response": "El triaje es el método utilizado para clasificar a los heridos según la gravedad de sus lesiones cuando los recursos son limitados. Se emplean tarjetas de colores donde el rojo indica prioridad absoluta y el verde lesiones leves. Esto optimiza la atención en catástrofes."
+  },
+  {
+    "intent_id": "shock_hipovolemico_sintomas_auxilio",
+    "keywords": [
+      "palidez",
+      "frio",
+      "sangre",
+      "piernas",
+      "abrigo"
+    ],
+    "base_response": "El estado de shock ocurre cuando los órganos vitales no reciben suficiente flujo sanguíneo debido a una pérdida severa de líquidos. Los síntomas comunes incluyen palidez extrema, sudoración fría y pulso rápido pero débil. Se debe acostar al herido y elevar sus piernas ligeramente."
+  },
+  {
+    "intent_id": "actuacion_crisis_panico_emergencia",
+    "keywords": [
+      "calma",
+      "respirar",
+      "hablar",
+      "tranquilidad",
+      "control"
+    ],
+    "base_response": "Durante una emergencia, el pánico colectivo puede dificultar las tareas de rescate y agravar las situaciones de peligro. El auxiliador debe mantener la calma, hablar con tono firme pero pausado y dar instrucciones sencillas a los presentes. Transmitir seguridad reduce la ansiedad general."
+  },
+  {
+    "intent_id": "elementos_esenciales_botiquin_primeros_auxilios",
+    "keywords": [
+      "gasa",
+      "alcohol",
+      "tijeras",
+      "venda",
+      "guantes"
+    ],
+    "base_response": "Un botiquín básico debe contener elementos esenciales para resolver pequeñas curas y emergencias menores en cualquier lugar. No deben faltar gasas estériles, vendas de diferentes tamaños, esparadrapo, antisépticos y guantes de látex desechables. Estos materiales permiten realizar las primeras curaciones con seguridad."
+  },
+  {
+    "intent_id": "mantenimiento_periodico_botiquin_caducidad",
+    "keywords": [
+      "revisar",
+      "fecha",
+      "medicamento",
+      "reponer",
+      "limpieza"
+    ],
+    "base_response": "Es indispensable revisar el botiquín al menos dos veces al año para comprobar la fecha de caducidad de todos los productos. Los materiales dañados, abiertos o vencidos deben ser reemplazados de forma inmediata por unidades nuevas. Mantener el orden garantiza un acceso rápido en emergencias."
+  },
+  {
+    "intent_id": "antisepticos_comunes_desinfeccion_heridas",
+    "keywords": [
+      "yodo",
+      "suero",
+      "bacterias",
+      "limpiar",
+      "piel"
+    ],
+    "base_response": "Los antisépticos son sustancias químicas destinadas a eliminar microorganismos de la piel dañada sin causar irritación excesiva. El suero fisiológico y la povidona yodada son los más utilizados para desinfectar heridas superficiales. Evitar el uso de alcohol directamente sobre cortes abiertos."
+  },
+  {
+    "intent_id": "uso_guantes_desechables_botiquin",
+    "keywords": [
+      "barrera",
+      "latex",
+      "infeccion",
+      "seguridad",
+      "manos"
+    ],
+    "base_response": "Los guantes de látex o nitrilo son el elemento de protección individual más importante del botiquín de emergencias. Actúan como una barrera física indispensable para evitar el contacto directo con la sangre o fluidos de la víctima. Protegen tanto al auxiliador como al paciente."
+  },
+  {
+    "intent_id": "herramientas_auxiliares_tijeras_pinzas",
+    "keywords": [
+      "cortar",
+      "ropa",
+      "espinas",
+      "material",
+      "limpio"
+    ],
+    "base_response": "Las tijeras de punta redonda y las pinzas limpias son herramientas metálicas indispensables en cualquier botiquín de primeros auxilios. Las tijeras permiten cortar ropa o vendas rápidamente sin riesgo de herir la piel del paciente. Las pinzas facilitan la retirada de astillas superficiales."
+  },
+  {
+    "intent_id": "ubicacion_segura_botiquin_hogar",
+    "keywords": [
+      "fresco",
+      "seco",
+      "ninos",
+      "alcanzar",
+      "guardar"
+    ],
+    "base_response": "El botiquín debe guardarse en un lugar fresco, seco y protegido de la luz solar directa, alejado del alcance de los niños pequeños. No debe almacenarse en el baño o la cocina debido a las constantes variaciones de humedad. Su ubicación debe ser conocida por todos."
+  },
+  {
+    "intent_id": "atragantamiento_parcial_estimulo_tos",
+    "keywords": [
+      "obstruccion",
+      "toser",
+      "garganta",
+      "aire",
+      "observar"
+    ],
+    "base_response": "El atragantamiento parcial ocurre cuando un objeto dificulta el paso del aire pero permite que el niño tosa con fuerza. En esta situación, el único auxilio correcto consiste en animar al afectado a seguir tosiendo enérgicamente. No se deben dar golpes en la espalda."
+  },
+  {
+    "intent_id": "maniobra_heimlich_compresion_abdominal",
+    "keywords": [
+      "empujar",
+      "ombligo",
+      "diafragma",
+      "objeto",
+      "fuerza"
+    ],
+    "base_response": "La maniobra de Heimlich se aplica cuando la obstrucción de la vía aérea resulta total y el paciente no puede respirar. El socorrista abraza a la víctima por detrás y realiza compresiones rápidas hacia adentro y hacia arriba bajo el esternón. Esta presión expulsa el objeto atascado."
+  },
+  {
+    "intent_id": "identificacion_atragantamiento_signo_universal",
+    "keywords": [
+      "manos",
+      "cuello",
+      "asfixia",
+      "mudo",
+      "gesto"
+    ],
+    "base_response": "El signo universal de asfixia consiste en llevarse desesperadamente ambas manos al cuello con la boca abierta. Quien sufre un atragantamiento severo no puede hablar, toser ni emitir ningún sonido debido a la falta de flujo aéreo. Identificar este gesto permite actuar con rapidez."
+  },
+  {
+    "intent_id": "golpes_interescapulares_atragantamiento_severo",
+    "keywords": [
+      "espalda",
+      "palmadas",
+      "inclinar",
+      "hombros",
+      "golpear"
+    ],
+    "base_response": "Antes de realizar compresiones abdominales, se deben administrar hasta cinco golpes firmes en la espalda de la víctima afectada. El paciente debe estar inclinado hacia adelante para que la gravedad facilite la salida del cuerpo extraño. Los golpes se aplican entre los omóplatos."
+  },
+  {
+    "intent_id": "atragantamiento_lactantes_maniobra_bebes",
+    "keywords": [
+      "boca",
+      "abajo",
+      "muslo",
+      "golpecitos",
+      "bebe"
+    ],
+    "base_response": "Para liberar la vía aérea en lactantes, se coloca al bebé boca abajo apoyado firmemente sobre el antebrazo del socorrista. Se aplican cinco palmadas suaves pero decididas en la espalda con el talón de la mano libre. Alternar con compresiones torácicas si no funciona."
+  },
+  {
+    "intent_id": "atragantamiento_perdida_conocimiento_rcp",
+    "keywords": [
+      "inconsciente",
+      "suelo",
+      "reanimacion",
+      "boca",
+      "ayuda"
+    ],
+    "base_response": "Si la víctima de un atragantamiento pierde el conocimiento debido a la asfixia, se le debe colocar suavemente en el suelo. Es obligatorio iniciar de inmediato la reanimación cardiopulmonar clásica, revisando la boca antes de cada ventilación para retirar el objeto si es visible."
+  },
+  {
+    "intent_id": "frecuencia_cardiaca_medicion_pulso",
+    "keywords": [
+      "latidos",
+      "minuto",
+      "arteria",
+      "muneca",
+      "dedos"
+    ],
+    "base_response": "La frecuencia cardíaca es el número de latidos que realiza el corazón durante un minuto completo bajo condiciones normales. Se mide habitualmente presionando con suavidad la arteria radial en la muñeca con los dedos índice y medio. Los valores normales varían según la edad."
+  },
+  {
+    "intent_id": "frecuencia_respiratoria_observacion_torax",
+    "keywords": [
+      "respirar",
+      "minuto",
+      "pecho",
+      "observar",
+      "ciclos"
+    ],
+    "base_response": "La frecuencia respiratoria indica la cantidad de ciclos de inhalación y exhalación que realiza un individuo en un minuto. Para medirla sin alterar el ritmo natural, se recomienda observar el ascenso del pecho del paciente sin que este lo note. Un ritmo irregular delata problemas."
+  },
+  {
+    "intent_id": "temperatura_corporal_valores_fiebre",
+    "keywords": [
+      "calor",
+      "grados",
+      "termometro",
+      "axila",
+      "fiebre"
+    ],
+    "base_response": "La temperatura corporal normal del ser humano oscila habitualmente entre los treinta y seis y treinta y siete grados Celsius. Una medición que supere los treinta y ocho grados indica un estado de fiebre, señal de que el organismo combate una infección activa. Se utiliza un termómetro digital."
+  },
+  {
+    "intent_id": "tension_arterial_presion_sanguinea",
+    "keywords": [
+      "presion",
+      "arterias",
+      "corazon",
+      "brazalete",
+      "valores"
+    ],
+    "base_response": "La tensión arterial mide la fuerza que ejerce la sangre contra las paredes de las arterias al ser bombeada por el corazón. Consta de un valor máximo llamado sistólico y un valor mínimo denominado diastólico. Mantener estos niveles equilibrados resulta vital para evitar accidentes cardiovasculares."
+  },
+  {
+    "intent_id": "reflejo_pupilar_evaluacion_neurologica",
+    "keywords": [
+      "pupilas",
+      "luz",
+      "ojo",
+      "cerebro",
+      "reaccion"
+    ],
+    "base_response": "El reflejo pupilar se evalúa aplicando una luz suave sobre los ojos para comprobar la contracción de las pupilas. Si las pupilas no reaccionan de igual forma o permanecen dilatadas, puede existir un daño neurológico grave en el cerebro. Es una prueba diagnóstica básica."
+  },
+  {
+    "intent_id": "coloracion_piel_oxigenacion_sanguinea",
+    "keywords": [
+      "piel",
+      "azul",
+      "oxigeno",
+      "cianosis",
+      "circulacion"
+    ],
+    "base_response": "El color de la piel aporta información valiosa sobre el estado de oxigenación y circulación del paciente evaluado. Un tono azulado o cianótico en labios y uñas revela una falta severa de oxígeno en el organismo. La piel pálida y fría sugiere un estado de shock."
+  },
+  {
+    "intent_id": "posicion_lateral_seguridad_prevencion_asfixia",
+    "keywords": [
+      "costado",
+      "vomito",
+      "inconsciente",
+      "respirar",
+      "saliva"
+    ],
+    "base_response": "La posición lateral de seguridad es una postura de auxilio diseñada para evitar que un paciente inconsciente se asfixie. Al colocar a la persona de costado, la lengua cae hacia adelante permitiendo la libre salida de posibles vómitos o fluidos. Evita obstrucciones mortales."
+  },
+  {
+    "intent_id": "pasos_colocacion_posicion_seguridad",
+    "keywords": [
+      "brazo",
+      "rodilla",
+      "girar",
+      "cuerpo",
+      "suave"
+    ],
+    "base_response": "Para colocar a alguien en esta postura, doblamos su brazo en ángulo recto y cruzamos el otro sobre el pecho. Luego, flexionamos la rodilla opuesta y giramos todo el cuerpo suavemente hacia nosotros actuando en bloque. Apoyar la cabeza sobre la mano extendida."
+  },
+  {
+    "intent_id": "estabilidad_cuerpo_posicion_seguridad",
+    "keywords": [
+      "pierna",
+      "apoyo",
+      "equilibrio",
+      "suelo",
+      "caidas"
+    ],
+    "base_response": "La pierna que queda flexionada hacia adelante actúa como un puntal que evita que el cuerpo ruede sobre el vientre. Esta configuración geométrica asegura una gran estabilidad sobre el suelo, impidiendo desplazamientos accidentales de la víctima. Facilita la vigilancia continua del herido."
+  },
+  {
+    "intent_id": "apertura_vias_aereas_cabeza_atras",
+    "keywords": [
+      "barbilla",
+      "cuello",
+      "aire",
+      "inclinar",
+      "garganta"
+    ],
+    "base_response": "Una vez colocado el paciente de costado, se debe inclinar la cabeza ligeramente hacia atrás con la barbilla hacia arriba. Este ajuste anatómico final garantiza que la garganta quede totalmente despejada y libre para el paso de aire. Debemos supervisar la respiración constantemente."
+  },
+  {
+    "intent_id": "contraindicaciones_posicion_lateral_seguridad",
+    "keywords": [
+      "columna",
+      "cuello",
+      "espalda",
+      "fractura",
+      "peligro"
+    ],
+    "base_response": "Esta posición no debe aplicarse si sospechamos de lesiones graves en la columna vertebral, el cuello o la espalda. Mover a un paciente con traumas óseos espinales podría causar daños irreversibles en la médula espinal. Mantener al herido inmóvil si respira adecuadamente."
+  },
+  {
+    "intent_id": "aplicacion_embarazadas_lado_izquierdo",
+    "keywords": [
+      "embarazo",
+      "izquierdo",
+      "arteria",
+      "bebe",
+      "presion"
+    ],
+    "base_response": "En mujeres embarazadas, la posición lateral de seguridad debe realizarse obligatoriamente recostándolas sobre su lado izquierdo. Esta medida evita que el peso del útero presione la vena cava inferior, garantizando el correcto retorno sanguíneo. Protege la salud de la madre y del feto."
+  },
+  {
+    "intent_id": "presion_directa_control_sangrado",
+    "keywords": [
+      "aposito",
+      "mano",
+      "herida",
+      "firme",
+      "sangre"
+    ],
+    "base_response": "La presión directa consiste en aplicar un apósito limpio sobre la herida sangrante y presionar firmemente con la mano. Es el método más rápido y eficaz para detener la mayoría de las hemorragias externas cotidianas. No debemos retirar la gasa si se empapa."
+  },
+  {
+    "intent_id": "elevacion_miembro_disminucion_flujo",
+    "keywords": [
+      "brazo",
+      "pierna",
+      "gravedad",
+      "corazon",
+      "sangrado"
+    ],
+    "base_response": "Elevar la extremidad afectada por encima del nivel del corazón reduce la presión de la sangre en el punto de la lesión. La fuerza de gravedad disminuye el flujo sanguíneo facilitando la formación natural del coágulo en la herida. Se utiliza como complemento de la presión."
+  },
+  {
+    "intent_id": "hemorragia_arterial_sintomas_gravedad",
+    "keywords": [
+      "roja",
+      "latido",
+      "chorro",
+      "arteria",
+      "presion"
+    ],
+    "base_response": "La hemorragia arterial se identifica porque la sangre brota con fuerza intermitente al compás de los latidos del corazón. Presenta un color rojo brillante por estar altamente oxigenada y requiere control inmediato para evitar un shock rápido. Es una situación de extrema urgencia."
+  },
+  {
+    "intent_id": "hemorragia_venosa_flujo_continuo",
+    "keywords": [
+      "oscura",
+      "continuo",
+      "vena",
+      "sangre",
+      "aposito"
+    ],
+    "base_response": "La hemorragia venosa se caracteriza por un flujo de sangre continuo y pausado, sin presentar impulsos o chorros violentos. Su color es rojo oscuro debido a la falta de oxígeno en el retorno venoso. Aunque es menos espectacular que la arterial, requiere atención oportuna."
+  },
+  {
+    "intent_id": "uso_apropiado_torniquete_emergencia",
+    "keywords": [
+      "extremidad",
+      "banda",
+      "ajustar",
+      "hora",
+      "medico"
+    ],
+    "base_response": "El torniquete es una medida de último recurso aplicable únicamente en extremidades cuando la presión directa no detiene el sangrado. Se debe colocar varios centímetros por encima de la herida y anotar la hora exacta de su aplicación. Puede evitar la muerte por desangramiento."
+  },
+  {
+    "intent_id": "epistaxis_hemorragia_nasal_escolar",
+    "keywords": [
+      "nariz",
+      "cabeza",
+      "delante",
+      "presionar",
+      "fosas"
+    ],
+    "base_response": "Ante una hemorragia nasal o epistaxis, se debe inclinar la cabeza del niño ligeramente hacia adelante y presionar las fosas nasales. Nunca se debe llevar la cabeza hacia atrás, ya que esto provocaría que el paciente trague sangre e irrite su estómago. Mantener la presión diez minutos."
+  },
+  {
+    "intent_id": "fractura_cerrada_sintomas_reconocimiento",
+    "keywords": [
+      "hueso",
+      "dolor",
+      "deformidad",
+      "brazo",
+      "inflamacion"
+    ],
+    "base_response": "Una fractura cerrada ocurre cuando un hueso se rompe pero la piel suprayacente permanece intacta sin heridas visibles. Los síntomas más comunes son dolor intenso al menor movimiento, deformidad evidente de la zona e inflamación rápida. Requiere inmovilización estricta antes del traslado."
+  },
+  {
+    "intent_id": "fractura_abierta_riesgo_infeccion",
+    "keywords": [
+      "hueso",
+      "piel",
+      "herida",
+      "sangrado",
+      "bacterias"
+    ],
+    "base_response": "La fractura abierta se caracteriza porque el hueso roto rompe la piel y queda expuesto al medio ambiente exterior. Esta lesión representa una urgencia médica grave debido al riesgo de infección ósea por bacterias externas. Se debe cubrir la herida con gasas limpias inmediatamente."
+  },
+  {
+    "intent_id": "inmovilizacion_articulaciones_ferulas",
+    "keywords": [
+      "fijar",
+      "tablon",
+      "carton",
+      "movimiento",
+      "hueso"
+    ],
+    "base_response": "Para inmovilizar un hueso roto, se deben fijar las articulaciones situadas inmediatamente por encima y por debajo del punto de fractura. Se pueden emplear materiales rígidos como tablas de madera, revistas enrolladas o cartón grueso bien sujeto. Evita que los extremos óseos dañen vasos."
+  },
+  {
+    "intent_id": "esguince_lesion_ligamentos_articular",
+    "keywords": [
+      "tobillo",
+      "torcedura",
+      "ligamento",
+      "hielo",
+      "reposo"
+    ],
+    "base_response": "Un esguince es una lesión provocada por la distensión o desgarro de los ligamentos que estabilizan una articulación móvil. Es común en tobillos tras un mal paso o pisada inestable sobre el terreno escolar. El tratamiento inicial exige aplicar hielo local, reposo y elevación."
+  },
+  {
+    "intent_id": "luxacion_desplazamiento_articular_hueso",
+    "keywords": [
+      "coyuntura",
+      "hueso",
+      "fuera",
+      "lugar",
+      "encajar"
+    ],
+    "base_response": "La luxación ocurre cuando un hueso se desencaja de su articulación normal perdiendo su posición de contacto anatómico regular. Provoca dolor agudo y la pérdida completa de la función motora del miembro afectado. Está estrictamente prohibido intentar recolocar el hueso en su sitio."
+  },
+  {
+    "intent_id": "aplicacion_frio_local_traumatismos",
+    "keywords": [
+      "hielo",
+      "trapo",
+      "inflamacion",
+      "dolor",
+      "golpe"
+    ],
+    "base_response": "Aplicar frío local mediante una bolsa de hielo envuelta en un paño ayuda a mitigar la inflamación y el dolor del golpe. El contacto directo del hielo sobre la piel desnuda puede causar quemaduras por congelación. Mantener la aplicación durante intervalos máximos de veinte minutos."
+  },
+  {
+    "intent_id": "sincope_desmayo_perdida_conocimiento",
+    "keywords": [
+      "mareo",
+      "caida",
+      "breve",
+      "cerebro",
+      "sangre"
+    ],
+    "base_response": "El síncope o desmayo es una pérdida breve y repentina del conocimiento causada por la disminución temporal del flujo sanguíneo cerebral. El paciente suele recuperarse de forma espontánea a los pocos minutos de caer al suelo. Es común debido al calor extremo o fatiga."
+  },
+  {
+    "intent_id": "maniobra_antitrendelenburg_elevar_piernas",
+    "keywords": [
+      "piernas",
+      "subir",
+      "sangre",
+      "retorno",
+      "acostado"
+    ],
+    "base_response": "Ante un desmayo, se debe acostar a la persona boca arriba y elevar sus piernas unos treinta centímetros sobre el suelo. Esta postura facilita el retorno de la sangre acumulada en las extremidades inferiores hacia el corazón y el cerebro. Acelera la recuperación del conocimiento."
+  },
+  {
+    "intent_id": "ventilacion_entorno_desmayo_aire",
+    "keywords": [
+      "espacio",
+      "oxigeno",
+      "ropa",
+      "aflojar",
+      "fresco"
+    ],
+    "base_response": "Es fundamental asegurar un entorno bien ventilado alrededor de la persona desmayada apartando a los curiosos para facilitar el paso de aire. Aflojar prendas ajustadas como corbatas, cinturones o cuellos de camisas ayuda a mejorar la función respiratoria. Evita la acumulación de calor."
+  },
+  {
+    "intent_id": "prevencion_caidas_mareos_escolares",
+    "keywords": [
+      "sentar",
+      "sintomas",
+      "cabeza",
+      "rodillas",
+      "sombra"
+    ],
+    "base_response": "Si un estudiante manifiesta síntomas de mareo o debilidad, se le debe sentar inmediatamente para evitar una caída brusca sobre el suelo. Indicarle que coloque la cabeza entre las rodillas o acostarlo a la sombra ayuda a normalizar la circulación sanguínea cerebral rápidamente."
+  },
+  {
+    "intent_id": "recuperacion_conciencia_hidratacion_hidratar",
+    "keywords": [
+      "agua",
+      "beber",
+      "despacio",
+      "incorporar",
+      "levantar"
+    ],
+    "base_response": "Una vez que el paciente recupera el conocimiento, se le debe mantener acostado unos minutos antes de permitirle incorporarse de forma lenta. Si está completamente consciente y puede tragar sin dificultad, se le puede ofrecer pequeños sorbos de agua templada para hidratarse."
+  },
+  {
+    "intent_id": "mitos_reanimacion_desmayos_alcohol",
+    "keywords": [
+      "bofetadas",
+      "alcohol",
+      "oler",
+      "perfume",
+      "danio"
+    ],
+    "base_response": "No se deben dar bofetadas, arrojar agua fría a la cara ni dar de oler alcohol o perfumes fuertes a un desmayado. Estos estímulos bruscos e irritantes pueden desencadenar reacciones reflejas adversas o espasmos respiratorios en el paciente. Debemos actuar con calma."
+  },
+  {
+    "intent_id": "traslado_emergencia_regla_oro_inmovilizacion",
+    "keywords": [
+      "mover",
+      "columna",
+      "lesion",
+      "camilla",
+      "medicos"
+    ],
+    "base_response": "La regla de oro ante un herido grave es no moverlo a menos que exista un peligro inminente como incendio o derrumbe. Un traslado inadecuado de un lesionado de la columna vertebral puede causarle parálisis permanente o la muerte. Esperar siempre ayuda profesional."
+  },
+  {
+    "intent_id": "tecnica_puente_traslado_bloque",
+    "keywords": [
+      "socorristas",
+      "levantar",
+      "alineado",
+      "bloque",
+      "espalda"
+    ],
+    "base_response": "La técnica del puente requiere la participación de al menos cuatro socorristas para levantar al paciente de manera totalmente alineada. Tres auxiliadores se colocan sobre la víctima y la elevan en bloque, mientras el cuarto desliza la camilla debajo. Evita flexiones peligrosas."
+  },
+  {
+    "intent_id": "transporte_silla_victimas_conscientes",
+    "keywords": [
+      "sentado",
+      "escaleras",
+      "asiento",
+      "brazos",
+      "sujetar"
+    ],
+    "base_response": "Para trasladar a una víctima consciente que no presenta lesiones en la columna, se puede utilizar una silla común de madera o metal. Dos socorristas sujeta la silla firmemente por las patas y el respaldo para salvar obstáculos o bajar tramos de escaleras."
+  },
+  {
+    "intent_id": "metodo_muleta_humana_apoyo",
+    "keywords": [
+      "caminar",
+      "hombro",
+      "ayudar",
+      "brazo",
+      "sostener"
+    ],
+    "base_response": "El método de la muleta humana es útil para ayudar a caminar a una persona que presenta lesiones leves en una sola pierna. El socorrista coloca el brazo de la víctima alrededor de su propio hombro y la sujeta firmemente por la cintura. Ofrece soporte."
+  },
+  {
+    "intent_id": "maniobra_rautek_extraccion_vehiculos",
+    "keywords": [
+      "coche",
+      "accidente",
+      "arrastrar",
+      "axilas",
+      "espalda"
+    ],
+    "base_response": "La maniobra de Rautek se utiliza exclusivamente para extraer rápidamente a una víctima inconsciente del interior de un coche en peligro de explosión. El socorrista introduce sus brazos bajo las axilas del herido, sujeta un antebrazo y lo arrastra hacia atrás protegiendo la cabeza."
+  },
+  {
+    "intent_id": "camillas_improvisadas_materiales_fuertes",
+    "keywords": [
+      "mantas",
+      "postes",
+      "chaquetas",
+      "emergencia",
+      "soporte"
+    ],
+    "base_response": "En situaciones extremas de montaña o aislamiento, se pueden improvisar camillas utilizando dos postes largos de madera resistente y mantas gruesas o chaquetas abrochadas. Es crucial probar la resistencia del soporte construido antes de colocar al herido sobre la camilla."
+  },
+  {
+    "intent_id": "prevencion_caidas_patios_recreo",
+    "keywords": [
+      "correr",
+      "escaleras",
+      "juegos",
+      "orden",
+      "vigilancia"
+    ],
+    "base_response": "La prevención de caídas en entornos escolares exige mantener los pasillos libres de obstáculos, usar calzado adecuado con suela de goma y evitar correr de forma desordenada por las escaleras. El mantenimiento del suelo seco resulta clave para evitar resbalones accidentales."
+  },
+  {
+    "intent_id": "riesgos_laboratorios_quimica_escolar",
+    "keywords": [
+      "gafas",
+      "bata",
+      "sustancias",
+      "experimento",
+      "profesor"
+    ],
+    "base_response": "En los laboratorios escolares, se deben usar siempre gafas protectoras y batas de algodón para evitar el contacto directo con reactivos químicos corrosivos. Las mezclas de sustancias deben realizarse bajo la supervisión directa del profesor a cargo del experimento. Evita quemaduras graves."
+  },
+  {
+    "intent_id": "seguridad_instalaciones_deportivas_colegio",
+    "keywords": [
+      "gimnasio",
+      "porterias",
+      "colchonetas",
+      "anclaje",
+      "golpes"
+    ],
+    "base_response": "Las instalaciones deportivas deben contar con colchonetas amortiguadoras y porterías de fútbol firmemente ancladas al suelo para evitar accidentes mortales por vuelcos. La revisión de los equipos de gimnasia reduce la probabilidad de caídas y fracturas óseas severas."
+  },
+  {
+    "intent_id": "orden_aulas_mobiliario_seguro",
+    "keywords": [
+      "mesas",
+      "mochilas",
+      "pasillo",
+      "ordenar",
+      "tropiezos"
+    ],
+    "base_response": "Mantener las mochilas escolares colgadas de las perchas o guardadas bajo las mesas evita tropiezos peligrosos durante los desplazamientos dentro de la clase. Los cables eléctricos de proyectores u ordenadores deben estar canalizados y protegidos contra tirones accidentales de los alumnos."
+  },
+  {
+    "intent_id": "prevencion_accidentes_talleres_tecnologia",
+    "keywords": [
+      "herramientas",
+      "cortar",
+      "enchufes",
+      "cuidado",
+      "electricidad"
+    ],
+    "base_response": "Los talleres de tecnología escolar requieren normas estrictas para el manejo de sierras, martillos y soldadores eléctricos calientes. El uso de herramientas manuales debe realizarse previa instrucción de seguridad, manteniendo siempre los enchufes y cables eléctricos en perfecto estado de aislamiento."
+  },
+  {
+    "intent_id": "simulacros_evacuacion_incendios_colegios",
+    "keywords": [
+      "salida",
+      "orden",
+      "alarma",
+      "correr",
+      "reunion"
+    ],
+    "base_response": "Realizar simulacros periódicos de evacuación enseña a los estudiantes a abandonar el edificio escolar en orden, sin correr ni gritar ante una alarma de incendio. Conocer las rutas de escape y los puntos de reunión exteriores agiliza el desalojo seguro."
+  },
+  {
+    "intent_id": "protocolo_llamada_emergencias_informacion",
+    "keywords": [
+      "telefono",
+      "direccion",
+      "heridos",
+      "detalles",
+      "socorros"
+    ],
+    "base_response": "Al llamar al número de emergencias, se debe detallar con precisión la ubicación del suceso, el tipo de accidente ocurrido y la cantidad de heridos. Nunca se debe colgar la llamada hasta que el operador del servicio de socorros lo indique expresamente."
+  },
+  {
+    "intent_id": "protocolo_actuacion_quemaduras_quimicas",
+    "keywords": [
+      "lavado",
+      "retirar",
+      "ropa",
+      "neutralizar",
+      "urgencia"
+    ],
+    "base_response": "El protocolo ante agresiones químicas exige retirar con rapidez las ropas contaminadas utilizando guantes protectores para evitar el contacto. Posteriormente, se irriga la zona lesionada con agua constante durante veinte minutos. Se debe remitir al paciente a valoración especializada."
+  },
+  {
+    "intent_id": "protocolo_picaduras_insectos_alergia",
+    "keywords": [
+      "aguijon",
+      "alergico",
+      "hielo",
+      "reaccion",
+      "shock"
+    ],
+    "base_response": "Ante picaduras de insectos, el protocolo indica retirar el aguijón raspando con un objeto plano, nunca con pinzas que expriman el veneno residual. Aplicar frío local para aliviar. Si el afectado presenta dificultad para respirar, llamar de inmediato por sospecha de reacción alérgica grave."
+  },
+  {
+    "intent_id": "protocolo_lesion_ocular_lavado",
+    "keywords": [
+      "ojo",
+      "parpado",
+      "agua",
+      "suero",
+      "frotar"
+    ],
+    "base_response": "El protocolo para cuerpos extraños en el ojo prohíbe terminantemente frotarse el párpado para no rayar la córnea sensible. Se realiza un lavado abundante con suero fisiológico o agua limpia inclinando la cabeza hacia el lado afectado. Tapar ambos ojos para evitar movimientos."
+  },
+  {
+    "intent_id": "protocolo_trauma_craneoencefalico_vigilancia",
+    "keywords": [
+      "cabeza",
+      "vomito",
+      "sueno",
+      "golpe",
+      "atencion"
+    ],
+    "base_response": "En caso de un golpe fuerte en la cabeza con pérdida transitoria de conciencia, se debe vigilar estrechamente al paciente durante veinticuatro horas. La aparición de vómitos repetidos, somnolencia excesiva o desorientación indica una urgencia neurológica. Reclama atención médica especializada."
+  },
+  {
+    "intent_id": "protocolo_convulsiones_epilepticas_seguridad",
+    "keywords": [
+      "suelo",
+      "cabeza",
+      "objetos",
+      "boca",
+      "tiempo"
+    ],
+    "base_response": "Durante una convulsión, el protocolo manda colocar a la persona en el suelo protegiendo su cabeza con un objeto blando como un abrigo. Está absolutamente prohibido introducir objetos o dedos en su boca. Retirar muebles cercanos y cronometrar la duración de la crisis."
+  },
+  {
+    "intent_id": "abrigo_lesionados_evitar_hipotermia",
+    "keywords": [
+      "manta",
+      "frio",
+      "calor",
+      "temperatura",
+      "shock"
+    ],
+    "base_response": "Es prioritario abrigar a las víctimas de accidentes graves con mantas térmicas para evitar la pérdida rápida de calor corporal o hipotermia. El estado de shock disminuye los mecanismos de regulación de la temperatura en el cuerpo. Mantener al lesionado caliente favorece su estabilidad."
+  },
+  {
+    "intent_id": "apoyo_psicologico_lesionado_calma",
+    "keywords": [
+      "hablar",
+      "mano",
+      "escuchar",
+      "tranquilizar",
+      "compania"
+    ],
+    "base_response": "Brindar apoyo emocional al lesionado hablándole con voz suave, tomándole de la mano y escuchando sus temores calma su ritmo cardíaco acelerado. Un estado de agitación extrema perjudica gravemente la evolución de las lesiones físicas. Ofrecer compañía constante genera confianza profunda."
+  },
+  {
+    "intent_id": "no_alimentar_lesionados_riesgo_asfixia",
+    "keywords": [
+      "ayuno",
+      "comida",
+      "beber",
+      "ahogo",
+      "cirugia"
+    ],
+    "base_response": "Queda prohibido dar comida, bebidas o medicamentos por vía oral a un lesionado grave que requiera traslado hospitalario inminente. El estómago lleno incrementa el riesgo de asfixia por vómito si pierde el conocimiento. Además, podría retrasar una cirugía de emergencia."
+  },
+  {
+    "intent_id": "control_dolor_lesiones_frio",
+    "keywords": [
+      "hielo",
+      "analgesico",
+      "golpe",
+      "dolor",
+      "alivio"
+    ],
+    "base_response": "Para mitigar el dolor agudo de fracturas, esguinces o contusiones sin recurrir a fármacos prohibidos en primeros auxilios, aplicamos frío local de forma controlada. El frío adormece las terminaciones nerviosas periféricas y reduce el edema tisular. Proporciona un alivio inmediato al herido."
+  },
+  {
+    "intent_id": "postura_confort_lesionado_facilitar",
+    "keywords": [
+      "comodo",
+      "sentado",
+      "acostado",
+      "dolor",
+      "pecho"
+    ],
+    "base_response": "Debemos permitir que el paciente adopte la postura que le resulte más cómoda y le cause menos dolor físico, siempre que no sea contraproducente. Las personas con problemas respiratorios o cardíacos suelen preferir estar sentadas o semisentadas. Respetar su comodidad facilita su tranquilidad."
+  },
+  {
+    "intent_id": "vigilancia_continua_constantes_vitales",
+    "keywords": [
+      "observar",
+      "pulso",
+      "respirar",
+      "empeorar",
+      "atento"
+    ],
+    "base_response": "El auxiliador debe permanecer junto al lesionado vigilando continuamente su respiración, pulso y estado de conciencia hasta la llegada de la ambulancia. El estado clínico de una víctima puede deteriorarse rápidamente en pocos minutos. Estar atento previene complicaciones fatales."
+  },
+  {
+    "intent_id": "lenguaje_preciso_coordinacion_emergencias",
+    "keywords": [
+      "hablar",
+      "sencillo",
+      "ordenes",
+      "gritos",
+      "coordinar"
+    ],
+    "base_response": "Utilizar un lenguaje directo y preciso durante un accidente evita malentendidos que retrasen las maniobras de salvamento necesarias. El socorrista debe emitir órdenes cortas, directas y fáciles de comprender para coordinar a los presentes sin generar confusión. Evitar gritos innecesarios."
+  },
+  {
+    "intent_id": "comunicacion_operador_emergencias_detalles",
+    "keywords": [
+      "telefono",
+      "informacion",
+      "calma",
+      "direccion",
+      "ayuda"
+    ],
+    "base_response": "Al contactar con el operador de urgencias, es vital responder con calma a cada una de sus preguntas sobre el suceso. Indicar la dirección exacta, puntos de referencia cercanos y el estado físico de los heridos garantiza que envíen los recursos adecuados."
+  },
+  {
+    "intent_id": "contacto_visual_victima_calma",
+    "keywords": [
+      "ojos",
+      "mirar",
+      "seguridad",
+      "calmar",
+      "confianza"
+    ],
+    "base_response": "Establecer contacto visual directo con la víctima mientras le hablamos transmite tranquilidad, control y empatía en medio del caos. Mirar a los ojos al herido evita que se siente abandonado o ignore nuestras indicaciones de auxilio. Fortalece el vínculo de ayuda inmediata."
+  },
+  {
+    "intent_id": "asignacion_tareas_especificas_ayudantes",
+    "keywords": [
+      "senalar",
+      "llamar",
+      "orden",
+      "colaborar",
+      "ayudantes"
+    ],
+    "base_response": "En lugar de pedir ayuda general, el auxiliador debe señalar a personas concretas y asignarles tareas específicas de forma individual. Pedir directamente que alguien llame al teléfono de urgencias o traiga el botiquín moviliza al grupo con eficacia. Organiza el rescate."
+  },
+  {
+    "intent_id": "comunicacion_no_verbal_gestos_seguridad",
+    "keywords": [
+      "gestos",
+      "postura",
+      "calma",
+      "manos",
+      "seguridad"
+    ],
+    "base_response": "La comunicación no verbal del socorrista, como mantener una postura relajada y movimientos firmes, influye enormemente en el entorno del accidente. Los gestos de nerviosismo o desesperación pueden desatar el pánico entre los heridos y curiosos presentes. Transmitir serenidad corporal."
+  },
+  {
+    "intent_id": "retransmision_informacion_personal_sanitario",
+    "keywords": [
+      "informe",
+      "medico",
+      "datos",
+      "medicamento",
+      "estado"
+    ],
+    "base_response": "Al llegar el personal médico al lugar del suceso, debemos transmitirles de forma ordenada y concisa toda la información recopilada del paciente. Detallar las maniobras realizadas, los medicamentos administrados si los hubiera y la evolución observada facilita el tratamiento posterior."
+  },
+  {
+    "intent_id": "evaluacion_entorno_riesgos_ambientales",
+    "keywords": [
+      "zona",
+      "humo",
+      "fuego",
+      "peligro",
+      "seguridad"
+    ],
+    "base_response": "Antes de acceder al lugar del accidente, el socorrista debe evaluar detenidamente la zona buscando peligros ambientales inmediatos. Factores como la presencia de humo denso, fuego, gases tóxicos o cables de alta tensión caídos pueden comprometer su propia integridad física. La seguridad personal es prioritaria."
+  },
+  {
+    "intent_id": "riesgos_quimicos_vapores_toxicos",
+    "keywords": [
+      "gas",
+      "olor",
+      "quimico",
+      "viento",
+      "proteger"
+    ],
+    "base_response": "Los derrames químicos o fugas de gas representan un riesgo silencioso muy grave de intoxicación por inhalación para los equipos de socorro. Si detectamos olores extraños o vapores irritantes, debemos retirarnos a una distancia segura a favor del viento. Evitar chispas."
+  },
+  {
+    "intent_id": "peligros_electricos_cables_tension",
+    "keywords": [
+      "cable",
+      "corriente",
+      "madera",
+      "aislar",
+      "peligro"
+    ],
+    "base_response": "Nunca se debe tocar a una víctima que permanezca en contacto con cables eléctricos o fuentes de alta tensión activas. Es indispensable cortar el suministro eléctrico general antes de acercarse al herido o apartar el cable con un objeto de madera seco. Previene la electrocución."
+  },
+  {
+    "intent_id": "riesgos_biologicos_fluidos_corporales",
+    "keywords": [
+      "sangre",
+      "guantes",
+      "infeccion",
+      "barrera",
+      "virus"
+    ],
+    "base_response": "El contacto directo con fluidos corporales de la víctima como sangre o saliva expone al auxiliador a virus y bacterias transmisibles. El uso obligatorio de guantes de látex y gafas protectoras es la principal medida de bioseguridad ante estos riesgos biológicos latentes."
+  },
+  {
+    "intent_id": "riesgo_atropello_accidentes_trafico",
+    "keywords": [
+      "carretera",
+      "chaleco",
+      "luces",
+      "coche",
+      "senalizar"
+    ],
+    "base_response": "En accidentes de tráfico, el riesgo de atropello para los socorristas es extremadamente elevado en carreteras de alta velocidad. Es obligatorio vestir chalecos reflectantes, señalizar el área con triángulos de emergencia a distancia y encender las luces del vehículo propio."
+  },
+  {
+    "intent_id": "riesgo_derrumbes_estructuras_inestables",
+    "keywords": [
+      "pared",
+      "grietas",
+      "casco",
+      "caida",
+      "derrumbes"
+    ],
+    "base_response": "Las estructuras dañadas por terremotos o explosiones presentan un riesgo inminente de colapso de techos o caída de escombros pesados. El socorrista debe abstenerse de entrar en edificios con grietas severas o muros inestables sin equipamiento de protección adecuado como cascos homologados."
+  },
+  {
+    "intent_id": "servicios_emergencias_coordinacion_sanitaria",
+    "keywords": [
+      "ambulancia",
+      "medicos",
+      "sanitarios",
+      "hospital",
+      "asistencia"
+    ],
+    "base_response": "La asistencia sanitaria de emergencia abarca las medidas médicas aplicadas por profesionales en el lugar del suceso y durante el traslado en ambulancia. Su propósito es estabilizar las funciones vitales críticas del paciente antes de ingresar en el centro hospitalario de referencia."
+  },
+  {
+    "intent_id": "unidades_soporte_vital_basico",
+    "keywords": [
+      "tecnicos",
+      "oxigeno",
+      "camilla",
+      "traslado",
+      "socorro"
+    ],
+    "base_response": "Las ambulancias de soporte vital básico están tripuladas por técnicos en emergencias que atienden situaciones de gravedad moderada sin invasión quirúrgica. Cuentan con equipos para ventilación con oxígeno, inmovilizadores óseos completos y materiales para curas de urgencia. Aseguran un transporte seguro."
+  },
+  {
+    "intent_id": "unidades_soporte_vital_avanzado",
+    "keywords": [
+      "medico",
+      "farmacos",
+      "monitor",
+      "intubacion",
+      "graves"
+    ],
+    "base_response": "Las unidades de soporte vital avanzado, llamadas también ambulancias medicalizadas, cuentan con un médico, enfermero y técnico especializados. Están preparadas para realizar intervenciones críticas complejas como intubaciones endotraqueales, administración de fármacos intravenosos y monitorización cardíaca continua de heridos graves."
+  },
+  {
+    "intent_id": "cadena_supervivencia_eslabones_salvamento",
+    "keywords": [
+      "pasos",
+      "ayuda",
+      "rcp",
+      "desfibrilador",
+      "medica"
+    ],
+    "base_response": "La cadena de supervivencia consta de cuatro eslabones coordinados: reconocimiento temprano de la parada cardíaca, inicio de la reanimación cardiopulmonar, desfibrilación precoz y soporte vital avanzado médico. El fallo de cualquiera de estos eslabones reduce el éxito."
+  },
+  {
+    "intent_id": "centro_coordinador_urgencias_funcionamiento",
+    "keywords": [
+      "operador",
+      "llamada",
+      "despachar",
+      "recursos",
+      "telefono"
+    ],
+    "base_response": "El centro coordinador recibe todas las llamadas de socorro de la población y gestiona de manera inteligente los recursos sanitarios disponibles. Los operadores médicos evalúan la gravedad del caso por teléfono para despachar el vehículo de auxilio idóneo para cada paciente."
+  },
+  {
+    "intent_id": "traslado_helicoptero_sanitario_remoto",
+    "keywords": [
+      "vuelo",
+      "montana",
+      "rapidez",
+      "rescate",
+      "gravedad"
+    ],
+    "base_response": "El traslado en helicóptero sanitario se reserva para rescates en zonas montañosas de difícil acceso o para heridos que requieren máxima rapidez de transporte. El vuelo permite sortear accidentes geográficos reduciendo drásticamente los tiempos de llegada a quirófanos especializados de guardia."
+  },
+  {
+    "intent_id": "autoproteccion_regla_primeros_auxilios",
+    "keywords": [
+      "seguridad",
+      "primero",
+      "protegerse",
+      "socorrista",
+      "heridos"
+    ],
+    "base_response": "La autoprotección es la norma primordial que establece que la seguridad del auxiliador está por encima de todo. Un socorrista lesionado se convierte en una nueva víctima, duplicando el problema original y reduciendo los recursos de rescate. Debemos actuar siempre con cabeza."
+  },
+  {
+    "intent_id": "mascaras_barrera_reanimacion_pulmonar",
+    "keywords": [
+      "boquilla",
+      "valvula",
+      "aire",
+      "infeccion",
+      "boca"
+    ],
+    "base_response": "Las máscaras de protección con válvula unidireccional permiten realizar la ventilación boca a boca de manera segura y sin contacto directo con fluidos. Evitan el intercambio de saliva y la posible transmisión de infecciones respiratorias del paciente hacia el reanimador. Imprescindible en el botiquín."
+  },
+  {
+    "intent_id": "lavado_manos_despues_auxilio",
+    "keywords": [
+      "jabon",
+      "agua",
+      "desinfectante",
+      "bacterias",
+      "limpieza"
+    ],
+    "base_response": "Es obligatorio lavarse minuciosamente las manos con abundante agua y jabón desinfectante tras realizar cualquier procedimiento de primeros auxilios. Esta acción elimina patógenos que hayan podido atravesar los guantes de látex protectores durante el tratamiento de heridas abiertas sangrantes."
+  },
+  {
+    "intent_id": "gafas_seguridad_salpicaduras_sangre",
+    "keywords": [
+      "ojos",
+      "lentes",
+      "sangre",
+      "salpicar",
+      "barrera"
+    ],
+    "base_response": "Las gafas de seguridad transparentes protegen la conjuntiva ocular de salpicaduras accidentales de sangre o fluidos biológicos a presión. Las mucosas de los ojos son vías de entrada muy vulnerables para virus transmitidos por la sangre. Su uso es altamente recomendado."
+  },
+  {
+    "intent_id": "vacunacion_preventiva_equipos_auxilio",
+    "keywords": [
+      "vacunas",
+      "virus",
+      "hepatitis",
+      "tetanos",
+      "defensas"
+    ],
+    "base_response": "Los socorristas habituales deben mantener al día su calendario de vacunación preventivo para asegurar sus defensas biológicas naturales. Vacunas contra la hepatitis B y el tétanos son fundamentales para evitar contagios severos por cortes accidentales con materiales contaminados."
+  },
+  {
+    "intent_id": "manejo_desechos_biologicos_seguridad",
+    "keywords": [
+      "bolsa",
+      "roja",
+      "agujas",
+      "desechar",
+      "contaminado"
+    ],
+    "base_response": "Todos los materiales de curación usados como gasas impregnadas de sangre o agujas deben desecharse en bolsas rojas especiales para residuos biológicos. Nunca deben mezclarse con la basura común para evitar pinchazos accidentales de los trabajadores de limpieza pública."
+  },
+  {
+    "intent_id": "calma_control_entorno_accidente",
+    "keywords": [
+      "serenidad",
+      "gritos",
+      "organizar",
+      "control",
+      "ayuda"
+    ],
+    "base_response": "El primer paso ante un accidente es conservar la calma y transmitir serenidad a las personas afectadas por la situación. El pánico desorganiza las tareas de socorro y puede inducir a errores fatales durante la aplicación de las maniobras. Mantener la cabeza fría."
+  },
+  {
+    "intent_id": "delimitacion_zona_segura_accidente",
+    "keywords": [
+      "marcar",
+      "conos",
+      "peligro",
+      "obstaculo",
+      "autos"
+    ],
+    "base_response": "Establecer un perímetro de seguridad alrededor de la zona del siniestro evita que nuevos vehículos o curiosos se involucren en el percance. Se deben utilizar luces intermitentes, conos de señalización o triángulos reflectantes para advertir del peligro con suficiente antelación."
+  },
+  {
+    "intent_id": "apoyo_psicologico_inicial_afectados",
+    "keywords": [
+      "escuchar",
+      "mano",
+      "tranquilidad",
+      "hablar",
+      "consolar"
+    ],
+    "base_response": "Acercarse a las víctimas conscientes, identificarse como auxiliador y explicarles que la ayuda médica viene en camino reduce drásticamente su nivel de estrés físico. El apoyo psicológico inicial forma parte integral de la asistencia de emergencias. Escuchar con atención consuela."
+  },
+  {
+    "intent_id": "atencion_prioritaria_lesiones_mortales",
+    "keywords": [
+      "hemorragia",
+      "asfixia",
+      "grave",
+      "muerte",
+      "urgente"
+    ],
+    "base_response": "Debemos dirigir los primeros esfuerzos de auxilio de manera exclusiva hacia las lesiones que amenazan la vida del paciente de forma inmediata. Las hemorragias masivas y la asfixia por obstrucción de vía aérea tienen prioridad absoluta sobre fracturas cerradas o quemaduras leves."
+  },
+  {
+    "intent_id": "no_medicacion_primeros_auxilios_pildoras",
+    "keywords": [
+      "pastillas",
+      "jarabe",
+      "receta",
+      "peligro",
+      "alergia"
+    ],
+    "base_response": "No se deben suministrar medicamentos de ningún tipo, ni siquiera analgésicos comunes, a las víctimas de un accidente. El socorrista desconoce el historial médico del herido, pudiendo provocar graves reacciones alérgicas o enmascarar síntomas neurológicos vitales para el diagnóstico posterior."
+  },
+  {
+    "intent_id": "llamada_organizada_servicios_socorro",
+    "keywords": [
+      "telefono",
+      "operador",
+      "detalles",
+      "lugar",
+      "ayuda"
+    ],
+    "base_response": "Delegar la llamada al teléfono de emergencias de forma rápida y organizada ahorra minutos de oro cruciales para la supervivencia de las víctimas. Se debe instruir a un ayudante específico para que contacte, aporte la dirección exacta y confirme de vuelta la gestión."
+  },
+  {
+    "intent_id": "apagado_motores_vehiculos_siniestrados",
+    "keywords": [
+      "llave",
+      "llaves",
+      "contacto",
+      "gasolina",
+      "fuego"
+    ],
+    "base_response": "Una medida de seguridad obligatoria al aproximarse a un coche accidentado es apagar el motor quitando la llave de contacto del encendido. Esto interrumpe la corriente eléctrica del vehículo reduciendo drásticamente la probabilidad de incendios por fugas de gasolina o chispas."
+  },
+  {
+    "intent_id": "ventilacion_gases_espacios_cerrados",
+    "keywords": [
+      "puertas",
+      "ventanas",
+      "aire",
+      "humo",
+      "abrir"
+    ],
+    "base_response": "Si la emergencia ocurre en un recinto cerrado con presencia de humo o gases combustibles, se deben abrir de inmediato puertas y ventanas. Facilitar una ventilación cruzada natural disminuye la concentración de gases tóxicos y explosivos en el aire que respiran los ocupantes."
+  },
+  {
+    "intent_id": "uso_calzado_suela_antideslizante",
+    "keywords": [
+      "goma",
+      "botas",
+      "caida",
+      "suelo",
+      "resbalar"
+    ],
+    "base_response": "El uso de calzado adecuado con suela de goma labrada evita resbalones peligrosos del auxiliador sobre superficies mojadas, aceitosas o con presencia de sangre. Mantener la estabilidad física durante las maniobras de rescate previene caídas accidentales y lesiones del propio socorrista."
+  },
+  {
+    "intent_id": "senalizacion_obstaculos_vias_transito",
+    "keywords": [
+      "conos",
+      "triangulos",
+      "avisar",
+      "autos",
+      "luces"
+    ],
+    "base_response": "Colocar balizas reflectantes o triángulos de emergencia a cincuenta metros del accidente avisa a los conductores que circulan por la vía pública. Esta señalización anticipada permite que reduzcan la velocidad con seguridad evitando colisiones en cadena que empeoren la situación inicial."
+  },
+  {
+    "intent_id": "uso_casco_zonas_desprendimiento",
+    "keywords": [
+      "cabeza",
+      "casco",
+      "escombros",
+      "obra",
+      "seguro"
+    ],
+    "base_response": "El uso de casco rígido de protección es indispensable al intervenir en accidentes de construcción, derrumbes o zonas de montaña. Protege la cabeza del socorrista ante impactos accidentales de objetos o piedras que caigan desde alturas elevadas durante las tareas."
+  },
+  {
+    "intent_id": "evacuacion_ordenada_zonas_alto_riesgo",
+    "keywords": [
+      "calma",
+      "salida",
+      "guiar",
+      "grupo",
+      "escape"
+    ],
+    "base_response": "Guiar al grupo de personas de manera ordenada y sin correr hacia las salidas de emergencia designadas es clave en desalojos rápidos. Mantener la disciplina colectiva evita avalanchas humanas y aplastamientos mortales en las puertas de escape del recinto afectado."
+  },
+  {
+    "intent_id": "apertura_via_aerea_maniobra_frente_menton",
+    "keywords": [
+      "frente",
+      "barbilla",
+      "cuello",
+      "garganta",
+      "aire"
+    ],
+    "base_response": "La maniobra frente mentón consiste en inclinar la cabeza hacia atrás colocando una mano en la frente y otra bajo la barbilla del paciente. Este movimiento anatómico eleva la base de la lengua liberando la garganta obstruida para permitir la entrada de aire."
+  },
+  {
+    "intent_id": "tecnica_ventilacion_boca_boca",
+    "keywords": [
+      "insuflacion",
+      "soplido",
+      "pulmon",
+      "oxigeno",
+      "boca"
+    ],
+    "base_response": "La ventilación boca a boca es el método tradicional para introducir aire oxigenado en los pulmones de una persona que no respira por sí misma. El reanimador sella sus labios sobre la boca de la víctima y realiza insuflaciones constantes de aire espirado normal."
+  },
+  {
+    "intent_id": "pinzamiento_nariz_ventilacion_efectiva",
+    "keywords": [
+      "nariz",
+      "dedos",
+      "soplido",
+      "escapar",
+      "aire"
+    ],
+    "base_response": "Al insuflar aire boca a boca, es indispensable pinzar firmemente la nariz de la víctima con los dedos índice y pulgar de la mano. Esta medida evita que el aire introducido se escape de inmediato por las fosas nasales, obligándolo a descender hacia los pulmones."
+  },
+  {
+    "intent_id": "observacion_ascenso_toracico_ventilacion",
+    "keywords": [
+      "torax",
+      "subir",
+      "insuflar",
+      "pulmones",
+      "pecho"
+    ],
+    "base_response": "Para comprobar que la ventilación es efectiva, el socorrista debe observar que el tórax del paciente se eleva visiblemente con cada insuflación realizada. Si el pecho no sube, significa que la vía aérea permanece obstruida o que el sellado de la boca es deficiente."
+  },
+  {
+    "intent_id": "ventilacion_boca_nariz_lactantes",
+    "keywords": [
+      "bebe",
+      "boca",
+      "nariz",
+      "suave",
+      "insuflar"
+    ],
+    "base_response": "En lactantes menores de un año, debido a su reducido tamaño, se debe realizar la ventilación cubriendo simultáneamente su boca y nariz con nuestros labios. Las insuflaciones de rescate deben ser de corta duración y con un volumen de aire muy moderado para no dañar."
+  },
+  {
+    "intent_id": "comprobacion_respiracion_metodo_vos",
+    "keywords": [
+      "ver",
+      "oir",
+      "sentir",
+      "mejilla",
+      "pecho"
+    ],
+    "base_response": "El método VOS ayuda a comprobar la respiración del paciente: Ver el movimiento del pecho, Oír los ruidos de la exhalación y Sentir el aire cálido en nuestra mejilla. Esta exploración se realiza acercando nuestra cara a la boca de la víctima diez segundos."
+  },
+  {
+    "intent_id": "inmovilizacion_prevencion_lesion_medular",
+    "keywords": [
+      "cuello",
+      "columna",
+      "mover",
+      "medula",
+      "paralisis"
+    ],
+    "base_response": "Mantener la inmovilización estricta del cuello ante sospechas de traumatismo en la columna vertebral evita lesiones medulares irreversibles que provoquen parálisis o cuadriplejía permanente. Se debe sujetar la cabeza con ambas manos de forma continua hasta la llegada médica."
+  },
+  {
+    "intent_id": "no_recolocar_huesos_fracturados",
+    "keywords": [
+      "hueso",
+      "articulacion",
+      "encajar",
+      "arteria",
+      "lesion"
+    ],
+    "base_response": "Está terminantemente prohibido intentar recolocar los huesos fracturados o las articulaciones luxadas en su posición anatómica original. Las maniobras forzadas de personas inexpertas pueden seccionar vasos sanguíneos y nervios cercanos, agravando enormemente el pronóstico de la lesión inicial."
+  },
+  {
+    "intent_id": "limpieza_precoz_heridas_infeccion",
+    "keywords": [
+      "lavar",
+      "agua",
+      "jabon",
+      "bacterias",
+      "infeccion"
+    ],
+    "base_response": "La limpieza precoz de heridas con agua corriente y jabón es la mejor medida preventiva contra infecciones bacterianas y complicaciones de cicatrización. Eliminar la suciedad y partículas incrustadas de inmediato reduce de forma espectacular la proliferación de microorganismos dañinos para la piel."
+  },
+  {
+    "intent_id": "elevacion_extremidades_prevencion_edemas",
+    "keywords": [
+      "brazo",
+      "pierna",
+      "inflamacion",
+      "subir",
+      "liquidos"
+    ],
+    "base_response": "Elevar la pierna o el brazo lesionado ayuda a prevenir la acumulación de líquidos o edemas en la zona del traumatismo. Al favorecer el drenaje linfático y el retorno venoso, disminuye la presión interna aliviando el dolor agudo del paciente lesionado."
+  },
+  {
+    "intent_id": "mantenimiento_corporal_calor_hipotermia",
+    "keywords": [
+      "manta",
+      "calor",
+      "frio",
+      "shocks",
+      "temperatura"
+    ],
+    "base_response": "El uso de mantas para mantener el calor corporal de un accidentado es crucial para evitar el desarrollo de un cuadro de hipotermia severo. El descenso térmico interfiere negativamente con los mecanismos normales de coagulación sanguínea y el correcto funcionamiento del corazón."
+  },
+  {
+    "intent_id": "evitar_torniquetes_innecesarios_isquemia",
+    "keywords": [
+      "extremidad",
+      "isquemia",
+      "musculo",
+      "presion",
+      "peligro"
+    ],
+    "base_response": "Evitar la colocación de torniquetes innecesarios o excesivamente prolongados previene la muerte de los tejidos musculares de la extremidad por falta de oxígeno o isquemia. Esta maniobra extrema de control hemorrágico debe reservarse únicamente para situaciones de sangrados masivos incontrolables."
+  },
+  {
+    "intent_id": "inmovilizacion_temporal_objetivos_basicos",
+    "keywords": [
+      "dolor",
+      "hueso",
+      "ferula",
+      "mover",
+      "musculos"
+    ],
+    "base_response": "La inmovilización temporal tiene como objetivo principal anular el movimiento del hueso roto o la articulación dañada para mitigar el dolor agudo. Al evitar el desplazamiento óseo, se impide que los bordes cortantes del hueso lesionen tejidos blandos, músculos y arterias."
+  },
+  {
+    "intent_id": "ferulas_improvisadas_carton_madera",
+    "keywords": [
+      "carton",
+      "madera",
+      "revista",
+      "sujetar",
+      "soporte"
+    ],
+    "base_response": "Se pueden confeccionar férulas de emergencia sumamente eficaces empleando cartón grueso, tablas de madera lisa, revistas enrolladas o periódicos apretados. Estos materiales rígidos deben sujetarse con suavidad pero con firmeza al miembro lesionado mediante el uso de vendas limpias."
+  },
+  {
+    "intent_id": "almohadillado_ferulas_puntos_presion",
+    "keywords": [
+      "gasa",
+      "algodon",
+      "hueso",
+      "heridas",
+      "proteger"
+    ],
+    "base_response": "Es imprescindible almohadillar los materiales rígidos de la férula con algodón o paños limpios en las zonas de prominencias óseas del paciente. Esto evita la aparición de llagas por presión continuada, mejora la comodidad del herido y previene dolores complementarios molestos."
+  },
+  {
+    "intent_id": "inmovilizacion_fracturas_dedos_entablillado",
+    "keywords": [
+      "dedo",
+      "venda",
+      "vecino",
+      "fijar",
+      "mano"
+    ],
+    "base_response": "Para inmovilizar de forma rápida y sencilla la fractura de un dedo de la mano, se puede realizar un entablillado utilizando el dedo vecino sano como soporte natural. Se unen ambos dedos con esparadrapo o venda suave colocando una gasa intermedia protectora."
+  },
+  {
+    "intent_id": "fijacion_muneca_anteojos_cabestrillo",
+    "keywords": [
+      "cabestrillo",
+      "brazo",
+      "cuello",
+      "colgar",
+      "panuelo"
+    ],
+    "base_response": "La inmovilización de muñeca o antebrazo lesionados se complementa idealmente con el uso de un cabestrillo triangular colgado del cuello del herido. El cabestrillo mantiene el miembro superior en posición elevada y en reposo absoluto, facilitando una adecuada irrigación sanguínea."
+  },
+  {
+    "intent_id": "comprobacion_pulso_despues_inmovilizacion",
+    "keywords": [
+      "pulso",
+      "arteria",
+      "dedos",
+      "color",
+      "venda"
+    ],
+    "base_response": "Es obligatorio comprobar la presencia de pulso periférico y el color de los dedos de la extremidad después de colocar cualquier férula de inmovilización. Si los dedos se enfrían, palidecen o pierden sensibilidad, debemos aflojar la sujeción inmediatamente por compromiso circulatorio."
+  },
+  {
+    "intent_id": "evaluacion_conciencia_estimulos_verbales",
+    "keywords": [
+      "hablar",
+      "nombre",
+      "gritar",
+      "oido",
+      "responder"
+    ],
+    "base_response": "El primer paso para valorar el nivel de conciencia de un lesionado es hablarle firmemente o hacerle preguntas sencillas cerca del oído. Preguntas como si se encuentra bien o cuál es su nombre permiten evaluar de manera rápida si reacciona con coherencia."
+  },
+  {
+    "intent_id": "evaluacion_conciencia_estimulos_tactiles",
+    "keywords": [
+      "hombros",
+      "sacudir",
+      "tocar",
+      "estimulo",
+      "reaccion"
+    ],
+    "base_response": "Si la víctima no responde a las llamadas verbales del socorrista, se debe aplicar un estímulo táctil suave pero decidido sobre su cuerpo. Sacudir ligeramente los hombros del paciente nos permite comprobar si realiza movimientos defensivos, abre los ojos o emite sonidos."
+  },
+  {
+    "intent_id": "escala_glasgow_valoracion_neurologica",
+    "keywords": [
+      "ojos",
+      "hablar",
+      "mover",
+      "puntos",
+      "cerebro"
+    ],
+    "base_response": "La escala de coma de Glasgow es una herramienta utilizada por los sanitarios para cuantificar la profundidad de la alteración de conciencia del paciente. Evalúa tres parámetros fundamentales de forma objetiva: la respuesta ocular, la respuesta verbal y la respuesta motriz."
+  },
+  {
+    "intent_id": "estado_estupor_perdida_parcial_conciencia",
+    "keywords": [
+      "dormido",
+      "despertar",
+      "dolor",
+      "estimulos",
+      "gravedad"
+    ],
+    "base_response": "El estado de estupor se caracteriza porque el paciente permanece profundamente dormido pero reacciona de manera transitoria ante estímulos dolorosos intensos como presiones. Al cesar el estímulo, la persona vuelve a caer inmediatamente en la inconsciencia. Revela un daño moderado."
+  },
+  {
+    "intent_id": "estado_coma_ausencia_respuesta_estimulos",
+    "keywords": [
+      "coma",
+      "inconsciente",
+      "reflejos",
+      "gravedad",
+      "danio"
+    ],
+    "base_response": "El estado de coma es el grado más grave de pérdida de conciencia, donde el paciente no responde a ningún estímulo verbal o doloroso. El cuerpo carece de reflejos de defensa activos y requiere soporte vital e ingreso hospitalario urgente en cuidados intensivos."
+  },
+  {
+    "intent_id": "registro_cambios_conciencia_traslado",
+    "keywords": [
+      "tiempo",
+      "apuntar",
+      "evolucion",
+      "empeorar",
+      "atencion"
+    ],
+    "base_response": "Es fundamental registrar las variaciones en el estado de conciencia del herido anotando la hora exacta de cada cambio observado en su respuesta. Informar si el paciente se recupera o empeora su nivel de alerta resulta de enorme valor médico."
+  },
+  {
+    "intent_id": "numero_unico_emergencias_internacional",
+    "keywords": [
+      "telefono",
+      "ayuda",
+      "llamar",
+      "gratis",
+      "socorros"
+    ],
+    "base_response": "El número de emergencias uno uno dos es el teléfono de contacto gratuito unificado para solicitar ayuda de urgencias en toda la Unión Europea. Permite coordinar la asistencia inmediata de bomberos, policía y ambulancias sanitarias mediante una única llamada de socorro."
+  },
+  {
+    "intent_id": "numero_emergencia_latinoamerica_unificado",
+    "keywords": [
+      "telefono",
+      "policia",
+      "socorro",
+      "ayuda",
+      "llamar"
+    ],
+    "base_response": "El número telefónico nueve uno uno es ampliamente utilizado en diversos países de América para centralizar las llamadas de auxilio de la ciudadanía. Permite una rápida derivación de los recursos de rescate hacia el lugar del incidente de manera coordinada y ágil."
+  },
+  {
+    "intent_id": "informacion_clave_localizacion_exacta",
+    "keywords": [
+      "calle",
+      "numero",
+      "pueblo",
+      "direccion",
+      "lugar"
+    ],
+    "base_response": "Al solicitar ayuda, indicar la calle, el número, el término municipal o referencias geográficas estables resulta prioritario para los equipos de rescate. Facilitar una localización exacta y sin errores evita retrasos que pongan en peligro la vida de los pacientes."
+  },
+  {
+    "intent_id": "descripcion_numero_estado_victimas",
+    "keywords": [
+      "heridos",
+      "personas",
+      "graves",
+      "respirar",
+      "ayuda"
+    ],
+    "base_response": "Es indispensable detallar con precisión el número aproximado de víctimas afectadas y el estado de gravedad aparente de cada una de ellas. Informar si hay personas atrapadas, inconscientes o que no respiran orienta el tipo de vehículos de ayuda sanitaria."
+  },
+  {
+    "intent_id": "mantener_linea_libre_llamada_socorro",
+    "keywords": [
+      "telefono",
+      "colgar",
+      "esperar",
+      "operador",
+      "llamada"
+    ],
+    "base_response": "Nunca se debe finalizar la comunicación telefónica hasta que el operador de la central de emergencias lo autorice explícitamente. Es crucial mantener la línea libre para que puedan devolvernos la llamada si necesitan datos de localización complementarios urgentes."
+  },
+  {
+    "intent_id": "coordinacion_ayuda_externa_colegios",
+    "keywords": [
+      "puerta",
+      "esperar",
+      "guiar",
+      "camilla",
+      "escolar"
+    ],
+    "base_response": "En el ámbito escolar, se debe designar a un profesor o alumno en la puerta del centro para esperar y guiar a la ambulancia. Esta coordinación previa ahorra minutos muy valiosos evitando que los sanitarios se pierdan buscando el pabellón del accidente."
+  },
+  {
+    "intent_id": "intoxicacion_inhalacion_gases_auxilio",
+    "keywords": [
+      "gas",
+      "aire",
+      "fresco",
+      "oxigeno",
+      "respirar"
+    ],
+    "base_response": "Ante la intoxicación por gases tóxicos como monóxido de carbono, se debe retirar inmediatamente a la víctima hacia un área exterior bien ventilada. El socorrista debe proteger sus propias vías aéreas durante el rescate para no inhalar el gas acumulado."
+  },
+  {
+    "intent_id": "intoxicacion_ingestion_quimicos_no_vomito",
+    "keywords": [
+      "tragar",
+      "quimico",
+      "veneno",
+      "vomito",
+      "danio"
+    ],
+    "base_response": "Si se ha ingerido un producto químico corrosivo como lejía, está terminantemente prohibido provocar el vómito en la persona afectada. El retorno de la sustancia ácida causará una segunda quemadura severa en el esófago y la cavidad bucal del paciente."
+  },
+  {
+    "intent_id": "intoxicacion_contacto_cutaneo_lavado",
+    "keywords": [
+      "piel",
+      "quimico",
+      "agua",
+      "retirar",
+      "ropa"
+    ],
+    "base_response": "En caso de que el tóxico haya entrado en contacto directo con la piel, se debe quitar toda la ropa contaminada con rapidez. Lavar la zona expuesta con abundante agua corriente durante un tiempo mínimo de quince a veinte minutos consecutivos."
+  },
+  {
+    "intent_id": "identificacion_toxico_envase_etiqueta",
+    "keywords": [
+      "bote",
+      "etiqueta",
+      "veneno",
+      "marca",
+      "ingrediente"
+    ],
+    "base_response": "Es prioritario localizar y conservar el envase original del producto químico ingerido o inhalado para mostrarlo a los servicios médicos de urgencia. Conocer el nombre de la marca comercial y sus ingredientes permite aplicar el antídoto específico necesario de inmediato."
+  },
+  {
+    "intent_id": "servicio_informacion_toxicologica_consulta",
+    "keywords": [
+      "telefono",
+      "consulta",
+      "veneno",
+      "antidoto",
+      "ayuda"
+    ],
+    "base_response": "El Servicio de Información Toxicológica ofrece asesoramiento médico especializado las veinticuatro horas del día ante cualquier sospecha de envenenamiento o ingesta indebida. Sus indicaciones telefónicas nos guiarán sobre los pasos inmediatos a seguir antes de acudir al hospital."
+  },
+  {
+    "intent_id": "intoxicacion_medicamentos_sintomas_urgencia",
+    "keywords": [
+      "pastillas",
+      "sueno",
+      "respiracion",
+      "hospital",
+      "peligro"
+    ],
+    "base_response": "La ingesta accidental de dosis elevadas de medicamentos escolares requiere un traslado inmediato del estudiante al centro médico de urgencia más cercano. Los síntomas pueden incluir somnolencia profunda, pupilas dilatadas y una disminución severa de la frecuencia respiratoria normal."
+  }
+]
