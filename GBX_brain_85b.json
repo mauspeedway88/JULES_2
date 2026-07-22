@@ -1,0 +1,1762 @@
+[
+  {
+    "intent_id": "alimentacion_crecimiento_definicion",
+    "keywords": [
+      "nutricion",
+      "crecimiento",
+      "desarrollo",
+      "infancia",
+      "etapa"
+    ],
+    "base_response": "La alimentación durante el crecimiento es el proceso biológico de ingerir nutrientes esenciales para construir tejidos corporales sanos. Proporciona las proteínas, vitaminas y minerales necesarios para el desarrollo celular continuo y el aumento de estatura física en la etapa juvenil."
+  },
+  {
+    "intent_id": "alimentacion_crecimiento_funcionamiento",
+    "keywords": [
+      "nutrientes",
+      "absorbidos",
+      "torrente",
+      "sanguineo",
+      "celulas"
+    ],
+    "base_response": "Los alimentos ingeridos se descomponen en el aparato digestivo para liberar aminoácidos, glucosa y lípidos indispensables. Estas moléculas viajan por la sangre hacia los tejidos activos, estimulando la división celular y promoviendo el alargamiento natural de los huesos corporales."
+  },
+  {
+    "intent_id": "alimentacion_crecimiento_quimica",
+    "keywords": [
+      "proteinas",
+      "aminoacidos",
+      "estructurales",
+      "musculos",
+      "moleculas"
+    ],
+    "base_response": "Las proteínas consumidas actúan como polímeros químicos compuestos por cadenas de aminoácidos esenciales. Estas moléculas forman la estructura fundamental de los músculos, hormonas y enzimas, facilitando reacciones químicas vitales que sostienen el crecimiento saludable de los tejidos humanos."
+  },
+  {
+    "intent_id": "alimentacion_crecimiento_patologia",
+    "keywords": [
+      "desnutricion",
+      "estatura",
+      "retraso",
+      "cognitivo",
+      "debilidad"
+    ],
+    "base_response": "La falta crónica de macro y micronutrientes durante la pubertad produce retraso en el crecimiento físico y debilidad ósea. Esta deficiencia severa afecta el desarrollo cognitivo permanente, disminuye la inmunidad celular y debilita la capacidad de aprendizaje escolar diario."
+  },
+  {
+    "intent_id": "alimentacion_crecimiento_historia",
+    "keywords": [
+      "evolucion",
+      "dieta",
+      "humana",
+      "antiguedad",
+      "nutrientes"
+    ],
+    "base_response": "Históricamente, la dieta de los jóvenes dependía exclusivamente de los recursos agrícolas locales disponibles en cada estación. El descubrimiento de la conservación alimentaria y las vitaminas revolucionó la nutrición infantil, reduciendo drásticamente las enfermedades por deficiencias nutricionales graves."
+  },
+  {
+    "intent_id": "alimentacion_crecimiento_aplicacion",
+    "keywords": [
+      "desayuno",
+      "balanceado",
+      "energia",
+      "rendimiento",
+      "diario"
+    ],
+    "base_response": "Planificar desayunos equilibrados con lácteos, cereales integrales y frutas frescas garantiza energía constante para la jornada escolar. Esta práctica diaria optimiza la concentración mental, estabiliza los niveles de azúcar sanguíneo y favorece un desarrollo físico vigoroso."
+  },
+  {
+    "intent_id": "exceso_calorico_definicion",
+    "keywords": [
+      "exceso",
+      "calorias",
+      "grasas",
+      "sobrepeso",
+      "salud"
+    ],
+    "base_response": "El exceso calórico ocurre cuando consumimos más energía alimentaria de la que nuestro cuerpo gasta diariamente. Este desequilibrio energético prolongado provoca la acumulación de grasa en el tejido adiposo, incrementando el riesgo de desarrollar sobrepeso y obesidad infantil."
+  },
+  {
+    "intent_id": "exceso_calorico_funcionamiento",
+    "keywords": [
+      "glucosa",
+      "sobrante",
+      "lipidos",
+      "tejido",
+      "adiposo"
+    ],
+    "base_response": "Cuando el cuerpo recibe azúcares y grasas de forma desmedida, el hígado convierte los nutrientes sobrantes en triglicéridos celulares. Estos lípidos se almacenan en células adiposas especializadas, las cuales se expanden continuamente generando ganancia excesiva de peso corporal."
+  },
+  {
+    "intent_id": "exceso_calorico_patologia",
+    "keywords": [
+      "obesidad",
+      "diabetes",
+      "cardiovascular",
+      "hipertension",
+      "enfermedad"
+    ],
+    "base_response": "El consumo exagerado de calorías promueve la resistencia celular a la insulina y eleva los lípidos sanguíneos dañinos. Esto incrementa significativamente la probabilidad de sufrir diabetes tipo dos, hipertensión arterial y problemas cardíacos severos desde la juventud."
+  },
+  {
+    "intent_id": "exceso_calorico_social",
+    "keywords": [
+      "publicidad",
+      "comida",
+      "chatarra",
+      "adolescentes",
+      "mercado"
+    ],
+    "base_response": "La exposición masiva a anuncios publicitarios de comida rápida influye negativamente en los hábitos alimentarios de los adolescentes. Este fenómeno social facilita la adopción de dietas hipercalóricas, desplazando las opciones frescas y naturales por ultraprocesados perjudiciales."
+  },
+  {
+    "intent_id": "exceso_calorico_prevencion",
+    "keywords": [
+      "ejercicio",
+      "agua",
+      "porciones",
+      "moderacion",
+      "habito"
+    ],
+    "base_response": "Prevenir el sobrepeso exige balancear la ingesta alimentaria con actividad física moderada durante la rutina semanal. Beber agua natural en lugar de refrescos azucarados ayuda a regular el balance calórico y promueve un peso corporal saludable y estable."
+  },
+  {
+    "intent_id": "exceso_calorico_mitos",
+    "keywords": [
+      "mito",
+      "grasa",
+      "sudor",
+      "perder",
+      "peso"
+    ],
+    "base_response": "Existe la falsa creencia de que sudar en exceso elimina grasa corporal acumulada de forma directa y rápida. En realidad, el sudor solo representa agua y sales minerales perdidas por el cuerpo, no combustión metabólica de lípidos almacenados."
+  },
+  {
+    "intent_id": "deficiencia_nutricional_definicion",
+    "keywords": [
+      "carencia",
+      "micronutrientes",
+      "patologia",
+      "organismo",
+      "desarrollo"
+    ],
+    "base_response": "La deficiencia nutricional es la falta severa de sustancias esenciales como vitaminas y minerales requeridos por el organismo celular. Esta ausencia interrumpe procesos bioquímicos normales, dando origen a patologías metabólicas específicas que afectan el funcionamiento físico general."
+  },
+  {
+    "intent_id": "deficiencia_nutricional_funcionamiento",
+    "keywords": [
+      "bloqueo",
+      "enzimas",
+      "procesos",
+      "metabolicos",
+      "sintomas"
+    ],
+    "base_response": "Sin los cofactores vitamínicos adecuados, las enzimas celulares no pueden catalizar las reacciones químicas vitales del metabolismo interno. Esto paraliza la síntesis de proteínas y la producción de energía, manifestándose clínicamente mediante fatiga extrema y debilidad inmunológica."
+  },
+  {
+    "intent_id": "deficiencia_nutricional_patologia",
+    "keywords": [
+      "anemia",
+      "escorbuto",
+      "raquitismo",
+      "avitaminosis",
+      "enfermedades"
+    ],
+    "base_response": "La escasez prolongada de nutrientes específicos produce patologías graves como el raquitismo por falta de vitamina D. Asimismo, la carencia de vitamina C desencadena escorbuto, afectando la cicatrización, el colágeno de la piel y debilitando los vasos sanguíneos."
+  },
+  {
+    "intent_id": "deficiencia_nutricional_prevencion",
+    "keywords": [
+      "dieta",
+      "variada",
+      "frutas",
+      "verduras",
+      "prevencion"
+    ],
+    "base_response": "Consumir una dieta diversa que incluya vegetales verdes, frutas cítricas, legumbres y lácteos previene cualquier déficit nutricional severo. Estas fuentes naturales garantizan el aporte diario de micronutrientes esenciales para el mantenimiento óptimo de nuestra salud biológica."
+  },
+  {
+    "intent_id": "deficiencia_nutricional_quimica",
+    "keywords": [
+      "vitaminas",
+      "hidrosolubles",
+      "liposolubles",
+      "absorcion",
+      "moleculas"
+    ],
+    "base_response": "Químicamente, las vitaminas se clasifican en hidrosolubles, solubles en agua, y liposolubles, que requieren grasas para su absorción celular. Su estructura molecular define cómo el cuerpo las almacena o desecha a través del sistema excretor urinario."
+  },
+  {
+    "intent_id": "deficiencia_nutricional_consecuencias",
+    "keywords": [
+      "consecuencias",
+      "desarrollo",
+      "cognitivo",
+      "aprendizaje",
+      "deficiencias"
+    ],
+    "base_response": "Las deficiencias nutricionales graves merman la plasticidad cerebral de los estudiantes y reducen su capacidad de concentración en el aula escolar. Esto resulta en bajo rendimiento académico, problemas de memoria a corto plazo y fatiga física constante durante el día."
+  },
+  {
+    "intent_id": "indice_masa_corporal_definicion",
+    "keywords": [
+      "imc",
+      "indicador",
+      "peso",
+      "estatura",
+      "medida"
+    ],
+    "base_response": "El índice de masa corporal es un indicador que asocia el peso físico de un individuo con su estatura al cuadrado. Se utiliza globalmente para clasificar de forma rápida el estado nutricional en categorías de bajo peso, normalidad, sobrepeso u obesidad."
+  },
+  {
+    "intent_id": "indice_masa_corporal_calculo",
+    "keywords": [
+      "formula",
+      "kilogramos",
+      "metros",
+      "cuadrado",
+      "matematicas"
+    ],
+    "base_response": "Para calcular el indicador matemático debemos dividir el peso corporal expresado en kilogramos por la estatura medida en metros elevada al cuadrado. El resultado numérico obtenido se compara con tablas estandarizadas de referencia para determinar la situación metabólica."
+  },
+  {
+    "intent_id": "indice_masa_corporal_limitacion",
+    "keywords": [
+      "musculo",
+      "grasa",
+      "composicion",
+      "limitacion",
+      "deportista"
+    ],
+    "base_response": "Este método posee limitaciones importantes debido a que no distingue entre el peso de la grasa y el músculo magro. Un atleta con gran masa muscular puede presentar un indicador elevado de sobrepeso sin tener exceso de grasa perjudicial."
+  },
+  {
+    "intent_id": "indice_masa_corporal_aplicacion",
+    "keywords": [
+      "monitoreo",
+      "salud",
+      "pediatra",
+      "percentiles",
+      "adolescentes"
+    ],
+    "base_response": "En adolescentes, los médicos evalúan el indicador utilizando tablas de percentiles que consideran la edad exacta y el sexo biológico. Este monitoreo regular ayuda a detectar tempranamente desviaciones en el desarrollo corporal y guiar mejores hábitos alimentarios."
+  },
+  {
+    "intent_id": "indice_masa_corporal_mitos",
+    "keywords": [
+      "mito",
+      "numero",
+      "salud",
+      "perfecta",
+      "diagnostico"
+    ],
+    "base_response": "Es un mito considerar que tener un valor matemático normal garantiza un estado de salud metabólica perfecto e infalible. La evaluación nutricional real requiere analizar la composición corporal, los hábitos de ejercicio y análisis de sangre clínicos complementarios."
+  },
+  {
+    "intent_id": "indice_masa_corporal_historia",
+    "keywords": [
+      "origen",
+      "quetelet",
+      "historia",
+      "estadistica",
+      "formula"
+    ],
+    "base_response": "El índice fue diseñado originalmente en el siglo diecinueve por el matemático belga Adolphe Quetelet para estudiar la población media. Décadas más tarde, los científicos lo adoptaron como una herramienta epidemiológica eficaz para evaluar el sobrepeso y la obesidad."
+  },
+  {
+    "intent_id": "trastornos_alimentarios_definicion",
+    "keywords": [
+      "trastorno",
+      "conducta",
+      "alimentaria",
+      "psicologia",
+      "salud"
+    ],
+    "base_response": "Los trastornos alimentarios son condiciones psiquiátricas graves caracterizadas por comportamientos extremadamente anormales en relación con la comida y el peso. Afectan profundamente la salud física de los adolescentes y alteran severamente sus relaciones sociales y familiares diarias."
+  },
+  {
+    "intent_id": "trastornos_alimentarios_tipos",
+    "keywords": [
+      "anorexia",
+      "bulimia",
+      "atracones",
+      "sintomas",
+      "patologias"
+    ],
+    "base_response": "La anorexia nerviosa destaca por la restricción severa de alimentos y el miedo obsesivo a ganar peso corporal saludable. Por el contrario, la bulimia implica periodos de atracones descontrolados seguidos de purgas peligrosas que dañan el esófago y esmalte dental."
+  },
+  {
+    "intent_id": "trastornos_alimentarios_origen",
+    "keywords": [
+      "ansiedad",
+      "autoestima",
+      "presion",
+      "social",
+      "factores"
+    ],
+    "base_response": "Estas patologías tienen un origen multifactorial que combina vulnerabilidad genética, baja autoestima, ansiedad social y presión estética de los medios. Los estereotipos de belleza irreales promovidos en redes sociales incrementan notablemente la insatisfacción corporal en los jóvenes."
+  },
+  {
+    "intent_id": "trastornos_alimentarios_patologia",
+    "keywords": [
+      "desnutricion",
+      "arritmia",
+      "deshidratacion",
+      "consecuencias",
+      "graves"
+    ],
+    "base_response": "La desnutrición severa originada por estos trastornos provoca arritmias cardíacas fatales, pérdida ósea acelerada, desequilibrio de electrolitos y deshidratación celular. Estas consecuencias físicas ponen en riesgo inmediato la vida del paciente si no recibe tratamiento médico oportuno."
+  },
+  {
+    "intent_id": "trastornos_alimentarios_treatment",
+    "keywords": [
+      "terapia",
+      "psicologica",
+      "nutricionista",
+      "apoyo",
+      "recuperacion"
+    ],
+    "base_response": "La recuperación exitosa requiere la intervención de un equipo multidisciplinario compuesto por psicólogos, nutricionistas especializados y médicos pediatras. El apoyo continuo del entorno familiar resulta crucial para sanar la relación emocional con la comida y restablecer el peso."
+  },
+  {
+    "intent_id": "trastornos_alimentarios_prevencion",
+    "keywords": [
+      "prevencion",
+      "autoestima",
+      "dialogo",
+      "familiar",
+      "salud"
+    ],
+    "base_response": "Prevenir estas patologías implica fomentar una autoestima sólida en casa y evitar comentarios despectivos sobre el peso de los jóvenes. Promover un diálogo abierto y comidas familiares armoniosas ayuda a consolidar una relación sana y equilibrada con la alimentación diaria."
+  },
+  {
+    "intent_id": "ultraprocesados_definicion",
+    "keywords": [
+      "alimentos",
+      "ultraprocesados",
+      "industriales",
+      "aditivos",
+      "quimicos"
+    ],
+    "base_response": "Los alimentos ultraprocesados son formulaciones industriales elaboradas principalmente con sustancias extraídas de alimentos junto con numerosos aditivos sintéticos. Carecen de nutrientes frescos enteros y están diseñados para tener una vida útil extremadamente larga y un sabor intenso artificial."
+  },
+  {
+    "intent_id": "ultraprocesados_quimica",
+    "keywords": [
+      "conservantes",
+      "colorantes",
+      "saborizantes",
+      "quimicos",
+      "ingredientes"
+    ],
+    "base_response": "Su composición química incluye altos porcentajes de grasas hidrogenadas, jarabe de maíz con fructosa, potenciadores de sabor y espesantes artificiales. Estos compuestos químicos imitan las cualidades organolépticas de alimentos frescos pero alteran el equilibrio metabólico del cuerpo humano."
+  },
+  {
+    "intent_id": "ultraprocesados_funcionamiento",
+    "keywords": [
+      "rapida",
+      "absorcion",
+      "picos",
+      "insulina",
+      "saciedad"
+    ],
+    "base_response": "Al ser productos altamente refinados, el aparato digestivo los absorbe velozmente, provocando picos elevados de glucosa e insulina en sangre. Además, su consumo no estimula adecuadamente los mecanismos naturales de saciedad, promoviendo la sobrealimentación involuntaria continua."
+  },
+  {
+    "intent_id": "ultraprocesados_patologia",
+    "keywords": [
+      "inflamacion",
+      "obesidad",
+      "microbiota",
+      "perjuicio",
+      "salud"
+    ],
+    "base_response": "El consumo de ultraprocesados daña la microbiota intestinal beneficiosa y promueve un estado de inflamación crónica de bajo grado. Este desajuste celular incrementa drásticamente la incidencia de obesidad, hígado graso y resistencia metabólica a la insulina."
+  },
+  {
+    "intent_id": "ultraprocesados_alternativa",
+    "keywords": [
+      "naturales",
+      "fruta",
+      "verduras",
+      "saludables",
+      "habito"
+    ],
+    "base_response": "Sustituir la comida rápida por alimentos naturales como frutas, nueces y vegetales frescos protege activamente la salud cardiovascular del adolescente. Cocinar en casa con ingredientes mínimamente procesados asegura una nutrición óptima y libre de aditivos artificiales perjudiciales."
+  },
+  {
+    "intent_id": "ultraprocesados_historia",
+    "keywords": [
+      "historia",
+      "industrializacion",
+      "urbanizacion",
+      "comida",
+      "rapida"
+    ],
+    "base_response": "El auge de los alimentos ultraprocesados comenzó a mediados del siglo veinte con la rápida urbanización y la demanda de comidas rápidas. La industria alimentaria masificó estas opciones baratas y listas para comer, alterando profundamente los patrones dietéticos tradicionales del planeta."
+  },
+  {
+    "intent_id": "antioxidantes_definicion",
+    "keywords": [
+      "antioxidantes",
+      "radicales",
+      "libres",
+      "proteccion",
+      "celular"
+    ],
+    "base_response": "Los antioxidantes son compuestos biológicos que neutralizan la acción nociva de los radicales libres en el cuerpo humano. Estas sustancias protectoras evitan el daño oxidativo celular, el cual destruye membranas celulares y acelera el envejecimiento de los tejidos vivos."
+  },
+  {
+    "intent_id": "antioxidantes_quimica",
+    "keywords": [
+      "polifenoles",
+      "flavonoides",
+      "moleculas",
+      "electrones",
+      "quimica"
+    ],
+    "base_response": "Químicamente, los antioxidantes donan electrones estables a los radicales libres altamente inestables sin volverse reactivos ellos mismos. Moléculas como los polifenoles, carotenoides y flavonoides poseen estructuras químicas únicas capaces de desactivar el estrés oxidativo tisular."
+  },
+  {
+    "intent_id": "antioxidantes_fuentes",
+    "keywords": [
+      "frutos",
+      "rojos",
+      "citricos",
+      "verduras",
+      "vitaminas"
+    ],
+    "base_response": "Los frutos rojos, las espinacas, el brócoli y los cítricos representan fuentes excelentes de antioxidantes naturales como la vitamina C. Incluir estos alimentos frescos en la dieta diaria fortalece las defensas celulares contra contaminantes ambientales y rayos ultravioleta."
+  },
+  {
+    "intent_id": "antioxidantes_funcionamiento",
+    "keywords": [
+      "previenen",
+      "envejecimiento",
+      "celular",
+      "membrana",
+      "antioxidantes"
+    ],
+    "base_response": "Dentro de la célula, los antioxidantes interceptan los compuestos reactivos de oxígeno antes de que dañen el ácido desoxirribonucleico. Al proteger los orgánulos vitales, aseguran el correcto funcionamiento celular y reducen el riesgo de mutaciones genéticas nocivas."
+  },
+  {
+    "intent_id": "antioxidantes_experimento",
+    "keywords": [
+      "experimento",
+      "manzana",
+      "limon",
+      "oxidacion",
+      "escolar"
+    ],
+    "base_response": "Un experimento escolar sencillo consiste en aplicar jugo de limón rico en vitamina C sobre una manzana recién cortada. El limón actúa como antioxidante barrera, impidiendo que el oxígeno ambiental oxide los compuestos fenólicos de la fruta expuesta."
+  },
+  {
+    "intent_id": "antioxidantes_aplicacion",
+    "keywords": [
+      "conservacion",
+      "cosmeticos",
+      "industria",
+      "estabilidad",
+      "alimentos"
+    ],
+    "base_response": "En la industria de alimentos, los antioxidantes se utilizan para evitar que los aceites y grasas se vuelvan rancios al exponerse al aire. Esta aplicación práctica prolonga la frescura de los productos y mantiene estables sus cualidades nutricionales básicas."
+  },
+  {
+    "intent_id": "omega_definicion",
+    "keywords": [
+      "acidos",
+      "grasos",
+      "esenciales",
+      "omega",
+      "salud"
+    ],
+    "base_response": "Los ácidos grasos omega son un grupo de lípidos poliinsaturados esenciales que el cuerpo humano no puede fabricar por sí mismo. Deben obtenerse estrictamente a través de la alimentación para garantizar el correcto desarrollo del cerebro y las funciones celulares."
+  },
+  {
+    "intent_id": "omega_quimica",
+    "keywords": [
+      "poliinsaturados",
+      "dobles",
+      "enlaces",
+      "quimica",
+      "lipidos"
+    ],
+    "base_response": "Químicamente, los ácidos grasos omega presentan múltiples dobles enlaces de carbono en sus cadenas hidrocarbonadas, lo que los hace líquidos a temperatura ambiente. Esta configuración molecular flexible les permite integrarse fluidamente en las membranas celulares del sistema nervioso."
+  },
+  {
+    "intent_id": "omega_funcionamiento",
+    "keywords": [
+      "cerebro",
+      "memoria",
+      "neuronas",
+      "funcionamiento",
+      "cognitivo"
+    ],
+    "base_response": "Estas moléculas lipídicas componen una fracción importante de las membranas neuronales de la corteza cerebral, optimizando la transmisión de impulsos nerviosos. Favorecen la plasticidad cerebral, mejoran la memoria de trabajo y potencian la capacidad de concentración adolescente."
+  },
+  {
+    "intent_id": "omega_fuentes",
+    "keywords": [
+      "pescado",
+      "azul",
+      "salmon",
+      "nueces",
+      "semillas"
+    ],
+    "base_response": "Los pescados azules como el salmón, las sardinas y el atún son sumamente ricos en omega tres biodisponible. Las fuentes de origen vegetal incluyen las semillas de chía, de linaza y las nueces, ideales para enriquecer la dieta diaria."
+  },
+  {
+    "intent_id": "omega_patologia",
+    "keywords": [
+      "inflamacion",
+      "deficiencia",
+      "cardiovascular",
+      "problemas",
+      "salud"
+    ],
+    "base_response": "La carencia de estos lípidos esenciales debilita la función barrera de la piel y favorece procesos inflamatorios en el organismo. A largo plazo, una baja ingesta eleva el riesgo de sufrir trastornos cardiovasculares y disminuye la agudeza cognitiva."
+  },
+  {
+    "intent_id": "omega_importancia",
+    "keywords": [
+      "arterias",
+      "corazon",
+      "colesterol",
+      "circulacion",
+      "proteccion"
+    ],
+    "base_response": "La ingesta regular de estos ácidos grasos esenciales ayuda a reducir los triglicéridos en sangre y disminuye la presión arterial. Esta acción protectora evita la acumulación de placas de grasa en las arterias, mejorando notablemente la salud circulatoria."
+  },
+  {
+    "intent_id": "calcio_definicion",
+    "keywords": [
+      "calcio",
+      "mineral",
+      "huesos",
+      "esqueleto",
+      "densidad"
+    ],
+    "base_response": "El calcio es un macromineral esencial que constituye el bloque de construcción estructural fundamental de nuestro sistema óseo y dientes. Almacenamos el noventa y nueve por ciento de este mineral en el esqueleto, brindándole resistencia mecánica y rigidez estructural."
+  },
+  {
+    "intent_id": "calcio_funcionamiento",
+    "keywords": [
+      "contraccion",
+      "muscular",
+      "corazon",
+      "transmision",
+      "nerviosa"
+    ],
+    "base_response": "Además de su función estructural, el calcio ionizado en la sangre resulta indispensable para la contracción muscular y los latidos cardíacos. Las células nerviosas requieren este mineral para liberar neurotransmisores y propagar las señales bioeléctricas por el cuerpo."
+  },
+  {
+    "intent_id": "calcio_quimica",
+    "keywords": [
+      "hidroxiapatita",
+      "fosfato",
+      "cristalina",
+      "mineralizacion",
+      "huesos"
+    ],
+    "base_response": "Químicamente, el calcio en los huesos se organiza en cristales insolubles de hidroxiapatita, combinándose con fósforo en una matriz colágena. Esta estructura cristalina sólida proporciona rigidez extrema para soportar el peso corporal y resistir impactos físicos cotidianos."
+  },
+  {
+    "intent_id": "calcio_vitamina",
+    "keywords": [
+      "vitamina",
+      "absorcion",
+      "intestino",
+      "sol",
+      "huesos"
+    ],
+    "base_response": "Para absorber el calcio de los alimentos en el intestino, el cuerpo necesita obligatoriamente niveles adecuados de vitamina D. Esta vitamina se sintetiza en la piel mediante la exposición solar segura y activa los transportadores intestinales del mineral."
+  },
+  {
+    "intent_id": "calcio_patologia",
+    "keywords": [
+      "osteoporosis",
+      "fracturas",
+      "debilidad",
+      "huesos",
+      "riesgo"
+    ],
+    "base_response": "La ingesta insuficiente de calcio durante la juventud impide alcanzar la masa ósea máxima recomendada para la edad adulta. Esto eleva drásticamente el riesgo de desarrollar osteoporosis tardía, una patología caracterizada por huesos porosos propensos a sufrir fracturas."
+  },
+  {
+    "intent_id": "calcio_fuentes",
+    "keywords": [
+      "lacteos",
+      "brocoli",
+      "almendras",
+      "sardinas",
+      "minerales"
+    ],
+    "base_response": "Aunque la leche, el yogur y el queso son las fuentes más conocidas de calcio, existen excelentes opciones no lácteas. Las almendras, el brócoli, el tofu y las sardinas con espinas aportan cantidades significativas de este mineral esencial."
+  },
+  {
+    "intent_id": "hierro_definicion",
+    "keywords": [
+      "hierro",
+      "hemoglobina",
+      "oxigeno",
+      "sangre",
+      "globulos"
+    ],
+    "base_response": "El hierro es un oligoelemento indispensable para la producción de hemoglobina, la proteína encargada de transportar oxígeno en la sangre. Sin este mineral esencial, las células de nuestro cuerpo no pueden recibir el oxígeno necesario para respirar y funcionar."
+  },
+  {
+    "intent_id": "hierro_funcionamiento",
+    "keywords": [
+      "transporte",
+      "oxigeno",
+      "pulmones",
+      "tejidos",
+      "energia"
+    ],
+    "base_response": "La hemoglobina en los glóbulos rojos capta el oxígeno en los pulmones gracias a la afinidad química del átomo de hierro. La sangre bombea estas células hacia todos los órganos vitales, liberando el oxígeno necesario para generar energía metabólica."
+  },
+  {
+    "intent_id": "hierro_tipos",
+    "keywords": [
+      "hierro",
+      "heminico",
+      "noheminico",
+      "absorcion",
+      "fuentes"
+    ],
+    "base_response": "Existen dos tipos de hierro dietético: el hemínico, de origen animal y fácil absorción, y el no hemínico, presente en vegetales. Consumir alimentos ricos en vitamina C junto con fuentes vegetales aumenta significativamente la absorción de este último mineral."
+  },
+  {
+    "intent_id": "hierro_patologia",
+    "keywords": [
+      "anemia",
+      "ferropenica",
+      "fatiga",
+      "palidez",
+      "debilidad"
+    ],
+    "base_response": "La deficiencia de hierro causa anemia ferropénica, una afección caracterizada por glóbulos rojos pequeños y con poca hemoglobina. Los síntomas clínicos incluyen fatiga de manera persistente, debilidad muscular generalizada, palidez cutánea y dificultad severa de concentración en clases."
+  },
+  {
+    "intent_id": "hierro_fuentes",
+    "keywords": [
+      "lentejas",
+      "espinacas",
+      "carnes",
+      "rojas",
+      "alimentos"
+    ],
+    "base_response": "Las carnes rojas, las legumbres como lentejas y frijoles, y los vegetales de hoja verde son alimentos excelentes fuentes de hierro. Integrarlos balanceadamente en el almuerzo previene la aparición de anemias nutricionales y mantiene estables los niveles energéticos."
+  },
+  {
+    "intent_id": "hierro_absorcion",
+    "keywords": [
+      "absorcion",
+      "vitamina",
+      "citricos",
+      "lentejas",
+      "potenciador"
+    ],
+    "base_response": "Consumir alimentos ricos en vitamina C, como naranjas, fresas o kiwis, junto con legumbres potencia la absorción de hierro no hemínico. Esta combinación química simple optimiza el aprovechamiento del mineral, ayudando a combatir activamente los síntomas de la anemia."
+  },
+  {
+    "intent_id": "sodio_definicion",
+    "keywords": [
+      "sodio",
+      "electrolito",
+      "agua",
+      "presion",
+      "celular"
+    ],
+    "base_response": "El sodio es un mineral y electrolito esencial que ayuda a mantener el equilibrio hídrico adecuado dentro y fuera de las células. Regula el volumen de sangre corporal total y colabora estrechamente en el funcionamiento correcto de nervios y músculos."
+  },
+  {
+    "intent_id": "sodio_funcionamiento",
+    "keywords": [
+      "bomba",
+      "potasio",
+      "impulsos",
+      "nerviosos",
+      "celular"
+    ],
+    "base_response": "A nivel celular, el sodio funciona mediante la bomba sodio-potasio, manteniendo diferencias de carga eléctrica esenciales a través de la membrana celular. Esta polaridad química es indispensable para que las células musculares se contraigan y transmitan impulsos eléctricos."
+  },
+  {
+    "intent_id": "sodio_patologia",
+    "keywords": [
+      "hipertension",
+      "arterias",
+      "riesgo",
+      "vascular",
+      "exceso"
+    ],
+    "base_response": "El consumo excesivo de sodio, presente en la sal de mesa y alimentos procesados, obliga a los riñones a retener agua. Esto incrementa significativamente el volumen de sangre circulante, elevando la presión arterial y dañando las paredes vasculares corporales."
+  },
+  {
+    "intent_id": "sodio_prevencion",
+    "keywords": [
+      "sal",
+      "especias",
+      "procesados",
+      "etiquetado",
+      "moderacion"
+    ],
+    "base_response": "Reducir la adición de sal de mesa y evitar botanas saladas industriales ayuda a mantener el sodio en niveles saludables de consumo. Sazonar con hierbas aromáticas y revisar el etiquetado nutricional previene la ingesta involuntaria de sodio oculto."
+  },
+  {
+    "intent_id": "sodio_mitos",
+    "keywords": [
+      "mito",
+      "eliminar",
+      "completo",
+      "sodio",
+      "dieta"
+    ],
+    "base_response": "Es un mito dañino creer que se debe eliminar por completo el sodio de la dieta cotidiana para estar saludable. Al ser un electrolito esencial, su ausencia total causaría fallos cardíacos y colapso del sistema nervioso por desequilibrio iónico."
+  },
+  {
+    "intent_id": "sodio_importancia",
+    "keywords": [
+      "sudor",
+      "ejercicio",
+      "hidratacion",
+      "sales",
+      "minerales"
+    ],
+    "base_response": "Durante el ejercicio prolongado bajo el sol, el cuerpo pierde sodio a través del sudor secretado por las glándulas. Reponer este mineral mediante bebidas isotónicas evita la aparición de calambres dolorosos y sostiene el rendimiento muscular de los deportistas."
+  },
+  {
+    "intent_id": "azucares_anadidos_definicion",
+    "keywords": [
+      "azucar",
+      "anadido",
+      "calorias",
+      "vacias",
+      "procesados"
+    ],
+    "base_response": "Los azúcares añadidos son carbohidratos simples que se agregan a alimentos y bebidas durante su procesamiento industrial o preparación culinaria. A diferencia de los azúcares naturales, aportan calorías vacías sin suministrar vitaminas, minerales, fibra alimentaria ni nutrientes esenciales."
+  },
+  {
+    "intent_id": "azucares_anadidos_funcionamiento",
+    "keywords": [
+      "pico",
+      "glucemia",
+      "insulina",
+      "energia",
+      "rapida"
+    ],
+    "base_response": "Tras consumir bebidas azucaradas, el torrente sanguíneo absorbe rápidamente la glucosa libre, provocando un aumento brusco de la glucemia. El páncreas responde secretando altas dosis de insulina para bajar el azúcar, generando fatiga posterior y deseos de comer más."
+  },
+  {
+    "intent_id": "azucares_anadidos_patologia",
+    "keywords": [
+      "caries",
+      "diabetes",
+      "higado",
+      "graso",
+      "obesidad"
+    ],
+    "base_response": "La ingesta frecuente de azúcares libres de manera regular estimula la producción de ácidos bacterianos bucales que destruyen el esmalte, provocando caries dentales. Metabólicamente, sobrecarga el hígado fomentando la acumulación de grasa visceral, obesidad y desarrollo prematuro de diabetes."
+  },
+  {
+    "intent_id": "azucares_anadidos_identificacion",
+    "keywords": [
+      "etiquetado",
+      "ingredientes",
+      "jarabe",
+      "fructosa",
+      "sacarosa"
+    ],
+    "base_response": "Identificar estos azúcares exige leer las etiquetas de ingredientes, buscando términos como jarabe de maíz, fructosa, sacarosa, maltosa o dextrosa. Estos nombres técnicos suelen camuflar grandes cantidades de azúcares agregados en aderezos, cereales y yogures comerciales."
+  },
+  {
+    "intent_id": "azucares_anadidos_alternativa",
+    "keywords": [
+      "fruta",
+      "fresca",
+      "agua",
+      "natural",
+      "saludable"
+    ],
+    "base_response": "Reemplazar los refrescos industriales por agua simple infundida con rodajas de naranja o fresas reduce notablemente el azúcar consumido. Optar por fruta fresca entera aporta fibra natural que ralentiza la absorción de fructosa y mantiene la saciedad prolongada."
+  },
+  {
+    "intent_id": "azucares_anadidos_mitos",
+    "keywords": [
+      "mito",
+      "hiperactividad",
+      "azucar",
+      "comportamiento",
+      "cerebro"
+    ],
+    "base_response": "Es un mito extendido que los azúcares añadidos provocan hiperactividad o déficit de atención en los adolescentes de forma inmediata. Aunque un exceso calórico daña la salud metabólica general, la ciencia no ha encontrado un vínculo directo con cambios conductuales drásticos."
+  },
+  {
+    "intent_id": "dietas_vegetarianas_definicion",
+    "keywords": [
+      "dieta",
+      "vegetariana",
+      "vegetales",
+      "exclusion",
+      "carnes"
+    ],
+    "base_response": "Una dieta vegetariana es un patrón alimentario centrado en el consumo de productos de origen vegetal, excluyendo carnes rojas y aves. Puede incluir subproductos animales como lácteos y huevos, requiriendo planificación cuidadosa para cubrir todos los requisitos nutricionales del adolescente."
+  },
+  {
+    "intent_id": "dietas_vegetarianas_quimica",
+    "keywords": [
+      "proteinas",
+      "vegetales",
+      "aminoacidos",
+      "complementar",
+      "legumbres"
+    ],
+    "base_response": "La mayoría de proteínas vegetales son biológicamente incompletas porque carecen de uno o más aminoácidos esenciales necesarios para construir tejidos. Combinar legumbres con cereales integrales crea una proteína completa, equiparable químicamente a la proteína de la carne animal."
+  },
+  {
+    "intent_id": "dietas_vegetarianas_vitamina",
+    "keywords": [
+      "vitamina",
+      "cobalamina",
+      "suplemento",
+      "bacterias",
+      "esencial"
+    ],
+    "base_response": "La vitamina B doce, o cobalamina, es producida exclusivamente por bacterias y no existe en alimentos vegetales comestibles de forma natural. Los adolescentes vegetarianos estrictos deben tomar obligatoriamente un suplemento sintético de esta vitamina para prevenir daños neurológicos graves."
+  },
+  {
+    "intent_id": "dietas_vegetarianas_ventajas",
+    "keywords": [
+      "fibra",
+      "potasio",
+      "colesterol",
+      "corazon",
+      "saludables"
+    ],
+    "base_response": "Este patrón alimentario rico en fibra dietética, potasio y antioxidantes naturales reduce los niveles sanguíneos de colesterol LDL dañino. Previene el desarrollo de hipertensión arterial y protege la salud del corazón a largo plazo mediante grasas saludables."
+  },
+  {
+    "intent_id": "dietas_vegetarianas_mitos",
+    "keywords": [
+      "mito",
+      "debilidad",
+      "proteina",
+      "vegetal",
+      "rendimiento"
+    ],
+    "base_response": "Es un mito común pensar que los vegetarianos carecen de fuerza física o sufrirán debilidad crónica por falta de carnes. Una alimentación vegetariana bien estructurada aporta suficientes proteínas y carbohidratos complejos para sostener un excelente rendimiento deportivo escolar."
+  },
+  {
+    "intent_id": "dietas_vegetarianas_adolescentes",
+    "keywords": [
+      "adolescencia",
+      "crecimiento",
+      "nutrientes",
+      "hierro",
+      "zinc"
+    ],
+    "base_response": "Durante la adolescencia, llevar una dieta vegetariana requiere un especial énfasis en asegurar aportes óptimos de hierro, calcio y zinc. Estos minerales son fundamentales para sostener el crecimiento acelerado de los huesos y el desarrollo del sistema inmunitario juvenil."
+  },
+  {
+    "intent_id": "alergias_alimentarias_definicion",
+    "keywords": [
+      "alergia",
+      "inmunitario",
+      "alergeno",
+      "reaccion",
+      "proteina"
+    ],
+    "base_response": "La alergia alimentaria es una respuesta anormal del sistema inmunitario desencadenada al ingerir proteínas específicas presentes en ciertos alimentos. El cuerpo identifica erróneamente estas sustancias inofensivas como amenazas peligrosas, iniciando ataques de anticuerpos para combatirlas activamente."
+  },
+  {
+    "intent_id": "alergias_alimentarias_funcionamiento",
+    "keywords": [
+      "anticuerpos",
+      "histamina",
+      "mastocitos",
+      "reaccion",
+      "sintomas"
+    ],
+    "base_response": "Al detectar la proteína extraña, el organismo libera inmunoglobulina E, la cual estimula a los mastocitos a producir histamina. Esta sustancia química dilata los vasos sanguíneos, provocando hinchazón cutánea, problemas respiratorios severos, urticaria y malestar digestivo inmediato."
+  },
+  {
+    "intent_id": "alergias_alimentarias_alergenos",
+    "keywords": [
+      "manies",
+      "mariscos",
+      "huevo",
+      "leche",
+      "alergenos"
+    ],
+    "base_response": "Los alérgenos más comunes en la población escolar incluyen el maní, los mariscos, el huevo, la leche, el trigo y la soja. Pequeñas trazas de estas sustancias pueden desencadenar una respuesta alérgica severa, exigiendo estricto cuidado en la cocina."
+  },
+  {
+    "intent_id": "alergias_alimentarias_patologia",
+    "keywords": [
+      "anafilaxia",
+      "adrenalina",
+      "urgencia",
+      "mortal",
+      "asfixia"
+    ],
+    "base_response": "La anafilaxia es la complicación alérgica más grave y potencialmente mortal, caracterizada por asfixia y caída brusca de presión arterial. Requiere la inyección inmediata de adrenalina para abrir las vías respiratorias y trasladar urgentemente al paciente a un hospital."
+  },
+  {
+    "intent_id": "alergias_alimentarias_prevencion",
+    "keywords": [
+      "etiquetado",
+      "trazas",
+      "evitacion",
+      "alergias",
+      "seguridad"
+    ],
+    "base_response": "Prevenir las crisis alérgicas requiere evitar estrictamente el alimento causante y leer minuciosamente las advertencias de trazas en los envases. Informar al personal escolar y llevar consigo un autoinyector de epinefrina son medidas indispensables de seguridad diaria."
+  },
+  {
+    "intent_id": "alergias_alimentarias_mitos",
+    "keywords": [
+      "mito",
+      "curacion",
+      "alergia",
+      "edad",
+      "tolerancia"
+    ],
+    "base_response": "Es un mito que todas las alergias infantiles desaparecen espontáneamente al llegar a la adolescencia. Aunque algunas alergias como a la leche pueden superarse con la edad, la alergia al maní y mariscos suele durar toda la vida del individuo."
+  },
+  {
+    "intent_id": "intolerancias_alimentarias_definicion",
+    "keywords": [
+      "intolerancia",
+      "digestiva",
+      "enzima",
+      "dificultad",
+      "metabolismo"
+    ],
+    "base_response": "La intolerancia alimentaria es la dificultad del sistema digestivo para procesar compuestos específicos de la comida debido a carencias enzimáticas. A diferencia de las alergias, no involucra al sistema inmunitario y sus efectos dañinos suelen limitarse al tracto intestinal."
+  },
+  {
+    "intent_id": "intolerancias_alimentarias_funcionamiento",
+    "keywords": [
+      "lactasa",
+      "lactosa",
+      "fermentacion",
+      "bacterias",
+      "gases"
+    ],
+    "base_response": "En la intolerancia a la lactosa, la falta de enzima lactasa impide descomponer el azúcar de la leche en azúcares simples. La lactosa no digerida viaja al colon, donde bacterias locales la fermentan, produciendo gases molestos y diarrea líquida."
+  },
+  {
+    "intent_id": "intolerancias_alimentarias_celiaquia",
+    "keywords": [
+      "gluten",
+      "celiaquia",
+      "intestino",
+      "trigo",
+      "absorcion"
+    ],
+    "base_response": "La celiaquía es una intolerancia autoinmune permanente al gluten, proteína hallada en el trigo, la cebada y el centeno. El consumo de gluten daña progresivamente las vellosidades del intestino delgado, impidiendo la correcta absorción de nutrientes vitales."
+  },
+  {
+    "intent_id": "intolerancias_alimentarias_diferencia",
+    "keywords": [
+      "diferencia",
+      "alergia",
+      "gravedad",
+      "sistema",
+      "digestivo"
+    ],
+    "base_response": "Es vital distinguir intolerancias de alergias; las primeras causan malestar digestivo molesto pero raramente ponen en peligro la vida. Las alergias pueden provocar colapsos sistémicos letales con dosis microscópicas del alimento, requiriendo protocolos de emergencia inmediata."
+  },
+  {
+    "intent_id": "intolerancias_alimentarias_alternativas",
+    "keywords": [
+      "deslactosada",
+      "singluten",
+      "reemplazos",
+      "nutricion",
+      "enzimas"
+    ],
+    "base_response": "Consumir leche deslactosada o alimentos etiquetados sin gluten permite a las personas afectadas nutrirse adecuadamente sin sufrir síntomas intestinales molestos. Los reemplazos modernos conservan un valor nutricional óptimo sin comprometer la salud digestiva del adolescente."
+  },
+  {
+    "intent_id": "intolerancias_alimentarias_mitos",
+    "keywords": [
+      "mito",
+      "saludable",
+      "gluten",
+      "dieta",
+      "celiacos"
+    ],
+    "base_response": "Es un mito que una dieta libre de gluten sea más saludable o ayude a perder peso a personas no celíacas. Eliminar el gluten sin necesidad médica restringe innecesariamente la ingesta de fibra y granos enteros valiosos para el cuerpo humano."
+  },
+  {
+    "intent_id": "suplementos_adolescentes_definicion",
+    "keywords": [
+      "suplementos",
+      "concentrados",
+      "nutrientes",
+      "pildoras",
+      "dieta"
+    ],
+    "base_response": "Los suplementos nutricionales son productos concentrados de vitaminas, minerales u otras sustancias diseñados para complementar la dieta diaria ordinaria. Se presentan en píldoras, polvos o líquidos, y no deben considerarse sustitutos de comidas frescas equilibradas."
+  },
+  {
+    "intent_id": "suplementos_adolescentes_funcionamiento",
+    "keywords": [
+      "absorcion",
+      "sintetica",
+      "deficiencias",
+      "organismo",
+      "metabolismo"
+    ],
+    "base_response": "Estas formulaciones aportan nutrientes en formas químicas altamente biodisponibles que el tracto digestivo absorbe rápidamente para corregir deficiencias. Ayudan a restaurar las funciones metabólicas normales cuando existen carencias clínicas diagnosticadas previamente por un profesional médico."
+  },
+  {
+    "intent_id": "suplementos_adolescentes_riesgo",
+    "keywords": [
+      "hipervitaminosis",
+      "higado",
+      "organos",
+      "toxicidad",
+      "exceso"
+    ],
+    "base_response": "El consumo desmedido de suplementos sin supervisión médica puede provocar toxicidad por hipervitaminosis, especialmente con vitaminas liposolubles acumulables. Esto sobrecarga el funcionamiento del hígado y riñones, generando daños orgánicos graves que afectan la salud adolescente."
+  },
+  {
+    "intent_id": "suplementos_adolescentes_aplicacion",
+    "keywords": [
+      "deportistas",
+      "vegetarianos",
+      "anemia",
+      "diagnostico",
+      "medico"
+    ],
+    "base_response": "Su uso clínico se justifica en deportistas de alto rendimiento, adolescentes vegetarianos estrictos o jóvenes que padecen de anemia ferropénica. El pediatra prescribe dosis exactas basándose en análisis de laboratorio para garantizar una suplementación segura."
+  },
+  {
+    "intent_id": "suplementos_adolescentes_mitos",
+    "keywords": [
+      "mito",
+      "musculo",
+      "proteina",
+      "crecimiento",
+      "polvos"
+    ],
+    "base_response": "Es un mito pensar que tomar batidos de proteínas acelerará el crecimiento muscular sin realizar entrenamiento físico adecuado. El desarrollo de fuerza muscular requiere ejercicio constante estructurado y un aporte equilibrado de alimentos naturales del menú."
+  },
+  {
+    "intent_id": "suplementos_adolescentes_prevencion",
+    "keywords": [
+      "prevencion",
+      "excesos",
+      "toxicidad",
+      "salud",
+      "vitamina"
+    ],
+    "base_response": "Prevenir los efectos nocivos de la automedicación con suplementos exige educar a los jóvenes sobre los peligros de la toxicidad vitamínica. Fomentar la obtención de nutrientes mediante alimentos frescos enteros resguarda la salud hepática y renal de manera natural."
+  },
+  {
+    "intent_id": "conservacion_alimentos_definicion",
+    "keywords": [
+      "conservacion",
+      "alimentos",
+      "microorganismos",
+      "descomposicion",
+      "seguridad"
+    ],
+    "base_response": "La conservación segura es el conjunto de técnicas aplicadas para ralentizar el deterioro alimentario provocado por microorganismos y enzimas internas. Prolonga la vida útil de los ingredientes, manteniendo sus cualidades nutricionales y garantizando un consumo libre de toxinas dañinas."
+  },
+  {
+    "intent_id": "conservacion_alimentos_funcionamiento",
+    "keywords": [
+      "frio",
+      "refrigeracion",
+      "bacterias",
+      "reproduccion",
+      "metabolismo"
+    ],
+    "base_response": "La refrigeración funciona reduciendo la temperatura ambiental, lo cual ralentiza notablemente el metabolismo y la reproducción de bacterias y hongos. Al congelar los alimentos, el agua se solidifica en hielo, impidiendo el crecimiento bacteriano de forma indefinida."
+  },
+  {
+    "intent_id": "conservacion_alimentos_quimica",
+    "keywords": [
+      "ph",
+      "acidez",
+      "deshidratacion",
+      "conservantes",
+      "quimica"
+    ],
+    "base_response": "Químicamente, reducir el pH mediante la adición de ácidos como el vinagre crea un entorno hostil para los patógenos vivos. Del mismo modo, la deshidratación elimina el agua libre celular indispensable para las reacciones químicas y biológicas bacterianas."
+  },
+  {
+    "intent_id": "conservacion_alimentos_tecnicas",
+    "keywords": [
+      "pasteurizacion",
+      "envasado",
+      "vacio",
+      "calor",
+      "bacterias"
+    ],
+    "base_response": "Técnicas como la pasteurización aplican calor controlado durante tiempos cortos para destruir bacterias patógenas sin alterar demasiado los nutrientes. El posterior envasado al vacío evita el ingreso de oxígeno, deteniendo la proliferación de microbios aerobios dañinos."
+  },
+  {
+    "intent_id": "conservacion_alimentos_experimento",
+    "keywords": [
+      "moho",
+      "pan",
+      "humedad",
+      "oscuridad",
+      "experimento"
+    ],
+    "base_response": "Un experimento escolar ilustrativo consiste en colocar rebanadas de pan bajo diferentes condiciones de humedad, temperatura y luz ambiental. Se observa cómo la humedad y el calor aceleran la proliferación de moho, evidenciando la importancia del frío protector."
+  },
+  {
+    "intent_id": "conservacion_alimentos_mitos",
+    "keywords": [
+      "mito",
+      "congelar",
+      "bacterias",
+      "destruccion",
+      "frio"
+    ],
+    "base_response": "Es un mito creer que la congelación destruye definitivamente las bacterias presentes en los alimentos crudos de forma permanente. El frío extremo solo detiene o adormece la actividad microbiana, reactivándose la multiplicación bacteriana velozmente al descongelarse el producto."
+  },
+  {
+    "intent_id": "inocuidad_preventiva_definicion",
+    "keywords": [
+      "inocuidad",
+      "alimentaria",
+      "higiene",
+      "contaminacion",
+      "salud"
+    ],
+    "base_response": "La inocuidad alimentaria es la garantía de que los alimentos no causarán daño a la salud al ser preparados y consumidos. Implica seguir normas higiénicas estrictas desde la cosecha rural hasta la mesa para evitar contaminantes biológicos o químicos."
+  },
+  {
+    "intent_id": "inocuidad_preventiva_funcionamiento",
+    "keywords": [
+      "lavado",
+      "manos",
+      "patogenos",
+      "desinfeccion",
+      "prevencion"
+    ],
+    "base_response": "Lavar correctamente las manos con agua y jabón elimina físicamente los patógenos presentes en la piel antes de cocinar. Desinfectar las superficies de corte y utensilios impide la transferencia de microbios invisibles hacia los alimentos frescos listos."
+  },
+  {
+    "intent_id": "inocuidad_preventiva_contaminacion",
+    "keywords": [
+      "contaminacion",
+      "cruzada",
+      "crudos",
+      "cocidos",
+      "bacterias"
+    ],
+    "base_response": "La contaminación cruzada ocurre al transferir bacterias de alimentos crudos, como carne cruda, a productos cocidos o listos para consumir. Usar tablas de picar diferentes para carnes y verduras frescas previene este peligroso intercambio bacteriano en la cocina."
+  },
+  {
+    "intent_id": "inocuidad_preventiva_patologia",
+    "keywords": [
+      "salmonelosis",
+      "fiebre",
+      "diarrea",
+      "infeccion",
+      "bacteriana"
+    ],
+    "base_response": "Consumir alimentos contaminados produce infecciones gastrointestinales severas como la salmonelosis, causada por la bacteria Salmonella presente en huevos crudos. Los síntomas clínicos incluyen fiebre alta, diarrea líquida, dolor abdominal intenso y riesgo de deshidratación severa."
+  },
+  {
+    "intent_id": "inocuidad_preventiva_reglas",
+    "keywords": [
+      "coccion",
+      "temperatura",
+      "bacterias",
+      "enfriamiento",
+      "higiene"
+    ],
+    "base_response": "Cocinar las carnes a temperaturas superiores a setenta grados Celsius destruye la mayoría de bacterias patógenas que causan enfermedades. Refrigerar las sobras de comida rápidamente evita que entren en la zona de peligro térmico donde se multiplican."
+  },
+  {
+    "intent_id": "inocuidad_preventiva_mitos",
+    "keywords": [
+      "mito",
+      "lavar",
+      "pollo",
+      "bacteria",
+      "contaminacion"
+    ],
+    "base_response": "Es un mito peligroso lavar el pollo crudo bajo el chorro de agua del grifo antes de cocinarlo. Lejos de higienizarlo, esta práctica salpica agua contaminada con bacterias dañinas sobre las superficies, utensilios y otros alimentos limpios de la cocina."
+  },
+  {
+    "intent_id": "soberania_alimentaria_definicion",
+    "keywords": [
+      "soberania",
+      "alimentaria",
+      "autonomia",
+      "cultivo",
+      "comunidades"
+    ],
+    "base_response": "La soberanía alimentaria es el derecho de los pueblos a definir sus propias políticas agrícolas y sistemas de producción de alimentos. Promueve cultivos sostenibles que respetan la diversidad ecológica y cultural, garantizando una alimentación saludable para todas las comunidades locales."
+  },
+  {
+    "intent_id": "soberania_alimentaria_funcionamiento",
+    "keywords": [
+      "huertos",
+      "comunitarios",
+      "semillas",
+      "locales",
+      "produccion"
+    ],
+    "base_response": "Se implementa mediante el uso de semillas nativas y la creación de huertos urbanos gestionados de forma colectiva por vecinos. Esto descentraliza la cadena de suministro alimentario tradicional, asegurando disponibilidad constante de vegetales frescos sin intermediarios comerciales."
+  },
+  {
+    "intent_id": "soberania_alimentaria_social",
+    "keywords": [
+      "seguridad",
+      "nutricion",
+      "equidad",
+      "justicia",
+      "comunitaria"
+    ],
+    "base_response": "Esta práctica social fortalece la resiliencia comunitaria ante crisis económicas mundiales y fomenta la equidad en el acceso nutricional. Al cultivar localmente, las familias reducen la dependencia de importaciones costosas y mejoran la calidad de su dieta cotidiana."
+  },
+  {
+    "intent_id": "soberania_alimentaria_ecologia",
+    "keywords": [
+      "agroecologia",
+      "biodiversidad",
+      "suelo",
+      "sostenible",
+      "ambiente"
+    ],
+    "base_response": "La soberanía alimentaria adopta la agroecología, un enfoque agrícola que evita pesticidas químicos dañinos y protege los polinizadores naturales del entorno. Mantiene la fertilidad del suelo a largo plazo y preserva la biodiversidad de los ecosistemas locales."
+  },
+  {
+    "intent_id": "soberania_alimentaria_mitos",
+    "keywords": [
+      "mito",
+      "tecnologia",
+      "hambre",
+      "monocultivo",
+      "alternativa"
+    ],
+    "base_response": "Es un mito pensar que solo los monocultivos industriales intensivos pueden alimentar exitosamente a la creciente población del planeta. La agricultura familiar y sostenible produce más del setenta por ciento de los alimentos mundiales con menor impacto ambiental negativo."
+  },
+  {
+    "intent_id": "soberania_alimentaria_importancia",
+    "keywords": [
+      "economia",
+      "local",
+      "comercio",
+      "justo",
+      "productores"
+    ],
+    "base_response": "Sostener la soberanía alimentaria dinamiza la economía interna mediante el apoyo financiero directo a pequeños productores agrícolas locales. Fomentar mercados de comercio justo asegura que los agricultores reciban retribuciones honestas y los consumidores accedan a alimentos limpios y frescos."
+  },
+  {
+    "intent_id": "nutricion_deportiva_definicion",
+    "keywords": [
+      "deporte",
+      "rendimiento",
+      "hidratacion",
+      "atletas",
+      "nutricion"
+    ],
+    "base_response": "La nutrición deportiva es la rama de la dietética que adapta la alimentación de los atletas a sus necesidades de entrenamiento. Busca optimizar el rendimiento atlético escolar, acelerar la recuperación de fibras musculares y prevenir lesiones durante las competencias."
+  },
+  {
+    "intent_id": "nutricion_deportiva_funcionamiento",
+    "keywords": [
+      "glucogeno",
+      "carbohidratos",
+      "musculos",
+      "combustible",
+      "energia"
+    ],
+    "base_response": "Durante el ejercicio, los músculos consumen glucógeno, una reserva de carbohidratos almacenada principalmente en el tejido muscular e hígado. Consumir carbohidratos complejos antes del entrenamiento rellena estos depósitos energéticos, evitando la fatiga física prematura en el campo."
+  },
+  {
+    "intent_id": "nutricion_deportiva_hidratacion",
+    "keywords": [
+      "agua",
+      "electrolitos",
+      "deshidratacion",
+      "rendimiento",
+      "sudor"
+    ],
+    "base_response": "Sudar disipa el calor corporal excesivo pero provoca pérdida continua de agua y sales minerales esenciales como el sodio. Beber agua antes, durante y después del ejercicio previene la deshidratación, manteniendo estables la coordinación motora y reflejos del atleta."
+  },
+  {
+    "intent_id": "nutricion_deportiva_recuperacion",
+    "keywords": [
+      "proteinas",
+      "recuperacion",
+      "fibras",
+      "musculo",
+      "entrenamiento"
+    ],
+    "base_response": "Después de entrenar intensamente, consumir una porción de proteínas combinada con carbohidratos de manera oportuna estimula la reparación de microlesiones musculares ocurridas. Esta síntesis proteica regenera las fibras musculares fatigadas, aumentando progresivamente la fuerza física y resistencia del adolescente."
+  },
+  {
+    "intent_id": "nutricion_deportiva_mitos",
+    "keywords": [
+      "mito",
+      "bebidas",
+      "energeticas",
+      "cafeina",
+      "salud"
+    ],
+    "base_response": "Es un mito considerar que las bebidas energéticas con cafeína son adecuadas para hidratarse durante la actividad física escolar. Estas bebidas provocan deshidratación por su efecto diurético, elevan el ritmo cardíaco y alteran negativamente el sistema nervioso adolescente."
+  },
+  {
+    "intent_id": "nutricion_deportiva_importancia",
+    "keywords": [
+      "descanso",
+      "sueno",
+      "recuperacion",
+      "musculos",
+      "salud"
+    ],
+    "base_response": "Acompañar la buena nutrición con un descanso nocturno reparador de ocho horas optimiza los procesos de síntesis muscular. Durante el sueño profundo, el cuerpo libera hormona de crecimiento, indispensable para reconstruir tejidos cansados y recuperar la energía del deportista."
+  },
+  {
+    "intent_id": "transgenicos_definicion",
+    "keywords": [
+      "transgenicos",
+      "modificacion",
+      "genetica",
+      "cultivo",
+      "adn"
+    ],
+    "base_response": "Los alimentos transgénicos son organismos modificados genéticamente mediante técnicas de bioingeniería molecular en laboratorios especializados para adquirir características deseadas. Se insertan genes específicos de otras especies para otorgarles resistencia biológica o mejorar su perfil nutricional natural."
+  },
+  {
+    "intent_id": "transgenicos_quimica",
+    "keywords": [
+      "adn",
+      "recombinante",
+      "proteinas",
+      "enzimas",
+      "biotecnologia"
+    ],
+    "base_response": "A nivel molecular, la tecnología del ácido desoxirribonucleico recombinante permite aislar secuencias genéticas específicas que codifican proteínas deseadas. Estas nuevas proteínas modifican las rutas metabólicas de la planta, aumentando su resistencia o concentración de vitaminas."
+  },
+  {
+    "intent_id": "transgenicos_ventajas",
+    "keywords": [
+      "plagas",
+      "sequias",
+      "rendimiento",
+      "cultivos",
+      "agricultura"
+    ],
+    "base_response": "Las ventajas agrícolas incluyen una mayor tolerancia a plagas de insectos, sequías severas y condiciones de suelos salinos adversos. Esto reduce el uso de pesticidas químicos dañinos y aumenta significativamente el rendimiento de las cosechas alimentarias mundiales."
+  },
+  {
+    "intent_id": "transgenicos_riesgos",
+    "keywords": [
+      "biodiversidad",
+      "alergias",
+      "polinizacion",
+      "riesgo",
+      "ambiente"
+    ],
+    "base_response": "Los críticos señalan riesgos potenciales como la polinización cruzada involuntaria que puede contaminar variedades de plantas silvestres nativas. Existe también preocupación por el desarrollo de nuevas alergias alimentarias debido a la presencia de proteínas inéditas."
+  },
+  {
+    "intent_id": "transgenicos_mitos",
+    "keywords": [
+      "mito",
+      "cancer",
+      "mutacion",
+      "seguridad",
+      "ciencia"
+    ],
+    "base_response": "Es un mito popular afirmar que consumir alimentos transgénicos altera el código genético humano o provoca cáncer de forma directa. La evidencia científica avalada por organizaciones mundiales de salud confirma que los transgénicos comercializados son totalmente seguros."
+  },
+  {
+    "intent_id": "dietas_moda_definicion",
+    "keywords": [
+      "dietas",
+      "milagro",
+      "restriccion",
+      "perjudicial",
+      "salud"
+    ],
+    "base_response": "Las dietas de moda son regímenes alimentarios populares que prometen pérdida de peso extremadamente rápida sin base científica comprobada. Suelen basarse en la exclusión estricta de grupos enteros de nutrientes indispensables para el funcionamiento óptimo del cuerpo."
+  },
+  {
+    "intent_id": "dietas_moda_funcionamiento",
+    "keywords": [
+      "perdida",
+      "agua",
+      "musculo",
+      "rebote",
+      "metabolismo"
+    ],
+    "base_response": "Al limitar severamente las calorías, el organismo quema el glucógeno acumulado liberando grandes cantidades de agua intracelular retenida. El peso perdido representa principalmente agua y masa muscular magra, no grasa, reduciendo el gasto metabólico basal del cuerpo."
+  },
+  {
+    "intent_id": "dietas_moda_patologia",
+    "keywords": [
+      "deficiencias",
+      "fatiga",
+      "irritabilidad",
+      "desequilibrio",
+      "salud"
+    ],
+    "base_response": "Seguir de forma estricta estas pautas restrictivas genera deficiencias vitamínicas, fatiga constante, dolores de cabeza crónicos, caída de cabello e irritabilidad emocional. El régimen desequilibrado daña a largo plazo el sistema cardiovascular y altera la función hormonal de los adolescentes."
+  },
+  {
+    "intent_id": "dietas_moda_rebote",
+    "keywords": [
+      "efecto",
+      "rebote",
+      "grasa",
+      "ansiedad",
+      "metabolismo"
+    ],
+    "base_response": "El efecto rebote ocurre al abandonar la dieta milagro, recuperando rápidamente el peso perdido e incluso acumulando más grasa corporal. Esto se debe a la adaptación metabólica de supervivencia que ralentiza la quema calórica ante la hambruna."
+  },
+  {
+    "intent_id": "dietas_moda_prevencion",
+    "keywords": [
+      "habitos",
+      "sostenible",
+      "saludables",
+      "nutricionista",
+      "dieta"
+    ],
+    "base_response": "En lugar de buscar remedios rápidos, los adolescentes deben adoptar hábitos alimentarios sostenibles y equilibrados a largo plazo. Consultar con un nutricionista profesional garantiza un plan personalizado que respeta el desarrollo físico y metabólico juvenil."
+  },
+  {
+    "intent_id": "valor_biologico_definicion",
+    "keywords": [
+      "valor",
+      "biologico",
+      "proteinas",
+      "nitrogeno",
+      "calidad"
+    ],
+    "base_response": "El valor biológico es una medida científica de la calidad nutricional de las proteínas presentes en los alimentos que ingerimos. Indica la proporción de nitrógeno proteico absorbido por el cuerpo que se retiene y utiliza para construir nuevos tejidos."
+  },
+  {
+    "intent_id": "valor_biologico_funcionamiento",
+    "keywords": [
+      "aminoacidos",
+      "esenciales",
+      "sintesis",
+      "celular",
+      "proteinas"
+    ],
+    "base_response": "Para sintetizar una proteína cellular, la célula requiere todos los aminoácidos esenciales simultáneamente en las proporciones biológicas exactas requeridas. Si falta un solo aminoácido, la síntesis se detiene y el resto de aminoácidos se desperdicia metabólicamente."
+  },
+  {
+    "intent_id": "valor_biologico_clasificacion",
+    "keywords": [
+      "huevo",
+      "leche",
+      "origen",
+      "animal",
+      "vegetal"
+    ],
+    "base_response": "La proteína del huevo posee el valor biológico más alto, considerado como referencia estándar de cien por cien de asimilación. Las proteínas animales, como lácteos y carnes, superan generalmente a las vegetales por contener todos los aminoácidos esenciales."
+  },
+  {
+    "intent_id": "valor_biologico_aplicacion",
+    "keywords": [
+      "legumbres",
+      "arroz",
+      "combinacion",
+      "vegetales",
+      "proteina"
+    ],
+    "base_response": "Los adolescentes que no consumen carne pueden obtener proteínas de alta calidad combinando estratégicamente diferentes fuentes vegetales de alimentos. Mezclar frijoles con arroz complementa los aminoácidos limitantes de ambos, logrando un valor proteico de calidad de manera sobresaliente."
+  },
+  {
+    "intent_id": "valor_biologico_mitos",
+    "keywords": [
+      "mito",
+      "carne",
+      "unica",
+      "fuente",
+      "proteinas"
+    ],
+    "base_response": "Es un mito común creer que solo las carnes animales pueden proporcionar las proteínas necesarias para construir masa muscular. Las legumbres, la soja, los frutos secos y semillas aportan excelentes cantidades de proteínas si se combinan de manera inteligente."
+  },
+  {
+    "intent_id": "indice_glucemico_definicion",
+    "keywords": [
+      "indice",
+      "glucemico",
+      "glucosa",
+      "sangre",
+      "velocidad"
+    ],
+    "base_response": "El índice glucémico es un sistema de clasificación de alimentos con carbohidratos basado en su efecto inmediato en la glucosa sanguínea. Mide la velocidad y el nivel con que un alimento eleva el azúcar en sangre tras consumirse."
+  },
+  {
+    "intent_id": "indice_glucemico_quimica",
+    "keywords": [
+      "almidon",
+      "fibra",
+      "carbohidratos",
+      "estructura",
+      "quimica"
+    ],
+    "base_response": "Químicamente, la velocidad de digestión de los carbohidratos depende del tipo de almidón y de la presencia de fibra soluble alimentaria. La fibra forma un gel viscoso en el intestino que ralentiza la acción de las enzimas digestivas."
+  },
+  {
+    "intent_id": "indice_glucemico_clasificacion",
+    "keywords": [
+      "escala",
+      "glucosa",
+      "referencia",
+      "alimentos",
+      "nivel"
+    ],
+    "base_response": "Los alimentos se clasifican en una escala de cero a cien en comparación con la glucosa pura de referencia. El pan blanco posee un índice alto, mientras que las lentejas y manzanas tienen un índice bajo de absorción muy beneficioso."
+  },
+  {
+    "intent_id": "indice_glucemico_funcionamiento",
+    "keywords": [
+      "insulina",
+      "energia",
+      "estable",
+      "pancreas",
+      "salud"
+    ],
+    "base_response": "Consumir alimentos con bajo índice glucémico evita demandas excesivas de insulina al páncreas, asegurando un suministro de energía física estable. Esto previene la fatiga escolar, disminuye la acumulación de grasa corporal y protege la salud metabólica."
+  },
+  {
+    "intent_id": "indice_glucemico_mitos",
+    "keywords": [
+      "mito",
+      "azucar",
+      "dulces",
+      "zanahoria",
+      "glucemico"
+    ],
+    "base_response": "Es un mito creer que todos los alimentos de sabor dulce tienen obligatoriamente un índice glucémico peligrosamente elevado. Algunas frutas muy dulces contienen fructosa y fibra natural, las cuales elevan el azúcar sanguíneo de manera sumamente lenta."
+  },
+  {
+    "intent_id": "frecuencia_consumo_definicion",
+    "keywords": [
+      "frecuencia",
+      "consumo",
+      "habito",
+      "piramide",
+      "nutricion"
+    ],
+    "base_response": "La frecuencia de consumo es la regularidad recomendada con la que debemos ingerir distintos grupos de alimentos para estar sanos. Clasifica los alimentos en consumo diario, semanal u ocasional, sirviendo como guía práctica para organizar un menú semanal balanceado."
+  },
+  {
+    "intent_id": "frecuencia_consumo_diario",
+    "keywords": [
+      "diario",
+      "frutas",
+      "verduras",
+      "lacteos",
+      "agua"
+    ],
+    "base_response": "Los alimentos de consumo diario indispensable abarcan verduras frescas, frutas enteras, cereales integrales, lácteos y agua natural abundante. Suministran la base constante de vitaminas, minerales y carbohidratos complejos que requiere el metabolismo activo de los adolescentes."
+  },
+  {
+    "intent_id": "frecuencia_consumo_semanal",
+    "keywords": [
+      "semanal",
+      "pescado",
+      "legumbres",
+      "huevos",
+      "carnes"
+    ],
+    "base_response": "El consumo semanal debe incluir pescados ricos en omega, legumbres variadas, huevos de granja y carnes blancas magras seleccionadas. Estas fuentes aseguran un aporte equilibrado de proteínas de alto valor biológico y grasas esenciales sin sobrecargar al organismo."
+  },
+  {
+    "intent_id": "frecuencia_consumo_ocasional",
+    "keywords": [
+      "ocasional",
+      "dulces",
+      "embutidos",
+      "moderacion",
+      "salud"
+    ],
+    "base_response": "Los alimentos de ingesta ocasional y muy limitada corresponden a dulces industriales, refrescos azucarados, embutidos grasos y frituras comerciales. Su consumo frecuente e indisciplinado deteriora la salud cardiovascular y metabólica, por lo que debe restringirse de forma estricta."
+  },
+  {
+    "intent_id": "frecuencia_consumo_aplicacion",
+    "keywords": [
+      "planificacion",
+      "menu",
+      "escolar",
+      "compras",
+      "saludable"
+    ],
+    "base_response": "Planificar las compras familiares basándose en las frecuencias nutricionales recomendadas mejora la calidad de la despensa hogareña diaria. Asegura la disponibilidad de insumos saludables para preparar loncheras escolares equilibradas y evita la compra de antojos ultraprocesados."
+  },
+  {
+    "intent_id": "saciedad_hambre_definicion",
+    "keywords": [
+      "hambre",
+      "fisiologica",
+      "saciedad",
+      "hormonas",
+      "cerebro"
+    ],
+    "base_response": "El hambre es la necesidad fisiológica de ingerir alimentos para obtener la energía necesaria que el cuerpo requiere. La saciedad es la señal de plenitud biológica que indica al cerebro que la ingesta alimentaria debe detenerse por completo."
+  },
+  {
+    "intent_id": "saciedad_hambre_quimica",
+    "keywords": [
+      "ghrelina",
+      "leptina",
+      "hormonas",
+      "estomago",
+      "cerebro"
+    ],
+    "base_response": "Dos hormonas controlan este equilibrio químico: la ghrelina, secretada por el estómago vacío para estimular el apetito en el cerebro, y la leptina, producida por el tejido adiposo para señalar que el cuerpo dispone de suficientes reservas."
+  },
+  {
+    "intent_id": "saciedad_hambre_funcionamiento",
+    "keywords": [
+      "masticacion",
+      "fibra",
+      "receptores",
+      "estomago",
+      "cerebro"
+    ],
+    "base_response": "Cuando comemos, la dilatación de las paredes del estómago activa receptores nerviosos que envían señales de saciedad al sistema nervioso. Este proceso metabólico tarda unos veinte minutos, por lo que comer despacio y masticar bien facilita el autocontrol."
+  },
+  {
+    "intent_id": "saciedad_hambre_emocional",
+    "keywords": [
+      "ansiedad",
+      "antojo",
+      "emocional",
+      "aburrimiento",
+      "diferencia"
+    ],
+    "base_response": "Es fundamental diferenciar el hambre física del hambre emocional, la cual surge repentinamente por aburrimiento, estrés o ansiedad. El hambre emocional busca alimentos dulces o grasosos específicos y no se satisface con un plato de comida nutritiva."
+  },
+  {
+    "intent_id": "saciedad_hambre_aplicacion",
+    "keywords": [
+      "despacio",
+      "agua",
+      "atencion",
+      "plena",
+      "saludable"
+    ],
+    "base_response": "Practicar la atención plena al comer, apagando pantallas y masticando adecuadamente, ayuda a sincronizar los mecanismos naturales de saciedad. Beber agua natural suficiente también evita confundir la deshidratación leve con sensación de apetito o antojos azucarados."
+  },
+  {
+    "intent_id": "comedores_escolares_definicion",
+    "keywords": [
+      "comedores",
+      "escolares",
+      "menu",
+      "saludable",
+      "colegio"
+    ],
+    "base_response": "Los comedores escolares saludables son espacios educativos diseñados para suministrar almuerzos equilibrados y nutritivos a la población estudiantil. Su objetivo es garantizar el acceso equitativo a alimentos de alta calidad que respalden el aprendizaje y crecimiento."
+  },
+  {
+    "intent_id": "comedores_escolares_funcionamiento",
+    "keywords": [
+      "nutricionistas",
+      "porciones",
+      "balanceado",
+      "frutas",
+      "verduras"
+    ],
+    "base_response": "Profesionales de la nutrición diseñan los menús semanales calculando el aporte calórico y de macronutrientes adecuado para la edad. Cada plato escolar debe incluir una mitad de vegetales frescos, una porción de proteína magra y cereales de grano entero."
+  },
+  {
+    "intent_id": "comedores_escolares_social",
+    "keywords": [
+      "habitos",
+      "socializacion",
+      "cohesion",
+      "comunidad",
+      "salud"
+    ],
+    "base_response": "Estos comedores desempeñan un papel social clave al fomentar la adopción de buenos hábitos alimentarios compartidos entre compañeros. Comer juntos en la escuela promueve la socialización positiva, reduce desigualdades nutricionales y enseña a valorar la comida saludable local."
+  },
+  {
+    "intent_id": "comedores_escolares_higiene",
+    "keywords": [
+      "inocuidad",
+      "limpieza",
+      "manipuladores",
+      "cocina",
+      "seguridad"
+    ],
+    "base_response": "La operación de estas cocinas exige el cumplimiento riguroso de protocolos de inocuidad y control de plagas sistemático. Los manipuladores de alimentos deben usar vestimenta higiénica y registrar temperaturas de cocción para evitar brotes de infecciones estomacales."
+  },
+  {
+    "intent_id": "comedores_escolares_mitos",
+    "keywords": [
+      "mito",
+      "comida",
+      "aburrida",
+      "verduras",
+      "sabor"
+    ],
+    "base_response": "Es un mito pensar que la comida de los comedores escolares saludables es desabrida o aburrida para los estudiantes. Técnicas culinarias creativas que incorporan hierbas naturales y presentaciones vistosas logran que las verduras resulten sumamente atractivas y deliciosas."
+  },
+  {
+    "intent_id": "educacion_nutricional_definicion",
+    "keywords": [
+      "educacion",
+      "nutricional",
+      "aprendizaje",
+      "habitos",
+      "autonomia"
+    ],
+    "base_response": "La educación nutricional es el proceso pedagógico orientado a capacitar a los jóvenes para tomar decisiones alimentarias conscientes y saludables. Busca desarrollar habilidades prácticas, promover el pensamiento crítico y consolidar hábitos saludables que duren para toda la vida adulta."
+  },
+  {
+    "intent_id": "educacion_nutricional_funcionamiento",
+    "keywords": [
+      "etiquetas",
+      "analisis",
+      "critico",
+      "publicidad",
+      "consumo"
+    ],
+    "base_response": "Aprender a interpretar las tablas nutricionales de los envases capacita a los adolescentes para elegir de manera autónoma productos beneficiosos. Este análisis crítico desmitifica la publicidad engañosa de ultraprocesados y promueve decisiones de compra basadas en el bienestar corporal."
+  },
+  {
+    "intent_id": "educacion_nutricional_practica",
+    "keywords": [
+      "cocina",
+      "recetas",
+      "sencillas",
+      "saludables",
+      "habilidades"
+    ],
+    "base_response": "Talleres prácticos de cocina escolar donde se preparan recetas sencillas con ingredientes frescos aumentan la autoconfianza y la autonomía del estudiante. Estas destrezas culinarias facilitan la sustitución voluntaria de botanas industriales por alternativas nutritivas hechas en casa."
+  },
+  {
+    "intent_id": "educacion_nutricional_social",
+    "keywords": [
+      "salud",
+      "comunitaria",
+      "familia",
+      "bienestar",
+      "prevencion"
+    ],
+    "base_response": "Los jóvenes educados en nutrición actúan como agentes de cambio positivo dentro de sus hogares, influyendo en las compras familiares. Esto mejora la salud comunitaria a mediano plazo, disminuyendo los índices locales de sobrepeso y enfermedades metabólicas crónicas."
+  },
+  {
+    "intent_id": "educacion_nutricional_mitos",
+    "keywords": [
+      "mito",
+      "dieta",
+      "aburrida",
+      "nutricion",
+      "bienestar"
+    ],
+    "base_response": "Es un gran mito pensar que alimentarse de forma saludable requiere someterse a dietas aburridas, costosas o extremadamente restrictivas. Una nutrición equilibrada consiste en comer con variedad y moderación, disfrutando los sabores naturales que aportan bienestar y vitalidad."
+  }
+]
