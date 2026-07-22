@@ -1,0 +1,991 @@
+[
+    {
+        "intent_id": "recesion_actividad_economica_basica",
+        "keywords": [
+            "disminucion",
+            "produccion",
+            "empleo",
+            "consumo",
+            "inversion"
+        ],
+        "base_response": "La recesión es un período en el que la actividad económica disminuye, caracterizado por la reducción en la producción, el empleo y el consumo. Suele ocurrir tras caídas en la inversión y puede afectar gravemente el bienestar social y económico."
+    },
+    {
+        "intent_id": "recesion_actividad_economica_fisica",
+        "keywords": [
+            "caida",
+            "produccion",
+            "empleo",
+            "consumo",
+            "inversion"
+        ],
+        "base_response": "La recesión se caracteriza por una caída prolongada en la producción y el empleo. Durante este periodo, el consumo disminuye, lo que afecta la inversión y genera un ciclo negativo que puede prolongarse si no se implementan medidas adecuadas."
+    },
+    {
+        "intent_id": "recesion_actividad_economica_basica_recesion_actividad_economica",
+        "keywords": [
+            "recesion",
+            "actividad",
+            "economica",
+            "disminucion",
+            "produccion"
+        ],
+        "base_response": "La recesión se caracteriza por una disminución significativa en la actividad económica durante un periodo prolongado. Esto provoca una caída en la producción, el empleo y el consumo, afectando negativamente a las empresas y a la estabilidad financiera de las familias."
+    },
+    {
+        "intent_id": "recesion_concepto_basico_economico",
+        "keywords": [
+            "recesion",
+            "actividad",
+            "economica",
+            "caida",
+            "empleo"
+        ],
+        "base_response": "La recesión es un período de disminución significativa en la actividad económica. Se caracteriza por la caída en el consumo, la inversión y el empleo, lo que afecta negativamente a las empresas y las familias, generando un ciclo de incertidumbre y reducción de recursos."
+    },
+    {
+        "intent_id": "recesion_actividad_economica_historia",
+        "keywords": [
+            "recesion",
+            "actividad",
+            "economica",
+            "historia",
+            "evolucion"
+        ],
+        "base_response": "La recesión es una disminución significativa en la actividad económica durante un período prolongado. Históricamente, ha ocurrido tras crisis financieras o guerras, afectando el empleo y la producción. Su estudio ayuda a comprender cómo prevenir y mitigar sus efectos en la sociedad."
+    },
+    {
+        "intent_id": "recesion_actividad_economica_ecosistema",
+        "keywords": [
+            "recesion",
+            "actividad",
+            "economica",
+            "entorno",
+            "ecologico"
+        ],
+        "base_response": "La recesión se refiere a una disminución significativa de la actividad económica. En este contexto, puede afectar la producción y consumo de recursos naturales, alterando el equilibrio ecológico y dificultando la sostenibilidad de los ecosistemas locales y globales."
+    },
+    {
+        "intent_id": "recesion_actividad_economica_basica_recesion_actividad_economica_impacto",
+        "keywords": [
+            "recesion",
+            "actividad",
+            "economica",
+            "impacto",
+            "empleo"
+        ],
+        "base_response": "La recesión es una disminución significativa de la actividad económica durante un período prolongado. Esto puede causar desempleo, reducción de ingresos y cierre de negocios, afectando la vida diaria de las personas y la estabilidad financiera de las familias."
+    },
+    {
+        "intent_id": "recesion_impacto_social_economico",
+        "keywords": [
+            "recesion",
+            "desempleo",
+            "pobreza",
+            "consumo",
+            "ahorro"
+        ],
+        "base_response": "La recesión es una disminución significativa de la actividad económica. Aumenta el desempleo y reduce el consumo, lo que puede llevar a un incremento en la pobreza. Este fenómeno impacta negativamente en la calidad de vida de las personas y en la estabilidad social."
+    },
+    {
+        "intent_id": "recesion_actividad_economica_basica_recesion_actividad_economica_ventajas",
+        "keywords": [
+            "recesion",
+            "actividad",
+            "economica",
+            "ventajas",
+            "desventajas"
+        ],
+        "base_response": "La recesión económica se caracteriza por una disminución en la actividad económica. Mientras que puede reducir la inflación y permitir ajustes en precios, también provoca desempleo y disminución del ingreso familiar, afectando negativamente a la calidad de vida de las personas."
+    },
+    {
+        "intent_id": "recesion_concepto_basico_riesgos",
+        "keywords": [
+            "recesion",
+            "actividad",
+            "economica",
+            "riesgos",
+            "medidas"
+        ],
+        "base_response": "La recesión se refiere a una disminución generalizada de la actividad económica. Los riesgos incluyen aumento del desempleo y reducción del consumo. Las medidas de seguridad pueden incluir estímulos fiscales y políticas monetarias para reactivar la economía y proteger a la población."
+    },
+    {
+        "intent_id": "recesion_actividad_economica_basica_disminucion_produccion_empleo",
+        "keywords": [
+            "disminucion",
+            "produccion",
+            "empleo",
+            "consumo",
+            "ingresos"
+        ],
+        "base_response": "La recesión es un periodo caracterizado por la disminución en la actividad económica. Esto incluye caídas en la producción, el empleo y el consumo, lo que resulta en una reducción de los ingresos para las familias y empresas, afectando su estabilidad financiera."
+    },
+    {
+        "intent_id": "recesion_concepto_basico_economico_actividad_economica_disminucion",
+        "keywords": [
+            "actividad",
+            "economica",
+            "disminucion",
+            "produccion",
+            "empleo"
+        ],
+        "base_response": "La recesión es un periodo caracterizado por la disminución de la actividad económica. Esto se refleja en la caída de la producción, el aumento del desempleo y una reducción en el consumo. Las recesiones pueden afectar gravemente la estabilidad financiera de un país."
+    },
+    {
+        "intent_id": "recesion_mitos_concepciones_erroneas",
+        "keywords": [
+            "recesion",
+            "mitos",
+            "economia",
+            "desempleo",
+            "crecimiento"
+        ],
+        "base_response": "Un mito común sobre la recesión es que siempre causa desempleo masivo. Sin embargo, no todas las recesiones generan pérdidas de trabajo; algunas pueden ser breves y permitir que ciertos sectores crezcan, mientras otros se ajustan a las nuevas condiciones económicas."
+    },
+    {
+        "intent_id": "recesion_actividad_economica_simbiotica",
+        "keywords": [
+            "recesion",
+            "economia",
+            "sistemas",
+            "interaccion",
+            "impacto"
+        ],
+        "base_response": "La recesión es una disminución significativa de la actividad económica. Afecta a diversos sistemas, como el empleo y la producción. Su interacción con otros sectores puede generar un efecto dominó, alterando el equilibrio económico y afectando la estabilidad social."
+    },
+    {
+        "intent_id": "recesion_actividad_economica_transformacion",
+        "keywords": [
+            "recesion",
+            "actividad",
+            "economica",
+            "ciclos",
+            "energeticos"
+        ],
+        "base_response": "La recesión es una disminución prolongada de la actividad económica, caracterizada por la caída del consumo y la inversión. Durante este periodo, los ciclos energéticos se ven afectados, ya que la demanda de energía disminuye, impactando industrias y empleo."
+    },
+    {
+        "intent_id": "recesion_concepto_basico_actividad",
+        "keywords": [
+            "caida",
+            "produccion",
+            "empleo",
+            "consumo",
+            "economia"
+        ],
+        "base_response": "La recesión es una disminución significativa y prolongada en la actividad económica. Se caracteriza por la caída en la producción, el empleo y el consumo. Durante este periodo, las empresas enfrentan desafíos que afectan tanto a trabajadores como a consumidores."
+    },
+    {
+        "intent_id": "recesion_consecuencias_largo_plazo",
+        "keywords": [
+            "desempleo",
+            "pobreza",
+            "inversion",
+            "crecimiento",
+            "economia"
+        ],
+        "base_response": "Las recesiones prolongadas pueden aumentar el desempleo y la pobreza, afectando la inversión y limitando el crecimiento económico. Esto puede llevar a un estancamiento en el desarrollo de nuevos negocios y a una disminución en la calidad de vida de la población."
+    },
+    {
+        "intent_id": "recesion_actividad_economica_impacto_ambiental",
+        "keywords": [
+            "recesion",
+            "actividad",
+            "economica",
+            "impacto",
+            "ambiental"
+        ],
+        "base_response": "Durante una recesión, la disminución de la actividad económica puede llevar a una reducción en la contaminación y el uso de recursos. Sin embargo, la falta de inversión en tecnología limpia puede agravar problemas ambientales a largo plazo, afectando la sostenibilidad del planeta."
+    },
+    {
+        "intent_id": "recesion_actividad_economica_prevencion",
+        "keywords": [
+            "recesion",
+            "actividad",
+            "economica",
+            "prevencion",
+            "mantenimiento"
+        ],
+        "base_response": "La recesión se define como una disminución significativa en la actividad económica. Para prevenirla, es esencial mantener políticas fiscales adecuadas, fomentar el consumo y promover la inversión. La educación económica ayuda a entender estos conceptos y a tomar decisiones informadas."
+    },
+    {
+        "intent_id": "recesion_actividad_economica_tecnologia",
+        "keywords": [
+            "recesion",
+            "actividad",
+            "economica",
+            "tecnologia",
+            "proyecciones"
+        ],
+        "base_response": "La recesión es una disminución significativa en la actividad económica. Las proyecciones futuras indican que la tecnología puede ayudar a mitigar sus efectos, mejorando la eficiencia y creando nuevas oportunidades laborales en sectores innovadores, favoreciendo así la recuperación económica."
+    },
+    {
+        "intent_id": "ciclo_economico_mercados_definicion",
+        "keywords": [
+            "ciclo",
+            "economia",
+            "mercados",
+            "produccion",
+            "consumo"
+        ],
+        "base_response": "El ciclo económico de mercados describe las fluctuaciones periódicas en la actividad económica, incluyendo etapas de expansión y contracción. En cada fase, la producción y el consumo varían, impactando el empleo y el ingreso de los individuos y empresas."
+    },
+    {
+        "intent_id": "ciclo_economico_dinamica_fisica",
+        "keywords": [
+            "oferta",
+            "demanda",
+            "cambio",
+            "mercado",
+            "recursos"
+        ],
+        "base_response": "El ciclo económico se refiere a las fluctuaciones en la actividad del mercado, impulsadas por la oferta y la demanda. Estos cambios afectan cómo se distribuyen los recursos y cómo las empresas y consumidores interactúan, impactando la economía de un país."
+    },
+    {
+        "intent_id": "ciclo_economico_mercados_quimica",
+        "keywords": [
+            "ciclo",
+            "mercados",
+            "recursos",
+            "materiales",
+            "produccion"
+        ],
+        "base_response": "El ciclo económico de mercados involucra la producción, distribución y consumo de materiales. Los recursos químicos, como metales y plásticos, son fundamentales en este proceso, afectando la oferta y la demanda en diferentes etapas del ciclo económico."
+    },
+    {
+        "intent_id": "ciclo_economico_fallas_comunes",
+        "keywords": [
+            "ciclo",
+            "economico",
+            "fallas",
+            "mercados",
+            "errores"
+        ],
+        "base_response": "Los errores en el ciclo económico pueden llevar a desequilibrios en los mercados. Fallas como la sobreproducción o la escasez afectan la oferta y la demanda, generando crisis económicas que impactan a consumidores y empresas en su capacidad de operar eficientemente."
+    },
+    {
+        "intent_id": "ciclo_economico_mercados_historia",
+        "keywords": [
+            "ciclo",
+            "economico",
+            "mercados",
+            "historia",
+            "evolucion"
+        ],
+        "base_response": "El ciclo económico de mercados describe las fluctuaciones en la actividad económica a lo largo del tiempo. Su estudio permite entender cómo las economías han evolucionado, pasando por fases de expansión y contracción, influenciadas por factores sociales y políticos."
+    },
+    {
+        "intent_id": "ciclo_economico_mercados_ecologico",
+        "keywords": [
+            "ciclo",
+            "economico",
+            "recursos",
+            "naturales",
+            "sostenibilidad"
+        ],
+        "base_response": "El ciclo económico de mercados se ve influenciado por el entorno ecológico. La disponibilidad de recursos naturales impacta la producción y el consumo. Fomentar la sostenibilidad es esencial para equilibrar la economía y el medio ambiente a largo plazo."
+    },
+    {
+        "intent_id": "ciclo_economico_mercados_aplicaciones",
+        "keywords": [
+            "ciclo",
+            "economico",
+            "mercados",
+            "consumo",
+            "inversion"
+        ],
+        "base_response": "El ciclo económico se refiere a las fluctuaciones en la actividad económica, afectando el consumo y la inversión. Durante las expansiones, las empresas crecen y contratan más, mientras que en las recesiones, la actividad disminuye, impactando las decisiones financieras de las familias."
+    },
+    {
+        "intent_id": "ciclo_economico_importancia_social",
+        "keywords": [
+            "ciclo",
+            "economia",
+            "impacto",
+            "sociedad",
+            "mercados"
+        ],
+        "base_response": "El ciclo económico describe las fluctuaciones en la actividad económica a lo largo del tiempo. Estas variaciones impactan el empleo, la producción y el bienestar social, afectando a las familias y comunidades, creando oportunidades y desafíos en el entorno económico."
+    },
+    {
+        "intent_id": "ciclo_economico_ventajas_desventajas",
+        "keywords": [
+            "ciclo",
+            "economico",
+            "ventajas",
+            "desventajas",
+            "mercados"
+        ],
+        "base_response": "El ciclo económico de mercados implica fluctuaciones en la actividad económica. Las ventajas incluyen la creación de empleo y crecimiento, mientras que las desventajas abarcan la inestabilidad y la posibilidad de recesiones, afectando a empresas y consumidores."
+    },
+    {
+        "intent_id": "ciclo_economico_mercados_riesgos",
+        "keywords": [
+            "ciclo",
+            "economia",
+            "riesgos",
+            "seguridad",
+            "mercados"
+        ],
+        "base_response": "El ciclo económico incluye fases de expansión y recesión que afectan a los mercados. Durante las recesiones, los riesgos financieros aumentan, por lo que es esencial implementar medidas de seguridad, como diversificación y análisis de tendencias para minimizar pérdidas."
+    },
+    {
+        "intent_id": "ciclo_economico_mercados_clasificacion",
+        "keywords": [
+            "ciclo",
+            "economico",
+            "mercados",
+            "clasificacion",
+            "dimensiones"
+        ],
+        "base_response": "El ciclo económico de mercados se clasifica en cuatro fases: expansión, pico, contracción y recuperación. Cada fase se caracteriza por cambios en la producción, empleo y consumo, afectando así el comportamiento de los agentes económicos en distintas dimensiones."
+    },
+    {
+        "intent_id": "ciclo_economico_mercados_calculos",
+        "keywords": [
+            "ciclo",
+            "economico",
+            "mercados",
+            "calculos",
+            "formulas"
+        ],
+        "base_response": "El ciclo económico de mercados se compone de fases como expansión, pico, contracción y recuperación. Cada fase puede ser analizada mediante fórmulas que consideran variables como el PIB, la inflación y el desempleo, permitiendo prever tendencias y ajustar políticas económicas."
+    },
+    {
+        "intent_id": "mitos_ciclo_economico_mercados",
+        "keywords": [
+            "ciclo",
+            "economico",
+            "mitos",
+            "mercado",
+            "concepciones"
+        ],
+        "base_response": "Uno de los mitos comunes sobre el ciclo económico es que siempre sigue un patrón predecible. En realidad, los ciclos son influenciados por múltiples factores, como cambios en la política, innovación tecnológica y comportamiento del consumidor, lo que dificulta su predicción exacta."
+    },
+    {
+        "intent_id": "ciclo_economico_transformacion_energetica",
+        "keywords": [
+            "ciclo",
+            "economico",
+            "recursos",
+            "energeticos",
+            "mercados"
+        ],
+        "base_response": "El ciclo económico se refiere a las fluctuaciones en la actividad económica relacionadas con la producción y el consumo de recursos energéticos. Estos ciclos afectan la oferta y demanda en los mercados, influyendo así en precios y disponibilidad de productos."
+    },
+    {
+        "intent_id": "ciclo_economico_impacto_ambiental",
+        "keywords": [
+            "ciclo",
+            "economico",
+            "recursos",
+            "naturales",
+            "contaminacion"
+        ],
+        "base_response": "El ciclo económico involucra la producción y consumo de bienes, afectando el medio ambiente. La sobreexplotación de recursos naturales puede llevar a la contaminación y degradación del entorno, lo que impacta negativamente en la sostenibilidad y calidad de vida de las futuras generaciones."
+    },
+    {
+        "intent_id": "ciclo_economico_mercados_mantenimiento",
+        "keywords": [
+            "ciclo",
+            "economico",
+            "mercados",
+            "mantenimiento",
+            "prevencion"
+        ],
+        "base_response": "El ciclo económico de los mercados se refiere a las fluctuaciones en la actividad económica a lo largo del tiempo. El mantenimiento y la prevención son esenciales para mitigar crisis, asegurando estabilidad y crecimiento sostenido en el entorno económico."
+    },
+    {
+        "intent_id": "ciclo_economico_mercados_tecnologia",
+        "keywords": [
+            "ciclo",
+            "economico",
+            "mercados",
+            "tecnologia",
+            "futuro"
+        ],
+        "base_response": "El ciclo económico de mercados se refiere a las fluctuaciones en la actividad económica. Las proyecciones futuras indican que la tecnología jugará un papel crucial, transformando industrias y creándose nuevas oportunidades laborales, lo que impactará en el crecimiento y la estabilidad económica."
+    },
+    {
+        "intent_id": "dinero_medio_cambiario_definicion",
+        "keywords": [
+            "dinero",
+            "medio",
+            "cambio",
+            "valor",
+            "bien"
+        ],
+        "base_response": "El dinero como medio cambiario es un instrumento que facilita el intercambio de bienes y servicios. Su función principal es representar un valor aceptado, permitiendo que las transacciones sean más eficientes en comparación con el trueque tradicional."
+    },
+    {
+        "intent_id": "dinero_medio_cambiario_dinamica_fisica",
+        "keywords": [
+            "dinero",
+            "intercambio",
+            "valor",
+            "transacciones",
+            "economia"
+        ],
+        "base_response": "El dinero como medio cambiario facilita el intercambio de bienes y servicios. Su valor se determina por la confianza y la demanda en el mercado. Las transacciones permiten a las personas acceder a recursos necesarios de manera eficiente y rápida."
+    },
+    {
+        "intent_id": "dinero_como_medio_cambiario_materiales",
+        "keywords": [
+            "dinero",
+            "propiedades",
+            "materiales",
+            "intercambio",
+            "economia"
+        ],
+        "base_response": "El dinero como medio cambiario tiene propiedades materiales que facilitan el intercambio. Debe ser duradero, divisibile, portable y homogéneo. Estas características permiten su uso eficiente en la economía, garantizando la confianza en su valor y funcionalidad en transacciones."
+    },
+    {
+        "intent_id": "errores_comunes_dinero_medio_cambiario",
+        "keywords": [
+            "dinero",
+            "intercambio",
+            "errores",
+            "percepcion",
+            "valor"
+        ],
+        "base_response": "Un error común es no entender que el dinero no tiene valor intrínseco; su valor depende de la confianza en el sistema. Además, confundir el dinero con riqueza puede llevar a decisiones financieras equivocadas y afectar el intercambio justo de bienes y servicios."
+    },
+    {
+        "intent_id": "dinero_medio_cambiario_historia",
+        "keywords": [
+            "dinero",
+            "intercambio",
+            "origen",
+            "evolucion",
+            "sociedad"
+        ],
+        "base_response": "El dinero como medio cambiario surgió para facilitar el intercambio de bienes. Originalmente, se usaron objetos como piedras o metales preciosos. Con el tiempo, evolucionó hacia billetes y monedas, adaptándose a las necesidades de la sociedad moderna."
+    },
+    {
+        "intent_id": "dinero_medio_cambiario_ecologia",
+        "keywords": [
+            "dinero",
+            "intercambio",
+            "recursos",
+            "entorno",
+            "sostenibilidad"
+        ],
+        "base_response": "El dinero como medio de intercambio facilita la asignación de recursos en un entorno ecológico. Permite valorar bienes y servicios, promoviendo la sostenibilidad al incentivar prácticas que respeten el medio ambiente y optimicen el uso de recursos naturales."
+    },
+    {
+        "intent_id": "dinero_medio_cambiario_aplicaciones_practicas",
+        "keywords": [
+            "dinero",
+            "intercambio",
+            "bienestar",
+            "transacciones",
+            "economia"
+        ],
+        "base_response": "El dinero funciona como medio cambiario al facilitar el intercambio de bienes y servicios. Permite realizar transacciones de manera eficiente, contribuyendo al bienestar económico. Sin él, las economías serían menos dinámicas y más complicadas, afectando la vida diaria de las personas."
+    },
+    {
+        "intent_id": "dinero_medio_cambiario_importancia_social",
+        "keywords": [
+            "intercambio",
+            "recursos",
+            "sociedad",
+            "desarrollo",
+            "economia"
+        ],
+        "base_response": "El dinero actúa como medio cambiario, facilitando el intercambio de bienes y servicios. Su función permite a las sociedades organizarse, desarrollar economías y mejorar la calidad de vida al simplificar transacciones y fomentar relaciones comerciales."
+    },
+    {
+        "intent_id": "dinero_medio_cambiario_comparaciones",
+        "keywords": [
+            "ventajas",
+            "desventajas",
+            "dinero",
+            "intercambio",
+            "eficiencia"
+        ],
+        "base_response": "El dinero como medio cambiario facilita el intercambio al ser universalmente aceptado, evitando el trueque. Sin embargo, su uso puede llevar a la inflación, que disminuye su valor y puede crear desigualdades económicas entre las personas."
+    },
+    {
+        "intent_id": "dinero_riesgos_seguridad_cambiario",
+        "keywords": [
+            "dinero",
+            "riesgos",
+            "fraude",
+            "seguridad",
+            "transacciones"
+        ],
+        "base_response": "El dinero como medio cambiario enfrenta riesgos como el fraude y el robo. Para asegurar transacciones, se deben utilizar medidas de seguridad como contraseñas fuertes y sistemas de autenticación. Conocer estos riesgos ayuda a proteger el dinero en circulación."
+    },
+    {
+        "intent_id": "dinero_como_medio_cambiario",
+        "keywords": [
+            "dinero",
+            "intercambio",
+            "bien",
+            "servicio",
+            "valor"
+        ],
+        "base_response": "El dinero actúa como un medio cambiario que facilita el intercambio de bienes y servicios. Al asignar un valor a cada producto, permite realizar transacciones de manera eficiente y evita la necesidad de trueque, simplificando así la economía."
+    },
+    {
+        "intent_id": "dinero_medio_cambiario_calculos",
+        "keywords": [
+            "dinero",
+            "cambio",
+            "valor",
+            "transacciones",
+            "calculos"
+        ],
+        "base_response": "El dinero actúa como medio cambiario al facilitar transacciones. Para calcular el valor de un bien en diferentes monedas, se utiliza la fórmula: valor en moneda A = valor en moneda B x tipo de cambio. Esto permite entender el poder adquisitivo."
+    },
+    {
+        "intent_id": "dinero_mitos_concepciones_erroneas",
+        "keywords": [
+            "dinero",
+            "valor",
+            "intercambio",
+            "moneda",
+            "percepcion"
+        ],
+        "base_response": "Uno de los mitos comunes es que el dinero tiene un valor intrínseco. En realidad, su valor proviene de la confianza que las personas tienen en él como medio de intercambio, no de su material o forma física."
+    },
+    {
+        "intent_id": "dinero_medio_cambiario_simbiotico",
+        "keywords": [
+            "dinero",
+            "intercambio",
+            "sistemas",
+            "economia",
+            "sociedad"
+        ],
+        "base_response": "El dinero actúa como medio cambiario en una relación simbiótica con otros sistemas económicos. Facilita el intercambio de bienes y servicios, permitiendo que las sociedades funcionen eficientemente. Sin dinero, los sistemas de comercio serían complejos y menos efectivos."
+    },
+    {
+        "intent_id": "dinero_transformacion_ciclos_energeticos",
+        "keywords": [
+            "dinero",
+            "cambio",
+            "valor",
+            "recursos",
+            "transacciones"
+        ],
+        "base_response": "El dinero actúa como medio cambiario facilitando transacciones entre personas y recursos. Su valor se transforma en función de la oferta y la demanda, permitiendo que los ciclos energéticos se mantengan en equilibrio al facilitar el intercambio eficiente de bienes y servicios."
+    },
+    {
+        "intent_id": "dinero_medio_cambiario_experimentos",
+        "keywords": [
+            "dinero",
+            "intercambio",
+            "experimento",
+            "valores",
+            "productos"
+        ],
+        "base_response": "El dinero es un medio para facilitar el intercambio de bienes y servicios. A través de experimentos escolares, los estudiantes pueden simular mercados donde utilizan fichas como dinero para comprender el valor y la importancia del intercambio en la economía."
+    },
+    {
+        "intent_id": "dinero_medio_cambiario_consecuencias",
+        "keywords": [
+            "transacciones",
+            "comercio",
+            "economia",
+            "ahorros",
+            "desigualdad"
+        ],
+        "base_response": "El uso del dinero como medio cambiario facilita las transacciones en el comercio, pero a largo plazo puede generar desigualdades económicas. Si no se gestiona adecuadamente, puede afectar los ahorros y crear inestabilidad en la economía de las comunidades."
+    },
+    {
+        "intent_id": "dinero_medio_cambiario_impacto_ambiental",
+        "keywords": [
+            "dinero",
+            "cambio",
+            "recursos",
+            "sostenibilidad",
+            "impacto"
+        ],
+        "base_response": "El dinero como medio cambiario influye en el uso de recursos naturales. Promueve la producción y el consumo, que pueden generar impactos ambientales negativos. Fomentar prácticas sostenibles es crucial para mitigar efectos dañinos y preservar el medio ambiente para futuras generaciones."
+    },
+    {
+        "intent_id": "dinero_medio_cambiario_mantenimiento",
+        "keywords": [
+            "dinero",
+            "cambio",
+            "transacciones",
+            "mantenimiento",
+            "prevencion"
+        ],
+        "base_response": "El dinero como medio cambiario facilita las transacciones al permitir el intercambio de bienes y servicios. Su correcto manejo asegura un mantenimiento adecuado de recursos y previene problemas económicos, promoviendo la estabilidad en la comunidad y fomentando el desarrollo sostenible."
+    },
+    {
+        "intent_id": "sistema_monetario_definicion_estructural",
+        "keywords": [
+            "moneda",
+            "banco",
+            "transacciones",
+            "sistema",
+            "economia"
+        ],
+        "base_response": "El sistema monetario es la estructura que regula el uso de la moneda en un país. Incluye bancos, instituciones financieras y mecanismos para realizar transacciones. Su función principal es facilitar el intercambio de bienes y servicios dentro de la economía."
+    },
+    {
+        "intent_id": "sistema_monetario_dinamica_funcionamiento",
+        "keywords": [
+            "dinero",
+            "intercambio",
+            "valor",
+            "mercados",
+            "transacciones"
+        ],
+        "base_response": "El sistema monetario facilita el intercambio de bienes y servicios al proporcionar un medio común de valor. Las transacciones en los mercados dependen de la confianza en la moneda, que actúa como un intermediario en la economía, promoviendo la estabilidad y el crecimiento."
+    },
+    {
+        "intent_id": "sistema_monetario_y_materiales",
+        "keywords": [
+            "finanzas",
+            "materiales",
+            "intercambio",
+            "valor",
+            "propiedades"
+        ],
+        "base_response": "El sistema monetario se basa en el intercambio de bienes y servicios, donde los materiales tienen propiedades que determinan su valor. Comprender cómo funcionan las finanzas ayuda a apreciar el impacto de los recursos en la economía."
+    },
+    {
+        "intent_id": "errores_comunes_sistema_monetario",
+        "keywords": [
+            "errores",
+            "decisiones",
+            "financieras",
+            "patologias",
+            "economia"
+        ],
+        "base_response": "Los errores comunes en el sistema monetario incluyen decisiones financieras mal fundamentadas y la falta de comprensión de conceptos básicos. Estas patologías afectan la economía personal y pueden llevar a situaciones de endeudamiento y crisis financieras en el ámbito familiar y social."
+    },
+    {
+        "intent_id": "historia_origen_evolucion_sistema_monetario",
+        "keywords": [
+            "moneda",
+            "intercambio",
+            "historia",
+            "evolucion",
+            "finanzas"
+        ],
+        "base_response": "El sistema monetario ha evolucionado desde el trueque hasta el uso de monedas y billetes. Las primeras monedas aparecieron en Lidia alrededor del 600 a.C. y facilitaron el intercambio, mejorando las finanzas en las sociedades a lo largo del tiempo."
+    },
+    {
+        "intent_id": "sistema_monetario_ecologia",
+        "keywords": [
+            "recursos",
+            "finanzas",
+            "sostenibilidad",
+            "impacto",
+            "ambiental"
+        ],
+        "base_response": "El sistema monetario influye en el uso de recursos naturales. Las decisiones financieras pueden promover la sostenibilidad o causar daño ambiental. Entender esta relación es crucial para crear un futuro donde economía y ecología coexistan en armonía."
+    },
+    {
+        "intent_id": "sistema_monetario_aplicaciones_reales",
+        "keywords": [
+            "dinero",
+            "ahorros",
+            "inversiones",
+            "compras",
+            "transacciones"
+        ],
+        "base_response": "El sistema monetario permite a las personas realizar transacciones diarias, gestionar ahorros y hacer inversiones. Con el uso del dinero, se facilita el intercambio de bienes y servicios, mejorando la economía y la calidad de vida en la sociedad."
+    },
+    {
+        "intent_id": "sistema_monetario_importancia_social",
+        "keywords": [
+            "finanzas",
+            "sistema",
+            "moneda",
+            "impacto",
+            "social"
+        ],
+        "base_response": "El sistema monetario es fundamental para el funcionamiento económico de un país. Facilita el intercambio de bienes y servicios, permitiendo que las personas ahorren e inviertan. Su estabilidad impacta directamente en la calidad de vida y en el desarrollo social de las comunidades."
+    },
+    {
+        "intent_id": "sistema_monetario_ventajas_desventajas",
+        "keywords": [
+            "sistema",
+            "monetario",
+            "ventajas",
+            "desventajas",
+            "finanzas"
+        ],
+        "base_response": "El sistema monetario facilita el intercambio de bienes y servicios, pero puede generar desigualdad y crisis. Las ventajas incluyen la estabilidad económica y la confianza, mientras que las desventajas abarcan la especulación y la inflación, que afectan el poder adquisitivo."
+    },
+    {
+        "intent_id": "riesgos_seguridad_sistema_monetario",
+        "keywords": [
+            "riesgos",
+            "estafas",
+            "medidas",
+            "seguridad",
+            "finanzas"
+        ],
+        "base_response": "Los riesgos en el sistema monetario incluyen estafas y fraudes que pueden afectar tus finanzas. Es fundamental implementar medidas de seguridad, como contraseñas seguras y verificar la autenticidad de las transacciones, para proteger tu dinero y tus datos personales."
+    },
+    {
+        "intent_id": "sistema_monetario_clasificacion_taxonomica",
+        "keywords": [
+            "sistema",
+            "moneda",
+            "finanzas",
+            "clasificacion",
+            "economia"
+        ],
+        "base_response": "El sistema monetario se clasifica en tipos como el sistema de cambio fijo y el sistema de cambio flexible. Cada uno tiene características únicas que afectan las finanzas, el comercio y la economía de un país, influyendo en la estabilidad económica."
+    },
+    {
+        "intent_id": "sistema_monetario_calculos_financieros",
+        "keywords": [
+            "interes",
+            "ahorro",
+            "inversion",
+            "rendimiento",
+            "calculo"
+        ],
+        "base_response": "El interés es el costo del dinero prestado o la ganancia del dinero ahorrado. Se calcula como un porcentaje del capital. Entender cómo aplicar la fórmula del interés compuesto es clave para maximizar el rendimiento en ahorros e inversiones a largo plazo."
+    },
+    {
+        "intent_id": "mitos_sistema_monetario",
+        "keywords": [
+            "dinero",
+            "interes",
+            "prestamos",
+            "deuda",
+            "ahorro"
+        ],
+        "base_response": "Uno de los mitos comunes es que el dinero siempre es gratis. En realidad, los préstamos suelen tener intereses que aumentan la deuda. Ahorrar es crucial, ya que el dinero puede perder valor si no se invierte adecuadamente en un sistema financiero."
+    },
+    {
+        "intent_id": "sistema_monetario_relacion_simbiotica",
+        "keywords": [
+            "sistema",
+            "finanzas",
+            "interaccion",
+            "economia",
+            "comercio"
+        ],
+        "base_response": "El sistema monetario interactúa con otros sistemas, como el comercio y la economía. Esta relación simbiótica permite el flujo de bienes y servicios, facilitando transacciones y promoviendo el desarrollo económico, lo que beneficia a toda la sociedad."
+    },
+    {
+        "intent_id": "sistema_monetario_transformacion_energetica",
+        "keywords": [
+            "recursos",
+            "finanzas",
+            "energia",
+            "ciclos",
+            "sostenibilidad"
+        ],
+        "base_response": "El sistema monetario influye en la transformación de recursos energéticos al establecer cómo se distribuyen y utilizan. La gestión financiera sostenible promueve ciclos que optimizan el uso de energía, favoreciendo el desarrollo económico y reduciendo el impacto ambiental."
+    },
+    {
+        "intent_id": "sistema_monetario_experimentos_escolares",
+        "keywords": [
+            "moneda",
+            "finanzas",
+            "experimentos",
+            "demostraciones",
+            "educacion"
+        ],
+        "base_response": "Un experimento escolar sobre el sistema monetario puede incluir simulaciones de compras con diferentes monedas. Los estudiantes pueden analizar cómo la oferta y la demanda afectan los precios. Esto les ayuda a comprender conceptos financieros fundamentales de manera práctica y visual."
+    },
+    {
+        "intent_id": "consecuencias_largo_plazo_finanzas",
+        "keywords": [
+            "ahorro",
+            "inversion",
+            "crecimiento",
+            "desigualdad",
+            "economia"
+        ],
+        "base_response": "El sistema monetario influye en el ahorro y la inversión, afectando el crecimiento económico a largo plazo. Un manejo inadecuado puede generar desigualdad, limitando oportunidades para ciertas poblaciones y dificultando el desarrollo sustentable de la economía en general."
+    },
+    {
+        "intent_id": "sistema_monetario_impacto_ambiental",
+        "keywords": [
+            "finanzas",
+            "recursos",
+            "sostenibilidad",
+            "impacto",
+            "ambiente"
+        ],
+        "base_response": "El sistema monetario influye en la sostenibilidad ambiental al afectar la asignación de recursos. Las decisiones financieras pueden promover prácticas responsables que reduzcan la contaminación y fomenten el uso eficiente de los recursos naturales, beneficiando así al medio ambiente."
+    },
+    {
+        "intent_id": "sistema_monetario_mantenimiento_prevencion",
+        "keywords": [
+            "ahorro",
+            "inversion",
+            "prevencion",
+            "riesgos",
+            "finanzas"
+        ],
+        "base_response": "El mantenimiento adecuado del sistema monetario incluye el ahorro y la inversión responsable. Esto previene riesgos financieros y asegura la estabilidad económica. Comprender estos conceptos es fundamental para desarrollar habilidades que permitan gestionar eficientemente los recursos personales y familiares."
+    },
+    {
+        "intent_id": "banco_central_emisor_dinamica_fisica",
+        "keywords": [
+            "moneda",
+            "emision",
+            "economia",
+            "regulacion"
+        ],
+        "base_response": "El banco central emisor regula la cantidad de moneda en circulación para mantener la estabilidad económica. Controla la inflación ajustando la emisión de billetes y monedas, influyendo así en el comportamiento del mercado y la confianza del público."
+    },
+    {
+        "intent_id": "banco_central_emisor_economico",
+        "keywords": [
+            "banco",
+            "central",
+            "emision",
+            "moneda",
+            "control"
+        ],
+        "base_response": "El banco central emisor regula la cantidad de dinero en circulación y controla la inflación. Utiliza herramientas como la emisión de moneda y las tasas de interés para garantizar la estabilidad económica y fomentar el crecimiento sostenible en el país."
+    },
+    {
+        "intent_id": "errores_fallas_banco_emisor",
+        "keywords": [
+            "decisiones",
+            "politicas",
+            "economicas",
+            "inflacion",
+            "crisis"
+        ],
+        "base_response": "Los bancos centrales pueden cometer errores en sus decisiones políticas, como aumentar las tasas de interés demasiado rápido. Esto puede provocar inflación descontrolada o crisis económicas. Es fundamental que actúen con prudencia para mantener la estabilidad financiera."
+    },
+    {
+        "intent_id": "banco_central_emisor_historico",
+        "keywords": [
+            "banco",
+            "central",
+            "historia",
+            "origen",
+            "evolucion"
+        ],
+        "base_response": "Los bancos centrales surgieron en Europa en el siglo XVII para estabilizar monedas y regular economías. Su evolución ha sido clave en el desarrollo financiero, adaptándose a crisis económicas y cambiando funciones para controlar la inflación y fomentar el empleo."
+    },
+    {
+        "intent_id": "banco_central_emisor_ecologico",
+        "keywords": [
+            "banco",
+            "central",
+            "emision",
+            "recursos",
+            "ecologia"
+        ],
+        "base_response": "El banco central emisor regula la cantidad de dinero en circulación, afectando recursos económicos y ecológicos. Su función incluye fomentar un entorno sostenible, equilibrando la economía con la conservación del medio ambiente y promoviendo un desarrollo responsable en la sociedad."
+    },
+    {
+        "intent_id": "banco_central_emisor_economico_banco_central_emision",
+        "keywords": [
+            "banco",
+            "central",
+            "emision",
+            "moneda",
+            "politicas"
+        ],
+        "base_response": "El banco central emisor regula la cantidad de dinero en circulación mediante políticas monetarias. Esto afecta tasas de interés y estabilidad económica. Por ejemplo, puede aumentar la emisión de dinero para estimular el crecimiento o reducirla para controlar la inflación."
+    },
+    {
+        "intent_id": "banco_central_importancia_social",
+        "keywords": [
+            "control",
+            "moneda",
+            "estabilidad",
+            "economia",
+            "sociedad"
+        ],
+        "base_response": "El banco central emisor es crucial para controlar la cantidad de dinero en circulación. Su función ayuda a mantener la estabilidad económica, evitando crisis financieras que pueden afectar a la sociedad, el empleo y el bienestar general de las personas."
+    },
+    {
+        "intent_id": "banco_central_emisor_economico_ventajas_desventajas_control",
+        "keywords": [
+            "ventajas",
+            "desventajas",
+            "control",
+            "inflacion",
+            "economia"
+        ],
+        "base_response": "Los bancos centrales emisores regulan la oferta monetaria, lo que puede controlar la inflación y estabilizar la economía. Sin embargo, pueden enfrentar desventajas como la creación de burbujas financieras y la dificultad para implementar políticas efectivas en tiempos de crisis."
+    },
+    {
+        "intent_id": "banco_central_riesgos_seguros",
+        "keywords": [
+            "banco",
+            "central",
+            "riesgos",
+            "medidas",
+            "seguridad"
+        ],
+        "base_response": "Los bancos centrales enfrentan riesgos financieros y operativos que pueden afectar la economía. Para protegerse, implementan medidas de seguridad como auditorías, regulaciones y controles internos. Esto asegura la estabilidad del sistema financiero y la confianza del público en la moneda."
+    },
+    {
+        "intent_id": "banco_central_emisor_economico_institucion_emision_moneda",
+        "keywords": [
+            "institucion",
+            "emision",
+            "moneda",
+            "control",
+            "economia"
+        ],
+        "base_response": "El banco central emisor económico es la institución responsable de la emisión de moneda y el control de la política monetaria en un país. Su función principal es estabilizar la economía y mantener la confianza en la moneda nacional."
+    },
+    {
+        "intent_id": "banco_central_emisor_calculos",
+        "keywords": [
+            "tasa",
+            "interes",
+            "emision",
+            "moneda",
+            "inflacion"
+        ],
+        "base_response": "El banco central emisor regula la economía a través de la tasa de interés. Al ajustarla, influye en la emisión de moneda y controla la inflación. Estos cálculos son fundamentales para mantener la estabilidad económica y fomentar el crecimiento sostenible."
+    },
+    {
+        "intent_id": "banco_central_mitos_concepciones",
+        "keywords": [
+            "banco",
+            "central",
+            "emision",
+            "dinero",
+            "control"
+        ],
+        "base_response": "Un mito común es que los bancos centrales imprimen dinero sin control. En realidad, regulan la cantidad de dinero en circulación para mantener la estabilidad económica. Su función es crucial para evitar inflación desmedida y garantizar un sistema financiero saludable."
+    },
+    {
+        "intent_id": "banco_central_relacion_simbiotica_sistemas",
+        "keywords": [
+            "banco",
+            "central",
+            "economia",
+            "sistemas",
+            "interaccion"
+        ],
+        "base_response": "El banco central actúa como un regulador clave en la economía, interactuando con sistemas financieros y políticos. Su función es mantener la estabilidad monetaria, a través de políticas que afectan el empleo, el crecimiento económico y la inflación dentro del país."
+    },
+    {
+        "intent_id": "banco_central_emisor_transformacion",
+        "keywords": [
+            "banco",
+            "central",
+            "emision",
+            "dinero",
+            "economia"
+        ],
+        "base_response": "El banco central emisor regula la cantidad de dinero en la economía. Al emitir más dinero, influye en la inflación y el consumo. Su papel es crucial en la transformación de recursos y en la estabilidad económica del país."
+    },
+    {
+        "intent_id": "banco_central_emisor_impacto_ambiental",
+        "keywords": [
+            "emision",
+            "dinero",
+            "recursos",
+            "naturaleza",
+            "sostenibilidad"
+        ],
+        "base_response": "La emisión de dinero por parte del banco central puede influir en el uso de recursos naturales. Un aumento en la circulación monetaria puede incentivar proyectos que afectan el medio ambiente, por lo que es importante considerar la sostenibilidad en las decisiones económicas."
+    }
+]
