@@ -1,0 +1,2037 @@
+[
+    {
+        "intent_id": "vacunas_para_prevencion_de_enfermedades_definicion_anatomica",
+        "keywords": [
+            "tipo",
+            "vacuna",
+            "microorganismo",
+            "cultivar",
+            "condicion"
+        ],
+        "base_response": "Existen cuatro tipos de vacunas principales:​ Vivas atenuadas: microorganismos que han sido cultivados expresamente bajo condiciones en las cuales pierden o atenúan sus propiedades patógenas. Suelen provocar una respuesta inmunológica más duradera y son las más usuales en los adultos."
+    },
+    {
+        "intent_id": "vacunas_para_prevencion_de_enfermedades_dinamica_funcionamiento",
+        "keywords": [
+            "inconveniente",
+            "agente",
+            "provocar",
+            "enfermedad",
+            "persona"
+        ],
+        "base_response": "El inconveniente es que al tener el agente patógeno vivo, puede provocar la enfermedad en personas inmunodeprimidas o con problemas de salud graves. Entre las vacunas de este tipo se encuentran las de la fiebre amarilla, sarampión, rubéola, paperas o varicela."
+    },
+    {
+        "intent_id": "vacunas_para_prevencion_de_enfermedades_propiedades_quimicas",
+        "keywords": [
+            "microorganismo",
+            "creer",
+            "infeccion",
+            "combatir",
+            "forma"
+        ],
+        "base_response": "Esto se debe a que el microorganismo, aunque está debilitado, no se encuentra inactivado y crea una ligera infección que es combatida de forma natural por el sistema inmune. Inactivadas: microorganismos dañinos que han sido tratados con productos químicos o calor causando la muerte del patógeno, pero manteniendo su estructura."
+    },
+    {
+        "intent_id": "vacunas_para_prevencion_de_enfermedades_errores_patologias",
+        "keywords": [
+            "tipo",
+            "vacuna",
+            "sistema",
+            "agente",
+            "atacar"
+        ],
+        "base_response": "Este tipo de vacunas activa el sistema inmune, pero el agente dañino no ataca al huésped y es incapaz de reproducirse, ya que se encuentra inactivo. Esto genera menos efectos secundarios causados por el agente patógeno."
+    },
+    {
+        "intent_id": "vacunas_para_prevencion_de_enfermedades_historia_origen",
+        "keywords": [
+            "inmunidad",
+            "forma",
+            "intensidad",
+            "soler",
+            "durar"
+        ],
+        "base_response": "La inmunidad generada de esta forma es de menor intensidad y suele durar menos tiempo, por lo que este tipo de vacuna suele requerir más dosis (dosis de refuerzo). Ejemplos de este tipo son las vacunas de la gripe (algunas), rabia o la hepatitis A."
+    },
+    {
+        "intent_id": "vacunas_para_prevencion_de_enfermedades_contexto_ecologico",
+        "keywords": [
+            "componente",
+            "microorganismo",
+            "caso",
+            "provocar",
+            "enfermedad"
+        ],
+        "base_response": "Toxoides: son componentes tóxicos inactivados procedentes de microorganismos, en casos donde esos componentes son los que de verdad provocan la enfermedad, en lugar del propio microorganismo. Estos componentes se podrían inactivar con formaldehído, por ejemplo."
+    },
+    {
+        "intent_id": "vacunas_para_prevencion_de_enfermedades_aplicaciones_practicas",
+        "keywords": [
+            "toxina",
+            "producir",
+            "bacteria",
+            "virus",
+            "parte"
+        ],
+        "base_response": "También pueden crearse a partir de las toxinas que producen esas bacterias o virus, o con partes de ellos que sirven para que el cuerpo las identifique sin causarle daño. En este grupo se pueden encontrar el tétanos y la difteria."
+    },
+    {
+        "intent_id": "vacunas_para_prevencion_de_enfermedades_importancia_social",
+        "keywords": [
+            "recombinant",
+            "polisacarida",
+            "utilizar",
+            "parte",
+            "germen"
+        ],
+        "base_response": "Subunidades, recombinantes, polisacáridas y combinadas: utilizan partes específicas del germen, como su proteína, polisacáridos o cápsula (carcasa que rodea al germen). Dado que las vacunas solo utilizan partes específicas del germen, ofrecen una respuesta inmunitaria muy fuerte dirigida a partes claves del germen."
+    },
+    {
+        "intent_id": "vacunas_para_prevencion_de_enfermedades_ventajas_desventajas",
+        "keywords": [
+            "utilizar",
+            "persona",
+            "necesite",
+            "sistema",
+            "problema"
+        ],
+        "base_response": "También se pueden utilizar en prácticamente cualquier persona que las necesite, incluso en personas con sistemas inmunitarios debilitados o problemas de salud a largo plazo. Normalmente estas vacunas necesitan dosis de refuerzo para tener protección continua contra las enfermedades."
+    },
+    {
+        "intent_id": "vacunas_para_prevencion_de_enfermedades_riesgos_seguridad",
+        "keywords": [
+            "insertar",
+            "bacteria",
+            "virus",
+            "celula",
+            "animal"
+        ],
+        "base_response": "Funciona al insertar ADN de bacterias o virus dentro de células humanas o animales. Algunas células del sistema inmunitario reconocen la proteína surgida del ADN extraño y atacan tanto a la propia proteína como a las células afectadas."
+    },
+    {
+        "intent_id": "vacunas_para_prevencion_de_enfermedades_clasificacion_taxonomica",
+        "keywords": [
+            "celula",
+            "vivir",
+            "tiempo",
+            "agente",
+            "creer"
+        ],
+        "base_response": "Dado que estas células viven largo tiempo, si el agente patógeno (el que crea la infección) que normalmente produce esas proteínas es encontrado tras un periodo largo, serán atacadas instantáneamente por el sistema inmunitario. Una ventaja de las vacunas ADN es que son muy fáciles de producir y almacenar."
+    },
+    {
+        "intent_id": "vacunas_para_prevencion_de_enfermedades_calculos_formulas",
+        "keywords": [
+            "vacuna",
+            "desarrollo",
+            "crear",
+            "agente",
+            "tipo"
+        ],
+        "base_response": "Vacuna de ADN: vacuna de desarrollo reciente, es creada a partir del ADN de un agente infeccioso. Aunque en 2006 este tipo de vacuna era aún experimental, presenta resultados esperanzadores. Vacuna de ARN: se basan en insertar ARN de bacterias o virus dentro de células humanas o animales."
+    },
+    {
+        "intent_id": "vacunas_para_prevencion_de_enfermedades_mitos_errores",
+        "keywords": [
+            "dificultad",
+            "llegar",
+            "vacuna",
+            "nino",
+            "provocar"
+        ],
+        "base_response": "La dificultad de hacer llegar la vacuna a los niños ha provocado que la fecha de la erradicación se haya prolongado hasta la actualidad. Recientemente (25/08/2020) la OMS (Organización Mundial de la Salud) declaró oficialmente al continente africano 'Libre de la Polio'."
+    },
+    {
+        "intent_id": "vacunas_para_prevencion_de_enfermedades_relacion_simbiotica",
+        "keywords": [
+            "trabajar",
+            "caso",
+            "inoculacion",
+            "tomar",
+            "viruela"
+        ],
+        "base_response": "Trabajando sobre este caso de inoculación, Jenner tomó viruela bovina de la mano de la granjera Sarah Nelmes e inoculó este fluido a través de inyección en el brazo de un niño de ocho años, James Phipps. El pequeño mostró síntomas de la infección de viruela bovina."
+    },
+    {
+        "intent_id": "vacunas_para_prevencion_de_enfermedades_transformacion_ciclos",
+        "keywords": [
+            "comprobar",
+            "efectividad",
+            "vacuna",
+            "cabo",
+            "audaz"
+        ],
+        "base_response": "Para comprobar la efectividad de la vacuna antiantráxica lleva a cabo un audaz y brillante experimento público en la granja de Pouilly-le-Fort. El desarrollo del experimento fue como sigue:​ Al comunicar estos resultados, Pasteur introdujo los términos de vacuna y vacunación, que provienen de la palabra latina vacca."
+    },
+    {
+        "intent_id": "vacunas_para_prevencion_de_enfermedades_experimentos_escolares",
+        "keywords": [
+            "viruela",
+            "matar",
+            "millon",
+            "persona",
+            "incluir"
+        ],
+        "base_response": "La viruela había matado a millones de personas, incluyendo a la querida hija del Rey, hacía una década. Francisco Balmis fue el hombre responsable de la complicada operación. Su solución fue llevar a bordo a 22 niños de un orfanato español."
+    },
+    {
+        "intent_id": "vacunas_para_prevencion_de_enfermedades_consecuencias_largo_plazo",
+        "keywords": [
+            "mujer",
+            "comprobar",
+            "resistencia",
+            "rubeola",
+            "persona"
+        ],
+        "base_response": "Las mujeres embarazadas son a menudo examinadas para comprobar su resistencia a la rubéola. Para las personas de edad avanzada se recomiendan especialmente las vacunas contra la neumonía y la gripe, enfermedades que a partir de cierta edad son aún más peligrosas."
+    },
+    {
+        "intent_id": "vacunas_para_prevencion_de_enfermedades_impacto_ambiental",
+        "keywords": [
+            "cadena",
+            "ultrabaja",
+            "vacuna",
+            "requerir",
+            "nivel"
+        ],
+        "base_response": "Existe una cadena de frío ultrabaja o ultracongelada para las vacunas que requieren -70 °C. Las vacunas contra el Ébola y contra la COVID-19 requieren este nivel, al igual que algunas vacunas para animales, como las de pollos."
+    },
+    {
+        "intent_id": "vacunas_para_prevencion_de_enfermedades_mantenimiento_prevencion",
+        "keywords": [
+            "escalon",
+            "cadena",
+            "requerir",
+            "vacuna",
+            "varicela"
+        ],
+        "base_response": "El siguiente escalón, es la cadena congelada requiere -20 °C. Las vacunas contra la varicela y el herpes zóster requieren este nivel de frío. El escalón más bajo, la cadena refrigerada, requiere temperaturas entre dos y ocho (2-8) grados centígrados."
+    },
+    {
+        "intent_id": "vacunas_para_prevencion_de_enfermedades_proyecciones_futuras",
+        "keywords": [
+            "catalogar",
+            "movimiento",
+            "amenaza",
+            "salud",
+            "continente"
+        ],
+        "base_response": "En 2019, la Organización Mundial de la Salud catalogó a los movimientos antivacunas como una de las principales amenazas a la salud mundial.​ En el continente americano, el sarampión fue eliminado en 2002. En mayo de 2011 hubo un brote de sarampión en Francia."
+    },
+    {
+        "intent_id": "virus_causantes_de_enfermedades_infecciosas_definicion_anatomica",
+        "keywords": [
+            "infectar",
+            "virus",
+            "especie",
+            "recibir",
+            "nombre"
+        ],
+        "base_response": "También infectan a otros virus; estas especies reciben el nombre de virófagos. A los virus que dependen de otros virus para cumplir sus requisitos se les denomina virus satélite, una categoría que también incluye a los virófagos."
+    },
+    {
+        "intent_id": "virus_causantes_de_enfermedades_infecciosas_dinamica_funcionamiento",
+        "keywords": [
+            "virus",
+            "diseminar",
+            "manera",
+            "tipo",
+            "forma"
+        ],
+        "base_response": "Los virus se diseminan de muchas maneras diferentes y cada tipo de virus tiene una forma de transmitirse. Llamamos vectores de transmisión a los organismos vivos que los transportan de una persona a otra, o de un animal a una persona (o viceversa)."
+    },
+    {
+        "intent_id": "virus_causantes_de_enfermedades_infecciosas_propiedades_quimicas",
+        "keywords": [
+            "rotaviru",
+            "dispersar",
+            "contacto",
+            "nino",
+            "virus"
+        ],
+        "base_response": "Los rotavirus se dispersan a menudo por contacto directo con niños infectados. El VIH es uno de los muchos virus que se transmiten por contacto sexual o por exposición a sangre infectada.​ No todos los virus provocan enfermedades; muchos se reproducen sin causar ningún daño al organismo infectado."
+    },
+    {
+        "intent_id": "virus_causantes_de_enfermedades_infecciosas_errores_patologias",
+        "keywords": [
+            "pretender",
+            "soler",
+            "lograr",
+            "vacuna",
+            "llegar"
+        ],
+        "base_response": "Eso es lo que se pretende (y se suele) lograr con las vacunas. Con ellas se puede llegar a erradicar una enfermedad, como ha ocurrido con la viruela. Los microorganismos como las bacterias también tienen defensas contra las infecciones víricas, conocidas como sistemas de restricción-modificación."
+    },
+    {
+        "intent_id": "virus_causantes_de_enfermedades_infecciosas_historia_origen",
+        "keywords": [
+            "virion",
+            "utilizar",
+            "particula",
+            "general",
+            "definir"
+        ],
+        "base_response": "El término «virión» también se utiliza para referirse a una única partícula vírica infecciosa. En general se puede definir como virus a todos aquellos ácidos nucleicos móviles capaces de formar viriones en contraposición a los viroides o plásmidos que no tienen la capacidad de formar estas estructuras complejas."
+    },
+    {
+        "intent_id": "virus_causantes_de_enfermedades_infecciosas_contexto_ecologico",
+        "keywords": [
+            "mediados",
+            "siglo",
+            "virus",
+            "emplear",
+            "sinonimo"
+        ],
+        "base_response": "A mediados del siglo XIX el término virus todavía se empleaba como sinónimo de veneno o miasma. Los virus no llegaron a conocerse como entidades biológicas hasta las postrimerías del siglo XIX, pero hay descripciones mucho más antiguas de enfermedades víricas, así como de los primeros tratamientos médicos."
+    },
+    {
+        "intent_id": "virus_causantes_de_enfermedades_infecciosas_aplicaciones_practicas",
+        "keywords": [
+            "proponer",
+            "virus",
+            "entidad",
+            "ancestro",
+            "organismo"
+        ],
+        "base_response": "En 1928 junto con John Burdon Sanderson Haldane propusieron que los virus o entidades similares fueran los ancestros de los organismos celulares. A finales del siglo XIX, los virus se definían en función de su infectividad, su filtrabilidad y su necesidad de huéspedes vivos."
+    },
+    {
+        "intent_id": "virus_causantes_de_enfermedades_infecciosas_importancia_social",
+        "keywords": [
+            "contar",
+            "zona",
+            "factor",
+            "dilucion",
+            "calcular"
+        ],
+        "base_response": "Contando estas zonas, y multiplicándolas por el factor de dilución, d'Herelle pudo calcular el número de virus en la suspensión original.​ En 1922 propuso que los bacteriófagos fueran ancestros de las bacterias o una forma intermediaria. Solo habían sido cultivados en plantas y animales."
+    },
+    {
+        "intent_id": "virus_causantes_de_enfermedades_infecciosas_ventajas_desventajas",
+        "keywords": [
+            "inventar",
+            "metodo",
+            "cultivar",
+            "tejido",
+            "linfa"
+        ],
+        "base_response": "En 1906, Ross Granville Harrison inventó un método para cultivar tejidos en linfa, y, en 1913, E. Steinhardt y colaboradores utilizaron este método para cultivar virus Vaccinia en fragmentos de córnea de cobaya.​ En 1928, H."
+    },
+    {
+        "intent_id": "virus_causantes_de_enfermedades_infecciosas_riesgos_seguridad",
+        "keywords": [
+            "imagen",
+            "difraccion",
+            "rayos",
+            "virus",
+            "obtener"
+        ],
+        "base_response": "Las primeras imágenes por difracción de rayos X del virus cristalizado las obtuvieron Bernal y Fankuchen en 1941. Basándose en sus imágenes, Rosalind Franklin descubrió la estructura completa del virus en 1955.​ El mismo año, Heinz Fraenkel-Conrat y Robley C."
+    },
+    {
+        "intent_id": "virus_causantes_de_enfermedades_infecciosas_clasificacion_taxonomica",
+        "keywords": [
+            "tiempo",
+            "precursor",
+            "virus",
+            "perder",
+            "gen"
+        ],
+        "base_response": "A lo largo del tiempo, estos precursores de los virus fueron perdiendo los genes que no necesitaban a causa de su parasitismo. Las bacterias Rickettsia, Chlamydia y la arquea Sukunaarchaeum mirabile son células vivientes que, como los virus, solo pueden reproducirse dentro de células huésped."
+    },
+    {
+        "intent_id": "virus_causantes_de_enfermedades_infecciosas_calculos_formulas",
+        "keywords": [
+            "actualidad",
+            "ser",
+            "virus",
+            "representar",
+            "viroid"
+        ],
+        "base_response": "En la actualidad existen otros seres biológicos similares a los virus que pueden representar estados evolutivos intermedios. Por una parte, los viroides; son moléculas de ARN que no se clasifican como virus porque carecen de envoltura proteica."
+    },
+    {
+        "intent_id": "virus_causantes_de_enfermedades_infecciosas_mitos_errores",
+        "keywords": [
+            "replicar",
+            "genoma",
+            "transmitir",
+            "huesped",
+            "plasmido"
+        ],
+        "base_response": "Se replican independientemente del genoma y se transmiten entre huéspedes. Los plásmidos están presentes en las bacterias, arqueas y levaduras y pueden hacer que las bacterias se vuelvan resistentes a los antibióticos o que se vuelvan patógenas."
+    },
+    {
+        "intent_id": "virus_causantes_de_enfermedades_infecciosas_relacion_simbiotica",
+        "keywords": [
+            "etapa",
+            "describir",
+            "fabrica",
+            "virion",
+            "referir"
+        ],
+        "base_response": "Esta etapa se ha descrito como la 'fábrica de viriones' porque se refiere a que los virus son fabricados por la maquinaria celular. Los virus se multiplican y evolucionan solamente en las células, sin ellas son materia orgánica inanimada."
+    },
+    {
+        "intent_id": "virus_causantes_de_enfermedades_infecciosas_transformacion_ciclos",
+        "keywords": [
+            "virus",
+            "encontrar",
+            "hongo",
+            "protista",
+            "bacteria"
+        ],
+        "base_response": "Estos virus no infectivos fueron encontrados principalmente en los hongos, protistas, bacterias y arqueas.​ En general decidir si los virus están vivos o no depende de la definición filosófica que se quiera dar de vida. Por ejemplo si se usa la teoría celular como definición deben excluirse de dicho conjunto."
+    },
+    {
+        "intent_id": "virus_causantes_de_enfermedades_infecciosas_experimentos_escolares",
+        "keywords": [
+            "circular",
+            "cadena",
+            "fago",
+            "virus",
+            "evidenciar"
+        ],
+        "base_response": "El ADN naturalmente circular puede ser de cadena sencilla como en el fago ØXI74,​ o de cadena doble, como en el virus SV4O. Existe evidencia de que algunos virus ARN que producen infecciones en vegetales como el limonero y la papa contienen moléculas circulares de ARN."
+    },
+    {
+        "intent_id": "virus_causantes_de_enfermedades_infecciosas_consecuencias_largo_plazo",
+        "keywords": [
+            "tamano",
+            "complejidad",
+            "secuenciar",
+            "totalidad",
+            "virus"
+        ],
+        "base_response": "Posteriormente muchos otros genomas virales de mayor tamaño y complejidad han sido secuenciados en parte o en su totalidad. Los virus presentan una amplia diversidad de morfologías, es decir, de formas y tamaños. Son unas 100 veces más pequeños que las bacterias."
+    },
+    {
+        "intent_id": "virus_causantes_de_enfermedades_infecciosas_impacto_ambiental",
+        "keywords": [
+            "solucion",
+            "sal",
+            "metal",
+            "wolframio",
+            "dispersar"
+        ],
+        "base_response": "Son soluciones de sales de metales pesados como el wolframio, que dispersan electrones en las regiones cubiertas por la tinción. Cuando las partículas víricas están cubiertas por la tinción (tinción positiva), oscurecen los detalles finos."
+    },
+    {
+        "intent_id": "virus_causantes_de_enfermedades_infecciosas_mantenimiento_prevencion",
+        "keywords": [
+            "virus",
+            "mosaico",
+            "tabaco",
+            "ejemplo",
+            "mayoria"
+        ],
+        "base_response": "El conocido virus del mosaico del tabaco es un ejemplo de virus helicoidal.​ Icosaédrica La mayoría de virus que infectan los animales son icosaédricos o casi-esféricos con simetría icosaédrica. Un icosaedro regular es la mejor manera de formar una carcasa cerrada a partir de subunidades idénticas."
+    },
+    {
+        "intent_id": "virus_causantes_de_enfermedades_infecciosas_proyecciones_futuras",
+        "keywords": [
+            "general",
+            "longitud",
+            "capside",
+            "relacion",
+            "acido"
+        ],
+        "base_response": "En general, la longitud de una cápside helicoidal está en relación con la longitud del ácido nucleico que contiene, y el diámetro depende del tamaño y la distribución de los capsómeros. El número mínimo requerido de capsómeros idénticos es doce, cada uno compuesto de cinco subunidades idénticas."
+    },
+    {
+        "intent_id": "bacterias_patogenas_de_enfermedades_humanas_definicion_anatomica",
+        "keywords": [
+            "poseer",
+            "pared",
+            "componer",
+            "peptidoglicano",
+            "mureina"
+        ],
+        "base_response": "Generalmente poseen una pared celular y esta se compone de peptidoglicano (también llamado mureína). Muchas bacterias disponen de flagelos o de otros sistemas de locomoción para desplazarse. Del estudio de las bacterias se encarga la bacteriología, una rama de la microbiología."
+    },
+    {
+        "intent_id": "bacterias_patogenas_de_enfermedades_humanas_dinamica_funcionamiento",
+        "keywords": [
+            "incluir",
+            "procariota",
+            "taxonomia",
+            "nomenclatura",
+            "dividir"
+        ],
+        "base_response": "Aunque el término bacteria incluía tradicionalmente a todos los procariotas, actualmente la taxonomía y la nomenclatura científica los divide en dos grupos. Estos dominios evolutivos se denominan Bacteria y Archaea (arqueas).​ La división se justifica en las grandes diferencias que presentan ambos grupos a nivel bioquímico y genético."
+    },
+    {
+        "intent_id": "bacterias_patogenas_de_enfermedades_humanas_propiedades_quimicas",
+        "keywords": [
+            "bacteria",
+            "organismo",
+            "planeta",
+            "encontrar",
+            "crecer"
+        ],
+        "base_response": "Las bacterias son los organismos más abundantes del planeta. Son ubicuas, se encuentran en todos los hábitats terrestres y acuáticos; crecen incluso en los más extremos como en los manantiales de aguas calientes y ácidas, en desechos radioactivos,​ en las profundidades tanto del mar como de la corteza terrestre."
+    },
+    {
+        "intent_id": "bacterias_patogenas_de_enfermedades_humanas_errores_patologias",
+        "keywords": [
+            "presencia",
+            "pared",
+            "peptidoglicano",
+            "composicion",
+            "lipido"
+        ],
+        "base_response": "La presencia frecuente de pared de peptidoglicano junto con su composición en lípidos de membrana son la principal diferencia que presentan frente a las arqueas. Algunas bacterias pueden incluso sobrevivir en las condiciones extremas del espacio exterior."
+    },
+    {
+        "intent_id": "bacterias_patogenas_de_enfermedades_humanas_historia_origen",
+        "keywords": [
+            "calcular",
+            "bacteria",
+            "reciclaje",
+            "elemento",
+            "paso"
+        ],
+        "base_response": "En total, se calcula que hay aproximadamente 5×1030 bacterias en el mundo.​ Las bacterias son imprescindibles para el reciclaje de los elementos, pues muchos pasos importantes de los ciclos biogeoquímicos dependen de estas. Como ejemplo cabe citar la fijación del nitrógeno atmosférico."
+    },
+    {
+        "intent_id": "bacterias_patogenas_de_enfermedades_humanas_contexto_ecologico",
+        "keywords": [
+            "aplicar",
+            "microorganismo",
+            "filogenia",
+            "demostrar",
+            "procariota"
+        ],
+        "base_response": "El término «bacteria» se aplicó tradicionalmente a todos los microorganismos procariotas. Sin embargo, la filogenia molecular ha podido demostrar que los microorganismos procariotas se dividen en dos dominios, originalmente denominados Eubacteria y Archaebacteria, y ahora renombrados como Bacteria y Archaea,​ que evolucionaron independientemente desde un ancestro común."
+    },
+    {
+        "intent_id": "bacterias_patogenas_de_enfermedades_humanas_aplicaciones_practicas",
+        "keywords": [
+            "arquea",
+            "bacteria",
+            "producir",
+            "mediados",
+            "millon"
+        ],
+        "base_response": "La bifurcación entre arqueas y bacterias se produjo a mediados del Hádico hace 4150 millones de años, mientras que los eucariotas son más recientes y surgieron a comienzos del Paleoproterozoico hace 2500 millones de años. La mayoría de los filos bacterianos se originaron durante el Arcaico."
+    },
+    {
+        "intent_id": "bacterias_patogenas_de_enfermedades_humanas_importancia_social",
+        "keywords": [
+            "bacteria",
+            "termofila",
+            "reino",
+            "separar",
+            "resto"
+        ],
+        "base_response": "Las bacterias termófilas del reino Thermotogati y Fusobacteriota se separaron del resto de las bacterias a finales del Hádico y a comienzos del Arcaico. Los grandes reinos bacterianos Pseudomonadati y Bacillati se originaron a mediados del Arcaico.​​​ En la actualidad se discute si los primeros procariotas fueron bacterias o arqueas."
+    },
+    {
+        "intent_id": "bacterias_patogenas_de_enfermedades_humanas_ventajas_desventajas",
+        "keywords": [
+            "encontrar",
+            "eucariota",
+            "forma",
+            "protista",
+            "endosimbiosis"
+        ],
+        "base_response": "Estas se pueden encontrar en todas las eucariotas, aunque a veces en formas muy reducidas, como en los protistas amitocondriales. Después, e independientemente, una segunda endosimbiosis por parte de alguna eucariota mitocondrial con una cianobacteria condujo a la formación de los cloroplastos de algas y plantas."
+    },
+    {
+        "intent_id": "bacterias_patogenas_de_enfermedades_humanas_riesgos_seguridad",
+        "keywords": [
+            "forma",
+            "distinguir",
+            "tipo",
+            "bacteria",
+            "grano"
+        ],
+        "base_response": "De todas formas, podemos distinguir tres tipos fundamentales de bacterias: Coco (del griego kókkos, grano): de forma esférica. Estafilococo: cocos en agrupaciones irregulares o en racimo. Bacilo (del latín baculus, varilla): en forma de bastoncillo."
+    },
+    {
+        "intent_id": "bacterias_patogenas_de_enfermedades_humanas_clasificacion_taxonomica",
+        "keywords": [
+            "citoplasma",
+            "carecer",
+            "organulo",
+            "membrana",
+            "formacion"
+        ],
+        "base_response": "El citoplasma carece de orgánulos delimitados por membranas y formaciones protoplasmáticas propias de las células eucariotas. En el citoplasma se pueden apreciar plásmidos, pequeñas moléculas circulares de ADN que coexisten con el nucleoide, contienen genes y son comúnmente usados por los procariotas en la conjugación."
+    },
+    {
+        "intent_id": "bacterias_patogenas_de_enfermedades_humanas_calculos_formulas",
+        "keywords": [
+            "membrana",
+            "lipido",
+            "rodear",
+            "citoplasma",
+            "celula"
+        ],
+        "base_response": "Una membrana citoplasmática compuesta de lípidos rodea el citoplasma y, al igual que las células de las plantas, la mayoría posee una pared celular, que en este caso está compuesta por peptidoglicano (mureína). La mayoría de bacterias, presentan además una segunda membrana lipídica (membrana externa) rodeando a la pared celular."
+    },
+    {
+        "intent_id": "bacterias_patogenas_de_enfermedades_humanas_mitos_errores",
+        "keywords": [
+            "citoplasma",
+            "contener",
+            "vacuola",
+            "granulo",
+            "sustancia"
+        ],
+        "base_response": "El citoplasma también contiene vacuolas (gránulos que contienen sustancias de reserva) y ribosomas (utilizados en la síntesis de las proteínas). El espacio comprendido entre la membrana citoplasmática y la pared celular (o la membrana externa si esta existe) se denomina espacio periplásmico."
+    },
+    {
+        "intent_id": "bacterias_patogenas_de_enfermedades_humanas_relacion_simbiotica",
+        "keywords": [
+            "bacteria",
+            "presentar",
+            "capsula",
+            "endospora",
+            "resistir"
+        ],
+        "base_response": "Algunas bacterias presentan una cápsula y otras son capaces de desarrollarse como endosporas, estados latentes capaces de resistir condiciones extremas. Entre las formaciones exteriores propias de la célula bacteriana destacan los flagelos y los pili."
+    },
+    {
+        "intent_id": "bacterias_patogenas_de_enfermedades_humanas_transformacion_ciclos",
+        "keywords": [
+            "organismo",
+            "caracteristica",
+            "carencia",
+            "nucleo",
+            "membrana"
+        ],
+        "base_response": "Al tratarse de organismos procariotas, tienen las características básicas correspondientes como la carencia de un núcleo delimitado por una membrana, aunque presentan un nucleoide, una estructura elemental que contiene una gran molécula circular de ADN. La membrana citoplasmática bacteriana tiene una estructura similar a la de plantas y animales."
+    },
+    {
+        "intent_id": "bacterias_patogenas_de_enfermedades_humanas_experimentos_escolares",
+        "keywords": [
+            "dimension",
+            "ancho",
+            "longitud",
+            "forma",
+            "tamano"
+        ],
+        "base_response": "Sus dimensiones son muy reducidas, unos 2 μm de ancho por 7-8 μm de longitud en la forma cilíndrica (bacilo) de tamaño medio; aunque son muy frecuentes las especies de 0,5 a 1,5 μm. Es una bicapa lipídica compuesta fundamentalmente de fosfolípidos en la que se insertan moléculas de proteínas."
+    },
+    {
+        "intent_id": "bacterias_patogenas_de_enfermedades_humanas_consecuencias_largo_plazo",
+        "keywords": [
+            "diferencia",
+            "membrana",
+            "contener",
+            "esterol",
+            "excepcion"
+        ],
+        "base_response": "A diferencia de las membranas eucarióticas, generalmente no contiene esteroles (son excepciones micoplasmas y algunas proteobacterias), aunque puede contener componentes similares denominados hopanoides. Muchas importantes reacciones bioquímicas que tienen lugar en las células se producen por la existencia de gradientes de concentración a ambos lados de una membrana."
+    },
+    {
+        "intent_id": "bacterias_patogenas_de_enfermedades_humanas_impacto_ambiental",
+        "keywords": [
+            "bacteria",
+            "nucleo",
+            "membrana",
+            "material",
+            "cromosoma"
+        ],
+        "base_response": "Las bacterias no tienen un núcleo delimitado por membranas. El material genético está organizado en un único cromosoma situado en el citoplasma, dentro de un cuerpo irregular denominado nucleoide.​ La mayoría de los cromosomas bacterianos son circulares, si bien existen algunos ejemplos de cromosomas lineales, por ejemplo, Borrelia burgdorferi."
+    },
+    {
+        "intent_id": "bacterias_patogenas_de_enfermedades_humanas_mantenimiento_prevencion",
+        "keywords": [
+            "citoesqueleto",
+            "desempenar",
+            "funcion",
+            "proteccion",
+            "determinacion"
+        ],
+        "base_response": "El citoesqueleto bacteriano desempeña funciones esenciales en la protección, determinación de la forma de la célula bacteriana y en la división celular.​ Las bacterias disponen de una pared celular que rodea a su membrana citoplasmática. Las paredes celulares bacterianas están hechas de peptidoglicano (llamado antiguamente mureína)."
+    },
+    {
+        "intent_id": "bacterias_patogenas_de_enfermedades_humanas_proyecciones_futuras",
+        "keywords": [
+            "cambio",
+            "bacteria",
+            "pared",
+            "capa",
+            "peptidoglicano"
+        ],
+        "base_response": "En cambio, las bacterias Gram-negativas tienen una pared relativamente fina, consistente en unas pocas capas de peptidoglicano, rodeada por una segunda membrana lipídica (la membrana externa) que contiene lipopolisacáridos y lipoproteínas. Las micoplasmas son una excepción, pues carecen de pared celular."
+    },
+    {
+        "intent_id": "higiene_personal_contra_enfermedades_preventivas_definicion_anatomica",
+        "keywords": [
+            "higiene",
+            "conjunto",
+            "practica",
+            "aplicar",
+            "individuo"
+        ],
+        "base_response": "La higiene es el conjunto de prácticas y técnicas que aplican los individuos para el control de los factores que ejercen o pueden tener efectos nocivos sobre la salud. La higiene personal es el concepto básico del aseo, de la limpieza y del cuidado del cuerpo humano."
+    },
+    {
+        "intent_id": "higiene_personal_contra_enfermedades_preventivas_dinamica_funcionamiento",
+        "keywords": [
+            "general",
+            "higiene",
+            "referir",
+            "practica",
+            "evitar"
+        ],
+        "base_response": "En general, la higiene se refiere a las prácticas que evitan la propagación de organismos patógenos. Los procesos de limpieza (por ejemplo, el lavado de manos​) eliminan los microorganismos infecciosos, así como la suciedad y la tierra, por lo que suelen ser el medio para lograr la higiene."
+    },
+    {
+        "intent_id": "higiene_personal_contra_enfermedades_preventivas_propiedades_quimicas",
+        "keywords": [
+            "limpieza",
+            "higienir",
+            "soler",
+            "lugar",
+            "confusion"
+        ],
+        "base_response": "Los términos limpieza e higiene suelen utilizarse indistintamente, lo que puede dar lugar a confusión. Otros usos del término son los siguientes: higiene corporal, higiene personal, higiene del sueño, higiene mental, higiene dental e higiene ocupacional, utilizados en relación con la salud pública."
+    },
+    {
+        "intent_id": "higiene_personal_contra_enfermedades_preventivas_errores_patologias",
+        "keywords": [
+            "objetivo",
+            "higiene",
+            "preservar",
+            "salud",
+            "prevenir"
+        ],
+        "base_response": "Los objetivos de la higiene son preservar la salud, conservarla y prevenir las enfermedades causadas por infecciones. Se entienden como higiene los métodos que los individuos utilizan para estar limpios, como el uso sobre de jabón, champú y agua."
+    },
+    {
+        "intent_id": "higiene_personal_contra_enfermedades_preventivas_historia_origen",
+        "keywords": [
+            "medicina",
+            "favorecer",
+            "salud",
+            "evaluacion",
+            "control"
+        ],
+        "base_response": "Parte de la medicina orientada para favorecer tu salud. Reconocimiento, evaluación y control de aquellos factores o tensiones ambientales que surgen en el lugar de trabajo en prevención de enfermedades contagiosas que traigan efectos a quebrantos de salud, quebrantos del bienestar, incomodidad e ineficacia de los trabajadores y los ciudadanos."
+    },
+    {
+        "intent_id": "higiene_personal_contra_enfermedades_preventivas_contexto_ecologico",
+        "keywords": [
+            "relacion",
+            "aseo",
+            "lugar",
+            "persona",
+            "higiene"
+        ],
+        "base_response": "Pero también, para referirse a las relaciones interpersonales: Limpieza y aseo de lugares o personas. La mala higiene incide de manera directa en la salud propia y de los demás, con la aparición de enfermedades."
+    },
+    {
+        "intent_id": "higiene_personal_contra_enfermedades_preventivas_aplicaciones_practicas",
+        "keywords": [
+            "obra",
+            "impresar",
+            "siglo",
+            "principio",
+            "folleto"
+        ],
+        "base_response": "Se trata de una obra impresa varias veces en el siglo XV y principios del XVI. Se trata de un folleto sobre pautas de conducta y buenos modales en la mesa para los niños, escrito en verso para facilitar su memorización en la mejor tradición medieval."
+    },
+    {
+        "intent_id": "higiene_personal_contra_enfermedades_preventivas_importancia_social",
+        "keywords": [
+            "creer",
+            "suavizar",
+            "piel",
+            "debilitar",
+            "proteccion"
+        ],
+        "base_response": "Se cree que al suavizar la piel se debilita su protección contra todas las infecciones. Los perfumes (jazmín, canela, narciso, almizcle) camuflan los malos olores y supuestamente sirven como desinfectantes, las pastillas de anís se utilizan para perfumar el aliento."
+    },
+    {
+        "intent_id": "higiene_personal_contra_enfermedades_preventivas_ventajas_desventajas",
+        "keywords": [
+            "persona",
+            "ropa",
+            "frecuencia",
+            "practicar",
+            "higiene"
+        ],
+        "base_response": "Sólo las personas adineradas, que pueden cambiarse de ropa con frecuencia, practican la higiene de la ropa.​​ El aseo de los más nobles se completa con la aplicación de bálsamos y ungüentos con virtudes preventivas, traídos en particular por los Grandes Descubrimientos. Luigi Cornaro escribió en 1558 Sobre la sobriedad."
+    },
+    {
+        "intent_id": "higiene_personal_contra_enfermedades_preventivas_riesgos_seguridad",
+        "keywords": [
+            "norma",
+            "incluir",
+            "asiento",
+            "silla",
+            "mesa"
+        ],
+        "base_response": "Como norma general incluyen asientos o sillas y mesas. Hay zonas de descanso situadas en el interior del edificio del lugar de trabajo, pero también hay zonas que, aunque están cubiertas, tienen un acceso amplio al exterior."
+    },
+    {
+        "intent_id": "higiene_personal_contra_enfermedades_preventivas_clasificacion_taxonomica",
+        "keywords": [
+            "patogeno",
+            "sobrevivir",
+            "espuma",
+            "resto",
+            "quedar"
+        ],
+        "base_response": "Los patógenos pueden sobrevivir en la espuma o restos que quedan en las bañeras, duchas y lavabos después de lavarse y bañarse. Una limpieza a fondo es importante para prevenir la propagación de infecciones fúngicas."
+    },
+    {
+        "intent_id": "higiene_personal_contra_enfermedades_preventivas_calculos_formulas",
+        "keywords": [
+            "limpieza",
+            "higienicar",
+            "utilizar",
+            "jabon",
+            "medida"
+        ],
+        "base_response": "La limpieza higiénica puede realizarse mediante: Eliminación mecánica (es decir, limpieza) utilizando un jabón o detergente. Para que sea eficaz como medida de higiene, este proceso debe ir seguido de un aclarado a fondo con agua corriente para eliminar los patógenos de la superficie."
+    },
+    {
+        "intent_id": "higiene_personal_contra_enfermedades_preventivas_mitos_errores",
+        "keywords": [
+            "lugar",
+            "crecimiento",
+            "hongo",
+            "superficie",
+            "incluir"
+        ],
+        "base_response": "Los principales lugares de crecimiento de los hongos son las superficies inanimadas, incluidas las alfombras y los muebles.​ Los hongos transmitidos por el aire suelen estar asociados a condiciones de humedad, mala ventilación o sistemas de aire cerrados. Utilizar un proceso o producto que inactive los patógenos in situ."
+    },
+    {
+        "intent_id": "higiene_personal_contra_enfermedades_preventivas_relacion_simbiotica",
+        "keywords": [
+            "caso",
+            "combinar",
+            "eliminacion",
+            "patogeno",
+            "suciedad"
+        ],
+        "base_response": "En algunos casos se combina la eliminación de patógenos con la eliminación de la suciedad, por ejemplo, lavando la ropa y la ropa de casa, como toallas y ropa de cama. Wikcionario tiene definiciones y otra información sobre higiene."
+    },
+    {
+        "intent_id": "higiene_personal_contra_enfermedades_preventivas_transformacion_ciclos",
+        "keywords": [
+            "eliminacion",
+            "patogeno",
+            "utilizar",
+            "producto",
+            "microbiocida"
+        ],
+        "base_response": "La eliminación de patógenos se consigue utilizando un producto 'microbiocida', es decir, un producto desinfectante o antibacteriano; un desinfectante de manos sin agua; o mediante la aplicación de calor, rayos UV o cualquier otro método biocida. El Diccionario de la Real Academia Española tiene una definición para higiene."
+    },
+    {
+        "intent_id": "prevencion_de_infecciones_transmisibles_definicion_anatomica",
+        "keywords": [
+            "infeccion",
+            "proceso",
+            "implicar",
+            "interaccion",
+            "microorganismo"
+        ],
+        "base_response": "La infección es un proceso complejo que implica la interacción de un microorganismo patógeno con un huésped susceptible. El microorganismo patógeno debe ser capaz de invadir el cuerpo del huésped, multiplicarse en él y evitar ser eliminado por el sistema inmunitario."
+    },
+    {
+        "intent_id": "prevencion_de_infecciones_transmisibles_dinamica_funcionamiento",
+        "keywords": [
+            "ejemplo",
+            "especie",
+            "bacteria",
+            "colonizar",
+            "colon"
+        ],
+        "base_response": "Un ejemplo de lo anterior, son las especies de bacterias anaerobias que colonizan el colon de los mamíferos; otro ejemplo son las distintas especies de estafilococos existentes en la piel humana. Algunas características de las infecciones son el dolor, el edema y el enrojecimiento."
+    },
+    {
+        "intent_id": "prevencion_de_infecciones_transmisibles_propiedades_quimicas",
+        "keywords": [
+            "infeccion",
+            "efecto",
+            "lucha",
+            "microorganismo",
+            "utilizar"
+        ],
+        "base_response": "La infección activa es el efecto de una lucha en la cual el microorganismo infectante trata de utilizar los recursos del anfitrión para multiplicarse a su costa. El estado de la infección es, de manera frecuente, simplemente cuestión de las circunstancias."
+    },
+    {
+        "intent_id": "prevencion_de_infecciones_transmisibles_errores_patologias",
+        "keywords": [
+            "microorganismo",
+            "bacteria",
+            "hongo",
+            "protozoos",
+            "alga"
+        ],
+        "base_response": "Los microorganismos patógenos pueden ser bacterias, hongos, protozoos o algas microscópicas. Además de estos microorganismos, existe otro grupo de agentes acelulares que no se consideran seres vivos, pero que si son microscópicos y suelen presentar una alta patogenicidad."
+    },
+    {
+        "intent_id": "prevencion_de_infecciones_transmisibles_historia_origen",
+        "keywords": [
+            "virus",
+            "infectar",
+            "virofago",
+            "satelite",
+            "viroid"
+        ],
+        "base_response": "Los virus también pueden ser infectados por otros virus más pequeños, denominados virófagos o satélites y viroides llamados virusoides. Las enfermedades infecciosas suelen clasificarse por el tipo de microorganismo que las origina, por la vía de transmisión y por sus síntomas."
+    },
+    {
+        "intent_id": "prevencion_de_infecciones_transmisibles_contexto_ecologico",
+        "keywords": [
+            "mostrar",
+            "tabla",
+            "enfermedad",
+            "bacteria",
+            "virus"
+        ],
+        "base_response": "Más adelante se muestra una tabla con las enfermedades más frecuentes causadas por bacterias, virus, hongos y protoctistas. Los viroides y los priones son agentes microscópicos que también tienen carácter patógeno. Los viroides son moléculas de ARN que infectan plantas y hongos que generalmente disminuyen el crecimiento del huésped."
+    },
+    {
+        "intent_id": "prevencion_de_infecciones_transmisibles_aplicaciones_practicas",
+        "keywords": [
+            "prion",
+            "forma",
+            "inducir",
+            "deformacion",
+            "proteina"
+        ],
+        "base_response": "Los priones son proteínas con formas anómalas que pueden inducir deformaciones en las proteínas de los organismos. Están presentes en levaduras y mamíferos, en estos últimos pueden causar enfermedades como la enfermedad de Creutzfeldt-Jakob en los seres humanos o la encefalopatía espongiforme bovina o 'mal de las vacas locas'."
+    },
+    {
+        "intent_id": "prevencion_de_infecciones_transmisibles_importancia_social",
+        "keywords": [
+            "enfermedad",
+            "incidir",
+            "forma",
+            "regular",
+            "comunidad"
+        ],
+        "base_response": "Por último, una enfermedad infecciosa se considera endémica cuando incide de forma constante y regular en una comunidad, aunque el número de casos no sea alto. La ciencia que estudia los niveles de afectación de las enfermedades se conoce como epidemiología."
+    },
+    {
+        "intent_id": "prevencion_de_infecciones_transmisibles_ventajas_desventajas",
+        "keywords": [
+            "variable",
+            "participar",
+            "enfermedad",
+            "anfitrion",
+            "inocular"
+        ],
+        "base_response": "Las variables que participan en la enfermedad de un anfitrión al que se le ha inoculado un microorganismo patógeno y el resultado final son: La ruta de entrada del microorganismo patógeno y las zonas a las que accede. El estado inmunitario del anfitrión que está siendo colonizado."
+    },
+    {
+        "intent_id": "prevencion_de_infecciones_transmisibles_riesgos_seguridad",
+        "keywords": [
+            "lugar",
+            "pandemia",
+            "enfermedad",
+            "area",
+            "planeta"
+        ],
+        "base_response": "Se considera que tiene lugar una pandemia cuando una enfermedad infecciosa tiene lugar en áreas geográficas muy extensas a lo largo de todo el planeta. Las etapas de las infecciones líticas y lisógenas pueden ser distintas que las de otros virus cuando atacan células eucariotas."
+    },
+    {
+        "intent_id": "prevencion_de_infecciones_transmisibles_clasificacion_taxonomica",
+        "keywords": [
+            "mayoria",
+            "animal",
+            "mostrar",
+            "patron",
+            "infeccion"
+        ],
+        "base_response": "Pero la mayoría de los animales muestran patrones de infección similares a la infección lítica o lisógena de las bacterias. Infección lítica: En una infección, un virus penetra en una célula, hace copias de sí mismo y destruye la célula."
+    },
+    {
+        "intent_id": "prevencion_de_infecciones_transmisibles_calculos_formulas",
+        "keywords": [
+            "ejemplo",
+            "bacteriofago",
+            "centro",
+            "capside",
+            "proteina"
+        ],
+        "base_response": "Por ejemplo el bacteriófago T4 tiene un centro de ADN dentro de una intrincada cápside de proteína que se activa al contacto con una célula. Luego inyecta su ADN directamente dentro de la célula que lo alberga, que ya no distingue entre su ADN y el ADN del virus."
+    },
+    {
+        "intent_id": "prevencion_de_infecciones_transmisibles_mitos_errores",
+        "keywords": [
+            "esfera",
+            "enfermedad",
+            "producir",
+            "epidemia",
+            "caso"
+        ],
+        "base_response": "Más allá de la esfera individual de una enfermedad infecciosa, se considera que se produce una epidemia cuando se dan numerosos casos de una misma enfermedad en una comunidad o en un área geográfica reducida. Por tanto comienza a producir ARN mensajero con los genes del virus."
+    },
+    {
+        "intent_id": "prevencion_de_infecciones_transmisibles_relacion_simbiotica",
+        "keywords": [
+            "ejemplo",
+            "enfermedad",
+            "viroid",
+            "planta",
+            "convertir"
+        ],
+        "base_response": "Un ejemplo de enfermedad causada por viroides es la enfermedad cadang-cadang, típica principalmente de algunas plantas cocoteras. El ARNm se convierte en proteínas de virus que actúan como una cuadrilla de demolición molecular y despedazan el ADN de la célula infectada, que deja de funcionar."
+    },
+    {
+        "intent_id": "prevencion_de_infecciones_transmisibles_transformacion_ciclos",
+        "keywords": [
+            "diferencia",
+            "virus",
+            "lisogeno",
+            "destruir",
+            "inmediato"
+        ],
+        "base_response": "A diferencia de los virus líticos, los lisógenos no destruyen de inmediato al anfitrión, sino que permanecen inactivos durante un periodo prolongado. El ADN del virus incorporado en el ADN de la célula anfitriona se llama prófago."
+    },
+    {
+        "intent_id": "prevencion_de_infecciones_transmisibles_experimentos_escolares",
+        "keywords": [
+            "obstante",
+            "microorganismo",
+            "organismo",
+            "producir",
+            "infeccion"
+        ],
+        "base_response": "No obstante, algunos microorganismos consiguen adentrarse en el organismo y producir una infección, lo que hace que se desencadene una primera respuesta inmunitaria inespecífica. Al poco tiempo suele empezar a producirse una respuesta específica frente al tipo concreto de microorganismo invasor con el objetivo de eliminarlo."
+    },
+    {
+        "intent_id": "prevencion_de_infecciones_transmisibles_consecuencias_largo_plazo",
+        "keywords": [
+            "infeccion",
+            "tratamiento",
+            "ayudar",
+            "combatir",
+            "proliferacion"
+        ],
+        "base_response": "Para algunas infecciones, existen tratamientos médicos que ayudan a combatir la proliferación del microorganismo invasor. La primera barrera con la que cuenta el ser humano para evitar una infección es su piel, que aísla el interior de su cuerpo del exterior."
+    },
+    {
+        "intent_id": "prevencion_de_infecciones_transmisibles_impacto_ambiental",
+        "keywords": [
+            "piel",
+            "caracter",
+            "dificultar",
+            "vida",
+            "bacteria"
+        ],
+        "base_response": "Además, la piel humana tiene un ligero carácter ácido que dificulta la vida de determinadas bacterias. Otros animales se sirven además de otros mecanismos físicos como escamas o pelo. Sin embargo, los cuerpos de los vertebrados cuentan con orificios por los que podría llevarse a cabo la infección."
+    },
+    {
+        "intent_id": "prevencion_de_infecciones_transmisibles_mantenimiento_prevencion",
+        "keywords": [
+            "respuesta",
+            "tipo",
+            "microorganismo",
+            "celula",
+            "responsabilidad"
+        ],
+        "base_response": "Esta primera respuesta es general e independiente del tipo de microorganismo invasor. Las células con mayor responsabilidad en esta primera respuesta inmunitaria son los leucocitos, entre los que se encuentran los neutrófilos y los monocitos maduros convertidos en macrofagos."
+    },
+    {
+        "intent_id": "prevencion_de_infecciones_transmisibles_proyecciones_futuras",
+        "keywords": [
+            "fase",
+            "infeccion",
+            "lugar",
+            "inflamacion",
+            "permitir"
+        ],
+        "base_response": "En esta fase de la infección tiene lugar la inflamación, que permite una mayor afluencia de leucocitos y una mayor permeabilidad de los tejidos a las células inmunitarias. Es la respuesta que se desarrolla de forma específica ante un determinado tipo de microorganismo infeccioso."
+    },
+    {
+        "intent_id": "inmunizacion_clinica_preventiva_de_enfermedades_definicion_anatomica",
+        "keywords": [
+            "accion",
+            "defensa",
+            "frente",
+            "infeccion",
+            "aspecto"
+        ],
+        "base_response": "Entre todas estas acciones, la más conocida ha sido y es la de la defensa frente a las infecciones, y será este el aspecto en que se centre este artículo. La inmunidad, entendida así como mecanismo de defensa, involucra tanto a componentes específicos como inespecíficos."
+    },
+    {
+        "intent_id": "inmunizacion_clinica_preventiva_de_enfermedades_dinamica_funcionamiento",
+        "keywords": [
+            "componente",
+            "evolucion",
+            "sistema",
+            "adaptar",
+            "microorganismo"
+        ],
+        "base_response": "Otros componentes más modernos en la evolución del sistema inmunitario se adaptan a cada nuevo microorganismo encontrado, se especializan en su detección y generan una memoria para posibles futuros contactos. La inmunidad ha intrigado a la humanidad durante miles de años."
+    },
+    {
+        "intent_id": "inmunizacion_clinica_preventiva_de_enfermedades_propiedades_quimicas",
+        "keywords": [
+            "germen",
+            "lograr",
+            "penetrar",
+            "organismo",
+            "encontrar"
+        ],
+        "base_response": "Los gérmenes que logren penetrar en un organismo se encontrarán con las células y los mecanismos del sistema inmunitario innato. El sistema de inmunidad adquirida, adaptativa o específica a menudo se subdivide en dos grandes tipos dependiendo de cómo se introdujo la infección."
+    },
+    {
+        "intent_id": "inmunizacion_clinica_preventiva_de_enfermedades_errores_patologias",
+        "keywords": [
+            "depender",
+            "tiempo",
+            "durar",
+            "proteccion",
+            "inmunidad"
+        ],
+        "base_response": "Pueden subdividirse aún más, dependiendo del tiempo que dura la protección. La inmunidad pasiva es a corto plazo, y normalmente dura sólo unos meses, mientras que la protección vía inmunidad activa dura más tiempo, y es a veces de por vida."
+    },
+    {
+        "intent_id": "inmunizacion_clinica_preventiva_de_enfermedades_historia_origen",
+        "keywords": [
+            "inmunidad",
+            "caracterizar",
+            "celula",
+            "aspecto",
+            "mediar"
+        ],
+        "base_response": "La inmunidad adquirida se caracteriza por las células involucradas; la inmunidad humoral es el aspecto de la inmunidad que es mediado por anticuerpos secretados, mientras que la protección proporcionada por la inmunidad celular involucra sólo linfocitos T. La inmunidad humoral es un aspecto de la inmunidad mediada por anticuerpos secretados."
+    },
+    {
+        "intent_id": "inmunizacion_clinica_preventiva_de_enfermedades_contexto_ecologico",
+        "keywords": [
+            "trastorno",
+            "funcionamiento",
+            "sistema",
+            "afectar",
+            "formacion"
+        ],
+        "base_response": "Muchos trastornos del funcionamiento del sistema inmunitario pueden afectar a la formación de la inmunidad activa como la inmunodeficiencia (tanto en la forma adquirida o congénita) y la inmunodepresión. La inmunidad activa adquirida artificialmente puede ser inducida por una vacuna, una sustancia que contiene un antígeno."
+    },
+    {
+        "intent_id": "inmunizacion_clinica_preventiva_de_enfermedades_aplicaciones_practicas",
+        "keywords": [
+            "metodo",
+            "suponer",
+            "tratar",
+            "agente",
+            "enfermedad"
+        ],
+        "base_response": "El método Pasteur usado suponía tratar los agentes infecciosos para aquellas enfermedades de manera que perdían la capacidad de causar enfermedades graves. Pasteur adoptó el nombre vacuna como un término genérico en honor del descubrimiento de Jenner, a partir del cual Pasteur trabajó."
+    },
+    {
+        "intent_id": "inmunizacion_clinica_preventiva_de_enfermedades_importancia_social",
+        "keywords": [
+            "tipo",
+            "vacuna",
+            "microorganismo",
+            "compuesta",
+            "matar"
+        ],
+        "base_response": "Hay cuatro tipos de vacunas tradicionales:​ Las vacunas con microorganismos inactivados están compuestas de microorganismos que han sido matados con sustancias químicas o calor y ya no son infecciosos. Son ejemplos las vacunas contra la gripe, el cólera, la peste y la hepatitis A."
+    },
+    {
+        "intent_id": "inmunizacion_clinica_preventiva_de_enfermedades_ventajas_desventajas",
+        "keywords": [
+            "mayoria",
+            "vacuna",
+            "tipo",
+            "requeir",
+            "refuerzo"
+        ],
+        "base_response": "La mayoría de las vacunas de este tipo es probable que requieran vacunas de refuerzo. Las vacunas con microorganismos vivos atenuados están compuestas de microorganismos cultivados en condiciones que inutilizan su capacidad de inducir enfermedades."
+    },
+    {
+        "intent_id": "inmunizacion_clinica_preventiva_de_enfermedades_riesgos_seguridad",
+        "keywords": [
+            "ejemplo",
+            "incluir",
+            "vacuna",
+            "frente",
+            "fiebre"
+        ],
+        "base_response": "Los ejemplos incluyen las vacunas frente la fiebre amarilla, el sarampión, la rubéola y la parotiditis. Los toxoides son compuestos tóxicos inactivados de microorganismos en casos donde estos (en vez de los microorganismos por sí mismos) causan la enfermedad, usados antes de un encuentro con el toxoide."
+    },
+    {
+        "intent_id": "inmunizacion_clinica_preventiva_de_enfermedades_clasificacion_taxonomica",
+        "keywords": [
+            "respuesta",
+            "requerir",
+            "vacuna",
+            "refuerzo",
+            "ejemplo"
+        ],
+        "base_response": "Estas respuestas son más duraderas y generalmente no requieren vacunas de refuerzo. Ejemplos de vacunas basadas en toxoides incluyen las producidas frente al tétanos y la difteria. Las vacunas de subunidades están compuestas de pequeños fragmentos de microorganismos causantes de enfermedad."
+    },
+    {
+        "intent_id": "inmunizacion_clinica_preventiva_de_enfermedades_calculos_formulas",
+        "keywords": [
+            "ejemplo",
+            "vacuna",
+            "subunidad",
+            "preparada",
+            "virus"
+        ],
+        "base_response": "Un ejemplo característico es la vacuna con subunidades es la preparada contra el virus de la hepatitis B. La mayoría de las vacunas se administran mediante inyección hipodérmica ya que no son absorbidas con fiabilidad a través del aparato digestivo."
+    },
+    {
+        "intent_id": "defensas_inmunologicas_contra_enfermedades_definicion_anatomica",
+        "keywords": [
+            "elemento",
+            "respuesta",
+            "ser",
+            "sencillo",
+            "organismo"
+        ],
+        "base_response": "Los elementos de respuesta innata están presentes prácticamente en todos los seres vivos, incluso los sencillos organismos unicelulares como las bacterias poseen sistemas enzimáticos que los protegen contra infecciones virales. Otros mecanismos inmunitarios básicos se encuentran en eucariontes, plantas, peces, reptiles e insectos, así como en mamíferos."
+    },
+    {
+        "intent_id": "defensas_inmunologicas_contra_enfermedades_dinamica_funcionamiento",
+        "keywords": [
+            "sistema",
+            "adaptar",
+            "tiempo",
+            "reconocer",
+            "patogeno"
+        ],
+        "base_response": "El sistema inmunitario se adapta con el tiempo para reconocer patógenos específicos de manera más eficaz, generando una memoria inmunitaria. La memoria inmunitaria creada desde una respuesta primaria a un patógeno específico proporciona una respuesta mejorada a encuentros secundarios con ese mismo patógeno específico."
+    },
+    {
+        "intent_id": "defensas_inmunologicas_contra_enfermedades_propiedades_quimicas",
+        "keywords": [
+            "proceso",
+            "inmunidad",
+            "base",
+            "trastorno",
+            "sistema"
+        ],
+        "base_response": "Este proceso de inmunidad adquirida es la base de la vacunación.​​​ Los trastornos en el sistema inmunitario pueden ocasionar muchas enfermedades. La inmunodeficiencia ocurre cuando el sistema inmunitario es menos activo que lo normal,​ lo que favorece las infecciones recidivantes y con peligro para la vida."
+    },
+    {
+        "intent_id": "defensas_inmunologicas_contra_enfermedades_errores_patologias",
+        "keywords": [
+            "enfermedad",
+            "figurar",
+            "tiroiditis",
+            "artritis",
+            "reumatoidir"
+        ],
+        "base_response": "Entre las enfermedades autoinmunitarias comunes figuran la tiroiditis de Hashimoto, la artritis reumatoide, la diabetes mellitus tipo 1 y el lupus eritematoso. La inmunología cubre el estudio de todos los aspectos del sistema inmunitario que tienen relevancia significativa para la salud humana y las enfermedades."
+    },
+    {
+        "intent_id": "defensas_inmunologicas_contra_enfermedades_historia_origen",
+        "keywords": [
+            "caso",
+            "tomar",
+            "acepcion",
+            "causa",
+            "mecanismo"
+        ],
+        "base_response": "Este último caso, que se considera anglicismo, toma la acepción de «perteneciente o relativo a las causas, mecanismos o efectos de la inmunidad» (Nota: en el inglés «immune» se usa tanto para inmune como inmunitario). Funcionalmente, los órganos se clasifican en primarios y secundarios."
+    },
+    {
+        "intent_id": "defensas_inmunologicas_contra_enfermedades_contexto_ecologico",
+        "keywords": [
+            "forma",
+            "fiebre",
+            "temperatura",
+            "varia",
+            "volver"
+        ],
+        "base_response": "De igual forma, la fiebre puede ser remitente, es decir, que la temperatura varía, pero no vuelve a la normalidad. La inflamación es una de las primeras respuestas del sistema inmunitario a una infección.​ Los síntomas de la inflamación son el enrojecimiento, hinchazón y calor."
+    },
+    {
+        "intent_id": "defensas_inmunologicas_contra_enfermedades_aplicaciones_practicas",
+        "keywords": [
+            "especificidad",
+            "antigeno",
+            "permitir",
+            "generacion",
+            "respuesta"
+        ],
+        "base_response": "La especificidad del antígeno permite la generación de respuestas que se adaptan a patógenos específicos o a las células infectadas por patógenos. La habilidad de montar estas respuestas específicas se mantiene en el organismo gracias a las células de memoria."
+    },
+    {
+        "intent_id": "defensas_inmunologicas_contra_enfermedades_importancia_social",
+        "keywords": [
+            "patogeno",
+            "infectar",
+            "organismo",
+            "celula",
+            "memoria"
+        ],
+        "base_response": "Si un patógeno infecta a un organismo más de una vez, estas células de memoria desencadenan una respuesta específica para ese patógeno que han reconocido, con el fin de eliminarlo rápidamente. Las células del sistema inmunitario adaptativo son una clase especial de leucocitos, llamados linfocitos."
+    },
+    {
+        "intent_id": "defensas_inmunologicas_contra_enfermedades_ventajas_desventajas",
+        "keywords": [
+            "celula",
+            "reconocer",
+            "antigeno",
+            "molecula",
+            "clase"
+        ],
+        "base_response": "Las células T asesinas solo reconocen antígenos acoplados a moléculas del CMH de clase I, mientras que las células T colaboradoras solo reconocen antígenos acoplados a moléculas del CMH de clase II. Estos dos mecanismos de presentación de antígenos reflejan los diferentes cometidos de los dos tipos de células T."
+    },
+    {
+        "intent_id": "defensas_inmunologicas_contra_enfermedades_riesgos_seguridad",
+        "keywords": [
+            "reconocimiento",
+            "correceptor",
+            "celula",
+            "nombre",
+            "viajar"
+        ],
+        "base_response": "El reconocimiento de este complejo CMH-antígeno se ve favorecido por un correceptor en la célula T, llamado CD8 (de ahí deriva su nombre T-CD8). Así, la célula T viaja a través del organismo en busca de células donde los receptores del CMH de clase I lleven este antígeno."
+    },
+    {
+        "intent_id": "defensas_inmunologicas_contra_enfermedades_clasificacion_taxonomica",
+        "keywords": [
+            "cambio",
+            "controlar",
+            "respuesta",
+            "dirigir",
+            "celula"
+        ],
+        "base_response": "En cambio, controlan la respuesta inmunitaria dirigiendo otras células para que lleven a cabo estas tareas. Los linfocitos T colaboradores expresan receptores de los linfocitos T que reconocen antígenos unidos a moléculas de MHC de clase II."
+    },
+    {
+        "intent_id": "defensas_inmunologicas_contra_enfermedades_calculos_formulas",
+        "keywords": [
+            "creer",
+            "celula",
+            "desempenar",
+            "papel",
+            "reconocimiento"
+        ],
+        "base_response": "Por otra parte, se cree que las células T γδ desempeñan un papel principal en el reconocimiento de antígenos de naturaleza lipídica. Las células T γδ comparten las características de las células T colaboradoras, las citotóxicas y las asesinas naturales."
+    },
+    {
+        "intent_id": "defensas_inmunologicas_contra_enfermedades_mitos_errores",
+        "keywords": [
+            "linfocito",
+            "mostrar",
+            "antigeno",
+            "superficie",
+            "molecula"
+        ],
+        "base_response": "El linfocito B muestra entonces estos antígenos peptídicos en su superficie unidos a moléculas del CMH de clase II. Esta combinación de CMH/antígeno atrae a un linfocito T colaborador que tenga receptores complementarios de ese complejo CMH/antígeno."
+    },
+    {
+        "intent_id": "defensas_inmunologicas_contra_enfermedades_relacion_simbiotica",
+        "keywords": [
+            "memoria",
+            "duracion",
+            "larga",
+            "inmunidad",
+            "mes"
+        ],
+        "base_response": "La memoria inmunitaria puede ser pasiva y de corta duración o activa y de larga duración.​ La inmunidad pasiva es generalmente de corta duración, desde unos pocos días a algunos meses. Los recién nacidos no han tenido una exposición previa a los microbios y son particularmente vulnerables a las infecciones."
+    },
+    {
+        "intent_id": "defensas_inmunologicas_contra_enfermedades_transformacion_ciclos",
+        "keywords": [
+            "brindar",
+            "proteccion",
+            "aplicar",
+            "vacuna",
+            "acto"
+        ],
+        "base_response": "Además de brindar protección a quienes se aplican la vacuna, el acto de inmunización en la población genera un fenómeno que se conoce como «inmunidad de rebaño» o «inmunidad de grupo». Dicho efecto se logra a partir de un 95 % de las personas vacunadas."
+    },
+    {
+        "intent_id": "defensas_inmunologicas_contra_enfermedades_experimentos_escolares",
+        "keywords": [
+            "obstante",
+            "producir",
+            "fallo",
+            "forma",
+            "categoria"
+        ],
+        "base_response": "No obstante, a veces se producen fallos que pueden agruparse, de forma genérica, dentro de las tres siguientes categorías: inmunodeficiencia, autoinmunidad e hipersensibilidad. La inmunodeficiencia ocurre cuando uno o más de los componentes del sistema inmunitario quedan inactivos."
+    },
+    {
+        "intent_id": "defensas_inmunologicas_contra_enfermedades_consecuencias_largo_plazo",
+        "keywords": [
+            "sida",
+            "tipo",
+            "cancer",
+            "causar",
+            "inmunodeficiencia"
+        ],
+        "base_response": "El sida y algunos tipos de cáncer causan una inmunodeficiencia adquirida.​​ Las respuestas inmunes exageradas abarcan el otro extremo de la disfunción inmunitaria, particularmente las enfermedades autoinmunes. Aquí el sistema inmunitario falla en distinguir adecuadamente lo propio de lo extraño y ataca a partes del propio organismo."
+    },
+    {
+        "intent_id": "defensas_inmunologicas_contra_enfermedades_impacto_ambiental",
+        "keywords": [
+            "sistema",
+            "responder",
+            "sustancia",
+            "caracteristica",
+            "cuerpo"
+        ],
+        "base_response": "El sistema inmunitario responde a una sustancia extraña —antígeno— que parece tener las mismas características a una sustancia natural del cuerpo e involuntariamente procede a atacar tanto las sustancias del cuerpo como las extrañas. El mal funcionamiento de las células que controlan la producción de anticuerpos."
+    },
+    {
+        "intent_id": "defensas_inmunologicas_contra_enfermedades_mantenimiento_prevencion",
+        "keywords": [
+            "hipersensibilidad",
+            "inmunorrespuesta",
+            "danar",
+            "tejido",
+            "cuerpo"
+        ],
+        "base_response": "La hipersensibilidad es una inmunorrespuesta que daña los tejidos propios del cuerpo. Está dividida en cuatro clases (Tipos I-IV) basándose en los mecanismos involucrados y el tiempo de desarrollo de la reacción hipersensible. El tipo I de hipersensibilidad es una reacción inmediata o anafiláctica, relacionada con alergias."
+    },
+    {
+        "intent_id": "defensas_inmunologicas_contra_enfermedades_proyecciones_futuras",
+        "keywords": [
+            "celula",
+            "tumor",
+            "expresar",
+            "antigeno",
+            "aparecer"
+        ],
+        "base_response": "Las células transformadas de los tumores expresan antígenos que no aparecen en células normales. El sistema inmunitario considera a estos antígenos como extraños, lo que ocasiona que las células inmunitarias ataquen a las células tumorales transformadas."
+    },
+    {
+        "intent_id": "contagio_de_enfermedades_virales_definicion_anatomica",
+        "keywords": [
+            "enfermedad",
+            "manifestacion",
+            "infeccion",
+            "microorganismo",
+            "bacteria"
+        ],
+        "base_response": "Una enfermedad infecciosa es la manifestación clínica de una infección provocada por un microorganismo —como bacterias, hongos, virus, a veces protozoos, etc.— o por priones. La especialidad médica que se encarga del estudio, prevención y tratamiento de este tipo de enfermedades se denomina infectología."
+    },
+    {
+        "intent_id": "contagio_de_enfermedades_virales_dinamica_funcionamiento",
+        "keywords": [
+            "caso",
+            "agente",
+            "tamano",
+            "gusano",
+            "infeccion"
+        ],
+        "base_response": "En el caso de los agentes biológicos patógenos de tamaño macroscópico, como los gusanos, no se habla de infección, sino de infestación. Cuando la infección o la infestación es causada por protozoos, vermes o artrópodos se habla de enfermedad parasitaria porque dichos grupos han sido estudiados tradicionalmente por la parasitología."
+    },
+    {
+        "intent_id": "contagio_de_enfermedades_virales_propiedades_quimicas",
+        "keywords": [
+            "actualidad",
+            "mayoria",
+            "enfermedad",
+            "transmision",
+            "considerar"
+        ],
+        "base_response": "En la actualidad la mayoría de las enfermedades de transmisión sexual se consideran contagiosas, pero solo algunas de ellas exigen aislamiento médico. Por lo general las epidemias solo son causadas por enfermedades transmisibles, pero también se producen excepciones ocasionales, como la de la peste negra."
+    },
+    {
+        "intent_id": "contagio_de_enfermedades_virales_errores_patologias",
+        "keywords": [
+            "enfermedad",
+            "pasar",
+            "etapa",
+            "incubacion",
+            "tiempo"
+        ],
+        "base_response": "Toda enfermedad infecciosa pasa por tres etapas: Período de incubación:Tiempo comprendido entre la entrada del agente y la aparición de los primeros síntomas. Aquí el patógeno puede multiplicarse y diseminarse por las zonas de ataque."
+    },
+    {
+        "intent_id": "contagio_de_enfermedades_virales_historia_origen",
+        "keywords": [
+            "duracion",
+            "etapa",
+            "depender",
+            "enfermedad",
+            "sintoma"
+        ],
+        "base_response": "La duración de esta etapa depende de la enfermedad. Prodromo: etapa Sintomatologica inespecífica caracterizada por síntomas genérico o típicos de una infección, tales como dolor abdominal, fiebre, mialgia, cefalea, fatiga, malestar general, ETC. No todas las infecciones presentan esta etapa, usualmente presentando en infecciones típicas o casi cotidianas."
+    },
+    {
+        "intent_id": "contagio_de_enfermedades_virales_contexto_ecologico",
+        "keywords": [
+            "tiempo",
+            "entrada",
+            "agente",
+            "aparicion",
+            "sintoma"
+        ],
+        "base_response": "Tiempo comprendido entre la entrada del agente y la aparición de los primeros síntomas. Aquí el patógeno puede multiplicarse y diseminarse por las zonas de ataque. La duración de esta etapa depende de la enfermedad."
+    },
+    {
+        "intent_id": "contagio_de_enfermedades_virales_aplicaciones_practicas",
+        "keywords": [
+            "conclusion",
+            "causa",
+            "enfermedad",
+            "basar",
+            "probabilidad"
+        ],
+        "base_response": "Las conclusiones sobre la causa de la enfermedad se basan en la probabilidad de que un paciente haya estado en contacto con un agente concreto, la presencia de un microbio en una comunidad y otras consideraciones epidemiológicas. Con un esfuerzo suficiente, todos los agentes infecciosos conocidos pueden identificarse específicamente."
+    },
+    {
+        "intent_id": "contagio_de_enfermedades_virales_importancia_social",
+        "keywords": [
+            "tecnica",
+            "rayos",
+            "utilizar",
+            "obtener",
+            "imagen"
+        ],
+        "base_response": "Otras técnicas (como rayos X, TAC, PETs o RMN) se utilizan para obtener imágenes de las anomalías internas resultantes del crecimiento de un agente infeccioso. Las imágenes son útiles para detectar, por ejemplo, un absceso óseo o una encefalopatía espongiforme producida por un prion."
+    },
+    {
+        "intent_id": "contagio_de_enfermedades_virales_ventajas_desventajas",
+        "keywords": [
+            "diagnostico",
+            "sintoma",
+            "presentacion",
+            "individuo",
+            "enfermedad"
+        ],
+        "base_response": "El diagnóstico se ve favorecido por los síntomas de presentación en cualquier individuo con una enfermedad infecciosa, aunque suele necesitar técnicas diagnósticas adicionales para confirmar la sospecha. Algunos signos son específicamente característicos e indicativos de una enfermedad y se denominan signos patognomónicos; pero éstos son poco frecuentes."
+    },
+    {
+        "intent_id": "contagio_de_enfermedades_virales_riesgos_seguridad",
+        "keywords": [
+            "tamano",
+            "color",
+            "forma",
+            "figura",
+            "colonia"
+        ],
+        "base_response": "El tamaño, el color, la forma y la figura de una colonia son característicos de la especie bacteriana, su composición genética específica (su strain) y el entorno que favorece su crecimiento. A menudo se añaden otros ingredientes a la placa para facilitar la identificación."
+    },
+    {
+        "intent_id": "contagio_de_enfermedades_virales_clasificacion_taxonomica",
+        "keywords": [
+            "placa",
+            "contener",
+            "sustancia",
+            "permitir",
+            "crecimiento"
+        ],
+        "base_response": "Las placas pueden contener sustancias que permiten el crecimiento de algunas bacterias y no de otras, o que cambian de color en respuesta a determinadas bacterias y no a otras. Las placas bacteriológicas de este tipo se utilizan habitualmente en la identificación clínica de bacterias infecciosas."
+    },
+    {
+        "intent_id": "contagio_de_enfermedades_virales_calculos_formulas",
+        "keywords": [
+            "animal",
+            "tecnica",
+            "virus",
+            "soler",
+            "utilizar"
+        ],
+        "base_response": "Bacterias como Mycobacterium leprae y Treponema pallidum' pueden cultivarse en animales, aunque las técnicas serológicas y microscópicas hacen innecesario el uso de animales vivos. Los virus también suelen identificarse utilizando alternativas al crecimiento en cultivo o en animales."
+    },
+    {
+        "intent_id": "contagio_de_enfermedades_virales_mitos_errores",
+        "keywords": [
+            "microscopia",
+            "instrumento",
+            "microscopio",
+            "muestra",
+            "paciente"
+        ],
+        "base_response": "La microscopía puede realizarse con instrumentos sencillos, como el microscopio óptico compuesto, o con instrumentos tan complejos como un microscopio electrónico. Las muestras obtenidas de los pacientes pueden observarse directamente bajo el microscopio óptico, y a menudo pueden conducir rápidamente a la identificación."
+    },
+    {
+        "intent_id": "contagio_de_enfermedades_virales_relacion_simbiotica",
+        "keywords": [
+            "celula",
+            "microscopio",
+            "colorante",
+            "aumentar",
+            "contraste"
+        ],
+        "base_response": "Una célula es normalmente transparente al microscopio, y el uso de un colorante aumenta el contraste de una célula con su fondo. Teñir una célula con un colorante como Giemsa o violeta cristal permite al microscopista describir su tamaño, forma, componentes internos y externos y sus asociaciones con otras células."
+    },
+    {
+        "intent_id": "contagio_de_enfermedades_virales_transformacion_ciclos",
+        "keywords": [
+            "respuesta",
+            "bacteria",
+            "procedimiento",
+            "tincion",
+            "utilizar"
+        ],
+        "base_response": "La respuesta de las bacterias a los distintos procedimientos de tinción se utiliza también en la clasificación taxonómica de los microbios. Dos métodos, la tinción de Gram y la tinción acidorresistente, son los métodos estándar utilizados para clasificar bacterias y diagnosticar enfermedades."
+    },
+    {
+        "intent_id": "contagio_de_enfermedades_virales_experimentos_escolares",
+        "keywords": [
+            "celula",
+            "tinir",
+            "serie",
+            "colorant",
+            "atraccion"
+        ],
+        "base_response": "Casi todas las células se tiñen fácilmente con una serie de colorantes básicos debido a la atracción electrostática entre las moléculas celulares cargadas negativamente y la carga positiva del colorante. La tinción de Gram identifica los grupos bacterianos Bacillota y Actinomycetota, que contienen muchos patógenos humanos importantes."
+    },
+    {
+        "intent_id": "contagio_de_enfermedades_virales_consecuencias_largo_plazo",
+        "keywords": [
+            "prueba",
+            "basar",
+            "capacidad",
+            "anticuerpo",
+            "antigeno"
+        ],
+        "base_response": "Estas pruebas se basan en la capacidad de un anticuerpo para unirse específicamente a un antígeno. El antígeno, generalmente una proteína o un hidrato de carbono producido por un agente infeccioso, se une al anticuerpo."
+    },
+    {
+        "intent_id": "contagio_de_enfermedades_virales_impacto_ambiental",
+        "keywords": [
+            "metodo",
+            "utilizar",
+            "caso",
+            "prueba",
+            "estreptococo"
+        ],
+        "base_response": "Algunos métodos serológicos son extremadamente costosos, aunque cuando se utilizan habitualmente, como en el caso de la 'prueba de los estreptococos', pueden resultar económicos. Las técnicas serológicas complejas se han desarrollado en lo que se conoce como inmunoensayos."
+    },
+    {
+        "intent_id": "contagio_de_enfermedades_virales_mantenimiento_prevencion",
+        "keywords": [
+            "inmunoensayo",
+            "utilizar",
+            "union",
+            "base",
+            "producir"
+        ],
+        "base_response": "Los inmunoensayos pueden utilizar la unión básica anticuerpo-antígeno como base para producir una señal electromagnética o de radiación de partículas, que puede detectarse mediante algún tipo de instrumentación. La señal de las muestras desconocidas puede compararse con la de los estándares, lo que permite cuantificar el antígeno diana."
+    },
+    {
+        "intent_id": "contagio_de_enfermedades_virales_proyecciones_futuras",
+        "keywords": [
+            "ayudar",
+            "diagnostico",
+            "enfermedad",
+            "inmunoensayo",
+            "detectar"
+        ],
+        "base_response": "Para ayudar en el diagnóstico de enfermedades infecciosas, los inmunoensayos pueden detectar o medir antígenos de agentes infecciosos o proteínas generadas por un organismo infectado en respuesta a un agente extraño. Por ejemplo, el inmunoensayo A puede detectar la presencia de una proteína de superficie de una partícula de virus."
+    },
+    {
+        "intent_id": "proteccion_inmunologica_corporal_preventiva_definicion_anatomica",
+        "keywords": [
+            "proteina",
+            "conocer",
+            "region",
+            "variante",
+            "unir"
+        ],
+        "base_response": "A esta parte de la proteína se la conoce como región hipervariable. Cada una de estas variantes se puede unir a una 'diana' distinta, que es lo que se conoce como antígeno.​ Esta enorme diversidad de anticuerpos permite al sistema inmune reconocer una diversidad igualmente elevada de antígenos."
+    },
+    {
+        "intent_id": "proteccion_inmunologica_corporal_preventiva_dinamica_funcionamiento",
+        "keywords": [
+            "reconocimiento",
+            "antigeno",
+            "anticuerpo",
+            "marcar",
+            "atacar"
+        ],
+        "base_response": "El reconocimiento de un antígeno por un anticuerpo lo marca para ser atacado por otras partes del sistema inmunitario. Los anticuerpos también pueden neutralizar sus objetivos directamente, mediante, por ejemplo, la unión a una porción de un patógeno necesaria para que este provoque una infección."
+    },
+    {
+        "intent_id": "proteccion_inmunologica_corporal_preventiva_propiedades_quimicas",
+        "keywords": [
+            "posibilitar",
+            "anticuerpo",
+            "usar",
+            "parte",
+            "sistema"
+        ],
+        "base_response": "Esto posibilita que un solo anticuerpo pueda ser usado por las diferentes partes del sistema inmune. La producción de anticuerpos es la función principal del sistema inmunitario humoral.​ Los anticuerpos , que son unas proteínas que forman parte del sistema inmune , circulan por sangre."
+    },
+    {
+        "intent_id": "proteccion_inmunologica_corporal_preventiva_errores_patologias",
+        "keywords": [
+            "reconocer",
+            "sustancia",
+            "organismo",
+            "virus",
+            "bacteria"
+        ],
+        "base_response": "Cuando reconocen sustancias extrañas para el organismo, como los virus y las bacterias o sus toxinas , las neutralizan. El término gammaglobulina se debe a las propiedades electroforéticas de las inmunoglobulinas solubles en suero, si bien algunas inmunoglobulinas migran con las fracciones alfa, beta e incluso con la albúmina."
+    },
+    {
+        "intent_id": "proteccion_inmunologica_corporal_preventiva_historia_origen",
+        "keywords": [
+            "llamar",
+            "anticuerpo",
+            "unir",
+            "antigeno",
+            "acabar"
+        ],
+        "base_response": "También se les podría llamar anticuerpos libres hasta que se unen a un antígeno y acaban como parte de un complejo antígeno-anticuerpo o como anticuerpos secretados. En estas formas solubles se unen a las inmunoglobulinas moléculas adicionales."
+    },
+    {
+        "intent_id": "proteccion_inmunologica_corporal_preventiva_contexto_ecologico",
+        "keywords": [
+            "ejemplo",
+            "encontrar",
+            "glucoproteina",
+            "puente",
+            "cadena"
+        ],
+        "base_response": "En la IgM, por ejemplo, encontramos una glucoproteína unida a la Fracción constante mediante puentes disulfuro de unos 15 KD llamada cadena J. Al isotipo IgA, además, se le une la llamada 'pieza de secreción'."
+    },
+    {
+        "intent_id": "proteccion_inmunologica_corporal_preventiva_aplicaciones_practicas",
+        "keywords": [
+            "ser",
+            "describir",
+            "tipo",
+            "determinant",
+            "descubrir"
+        ],
+        "base_response": "En seres humanos se han descrito 3 tipos de determinantes alotípicos: En 1956 Grubb y Laurell descubren el sistema Gm en la clase de inmunoglobulinas IgG. Este sistema puso de manifiesto los diversos alotipos de las cadenas pesadas."
+    },
+    {
+        "intent_id": "proteccion_inmunologica_corporal_preventiva_importancia_social",
+        "keywords": [
+            "permitir",
+            "diferenciar",
+            "subclas",
+            "molecula",
+            "determinar"
+        ],
+        "base_response": "También permite diferenciar cuatro subclases en estas moléculas: IgG1, IgG2, IgG3 e IgG4 y son determinados genéticamente.​ C. Ropartz y colaboradores descubrieron en 1961 el sistema km (llamado Inv al principio), localizado en la cadena ligera Kappa."
+    },
+    {
+        "intent_id": "proteccion_inmunologica_corporal_preventiva_ventajas_desventajas",
+        "keywords": [
+            "sistema",
+            "cadena",
+            "expresion",
+            "especificidad",
+            "aumentar"
+        ],
+        "base_response": "También existe el sistema ISf, situado en la cadena pesada γ1 de la IgG1. La expresión de esta especificidad aumenta con la edad, siendo de un 25 % de los sujetos antes de los 20 años hasta un 60 % después de los 70 años en los caucasoides."
+    },
+    {
+        "intent_id": "proteccion_inmunologica_corporal_preventiva_riesgos_seguridad",
+        "keywords": [
+            "alotipo",
+            "clase",
+            "inmunoglobulina",
+            "sistema",
+            "situar"
+        ],
+        "base_response": "Este alotipo está presente en todas las clases de inmunoglobulina. Los alotipos definidos por el sistema Am se sitúan en las IgA, y más precisamente en las cadenas α2. Existen dos isotipos, α1 y α2, que caracterizan las subclases Am1 y Am2 de las IgA. (Staff, 2003)."
+    },
+    {
+        "intent_id": "proteccion_inmunologica_corporal_preventiva_clasificacion_taxonomica",
+        "keywords": [
+            "idiotipo",
+            "epitopo",
+            "molecula",
+            "clon",
+            "particular"
+        ],
+        "base_response": "El idiotipo es el epítopo propio de una molécula perteneciente a un clon en particular. Este elemento forma parte o está muy próximo al lugar de reconocimiento del antígeno, y está situado en la porción variable Fab."
+    },
+    {
+        "intent_id": "proteccion_inmunologica_corporal_preventiva_calculos_formulas",
+        "keywords": [
+            "isotipo",
+            "caracterizar",
+            "subclas",
+            "paratopo",
+            "region"
+        ],
+        "base_response": "Existen dos isotipos, α1 y α2, que caracterizan las subclases Am1 y Am2 de las IgA. (Staff, 2003). En otras palabras, es el paratopo, o la región cercana de una inmunoglobulina puede ser reconocido como un epitopo por ciertos linfocitos (Staff, 2003)."
+    },
+    {
+        "intent_id": "proteccion_inmunologica_corporal_preventiva_mitos_errores",
+        "keywords": [
+            "isotipo",
+            "caracterizar",
+            "subclas",
+            "formacion",
+            "anticuerpo"
+        ],
+        "base_response": "Existen dos isotipos, α1 y α2, que caracterizan las subclases Am1 y Am2 de las IgA. (Staff, 2003). Según la Teoría de Jerne, La formación de anticuerpos antiidiotipo formaría una red (red de Jerne) cuya función sería la regulación de la síntesis de nuevas inmunoglobulinas. (Peña, 1998)."
+    },
+    {
+        "intent_id": "proteccion_inmunologica_corporal_preventiva_relacion_simbiotica",
+        "keywords": [
+            "formacion",
+            "anticuerpo",
+            "antiidiotipo",
+            "formar",
+            "funcion"
+        ],
+        "base_response": "Según la Teoría de Jerne, La formación de anticuerpos antiidiotipo formaría una red (red de Jerne) cuya función sería la regulación de la síntesis de nuevas inmunoglobulinas. (Peña, 1998). Los anticuerpos son proteínas plasmáticas globulares pesadas (~150 kDa), también conocidas como inmunoglobulinas."
+    },
+    {
+        "intent_id": "proteccion_inmunologica_corporal_preventiva_experimentos_escolares",
+        "keywords": [
+            "cadena",
+            "anticuerpo",
+            "unidad",
+            "monomero",
+            "inmunoglobulina"
+        ],
+        "base_response": "Tienen cadenas de azúcares unidas a alguno de sus residuos aminoácido.​ En otras palabras, los anticuerpos son glucoproteínas. La unidad básica funcional de cada anticuerpo es el monómero de inmunoglobulina, que contiene una sola unidad de Ig."
+    },
+    {
+        "intent_id": "proteccion_inmunologica_corporal_preventiva_consecuencias_largo_plazo",
+        "keywords": [
+            "tipo",
+            "mamifero",
+            "nombrar",
+            "letra",
+            "cadena"
+        ],
+        "base_response": "Hay cinco tipos de Ig en mamíferos que se nombran por letras griegas: α, δ, ε, γ y μ.​ El tipo de cadena pesada presente define la clase (isotipo) del anticuerpo. Estas cadenas se encuentran en los anticuerpos IgA, IgD, IgE, IgG, e IgM respectivamente."
+    },
+    {
+        "intent_id": "proteccion_inmunologica_corporal_preventiva_impacto_ambiental",
+        "keywords": [
+            "region",
+            "cadena",
+            "aminoacido",
+            "dominio",
+            "determinar"
+        ],
+        "base_response": "La región variable de cada cadena pesada es de aproximadamente 110 aminoácidos y está compuesto por un único dominio Ig. Recientemente se ha podido determinar la topología in vivo del gen de la cadena pesada, Igh, siendo este uno de los primeros estudios en este campo."
+    },
+    {
+        "intent_id": "proteccion_inmunologica_corporal_preventiva_mantenimiento_prevencion",
+        "keywords": [
+            "longitud",
+            "cadena",
+            "anticuerpo",
+            "contener",
+            "tipo"
+        ],
+        "base_response": "La longitud aproximada de la cadena ligera es de 211 a 217 aminoácidos.​ Cada anticuerpo contiene dos cadenas ligeras que son siempre idénticas. Solo un tipo de cadena ligera, κ o λ, está presente dentro del mismo anticuerpo en mamíferos."
+    },
+    {
+        "intent_id": "proteccion_inmunologica_corporal_preventiva_proyecciones_futuras",
+        "keywords": [
+            "tipo",
+            "cadena",
+            "encontrar",
+            "condrictio",
+            "teleosteo"
+        ],
+        "base_response": "Otros tipos de cadenas ligeras como la cadena iota (ι), se encuentran en los vertebrados inferiores como los condrictios y teleósteos. Los 'extremos de la Y', por ejemplo, contienen el lugar que se une al antígeno y por tanto, reconoce elementos extraños específicos."
+    },
+    {
+        "intent_id": "salud_publica_preventiva_poblacional_definicion_anatomica",
+        "keywords": [
+            "inclusion",
+            "restauracion",
+            "salud",
+            "adquisicion",
+            "egipcio"
+        ],
+        "base_response": "Sin embargo la inclusión de la restauración de la salud es una adquisición relativamente reciente. Los egipcios, según Heródoto, eran unos de los más grandes sabios de la historia en la vida de la salud."
+    },
+    {
+        "intent_id": "salud_publica_preventiva_poblacional_dinamica_funcionamiento",
+        "keywords": [
+            "lepra",
+            "conseguir",
+            "erradicar",
+            "marginacion",
+            "exterminio"
+        ],
+        "base_response": "La lepra se consiguió erradicar de Europa con la marginación y el exterminio de los leprosos. Con respecto a la peste bubónica se establecieron medidas de cuarentena en los puertos marítimos y cordones sanitarios en tierra."
+    },
+    {
+        "intent_id": "salud_publica_preventiva_poblacional_propiedades_quimicas",
+        "keywords": [
+            "siglo",
+            "desarrollo",
+            "impulsar",
+            "contemplar",
+            "conjunto"
+        ],
+        "base_response": "En el siglo XIX hubo un desarrollo considerable de la Salud Pública en Europa y en los Estados Unidos. En Inglaterra Edwin Chadwick impulsó las Leyes de Salud Pública que contemplaban un conjunto de medidas para la sanidad, sobre todo en las ciudades industriales."
+    },
+    {
+        "intent_id": "salud_publica_preventiva_poblacional_errores_patologias",
+        "keywords": [
+            "grupo",
+            "medico",
+            "contagiacionista",
+            "sostener",
+            "enfermedad"
+        ],
+        "base_response": "Otro grupo de médicos, los contagiacionistas sostenían que la enfermedad pasaba de unas personas enfermas a otras sanas por contagio de posibles microorganismos. Los trabajos de Koch terminaron dando la razón a los segundos y se abrió una época de 'cazadores de microbios'."
+    },
+    {
+        "intent_id": "salud_publica_preventiva_poblacional_historia_origen",
+        "keywords": [
+            "salud",
+            "investigacion",
+            "control",
+            "riesgo",
+            "dano"
+        ],
+        "base_response": "Vigilancia de la salud pública, investigación,control de riesgos y daños en salud pública. Desarrollo de políticas y capacidad institucional de planificación, y gestión en materia de salud pública. Fortalecimiento de la capacidad institucional de regulación, y fiscalización en materia de salud pública."
+    },
+    {
+        "intent_id": "salud_publica_preventiva_poblacional_contexto_ecologico",
+        "keywords": [
+            "promocion",
+            "acceso",
+            "servicio",
+            "salud",
+            "desarrollo"
+        ],
+        "base_response": "Evaluación y promoción del acceso equitativo a los servicios de salud necesarios. Desarrollo de recursos humanos y capacitación en salud pública. Garantía y mejoramiento de la calidad de los servicios de salud individuales y colectivos."
+    },
+    {
+        "intent_id": "salud_publica_preventiva_poblacional_aplicaciones_practicas",
+        "keywords": [
+            "actividad",
+            "comunidad",
+            "influir",
+            "salud",
+            "educacion"
+        ],
+        "base_response": "Existen actividades organizadas por la comunidad que influyen sobre la salud como son: La educación sanitaria: La enseñanza general básica debe ser gratuita a toda la población.(defensa de la educación pública). Política microeconómica y macroeconómica: Producción agrícola y ganadera (de alimentos), de bienes y servicios, de empleo y de salarios."
+    },
+    {
+        "intent_id": "salud_publica_preventiva_poblacional_importancia_social",
+        "keywords": [
+            "impuesto",
+            "servicio",
+            "bienestar",
+            "ocio",
+            "antecedente"
+        ],
+        "base_response": "Justicia social: De impuestos, de Seguridad Social y de servicios de bienestar y recreativos o de ocio. Los antecedentes más cercanos, en relación con la renovación de principios y la construcción teórico-práctica de la actual Promoción de la Salud, se inicia con Henry E."
+    },
+    {
+        "intent_id": "salud_publica_preventiva_poblacional_ventajas_desventajas",
+        "keywords": [
+            "organismo",
+            "conducir",
+            "actividad",
+            "erradicar",
+            "hambre"
+        ],
+        "base_response": "La FAO, organismo internacional que conduce las actividades internacionales encaminadas a erradicar el hambre. Brinda sus servicios a países desarrollados, como a países en transición a modernizar y mejorar sus actividades agrícolas, forestales y pesqueras, con el fin de asegurar una buena nutrición para todos."
+    },
+    {
+        "intent_id": "salud_publica_preventiva_poblacional_riesgos_seguridad",
+        "keywords": [
+            "centrar",
+            "atender",
+            "problema",
+            "salud",
+            "zona"
+        ],
+        "base_response": "Se centra en atender problemas de salud pública principalmente en zonas de extrema pobreza, en África y otras latitudes del mundo. Está enfocada principalmente en 5 prioridades: Supervivencia y desarrollo de la infancia. Educación básica e igualdad de género (incluyendo la educación a las niñas)."
+    },
+    {
+        "intent_id": "salud_publica_preventiva_poblacional_clasificacion_taxonomica",
+        "keywords": [
+            "area",
+            "accion",
+            "incluir",
+            "desarrollo",
+            "adolescencia"
+        ],
+        "base_response": "La UNICEF, o Fondo de Naciones Unidas para la Infancia, las áreas de acción de UNICEF incluyen el desarrollo de la niñez, de la adolescencia, y la participación en los patrones de vida basándose en la educación. Protección a niños contra la violencia, explotación y abuso."
+    },
+    {
+        "intent_id": "salud_publica_preventiva_poblacional_calculos_formulas",
+        "keywords": [
+            "vigilancia",
+            "derecho",
+            "nino",
+            "asociacion",
+            "gobierno"
+        ],
+        "base_response": "Políticas de vigilancia de los derechos de los niños. La ONU, asociación de gobiernos global que facilita la cooperación en asuntos como el Derecho internacional, la paz y seguridad internacional, el desarrollo económico y social, los asuntos humanitarios y los derechos humanos."
+    },
+    {
+        "intent_id": "control_epidemiologico_de_afecciones_definicion_anatomica",
+        "keywords": [
+            "causar",
+            "enfermedad",
+            "patogeno",
+            "crecer",
+            "hospedador"
+        ],
+        "base_response": "Para causar una enfermedad, un patógeno debe crecer y reproducirse en el hospedador. Los epidemiólogos siguen por esta razón, la historia natural de los patógenos. En muchos casos, un patógeno individual no puede crecer fuera del hospedador; si el hospedador muere, el patógeno también muere."
+    },
+    {
+        "intent_id": "control_epidemiologico_de_afecciones_dinamica_funcionamiento",
+        "keywords": [
+            "mayoria",
+            "hospedador",
+            "coexistir",
+            "patogeno",
+            "vivir"
+        ],
+        "base_response": "Por tanto, la mayoría de los patógenos dependientes del hospedador deben adaptarse a coexistir con el hospedador. Un patógeno bien adaptado vive en equilibrio con el hospedador, tomando lo que necesita para su existencia, y causando solo un mínimo de daño."
+    },
+    {
+        "intent_id": "control_epidemiologico_de_afecciones_propiedades_quimicas",
+        "keywords": [
+            "patogeno",
+            "matar",
+            "hospedador",
+            "trasmitirlo",
+            "terminar"
+        ],
+        "base_response": "Asimismo, los patógenos que matan al hospedador antes de trasmitirlos a otro hospedador, terminarán por extinguirse. Estos patógenos a veces pueden causar infecciones crónicas (infecciones de larga duración) en el hospedador. Cuando existe equilibrio entre el hospedador y el patógeno, ambos sobreviven."
+    },
+    {
+        "intent_id": "control_epidemiologico_de_afecciones_errores_patologias",
+        "keywords": [
+            "hospedador",
+            "resultar",
+            "resistencia",
+            "factor",
+            "dieta"
+        ],
+        "base_response": "Por otra parte, el hospedador puede resultar dañado cuando su resistencia es baja, por factores como una dieta insuficiente, edad avanzada y otros agentes estresantes. Además, algunas veces emergen nuevos patógenos naturales para los cuales el hospedador individual, y algunas veces la especie entera, no ha desarrollado resistencia."
+    },
+    {
+        "intent_id": "control_epidemiologico_de_afecciones_historia_origen",
+        "keywords": [
+            "patogeno",
+            "causar",
+            "infeccion",
+            "comienzo",
+            "caso"
+        ],
+        "base_response": "Estos patógenos emergentes a menudo causan infecciones agudas, caracterizadas por un comienzo rápido y llamativo. En estos casos, los patógenos pueden actuar como fuerzas selectivas en la evolución del hospedador, igual que el hospedador, al desarrollar resistencia, puede ser una fuerza selectiva en la evolución de los patógenos."
+    },
+    {
+        "intent_id": "control_epidemiologico_de_afecciones_contexto_ecologico",
+        "keywords": [
+            "enfermedad",
+            "epidemia",
+            "ocurrir",
+            "numero",
+            "individuo"
+        ],
+        "base_response": "Una enfermedad es una epidemia cuando ocurre en un número inusualmente alto de individuos de una población simultáneamente; una pandemia es una epidemia que se disemina ampliamente, usualmente por todo el mundo. Una enfermedad endémica es la que está constantemente presente en una población, aunque su incidencia suele ser baja."
+    },
+    {
+        "intent_id": "control_epidemiologico_de_afecciones_aplicaciones_practicas",
+        "keywords": [
+            "situacion",
+            "cambiar",
+            "llegar",
+            "afectar",
+            "forma"
+        ],
+        "base_response": "Sin embargo, la situación actual podría cambiar rápidamente, si se llegaran a afectar en forma importante las infraestructuras y los servicios de salud públicas. En países en desarrollo, las enfermedades infecciosas son todavía la principal causa de mortalidad."
+    }
+]
