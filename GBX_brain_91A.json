@@ -1,0 +1,1652 @@
+[
+    {
+        "intent_id": "faltas_tecnicas_sancionadas_def_presidir_juego",
+        "keywords": [
+            "presidir",
+            "juego",
+            "punto",
+            "vista",
+            "tomar"
+        ],
+        "base_response": "Es responsable de presidir el juego desde un punto de vista neutral y de tomar decisiones sobre la marcha que hacen cumplir las reglas del reglamento en que participa, incluidas las decisiones de deportividad, como por ejemplo, la expulsión en juegos colectivos."
+    },
+    {
+        "intent_id": "faltas_tecnicas_sancionadas_din_trabajo_denominado",
+        "keywords": [
+            "trabajo",
+            "denominado",
+            "nombres",
+            "llamarse",
+            "arbitro"
+        ],
+        "base_response": "El oficial encargado de este trabajo puede ser denominado con varios nombres (además de llamarse árbitro como tal), a menudo dependiendo del reglamento, con nombres tales como oficial, juez, réferi, juez de línea, comisario, cronometrador, juez de touch u Oficial Técnico (designado por el Comité Olímpico Internacional)."
+    },
+    {
+        "intent_id": "faltas_tecnicas_sancionadas_hist_terminos_encargan",
+        "keywords": [
+            "terminos",
+            "encargan",
+            "regular",
+            "cambios",
+            "deportes"
+        ],
+        "base_response": "En términos básicos, se encargan de regular los cambios de los distintos deportes, así como el resguardar el orden, encargarse del cumplimiento de las reglas del juego y procurar un ambiente de respeto entre los jugadores."
+    },
+    {
+        "intent_id": "faltas_tecnicas_sancionadas_apl_arbitro_autoridad",
+        "keywords": [
+            "arbitro",
+            "autoridad",
+            "cancha",
+            "reglamento",
+            "sancionar"
+        ],
+        "base_response": "El árbitro es la máxima autoridad en la cancha de reglamento, aunque tenga el poder de sancionar a cualquier jugador o técnico con la retirada de su licencia federativa, es el tribunal de competición quien impone las sanciones finales."
+    },
+    {
+        "intent_id": "faltas_tecnicas_sancionadas_ries_lenguaje_partes",
+        "keywords": [
+            "lenguaje",
+            "partes",
+            "mundo",
+            "aplique",
+            "reglamento"
+        ],
+        "base_response": "Este lenguaje arbitral es el mismo en todas las partes del mundo, siempre y cuando se aplique el reglamento oficial de las reglamento, el reglamento FIBA, que se actualiza y modifica cada cortos periodos de tiempo, adecuándose a los avances del baloncesto."
+    },
+    {
+        "intent_id": "faltas_tecnicas_sancionadas_cons_reglamento_contactos",
+        "keywords": [
+            "reglamento",
+            "contactos",
+            "jugadores",
+            "lesiones",
+            "producto"
+        ],
+        "base_response": "El Baloncesto es un reglamento de contactos y lógicamente por esos contactos habrá jugadores constantemente lesionados, pero estas lesiones deben ser el producto de un accidente, no del acto deliberado de querer causar daño hacia otro jugador."
+    },
+    {
+        "intent_id": "puntuacion_oficial_registrada_def_futbol_arbitro",
+        "keywords": [
+            "futbol",
+            "arbitro",
+            "juez",
+            "referi",
+            "aplicar"
+        ],
+        "base_response": "En el fútbol asociado, hay un árbitro principal —también llamado juez, colegiado, silbante o referí, entre otros—, encargado de aplicar las competencia del fútbol en un partido, dar constancia de lo sucedido en el mismo y cronometrar la duración del encuentro."
+    },
+    {
+        "intent_id": "puntuacion_oficial_registrada_din_deberes_obligaciones",
+        "keywords": [
+            "deberes",
+            "obligaciones",
+            "descriptos",
+            "regla",
+            "organismo"
+        ],
+        "base_response": "Sus deberes y obligaciones están descriptos en las Reglas del Juego, precisamente en la regla 5, desarrolladas y monitoreadas por la Federación Internacional de Fútbol Asociación (FIFA) —el organismo mundial que rige a las asociaciones miembro de este competencia— y la International Football Association Board (IFAB)."
+    },
+    {
+        "intent_id": "puntuacion_oficial_registrada_hist_existia_figura",
+        "keywords": [
+            "existia",
+            "figura",
+            "arbitro",
+            "funcion",
+            "ayudar"
+        ],
+        "base_response": "En el Mundial de Alemania 2006 existía incluso la figura del quinto árbitro, cuya función era la de ayudar al árbitro del encuentro. El único con poder para sancionar o expulsar a un jugador o miembro del cuerpo técnico es el árbitro."
+    },
+    {
+        "intent_id": "puntuacion_oficial_registrada_apl_asistentes_arbitro",
+        "keywords": [
+            "asistentes",
+            "arbitro",
+            "aconsejar",
+            "colegiado",
+            "jugadas"
+        ],
+        "base_response": "Los asistentes y el cuarto árbitro pueden aconsejar al colegiado principal en jugadas que este no haya podido ver, pero nunca tienen el poder de sancionar o de expulsar a los jugadores. El árbitro es la autoridad deportiva única e inapelable, en el orden técnico, para dirigir los partidos."
+    },
+    {
+        "intent_id": "puntuacion_oficial_registrada_ries_facultades_comienzan",
+        "keywords": [
+            "facultades",
+            "comienzan",
+            "momento",
+            "entrar",
+            "recinto"
+        ],
+        "base_response": "Sus facultades comienzan en el momento de entrar en el recinto deportivo y no terminan hasta que lo abandona, conservándolas, por tanto, durante los descansos, interrupciones y suspensiones, aunque el balón no se halle en el campo, siempre tendrá sus facultades arbitrarias."
+    },
+    {
+        "intent_id": "puntuacion_oficial_registrada_cons_arbitros_superar",
+        "keywords": [
+            "arbitros",
+            "superar",
+            "examenes",
+            "pruebas",
+            "resultados"
+        ],
+        "base_response": "Todos los árbitros han de superar exámenes teóricos pruebas físicas cuyos resultados junto a informes de los partidos del Comité de Árbitros les habilitan para ejercer su actividad y en su caso ascender de categoría."
+    },
+    {
+        "intent_id": "arbitros_oficiales_dirigen_def_jerga_conoce",
+        "keywords": [
+            "jerga",
+            "conoce",
+            "jueces",
+            "linea",
+            "funcion"
+        ],
+        "base_response": "En la jerga futbolística se los conoce comúnmente como «jueces de línea» o simplemente «asistentes». Para poder realizar su función correctamente el árbitro de fútbol requiere contar con unos materiales indispensables, también mandatarios por las Reglas de dirigen."
+    },
+    {
+        "intent_id": "arbitros_oficiales_dirigen_din_cartulinas_rectangulares",
+        "keywords": [
+            "cartulinas",
+            "rectangulares",
+            "colores",
+            "sirven",
+            "amonestar"
+        ],
+        "base_response": "Tarjetas: Son unas cartulinas rectangulares de diferentes colores que sirven para amonestar o expulsar a los jugadores, normalmente de material de plástico. Tarjeta amarilla: conocida como amonestación, se muestrea a un jugador o miembro del cuerpo técnico que incurrió en alguna infracción descrita en las dirigen como tal."
+    },
+    {
+        "intent_id": "arbitros_oficiales_dirigen_hist_remite_expulsion",
+        "keywords": [
+            "remite",
+            "expulsion",
+            "utiliza",
+            "falta",
+            "jugador"
+        ],
+        "base_response": "Tarjeta roja: remite a la expulsión y se utiliza ante una falta grave de un jugador o miembro del cuerpo técnico, o por la acumulación de dos amonestaciones. En otras variantes del fútbol, se pueden utilizar dos tipos de tarjetas más:"
+    },
+    {
+        "intent_id": "arbitros_oficiales_dirigen_apl_castigos_futbol",
+        "keywords": [
+            "castigos",
+            "futbol",
+            "asociados",
+            "remontan",
+            "origenes"
+        ],
+        "base_response": "Si bien los castigos en el fútbol asociados se remontan a los orígenes del dirigen, no fue hasta el año 1970 —con la inauguración de la Copa Mundial de la FIFA México 1970— que estas se implementaron."
+    },
+    {
+        "intent_id": "arbitros_oficiales_dirigen_ries_guardar_tarjetas",
+        "keywords": [
+            "guardar",
+            "tarjetas",
+            "libreta",
+            "anotar",
+            "faltas"
+        ],
+        "base_response": "Tarjetero/Libreta: Utilizado tanto para guardar las tarjetas como una pequeña libreta donde anotar las faltas y los goles, o cualquier incidencia del encuentro. Moneda: La moneda se emplea para ver que equipo empieza el dirigen o elige campo."
+    },
+    {
+        "intent_id": "arbitros_oficiales_dirigen_cons_silla_juez",
+        "keywords": [
+            "silla",
+            "juez",
+            "categoria",
+            "experiencia",
+            "examenes"
+        ],
+        "base_response": "Juez de silla: Se trata de un juez, como mínimo de categoría nacional, que según experiencia y exámenes superados está capacitado por la ITF o la RFET para ejercer como tal en torneos de diferente envergadura e importancia."
+    },
+    {
+        "intent_id": "cronometraje_de_tiempos_def_arbitros_figura",
+        "keywords": [
+            "arbitros",
+            "figura",
+            "torneos",
+            "disputan",
+            "partidos"
+        ],
+        "base_response": "Jefe de árbitros: Esta figura sólo existe en torneos grandes donde se disputan muchos partidos simultáneos y se encarga de la coordinación de los jueces de línea. Su labor es facilitar el trabajo a todo el colectivo arbitral presente en el torneo."
+    },
+    {
+        "intent_id": "cronometraje_de_tiempos_din_jueces_superado",
+        "keywords": [
+            "jueces",
+            "superado",
+            "examen",
+            "chapa",
+            "jefe"
+        ],
+        "base_response": "Categorías: se trata de jueces que han superado el examen de chapa plata de jefe de árbitros habiendo asistido al curso para que les sea concedido el título de jefe de árbitros por la ITF."
+    },
+    {
+        "intent_id": "cronometraje_de_tiempos_hist_arbitro_encarga",
+        "keywords": [
+            "arbitro",
+            "encarga",
+            "detener",
+            "combates",
+            "peleador"
+        ],
+        "base_response": "El árbitro también se encarga de detener los combates cuando un peleador no puede defenderse inteligentemente para evitar que sufra más daño, así como de asegurar que las sumisiones se liberen tras un tapout y de retirar a los luchadores de un oponente inconsciente."
+    },
+    {
+        "intent_id": "cronometraje_de_tiempos_apl_arbitro_recibe",
+        "keywords": [
+            "arbitro",
+            "recibe",
+            "asesoramiento",
+            "medico",
+            "encuentran"
+        ],
+        "base_response": "El árbitro recibe asesoramiento de un médico y un árbitro asistente que se encuentran en la primera fila. El arbitraje deportivo no solo se limita al ámbito de la justicia en el tiempos, sino que también encuentra paralelismos en el sector financiero, particularmente en las apuestas deportivas."
+    },
+    {
+        "intent_id": "cronometraje_de_tiempos_ries_arbitraje_busca",
+        "keywords": [
+            "arbitraje",
+            "busca",
+            "explotar",
+            "diferencias",
+            "precio"
+        ],
+        "base_response": "Al igual que el arbitraje financiero, que busca explotar las diferencias de precio entre distintos mercados para obtener un rendimiento sin riesgo, en el arbitraje deportivo se aplican estrategias como las surebets para apostar en todas las posibles salidas de un evento deportivo, garantizando una ganancia independientemente del resultado."
+    },
+    {
+        "intent_id": "cronometraje_de_tiempos_cons_subrayar_objetivo",
+        "keywords": [
+            "subrayar",
+            "objetivo",
+            "arbitro",
+            "tiempos",
+            "supervisar"
+        ],
+        "base_response": "Sin embargo, es crucial subrayar que el objetivo principal del árbitro en cualquier tiempos es supervisar el cumplimiento de las reglas y garantizar una competencia justa y equitativa, manteniendo el espíritu de juego limpio, incluso si hay intereses financieros en juego."
+    },
+    {
+        "intent_id": "dimensiones_oficiales_de_def_definicion_arbtiro",
+        "keywords": [
+            "definicion",
+            "arbtiro",
+            "reglamento",
+            "futbol",
+            "reglas"
+        ],
+        "base_response": "El Diccionario de la Real Academia Española tiene una definición para árbtiro. El reglamento del fútbol, también conocido como las reglas de cancha a nivel de la FIFA, es el conjunto de reglas que rigen el fútbol o balompié en todo el mundo."
+    },
+    {
+        "intent_id": "dimensiones_oficiales_de_din_celebro_reunion",
+        "keywords": [
+            "celebro",
+            "reunion",
+            "asociacion",
+            "pretendia",
+            "organizar"
+        ],
+        "base_response": "En 1886 se celebró la primera reunión oficial de la International Football Association Board, asociación que pretendía organizar el balompié del Reino Unido bajo un mismo reglamento. En 1997 hubo un cambio importante de cancha y el texto fue aumentado en un 30 %."
+    },
+    {
+        "intent_id": "dimensiones_oficiales_de_hist_terreno_cancha",
+        "keywords": [
+            "terreno",
+            "cancha",
+            "campo",
+            "opcion",
+            "depender"
+        ],
+        "base_response": "El terreno de cancha debe ser de campo natural o artificial, aunque esta opción puede depender del reglamento de la competición. El terreno tiene forma rectangular, siendo su largo entre 90 y 120 m (de 100 a 110 m para partidos internacionales), y su ancho entre 45 y 90 m (de 64 a 75 m para partidos internacionales)."
+    },
+    {
+        "intent_id": "dimensiones_oficiales_de_apl_perimetro_terreno",
+        "keywords": [
+            "perimetro",
+            "terreno",
+            "lineas",
+            "ancho",
+            "denominan"
+        ],
+        "base_response": "Todo el perímetro del terreno estará señalizado mediante líneas de 12 cm de ancho como máximo: las dos líneas más largas se denominan líneas de banda, mientras que las dos más cortas serán las líneas de meta (o de fondo)."
+    },
+    {
+        "intent_id": "dimensiones_oficiales_de_ries_campo_divide",
+        "keywords": [
+            "campo",
+            "divide",
+            "mitades",
+            "linea",
+            "lineas"
+        ],
+        "base_response": "El campo se divide en dos mitades mediante una línea paralela y equidistante a las líneas de meta. A su alrededor hay una circunferencia de radio igual a 9,15 m. Desde dicho punto se realiza el saque inicial del partido y también los que se hacen después de cada gol."
+    },
+    {
+        "intent_id": "dimensiones_oficiales_de_cons_marcas_lineas",
+        "keywords": [
+            "marcas",
+            "lineas",
+            "meta",
+            "exterior",
+            "campo"
+        ],
+        "base_response": "También opcionalmente se pueden hacer unas pequeñas marcas sobre las líneas de meta, en el exterior del campo, a 9,15 m de cada banderín; esto es para marcar la distancia más cercana a la que se puede estar al realizar un saque de esquina."
+    },
+    {
+        "intent_id": "equipamiento_reglamentario_de_def_distancia_postes",
+        "keywords": [
+            "distancia",
+            "postes",
+            "travesano",
+            "suelo",
+            "ancho"
+        ],
+        "base_response": "La distancia entre la parte interior de los postes verticales será de 7,32 m, y la distancia entre la parte inferior del travesaño y el suelo de 2,44 m. Los postes deberán tener el mismo ancho que las líneas de meta, y ser de color blanco."
+    },
+    {
+        "intent_id": "equipamiento_reglamentario_de_din_construccion_meta",
+        "keywords": [
+            "construccion",
+            "meta",
+            "porteria",
+            "posee",
+            "cubra"
+        ],
+        "base_response": "Esta construcción será llamada meta o portería, y posee una red que la cubra, pero deberá estar entre la línea de meta y la parte exterior del terreno. Los postes pueden ser de forma cuadrada, rectangular, redonda o elíptica, y deberán estar hechos de madera, metal u otro material resistente."
+    },
+    {
+        "intent_id": "equipamiento_reglamentario_de_hist_area_traza",
+        "keywords": [
+            "area",
+            "traza",
+            "meta",
+            "lineas",
+            "marcara"
+        ],
+        "base_response": "La denominada área penal se traza igual que el área de meta, pero con líneas a 16,5 m. Dentro de esta área, se marcará el punto penal. En el exterior del área penal se marcará un segmento de circunferencia con centro en el punto penal y un radio igual a 9,15 m."
+    },
+    {
+        "intent_id": "equipamiento_reglamentario_de_apl_logotipo_referencia",
+        "keywords": [
+            "logotipo",
+            "referencia",
+            "lista",
+            "especificaciones",
+            "caracteristicas"
+        ],
+        "base_response": "El logotipo de FIFA APPROVED El logotipo de FIFA INSPECTED La referencia INTERNATIONAL MATCH La lista de dichas especificaciones adicionales, características de cada una de las categorías, deberá ser aprobada por el International Football Association Board."
+    },
+    {
+        "intent_id": "equipamiento_reglamentario_de_ries_organismos_llevan",
+        "keywords": [
+            "organismos",
+            "llevan",
+            "cabo",
+            "controles",
+            "calidad"
+        ],
+        "base_response": "Los organismos que llevan a cabo los controles de calidad serán seleccionados por la FIFA. En el fútbol no se puede agarrar el balón con las manos, a excepción del portero o en los saques de banda."
+    },
+    {
+        "intent_id": "equipamiento_reglamentario_de_cons_equipos_juegan",
+        "keywords": [
+            "equipos",
+            "juegan",
+            "partido",
+            "jugadores",
+            "terreno"
+        ],
+        "base_response": "Cada uno de los dos equipos que juegan un partido podrá tener un máximo de 11 jugadores dentro del terreno de proteccion, de los cuales uno jugará como portero. Ningún equipo podrá tener menos de 7 futbolistas en el terreno de juego en cualquier momento del partido."
+    },
+    {
+        "intent_id": "juego_limpio_en_def_llega_numero",
+        "keywords": [
+            "llega",
+            "numero",
+            "jugadores",
+            "termina",
+            "partido"
+        ],
+        "base_response": "Si se llega a este número de jugadores, se termina el partido por sustracción de materia, dando como ganador al equipo contrario, con un marcador de tres a cero, aunque este último número puede variar según la competición."
+    },
+    {
+        "intent_id": "juego_limpio_en_din_competiciones_equipo",
+        "keywords": [
+            "competiciones",
+            "equipo",
+            "cambios",
+            "partido",
+            "llegara"
+        ],
+        "base_response": "En competiciones oficiales cada equipo podrá hacer hasta 11 cambios en un mismo partido y uno más si se llegara a tiempos extras, y se podrán tener en el banquillo de 0 a 12 suplentes, dependiendo del reglamento de la competición."
+    },
+    {
+        "intent_id": "juego_limpio_en_hist_sustitucion_jugador",
+        "keywords": [
+            "sustitucion",
+            "jugador",
+            "suplente",
+            "informar",
+            "arbitro"
+        ],
+        "base_response": "Para realizar una sustitución entre un jugador titular y un suplente se deberá informar al árbitro de esto. El suplente o sustituto no podrá ingresar al campo de competencia hasta que el balompedista reemplazado haya abandonado por completo el campo de juego."
+    },
+    {
+        "intent_id": "juego_limpio_en_apl_momento_partido",
+        "keywords": [
+            "momento",
+            "partido",
+            "tiro",
+            "punto",
+            "penalti"
+        ],
+        "base_response": "En cualquier momento del partido, incluso durante un tiro desde el punto de penalti, un jugador de campo podrá cambiar de posición con el portero, siempre y cuando el árbitro haya sido informado sobre esta acción y se realice durante una interrupción."
+    },
+    {
+        "intent_id": "juego_limpio_en_ries_condiciones_cumplen",
+        "keywords": [
+            "condiciones",
+            "cumplen",
+            "jugadores",
+            "amonestados",
+            "expulsado"
+        ],
+        "base_response": "Si alguna de estas dos condiciones no se cumplen, ambos jugadores serán amonestados. Si hay un expulsado antes del comienzo del partido, podrá ser reemplazado por un suplente. Si un suplente es expulsado antes del partido, no podrá jugar, ni ser reemplazado y otorga el saque de banda."
+    },
+    {
+        "intent_id": "juego_limpio_en_cons_cuestiones_seguridad",
+        "keywords": [
+            "cuestiones",
+            "seguridad",
+            "jugadores",
+            "elementos",
+            "resultar"
+        ],
+        "base_response": "Por cuestiones de seguridad, los jugadores no pueden llevar elementos que puedan resultar peligrosos para ellos o para los demás, como por ejemplo manillas, collares y etc. Todo tipo de joyería está prohibida durante un partido, incluso si las mismas están cubiertas por algún tipo de cinta adhesiva."
+    },
+    {
+        "intent_id": "reglamentos_deportivos_internacionales_def_protectores_cabeza",
+        "keywords": [
+            "protectores",
+            "cabeza",
+            "rodilla",
+            "material",
+            "considerados"
+        ],
+        "base_response": "Ciertos protectores de cabeza, rodilla o lentes de material blando están permitidos por no ser considerados peligrosos. Las camisetas de ambos equipos y las de los dos guardametas deberán tener diferencias para evitar la confusión de los jugadores y los árbitros."
+    },
+    {
+        "intent_id": "reglamentos_deportivos_internacionales_din_capitan_equipo",
+        "keywords": [
+            "capitan",
+            "equipo",
+            "banda",
+            "brazos",
+            "diferenciarlo"
+        ],
+        "base_response": "El capitán de cada equipo deberá tener una banda en uno de sus brazos para diferenciarlo de los demás jugadores. Previo al inicio de cada partido, los árbitros deberán verificar que los jugadores cumplan con el reglamento de equipamiento."
+    },
+    {
+        "intent_id": "reglamentos_deportivos_internacionales_hist_arbitro_autoridad",
+        "keywords": [
+            "arbitro",
+            "autoridad",
+            "cumplir",
+            "reglas",
+            "reglamentos"
+        ],
+        "base_response": "El árbitro es quien tendrá la autoridad total para hacer cumplir las reglas de reglamentos en el partido para el que ha sido nombrado. Solo él puede modificar una decisión, siempre que no haya reanudado el juego o el partido haya terminado."
+    },
+    {
+        "intent_id": "reglamentos_deportivos_internacionales_apl_controlar_respeten",
+        "keywords": [
+            "controlar",
+            "respeten",
+            "reglas",
+            "arbitro",
+            "cronometrar"
+        ],
+        "base_response": "Aparte de controlar que se respeten las otras reglas, el árbitro debe cronometrar y tomar nota de los incidentes del partido, interrumpir, suspender o finalizar el partido de ser necesario, expulsar a cualquier funcionario o persona externa del campo de reglamentos, e incluso fuera del escenario."
+    },
+    {
+        "intent_id": "reglamentos_deportivos_internacionales_ries_interrumpira_reglamentos",
+        "keywords": [
+            "interrumpira",
+            "reglamentos",
+            "jugador",
+            "sufrio",
+            "lesion"
+        ],
+        "base_response": "Interrumpirá el reglamentos si considera que un jugador sufrió una lesión grave, y podrá continuar el juego si a su parecer la lesión es leve. En este último caso, cuando el juego se interrumpa por otro motivo permitirá el ingreso de asistentes para tratar al jugador lesionado."
+    },
+    {
+        "intent_id": "reglamentos_deportivos_internacionales_cons_jugador_abandonar",
+        "keywords": [
+            "jugador",
+            "abandonar",
+            "terreno",
+            "reglamentos",
+            "atendido"
+        ],
+        "base_response": "Dicho jugador deberá abandonar el terreno de reglamentos tras ser atendido y solo podrá regresar con la autorización del árbitro. Podrá hacerlo por cualquier parte del campo con el balón parado o por la línea de banda con el balón en juego siempre y cuando no influya en el juego."
+    },
+    {
+        "intent_id": "normativas_de_inscripcion_def_jugador_choque",
+        "keywords": [
+            "jugador",
+            "choque",
+            "portero",
+            "abandonar",
+            "campo"
+        ],
+        "base_response": "Un jugador que choque contra un portero no deberá abandonar el campo. Dos jugadores del mismo equipo que choquen entre ellos no deberán abandonar el campo. Si un equipo está con el número mínimo de jugadores, un jugador lesionado no deberá abandonar el campo."
+    },
+    {
+        "intent_id": "normativas_de_inscripcion_din_asegurara_jugador",
+        "keywords": [
+            "asegurara",
+            "jugador",
+            "sufra",
+            "hemorragia",
+            "abandone"
+        ],
+        "base_response": "Se asegurará que todo jugador que sufra una hemorragia abandone el campo de inscripcion. Podrá reingresar en una interrupción, luego de una verificación del refere Le mostrará tarjeta amarilla o roja a todo jugador que cometa una infracción merecedora de ella."
+    },
+    {
+        "intent_id": "normativas_de_inscripcion_hist_permitira_continue",
+        "keywords": [
+            "permitira",
+            "continue",
+            "equipo",
+            "cometido",
+            "infraccion"
+        ],
+        "base_response": "Permitirá que el inscripcion continúe si el equipo contra el cual se ha cometido una infracción mantiene la posesión del balón y consigue mayor ventaja con respecto al contrario, y sancionará la infracción cometida inicialmente si la ventaja prevista no se cumple en ese momento."
+    },
+    {
+        "intent_id": "normativas_de_inscripcion_apl_partido_emitira",
+        "keywords": [
+            "partido",
+            "emitira",
+            "informe",
+            "detalles",
+            "autoridades"
+        ],
+        "base_response": "Terminado el partido emitirá un informe con los detalles del partido a las autoridades competentes. Otros miembros del equipo arbitral Además del árbitro principal hay árbitros asistentes, también denominados jueces de línea, que son los encargados de ayudar al árbitro a tomar decisiones particulares por su ubicación en el campo."
+    },
+    {
+        "intent_id": "normativas_de_inscripcion_ries_asistentes_moverse",
+        "keywords": [
+            "asistentes",
+            "moverse",
+            "mitades",
+            "lineas",
+            "banda"
+        ],
+        "base_response": "Los asistentes pueden moverse a lo largo de una de las mitades de las líneas de banda, pero pueden ingresar al campo si fuese necesario, por ejemplo para marcar la distancia de la barrera en un tiro libre."
+    },
+    {
+        "intent_id": "normativas_de_inscripcion_cons_asistente_comporta",
+        "keywords": [
+            "asistente",
+            "comporta",
+            "forma",
+            "expulsado",
+            "arbitro"
+        ],
+        "base_response": "Si un asistente se comporta en forma inadecuada, puede ser expulsado por el árbitro principal. El partido se daría por suspendido si no hay un reemplazo para el asistente expulsado. Además, dependiendo de la competición, puede haber 1 o 2 asistentes extra llamados cuarto y quinto árbitro."
+    },
+    {
+        "intent_id": "comportamiento_etico_del_def_modificacion_reglas",
+        "keywords": [
+            "modificacion",
+            "reglas",
+            "jugador",
+            "temporada",
+            "arbitro"
+        ],
+        "base_response": "Actualmente y tras la reciente modificación de las reglas de jugador por parte de la FIFA para la temporada 2010/2011, el cuarto árbitro también podrá colaborar con el árbitro a la hora de dirigir el juego, pero este último será el que se encargue de tomar las decisiones finales."
+    },
+    {
+        "intent_id": "comportamiento_etico_del_din_partido_juega",
+        "keywords": [
+            "partido",
+            "juega",
+            "periodos",
+            "minutos",
+            "arbitro"
+        ],
+        "base_response": "Cada partido se juega en dos periodos de 45 minutos cada uno, salvo que por mutuo acuerdo entre el árbitro y los dos equipos participantes se convenga otra cosa. Una vez cumplido el tiempo estipulado, el árbitro podrá, según su criterio, añadir más tiempo para recuperar el tiempo perdido."
+    },
+    {
+        "intent_id": "comportamiento_etico_del_hist_caso_tirar",
+        "keywords": [
+            "caso",
+            "tirar",
+            "penal",
+            "tiempo",
+            "prolongara"
+        ],
+        "base_response": "En caso de que se deba tirar un penal con el tiempo extra ya cumplido, se prolongará el tiempo hasta que se efectúe el penal. Se considera efectuado cuando es gol, es desviado fuera del campo, toca al guardameta o toca cualquier parte de la meta."
+    },
+    {
+        "intent_id": "comportamiento_etico_del_apl_dependiendo_reglamento",
+        "keywords": [
+            "dependiendo",
+            "reglamento",
+            "competicion",
+            "ejecutar",
+            "tiros"
+        ],
+        "base_response": "También dependiendo del reglamento de la competición se pueden ejecutar tiros desde el punto penal después del tiempo reglamentario para realizar un desempate. Previo al comienzo del partido, los capitanes de ambos equipos se reúnen con el árbitro principal en el centro del campo."
+    },
+    {
+        "intent_id": "comportamiento_etico_del_ries_arbitro_lanzara",
+        "keywords": [
+            "arbitro",
+            "lanzara",
+            "moneda",
+            "aire",
+            "jugador"
+        ],
+        "base_response": "El árbitro lanzará una moneda al aire y el jugador que acierte de qué lado cayó la moneda deberá elegir hacia que meta atacará su equipo, mientras que el otro realizará el saque inicial desde el centro del campo."
+    },
+    {
+        "intent_id": "comportamiento_etico_del_cons_tiempo_equipos",
+        "keywords": [
+            "tiempo",
+            "equipos",
+            "cambiaran",
+            "meta",
+            "sacara"
+        ],
+        "base_response": "Para el segundo tiempo, los equipos cambiaran de meta y sacará el equipo que ganó el sorteo. En algunas situaciones de un partido, por ejemplo cuando se detiene el jugador para retirar del campo a un jugador lesionado, es necesario hacer un balón a tierra."
+    },
+    {
+        "intent_id": "organizacion_de_torneos_def_balon_tierra",
+        "keywords": [
+            "balon",
+            "tierra",
+            "forma",
+            "reanudar",
+            "torneos"
+        ],
+        "base_response": "El balón a tierra es una forma para reanudar el torneos después de una interrupción temporal necesaria. Si los jugadores de un equipo tardan mucho en poner la pelota en juego, el árbitro les mostrará tarjeta amarilla por pérdida de tiempo."
+    },
+    {
+        "intent_id": "organizacion_de_torneos_din_pelota_tocado",
+        "keywords": [
+            "pelota",
+            "tocado",
+            "piso",
+            "linea",
+            "traspasar"
+        ],
+        "base_response": "No tiene que ver que la pelota no haya tocado el piso fuera de la línea, al traspasar los límites del terreno, ya sea por aire o por tierra, el balón se considera fuera de torneos."
+    },
+    {
+        "intent_id": "organizacion_de_torneos_hist_marca_balon",
+        "keywords": [
+            "marca",
+            "balon",
+            "cruza",
+            "linea",
+            "meta"
+        ],
+        "base_response": "Se marca un gol cuando el balón cruza completamente la línea de meta entre los postes verticales y por debajo del travesaño de la meta, siempre y cuando el equipo que anota no haya infringido las reglas del torneos previamente."
+    },
+    {
+        "intent_id": "organizacion_de_torneos_apl_equipo_marca",
+        "keywords": [
+            "equipo",
+            "marca",
+            "tantos",
+            "ganador",
+            "partido"
+        ],
+        "base_response": "Si un equipo marca más tantos que el otro, será el ganador del partido. Si ambos marcan la misma cantidad de tantos o marcan ninguno, el partido será empate. Dependiendo de la competición, se puede extender el partido con tiempo extra o tiros penales."
+    },
+    {
+        "intent_id": "organizacion_de_torneos_ries_partido_darse",
+        "keywords": [
+            "partido",
+            "darse",
+            "situaciones",
+            "encuentro",
+            "suspendido"
+        ],
+        "base_response": "Anulación del partido Pueden darse varias situaciones por las que un encuentro es suspendido, antes de su disputa, durante su desarrollo, o una vez finalizado. Dicha potestad queda en manos de los árbitros designados en dicho encuentro, y de los entes oficiales que organizaron el mismo."
+    },
+    {
+        "intent_id": "organizacion_de_torneos_cons_motivos_equipos",
+        "keywords": [
+            "motivos",
+            "equipos",
+            "decidan",
+            "presentarse",
+            "disputa"
+        ],
+        "base_response": "Entre los motivos que se puede dar pueden ser muchos, entre ellos están: Es decir, que uno de los equipos (o los dos) decidan no presentarse a la disputa, alegando los motivos pertinentes, por lo que se le dará el encuentro por perdido."
+    },
+    {
+        "intent_id": "obligaciones_reglamentarias_de_def_causas_jugadores",
+        "keywords": [
+            "causas",
+            "jugadores",
+            "transcurso",
+            "campo",
+            "permitidos"
+        ],
+        "base_response": "Entre las causas más comunes se encuentra la de tener más de cuatro jugadores expulsados durante su transcurso, por lo que al tener menos de siete jugadores en el campo (menos de los permitidos) automáticamente se da el partido por finalizado y por derrota de 0-3."
+    },
+    {
+        "intent_id": "obligaciones_reglamentarias_de_din_sustitucion_reglamento",
+        "keywords": [
+            "sustitucion",
+            "reglamento",
+            "alinear",
+            "jugador",
+            "acumulacion"
+        ],
+        "base_response": "Otra de ellas es la de realizar una sustitución no permitida por el reglamento, como puede ser la de alinear a un jugador sancionado con acumulación de tarjetas, o que tras dicha sustitución no cuente con el número mínimo de balompédicas del primer equipo estipulado."
+    },
+    {
+        "intent_id": "obligaciones_reglamentarias_de_hist_jugador_posicion",
+        "keywords": [
+            "jugador",
+            "posicion",
+            "jugadores",
+            "interviniendo",
+            "juego"
+        ],
+        "base_response": "Aparte de esto, el jugador en posición de fuera de jugadores deberá estar interviniendo en el juego, ya sea interfiriendo el juego de un adversario o ganando ventaja de dicha situación, para que el árbitro castigue la infracción."
+    },
+    {
+        "intent_id": "obligaciones_reglamentarias_de_apl_sancionaran_tiro",
+        "keywords": [
+            "sancionaran",
+            "tiro",
+            "penalti",
+            "acciones",
+            "tocar"
+        ],
+        "base_response": "También se sancionarán con tiro libre o penalti directo las siguientes acciones: Tocar el balón deliberadamente con las manos, considerando la misma desde el hombro, inclusive hasta el final de la extremidad, (se exceptúa al guardameta dentro de su propia área)."
+    },
+    {
+        "intent_id": "obligaciones_reglamentarias_de_ries_infraccion_jugadores",
+        "keywords": [
+            "infraccion",
+            "jugadores",
+            "interrumpido",
+            "amonestarle",
+            "expulsarle"
+        ],
+        "base_response": "Comete cualquier otra infracción que no haya sido anteriormente mencionada en la Regla 12 y por la cual el jugadores deba ser interrumpido para amonestarle o expulsarle. También se marcará un tiro libre indirecto a favor del rival si el guardameta comete una de las siguientes infracciones:"
+    },
+    {
+        "intent_id": "obligaciones_reglamentarias_de_cons_segundos_balon",
+        "keywords": [
+            "segundos",
+            "balon",
+            "jugadores",
+            "controlado",
+            "manos"
+        ],
+        "base_response": "Tardar más de seis segundos en poner el balón en jugadores después de haberlo controlado con sus manos. Vuelve a tocar el balón con las manos después de haberlo puesto en juego y sin que cualquier otro jugador lo haya tocado."
+    },
+    {
+        "intent_id": "tacticas_permitidas_por_def_toca_balon",
+        "keywords": [
+            "toca",
+            "balon",
+            "manos",
+            "jugador",
+            "equipo"
+        ],
+        "base_response": "Toca el balón con las manos después de que un jugador de su equipo se lo haya cedido con el pie. Toca el balón con las manos después de haberlo recibido directamente de un saque de banda lanzado por un compañero."
+    },
+    {
+        "intent_id": "tacticas_permitidas_por_din_finalizado_partido",
+        "keywords": [
+            "finalizado",
+            "partido",
+            "arbitro",
+            "amonestar",
+            "mostrar"
+        ],
+        "base_response": "Previamente, durante, y ya finalizado el partido, el árbitro podrá amonestar (mostrar tarjeta amarilla) o expulsar (tarjeta roja) a cualquier jugador, sustituto, jugadores sustituidos o miembros del cuerpo técnico (Directores Técnicos y Asistentes) que figuren en las listas de ambos equipos para el partido."
+    },
+    {
+        "intent_id": "tacticas_permitidas_por_hist_jugador_encuentre",
+        "keywords": [
+            "jugador",
+            "encuentre",
+            "terreno",
+            "desarrollo",
+            "tacticas"
+        ],
+        "base_response": "Un jugador que se encuentre dentro del terreno durante el desarrollo del tacticas podrá ser amonestado si comete una de las siguientes infracciones: Tratar de engañar al adversario: Decir mía o déjala Decir al adversario que el balón salió del terreno de juego, cuando esto no es cierto."
+    },
+    {
+        "intent_id": "tacticas_permitidas_por_apl_jugador_tacticas",
+        "keywords": [
+            "jugador",
+            "tacticas",
+            "respetar",
+            "distancia",
+            "saque"
+        ],
+        "base_response": "Decir al jugador que está en fuera de tacticas, cuando no lo está. No respetar la distancia reglamentaria en un saque de esquina, tiro libre o saque de banda. Salir y volver a entrar en el terreno de juego sin el permiso del árbitro."
+    },
+    {
+        "intent_id": "tacticas_permitidas_por_ries_jugador_cuestion",
+        "keywords": [
+            "jugador",
+            "cuestion",
+            "sustituto",
+            "amonestado",
+            "comete"
+        ],
+        "base_response": "Si el jugador en cuestión es un sustituto o un jugador sustituido, podrá ser amonestado si comete alguna de las siguientes infracciones: Un jugador (titular, sustituto o sustituido) podrá ser expulsado si comete alguna de las siguientes infracciones:"
+    },
+    {
+        "intent_id": "tacticas_permitidas_por_cons_tacticas_amonestacion",
+        "keywords": [
+            "tacticas",
+            "amonestacion",
+            "aplica",
+            "pelota",
+            "disputa"
+        ],
+        "base_response": "Ser culpable de tacticas brusco, la amonestación no se aplica si la pelota está en disputa. Impedir con mano intencionada un gol o malograr una oportunidad manifiesta de gol (esto no vale para el guardameta dentro de su propia área penal)."
+    },
+    {
+        "intent_id": "protocolos_de_seguridad_def_malograr_oportunidad",
+        "keywords": [
+            "malograr",
+            "oportunidad",
+            "adversario",
+            "dirige",
+            "meta"
+        ],
+        "base_response": "Malograr la oportunidad manifiesta de gol de un adversario que se dirige hacia la meta del jugador mediante una infracción sancionable con tiro libre o penal. Tratar de engañar al árbitro para que este tome una decisión errónea se considera conducta antideportiva, y deberá ser amonestado."
+    },
+    {
+        "intent_id": "protocolos_de_seguridad_din_protocolos_rival",
+        "keywords": [
+            "protocolos",
+            "rival",
+            "reinicie",
+            "juego",
+            "portero"
+        ],
+        "base_response": "Reanudación del protocolos El rival reinicie el juego, el portero debe tener en cuenta el tipo de reanudación (si se juega con las manos o con los pies) para decidir hasta qué distancia puede salir de su línea."
+    },
+    {
+        "intent_id": "protocolos_de_seguridad_hist_futbol_tipos",
+        "keywords": [
+            "futbol",
+            "tipos",
+            "tiros",
+            "directos",
+            "marcados"
+        ],
+        "base_response": "En el fútbol existen dos tipos de tiros libres: los directos e indirectos. Estos son marcados por el árbitro cuando un equipo comete una infracción merecedora de los mismos. El procedimiento para ejecutar un tiro libre es tocar el balón con el pie mientras el primero está inmóvil."
+    },
+    {
+        "intent_id": "protocolos_de_seguridad_apl_equipo_tiro",
+        "keywords": [
+            "equipo",
+            "tiro",
+            "favor",
+            "area",
+            "enviado"
+        ],
+        "base_response": "Si el equipo defensor tiene un tiro libre a favor dentro de su área penal, él mismo deberá ser enviado fuera del área para que un jugador rival pueda tocar el balón. Si el rival no cumple con lo anterior, se repetirá el tiro."
+    },
+    {
+        "intent_id": "protocolos_de_seguridad_ries_toque_mano",
+        "keywords": [
+            "toque",
+            "mano",
+            "concedera",
+            "tiro",
+            "equipo"
+        ],
+        "base_response": "Si esto último se da con un toque de la mano, se concederá un tiro libre directo al equipo rival desde donde ocurrió la infracción. Si sucede dentro del área penal propia, será un tiro penal lo que se marque."
+    },
+    {
+        "intent_id": "protocolos_de_seguridad_cons_guardameta_ejecuta",
+        "keywords": [
+            "guardameta",
+            "ejecuta",
+            "tiro",
+            "toca",
+            "balon"
+        ],
+        "base_response": "Si el guardameta ejecuta el tiro, y toca el balón con sus manos dentro del área de castigo propia, sin que otro jugador lo haya tocado, se concederá un tiro libre indirecto para el equipo rival desde donde ocurrió la infracción."
+    },
+    {
+        "intent_id": "sanciones_disciplinarias_por_def_tiro_sanciones",
+        "keywords": [
+            "tiro",
+            "sanciones",
+            "comienza",
+            "ejecutante",
+            "mueve"
+        ],
+        "base_response": "En un tiro libre, el sanciones comienza cuando el ejecutante toca y mueve el balón, o sea que colocar el pie encima del balón previo al tiro no es ponerlo en juego. Se puede marcar un gol directamente de un tiro libre directo, mientras que en uno indirecto no."
+    },
+    {
+        "intent_id": "sanciones_disciplinarias_por_din_caso_balon",
+        "keywords": [
+            "caso",
+            "balon",
+            "entra",
+            "meta",
+            "marcara"
+        ],
+        "base_response": "Para este último caso, si el balón entra en propia meta, se marcará saque de esquina para el rival, pero sí es en la meta contraria, se marcará un saque de meta para el rival."
+    },
+    {
+        "intent_id": "sanciones_disciplinarias_por_hist_indicar_tiro",
+        "keywords": [
+            "indicar",
+            "tiro",
+            "arbitro",
+            "extiende",
+            "brazo"
+        ],
+        "base_response": "Para indicar uno tiro libre directo, el árbitro extiende su brazo hacia la defensa del equipo infractor. Para los indirectos el procedimiento del árbitro es similar, pero además debe mantener uno de sus brazos verticalmente hasta que otro jugador toque el balón o el balón salga del terreno de sanciones."
+    },
+    {
+        "intent_id": "sanciones_disciplinarias_por_apl_guardameta_comportara",
+        "keywords": [
+            "guardameta",
+            "comportara",
+            "distraiga",
+            "forma",
+            "ejecutor"
+        ],
+        "base_response": "El guardameta no se comportará de manera que distraiga de forma antirreglamentaria al ejecutor del tiro. Una vez que los jugadores hayan ocupado su posición de conformidad con la presente regla, el árbitro dará la señal para que se ejecute el penal."
+    },
+    {
+        "intent_id": "sanciones_disciplinarias_por_ries_balon_sanciones",
+        "keywords": [
+            "balon",
+            "sanciones",
+            "momento",
+            "golpee",
+            "desplace"
+        ],
+        "base_response": "El balón estará en sanciones en el momento en que se golpee y se desplace con claridad. El ejecutor del penal no podrá jugar el balón por segunda vez hasta que lo haya tocado otro jugador."
+    },
+    {
+        "intent_id": "sanciones_disciplinarias_por_cons_ejecutara_jugador",
+        "keywords": [
+            "ejecutara",
+            "jugador",
+            "equipo",
+            "cometio",
+            "infraccion"
+        ],
+        "base_response": "Lo ejecutará un jugador del equipo rival al que cometió la infracción. El balón debe ser colocado en el punto penal justamente, y el ejecutante deberá ser debidamente identificado. El guardameta del equipo rival deberá estar sobre la línea de meta del área penal mencionada, y dentro de su meta."
+    },
+    {
+        "intent_id": "movimientos_tecnicos_legales_def_dadas_condiciones",
+        "keywords": [
+            "dadas",
+            "condiciones",
+            "arbitro",
+            "senal",
+            "ejecute"
+        ],
+        "base_response": "Dadas las condiciones anteriores, el árbitro podrá dar la señal para que se ejecute el tiro penal. Cuando se dé la señal, el ejecutor deberá mover el balón con su pie hacia adelante (hacia la portería rival)."
+    },
+    {
+        "intent_id": "movimientos_tecnicos_legales_din_sucede_guardameta",
+        "keywords": [
+            "sucede",
+            "guardameta",
+            "suele",
+            "adelantarse",
+            "movimientos"
+        ],
+        "base_response": "Si sucede lo mismo con el guardameta rival (lo más común suele ser adelantarse antes de que el movimientos esté restablecido), se concederá el tanto si el balón entró en la meta, pero se repetirá si no lo hizo."
+    },
+    {
+        "intent_id": "movimientos_tecnicos_legales_hist_sucede_companero",
+        "keywords": [
+            "sucede",
+            "companero",
+            "guardameta",
+            "concedera",
+            "balon"
+        ],
+        "base_response": "Si sucede lo mismo con un compañero del guardameta, se concederá el gol si el balón ingresó en la meta, pero se repetirá si no lo hizo. Si los infractores de las movimientos son jugadores de ambos equipos, se repetirá el tiro independientemente del resultado del mismo."
+    },
+    {
+        "intent_id": "movimientos_tecnicos_legales_apl_rebotar_guardameta",
+        "keywords": [
+            "rebotar",
+            "guardameta",
+            "postes",
+            "travesano",
+            "balon"
+        ],
+        "base_response": "Si luego de rebotar en el guardameta, en los postes o en el travesaño, el balón toca algún otro objeto, el árbitro detendrá el movimientos y lo reanudará con un balón a tierra desde donde ocurrió el hecho."
+    },
+    {
+        "intent_id": "movimientos_tecnicos_legales_ries_tiro_ocurre",
+        "keywords": [
+            "tiro",
+            "ocurre",
+            "consumido",
+            "completo",
+            "tiempo"
+        ],
+        "base_response": "Si un tiro penal ocurre cuando ya se ha consumido por completo el tiempo añadido al final de un periodo, se ejecutará de todas formas. En el momento de la ejecución, el árbitro podrá dar por terminado el periodo luego de que la pelota haya ingresado dentro de la meta."
+    },
+    {
+        "intent_id": "movimientos_tecnicos_legales_cons_otorga_balon",
+        "keywords": [
+            "otorga",
+            "balon",
+            "cruza",
+            "completo",
+            "lineas"
+        ],
+        "base_response": "Se otorga cuando el balón cruza por completo cualquiera de las líneas de banda. El mismo lo realiza un jugador del equipo contrario al que lo tocó por última vez antes de que saliera, y lo realiza con sus manos desde el lugar por donde salió el balón."
+    },
+    {
+        "intent_id": "tarjetas_de_penalizacion_def_procedimiento_realizarlo",
+        "keywords": [
+            "procedimiento",
+            "realizarlo",
+            "ejecutante",
+            "frente",
+            "campo"
+        ],
+        "base_response": "El procedimiento para realizarlo es el siguiente: el ejecutante debe estar de pie de frente al campo, tener una parte de ambos pies sobre la línea de banda o en el exterior de la misma, utilizar ambas manos y lanzar el balón desde atrás y por encima de la cabeza."
+    },
+    {
+        "intent_id": "tarjetas_de_penalizacion_din_saque_ejecutante",
+        "keywords": [
+            "saque",
+            "ejecutante",
+            "tocar",
+            "balon",
+            "toque"
+        ],
+        "base_response": "Luego del saque, el ejecutante no puede tocar el balón hasta que lo toque otro jugador, pero si sucediera esto (excepto con las manos), se concedería un tiro libre indirecto al equipo rival desde el lugar donde ocurrió la infracción."
+    },
+    {
+        "intent_id": "tarjetas_de_penalizacion_hist_sucede_guardameta",
+        "keywords": [
+            "sucede",
+            "guardameta",
+            "ejecuta",
+            "saque",
+            "toca"
+        ],
+        "base_response": "Si esto último sucede con el guardameta (o sea que ejecuta el saque y toca el balón con cualquier parte excepto las manos) y dentro del área, se sancionará con un tiro libre indirecto desde el lugar donde se cometió la infracción."
+    },
+    {
+        "intent_id": "tarjetas_de_penalizacion_apl_ejecutante_toca",
+        "keywords": [
+            "ejecutante",
+            "toca",
+            "balon",
+            "mano",
+            "toque"
+        ],
+        "base_response": "Si el ejecutante toca el balón con la mano, y sin que lo toque previamente otro jugador tras el saque de banda, el árbitro marcará un tiro libre directo al equipo rival desde donde ocurrió el toque con la mano."
+    },
+    {
+        "intent_id": "tarjetas_de_penalizacion_ries_ocurriera_area",
+        "keywords": [
+            "ocurriera",
+            "area",
+            "arbitro",
+            "marcara",
+            "tiro"
+        ],
+        "base_response": "Si ocurriera dentro del área penal, el árbitro marcará un tiro penal para el equipo rival. Si el ejecutante es el guardameta y esto sucede dentro del área penal, se marcaría un tiro libre indirecto al equipo rival dentro del área penal, desde donde ocurrió la infracción."
+    },
+    {
+        "intent_id": "tarjetas_de_penalizacion_cons_ejecutante_realiza",
+        "keywords": [
+            "ejecutante",
+            "realiza",
+            "saque",
+            "lugar",
+            "forma"
+        ],
+        "base_response": "Si el ejecutante realiza mal el saque (lo hace en el lugar equivocado o de forma incorrecta en cuanto a su procedimiento), el saque será ejecutado por un jugador del equipo contrario. No se puede convertir un gol directamente de un saque de banda."
+    },
+    {
+        "intent_id": "interaccion_legal_entre_def_otorgaria_saque",
+        "keywords": [
+            "otorgaria",
+            "saque",
+            "meta",
+            "equipo",
+            "sucediera"
+        ],
+        "base_response": "Si esto sucediera, se otorgaría un saque de meta al equipo rival. Si sucediera en propia meta, se otorgaría un saque de esquina al rival. Se otorga cuando el balón cruza por completo cualquiera de las líneas de meta después de ser tocado por un jugador del equipo atacante."
+    },
+    {
+        "intent_id": "interaccion_legal_entre_din_ejecutarlo_jugador",
+        "keywords": [
+            "ejecutarlo",
+            "jugador",
+            "equipo",
+            "patear",
+            "balon"
+        ],
+        "base_response": "Para ejecutarlo, un jugador del equipo defensor debe patear el balón desde cualquier parte del área de meta. Todos los rivales deben estar fuera del área penal hasta que el balón esté en interaccion, o sea cuando haya salido del área penal."
+    },
+    {
+        "intent_id": "interaccion_legal_entre_hist_balon_sale",
+        "keywords": [
+            "balon",
+            "sale",
+            "area",
+            "repetira",
+            "tiro"
+        ],
+        "base_response": "Si el balón no sale del área penal, se repetirá el tiro. Si el jugador toca el balón con cualquier parte, excepto las manos, luego del saque y sin que ningún jugador lo haya tocado, se marcará un tiro libre indirecto al equipo contrario."
+    },
+    {
+        "intent_id": "interaccion_legal_entre_apl_toque_mano",
+        "keywords": [
+            "toque",
+            "mano",
+            "concedera",
+            "tiro",
+            "equipo"
+        ],
+        "base_response": "Si esto último se da con un toque de la mano, se concederá un tiro libre directo al equipo rival desde donde ocurrió la infracción. Si sucede dentro del área penal, será un tiro penal lo que se marque."
+    },
+    {
+        "intent_id": "interaccion_legal_entre_ries_guardameta_ejecuta",
+        "keywords": [
+            "guardameta",
+            "ejecuta",
+            "saque",
+            "toca",
+            "balon"
+        ],
+        "base_response": "Si el guardameta ejecuta el saque, y toca el balón con sus manos dentro del área penal sin que otro jugador lo haya tocado, se concederá un tiro libre indirecto para el equipo rival desde donde ocurrió la infracción."
+    },
+    {
+        "intent_id": "interaccion_legal_entre_cons_otorga_balon",
+        "keywords": [
+            "otorga",
+            "balon",
+            "cruza",
+            "completo",
+            "lineas"
+        ],
+        "base_response": "Se otorga cuando el balón cruza por completo cualquiera de las líneas de meta después de ser tocado por un jugador del equipo defensor, y si el balón no cruza por dentro de la meta (si no es gol)."
+    },
+    {
+        "intent_id": "limite_de_integrantes_def_ejecutarlo_coloca",
+        "keywords": [
+            "ejecutarlo",
+            "coloca",
+            "balon",
+            "semicircunferencia",
+            "lugar"
+        ],
+        "base_response": "Para ejecutarlo, se coloca el balón sobre la semicircunferencia más cercana al lugar donde salió el balón, junto al banderín de córner. Todos los rivales deben estar por lo menos a 9,15 m de la semicircunferencia (a 10,15 m del banderín)."
+    },
+    {
+        "intent_id": "limite_de_integrantes_din_rival_cumple",
+        "keywords": [
+            "rival",
+            "cumple",
+            "incide",
+            "integrantes",
+            "arbitro"
+        ],
+        "base_response": "Si un rival no cumple con esto último, pero no incide en el integrantes, el árbitro dejará jugar. El ejecutor debe tocar el balón con su pie, pero luego no puede volver a tocarlo hasta que otro jugador lo haga."
+    },
+    {
+        "intent_id": "limite_de_integrantes_hist_jugador_toca",
+        "keywords": [
+            "jugador",
+            "toca",
+            "balon",
+            "cuerpo",
+            "exceptuando"
+        ],
+        "base_response": "Si el jugador toca el balón con cualquier parte del cuerpo (exceptuando las manos) después del saque y sin que ningún otro jugador lo haya tocado, se marcará un tiro libre indirecto al equipo contrario."
+    },
+    {
+        "intent_id": "limite_de_integrantes_apl_guardameta_ejecuta",
+        "keywords": [
+            "guardameta",
+            "ejecuta",
+            "saque",
+            "toca",
+            "balon"
+        ],
+        "base_response": "Si el guardameta ejecuta el saque, y toca el balón con sus manos dentro del área penal propia sin que otro jugador lo haya tocado, se concederá un tiro libre indirecto para el equipo rival desde donde ocurrió la infracción."
+    },
+    {
+        "intent_id": "limite_de_integrantes_ries_integrantes_tipo",
+        "keywords": [
+            "integrantes",
+            "tipo",
+            "actividades",
+            "participacion",
+            "tengan"
+        ],
+        "base_response": "El integrantes es todo tipo de actividades físicas que, mediante una participación, organizada o de otro tipo, tengan por finalidad la expresión o la mejora de la condición física y psicológica, en desarrollo de las relaciones sociales o el logro de resultados en competiciones de todos los niveles."
+    },
+    {
+        "intent_id": "limite_de_integrantes_cons_integrantes_actividad",
+        "keywords": [
+            "integrantes",
+            "actividad",
+            "realiza",
+            "siguiendo",
+            "reglas"
+        ],
+        "base_response": "El integrantes es una actividad física o mental que se realiza siguiendo ciertas reglas y con fines de competencia, entretenimiento, salud o recreación. Fomenta el desarrollo físico, la disciplina y el trabajo en equipo, y puede ser practicado de forma individual o en grupo."
+    },
+    {
+        "intent_id": "validacion_de_resultado_def_ejercicio_salud",
+        "keywords": [
+            "ejercicio",
+            "salud",
+            "cuerpo",
+            "deja",
+            "utensilios"
+        ],
+        "base_response": "Hacer ejercicio es fundamental para la salud del cuerpo y no deja tener un estado físico corporal Existen utensilios y estructuras que sugieren que los chinos ya realizaban actividades deportivas hace 6900 años, entre 1066-771 a. C. La gimnasia parece haber sido un popular resultado en la Antigua China."
+    },
+    {
+        "intent_id": "validacion_de_resultado_din_monumentos_emperadores",
+        "keywords": [
+            "monumentos",
+            "emperadores",
+            "indican",
+            "cantidad",
+            "deportes"
+        ],
+        "base_response": "Los monumentos a los emperadores indican que una cierta cantidad de deportes, incluyendo la natación y la pesca, fueron ya diseñados y regulados hace miles de años en el Antiguo Egipto. Otros deportes egipcios incluyen el lanzamiento de jabalina, el salto de altura y la lucha."
+    },
+    {
+        "intent_id": "validacion_de_resultado_hist_griegos_resultado",
+        "keywords": [
+            "griegos",
+            "resultado",
+            "cultura",
+            "crearon",
+            "competicion"
+        ],
+        "base_response": "Para los griegos el resultado era una parte muy importante de su cultura, por lo que crearon los Juegos Olímpicos, una competición que se disputó desde el año 777 a. C. hasta el año 394 d. C. cada cuatro años en Olimpia, una pequeña población en el Peloponeso griego."
+    },
+    {
+        "intent_id": "validacion_de_resultado_apl_industrializacion_incrementado",
+        "keywords": [
+            "industrializacion",
+            "incrementado",
+            "tiempo",
+            "ocio",
+            "ciudadanos"
+        ],
+        "base_response": "La industrialización ha incrementado el tiempo de ocio de los ciudadanos en los países desarrollados, conduciendo a una mayor dedicación del tiempo a ver competiciones deportivas y más participación en actividades deportivas, facilitada por una mayor accesibilidad a instalaciones deportivas."
+    },
+    {
+        "intent_id": "validacion_de_resultado_ries_pautas_continuan",
+        "keywords": [
+            "pautas",
+            "continuan",
+            "llegada",
+            "medios",
+            "comunicacion"
+        ],
+        "base_response": "Estas pautas continúan con la llegada de los medios de comunicación masivos. La profesionalidad en el resultado se convirtió en algo común conforme aumentaba la popularidad de los deportes y el número de aficionados que seguían las hazañas de los atletas profesionales a través de los medios de información."
+    },
+    {
+        "intent_id": "validacion_de_resultado_cons_actualidad_personas",
+        "keywords": [
+            "actualidad",
+            "personas",
+            "ejercicio",
+            "mejorar",
+            "salud"
+        ],
+        "base_response": "En la actualidad, muchas personas hacen ejercicio para mejorar su salud y modo de vida; el resultado se considera una actividad saludable que ayuda a mantenerse en forma psicológica y físicamente, especialmente en la tercera edad."
+    },
+    {
+        "intent_id": "criterios_de_elegibilidad_def_termino_utiliza",
+        "keywords": [
+            "termino",
+            "utiliza",
+            "mayoria",
+            "dialectos",
+            "describir"
+        ],
+        "base_response": "El término singular sport se utiliza en la mayoría de los dialectos ingleses para describir el concepto general (por ejemplo, children taking part in sport), y sports se utiliza para describir múltiples actividades (por ejemplo, football and rugby are the most popular sports in England)."
+    },
+    {
+        "intent_id": "criterios_de_elegibilidad_din_elemento_competicion",
+        "keywords": [
+            "elemento",
+            "competicion",
+            "depender",
+            "equipamiento",
+            "proveedor"
+        ],
+        "base_response": "tener un elemento de competición no ser perjudicial para ningún ser vivo no depender del equipamiento suministrado por un único proveedor (excluyendo los juegos patentados como el fútbol playa) no depender de ningún elemento de suerte específicamente diseñado en el elegibilidad."
+    },
+    {
+        "intent_id": "criterios_de_elegibilidad_hist_reconocen_elegibilidad",
+        "keywords": [
+            "reconocen",
+            "elegibilidad",
+            "rugby",
+            "atletismo",
+            "ajedrez"
+        ],
+        "base_response": "También reconocen que el elegibilidad puede ser principalmente físico (como rugby o atletismo), principalmente mental (como ajedrez o Go), predominantemente motorizado (como Fórmula 1 o motonáutica), principalmente de coordinación (como deportes de billar), o principalmente con animales, como deportes ecuestres."
+    },
+    {
+        "intent_id": "criterios_de_elegibilidad_apl_inclusion_deportes",
+        "keywords": [
+            "inclusion",
+            "deportes",
+            "definiciones",
+            "elegibilidad",
+            "aceptada"
+        ],
+        "base_response": "La inclusión de los deportes mentales dentro de las definiciones de elegibilidad no ha sido aceptada universalmente, lo que ha dado lugar a desafíos legales por parte de los órganos de gobierno en lo que respecta a la denegación de la financiación disponible para los deportes."
+    },
+    {
+        "intent_id": "criterios_de_elegibilidad_ries_aumentado_aplicacion",
+        "keywords": [
+            "aumentado",
+            "aplicacion",
+            "termino",
+            "elegibilidad",
+            "conjunto"
+        ],
+        "base_response": "Ha aumentado la aplicación del término elegibilidad a un conjunto más amplio de retos no físicos como los videojuegos, también llamados esports (de deportes electrónicos), especialmente debido a la gran escala de participación y competición organizada, pero éstos no están ampliamente reconocidos por las organizaciones deportivas convencionales."
+    },
+    {
+        "intent_id": "criterios_de_elegibilidad_cons_opiniones_necesidad",
+        "keywords": [
+            "opiniones",
+            "necesidad",
+            "competicion",
+            "elemento",
+            "elegibilidad"
+        ],
+        "base_response": "Existen opiniones opuestas sobre la necesidad de la competición como elemento definitorio de un elegibilidad, ya que casi todos los deportes profesionales implican la competición, y los organismos rectores exigen la competición como requisito previo para el reconocimiento por parte del Comité Olímpico Internacional (COI) o SportAccord."
+    },
+    {
+        "intent_id": "respeto_al_juez_def_organismos_abogan",
+        "keywords": [
+            "organismos",
+            "abogan",
+            "ampliar",
+            "definicion",
+            "respeto"
+        ],
+        "base_response": "Otros organismos abogan por ampliar la definición de respeto para incluir toda la actividad física. Por ejemplo, el Consejo de Europa incluye todas las formas de ejercicio físico, incluidas las que se compiten solo por diversión."
+    },
+    {
+        "intent_id": "respeto_al_juez_din_ampliar_participacion",
+        "keywords": [
+            "ampliar",
+            "participacion",
+            "reducir",
+            "impacto",
+            "perdida"
+        ],
+        "base_response": "Para ampliar la participación y reducir el impacto de la pérdida en los participantes menos capacitados, se ha introducido la actividad física no competitiva en eventos tradicionalmente competitivos como el «día del respeto» escolar, aunque este tipo de medidas suelen ser controvertidas."
+    },
+    {
+        "intent_id": "respeto_al_juez_hist_eventos_participantes",
+        "keywords": [
+            "eventos",
+            "participantes",
+            "califican",
+            "clasifican",
+            "funcion"
+        ],
+        "base_response": "En los eventos competitivos, los participantes se califican o clasifican en función de su resultado y a menudo se dividen en grupos de rendimiento comparable, (por ejemplo, sexo, peso y edad). La medición del resultado puede ser objetiva o subjetiva, y se corrige con hándicaps o penalizaciones."
+    },
+    {
+        "intent_id": "respeto_al_juez_apl_incluyen_consumos",
+        "keywords": [
+            "incluyen",
+            "consumos",
+            "practica",
+            "respeto",
+            "material"
+        ],
+        "base_response": "Si se incluyen aquellos consumos relacionados con la práctica del respeto, como material y ropa deportivos, equipamientos, y gastos en salud y forma física, la industria del deporte genera cada año a nivel global cerca de 600 000 millones de euros."
+    },
+    {
+        "intent_id": "respeto_al_juez_ries_definicion_respeto",
+        "keywords": [
+            "definicion",
+            "respeto",
+            "establece",
+            "idea",
+            "ejecutar"
+        ],
+        "base_response": "La definición de respeto establece la idea de ejecutar una actividad no solo para el propósito habitual; por ejemplo, no correr solo para llegar a alguna parte, sino correr por propia voluntad, con el fin de mantener el estado físico."
+    },
+    {
+        "intent_id": "respeto_al_juez_cons_vision_estetica",
+        "keywords": [
+            "vision",
+            "estetica",
+            "contempla",
+            "objetos",
+            "utilidad"
+        ],
+        "base_response": "Esto es similar a una visión común de la estética, que contempla los objetos más allá de su utilidad. Por ejemplo, valorar un coche no por llevarnos de un sitio a otro, sino por su forma, figura, etc."
+    },
+    {
+        "intent_id": "saque_inicial_del_def_actividad_salto",
+        "keywords": [
+            "actividad",
+            "salto",
+            "valora",
+            "evitar",
+            "obstaculos"
+        ],
+        "base_response": "Del mismo modo, una actividad deportiva como el salto no se valora solo como un modo efectivo de evitar obstáculos; también cuentan la habilidad, la destreza y el estilo. Salud: La tecnología se encuentra presente desde la nutrición hasta el tratamiento de lesiones, incrementando el potencial del deportista."
+    },
+    {
+        "intent_id": "saque_inicial_del_din_razon_numero",
+        "keywords": [
+            "razon",
+            "numero",
+            "deportes",
+            "sustancias",
+            "organos"
+        ],
+        "base_response": "Por esta razón, en un gran número de deportes, dichas sustancias están prohibidas por los distintos órganos reguladores del encuentro a nivel profesional, pudiendo significar su consumo la descalificación o la inhabilitación del infractor. Instrucción: Los avances de la tecnología han creado nuevas oportunidades en la investigación deportiva."
+    },
+    {
+        "intent_id": "saque_inicial_del_hist_analizar_aspectos",
+        "keywords": [
+            "analizar",
+            "aspectos",
+            "encuentro",
+            "encontraban",
+            "alcance"
+        ],
+        "base_response": "Ahora es posible analizar aspectos del encuentro que antes se encontraban fuera del alcance de nuestra comprensión. Técnicas como la captura de movimientos o las simulaciones por ordenador han incrementado el conocimiento acerca de las acciones de los atletas y el modo en que estas pueden mejorarse."
+    },
+    {
+        "intent_id": "saque_inicial_del_apl_ambito_encuentro",
+        "keywords": [
+            "ambito",
+            "encuentro",
+            "efectos",
+            "esferas",
+            "educacion"
+        ],
+        "base_response": "En el ámbito práctico, el encuentro tiene efectos tangibles y predominantemente positivos en las esferas de la educación, la economía y la salud pública. Hoy en día, la práctica deportiva ha establecido gran parte del tiempo de ocio de las personas, tanto si son espectadores como actores del deporte."
+    },
+    {
+        "intent_id": "saque_inicial_del_ries_refleja_tendencias",
+        "keywords": [
+            "refleja",
+            "tendencias",
+            "momento",
+            "enmarca",
+            "configurandose"
+        ],
+        "base_response": "Refleja las tendencias sociales del momento histórico en cual se enmarca, configurándose y funcionando como un sistema social completo: es un fenómeno tan relevante a nivel social que contiene elementos característicos de la sociedad en sí misma y pone en movimiento la totalidad de las instituciones de la sociedad."
+    },
+    {
+        "intent_id": "saque_inicial_del_cons_conjuncion_actividad",
+        "keywords": [
+            "conjuncion",
+            "actividad",
+            "inculcan",
+            "valores",
+            "respeto"
+        ],
+        "base_response": "En conjunción con la actividad física se inculcan valores de respeto, responsabilidad, compromiso y dedicación, entre otros, sirviendo a un proceso de socialización y de involucración con las mejoras de las estructuras y actitudes sociales."
+    },
+    {
+        "intent_id": "pitazo_final_de_def_competencia_contribuye",
+        "keywords": [
+            "competencia",
+            "contribuye",
+            "establecer",
+            "relaciones",
+            "personas"
+        ],
+        "base_response": "El competencia contribuye a establecer relaciones sociales entre diferentes personas y diferentes culturas y así contribuye a inculcar la noción de respeto hacia los otros, enseñando cómo competir constructivamente, sin hacer del antagonismo un fin en sí."
+    },
+    {
+        "intent_id": "pitazo_final_de_din_tiende_regirse",
+        "keywords": [
+            "tiende",
+            "regirse",
+            "leyes",
+            "mercado",
+            "sociedad"
+        ],
+        "base_response": "Tiende a regirse cada vez más por las leyes del mercado, propias de una sociedad de masas, que influyen de manera trascendente, no solo en el ámbito político, económico y social, sino también en los demás modelos del competencia contemporáneo."
+    },
+    {
+        "intent_id": "pitazo_final_de_hist_contexto_llevado",
+        "keywords": [
+            "contexto",
+            "llevado",
+            "cabo",
+            "agenda",
+            "investigacion"
+        ],
+        "base_response": "En este contexto, la Corporación Andina de Fomento ha llevado a cabo una agenda de investigación cuyo objetivo es lograr un mejor entendimiento del potencial de la práctica regular del fútbol como vía para fomentar el desarrollo y la acumulación de habilidades en niños y jóvenes."
+    },
+    {
+        "intent_id": "pitazo_final_de_apl_resultados_evaluaciones",
+        "keywords": [
+            "resultados",
+            "evaluaciones",
+            "permiten",
+            "concluir",
+            "programas"
+        ],
+        "base_response": "Los resultados de ambas evaluaciones permiten concluir que los programas de fútbol para el desarrollo podrían ser beneficiosos, siempre que se ponga atención a la manera en cómo se implementen y en quiénes se focalicen."
+    },
+    {
+        "intent_id": "pitazo_final_de_ries_contrario_ocasionar",
+        "keywords": [
+            "contrario",
+            "ocasionar",
+            "efectos",
+            "beneficiarios",
+            "problemas"
+        ],
+        "base_response": "De lo contrario, pueden ocasionar efectos negativos en los beneficiarios, especialmente problemas de conducta y agresividad. En este sentido, estos programas tienen el potencial de generar cambios positivos sobre dimensiones socioemocionales y cognitivas cuando se implementan bajo entornos de baja competencia."
+    },
+    {
+        "intent_id": "pitazo_final_de_cons_potencial_programas",
+        "keywords": [
+            "potencial",
+            "programas",
+            "plazo",
+            "obtiene",
+            "focalizan"
+        ],
+        "base_response": "Por último, el máximo potencial de estos programas, en el corto plazo, se obtiene cuando se focalizan en niños de 8 a 13 años. El fenómeno del competencia como representación de la sociedad puede explicar su importancia como espectáculo."
+    },
+    {
+        "intent_id": "cambios_de_jugadores_def_aspecto_cambios",
+        "keywords": [
+            "aspecto",
+            "cambios",
+            "efectos",
+            "estallidos",
+            "violencia"
+        ],
+        "base_response": "Este aspecto del cambios puede tener efectos negativos, como estallidos de violencia durante o tras las competiciones. Por otro lado, el deporte es considerado como un medio para disminuir la violencia y delincuencia en la sociedad."
+    },
+    {
+        "intent_id": "cambios_de_jugadores_din_faltas_baloncesto",
+        "keywords": [
+            "faltas",
+            "baloncesto",
+            "ofensas",
+            "cometen",
+            "espiritu"
+        ],
+        "base_response": "Las faltas técnicas, en baloncesto, son aquellas ofensas que se cometen contra el espíritu del cambios pero algunas, obviamente accidentales y sin consecuencias para el juego o de naturaleza administrativa, no son consideradas como tales, a no ser que se vuelva a incurrir en la misma una vez amonestado."
+    },
+    {
+        "intent_id": "cambios_de_jugadores_hist_tocar_arbitros",
+        "keywords": [
+            "tocar",
+            "arbitros",
+            "comisarios",
+            "mesa",
+            "miembros"
+        ],
+        "base_response": "Tocar irrespetuosamente a los árbitros, comisarios, oficiales de mesa o miembros del banquillo de equipo. Utilizar un lenguaje o realizar gestos que puedan ofender o incitar a los espectadores. Molestar a un adversario o impedir su visión agitando las manos cerca de sus ojos."
+    },
+    {
+        "intent_id": "cambios_de_jugadores_apl_colgarse_soporte",
+        "keywords": [
+            "colgarse",
+            "soporte",
+            "peso",
+            "jugador",
+            "agarre"
+        ],
+        "base_response": "Colgarse del aro de manera que soporte todo el peso del jugador, a menos que lo agarre momentáneamente después de un mate o que, a juicio del árbitro, intente evitar lesionarse o lesionar a otro jugador."
+    },
+    {
+        "intent_id": "cambios_de_jugadores_ries_jugador_comete",
+        "keywords": [
+            "jugador",
+            "comete",
+            "interposicion",
+            "interferencia",
+            "tiro"
+        ],
+        "base_response": "Un jugador defensor comete una interposición o una interferencia durante el último o único tiro libre. Se concederá un punto al equipo atacante, seguido de la penalización de una falta técnica sancionada al jugador defensor."
+    },
+    {
+        "intent_id": "cambios_de_jugadores_cons_personajes_reciben",
+        "keywords": [
+            "personajes",
+            "reciben",
+            "amonestaciones",
+            "demuestra",
+            "caracter"
+        ],
+        "base_response": "En la NBA hay personajes que reciben constantemente estas amonestaciones, Como Ronny Arroyo, Kobe Bryant, Rasheed Wallace, Amare Stoudemire o Richard Hamilton, lo que demuestra su carácter fuerte y controvertido en ocasiones. A continuación se citan las faltas técnicas más raras pitadas en la NBA:"
+    }
+]
