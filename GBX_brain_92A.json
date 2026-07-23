@@ -1,0 +1,1739 @@
+[
+    {
+        "intent_id": "vida_dinamica_funcionamiento_actividad_movimiento",
+        "keywords": [
+            "actividad",
+            "movimiento",
+            "musculos",
+            "exija",
+            "gasto",
+            "energia"
+        ],
+        "base_response": "Se considera actividad física a cualquier movimiento corporal producido por los músculos que exija gasto de energía. Una actividad tiene muchos conceptos: nadar, correr, jugar, saltar y montar en bicicleta, entre otros, como con otros jugadores."
+    },
+    {
+        "intent_id": "vida_historia_origen_evolucion_actividad_conceptos",
+        "keywords": [
+            "actividad",
+            "conceptos",
+            "nadar",
+            "correr",
+            "jugar",
+            "saltar"
+        ],
+        "base_response": "Una actividad tiene muchos conceptos: nadar, correr, jugar, saltar y montar en bicicleta, entre otros, como con otros jugadores. Se describen cuatro áreas o dominios donde se clasifica la actividad física: tiempo libre, transporte, hogar y trabajo (o escuela para niños y niñas)."
+    },
+    {
+        "intent_id": "vida_historia_origen_evolucion_actividad_utiliza",
+        "keywords": [
+            "actividad",
+            "utiliza",
+            "error",
+            "sinonimo",
+            "ejercicio",
+            "forma"
+        ],
+        "base_response": "La actividad física a veces se utiliza por error como sinónimo de ejercicio físico, sin embargo, el ejercicio es una forma programada y planificada para mejorar la condición física. El ejercicio físico es una forma más de realizar actividad física en el tiempo libre o trabajo."
+    },
+    {
+        "intent_id": "vida_dinamica_funcionamiento_ejercicio_actividad",
+        "keywords": [
+            "ejercicio",
+            "actividad",
+            "incluye",
+            "actividades",
+            "caminar",
+            "trabajar"
+        ],
+        "base_response": "Aparte del ejercicio, la actividad física también incluye otras actividades como puedan ser caminar, trabajar o limpiar. == Recomendaciones de actividad física == Se recomienda que las personas deben realizar al menos 150 minutos de actividad física de intensidad moderada a vigorosa a la semana."
+    },
+    {
+        "intent_id": "vida_dinamica_funcionamiento_minutos_actividad",
+        "keywords": [
+            "minutos",
+            "actividad",
+            "vigorosa",
+            "semana",
+            "realizada",
+            "acumulada"
+        ],
+        "base_response": "Esto quiere decir que serían al menos 30 minutos de actividad física moderada a vigorosa en al menos 5 días de la semana. Esta puede ser realizada o acumulada en cualquiera de los cuatro dominios mencionados anteriormente."
+    },
+    {
+        "intent_id": "vida_historia_origen_evolucion_realizada_acumulada",
+        "keywords": [
+            "realizada",
+            "acumulada",
+            "dominios",
+            "efectos",
+            "falta",
+            "actividad"
+        ],
+        "base_response": "Esta puede ser realizada o acumulada en cualquiera de los cuatro dominios mencionados anteriormente. == Efectos de la falta de actividad física == Se ha comunicado que los estudiantes de ambos sexos (niñas y niños) que presentan obesidad ven televisión más tiempo y realizan actividades menos intensas."
+    },
+    {
+        "intent_id": "vida_dinamica_funcionamiento_demostrado_escolares",
+        "keywords": [
+            "demostrado",
+            "escolares",
+            "gasto",
+            "indices",
+            "actividad",
+            "incluye"
+        ],
+        "base_response": "También se ha demostrado en escolares obesos un bajo gasto energético de reposo y reducidos índices de actividad física, que incluye el deporte y la educación física. La actividad física regular se asocia a menor riesgo de enfermedad cardiovascular, enfermedad coronaria, accidente cerebrovascular, mortalidad cardiovascular y total."
+    },
+    {
+        "intent_id": "vida_dinamica_funcionamiento_actividad_asocia",
+        "keywords": [
+            "actividad",
+            "asocia",
+            "riesgo",
+            "enfermedad",
+            "accidente",
+            "mortalidad"
+        ],
+        "base_response": "La actividad física regular se asocia a menor riesgo de enfermedad cardiovascular, enfermedad coronaria, accidente cerebrovascular, mortalidad cardiovascular y total. La actividad física no solo aumenta el consumo de calorías sino también el metabolismo basal, que puede permanecer elevado después de 30 minutos de acabar una actividad física moderada."
+    },
+    {
+        "intent_id": "vida_dinamica_funcionamiento_actividad_aumenta",
+        "keywords": [
+            "actividad",
+            "aumenta",
+            "consumo",
+            "calorias",
+            "metabolismo",
+            "permanecer"
+        ],
+        "base_response": "La actividad física no solo aumenta el consumo de calorías sino también el metabolismo basal, que puede permanecer elevado después de 30 minutos de acabar una actividad física moderada. La tasa metabólica basal puede aumentar un 10 % durante 48 horas después de la actividad física."
+    },
+    {
+        "intent_id": "vida_dinamica_funcionamiento_actividad_aumenta_apetito",
+        "keywords": [
+            "actividad",
+            "aumenta",
+            "apetito",
+            "reduce",
+            "investigaciones",
+            "indican"
+        ],
+        "base_response": "La actividad física moderada no aumenta el apetito, incluso lo reduce. Las investigaciones indican que la disminución del apetito después de la actividad física es mayor en individuos que son obesos, que en los que tienen un peso corporal ideal."
+    },
+    {
+        "intent_id": "vida_transformacion_ciclos_coordinacion_habilidad",
+        "keywords": [
+            "coordinacion",
+            "habilidad",
+            "capacidad",
+            "reaccion",
+            "traduce",
+            "aumento"
+        ],
+        "base_response": "Mayor coordinación, habilidad y capacidad de reacción. Ganancia muscular, la cual se traduce en el aumento del metabolismo, que a su vez produce una disminución de la grasa corporal (prevención de la obesidad y sus consecuencias)."
+    },
+    {
+        "intent_id": "vida_transformacion_ciclos_traduce_aumento",
+        "keywords": [
+            "traduce",
+            "aumento",
+            "metabolismo",
+            "produce",
+            "disminucion",
+            "grasa"
+        ],
+        "base_response": "Ganancia muscular, la cual se traduce en el aumento del metabolismo, que a su vez produce una disminución de la grasa corporal (prevención de la obesidad y sus consecuencias). Aumento de la resistencia a la fatiga corporal (cansancio)."
+    },
+    {
+        "intent_id": "vida_calculos_formulas_aumento_resistencia",
+        "keywords": [
+            "aumento",
+            "resistencia",
+            "fatiga",
+            "cansancio",
+            "nivel",
+            "aprecia"
+        ],
+        "base_response": "Aumento de la resistencia a la fatiga corporal (cansancio). A nivel cardíaco: Se aprecia un aumento de la resistencia orgánica, mejoría de la circulación, regulación del pulso y disminución de la presión arterial. A nivel pulmonar: Se aprecia mejoría de la capacidad pulmonar y consiguiente oxigenación."
+    },
+    {
+        "intent_id": "vida_calculos_formulas_nivel_aprecia",
+        "keywords": [
+            "nivel",
+            "aprecia",
+            "aumento",
+            "resistencia",
+            "mejoria",
+            "circulacion"
+        ],
+        "base_response": "A nivel cardíaco: Se aprecia un aumento de la resistencia orgánica, mejoría de la circulación, regulación del pulso y disminución de la presión arterial. A nivel pulmonar: Se aprecia mejoría de la capacidad pulmonar y consiguiente oxigenación."
+    },
+    {
+        "intent_id": "vida_dinamica_funcionamiento_nivel_aprecia",
+        "keywords": [
+            "nivel",
+            "aprecia",
+            "mejoria",
+            "capacidad",
+            "oxigenacion",
+            "aumenta"
+        ],
+        "base_response": "A nivel pulmonar: Se aprecia mejoría de la capacidad pulmonar y consiguiente oxigenación. Aumenta su capacidad, el funcionamiento de alvéolos pulmonares y el intercambio de la presión arterial, mejora la eficiencia del funcionamiento del corazón y disminuye el riesgo de arritmias cardíacas (ritmo irregular del corazón)."
+    },
+    {
+        "intent_id": "vida_dinamica_funcionamiento_nivel_reduce",
+        "keywords": [
+            "nivel",
+            "reduce",
+            "coagulabilidad",
+            "sangre",
+            "efecto",
+            "manifiesta"
+        ],
+        "base_response": "A nivel sanguíneo: Reduce la coagulabilidad de la sangre, este efecto se manifiesta principalmente en la disminución de la coagulabilidad de la sangre. Esto significa que los componentes responsables de formar coágulos —como las plaquetas y ciertos factores de la coagulación— ven reducida su actividad o su capacidad de agregación."
+    },
+    {
+        "intent_id": "vida_definicion_anatomica_nivel_producen",
+        "keywords": [
+            "nivel",
+            "producen",
+            "hormonas",
+            "sensacion",
+            "bienestar",
+            "disminuye"
+        ],
+        "base_response": "A nivel neuroendocrino: Se producen endorfinas (hormonas ligadas a la sensación de bienestar), disminuye la producción de adrenalina, aumenta la producción de sudor y la tolerancia a los ambientes cálidos. A nivel del sistema nervioso: Mejora el tono muscular, los reflejos y la coordinación muscular."
+    },
+    {
+        "intent_id": "vida_definicion_anatomica_nivel_mejora",
+        "keywords": [
+            "nivel",
+            "mejora",
+            "funcionamiento",
+            "ayuda",
+            "prevenir",
+            "cancer"
+        ],
+        "base_response": "A nivel gastrointestinal: Mejora el funcionamiento intestinal y ayuda a prevenir el cáncer de colon. A nivel osteomuscular: Incrementa la fuerza, el número de terminaciones sanguíneas en el músculo esquelético, mejora la estructura, función y estabilidad de ligamentos, tendones, articulaciones y mejora la postura."
+    },
+    {
+        "intent_id": "vida_calculos_formulas_nivel_mejora",
+        "keywords": [
+            "nivel",
+            "mejora",
+            "autoestima",
+            "persona",
+            "incrementa",
+            "capacidad"
+        ],
+        "base_response": "A nivel psicológico: Mejora la autoestima de la persona, incrementa la capacidad de fuerza de voluntad y de autocontrol, mejora la memoria, estimula la creatividad y la capacidad afectiva, disminuye la ansiedad, el estrés, la agresividad y la depresión."
+    },
+    {
+        "intent_id": "vida_experimentos_demostraciones_estudios_actualizado",
+        "keywords": [
+            "estudios",
+            "actualizado",
+            "publicacion",
+            "revision",
+            "efectividad",
+            "intervenciones"
+        ],
+        "base_response": "Sin embargo, estos estudios no se han actualizado desde su publicación inicial, por lo que es necesaria una revisión actualizada sobre la efectividad de las intervenciones basadas en el ejercicio para promover la autoestima en los niños y jóvenes."
+    },
+    {
+        "intent_id": "vida_definicion_anatomica_revision_estudios",
+        "keywords": [
+            "revision",
+            "estudios",
+            "participantes",
+            "ninos",
+            "adolescentes",
+            "anos"
+        ],
+        "base_response": "Una revisión sistemática de 23 estudios, realizados en Estados Unidos, Canadá, Australia y Nigeria, y cuyos participantes fueron niños y adolescentes entre 3 y 20 años de edad, determinó que las intervenciones de ejercicios físicos tienen efectos positivos sobre la autoestima, al menos en el corto plazo."
+    },
+    {
+        "intent_id": "vida_dinamica_funcionamiento_inactividad_falta",
+        "keywords": [
+            "inactividad",
+            "falta",
+            "actividad",
+            "trae",
+            "consecuencia",
+            "aumento"
+        ],
+        "base_response": "== Consecuencias de la inactividad física == La falta de actividad física trae como consecuencia: El aumento de peso corporal por un desequilibrio entre el ingreso y el gasto de calorías, que puede alcanzar niveles catalogados como obesidad."
+    },
+    {
+        "intent_id": "vida_consecuencias_largo_plazo_elasticidad_movilidad",
+        "keywords": [
+            "elasticidad",
+            "movilidad",
+            "disminucion",
+            "habilidad",
+            "capacidad",
+            "reaccion"
+        ],
+        "base_response": "Disminución de la elasticidad y movilidad articular, hipotrofia muscular, disminución de la habilidad y capacidad de reacción. Ralentización de la circulación con la consiguiente sensación de pesadez y edemas, y desarrollo de dilataciones venosas (varices)."
+    },
+    {
+        "intent_id": "vida_definicion_anatomica_ralentizacion_circulacion",
+        "keywords": [
+            "ralentizacion",
+            "circulacion",
+            "sensacion",
+            "edemas",
+            "desarrollo",
+            "dilataciones"
+        ],
+        "base_response": "Ralentización de la circulación con la consiguiente sensación de pesadez y edemas, y desarrollo de dilataciones venosas (varices). Dolor lumbar y lesiones del sistema de soporte, mala postura, debido al poco desarrollo del tono de las respectivas masas musculares."
+    },
+    {
+        "intent_id": "vida_errores_patologias_tendencia_enfermedades",
+        "keywords": [
+            "tendencia",
+            "enfermedades",
+            "hipertension",
+            "sindrome",
+            "sensacion",
+            "cansancio"
+        ],
+        "base_response": "Tendencia a enfermedades crónicas degenerativas como la hipertensión arterial, diabetes y síndrome metabólico. Sensación frecuente de cansancio, desánimo, malestar, poca autoestima relacionada con la imagen corporal, etc., lo que les impide realizar funciones básicas como respirar, dormir y/o caminar."
+    },
+    {
+        "intent_id": "descanso_dinamica_funcionamiento_sueno_actividad",
+        "keywords": [
+            "sueno",
+            "actividad",
+            "consciencia",
+            "altera",
+            "inhibe",
+            "produce"
+        ],
+        "base_response": "El sueño es un estado de actividad mental y física reducida en el que la consciencia se altera y se inhibe cierta actividad sensorial. Durante el sueño, se produce una marcada disminución de la actividad muscular y de las interacciones con el entorno."
+    },
+    {
+        "intent_id": "descanso_errores_patologias_sueno_difiere",
+        "keywords": [
+            "sueno",
+            "difiere",
+            "vigilia",
+            "capacidad",
+            "reaccionar",
+            "estimulos"
+        ],
+        "base_response": "Si bien el sueño difiere de la vigilia en cuanto a la capacidad de reaccionar a los estímulos, sigue implicando patrones cerebrales activos, lo que lo hace más reactivo que el coma o los trastornos de la consciencia."
+    },
+    {
+        "intent_id": "descanso_definicion_anatomica_etapas_sueno",
+        "keywords": [
+            "etapas",
+            "sueno",
+            "acto",
+            "reposar",
+            "produce",
+            "suspension"
+        ],
+        "base_response": "== Dormir y etapas del sueño == Dormir es el acto de reposar en un estado inconsciente en el que se produce la suspensión de las funciones sensoriales y de los movimientos voluntarios del cuerpo."
+    },
+    {
+        "intent_id": "descanso_dinamica_funcionamiento_sueno_definen",
+        "keywords": [
+            "sueno",
+            "definen",
+            "patrones",
+            "observan",
+            "electroencefalograma",
+            "electrooculograma"
+        ],
+        "base_response": "Los estados y fases del sueño humano se definen según los patrones característicos que se observan mediante el electroencefalograma (EEG), el electrooculograma (EOG, una medición de los movimientos oculares) y el electromiograma de superficie (EMG, movimiento de los músculos esqueléticos)."
+    },
+    {
+        "intent_id": "descanso_dinamica_funcionamiento_registro_parametros",
+        "keywords": [
+            "registro",
+            "parametros",
+            "definir",
+            "sueno",
+            "vigilia",
+            "denomina"
+        ],
+        "base_response": "El registro de estos parámetros electrofisiológicos para definir los estados de sueño y de vigilia se denomina polisomnografía. Estos perfiles describen dos estados del sueño: Sueño sin movimientos oculares rápidos (sueño no MOR, o NMOR; NREM en inglés)."
+    },
+    {
+        "intent_id": "descanso_dinamica_funcionamiento_perfiles_describen",
+        "keywords": [
+            "perfiles",
+            "describen",
+            "sueno",
+            "movimientos",
+            "ingles",
+            "diferenciar"
+        ],
+        "base_response": "Estos perfiles describen dos estados del sueño: Sueño sin movimientos oculares rápidos (sueño no MOR, o NMOR; NREM en inglés). En el que se pueden diferenciar tres fases: La Fase I del NMOR (fase del sueño ligero)"
+    },
+    {
+        "intent_id": "descanso_aplicaciones_practicas_complejos_descargas",
+        "keywords": [
+            "complejos",
+            "descargas",
+            "lentas",
+            "amplitud",
+            "continuan",
+            "deflexion"
+        ],
+        "base_response": "Los complejos K son descargas lentas, negativas (hacia arriba) y de amplitud elevada que se continúan inmediatamente después por una deflexión positiva (hacia abajo). Los husos de sueño son descargas de alta frecuencia de corta duración que presentan una amplitud característica con subidas y bajadas."
+    },
+    {
+        "intent_id": "descanso_dinamica_funcionamiento_husos_sueno",
+        "keywords": [
+            "husos",
+            "sueno",
+            "descargas",
+            "frecuencia",
+            "duracion",
+            "presentan"
+        ],
+        "base_response": "Los husos de sueño son descargas de alta frecuencia de corta duración que presentan una amplitud característica con subidas y bajadas. No hay actividad ocular y el EMG da un resultado similar al estado 1."
+    },
+    {
+        "intent_id": "descanso_dinamica_funcionamiento_fases_fase",
+        "keywords": [
+            "fases",
+            "fase",
+            "profundidad",
+            "sueno",
+            "caracteriza",
+            "actividad"
+        ],
+        "base_response": "La Fase III del NMOR (previamente dividida en fases III y IV) es la fase de mayor profundidad en el sueño, y se caracteriza por ser un sueño de entre 20 % a % de actividad δ (delta, de amplitud elevada, > 75 microV, y de 0,5 a 2 Hz)."
+    },
+    {
+        "intent_id": "descanso_dinamica_funcionamiento_husos_sueno_persistir",
+        "keywords": [
+            "husos",
+            "sueno",
+            "persistir",
+            "actividad",
+            "permanece",
+            "nivel"
+        ],
+        "base_response": "Los husos del sueño pueden persistir y sigue sin haber actividad ocular. La actividad del EMG permanece en un nivel reducido y de alto voltaje, que comprende al menos el 50% del registro. La fase III del NMOR se denomina sueño de ondas lentas (SOL), sueño delta o sueño profundo."
+    },
+    {
+        "intent_id": "descanso_dinamica_funcionamiento_actividad_permanece",
+        "keywords": [
+            "actividad",
+            "permanece",
+            "nivel",
+            "voltaje",
+            "comprende",
+            "registro"
+        ],
+        "base_response": "La actividad del EMG permanece en un nivel reducido y de alto voltaje, que comprende al menos el 50% del registro. La fase III del NMOR se denomina sueño de ondas lentas (SOL), sueño delta o sueño profundo."
+    },
+    {
+        "intent_id": "descanso_dinamica_funcionamiento_sueno_movimientos",
+        "keywords": [
+            "sueno",
+            "movimientos",
+            "ingles",
+            "fase",
+            "caracteriza",
+            "amplitud"
+        ],
+        "base_response": "Sueño de movimientos oculares rápidos (MOR; REM en inglés), o fase IV del sueño, conocido también como sueño paradójico, sueño desincronizado o sueño D, se caracteriza por un EEG de baja amplitud y de frecuencia mixta similar al de la fase I del NMOR."
+    },
+    {
+        "intent_id": "descanso_dinamica_funcionamiento_muestras_movimientos",
+        "keywords": [
+            "muestras",
+            "movimientos",
+            "observan",
+            "persona",
+            "permanece",
+            "ojos"
+        ],
+        "base_response": "El EOG da muestras de movimientos oculares rápidos similares a las que se observan cuando la persona permanece despierta y con los ojos abiertos. La actividad del EMG permanece ausente, un reflejo de la atonía muscular completa de la parálisis motora descendente característica de este estado."
+    },
+    {
+        "intent_id": "descanso_dinamica_funcionamiento_actividad_permanece_reflejo",
+        "keywords": [
+            "actividad",
+            "permanece",
+            "reflejo",
+            "atonia",
+            "paralisis",
+            "etapa"
+        ],
+        "base_response": "La actividad del EMG permanece ausente, un reflejo de la atonía muscular completa de la parálisis motora descendente característica de este estado. En esta etapa se presentan las ensoñaciones (fase onírica). Es habitual que se presenten de 4 a 6 periodos de sueño MOR durante la noche."
+    },
+    {
+        "intent_id": "descanso_transformacion_ciclos_etapa_presentan",
+        "keywords": [
+            "etapa",
+            "presentan",
+            "ensonaciones",
+            "fase",
+            "presenten",
+            "periodos"
+        ],
+        "base_response": "En esta etapa se presentan las ensoñaciones (fase onírica). Es habitual que se presenten de 4 a 6 periodos de sueño MOR durante la noche. === Necesidades de sueño y edad === Las necesidades de sueño varían según la edad."
+    },
+    {
+        "intent_id": "descanso_definicion_anatomica_sueno_edad",
+        "keywords": [
+            "sueno",
+            "edad",
+            "necesidades",
+            "varian",
+            "nino",
+            "duerme"
+        ],
+        "base_response": "=== Necesidades de sueño y edad === Las necesidades de sueño varían según la edad. El niño recién nacido duerme casi todo el día, con una proporción próxima al 50 % del denominado sueño «activo», que es el equivalente del sueño MOR."
+    },
+    {
+        "intent_id": "descanso_definicion_anatomica_lactancia_periodos",
+        "keywords": [
+            "lactancia",
+            "periodos",
+            "vigilia",
+            "consolida",
+            "sueno",
+            "noche"
+        ],
+        "base_response": "A lo largo de la lactancia los períodos de vigilia son progresivamente más prolongados y se consolida el sueño de la noche; además, la proporción de sueño MOR desciende al 25-30 %, que se mantendrá durante toda la vida."
+    },
+    {
+        "intent_id": "descanso_definicion_anatomica_anos_edad",
+        "keywords": [
+            "anos",
+            "edad",
+            "nino",
+            "duerme",
+            "siestas",
+            "adolescencia"
+        ],
+        "base_response": "De 1-3 años de edad, el niño ya solo duerme una o dos siestas. Entre los 4-5 años y la adolescencia los niños son hipervigilantes, muy pocos duermen siesta pero tienen un sueño nocturno de 9 horas bien estructurado en cinco ciclos o más."
+    },
+    {
+        "intent_id": "descanso_definicion_anatomica_anos_adolescencia",
+        "keywords": [
+            "anos",
+            "adolescencia",
+            "ninos",
+            "duermen",
+            "siesta",
+            "sueno"
+        ],
+        "base_response": "Entre los 4-5 años y la adolescencia los niños son hipervigilantes, muy pocos duermen siesta pero tienen un sueño nocturno de 9 horas bien estructurado en cinco ciclos o más. En los individuos jóvenes reaparece en muchos casos la necesidad fisiológica de una siesta a mitad del día."
+    },
+    {
+        "intent_id": "descanso_experimentos_demostraciones_necesidad_sueno",
+        "keywords": [
+            "necesidad",
+            "sueno",
+            "adulto",
+            "oscilar",
+            "horas",
+            "estudio"
+        ],
+        "base_response": "La necesidad de sueño en un adulto puede oscilar entre 7 y 9 horas pero según un estudio de los hábitos de sueño de 2021 de más de 3000 españoles un 74% duermen menos de 7 horas cada día."
+    },
+    {
+        "intent_id": "descanso_calculos_formulas_adultos_anos",
+        "keywords": [
+            "adultos",
+            "anos",
+            "necesitan",
+            "horas",
+            "sueno",
+            "noche"
+        ],
+        "base_response": "Los adultos mayores (65 años y más) necesitan 7 u 8 horas de sueño por la noche, a medida que se envejece, se producen cambios en los patrones de su sueño. Estos cambios causan insomnio o problemas para dormir."
+    },
+    {
+        "intent_id": "descanso_dinamica_funcionamiento_epocas_actividad",
+        "keywords": [
+            "epocas",
+            "actividad",
+            "crecimiento",
+            "meses",
+            "embarazo",
+            "aumentar"
+        ],
+        "base_response": "En épocas de mucha actividad intelectual o de crecimiento o durante los meses del embarazo, puede aumentar la necesidad de sueño, mientras que el estrés, la ansiedad o el ejercicio físico practicado por la tarde pueden disminuir la cantidad de sueño."
+    },
+    {
+        "intent_id": "descanso_transformacion_ciclos_estudios_individuos",
+        "keywords": [
+            "estudios",
+            "individuos",
+            "influencias",
+            "mostrado",
+            "tendencia",
+            "retrasar"
+        ],
+        "base_response": "Los estudios efectuados en individuos aislados de influencias exteriores han mostrado que la tendencia fisiológica general es a retrasar ligeramente la fase de sueño con respecto al ciclo convencional de 24 horas y a dormir una corta siesta «de mediodía» (Vallejo, 2006, 232)."
+    },
+    {
+        "intent_id": "descanso_calculos_formulas_ancianos_fragmentando",
+        "keywords": [
+            "ancianos",
+            "fragmentando",
+            "sueno",
+            "episodios",
+            "despertar",
+            "reduce"
+        ],
+        "base_response": "En los ancianos se va fragmentando el sueño nocturno con frecuentes episodios de despertar y se reduce mucho el porcentaje de sueño en fase IV y no tanto el de sueño MOR, que se mantiene más constante a lo largo de la vida."
+    },
+    {
+        "intent_id": "descanso_definicion_anatomica_sueno_representa",
+        "keywords": [
+            "sueno",
+            "representa",
+            "funcion",
+            "vivir",
+            "dormir",
+            "restauradora"
+        ],
+        "base_response": "El sueño representa una función vital, por ser imprescindible (el ser humano no puede vivir sin dormir), restauradora (el sueño repara el cuerpo cada día), complementaria y fundamental para asegurar la vigilia (se duerme para poder sentirse despierto al día siguiente), fisiológicamente necesario."
+    },
+    {
+        "intent_id": "descanso_definicion_anatomica_sueno_produciria",
+        "keywords": [
+            "sueno",
+            "produciria",
+            "contraccion",
+            "celulas",
+            "creandose",
+            "espacio"
+        ],
+        "base_response": "Durante el sueño se produciría una contracción de las células cerebrales, creándose así más espacio entre ellas y con ello permitiendo que el líquido cefalorraquídeo circule más fácilmente a través del tejido cerebral; limpiándose así más libremente los residuos, tales como la proteína beta-amiloide responsable de la enfermedad de Alzheimer."
+    },
+    {
+        "intent_id": "descanso_dinamica_funcionamiento_datos_ocasiones",
+        "keywords": [
+            "datos",
+            "ocasiones",
+            "confirmar",
+            "rechazar",
+            "hipotesis",
+            "consolidacion"
+        ],
+        "base_response": "Sin embargo, los datos disponibles aún son demasiado escasos y en ocasiones contradictorios para confirmar o rechazar inequívocamente la hipótesis de que la consolidación de memorias no declarativa y declarativa, respectivamente, dependan de los procesos de sueño MOR y NMOR."
+    },
+    {
+        "intent_id": "descanso_experimentos_demostraciones_estudio_permitio",
+        "keywords": [
+            "estudio",
+            "permitio",
+            "mujeres",
+            "hombres",
+            "dormir",
+            "minutos"
+        ],
+        "base_response": "El estudio permitió a 18 mujeres y 22 hombres dormir solo 26 minutos por la noche durante un periodo de cuatro días. Al principio los sujetos fueron puestos a prueba en tests cognitivos (descansados), luego de nuevo dos veces al día durante los cuatro días de privación de sueño."
+    },
+    {
+        "intent_id": "descanso_clasificacion_taxonomica_memoria_etapas",
+        "keywords": [
+            "memoria",
+            "etapas",
+            "sueno",
+            "baja",
+            "onda",
+            "estudio"
+        ],
+        "base_response": "Parece que la memoria se ve afectada por diferentes etapas del sueño, como el sueño MOR y el sueño de baja onda (SBO). En un estudio realizado por Born, Rasch y Gays, se tomaron varios grupos de sujetos humanos: el grupo de control y el grupo de ensayo."
+    },
+    {
+        "intent_id": "descanso_clasificacion_taxonomica_estudio_tomaron",
+        "keywords": [
+            "estudio",
+            "tomaron",
+            "grupos",
+            "sujetos",
+            "grupo",
+            "control"
+        ],
+        "base_response": "En un estudio realizado por Born, Rasch y Gays, se tomaron varios grupos de sujetos humanos: el grupo de control y el grupo de ensayo. Se encomendó una tarea mental a medianoche (grupo de ensayo) y otra tarea al final de la noche (grupo de control)."
+    },
+    {
+        "intent_id": "descanso_clasificacion_taxonomica_grupo_ensayo",
+        "keywords": [
+            "grupo",
+            "ensayo",
+            "control",
+            "memoria",
+            "trabajo"
+        ],
+        "base_response": "El grupo de ensayo dio un 16 por ciento más que el grupo de control (en memoria declarativa), mientras que el grupo de control dio un 25 por ciento más que el grupo de ensayo (en memoria de trabajo)."
+    },
+    {
+        "intent_id": "descanso_definicion_anatomica_indica_memoria",
+        "keywords": [
+            "indica",
+            "memoria",
+            "trabajo",
+            "necesitamos",
+            "periodo",
+            "sueno"
+        ],
+        "base_response": "Esto indica que la memoria de trabajo (la que más necesitamos) es más alta después del periodo de sueño MOR más extenso (hacia el final de la noche) y que, en cambio, la memoria declarativa (la que menos necesitamos) se enriquece con el SBO."
+    },
+    {
+        "intent_id": "descanso_experimentos_demostraciones_estudio_neurocientifico",
+        "keywords": [
+            "estudio",
+            "neurocientifico",
+            "apoya",
+            "resultados",
+            "sujetos",
+            "ratas"
+        ],
+        "base_response": "Un estudio realizado por Datta, un neurocientífico de la Escuela de Medicina en la Universidad de Boston, apoya indirectamente estos resultados. Los sujetos fueron 22 ratas macho. Se construyó una caja donde una rata podía moverse libremente de un lado a otro."
+    },
+    {
+        "intent_id": "descanso_definicion_anatomica_sujetos_ratas",
+        "keywords": [
+            "sujetos",
+            "ratas",
+            "construyo",
+            "caja",
+            "rata",
+            "moverse"
+        ],
+        "base_response": "Los sujetos fueron 22 ratas macho. Se construyó una caja donde una rata podía moverse libremente de un lado a otro. El fondo de la caja estaba hecho con una rejilla de acero. Se ponía una rata en la caja y una activaba una potente luz acompañada de un sonido."
+    },
+    {
+        "intent_id": "descanso_definicion_anatomica_construyo_caja",
+        "keywords": [
+            "construyo",
+            "caja",
+            "rata",
+            "moverse",
+            "fondo",
+            "rejilla"
+        ],
+        "base_response": "Se construyó una caja donde una rata podía moverse libremente de un lado a otro. El fondo de la caja estaba hecho con una rejilla de acero. Se ponía una rata en la caja y una activaba una potente luz acompañada de un sonido."
+    },
+    {
+        "intent_id": "descanso_definicion_anatomica_fondo_caja",
+        "keywords": [
+            "fondo",
+            "caja",
+            "rejilla",
+            "acero",
+            "ponia",
+            "rata"
+        ],
+        "base_response": "El fondo de la caja estaba hecho con una rejilla de acero. Se ponía una rata en la caja y una activaba una potente luz acompañada de un sonido. Después de cinco segundos, se aplicaba una descarga eléctrica en la rata."
+    },
+    {
+        "intent_id": "descanso_definicion_anatomica_ponia_rata",
+        "keywords": [
+            "ponia",
+            "rata",
+            "caja",
+            "activaba",
+            "luz",
+            "sonido"
+        ],
+        "base_response": "Se ponía una rata en la caja y una activaba una potente luz acompañada de un sonido. Después de cinco segundos, se aplicaba una descarga eléctrica en la rata. Una vez aplicada la descarga, la rata se podía mover al otro lado de la caja y evitar la descarga."
+    },
+    {
+        "intent_id": "descanso_definicion_anatomica_segundos_aplicaba",
+        "keywords": [
+            "segundos",
+            "aplicaba",
+            "descarga",
+            "rata",
+            "mover",
+            "caja"
+        ],
+        "base_response": "Después de cinco segundos, se aplicaba una descarga eléctrica en la rata. Una vez aplicada la descarga, la rata se podía mover al otro lado de la caja y evitar la descarga. La duración de la descarga nunca era de más de 5 segundos."
+    },
+    {
+        "intent_id": "descanso_definicion_anatomica_descarga_rata",
+        "keywords": [
+            "descarga",
+            "rata",
+            "mover",
+            "caja",
+            "evitar",
+            "duracion"
+        ],
+        "base_response": "Una vez aplicada la descarga, la rata se podía mover al otro lado de la caja y evitar la descarga. La duración de la descarga nunca era de más de 5 segundos. Esto se repitió 30 veces en la mitad de las ratas."
+    },
+    {
+        "intent_id": "descanso_aplicaciones_practicas_repitio_mitad",
+        "keywords": [
+            "repitio",
+            "mitad",
+            "ratas",
+            "grupo",
+            "control",
+            "reaccion"
+        ],
+        "base_response": "Esto se repitió 30 veces en la mitad de las ratas. A la otra mitad, el grupo de control, le hicieron lo mismo pero sin tener en cuenta su reacción; después de las sesiones, se puso a las ratas en otra caja y les hicieron registros poligráficos flotando seis horas."
+    },
+    {
+        "intent_id": "descanso_aplicaciones_practicas_mitad_grupo",
+        "keywords": [
+            "mitad",
+            "grupo",
+            "control",
+            "reaccion",
+            "sesiones",
+            "puso"
+        ],
+        "base_response": "A la otra mitad, el grupo de control, le hicieron lo mismo pero sin tener en cuenta su reacción; después de las sesiones, se puso a las ratas en otra caja y les hicieron registros poligráficos flotando seis horas."
+    },
+    {
+        "intent_id": "descanso_historia_origen_evolucion_estudio_determino",
+        "keywords": [
+            "estudio",
+            "determino",
+            "sesiones",
+            "descargas",
+            "ratas",
+            "pasaban"
+        ],
+        "base_response": "Este estudio determinó que, después de las sesiones (descargas eléctricas), las ratas pasaban un 25,47 por ciento más tiempo en sueño MOR. Estas pruebas apoyan los resultados del estudio de Born y su equipo, que indica una correlación entre el sueño MOR y el conocimiento procedimental."
+    },
+    {
+        "intent_id": "descanso_experimentos_demostraciones_estimulacion_corriente",
+        "keywords": [
+            "estimulacion",
+            "corriente",
+            "mejora",
+            "retencion",
+            "parejas",
+            "palabras"
+        ],
+        "base_response": "La estimulación de corriente continua mejora muchísimo la retención de parejas de palabras al día siguiente, lo que demuestra que el SWS tiene un papel importante en la consolidación de los recuerdos episódicos. Los diversos estudios sugieren que existe una correlación entre el sueño y las funciones de la memoria."
+    },
+    {
+        "intent_id": "descanso_definicion_anatomica_investigadores_sueno",
+        "keywords": [
+            "investigadores",
+            "sueno",
+            "memoria",
+            "aprendizaje",
+            "consiste",
+            "dendritas"
+        ],
+        "base_response": "Los investigadores del sueño de Harvard Saper y Stickgold dijeron que una parte esencial de la memoria y del aprendizaje consiste en que las dendritas de las células nerviosas envíen información a las células para hacer nuevas conexiones neuronales."
+    },
+    {
+        "intent_id": "descanso_dinamica_funcionamiento_proceso_dendritas",
+        "keywords": [
+            "proceso",
+            "dendritas",
+            "recibir",
+            "tipo",
+            "informacion",
+            "sugiere"
+        ],
+        "base_response": "Para hacer este proceso, las dendritas no deben recibir ningún tipo de información externa y por ello se sugiere que ocurre durante el sueño. == Áreas del encéfalo implicadas en el sueño == Región anterior del hipotálamo, área del prosencéfalo basal (sueño); Región posterior del hipotálamo, área del mesencéfalo (vigilia)."
+    },
+    {
+        "intent_id": "descanso_historia_origen_evolucion_areas_encefalo",
+        "keywords": [
+            "areas",
+            "encefalo",
+            "regulacion",
+            "sueno",
+            "principios",
+            "siglo"
+        ],
+        "base_response": "Estas dos áreas del encéfalo que están involucradas en la regulación del sueño fueron descubiertas, a principios del siglo XX, antes de que surgiera la neurociencia comportamental moderna, por el neurólogo vienés barón Constantin von Economo."
+    },
+    {
+        "intent_id": "descanso_propiedades_quimicas_implicacion_areas",
+        "keywords": [
+            "implicacion",
+            "areas",
+            "confirmo",
+            "estudios",
+            "lesion",
+            "animales"
+        ],
+        "base_response": "Posteriormente la implicación de estas dos áreas se confirmó mediante estudios de lesión en animales experimentales (Saper, Chou y Scammell, 2001). Aunque no se han aclarado los factores que desencadenan el sueño, varias líneas de investigación hacen pensar que en el encéfalo existen sustancias que lo inducen."
+    },
+    {
+        "intent_id": "descanso_definicion_anatomica_acumula_periodos",
+        "keywords": [
+            "acumula",
+            "periodos",
+            "adenosin",
+            "trifosfato",
+            "sistema",
+            "une"
+        ],
+        "base_response": "Una de ellas podría ser la adenosina, que se acumula durante los periodos de uso intenso del ATP (adenosín trifosfato) en el sistema nervioso, y se une a receptores específicos, los A1, e inhibe ciertas neuronas colinérgicas (liberadoras de acetilcolina) del sistema de activación reticular que participan en el despertar."
+    },
+    {
+        "intent_id": "descanso_propiedades_quimicas_cafeina_cafe",
+        "keywords": [
+            "cafeina",
+            "cafe",
+            "metilxantinas",
+            "sustancias",
+            "efecto",
+            "mantener"
+        ],
+        "base_response": "La cafeína (del café) y otras metilxantinas, sustancias conocidas por su efecto de mantener la vigilia, se unen con los receptores A1 y los bloquean, con lo que impiden que la adenosina se fije a ellos e induzca el sueño."
+    },
+    {
+        "intent_id": "descanso_definicion_anatomica_farmacos_afectan",
+        "keywords": [
+            "farmacos",
+            "afectan",
+            "sueno",
+            "mayoria",
+            "influyen",
+            "clasificarse"
+        ],
+        "base_response": "=== Fármacos que afectan al sueño === La mayoría de los fármacos que influyen en el sueño pueden clasificarse en una de dos categorías diferentes: Hipnóticos: aumentan la cantidad de sueño. Antihipnóticos: disminuyen la cantidad de sueño."
+    },
+    {
+        "intent_id": "descanso_errores_patologias_antihipnoticos_disminuyen",
+        "keywords": [
+            "antihipnoticos",
+            "disminuyen",
+            "cantidad",
+            "sueno",
+            "categoria",
+            "cabria"
+        ],
+        "base_response": "Antihipnóticos: disminuyen la cantidad de sueño. Hay una tercera categoría que cabría introducir, la de los fármacos que influyen sobre la ritmicidad circardiana, siendo el principal fármaco la melatonina. === Enfermedades del sueño === Apnea del sueño."
+    },
+    {
+        "intent_id": "descanso_errores_patologias_persona_deja",
+        "keywords": [
+            "persona",
+            "deja",
+            "respirar",
+            "segundos",
+            "forma",
+            "deba"
+        ],
+        "base_response": "Trastorno en que la persona deja de respirar durante 10 segundos o más, en forma repetitiva, mientras está dormida, Lo más frecuente es que se deba a pérdida del tono en los músculos de la faringe, lo cual permite que ocurra el colapso de las vías respiratorias."
+    },
+    {
+        "intent_id": "descanso_consecuencias_largo_plazo_conciliar_sueno",
+        "keywords": [
+            "conciliar",
+            "sueno",
+            "quedarse",
+            "inhibir",
+            "periodos",
+            "vigilia"
+        ],
+        "base_response": "Dificultad para conciliar el sueño y quedarse dormido. Estado en que no se puede inhibir el sueño REM durante los períodos de vigilia. En consecuencia, sobrevienen durante el día episodios de sueño involuntarios con duración de unos 15 minutos cada uno."
+    },
+    {
+        "intent_id": "descanso_impacto_ambiental_aguas_produce",
+        "keywords": [
+            "aguas",
+            "produce",
+            "cambios",
+            "promedio",
+            "minutos",
+            "alelo"
+        ],
+        "base_response": "Variante aguas abajo del gen VRK2, que produce cambios con un promedio de 2 minutos por alelo en la duración del sueño. Variante agua arriba del gen VRK2, que produce cambios con un promedio de 1,6 minutos en la duración del sueño."
+    },
+    {
+        "intent_id": "descanso_historia_origen_evolucion_establecer_fenomenos",
+        "keywords": [
+            "establecer",
+            "fenomenos",
+            "causa-efecto",
+            "parametros",
+            "factores",
+            "afectan"
+        ],
+        "base_response": "Sin embargo no se han podido establecer fenómenos de causa-efecto en estos parámetros, debido a los múltiples factores que afectan a los mismos. === Sueño comunitario === El sueño compartido ha sido una práctica común a lo largo de la historia, desde la prehistoria hasta la era moderna."
+    },
+    {
+        "intent_id": "descanso_historia_origen_evolucion_sueno_practica",
+        "keywords": [
+            "sueno",
+            "practica",
+            "historia",
+            "prehistoria",
+            "antiguedad",
+            "escasez"
+        ],
+        "base_response": "=== Sueño comunitario === El sueño compartido ha sido una práctica común a lo largo de la historia, desde la prehistoria hasta la era moderna. En la antigüedad, la escasez de camas y la búsqueda de compañía y seguridad llevaban a las personas a dormir juntas, incluso con extraños."
+    },
+    {
+        "intent_id": "descanso_aplicaciones_practicas_antiguedad_escasez",
+        "keywords": [
+            "antiguedad",
+            "escasez",
+            "camas",
+            "busqueda",
+            "compania",
+            "seguridad"
+        ],
+        "base_response": "En la antigüedad, la escasez de camas y la búsqueda de compañía y seguridad llevaban a las personas a dormir juntas, incluso con extraños. Se han encontrado pruebas arqueológicas de colchones de follaje compartidos por grupos familiares en la Edad de Piedra, hace unos 77.000 años."
+    },
+    {
+        "intent_id": "descanso_historia_origen_evolucion_encontrado_pruebas",
+        "keywords": [
+            "encontrado",
+            "pruebas",
+            "colchones",
+            "follaje",
+            "grupos",
+            "edad"
+        ],
+        "base_response": "Se han encontrado pruebas arqueológicas de colchones de follaje compartidos por grupos familiares en la Edad de Piedra, hace unos 77.000 años. Durante siglos, compartir la cama era la norma, incluso entre clases sociales diversas."
+    },
+    {
+        "intent_id": "descanso_historia_origen_evolucion_siglos_compartir",
+        "keywords": [
+            "siglos",
+            "compartir",
+            "cama",
+            "norma",
+            "clases",
+            "edad"
+        ],
+        "base_response": "Durante siglos, compartir la cama era la norma, incluso entre clases sociales diversas. Desde la Edad Media hasta el período moderno, la mayoría de las personas, excepto la aristocracia y los ricos, compartían la cama por razones prácticas y sociales."
+    },
+    {
+        "intent_id": "descanso_importancia_impacto_edad_periodo",
+        "keywords": [
+            "edad",
+            "periodo",
+            "mayoria",
+            "personas",
+            "aristocracia",
+            "ricos"
+        ],
+        "base_response": "Desde la Edad Media hasta el período moderno, la mayoría de las personas, excepto la aristocracia y los ricos, compartían la cama por razones prácticas y sociales. Dormir juntos no tenía connotaciones sexuales y era una forma de fortalecer vínculos sociales y privacidad para compartir secretos."
+    },
+    {
+        "intent_id": "descanso_historia_origen_evolucion_dormir_connotaciones",
+        "keywords": [
+            "dormir",
+            "connotaciones",
+            "forma",
+            "fortalecer",
+            "vinculos",
+            "privacidad"
+        ],
+        "base_response": "Dormir juntos no tenía connotaciones sexuales y era una forma de fortalecer vínculos sociales y privacidad para compartir secretos. En la época moderna temprana, la práctica continuó siendo común, con ejemplos de registros detallados de sueño comunitario en el siglo XVII."
+    },
+    {
+        "intent_id": "descanso_historia_origen_evolucion_epoca_practica",
+        "keywords": [
+            "epoca",
+            "practica",
+            "continuo",
+            "ejemplos",
+            "registros",
+            "sueno"
+        ],
+        "base_response": "En la época moderna temprana, la práctica continuó siendo común, con ejemplos de registros detallados de sueño comunitario en el siglo XVII. Sin embargo, compartir la cama también tenía sus desafíos, como la falta de higiene y el riesgo de enfermedades y plagas."
+    },
+    {
+        "intent_id": "descanso_historia_origen_evolucion_mediados_siglo",
+        "keywords": [
+            "mediados",
+            "siglo",
+            "xix",
+            "idea",
+            "sueno",
+            "gano"
+        ],
+        "base_response": "A mediados del siglo XIX, la idea del sueño individualista ganó popularidad, promovida por figuras como el médico estadounidense William Whitty Hall, quien la consideraba más higiénica y moralmente superior. Esta tendencia llevó al abandono gradual del sueño compartido, incluso entre parejas casadas, a favor de camas separadas."
+    },
+    {
+        "intent_id": "descanso_aplicaciones_practicas_tendencia_llevo",
+        "keywords": [
+            "tendencia",
+            "llevo",
+            "abandono",
+            "sueno",
+            "parejas",
+            "favor"
+        ],
+        "base_response": "Esta tendencia llevó al abandono gradual del sueño compartido, incluso entre parejas casadas, a favor de camas separadas. Aunque en la década de 1950 se consideraba que dormir separados indicaba problemas matrimoniales, el sueño social nunca recuperó su popularidad pasada."
+    },
+    {
+        "intent_id": "descanso_contexto_ecologico_decada_",
+        "keywords": [
+            "decada",
+            "1950",
+            "consideraba",
+            "dormir",
+            "indicaba",
+            "problemas"
+        ],
+        "base_response": "Aunque en la década de 1950 se consideraba que dormir separados indicaba problemas matrimoniales, el sueño social nunca recuperó su popularidad pasada. La mayoría de las personas actualmente prefieren dormir solas por comodidad y para diseñar su entorno de sueño según sus propias necesidades."
+    },
+    {
+        "intent_id": "descanso_contexto_ecologico_mayoria_personas",
+        "keywords": [
+            "mayoria",
+            "personas",
+            "prefieren",
+            "dormir",
+            "comodidad",
+            "disenar"
+        ],
+        "base_response": "La mayoría de las personas actualmente prefieren dormir solas por comodidad y para diseñar su entorno de sueño según sus propias necesidades. == El sueño en los animales == El acto de soñar ha sido solo confirmado en el Homo sapiens."
+    },
+    {
+        "intent_id": "descanso_transformacion_ciclos_sueno_animales",
+        "keywords": [
+            "sueno",
+            "animales",
+            "acto",
+            "sonar",
+            "confirmado",
+            "pasan"
+        ],
+        "base_response": "== El sueño en los animales == El acto de soñar ha sido solo confirmado en el Homo sapiens. Algunos animales también pasan por la fase MOR del sueño, pero su experiencia subjetiva es difícil de determinar."
+    },
+    {
+        "intent_id": "descanso_transformacion_ciclos_animales_pasan",
+        "keywords": [
+            "animales",
+            "pasan",
+            "fase",
+            "sueno",
+            "experiencia",
+            "determinar"
+        ],
+        "base_response": "Algunos animales también pasan por la fase MOR del sueño, pero su experiencia subjetiva es difícil de determinar. Parece que los mamíferos son los animales con mayor probabilidad de soñar debido a su ciclo del sueño similar al humano."
+    },
+    {
+        "intent_id": "descanso_calculos_formulas_lugar_estadisticas",
+        "keywords": [
+            "lugar",
+            "estadisticas",
+            "terminos",
+            "sueno",
+            "gato",
+            "pasa"
+        ],
+        "base_response": "En el primer lugar de las estadísticas en términos de sueño se encuentra el gato, que pasa un 70 % de su vida durmiendo y, a medida que envejece, su etapa de vigilia disminuye ostensiblemente."
+    },
+    {
+        "intent_id": "descanso_historia_origen_evolucion_caballos_patos",
+        "keywords": [
+            "caballos",
+            "patos",
+            "ovejas",
+            "dormir",
+            "pie",
+            "experimentar"
+        ],
+        "base_response": "Los caballos, los patos y las ovejas pueden dormir de pie o echados. Sin embargo, no pueden experimentar sueño MOR mientras están de pie. El animal que más tiempo pasa en fase MOR durante el sueño es el armadillo."
+    },
+    {
+        "intent_id": "descanso_historia_origen_evolucion_animal_tiempo",
+        "keywords": [
+            "animal",
+            "tiempo",
+            "pasa",
+            "fase",
+            "sueno",
+            "armadillo"
+        ],
+        "base_response": "El animal que más tiempo pasa en fase MOR durante el sueño es el armadillo. Las ballenas y los delfines son diferentes al resto de los mamíferos: siempre tienen que estar conscientes, ya que necesitan salir a la superficie a respirar, solo una parte de su cerebro duerme cada vez."
+    },
+    {
+        "intent_id": "descanso_definicion_anatomica_ballenas_delfines",
+        "keywords": [
+            "ballenas",
+            "delfines",
+            "resto",
+            "mamiferos",
+            "necesitan",
+            "salir"
+        ],
+        "base_response": "Las ballenas y los delfines son diferentes al resto de los mamíferos: siempre tienen que estar conscientes, ya que necesitan salir a la superficie a respirar, solo una parte de su cerebro duerme cada vez."
+    },
+    {
+        "intent_id": "descanso_errores_patologias_trastornos_",
+        "keywords": [
+            "trastornos",
+            "2005",
+            "base",
+            "medicina"
+        ],
+        "base_response": "2021, Neurología Clínica: Diagnóstico y Tratamiento. 668, DSM-IV-TR: Manual diagnóstico y estadístico de los trastornos mentales. Pocock, G. & Richards, C. D. 2005. 2005, Fisiología humana: la base de la medicina. Barcelona: Elsevier España Vallejo Ruiloba, J. 2006."
+    },
+    {
+        "intent_id": "descanso_errores_patologias_trastornos__base",
+        "keywords": [
+            "trastornos",
+            "2005",
+            "base",
+            "medicina",
+            "psicopatologia",
+            "psiquiatria"
+        ],
+        "base_response": "668, DSM-IV-TR: Manual diagnóstico y estadístico de los trastornos mentales. Pocock, G. & Richards, C. D. 2005. 2005, Fisiología humana: la base de la medicina. Barcelona: Elsevier España Vallejo Ruiloba, J. 2006. 232, Introducción a la psicopatología y a la psiquiatría."
+    },
+    {
+        "intent_id": "descanso_definicion_anatomica__base",
+        "keywords": [
+            "2005",
+            "base",
+            "medicina",
+            "psicopatologia",
+            "psiquiatria",
+            "alberga"
+        ],
+        "base_response": "Pocock, G. & Richards, C. D. 2005. 2005, Fisiología humana: la base de la medicina. Barcelona: Elsevier España Vallejo Ruiloba, J. 2006. 232, Introducción a la psicopatología y a la psiquiatría. == Enlaces externos == Wikimedia Commons alberga una categoría multimedia sobre Sueño."
+    },
+    {
+        "intent_id": "descanso_definicion_anatomica__base_medicina",
+        "keywords": [
+            "2005",
+            "base",
+            "medicina",
+            "psicopatologia",
+            "psiquiatria",
+            "alberga"
+        ],
+        "base_response": "2005, Fisiología humana: la base de la medicina. Barcelona: Elsevier España Vallejo Ruiloba, J. 2006. 232, Introducción a la psicopatología y a la psiquiatría. == Enlaces externos == Wikimedia Commons alberga una categoría multimedia sobre Sueño."
+    },
+    {
+        "intent_id": "descanso_definicion_anatomica_psicopatologia_psiquiatria",
+        "keywords": [
+            "psicopatologia",
+            "psiquiatria",
+            "alberga",
+            "categoria",
+            "frases",
+            "celebres"
+        ],
+        "base_response": "Barcelona: Elsevier España Vallejo Ruiloba, J. 2006. 232, Introducción a la psicopatología y a la psiquiatría. == Enlaces externos == Wikimedia Commons alberga una categoría multimedia sobre Sueño. Wikiquote alberga frases célebres de o sobre Sueño."
+    },
+    {
+        "intent_id": "bienestar_historia_origen_evolucion_salud_contrapone",
+        "keywords": [
+            "salud",
+            "contrapone",
+            "enfermedad",
+            "objeto",
+            "atencion",
+            "medicina"
+        ],
+        "base_response": "El término salud se contrapone al de enfermedad, y es objeto de especial atención por parte de la medicina y de las ciencias de la salud. == Historia == El significado de la salud ha evolucionado con el tiempo."
+    },
+    {
+        "intent_id": "bienestar_definicion_anatomica_perspectiva_modelo",
+        "keywords": [
+            "perspectiva",
+            "modelo",
+            "definiciones",
+            "salud",
+            "centraban",
+            "tema"
+        ],
+        "base_response": "De acuerdo con la perspectiva del modelo biomédico, las primeras definiciones de salud se centraban en el tema de la capacidad de funcionamiento del cuerpo; la salud se consideraba un estado de funcionamiento normal que podía verse alterado de vez en cuando por la enfermedad."
+    },
+    {
+        "intent_id": "bienestar_importancia_impacto_ejemplo_definicion",
+        "keywords": [
+            "ejemplo",
+            "definicion",
+            "salud",
+            "integridad",
+            "capacidad",
+            "desempenar"
+        ],
+        "base_response": "Un ejemplo de esta definición de salud es: 'un estado caracterizado por la integridad anatómica, fisiológica y psicológica; la capacidad de desempeñar roles familiares, laborales y comunitarios personalmente valorados; la capacidad de hacer frente al físico, biológico, psicológico y estrés social'."
+    },
+    {
+        "intent_id": "bienestar_errores_patologias__cambio",
+        "keywords": [
+            "1948",
+            "cambio",
+            "definiciones",
+            "propuso",
+            "definicion",
+            "apuntaba"
+        ],
+        "base_response": "Luego, en 1948, en un cambio radical de las definiciones anteriores, la Organización Mundial de la Salud (OMS) propuso una definición que apuntaba más alto: vincular la salud con el bienestar, en términos de 'bienestar físico, mental y social, y no sólo la ausencia de enfermedades y dolencias'."
+    },
+    {
+        "intent_id": "bienestar_historia_origen_evolucion_definicion_acogida",
+        "keywords": [
+            "definicion",
+            "acogida",
+            "innovadora",
+            "criticada",
+            "considerarse",
+            "tiempo"
+        ],
+        "base_response": "Aunque esta definición fue acogida por algunos como innovadora, también fue criticada por ser vaga, excesivamente amplia y por no considerarse medible. Durante mucho tiempo, se dejó de lado como un ideal poco práctico y la mayoría de los debates sobre la salud volvieron a la practicidad del modelo biomédico."
+    },
+    {
+        "intent_id": "bienestar_dinamica_funcionamiento_desempeno_papel",
+        "keywords": [
+            "desempeno",
+            "papel",
+            "fomentar",
+            "desarrollo",
+            "movimiento",
+            "promocion"
+        ],
+        "base_response": "Una vez más, la OMS desempeñó un papel destacado al fomentar el desarrollo del movimiento de promoción de la salud en la década de 1980. Esto aportó una nueva concepción de la salud, no como un estado, sino en términos dinámicos de resiliencia, es decir, como 'un recurso para vivir'."
+    },
+    {
+        "intent_id": "bienestar_contexto_ecologico__reviso",
+        "keywords": [
+            "1984",
+            "reviso",
+            "definicion",
+            "salud",
+            "definio",
+            "grado"
+        ],
+        "base_response": "En 1984, la OMS revisó la definición de salud y la definió como 'el grado en que un individuo o grupo es capaz de realizar sus aspiraciones y satisfacer sus necesidades, así como de cambiar o hacer frente a su entorno'."
+    },
+    {
+        "intent_id": "bienestar_importancia_impacto_salud_referia",
+        "keywords": [
+            "salud",
+            "referia",
+            "capacidad",
+            "persona",
+            "manejar",
+            "estres"
+        ],
+        "base_response": "La salud mental, intelectual, emocional y social se refería a la capacidad de una persona para manejar el estrés, para adquirir habilidades, para mantener relaciones, todo lo cual forma recursos para la resiliencia y la vida independiente."
+    },
+    {
+        "intent_id": "bienestar_definicion_anatomica_abre_posibilidades",
+        "keywords": [
+            "abre",
+            "posibilidades",
+            "salud",
+            "ensenada",
+            "finales",
+            "decada"
+        ],
+        "base_response": "Esto abre muchas posibilidades para que la salud sea enseñada, fortalecida y aprendida. Desde finales de la década de 1970, el programa federal (EEUU) Gente saludable o Healthy People (en:) ha sido un componente visible del enfoque de Estados Unidos para mejorar la salud de la población."
+    },
+    {
+        "intent_id": "bienestar_proyecciones_futuras_decada_publica",
+        "keywords": [
+            "decada",
+            "publica",
+            "version",
+            "presentando",
+            "metas",
+            "identificando"
+        ],
+        "base_response": "En cada década, se publica una nueva versión de Healthy People, presentando metas actualizadas e identificando áreas temáticas y objetivos cuantificables para la mejora de la salud durante los diez años siguientes, con una evaluación en ese momento de los avances o la falta de ellos."
+    },
+    {
+        "intent_id": "bienestar_definicion_anatomica_avances_limitados",
+        "keywords": [
+            "avances",
+            "limitados",
+            "objetivos",
+            "suscitado",
+            "dudas",
+            "eficacia"
+        ],
+        "base_response": "Los avances han sido limitados en muchos objetivos, lo que ha suscitado dudas sobre la eficacia de Healthy People a la hora de determinar los resultados en el contexto de un sistema sanitario estadounidense descentralizado y descoordinado."
+    },
+    {
+        "intent_id": "bienestar_aplicaciones_practicas_interfaz_facilita",
+        "keywords": [
+            "interfaz",
+            "facilita",
+            "difusion",
+            "lugar",
+            "libros",
+            "producian"
+        ],
+        "base_response": "Una nueva interfaz digital ampliada facilita el uso y la difusión en lugar de los voluminosos libros impresos que se producían en el pasado. El impacto de estos cambios en Healthy People se determinará en los próximos años."
+    },
+    {
+        "intent_id": "bienestar_definicion_anatomica_impacto_cambios",
+        "keywords": [
+            "impacto",
+            "cambios",
+            "determinara",
+            "anos",
+            "actividades",
+            "prevenir"
+        ],
+        "base_response": "El impacto de estos cambios en Healthy People se determinará en los próximos años. Las actividades sistemáticas para prevenir o curar los problemas de salud y promover la buena salud en los seres humanos son llevadas a cabo por encargados de la atención médica."
+    },
+    {
+        "intent_id": "bienestar_definicion_anatomica_actividades_prevenir",
+        "keywords": [
+            "actividades",
+            "prevenir",
+            "curar",
+            "problemas",
+            "salud",
+            "promover"
+        ],
+        "base_response": "Las actividades sistemáticas para prevenir o curar los problemas de salud y promover la buena salud en los seres humanos son llevadas a cabo por encargados de la atención médica. Las aplicaciones con respecto a la salud de los animales están cubiertas por la ciencias veterinarias."
+    },
+    {
+        "intent_id": "bienestar_contexto_ecologico_termino_utiliza",
+        "keywords": [
+            "termino",
+            "utiliza",
+            "contexto",
+            "tipos",
+            "organizaciones",
+            "impactos"
+        ],
+        "base_response": "El término 'saludable' también se utiliza ampliamente en el contexto de muchos tipos de organizaciones no vivas y sus impactos en beneficio de los seres humanos, como en el sentido de comunidades saludables, ciudad saludable o medio ambiente saludable."
+    },
+    {
+        "intent_id": "bienestar_historia_origen_evolucion_decada_siglo",
+        "keywords": [
+            "decada",
+            "siglo",
+            "xxi",
+            "conceptualizacion",
+            "salud",
+            "capacidad"
+        ],
+        "base_response": "En la primera década del siglo XXI, la conceptualización de la salud como una capacidad abrió la puerta a que las autoevaluaciones se convirtieran en los principales indicadores para juzgar el desempeño de los esfuerzos destinados a mejorar la salud humana."
+    },
+    {
+        "intent_id": "bienestar_errores_patologias_creo_oportunidad",
+        "keywords": [
+            "creo",
+            "oportunidad",
+            "persona",
+            "sienta",
+            "presencia",
+            "enfermedades"
+        ],
+        "base_response": "También creó la oportunidad de que toda persona se sienta sana, incluso en presencia de múltiples enfermedades crónicas, o de una condición terminal, y de que se reexaminen los determinantes de la salud, alejándose del enfoque tradicional que se centra en la reducción de la prevalencia de las enfermedades."
+    },
+    {
+        "intent_id": "bienestar_errores_patologias_concepto_amplia",
+        "keywords": [
+            "concepto",
+            "amplia",
+            "salud",
+            "bienestar",
+            "ausencia",
+            "afecciones"
+        ],
+        "base_response": "Este concepto se amplía a: La salud es un estado de completo bienestar físico, mental y social, y no solamente la ausencia de afecciones o enfermedades. En la salud, como en la enfermedad, existen diversos grados de afectación y no debería ser tratada como una variable dicotómica."
+    },
+    {
+        "intent_id": "bienestar_importancia_impacto_contexto_promocion",
+        "keywords": [
+            "contexto",
+            "promocion",
+            "salud",
+            "considerada",
+            "llegar",
+            "recurso"
+        ],
+        "base_response": "Dentro del contexto de la promoción de la salud, la salud ha sido considerada no como un estado abstracto, sino como un medio para llegar a un fin, como un recurso que permite a las personas llevar una vida individual, social y económicamente productiva."
+    },
+    {
+        "intent_id": "bienestar_definicion_anatomica_concepto_acentua",
+        "keywords": [
+            "concepto",
+            "acentua",
+            "recursos",
+            "aptitudes",
+            "forma",
+            "capacidad"
+        ],
+        "base_response": "Se trata de un concepto positivo que acentúa los recursos sociales y personales, así como las aptitudes físicas. La forma física es la capacidad que tiene el cuerpo para realizar cualquier tipo de ejercicio donde muestra que tiene resistencia, fuerza, agilidad, habilidad, coordinación y flexibilidad."
+    },
+    {
+        "intent_id": "bienestar_errores_patologias_salud_caracteriza",
+        "keywords": [
+            "salud",
+            "caracteriza",
+            "persona",
+            "autoaceptacion",
+            "gracias",
+            "autoaprendizaje"
+        ],
+        "base_response": "Existe también la salud mental, la cual se caracteriza por el equilibrado estado emocional de una persona y su autoaceptación (gracias al autoaprendizaje y al autoconocimiento); en términos clínicos, es la ausencia de cualquier tipo de enfermedad mental."
+    },
+    {
+        "intent_id": "bienestar_importancia_impacto_salud_concibe",
+        "keywords": [
+            "salud",
+            "concibe",
+            "posibilidad",
+            "persona",
+            "gozar",
+            "armonia"
+        ],
+        "base_response": "La salud se concibe como la posibilidad que tiene una persona de gozar de una armonía biopsicosocial, en interacción dinámica con el medio en el cual vive. === Nivel subjetivo === No obstante, el concepto de salud (buena salud) es subjetivo."
+    },
+    {
+        "intent_id": "bienestar_errores_patologias_impidiendo_reconocimiento",
+        "keywords": [
+            "impidiendo",
+            "reconocimiento",
+            "trastornos",
+            "tratamiento",
+            "provocar",
+            "consecuencias"
+        ],
+        "base_response": "Este hecho está impidiendo el reconocimiento y diagnóstico de trastornos que, sin tratamiento, pueden provocar consecuencias graves sobre la salud. Como ejemplos destacados cabe citar la enfermedad celíaca o la malnutrición en personas de edad avanzada."
+    },
+    {
+        "intent_id": "bienestar_errores_patologias_aceptacion_salud",
+        "keywords": [
+            "aceptacion",
+            "salud",
+            "falta",
+            "concienciacion",
+            "importancia",
+            "prevencion"
+        ],
+        "base_response": "Asimismo, esta aceptación de una mala salud crónica como algo esperable o normal y la falta de concienciación acerca de la importancia de la prevención, conducen a un bajo seguimiento de los tratamientos prescritos en enfermedades crónicas diagnosticadas, con las consiguientes repercusiones negativas sobre la salud."
+    },
+    {
+        "intent_id": "bienestar_impacto_ambiental_proponen_denominacion",
+        "keywords": [
+            "proponen",
+            "denominacion",
+            "salud",
+            "abarca",
+            "aspectos",
+            "incluyendo"
+        ],
+        "base_response": "=== Salud plena e integral === Algunos proponen la denominación de “salud plena e integral”, que abarca todos los aspectos del ser humano, incluyendo lo ambiental y lo espiritual (intelectual y religioso), así como su interdependencia con el resto de los seres vivos que habitan el planeta."
+    },
+    {
+        "intent_id": "bienestar_definicion_anatomica_sostienen_union",
+        "keywords": [
+            "sostienen",
+            "union",
+            "cuerpo",
+            "alma",
+            "psique",
+            "espiritu"
+        ],
+        "base_response": "Sostienen que la unión de nuestro cuerpo, nuestra alma (psique) y nuestro espíritu hace que estemos “en vida” y que vivamos al modo “humano”, es decir, que estamos en el mundo y que aspiramos ser libres."
+    },
+    {
+        "intent_id": "bienestar_historia_origen_evolucion_encontramos_transitando",
+        "keywords": [
+            "encontramos",
+            "transitando",
+            "camino",
+            "conceptos",
+            "tiempo",
+            "englobarse"
+        ],
+        "base_response": "De esta manera, nos encontramos transitando un nuevo camino, basado en conceptos relativamente recientes, pero ya consolidados en el tiempo, que pueden englobarse bajo la idea de que “la salud es un compromiso de toda la sociedad en su conjunto”."
+    },
+    {
+        "intent_id": "bienestar_errores_patologias_sentido_propone",
+        "keywords": [
+            "sentido",
+            "propone",
+            "ampliacion",
+            "definicion",
+            "salud",
+            "bienestar"
+        ],
+        "base_response": "En este sentido, se propone una ampliación de la definición de salud de la OMS: “La salud es un estado completo de bienestar y no solamente la ausencia de afecciones o enfermedades”. == Nutrición == La alimentación es el principal factor que influye sobre la salud."
+    },
+    {
+        "intent_id": "bienestar_definicion_anatomica_alimentacion_factor",
+        "keywords": [
+            "alimentacion",
+            "factor",
+            "influye",
+            "salud",
+            "necesita",
+            "mantener"
+        ],
+        "base_response": "== Nutrición == La alimentación es el principal factor que influye sobre la salud. Para tener una buena salud se necesita mantener una dieta equilibrada, con una gran variedad de alimentos, lograr un equilibrio entre calorías, ingerir las comidas diarias recomendadas, entre otros."
+    },
+    {
+        "intent_id": "bienestar_definicion_anatomica_salud_necesita",
+        "keywords": [
+            "salud",
+            "necesita",
+            "mantener",
+            "dieta",
+            "variedad",
+            "alimentos"
+        ],
+        "base_response": "Para tener una buena salud se necesita mantener una dieta equilibrada, con una gran variedad de alimentos, lograr un equilibrio entre calorías, ingerir las comidas diarias recomendadas, entre otros. Podemos mirar en la pirámide alimentaria los alimentos para una nutrición sana y equilibrada."
+    },
+    {
+        "intent_id": "bienestar_historia_origen_evolucion_consumir_grasas",
+        "keywords": [
+            "consumir",
+            "grasas",
+            "lipidos",
+            "frutas",
+            "verduras",
+            "productos"
+        ],
+        "base_response": "; se deben consumir pocas grasas y lípidos, muchas frutas y verduras, los productos de origen animal se deben consumir de manera regular, los cereales se deben consumir de manera constante, antes de cada comida se deben lavar frutas y verduras."
+    },
+    {
+        "intent_id": "bienestar_errores_patologias_nutricion_dato",
+        "keywords": [
+            "nutricion",
+            "dato",
+            "higiene",
+            "evitar",
+            "enfermedades",
+            "olvidar"
+        ],
+        "base_response": "En la nutrición, un dato muy importante es la higiene que es necesaria para evitar enfermedades estomacales. No debemos olvidar el ejercicio que sirve para una buena digestión. También es muy importante no ponernos a dieta sin instrucciones de un especialista, ya que no es seguro."
+    },
+    {
+        "intent_id": "bienestar_definicion_anatomica_olvidar_ejercicio",
+        "keywords": [
+            "olvidar",
+            "ejercicio",
+            "sirve",
+            "digestion",
+            "ponernos",
+            "dieta"
+        ],
+        "base_response": "No debemos olvidar el ejercicio que sirve para una buena digestión. También es muy importante no ponernos a dieta sin instrucciones de un especialista, ya que no es seguro. Lo mejor, es comer todos los alimentos que nos ofrece la pirámide alimentaria, lo importante, es consumirlas en porciones adecuadas."
+    },
+    {
+        "intent_id": "bienestar_definicion_anatomica_ponernos_dieta",
+        "keywords": [
+            "ponernos",
+            "dieta",
+            "instrucciones",
+            "especialista",
+            "comer",
+            "alimentos"
+        ],
+        "base_response": "También es muy importante no ponernos a dieta sin instrucciones de un especialista, ya que no es seguro. Lo mejor, es comer todos los alimentos que nos ofrece la pirámide alimentaria, lo importante, es consumirlas en porciones adecuadas."
+    },
+    {
+        "intent_id": "bienestar_dinamica_funcionamiento_practica_actividad",
+        "keywords": [
+            "practica",
+            "actividad",
+            "edad",
+            "produce",
+            "bienestar",
+            "mejora"
+        ],
+        "base_response": "== Ejercicio físico == La práctica regular de actividad física en cualquier edad produce un bienestar y mejora tanto en el estado de ánimo como físicamente. El ejercicio físico es cualquier movimiento corporal repetido con el propósito de conservar la salud o mejorarla."
+    },
+    {
+        "intent_id": "bienestar_errores_patologias_dirigido_mejoramiento",
+        "keywords": [
+            "dirigido",
+            "mejoramiento",
+            "capacidad",
+            "habilidad",
+            "ejercicio",
+            "componente"
+        ],
+        "base_response": "A menudo también es dirigido hacia el mejoramiento de la capacidad atlética y/o la habilidad. El ejercicio físico regular es un componente necesario en la prevención de algunas enfermedades como problemas cardíacos, enfermedades cardiovasculares, Diabetes mellitus tipo 2, sobrepeso, dolores de espalda, entre otros."
+    },
+    {
+        "intent_id": "bienestar_dinamica_funcionamiento_ejercicio_practicar",
+        "keywords": [
+            "ejercicio",
+            "practicar",
+            "mesura",
+            "forma",
+            "prestando",
+            "atencion"
+        ],
+        "base_response": "El ejercicio físico se debe practicar con mesura y de forma equilibrada, prestando atención a los cambios físicos internos para aprender a comprender la relación causa-efecto entre el movimiento físico concreto y su efecto directo con los cambios internos percibidos."
+    },
+    {
+        "intent_id": "bienestar_definicion_anatomica_desgaste_partes",
+        "keywords": [
+            "desgaste",
+            "partes",
+            "cuerpo",
+            "cabe",
+            "insistir",
+            "equilibrio"
+        ],
+        "base_response": "Recomendable porque puede llevar a un desgaste físico de ciertas partes del cuerpo. Por eso, cabe insistir en el equilibrio de fuerzas, tanto internas como externas, y a ello ayuda el autoconocimiento mediante un crítico autoanálisis (autoexámenes de conciencia mientras se desarrolla la actividad física)."
+    },
+    {
+        "intent_id": "bienestar_ventajas_desventajas_ejercicio_salud",
+        "keywords": [
+            "ejercicio",
+            "salud",
+            "complementarse",
+            "dieta",
+            "calidad",
+            "vida"
+        ],
+        "base_response": "El ejercicio físico es necesario para una salud equilibrada; además, debe complementarse con una dieta equilibrada y una adecuada calidad de vida. Sus beneficios pueden resumirse en los siguientes puntos: Aumenta la vitalidad, por lo que proporciona más energía y capacidad de trabajo."
+    },
+    {
+        "intent_id": "bienestar_ventajas_desventajas_beneficios_resumirse",
+        "keywords": [
+            "beneficios",
+            "resumirse",
+            "puntos",
+            "aumenta",
+            "vitalidad",
+            "proporciona"
+        ],
+        "base_response": "Sus beneficios pueden resumirse en los siguientes puntos: Aumenta la vitalidad, por lo que proporciona más energía y capacidad de trabajo. Auxilia en el combate del estrés, ansiedad y depresión. Mejora tono muscular y resistencia a la fatiga."
+    },
+    {
+        "intent_id": "bienestar_mitos_concepciones_combate_estres",
+        "keywords": [
+            "combate",
+            "estres",
+            "ansiedad",
+            "depresion",
+            "tono",
+            "resistencia"
+        ],
+        "base_response": "Auxilia en el combate del estrés, ansiedad y depresión. Mejora tono muscular y resistencia a la fatiga. Facilita la relajación y disminuye la tensión. Quema calorías, ayudando a perder peso excesivo o a mantenerse en el peso ideal."
+    },
+    {
+        "intent_id": "bienestar_mitos_concepciones_tono_resistencia",
+        "keywords": [
+            "tono",
+            "resistencia",
+            "fatiga",
+            "facilita",
+            "relajacion",
+            "disminuye"
+        ],
+        "base_response": "Mejora tono muscular y resistencia a la fatiga. Facilita la relajación y disminuye la tensión. Quema calorías, ayudando a perder peso excesivo o a mantenerse en el peso ideal. Fomenta la convivencia entre amigos y familiares, además de dar la oportunidad de conocer gente."
+    },
+    {
+        "intent_id": "bienestar_mitos_concepciones_facilita_relajacion",
+        "keywords": [
+            "facilita",
+            "relajacion",
+            "disminuye",
+            "tension",
+            "quema",
+            "calorias"
+        ],
+        "base_response": "Facilita la relajación y disminuye la tensión. Quema calorías, ayudando a perder peso excesivo o a mantenerse en el peso ideal. Fomenta la convivencia entre amigos y familiares, además de dar la oportunidad de conocer gente."
+    }
+]
