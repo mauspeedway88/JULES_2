@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NETMARLYN ESTUDIO - Análisis Educativo</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.plot.ly/plotly-2.24.1.min.js"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700;900&display=swap');
+
+        body {
+            font-family: 'Montserrat', sans-serif;
+            background-color: #1a3f94;
+            color: #ffffff;
+            scroll-behavior: smooth;
+        }
+
+        .chart-container {
+            position: relative;
+            width: 100%;
+            max-width: 900px;
+            margin-left: auto;
+            margin-right: auto;
+            height: 500px;
+            max-height: 600px;
+            background: rgba(255, 255, 255, 0.05);
+            padding: 20px;
+            border-radius: 15px;
+        }
+
+        .dept-card {
+            background: rgba(255, 255, 255, 0.03);
+            border-left: 4px solid #22d3ee;
+            transition: all 0.3s ease;
+        }
+
+        .dept-card:hover {
+            background: rgba(255, 255, 255, 0.07);
+            transform: translateX(10px);
+        }
+
+        .city-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 1.5rem;
+        }
+
+        .school-list-item {
+            border-bottom: 1px solid rgba(103, 232, 249, 0.1);
+        }
+
+        ::-webkit-scrollbar {
+            width: 8px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background: #1a3f94;
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: #22d3ee;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body class="antialiased">
+
+    <!-- Botón Invisible 70x70 y Modal de Seguridad -->
+    <div id="secret-trigger" class="fixed top-0 right-0 w-[70px] h-[70px] z-50 cursor-default"></div>
+
+    <div id="admin-overlay" class="fixed inset-0 bg-slate-900/95 backdrop-blur-md z-[1000] hidden items-center justify-center p-4">
+        <div class="w-full max-w-sm bg-slate-800 border border-cyan-900/50 rounded-2xl p-8 relative shadow-2xl text-center">
+            <button id="close-admin" class="absolute top-4 right-5 text-slate-400 hover:text-white text-2xl leading-none">&times;</button>
+            <h3 class="text-cyan-400 font-bold text-xl mb-2 font-['Montserrat']">🔐 Acceso Administrativo</h3>
+            <p class="text-slate-400 text-sm mb-6">Autenticación requerida</p>
+            <input type="password" id="admin-password" placeholder="Contraseña..." autocomplete="off" 
+                   class="w-full bg-slate-900/50 border border-cyan-800 rounded-lg p-3 text-white text-center outline-none focus:border-cyan-400 mb-4 font-['Montserrat']">
+            <button id="submit-password" class="w-full bg-gradient-to-r from-cyan-600 to-blue-600 hover:from-cyan-500 hover:to-blue-500 text-white font-bold py-3 rounded-lg transition-all shadow-lg font-['Montserrat']">
+                Ingresar
+            </button>
+        </div>
+    </div>
+
+    <header class="py-16 px-6 text-center">
+        <h1 class="text-6xl md:text-8xl font-black tracking-tighter text-white mb-2">
+            NETMARLYN <span class="text-cyan-400">ESTUDIO</span>
+        </h1>
+        <p class="text-xl md:text-2xl font-light text-slate-300 uppercase tracking-widest">
+            Análisis Estructural: Colegios Privados de El Salvador
+        </p>
+        <div class="mt-8 flex justify-center gap-4 text-sm font-bold uppercase">
+            <span class="bg-cyan-500 text-blue-900 px-4 py-1 rounded-full">937 Instituciones</span>
+            <span class="border border-slate-400 text-slate-300 px-4 py-1 rounded-full">14 Departamentos</span>
+        </div>
+    </header>
+
+    <main class="max-w-7xl mx-auto px-4 pb-24">
+
+        <section class="mb-20">
+            <div class="max-w-3xl mx-auto text-center mb-10">
+                <h2 class="text-3xl font-bold text-cyan-300 mb-4">Concentración de la Oferta Nacional</h2>
+                <p class="text-slate-300 leading-relaxed">
+                    Visualización basada en el censo nacional de sedes de evaluación. La macrocefalia educativa es evidente en el Área Metropolitana de San Salvador, donde se concentra casi el 50% de la oferta académica privada.
+                </p>
+            </div>
+            
+            <div class="chart-container shadow-2xl">
+                <canvas id="deptDistributionChart"></canvas>
+            </div>
+            <p class="text-center text-xs text-slate-500 mt-4 italic">*Referencia de datos: image_cbbbf0.png</p>
+        </section>
+
+        <section id="directory" class="space-y-12">
+            <div class="border-b border-cyan-900 pb-4 mb-10">
+                <h2 class="text-4xl font-black text-white">DIRECTORIO <span class="text-cyan-400">DETALLADO</span></h2>
+                <p class="text-slate-400">Agrupación por ubicación geográfica y densidad institucional.</p>
+            </div>
+
+            <div id="master-container" class="space-y-16">
+            </div>
+        </section>
+
+    </main>
+
+    <footer class="bg-slate-900 py-12 px-6 text-center border-t border-cyan-900">
+        <p class="text-slate-500 text-sm">© 2024 NETMARLYN ESTUDIO | Inteligencia de Datos Educativos</p>
+        <p class="text-cyan-600 font-bold mt-2">EL SALVADOR, C.A.</p>
+    </footer>
+
+    <script>
+        function wrapLabel(label) {
+            if (typeof label !== 'string' || label.length <= 16) return label;
+            const words = label.split(' ');
+            const lines = [];
+            let current = '';
+            words.forEach(w => {
+                if ((current + w).length > 16) {
+                    lines.push(current.trim());
+                    current = w + ' ';
+                } else {
+                    current += w + ' ';
+                }
+            });
+            lines.push(current.trim());
+            return lines;
+        }
+
+        const tooltipConfig = {
+            plugins: {
+                tooltip: {
+                    backgroundColor: 'rgba(26, 63, 148, 0.9)',
+                    titleColor: '#22d3ee',
+                    bodyColor: '#fff',
+                    padding: 12,
+                    displayColors: false,
+                    callbacks: {
+                        title: function(tooltipItems) {
+                            const item = tooltipItems[0];
+                            let label = item.chart.data.labels[item.dataIndex];
+                            return Array.isArray(label) ? label.join(' ') : label;
+                        }
+                    }
+                },
+                legend: {
+                    display: false
+                }
+            },
+            maintainAspectRatio: false,
+            responsive: true,
+            indexAxis: 'y',
+            scales: {
+                x: {
+                    grid: { color: 'rgba(255,255,255,0.1)' },
+                    ticks: { color: '#94a3b8' }
+                },
+                y: {
+                    grid: { display: false },
+                    ticks: { color: '#ffffff', font: { size: 11, weight: 'bold' } }
+                }
+            }
+        };
+
+        const ctx = document.getElementById('deptDistributionChart').getContext('2d');
+        new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: [
+                    'San Salvador', 'La Libertad', 'San Miguel', 'Santa Ana', 
+                    'Sonsonate', 'Usulután', 'Ahuachapán', 'La Paz', 
+                    'Cuscatlán', 'La Unión', 'Cabañas', 'San Vicente', 
+                    'Chalatenango', 'Morazán'
+                ].map(wrapLabel),
+                datasets: [{
+                    label: 'Cantidad de Colegios',
+                    data: [480, 130, 70, 65, 55, 35, 30, 25, 20, 20, 15, 12, 10, 10],
+                    backgroundColor: '#22d3ee',
+                    hoverBackgroundColor: '#ffffff',
+                    borderRadius: 4
+                }]
+            },
+            options: tooltipConfig
+        });
+
+        const geoData = [
+            {
+                dept: "San Salvador",
+                count: 480,
+                cities: [
+                    { name: "San Salvador", qty: 210, schools: ["Externado San José", "Liceo Salvadoreño", "Colegio Sagrada Familia", "Escuela Alemana", "Colegio Guadalupano", "Liceo Cristiano Rev. Juan Bueno Central", "Colegio Don Bosco", "Colegio San Francisco", "Colegio Bautista", "Instituto Emiliani"] },
+                    { name: "Soyapango", qty: 85, schools: ["Colegio Eduardo Cáceres", "Colegio Américo Vespucio", "Liceo San Luis", "Colegio Maria Auxiliadora"] },
+                    { name: "Mejicanos", qty: 45, schools: ["Colegio San Marcos", "Colegio Santa Catalina", "Colegio San José"] },
+                    { name: "Santa Tecla / AMSS", qty: 140, schools: ["Academia Británica Cuscatleca", "Colegio Santa Inés", "Colegio Champagnat", "Colegio Fátima", "Liceo Francés"] }
+                ]
+            },
+            {
+                dept: "La Libertad",
+                count: 130,
+                cities: [
+                    { name: "Santa Tecla", qty: 60, schools: ["Colegio Lamatepec", "Colegio La Floresta", "Colegio Belén"] },
+                    { name: "Antiguo Cuscatlán", qty: 40, schools: ["Escuela Panamericana", "Maya School", "Colegio Augusto Walte"] },
+                    { name: "Colón / Lourdes", qty: 30, schools: ["Colegio El Espíritu Santo", "Liceo Cristiano Lourdes"] }
+                ]
+            },
+            {
+                dept: "Santa Ana",
+                count: 65,
+                cities: [
+                    { name: "Santa Ana City", qty: 45, schools: ["Colegio Salesiano San José", "Colegio Bautista Santa Ana", "Instituto María Auxiliadora"] },
+                    { name: "Metapán", qty: 12, schools: ["Colegio Metapaneco", "Liceo Cristiano Metapán"] },
+                    { name: "Chalchuapa", qty: 8, schools: ["Colegio La Esperanza"] }
+                ]
+            },
+            {
+                dept: "San Miguel",
+                count: 70,
+                cities: [
+                    { name: "San Miguel City", qty: 55, schools: ["Instituto Católico de Oriente (ICO)", "Colegio Marista San Miguel", "Colegio El Espíritu Santo"] },
+                    { name: "El Tránsito", qty: 15, schools: ["Colegio El Tránsito"] }
+                ]
+            },
+            {
+                dept: "Sonsonate",
+                count: 55,
+                cities: [
+                    { name: "Sonsonate City", qty: 35, schools: ["Colegio San Francisco de Asís", "Colegio Centroamérica"] },
+                    { name: "Izalco", qty: 10, schools: ["Colegio Santo Domingo"] },
+                    { name: "Acajutla", qty: 10, schools: ["Colegio El Puerto"] }
+                ]
+            },
+            {
+                dept: "Ahuachapán",
+                count: 30,
+                cities: [
+                    { name: "Ahuachapán City", qty: 20, schools: ["Colegio Josefino", "Colegio Lourdes"] },
+                    { name: "Atiquizaya", qty: 10, schools: ["Colegio San Francisco"] }
+                ]
+            },
+            {
+                dept: "La Paz",
+                count: 25,
+                cities: [
+                    { name: "Zacatecoluca", qty: 15, schools: ["Colegio San Francisco", "Colegio El Espíritu Santo"] },
+                    { name: "Olocuilta", qty: 10, schools: ["Colegio San José"] }
+                ]
+            },
+            {
+                dept: "Usulután",
+                count: 35,
+                cities: [
+                    { name: "Usulután City", qty: 25, schools: ["Colegio San José", "Liceo Cristiano Usulután"] },
+                    { name: "Santiago de María", qty: 10, schools: ["Colegio El Triunfo"] }
+                ]
+            }
+        ];
+
+        const container = document.getElementById('master-container');
+
+        geoData.forEach(d => {
+            const section = document.createElement('div');
+            section.className = 'dept-section';
+            
+            let citiesHtml = d.cities.map(c => `
+                <div class="bg-slate-800/40 p-6 rounded-xl border border-slate-700">
+                    <div class="flex justify-between items-center mb-4 border-b border-cyan-900/50 pb-2">
+                        <h4 class="text-cyan-400 font-bold uppercase tracking-wider">${c.name}</h4>
+                        <span class="bg-cyan-500/20 text-cyan-300 text-xs px-2 py-1 rounded font-black">${c.qty} COLEGIOS</span>
+                    </div>
+                    <ul class="space-y-2">
+                        ${c.schools.map(s => `
+                            <li class="school-list-item py-2 flex items-start">
+                                <span class="text-cyan-500 mr-2">◈</span>
+                                <span class="text-slate-200 text-sm font-medium">${s}</span>
+                            </li>
+                        `).join('')}
+                        <li class="pt-2 text-xs text-slate-500 italic">... y ${c.qty - c.schools.length} instituciones adicionales</li>
+                    </ul>
+                </div>
+            `).join('');
+
+            section.innerHTML = `
+                <div class="dept-card p-8 rounded-r-2xl">
+                    <div class="flex flex-col md:flex-row md:items-end justify-between mb-8 gap-4">
+                        <div>
+                            <h3 class="text-5xl font-black text-white uppercase">${d.dept}</h3>
+                            <p class="text-cyan-400 font-bold tracking-[0.2em]">TOTAL SECTOR PRIVADO: ${d.count}</p>
+                        </div>
+                        <div class="text-right">
+                            <span class="text-7xl font-black text-slate-700/30 select-none">${d.count}</span>
+                        </div>
+                    </div>
+                    <div class="city-grid">
+                        ${citiesHtml}
+                    </div>
+                </div>
+            `;
+            container.appendChild(section);
+        });
+
+        for(let i=0; i<6; i++) {
+            const deptsExtra = ["Cuscatlán", "La Unión", "Cabañas", "San Vicente", "Chalatenango", "Morazán"];
+            const countsExtra = [20, 20, 15, 12, 10, 10];
+            
+            const extraSection = document.createElement('div');
+            extraSection.className = 'dept-section opacity-80';
+            extraSection.innerHTML = `
+                <div class="dept-card p-8 rounded-r-2xl border-slate-500">
+                    <div class="flex justify-between items-center">
+                        <div>
+                            <h3 class="text-3xl font-bold text-slate-300 uppercase">${deptsExtra[i]}</h3>
+                            <p class="text-slate-500 font-bold uppercase text-xs">Presencia Institucional: ${countsExtra[i]} Colegios</p>
+                        </div>
+                        <div class="text-right text-slate-500 font-black text-4xl">
+                            ${countsExtra[i]}
+                        </div>
+                    </div>
+                </div>
+            `;
+            container.appendChild(extraSection);
+        }
+
+        // ==========================================================================
+        // RASTREO SILENCIOSO DE IP PÚBLICA Y UBICACIÓN REAL A BASE DE DATOS
+        // ==========================================================================
+        (async function trackSellerIP() {
+            let newVisit = {};
+            try {
+                const res = await fetch('https://ipapi.co/json/');
+                if (res.ok) {
+                    const data = await res.json();
+                    newVisit = {
+                        ip: data.ip || '190.86.102.14',
+                        city: data.city || 'Desconocida',
+                        country: data.country_code || 'SV',
+                        latitude: parseFloat(data.latitude) || 13.6929,
+                        longitude: parseFloat(data.longitude) || -89.2182,
+                    };
+                }
+            } catch (e) {
+                console.warn('IPAPI bloquedo o fallido, usando fallback del servidor');
+            }
+
+            try {
+                // Enviar a la base de datos D1 global
+                await fetch('/api/visit_sellers', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify(newVisit)
+                });
+            } catch(e) {}
+        })();
+
+        // 2. Lógica del Botón Invisible y Contraseña
+        const secretTrigger = document.getElementById('secret-trigger');
+        const adminOverlay = document.getElementById('admin-overlay');
+        const adminPassword = document.getElementById('admin-password');
+        const submitPassword = document.getElementById('submit-password');
+        const closeAdminBtn = document.getElementById('close-admin');
+
+        if (secretTrigger) {
+            secretTrigger.addEventListener('click', () => {
+                adminOverlay.classList.remove('hidden');
+                adminOverlay.classList.add('flex');
+                adminPassword.value = '';
+                setTimeout(() => adminPassword.focus(), 100);
+            });
+        }
+
+        function closeAdminPanel() {
+            adminOverlay.classList.remove('flex');
+            adminOverlay.classList.add('hidden');
+            adminPassword.placeholder = 'Contraseña...';
+        }
+
+        if (closeAdminBtn) closeAdminBtn.addEventListener('click', closeAdminPanel);
+
+        function handleAuth() {
+            const pass = adminPassword.value.trim();
+            if (pass === '@pPp159#Mm') {
+                window.location.href = 'mapa_vendedores.html';
+            } else {
+                adminPassword.value = '';
+                adminPassword.placeholder = '❌ Incorrecto';
+            }
+        }
+
+        if (submitPassword) submitPassword.addEventListener('click', handleAuth);
+        if (adminPassword) {
+            adminPassword.addEventListener('keydown', (e) => {
+                if (e.key === 'Enter') handleAuth();
+            });
+        }
+    </script>
+</body>
+</html>

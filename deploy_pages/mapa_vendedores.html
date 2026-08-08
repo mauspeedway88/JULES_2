@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mapa de Vendedores - NETMARLYN</title>
+    
+    <!-- TailwindCSS & Fonts -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700;900&display=swap" rel="stylesheet">
+    
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <style>
+        body { font-family: 'Montserrat', sans-serif; background-color: #0c1527; color: #fff; margin: 0; }
+        
+        #map {
+            width: 100%;
+            height: calc(100vh - 80px);
+            background: #050a14;
+        }
+
+        /* Marcador Pulsante Neón */
+        .custom-glowing-icon {
+            position: relative;
+        }
+        .glowing-marker {
+            background-color: #22d3ee;
+            border-radius: 50%;
+            position: absolute;
+            top: 0; left: 0;
+            box-shadow: 0 0 12px #22d3ee;
+            z-index: 2;
+        }
+        .glowing-marker-pulse {
+            background-color: transparent;
+            border: 2px solid #22d3ee;
+            border-radius: 50%;
+            position: absolute;
+            top: 0; left: 0;
+            opacity: 0;
+            animation: marker-pulse 2s infinite ease-out;
+            z-index: 1;
+        }
+
+        @keyframes marker-pulse {
+            0% { transform: scale(0.5); opacity: 1; }
+            100% { transform: scale(3.2); opacity: 0; }
+        }
+
+        /* Estilo del Popup de Leaflet Dark Mode */
+        .leaflet-popup-content-wrapper {
+            background: rgba(15, 23, 42, 0.95) !important;
+            border: 1px solid rgba(34, 211, 238, 0.4) !important;
+            color: #fff !important;
+            border-radius: 12px !important;
+            backdrop-filter: blur(8px);
+            box-shadow: 0 10px 25px rgba(0,0,0,0.8);
+        }
+        .leaflet-popup-tip {
+            background: rgba(15, 23, 42, 0.95) !important;
+            border-bottom: 1px solid rgba(34, 211, 238, 0.4) !important;
+            border-right: 1px solid rgba(34, 211, 238, 0.4) !important;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Header Panel -->
+    <header class="h-[80px] bg-slate-900 border-b border-cyan-900 flex items-center justify-between px-8 shadow-2xl relative z-[1000]">
+        <div>
+            <h1 class="text-2xl font-black tracking-tight text-white">NETMARLYN <span class="text-cyan-400">RADAR</span></h1>
+            <p class="text-xs text-slate-400 uppercase tracking-widest font-bold">Monitoreo Global de Conexiones e IPs</p>
+        </div>
+        <div class="flex gap-6 text-sm font-bold">
+            <div class="text-center">
+                <span class="block text-slate-400 text-xs uppercase">Visitas Únicas</span>
+                <span id="stat-unique" class="text-2xl text-cyan-400">0</span>
+            </div>
+            <div class="text-center">
+                <span class="block text-slate-400 text-xs uppercase">Conexiones Repetidas</span>
+                <span id="stat-repeated" class="text-2xl text-blue-400">0</span>
+            </div>
+        </div>
+        <a href="index.html" class="text-slate-400 hover:text-white transition-colors text-sm font-bold border border-slate-700 px-4 py-2 rounded-lg hover:border-cyan-500">Volver</a>
+    </header>
+
+    <!-- Mapa Container -->
+    <div id="map"></div>
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script>
+        // Inicializar mapa centrado en El Salvador / Centroamérica
+        const map = L.map('map', {
+            center: [13.6929, -89.2182],
+            zoom: 7,
+            minZoom: 3,
+            zoomControl: true
+        });
+
+        // Capa oscura elegante tipo radar (CARTO Dark Matter)
+        L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+            attribution: '&copy; OpenStreetMap &copy; CARTO',
+            subdomains: 'abcd',
+            maxZoom: 19
+        }).addTo(map);
+
+        const markerGroup = L.layerGroup().addTo(map);
+
+        function createGlowingIcon() {
+            const size = '14px';
+            const pulseStyle = 'width:34px; height:34px; margin-left:-10px; margin-top:-10px;';
+            return L.divIcon({
+                className: 'custom-glowing-icon',
+                html: `
+                    <div class="glowing-marker" style="width:${size}; height:${size};"></div>
+                    <div class="glowing-marker-pulse" style="${pulseStyle}"></div>
+                `,
+                iconSize: [14, 14],
+                iconAnchor: [7, 7]
+            });
+        }
+
+        function getFlagEmoji(countryCode) {
+            if (!countryCode || countryCode.length !== 2) return '🌐';
+            const codePoints = countryCode
+                .toUpperCase()
+                .split('')
+                .map(char => 127397 + char.charCodeAt(0));
+            return String.fromCodePoint(...codePoints);
+        }
+
+        function timeAgo(dateString) {
+            if (!dateString) return 'Hace instantes';
+            const date = new Date(dateString);
+            const now = new Date();
+            const seconds = Math.floor((now - date) / 1000);
+            if (seconds < 60) return 'Hace instantes';
+            const minutes = Math.floor(seconds / 60);
+            if (minutes < 60) return `Hace ${minutes}m`;
+            const hours = Math.floor(minutes / 60);
+            if (hours < 24) return `Hace ${hours}h`;
+            return date.toLocaleDateString() + ' ' + date.toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'});
+        }
+
+        function escapeHtml(value) {
+            return String(value ?? '').replace(/[&<>'"]/g, char => ({
+                '&': '&amp;',
+                '<': '&lt;',
+                '>': '&gt;',
+                "'": '&#39;',
+                '"': '&quot;'
+            }[char]));
+        }
+
+        // Cargar Estadísticas y Dibujar en el Mapa
+        async function loadRadarData() {
+            try {
+                markerGroup.clearLayers();
+
+                // Obtener datos globales exclusivamente desde D1.
+                let dbVisits = [];
+                try {
+                    const dbRes = await fetch('/api/visit_sellers?t=' + Date.now(), {
+                        cache: 'no-store',
+                        headers: {
+                            'Pragma': 'no-cache',
+                            'Cache-Control': 'no-cache'
+                        }
+                    });
+                    if (dbRes.ok) {
+                        const dbData = await dbRes.json();
+                        if (dbData && dbData.visits) {
+                            dbVisits = dbData.visits;
+                        }
+                    }
+                } catch(e) {
+                    console.error('Error fetching DB visits', e);
+                }
+
+                const allVisits = dbVisits;
+
+                let uniqueLocations = new Set();
+                let repeatedCount = 0;
+                const coordCount = {};
+
+                allVisits.forEach(v => {
+                    const rawLat = parseFloat(v.latitude);
+                    const rawLng = parseFloat(v.longitude);
+
+                    if (!isNaN(rawLat) && !isNaN(rawLng)) {
+                        const locKey = `${rawLat.toFixed(4)}_${rawLng.toFixed(4)}`;
+
+                        if (uniqueLocations.has(locKey)) {
+                            repeatedCount++;
+                        } else {
+                            uniqueLocations.add(locKey);
+                        }
+
+                        coordCount[locKey] = (coordCount[locKey] || 0) + 1;
+                        const jitterRadius = 0.012;
+                        const angle = (coordCount[locKey] - 1) * (2 * Math.PI / 8); 
+                        const jitterLat = coordCount[locKey] > 1 ? rawLat + jitterRadius * Math.sin(angle) : rawLat;
+                        const jitterLng = coordCount[locKey] > 1 ? rawLng + jitterRadius * Math.cos(angle) : rawLng;
+
+                        const marker = L.marker([jitterLat, jitterLng], {
+                            icon: createGlowingIcon()
+                        });
+
+                        const popupContent = `
+                            <div style="font-family:'Montserrat', sans-serif; text-align:center; padding: 6px; min-width: 150px;">
+                                <div style="font-size: 1.1rem; font-weight: 800; color: #22d3ee; margin-bottom: 3px;">
+                                    ${getFlagEmoji(v.country)} ${escapeHtml(v.city || 'Ubicación no disponible')}
+                                </div>
+                                <div style="font-size: 0.78rem; color: #ef4444; font-weight: 800; background: rgba(239, 68, 68, 0.1); padding: 2px 6px; border-radius: 4px; display: inline-block; margin-bottom: 4px;">
+                                    IP: ${escapeHtml(v.ip || 'No disponible')}
+                                </div>
+                                <div style="font-size: 0.7rem; color: #94a3b8; font-weight: 600;">
+                                    Conectado: ${timeAgo(v.timestamp)}
+                                </div>
+                            </div>
+                        `;
+
+                        marker.bindPopup(popupContent, { closeButton: false });
+                        markerGroup.addLayer(marker);
+                    }
+                });
+
+                document.getElementById('stat-unique').textContent = uniqueLocations.size;
+                document.getElementById('stat-repeated').textContent = repeatedCount;
+
+            } catch (err) {
+                console.error('Error cargando el radar:', err);
+            }
+        }
+
+        // Ejecutar inmediatamente
+        loadRadarData();
+
+        // Autorefresco cada 15 segundos
+        setInterval(loadRadarData, 15000);
+    </script>
+</body>
+</html>
